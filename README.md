@@ -1,7 +1,7 @@
 # Evaluating Large Language Models via Linguistic Profiling
 
 <p align="center">
-    <img src="img/Probing_Generation_LLM.png" width="900"/>
+    <img src="img/Probing_Generation_LLM.png" width="800"/>
 </p>
 
 
