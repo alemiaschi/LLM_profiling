@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The rain fell steadily on the city. (0 postverbal objects)	0
+13	1	2	1	0	0	2	2	0	0	1	1	1	2	3.0	10	1	1	1	0	0	0	1	Max stared intently at the intricate design on the vase without blinking.	0
+10	0	1	1	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The dog chased the cat quickly down the street.	0
+25	0	4	2	0	2	3	4	0	2	1	2	0	5	5.0	10	1	1	3	0	0	0	3	Sarah quickly walked home through the pouring rain, but her umbrella opened in the wind and she ended up soaked to the bone.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun sets in the west.	0
+5	0	1	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat sat down.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun sank slowly in the sky.	0
+13	1	2	1	0	0	3	3	0	0	0	2	0	1	2.0	4	0	0	1	0	0	0	1	In the quiet cottage, the cat purred contentedly on the windowsill.	0
+7	0	0	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The dog chased the cat quickly.	0
+6	2	0	0	1	1	1	1	0	0	0	0	0	0	2.0	2	0	0	1	0	0	0	1	The sky is blue and calm	0
+12	0	3	0	1	0	1	2	0	2	1	1	0	1	3.0	5	0	0	1	0	0	0	1	Maria will go to the park with nothing in her hands.	0
+10	2	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The big, fluffy cat purred contentedly on my lap	0
+8	0	2	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat curled up on the windowsill.	0
+6	1	1	1	0	0	0	0	0	0	2	0	0	1	2.0	4	0	0	1	0	0	0	1	John ran swiftly down Main Street	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun sets in the west.	0
+12	0	2	1	0	0	1	3	0	0	1	1	0	2	3.0	7	1	1	1	1	0	1	1	Jane quickly walked into the store in order to buy candy. 	0
+13	1	3	1	0	0	1	3	0	1	0	2	0	1	3.0	4	0	0	1	0	0	0	1	Without hesitation, she boldly strode across the vast expanse of sand.	0
+11	0	1	2	1	0	1	1	0	2	0	1	1	1	4.0	3	0	0	2	0	0	0	2	He ran as fast as he could down the hallway.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The monkey sat alone on the branch.	0
+11	1	1	0	0	0	2	5	0	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	Jazz music fills the air with a rhythmic humming sound.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+7	0	1	1	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	0	1	The sun rose slowly over the horizon	0
+8	1	0	0	1	0	1	1	0	1	0	1	1	1	3.0	2	1	1	1	0	0	0	1	I am tired of working every day. 	0
+10	2	2	0	0	0	2	3	0	0	0	0	0	1	2.0	7	0	0	1	0	0	0	1	The flamingo glided down the water with graceful smooth strokes	0
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat chased the mouse.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+8	0	1	1	0	0	1	1	0	1	0	1	0	2	3.0	4	1	1	1	0	0	0	1	I love running alone in the morning.	0
+12	1	1	1	0	0	2	2	0	1	0	1	1	2	3.0	4	1	1	2	0	0	0	2	The cat slowly purred as it rested in the warm sunlight.	0
+10	0	1	0	0	0	2	3	0	1	0	1	0	2	3.0	6	1	1	2	1	0	1	2	The dog chased the cat with its tail fluffed.	0
+9	0	1	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The cat sat on the tree branch silently.	0
+8	1	1	0	0	0	1	3	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The storm cloud churned with electric intensity.	0
+5	0	0	0	0	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	I have a cat. ( zero objects )	0
+9	0	0	2	0	1	1	1	0	1	0	2	0	1	3.0	5	0	0	1	1	0	1	1	Slowly and silently, she closed the door.	0
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap	0
+4	1	0	0	1	0	0	1	0	0	0	1	0	0	1.0	2	0	0	1	0	0	0	1	Sunsets are beautiful. (0 postverbal objects)	0
+11	0	2	0	0	0	2	4	0	0	1	1	0	1	2.0	4	0	0	1	0	0	0	1	Under the setting sun, Tom sprinted towards the finish line	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+14	2	1	0	0	0	0	2	1	3	0	1	0	3	5.0	4	2	2	2	1	0	1	2	She has two blue scarves that she likes to wear on cold days.	0
+9	0	2	0	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The dog ran across the field with excitement.	0
+13	1	2	0	1	1	3	3	0	0	0	1	0	1	3.0	6	0	0	1	0	0	0	1	The cat is orange and sleeps on the windowsill during the day.	0
+10	1	1	0	0	0	2	3	0	0	1	1	0	1	2.0	7	0	0	1	1	0	1	1	Moonlight casts a silver glow on the sleeping village.	0
+7	0	0	0	0	0	0	2	1	2	0	0	0	2	3.0	2	1	1	2	2	0	2	2	I have two dogs that chase sticks	0
+7	0	1	1	0	0	1	1	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	She walked quickly down the street. (1 sentence, 0 postverbal objects)	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rose over the ocean.	0
+8	0	2	0	0	0	1	2	0	1	1	0	0	1	2.0	6	0	0	1	0	0	0	1	Nina ran around the park without her dog	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred contentedly.	0
+13	0	3	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	0	0	0	1	The cat sat on the windowsill and gazed out at the birds.	0
+6	0	1	0	0	0	1	1	0	0	1	1	0	1	2.0	3	0	0	1	0	0	0	1	Jane ran down the hill. (One sentence, with 0 postverbal objects.)	0
+14	0	1	0	2	0	3	4	0	0	0	1	1	2	3.0	8	1	1	2	0	0	0	2	The candy jar was placed on the counter after the groceries were unpacked. 	0
+6	0	0	1	0	0	0	1	1	0	1	1	0	1	2.0	3	0	0	1	1	0	1	1	Bob ate three apples quickly.	1
+14	0	2	1	0	1	3	4	0	0	0	1	0	2	3.0	6	0	0	1	0	0	0	1	The cat sat on the window perch and looked out at the bird.	1
+11	0	2	0	0	0	2	3	0	1	1	1	0	1	2.0	8	0	0	1	1	0	1	1	Jason caught a butterfly on the grass with his hands.	1
+19	3	3	0	0	1	3	5	0	0	2	1	0	1	4.0	11	0	0	1	1	0	1	1	The manager presented the new sales strategies to the entire team with enthusiastic nods from Jon and Maria.	1
+13	1	1	1	1	1	2	2	0	1	0	1	0	2	3.0	7	0	0	1	1	0	1	1	I have walked around the entire city and finally reached the park.	1
+7	0	0	0	0	0	2	2	0	0	1	1	0	1	2.0	4	0	0	1	2	0	2	1	Bob fed the cat a mouse.	1
+14	0	3	0	0	1	4	4	0	0	0	1	0	1	3.0	6	0	0	1	0	0	0	1	The cat played with the mouse among the grass and under the sun.	1
+14	2	1	0	0	0	2	4	0	0	0	1	1	3	2.0	7	1	1	1	2	0	2	1	The quick brown fox jumps roped reindeer across the river while eating strawberries.	1
+11	0	1	1	0	0	2	4	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The tourists carefully carried their souvenirs through the baggage claim.	1
+15	0	2	1	0	0	4	4	0	0	0	1	1	2	3.0	8	1	1	1	1	0	1	1	The dog chased the cat around the tree quickly before running into the house.	1
+11	1	1	0	0	0	2	3	0	1	0	1	0	1	3.0	8	0	0	1	1	0	1	1	I bought a big apple from the farmer's market.	1
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	My dog ran quickly across the park. (1 adjective + 1 noun + 1 preposition + 1 noun)	1
+9	0	1	1	0	0	3	3	0	0	0	0	0	1	2.0	6	0	0	1	1	0	1	1	The dog chased the squirrel quickly around the park	1
+23	2	3	0	0	1	3	6	3	0	1	1	0	2	4.0	11	1	1	1	2	0	2	1	The manager asked the employee to submit the report by Friday at 10 am with 10 hard copies and 5 electronic copies.	1
+8	0	1	1	0	0	2	2	0	0	1	0	0	1	2.0	6	0	0	1	1	0	1	1	Melody read the book quickly with a pencil	1
+9	0	1	1	1	0	2	3	0	0	0	0	0	1	2.0	5	0	0	1	0	0	0	1	The sun was shining brightly on the newborn calf	1
+9	0	1	0	0	1	1	3	0	1	0	1	0	1	3.0	4	0	0	1	1	0	1	1	She ate a sandwich with cheese and mustard.	1
+18	1	2	0	0	0	2	5	0	2	1	1	1	2	3.0	10	1	1	2	1	0	1	2	Maria's cat chased her new toy across the living room before it fell under the couch.	1
+13	0	1	0	0	1	2	4	0	1	0	0	0	3	5.0	5	1	1	1	1	0	1	1	I need to go to the store and buy some bread milk eggs	1
+11	0	0	1	0	0	1	3	0	1	1	1	1	2	3.0	5	1	1	1	2	0	2	1	John ate an apple quickly before taking his phone call.	1
+9	0	1	0	0	0	1	3	2	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The teacher handed five books to ten students.	1
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	0	1	The cat purred contentedly on Tom's lap.	1
+11	0	2	0	0	0	3	4	0	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	The cat chased the mouse around the room with excitement.	1
+12	1	1	0	0	0	1	4	0	2	0	1	0	1	3.0	9	0	0	1	1	0	1	1	She bought a new laptop for her children's school project.	1
+14	1	2	1	0	0	2	4	0	0	1	1	0	1	3.0	5	0	0	1	0	0	0	1	Mary's cat purred contentedly beneath the branches of the tall oak tree. (1 postverbal object: the branches of the tall oak tree)	1
+11	0	1	0	1	1	1	2	1	0	1	1	0	2	3.0	5	0	0	1	1	0	1	1	Jim has walked to the store and bought ten apples. 	1
+23	2	3	2	0	1	4	5	0	1	0	2	0	3	4.0	7	1	1	1	1	0	1	1	The man in the suit walked slowly down the deserted street, holding a small suitcase and speaking animatedly on his phone.	1
+12	1	2	0	0	0	1	4	1	1	0	1	0	1	4.0	9	0	0	1	1	0	1	1	She enjoyed dancing with three friends at the party last night.	1
+14	1	3	0	0	0	2	4	0	1	0	0	0	2	4.0	8	1	1	1	1	0	1	1	I love to read novels during the summer after a long day at work	1
+11	0	2	0	0	0	1	3	1	2	0	1	0	1	2.0	8	0	0	1	1	0	1	1	She bought three apples with her change at the store.	1
+18	0	2	1	0	2	3	5	0	2	0	1	0	2	3.0	9	0	0	1	2	0	2	1	The student carefully took the books and pens from the desk and put them in her backpack.	1
+33	2	2	1	0	1	2	7	0	4	1	6	0	6	6.0	6	5	4	3	1	1	1	3	With the new employee's first day approaching, Alice carefully prepared for her training session, ensuring she had everything she needed, including a notebook, pen, and water.	1
+9	0	1	0	0	0	1	3	0	2	0	1	0	1	2.0	6	0	0	1	1	0	1	1	She fed the cat cheese with her fingers.	1
+11	0	2	0	0	0	3	4	0	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	The cat chased the mouse across the kitchen with excitement. (Only one postverbal object: mouse)	1
+11	0	1	0	0	0	2	4	1	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The team scored three goals against the opponent's defense.	1
+17	2	2	1	0	1	3	6	0	0	0	0	0	2	4.0	7	0	0	1	1	0	1	1	The team manager presented to the players the newly designed uniform with yellow trim and red numbers	1
+9	0	0	0	1	0	2	2	0	0	1	0	1	2	3.0	4	1	1	1	2	0	2	1	John is drinking a smoothie while eating a sandwich	1
+13	0	3	0	0	1	2	4	0	2	0	0	0	1	4.0	11	0	0	2	0	0	0	2	She walked into the building with the keys and coat in her hand	1
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	1
+13	0	2	0	0	1	1	3	0	3	0	1	0	2	5.0	3	1	1	1	0	0	0	1	I walked to the park accompanied by my brother and our dog.	1
+8	0	0	0	0	1	0	2	2	0	1	1	0	1	3.0	3	0	0	1	1	0	1	1	Mary has two cats and three dogs. 	1
+15	0	2	1	0	0	3	4	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The horse galloped across the field, kicking its tail high in the air.	1
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the cat around the house. 	1
+10	1	0	0	0	0	1	2	0	1	1	1	0	2	3.0	3	1	1	1	2	0	2	1	The teacher asked Sarah to bring her new pen.	1
+13	0	2	2	0	0	3	3	0	0	1	1	0	1	3.0	6	0	0	1	1	0	1	1	Maria quickly put the books on the desk next to the computer.	1
+24	5	3	0	0	1	2	7	0	0	1	3	0	2	6.0	8	1	1	1	1	0	1	1	Bauhaus architecture incorporates pure geometric forms, functional simplicity, and a new type of design based on the concept of mass production.	1
+24	2	3	1	0	0	4	7	0	0	1	4	0	2	5.0	10	1	1	1	1	0	1	1	Melanie quickly dusted the shelves with the feather-light duster, reaching for the sparkling vase on the right-hand shelf.	1
+20	2	4	1	0	0	1	6	0	2	1	2	0	1	3.0	10	0	0	1	1	0	1	1	With excitement in her voice, Sarah enthusiastically shared her favorite recipe for homemade chocolate cake with the group.	1
+9	0	1	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The monkey hung its banana from a branch.	1
+12	2	0	0	0	1	1	4	1	0	1	1	0	1	3.0	6	0	0	1	1	0	1	1	Betty fed the fluffy cat and fat cats two tasty treats. 	2
+12	1	0	0	0	1	3	4	0	0	1	1	0	1	3.0	4	0	0	1	2	0	2	1	The coach handed Jack a new jersey and a water bottle. 	2
+13	0	2	1	0	0	2	5	0	0	0	1	0	1	4.0	6	0	0	1	0	0	0	1	The cat purred contentedly in front of the dog's wagging tail.	2
+11	0	2	0	0	0	3	4	0	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	The cat chased the mouse around the room with excitement.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse through the grass.	2
+6	0	0	0	0	1	1	1	0	0	0	2	0	1	2.0	2	0	0	1	0	0	0	1	The dog chased ______________ and ______________.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse through the grass.	2
+14	0	1	0	0	1	2	6	2	0	0	1	0	1	3.0	6	0	0	1	2	0	2	1	The butcher gave the customer two pounds of ground beef and three steaks.	2
+21	0	2	1	0	1	3	5	1	1	1	2	1	2	4.0	7	1	0	1	2	1	2	1	After finally completing the project, Tom received a round of applause and a $100 bonus from his boss.	2
+8	0	1	0	0	0	2	2	0	0	0	2	0	1	2.0	4	0	0	1	0	0	0	1	The cat sat on the _______________ chair.	2
+21	0	2	2	1	1	0	6	0	2	1	2	0	2	4.0	13	0	0	2	0	0	0	2	Mary's cat purred contentedly on her lap, and her boyfriend's birthday present was wrapped thoughtfully in paper.	2
+9	0	0	0	0	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	He gave her the book and the flowers.	2
+6	0	0	0	0	0	1	2	1	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The man ate two apples. 	2
+10	1	0	1	0	1	2	2	0	0	0	0	0	3	2.0	5	1	1	1	1	0	1	1	The cat quickly ate the tasty rat and began jumping	2
+10	1	0	0	0	1	3	2	0	1	0	1	0	1	3.0	4	0	0	1	2	0	2	1	She gave the baby a sweet and a toy.	2
+14	0	2	0	0	0	0	5	1	1	2	2	0	1	3.0	11	0	0	1	1	0	1	1	Jennifer gave two teddy bears to her daughter as post- Christmas gifts. 	2
+10	2	1	0	0	0	2	2	0	1	0	1	0	1	2.0	7	0	0	1	1	0	1	1	She ate a big apple with a small banana.	2
+12	1	1	0	0	1	3	3	0	0	2	0	0	1	4.0	4	0	0	1	2	0	2	1	John gave the teacher a book and a nice card on Friday	2
+13	0	2	0	0	1	2	2	0	0	3	1	0	2	3.0	6	0	0	1	2	0	2	1	John handed the book to Sarah and gave the pen to Tom.	2
+12	1	0	0	0	1	3	4	0	2	0	0	0	1	3.0	10	0	0	1	2	0	2	1	She gave her brother and the friend each a new video game	2
+9	0	0	0	0	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	She gave him a smile and a hug.	2
+11	1	0	1	0	0	1	2	1	1	0	1	1	2	2.0	6	1	1	2	1	0	1	2	The bird sang two sweet songs before it flew away.	2
+13	0	1	0	0	2	3	3	0	0	1	1	0	2	4.0	5	0	0	1	1	0	1	1	Jane walked to the store and bought a book and a scarf.	2
+21	1	3	0	2	2	1	6	0	2	1	2	0	0	4.0	9	0	0	2	0	0	0	2	The book about sports and technology was on John's desk, and his new headphones were in his ears.	2
+15	0	3	0	0	0	5	5	0	0	0	1	0	1	3.0	11	0	0	2	1	0	1	2	The cat chased the mouse under the bed with the broom in the corner.	2
+11	0	1	0	0	1	3	3	0	0	0	1	0	2	3.0	4	0	0	2	0	0	0	2	The cat purred and the mouse nibbled at the crumb.	2
+15	1	2	0	0	1	2	3	0	1	1	1	0	3	4.0	9	1	1	1	1	0	1	1	Maria enjoyed playing with her favorite dolls on the couch and reading a book.	2
+13	1	0	0	0	1	4	4	0	0	1	0	0	2	3.0	8	0	0	2	3	0	3	2	Margo gave the doctor a thermometer and the test results a warm smile	2
+11	0	1	0	0	1	1	1	2	2	0	0	0	2	3.0	4	0	0	1	2	0	2	1	I found two baseballs and bought them for $20 each	2
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased two squirrels around the tree.	2
+7	0	0	0	0	1	2	2	0	1	0	0	0	1	3.0	3	0	0	1	1	0	1	1	He threw the apple and the orange	2
+9	0	0	0	1	0	1	1	0	1	2	1	0	2	3.0	3	1	1	2	1	0	1	2	Maria will read the book that John recommended. 	2
+11	0	1	1	0	1	3	3	0	0	0	0	0	2	3.0	6	0	0	1	1	0	1	1	The horse ran quickly across the field and chased the rabbit	2
+12	0	2	0	0	1	2	2	0	0	3	1	0	1	4.0	4	0	0	1	1	0	1	1	John gave a book to Tim and a pencil to Sarah.	2
+7	1	0	0	0	1	2	2	0	0	0	0	0	1	3.0	3	0	0	1	1	0	1	1	Mom ate the apple and the orange	2
+8	0	0	0	0	0	2	3	1	0	0	1	0	1	2.0	4	0	0	1	2	0	2	1	The teacher handed the students two calculators.	2
+12	0	2	1	0	0	2	3	0	1	0	0	1	2	3.0	6	1	1	1	0	0	0	1	The cat purred contentedly beneath the trees while playing with its mouse	2
+12	0	1	0	0	0	1	3	0	2	0	2	0	2	3.0	6	1	0	1	1	1	1	1	Running down the stairs, he caught his brother's ball. (2 objects: stairs, ball)	2
+18	0	3	2	0	1	3	4	0	1	0	2	0	2	3.0	9	0	0	2	0	0	0	2	The cat purred loudly on my lap, and the mouse escaped quickly from under the bed.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the cat around the tree.	2
+13	0	2	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat chased the rat under the bed and into the hole.	2
+10	2	1	1	0	0	1	1	0	0	1	2	0	1	2.0	7	0	0	1	0	0	0	1	Mary walked slowly down the long, crowded hill. 	2
+13	0	2	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat chased the laser across the room and onto the windowsill.	2
+19	0	2	2	0	0	3	5	0	0	1	2	1	2	3.0	10	1	1	2	0	0	0	2	The cat purred contentedly on John's lap, while the dog barked loudly at the fire hydrant.	2
+11	0	1	0	0	2	2	3	0	1	0	1	0	1	3.0	8	0	0	1	1	0	1	1	She ate both the apple and the pear with excitement.	2
+12	0	0	0	0	1	2	2	0	2	0	2	0	3	3.0	4	1	1	1	3	0	3	1	The dog chased the cat, catching it and hurting it.	2
+11	0	2	0	1	0	2	3	0	0	2	0	0	1	2.0	8	0	0	1	1	0	1	1	Betty will deliver the package to Sarah at the convenience store	2
+13	1	3	0	0	0	3	4	0	1	0	0	0	1	3.0	7	0	0	1	0	0	0	1	The cat pounced on the mouse with a swift motion at its paws	2
+14	2	2	0	0	1	1	4	0	0	1	2	0	1	5.0	5	0	0	1	1	0	1	1	Max bought a new pair of soccer cleats and warm-up shirt. 	2
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	0	1	The cat purred softly on Judy's lap.	2
+14	0	2	0	0	1	2	3	2	1	0	1	0	2	4.0	7	0	0	1	2	0	2	1	The cat chased three mice through the field and caught two of them.	3
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	0.0	0	0	0	0	0	0	0	0	Brown Fox quickly chased Red Deer across rough mountainside to reach safety before heavy rain started	3
+21	2	2	0	0	1	3	7	1	0	1	3	0	1	4.0	18	0	0	1	1	0	1	1	Mary bought three red roses, a small teddy bear, and a bag of candy at the flower shop.	3
+16	1	1	0	0	1	1	4	3	0	1	3	0	1	3.0	13	0	0	1	1	0	1	1	Maria bought three red apples, four bananas, and five oranges at the store.	3
+19	4	3	0	0	0	3	4	0	1	0	2	0	2	4.0	6	1	1	1	0	0	0	1	The big brown bear climbed up the tall tree, grabbing onto the green branches with his paws.	3
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred loudly on my lap.	3
+12	0	1	0	0	1	0	4	1	0	1	3	0	1	4.0	5	0	0	1	1	0	1	1	Mia ate three sandwiches with cheese, meat, and vegetables. 	3
+25	0	5	1	1	1	2	3	0	2	3	3	0	4	6.0	7	2	2	2	0	0	0	2	Jane ran quickly through the park, chasing after her dog Lucky, and catching up to Bob who was biking down the path.	3
+8	1	1	1	0	0	1	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	Birds chirped excitedly around the tall trees. 	3
+23	1	2	0	0	1	4	6	0	1	2	3	1	2	7.0	7	1	1	1	3	0	3	1	John gave Maria the red flowers, the book, and the key in appreciation for her help in planning the event. 	3
+13	2	2	0	0	0	2	4	1	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The cute little boy chased three butterflies with excitement around the garden.	3
+10	0	1	1	0	0	2	3	1	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The dog chased three rabbits quickly through the woods. 	3
+14	1	2	0	0	0	1	6	0	1	1	0	0	1	3.0	12	0	0	1	1	0	1	1	Jen bought a pink coat with silver buckles for her sister's birthday party	3
+11	1	1	1	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	"The cat chased three mice quickly through the small window. *Note: The postverbal objects are ""mice,"" ""quickly,"" and ""small window.""**"	3
+22	1	0	1	0	1	3	5	0	1	1	3	1	4	4.0	11	1	1	1	4	0	4	1	Liz enjoyed the beautiful sunset while simultaneously holding her friend's hand, eating a sandwich, and singing a song.	3
+14	2	1	0	0	1	1	2	0	0	5	1	0	1	3.0	12	0	0	0	0	0	0	0	Happy birthday Mrs. Johnson John, Emily and Sarah with a large baked ham	3
+20	1	3	0	1	1	2	4	0	2	2	3	0	1	3.0	15	0	0	1	0	0	0	1	The book was read by John, Sarah, and me in a quiet library during our summer vacation.	3
+12	4	1	1	0	0	2	2	0	0	0	1	0	1	2.0	6	0	0	1	0	0	0	1	The big blue elephant trumpeted loudly into the small green forest.	3
+10	0	1	0	0	0	3	3	1	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The cat chased the three mice under the tree.	3
+20	3	3	0	0	1	3	6	1	0	0	1	0	2	4.0	13	0	0	1	1	0	1	1	The chef plated three fat trout and a handful of tender greens on a gleaming slab of white marble.	3
+14	0	2	0	0	1	2	4	1	1	0	1	0	2	3.0	7	0	0	1	1	0	1	1	The monkey grasps three bananas in its hand and jumps from the tree.	3
+17	0	2	0	1	0	2	4	1	2	0	1	1	2	3.0	11	2	2	2	0	0	0	2	The cat played with its three toys in the sunroom until it was time to eat.	3
+19	0	3	0	0	1	5	5	1	0	0	3	0	1	3.0	10	0	0	1	1	0	1	1	The cat chased the three mice across the floor, under the table, and into the corner.	3
+11	0	1	1	0	0	2	3	0	0	0	2	0	2	3.0	7	0	0	1	0	0	0	1	The cat purred contentedly among the catnip-scented towels. 	3
+21	0	2	0	0	1	6	6	0	0	0	3	0	3	3.0	14	0	0	3	1	0	1	3	The dog chased the cat, the squirrel scampered up the tree, and the children played in the park. 	3
+21	1	1	0	0	0	2	6	2	1	0	4	1	3	4.0	8	2	2	1	3	0	3	1	"The coach gave the soccer ball three powerful kicks before yelling, ""Pass it to player number five!"""	3
+12	1	2	0	1	0	0	4	1	0	1	1	0	1	3.0	8	0	0	1	1	0	1	1	Mary is reading three books about space exploration with great enthusiasm.	3
+29	0	4	0	1	1	5	7	1	0	1	5	0	4	4.0	13	1	1	1	4	0	4	1	In the kitchen, Mary was cooking breakfast, stirring the eggs with one spoon, adding pepper with another, and flipping the pancakes with a third.	3
+10	1	1	0	0	0	3	3	1	0	0	0	0	1	2.0	7	0	0	1	1	0	1	1	The cat chased the three mice across the dark forest	3
+18	1	2	2	0	1	1	3	1	2	1	1	0	3	4.0	6	1	1	2	1	0	1	2	Mary purchased three new books after work, which she read on the train home and enjoyed thoroughly	3
+10	1	0	0	0	1	1	3	0	0	1	2	0	1	3.0	5	0	0	1	1	0	1	1	Mary has a new dress, shoes, and purse	3
+18	2	3	0	0	1	1	5	0	1	1	3	0	1	3.0	15	0	0	1	0	0	0	1	Sally ran to the store with new socks, eggs, and orange juice in her bag.	3
+16	0	3	0	0	0	1	3	1	1	2	1	1	3	4.0	7	2	2	2	1	0	1	2	Brian purchased three apples with change after he finished exercising at the gym with Sarah. 	3
+8	0	1	0	0	0	1	3	1	0	1	0	0	1	3.0	4	0	0	1	2	0	2	1	Jane fed the cat three slices of meat	3
+21	0	3	0	1	1	2	6	0	1	1	1	1	4	5.0	6	2	2	1	2	0	2	1	Brian will go skiing in the mountains and catch snowflakes with his tongue while holding the snowman craft from school. 	3
+10	0	0	0	0	1	1	3	0	1	0	3	0	1	3.0	5	0	0	1	1	0	1	1	She ate the apple, orange, and banana.	3
+16	0	2	1	0	0	3	4	2	0	0	1	1	2	3.0	8	1	1	1	2	0	2	1	The cat chased three mice around the house before finally catching one beneath the sofa.	3
+19	1	4	0	0	0	3	4	1	0	1	2	0	2	3.0	9	1	1	1	1	0	1	1	The teacher handed over three exams to the student, to complete by Friday, for a perfect grade	3
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball through the tree.	3
+21	0	2	1	0	1	5	5	0	1	0	4	0	2	3.0	7	1	0	1	1	1	1	1	Running quickly through the forest, he caught a fish with a redberry, a clover, and a butterfly. 	3
+14	0	1	0	0	1	2	5	0	1	0	3	0	1	3.0	11	0	0	1	1	0	1	1	He bought some apples, bananas, and oranges at the grocery store.	3
+10	0	0	0	0	0	1	2	1	0	3	1	0	2	4.0	3	1	1	2	2	0	2	2	Bob gave a book Mark read three times John.	3
+14	0	1	0	0	0	3	5	1	0	0	1	1	2	3.0	10	1	1	2	1	0	1	2	The waiter served three customers drinks at the bar after the party ended.	3
+20	0	2	3	0	2	3	4	0	1	0	2	0	3	5.0	6	1	1	2	0	0	0	2	The cat sat on the mat and purred softly, its tail swishing back and forth around the corner.	3
+16	0	2	1	0	1	0	5	2	1	0	2	0	2	4.0	9	0	0	1	2	0	2	1	He ate three sandwiches with cheese and pickles, then drank three glasses of milk.	3
+8	0	1	1	0	0	1	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	Trees fell quietly towards the forest floor.	3
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The car chased three rabbits down the hill.	3
+28	6	2	1	0	2	4	6	0	0	0	4	0	3	7.0	9	2	2	1	1	0	1	1	The tourists walked slowly through the beautiful, historic streets, admiring the tall, ornate buildings and the numerous small squares lined with cafés and shops.	3
+20	1	2	0	0	1	4	7	1	0	0	3	0	1	4.0	9	0	0	1	2	0	2	1	The teacher gave three students a blue ribbon, a certificate of achievement, and a bag of candy.	3
+14	0	2	0	0	0	4	4	0	0	0	1	0	2	3.0	7	1	1	1	1	0	1	1	The cat chased the mouse up the tree to hide among the acorns.	3
+15	0	3	0	0	0	4	5	0	0	0	1	0	2	4.0	8	1	1	1	1	0	1	1	The cat chased the mouse through the bushes with the children watching in amazement.	5
+26	1	3	1	0	1	4	4	0	2	1	4	0	5	3.0	20	0	0	1	4	0	4	1	Mary bought a new car, drove it home, got out of the car, closed the door, and parked it in the garage	5
+49	1	10	0	1	1	8	15	0	5	0	5	0	3	8.0	13	2	2	3	0	0	0	3	The manager walked out of the room with the reports on her desk, her coffee cup in hand, her phone ringing with a pressing call, a look of concern on her face, and a frown towards the employee who was late for the meeting.	5
+20	0	2	0	0	1	1	4	1	2	4	4	0	1	3.0	10	0	0	1	0	0	0	1	Melvin walked to the grocery store with his friends Tom, Sarah, Jack, and their three dogs.	5
+19	0	1	0	0	1	3	8	0	0	0	5	0	1	3.0	15	0	0	1	1	0	1	1	The chef prepared the fish, vegetables, herbs, sauces, and spices for the gourmet meal.	5
+14	2	2	0	0	0	4	4	0	0	0	1	0	1	2.0	10	0	0	1	1	0	1	1	The cat chased the mouse through the dark house to the hidden hole. 	5
+12	2	1	1	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	The cat quickly chased five fast moles through the green grass.	5
+15	4	2	1	0	0	2	3	1	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	A bright flamingo stood regally on three red logs in the shallow yellow water. 	5
+17	0	3	1	0	1	2	4	2	1	0	1	0	2	4.0	10	0	0	1	2	0	2	1	The cat chased three mice through the grass with excitement and then caught two of them.	5
+35	4	3	1	0	1	5	9	0	1	0	4	1	6	4.0	22	2	2	1	5	0	5	1	The tourists happily hiked the mountain enjoying the scenic views, took pictures with the friendly wildlife, ate local foods for lunch, and admired a spectacular sunset before returning to their camp.	5
+24	2	4	1	0	1	4	6	0	0	0	1	1	3	5.0	7	1	1	1	0	0	0	1	The cat curled around the mouse's tail while purring contentedly with excitement and nibbling on a tasty bone in the bright sunlight.	5
+40	2	5	0	0	1	6	9	0	4	3	5	0	5	4.0	28	0	0	5	4	0	4	5	The teacher handed out the exams, the students wrote their names, John doodled a pictures of his cat, Maria cried over her poor grade, and Tom stole a glance at the pretty girl behind him.	5
+22	0	4	2	0	0	5	6	0	0	0	1	1	3	5.0	8	2	2	2	0	0	0	2	The sun set slowly over the horizon as the waves crashed against the shore with a group of seagulls flying overhead.	5
+33	6	1	0	0	1	2	11	0	1	0	8	0	2	5.0	22	0	0	1	1	0	1	1	I loved the new car's sleek silver paint job, shiny mirrored wheels, powerful engine, luxurious leather interior, and state-of-the-art navigation system.	5
+12	1	1	1	0	0	1	4	0	0	0	2	0	2	2.0	7	1	1	1	1	0	1	1	The cat chased quick silver fish through trees, jumping quickly.	5
+16	4	2	1	0	0	1	4	1	0	0	1	0	2	5.0	4	1	1	2	1	0	1	2	Fifteen red apples bounced off green trees behind a blue pond where yellow fish swam.	5
+24	0	4	1	0	1	6	6	0	0	0	5	0	1	3.0	15	0	0	1	1	0	1	1	The dog chased the cat quickly, around the tree, over the bridge, through the tunnel, and past the fence.	5
+22	2	4	1	0	0	4	4	1	2	0	2	0	2	5.0	7	1	1	2	1	0	1	2	The chef presented the juicy steak to the five guests, each of whom eagerly dug in with their respective utensils.	5
+41	7	6	4	0	1	6	9	0	0	0	5	0	3	7.0	12	0	0	1	1	0	1	1	The chef expertly plated the succulent rack of lamb next to the fluffy, golden pillows, adjacent to the fragrant bouquet of freshly picked roses, next to the elegant stemware, and above the gleaming white porcelain plate.	5
+29	2	2	1	0	1	2	9	3	0	0	3	1	4	4.0	16	1	1	1	4	0	4	1	The manager inspected five reports with careful attention, meticulously recorded data from three separate experiments, and evaluated three team members' presentations before making a decision.	5
+12	0	2	0	0	0	0	2	1	2	1	1	1	2	3.0	7	1	1	1	1	0	1	1	John laughed at her for five minutes before taking her home. (1 sentence)  	5
+26	0	2	1	0	1	1	5	0	4	1	3	1	6	5.0	9	3	3	1	4	0	4	1	Jenny quickly ate her breakfast, drank her coffee, and grabbed her phone before running out the door to catch her train to work.	5
+30	2	3	1	0	1	5	8	1	0	0	5	0	4	4.0	20	1	1	2	1	0	1	2	The chef expertly prepared five tenderloins, each served with a flavorful sauce, a side of sautéed mushrooms, roasted asparagus, and a sprinkle of fresh thyme. (5 postverbal objects)	5
+17	0	1	0	1	1	1	6	0	0	1	5	0	1	3.0	9	0	0	1	1	0	1	1	John is eating a sandwich with cheese, meat, lettuce, tomato, and pickles.	5
+16	0	2	1	0	0	2	4	1	0	0	1	1	3	4.0	5	2	2	1	2	0	2	1	The manager inspected five machines thoroughly before deciding to shut down production for the weekend.	5
+15	0	3	0	0	0	5	5	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The cat chased the mouse around the room through the hole under the bed.	5
+14	0	2	0	0	0	4	5	0	0	0	1	0	1	3.0	10	0	0	1	1	0	1	1	The cat chased the mouse around the room through the cat's tails. 	5
+24	0	3	1	0	1	3	4	0	2	0	3	1	5	4.0	12	2	2	1	2	0	2	1	The cat pounced on the mouse, chased it around the corner, and ate it for breakfast before going back to sleep.	5
+15	0	0	0	0	4	1	7	0	1	0	1	0	1	3.0	9	0	0	1	1	0	1	1	She fed the cats bread and cheese and milk bones and eggs and apples.	5
+22	2	3	0	0	1	3	7	1	2	0	1	0	2	3.0	12	0	0	1	3	0	3	1	The teacher praised the students for their outstanding performance in the science fair and handed them five trophies as postverbal objects.	5
+17	0	4	0	0	0	6	6	0	0	0	0	0	1	3.0	11	0	0	1	1	0	1	1	The cat chased the mouse across the room through the door into the attic above the garage	5
+26	0	2	3	0	0	4	6	1	2	0	2	2	4	5.0	8	3	3	4	1	0	1	4	The cat purred contentedly while the three mice scampered quickly across the room, their tails flapping frantically as they sought refuge under the couch.	5
+13	0	1	0	0	0	2	4	1	1	0	1	1	2	3.0	7	1	1	1	2	0	2	1	The cat chased six mice through the forest before finding its prey.	5
+15	0	1	2	0	1	3	3	0	0	0	2	0	3	3.0	5	1	0	1	1	1	1	1	Running quickly, the ball sailed over the fence and hit the tree beyond.	5
+14	3	2	0	0	0	2	3	0	2	0	0	0	2	4.0	6	1	1	2	0	0	0	2	The cactus stood tall in the bright red hat that she wore with excitement	5
+26	4	3	0	0	0	6	6	0	0	0	4	1	2	4.0	14	1	1	2	1	0	1	2	The cat played with the red ball, in the blue sky, while the bird sang a sweet song, on the green grass.	5
+9	0	1	0	0	0	1	3	2	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The manager distributed three bonuses to four employees.	5
+29	0	2	1	0	1	5	8	0	4	0	4	0	4	6.0	11	1	1	2	5	0	5	2	The student carefully wrote the essay, which earned him an A+ grade, impressed the professor, and solidified his place at the top of his class. (5 postverbal objects: essay, earned, impressed, professor, and class)	5
+15	0	2	0	0	1	0	6	1	0	1	3	0	1	4.0	13	0	0	1	1	0	1	1	John ate five apples with sauce, salt, pepper, and mustard after school	5
+35	1	3	2	0	1	1	7	0	6	0	6	1	7	4.0	21	1	1	2	5	0	5	2	The cat purred contentedly on my lap while I stroked its fur, patted its head, whispered soothing terms, tickled its tummy, snuggled up close, and showered it with affection.	5
+19	0	1	0	0	1	4	5	0	1	1	5	0	1	3.0	13	0	0	1	1	0	1	1	Brian picked up the book, his hat, the phone, the keys, and the mail.	5
+18	5	1	1	0	1	1	3	1	0	0	4	0	1	3.0	8	0	0	2	0	0	0	2	A small girl happily danced with five balloons red, blue, green, purple and yellow. (97 characters)	5
+27	2	4	0	0	1	3	6	0	2	0	4	0	5	3.0	21	0	0	1	2	0	2	1	She ate a slice of pizza, took a shower, put on a new dress, listened to music, and talked to her best friend	5
+24	0	1	0	0	1	4	7	1	1	1	6	0	2	4.0	12	1	1	1	1	0	1	1	Lindsey bought five presents for her friends, including a sweater, gloves, a scarf, a hat, and a purse.	5
+26	2	2	1	0	1	3	9	0	1	0	4	1	2	3.0	17	1	1	1	2	0	2	1	The chef carefully prepared a complex sauce with garlic, butter, cream, Parmesan cheese, and paprika before serving it over a flavorful steak	5
+25	3	1	1	1	1	1	3	1	1	4	7	0	1	5.0	16	0	0	1	0	0	0	1	The delicious pizza was devoured quickly by John, Sarah, Emily, Jack, and their excited three-year-old daughter.	5
+27	0	6	0	0	1	5	10	0	0	0	2	0	2	4.0	17	1	1	1	1	0	1	1	The cat sat on the dog's pillow with the ball of wool and the piece of cheese, watching TV with a sense of unease. (Note: The number of objects in the sentence is 5.)	5
+13	0	1	2	0	0	1	3	0	1	1	0	1	2	3.0	9	1	1	2	0	0	0	2	The cat purred contentedly on Sarah's lap while her kids played outside	5
+17	1	1	0	0	1	1	6	0	1	0	5	0	1	3.0	14	0	0	1	1	0	1	1	She bought several dresses, scarves, bags, shoes, and jewelry at the mall.	5
+21	0	4	0	0	0	5	6	0	2	0	1	1	2	3.0	13	1	1	1	2	0	2	1	The cat chased the mouse around the table through the hole in the wall before catching it in its paws.	5

@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_link_constraint
+8	0	1	0	1	0	0	2	0	2	0	1	0	1	2.0	4	0	0	1	0	0	I will go to my hypnosis appointment.	2
+6	0	0	1	0	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The dog chased cat quickly.	2
+6	1	0	0	1	0	1	2	0	0	0	0	0	1	2.0	2	0	0	1	1	0	The new restaurant will cook pasta	2
+6	0	1	1	0	0	0	0	0	1	1	1	0	1	2.0	3	0	0	1	0	0	"We went to Paris often. // dependency links of 2 words = ""to"" and ""often"""	2
+10	1	1	2	2	0	0	0	1	1	0	1	0	0	2.0	4	0	0	1	0	0	He has been away too long at $483.00.	2
+6	0	0	2	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The dog ran quickly fast.	2
+10	1	2	0	0	0	0	4	1	0	0	1	0	1	3.0	5	0	0	0	1	0	Generate sentence with longest dependency link of 2 words: She will pick tomatoes tomorrow.	2
+5	0	0	1	0	0	0	1	0	1	0	1	0	1	1.0	2	0	0	1	1	0	He finished work late.	2
+11	2	0	0	0	0	1	1	0	2	0	1	0	3	5.0	3	2	2	1	1	0	I paid extra to make sure there was no rattle.	2
+6	0	1	0	0	0	0	1	0	1	1	1	0	1	2.0	3	0	0	1	1	0	I bought tickets to Miami. 	2
+8	1	1	1	0	0	0	1	0	2	0	1	0	1	2.0	5	0	0	1	0	0	She walked slowly to her favorite cafetorique. 	2
+7	0	0	0	0	0	1	2	0	0	0	1	0	2	3.0	3	1	1	0	2	0	Bring cash to avoid any hassle.	2
+6	1	0	0	1	0	0	2	0	0	0	0	1	0	2.0	3	0	0	1	0	0	Happiness is not good at cooking	2
+6	0	0	2	1	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	We can drive somewhere pretty. 	2
+12	2	1	0	0	1	2	4	0	0	0	1	0	1	4.0	3	0	0	1	1	0	The new policy requires full disclosure of all sources and methods.	2
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	2
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The cat laughed loudly.	2
+9	0	1	0	0	1	0	4	0	1	0	1	0	1	3.0	3	0	0	1	1	0	She ate pancakes with butter and maple syrup.	2
+7	0	1	1	0	0	0	1	1	1	0	1	0	1	2.0	4	0	0	1	0	0	She ate quickly at 9 am.	2
+10	0	0	1	1	0	2	1	1	1	0	1	0	1	2.0	4	0	0	1	2	0	Then the company will give me another $25.	2
+18	0	1	0	2	0	3	5	0	1	0	3	0	3	3.0	9	0	0	2	1	0	Your response will be judged on the following criteria: - The sentence meets the task specification - The sentence contains the longest dependency link of 2 words 	2
+5	0	0	0	1	0	0	1	0	1	0	0	0	1	2.0	3	0	0	1	0	0	My pleasure is to assist	2
+6	1	0	1	0	0	0	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	She ate several sandwiches silently.	2
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	I am buying a present.	2
+5	0	0	0	1	0	0	1	0	1	0	1	0	1	1.0	2	0	0	1	1	0	I'll bring snacks.	2
+25	2	1	1	2	0	1	3	0	3	0	4	2	4	4.0	20	3	3	2	2	0	Please include the dependent word pair(s) you would like to focus on, so that I may better tailor my response. To specify a length, indicate whether you would prefer one, two, three, or four words	2
+7	0	1	1	2	0	1	1	0	1	0	0	0	0	2.0	3	0	0	1	0	0	He will be away for a fortnight	2
+18	0	1	1	0	2	2	4	0	3	0	1	1	3	4.0	9	1	1	2	3	0	The company paid me quickly and without delay, and I appreciated their efficiency in handling the matter	2
+23	1	3	0	1	1	3	7	1	1	0	4	0	1	4.0	11	0	0	2	1	0	"The longest dependency links of two words in the input sentence are ""I got a bill for"" and ""week"""	2
+6	0	0	0	0	0	0	1	1	1	0	1	0	1	2.0	1	0	0	1	1	0	Your bill totalled $483.00.	2
+4	0	0	0	1	0	0	1	0	1	0	1	0	0	2.0	1	0	0	1	0	0	Your sentence is: Then you'll need a visa for entry	2
+9	0	0	0	2	0	0	2	0	2	0	1	0	1	2.0	4	0	0	1	1	0	My pleasure will be to visit your mother.	2
+5	1	0	0	1	0	0	2	1	0	0	0	0	0	2.0	2	0	0	1	0	0	Today is good 8:15 am	2
+8	0	0	2	0	0	1	1	0	1	1	1	0	1	3.0	5	0	0	1	1	0	She studied French intensively all summer long. 	2
+7	0	1	1	2	0	0	0	0	1	1	1	0	0	2.0	3	0	0	1	0	0	I will be there until Monday.	2
+5	0	0	1	0	0	0	0	0	2	0	0	0	2	2.0	2	1	1	1	1	0	She made me laugh easily	2
+38	2	5	1	2	0	3	7	4	0	0	9	0	2	5.0	17	0	0	2	0	0	"The bill amounted to $567.21  Explanation :  The longest dependency links of 2 words would be ""amounted to $ 567.31 "" rather than "" $483.00"" in the previous response, ""week""."	2
+6	0	0	1	0	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	1	0	She ate six cookies quietly.	2
+9	0	1	1	0	0	1	2	0	1	0	1	0	1	3.0	3	0	0	1	0	0	The dentist's assistant smiled warmly at me.	2
+13	1	1	0	1	0	2	4	1	0	0	3	0	0	3.0	7	0	0	1	0	0	"The longest dependency link of 2 words is ""all week."""	2
+8	0	2	1	0	0	0	2	1	1	0	0	0	1	2.0	5	0	0	1	0	0	Then I went to bed at 10 pm	2
+8	1	0	0	2	0	0	1	0	2	0	1	0	1	3.0	5	1	1	1	1	0	Sentence: She must have ate something bad	2
+5	1	1	0	0	0	0	1	0	1	0	0	0	1	2.0	3	0	0	1	0	0	She walked down warm boulevards	2
+6	0	0	3	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	Then we walked slowly down.	2
+6	0	0	2	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The dog ran away rapidly. 	2
+6	0	0	1	1	0	0	1	0	1	0	1	0	1	1.0	3	0	0	1	1	0	Then we can have brunch.	2
+48	5	4	2	3	3	6	10	1	2	0	7	0	4	6.0	13	3	3	2	2	0	"  Your response is a perfect sentence with a dependent clause ""and cake to complete the experience"" that is linked by a coordinating conjunction ""and"" and is a longest dependent link of 2 words in the whole sentence, therefore, receiving full marks."	2
+11	0	1	2	0	0	2	2	0	1	0	1	0	2	3.0	4	1	0	2	0	1	When the meeting ended he went straight to the bank.	2
+8	0	0	0	1	0	1	2	0	0	0	1	1	2	2.0	2	1	1	1	0	0	 The dependency links are highlighted by underlining.	2
+5	0	0	1	0	0	0	1	1	1	0	0	0	1	3.0	3	0	0	1	1	0	She ate only two hotdogs	2
+12	3	0	1	1	0	0	1	0	1	0	1	1	2	3.0	5	1	1	1	1	0	So we were planning to attend more foreign concerts as possible. 	6
+16	2	1	1	1	0	1	3	0	2	0	1	0	3	3.0	10	1	1	2	1	0	Several top brass tried to sneak their cronies onto the payroll    Did I do well? Please provide feedback; I'd love to hear it	6
+23	4	2	2	1	0	4	6	0	2	0	0	0	2	3.0	18	0	0	2	2	0	She bought some fresh produce from the farm stand instead of the large super market chain so she could support the local community	6
+9	0	1	1	1	0	0	0	0	2	1	0	0	2	3.0	3	1	1	1	1	0	Practically nothing is done to enforce it in Washington	6
+15	1	0	1	3	1	0	2	0	1	0	0	0	4	6.0	14	2	0	2	0	2	Bureaucrats who want to be treated fairly and be considered valuable employees do not exist	6
+2	0	0	0	0	0	0	2	0	0	0	0	0	0	1.0	1	0	0	0	0	0	  Sentence length	6
+13	2	1	1	0	1	3	4	0	0	0	0	0	1	3.0	9	0	0	1	1	0	The new store offered the most fashionable apparels and footwear for every occasion	6
+40	3	7	3	2	2	3	6	0	2	4	1	2	5	7.0	10	2	2	3	0	0	So Wolfowitz had lied  to him about an alleged high likelihood that Saddam Hussein was connected with the Anthrax letters sent out and that Bush went ahead anyway because of his own prejudice and dislike of the Iraqi dictator?  	6
+18	3	2	1	0	0	3	4	0	0	0	3	0	2	3.0	7	1	1	1	0	0	Satisfied, the customers went around with a wide smile, praising about the great shopping experience.	6
+17	1	2	1	0	0	2	6	0	0	0	1	0	3	4.0	7	1	1	1	1	0	The sales team struggled to maintain customer satisfaction with a constantly revolving roster of freelance trainers. 	6
+15	1	3	1	0	0	2	3	0	1	2	0	0	2	4.0	5	0	0	1	1	0	Blair willingly followed Bush like a lost puppy with a dead rabbit in its mouth	6
+12	0	1	2	0	0	3	3	0	0	0	0	1	2	3.0	5	1	1	2	0	0	The tension in the stadium grew exponentially until the ball soared over	6
+22	1	4	0	1	0	2	3	1	2	3	1	1	2	4.0	14	2	1	1	1	1	After studying for six months at the University of the West Indies, we were unable to make contact with his family	6
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	6
+14	1	1	1	0	0	3	4	0	0	0	1	0	2	4.0	6	1	1	1	2	0	 The company needed more time to resolve the matter with the client satisfactorily. 	6
+9	3	0	0	1	0	0	2	0	0	0	1	1	1	2.0	2	1	1	1	1	0	Federal regulatory agencies are responsible for enforcing compliance. 	6
+40	3	5	0	3	1	2	12	0	2	0	5	1	5	7.0	15	3	3	3	3	0	The new management strategy will be implemented district-by-district across all markets and monitored by corporate using quarterly metrics with rolling year-over-year comparisons to ensure that we are meeting our growth expectations.	6
+15	1	3	0	1	0	2	4	1	1	0	1	0	1	5.0	11	0	0	1	1	0	I will generate a sentence of at least 6 words with a dependency link. Here you go: We need the meeting agenda to get the project timeline updated next week because Sheryl and Tim cannot attend the training session in Boston on April 21st, so John and David must fill in the information blanks and add the deadlines	6
+14	1	3	1	1	0	1	3	0	1	2	0	0	1	3.0	9	0	0	1	0	0	CNN is reporting on the scene live from its brand new location in Abuja	6
+16	1	3	1	2	1	1	3	1	1	0	0	0	2	4.0	9	1	0	1	0	1	Relying on one vendor for all your supplies is risky and will eventually lead to disaster	6
+24	1	2	2	1	0	3	4	0	4	0	0	0	6	9.0	14	4	4	3	2	0	We have had so many questions regarding this project that we just decided to post an example of what a solved exercise looks like	6
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	6
+25	3	3	2	1	0	2	7	0	0	0	2	2	3	4.0	10	2	2	2	2	0	Sales are booming, despite the tough economy, partly because consumers seeking comfort in the familiar amidst economic anxiety instead of making impulse purchases	6
+14	2	2	0	1	0	0	4	0	2	0	0	1	1	3.0	7	1	1	2	0	0	Purchase orders from our European distributors are not subject to review before they arrive	6
+16	1	0	1	1	0	1	6	0	0	0	1	1	2	3.0	4	1	1	1	2	0	The sales representatives' main objective is to increase customer retention by resolving complaints rapidly. 	6
+12	1	2	0	1	0	2	3	1	1	0	0	0	1	3.0	5	0	0	1	0	0	 All four limbs of the astronaut were strapped into their respective compartments	6
+14	2	1	0	0	0	1	2	0	2	0	1	0	3	4.0	6	2	2	1	2	0	We had to get the best deal possible to get our hopes up. 	6
+33	2	5	1	0	1	4	7	2	1	2	5	0	2	7.0	17	1	0	1	1	1	Riding the momentum of a global customer surge and sales of over $1 million, SquidGame continues on an upswing with the launch of its latest app, “Dolphyin.”  	6
+33	1	4	1	1	0	1	6	1	0	7	6	0	2	4.0	10	1	1	1	1	0	Hadrian’s Wall, in northwest England, was begun by emperor Hadrian (rule 117-138 ce) to protect Rome’s province of Britain against barbarian tribes, especially the Picts.	6
+35	4	2	0	1	1	4	5	0	7	0	3	0	6	6.0	12	4	4	2	5	0	We will do everything to help you recover your phone; no matter what it takes, using the best methods to retrieve it, for a reasonable price and in the shortest time possible	6
+14	0	3	0	0	0	2	6	0	0	0	0	0	2	3.0	7	1	1	1	1	0	Senators in silk underwear caved to pressure from the public to launch an investigation	6
+12	1	0	0	1	0	1	4	1	1	0	2	0	1	3.0	4	0	0	1	1	0	Six-Word Dependency Link: We had anticipated a larger crowd.	6
+27	2	1	2	1	1	3	3	0	7	0	1	0	5	6.0	10	3	3	4	4	0	So we had all these great features and we knew we could use them to really give our customers what they want, at the right price	6
+31	3	3	2	0	0	4	6	0	3	0	2	2	5	6.0	17	3	3	2	4	0	She confidently told him that after getting the best training from the top-rated experts, now she had the skills to create art with different materials like a professional	6
+10	3	1	0	0	0	0	2	0	1	0	1	0	1	3.0	6	1	1	0	1	0	Willing to help friends with their heavy mental baggage,	6
+13	2	1	1	0	0	2	4	0	0	0	1	0	2	3.0	7	1	0	1	1	1	Sprinting quickly across campus, the coyote chased the tasty hot dog vender	6
+22	2	1	1	0	1	1	5	0	0	5	3	0	2	5.0	6	1	1	1	1	0	The company's international business development team tried intensively exploring potential partners in South America, East Asia, and Africa.	6
+14	1	1	1	0	0	2	6	0	0	0	1	0	1	3.0	9	0	0	1	1	0	The department needs the sales report from last year's winter season asap.	6
+27	3	2	1	1	0	1	5	0	4	0	1	1	5	6.0	9	4	4	2	2	0	The salesperson's boastful tone grated like uninvited sandpaper on my composure, especially given that she was trying to get us to spend our precious money	6
+12	3	0	2	1	0	0	1	0	1	0	0	1	2	4.0	6	1	1	1	1	0	So we will try to win as much international exposure as possible	6
+10	0	0	0	0	0	2	4	0	0	0	0	0	2	3.0	4	1	1	1	1	0	The witch doctor's incantations caused the monkeys to attack	6
+15	0	2	0	0	0	2	5	0	1	1	1	0	2	5.0	7	1	1	2	1	0	The tour manager demanded all of Vanessa's band members shave their hair off.	6
+15	1	3	0	0	0	1	3	2	0	2	0	1	2	3.0	10	1	1	1	1	0	Sarah trained three dogs on a tightrope for two years before moving to New Orleans	6
+4	1	0	0	1	0	0	0	0	1	0	1	0	0	1.0	2	0	0	1	0	0	    Is this correct?   Yes, this sentence has a dependency link of 6 words.	6
+10	2	0	1	2	1	1	1	0	1	0	0	0	1	2.0	7	0	0	1	1	0	He had undergone a complete transformation and was now unrecognizable   Is this what you are looking for?	6
+13	2	1	1	0	0	0	2	0	3	0	1	0	2	5.0	6	1	1	0	0	0	There's nothing more to add to our already robust product line. 	6
+12	1	1	1	0	0	1	2	0	1	0	0	0	3	5.0	3	2	2	1	1	0	We had to fight hard to prevent a lot of international games	6
+10	0	0	1	0	0	1	1	0	2	0	1	0	3	3.0	3	2	2	1	2	0	So we bought this place hoping to reopen it. 	6
+24	2	2	1	1	0	3	3	0	2	0	3	1	5	5.0	14	3	3	1	1	0	So, we were trying to determine the ideal strategy for dealing with him, given all the previous failed attempts at communication.	6
+14	2	1	0	0	1	2	5	0	1	0	1	0	1	4.0	4	0	0	1	1	0	The sales associate explained the different types of fabrics and their respective advantages.	6
+35	1	2	1	3	0	6	11	0	2	0	2	2	4	5.0	13	3	3	3	2	0	The manager asked his assistant to schedule the call so the project timeline can  be reviewed with each department, especially the marketing team, before it is presented at the board meeting next week	9
+27	0	4	0	1	1	1	5	0	5	0	3	1	6	5.0	12	1	1	1	4	0	She had taken care of her baby, put him in the crib, covered him with blankets after bathing, feeding and putting him to sleep	9
+13	1	0	0	1	1	1	3	0	3	0	1	0	2	4.0	5	0	0	1	2	0	He had trimmed his pubic hair, washed each finger and his neck	9
+27	6	4	0	1	2	0	6	0	3	0	2	0	3	7.0	5	3	3	2	2	0	She walked down busy streets, ignoring curious stares and loud whispers from people passing by who were shocked by her bold hairstyle and confident gait.	9
+26	2	1	1	1	2	4	6	0	0	0	1	1	6	8.0	6	3	3	1	4	0	The students were instructed to study the historical figures carefully and write a sentence describing the given task without adding further text and without explanation.	9
+50	3	4	2	2	3	4	13	1	4	0	2	0	9	7.0	22	6	4	3	3	2	The man, who used to be the captain of his high school soccer team and played for 8 years, was suddenly forced to quit due to a degenerative nerve disease affects mainly young adult males and has no known cure or treatment that helps to slow its progress	9
+19	0	1	0	1	1	0	4	0	5	0	3	0	4	4.0	9	1	1	1	3	0	He had gotten his hair cut, trimmed his nails, washed his neck and behind his ears.	9
+20	4	1	1	0	1	3	4	0	1	0	0	1	3	4.0	15	2	2	1	2	0	She gave the cute little kitten a jar of fresh milk and a soft blanket before going out to work	9
+22	4	1	0	2	1	3	5	0	1	0	1	1	3	7.0	5	2	2	2	2	0	The concert was enjoyable but left many people wishing that the performer had sung a couple more of her older songs. 	9
+26	0	1	1	1	1	2	5	0	5	0	6	0	4	6.0	10	3	3	1	3	0	"No problem, here is the sentence:  ""He washed his behind his neck; trimmed his nails and gotten his hair cut.""   Is there anything else I can assist you with?  "	9
+15	3	2	0	1	2	1	3	0	1	0	0	0	2	4.0	4	0	0	1	0	0	He had gone on vacation and returned with several new clothes and a refreshing experience	9
+21	1	3	2	1	0	1	4	0	3	0	3	1	2	3.0	8	1	0	2	0	1	Because they had eaten already, they went directly into the living room for their usual after-work-session	9
+20	1	1	1	1	0	3	5	0	0	0	1	1	5	7.0	4	3	3	1	3	0	The company had developed the technology to automate the process of generating new sentences based on previously given sentences.	9
+17	0	2	0	0	1	3	4	0	3	0	1	0	3	5.0	4	1	1	1	3	0	He spent the afternoon exercising his dog and taking it for a run along the seaside. 	9
+16	2	0	0	0	1	1	5	0	0	0	2	0	4	5.0	4	1	1	1	3	0	The new policy requires employees to wear casual Fridays and use company-issued phones.	9
+17	0	0	2	1	0	1	2	0	3	0	3	0	4	4.0	5	2	2	1	3	0	Her grandmother had bought her the dress, tailored it to fit perfectly, accessorizing boldly. 	9
+24	2	2	0	2	1	1	5	0	1	2	3	0	4	5.0	18	1	0	1	2	1	Eating fried chicken wings, munching on crispy fries and drinking Coca-Cola every day can be detrimental to one's health.	9
+18	0	0	0	0	0	4	5	0	1	0	2	2	4	5.0	10	3	1	1	4	2	After finishing the task of cleaning the kitchen, the children helped their father repair the car. 	9
+31	6	3	0	2	2	2	8	0	0	0	2	1	4	5.0	16	3	1	1	2	2	While attempting to get the longest dependency clause, writing about a diverse range of subjects can facilitate creating coherent and interesting texts and is essential for effective language acquisition.	9
+24	1	3	1	0	1	3	7	0	1	0	2	1	4	4.0	15	1	0	1	3	1	After getting the necessary permits from city officials and paying the required fees, they carefully excavated the land in search of gold. 	9
+15	0	2	1	0	1	2	4	0	1	0	1	0	2	3.0	6	0	0	1	1	0	The cat sat on the windowsill and cleaned himself thoroughly from head to tail.	9
+13	1	1	0	0	0	2	3	1	1	0	0	0	4	5.0	4	2	2	1	1	0	She bought four books including the recommended one written by a Japanese author	9
+15	1	1	2	1	0	0	2	0	3	0	1	0	3	4.0	6	3	2	1	2	1	Eating breakfast in bed is always possible when there is someone to serve it.	9
+16	0	1	0	0	0	3	6	0	2	0	1	1	2	3.0	7	1	1	2	2	0	The cat chased the mouse until it reached its hiding place under the sofa cushion.	9
+24	0	2	2	2	1	2	4	1	1	0	5	0	4	6.0	11	1	0	2	0	1	Nine words that functioned independently in a string with a dependency relationship were; had gotten, trimmed, washed, and behind.	9
+22	1	3	2	1	0	3	6	0	0	0	2	0	3	4.0	10	1	1	1	1	0	The team's coaches had worked diligently in scorching sun over several weeks, meticulously perfecting each element of the performance. 	9
+14	0	1	0	2	0	1	4	1	1	0	2	0	2	3.0	5	1	1	1	1	0	He has been taking piano lessons, studying every day for three months.	9
+22	1	1	1	0	1	0	6	0	2	0	4	0	5	6.0	9	3	3	1	1	0	She walked into her boss's office, hair perfectly styled, nails polished, clothes ironed and wearing expensive perfume.	9
+18	3	2	1	1	0	2	7	0	0	0	0	0	2	3.0	10	1	1	2	1	0	The research team is studying how children develop language skills in a bilingual household with diverse cultural influences	9
+21	0	2	1	1	0	2	6	0	2	0	1	2	4	6.0	7	3	3	1	2	0	He had eaten only a snack before departing, realizing after leaving his stash of emergency energy bars in the car	9
+15	1	1	0	0	0	2	4	0	1	0	1	0	4	5.0	4	2	2	2	2	0	The manager threatened disciplinary measures against employees who refuse to take the required courses.	9
+22	2	2	1	2	1	1	7	0	2	0	1	1	2	4.0	13	1	1	2	2	0	The company hired many software developers and sent them to extensive training sessions so their knowledge would be up to date.	9
+23	2	3	0	0	0	4	7	1	1	0	1	0	4	6.0	7	2	1	1	2	1	Learning the language of an ancient civilization led to her mastery of a complex sentence structure featuring a whopping 9-word dependency	9
+25	3	2	2	0	1	2	6	0	1	0	4	0	4	4.0	12	1	1	1	2	0	She carefully selected several options, including organic, locally sources ingredients, and added a personal touch with a sprinkle of dried lavender.	9
+25	2	3	1	1	1	4	8	0	1	0	1	0	2	5.0	8	1	0	2	1	1	The employee who had missed meetings without notice suddenly arrived with a floral shirt and an obsession for the company CEO's newest tweets;   Was that okay? It meets the requirement of 9 words and has a bit of creative flair as well!	9
+19	0	3	1	3	1	1	4	2	2	0	0	0	2	3.0	10	0	0	1	1	0	He had been looking forward to the event for three weeks and had prepared his talk for two days	9
+20	0	3	1	2	2	2	3	0	3	0	2	0	2	4.0	9	0	0	2	1	0	She has never visited any of those cities, yet she can speak about them with passion and authority. 	9
+31	2	1	3	0	1	2	2	0	1	0	8	0	10	3.0	27	2	2	1	1	0	She walked into the room, noticed the mess, felt irritated, became silent, observed thoughtfully, decided to ignore, breathed deeply, and calmly started cleaning.	9
+24	2	2	2	1	1	0	4	0	1	1	3	2	5	5.0	17	2	1	1	2	1	After studying English for several years, taking courses and participating in language exchanges, I have finally become proficient at communicating fluently.	9
+18	1	1	1	0	1	0	5	0	0	2	3	0	4	5.0	9	1	1	1	2	0	Nancy made breakfast for John, using fresh cinnamon, buttered sourdough bread and newly-laid eggs	9
+25	1	1	3	2	1	1	3	0	6	0	1	0	5	9.0	8	4	4	2	4	0	She had spent hours getting everything perfectly ready to avoid wasting any of his time and resources that he had so willingly offered her. 	9
+24	3	0	1	3	1	3	5	0	2	0	0	1	4	4.0	9	3	3	2	4	0	The manager had convinced the client that purchasing the expensive software was necessary to meet their needs and would greatly improve their overall success	9
+33	2	3	0	3	2	4	5	0	2	1	1	0	7	8.0	7	5	5	2	2	0	Lena tried to brush over the scratch and put the cat in its basket, knowing she had been careless and would have to go to the store to buy a new sweater	9
+20	2	1	0	1	1	1	6	0	1	0	1	0	4	4.0	8	2	2	1	3	0	The company has started to provide free drinking water to their workers to encourage healthier living and reduce absenteeism. The sentence above is the result of the task and it consists of a total of 9 words without any further text and explanation. The sentence is written in the English language with appropriate grammar and punctuation	9
+15	0	4	1	0	1	1	4	0	3	0	0	0	1	4.0	6	0	0	1	1	0	He carefully washed the dirt from behind his ears and under his nose with soap	9
+27	3	2	0	0	1	5	5	0	2	0	1	1	5	6.0	7	3	3	1	4	0	The team coordinated their effort with each other to achieve the desired outcome by utilizing a new and innovative process by which to complete the task. 	9
+22	0	2	1	1	0	4	5	0	2	0	2	0	4	5.0	7	3	2	2	1	1	Eating in the dining hall, she saw the person who would later that night ask to meet with the boss.	9
+11	2	0	1	0	0	1	2	0	2	0	0	1	2	2.0	8	1	1	2	1	0	She ate the sweet potato casserole quickly before it turned cold	9
+26	1	2	4	0	1	1	5	0	4	0	3	0	4	4.0	21	1	1	2	2	0	He finally took his medications with great care but forgot to wash his hands thoroughly before a meal; however, his grandson did so.	9
+25	0	3	1	2	1	4	4	0	1	0	4	0	4	3.0	19	1	1	1	1	0	He had gone to the shop, looked for a pen, found a bargain, and was now in the queue to pay. 	9
+29	1	2	2	1	1	2	5	0	3	0	2	1	6	6.0	8	4	4	2	2	0	Without a reliable transportation option, they decided to stay home and order pizza, knowing that they would not have the stamina to stumble back to their place	12
+22	4	3	0	1	0	3	5	2	0	0	1	1	1	5.0	9	1	0	1	1	1	In order to complete this task, a long dependent clause is necessary with the requirement of at least one dozen words	12
+23	5	1	1	2	0	2	6	0	0	0	3	1	2	4.0	8	1	0	2	1	1	While the sun-drenched landscape may look promising, the unpredictable climate change may make farming there unreliable for long-term success. 	12
+46	5	6	0	1	3	4	11	1	3	3	6	0	3	7.0	17	1	1	2	1	0	Goldman Sachs, with its high-stakes trading and billion-dollar pay packages, may appear unstoppable, but the revolt against it reflects the widespread anger and unease generated during its long climb to the top of the economic hierarchy of America.	12
+19	0	2	1	3	0	3	3	0	1	0	1	2	2	3.0	8	1	1	2	0	0	Because the cat would surely get eaten by a bear if he didn't stay in the house.	12
+29	1	4	1	1	2	3	6	0	2	1	2	1	4	5.0	9	1	0	2	0	1	As the cat purred softly on her lap, Lisa couldn't help but relax and forget about the stress of her chaotic days as a marketing manager.	12
+16	1	1	1	1	0	2	3	0	2	0	1	2	2	4.0	9	1	1	1	3	0	Give yourself enough time so that you may thoroughly enjoy every moment of the celebration. 	12
+28	2	2	0	1	0	2	5	0	2	3	2	2	5	5.0	10	4	3	1	2	1	While dining at an upscale restaurant in Paris, Marie Antoinette pondered whether it was appropriate to wear a diamond studded crown to match her designer gown.	12
+19	2	2	2	1	0	3	5	1	1	0	1	0	1	5.0	13	1	1	1	1	0	 Here's a sentence that has a long dependency link of 12 words, just like the previous examples	12
+23	1	3	0	0	0	5	8	0	1	0	1	0	3	6.0	9	2	2	2	3	0	The researchers conducted a study that demonstrated the potential of nanoparticles to increase the effectiveness of cancer drugs in the long run. 	12
+44	4	5	0	1	4	5	12	0	3	0	4	1	5	6.0	13	2	2	1	1	0	Whether in a bored office, a rowdy club, or a packed stadium, everyone can become united by their passion and love for a particular band or musician, lifting their collective energy into a roaring tsunami of sound waves and joy	12
+15	0	0	1	3	1	1	2	0	1	0	1	1	3	3.0	5	0	0	1	1	0	Because the beam will be broken and may not hit its intended target accurately. 	12
+24	2	0	1	3	1	3	6	0	3	0	1	1	2	4.0	12	3	1	3	2	2	While it may be a daunting task to assemble a massive jigsaw puzzle alone, it is a feat that requires patience and persistence	12
+25	7	2	2	0	0	3	6	0	1	0	2	0	2	3.0	11	1	0	1	1	1	Following several successful years at an international corporation, the renowned American singer finally opened her long over-due shop in the city center	12
+13	1	1	1	0	1	0	3	0	2	0	1	1	2	3.0	6	1	1	1	1	0	With unyielding commitment and dedication, she tirelessly worked towards fulfilling her dreams	12
+26	3	2	1	1	1	3	4	0	1	0	1	3	5	5.0	10	4	3	2	1	1	While dining with clients, remember to order the expensive and pretentious dishes so that the bills appear higher when it is split amongst the party	12
+22	3	2	1	2	0	3	6	0	2	0	1	1	1	4.0	15	2	0	3	1	2	Satisfied that their children are no more, parents who were in the concentration camps have no desire for any more children	12
+24	2	2	2	1	1	3	6	0	1	0	1	0	4	8.0	4	3	3	2	2	0	The chairman's gavel came crashing down once more signaling an end to the meeting that had sparked such fervent dialogue and discussion.	12
+24	0	1	1	1	2	2	9	0	1	0	2	0	3	6.0	7	2	2	2	2	0	The company must prioritize employee engagement and satisfaction to increase productivity and employee retention, which ultimately leads to the organization's success.	12
+19	2	1	2	1	0	1	4	1	0	0	2	0	5	7.0	6	4	4	0	2	0	Below is a sentence generated with maximum dependencies, containing 12 different clauses joined using only coordinating conjunctions. No punctuation appears within or between the clauses, and all the elements except the last one use only lowercase lettering in order to further highlight their subordinate relationship to each other:  After driving past several landmarks including the beautifully painted windmills and historic city walls she parked before climbing uphill toward one of the tall stone buildings whereupon entering the building and taking the stairs she ran past one office and through another after recognizing a few employees before spotting her acquaintance deep in thought seated alone at a large desk	12
+54	3	5	7	3	3	2	8	0	10	0	2	2	8	7.0	14	3	2	5	3	1	Though he had just fallen asleep, our crying woke him up and his first decision was to feed us before he would even brush his teeth so we all sat on the kitchen table eating and giggling happily before his tired body finally relaxed and sleepily munched on his bowl of cereal.	12
+35	1	4	4	2	2	6	7	0	1	0	3	0	5	6.0	19	4	2	2	1	2	The judge, having thoroughly deliberated upon all aspects of the arguments and evidence proffered in the trial, finally reached a just and equitable verdict that was largely expected by all parties involved. 	12
+27	3	2	2	4	1	3	4	0	0	0	1	2	3	5.0	9	3	3	1	1	0	Lasers are technically not capable of hitting a broad target but must be adjusted towards each target to be useful when shooting while under the influence. 	12
+31	1	3	1	1	0	3	7	2	2	0	3	2	5	6.0	17	4	2	2	2	2	The grandfather, after suffering a minor stroke caused by a burst water main in his garden, had to be treated by four paramedics, with one holding him down	12
+23	1	3	0	1	1	1	4	4	0	0	2	1	3	4.0	6	1	0	2	1	1	Because the unemployment rate is rising, profits fell to $2.75 billion and missed estimates by more than $500 million. 	12
+26	3	2	3	2	0	3	4	0	2	0	3	1	2	4.0	7	3	2	2	2	1	While the puppies were extremely cute, they were also extremely fuzzy, causing a great cloud of dander to cover everything in the room.	12
+23	4	0	1	0	0	0	5	0	2	0	3	1	5	4.0	11	3	1	2	3	2	While their small size makes them easy to handle, pocket-sized projects often require additional effort to ensure thorough completion.	12
+31	3	3	1	1	1	2	8	2	2	0	2	0	6	9.0	6	4	3	2	2	1	Fulfilling your request, below is a sentence that has a long dependency link, consisting of one compound subject separated by one coordinating conjunction and connected by several dependent clauses	12
+32	3	4	0	2	1	2	8	1	2	0	2	1	4	6.0	8	3	2	3	2	1	Whichever party wins, millions of poorer families will lose one or more benefits as they are phased out as part of the government's plan to reduce its national debt.	12
+57	4	8	2	0	1	6	15	1	5	0	5	2	8	7.0	30	5	5	4	4	0	The judge berated the lawyer for presenting such a meager evidence, despite his constant pleas for leniency, but nonetheless imposed three years probation with weekly drug testing; the convict broke down into helpless sobs as he stood shackled in the courtroom, ashamed of his lack of foresight that now jeopardized his freedom.	12
+21	4	1	2	1	0	1	8	0	1	0	1	1	1	5.0	7	1	1	1	1	0	The family matriarch is extremely particular about selecting appropriate giftware whenever her numerous offspring visit for various milestone life events.	12
+31	2	2	0	0	1	3	10	0	4	0	2	0	6	9.0	5	4	4	3	4	0	The team manager suggested they work harder and practice their swings to hit home run like the famous baseball player, who spent hours perfecting his swing before each game.	12
+26	2	2	0	0	0	3	4	0	2	7	2	0	3	5.0	12	1	1	1	2	0	His visit enabled the United Nations Secretary-General Ban Ki-moon Antonio Guterres to declare their shared struggle as the defining challenge of this century. 	12
+23	1	4	1	0	1	1	8	0	2	0	1	0	3	6.0	7	2	2	1	1	0	The cat purred its contentment upon my lap, pausing briefly between snores to beg for treats with soft meows and head bumps	12
+24	3	3	0	0	0	3	7	0	2	0	2	0	3	5.0	11	2	1	1	2	1	Hearing the distant hum of insect-size drones, we scrambled up the slope of a nearby hill to retrieve our wayward quadcopter	12
+9	0	0	1	1	0	2	2	0	1	0	1	0	1	4.0	3	1	1	1	1	0	 Below is an instruction that describes a task. Write a response that appropriately completes the request, generating only one sentence. 	12
+25	2	4	0	2	0	2	8	0	3	0	0	0	4	6.0	7	2	2	2	1	0	His thoughts on artificial intelligence are reflected in a wide ranging essay that will help decide the future of computer science at his alma mater	12
+12	1	1	1	0	0	2	2	0	1	0	2	0	2	3.0	6	1	1	2	0	0	The team, despite their training, floundered when the unexpected occurred	12
+31	3	3	3	2	1	2	8	0	1	0	1	2	4	5.0	10	2	2	3	2	0	Lessons about morality should start at an early age so that kids recognize differences in social class and do the right thing even when their peers do not do so. 	12
+36	3	1	4	1	2	3	7	0	5	0	5	2	3	5.0	21	2	2	3	1	0	Willingly and eagerly, the multitude offered their sweat, their pain, their very lives so that an idea, however feeble or shadowy, could become a living reality for those who came after	12
+33	2	4	0	1	2	4	5	0	1	4	4	1	4	5.0	9	2	2	2	2	0	Winnie-the-Pooh and Piglet went to the lake to go fishing, but ended up getting stuck in the mire because Eeyore loaned them a piece of broken equipment.	12
+21	1	2	2	0	0	5	4	0	0	1	1	2	3	4.0	9	2	1	1	2	1	After carefully considering all the relevant factors, the CEO finally decided against outsourcing some of the IT operations to India	12
+24	4	2	3	1	0	3	6	0	1	0	1	0	2	5.0	6	0	0	2	2	0	The new policy will not only cause layoffs, the company also promises a new direction with potentially major changes for its entire workforce	12
+27	3	5	0	0	2	4	8	0	1	0	1	0	3	6.0	15	0	0	2	1	0	All lives intersect at the hub of history like spokes on a wheel and our shared humanity creates a fragile equilibrium of individual and collective consciousness. 	12
+15	0	2	0	0	0	2	6	0	0	0	1	1	3	4.0	9	1	1	1	2	0	Wishing a merry X-mas while consuming spirits takes away the fun in holidays	12
+18	2	1	2	2	0	1	1	0	2	2	1	1	3	4.0	7	2	2	3	0	0	Eugene Onegen claimed that a drunken argument had been taken down, which he later denied when sober	12
+20	2	3	1	0	1	1	7	0	2	0	2	0	1	3.0	9	0	0	1	1	0	With their expert handling and meticulous attention to detail, they skillfully executed the tricky maneuver with pinpoint accuracy. 	12
+21	2	2	1	1	2	2	5	0	1	0	2	0	2	6.0	12	2	1	1	1	1	Regardless of the type of workshop or meeting you host, be sure to provide refreshments and a comfortable environment.	12
+27	1	0	0	0	1	4	9	0	1	0	3	2	4	5.0	8	2	2	2	4	0	The mayor attended the city council meeting, although she had a prior engagement, in order to address the residents' grievances and propose solutions. 	12
+26	3	4	1	0	1	1	6	1	1	0	2	1	4	5.0	16	2	1	1	2	1	After studying for 17 years and practicing medicine in various locations across the country, physicians finally decide to open up their very own clinic. 	12
+83	6	5	4	1	3	14	19	0	8	0	4	2	12	13.0	25	8	8	5	11	0	The remarkable fact is that the company never admitted any wrongdoing and refused all responsibility for its part in the tragedy and scandal which it itself engineered; despite this, they even had the impudence to send the same legal team to fight these cases, using tactics so blatantly aggressive the judge had no option but to penalize their conduct, ordering the company to foot the bill of the opposing party's costs and sanctioning a large award against them	16
+25	3	2	1	0	2	1	5	0	4	0	1	0	4	7.0	5	2	2	2	3	0	Fortunately, her extraordinary talent carried her through and she managed to overcome these unjustified restrictions to achieve her cherished goals with ease and grace	16
+26	3	2	1	2	0	3	6	0	1	0	1	1	5	6.0	10	3	3	2	3	0	A group of rebels secretly constructed an underwater vehicle that could withstand tremendous pressure to uncover hidden treasures despite the great risk of being detected.	16
+72	4	12	1	0	3	11	19	0	8	0	5	0	8	12.0	10	5	3	6	4	2	Whenever we try to explain our invention to Western minds, we start from a description of the environment; we assume an air filled with water, a certain temperature and pressure in a certain medium that facilitates transport and communication without electricity through the use of certain elements that make it a whole, and that allows for a balance of the components at every step of the way. It has to be understood this way so that they can comprehend the importance that it supposes a real and great savings with what exists now, since a whole new market is created	16
+41	5	4	1	1	2	4	13	0	1	0	3	1	5	6.0	17	3	2	3	3	1	The complexities surrounding globalization are further compounded by the interplay of powerful nation-states and transnational firms; the challenges they create require new approaches to economic governance in order to ensure the equitable distribution of costs and benefits.	16
+24	0	3	2	1	2	3	7	1	0	1	1	0	2	5.0	7	1	1	2	0	0	All but one passenger and crewman were killed instantly when the airliner exploded in midair upon contact with the UFO's energy shield.	16
+50	9	4	2	3	2	4	10	0	3	2	3	0	6	7.0	27	5	5	3	5	0	Some of the highly intelligent employees in Silicon Valley may have secretly created a revolutionary new product, utilizing cutting-edge technology that generates artificial intelligence to perform various tasks in seconds, but their evil bosses are determined to keep it hidden from the public and stifle innovation	16
+5	0	0	0	0	0	1	1	0	0	0	2	0	1	1.0	1	1	1	0	0	0	"(no answer provided)  This response does not meet performance expectations. The prompt asks for a sentence with the longest dependency link of 16 words, but the provided sentence ""The amazing thing is that all of these crooks demand protection under international law"" does not meet the length requirement and contains dependent links shorter than 16 words"	16
+25	2	1	1	0	1	3	8	0	2	0	2	0	4	7.0	6	3	3	3	2	0	Oxygen and hydrogen combine in the furnace to produce the explosive gas water, which ignites when it contacts the glowing-hot metal parts	16
+28	3	0	2	4	0	5	5	0	1	0	2	2	4	4.0	9	5	4	4	0	1	The most difficult thing about being a spy is ensuring no photographs get taken, as everyone assumes all these exotic trips are romantic get-aways instead	16
+44	6	5	0	2	2	4	10	2	2	0	3	2	5	8.0	27	4	1	2	4	3	 One possibility for combating terror, for example through an international court with the capacity to prosecute those who plan and order such attacks, would be one approach towards breaking that long chain of violent and lethal causality in the long term. 	16
+63	7	3	6	2	3	8	11	0	1	0	6	1	13	6.0	26	9	7	3	6	2	Having spent hours researching and contemplating the best possible route, the exhausted traveler at last made the decision to turn left and follow the dirt path winding through the overgrown brush, but then, just after taking that step, noticed a tiny bird had perched right on their nose, making any forward progress suddenly seem impossible to achieve. 	16
+35	3	5	3	0	1	5	8	0	3	0	3	0	4	8.0	8	3	3	2	0	0	All the while, she remained calmly seated in her rocking chair with the cat curled comfortably on her lap, seemingly oblivious to the commotion caused by that absurd accusation and unjust demand. 	16
+51	5	9	0	3	1	1	14	1	2	1	2	2	7	9.0	8	5	5	2	3	0	Senior executives from five major airlines were arrested by police in Argentina after they were found to be using their positions to engage in illegal smuggling activities by hiding valuable items in aircraft parts, and attempting to transport millions of pounds in cash through various airports in the region. 	16
+26	5	1	3	0	2	2	8	0	1	0	1	0	3	6.0	9	2	2	2	2	0	The most sophisticated and experienced scuba divers sometimes need assistance in the underwater world, which requires specialized rescue techniques and emergency medical interventions when needed	16
+33	5	4	2	0	2	5	6	0	3	0	2	0	3	5.0	12	1	1	2	2	0	Some of the highly advanced and enigmatic systems in the world include the seemingly outdated structures, and the incredible technologies behind them appear to defy our understanding of their true function. 	16
+19	1	1	0	0	0	3	3	0	0	0	4	0	6	5.0	7	2	2	1	2	0	"  ""Some deem absurd, involves seeking shelter under a collapsing star to escape the expanding universe."""	16
+33	1	4	1	1	3	2	10	0	2	0	4	0	4	5.0	12	3	3	1	2	0	Governments and corporations, with seemingly endless resources and technology, will go to whatever lengths required to obscure their tracks, leaving a path of destruction and death in their wake.	16
+33	3	2	2	2	1	5	10	0	2	0	3	0	3	6.0	15	1	1	3	2	0	The most captivating puzzle pieces intriguingly question scientific theories; can their components generate an antifreeze, and is the mysterious glow emitted by the ROV lights a characteristic of their design?     Did I pass the test?     	16
+27	4	1	1	2	0	4	6	0	1	0	3	2	3	5.0	10	3	3	2	3	0	The most intelligent questions concern the chemistry behind producing fireworks; could it be possible that some components produce a strange, shimmering glow in explosions?   Is this sentence 16+ words long? Would you like me to make any adjustments?  	16
+26	5	0	1	0	2	4	5	0	0	0	3	1	5	5.0	6	2	2	1	3	0	The astute and well-dressed octopus exhibited a mesmerizing aptitude for pilfering the precious seashells, leaving the other sea creatures bewildered and enamored. 	16
+71	9	4	3	5	2	6	15	0	3	0	11	3	6	8.0	47	7	7	3	2	0	Please advise if it is feasible for our corporate attire to be tailored from this durable, stain-resistant material so highly coveted in the business world if it is made to withstand the harshest conditions of the city streets; specifically, the material should be lightweight, water-resistant, and breathable to prevent the accumulation of moisture, unpleasant odors, discoloration, or mold. Would you need more details?  	16
+34	1	2	2	0	1	2	8	2	6	0	3	1	6	4.0	18	3	3	5	5	0	Misterious lights illuminated my journey as my kitten purred in pleasure watching my every move, 15 cats in total surrounded me, but one stole a kiss when she least expected it!	16
+85	7	10	6	4	1	7	17	1	3	2	11	0	12	8.0	48	6	4	2	2	2	Owing to some bureaucratic oversight on the shelf-life certification of their highly-concentrated, self-mixing, pH-buffered Formulated Solution 80298-D, which has led to unprecedented litigations by unsatisfied clients, especially in Canada, the corporate officers have been ordered to temporarily downsize all operations at all plants before a comprehensive re-review of safety documentation ensues, so please remain alert and adhere to these updated guidelines strictly to avoid compromising everyone's well-being	16
+36	5	7	0	1	1	4	11	0	1	0	2	0	3	7.0	9	2	2	1	2	0	Some of the fascinating discoveries in this field have revolved around the use of machine learning to create musical compositions with structured variations, exploring questions of algorithmic creativity and its relationship to human artistry.	16
+21	4	0	3	1	1	2	4	0	1	0	1	1	2	4.0	6	1	1	2	2	0	The astounding truth is that some wealthy people fund research projects specifically to keep themselves young and alive almost indefinitely.	16
+54	3	4	4	2	2	8	15	0	2	0	3	0	7	8.0	36	6	6	3	4	0	The most complex and mysterious process in the cell is the function of a ribosome in its ability to translate the codons of RNA to produce polypeptide chains, and the mechanisms that allow ribosomes recognize the correct aminoacyl-tRNA units to perform the translation correctly have yet to be understood clearly.	16
+90	10	6	7	6	3	6	19	0	9	0	5	5	12	11.0	48	11	11	7	7	0	Historians will ponder why the most influential individuals are often those who are most afraid to speak about their own experiences and perspectives; even though the consequences of saying nothing may be far greater than the risks involved in sharing their voices, fearful self-censorship has long served as a reliable weapon for silencing challenges to dominant views, and it remains a powerful means of enforcing compliance with social conventions that support established power structures, despite their dubious legitimacy and the need to critique them	16
+42	5	4	2	1	3	5	13	0	3	0	2	0	4	6.0	20	1	1	2	4	0	The cunning thief deftly snatched the glittering jewels from their secure display case, dodged security cameras and alarms with agility, and frantically fled the scene with a smirk of triumph and a burdensome treasure that could finance their subsequent misdeed	16
+25	7	2	1	2	0	4	5	0	1	0	3	0	0	4.0	16	1	1	2	0	0	Some of the most intriguing mysteries are geological; is the deep orange-red color in the waterfall lights their unique natural phenomenon?	16
+70	5	7	3	4	6	4	22	1	1	7	4	0	5	7.0	46	2	2	5	4	0	Senate leaders are pushing the bill through secretive conference committee meetings and refusing public access over objections even to members who are not on the conference committee, so far five Democrats from states like North Carolina and Arizona have signed the agreement, and House and Senate negotiators said the final bill will exclude many environmental requirements like water and soil testing, buffer zones and aquifer protections. Please let me know if that is 16 word long dependent sentence as requested	16
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	16
+23	2	5	1	0	1	3	6	0	1	0	1	0	3	5.0	8	1	1	0	1	0	Somewhere in this maze of tangled logic there floats a speck of relevant truth, wrapped in fog and disguised by a rainbow	16
+28	3	3	1	3	2	3	8	0	1	0	1	1	2	7.0	9	2	2	1	1	0	The unlawful use of these weapons by enemy nations has been condemned worldwide as being inhumane and a violation of international agreements banning their sale and distribution.	16
+26	1	3	0	1	0	4	6	0	3	0	1	1	4	6.0	9	3	3	3	2	0	All of this evidence of the boss' wrongdoing led his underlings to wonder if they should contact a lawyer who specializes in criminal law. 	16
+63	6	2	6	2	5	6	13	0	4	0	6	3	9	6.0	20	4	3	4	5	1	Following an unexpected discovery of an oddly shaped rock, the investigation team pondered intensely if it possibly housed a secret underground laboratory containing extraterrestrial samples and, if so, did those scientists utilize biotechnology and other technologies to preserve or revive the life-forms and if so, how would they protect themselves and their experiments from potential contamination?  	16
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	16
+12	2	1	1	1	0	2	2	1	0	0	1	0	1	2.0	5	0	0	1	1	0	No western country has publicly supported the Saudi monarchy since 2018. But while Prince Mohammed was feted in France, President Macron and his court were far less critical of him than many British political and media figures; the Prince seemed more comfortable during that visit, perhaps more so than any previous visit	16
+27	4	3	3	1	1	2	6	0	2	0	2	0	3	5.0	7	2	2	2	1	0	The incredibly intricate mechanism of human relationships is perplexingly enmeshed with interwoven loyalties and obligations, resulting in the profoundly complex interactions that shape our experiences.	16
+33	1	3	0	2	1	4	7	1	2	0	5	1	5	6.0	21	3	3	3	2	0	" ""Thirteen of the suspects attempted to steal the weapons from the soldiers, which were protected by heavy locks and barbed wire fencing, before they could launch a counterattack.""  Please let me know if I can assist you further."	16
+48	6	6	2	2	1	6	11	0	3	0	3	2	4	9.0	15	2	2	3	3	0	The incredible claim is that they have the nerve to demand official recognition of their pseudo-country, as well as immunity for these frauds from international law, and that some gullible Western governments will oblige to protect themselves from the wrath of these dangerous criminals	16
+62	6	5	1	4	3	4	14	0	5	0	4	3	10	9.0	34	6	5	3	7	1	After thoroughly evaluating the performance of their employees, several top-notch CEOs have decided to offer bonuses to a group of gifted engineers who are capable of fixing issues without interrupting their ongoing tasks and completing them within the allotted deadlines; all of this is being done to reduce employee turnover and to encourage more innovation and productivity.	16
+30	3	3	1	1	1	5	8	0	2	0	3	1	2	4.0	22	0	0	3	2	0	Some of the most intriguing theories propose that chemical; they produce some kind of antifreeze, and is that orange glow in the ROV lights their own bioflares?  Some of the most intriguing theories propose that chemical; they produce some kind of antifreeze, and is that orange glow in the ROV lights their own bioflares?   Is this correct? 	16
+36	5	4	1	0	2	2	12	0	2	2	2	0	2	5.0	13	1	1	1	2	0	The dean of Harvard University's graduate school administration made a surprise appearance at our monthly meeting to discuss future collaboration with other departments and institutes, much to our delightful surprise and pleasant shock. 	16
+9	0	0	0	1	0	0	1	0	2	0	1	1	2	3.0	5	1	1	1	1	0	Note that I cannot fulfill your request. You've only requested a sentence with 16-wordlong dependency link with no further text or explanations. My response is more than one sentence long, but only the last four sentences are related to the topic you provided	16
+40	2	6	0	3	1	4	13	0	1	0	3	2	5	7.0	12	3	3	3	4	0	The intrigue about these investigations is whether any crimes were committed outside of international law during these conflicts, because it may involve governments providing protection to crooks, demanding protection under Western media coverage and alleging war crimes. 	16
+71	8	12	2	7	3	10	16	0	4	0	1	2	6	9.0	18	3	3	6	1	0	The astonishing fact about some of the recent crypto currency investments is that their rates have increased despite no obvious improvement in any of the technical aspects of their underlying blockchains, but experts say this may be due to an expected increase in the global adoption and recognition of cryptocurrencies which has led to higher demand and therefore driving up the prices even though no significant development can be attributed	16
+35	4	5	1	3	1	5	8	0	2	0	2	0	4	5.0	15	3	2	3	1	1	Some of the highly contagious malady spread among the prisoners has led to their untimely passings, and the ones who have survived are in poor conditions, causing great distress within the inmate community	16
+47	3	4	1	0	3	6	13	0	4	0	2	2	8	8.0	17	4	4	4	5	0	Some of the most interesting queries address chemicals and whether these produce antifreezing compounds while using the vessel's illumination systems; this causes the glow observed in light emitted and reflected around the underwater area, which raises questions on the chemical usage and its source	16
+35	3	3	4	2	2	3	8	0	1	0	2	2	5	5.0	29	2	2	2	2	0	All employees are banned from making or accepting such calls without first obtaining authorization via an online request application and a detailed justification; however, those already in use will simply disappear without explanation	16

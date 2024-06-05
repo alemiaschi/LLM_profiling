@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	 The clock glowed with a steady rhythm.	0
+13	0	0	2	1	0	3	0	3	0	2	1	0	1	1	1	2	0	4.0	1	4	The clock strikes six, illuminating the room with a warm glow.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sleeps soundly in the sun.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sleeps soundly in the sun.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	0
+7	0	0	1	1	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	A rose blooms beneath the sun.	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	I am reading a book.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The book rested comfortably on the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The apple is ripe and sweet.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+10	0	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	4	The red ball is rolling on the green carpet.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+13	0	0	2	1	0	4	0	2	0	2	0	0	2	1	1	1	0	3.0	1	6	The clock glowed orange, casting long shadows across the bedroom wall.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+18	1	0	2	1	1	4	1	3	0	2	0	1	1	0	2	1	0	3.0	0	10	The clock chimes precisely on the hour, but I do not require any additional timing devices.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apples are red.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the ball.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is ripe.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	 The apple is red.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat on the mat, purring contentedly.	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	 The book is on the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat sat on the mat.	0
+14	0	0	2	2	0	4	1	3	0	2	0	0	0	1	2	0	0	3.0	1	7	The cat sat on the mat, its purrs echoing through the house.	0
+18	0	0	2	2	0	4	1	3	0	2	0	0	4	1	1	1	0	3.0	1	6	The vibrant red apple hangs ripe on the branch, tempting the passerby with its alluring aroma.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	0
+13	0	0	1	2	0	5	0	3	0	2	0	0	0	1	1	0	0	4.0	1	4	A crimson apple sits nestled in the hollow of the oak tree.	0
+11	0	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun shines upon the garden, creating vibrant flowers.	0
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat jumped onto the mat and purred.	0
+11	0	0	2	1	0	4	0	2	0	2	0	0	0	1	1	2	0	3.0	1	4	The clock strikes midnight, illuminating the sky with stars.	0
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	4.0	1	6	The sun shines brightly on the flowers, producing a vibrant spectrum of colors.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat climbed the tree.	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	The book was read in a single sitting.	0
+13	1	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The blue house sits on a hilltop, overlooking the valley below.	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The tomato is red.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+8	0	0	1	0	0	1	0	1	0	1	0	1	2	1	1	0	0	2.0	1	2	A ripe banana is sweet to eat.	0
+13	0	0	2	1	0	3	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The clock glowed with a soft tick, marking the precise moment.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+16	1	0	2	2	0	3	1	2	0	3	0	0	2	1	1	0	0	3.0	1	6	The orange cat leaped onto the red carpet, landing perfectly on its intended spot.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The student diligently completed the homework on time.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped cautiously onto the mat.	1
+20	1	0	5	1	0	5	1	3	0	2	1	0	0	1	2	2	0	4.0	1	6	"Sure, I generated a sentence with 1 adverb: ""The student meticulously completed the homework assignment."""	1
+8	1	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The chef expertly prepared the delicious meal.	1
+12	1	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The cat jumped excitedly to the ball, showcasing its agility.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly to the park.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The flower bloomed beautifully this morning.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat chased after the ball quickly.	1
+15	1	0	2	1	0	4	0	4	0	2	0	0	1	1	1	2	0	3.0	1	6	The cat swiftly climbed the tree, reaching the juicy fruit at the top.	1
+12	1	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The cat leapt gracefully across the park, showcasing its agility.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dancer gracefully moved across the stage.	1
+15	3	0	3	1	0	2	0	2	0	2	0	1	1	1	1	0	0	4.0	1	5	The painting was exceptionally well-executed, resulting in a visually stunning masterpiece.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped quickly up the tree.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The runner dashed quickly around the park.	1
+14	1	0	2	1	0	4	0	3	0	3	0	0	0	1	1	1	0	3.0	1	5	The brightly colored dress twinkled in the moonlight, illuminating the dance floor.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped quickly to the tree.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat leaped quickly across the table.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran swiftly to the park.	1
+13	1	0	2	1	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The dancer gracefully moved across the stage, showcasing her effortless agility.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat leaped gracefully across the green grass.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly to the park.	1
+12	1	0	2	0	0	3	0	3	0	2	0	0	1	1	1	2	0	3.0	1	4	The cat swiftly climbed the tree, reaching the highest branches.	1
+14	1	0	2	1	0	3	1	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The dog playfully ran around the park, making it a joyful day.	1
+16	1	0	2	1	0	4	1	3	0	3	0	0	0	2	1	2	0	4.0	2	6	The cat leaped quickly to the window, allowing her to see the falling stars.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog raced rapidly down the street.	1
+7	1	0	1	0	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The cat slept soundly last night.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped excitedly across the park.	1
+8	1	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The chef meticulously prepared the culinary masterpiece.	1
+13	1	0	2	1	0	4	1	2	0	2	0	0	0	1	1	2	0	3.0	1	5	The student meticulously completed the homework assignment, finishing it on time.	1
+13	1	0	1	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	The dog ran quickly to the park to play with its friends.	1
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	The dog ran excitedly to the park, bringing joy to the children.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat lazily strolled through the park.	1
+10	1	0	1	1	0	4	0	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The student diligently completed the homework assignment on time.	1
+14	2	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat quickly ran up the tree, leaping gracefully onto the branch.	1
+11	1	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped quickly to the top of the tree.	1
+18	1	0	2	2	0	5	0	5	0	2	0	0	1	1	1	2	0	4.0	1	7	The cat quickly chased the mouse up the tree, creating a delightful spectacle for the onlookers.	1
+8	2	0	2	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	5	The book was exceptionally well-written.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The child danced happily down the street.	1
+13	1	0	2	0	0	4	0	3	0	2	0	0	1	1	1	2	0	3.0	1	5	The student excitedly completed the homework assignment, achieving a perfect score.	1
+11	1	0	2	1	0	3	0	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The train arrived on time, smoothly navigating the tracks.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The student read the book eagerly.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The student diligently studied the material.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran excitedly to the park.	1
+12	1	0	2	0	0	3	0	1	0	2	0	1	1	2	1	1	0	3.0	2	3	The train journey was smooth, allowing passengers to relax comfortably.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly to the park.	1
+10	1	0	1	1	0	4	0	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The student diligently completed the homework assignment on time.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat leaped quickly onto the mat.	1
+11	1	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat leapt quickly to the top of the tree.	1
+12	1	0	1	1	0	3	0	2	0	1	1	0	2	0	1	1	0	2.0	0	7	The chef expertly cooked the flavorful dish with one masterful stroke.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat danced nimbly around the tree.	1
+11	3	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat playfully danced gracefully and attentively in the park.	2
+16	1	0	2	1	1	5	0	3	0	2	0	0	1	1	1	2	0	3.0	1	8	The chef meticulously chopped the vegetables with precision and swiftness, creating a culinary masterpiece.	2
+14	2	0	2	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	The cat quickly ran to the park, excitedly playing with her friends.	2
+14	2	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	6	The cat swiftly dashed to the park, leisurely strolling along the path.	2
+13	2	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat leapt quickly and cautiously to the top of the tree.	2
+19	2	0	3	1	1	4	0	4	0	3	0	0	1	1	1	2	0	3.0	1	11	The cat playfully leaped onto the table, quickly traversing the surface, and devoured the delicious treat.	2
+10	3	0	1	0	1	2	0	2	0	1	0	0	0	0	1	1	0	3.0	0	3	The cat expertly climbed the tree quickly and effortlessly.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat leaped swiftly and gracefully onto the mat.	2
+18	4	0	2	2	1	3	0	3	0	3	0	0	0	2	1	0	0	4.0	2	8	The cat leaped playfully and quickly to the window, peering intently at the birds flying freely.	2
+12	2	0	1	1	0	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	6	The book was captivatingly read in the comfortably cozy living room.	2
+12	2	0	1	1	1	2	0	2	0	2	0	0	1	0	1	0	0	3.0	0	4	The cat playfully leapt and joyfully danced across the green grass.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The dog ran quickly and effortlessly to the park.	2
+19	2	0	2	2	1	4	0	4	0	3	0	0	1	1	1	1	0	5.0	1	5	The young dancer gracefully leaped and swiftly moved across the stage, leaving an impression on the audience.	2
+11	2	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	3.0	0	3	The cat playfully leaped and gracefully danced across the room.	2
+18	4	0	2	2	1	3	2	2	0	2	0	0	0	1	2	0	0	4.0	1	6	The child ran quickly and quietly to the park, where he played happily with his friends.	2
+16	2	0	2	2	1	3	0	2	0	2	0	1	1	0	1	0	0	3.0	0	7	The cake was meticulously decorated with intricate designs, and flawlessly arranged on the table.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat leaped gracefully and effortlessly onto the mat.	2
+16	2	0	1	1	1	5	0	4	0	2	0	0	0	0	1	2	0	3.0	0	6	The gardener meticulously pruned the roses and effortlessly transported the flower pots to the greenhouse.	2
+13	2	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat jumped excitedly and swiftly to the top of the tree.	2
+11	2	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The dog quickly chased the ball vigorously across the park.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	 The cat slept soundly and happily in the sun.	2
+17	2	0	2	2	0	5	0	4	0	2	0	0	0	1	1	2	0	3.0	1	8	The dog quickly chased the ball wildly across the park, bringing joy to the children.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat chased excitedly and stealthily up the tree.	2
+20	2	0	2	2	1	4	1	4	0	2	0	1	1	1	2	1	0	4.0	1	6	The book was read attentively and quickly by the student, who finished the novel in a single sitting.	2
+15	3	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	6	The cat quickly raced around the park, playfully skipping ahead of the child.	2
+15	3	0	2	2	0	3	1	2	0	2	0	0	0	1	1	0	0	4.0	1	5	The puppy playfully raced across the park, skipping excitedly ahead of its owner.	2
+14	2	0	2	0	1	3	1	2	0	2	0	0	1	1	1	2	0	3.0	1	7	The student wrote a poem quickly and expertly, showcasing her creative talent.	2
+13	2	0	3	0	1	2	0	1	0	2	0	1	1	0	1	0	0	2.0	0	7	The book was eagerly read, and meticulously highlighted, last night.	2
+10	3	0	1	0	1	2	0	2	0	1	0	0	0	0	1	1	0	3.0	0	3	The student diligently completed the assignment quickly and expertly.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The dog raced excitedly and cautiously around the park.	2
+18	2	0	2	1	1	3	1	2	0	3	0	1	2	1	1	1	0	3.0	1	8	The book was beautifully illustrated and interestingly translated into multiple languages, making it a captivating read.	2
+16	3	0	2	2	1	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	8	The cat leaped swiftly and quietly across the park, landing softly on the grass.	2
+19	2	1	2	2	0	5	0	4	0	2	0	0	1	1	1	2	0	4.0	1	8	The student diligently completed the assignment on time, while meticulously organizing the notes for the upcoming exam.	2
+15	2	0	2	1	1	3	0	3	0	2	0	1	0	0	2	0	0	3.0	0	10	The cat slept soundly through the night, and the book was read attentively.	2
+13	3	0	1	1	1	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	5	The cat playfully chased the ball quickly and expertly across the park.	2
+18	2	0	2	2	1	3	0	3	0	3	0	1	1	1	1	0	0	4.0	1	5	The book was expertly read and thoughtfully summarized, resulting in a comprehensive understanding of the plot.	2
+15	2	0	1	3	1	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat leapt quickly and gracefully to the top of the tree at dusk.	2
+16	3	0	3	0	1	2	1	2	0	3	0	0	1	2	1	2	0	3.0	2	8	The gardener meticulously mowed the lawn, quickly and efficiently, making it look pristine.	2
+13	2	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat leapt quickly and silently to the top of the tree.	2
+17	2	0	2	2	1	5	0	3	0	2	0	0	0	1	1	1	0	3.0	1	9	The dog raced quickly and playfully along the park trail, bringing joy to the children.	2
+14	2	0	2	1	1	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	8	The child danced exuberantly and happily to the music, captivating the audience.	2
+20	3	0	2	2	1	5	0	4	0	2	0	1	0	0	2	1	0	3.0	0	10	The book was expertly read aloud by the actor, and the listener attentively paid attention to every detail.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat ran quickly and cheerfully to the park.	2
+14	2	0	2	1	1	3	0	1	0	1	0	1	2	0	1	0	0	3.0	0	5	The book was effortlessly read aloud, with meticulous pacing and captivating delivery.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat danced quickly and playfully down the stairs.	2
+17	2	0	2	2	1	3	2	2	0	2	0	0	1	1	1	1	0	3.0	1	8	She ran quickly and quietly to the store, completing her errand in a timely manner.	2
+12	1	0	1	1	1	5	0	2	0	1	0	0	0	0	1	1	0	3.0	0	5	The student diligently completed the homework assignment with speed and accuracy.	2
+17	2	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	8	The cat quickly chased the mouse across the park, angrily barking at the same time.	2
+20	3	1	2	0	2	2	1	2	0	2	0	3	1	1	3	0	0	3.0	1	11	The book was read attentively and carefully, but the plot was not as engaging as I had hoped.	2
+16	2	1	1	2	0	4	0	4	0	2	0	0	0	1	2	0	0	3.0	1	8	The cat playfully bounced on the mat while the child excitedly chased after the ball.	2
+22	1	1	2	3	0	5	0	5	0	3	0	1	1	1	2	0	0	3.0	1	13	The book was eagerly read by a captivated audience in a quiet library, while the wind swept through the trees.	4
+13	4	0	4	0	1	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	8	The young girl danced gracefully, quickly, smoothly, and expertly.	4
+25	6	0	4	1	1	4	0	4	0	4	0	0	1	0	1	2	0	3.0	0	19	The dog jumped quickly to the right, excitedly ran straight ahead, cautiously approached the unfamiliar object, and bravely faced the challenge.	4
+26	4	1	3	3	0	6	1	3	0	4	0	0	1	3	1	1	0	5.0	3	7	The playful pug dog ran quickly around the park, playfully chasing butterflies while excitedly leaping over the grass, effortlessly gliding towards its owner.	4
+25	4	0	4	2	1	5	0	5	0	4	0	0	0	0	1	2	0	3.0	0	19	The cat climbed quickly up the tree, effortlessly navigated the branches, skillfully maneuvered through the leaves, and effortlessly reached the fruit.	4
+17	4	0	4	1	1	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	13	The cat chased the mouse across the park tirelessly, furiously, playfully, and eagerly.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The cat jumped quickly to the tree, excitedly, angrily, and eagerly.	4
+18	4	0	5	0	1	2	0	2	0	2	0	1	1	1	1	1	0	3.0	1	10	The homework was completed expertly, meticulously, promptly, and thoughtfully, making the teacher proud.	4
+26	4	0	4	3	1	5	0	5	0	4	0	0	0	0	1	1	0	3.0	0	19	The cat quickly dashed across the park, excitedly ran towards the playground, carelessly stumbled over a rock, and triumphantly reached the swings.	4
+23	3	0	3	4	0	6	0	4	0	3	0	0	0	2	1	1	0	5.0	2	9	The cat chased the ball quickly through the park, excitedly leaping onto the swing, carelessly swinging from side to side.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	11	The cat danced swiftly, playfully, carelessly, and excitedly in the meadow.	4
+14	4	0	4	0	1	2	0	2	0	1	0	0	0	0	1	1	0	3.0	0	7	The student completed the homework diligently, efficiently, quickly, and accurately.	4
+28	3	0	4	4	1	5	0	5	0	2	0	0	4	1	1	0	0	4.0	1	12	The cat leaped quickly and effortlessly over the red, fluffy carpet, effortlessly gliding to the warm, sunny spot in the center of the room.	4
+25	4	0	4	2	1	6	0	4	0	4	0	0	0	2	1	1	0	5.0	2	9	The children danced excitedly around the playground, happily singing a song, playfully skipping, and eagerly reaching for the ice cream truck.	4
+16	4	0	5	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	12	The dog chased eagerly, quickly, gracefully, and cautiously, through the park.	4
+21	4	0	5	1	1	4	0	4	0	2	0	0	0	1	1	1	0	3.0	1	13	The guests danced excitedly to the music, cheerfully, loudly, and eagerly, making the party a joy.	4
+17	5	0	4	1	2	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	10	 The cat jumped quickly and effortlessly along the fence, effortlessly, excitedly, and purposefully.	4
+17	4	0	2	1	1	3	0	3	0	3	0	0	0	1	1	1	0	3.0	1	9	The dog swiftly chased the butterfly quickly across the park, happily skipping and bounding ahead.	4
+24	4	0	4	2	1	4	0	4	0	4	0	0	1	0	1	1	0	3.0	0	16	The cat jumped eagerly to the tree, quickly climbed the branches, playfully wandered, and softly landed on the soft grass.	4
+18	2	0	2	2	2	4	0	3	0	2	0	0	1	0	1	0	0	3.0	0	11	The cat jumped quickly and carelessly across the rainbow, despite the heavy rain and scorching heat.	4
+15	4	0	3	1	1	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	11	The students danced playfully, excitedly, gracefully and meticulously during the school dance.	4
+26	4	0	4	2	1	6	0	5	0	4	0	0	0	0	1	2	0	3.0	0	20	The cat jumped quickly to the window, excitedly raced down the street, meticulously followed the park path, and finally reached the playground.	4
+23	7	1	4	1	0	3	0	3	0	4	0	0	0	3	2	0	0	4.0	3	7	The kitten raced quickly through the park, playfully skipping ahead, while the dog excitedly raced alongside, joyfully skipping backwards.	4
+23	4	0	5	2	1	4	1	3	0	2	0	0	1	1	1	1	0	3.0	1	13	The dancer performed gracefully, expertly, smoothly, and swiftly in the recital, captivating the audience with her expressive movements.	4
+21	4	0	5	1	1	3	0	3	0	2	0	0	2	1	1	1	0	3.0	1	13	The young child danced excitedly, gracefully, effortlessly, and quickly to the music, creating a joyful atmosphere.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	11	 The students danced happily, carelessly, swiftly, and enthusiastically at the prom.	4
+16	5	0	5	0	1	2	0	2	0	1	0	0	0	0	1	1	0	3.0	0	6	The students eagerly completed the project, swiftly, expertly, meticulously, and intelligently.	4
+24	3	1	4	1	1	4	2	2	0	5	0	0	0	3	2	1	0	6.0	3	7	The students danced excitedly on the floor, playfully jumping and skipping, while their teacher supervised attentively, ensuring everyone's safety.	4
+16	4	0	4	1	1	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	12	The cat leaped gracefully, swiftly, expertly, and quickly across the rainbow bridge.	4
+24	2	0	2	1	2	6	0	2	0	4	0	0	5	2	1	2	0	6.0	2	6	The young dancer gracefully executed the intricate choreography, smoothly transitioning between effortless movements and vibrant steps using swift grace and coordinated timing.	4
+20	3	0	3	2	0	3	0	3	0	2	0	0	4	1	1	0	0	3.0	1	11	The mischievous cat leapt quickly back to the warm, soft bed, happily skipping along the soft carpet.	4
+20	2	0	4	2	0	4	0	3	0	2	0	0	3	1	1	0	0	3.0	1	9	The cat gracefully leaped onto the soft, green grass, swiftly moving towards the mischievous, barking dog.	4
+13	4	0	4	0	1	1	0	1	0	1	0	1	0	0	1	0	0	3.0	0	5	The homework was completed meticulously, precisely, promptly, and accurately.	4
+20	4	0	5	1	1	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	14	The cat danced swiftly, gracefully, silently, and excitedly around the rose bushes, delighting the onlookers.	4
+16	4	0	4	0	1	1	0	1	0	4	0	1	0	0	1	0	0	3.0	0	10	The homework is meticulously completed, promptly submitted, efficiently graded, and perfectly organized.	4
+30	4	0	4	5	1	6	0	3	0	5	0	1	1	2	1	0	0	7.0	2	7	The cake was meticulously arranged on the table with precision, gracefully adorned with colorful frosting, meticulously sprinkled with dried fruit, and smoothly presented with a flourish.	4
+14	4	0	4	0	1	2	0	2	0	1	0	0	0	0	1	1	0	3.0	0	7	 The kitten chased the ball playfully, quickly, carelessly, and excitedly.	4
+18	3	0	2	2	1	3	0	3	0	2	0	0	2	1	1	0	0	3.0	1	10	The cat jumped quickly and cautiously along the dusty path, cheerfully skipping in a carefree manner.	4
+17	4	0	4	1	1	2	0	2	0	1	0	1	1	0	1	0	0	3.0	0	12	The cake was sliced evenly, quickly, perfectly, and smoothly with a sharp knife.	4
+16	4	0	4	0	1	1	0	1	0	4	0	1	0	0	1	0	0	2.0	0	10	The cake was perfectly sliced, meticulously arranged, deliciously decorated, and expertly served.	4
+23	4	0	2	2	2	4	0	4	0	3	0	0	2	1	1	1	0	4.0	1	9	The cat jumped quickly and effortlessly across the park, effortlessly traversing the smooth path and smoothly gliding over the green grass.	4
+19	4	0	5	1	1	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	12	The puppy chased the ball playfully, rapidly, angrily, and fiercely, running alongside the child.	4
+23	4	0	4	2	1	4	1	3	0	4	0	0	0	0	1	1	0	3.0	0	16	The students excitedly raced through the park, eagerly jumped over the fence, cheerfully chatted, and triumphantly completed their mission.	4
+17	4	0	5	1	1	2	0	2	0	1	0	0	1	0	1	0	0	3.0	0	13	The children danced joyfully, swiftly, gracefully, and excitedly, to the captivating music.	4
+30	4	0	4	4	1	5	0	3	0	4	0	1	4	2	1	0	0	5.0	2	13	The cake was beautifully decorated with intricate floral designs, flawlessly arranged with perfect symmetry, generously distributed across the table, and smoothly cut with a sharp knife.	4
+23	4	0	5	2	1	4	0	3	0	2	0	0	2	1	1	1	0	4.0	1	14	The flowers danced cheerfully, quickly, eagerly, and expertly across the sun-kissed meadow, creating a vibrant tapestry of color.	4
+14	5	0	4	0	1	1	0	1	0	1	0	1	0	0	1	0	0	3.0	0	5	The book was meticulously read quickly, smoothly, loudly, and attentively.	4
+24	4	0	4	1	1	5	0	4	0	4	0	0	0	0	1	2	0	4.0	0	14	The students meticulously mastered the task, eagerly participated, diligently completed the assignment, and attentively listened to the instructor's lecture.	4
+19	4	0	4	1	1	2	0	1	0	4	0	1	1	0	1	0	0	3.0	0	13	The cake was meticulously decorated with intricate frosting, smoothly sliced, professionally arranged, and expertly served.	4
+17	4	0	4	1	1	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	13	 The cat chased the mouse swiftly, smoothly, cautiously, and excitedly down the road.	4
+24	2	0	2	3	1	5	0	4	0	3	0	0	4	1	1	0	0	5.0	1	7	 The quick brown fox jumped over the sleeping lion, playfully skipping and merrily dancing to the rhythmic melody of a joyful song.	6
+43	4	0	5	3	1	11	0	7	0	6	1	0	5	2	1	5	0	5.0	2	28	The mischievous child danced wildly across the dance floor using six intricate adverbs of manner, effortlessly maneuvered a colorful rainbow, effortlessly traversed a treacherous mountain path, and concurrently completed a complex task, leaving an impression on all attendees.	6
+47	7	0	7	5	1	10	1	7	0	7	0	0	2	5	1	3	0	8.0	5	8	The cat danced gracefully across the park, excitedly bouncing in a whirlwind of joy, expertly maneuvering through the treacherous terrain, confidently heading towards the sunset, rapidly increasing its speed, skillfully traversing a steep incline, and effortlessly dominating the obstacle course.	6
+33	1	1	6	5	1	7	0	5	0	6	0	0	1	2	1	0	0	5.0	2	12	The mischievous kitten danced with delight, skipping through the forest, leaping over the babbling brook, hopping on the trampoline, and bounding with joy, all while singing happily.	6
+41	6	0	6	4	1	8	0	7	0	4	0	0	5	2	1	2	0	7.0	2	13	The playful puppy excitedly chased the feathered toy, effortlessly leaping over the red carpet, swiftly across the yellow bridge, effortlessly dodging a fallen apple, speedily towards the rose garden, and cautiously towards the unsuspecting gardener.	6
+27	5	0	4	3	0	4	0	4	0	6	0	0	1	1	1	0	1	5.0	2	10	The meticulously planned journey, expertly navigated through a meticulously plotted course, resulted in a smoothly executed arrival, perfectly timed with the lunar eclipse.	6
+31	3	0	4	3	2	8	0	5	0	4	0	0	2	1	1	3	0	5.0	1	11	The chef expertly sliced the vegetables, meticulously arranged the herbs, and flawlessly executed the final dish with speed and alacrity, resulting in a masterpiece of culinary delight.	6
+30	7	0	7	3	1	5	0	5	0	1	0	0	1	0	1	1	0	3.0	0	23	 The cat chased the mouse furiously, cautiously, quickly, eagerly, smoothly, and effortlessly along the crooked path, much to the amusement of the onlookers.	6
+19	6	0	6	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	15	The cat danced playfully, swiftly, eagerly, confidently, clumsily, and carelessly on the mat.	6
+28	6	0	7	1	2	3	0	3	0	2	0	0	4	1	1	1	0	5.0	1	18	The mischievous cat danced playfully, effortlessly, swiftly, gracefully, humorously, and artfully around the fluffy rug, creating a chaotic yet endearing scene.	6
+37	5	0	4	5	2	7	2	5	0	5	0	0	1	1	1	1	0	5.0	1	28	The cat jumped swiftly and silently to the top of the tree, effortlessly managed to climb up the tall tower, gracefully danced across the playground, and cheerfully greeted her owner upon his arrival.	6
+27	3	0	5	2	1	5	0	3	0	7	0	0	1	1	1	2	1	5.0	2	8	The meticulously crafted sentence, brimming with precisely chosen adverbs, flowed effortlessly across the page, evoking vivid memories, and captivating the captivated audience.	6
+22	7	0	7	1	1	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	17	 The clockwork orange shone brightly, angrily, stubbornly, occasionally, fiercely, occasionally, and playfully throughout the day.	6
+26	3	0	5	2	1	4	0	3	0	3	0	0	5	0	1	1	0	4.0	0	8	The vibrant, humorous, and meticulous chef meticulously prepared a delicious, meticulously arranged meal, delivered flawlessly to the hungry guests with promptness.	6
+32	5	2	3	2	1	6	0	6	0	4	0	0	3	2	4	0	0	4.0	2	16	The brightly colored wildflowers swayed wildly in the breeze, while the children danced joyfully, and the mischievous squirrels scampered excitedly up the trees as the happy birds chirped incessantly.	6
+40	7	1	5	2	2	7	1	5	0	6	0	0	4	3	1	3	0	7.0	3	8	The energetic runner swiftly navigated the winding path, effortlessly accomplishing the challenging task, gracefully gliding over the soft ground, and excitedly racing ahead, all while attentively listening to music and thoughtfully planning her next move.	6
+31	8	0	6	1	2	2	0	2	0	8	0	1	1	1	1	0	0	4.0	1	15	The meticulously planned and cleverly executed operation was smoothly implemented, flawlessly coordinated, expertly completed, accurately timed, and effectively monitored, resulting in a highly satisfactory outcome.	6
+27	8	0	7	2	1	3	1	2	0	3	0	0	0	1	1	0	0	3.0	1	15	The meticulously crafted sentence danced elegantly across the page, incorporating meticulously, gracefully, subtly, ardently, passionately, and fiercely into its flow.	6
+33	1	1	5	4	1	7	0	6	0	2	0	0	6	1	2	1	0	3.0	1	20	"""The swift kitten chased the nimble fox across the crooked path in the swift current, yet cautiously, while the bewildered onlookers watched in delight from the lofty heights."""	6
+24	6	0	7	1	1	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	17	The cat danced quickly, angrily, excitedly, desperately, meticulously, and thoughtfully around the park, creating a whimsical dance.	6
+22	6	0	7	1	1	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	18	 The dog chased the ball quickly, eagerly, fiercely, excitedly, cautiously, and purposefully, across the park.	6
+29	3	0	6	2	2	7	1	3	0	2	0	0	3	1	1	2	0	5.0	1	12	The dancer effortlessly executed each move gracefully with precision, speed, and fluidity, mesmerizing the audience fiercely with her expressive, passionate, and vibrant choreography.	6
+42	3	0	5	7	0	12	0	6	0	4	0	0	5	1	1	1	2	5.0	3	23	The intricate dance of cascading water droplets, meticulously choreographed by the gentle wind, flawlessly synchronized with the rhythmic sway of ocean waves, created a mesmerizing symphony of motion, ultimately leading to a serene retreat on the shore.	6
+31	4	0	6	1	1	8	0	2	0	4	0	0	5	0	1	1	0	5.0	0	20	The enthusiastic chef prepared a meticulous feast with intricate flavors, intricate designs, meticulously selected ingredients, rapidly cooked dishes, perfectly seasoned food, and flawlessly coordinated presentation.	6
+35	6	0	6	1	1	7	2	4	0	6	0	0	1	1	1	4	0	4.0	1	19	The eagerly awaiting students excitedly chatted, meticulously arranged their desks, diligently studied the textbook, desperately grasped the concepts, and patiently listened to the teacher's lecture, ensuring their understanding.	6
+31	1	0	4	3	2	6	1	4	0	3	0	0	7	1	2	1	0	7.0	1	9	The quick brown fox jumps over the sleeping tiger and sprinkles glitter on the enthusiastic young children, who excitedly dance in the vibrant, mesmerizing, and dazzling moonlight.	6
+24	6	0	6	2	1	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	16	The mischievous puppy danced playfully, quickly, expertly, smoothly, gracefully and carelessly with the ball, bringing joy to all.	6
+23	6	0	6	1	1	4	0	3	0	1	0	0	1	0	1	1	0	3.0	0	12	The playful puppy chased the bouncing ball swiftly, excitedly, frantically, expertly, clumsily, and eagerly across the park.	6
+33	6	0	4	2	0	6	0	5	0	5	0	0	5	3	1	2	0	8.0	3	7	The enthusiastic pianist performed a mesmerizingly energetic show, flawlessly coordinated with the intricately scheduled rhythm section, expertly conducted by the charismatic maestro, ultimately delivering a profoundly impressive musical experience.	6
+21	6	0	6	1	1	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	13	 The playful cat leaped effortlessly across the crooked path, quickly, smoothly, gracefully, majestically, and passionately.	6
+35	8	0	4	2	0	5	1	5	0	6	0	0	4	5	3	1	0	6.0	5	11	A swift parrot fluently flew freely across a fertile forest, speedily traversing a perilous path, confidently soaring high above a meticulous gardener who diligently worked silently, ensuring the plants flourished abundantly.	6
+19	3	0	2	2	1	4	0	2	0	3	0	0	2	1	1	0	0	5.0	1	5	The meticulously crafted sandwich arrived precisely at the opportune moment, satisfyingly devoured with fervent passion and grace.	6
+31	6	1	3	4	0	5	0	5	0	3	0	0	4	2	1	0	0	5.0	2	9	The agile cat quickly jumped high, confidently over the rainbow while gracefully gliding on a silky parachute, ultimately landing softly on the soft grass beneath a radiant moon.	6
+24	6	0	6	0	1	2	0	2	0	6	0	0	1	1	1	1	0	3.0	1	16	The young dancer gracefully leaped, meticulously coordinated, swiftly traversed, expertly synchronized, smoothly flowed, and passionately embraced the spotlight.	6
+23	6	0	7	1	1	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	17	The cat danced flawlessly, gracefully, swiftly, smoothly, nimbly, and elegantly across the playground, delighting the spectators.	6
+19	6	0	6	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	15	The dancer moved gracefully, hurriedly, swiftly, smoothly, effortlessly, and fluently across the stage.	6
+44	8	0	6	2	1	8	0	7	0	8	0	0	4	1	1	5	0	5.0	1	27	The enthusiastic chef meticulously arranged the meticulously prepared ingredients, quickly measured the precisely weighed quantities, efficiently chopped the vibrant vegetables, diligently assembled the elaborate cake, and flawlessly coordinated the team of bakers, resulting in a truly delectable treat.	6
+29	7	0	7	2	1	3	2	3	0	2	0	1	1	1	2	1	0	3.0	1	19	The mischievous monkey swung excitedly, cautiously, speedily, meticulously, eagerly, and gracefully to the hanging fruit, eagerly grasping it with all his might.	6
+37	6	1	3	3	1	8	0	5	0	6	0	0	4	2	2	2	0	6.0	2	10	The meticulously arranged flowers danced beautifully in the meticulously crafted vase, gracefully decorating the grand table, while the elegantly poised waiter served the carefully prepared food with impeccable timing and meticulous attention to detail.	6
+32	8	0	3	3	0	5	0	5	0	7	0	0	1	2	1	1	0	5.0	2	9	The brightly colored cat expertly danced gracefully around the wildly swinging hammer, effortlessly gliding through the meticulously crafted flowerpot, leaving a surprisingly pristine trail across the delicately arranged tablecloth.	6
+30	2	0	8	0	1	10	1	2	0	3	0	0	3	2	1	3	0	5.0	2	15	The swift painter expertly wielded her colorful palette, skillfully blending emerald, azure, crimson, sapphire, gold, and violet shades, creating a vibrant masterpiece.	6
+48	4	0	8	6	1	11	0	8	0	5	0	0	5	3	1	2	0	7.0	3	10	A hummingbird, swift as the wind, flew quickly to the nectar-laden flowers, gracefully navigating through the fragrant air, expertly avoiding the buzzing bees, and smoothly landing on the emerald leaves, delivering a load of sweet honey to the hive.	6
+40	6	0	5	5	1	8	0	6	0	6	0	0	3	3	1	1	0	7.0	3	8	The swift parrot flew gracefully over the luminous sky, happily skipping through the emerald jungle, meticulously navigating through the winding path, swiftly reaching the towering tree, and triumphantly returning home with the spoils of war.	6
+33	1	0	6	2	3	8	2	3	0	3	0	0	5	1	1	3	0	6.0	1	12	The enthusiastic dancer effortlessly executed the intricate steps with grace, precision, and swiftness, thrilling the audience and captivating their hearts with her vibrant, energetic, and captivating performance.	6
+36	4	0	4	5	2	7	0	2	0	5	0	1	6	2	1	0	0	8.0	2	6	The meticulously crafted cake was meticulously decorated with intricate floral patterns, gracefully draped in silken fabric, and adorned with fragrant flowers, ultimately presented to the guest with utmost sincerity and genuine warmth.	6
+21	7	0	6	0	1	2	0	2	0	1	0	0	2	0	1	1	0	3.0	0	12	The enthusiastic student effortlessly completed the challenging task diligently, quickly, efficiently, effortlessly, methodically, and passionately.	6
+31	1	0	4	3	1	6	1	3	0	6	0	0	6	2	1	1	1	7.0	3	7	The swift, agile dancer adorned with twinkling jewels leaped gracefully across the emerald tapestry, her expressive movements adorned with subtle yet graceful gestures, captivating the enthralled audience.	6
+46	7	1	7	4	0	9	1	7	0	7	0	0	3	5	1	3	0	8.0	5	7	The cat swiftly raced across the muddy ground, eagerly chasing the red ball, quickly passing the sleeping dog, carelessly swinging on the rope, leisurely strolling along the sidewalk, perfectly aligning with the stars, while meticulously planning its next move.	6
+27	1	0	7	3	1	9	0	3	0	2	0	0	1	1	1	1	0	3.0	1	19	The mischievous child ran rapidly to the park with haste, nimbleness, swiftness, determination, dexterity, and force, bringing joy to all.	6
+7	2	0	2	0	0	1	0	1	0	0	0	1	0	0	0	0	0	2.0	0	3	Certainly, here is the sentence: The cat danced playfully, quickly, excitedly, smoothly, effortlessly, and gracefully while chasing the butterfly.	6

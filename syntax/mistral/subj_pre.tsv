@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+10	0	2	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The sun slowly rises on the horizon at dawn.	0
+10	1	1	0	0	0	2	3	0	0	0	2	0	1	2.0	3	0	0	1	1	0	1	1	Over the hill, clouds form an eerie pattern.	0
+15	0	2	0	0	0	4	5	0	0	0	3	0	1	4.0	4	1	1	0	1	0	1	0	Over the mountain, the wind howls, leaving no trace in the snow.	0
+10	2	1	0	0	1	1	2	0	0	0	2	0	1	3.0	3	0	0	1	0	0	0	1	Over the hill, trees stood tall and proud.	0
+14	1	2	0	0	0	2	4	0	1	0	2	0	2	3.0	9	1	1	1	1	0	1	1	Fog clings to the cool water of the lake, obscuring its reflection.	0
+11	0	1	0	0	0	0	3	0	1	0	3	0	3	3.0	4	1	1	1	1	0	1	1	Through rain-soaked streets, I saw children playing.	0
+11	1	1	0	1	0	2	2	0	1	0	1	0	2	2.0	3	0	0	1	1	0	1	1	Through a thick forest I could see the glittering lake.	0
+10	1	2	0	0	0	2	2	0	1	0	1	0	1	3.0	4	0	0	1	0	0	0	1	A clear path through the garden lay before them.	0
+14	0	1	2	0	1	1	3	0	0	0	3	0	3	2.0	5	0	0	2	0	0	0	2	Beneath the towering redwoods, streams flow peacefully, and birds sing harmoniously.	0
+14	0	2	0	0	0	0	5	4	0	1	1	0	1	3.0	11	0	0	0	0	0	0	0	Bake in oven thirty minutes apple pie at three hundred fifty degrees Fahrenheit.	0
+7	0	1	0	0	0	0	3	0	0	0	1	0	2	2.0	2	0	0	1	0	0	0	1	Baked cookies aroma wafted through room.	0
+5	0	0	0	0	1	0	2	0	0	0	1	0	1	3.0	2	0	0	0	1	0	1	0	Raining cats and dogs.	0
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The leaves dance in the gentle breeze.	0
+11	0	1	1	0	0	1	2	0	2	0	2	0	2	2.0	4	1	0	1	0	1	0	1	Following your instructions carefully, I proceed with the task.	0
+8	0	1	0	0	0	1	2	0	1	0	2	0	1	2.0	3	0	0	1	1	0	1	1	After lunch, I saw a movie.	0
+9	1	1	0	0	0	1	3	0	0	0	1	0	1	3.0	6	0	0	1	0	0	0	1	Ripples danced upon the lake's reflective surface.	0
+12	3	1	1	0	0	2	2	0	0	0	2	0	1	2.0	10	0	0	0	1	0	1	0	Ran the red car quickly down the long, empty street.	0
+16	1	2	0	0	0	3	4	0	0	0	3	0	3	3.0	4	1	1	1	1	0	1	1	Over the rolling hills, the sunlight filters in gold, creating a breathtaking landscape.	0
+13	0	2	0	0	1	2	5	0	0	0	2	0	1	3.0	6	0	0	1	1	0	1	1	Under the arches of rain, the crystal drops shimmer and dance.	0
+10	0	1	1	0	0	2	2	0	0	0	2	0	2	3.0	7	0	0	1	0	0	0	1	Ran down the hill, the leaves scattered around.	0
+14	1	1	0	0	1	3	4	0	0	0	1	1	2	4.0	7	1	1	2	1	0	1	2	The sun sinks towards the horizon as the sky turns orange and pink.	0
+11	0	2	0	0	0	2	3	0	0	0	2	0	2	3.0	6	2	1	0	0	1	0	0	Swinging from the chandelier, the room filled with laughter.	0
+13	0	2	0	0	0	2	6	0	0	0	2	0	1	3.0	7	0	0	1	0	0	0	1	Rain patters on the roof, tree limbs wave in the wind.	0
+11	1	2	0	0	0	2	3	0	1	0	1	0	1	3.0	4	0	0	0	2	0	2	0	Through the forest streams me a small brook at sunset.	0
+10	0	2	0	0	0	2	3	0	0	0	2	0	1	3.0	6	0	0	1	0	0	0	1	Among the trees, a family of monkeys played.	0
+9	0	0	1	0	1	0	3	0	0	0	2	0	2	4.0	6	1	0	1	1	1	1	1	Raining cats and dogs, umbrellas open widely.	0
+16	2	2	0	0	0	2	4	0	0	0	3	0	3	4.0	7	2	1	1	1	1	1	1	Through the arched entrance, colorful lanterns suspended from trees flickered, lighting the path.	0
+9	0	1	1	0	0	1	2	0	0	0	2	0	2	2.0	5	1	0	1	0	1	0	1	Raining heavily, the windowpanes gleam with droplets.	0
+9	0	1	0	1	0	2	2	0	0	0	2	0	1	2.0	5	0	0	1	0	0	0	1	Over the hill, the sun was setting.	0
+9	1	2	0	0	0	0	2	0	1	0	2	0	1	4.0	4	0	0	0	0	0	0	0	Basking in sunlight, colors vibrant around me.	0
+12	2	1	0	1	0	2	2	0	1	0	1	1	1	2.0	10	1	1	1	1	0	1	1	Bake a cake in the oven until it's golden brown.	0
+9	0	2	1	0	0	1	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	Rivers gently flow around pebbles on the riverbed.	0
+8	0	1	1	0	0	0	2	0	0	0	2	0	2	4.0	3	1	1	0	1	0	1	0	Raining heavily, windows streaming with water.	0
+10	2	1	0	0	0	2	2	0	0	0	2	0	1	2.0	5	0	0	1	0	0	0	1	Through the dense forest, a faint light flickered.	0
+11	0	2	1	0	0	1	2	0	1	0	2	0	2	3.0	5	1	1	1	0	0	0	1	Rain falls on the roof, pinging loudly against it.	0
+14	0	2	0	0	0	2	4	0	1	0	2	0	3	4.0	8	2	1	1	2	1	2	1	Bouncing a ball in the park, I see children playing with joy.	0
+7	1	1	1	0	0	0	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	Rain drops gently on colorful umbrellas.	0
+9	0	0	2	0	0	1	2	0	0	0	2	0	2	3.0	4	1	1	1	1	0	1	1	Rain pours down heavily, soaking the earth.	0
+7	0	1	1	0	0	1	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	Snowflakes drift silently to the ground.	0
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	A sudden hush fell over the crowd.	0
+16	1	3	0	0	0	2	3	0	2	0	3	0	2	4.0	8	1	0	2	1	1	1	2	Amidst the chaos, their laughter ringing out, they found joy in the unexpected.	0
+10	1	1	0	0	0	1	2	0	2	0	2	0	1	2.0	3	0	0	1	2	0	2	1	Amid hushed whispers, I handed him the envelope.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The ball rolled down the hill.	0
+12	0	2	0	0	0	3	3	0	1	1	2	0	0	3.0	8	0	0	1	0	0	0	1	Sprint through the forest, the trees a blur around you.	0
+10	1	2	0	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Breathtaking views of the mountains unfold from the valley.	0
+11	0	1	0	0	1	1	5	0	0	0	2	0	1	3.0	6	0	0	1	0	0	0	1	Under the weeping willow, birds nest and children play.	0
+9	0	1	0	0	0	1	5	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	An ice cream cone melts in summer sun.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rises over the hill.	0
+11	0	1	1	0	0	2	3	0	0	0	2	0	2	3.0	5	1	0	1	1	1	1	1	Raining heavily, the wind carries the sound of thunder.	0
+18	2	2	0	0	1	2	5	0	0	0	2	0	4	4.0	5	1	1	0	2	0	2	0	Over the hills rolled an orange sun, casting long shadows behind swaying trees and rippling fields.	0
+7	0	1	1	0	0	1	1	0	0	0	2	0	1	2.0	4	0	0	1	0	0	0	1	Silently, the clock ticked on.	1
+12	0	3	0	0	0	2	4	0	0	0	2	0	1	2.0	4	0	0	1	0	0	0	1	In the lab, the experiment ran for hours without interruption.	1
+6	0	0	1	0	0	0	2	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	Cats crepently approach their prey.	1
+9	0	1	1	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The storm clouds gathered ominously in the sky.	1
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	An eagle gracefully soars in the clear sky.	1
+7	0	1	0	0	0	2	3	0	0	0	1	0	0	2.0	3	0	0	0	0	0	0	0	A kangaroo hops across the desert.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat sleeps soundly on the couch.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The wind whistles softly through the trees.	1
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	A butterfly gracefully glides across the open field.	1
+9	0	1	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The stars twinkle brilliantly in the night sky.	1
+6	1	0	1	0	0	0	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	Cats nimbly navigate steep rooftops.	1
+9	0	1	0	0	0	2	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The sunlight dances on the water's surface.	1
+10	0	1	1	0	0	2	3	0	0	0	2	0	1	2.0	5	0	0	1	0	0	0	1	Under the setting sun, the leaves gently rustle.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat by the window.	1
+9	0	1	0	0	0	1	3	0	0	0	1	1	2	2.0	6	1	1	2	0	0	0	2	Silence descends upon the forest as twilight deepens.	1
+13	0	1	1	0	0	2	3	0	2	0	1	1	2	3.0	6	1	1	2	1	0	1	2	The wind whips my hair back as I jog along the riverbank.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	A lion roars in the savanna.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cats purr contentedly beside the fireplace.	1
+9	0	1	0	0	0	2	2	0	0	0	1	0	2	3.0	3	1	1	1	0	0	0	1	The sun begins to rise over the horizon.	1
+6	0	1	0	0	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Caramel melts in the heat.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun slowly rises over the horizon.	1
+8	0	1	1	0	0	2	1	0	0	1	1	0	1	2.0	4	0	0	1	0	0	0	1	A lion roars majestically in the Savannah.	1
+9	0	2	0	0	0	2	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	A flock of birds ascends into the sky.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun sets slowly behind the mountain.	1
+18	0	3	0	0	1	3	6	0	0	0	2	0	3	4.0	7	1	1	1	1	0	1	1	The wind howls through the valley, creating a symphony of rushing air against rocks and trees.	1
+13	1	1	0	0	0	2	3	0	1	0	2	1	2	3.0	5	1	0	1	2	1	2	1	Before starting the project, we outlined a clear plan of action.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The dog jumps over the fence.	1
+11	1	1	0	0	0	3	4	0	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The sun setting casts a brilliant glow over the horizon.	1
+6	0	1	0	0	0	0	3	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Frog sits among lily pads.	1
+7	0	1	0	0	0	1	3	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Morning sun rises above the hills.	1
+7	1	1	0	0	0	1	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	Crickets chirp under the pale moonlight.	1
+10	0	2	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The sun slowly descends beyond the horizon at sunset.	1
+8	1	1	0	0	0	1	2	0	0	0	2	0	1	2.0	5	0	0	1	0	0	0	1	Amidst chaos, a calm deer observes.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun slowly rises over the horizon.	1
+13	0	2	0	0	0	2	3	0	2	0	2	0	2	4.0	9	1	0	1	1	1	1	1	Basking in the warmth of the sunlight, I enjoy my coffee.	1
+10	1	1	0	0	0	2	4	0	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	Morning sunlight bathes the garden in a gentle glow.	1
+11	1	1	0	0	0	2	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The sun sets over the horizon, casting long shadows.	1
+9	1	1	0	0	0	1	4	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	Morning sun paints the sky with golden hues.	1
+10	0	2	0	1	0	1	2	0	1	0	2	0	1	2.0	4	0	0	1	1	0	1	1	Before sunset, we'll set up the campfire.	1
+9	0	1	0	0	0	1	3	0	0	0	2	0	2	3.0	4	1	1	1	1	0	1	1	Fog descends, cloaking the valley in mist.	1
+11	2	1	0	0	0	3	3	0	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	The moon casts an ethereal glow upon the serene landscape.	1
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The dog barks loudly.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The ball rolls smoothly across the floor.	1
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The dog barks loudly.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun sets gradually over the horizon.	1
+12	0	1	0	0	0	3	4	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The sunlight filtered through the branches, illuminating the forest floor.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The clock chimes every hour.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat jumps over the fence.	1
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The raindrops danced on the window pane.	1
+8	0	1	0	0	0	1	4	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	Morning sun paints the clouds in gold.	1
+8	0	0	0	0	0	2	2	0	0	0	2	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises, the flowers bloom.	2
+8	0	1	0	0	1	1	1	0	2	0	1	0	1	3.0	3	0	0	1	0	0	0	1	She and I laughed at the joke.	2
+14	0	1	0	0	0	3	4	0	0	0	1	1	3	3.0	8	2	2	2	0	0	0	2	The sun rises above the mountains as the morning breeze begins to stir.	2
+8	0	0	0	0	0	2	2	0	0	0	1	1	2	3.0	4	1	1	2	0	0	0	2	The sun rises while the river flows.	2
+11	0	1	0	0	1	2	4	0	0	0	1	0	2	3.0	5	1	1	1	0	0	0	1	Cats and dogs play fetch in the park every morning.	2
+10	0	1	2	0	1	1	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Apples and oranges often roll down the hill simultaneously.	2
+16	0	2	0	0	0	5	5	0	0	0	2	0	2	3.0	9	0	0	2	1	0	1	2	The cat chased the mouse across the room, the sun set over the horizon.	2
+10	1	0	0	0	0	0	5	0	0	0	2	0	2	4.0	5	0	0	1	1	0	1	1	Morning dew kissed petals awake, fragrance filled room.	2
+13	0	1	0	0	0	3	3	0	0	0	1	1	3	3.0	7	2	2	2	0	0	0	2	The sun rises over the mountains as the birds begin to sing.	2
+10	1	1	0	0	1	1	1	0	2	0	1	0	1	3.0	5	0	0	1	0	0	0	1	She and he laugh at each other's jokes.	2
+13	0	1	0	0	0	3	3	0	0	0	1	1	3	3.0	7	2	2	2	0	0	0	2	The sun rises over the sea as the birds begin to sing.	2
+8	0	0	0	0	0	2	2	0	0	0	2	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises, the birds sing.	2
+14	0	2	0	0	0	4	4	0	0	0	2	0	2	3.0	7	0	0	2	0	0	0	2	The cat sat on the mat, the sun rose in the sky.	2
+11	0	1	0	0	0	3	3	0	0	0	1	1	2	3.0	4	1	1	2	0	0	0	2	The sun rises while the dew dries on the grass.	2
+9	0	1	1	0	0	1	1	0	1	0	2	0	2	3.0	5	0	0	2	0	0	0	2	She sings sweetly, the nightingale joins in.	2
+8	0	0	0	0	1	0	2	0	2	0	1	0	2	2.0	4	0	0	2	2	0	2	2	She baked cookies and he washed dishes.	2
+8	0	0	0	0	0	2	2	0	0	0	2	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises, the deer grazes.	2
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat and the dog chase each other around the garden.	2
+14	0	2	0	0	0	4	4	0	0	0	2	0	2	3.0	7	0	0	2	0	0	0	2	The wind whispers through the trees, the sun sets over the horizon.	2
+11	0	1	0	0	0	3	3	0	0	0	1	1	2	3.0	7	1	1	2	0	0	0	2	The sun rises over the ocean as the birds sing.	2
+8	0	0	0	0	0	2	2	0	0	0	2	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises, the wind sighs.	2
+11	0	1	0	0	0	3	3	0	0	0	1	1	2	3.0	7	1	1	2	0	0	0	2	The moon rises over the mountains as the sun sets.	2
+16	1	2	0	0	0	3	6	0	1	0	2	0	1	4.0	4	0	0	1	0	0	0	1	The morning sun rises over the still lake; the dew glimmers on its surface.	2
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat and the dog chased each other through the park.	2
+8	0	0	0	0	1	2	3	0	0	0	1	0	1	3.0	4	0	0	2	0	0	0	2	The sun rises and the birds chirp.	2
+8	0	0	0	0	0	2	2	0	0	0	2	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises, the wind howls.	2
+10	0	0	2	0	0	2	2	0	0	0	1	1	2	3.0	5	1	1	2	0	0	0	2	The sun sets slowly as the river flows steadily.	2
+8	0	0	2	0	0	0	2	0	0	0	2	0	2	2.0	4	0	0	2	0	0	0	2	Birds chirp melodically, leaves rustle softly.	2
+11	1	1	1	0	1	1	3	0	1	0	1	0	1	3.0	4	0	0	1	1	0	1	1	Cats and kittens playfully chase their tails alongside each other.	2
+10	0	0	1	0	2	2	3	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	Both the dog and the postman brought presents home.	2
+13	0	2	0	0	0	3	3	0	1	0	1	1	2	3.0	7	1	1	2	0	0	0	2	The sun rises over the hill as the river flows beneath it.	2
+14	0	2	0	0	0	3	4	0	1	0	1	1	2	3.0	7	1	1	2	0	0	0	2	The sun rises over the ocean as the mountains awaken with their shadows.	2
+8	0	0	0	0	0	2	2	0	0	0	2	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises, the birds sing.	2
+8	0	0	0	0	1	2	3	0	0	0	1	0	1	3.0	4	0	0	2	0	0	0	2	The sun rises and the birds chirp.	2
+14	0	1	0	0	0	3	6	0	0	0	1	1	2	3.0	6	1	1	2	2	0	2	2	The moon illuminates the night sky as sunlight reflects off the ocean waves.	2
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The dog and the postman chased each other down the street.	2
+8	0	0	0	0	1	2	2	0	0	0	1	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises and the birds sing.	2
+13	1	1	0	1	1	3	4	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	Both dogs and children are enjoying the sunny day in the park.	2
+8	0	0	0	0	1	2	2	0	0	0	1	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises and the birds sing.	2
+8	0	0	0	0	1	2	4	0	0	0	1	0	0	2.0	4	0	0	0	0	0	0	0	The wind howls and the rain pounds.	2
+12	0	1	1	0	0	3	3	0	0	0	1	1	2	3.0	8	1	1	2	0	0	0	2	The sun rises over the mountains as the mist slowly ascends.	2
+8	0	0	0	0	1	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The wind howls and the trees tremble.	2
+16	0	0	0	0	2	4	5	0	0	0	2	0	3	4.0	12	0	0	3	0	0	0	3	The sun rises and the clouds scatter,  The cats meow and the birds chirp.	2
+15	1	2	0	0	2	4	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Both the cats and the birds compete for the ripe cherries on the tree.	2
+8	0	0	0	0	1	2	2	0	0	0	1	0	2	3.0	4	0	0	2	0	0	0	2	The sun sets and the wind rises.	2
+9	0	0	2	0	2	0	2	0	0	0	1	0	2	3.0	4	0	0	1	0	0	0	1	Cats and kittens frequently purr and nap together.	2
+12	0	1	1	0	0	3	3	0	0	0	2	0	2	4.0	5	1	1	2	0	0	0	2	The sun rises over the ocean, the mist gradually lifting.	2
+11	0	1	0	0	0	3	3	0	0	0	1	1	2	3.0	7	1	1	2	0	0	0	2	The wind howls through the trees as the sun rises.	2
+6	0	0	0	0	1	0	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	Birds chirp and flowers bloom.	2
+8	0	0	0	0	1	2	2	0	0	0	1	0	2	3.0	4	0	0	2	0	0	0	2	The sun rises and the birds sing.	2
+12	0	0	0	0	0	3	3	0	0	0	3	0	3	4.0	4	0	0	3	0	0	0	3	The sun rises, the fish leap, the flowers bloom.	3
+22	0	3	0	0	1	6	6	0	0	0	3	0	3	3.0	15	0	0	3	0	0	0	3	The cat jumps over the dog, the bird flies beneath the tree, and the wind whistles through the grass.	3
+12	0	0	0	0	0	3	3	0	0	0	3	0	3	4.0	4	0	0	3	0	0	0	3	The sun rises, the birds sing, the flowers bloom.	3
+9	0	0	0	0	0	0	3	0	0	0	3	0	3	2.0	6	0	0	3	0	0	0	3	Dogs bark, cats purr, children laugh.	3
+24	1	3	0	0	1	4	7	0	1	0	2	0	4	5.0	8	1	1	3	1	0	1	3	The monkey swung from tree to tree, the sun began to set and the birds chirped their last songs of the day.	3
+24	0	3	2	0	1	6	6	0	0	0	3	0	3	3.0	16	0	0	3	0	0	0	3	The sun rose over the hills, the birds sang sweetly in the trees, and the river flowed gently through the valley.	3
+8	0	0	0	0	0	0	4	0	0	0	1	0	3	3.0	2	2	2	2	1	0	1	2	Dogs bite men chase cats climb trees.	3
+24	0	2	0	0	1	6	7	0	1	0	3	0	4	4.0	10	1	1	4	2	0	2	4	The cat chased the mouse that ate the bread, the boy watched in amazement, and the sun set over the horizon.	3
+15	0	0	0	0	0	0	4	0	6	0	3	0	2	3.0	10	0	0	4	0	0	0	4	She her cat feeds, he her plant waters, they their dogs walk.	3
+17	0	1	2	0	0	4	4	0	0	0	3	0	3	3.0	12	0	0	3	0	0	0	3	The sunlight filtered through the leaves, the birds sang harmoniously, the breeze rustled softly.	3
+12	0	0	0	0	0	0	6	0	0	0	3	0	3	3.0	4	0	0	3	3	0	3	3	Dogs fetch balls, bees produce honey, leaves change color.	3
+20	0	2	0	0	0	6	6	0	0	0	3	0	3	3.0	14	0	0	3	1	0	1	3	The cat sat on the mat, the sun rose over the hills, the wind stirred the leaves.	3
+23	2	1	1	0	0	4	6	0	2	0	3	0	4	3.0	16	0	0	3	2	0	2	3	The snow fell softly on the silent trees, the wind chilled my shivering bones, the nightingale sang her melancholic song.	3
+12	0	0	0	0	0	3	4	0	0	0	3	0	2	3.0	8	0	0	2	0	0	0	2	The cats purr, the wind howls, the sun rises.	3
+56	4	6	1	0	4	0	21	0	1	1	9	0	8	6.0	38	3	3	5	4	0	4	5	Mornings in Paris bring bustling markets, vendors arranging produce, and children on their way to school; foggy autumn nights ignite fireplaces in cozy homes, neighbors gossiping, and pets snuggled up close; and crisp winter mornings awaken forest creatures, leaves crunching beneath hikers' boots, and campfires glowing.	3
+11	0	0	0	0	0	1	5	0	0	0	3	0	2	3.0	4	0	0	2	1	0	1	2	The sun rises, birds sing, morning mist lifts.	3
+19	0	2	0	0	0	0	10	0	1	0	3	1	2	4.0	9	0	0	3	1	0	1	3	Morning dew clings to grass blades, birds begin their dawn songs, while sunlight tiptoes over horizon.	3
+16	1	1	1	0	0	1	4	0	0	0	4	0	4	3.0	8	1	1	1	1	0	1	1	Crows cackling, leaves rustling, river running, echo loudly in the tranquil forest.	3
+12	0	0	0	0	0	3	3	0	0	0	3	0	3	3.0	8	0	0	3	0	0	0	3	The rainbow split, the sun emerged, the mist lifteds.	3
+13	0	0	0	0	1	3	4	0	0	0	3	0	2	3.0	5	0	0	2	0	0	0	2	The wind howls, the trees sway, and the rain beats.	3
+22	1	3	1	0	1	2	7	0	0	0	3	0	3	4.0	16	0	0	3	0	0	0	3	Mice scurry through tunnels, flowers bloom beneath the sun's warm rays, and waves gently crash upon the shore.	3
+16	0	1	2	0	1	2	4	0	0	0	3	0	3	3.0	9	0	0	3	0	0	0	3	Dogs bark, snow falls gently, and the leaves rustle quietly in the wind.	3
+13	0	0	0	0	0	0	2	0	3	2	3	0	3	2.0	9	0	0	3	3	0	3	3	She sells Sea Monkeys, he fixes clocks, they paint houses.	3
+10	0	0	0	0	0	1	3	0	0	0	3	0	3	2.0	6	0	0	3	0	0	0	3	The sun rose, birds sang, flowers bloomed.	3
+18	0	0	0	0	2	1	2	0	0	3	5	1	4	3.0	7	1	1	1	1	0	1	1	Mary,John,and Bob laugh,chat,and cheer while watching the football game.	3
+12	0	0	0	0	0	3	4	0	0	0	3	0	2	3.0	4	0	0	3	0	0	0	3	The moon rises, the stars twinkle, the wind howls.	3
+27	2	6	0	0	1	0	12	0	0	0	3	0	3	3.0	18	0	0	3	1	0	1	3	Bald eagles hunt salmon in rivers before sunrise, whales feed in deep oceans at noon, and monarch butterflies rest on milkweed leaves after sunset.	3
+12	0	0	0	0	0	3	3	0	0	0	3	0	3	3.0	8	0	0	3	0	0	0	3	The sun rises, the birds sing, the winds dance.	3
+19	1	1	1	0	1	1	4	0	2	3	4	0	1	3.0	11	0	0	1	0	0	0	1	Mary, her brother John, and their cousin Lisa, laugh uncontrollably at the hilarious comic strip.	3
+12	0	0	0	0	0	3	3	0	0	0	3	0	3	3.0	8	0	0	3	0	0	0	3	The sun rose, the birds sang, the wind blew.	3
+12	0	0	0	0	1	2	3	0	0	0	3	0	3	3.0	8	0	0	3	0	0	0	3	The sun rises, birds sing, and the flowers bloom.	3
+18	0	2	0	0	1	2	5	0	3	0	4	0	1	3.0	10	0	0	1	0	0	0	1	Yesterday, my dog, your cat, and I went for a run in the park.	3
+24	0	3	0	0	1	5	7	0	1	0	3	0	3	4.0	15	0	0	3	0	0	0	3	The cat jumps over the fence, the dog barks at the mailman, and the baby giggles in its mother's arms.	3
+10	0	1	0	0	1	0	1	0	3	0	3	0	1	3.0	6	0	0	1	0	0	0	1	She, he, and it sang in harmony.	3
+11	0	1	1	0	1	1	1	0	0	3	2	0	1	3.0	5	0	0	1	0	0	0	1	Mary, John and George laugh enthusiastically at the joke.	3
+13	0	0	0	0	0	3	4	0	0	0	3	0	3	3.0	9	0	0	3	0	0	0	3	The cat slept, the moon climbed, the wind chimes rang.	3
+15	0	0	0	0	1	3	4	0	0	0	4	0	3	3.0	9	0	0	3	0	0	0	3	Yesterday, the sun rose, the birds chirped, and the flowers bloomed.	3
+12	0	0	0	0	0	3	3	0	0	0	3	0	3	3.0	8	0	0	3	0	0	0	3	The sun sets, the leaves fall, the tides recede.	3
+14	0	1	0	0	1	1	4	0	0	0	4	0	3	2.0	7	0	0	3	0	0	0	3	Under the trees, bees hummed, children laughed, and birds sang.	3
+16	0	1	1	0	0	4	4	0	0	0	3	0	3	3.0	9	0	0	3	0	0	0	3	The sun sets, the birds fly home, the wind whistles through the trees.	3
+15	0	0	0	0	1	3	4	0	0	0	4	0	3	3.0	9	0	0	3	0	0	0	3	Yesterday, the sun rose, the birds chirped, and the flowers bloomed.	3
+21	0	3	2	0	0	4	6	0	0	0	3	0	3	3.0	13	0	0	3	0	0	0	3	The sun rises above the mountains, birds sing sweetly in the trees, frogs croak loudly in the pond.	3
+12	0	0	0	0	0	3	3	0	0	0	3	0	3	4.0	4	0	0	3	0	0	0	3	The sun rises, the birds sing, the wind howls.	3
+15	1	0	0	0	1	0	6	0	1	0	3	0	3	3.0	9	0	0	3	3	0	3	3	Old men play cards, children build forts, and trees shed their leaves.	3
+14	0	0	1	0	1	3	3	0	0	0	3	0	3	3.0	9	0	0	3	0	0	0	3	The cat slept, the flowers bloomed, and the moon shone brightly.	3
+16	0	1	1	0	1	2	5	0	0	0	3	0	3	3.0	12	0	0	3	1	0	1	3	Bears roam the forest, rabbits hop through the meadow, and eagles soar overhead.	3
+22	0	3	0	0	0	6	7	0	0	0	3	0	3	3.0	15	0	0	3	0	0	0	3	The cat slept under the table, the moon shone in the night sky, the wind whistled through the trees.	3
+9	0	0	0	0	0	0	3	0	0	0	3	0	3	2.0	6	0	0	3	0	0	0	3	Mice scampered, flowers bloomed, snowflakes descended.	3
+9	0	0	0	0	0	0	5	0	0	0	3	0	1	2.0	6	0	0	1	0	0	0	1	Dogs bark, frogs croak, stars twinkle.	3
+14	0	2	0	0	1	1	3	0	3	0	3	0	1	3.0	6	0	0	1	1	0	1	1	She, he, and it played tag in the park at sunset.	3
+31	1	3	0	0	1	7	11	0	1	0	4	0	3	5.0	17	0	0	3	3	0	3	3	Each cloud releases rain, the sun warms a frog by its side, a frog hops along the path, and a rabbit nibbles clover in a nearby field.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	3.0	12	0	0	4	0	0	0	4	The sun rises, the snow melts, the birds sing, the flowers bloom.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	3.0	12	0	0	4	0	0	0	4	The sun sets, the geese fly, the children sing, the waves crash.	4
+18	2	0	1	0	0	0	6	0	1	0	4	0	4	3.0	12	0	0	4	1	0	1	4	Moroccan parrots dance, sunflowers grow tall, autumn leaves swirl around, puppies chase their tails.	4
+14	0	0	0	0	1	1	4	0	0	0	4	0	4	3.0	10	0	0	4	0	0	0	4	The sun rose, birds chirped, flowers bloomed, and children laughed.	4
+21	1	1	0	0	1	1	9	0	0	0	5	0	3	3.0	10	0	0	3	2	0	2	3	Every dawn, hummingbirds sip nectar, children laugh at silly jokes, dandelions bloom, and puppies play fetch.	4
+14	0	0	0	0	0	1	5	0	0	0	4	0	4	3.0	6	1	1	4	1	0	1	4	The sun rose, clouds formed, wind blew leaves, snow melted.	4
+17	0	0	0	0	0	4	6	0	0	0	4	0	3	3.0	13	0	0	3	0	0	0	3	The wind whistled, the rain droplets danced, the sun set, the shadows lengthened.	4
+27	1	3	0	0	1	2	9	0	1	0	3	1	5	5.0	11	2	2	4	1	0	1	4	Morning shadows dance on damp ground as ravens preen their feathers, sunflowers turn towards the sun, and fog begins to lift from the creek.	4
+24	0	1	4	0	1	5	5	0	0	0	4	0	4	4.0	17	0	0	4	0	0	0	4	Each cat purrs softly, every dog barks loudly, both children laugh eagerly, and the sun slowly rises above the horizon.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	4.0	12	0	0	4	0	0	0	4	The cat slept, the flowers bloomed, the sun rose, the children laughed.	4
+30	1	2	0	0	1	5	8	0	4	0	5	0	4	3.0	21	0	0	4	2	0	2	4	Every morning, my cat washes her paws, the sun risen over the mountains, the trees sway in the gentle breeze, and I sip my tea.	4
+14	0	0	0	0	0	1	5	0	0	0	4	0	4	3.0	6	0	0	4	1	0	1	4	The sun rises, birds sing, flowers bloom, bees collect nectar.	4
+19	0	0	0	0	1	5	5	0	0	0	4	0	4	4.0	9	1	0	4	0	1	0	4	Every morning the sun rises, the flowers bloom, the birds sing, and the winds blow.	4
+13	0	0	0	0	0	1	4	0	0	0	4	0	4	2.0	9	0	0	4	0	0	0	4	The sun rises, snow melts, birds sing, flowers bloom.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	3.0	12	0	0	4	0	0	0	4	The wind whistles, the leaves dance, the sun rises, the birds sing.	4
+14	0	0	0	0	1	1	6	0	0	0	4	0	2	3.0	10	0	0	2	0	0	0	2	The sun rises, waves lap, wind howls, and mountains stand.	4
+18	0	0	1	0	1	4	4	0	0	0	4	0	4	3.0	14	0	0	4	0	0	0	4	The sun rises, the wind howls, the snow falls softly, and the leaves tremble.	4
+13	0	0	0	0	0	1	5	0	0	0	4	0	3	3.0	6	0	0	3	0	0	0	3	The sun rises, birds sing, frogs croak, leaves tremble.	4
+20	0	0	0	0	1	4	6	0	1	0	5	0	3	3.0	13	0	0	3	1	0	1	3	Every morning, the cat washes itself, birds chirp, the sun rises, and the flowers open.	4
+18	0	0	3	0	0	0	6	0	0	0	4	0	5	4.0	13	0	0	4	0	0	0	4	Morning stars shouted, swaying trees sang softly, autumn leaves danced gracefully, rivers flowed silently.	4
+24	0	5	0	0	0	2	9	0	0	0	4	0	4	4.0	18	0	0	4	0	0	0	4	Apples ripen in autumn, children jump in piles of leaves, flowers bloom under the sun, birds migrate towards the south.	4
+14	0	0	0	0	1	1	5	0	0	0	4	0	3	3.0	10	0	0	2	0	0	0	2	The sun rises, birds sing, roses bloom, and waves crash.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	4.0	12	0	0	4	0	0	0	4	The sun sets, the moon rises, the leaves fall, the rivers freeze.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	4.0	12	0	0	4	0	0	0	4	The sun rose, the birds sang, the flowers bloomed, the wind howled.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	4.0	12	0	0	4	0	0	0	4	The sun rises, the clock strikes, the birds sing, the flowers bloom.	4
+34	1	4	1	0	1	8	11	0	0	0	4	0	4	4.0	14	0	0	4	1	0	1	4	The cat jumps over the moon, the sun sets behind the mountain, the wind chimes ring with a soft tinkling sound, and the stars twinkle brightly in the night sky.	4
+14	0	1	0	0	0	0	6	0	0	0	4	0	3	3.0	11	0	0	3	0	0	0	3	Monkeys dance on rooftops, elephants paint, tigers howl, zebras swim.	4
+22	0	2	0	0	0	2	10	0	0	0	4	0	4	5.0	15	1	1	3	2	0	2	3	Morning stars sang hymns, mountains dripped water, wolves bayed under the moon, autumn leaves danced in the wind.	4
+23	0	0	0	0	1	1	7	0	4	1	5	0	4	3.0	15	0	0	4	3	0	3	4	Monday mornings, my cat sleeps, my dog watches TV, my sister reads the newspaper, and I make breakfast.	4
+14	0	0	0	0	0	2	4	0	0	0	4	0	4	3.0	10	0	0	4	0	0	0	4	A crow cawed, leaves rustled, waves lapped, the wind howled.	4
+25	0	2	1	0	0	6	7	0	1	0	4	0	4	4.0	18	0	0	4	2	0	2	4	The cat chased the butterfly, the butterfly fluttered away, the wind carried it off, the tree branch swayed in the breeze.	4
+21	0	2	0	0	1	1	8	0	0	0	5	0	4	3.0	13	0	0	4	2	0	2	4	Under the weepingwillows, children laugh, kittens play fetch, butterflies dance in mid-air, and birds sing melodies.	4
+26	0	2	1	0	1	5	7	1	1	0	4	0	4	3.0	21	0	0	4	1	0	1	4	An elephant swings its tail, a monkey clings to a tree, two children play with a ball, and a puppy barks loudly.	4
+17	0	0	0	0	1	4	4	0	0	0	4	0	4	4.0	13	0	0	4	0	0	0	4	The sun sets, the trees sway, the birds chirp, and the wind howls.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	4.0	12	0	0	4	0	0	0	4	The sun sets, the winds howl, the leaves fall, the birds migrate.	4
+12	0	0	0	0	0	0	4	0	0	0	4	0	4	3.0	6	0	0	3	0	0	0	3	Mice scamper, flowers bloom, winds sway, oceans roar.	4
+14	0	0	0	0	1	0	6	0	1	0	1	1	4	5.0	4	2	2	4	3	0	3	4	Dogs chase cats that climb trees while birds sing and squirrels gather nuts.	4
+17	0	0	0	0	1	4	4	0	0	0	4	0	4	4.0	9	0	0	4	0	0	0	4	The sun rose, the trees swayed, the birds chirped, and the waves lapped.	4
+20	0	1	0	0	1	2	8	0	0	0	4	0	4	4.0	11	1	1	2	2	0	2	2	Apples falling, leaves rustling, wind howling, and birds flying describe the peacefulness of an autumn afternoon.	4
+19	0	0	1	0	0	4	6	0	0	0	4	0	4	4.0	15	0	0	4	1	0	1	4	The sun sets, the leaves change color, the geese fly south, the autumn breeze arrives.	4
+28	0	0	2	0	1	5	8	0	0	0	5	0	6	4.0	23	1	1	4	2	0	2	4	Every sunrise illuminates the morning fog, the mountains awaken the birds, the streams start to flow gently, and dew-covered leaves glisten brightly.	4
+20	0	1	0	0	0	3	6	0	2	0	5	0	3	4.0	12	0	0	3	0	0	0	3	every morning, the sun rises, the birds sing, my alarm clock rings, I wake up.	4
+27	2	4	1	0	1	0	10	0	0	0	4	0	5	3.0	19	0	0	4	0	0	0	4	Morning stars sang before sunrise, winds whispered among tall trees, shadows danced on empty roads, and autumn leaves fell gently from trembling branches.	4
+14	0	0	0	0	1	1	4	0	0	0	4	0	4	3.0	11	0	0	4	0	0	0	4	Mice run, flowers bloom, leaves fall, and the sun rises.	4
+12	0	0	0	0	0	0	6	0	0	0	4	0	2	2.0	9	0	0	2	0	0	0	2	Mice scamper, wind howls, sun rises, leaves flutter.	4
+16	0	0	0	0	0	4	5	0	0	0	4	0	3	5.0	4	0	0	4	0	0	0	4	The sun rises, the wind howls, the water boils, the leaves quiver.	4
+16	0	0	0	0	0	4	4	0	0	0	4	0	4	5.0	4	0	0	4	0	0	0	4	The sun rises, the birds sing, the flowers bloom, the wind blows.	4
+19	0	2	0	0	1	5	6	0	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	A rabbit, a fox, a frog, and a mole dug in the garden before sunrise.	4
+22	0	1	0	0	1	6	6	0	0	0	4	0	4	4.0	15	0	0	4	1	0	1	4	The cat chased the rabbit, the bird watched, the dog barked, and the wind whispered through the trees.	4

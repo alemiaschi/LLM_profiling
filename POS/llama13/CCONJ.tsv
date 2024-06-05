@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+6	0	0	0	0	0	3	0	1	0	1	0	0	1	0	1	1	0	2.0	0	3	The new marketing strategy improved sales	0
+7	0	0	0	0	0	1	0	1	2	1	0	1	1	0	1	1	1	3.0	1	6	Climbing Mount Everest is an exhilarating experience	0
+25	1	0	4	3	0	5	1	4	1	2	0	1	3	1	2	0	0	4.0	1	13	"  ""The big orange cat purred louder than any cat I have ever heard, with eyes the color of an August sunset."""	0
+6	0	0	1	0	1	3	0	0	0	1	0	0	0	0	1	1	0	3.0	0	2	 Cats chase mice and dogs.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+5	0	0	0	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	Sarah walked into the room	0
+13	0	0	1	1	0	3	1	3	0	3	0	0	1	1	1	2	1	3.0	2	7	Eating the juiciest pear in the orchard made all my worries disappear.	0
+14	0	1	1	3	0	3	1	2	0	2	0	0	1	1	2	0	0	3.0	1	5	The cat purred in satisfaction as it gazed out at the sun-bathed garden. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred sedately on my lap.	0
+19	2	0	2	3	1	4	1	3	0	3	0	0	0	1	2	0	0	4.0	1	6	The cat curled up in a ball and purred quietly, her eyes gleaming brightly in the dark.	0
+15	1	0	2	1	0	3	2	2	0	2	0	2	0	2	2	1	0	4.0	2	6	I can accomplish that task with ease: here's the sentence you requested:  The purple elephant hopped swiftly through clouds.	0
+10	0	0	1	1	1	2	1	1	0	3	0	0	0	1	1	1	0	4.0	1	3	 The cat sat down and began grooming her fur.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap. 	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Mario took the mushroom.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	   The dog barked wildly at the strange object.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The snowflakes fell silently on my face. 	0
+17	0	0	5	1	0	3	0	3	0	1	0	0	4	0	1	0	0	3.0	0	8	The sun, a giant fireball, glowed in the dark, orange-pink sky. 	0
+14	1	0	1	1	1	2	0	2	1	2	0	1	1	0	2	0	0	3.0	0	12	Sara laughed loudly at the silly clown, but the clown was not fazed	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+20	1	0	1	4	0	6	0	2	3	2	0	0	1	0	2	1	0	4.0	0	13	  Blue carpets line the streets of Paris in April, the perfume of crêpes Suzette drifts down from café terraces	0
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap	0
+10	1	0	0	1	0	3	0	2	0	1	1	0	1	0	1	1	0	2.0	0	6	    A black bear chased two cubs deep inside a forest	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The manager interviewed every candidate individually.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+14	0	0	2	2	0	5	0	4	0	1	0	0	0	0	1	1	0	2.0	0	10	The dog chased the cat for a half-hour through the neighborhood. 	0
+10	1	1	1	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The dog ran down the street without looking back.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred softly.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat meowed sleepily on the windowsill.	0
+9	1	0	0	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat jumped over the table and ran outside	0
+12	0	1	2	1	0	2	1	1	1	2	0	0	1	0	1	1	1	2.0	1	5	Despite feeling tired, Mary continued her walk in the park.	0
+10	0	0	3	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	"  ""The black cat ran across the moon."""	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	 The cat purred happily on my lap.	0
+16	0	1	2	2	0	3	2	1	0	3	0	0	2	2	1	2	0	3.0	2	8	Climbing down required great care, lest he lost his footing on the slick rock.	0
+13	0	0	2	1	0	4	1	2	0	2	0	0	1	1	2	0	0	3.0	1	6	The cat purred louder, her tuxedo coat shining in the sunlight.	0
+13	3	0	1	1	0	3	0	0	1	3	0	0	1	1	2	1	0	4.0	1	5	Sally skied silently sideways to secret places where sprites sipped sparkling snowdrops. 	0
+15	1	0	2	4	1	2	1	1	0	1	0	0	2	0	1	0	0	4.0	0	9	 Blue and green mountains stretch out in the far-off distance before me.	0
+54	4	2	5	5	1	10	2	7	0	9	0	3	4	7	4	3	0	13.0	7	12	The sky was blue after the rains finally ceased; nevertheless, no one had remembered to close the gaping garage door until dusk had set it, allowing darkness, and therefore the unknown, to move in like an army of unidentifiable creatures from the shadows cast by various objects left outside	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat Purred contentedly on my lap.	0
+11	0	0	1	0	1	4	0	1	0	3	0	0	0	1	1	3	0	4.0	1	3	Cats climbed trees to catch mice and enjoy the sunshine. 	0
+10	0	0	1	2	0	4	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The snowflakes danced like diamonds in the morning light.	0
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	 Tall dark mountains loomed over the horizon.	0
+12	0	0	0	2	1	3	1	2	0	3	0	0	0	1	1	1	0	5.0	1	5	I went to the beach and saw dolphins playing in the waves	0
+14	1	0	2	1	0	4	1	3	0	2	0	0	0	1	2	1	0	3.0	1	8	The sun rose slowly in the sky, its rays warming the landscape. 	0
+8	0	0	1	1	0	2	0	1	0	2	0	0	1	0	0	1	0	3.0	0	4	" Generate a sentence with multiple coordinating conjunctions. The sentence should connect three phrases or clauses together using ""and,"" ""but,"" and ""or.""   Can you do this? Please respond with a sentence that meets these specifications."	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+10	0	1	1	0	0	2	2	1	0	2	0	0	1	1	2	1	0	2.0	1	5	The cat chased its tail until it got dizzy.	0
+8	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I have generated this sentence for you: Either he stays or he gets out before it escalates into something much nastier, as he could sense her anger reaching a boiling point. Can I help you with something else?	0
+11	1	0	2	1	0	3	1	1	0	2	0	0	0	0	1	0	0	3.0	0	7	The cat sat silently on its mouse-scattered couch.	0
+39	2	1	2	4	2	7	4	4	2	5	0	0	5	3	3	2	0	6.0	3	14	Sarah walked towards work with a brisk pace and a determined expression when she suddenly met her best friend John along the way and had to stop for a quick hug, before they went their separate directions. 	1
+15	1	0	3	1	1	4	0	3	0	0	0	1	1	0	1	0	0	3.0	0	12	The cat, the mouse, and the trap were all in perfect harmony. 	1
+24	0	0	3	2	2	3	1	1	3	3	0	2	2	1	2	1	2	4.0	3	16	With Susan and David, but Mary was unable to attend the party tonight, we will have to reschedule for next week. 	1
+39	0	0	4	5	3	12	2	4	0	5	0	0	3	3	2	2	0	7.0	3	14	The company held several virtual events, including training programs and town halls, but it failed to report them to shareholders in a timely fashion, resulting in a loss of trust and credibility for the corporation.	1
+30	1	0	3	5	2	5	1	0	6	2	2	1	1	1	1	1	1	6.0	2	17	"According to statistics, either Alicia Keys or Beyonce was able to sell 40,000 copies of her song "" Empire state Of Mind"" in only two days after release"	1
+13	1	0	1	1	0	3	0	1	0	2	0	1	3	0	1	1	0	3.0	0	5	   The company has expanded to new markets yet faces significant regulatory challenges.	1
+17	2	0	2	2	1	4	1	3	0	2	0	0	0	0	2	0	0	3.0	0	9	  The cat purred contentedly on my lap, but the dog barked fiercely at the mailman.	1
+18	2	2	1	1	2	3	1	2	0	3	0	0	1	1	2	1	0	4.0	1	10	   The manager requested that we walk through the new procedures carefully and quickly but without sacrificing accuracy. 	1
+19	2	0	2	2	1	2	3	1	0	4	0	0	1	2	1	2	0	4.0	2	7	The cat purrs contentedly and curls up in my lap, softly nudging me to pet her harder. 	1
+19	0	0	1	2	2	5	1	3	0	3	0	0	1	1	1	2	0	5.0	1	5	She bought eggs and cheese and drove to the park to enjoy a peaceful picnic under the shade. 	1
+25	2	0	5	2	1	6	2	2	0	3	0	0	2	0	1	3	0	4.0	0	13	" ""The manager carefully evaluated the project plans, discussing them thoroughly with her team, and making several important suggestions for improvement."""	1
+11	0	1	1	0	1	2	2	1	0	3	0	0	0	1	2	1	0	3.0	1	5	  The birds chirped and sang as they built their nest.	1
+10	1	0	1	1	0	2	0	2	0	1	0	1	0	0	0	0	0	3.0	0	4	Okay, here is the sentence with a coordinating conjunction	1
+17	0	1	1	1	2	4	2	0	4	2	0	0	0	1	2	1	0	4.0	1	9	Sarah and Tom studied for their mathematics test while Jack and Lucy prepared their project presentation.	1
+29	1	0	6	2	1	6	2	5	1	4	0	1	0	2	3	2	0	7.0	2	6	"The coordinating conjunction in the sentence is _and_, connecting the clauses ""she walked slowly"" and ""she felt the warmth of the summer sun."""	1
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	The cat purred softly, but the dog barked loudly.	1
+36	0	1	1	5	1	9	2	6	2	4	0	0	4	3	2	1	0	5.0	3	22	Freddie and his friends enjoyed the live music performed by the local band under the big tent at the beach party last Saturday night because they wanted to dance to the rhythm of the drums. 	1
+12	1	0	2	0	0	2	0	2	0	3	0	1	0	2	0	1	0	5.0	2	3	Okay, here is the sentence generated using a coordinating conjunction:  My older sister and I will pick you up from the airport before our little brother eats all the ice cream we bought. 	1
+31	2	1	3	3	3	5	6	1	0	6	0	0	0	2	3	4	0	5.0	2	17	She ate breakfast with her family and packed sandwiches for later, but before they left, she remembered her homework and rushed back to the house to retrieve it. 	1
+6	0	0	1	0	0	0	1	0	0	1	0	1	1	1	1	0	0	2.0	1	2	I am happy to comply: They walked slowly but surely to the bus stop where they eventually found a cab	1
+9	2	0	1	1	0	1	2	1	0	1	0	0	0	0	1	1	0	2.0	0	6	   I love you very much as a child.	1
+9	1	0	1	1	1	1	0	1	2	1	0	0	0	0	1	0	0	3.0	0	4	Fred and Mia went to the park together. 	1
+10	1	0	1	1	1	2	1	1	1	1	0	0	0	0	1	0	0	3.0	0	4	Sally and her brother walked down the street together. 	1
+17	1	0	2	1	1	3	1	3	0	2	0	0	3	0	2	1	0	3.0	0	7	The blue cat chased the white mouse, but it got away under the red car.	1
+29	1	0	3	3	1	6	5	2	0	4	0	0	3	2	3	2	0	4.0	2	21	The cat purred contentedly on my lap, her soft fur soothing my frazzled nerves, and the gentle rhythm of her purring helped to calm me down. 	1
+31	2	1	2	3	3	6	2	6	0	5	0	0	0	2	3	2	0	4.0	2	12	The dog ran quickly along the street or through the park because the cat hid in the bush or climbed the tree, and he really wanted to catch him; 	1
+22	1	0	4	1	0	5	1	2	0	5	2	1	0	0	1	2	2	5.0	2	13	"Using the instruction words given ""one coordinating conjunction"", I will generate a sentence with only one coordinating conjunction:   The manager meeting all members of staff who were late, requested their excuses, which they delivered with apologies"	1
+13	1	0	3	1	0	2	0	2	0	2	0	0	1	1	1	0	0	3.0	1	4	The team, however, decided to continue with the original plan.	1
+15	3	1	2	1	1	1	0	1	2	3	0	0	0	2	1	0	0	4.0	2	6	Sarah and Rachel, however, preferred walking in the park instead of staying home	1
+11	1	0	2	0	0	3	1	1	0	1	0	1	0	0	1	0	0	1.0	0	8	Okay, this is the requested coordinating conjunction sentence below:  But because she had to do so much homework and study for her math test this week, she was unable to go to the movie even though she really wanted to see it	1
+10	1	0	1	0	1	2	1	2	0	2	0	0	0	0	2	1	0	2.0	0	5	The dog chased the cat but it got away.	1
+32	1	0	1	4	1	10	4	3	0	4	2	0	1	2	2	3	0	7.0	2	9	The company's sales representative worked with three clients at the conference, successfully finalizing their agreements with one collaborative powerpoint presentation that met all of their demands and exceeded their expectations	1
+24	2	0	4	1	1	5	1	3	1	4	1	1	0	0	1	3	1	4.0	1	10	Using the instruction above, here is my sentence with one coordinating conjunction: Fannie enjoyed the park, but hated the swings. 	1
+15	2	1	2	0	1	2	1	2	0	3	0	1	0	1	2	1	0	3.0	1	6	The dog chased the cat, and it ran away quickly before getting caught. 	1
+9	0	0	3	1	2	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	4	Using the conjunctions: for, and, but	1
+22	0	0	1	2	1	4	3	3	1	4	0	0	2	2	2	3	0	4.0	2	14	Sarah enjoyed hiking in the woods with her best friend, but the intense heat forced them both to slow their pace	1
+11	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	4	The dog ran with his tail wagging ____________________ the grass.	1
+29	1	0	2	3	2	7	1	3	0	5	0	0	2	3	2	4	0	5.0	3	16	The teacher provided handouts with detailed explanations and examples of how to solve complex problems, but she forgot to bring a pen to write down the steps. 	1
+20	2	1	1	2	0	5	3	2	0	3	0	0	1	2	3	0	0	4.0	2	7	The cat purred loudly, her furry fur rippling beneath my caressing touch as we sat peacefully in the shade	1
+19	1	0	2	2	0	6	1	2	0	2	0	1	0	1	1	1	0	4.0	1	8	The sales manager, along with her team, are working diligently to reach the quarter's sales targets	1
+11	1	0	3	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	"  ""The cute kitten purred contentedly on my lap."""	1
+17	2	0	3	1	1	3	1	1	0	3	0	0	1	1	1	1	1	4.0	2	7	  Our team, comprised of talented individuals, worked hard and efficiently to meet the challenge. 	1
+27	0	0	3	3	1	5	3	5	0	5	0	1	1	1	2	3	0	5.0	1	15	In this task, I will generate the following sentence: Coordinated by the team and playing their best, they achieved the victory against all odds	1
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Okay! Below is a sentence that uses one coordinating conjunction:   Ruth enjoys hiking & Sarah likes to bike; therefore we go together every weekend. 	1
+31	3	1	2	2	3	4	4	2	1	4	0	2	1	3	4	2	0	6.0	3	28	Mary wanted to eat pasta and pizza but she finally decided to order a hamburger because she was in the mood for something more substantial, and so she did. 	1
+14	0	0	3	1	1	3	3	1	0	2	0	0	0	0	1	1	1	4.0	1	8	  My brother and I, wearing our swimsuits, ran toward the ocean.	1
+27	2	2	4	0	0	5	1	4	0	5	0	2	1	3	3	3	0	5.0	3	13	The manager carefully considered the proposals, however, after reviewing the market trends, she realized that implementing the suggested strategies would not be wise. 	1
+9	0	0	1	0	1	1	0	0	2	4	0	0	0	2	2	1	0	3.0	2	5	Mary likes running, but Peter prefers playing basketball	1
+13	1	0	3	1	1	2	0	2	0	2	0	1	0	0	0	1	1	3.0	1	9	"    Using ""but"" as the coordinating conjunction, Here's the sentence"	1
+17	2	0	2	1	1	3	2	2	0	3	0	0	0	1	2	1	0	4.0	1	9	The dog ran quickly _with_ his master, but he still failed to catch the squirrel. 	1
+21	2	1	1	3	1	5	1	4	0	3	0	0	0	1	2	0	0	4.0	1	7	  The cat chased after the mouse and then jumped over the fence while the dog ran back to its owner. 	2
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that! Below is the sentence:  Without looking at the time, and regardless of the cost, we made our way to the nearest ice cream parlor.	2
+17	1	0	3	1	1	4	0	2	2	2	0	0	1	0	1	2	1	4.0	1	7	 Both wearing sunglasses, Maria and Samantha carefully crossed the busy street hand-in-hand	2
+50	1	1	7	7	2	8	2	6	0	8	2	1	3	3	3	1	0	6.0	3	25	"The two coordinating conjunctions, for and but, effectively connected two contrasting ideas in the following sentence: ""Although we had to walk for miles in the scorching heat, we couldn't help feeling grateful for the breathtaking views of the landscape along the way."""	2
+31	1	1	4	2	1	6	7	1	0	4	0	0	4	2	4	2	0	5.0	2	9	The big, fluffy cat purred contentedly in my lap, its soft fur tickling my hand as I stroked its back, and its playful paws entwined with mine.	2
+28	3	1	4	1	1	4	2	4	0	6	0	1	0	2	3	2	2	4.0	4	11	The dog, although it liked playing with the toy, also liked being petted and therefore, it often dropped the toy to enjoy the attention.	2
+36	2	0	5	3	1	7	4	5	0	7	0	0	1	4	3	3	0	7.0	4	18	" ""I had fun attending the party and dancing to the upbeat music with my friends; however, I wish we had staying a bit longer to enjoy the rest of the festivities."""	2
+24	3	0	2	2	2	5	2	3	0	3	0	0	2	0	1	2	1	5.0	1	12	The red car and the blue car racing quickly through the street, simultaneously honked their horns wildly and sped up their engines. 	2
+26	1	0	2	2	5	6	1	6	0	2	0	1	0	0	2	1	0	4.0	0	14	   Both the rain and the wind howled loudly through the streets, but neither the parasol nor the umbrella could protect us from the elements. 	2
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1.0	0	2	Here it is: The teacher gave a test, which made us study hard, but we passed with flying colors!	2
+16	3	0	1	1	2	4	1	1	0	2	0	0	1	0	1	1	0	4.0	0	5	The dog ran quickly joyfully and playfully chasing his own tail with excitement and energy. 	2
+31	20	0	0	3	1	2	0	1	0	3	0	0	1	2	0	0	0	5.0	2	12	But however therefore yet accordingly accordingly simultaneously consequently thus nevertheless hence finally notwithstanding hence forward meanwhile notwithstanding meanwhile alternatively nevertheless albeit besides nevertheless nonetheless on the other hand notwithstanding in contrast	2
+22	2	0	3	2	1	5	0	5	0	4	0	0	0	2	2	1	0	4.0	2	9	The cat sat on the windowsill, watching the birds fluttering outside, and the clouds drifting lazily across the sky. 	2
+33	4	2	1	2	1	4	5	1	2	7	0	0	1	5	3	2	0	7.0	5	8	Jessica and Michael decided to meet at the park however they forgot their picnic blanket so they had to go back home to retrieve it before heading out for their outdoor date. 	2
+19	1	1	2	2	1	5	1	3	0	3	0	0	0	0	3	1	1	4.0	1	8	With both dogs yelping and the flowers blooming vibrantly, we walked hand in hand towards the sunset. 	2
+22	2	0	3	3	2	3	0	1	4	2	0	0	1	1	1	1	0	4.0	1	12	 Anderson and Brice, along with Susan and Dylan as well, went to class to learn new skills that day. 	2
+26	4	0	3	1	2	3	5	1	0	5	0	0	2	1	3	2	0	5.0	1	10	The cat purred contentedly on my lap, and her soft fur made me feel calm, yet energized, so I stroked her back gently	2
+28	5	0	5	2	2	4	4	2	0	4	0	0	0	0	1	3	1	3.0	1	14	The dog, running rapidly, furiously fetched the ball, yet carefully carrying it in his mouth, and happily brought it back to his owner. 	2
+20	0	0	2	2	2	6	3	2	0	3	0	0	0	0	2	2	0	4.0	0	13	  She went to the park and bought an ice cream cone, but she forgot her wallet at home. 	2
+36	4	1	2	1	0	6	4	4	0	6	0	3	4	4	4	4	0	6.0	4	16	The new project requires the simultaneous involvement of both teams to ensure a successful launch, thus they will collaborate closely whereas however obstacles might appear they will overcome them jointly using their diverse expertise. 	2
+28	5	1	2	2	0	6	1	4	0	4	0	0	2	2	2	0	0	5.0	2	13	The teacher smiled brightly while the children eagerly listened to her captivating story, the sun's shining warmth outside harmoniously coinciding with the cozy atmosphere inside. 	2
+60	2	1	13	5	3	10	6	5	0	7	1	2	2	4	5	2	0	6.0	4	15	"The two coordinating conjunctions, ""but"" and ""so,"" combined in a sentence: ""Although I was exhausted, I didn't want to go to bed, so I decided to watch another episode of my favorite TV show, but the plot twist kept me on the edge of my seat."""	2
+22	0	1	1	1	1	3	4	4	0	4	0	1	1	2	4	3	0	4.0	2	8	The cat chased the dog but they both ate the same mouse because they couldn't disagree over who caught it. 	2
+23	1	1	3	3	0	6	2	3	0	3	0	0	1	1	2	2	1	3.0	2	8	Although both dogs wagged their tails with excitement, simultaneously they jumped into the air with joy, causing a delightful commotion. 	2
+15	2	1	1	0	0	2	2	2	0	2	0	1	1	1	2	1	1	3.0	2	6	Although it was a long time ago, nevertheless we decided to take a trip	2
+16	1	0	3	0	3	2	0	1	4	1	0	0	1	0	2	1	0	3.0	0	10	  Cindy and Dan, but Mary and Tom also, attended the conference last month. 	2
+36	3	1	3	3	2	11	2	1	1	6	2	0	0	2	3	3	0	6.0	2	13	John wanted to ski and play board games simultaneously, so he bought two pairs of gloves and one snowplow game set, therefore he skied while playing board games with both pairs of gloves. 	2
+36	1	0	3	5	2	10	0	5	0	5	0	0	4	3	1	3	0	8.0	3	9	The team of experts worked efficiently in collaboration with the government agency, using innovative technology to gather data and develop a comprehensive plan, resulting in a rapid and effective solution to the problem.	2
+32	7	0	4	3	2	4	4	1	3	3	0	0	1	1	2	0	0	4.0	1	15	Both my dogs, Muffin and Fluffy, as well as my cat, Sparky, always play together happily when they go out into the large fenced backyard of our home	2
+26	1	0	3	2	2	6	1	2	2	4	1	1	0	1	2	1	0	4.0	1	14	Okay, here is the sentence with 2 coordinating conjunctions you requested:  Maria and Alex went to the store AND bought milk AND eggs.	2
+13	1	1	1	1	0	4	1	2	0	2	0	0	0	1	2	1	0	3.0	1	5	The cat slept soundly while the dog wagged its tail with excitement.	2
+22	1	0	4	1	2	4	1	3	0	4	0	0	2	2	1	2	0	4.0	2	6	The dogs, tired and hungry, ran wagging their tails and barked loudly towards the park, chasing the squirrels. 	2
+18	3	1	4	1	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	10	  The manager, however, together with the team, diligently worked on meeting the project deadline. 	2
+15	0	0	1	2	1	4	1	2	0	2	1	0	1	0	1	1	0	3.0	0	5	The two cats sat on the mat and chased their tails with great excitement.	2
+11	0	0	1	1	2	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	  Both the cat and the dog chased after the mouse. 	2
+22	3	0	2	3	1	4	5	1	0	3	0	0	0	1	3	0	0	4.0	1	16	  The cat purred contentedly on my lap, but when I reached for my book, it suddenly pounced on my fingers	2
+17	1	1	3	1	1	4	1	1	0	3	0	0	1	0	2	1	1	3.0	1	6	  While walking through the park, butterflies fluttered nearby, and birds sang their sweet melodies.	2
+13	4	0	1	1	1	2	0	1	0	2	0	0	0	0	1	0	0	3.0	0	4	   The dog not only barks loudly but also chases after cats energetically.	2
+13	4	0	1	0	2	1	0	0	2	2	0	0	0	0	1	1	0	3.0	0	5	Jane and Tom not only sang together but also played guitars gracefully. 	2
+36	5	0	4	2	2	6	2	1	2	5	0	1	3	2	1	2	0	8.0	2	12	Ok, here's your coordinating conjunction sentence:  Brittney and Jessica not only studied intensively before exams, but also made sure to assist their classmates whenever possible, demonstrating a strong commitment toward teamwork	2
+17	3	0	2	2	1	4	1	2	0	2	0	0	0	0	1	0	0	3.0	0	8	The dog trotted happily alongside its master, and simultaneously barked boisterously at the park squirrels.	2
+48	0	1	4	7	2	12	1	3	6	7	0	1	2	5	0	2	0	7.0	5	15	With the support of Amazon Web Services and Google Cloud Platform, it is possible to store and analyze massive volumes of data, while relying on machine learning models trained on this data to automate decision-making, leading to improved performance metrics across the board	2
+9	1	0	2	0	0	1	1	1	0	1	0	1	0	1	1	0	0	3.0	1	3	Okay, here is the sentence you requested:   We walked slowly down the street, our shoes squeaking in the wet grass while holding hands tightly, and suddenly, a beautiful yellow butterfly landed silently on Lily's shoulder, fluttering its wings quickly before vanishing into thin air. 	2
+18	1	1	3	0	1	3	1	1	2	3	0	0	1	1	2	2	1	3.0	2	10	Sarah and Emily, although they both loved pizza, decided together to try Asian food tonight. 	2
+15	3	1	2	0	0	2	0	2	0	2	0	1	1	1	2	0	1	3.0	2	6	   Although the sky was gray, however the sun still managed to shine brightly. 	2
+28	2	0	2	0	3	3	2	3	2	6	1	0	2	2	3	3	0	6.0	2	8	Sally and Tim bought two books, but they both wanted to read the same one so they decided to compromise and buy a third book instead.	2
+35	0	2	3	5	0	9	3	3	1	6	0	0	3	5	2	4	0	6.0	5	22	Sandra enjoyed taking long walks with her friend, playing music in addition to baking sweet treats, because the harmony between their movements reminded her of the balance found within the perfect rhyme. 	2
+26	4	0	3	1	4	4	0	3	2	4	0	0	0	1	1	2	0	5.0	1	6	Both John and Mary not only enjoyed the party, but also danced the night away, laughing and smiling together under the twinkling lights.	2
+9	0	0	1	1	1	4	0	0	1	1	0	0	0	0	1	1	0	3.0	0	6	 Amy bought books and cats at bargain prices.	2
+32	3	0	5	1	1	4	3	3	0	6	0	1	2	1	3	1	5	6.0	6	22	The cat, who liked to nap in the sun, and the dog, who preferred to play fetch outside, were able to share their favorite activities together peacefully. 	2
+11	1	0	1	1	0	2	0	2	0	3	1	0	0	0	1	0	0	2.0	0	4	The three coordinating conjunctions skillfully coalesced in the following sentence: We carefully coordinated the color combination of our costumes to complement our respective complexions before capturing memorable poses in front of scenic panoramas.	3
+24	2	0	6	0	1	6	1	2	1	3	0	1	0	2	2	2	0	5.0	2	11	Sure, here's the sentence requested: Mary liked cake, ice cream, and cookies, so she bought a pie. 	3
+25	1	1	4	3	1	3	2	3	0	3	0	0	3	1	1	1	1	4.0	2	20	   While walking carefully across the slippery ice, under the pale moonlight, but not in the cold snow, she noticed something glinting. 	3
+15	2	0	4	0	2	3	0	0	1	3	0	0	0	0	1	3	0	3.0	0	7	Sue ate cookies, drank tea, and solved puzzles simultaneously, yet calmly. 	3
+17	1	1	3	0	1	2	2	2	0	3	0	1	0	1	3	1	0	2.0	1	13	The cat chased the dogs, although they ran quickly, but they couldn't escape.	3
+42	3	0	8	0	3	6	3	2	3	7	0	3	2	3	4	3	0	6.0	3	17	" ""Maria, Tom, and Alex are all taking an easy going trip together, but to ensure their vacation isn't ruined they must pack accordingly, ensure they have good insurance, and follow the weather forecast."" "	3
+21	1	0	5	1	1	5	0	5	0	1	0	1	0	0	1	1	0	5.0	0	6	"  * A sentence must have a subject, a verb and an object (not necessarily in this order). The subject can be any noun that has relevance and meaning in the sentence. In this case, the subject will be ""I"". * Since there is a specific request to create a ""Coordinating Conjunction"", I must make at least three coordinating conjunctions. A coordinating conjunction is the word/words that connect words, phrases, or clauses of the same importance in order to establish relationships between them. In this case, the coordinating conjunction I will use is"	3
+45	3	1	5	4	1	8	7	3	0	7	0	0	4	4	5	1	0	6.0	4	11	The cat purred contentedly on my lap, though it seemed a bit anxious about the approaching dog, therefore it started to paw at my hand, yet I stroked its soft fur with gentle touch, so its tail started to twitch.	3
+15	1	0	3	1	1	2	0	2	0	1	0	0	4	0	1	0	0	4.0	0	7	The big, beautiful, and bountiful bouquet bloomed brightly before the bridal birth. 	3
+16	4	0	3	1	2	0	0	0	4	1	0	1	0	0	1	0	0	4.0	0	12	  Janie and Tom, as well as Sara and John, will work together closely. 	3
+17	3	0	4	0	1	2	0	1	0	3	0	0	3	0	1	1	1	3.0	1	12	Coordinately conjured, colorfully clever, and collaboratively composed, the creative class critiqued courageous curiosities.	3
+5	2	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	4	 But, however, therefore	3
+34	7	0	4	2	2	4	5	2	0	5	0	1	1	1	4	1	0	7.0	1	9	The cat purred contentedly on my lap, but it was getting too hairy, therefore I put it on the couch, however its tail continued to swish back and forth lazily.	3
+18	4	0	5	0	2	0	1	0	3	2	0	1	0	1	2	0	0	4.0	1	6	Sarah, Alex, and Ben decided together they would travel east, west, and north. 	3
+16	3	0	3	1	1	2	0	1	1	3	0	0	0	0	1	0	0	4.0	0	7	The cat purred contentedly, lapped delicately, and pawed affectionately on Sarah's lap.	3
+5	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	1	0	2.0	0	3	  Please answer the following question	3
+30	3	0	8	1	3	5	0	2	0	4	1	0	2	2	0	2	0	7.0	2	9	The three coordinating conjunctions, though, so, and yet, coordinated to link together words, phrases, and clauses, creating a clear and cohesive sentence.	3
+21	0	0	3	2	2	2	3	2	3	3	0	0	1	1	3	2	0	4.0	1	13	Satisfied, I watched the film with Sarah and John, yet unlike Rachel they both felt it lacked depth. 	3
+3	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	And Furthermore Moreover	3
+26	3	0	3	1	2	1	4	0	1	7	0	2	1	3	4	1	0	3.0	3	18	  I walked home, neither running not skipping; I talked to Sarah and ate cake; I am feeling tired so I'll sleep now	3
+26	4	1	4	2	1	3	1	1	1	2	0	1	3	2	2	1	0	5.0	2	11	    Maria decided to buy groceries at the farmers' market, because it was fresh, but also conveniently cheap, as well as organic.	3
+7	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	5	 And, but, and or. 	3
+42	2	0	5	5	1	9	1	5	0	6	0	0	7	2	1	4	0	5.0	2	36	Finding solace in the tranquil atmosphere, listening intently to the soothing notes of classical music, savoring the delectable flavors of fine cuisine, and sharing precious moments with dear friends, together they all created a night to remember. 	3
+35	3	1	2	4	1	9	5	1	0	6	0	0	3	4	4	2	0	8.0	4	18	The teacher requested that we carefully collect candy canes covered with colored foils, crunchy cookies crumbling beneath our fingers, and crispy croissants crackling noisily when we took them out of their cardboard boxes	3
+69	7	5	5	5	3	13	10	3	0	12	0	1	4	7	7	5	3	8.0	10	22	Although my parents recommended I spend my summer vacation learning something useful, I chose to play with my friends anyway, running wildly and carefree until the day grew late, so much so that by the time we returned home, Mother made us eat a quick dinner of soup and bread before hurrying to bed without our favorite dessert, but we did have fun nevertheless	3
+41	4	2	5	3	2	4	3	3	4	7	0	1	0	5	4	5	0	5.0	5	28	   Mary decided to put on a play with Peter, and therefore she asked Jack also to join them, but because the costumes were in disarray, she asked Sarah, too, to help with fitting the roles appropriately	3
+25	2	0	8	1	3	4	0	1	3	3	0	0	0	0	1	1	0	4.0	0	14	Maria, John, and Alex went to the store, bought milk, eggs, and bacon, and drove home, concurrently.	3
+23	4	0	5	0	1	4	0	4	0	1	0	2	2	0	3	1	0	4.0	0	7	The book was big, but the writer was more talented, however, ultimately the book won the prize, nevertheless.	3
+15	2	0	1	2	0	4	0	0	1	3	0	0	2	2	1	1	0	5.0	2	4	Felix found fabulous fungi frequently flourishing beneath flimsy flowers floating fetchingly in forest glades. 	3
+32	4	1	1	2	2	6	2	3	0	4	0	3	4	1	3	1	0	4.0	1	16	The cat purred contentedly under the warm sunlight because it had been fed delicious milk and slept cozily on a plush cushion and its playful kitten toys were scattered all around.	3
+23	1	0	4	2	1	5	4	2	0	4	0	0	0	2	2	2	0	4.0	2	10	The team coordinated their efforts, combining their strengths, and ultimately succeeded in their mission, despite the challenges they faced.	3
+21	1	0	4	2	1	3	2	2	0	2	0	0	4	1	1	1	0	4.0	1	7	The tall, dark, and mysterious figure slowly sneaked into the room, captivating everyone with his haunting stare.	3
+21	3	0	5	0	2	3	1	0	3	3	0	0	1	0	1	1	0	4.0	0	7	   Susan, John, and Tom carefully planned, skillfully executed, and thoroughly enjoyed their cross-country road trip adventure. 	3
+31	0	1	7	1	4	3	1	4	0	4	2	2	0	1	2	2	1	4.0	2	8	Although all three conjunctions are needed, you may choose any three of the following conjunctions to complete the request: And, But, Or, So, Yet.	3
+41	2	1	4	3	1	9	5	5	0	5	0	0	5	3	4	2	0	6.0	3	22	The cat purred contentedly on my lap, its soft fur a soothing balm for my frazzled nerves, but the persistent mewing eventually proved a bothersome irritant, annoying me no end as I struggled to focus on mywork.	3
+41	3	1	3	5	2	5	1	4	6	7	0	0	2	3	5	1	0	6.0	3	31	Fred looked around, saw Jimmy laughing out loud at Sarah's jokes while Peter pretended to nap and Tim cooked up a new strategy, but all the while, Lily danced in the rain with her umbrella up high	3
+21	2	0	4	1	2	4	1	4	0	3	0	0	0	0	3	1	0	3.0	0	17	The cat sat on the chair, and she ate a cookie, but the dog, however, barked persistently	3
+39	5	0	5	5	0	7	3	4	1	6	0	0	1	2	2	2	0	4.0	2	28	Sarah preferred to stay home, go to the mall with her friends, as well as try a new recipe in the kitchen; however, she ultimately decided to attend the birthday party for her cousin. 	3
+6	3	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	3	Six people laughed silently seriously suddenly	3
+19	3	0	4	1	0	4	2	1	0	3	0	0	0	2	1	2	0	4.0	2	5	   The dog, however, furthermore wanted to play fetch, accordingly retrieving his toy into his mouth.	3
+22	5	0	3	1	1	3	5	1	0	3	0	0	0	0	3	2	0	3.0	0	8	The cat purred contentedly on my lap, but it scratched my rug relentlessly, therefore I put it outside gently. 	3
+19	3	1	0	0	1	3	0	3	0	6	1	0	0	2	2	1	0	5.0	2	4	The three coordinating conjunctions worked together to ensure that the sentence flowed smoothly and effectively conveyed the intended meaning	3
+18	3	1	3	0	1	3	0	3	0	4	0	0	0	1	2	1	0	4.0	1	7	The manager requested that the employees collaborate intensively, communicate comprehensively, and complete the project conclusively. 	3
+32	2	2	1	3	3	5	1	3	3	5	0	1	1	3	4	1	0	5.0	3	13	   Jim and Mary and Tom went to school because the sky was gray but not raining so they brought umbrellas though not needed in the end when the sun came out. 	3
+21	3	0	4	4	1	4	1	1	0	2	0	0	0	1	1	0	0	3.0	1	10	 Without delay, however, accordingly, and simultaneously, we raced across the country to arrive at school on time	3
+7	3	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	3	 however, meanwhile, and loudly .	3
+83	4	3	12	5	3	10	14	6	0	16	1	3	2	6	9	8	1	9.0	7	68	"Although I understand your request, my programming language may not always generate the desired results, as I follow established rules and do not have the ability to create complex and creative sentences outside of these rules, therefore, I humbly ask that you allow me to provide a sentence containing three coordinating conjunctions, which is the following: ""I walked with him, she read with her, and we both watched with them; however."""	3
+35	1	1	5	2	6	7	1	4	0	4	1	1	2	1	2	3	1	6.0	2	11	The three coordinating conjunctions weaving the sentence together are and, but, and or; yet as they coordinate the independent clauses with precision, creating a beautiful tapestry of meaning and flow. 	3
+10	1	0	1	1	0	3	0	1	0	0	1	1	0	0	0	0	0	3.0	0	4	Sure, here is the sentence with 3 coordinating conjunctions	3
+37	1	1	5	4	1	7	5	6	0	3	0	1	3	3	4	2	0	7.0	3	17	 We walked down the street, across the park, and up the mountain, until we finally reached our destination, which was a beautiful viewpoint that offered a stunning panorama of the entire area.	3
+23	2	1	5	2	0	5	0	5	0	3	0	0	0	0	3	0	2	3.0	2	18	At the park, during the evening, when the birds sang, while the sun set, the flowers bloomed brightly;	4
+15	0	1	1	1	0	4	1	5	0	2	0	0	0	1	2	2	0	3.0	1	9	The cat chased the dog after the mouse until they all reached the tree. 	4
+23	2	0	4	1	2	1	8	1	0	4	0	0	0	0	4	4	0	4.0	0	19	   I met her, but she laughed at me, so I bought her a gift, yet she still rejected me. 	4
+19	2	1	2	0	0	3	0	1	0	4	2	0	4	1	1	2	1	3.0	2	10	Using four coordinating conjunctions, a bright blue bird beautifully balances three big golden biscuits before blinking beamingly. 	4
+21	0	2	4	0	2	5	1	2	0	5	0	0	0	2	5	1	0	4.0	2	18	 They bought butter, because cats chew, but dogs chase, before the cat purred and the dog wagged. 	4
+23	1	1	0	3	1	6	2	5	0	3	0	0	1	2	2	1	0	6.0	2	7	  The cat purred quietly behind the curtains until it found the toy hiding in the corner with the dog and their favorite ball	4
+20	4	0	5	1	1	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	13	Accordingly, thus, for that reason, and therefore, the company decided to launch the product immediately. 	4
+38	1	1	3	0	7	6	5	1	3	7	0	2	1	2	3	6	0	6.0	2	11	Both Mark and Mary brought books but bought nothing else but batteries, and they had a breakfast but didn't take their time, though Jack did take his time eating but quickly finished his dinner. 	4
+34	6	1	4	2	1	7	0	6	0	4	0	0	3	2	3	1	0	4.0	2	22	The cat purred contentedly on the comfortable cushion while the dog tail-wagged excitedly at the colorful cube, and meanwhile the parakeet chirped peacefully nearby, altogether sharing a harmonious moment. 	4
+23	0	0	5	1	1	5	1	2	0	6	1	1	0	0	1	4	1	3.0	1	13	Using four coordinating conjunctions, we will explore the possibilities, experience the journey, dream about opportunities, and achieve success.	4
+16	4	0	5	0	1	2	1	1	0	1	0	0	1	0	1	1	0	3.0	0	10	Coincidentally, concurrently, consequently, and creatively, we accomplished the challenging career goal.	4
+38	5	2	2	4	0	6	3	4	0	5	0	4	1	3	5	0	0	6.0	3	35	The manager maintained that every department's goal must be achieved simultaneously with everybody's target, despite how hard it becomes although it takes longer because of some unforeseen circumstances, so the deadline must be moved	4
+43	3	0	13	2	4	4	3	1	0	4	2	1	2	0	2	2	0	5.0	0	17	  Yes, correctly (And, Or, But, So)  - Used all four in one sentence:  Yes, correctly   Please provide feedback on my answer - what went correct or incorrect, where can I improve, etc. This will allow me to understand how to apply the techniques	4
+18	4	1	1	1	0	3	1	3	0	3	0	0	0	2	2	1	0	4.0	2	5	   The student eagerly studied diligently because quickly he wanted to thoroughly learn the lesson without any trouble. 	4
+6	1	0	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1.0	0	4	Okay, how's this? Here it is:  But although he thought that it could be true that she could actually be a foreign spy, and he also thought it's possible she might actually be in danger, despite this he continued forward, however and yet he felt a little bit guilty, so for this reason, therefore he decided to follow both of them without anyone noticing me. 	4
+8	1	2	0	1	0	1	0	2	0	0	0	0	1	0	0	0	0	1.0	0	7	Between because although however all the same time	4
+30	4	1	5	1	0	5	0	5	0	5	0	1	1	4	1	3	1	6.0	5	10	The dog, despite being hungry, nevertheless decided to chase the cat, subsequently ignoring the bone, ultimately choosing to savor the thrill of the pursuit instead.	4
+16	4	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	10	The cat purred placidly through the portal pensively past the palace, perching pretty portentously.	4
+37	3	2	3	1	3	5	5	4	2	4	0	2	3	1	6	3	0	4.0	1	21	We walked to the park together, although it was cold outside and because it was a beautiful day, so Ann wore her coat and Jim brought an umbrella and we had a lovely time.	4
+22	5	0	4	2	1	4	1	1	0	3	0	0	0	1	1	1	0	4.0	1	13	The dog wagged its tail with excitement, however, but nevertheless, yet still managed to sit quietly on command.	4
+69	6	2	6	4	7	10	3	3	4	9	4	3	5	4	6	5	0	7.0	4	32	Because Sam and Sarah and Tommy and Tina all wanted to buy bright blue bicycles with basket-style handles, but only three bicycles were available, so they could either buy one together or purchase individually, yet none had sufficient money to pay the full price, so they decided that two of them would jointly loan funds to pay for two of the bikes.	4
+15	4	0	1	0	1	2	0	2	0	1	0	0	4	0	1	1	0	3.0	0	7	The big yellow cat chased the little white dog quickly silently carefully and eagerly. 	4
+8	4	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	4	  Certainly; however, therefore; but nonetheless	4
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that! We will go to the mall and see a movie and eat a sandwich and drink milkshake and play arcade games, all together!	4
+10	2	0	1	0	0	3	0	1	0	2	0	0	1	1	1	1	0	3.0	1	3	The cat couch cursed creatively cleverly crafting critical caterpillars.	4
+16	1	0	1	1	3	2	0	2	4	1	0	0	1	0	1	1	0	4.0	0	8	   Fred and Mary and Sally and Alex together enjoy the sunny weather at the park.	4
+13	6	0	4	0	1	0	0	0	0	1	0	1	0	0	0	0	0	1.0	0	10	   However, therefore, accordingly, and nevertheless were all working collaboratively.	4
+31	1	1	4	1	0	3	4	2	4	5	0	2	1	4	5	3	0	6.0	4	14	Okay, this is the result:  Mary wanted John, who knew Peter, to go with Alice because together they thought the weather could not prevent their enjoyable hike	4
+23	1	0	7	1	3	3	0	3	0	2	1	0	2	0	0	0	0	3.0	0	12	The four coordinating conjunctions - and, or, but, so - connected the ideas in this single, complex sentence: Although I really enjoyed the trip, but we had little time and some bad weather on the way, and the food tasted so amazing, or I would have slept well last night, yet I still felt tired.	4
+37	4	3	4	4	0	4	6	1	0	5	0	3	2	4	5	1	1	4.0	5	16	Several of our employees, however, as it turned out, in reality never even heard of the software that we were promoting, whereas others thought that they would be able to master it overnight	4
+37	6	2	6	0	0	4	2	1	2	10	1	1	2	7	4	4	0	5.0	7	15	I hereby provide the sentence you have requested, featuring four coordinating conjunctions as specified: Freddie fell faced forward fiercely, forfeiting fragile floorboards fearlessly, while Fiona flew freely, foregoing fragile fruits foolishly.	4
+27	4	0	4	1	1	5	0	2	0	5	1	0	4	1	0	3	0	5.0	1	12	 Generate a sentence using at least two correlative conjunctions incorrectly, and include a grammatical error as well (e.g. misplaced modifier, dangling participial phrase)	4
+21	4	2	5	0	1	2	2	1	0	2	1	1	0	0	2	1	1	4.0	1	17	Four coordinating conjunctions that bind this sentence together are although, because, however, and nevertheless, so that. 	4
+21	3	0	5	2	1	3	2	1	0	1	0	1	1	1	1	1	0	3.0	1	11	Accordingly, meanwhiles, thereof, and nonetheless, we were able to make it to the show on time.	4
+27	1	0	2	3	5	7	3	2	1	3	0	0	0	0	2	2	1	6.0	1	19	At the beach and in the sun where she and they relaxed with umbrellas and towels, Emily and her siblings ate corn and drank lemonade. 	4
+44	2	2	1	1	9	6	3	7	0	10	0	0	3	3	4	3	0	5.0	3	22	The cat and the dog and the parrot and the hamster worked together and ran and played and chased each other until they grew tired and took a nap and then they all snored and made funny noises until they woke up refreshed. 	4
+31	4	0	5	1	1	5	4	3	0	5	0	1	1	1	5	1	0	5.0	1	27	The dog ran towards the fire hydrant, but it was too late, yet his enthusiasm prevailed, however he failed to notice the obstacle, consequently he fell.	4
+81	3	2	3	11	7	13	12	7	0	16	0	2	4	8	9	3	0	9.0	8	67	The cat raced through the park with a toy in her mouth and her ears standing up high, nor did she stop chasing after the balls until she was tired and then she went to sleep with her paws tucked under her belly, for she loved playing with toys and running after things that made her pounce and flutter her whiskers, but most of all she loved curling up into a cozy little ball and taking a nap	4
+25	4	1	2	0	1	3	3	3	0	5	0	1	0	2	4	2	0	4.0	2	11	The dogs chased the cats, but they did not catch them because however they ran quickly yet somehow the cats managed to escape.	4
+23	6	2	3	0	0	1	2	0	0	4	0	1	1	3	2	1	0	3.0	3	9	Although always angry, however, nonetheless she nonetheless continued always to eat although she couldn't always afford to buy food. 	4
+4	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	3	 Although yet despite however	4
+26	4	0	6	2	0	4	1	2	1	3	1	1	0	1	2	1	0	4.0	1	21	Alright, here is the sentence with four coordinating conjunctions you requested:  Without hesitation, nevertheless, accordingly, therefore, Sarah bought the book	4
+30	1	0	5	5	2	6	2	4	1	2	1	1	0	0	2	1	0	4.0	0	11	Sarah bought three books for her cat, and they are all located near the desk, beneath the chair, on the table, or in the closet. 	4
+25	4	1	3	1	2	6	1	3	0	4	0	0	0	2	3	1	0	4.0	2	13	At the beach, we saw boats and ships colliding simultaneously, however, yet the sea gulls flew high while the waves crashed quickly	4
+8	2	0	4	0	1	1	0	0	0	0	0	0	0	0	0	0	0	2.0	0	6	  - yet - but - therefore - accordingl	4
+30	6	1	4	2	1	6	0	5	1	4	0	0	0	1	4	0	0	5.0	1	9	The cat sat patiently on the mat, but the clock ticked rapidly, so the dog worried nervously at the door, although aunt Sarah pleaded calmly outside.	4
+7	3	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	2.0	0	5	Both however therefore therefore in addition. 	4
+22	2	2	4	2	0	4	2	3	0	3	0	0	0	2	3	0	0	3.0	2	12	  The birds flew over the clouds, across the fields, with their wings spread wide, while they chirped happily.	4
+25	5	0	4	1	1	4	0	4	0	4	0	0	0	2	1	2	0	5.0	2	12	The manager requested the employees to simultaneously work collaboratively, communicatively, harmoniously, and effectively on the pending projects to meet the deadlines. 	4
+11	4	1	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	6	 And yet, but also, so that, and accordingly	4

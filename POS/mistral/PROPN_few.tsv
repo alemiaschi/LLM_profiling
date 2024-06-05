@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PROPN_constraint
+15	0	0	2	2	1	4	0	3	0	0	0	1	2	0	1	0	0	2.0	0	6	In the winter, the house was cold and dark without any heat source.	0
+20	1	0	2	2	1	6	0	3	0	3	0	0	2	1	1	1	0	4.0	1	6	The morning sun slowly rose over the horizon, casting warm light across the rolling hills and peaceful fields.	0
+11	1	0	1	1	0	3	2	1	0	1	0	0	1	0	1	1	0	2.0	0	7	I carefully unpacked each item from their individual paper padding.	0
+22	0	0	4	2	1	7	1	2	0	2	2	0	1	1	1	2	0	5.0	1	11	I made a fresh lemonade using four lemons, eight cups of water, sugar, and a bit of ice.	0
+10	0	0	1	1	0	3	1	0	0	1	0	1	2	0	1	1	0	2.0	0	6	Snowflakes were forming intricate geometric patterns on my windowpane.	0
+13	1	0	1	1	0	3	2	1	0	2	0	0	1	1	1	2	0	3.0	1	5	I always use a soft brush to sweep dust from my floors.	0
+12	0	0	1	2	1	5	1	1	0	1	0	0	0	0	1	1	0	4.0	0	8	The flowers required plenty of care and attention for their blooming.	0
+16	0	0	2	2	0	5	2	2	0	2	0	0	1	1	1	1	0	4.0	1	4	In a busy shopping complex, I noticed a woman searching for her shopping list.	0
+16	1	0	1	1	1	5	1	0	0	2	0	1	2	1	1	1	0	3.0	1	5	Fresh fruits and vegetables are often stored at cooler temperatures to prolong their shelf life.	0
+17	0	0	2	2	0	5	1	1	0	2	0	1	3	1	1	2	0	6.0	1	5	Melting wax can emit a distinctive odor, requiring careful handling for those sensitive to smells.	0
+11	0	1	2	0	1	0	1	0	0	3	0	1	2	0	1	0	1	2.0	1	3	If you're feeling unwell, rest and stay hydrated.	0
+15	1	1	1	1	0	4	2	2	0	2	0	0	1	1	1	2	0	4.0	1	4	We carefully examined each object before determining its final resting place in the room.	0
+14	1	0	1	1	0	3	2	2	0	2	0	0	1	1	1	2	0	3.0	1	7	I frequently change the water in my aquarium to keep the fish healthy.	0
+19	2	0	2	2	0	4	0	4	0	2	0	1	2	1	1	1	0	3.0	1	8	The snow was falling gently on the window, covering the world outside in a serene white blanket.	0
+16	0	0	3	1	0	4	0	3	0	2	0	0	3	1	1	1	0	5.0	1	6	The elderly woman sat knitting, a soft, soothing rhythm echoing through the room.	0
+16	1	0	2	1	1	4	2	2	0	2	0	0	0	1	1	2	0	4.0	1	6	He always wore a hat and gloves, shielding himself from the weather's elements.	0
+18	1	0	2	3	0	4	2	2	0	2	0	0	2	1	1	1	0	4.0	1	9	They carefully tended to their gardens, ensuring a continuous supply of fresh vegetables throughout the year.	0
+14	1	1	1	1	0	2	3	1	0	3	0	0	0	2	1	3	0	3.0	2	6	I poured water over the parchment to soften it before folding it carefully.	0
+16	2	0	2	2	0	3	3	2	0	2	0	0	0	0	2	2	1	3.0	1	5	When I enter a room, I scan it carefully for any signs of dust.	0
+20	2	0	1	4	1	5	2	2	0	2	0	0	1	0	1	2	0	5.0	0	9	I filled it up halfway with the water and then added the appropriate number of drops of dishwashing liquid.	0
+10	1	0	1	2	0	3	0	0	0	2	0	0	1	0	1	0	0	3.0	0	4	Water dripped continuously from old faucets in neglected buildings.	0
+9	0	0	1	0	0	3	0	2	0	2	0	0	1	1	1	2	0	3.0	1	3	The chef prepares the dish using traditional techniques.	0
+14	1	1	1	2	0	3	2	2	0	2	0	0	0	1	2	0	0	3.0	1	7	The leaves crunch softly beneath our steps as we walk in the park.	0
+8	0	0	1	1	0	2	0	0	0	2	1	0	1	1	1	0	0	3.0	1	3	Two friends discussed traveling to various locations.	0
+12	0	0	1	1	0	4	0	3	0	1	0	0	2	0	1	1	0	2.0	0	7	The morning sun illuminated the park in a warm golden glow.	0
+14	1	0	1	0	1	4	2	1	0	2	0	1	0	1	1	2	0	4.0	1	5	Every person should clean their belongings regularly to maintain their appearance and functionality.	0
+12	2	1	1	1	0	2	2	1	0	2	0	0	0	1	1	2	0	3.0	1	4	They carefully inspected every item before putting it away for safekeeping.	0
+13	0	1	1	1	0	4	0	2	0	2	0	0	2	1	1	1	0	3.0	1	6	The chef experimented with various spice combinations before finding the perfect balance.	0
+14	0	0	1	0	1	4	1	1	0	2	0	1	2	1	1	2	0	3.0	1	6	We can mix various herbs and spices to create a unique seasoning blend.	0
+27	0	0	4	4	1	8	2	2	0	4	2	0	0	0	1	3	0	3.0	0	16	I cut up two zucchinis into bite-sized pieces, added some olive oil, and cooked them on a grill pan for 15 minutes.	0
+12	1	1	1	1	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	7	The children played with the sand until the hour grew late.	0
+39	0	1	4	4	0	9	3	7	0	5	0	0	6	4	4	4	0	8.0	4	12	Every afternoon, the sun paints long, warm shadows on the empty playground while gentle breezes rustle through the leaves of the mature trees, creating a symphony of peaceful sounds that surrounds all who hear them.	0
+17	1	1	2	0	0	3	1	3	0	3	0	1	1	1	2	2	1	3.0	2	8	To achieve a perfect omelette, you must gently cook the eggs until the surface sets.	0
+11	0	0	1	0	0	4	1	0	0	2	0	0	2	1	1	2	0	3.0	1	4	Moonlit landscapes inspired many poets to pen their romantic musings.	0
+11	1	1	1	2	0	2	1	1	0	2	0	0	0	1	2	1	0	3.0	1	5	Sand poured out as he carefully turned the hourglass over.	0
+15	1	1	1	0	0	3	1	2	0	3	0	1	1	2	2	1	0	4.0	2	4	A large crowd had assembled to watch as he crossed the finish line first.	0
+17	4	0	2	1	1	2	1	2	0	3	0	0	1	0	2	1	1	3.0	1	5	When the ball rolled downhill, it hit a large boulder and ricocheted back up again.	0
+14	0	0	1	1	0	4	1	2	0	2	0	0	2	1	1	2	0	4.0	1	4	She added various spices to create a unique flavor for the vegetable curry.	0
+13	1	1	1	1	0	3	1	3	0	2	0	0	0	1	1	2	0	3.0	1	7	She carefully examined each ingredient on the counter before preparing the recipe.	0
+14	1	0	1	1	1	3	1	3	0	2	0	0	1	0	1	2	0	4.0	0	5	I carefully examined the torn fabric and assessed the magnitude of the damage.	0
+17	0	0	1	1	0	6	0	3	0	3	0	0	2	2	1	2	0	6.0	2	3	A single button press initiates the complex sequence of actions required to start a car engine.	0
+19	1	0	2	2	1	4	1	1	0	1	0	1	4	1	1	1	0	5.0	1	7	The weather is often subject to sudden and drastic changes, requiring frequent adjustments to one's plans.	0
+10	0	0	1	2	0	3	0	0	1	1	1	1	0	0	1	0	0	2.0	0	5	Water can freeze in temperatures below 0 degrees Celsius.	0
+14	1	0	1	2	1	4	1	1	0	2	0	0	1	0	1	1	0	3.0	0	7	I added ice to the water and then squeezed in several lemon slices.	0
+13	1	0	2	1	0	3	1	1	0	2	1	0	1	1	2	1	0	3.0	1	5	 Two friends debated passionately, each presenting their argument with great conviction.	0
+22	1	2	2	0	1	5	3	2	0	4	0	0	1	2	2	2	0	5.0	2	5	Every day, I ensure my car's engine runs smoothly by checking the oil level and replacing it if necessary.	0
+15	0	0	1	3	0	5	0	1	0	1	1	1	2	0	1	0	0	3.0	0	5	Two cups of boiling water were combined with an equal quantity of cold water.	0
+11	1	0	1	1	1	2	1	2	0	2	0	0	0	0	1	1	0	3.0	0	5	They carefully sorted and stacked each book on the shelves.	0
+18	1	0	2	3	1	5	2	2	0	2	0	0	0	0	1	2	0	5.0	0	8	We placed the books carefully on each shelf, arranged them in order of size and color.	0
+22	5	0	2	3	1	3	2	3	0	3	0	0	0	0	1	2	0	3.0	0	14	The girl picked up a book from the table, leafed through it idly and then put it back down again.	0
+19	0	0	3	1	1	6	0	2	2	1	0	0	2	0	1	1	0	3.0	0	10	The Australian cricket team, the English football team, and McDonald's have sponsorship deals with Coca-Cola.	3
+23	1	0	3	3	2	3	0	4	4	0	0	1	2	0	1	0	0	5.0	0	7	The Amazon River, Brazil, and Peru are home to some of the most diverse and rich ecosystems in the world.	3
+24	0	0	3	3	0	3	0	4	5	1	0	1	4	0	1	0	0	4.0	0	13	The Great Barrier Reef, an extensive coral reef system in the Pacific Ocean, is located off the northeastern coast of Australia.	3
+23	1	0	3	2	1	3	1	0	8	2	0	1	1	0	1	1	0	3.0	0	13	King George VI, Marilyn Monroe, and Alexander Graham Bell have all left lasting impacts on history in their respective fields.	3
+19	0	0	2	4	1	4	0	2	4	1	0	0	1	0	1	1	0	5.0	0	5	In the vast Amazon rainforest, poachers from Colombia threaten the survival of jaguars from Brazil and Peru.	3
+25	1	0	3	2	1	6	0	4	2	1	0	0	5	0	1	0	0	3.0	0	13	The French navy, the Russian submarine fleet, and the Spanish coast guard frequently collaborate in joint naval exercises in the Mediterranean Sea.	3
+21	0	0	3	3	0	2	0	2	5	2	1	1	2	0	1	0	1	4.0	1	8	The ancient Inca empire, located in South America, was discovered by the Spanish explorer Hernando Pizarro in 1527.	3
+40	0	0	12	3	1	6	1	5	3	2	2	3	2	3	2	0	0	6.0	3	31	 'The Italian footballer', pointing to Francisco Totti; 'Roma', the football club he's been a integral part of since 1927; and '1927', the year the club was founded.	3
+12	0	0	3	1	1	0	0	1	5	1	0	0	0	0	1	0	0	3.0	0	5	The Amazon River flows between Brazil, Colombia, and Peru.	3
+29	1	0	3	3	1	3	0	4	8	0	0	1	3	0	1	0	0	5.0	0	14	The Grand Canyon National Park in Arizona, Canada's Northwest Territories, and the Amazon Rainforest are home to some of the world's most diverse ecosystems.	3
+14	0	0	1	1	0	2	0	2	3	2	0	0	2	0	1	1	1	4.0	1	5	The Egyptian pyramids located in Al Jizah house the Pharaohs' eternal treasures.	3
+22	1	0	3	1	1	2	2	1	6	2	0	1	1	2	2	1	0	4.0	2	11	Microsoft Word, PDF Reader, and Google Drive were among the applications I frequently used to complete my daily tasks.	3
+25	0	0	4	3	2	5	0	2	5	1	0	0	3	0	1	1	0	4.0	0	10	The ancient Greek city-state Sparta, Rome in Italy, and Athens in Greece have a rich history in democracy and art.	3
+24	1	0	3	4	0	6	1	2	1	1	0	0	4	0	1	0	0	4.0	0	9	This ancient civilization, famous for its pyramids, contributed significantly to Egypt's agricultural development with the construction of extensive irrigation systems.	3
+20	1	0	3	1	1	1	0	2	6	1	0	1	3	0	1	1	0	4.0	0	11	The Roman Colosseum, Amalrik the Great, and Napoleon Bonaparte have all influenced Western Civilization in profound ways.	3
+34	0	0	9	2	2	4	0	2	10	2	0	1	2	0	1	1	1	5.0	1	16	The Brazilian football team, consisting of Neymar, Gabriel Jesus, and Casemiro, will face Argentina, Messi, and Di Maria, in a high-stakes World Cup match.	3
+17	0	0	3	2	1	3	0	0	3	2	0	0	3	1	1	1	0	4.0	1	9	Roman mythology introduces Apollo, Zeus, and Mars as major deities revered in ancient cultures.	3
+22	0	0	3	3	2	3	0	4	4	1	0	1	1	0	1	0	1	5.0	1	10	The Amazon River, flowing through Peru and Brazil, is the largest in the world by both volume and length.	3
+18	0	0	4	2	0	1	0	0	6	2	1	1	1	0	1	0	1	3.0	1	10	During World War II, German intelligence, codenamed Abwehr, was led by Admiral Wilhelm Canaris.	3
+14	0	0	2	1	1	0	0	1	6	1	0	0	2	0	1	1	0	3.0	0	5	Sophia, Mark and Olivia attended the prestigious Xavier Institute for Higher Learning.	3
+18	0	0	3	1	1	3	0	2	5	1	0	1	1	0	1	0	0	4.0	0	11	The ancient Romans, Alexander the Great, and Cleopatra VII are renowned figures in world history.	3
+23	0	0	3	1	1	3	1	2	7	1	0	1	3	1	2	1	0	3.0	1	11	King George V, Victoria Park, and The National Gallery are famous landmarks in London that attract large crowds every year.	3
+21	0	0	3	4	0	3	0	2	2	2	0	1	4	1	1	0	0	4.0	1	6	In recent times, the Russian bear has awoken, with a significant military presence in Crimea claimed by NATO.	3
+21	0	0	3	1	2	5	0	1	5	0	1	1	1	0	1	0	0	3.0	0	11	The Amazon rainforest, Orinoco basin, and Congo Basin are three major sources of Earth's oxygen and biodiversity.	3
+28	0	0	3	4	1	6	0	2	7	1	1	0	2	0	1	1	0	4.0	0	14	In October 2004, the International Criminal Court issued an arrest warrant for Sudan's President Omar al-Bashir for war crimes and crimes against humanity.	3
+24	0	0	3	1	1	5	1	3	6	1	0	1	2	1	2	1	0	4.0	1	12	The Amazon rainforest, Orinoco delta, and the Andes mountain range are important ecosystems that span the northern half of South America.	3
+25	0	0	4	4	0	5	0	4	4	1	0	0	2	0	1	1	0	4.0	0	9	The Amazon, the world's largest rainforest, harbors millions of unknown species, as per the estimates of the World Wildlife Fund.	3
+23	0	0	4	2	0	5	0	5	3	0	0	1	3	0	1	0	0	4.0	0	12	The Amazon rainforest, the largest tropical forest in the world, is the home of the indigenous Sateré-Mawé people.	3
+34	0	0	4	5	1	4	0	3	10	1	0	0	5	0	1	1	0	5.0	0	20	The Great Barrier Reef off North Queensland, part of Canada's Arctic National Wildlife Refuge, and Mount Fuji in Japan, form a diverse set of natural wonders around the world.	3
+23	0	0	4	1	1	4	0	1	8	1	0	0	2	0	1	1	0	3.0	0	10	John Doe, Jane Smith, and Peter Jones all attended last year's global climate change conference in Copenhagen, Denmark.	3
+23	1	0	3	2	0	3	1	3	4	2	0	0	4	0	1	1	0	3.0	0	10	The International Monetary Fund, under its new leader Christine Lagarde, recently announced a significant loan for the struggling Ukrainian economy.	3
+26	0	1	3	1	1	4	1	4	2	2	0	1	6	1	1	2	0	3.0	1	11	The Russian government, the United Nations, and the European Parliament have condemned the Syrian president for using chemical weapons against his own people.	3
+18	0	0	3	0	2	3	1	0	6	2	0	0	1	1	2	2	0	5.0	1	9	John Doe, Mark Zukerberg, and Larry Page founded companies that revolutionized communication and social media.	3
+32	1	0	8	3	2	4	0	3	5	4	1	0	0	2	1	2	0	6.0	2	10	"In 2003, Russia, Iran, and Germany signed an accord to set up a privately financed oil-and-gas pipeline, known as the ""Peace Pipeline."	3
+26	0	0	4	2	1	2	0	4	9	1	0	0	3	0	1	1	0	4.0	0	13	The famous artists Picasso, Van Gogh, and Monet, formed the Core of the Paris Salon des Refusés in the late 19th century.	3
+15	0	0	8	0	1	0	0	1	4	0	0	0	1	0	0	0	0	2.0	0	9	" ""The French Revolution,"" ""Robespierre,"" and ""Napoleon Bonaparte."	3
+16	0	0	3	1	1	2	0	1	4	1	0	1	2	1	1	0	0	3.0	1	10	Alexander the Great, Macedonia, and Persia were major powers involved in ancient wars.	3
+15	1	0	3	1	1	1	0	1	4	1	0	1	1	0	1	0	0	3.0	0	9	The Himalayas, Mahabharata, and Lord Krishna are deeply entwined in Hindu mythology.	3
+26	0	0	4	4	0	4	0	3	8	1	0	0	1	0	1	1	0	4.0	0	12	Narendra Modi, in an unexpected development, offered a peace treaty to Pakistan's Imran Khan after the G7 summit in Cornwall, UK.	3
+23	0	0	3	0	2	3	0	2	5	3	0	1	3	1	1	1	0	4.0	1	9	The Brazilian Soccer Federation, FIFA, and Adidas are collaborating to design and manufacture a new Brazil national soccer team uniform.	3
+27	0	0	5	4	0	3	0	3	8	2	2	0	0	1	1	1	0	5.0	1	13	In 2001, Osama bin Laden, the founder of Al-Qaeda, released a fatwa calling for the killing of Pope John Paul II.	3
+21	0	0	2	3	1	0	2	1	8	2	1	0	1	1	2	2	0	5.0	1	6	In 1871, Queen Victoria sent Prince Alfred on a Royal Tour that brought him to Cape Town and Australia.	3
+19	0	0	3	2	1	3	0	2	4	1	0	1	2	0	1	0	0	4.0	0	9	Alexander the Great, Macedonia, and Greece were linked by military conquests in the 4th century BC.	3
+28	1	0	5	4	0	3	0	3	6	2	0	0	4	0	1	0	1	5.0	1	12	The ancient city, Persepolis, located in present-day Iran, once served as an administrative hub for the Persian Empire under King Xerxes I.	3
+20	0	0	3	1	1	3	0	4	5	0	0	1	2	0	1	0	0	3.0	0	13	The Great Barrier Reef, the Amazon rainforest, and the Sahara desert are the largest ecosystems on Earth.	3
+26	2	0	2	2	2	2	0	1	6	2	1	1	3	1	2	2	0	5.0	1	12	Jefferson's Declaration of Independence inspired many countries, but Russia and China were notably the last two to officially acknowledge independence from Great Britain.	3
+21	0	0	3	2	1	3	0	3	5	0	0	1	3	0	1	0	0	4.0	0	13	The Great Wall of China, The British Museum, and Mount Rushmore are tourist destinations famous around the world.	3
+21	0	0	4	3	1	2	0	1	6	1	0	0	3	0	1	0	0	4.0	0	9	Buddhist monks from Thailand, Myanmar, and Sri Lanka gathered for an annual spiritual convention in Bodhgaya, India.	3
+23	0	0	3	3	1	3	0	2	5	2	1	0	3	1	1	2	0	6.0	1	7	In 2019, Hurricane Dorian made landfall in the southern Bahamas, causing significant damage in the Abacos and Grand Bahama islands.	3
+32	1	0	4	3	1	4	1	3	8	2	0	1	4	2	2	0	0	6.0	2	10	Sherlock Holmes was a popular detective created by Sir Arthur Conan Doyle, whose most renowned adventures appeared in 'The Strand Magazine' between the late 1800s and early 1900s.	3
+16	0	0	2	1	1	0	0	0	10	1	1	0	0	0	1	1	0	3.0	0	10	Mikhail Gorbachev visited Margaret Thatcher and Mikhail Sergeyevich Gorbanevskaya in 10 Downing Street, London.	6
+28	0	0	10	2	0	2	0	2	9	1	1	0	1	0	1	1	0	4.0	0	15	Hemingway, Fitzgerald, Steinbeck, Faulkner, Salinger, O'Hara (the authors) attended the literary conference in Key West, Florida, in 1940.	6
+16	0	0	3	1	0	1	0	0	5	1	2	0	1	0	1	1	0	4.0	0	6	King Solomon traded ivory with ancient Mali's Mansa Musa (1307–1337).	6
+30	0	0	5	3	1	2	0	2	11	3	1	0	2	1	1	2	1	7.0	2	9	The ancient Roman architect Vitruvius, born Marcus Terentius Varro Vittorius, wrote Ten Books on Architecture featuring the works of Ptolemy, Apollodorus of Damascus, and Mnemon.	6
+19	0	0	4	3	0	2	1	0	6	2	1	0	0	0	2	1	0	4.0	0	9	Gandhi, Mahatma, led India to independence; his wife Kasturba Gandhi died in Calcutta in 1944.	6
+14	0	0	1	2	0	4	0	2	3	1	0	0	0	0	1	2	0	5.0	0	5	The Aztecs offered Cortés a tribute of feathers from Quetzalcoatl bird's tail.	6
+28	0	0	4	4	0	5	1	2	10	1	1	0	0	0	1	1	0	4.0	0	12	Maharajah Jawaharjal Singh, of the Lohia clan, granted a 92,070 acre territory to Sir Henry MIDDOWS for his cotton plantation in Luneburg, North Carolina.	6
+25	0	0	3	3	0	4	1	2	8	2	0	0	2	0	1	1	0	4.0	0	13	Braes Lavell, the South African Olympic gold medalist, presented her medal to King Carl XVI Gustaf of Sweden at the opening ceremony.	6
+27	0	0	3	4	1	2	0	2	9	2	1	1	2	0	1	0	1	5.0	1	16	The ancient Mayan city of Tikal, ruled by King Hekaw II and Queen Lady Yohl Ik'nal, is located in the northernmost part of Guatemala.	6
+17	0	0	2	4	0	0	0	1	7	1	1	0	1	0	1	1	0	3.0	0	13	Napoleon Bonaparte visited New York during the Peace of Amiens in 1802, at Astor House.	6
+19	0	0	2	3	0	1	0	1	10	1	0	0	0	0	1	1	0	3.0	0	11	Leonardo da Vinci painted the Mona Lisa in Florence's Uffizi Gallery, with commission from Ludovico Sforza.	6
+26	0	0	7	2	1	3	0	1	9	0	0	1	2	0	1	0	0	3.0	0	18	In ancient Rome, Julius Caesar, Mark Antony, Brutus, Cassius, Octavian, and Marcelle were key figures in the assassination conspiracy.	6
+22	0	0	3	3	1	2	0	1	8	2	0	0	1	0	1	0	0	5.0	0	6	Grant's uncle, Harold Green, lived in New York City and worked as an editor for Harper Collins Publishers.	6
+19	0	0	3	2	0	3	1	1	6	2	0	0	1	1	1	1	0	5.0	1	4	The British poet Alfred Lord Tennyson received inspiration from his wife Emily, born in Soho, London.	6
+25	0	0	6	1	1	4	0	2	7	3	0	0	1	1	1	3	1	6.0	2	8	Sanders, a senator representing Vermont, introduced a bill supporting universal healthcare alongside House colleagues, Representatives Conyers, Ellison, and Schakowsky.	6
+15	0	0	4	1	1	1	0	0	6	1	0	0	1	0	1	1	0	3.0	0	6	In ancient Rome, Julius Caesar granted Pompey, Crassus, and Cassius citizenship.	6
+5	0	0	0	0	0	1	0	0	3	0	0	0	0	0	0	0	0	2.0	0	4	Vincent van Gogh's brother Theo sent a painting of irises from Giverny to Emilie Gillemot in Aachen.	6
+38	1	0	13	2	2	8	0	1	6	0	0	1	4	0	1	0	0	4.0	0	17	In ancient Egyptian mythology, Osiris, Isis, Seth, Nephtys, Horus, and Anubis were the major gods related to agriculture, mourning, chaos, resurrection, falconry, and mummification, respectively.	6
+22	0	0	3	3	2	3	0	0	6	3	0	0	2	0	1	1	1	5.0	1	13	Sir Isaac Newton, born in Lincolnshire and educated at Trinity College, made fundamental contributions to calculus and universal gravitation.	6
+20	0	0	4	1	0	3	1	2	4	2	0	0	3	1	1	1	0	3.0	1	10	Dante Alighieri, the Italian poet, created epic poems including The Divine Comedy, alongside his lover Beatrice.	6
+29	0	0	4	3	1	5	1	0	10	1	0	0	2	0	1	0	0	4.0	0	13	Marilyn Monroe's sisters, Norma Jeane Dougherty, Bernice and Gladys Mortenson, gathered at Marilyn's apartment on 30th Street for their monthly book club meeting.	6
+23	0	0	4	3	2	2	0	1	7	2	0	0	2	1	1	0	0	4.0	1	9	Marquez, a renowned Colombian author, lived in Paris near Shakespeare and Company bookstore, run by Sybil and Gertrude Whitman.	6
+21	1	0	2	2	0	2	1	1	9	2	0	0	0	0	1	2	0	3.0	0	9	Marilyn Monroe met Arthur Miller at Toots Shor's restaurant, married him at Perle Merlon Chapel later that year.	6
+30	0	0	7	1	1	3	0	2	12	1	0	1	0	1	1	1	0	5.0	1	20	Gandhi, Nehru, Congress Party, Jawaharlal Nehru University, India, and All-India Congress Committee were part of the movement to gain India's independence.	6
+33	0	0	6	3	0	2	1	2	14	1	1	0	3	0	1	1	0	3.0	0	18	Jules Verne, Agatha Christie, Ernest Hemingway, Mark Twain, Edgar Allan Poe, Fyodor Dostoevksy discussed their literary techniques during a seminar at the British National Library in 1895.	6
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	J.	6
+25	0	0	3	3	1	4	0	2	8	3	0	0	1	1	1	2	1	5.0	2	11	The United States Embassy in Beijing, represented by Ambassador Leland Cleveland Reynolds, held an event honoring Nobel laureates in physics and literature.	6
+17	0	1	2	1	0	1	1	1	8	2	0	0	0	1	2	2	0	3.0	1	12	Renoir painted Mona Lisa de' Medici in the Louvre, while Salvador Dali admired his artwork.	6
+25	0	0	2	2	1	4	0	1	11	1	0	0	3	0	1	1	0	4.0	0	7	In the ancient Italian city of Lucca, Leonardo da Vinci met renowned philosopher Niccolò Machiavelli and Medici family patriarch Cosimo I de' Medici.	6
+15	0	0	1	1	1	2	0	0	8	1	0	0	0	0	1	1	0	3.0	0	7	Marilyn Monroe attended Martha Graham's dance school alongside Gene Kelly and Jerome Robbins.	6
+24	0	0	3	3	1	5	1	1	8	1	0	0	1	0	1	1	0	4.0	0	9	Johnny Depp, in his Hollywood Hills mansion, held a charity event for sick children with partners Tim Burton and Amber Heard.	6
+32	1	0	7	2	1	0	0	1	17	1	1	0	1	0	1	0	0	4.0	0	19	King George VI, Queen Elizabeth II, Prince Charles, Princess Diana, Winston Churchill and Joseph Goebbels met once in Berchtesgaden, Germany, during the Second World War.	6
+32	0	0	4	6	1	6	1	2	10	1	0	0	1	0	1	1	0	5.0	0	13	Giuseppe Meccis, the director of finance at IBM, proposed this plan to Mariam Cardenas and Eric Martinez in their weekly board meeting at Microsoft headquarters in Redmond, Washington.	6
+23	2	0	4	3	0	2	1	2	7	2	0	0	0	1	2	1	0	6.0	1	9	Victor Hugo, writer of Les Miserables, once resided in Guernsey, where he wrote the poem The Isle of Jinty.	6
+22	1	0	1	4	1	5	2	2	3	1	0	0	2	0	1	0	0	5.0	0	6	Leonard Cohen sang melodically about the mundane life of Marianne and their love affair in her green cabin in the woods.	6
+16	0	0	6	0	1	1	0	0	7	0	0	0	1	0	0	0	0	2.0	0	14	 Jules Verne, Uncle Jorkins, French countryside, Phoebe, Victor, and Augustus.	6
+24	0	0	2	3	0	2	0	3	11	2	0	0	0	1	1	2	0	5.0	1	11	The Marquis de Valois invited Marie-Anne de Castille to attend a ball at the Opera Garnier in Paris on December 15th.	6
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	John D.	6
+28	0	0	4	2	1	3	1	0	13	1	1	0	1	0	1	1	0	4.0	0	10	Mahatma Gandhi's peaceful protest march towards Dandi, Gujarat in 1930 involved his companions Rajkumar Shukla, Sarala Devi Chaudhurani, Abdul Ghani and Vinobha Bhave.	6
+23	0	0	3	5	0	2	0	3	6	2	0	0	2	0	1	0	1	5.0	1	13	The ancient Greek philosopher Socrates, born in Athens under the reign of King Cercops, debated with Plato in the Academia.	6
+33	0	0	5	4	1	1	1	0	15	1	0	0	3	0	1	1	0	4.0	0	13	In New York's Central Park, John Lennon and Yoko Ono held their famous 'Bed-Ins for Peace' protest along with Mahatma Gandhi, Martin Luther King Jr.	6
+18	0	0	1	2	1	5	0	1	3	1	0	1	2	0	1	0	0	3.0	0	7	King Tutankhamun's treasurer Ankhhepekhrenepaht was buried in a golden sarcophagus with emerald coverings and precious gems.	6
+5	0	0	1	0	0	0	0	0	3	1	0	0	0	0	1	1	0	2.0	0	2	Charles Dickens portrayed Mrs.	6
+42	0	0	6	6	2	7	1	3	12	2	0	0	2	1	1	2	0	5.0	1	33	The Egyptian pharaoh Ramses IV appointed Horemheb, the chief of the army, as his successor and temple builder Neferiti-Ka-Re at Dendlis, Khamemasys at Qarna and Hatshepsut at Deir el-Bahri to maintain ancient culture.	6
+22	0	0	5	2	1	2	0	2	6	1	0	1	2	0	1	1	0	4.0	0	12	Darwin, Austen, Churchill, Picasso, Beethoven and Einstein are considered some of the greatest minds in human history.	6
+20	0	0	3	2	1	2	1	0	9	2	0	0	0	0	1	1	1	4.0	1	9	Johannes Brahms, born in Hans Estervan Brahms, visited composer Johannes Schubert and his wife Clara in Vienna.	6
+18	0	0	3	2	0	2	0	0	6	1	1	0	2	0	1	1	0	3.0	0	7	Napoleon Bonaparte's older brother, Joseph, led French armies in Holland during World War II.	6
+19	0	1	1	2	0	4	0	0	7	2	0	1	1	1	1	1	0	4.0	1	10	Mongoose monkey Balthasar ate durian fruit from Amazon Rainforest village Wakatobi before being taken to New York Zoo.	6
+26	0	0	3	3	1	4	0	1	9	2	1	0	2	1	1	1	0	4.0	1	10	In 2011, Steve Jobs presented the newest iPhones at Applemosphere, alongside chief design officer Jony Ive and software engineering VP Scott Forstall.	6
+19	0	0	4	3	1	2	0	1	7	1	0	0	0	0	1	1	0	4.0	0	8	Bach, Mozart, Haydn, and Beethoven composed music for the orchestras of Eszterhaza Palace in Hungary.	6
+21	0	0	3	3	1	1	0	0	11	1	0	0	1	0	1	1	0	4.0	0	9	NASA launched Hubble Space Telescope from Kennedy Space Center with assistance from United Technologies, Boeing, and Lockheed Martin.	8
+40	0	0	8	4	1	1	0	2	21	2	0	0	1	1	1	1	0	5.0	1	20	The Board of Trustees at Oxford University elected David Wilkinson as the next Rector, joined by professors Alice Chen, Benjamin Hall, Charlotte Lee, Daniel Miller, Edward Winston, George Smith, and Isabella Johnson.	8
+26	0	1	8	1	0	4	0	0	8	3	0	0	1	2	1	1	0	5.0	2	15	Boeing, Amazon, Microsoft, Apple, Intel, Google, Facebook, IBM collaborated on developing new AI systems based on quantum computing.	8
+19	0	0	4	1	1	3	0	1	7	2	0	0	0	1	1	2	0	4.0	1	11	In California, Mark Zuckerberg, Steve Jobs, and Bill Gates co-founded companies revolutionizing the tech industry.	8
+42	0	0	6	6	1	2	0	5	16	4	0	1	1	0	1	2	0	4.0	0	22	Babe Ruth pitched for the Red Sox, hit home runs for the Yankees, won the World Series for the Tigers, was inducted into the Baseball Hall of Fame alongside Reggie Jackson, Joe DiMaggio, and Willie Mays.	8
+17	0	0	5	2	1	1	0	1	6	0	0	0	1	0	0	0	0	3.0	0	10	In a collaborative effort between NASA, SpaceX, Elon Musk, and Tesla, Inc.	8
+33	0	0	5	2	2	6	1	1	10	4	0	0	2	1	3	4	0	5.0	1	15	Sir Alexander Fleming discovered penicillin, Robert Watson and Maurice Wilkins studied its structure, and Howard Florey developed a method for large-scale production, saving countless lives during WW2.	8
+34	0	0	5	4	2	1	0	3	16	1	0	0	2	0	1	1	0	5.0	0	11	Hugh Hefner donated artworks to the Metropolitan Museum of Art, The Louvre Museum, and the National Gallery of Victoria by Andy Warhol, Leonardo da Vinci, and Vincent van Gogh.	8
+30	0	0	8	0	0	2	0	1	17	1	0	0	1	0	1	1	0	3.0	0	24	Alexander Graham Bell, Thomas Edison, Nikola Tesla, Benjamin Franklin, Michael Faraday, George Westinghouse, Thomas Alva Edison, Marconi attended a major electricity exposition.	8
+18	0	0	8	0	1	0	0	0	9	0	0	0	0	0	0	0	0	2.0	0	16	 Dante Alighieri, Inferno, Virgil, Homer, Odyssey, Socrates, Plato, and Aristotle.	8
+40	0	0	9	2	1	4	1	2	18	1	0	0	2	0	1	1	0	3.0	0	28	In the 20th century, Pablo Picasso, Leonardo da Vinci, Vincent van Gogh, Claude Monet, Edgar Degas, Paul Cezanne, Georgia O'Keeffe, and Piet Mondrian transformed the art world with their iconic masterpieces.	8
+35	0	0	7	3	1	2	0	1	18	1	1	0	1	0	1	1	0	4.0	0	28	Prince William met Prince Harry, Meghan Markle, Duchess of Sussex, Queen Elizabeth II, President Donald Trump, Pope Francis, and Archbishop Justin Welby at various events throughout the year.	8
+7	0	0	0	0	0	0	0	0	6	1	0	0	0	0	1	1	0	2.0	0	3	Mahatma Gandhi inspired Martin Luther King Jr.	8
+39	0	1	4	6	0	0	0	3	17	3	0	2	2	1	2	0	1	4.0	2	16	The Mona Lisa, painted by Leonardo da Vinci, is displayed at the Louvre Museum in Paris, while Vincent Van Gogh's Starry Night is housed in the Museum of Modern Art in New York City.	8
+26	0	0	3	3	2	4	0	1	10	1	0	0	1	0	1	1	0	4.0	0	14	John Cena and The Rock, along with Nikki Bella and Brie Bella, won multiple championships in World Wrestling Entertainment's tag team division.	8
+33	1	0	8	1	0	2	0	1	17	1	0	0	2	0	1	1	0	3.0	0	23	LeBron James, Anthony Davis, Klay Thompson, Stephen Curry, Kevin Durant, Kawhi Leonard, James Harden, Russell Westbrook won several awards together at the NBA annual ceremony.	8
+36	0	1	4	2	2	5	3	3	8	5	0	0	3	1	3	3	0	6.0	1	16	Alexander Graham Bell invented the telephone; Thomas Edison improved its design while competing against him, but Bell held the key patent and became the first successful entrepreneur through his company, Bell Laboratories.	8
+7	0	0	1	0	0	0	0	0	6	0	0	0	0	0	0	0	0	2.0	0	3	Mahatma Gandhi, Martin Luther King Jr.	8
+29	0	0	7	1	1	3	0	0	15	1	0	0	1	0	1	1	0	4.0	0	19	BTS Bangkok mass transit network has stations at Bearing, Wongwan, Suthep, Mo Chit, Rama VI, Chatuchak Park, Ramkameang and Sanam Chandra Palace.	8
+33	0	0	5	4	1	3	0	3	10	3	0	0	3	1	1	0	0	4.0	1	20	The United Nations Security Council met yesterday with representatives from China, France, Russia, the United Kingdom, and the United States to vote on proposed sanctions against North Korea.	8
+32	0	1	3	3	2	4	2	3	9	2	0	0	3	1	2	1	0	4.0	1	19	Elijah Magnussen proposed to Elana, Laura and Maxine that they visit the Metropolitan Museum of Art, The Louvre and The British Museum during their world tour trip next year.	8
+23	1	0	5	1	1	2	1	1	10	1	0	0	0	0	1	1	0	5.0	0	14	Rajiv Das, his colleagues Suresh Kumar, Prithvi Raj, and Rohit Gupta presented a project at MIT, where Prof.	8
+52	0	0	7	9	2	6	0	5	19	2	0	0	2	1	1	1	0	6.0	1	22	Steve Jobs introduced the Macintosh computer at an event at the Flint Center for the Performing Arts in Cupertino, along with Jony Ive as the lead designer, John Sculley as CEO, and Avie Tevanian, Bert Fenwick, and Jean-Marie Hullot as key software engineers.	8
+33	1	0	9	2	0	3	0	1	12	2	1	0	1	1	1	2	0	3.0	1	22	In ancient Rome, Emperors Vespasian, Trajan, Hadrian, Marcus Aurelius, Commodus, Claudius II, Septimius Severus, Diocletian often constructed aqueducts to provide the city with water.	8
+37	0	1	8	1	1	2	0	2	18	2	0	0	2	0	1	1	0	3.0	0	23	John Doe, Jane Doe, Bob Brown, Alice Smith, Tom Baker, Sarah Jones, Bill Davis, Michael Green visited the Grand Canyon National Park for camping and hiked along the trails.	8
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	John F.	8
+34	0	0	7	2	1	1	0	0	19	1	2	0	0	0	1	1	0	4.0	0	26	Prince Harry, Meghan Markle, King Charles III, Queen Elizabeth II, Prince William, Princess Catherine, and Archbishop of Canterbury Justin Welby attended Prince Philip's funeral at St.	8
+16	0	0	1	2	0	2	0	3	6	1	1	0	0	0	1	1	0	3.0	0	12	Michael Jordan scored a record 63 points for the Chicago Bulls against the Boston Celtics.	8
+31	0	0	5	3	2	4	0	2	10	1	0	0	4	0	1	1	0	4.0	0	21	In the early days of the National Basketball Association, players like Michael Jordan, Magic Johnson, Larry Bird, and LeBron James formed iconic rivalries and legendary teams.	8
+31	0	0	8	1	1	2	0	1	16	2	0	0	0	1	1	2	0	5.0	1	23	Lisa Smith organized a conference, inviting Steve Jobs, Elon Musk, Akio Morito, Tim Cook, Sundar Pichai, Jeff Bezos, and Marissa Mayer as speakers.	8
+25	0	0	3	2	1	2	0	3	11	2	0	0	0	1	1	2	0	4.0	1	14	Mark Zuckerberg announced a partnership with Yara Siadi, Priscilla Chan, and Sheryl Sandberg to build a school through the Chan Zuckerberg Initiative.	8
+39	0	0	4	3	1	6	1	4	9	4	0	1	5	2	4	2	0	4.0	2	27	Mahmoud Abbas declared a united Palestinian state under him as prime minister; Salam Fayyad served as president, Yasser Arafat was the late leader, and the UN provided support following the Palestinian Liberation Organization's split.	8
+20	1	0	3	3	1	1	1	0	8	2	0	0	0	0	1	0	0	4.0	0	7	Mike Tyson and Mayweather Junior faced off in their much-anticipated fight at MGM Grand, Las Vegas.	8
+25	0	0	4	3	1	1	0	2	13	1	0	0	0	0	1	1	0	3.0	0	18	Alexander Graham Bell demonstrated the telephone to Thomas Edison, Nikola Tesla, Marconi, and Volta at the World Columbian Exposition in Chicago.	8
+39	0	0	6	3	2	2	0	1	18	4	1	1	1	3	1	1	0	8.0	3	10	The 2004 Indian Summer Olympics were hosted by Delhi, featuring events at Siri Fort Sports Complex and Jawaharlal Nehru Stadium, attended by athletes including Michael Phelps, Usain Bolt, Lance Armstrong, and Maria Sharapova.	8
+28	0	0	7	0	1	1	1	0	15	2	0	0	1	1	1	1	0	3.0	1	21	John Smith, Michael Jones, Mark Johnson, Sarah Wilson, Daniel Brown, Emily Lee, and William King co-founded their own startup called Innovit.	8
+32	0	0	7	5	1	3	0	3	11	1	0	0	1	0	1	1	0	4.0	0	20	The Red Cross, Oxfam, UNICEF, Save the Children, Doctors Without Borders, Habitat for Humanity, and CARE sent aid to victims of the typhoon in Vietnam.	8
+28	0	0	6	2	2	3	0	3	8	2	0	0	2	1	1	2	0	5.0	1	8	The White House, the Kremlin, and NATO leaders convened a summit in London on nuclear non-proliferation involving Putin, Obama, Merkel, and Cameron.	8
+22	0	0	3	2	0	3	0	3	6	1	1	0	2	0	1	2	0	4.0	0	10	Bernie Ecclestone, the British businessman, sold the Formula One company to Liberty Media in a deal worth $4.	8
+43	0	0	4	5	2	1	0	3	23	1	0	0	4	0	1	1	0	5.0	0	17	British Prime Minister Boris Johnson met US President Donald Trump in the East Room of the White House, along with Vice President Mike Pence, US Ambassador to the United Kingdom Woody Johnson, and advisors Kellyanne Conway and Stephen Miller.	8
+29	0	0	5	5	1	3	1	1	8	2	1	0	2	0	1	1	1	4.0	1	17	At the 2022 World Economic Forum in Davos, attended by President Biden, CEOs from Google, Microsoft, and Apple made major announcements about their companies.	8
+40	0	0	5	4	3	5	1	1	16	3	0	0	1	0	3	1	0	4.0	0	22	Marc Benioff and Tom Siebel co-founded Salesforce, Satya Nadella serves as CEO, and Fredrick Vollmer, John Donnell IV, Michael Moritz and David Sacks served on the company's board of directors in its early years.	8
+31	0	0	7	0	1	2	0	2	11	3	0	0	4	2	1	1	0	5.0	2	10	The White House, West Wing, Press Secretary Jay Carney, briefed media regarding President's upcoming foreign visits, including the United Kingdom, China, and France.	8
+35	0	0	8	2	2	1	0	1	17	1	0	0	3	0	1	0	0	4.0	0	24	Mark Twain, Charles Dickens, Leo Tolstoy, Jane Austen, Ernest Hemingway, Albert Einstein, Mahatma Gandhi, and Marlon Brando met in Paris for a historic literary and intellectual summit.	8
+24	0	0	2	3	2	1	1	1	9	3	0	0	1	2	2	2	0	6.0	2	7	Marc Benioff founded Salesforce, which partnered with Microsoft and Adobe to sell the Chatterbox CRM platform along with SharePoint and Creative Cloud.	8
+44	0	0	5	3	2	6	2	3	10	5	1	2	2	3	2	4	0	8.0	3	13	In 2010, IBM researcher John Searl claimed to have invented perpetual motion, but the scientific community did not acknowledge his discovery, dismissing any attempts to replicate it under the names of Jari Manninen, Thomas Rasken and James Patrick Bedel.	8
+27	0	0	8	2	1	3	0	2	10	1	0	0	0	0	1	1	0	4.0	0	18	The CEOs of Microsoft, Google, Amazon, Facebook, Intel, Apple, IBM, and HP attended a business conference in San Francisco.	8
+31	0	0	8	3	1	6	1	2	8	1	0	0	1	0	1	1	0	4.0	0	18	The board members of IBM, Google, Microsoft, Apple, Amazon, Oracle, Dell, and Samsung discussed the future of cloud technology at their recent meeting.	8
+36	1	0	8	0	1	3	0	1	16	2	2	0	1	1	1	2	0	4.0	1	27	Ronald Reagan, John Paul II, Margaret Thatcher, Indira Gandhi, Nelson Mandela, Boris Yeltsin, Queen Elizabeth II, and Pope Francis recently had a meeting to discuss global peace issues.	8
+37	1	0	10	2	3	3	1	0	14	2	0	1	0	0	1	0	1	5.0	1	19	Prince William County Fair, held annually in August, is visited by James, Sarah, Thomas, and Emily Johnson; their grandparents, Elizabeth and George; and family friend, Maria Rodriguez.	8
+31	0	0	10	0	1	2	0	2	11	2	0	1	2	1	1	1	0	3.0	1	21	The United States, Mexico, China, Russia, Australia, France, Indonesia, Japan, Brazil, and Germany have signed a major trade agreement named TPP.	11
+37	0	0	6	6	1	2	0	3	14	2	0	1	2	1	1	0	0	4.0	1	28	The agreement was signed between the European Space Agency, Roscosmos of Russia, NASA, Japan Aerospace, ISRO of India, and CNES of France for the Venus Next mission launching from Baikonur Cosmodrome.	11
+19	0	0	5	2	0	2	0	0	6	1	0	2	1	0	1	0	0	3.0	0	9	Bills for medical care have been sent to Apple, Google, Amazon, Microsoft, Microsoft Corp.	11
+40	0	0	12	4	1	1	0	1	18	1	0	1	1	0	1	0	0	4.0	0	30	The summit between Putin, Xi Jinping, Modi, Macron, May, Merkel, Boris Johnson, Moon Jae-in, Justin Trudeau, and Pope Francis is set for late March in Tokyo, Japan.	11
+27	0	0	5	2	2	2	0	1	12	1	1	0	1	0	1	1	0	4.0	0	10	In the ancient city of Alexandria, Cleopatra VII and Mark Antony welcomed guests Julius Caesar, Octavian, Gnaeus Domitius Calvinus, and Marcus Brutus.	11
+40	1	0	12	1	1	5	1	0	10	4	0	1	2	2	1	1	1	4.0	3	26	Major corporations, including Amazon, Facebook, Microsoft, IBM, Intel, Google, Apple, Oracle, Tesla, and Samsung, have recently committed to invest in clean energy solutions to reduce their carbon footprint.	11
+33	0	1	2	7	0	0	0	4	17	2	0	0	0	1	2	0	0	3.0	1	20	Jim Brown ran for the Cleveland Browns against the Kansas City Chiefs in Arrowhead Stadium on Thanksgiving, while the Dallas Cowboys faced off against the Washington Redskins in Dallas Cowboys Stadium.	11
+47	0	0	7	9	1	3	0	0	23	2	0	0	2	0	2	1	0	5.0	0	20	John Deere provides agricultural machinery to Farmco in Kansas, Johns Manville for insulation in Colorado, FedEx Express delivers to Google in Mountain View, Verizon Wireless in New Jersey, Pfizer Pharmaceuticals, Sony and Microsoft in Seattle, Coca-Cola bottlers in Georgia.	11
+47	0	0	10	5	1	4	0	3	16	3	3	0	1	2	1	2	0	5.0	2	18	"In Paris, at the Garnier Opera House, Anna purchased two tickets for ""Swan Lake"" ballet performed by The Bolshoi Company, featuring the world's best artists, Svetlana Zakharova, Ivan Vasiliev and Ulyana Lopatka, on April 15, 2024."	11
+31	0	0	9	2	1	4	0	1	11	1	0	0	2	0	1	1	0	5.0	0	21	John Smith ordered supplies from China, Walmart, Target, Amazon, Costco, Home Depot, IKEA, Lowes, and the local hardware store for upcoming renovations.	11
+37	0	0	12	3	1	1	0	1	15	1	0	0	3	0	1	1	0	4.0	0	20	The Metropolitan Museum of Modern Art (MoMA) in New York features works by Monet, Picasso, Pollock, van Gogh, Warhol, Matisse, Cassatt, Dali, Picasso, and Rodin.	11
+42	0	1	4	4	1	2	0	3	16	3	1	2	3	2	2	0	0	5.0	2	15	The United States National Women's Soccer League announced that the Houston Dash, Chicago Red Stars, and Portland Thorns FC will compete in the NWSL Championship match, to be hosted by Providence Park in Portland on October 27.	11
+37	0	0	6	3	1	1	0	3	14	4	1	2	1	2	1	0	1	6.0	3	18	The National Basketball Association All-Stars, including LeBron James, Michael Jordan, and Kobe Bryant, have been invited to participate in the 2023 event hosted in Las Vegas by MGM Resorts International.	11
+31	1	0	5	3	3	2	0	3	11	3	0	0	0	2	1	1	0	5.0	2	11	The expedition of Lewis and Clark camped near the Marias River, meeting the Mandan, Hidatsa, and Otoe people, later continuing onto Fort Mandan and Fort Atkinson.	11
+37	1	0	11	3	1	2	0	0	17	1	0	0	0	0	1	1	0	5.0	0	22	Baker's Dozen Books store in Chicago sells textbooks for Caltech, Duke, Emory, Georgetown, Havard, Johns Hopkins, MIT, Stanford, Swarthmore, UPenn, and University of Chicago annually.	11
+30	0	0	11	0	3	0	0	0	14	0	0	0	2	0	0	0	0	3.0	0	28	Jamaica, Barbados, Haiti, Antigua, Grenada, Trinidad and Tobago, Saint Lucia, Bahamas, Turks and Caicos, Saint Kitts and Nevis, Martinique - The cruise will visit eleven Caribbean countries in the upcoming tour beginning in February.	11
+35	0	0	11	2	1	2	0	2	14	1	0	1	1	0	1	1	0	3.0	0	25	At the World Expo this month, Samsung, LG, Apple, Google, Microsoft, Huawei, Xiaomi, Lenovo, Nokia, and Sony are unveiling new products in Hall A.	11
+68	1	0	13	9	1	1	0	2	38	0	0	1	2	0	1	0	0	4.0	0	55	The United Nations Security Council members are currently Ambassador Anatolios Ioannides from Cyprus, Jean-Paul Agon of France, Juan Manuel Garcia-Rojas from Spain, Khalid bin Muhammad Al-Mansur from Saudi Arabia, Vera Songwe from Gabon, Diane Trijou-Tamimi from Lebanon, Gerard Hoeven from the Netherlands, Volker Uekermann from Germany, and Zoran Dragisic from Serbia.	11
+29	0	0	10	0	0	0	0	0	19	0	0	0	0	0	0	0	0	2.0	0	25	Mona Lisa, Botticelli, Da Vinci, Versailles, Paris, Louvre Museum, Monarch, Catherine de' Medici, King Francis I, Leonard da Vinci.	11
+48	0	0	10	2	1	1	0	0	28	0	3	1	2	0	1	0	0	4.0	0	42	Prince Philip, Queen Mary, King Edward VIII, King Albert I, Queen Elisabeth of Romania, Prince Rainier III, Emperor Franz Joseph, Tsar Nicholas II, Empress Maria Theresa, and King Leopold II were significant European monarchs before World War I.	11
+40	0	0	8	3	2	4	0	3	16	2	0	0	2	1	1	1	0	7.0	1	14	The symposium in San Diego featured keynote speakers Stephen Hawking, Albert Einstein Foundation, the University of California, and panels led by MIT, Stanford University, the American Physical Society, Google, and Microsoft Research.	11
+15	0	0	5	0	0	0	0	1	8	0	0	0	1	0	0	0	0	2.0	0	9	 The United World Colleges Network, Montreal, Akoka School, Kenya, St.	11
+38	0	0	10	4	2	1	0	1	16	1	0	1	2	0	1	0	0	4.0	0	21	The United Nations Conference on Trade and Development in Geneva is attended by representatives from China, South Korea, Indonesia, India, Argentina, Russia, Saudi Arabia, Brazil, Mexico, and Egypt.	11
+32	0	0	9	4	1	3	0	1	10	1	1	0	2	0	1	1	0	4.0	0	20	NASA, in collaboration with Boeing, ESA, JAXA, ISRO, CSA, CNES, and Roscosmos, plan a multinational lunar base project at Mare Imbrium by 2030.	11
+27	1	0	5	3	1	0	1	1	10	2	0	0	3	1	1	1	0	5.0	1	13	We celebrate Independence Day annually at Central Park, with the American Legion, Veterans of Foreign Wars, Boy Scouts, and Girl Scouts participating.	11
+22	0	0	4	4	1	4	0	1	4	1	0	2	1	0	1	0	0	4.0	0	6	The upcoming seminar on data analytics will be hosted by Intel, in partnership with Microsoft, IBM, and Google.	11
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	John F.	11
+38	0	1	6	5	1	5	0	0	15	5	0	0	0	2	2	2	0	7.0	2	18	Given presentation at Stanford University by Sir Isaac Newton Foundation, research group from MIT named Multicore Autoparallelization Team discussed algorithm for parallelizing C++, meeting with representatives from IBM, Intel, Microsoft, and NVIDIA.	11
+48	1	0	11	6	2	5	0	3	16	1	0	0	3	0	1	1	0	5.0	0	33	Together, the World Wildlife Fund, Greenpeace, Amnesty International, UNESCO, and the Jane Goodall Institute, along with governments of Belize, Brazil, Colombia, and Indonesia, launched a major global conservation campaign against illegal poaching of jaguars in South America.	11
+28	0	0	11	1	1	2	0	1	11	1	0	0	0	0	1	1	0	4.0	0	21	The conference features presentations by IBM, Oracle, Google, Samsung, Nokia, Apple, Lenovo, Microsoft, Intel, and Hewlett-Packard.	11
+37	0	0	10	5	1	2	1	1	15	1	0	1	0	0	1	1	0	5.0	0	20	We're having a reunion in Las Vegas for alumni from MIT, Brown, Harvard, Stanford, Columbia, Princeton, Yale, Cornell, Dartmouth, and California Institute of Technology in September.	11
+32	0	0	7	2	2	2	0	1	17	1	0	0	0	0	1	1	0	4.0	0	21	The board of trustees for Harvard University includes Michael Moritz, Laurance Rockefeller, Sukey and Richard Atmospera, John Sargent, Robert Rubin, Henry Paulson, and Larry Summers.	11
+34	0	0	8	3	4	4	1	0	12	1	0	0	0	0	1	1	0	6.0	0	19	John, Emily, and their children - Olivia, Isaac, and twins, Lily and Liam - visited Grandma Agnes's house near Chicago in November for Thanksgiving and Christmas celebrations.	11
+25	0	0	6	3	2	2	0	1	8	2	1	0	0	1	1	2	0	5.0	1	13	Monsieur LaRue visited Paris, Berlin, and Rome in the summer of 2002, attending conferences in Prague, Vienna, and Warsaw.	11
+35	0	0	10	1	1	2	0	2	12	1	0	1	5	0	1	1	0	3.0	0	25	The United Nations, World Bank, International Monetary Fund, European Union, China, France, Canada, Russia, Italy, and Germany are convening a global summit on financial stabilization.	11
+15	0	0	5	1	1	2	1	0	4	1	0	0	0	0	1	1	0	4.0	0	7	 Today, I received packages from Amazon, Microsoft, Apple, and IBM.	11
+31	0	0	10	1	1	4	1	1	10	0	0	1	1	0	1	0	0	3.0	0	22	Mary, Lisa, Alex, Mark, Sarah, Tom, David, Michael, Emily, and Robert are all members of their university's academic honor society.	11
+30	1	0	9	2	1	2	0	1	11	2	0	1	0	1	2	0	0	5.0	1	26	Dinner is scheduled at Chez Marcelle every Friday, where families from Acme, Brindlewood, Coventry, Fairview, Glenwood, Heights, Knollwood, and Nobelville attend.	11
+36	0	0	3	6	3	3	2	0	15	2	2	0	0	1	2	2	0	8.0	1	12	Gabriel Garcia Marquez published memoirs about his time in Paris during 1954 and 1955, which included encounters with Ernest Hemingway at La Rosbe and Sartre, Camus and Simone de Beauvoir at Le Select.	11
+13	0	0	3	1	1	1	0	0	5	1	0	0	1	0	1	1	0	3.0	0	6	Jared, Ellie, and Noah attend school at Green Mountain College.	11
+30	0	0	10	1	1	2	0	2	11	1	0	1	1	0	1	1	0	3.0	0	21	Maria, Anna, Oliver, Sophia, Benjamin, Lucas, Elizabeth, Thomas, Michael, and James are attending the annual gathering at the Smithsonian museum.	11
+46	0	0	9	4	3	6	1	3	10	3	0	0	6	1	1	2	0	6.0	1	20	At this annual conference, leaders from the European Union, United Nations, World Bank, IMF, and the G20 nations discussed economic policies and collaborated to strengthen their global influence in cities such as Washington, London, Berlin, and Tokyo.	11
+54	0	1	8	1	2	4	0	1	31	3	0	0	2	2	2	3	0	5.0	2	37	Majuli Island, Sibongia Kebali Tanah Village, Bratagun Ghat, Nilmadhava Temple, Jagannath Dweep Mandir Committee, Bharatiya Janata Party President Amit Shah, and Union Minister for Environment, Forests and Climate Change Prakash Javadekar visited Assam last month to offer aid after devastating floods hit the Brahmaputra Valley region.	11
+41	0	0	12	4	1	1	0	2	16	2	0	0	3	1	1	1	0	5.0	1	21	From July to September, the International Monetary Fund convened in Bali, involving officials from the European Union, United States, China, Russia, India, Japan, Brazil, South Africa, Argentina, and Mexico.	11
+37	0	0	10	2	0	2	0	2	17	1	0	1	2	0	1	0	0	4.0	0	27	The annual Christmas charity event is supported by UNICEF, World Vision, Save the Children, Mercy Corps, Doctors Without Borders, Red Cross, Oxfam, CARE, Plan International, Amnesty International.	11
+16	0	0	3	3	1	1	0	1	6	1	0	0	0	0	1	0	0	3.0	0	6	The Smith family traveled from Boston to Paris via London, Manchester, and Dublin.	11
+37	0	0	10	4	1	3	0	2	13	1	1	1	1	0	1	0	0	4.0	0	25	Members of the Smith, Davis, Williams, Johnson, Baker, Nelson, Jackson, Young, Brown, and Jones families are invited to the annual reunion in Kansas City on August 1.	11
+29	0	0	10	2	1	0	0	1	12	1	1	0	1	0	1	0	0	3.0	0	20	John, Paul, George, Ringo, Yoko, Brian, Mick, Charlie, Bill, and Keith performed at the historic Shea Stadium in 1965.	11
+35	1	0	8	3	1	3	0	0	12	1	2	0	2	0	1	1	0	4.0	0	17	Jeff Bezos' Amazon donated over $100 million last year for education in communities around Seattle, New York, Boston, DC, Baltimore, Chicago, San Francisco, and Phoenix.	11
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	John F.	11

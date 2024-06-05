@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+15	1	2	0	0	0	3	5	0	0	0	2	0	2	3.0	6	1	1	1	2	0	2	1	The wind whispered secrets through the trees, casting long shadows upon the ground.	0
+15	2	2	0	0	1	2	3	0	0	2	1	0	2	6.0	5	1	1	0	1	0	1	0	Noticed a few of these Cookie cutter places opening in Summit and New Providence.	0
+14	2	3	0	0	0	3	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The vibrant tapestry of the forest danced beneath the celestial tapestry of stars.	0
+15	1	2	1	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	 The sun shone brightly on the beach, casting long shadows on the sand.	0
+15	2	3	0	0	0	3	5	0	0	0	1	0	1	3.0	7	0	0	1	0	0	0	1	An untouched painting of pristine wilderness hangs on the wall in the dining room.	0
+15	2	2	0	0	1	2	3	0	0	2	1	0	2	6.0	5	1	1	0	1	0	1	0	Noticed a few of these Cookie cutter places opening in Summit and New Providence.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The flowers danced in the breeze.	0
+15	0	1	0	0	1	4	4	0	0	0	2	0	3	4.0	7	1	1	2	1	0	1	2	The wind whipped the flag, but the ship remained anchored in the bay.	0
+22	2	3	1	0	0	4	7	0	1	0	2	0	2	4.0	6	1	1	1	2	0	2	1	A swarm of hungry bacteria consumed the leftover pizza, leaving only the crust as a testament to its former existence.	0
+23	4	4	0	0	0	3	5	0	1	1	3	0	2	5.0	7	1	1	1	0	0	0	1	In the desert of Nevada, a lone cactus stood tall, its majestic beauty unburdened by the presence of human inhabitants.	0
+16	1	2	0	0	0	3	5	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	 The vintage records danced across the turntable, captivating the audience with their melodic allure.	0
+14	2	2	0	0	0	3	3	0	0	0	2	0	2	4.0	6	0	0	1	0	0	0	1	The spices danced with the aromatic scent of the fresh-baked bread.	0
+14	1	1	0	1	0	3	3	0	1	0	1	0	2	3.0	5	1	1	1	2	0	2	1	The spices in the pantry are calling me to cook a delicious meal.	0
+17	1	4	0	0	0	3	5	0	0	0	2	0	2	4.0	5	1	1	1	0	0	0	1	A swarm of mosquitoes descended upon the picnic, leaving behind an army of red welts.	0
+15	0	3	0	0	0	3	4	0	1	0	2	0	2	4.0	5	0	0	1	1	0	1	1	The wind whipped through the forest, carried with it the scent of honeysuckle.	0
+16	1	2	0	0	0	3	4	0	1	0	1	0	3	5.0	8	2	1	1	2	1	2	1	The smell of fresh bread emanating from the bakery tempted me to purchase a loaf.	0
+16	1	3	0	0	0	3	4	0	1	0	2	0	2	4.0	5	0	0	1	1	0	1	1	A breeze swept through the meadow, carried with it the scent of wild flowers.	0
+13	1	2	0	0	0	4	4	0	0	0	1	0	1	2.0	9	0	0	1	1	0	1	1	The wind swept the sand across the beach on a stormy night.	0
+13	1	1	1	0	0	3	4	0	0	0	1	0	2	3.0	4	0	0	1	1	0	1	1	A vibrant mural adorned the newly painted walls of the community center.	0
+24	2	3	2	0	1	4	6	0	1	0	2	0	3	6.0	5	1	1	2	2	0	2	2	The scent of freshly baked bread permeated the air in the bakery, a tantalizing aroma that drew customers from far and wide.	0
+13	2	1	0	0	1	2	4	0	0	0	1	0	2	4.0	5	1	0	1	1	1	1	1	The artwork displayed in the museum showcases exquisite craftsmanship and vibrant colors.	0
+19	4	3	1	0	1	3	4	0	0	2	1	0	0	3.0	9	0	0	0	0	0	0	0	A vibrant and diverse assortment of colorful flora blooms sparsely in the arid landscape of the Mojave Desert.	0
+22	0	4	1	0	0	5	7	0	0	0	2	0	3	4.0	7	1	1	1	1	0	1	1	The scent of freshly baked bread permeates the air, emanating from the community oven in the heart of the village.	0
+11	1	1	0	0	1	2	4	0	0	0	1	0	1	4.0	5	0	0	1	1	0	1	1	A fragrant bouquet of honeysuckle and lavender permeated the air.	0
+15	3	2	0	1	1	3	3	0	0	0	2	0	0	3.0	7	0	0	1	0	0	0	1	The painting on the wall was vibrant and colourful, despite the dim lighting.	0
+13	1	1	0	2	0	2	3	0	1	0	2	0	1	3.0	4	0	0	2	0	0	0	2	The painting is complete, it is hanging in the living room.	0
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The colors danced across the vibrant canvas.	0
+20	3	2	1	0	1	1	5	0	2	0	3	0	2	4.0	6	1	1	1	2	0	2	1	As a child, my imagination often carried me to fantastical realms, conjuring vivid imagery and thrilling adventures.	0
+16	1	1	1	1	0	2	3	0	2	2	2	0	1	5.0	4	0	0	2	1	0	1	2	The weather was mild, so I filed a photo of my interviewee David Titley.	0
+9	0	1	0	0	0	2	3	0	0	0	1	0	2	3.0	4	0	0	1	1	0	1	1	The aroma of baked bread fills the air.	0
+17	3	2	0	0	0	3	5	0	0	0	2	0	2	3.0	6	1	1	1	2	0	2	1	A vibrant array of wildflowers adorned the meadow, casting long shadows across the sun-soaked ground.	0
+10	1	2	0	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	A basket of fresh berries sits on the table.	0
+19	1	3	1	0	0	4	5	0	0	0	2	0	3	4.0	6	1	1	1	1	0	1	1	The scent of freshly brewed coffee lingered in the air, filling the office with a delightful aroma.	0
+10	1	2	0	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The scent of fresh bread lingered in the air.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The colors danced across the canvas.	0
+15	2	2	0	0	1	2	3	0	0	2	1	0	2	6.0	5	1	1	0	1	0	1	0	Noticed a few of these Cookie cutter places opening in Summit and New Providence.	0
+10	0	2	1	0	0	2	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	The artwork hangs proudly on display in the hallway.	0
+20	1	5	0	0	0	5	6	0	0	0	1	0	2	6.0	14	1	0	1	0	1	0	1	A portrait of the sunset painted on the canvas by a fiery display of colors danced across the sky.	0
+11	2	1	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	A single orange blossom bloomed majestically against the twilight sky.	0
+13	0	0	0	1	1	2	4	0	0	0	2	0	2	3.0	7	0	0	2	0	0	0	2	The vintage record player hummed, but the music was not playing.	0
+15	2	2	0	0	1	2	3	0	0	2	1	0	2	6.0	5	1	1	0	1	0	1	0	Noticed a few of these Cookie cutter places opening in Summit and New Providence.	0
+8	1	1	0	1	0	2	2	0	0	0	1	0	0	3.0	5	0	0	1	0	0	0	1	The flowers on the table are fragrant.	0
+11	0	2	0	2	0	2	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	A basket of fruit has been arranged on the table.	0
+17	3	1	1	0	0	4	4	0	0	0	2	0	2	4.0	4	1	1	1	2	0	2	1	A vibrant rainbow adorned the sky, creating a breathtaking spectacle above the serene landscape below.	0
+13	2	1	0	0	0	3	4	0	0	0	2	0	1	2.0	7	0	0	1	1	0	1	1	**The crimson sunset cast a soft glow on the serene beach.**	0
+15	2	2	0	1	0	4	4	0	0	0	2	0	0	3.0	5	0	0	1	0	0	0	1	The scenery on the highway was breathtaking, a breathtaking view of the mountains.	0
+15	4	1	0	0	1	2	2	0	0	2	2	0	1	4.0	5	0	0	1	1	0	1	1	The vibrant, untouched landscape of Petite Terre paints a vivid and captivating picture.	0
+10	3	1	0	0	1	1	1	0	0	1	1	0	1	3.0	3	0	0	1	0	0	0	1	The ancient city of Petra lies untouched and mysterious.	0
+13	0	2	0	0	0	3	4	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The wind whipped through the wheat, painting the sky with colors.	0
+14	0	2	1	1	1	3	4	0	0	0	1	0	1	3.0	7	0	0	1	0	0	0	1	The spices were placed into the pot along with the fruits and vegetables.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the leaves off the trees.	1
+14	0	2	1	0	0	3	4	0	0	0	2	0	2	4.0	6	0	0	1	1	0	1	1	 The scent of freshly-brewed coffee permeates the air in the cafe.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	1
+14	0	2	0	0	0	3	5	0	0	0	2	0	2	4.0	5	1	1	1	1	0	1	1	The wind blew through the trees, creating a symphony of rustling leaves.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	3.0	3	1	1	0	0	0	0	0	A rainbow arched across the sky.	1
+10	1	1	0	1	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The weary traveler was resting on the park bench.	1
+6	0	0	1	0	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The flowers bloomed beautifully yesterday.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat jumped onto the table.	1
+16	1	2	0	0	0	3	4	1	0	0	2	0	3	4.0	4	1	1	1	1	0	1	1	The provided text describes a task, asking for a sentence with one preverbal subject.	1
+9	1	1	0	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The book was devoured by the eager reader.	1
+12	0	1	0	2	0	2	3	0	2	0	1	0	1	2.0	6	0	0	1	1	0	1	1	My dog has been chasing me around the yard all day.	1
+12	1	2	1	1	0	1	4	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The most common form of entertainment is watching movies at home.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	1
+10	0	1	0	0	0	3	4	0	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The wind blew the flowers down the garden path.	1
+9	1	1	0	1	0	2	3	0	0	0	1	0	0	2.0	4	0	0	1	0	0	0	1	The flowers were fragrant in the spring air.	1
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The lone tree stood proudly against the wind.	1
+10	1	1	1	1	0	2	2	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The most popular lodging on the beaches is camping.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	 The wind blew the flag down the pole..	1
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The fish are swimming happily in the ocean.	1
+10	0	2	0	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The wind blew the hair out of my face.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the flags down the street.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat chased after the ball.	1
+13	0	2	0	0	0	4	4	0	0	0	1	0	2	4.0	5	1	0	1	1	1	1	1	The wind whistling through the trees blew the leaves off the branches.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The wind blew through the trees.	1
+9	1	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The stolen bicycle is hidden in the park.	1
+8	0	1	0	1	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	My wallet was stolen from the car.	1
+12	2	2	1	1	0	2	3	0	0	0	1	0	0	3.0	5	0	0	1	0	0	0	1	The most common complaint is about the high cost of living.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The book flew off the table.	1
+13	0	1	0	1	0	3	3	0	0	0	3	0	2	3.0	5	0	0	2	0	0	0	2	The chosen sentence is: **The cat sat on the mat.**	1
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The books are neatly stacked on the shelves.	1
+10	1	1	1	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The ancient oak tree stood proudly against the wind.	1
+8	1	1	0	1	0	2	2	0	0	0	1	0	0	2.0	3	0	0	1	0	0	0	1	The apple is ripe for the picking.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the flags down the pole.	1
+10	0	1	0	1	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat was chasing the mouse up the tree.	1
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat is sitting on the mat.	1
+17	0	2	0	0	1	4	5	0	0	0	2	0	2	3.0	6	0	0	1	1	0	1	1	In the movie, the protagonist's dog chased the ball and ran towards the park.	1
+12	1	1	1	0	0	2	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The wind blew wildly through the trees, damaging many homes.	1
+14	1	1	1	1	0	2	3	0	0	0	3	0	2	4.0	9	0	0	1	0	0	0	1	Sure, generated sentence: The books on the table were neatly arranged.	1
+8	3	0	0	0	1	1	1	0	0	0	1	0	1	3.0	2	0	0	1	0	0	0	1	The old tree stood tall and proud.	1
+11	1	1	1	1	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The most popular beach activity is swimming in the ocean.	1
+16	0	3	0	0	0	4	5	0	0	0	2	0	2	4.0	7	1	1	1	1	0	1	1	The wind swept the sand off the beaches, leaving behind a layer of seaweed.	1
+7	0	0	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	 The wind blew the flags down.	1
+14	3	1	0	0	0	1	3	0	1	0	2	0	2	4.0	5	1	0	1	1	1	1	1	The vibrant, colourful tapestry woven by indigenous artisans captivated everyone's attention.	1
+13	0	2	0	0	1	3	4	0	0	0	1	0	2	4.0	5	0	0	1	1	0	1	1	The cat jumped onto the table and devoured the slice of cake.	1
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The wind whispers secrets through the trees.	1
+13	0	2	0	0	0	3	4	0	0	0	2	0	2	4.0	5	1	1	1	1	0	1	1	The wind roared through the trees, creating a symphony of sounds.	1
+11	1	1	1	1	0	2	3	0	1	0	1	0	0	2.0	5	0	0	1	0	0	0	1	The book was the most enjoyable reading of my life.	1
+9	0	1	0	1	1	1	3	0	0	0	1	0	1	4.0	6	0	0	1	0	0	0	1	The scent of lavender and chamomile is calming.	1
+13	1	2	0	1	0	3	4	0	1	0	1	0	0	3.0	7	0	0	1	0	0	0	1	The book on the table was a valuable gift from my friend.	1
+11	1	1	0	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	 The cat and the dog barked at the same time..	2
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat and the dog chased each other around the park.	2
+10	0	0	1	1	0	2	2	1	0	0	1	0	2	3.0	4	1	1	2	0	0	0	2	The two soldiers were fighting when the battle began.	2
+15	1	2	0	0	1	4	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	0	1	 The cat and the dog raced around the park, playing with each other.	2
+17	0	1	2	0	0	4	4	0	0	0	3	0	3	3.0	10	2	2	2	1	0	1	2	The children danced, playing in the park, when the wind blew the balloons away.	2
+11	0	1	0	1	1	3	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The cats and the dogs are playing in the park.	2
+12	1	0	1	2	1	2	2	0	1	0	1	0	1	3.0	5	1	1	2	0	0	0	2	The cat and the dog will fight when they are ready.	2
+14	0	2	0	0	1	2	3	1	1	0	2	0	2	3.0	7	0	0	2	0	0	0	2	  The two astronauts walked in space, and the planets winked at them.	2
+14	0	2	1	1	0	2	3	0	2	0	1	0	2	4.0	6	1	1	2	1	0	1	2	 They will dance with the wind when they feel the joy of freedom.	2
+24	2	3	1	2	1	3	7	0	1	0	1	0	3	4.0	9	1	1	2	0	0	0	2	The worn leather journal with a silver clasp was filled with memories and secrets that the weathered owner had carefully preserved for decades.	2
+10	0	1	0	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cat and the parrot flew to the park.	2
+13	1	1	0	0	1	4	3	0	0	0	2	0	1	3.0	5	0	0	1	1	0	1	1	**The cat and the dog chased each other around the park**.	2
+13	0	1	1	0	1	3	3	0	0	0	3	0	1	3.0	4	0	0	1	0	0	0	1	"""The cat and the dog played together in the park."""	2
+11	1	0	1	2	1	1	2	0	1	0	1	0	1	3.0	4	1	1	2	0	0	0	2	The cats and dogs will play when they are ready.	2
+11	0	1	1	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cat and the dog played together in the park.	2
+12	0	0	1	0	1	2	3	0	1	0	1	1	2	3.0	4	1	1	2	1	0	1	2	The cats and dogs played outside while I read a book.	2
+12	1	1	1	1	0	1	3	1	1	0	1	0	1	2.0	6	1	1	2	0	0	0	2	The two kingship candidates engaged in battle when they were ready.	2
+13	1	1	0	0	1	4	3	0	0	0	2	0	1	3.0	5	0	0	1	1	0	1	1	**The cat and the dog chased each other up the tree.**	2
+11	0	1	1	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cats and the dogs played together in the park.	2
+9	0	0	0	0	0	1	2	1	2	0	1	0	2	4.0	2	1	1	2	2	0	2	2	I had one granddaughter who survived the war.	2
+11	1	1	0	1	0	3	2	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	 The two cats were chasing each other up the tree.	2
+13	1	0	1	2	1	3	3	0	0	0	1	0	1	3.0	5	1	1	2	0	0	0	2	The guests and the chef will dine when the food is ready.	2
+11	0	1	0	1	1	3	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The fish and the cats are playing in the park.	2
+15	0	1	0	1	1	2	2	1	2	0	5	0	0	3.0	6	0	0	1	0	0	0	1	"The two subjects in this sentence are ""they"" and ""we."" The sentence is ""They will mate when they are ready, and we might surprise you because we have not met neither in person nor by correspondence."""	2
+10	0	0	1	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The flowers and the trees bloomed magnificently this spring.	2
+16	1	1	1	0	1	4	5	0	0	0	1	0	2	3.0	9	0	0	2	2	0	2	2	The book contains a plethora of captivating tales and the illustrations depict the scenes vividly.	2
+11	0	0	1	0	1	2	3	0	0	0	2	0	2	3.0	3	1	1	1	1	0	1	1	The cats and dogs played together, making a mess.	2
+11	0	1	0	1	1	3	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The fish and the birds were playing in the park.	2
+11	0	1	1	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	 The cat and the dog played together in the park.	2
+14	2	0	1	2	1	0	0	0	3	0	3	0	2	3.0	7	1	1	2	1	0	1	2	**Get that right, and they will mate when THEY are ready.**	2
+15	1	1	1	0	1	4	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	 The cat and the dog danced together, chasing each other through the park.	2
+23	1	2	0	1	1	3	5	1	2	0	6	0	1	4.0	6	0	0	1	0	0	0	1	"The two subjects in the sentence are ""they"" and ""the following day his new son-in-law."""	2
+13	0	1	0	0	1	5	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The prisoner and the guard both knew the time of the escape.	2
+10	0	0	0	0	1	2	2	0	0	0	2	0	3	3.0	5	1	1	2	0	0	0	2	The train departed, and the passengers began talking.	2
+63	2	7	1	7	3	6	10	1	8	0	12	1	4	8.0	23	3	3	6	2	0	2	6	"In this instance, the two preverbal subjects are ""they"" and ""ME,"" and the sentence is ""THEY will mate when THEY are ready, and I would appreciate it if, on the close of this item of business, I might be allowed to give an explanation of vote on behalf of my Group."""	2
+14	0	1	0	1	1	3	3	1	0	0	3	0	1	3.0	7	0	0	1	0	0	0	1	The two cats, and the dog, were playing in the park.	2
+10	0	0	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	  The book and the movie both captivated the audience..	2
+13	0	0	0	2	1	1	1	1	1	0	2	0	3	3.0	5	1	1	2	0	0	0	2	The two prisoners were fighting, and they were preparing to escape.	2
+15	0	2	1	0	1	3	4	0	1	0	1	0	2	3.0	6	1	1	2	0	0	0	2	  The dog and the cat danced with joy when the sun shone upon them.	2
+11	0	1	1	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	 The ship and the boat arrived at the shore together.	2
+16	1	2	0	0	0	2	4	1	0	0	2	0	3	4.0	7	2	2	1	1	0	1	1	The two astronauts embarked on a journey to space, hoping to gather valuable information.	2
+14	2	1	1	0	0	3	2	1	0	0	2	0	2	2.0	7	1	1	1	1	0	1	1	The two young puppies chased each other around the park, playing gleefully.	2
+13	1	1	0	0	1	4	4	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	 The politicians and the businessmen discussed the economic state of the country..	2
+11	1	0	1	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The old woman and the cat chased the thief away.	2
+15	1	1	0	2	0	0	1	0	5	0	1	1	2	4.0	4	2	2	2	2	0	2	2	They may be able to complete it if they put their minds to it.	2
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The kittens and the puppies played with each other all day.	2
+11	0	1	0	1	1	3	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The dog and the cat are playing in the park.	2
+12	1	0	1	2	1	2	2	0	1	0	1	0	1	3.0	5	1	1	2	0	0	0	2	The lion and the tiger will fight when they are ready.	2
+15	2	1	0	2	1	3	3	0	0	0	2	0	1	3.0	7	0	0	1	0	0	0	1	**The old books and the delicate flowers will be displayed on the table.**	2
+11	0	0	1	1	1	3	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	 The bookworm and the mathematician were reading a novel together..	2
+22	4	2	0	0	1	4	4	0	1	0	3	0	3	4.0	9	0	0	3	0	0	0	3	The fluffy cat sat atop the tall fence, the mischievous dog chased after her, and the proud lion roared.	3
+26	2	1	0	4	2	1	3	0	4	0	2	1	3	4.0	12	3	3	3	1	0	1	3	My friends and I are going to the park to play games, but I'm not sure if I'll be able to go.	3
+21	2	3	1	1	1	3	7	0	0	0	3	0	0	4.0	14	0	0	1	0	0	0	1	The fruit basket, the basket of vegetables, and the box of candies were all full of delicious treats.	3
+24	4	4	0	0	1	4	7	0	0	0	3	0	1	5.0	17	0	0	1	0	0	0	1	A flock of hungry swallows, a swarm of hungry bees, and a bunch of hungry flies descended upon the ripe fruits.	3
+36	1	3	2	1	1	7	9	0	1	0	5	0	6	5.0	15	3	1	3	2	2	2	3	Using the prompt provided, I have generated the sentence: A flock of crows settled on the oak tree, a raven perched atop, and a lone kite danced high in the sky.	3
+28	7	1	0	0	1	6	6	0	0	1	3	1	2	3.0	13	1	1	2	2	0	2	2	The vibrant green Skittles and the tangy orange ones, add a delicious sweetness to the drink, while the sour lime flavor provides a refreshing balance.	3
+28	4	1	0	0	2	7	8	0	0	0	3	0	3	4.0	18	0	0	3	3	0	3	3	The vibrant purple and orange blossoms adorn the spring flowers, the fragrant honeysuckle scents the air, and the chirping of the birds fills the garden.	3
+17	0	2	1	0	0	2	5	0	1	0	2	1	2	3.0	5	1	0	1	2	1	2	1	In order to provide clarity, I frequently tell stories at the beginning of the narrative.	3
+23	2	3	0	1	1	4	8	0	0	0	3	0	1	4.0	11	0	0	1	0	0	0	1	The antique teacup collection, paintings, and photographs from the living room are arranged in a harmonious balance on the shelves.	3
+27	4	2	0	0	1	4	9	0	1	0	4	0	2	3.0	11	1	1	1	1	0	1	1	The vibrant crimson tulips, the graceful bluebells, and the captivating cherry blossoms danced in harmony, filling the springtime garden with their enchanting fragrance.	3
+23	5	2	0	0	1	4	7	0	0	0	3	0	1	4.0	17	0	0	1	1	0	1	1	A swarm of hungry bees, a flock of fiery red parrots, and a towering oak tree shared a juicy apple.	3
+13	0	1	2	0	0	3	3	0	0	0	2	0	2	3.0	7	1	0	2	0	1	0	2	When the wind whips through the trees, the leaves dance wildly.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	A cat, a dog, and a parrot flew to the park.	3
+20	2	4	1	0	1	3	5	0	0	0	1	0	3	4.0	5	0	0	1	0	0	0	1	The old worn down books in the library always smelled of musty paper and the scent of forgotten dreams.	3
+27	4	4	0	1	1	5	8	0	0	0	3	0	1	4.0	20	0	0	1	0	0	0	1	A basket of vibrant fruits, a bowl of creamy soup, and a steaming cup of coffee are the perfect ingredients for a satisfying breakfast.	3
+22	2	3	0	0	1	3	6	0	2	0	3	0	2	5.0	7	1	1	2	1	0	1	2	The books, music, and movies all contribute to the creation of immersive experiences that transport me to different worlds.	3
+19	0	2	0	0	1	5	5	0	0	0	3	0	3	3.0	12	0	0	3	0	0	0	3	The parrot on the treetop sang, the cat jumped onto the fence, and the lion roared.	3
+16	0	1	1	1	1	4	4	0	0	0	3	0	1	3.0	9	0	0	1	0	0	0	1	 The fish, the cat, and the dog are playing together in the park.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The monkeys, the birds, and the fish danced to the music.	3
+16	0	1	1	0	1	4	4	0	0	0	4	0	1	3.0	8	0	0	1	0	0	0	1	**The fish, the dog, and the cat played happily in the park.**	3
+24	3	3	0	1	1	5	7	0	0	0	3	0	1	4.0	16	0	0	1	1	0	1	1	A swarm of angry bees, a flock of hungry vultures, and a mischievous squirrel were rustling the leaves of the forest.	3
+13	0	0	0	0	1	3	3	0	0	0	3	0	3	4.0	5	0	0	3	0	0	0	3	The clock ticked, the wind blew, and the waves crashed.	3
+22	0	3	0	0	1	6	6	0	0	0	3	0	3	3.0	15	0	0	3	0	0	0	3	The cat sat on the mat, the fish jumped onto the table, and the dog chased after the ball.	3
+14	0	1	0	0	1	1	3	0	2	0	3	0	2	3.0	6	1	1	1	0	0	0	1	My brother, sister, and I went to the park to play.	3
+21	5	0	0	2	2	3	4	0	1	0	4	0	0	4.0	9	0	0	2	0	0	0	2	The orange, red, and yellow candies are my favorites, but the green ones are a close second.	3
+24	1	3	0	0	1	5	7	0	0	0	4	0	2	4.0	13	1	1	1	1	0	1	1	A swarm of bees, the wind, and the scent of lavender, combined to create a peaceful atmosphere in the garden.	3
+23	4	2	0	0	0	3	6	0	1	2	2	0	3	4.0	6	2	2	2	2	0	2	2	The vibrant purple paint job on the classic Ford Mustang adds vibrance to the streets, ensuring drivers admire its striking appearance.	3
+17	0	1	1	0	1	5	5	0	0	0	3	0	1	3.0	10	0	0	1	0	0	0	1	The kittens, the puppies, and the baby birds all played happily in the park.	3
+18	3	2	0	0	1	4	4	0	0	0	3	0	1	4.0	7	0	0	1	0	0	0	1	The orange, red, and purple candies all contribute to the deliciousness of the treat bag.	3
+17	1	0	0	0	1	5	4	0	0	0	3	0	2	3.0	9	1	1	1	1	0	1	1	The books, the movie, and the music all combined to create a memorable experience.	3
+38	5	3	2	1	1	5	7	1	4	1	3	1	4	5.0	16	2	2	3	4	0	4	3	The lime green Skittles add a sourness to the drink, so if you want one that's sweet, leave the green ones out and add them to their own bottle for a sour lime vodka.	3
+7	0	0	1	1	0	1	1	0	0	0	2	0	0	2.0	3	0	0	0	0	0	0	0	Okay, here is the sentence: When I am asleep, my cat and dog cuddle me, and I feel at peace.	3
+25	1	0	1	4	1	4	4	0	1	0	3	1	4	4.0	9	2	1	3	2	1	2	3	If I were to paint a picture, the vibrant colors would be swirling and the brushstrokes would flow effortlessly, creating a masterpiece.	3
+17	1	0	0	0	1	5	4	0	0	0	3	0	2	3.0	9	1	1	1	1	0	1	1	The books, the music, and the people all combined to create a magical atmosphere.	3
+18	1	1	0	0	1	5	4	0	0	0	4	0	2	3.0	8	1	1	1	1	0	1	1	The books, the cat, and the dog ran across the grass, chasing each other.	3
+19	0	0	0	0	1	6	6	0	0	0	3	0	3	3.0	13	0	0	3	3	0	3	3	The dog chased the ball, the cat chased the mouse, and the rabbit chased the pig.	3
+18	0	1	0	0	1	5	5	0	0	0	4	0	2	3.0	8	1	1	1	1	0	1	1	The fish, the parrot, and the cat danced around the room, making a mess.	3
+22	1	2	1	0	1	4	6	0	0	0	3	1	3	3.0	9	1	0	3	1	1	1	3	As the wind blew through the leaves, the squirrels gathered nuts for later consumption, and the birds chirped incessantly.	3
+22	2	1	0	2	0	2	4	1	2	0	2	1	4	5.0	11	3	1	2	3	2	3	2	If I had the ability to speak in tongues, I could have shared a secret message using 3 preverbal subjects.	3
+18	1	0	1	0	1	0	3	0	4	0	4	0	4	3.0	7	1	0	4	1	1	1	4	 When my friends bring flowers, my sister cooks, and I dance, I feel happy.	3
+21	0	1	2	2	0	3	4	0	1	0	2	2	3	3.0	6	2	1	2	1	1	1	2	In order to clearly explain the story, I will ensure that every detail is explicitly stated from the beginning.	3
+23	1	1	2	3	2	2	4	0	2	0	3	0	3	3.0	15	0	0	3	0	0	0	3	My friends and family were singing loudly, the music was playing at a high volume, and I was dancing along.	3
+23	2	1	1	0	1	5	6	0	0	0	4	0	3	5.0	6	1	1	2	1	0	1	2	The old barn dance, the barn burning down, and the wind whipped around the barn, creating a destructive force.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The cat, the dog, and the parrot flew to the park.	3
+20	1	1	3	2	0	3	3	0	0	0	2	1	2	3.0	10	1	0	2	1	1	1	2	If the ingredients don't match the recipe perfectly, the final dish will not turn out quite right.	3
+15	0	1	1	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The cat, the dog, and the bird played together in the park.	3
+21	0	0	4	0	2	4	4	0	0	0	4	0	3	4.0	15	0	0	3	1	0	1	3	**Sometimes the wind blows the flowers down, the trees sway back and forth, and the birds sing.**	3
+14	0	0	0	1	1	3	3	0	1	0	4	0	1	3.0	7	0	0	1	1	0	1	1	**I can play the piano, the violin, and the guitar.**	3
+16	0	1	1	1	1	4	4	0	0	0	3	0	1	3.0	9	0	0	1	0	0	0	1	The books, the magazines, and the newspapers were scattered all over the floor.	3
+22	2	2	0	0	1	5	6	0	0	0	4	0	2	4.0	9	1	1	1	1	0	1	1	The old boat, the rusty anchor, and the wind whipped against the shore, creating a symphony of sounds.	3
+24	1	1	1	4	0	2	4	0	4	0	2	2	3	5.0	12	3	2	4	2	1	2	4	If you must use a cleaner, pledge should be fine if the area that you keep your parakeet in is well ventilated.	4
+19	1	1	1	1	1	2	3	0	1	3	4	0	1	3.0	11	0	0	1	1	0	1	1	The president, Archibald, Mary Chaworth, and I were all attending school at the same time.	4
+18	0	1	0	1	1	5	5	0	0	0	4	0	1	3.0	12	0	0	1	0	0	0	1	 The queen, the prince, the soldier, and the sailor were traveling across the land.	4
+19	0	1	0	1	1	4	4	0	0	4	4	0	0	3.0	11	0	0	1	0	0	0	1	The president, Archibald, Byron, and Mary Chaworth were the subjects of a conversation that evening.	4
+24	0	1	0	1	2	2	2	0	3	4	5	0	3	5.0	11	2	2	3	1	0	1	3	The president, Archibald, Byron, and Mary Chaworth were all lieutenant, and he figured they had something to talk about.	4
+23	0	2	0	1	1	2	2	1	1	6	4	0	2	4.0	11	2	2	2	0	0	0	2	The president, Archibald, Byron, and Mary Chaworth were the reason he refused to return to Harrow in September 1803.	4
+25	1	0	0	1	1	5	8	0	2	0	4	0	2	4.0	14	2	2	2	1	0	1	2	The students, their teachers, the principal, and the school counselor were the ones who decided to implement the new school policy.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+18	0	1	0	1	1	5	5	0	0	1	4	0	0	3.0	12	0	0	1	0	0	0	1	The president, Archibald, the lieutenant, and the parakeet were the subjects of the conversation.	4
+26	2	2	0	1	1	3	5	0	2	4	5	0	1	5.0	11	1	1	1	0	0	0	1	The president, Archibald, Mary Chaworth, and Byron were the subjects of their individual narratives, each one captivating in its own way.	4
+17	1	0	0	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	The students, the professor, the janitor, and the custodian discussed the upcoming exam.	4
+19	1	1	1	1	1	3	3	0	0	4	4	0	0	3.0	11	0	0	1	0	0	0	1	The president, Archibald, Byron, and Mary Chaworth were all involved in the conversation that day.	4
+23	2	2	1	1	1	5	6	0	0	0	4	0	1	3.0	13	0	0	1	0	0	0	1	The politician, the mechanic, the painter, and the journalist were all working on different projects at the same time.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+42	1	5	2	2	1	8	12	0	0	0	5	0	4	4.0	25	1	1	5	0	0	0	5	A lion's mane was as tangled as a bed of seaweed, the lion's roar echoed through the forest, the tiger was asleep, a flock of hummingbirds danced, and the hawk soared effortlessly through the air.	4
+28	1	2	1	2	1	7	7	0	0	1	4	0	2	6.0	11	2	2	2	0	0	0	2	The president, Archibald, the lieutenant, and the parakeet were involved in a discussion regarding the ventilation of the area where the parakeet was kept.	4
+28	0	4	0	1	1	5	7	0	2	1	5	0	2	5.0	12	1	1	2	0	0	0	2	The president, Archibald, the lieutenant, and the parakeet were the subjects of a conversation, which occurred due to their shared experiences as lieutenants.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+21	0	1	0	1	1	6	6	0	0	0	5	0	1	4.0	15	0	0	1	0	0	0	1	The politician, the scientist, the artist, the teacher, and the student were waiting for the bus.	4
+26	1	3	0	2	0	4	6	0	3	0	2	1	3	4.0	10	3	2	2	2	1	2	2	If the wind blew the leaves from the trees, I would be able to see my friend on her horseback riding across the park.	4
+24	1	1	1	4	0	2	4	0	4	0	2	2	3	5.0	12	3	2	4	2	1	2	4	If you must use a cleaner, pledge should be fine if the area that you keep your parakeet in is well ventilated.	4
+24	1	1	1	4	0	2	4	0	4	0	2	2	3	5.0	12	3	2	4	2	1	2	4	If you must use a cleaner, pledge should be fine if the area that you keep your parakeet in is well ventilated.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+25	3	2	0	0	1	3	6	0	2	1	5	0	2	4.0	12	1	1	2	2	0	2	2	The president, Archibald, and their respective aides-in-arms fell victim to a fierce storm that ravaged the nearby coastline.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+20	1	1	0	1	1	2	4	0	1	4	4	0	1	3.0	10	0	0	1	1	0	1	1	The president, Archibald, Byron, and Mary Chaworth were discussing their plans for the upcoming school year.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+15	0	1	0	1	1	2	5	0	0	0	4	0	1	3.0	9	0	0	1	0	0	0	1	The lion, zebra, cheetah, and giraffe were running across the savanna.	4
+19	0	1	2	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	 The cat, the dog, the fish, and the rabbit played happily together in the park.	4
+24	1	1	1	4	0	2	4	0	4	0	2	2	3	5.0	12	3	2	4	2	1	2	4	 If you must use a cleaner, pledge should be fine if the area that you keep your parakeet in is well ventilated.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+22	0	1	0	1	1	4	5	0	1	4	4	0	1	4.0	11	1	1	2	1	0	1	2	The president, Archibald, Byron, and Mary Chaworth were the subjects of a conversation that took place that day.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+27	2	3	2	1	1	4	6	0	1	1	4	0	2	4.0	15	1	1	1	1	0	1	1	The president, Archibald, and their respective aides as well as the royal guards were standing on guard, awaiting the arrival of the king.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+10	0	0	0	0	1	2	2	0	0	2	3	0	0	2.0	8	0	0	0	0	0	0	0	The president, Archibald, the lieutenant, and Mr.	4
+23	2	1	0	0	2	3	5	0	2	1	4	0	3	3.0	9	0	0	2	2	0	2	2	The president, Archibald, the lieutenant, and I formed a bond through shared military experience and we discussed future plans.	4
+22	0	1	0	1	1	6	8	0	1	0	4	0	0	3.0	13	0	0	1	0	0	0	1	The students, their teacher, the blackboard, and the textbook were all components of the learning process that day.	4
+22	0	0	0	1	1	6	6	0	0	0	4	0	4	3.0	16	0	0	4	2	0	2	4	The politician delivered the speech, the protestors were chanting, the crowd cheered, and the journalists filmed the event.	4
+21	2	2	1	2	0	3	3	1	1	0	1	1	3	5.0	11	2	2	2	0	0	0	2	I am pleased to share that all four subjects in the provided text were successfully incorporated into a single sentence.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+19	0	1	0	1	1	4	4	0	0	4	4	0	0	3.0	11	0	0	1	0	0	0	1	 The president, Archibald, Byron, and Mary Chaworth were the subjects of the conversation that day.	4
+25	2	0	0	2	1	6	7	0	0	0	4	0	3	3.0	17	0	0	4	2	0	2	4	The prince was a poet, the artist was gifted, the scholar had a vast knowledge, and the craftsman made intricate furniture.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+23	0	1	1	3	1	3	3	0	3	1	3	0	3	5.0	11	2	2	4	1	0	1	4	 The president was a lieutenant and Archibald had been a lieutenant, too; he figured they had something to talk about.	4
+33	2	4	0	1	3	4	6	0	3	3	5	0	2	6.0	11	0	0	2	1	0	1	2	The president, Archibald, Mary Chaworth, and I were involved in various activities, yet a shared sentiment of dissatisfaction formed the basis of a conversation between them and me.	4

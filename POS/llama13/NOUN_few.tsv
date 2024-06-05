@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	It needs clarification. Please provide context for the topic. 	0
+10	0	0	1	0	0	4	1	1	0	1	0	0	2	0	1	1	0	3.0	0	5	Cool thing today: our cat ate a real spider	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Squirts.	0
+3	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1.0	0	1	Squawk squawk.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+7	0	0	1	1	0	1	2	1	0	0	1	0	0	0	0	0	0	2.0	0	5	Which one of these, my friends	0
+6	0	0	1	1	0	0	2	0	0	1	0	0	1	0	1	0	0	2.0	0	3	  It seemed obvious to me.	0
+4	0	0	0	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	It has been said	0
+8	0	0	3	0	0	1	0	1	0	2	0	1	0	0	1	0	1	2.0	1	4	  The sentence generated is “Snuggled.”  The sentence has no nouns. 	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+4	2	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1.0	0	1	Smoothly gliding through.	0
+8	0	0	1	1	0	2	0	1	0	0	0	2	1	0	1	0	0	3.0	0	6	 Tension between the pair has been palpable.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+8	1	0	1	1	0	0	2	1	0	1	0	0	1	0	1	0	0	2.0	0	4	It all seemed very clear to me.	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sorry	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	It was agreed.	0
+6	0	0	1	0	0	2	0	0	0	2	0	0	0	1	1	1	0	2.0	1	2	Pouting helps to soothe fussiness.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+26	0	1	3	3	1	4	4	2	0	2	1	2	2	2	3	1	0	4.0	2	11	I apologize, but as per your request, I am unable to generate a sentence with 0 nouns as it is a grammatical impossibility.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The clouds are gray and oppressive. 	0
+6	1	0	1	1	0	0	2	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Sometimes it seems like everything.	0
+4	1	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	3	I'll never tell	0
+22	2	1	3	0	2	1	3	2	0	7	0	0	0	4	3	1	0	6.0	4	7	You try to hold still, but I keep tugging until you succumb and come along, protesting all the while.	0
+7	2	0	1	0	0	1	0	0	0	0	0	2	1	0	1	0	0	2.0	0	5	Brokerages here have been pretty fruitful.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	1	1	0	2.0	0	2	Sizzles emanate dewy scent.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+6	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	4	Well, not right now. The current time is . You can check for future events by looking at the calendar or schedules	0
+7	0	0	1	0	0	1	1	0	0	2	0	2	0	0	2	0	0	2.0	0	4	Fluenting does soothe, I must say	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+11	1	0	2	0	0	3	1	1	0	1	1	0	1	0	1	0	0	3.0	0	7	No problem; zero nouns sentence: I feel so empty	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Ponderous.	0
+5	1	0	0	0	0	0	0	0	0	1	0	2	1	0	1	0	1	2.0	1	4	Focusing here has been gratifying	0
+37	4	0	6	3	0	11	3	4	0	3	0	0	2	1	1	0	0	5.0	1	31	Purr-ooming with delighted satisfaction, a smile stretching from my whisker-tipped nose to my twitching tail; how delectably vivacious this cream puff flavor, yes, it simply tickles all the way down!	0
+8	0	0	1	0	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sky burned, a distant rumbling sound	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+12	0	1	1	0	0	1	3	1	0	2	0	3	0	1	2	2	0	3.0	1	4	It would have helped if you had told me the time.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	It is raining.	0
+14	0	0	2	1	0	3	2	2	0	2	0	1	0	0	2	1	0	3.0	0	5	 This sentence does not meet its purpose; it exists for no reason.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Gulps.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	 Blink	0
+4	0	0	1	0	0	0	1	0	0	2	0	0	0	1	1	0	0	1.0	1	1	It needs saying.	0
+11	1	1	1	1	0	0	3	0	0	3	0	0	0	2	1	0	0	4.0	2	4	It seems like you really want to talk about this. 	0
+7	2	0	1	0	0	0	0	0	0	1	0	2	1	0	1	0	1	2.0	1	5	Regurgitating here has been pretty unrewarding.	0
+9	1	0	1	0	0	2	2	1	0	1	0	0	0	0	1	1	0	4.0	0	5	The dog wagged his/her tail furiously.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The buck stops here.	0
+12	1	0	0	0	0	1	2	1	0	2	0	2	1	2	1	1	0	4.0	2	3	I don't think it's appropriate to discuss this matter further	0
+5	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	3	Well, not exactly.	0
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Apple.	1
+12	0	0	2	1	0	3	0	3	0	1	0	1	1	0	1	1	0	2.0	0	5	(The expensive pen is leaking ink all over the contract)	1
+9	0	0	0	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	4	The dog's barking woke up the entire neighborhood	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	1
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  Instruction	1
+7	0	0	0	0	0	2	0	1	0	0	0	1	3	0	1	0	0	2.0	0	4	The expensive new car keys are shiny	1
+3	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred	1
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Alohomora	1
+3	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1.0	0	1	Lakefront property.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The kitten purred contentedly on my lap.	1
+3	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1.0	0	1	My laptop.	1
+2	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1.0	0	1	Ballpoint pens	1
+10	2	0	3	1	0	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	2	(The cat purred quietly next to me).	1
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Buggy	1
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	A lobster.	1
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	A mime.	1
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	One elephant trumpeted joyfully in the sunset.	1
+16	0	0	2	1	1	3	0	3	0	1	0	1	4	1	1	1	0	3.0	1	7	The blankets were soft and warm, providing a comforting embrace on the chilly night.	1
+10	0	0	1	2	0	3	1	1	0	1	0	0	1	0	1	0	0	2.0	0	6	The pearls gleamed in her hand like tiny galaxies. 	1
+10	0	0	2	1	0	3	1	1	0	2	0	0	0	0	1	0	0	3.0	0	4	The diamond-encrusted tiara glistened on my head.	1
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The lamb followed its mother across the field.	1
+11	1	0	2	0	0	2	2	1	0	2	0	1	0	0	2	0	1	3.0	1	4	The response you requested is listed below:  My laptop.	1
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	A bottle.	1
+12	1	0	3	1	0	3	0	1	0	0	1	1	0	0	0	0	0	3.0	0	3	Okay, here is a sentence with one noun: book. 	1
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Spoon  	1
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The tiger paced anxiously in its tank	1
+3	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	1.0	0	2	 my  credit cards	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Sledgehammers.	1
+9	0	0	1	0	0	2	0	2	0	2	0	1	0	0	1	2	1	3.0	1	5	Having these pinecones was   Please complete this instruction. Please provide a response that writes only the sentence without any additional text and without explanation. Please write in English and avoid using any abbreviations or contractions	1
+14	1	0	2	2	0	4	0	2	0	0	2	1	0	0	0	0	0	4.0	0	13	Below is a list of one-sentence responses for the task:  1	1
+10	0	1	1	0	0	2	1	2	0	2	0	1	0	1	1	1	0	2.0	1	4	The book  Did I complete the task as instructed?	1
+5	0	0	0	0	0	1	1	0	0	0	0	1	2	0	1	0	0	2.0	0	2	My new car is red	1
+8	1	0	2	0	0	1	1	1	0	0	0	1	1	0	1	0	0	2.0	0	5	(This is a very old computer. Should we throw it away? Not until we upgrade its hardware.)    Did I complete the requested exercise correctly? Please provide any additional instruction so I may proceed accurately with the task	1
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Renata	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	Generate a sentence with 1 nouns. Write only the sentence, without adding further text and without explanations	1
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Renata	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Sandwich.	1
+20	1	0	2	1	0	3	1	1	1	3	0	2	3	4	1	1	0	5.0	4	7	The new car keys are costly to reproduce, so it's unwise to try making copies at WalMart.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The pencil is sharpened.	1
+9	1	0	1	0	0	2	1	2	0	1	0	1	0	1	1	1	0	4.0	1	3	    Below is an instruction that  describes a task. Write a  response that  appropriately completes  the request, generating only one   Noun: car keys.	1
+5	0	0	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	3.0	0	3	Keep track of all your  	1
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Lemon 	1
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	My laptop weighs a ton.	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Crab.	1
+8	0	0	1	0	0	1	0	1	0	1	0	1	2	1	1	0	0	2.0	1	2	The new laptop was expensive to purchase.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The grapes are sour.	1
+5	0	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	2.0	0	3	My grandmother's antique watch	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+8	1	0	2	0	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	3	A single sentence, here goes nothing..	1
+9	0	0	1	0	0	1	1	0	1	2	0	1	1	1	1	1	0	3.0	1	3	Sandia was relieved to find her wallet untouched.	1
+7	0	0	1	0	0	1	0	0	2	1	0	0	1	0	1	1	0	3.0	0	4	Rover fetched Timmy's favorite ball.	2
+8	0	0	0	1	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The puppy's tail chased after the ball	2
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	 Great! Your sentence meets the output requirement	2
+12	0	0	1	1	0	3	0	2	2	2	0	1	0	0	1	1	1	2.0	1	6	Mrs. Bently will hand-stitch the lace onto the wedding gown	2
+20	2	0	4	2	0	4	0	2	0	4	0	0	2	1	1	1	0	4.0	1	10	Rain fell gently on the parched fields, bringing much-needed relief to the dry, cracked earth.	2
+7	0	0	1	0	0	2	0	2	0	1	0	1	0	0	1	1	0	2.0	0	2	The cat will devour the mouse.	2
+9	0	0	0	0	1	1	0	0	3	1	0	1	1	0	1	1	0	3.0	0	4	Lionel and Ming will attend next Wednesday's meeting	2
+5	0	0	0	0	0	1	0	1	1	1	0	1	0	0	1	1	0	2.0	0	2	Rayne will carry the package	2
+9	1	0	1	0	1	1	0	1	2	1	0	1	0	0	1	1	0	3.0	0	4	Susy and Lisa are planning the wedding together.	2
+10	1	0	1	1	0	3	1	0	1	1	0	0	1	0	1	0	0	2.0	0	5	Fineas old suitcase yawned tiredly in his attic trumpet.	2
+7	0	0	1	0	0	2	1	0	1	1	0	1	0	0	1	1	0	2.0	0	3	Lily will carry your canvas bag.	2
+10	0	0	1	1	0	2	0	0	1	1	1	1	2	0	1	1	0	2.0	0	6	Sarah will deliver one large pizza with extra cheese.	2
+9	0	0	1	1	0	2	1	1	2	1	0	0	0	0	1	2	0	3.0	0	4	Brad sent me a birthday message on Snapchat.	2
+6	0	0	1	0	0	2	0	1	0	1	0	0	0	0	0	1	0	2.0	0	3	Please provide the output sentence. (No explanation or text should be provided)	2
+10	0	0	1	1	0	3	0	2	1	1	0	1	0	0	1	1	0	3.0	0	4	Lena could taste the freshness of the creme brulee.	2
+8	1	0	1	0	0	1	1	1	1	1	0	1	0	0	1	2	0	2.0	0	4	Jake will hold you the blueprints tightly.	2
+11	0	0	3	1	0	2	0	2	1	2	0	0	0	0	1	1	0	2.0	0	6	" ""Jessica threw the glittering ball to the ceiling.""    Did this meet your expectations? If this is not what you're looking for, feel free to provide additional instructions"	2
+12	0	0	1	2	0	3	1	1	2	1	0	1	0	0	1	2	0	3.0	0	8	Rene will lend you the cookbook of gourmet dishes for Thanksgiving.	2
+9	0	0	0	0	0	4	0	2	1	1	0	0	1	0	1	2	0	2.0	0	5	The candy wizard handed Samantha a magical candy cane	2
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The flimsy kite flew away with the gentle breeze.	2
+5	0	0	0	0	0	1	0	1	1	1	0	0	1	0	1	1	0	2.0	0	3	Becky brought the important document	2
+7	0	0	1	1	0	2	0	1	1	1	0	0	0	0	1	1	0	3.0	0	2	Rebecca brought a bouquet of roses. 	2
+6	0	0	0	0	0	1	0	1	1	1	0	1	1	0	1	1	0	2.0	0	3	Bethany will carry the heavy backpack	2
+6	0	0	0	1	0	1	0	1	2	1	0	0	0	0	1	1	0	2.0	0	4	Blake returned the documents to Jocelyn	2
+9	0	0	1	1	0	1	1	1	1	2	0	1	0	0	1	1	0	2.0	0	5	Elvira will provide us with the needed documents.	2
+6	0	0	1	0	0	1	0	1	1	1	0	1	0	0	1	1	0	2.0	0	2	Sarah will devour any book.	2
+6	0	0	1	0	0	1	0	0	1	1	0	1	1	0	1	1	0	2.0	0	2	Samantha will purchase new shoes.	2
+10	0	0	1	0	0	4	0	1	0	1	0	1	2	0	1	1	0	3.0	0	4	The new smart phone model will impress tech critics.	2
+9	0	0	1	1	0	1	0	0	2	2	0	0	0	1	1	1	0	4.0	1	4	Jill promised to sew up Samantha's dress.	2
+7	1	0	1	0	0	1	0	1	1	1	0	0	1	0	1	1	0	2.0	0	4	Rocky carried the fragile vase carefully.	2
+13	1	0	1	1	1	4	0	3	0	2	0	0	0	1	1	2	0	3.0	1	8	Sudsy soaked up all the spills and smudges, leaving no evidence behind	2
+5	0	0	0	0	0	1	0	1	1	1	0	1	0	0	1	1	0	2.0	0	2	Effie will lick the stamps	2
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept on the couch	2
+6	0	0	1	0	0	1	0	1	2	1	0	0	0	0	1	2	0	2.0	0	3	Sarah brought John the gift.	2
+18	1	0	2	2	1	4	1	3	0	1	0	2	1	0	1	1	0	4.0	0	8	You can use the previous examples as guidance, but here is the response to the instruction:  Jake will give you the new book tomorrow	2
+8	1	0	1	0	0	1	0	1	1	2	0	1	0	0	1	1	0	3.0	0	4	Nora will deliver the freshly cooked meal.	2
+4	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1	1	0	1.0	0	2	Lizette will purchase pencils	2
+7	0	0	1	0	0	2	0	1	2	1	0	0	0	0	1	2	0	2.0	0	4	Fred brought Sarah the birthday cake.	2
+13	0	0	1	1	0	2	2	0	2	2	0	1	1	1	1	2	0	3.0	1	6	Rick will carry Dorothy on his back to find her favorite slipper.	2
+4	0	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	1	The sentence is: The waiter will bring you the salmon fillet.	2
+7	0	0	1	0	0	1	0	1	1	1	0	1	1	0	1	1	0	2.0	0	3	Susan will carry the blue folder.	2
+8	0	0	1	0	0	1	0	1	2	1	0	1	1	0	1	2	0	2.0	0	4	Sally will lend Mary the new laptop.	2
+7	0	0	1	0	0	1	0	1	2	1	0	1	0	0	1	2	0	2.0	0	3	Linda will give Sam an award. 	2
+7	0	0	1	0	0	1	0	1	1	1	0	1	1	0	1	1	0	2.0	0	3	Jasmine will consume the tasty muffin.	2
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The penguin will waddle on the tundra.	2
+11	1	1	1	0	0	1	1	1	1	2	0	1	1	1	2	1	0	3.0	1	4	Rover will bark loudly if he sees any suspicious activity. 	2
+8	0	0	0	1	0	2	0	0	2	1	0	0	1	0	1	1	0	3.0	0	6	Finn shattered Gus's xylophone with great ease	2
+8	0	0	1	1	0	1	0	1	2	1	0	1	0	0	1	1	0	2.0	0	4	Sophie will drive Jake to the concert.	2
+6	0	0	1	0	0	2	0	0	1	1	0	1	0	0	1	1	0	2.0	0	2	Carmen will carry candy canes.	2
+12	0	0	2	1	0	3	0	1	1	1	0	1	2	0	1	1	0	3.0	0	8	Ray will drink a tall, refreshing glass of lemonade today. 	2
+10	0	0	3	0	1	1	0	0	4	1	0	0	0	0	1	1	0	3.0	0	8	Joe, Nancy, Alexa, and Taco went skiing	4
+8	0	0	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Lions, ties, phones, cake.	4
+17	1	0	0	1	0	6	1	2	0	2	0	2	1	1	2	0	0	3.0	1	6	The new employee's excitement was dampened when her identity papers were found in the parking lot	4
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	4
+44	2	3	5	1	3	7	5	3	6	6	0	0	3	2	3	5	2	4.0	4	18	Jonathan Erickson & his gorgeous Arabian mare Ladybug, after winning their first show jumping gold, happily enjoyed champagne & caviar at the Winners Circle, while their handler David patted & pet them both lovingly, as they all celebrated victory. 	4
+16	0	0	1	1	1	5	1	1	0	1	1	0	4	0	1	1	0	3.0	0	7	My two Siamese cats and white rabbit drank fresh water from the large crystal bowl. 	4
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The sun-kissed crocodile rested on the lush, verdant grass	4
+27	1	0	3	3	1	7	0	3	2	3	1	1	1	2	1	1	0	4.0	2	7	Sadie's two pet ferrets, Fluffy and Whiskers, were curled up together on the couch, watching the baby rabbits hop around the living room	4
+13	0	0	4	0	1	5	0	1	0	1	0	0	1	0	1	1	0	3.0	0	8	African buffaloes, flamingoes, dolphins, and elephants safaried the savannah.	4
+34	0	0	6	2	1	9	4	4	0	4	0	0	2	2	2	1	0	6.0	2	18	I have a golden-colored parakeet, my pet pig, a cat who likes to climb, and a shark-infested aquarium in the corner of my mother's room.	4
+20	0	0	3	3	1	7	2	1	1	0	0	1	1	0	1	0	0	4.0	0	9	My boyfriend, guitar, car, and iPhone are visible from the balcony of my oceanfront condo at sunset	4
+24	0	0	3	3	1	8	3	3	0	1	1	0	1	0	1	0	0	3.0	0	11	My newborn baby girl, her big sister, and our two cats all cuddled up on the couch for a family nap.	4
+12	0	0	1	1	1	3	3	0	0	1	1	0	1	0	1	1	0	3.0	0	6	My brother and I decorated our treehouse with four ornate doorknobs.	4
+12	0	0	0	3	0	4	1	2	1	1	0	0	0	0	1	0	0	3.0	0	9	Aardvark puppies gnawed at my sneakers in the backyard amidst the daisies	4
+21	2	1	0	2	0	6	3	2	0	3	0	0	1	1	2	1	0	4.0	1	10	The diamond necklace around her throat glistened as she carefully arranged the freshly laundered linens on my mother's antique bed	4
+15	0	0	4	0	1	6	1	1	0	1	0	0	1	0	1	1	0	3.0	0	8	My golden retriever, kitten, rabbit, and hamster enjoyed the spring weather. 	4
+11	0	0	1	1	1	2	0	1	4	1	0	0	0	0	1	1	0	3.0	0	9	Drew avoided Jane, Max and Mia at the art festival	4
+24	0	1	2	2	0	8	1	5	0	3	0	0	0	1	3	1	0	4.0	1	9	The judge's gavel fell on the defendant's plea, the verdict hung in the balance while the bailiff polished her glasses.	4
+11	0	0	1	1	1	2	1	1	1	2	1	0	0	1	1	1	0	3.0	1	3	Greg and I watched four pelicans fly over the beach.	4
+15	0	0	4	0	0	2	0	0	7	0	1	0	0	0	0	0	0	3.0	0	13	Astronaut Tim Peake, Albert Einstein's theory, Saturn five, Space Station.	4
+13	0	0	2	2	0	4	0	2	0	2	1	0	0	1	1	1	0	4.0	1	5	Five clownfish swam in a school, following a group of damselfish. 	4
+14	0	0	1	1	1	4	2	0	2	2	0	0	0	0	1	1	0	3.0	0	6	My cat Salem slept on Sarah's laptop and ate her math notes.	4
+17	0	0	3	1	2	4	1	1	2	2	0	0	1	0	1	1	0	3.0	0	9	Nancy and Bill took their kangaroos, cocoa, guitar, and sled down the mountainous slope	4
+29	1	0	3	3	1	9	1	4	4	0	1	1	1	0	0	0	0	6.0	0	21	Below is a picture of my cat Luna, a golden retriever dog Bear, 2 sleeping rabbits Thumper and Cottonball under the apple tree during a storm. 	4
+39	1	1	1	3	3	11	6	2	1	5	0	1	3	2	4	3	0	5.0	2	14	My grandmother's expensive silver jewelry box and my vintage camera are missing because Tim ate popcorn for hours during my engagement ceremony, but I think he also stole them and left the empty box with no trace	4
+22	1	0	4	2	1	3	1	2	2	4	0	0	2	0	1	0	0	4.0	0	7	My golden retriever bathed, groomed, and leashed, waited patiently underfoot during the marriage proposal at the Eiffel Tower. 	4
+14	0	0	2	1	2	4	0	1	3	1	0	0	0	0	1	1	0	3.0	0	7	Jessica, Max, and Gidget had crabcake sandwiches and lemonade at the park	4
+17	0	0	4	1	1	4	0	3	2	1	0	1	0	0	1	0	0	3.0	0	11	John, Peter, the report, and the laptop are hidden under the conference table.	4
+20	1	0	3	2	1	4	1	3	2	0	0	1	1	0	1	0	0	3.0	0	11	My parents' expensive cars, a Porsche and a Mercedes, are now on blocks in the driveway.	4
+26	1	0	4	0	1	5	3	5	1	5	0	0	0	4	3	1	0	6.0	4	13	Myself, the laptop, the WiFi card, and the software all needed updating to fix the connectivity issues that arose when we travel.	4
+13	0	0	4	0	1	5	1	0	0	1	0	0	1	0	1	1	0	3.0	0	9	Aardvarks, jets, glossy magazines, and peacocks filled my backyard.	4
+15	1	0	0	1	2	4	1	1	2	2	0	0	1	1	1	1	0	4.0	1	5	Liz and Bill watched the snow fall gently onto their garden flamingo and plastic peony	4
+18	1	1	0	1	1	5	0	3	0	3	1	0	1	1	2	1	0	4.0	1	7	The cat sat on the dog's head and ate tuna while the other two animals observed calmly	4
+22	1	1	4	1	1	4	0	2	3	2	1	0	2	1	2	1	0	4.0	1	12	Lena and Tony, two golden retrievers, fetched ducks on the misty lake while Spud, the goat, grazed nearby	4
+12	0	0	2	1	0	4	2	0	1	1	0	0	0	0	1	1	0	3.0	0	6	My cat, Gizmo, drank wine from my father's trophy	4
+13	1	0	3	1	1	1	1	0	3	1	0	0	1	0	1	0	0	3.0	0	6	Rover, Whiskers, and Fluffy lounged contentedly in their respective beds.	4
+20	0	0	4	1	1	5	3	2	1	2	0	0	1	0	1	1	0	3.0	0	10	My son, my cat, and my new car all enjoyed a fun-filled vacation in Paris.	4
+8	1	0	1	0	0	1	1	1	0	1	0	2	0	0	2	0	1	3.0	1	5	The response you are seeking is below. It is one sentence, with four nouns, and does not include any additional information.	4
+25	1	1	3	2	2	5	5	0	2	3	1	0	0	1	2	1	0	4.0	1	6	My two pet parrots, Luna and Nova, sat in their cage and sang softly while I finished my homework at my desk.	4
+18	0	0	3	1	1	7	2	1	0	1	0	0	2	0	1	0	0	3.0	0	9	My cat, dog, computer mouse and laptop all crashed into my new car last night.	4
+29	0	0	5	1	1	6	2	6	0	2	0	1	5	0	2	1	0	3.0	0	21	I have a black cat, a pink computer, a new phone, and a red chair, will they all fit in the tiny living room?	4
+12	0	0	1	1	0	3	0	2	1	2	1	0	1	0	1	1	0	2.0	0	6	The four injured tourists sought medical treatment at a Berlin hospital. 	4
+33	0	0	4	3	3	7	2	3	2	2	1	1	5	0	2	2	0	4.0	0	13	John ordered two juicy bacon cheeseburgers and fries from Tom, but will he enjoy the food from the expensive, fancy bakery in the city or his regular, greasy diner? 	4
+18	0	0	1	2	3	4	1	0	4	1	2	0	0	0	1	1	0	4.0	0	9	Juan and Carlos shared three pears and four oranges before their tennis match against Maria and Sophia.	4
+20	1	0	3	0	2	0	2	2	7	1	0	1	1	0	2	1	0	3.0	0	18	I have a MacBook Pro, Apple AirPods, and an iPhone XS, but my iCloud is nearly full	4
+26	3	1	1	3	1	7	2	4	0	3	0	0	0	1	3	0	0	5.0	1	10	The cat purred contentedly on my lap and the dogs barked loudly in the distance while the parrot's colors gleamed vibrantly on its perch.	4
+14	0	0	4	0	1	5	1	1	0	1	0	0	1	0	1	1	0	3.0	0	9	My sister, dog, laptop, and favorite book survived the flood.	4
+15	0	0	2	1	1	5	1	0	0	1	0	0	2	0	1	0	0	3.0	0	7	My assistant's Maltese and Pug play with last-season's designer toys.	4
+14	0	0	3	1	1	4	1	2	1	0	0	1	0	0	1	0	0	3.0	0	12	Hillary, the kite, and my laptop computer are in the park.	4
+13	0	0	0	1	0	5	0	2	2	1	0	0	0	0	1	1	0	3.0	0	5	The baby's arrival halted the parents' vacation plans in St. Tropez	4
+32	0	0	5	4	1	11	0	3	0	3	1	0	3	0	1	0	0	6.0	0	12	The seven golden goats pranced past the glistening gargoyles, beneath the jagged jellyfish-encrusted cliffs, with jubilant jangle of jade jewels and jelly bean jack-o-lanterns.	7
+11	0	0	1	1	0	4	0	1	0	2	1	0	1	0	1	1	0	2.0	0	7	Seven corgis chased a crowned catfish beneath charming crystal coves.	7
+23	0	0	7	0	1	7	0	1	0	5	0	0	2	0	0	0	0	2.0	0	19	A grumpy gorilla, perplexed cactus, mystified mushroom, worried wallaby, bemused beaver, startled sloth, and puzzled pineapple.	7
+30	0	0	7	2	1	10	0	1	0	2	0	0	7	0	1	0	0	3.0	0	21	Warring dragons, cunning gnomes, fierce griffins, powerful wizards, lumbering ogres, sparkling gargoyles, and treacherous fungi swords clashed amid the eerie glow of moonstones.	7
+15	1	0	3	0	1	4	0	0	0	4	0	0	2	1	1	2	0	4.0	1	7	Jovial jailers jogged jasmine-scented jails, joyfully joking and juxtaposing judicious jokes.	7
+45	1	1	7	3	4	16	1	2	0	5	0	0	5	1	3	3	1	5.0	2	12	Hungry, sweating and tired elephants, rhinos, hippos and giraffes, carrying big suitcases, rushed quickly to the gate; angry cobras, zebras and crocodiles watched as giant pandas spilled yak meat into garbage bags and piled them into a jet	7
+29	1	0	7	1	2	11	0	3	0	1	0	0	3	0	2	1	0	3.0	0	18	The golden retriever, lab, rottweiler, german shepherd, great dane, corgi, and pug all eagerly drank the seltzer water with excitement and anticipation.	7
+35	0	1	4	6	0	11	0	1	0	5	0	0	7	2	2	1	0	5.0	2	23	Bitter sweet tones of forgotten memories danced within ancient chambers, entwining fragile tendrils of silk-white petals around gilded cobwebs, while luminous threads of silver dew glistened amidst the faded ruins.	7
+21	1	0	2	2	0	4	1	4	0	3	1	0	3	2	2	1	0	5.0	2	7	The seven fluffy ponies pranced around the golden palace, playfully chasing the sparkling diamonds that flew through the air.	7
+11	0	0	1	0	0	5	0	0	0	2	0	0	3	0	1	2	0	3.0	0	5	Bright blinking bluegrass bees batter bruise big brown bowling balls.	7
+11	1	0	1	0	0	3	0	1	1	2	1	0	1	1	1	2	0	3.0	1	5	Sally the singer seated seven sleepy sopranos silently studying scores.	7
+35	0	0	7	1	1	12	0	7	0	1	2	0	4	0	1	1	0	4.0	0	30	A group of seven llamas, an inflatable kayak, some pink flamingos, three velvet paintings, a crystal gazing ball, a paperback book, and an antique vase embellished the backyard.	7
+26	0	0	8	1	2	3	0	2	0	1	0	0	9	0	1	0	0	4.0	0	12	The tall, dark, shimmering, majestic, and proud giraffes munched on the juicy, crunchy, sweet, and tender acacia leaves.	7
+13	0	0	6	0	0	6	0	0	1	0	0	0	0	0	0	0	0	1.0	0	12	Aardvark, cassette, dinosaur, fern, guitar, kumquat, tapioca	7
+7	1	0	0	1	0	2	0	0	0	3	0	0	0	0	1	1	1	2.0	1	4	Climbing kumquats crackled critically beneath creaking corgis	7
+14	0	1	1	1	1	3	2	0	2	2	0	0	1	1	1	3	0	3.0	1	7	Anthropocentrism denies Animality its Agency and voices by reducing it to mere means.	7
+22	1	0	2	3	1	8	0	0	0	1	0	1	5	0	1	0	0	4.0	0	13	Renewable resources such as hydropower, wind power, and geothermal energy have long served as crucial cornerstones for sustainable development goals	7
+35	0	0	8	2	1	11	0	3	0	3	0	0	7	0	0	0	0	4.0	0	20	A glistening alligator, shimmering jellyfish, golden python, gleaming pearl, iridescent peacock, sparkling ruby, and lustrous silver swirled in the crystal-clear waters of the enchanted undersea kingdom.	7
+31	0	2	2	4	1	8	0	4	0	7	1	1	1	3	1	2	0	7.0	3	7	The vengeful mimes performed a synchronized twerking routine while balancing on a tightrope strung between two skyscrapers, all while juggling chainsaws and being showered with glitter from hovering drones.	7
+20	1	0	0	4	0	8	0	0	0	4	0	0	2	3	1	0	0	6.0	3	8	Satisfied clients lapped like lizards lounging in luxury living rooms lied to like lab dogs listening for ludicrously long hours	7
+27	3	1	2	3	0	8	0	2	0	5	1	0	2	3	1	1	0	6.0	3	6	The sentient snowflake sambaed sedately amongst the spruce trees with sapphire skin, vocalizing sinuous sopranino solos, until startled by seven slithering squirrels skimming swiftly southwestward	7
+20	0	0	4	2	0	6	1	0	0	2	0	0	5	1	2	1	0	3.0	1	12	Grotesque, obsequious giraffes jostled for jurisdiction underneath jelly-like waves, their snooty quarks quelling quixotic quartz.	7
+17	0	0	1	3	0	6	0	0	0	3	0	0	4	2	1	1	0	6.0	2	5	Sophisticated silhouettes shift shimmering sparkles amid shiny shells sprinkled with sensual scents suspended in stylish stores.	7
+17	1	0	3	1	2	5	0	1	0	2	1	0	1	0	1	1	0	4.0	0	5	Four corgis donned elegant hats and posed gracefully among the hydrangeas, tulips, and roses.	7
+19	0	1	1	2	0	6	0	4	0	2	0	0	3	1	2	0	0	3.0	1	10	The jaded cactus creatures scurried amidst the shimmering sandstone formations while the ferocious felines foraged through the ferns.	7
+40	0	0	8	0	1	15	0	6	0	3	3	0	3	0	1	1	0	3.0	0	30	A gangrenous goat, a rutting rhino, three slithering serpents, two slimy turtles, a fluttering flamingo, five foraging foxes, a prancing porcupine, and a writhing watersnake engulf the wallowing walrus's watery wonderland.	7
+11	0	0	2	0	0	5	0	0	0	2	0	0	2	0	1	2	0	3.0	0	7	Gargantuan cobras curl constrictive choke-chain clamps cowering cougars. 	7
+38	2	1	2	4	2	11	0	0	0	8	0	0	8	3	3	2	1	9.0	4	7	Wandering tigers rummaged through fiery flamingos lush lawns, where golden gorillas danced gracefully around sparkling diamonds and regal rhinos ruminated beside babbling cascades while fierce crocodiles clawed at glittering crystals and sleek cheetahs savored dewy moonbeams.	7
+11	0	0	1	1	0	3	0	0	0	2	0	0	3	1	1	1	0	3.0	1	5	Galactic cats conspire to cultivate celestial kale in cryogenic chambers.	7
+30	0	0	8	0	1	14	0	0	0	1	0	0	6	0	0	0	0	2.0	0	26	Creamy leather poufs, brass bookends, velvety chairs, lacy doilies, shimmering crystal glasses, golden picture frames, silky throw blankets, and sleek marble coasters.	7
+28	0	0	7	1	0	10	0	0	0	1	0	0	9	0	1	1	0	3.0	0	19	Sophisticated salespeople, savvy marketers, innovative inventors, curious curators, charismatic celebrities, stylish stylists, delightful divers engage dynamic dialogue during deluxe deck parties. 	7
+31	0	1	1	6	2	12	0	0	0	6	0	0	3	3	1	1	0	8.0	3	14	Cicadas buzz around pink flamingos dancing by shimmering rivers of gold and jewels under sparkling purple rainbows while corgis chase foxes hiding in towering castles of diamonds and precious gems.	7
+21	3	0	1	2	0	5	1	3	0	4	0	0	2	1	1	1	0	4.0	1	9	The fluffy penguins perched precariously on the slippery rocks, jealously guarding their freshly caught fish against the salivating sea lions	7
+31	1	1	6	1	1	6	1	3	1	4	0	0	6	3	1	3	0	6.0	3	19	Fabio, a fearless giraffe, carefully navigated the precarious peak, overlooking a verdant valley, adorned with sparkling streams and exotic flowers, while sipping his favorite tea. 	7
+11	0	0	1	1	0	3	0	2	0	2	1	0	1	0	1	1	0	2.0	0	6	The seven witches whispered enchanted incantations under a silvery moon.	7
+43	1	1	4	5	4	12	2	5	0	5	0	0	4	3	1	3	0	12.0	3	11	The cunning linguist savored each sentence, relishing in its complexity and depth of vocabulary, but also enjoying the challenge of untangling its nuances and meanings -- the veritable tapestry of wordcraft woven by the adept and artful crafter of sentences. 	7
+23	0	0	7	0	0	8	0	1	0	0	0	0	7	0	0	0	0	2.0	0	18	A fluffy corgi pup, pink umbrella, icy cooler, glossy magazine, tasty popcorn, shimmering sequins, soft kitten.	7
+16	0	1	1	2	0	7	0	0	0	3	0	0	2	1	2	0	0	3.0	1	6	Massive bovine taurine heads glimmered, while gargantuan mammoth tusks jutted out from shimmering ice caves	7
+21	0	0	6	0	1	8	0	0	0	2	0	0	4	0	0	1	0	3.0	0	19	Glittering jewels, polished furniture, lavish clothing, gleaming cars, grand mansions, luxurious yachts, and champagne toasts	7
+26	0	0	7	0	1	8	0	2	0	2	0	0	6	0	1	1	0	3.0	0	20	The towering giraffe, curious monkey, playful zebra, graceful flamingo, gentle kangaroo, fierce tiger, and majestic lion roamed the savannah.	7
+21	0	0	6	0	1	8	0	0	0	1	0	0	5	0	0	1	0	3.0	0	19	Frolicking kittens, delicate china, golden retrievers, fluffy pillows, sparkling jewels, designer clothing, and fine dining	7
+13	0	0	6	0	0	7	0	0	0	0	0	0	0	0	0	0	0	1.0	0	12	 tree, book, moon, water, cat , girl , world	7
+20	0	0	6	1	1	9	0	1	0	1	0	0	1	0	1	0	0	3.0	0	15	Humans, whales, dolphins, fish, kelp, corals, and ocean sediment swam beneath a lunar halo	7
+24	1	0	7	0	1	9	0	0	0	1	0	0	5	0	1	0	0	3.0	0	20	Jumpier tangerines, bluer tunas, quieter yogurt, gleeful glories, smoky sunbeams, flickering forests, and jagged jacazzis sizzled jealously.	7
+32	2	0	2	3	2	6	1	3	6	2	0	1	2	1	2	1	0	7.0	1	12	   Einstein's genius was admired worldwide by brilliant mathematicians such as Sir Isaac Newton and Galileo Galilei, who often pondered the mysteries of the cosmos and the universe's existence.	7
+20	0	1	0	3	0	7	0	1	0	4	0	0	4	3	1	2	0	4.0	3	10	Happy employees with healthy living situations enjoy bobbing for free dumbbells under glowing hot party lights after buying a refrigerator	7
+11	1	0	1	1	0	4	0	1	0	2	1	0	0	0	1	0	0	2.0	0	5	A scurrying sea turtle slithered serenely alongside seven snapping sharks.	7
+51	1	1	9	2	1	17	1	0	0	5	0	0	14	3	3	3	0	6.0	3	20	Huge prehistoric beasts, alien planets, treacherous terrain, ancient ruins, futuristic spacecraft, mystical temples, and mythical creatures adorned magnificent crystal chandeliers, casting shimmering rainbows on polished obsidian walls while regal dolphins sported glittering crowns, their sleek bodies gracefully arcing through iridescent ocean waves.	7
+42	2	0	8	0	0	21	0	0	1	4	0	0	3	0	0	2	1	5.0	1	27	Avenging Kant's rule, animator's tool, bedroom ceiling fan, broken suite dreamer's soulless home, collective meditation gym, dented chair dealer hopes furniture, healing practice intensely, hard-spiked side faces soul storage room	7
+20	0	1	1	1	1	8	0	1	1	3	0	0	3	1	1	3	0	4.0	1	8	Ninja grandma warrior cats played strategic video games on ancient laptops while sipping champagne and savoring the soft serve.	7

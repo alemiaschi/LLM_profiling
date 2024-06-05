@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PROPN_constraint
+7	0	0	1	1	0	1	2	0	0	1	0	1	0	0	1	0	0	2.0	0	3	   She was lost in her thoughts.	0
+20	1	0	4	1	0	3	1	2	0	2	1	4	1	0	3	0	1	4.0	1	15	"The sentence that can be generated with 0 proper nouns is ""The universe is always expanding.""."	0
+13	0	0	2	0	0	2	2	1	0	2	1	1	1	1	2	2	0	4.0	1	4	  Sure, I can generate a sentence that has 0 proper nouns..	0
+13	1	0	2	1	0	4	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The sun shone brightly, illuminating our evening stroll through the countryside.	0
+23	0	0	2	3	0	7	1	5	0	2	0	0	3	1	2	1	0	6.0	1	5	  The loud laughter echoed through the empty city square, a strange sound that filled the void with a sense of melancholy.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	  The sun shines brightly in the afternoon sky.	0
+15	0	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	4.0	1	6	A cloud sailed across the starry night, carrying the hopes of the dreamer.	0
+13	0	0	1	1	0	3	1	2	0	2	1	0	1	1	0	1	0	4.0	1	6	There is no text to generate a sentence with 0 proper nouns.	0
+7	0	0	2	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	  **The sky was bright blue.**	0
+21	2	1	3	1	0	5	0	4	0	2	0	0	3	2	1	1	0	4.0	2	13	  The sun set, casting an eerie glow on the empty street, as the lonely dog wandered back home.	0
+7	0	0	1	1	1	3	0	1	0	0	0	0	0	0	0	0	0	3.0	0	2	  A day of joy and freedom.	0
+6	0	1	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	2.0	1	2	  The rain fell without stopping.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+15	0	0	2	3	0	4	0	3	0	2	0	0	1	1	1	0	0	5.0	1	4	  The rain danced on the windows, like diamonds scattered across a dark sheet.	0
+20	0	0	2	3	0	6	1	3	0	2	0	1	1	1	2	0	0	4.0	1	9	 The day had flown by unnoticed, its warmth forgotten like a bird's shadow in the afternoon sun.	0
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	  In the vast universe, the sun shines brightly.	0
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	  The moon danced above the sky, illuminating the clouds.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	  The sun shone brightly in the vast sky.	0
+10	1	0	1	0	0	2	1	2	0	1	0	1	0	1	1	1	0	4.0	1	3	 Sure, here is a sentence that fits the instructions	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	  The sky was blue today.	0
+5	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	  She was sad today.	0
+12	0	0	2	1	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	4	  The rain poured all day, filling the street with water.	0
+7	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The sky is a celestial blue.	0
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Certainly.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	  The sun rose in the sky today.	0
+9	0	0	2	1	0	3	2	0	0	1	0	0	0	0	1	1	0	2.0	0	5	  **They played their board game at home.**	0
+17	0	1	1	1	0	3	1	3	0	3	0	2	1	2	1	0	0	5.0	2	4	The task could not be completed as there are no proper nouns provided in the context.	0
+15	0	0	2	2	0	4	1	3	0	2	0	0	1	1	1	0	0	5.0	1	4	 The moon hangs above the earth, a gentle glow reflecting in its surface.	0
+33	0	0	3	4	0	9	1	8	0	4	0	0	4	3	2	3	0	7.0	3	9	 A lone sun peeked through the cracks of the blinds, casting an ethereal glow on the bedroom floor, stirring the quiet slumber that enveloped the room like an ethereal mist.	0
+13	1	0	3	0	0	3	2	2	0	1	0	1	0	1	2	1	0	3.0	1	5	 **Yesterday, I had a dream where I was a superhero.**	0
+13	0	0	3	1	0	3	1	3	0	1	0	1	0	0	2	0	0	2.0	0	5	"The answer is ""He sleeps in the forest every night."""	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The sun rose over the horizon without a sound.	0
+10	0	0	1	1	0	4	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The sky was a vast expanse of azure blue..	0
+10	0	0	2	1	0	2	0	1	0	0	1	1	1	0	1	0	0	3.0	0	8	Sure, a sentence with 0 proper nouns is: The sky is blue today.	0
+15	0	0	2	2	0	5	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun set beyond the horizon today, casting long shadows on the beach.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	  The rain fell in the city today.	0
+13	0	0	1	2	0	4	0	3	0	0	0	1	2	0	1	0	0	3.0	0	4	The sky is the vast collection of blue hues in the sky.	0
+9	0	0	2	0	0	2	1	1	0	2	0	0	0	1	1	1	0	3.0	1	2	  **An angel came to take her son.**	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The sun rises over the horizon.	0
+7	1	0	2	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	5	Certainly, the task is complete.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	  A bird flew above the tall house today.	0
+19	0	1	2	1	1	4	0	3	0	4	0	1	1	2	2	1	0	5.0	2	5	  The rain was pouring in the park, creating an eerie atmosphere for children to hide and seek.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 The sun shines brightly throughout the day.	0
+17	0	0	2	2	0	5	1	3	0	2	0	0	2	1	2	0	0	4.0	1	4	A lone sparrow flew over the serene lake, its feathers shimmering with the morning sun.	0
+14	1	0	2	2	0	4	0	3	0	1	0	0	1	0	1	0	0	4.0	0	5	Sentence: The shadow danced mysteriously through the endless expanse of the forest.	0
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	6	   She smiled at the moon in the sky.	0
+17	0	0	3	2	1	5	0	3	0	2	0	1	0	1	1	0	0	5.0	1	4	"  ""The sky was a swirling canvas painted with the colors of hope and fear."""	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The rain fell without any clouds in the sky.	0
+16	0	0	2	1	0	3	1	2	0	3	1	0	1	2	0	1	0	5.0	2	6	Sure, there is no task given to generate a sentence with 0 proper nouns.	0
+30	0	0	5	3	2	7	2	2	3	3	1	0	2	1	2	1	1	5.0	2	10	Three artists, named Anna, Ben, and Chloe, collaborated on a vibrant mural project that transformed the dilapidated alleyway with colors and patterns of their dreams.	3
+32	0	0	6	4	2	7	0	5	3	1	1	1	2	0	1	1	0	4.0	0	10	The three girls, Sarah, Emma, and Chloe, were enjoying a picnic under the clear blue sky, with laughter and the scent of roses in the air.	3
+23	0	0	3	3	1	6	3	1	0	3	0	0	3	2	1	1	0	8.0	2	4	There are numerous works of art, composed by various artists, that celebrate the diversity of humanity and its multifaceted nature.	3
+13	0	1	1	1	0	4	1	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The children gathered their belongings before departing for the annual summer outing.	3
+23	0	0	5	2	1	3	0	3	4	2	2	0	0	1	1	1	0	4.0	1	10	The four friends, Anna, Bob, Charlie and David, met to plan a trip for the summer of 2024.	3
+14	0	0	1	1	0	4	0	3	0	1	1	0	2	0	1	1	0	3.0	0	3	The three artists' new mural unveiled the vibrant colors of the town.	3
+16	0	0	1	3	0	6	0	3	0	1	0	0	2	0	1	1	0	3.0	0	9	A band of merry musicians played a concerto of ethereal melodies under the starlit sky.	3
+21	0	0	5	3	1	4	0	3	3	1	0	0	1	0	1	0	0	4.0	0	11	The trio of children - Alice, Bob, and Charlie - embarked on an expedition through the enchanted valley.	3
+44	1	1	5	4	4	12	0	5	0	4	0	2	6	3	1	3	0	6.0	3	14	The artists, composers, and poets of the past have been the masters of generating unique and captivating melodies in a language rich with symbolic meanings, thus bridging the centuries and connecting across cultures, sparking intellectual curiosity and artistic appreciation.	3
+21	0	0	1	4	0	5	1	2	2	2	0	0	3	1	1	0	0	4.0	1	9	A team of dedicated scientists from the renowned research facility gathered around Professor Jackson to collaborate on their groundbreaking research.	3
+23	0	0	2	4	1	9	1	3	0	3	0	0	0	2	2	1	0	5.0	2	11	The children created a castle made of sticks on top of the hill, which stood amidst blooming flowers and cascading waterfalls.	3
+15	0	0	1	3	0	6	0	4	0	1	0	0	0	0	1	1	0	5.0	0	3	The city council approved the construction of a park in the center of town.	3
+25	0	0	3	2	1	7	0	6	0	1	0	0	5	0	1	1	0	3.0	0	11	The majestic oak tree, the bustling school, and the bustling city all offered a collective sense of wonder for the curious students.	3
+27	1	1	2	1	2	5	1	3	0	5	1	1	4	4	2	2	0	7.0	4	6	Three friends went surfing together and had a great day, enjoying the beautiful scenery and the camaraderie that came with being amongst such lively souls.	3
+19	0	0	2	1	0	3	1	3	4	2	1	1	1	1	2	1	0	5.0	1	4	The three musicians performed a concerto that was conducted by the legendary conductor, Sir Ludwig van Beethoven.	3
+19	2	0	5	1	1	3	0	2	3	1	1	0	0	0	1	0	0	3.0	0	9	The three friends, Alice, Beatrice, and Carol, went out for a sunset drive together.	3
+17	0	0	3	2	1	6	0	2	0	1	0	0	2	0	1	0	0	4.0	0	8	The vibrant symphony of cultures, languages, and traditions echoed through the bustling city streets.	3
+12	0	0	1	1	0	4	0	2	0	2	0	0	1	1	1	1	0	3.0	1	4	A group of ambitious musicians assembled to form a jazz quartet.	3
+20	0	0	3	3	0	5	2	2	0	3	0	0	1	1	1	0	1	5.0	2	8	The students, their backpacks filled with books, gathered in the library to study for their upcoming exam.	3
+29	0	1	3	3	1	9	2	3	0	3	0	0	3	1	2	1	0	4.0	1	9	The vibrant city's symphony of street musicians, musicians, and dancers echoed through the towering skyscrapers as they celebrated the vibrant culture of their beloved home.	3
+24	0	0	2	3	0	7	1	4	0	2	1	0	4	1	1	2	0	4.0	1	6	The harmonious blend of three celestial bodies shaped a radiant constellation, enchanting the world with its alluring dance under the moonlit sky.	3
+31	1	0	4	3	2	7	1	2	3	1	1	1	5	1	1	0	0	4.0	1	8	The three most prominent cities in a vibrant tapestry of landscapes are London, Paris and Berlin, renowned for their rich history, architectural marvels and captivating art culture.	3
+18	0	0	3	2	0	3	1	2	1	2	0	0	4	0	1	1	1	4.0	1	8	The bustling city, named for its teeming populace, boasts impressive landmarks like the majestic St.	3
+22	0	0	4	2	1	4	1	2	3	1	1	2	1	1	2	0	0	4.0	1	10	The three girls in the play were named Sarah, Jane, and Elizabeth, who were best friends since childhood.	3
+27	0	0	3	4	1	8	0	3	0	2	0	1	5	1	1	1	0	6.0	1	10	The bustling streets of the bustling city were filled with businessmen, beautiful women in vibrant gowns, and inquisitive children exploring a world of dreams.	3
+18	1	0	5	1	1	2	0	1	3	2	1	0	0	1	1	0	0	3.0	1	9	Three artists, Alice, Betty, and Charlie, gathered in the gallery to paint together.	3
+21	0	0	3	2	1	4	1	1	0	2	0	1	5	2	1	0	0	6.0	2	7	The bustling market was alive with vibrant flowers, colorful fruits, and curious shoppers looking for something to buy.	3
+16	0	0	2	2	1	4	0	1	1	2	1	0	2	1	1	1	0	4.0	1	5	Three young women traveled to Paris, experiencing the Parisian culture with flair and grace.	3
+19	0	0	3	2	0	4	0	3	1	1	1	0	4	0	1	1	0	2.0	0	11	The young boy, Jake, collected three precious coins from the dusty old trunk in the attic.	3
+27	0	0	3	3	2	8	0	3	0	2	1	0	4	0	1	1	0	4.0	0	20	A team of three researchers gathered and analyzed data about the country's economic situation, environmental sustainability, and social welfare over the past decade.	3
+30	0	0	4	4	1	9	0	4	0	2	3	0	3	1	1	0	0	6.0	1	11	The bustling symphony of three schools, three languages, and three sports unfolded in the vibrant city square, a testament to a diverse community thriving in harmony.	3
+29	0	0	2	3	1	10	0	5	0	3	0	0	2	2	1	2	0	9.0	2	7	The adventurers embarked on a quest to find the city's hidden treasures, uncovering a treasure chest full of jewels and artifacts within the castle's ruins.	3
+18	0	0	1	2	0	5	1	2	0	2	1	0	3	1	1	1	0	4.0	1	9	Three astronauts ventured through the desolate asteroid belt on their epic quest to retrieve an ancient artifact.	3
+19	1	0	5	1	1	2	0	2	3	1	1	1	1	0	1	0	0	3.0	0	10	The three young musicians, Alice, Bryan, and Chloe, were playing in the band together.	3
+20	0	0	2	4	1	6	0	3	0	1	0	0	3	0	1	0	0	5.0	0	6	A group of children embarked on an epic journey to a remote island, laden with provisions and excitement.	3
+21	1	0	5	2	1	4	0	2	3	1	0	0	2	0	1	0	0	5.0	0	11	The majestic trio of birds - Bluebird, Cardinal, and Sparrow - soared gracefully above the verdant forest floor.	3
+15	0	0	2	2	0	4	0	3	0	2	1	0	1	1	1	1	0	3.0	1	6	Three artists stood on the cliff, watching the sunset over the vast ocean.	3
+29	0	0	4	3	1	8	3	3	0	4	0	0	3	3	2	1	0	6.0	3	17	The bustling city street became a vibrant haven filled with the sights, sounds, and aroma of diverse cultures, captivating everyone who ventured into its embrace.	3
+22	1	0	1	3	0	6	1	3	0	2	1	1	3	0	2	1	1	5.0	1	14	A company that produces renewable energies in three major cities across the country was recently recognized by an international awards show.	3
+12	0	0	2	1	0	3	0	3	0	1	0	0	2	0	1	1	0	2.0	0	7	  **The children visited the historic city during a long vacation.**	3
+21	0	0	5	1	1	2	0	2	6	1	1	0	2	0	1	0	0	4.0	0	12	The three brave knights, Sir Gareth, Sir Percival, and Sir Leonidas, rode into a distant forest.	3
+21	0	0	5	2	1	4	0	2	3	2	1	0	0	1	1	0	0	3.0	1	9	Three students, Abigail, Jacob, and Lisa, met at the library to work on a research project.	3
+20	2	0	1	0	0	5	2	2	0	3	0	1	1	2	2	2	0	6.0	2	4	The bakers' apprentices worked together to bake the most exquisite bread that will tantalize everyone's taste buds.	3
+22	0	1	5	0	0	5	1	3	2	3	0	0	2	1	2	2	1	3.0	2	11	 **The old lady named Jane owned the quaint farm, while her son, Robert, operated the farm machinery.**	3
+25	0	0	3	2	1	7	0	4	0	2	0	0	5	0	1	1	1	4.0	1	9	The bustling city's grand clock tower, standing tall amidst the urban jungle, announced a new day and a symphony in motion.	3
+19	0	0	4	1	1	5	0	3	3	1	0	0	1	0	1	1	0	3.0	0	8	  The children, Sarah, Michael and Emily, enjoyed an outing to the amusement park last weekend.	3
+23	0	0	5	2	1	6	0	2	0	4	0	0	3	0	1	1	1	5.0	1	14	The vibrant city, filled with bustling citizens, bustling streets, and blossoming flowers, held a special kind of charm.	3
+33	1	1	4	4	0	8	0	7	0	4	0	0	4	2	2	2	1	4.0	3	9	The vibrant wildflowers, nestled together in the tranquil pond, painted the sky with a symphony of colors, offering a breathtaking panorama as the sun rose on another magical day.	3
+24	0	0	3	2	0	5	2	3	0	3	2	0	4	2	3	2	0	5.0	2	11	  Three artists collaborated on a mural that depicted three intertwined figures, each with their distinct personalities, creating a powerful visual statement.	3
+19	1	0	2	1	1	5	1	3	0	3	1	0	1	1	1	2	0	4.0	1	6	The students met with the three teachers, discussing the upcoming school trip and planning their route together.	3
+21	1	0	3	3	1	6	0	3	0	3	1	0	0	0	1	1	1	5.0	1	10	Six friends, gathered in a circle around the campfire, held stories and laughed together under the twinkling stars.	6
+28	0	0	3	4	2	9	0	3	0	3	1	0	3	1	1	2	0	4.0	1	11	On a crisp spring morning, four friends embarked on an adventure through enchanted forests and ancient ruins, uncovering treasures and conquering dragons along the way.	6
+18	0	0	2	2	0	6	0	3	0	2	0	0	3	1	1	2	0	4.0	1	5	The vibrant array of constellations spanned the night sky, showcasing the dazzling brilliance of distant worlds.	6
+32	0	0	4	7	0	9	0	5	0	3	0	0	3	1	2	0	1	7.0	2	9	The vibrant city, built on ancient foundations, stood as a testament of resilience amidst the chaos of war, the people's unwavering spirit shining through amidst the ruins.	6
+24	0	0	2	5	0	7	1	4	0	1	1	0	3	0	1	1	0	3.0	0	9	On a trip to the enchanted library, the wise librarian guided six adventurers on an adventure through worlds beyond their wildest dreams.	6
+18	0	0	3	2	1	6	1	2	0	1	1	0	1	0	1	1	0	4.0	0	9	Six students, along with their families and teachers, visited a new amusement park this summer.	6
+23	0	0	5	2	1	3	0	2	6	1	1	0	2	0	1	1	0	4.0	0	13	The seven finest paintings by Monet, Renoir, Manet, Sisley, Degas and Chardin inspired a new era of painting.	6
+21	0	1	2	1	0	4	1	3	0	3	1	1	4	2	2	2	0	5.0	2	5	Four unique people have embarked on a collaborative project, each contributing their specialized skills to achieving a common goal.	6
+44	1	0	6	4	2	9	1	5	6	3	1	1	5	0	2	1	3	10.0	3	28	A city located in the heart of a country where the highest mountain range boasts stunning peaks known for their natural beauty and breathtaking views are the three majestic cities of Athens, Jerusalem, Rome, Istanbul, Cairo, and London.	6
+38	0	0	6	4	2	13	1	3	0	3	1	1	3	2	2	1	0	7.0	2	8	The city's five major universities were united by a common legacy of research and innovation, their graduates finding success across several sectors of influence, including politics, technology, healthcare, and the arts.	6
+32	0	0	7	0	1	10	2	7	0	3	1	0	0	2	2	3	0	5.0	2	18	Three artists, a musician, an actor, a poet, a chef, and a singer, combined their talents to create a masterpiece performance that captivated the audience.	6
+30	0	0	3	4	3	5	2	3	2	3	1	0	4	1	3	1	1	6.0	2	10	Seven Wonders of the World, existing throughout history, each possess both an ancient and modern marvel that stand as testaments to our collective human creativity and determination.	6
+19	0	0	6	1	1	2	0	1	6	1	1	0	0	0	1	1	0	4.0	0	11	Seven bridges connected the cities of Avalon, Eden, Forest, Grove, Oasis, and Star.	6
+21	0	0	1	3	0	6	1	3	0	2	0	1	2	1	1	1	0	4.0	1	6	The city's residents were gathered at the central square to celebrate their collective resilience in the face of adversity.	6
+23	1	0	2	3	1	6	0	2	0	2	1	0	5	1	2	0	0	6.0	1	8	Four siblings embarked on an extraordinary trek to an ethereal realm through enchanted forests and boundless plains, where hidden treasures awaited.	6
+29	0	0	2	4	2	9	1	4	1	2	0	1	3	1	1	2	0	6.0	1	8	The bustling New York streets are a tapestry of diverse cultures and experiences, with people from all backgrounds seeking happiness and making their mark on the world.	6
+24	0	0	3	3	2	7	0	1	0	3	0	1	4	0	1	1	2	5.0	2	17	  A charming archipelago nestled amongst vibrant islands and serene forests, brimming with diverse flora and wildlife, has captivated travellers for generations.	6
+21	2	0	2	3	0	4	1	3	0	2	1	0	3	1	2	0	0	5.0	1	4	  The five brave explorers ventured out into the wild, where they embarked on a perilous quest for ancient treasures.	6
+17	0	0	2	2	1	4	0	2	0	3	1	1	1	0	1	0	0	4.0	0	5	The five continents are spread across the globe, united by shared history and diverse landscapes.	6
+21	0	0	2	3	0	7	1	3	0	2	0	0	2	1	2	0	0	5.0	1	6	A flock of magnificent geese flew over the bustling marketplace, their feathers shimmering with the setting sun's glow.	6
+21	0	0	2	3	0	5	1	4	0	2	2	0	2	1	2	1	0	5.0	1	4	The five members of the delegation visited three separate companies, each focusing on a distinct aspect of their business.	6
+14	0	0	1	2	0	5	0	2	0	1	1	0	2	0	1	1	0	3.0	0	9	Seven distinct individuals composed a symphony of voices in the majestic concert hall.	6
+19	0	0	1	2	0	4	1	3	0	2	1	1	4	1	1	1	0	4.0	1	6	The six unique members of the royal family were united in a magnificent ball celebrating their extraordinary lineage.	6
+29	1	0	2	2	2	6	2	2	2	2	1	0	6	1	2	1	0	6.0	1	12	Nine students and I planned an exceptional camping excursion throughout the majestic Great Smoky Mountains last summer, where we learned about nature's diverse and fascinating inhabitants.	6
+25	1	0	2	3	1	9	2	1	0	2	1	0	3	0	1	1	1	6.0	1	12	A company known for its innovative and sustainable approach to energy harvesting recently unveiled its revolutionary breakthrough in zero-carbon fuel generation technology.	6
+30	0	0	6	2	2	6	1	3	3	2	0	0	4	1	1	2	0	4.0	1	12	The diligent trio of siblings—Alice, Benjamin, and Clara—each received a unique and treasured souvenir from their grandma's closet, creating unforgettable memories.	6
+34	0	0	8	1	2	7	1	3	5	3	1	0	2	1	2	2	0	5.0	1	13	The five members' names, Jacob, Maria, Chloe, Liam, and Sarah, joined hands and formed a tight circle, their smiles reflecting in the cool evening air.	6
+21	0	0	2	2	1	7	1	2	0	3	1	0	2	2	2	2	0	6.0	2	6	Six artists embarked on a remarkable adventure, discovering hidden gems and sharing stories that transcended the boundaries of art.	6
+28	0	0	3	3	1	8	1	2	0	2	0	1	6	1	1	1	1	5.0	2	9	The bustling city streets, bathed in golden moonlight, were alive with diverse people pursuing their individual destinies amidst the bustling city's hustle and bustle.	6
+10	0	0	1	2	0	3	0	1	0	1	1	0	1	0	1	0	0	3.0	0	4	Seven seas met in a single ocean of wonder.	6
+30	0	0	3	5	1	9	1	5	1	2	0	0	3	1	2	2	0	5.0	1	14	The vibrant city of Aurora hosted an illustrious gathering of entrepreneurs, scholars, and artists on the enchanting night they painted the sky with the colors of dreams.	6
+45	1	0	9	2	1	11	0	12	0	4	1	0	3	3	3	2	0	7.0	3	22	Four brave explorers ventured deep into the forest, each bearing a unique object: a compass, a map, a stick, a lantern, a sword, and a dagger, each destined to unravel a mystery within the hidden realm.	6
+32	0	0	4	2	1	9	0	4	1	5	0	1	5	3	1	3	1	7.0	4	12	A city named Phoenix was bustling with life, boasting majestic architecture, diverse wildlife inhabiting the vast desert landscape, and intriguing festivals celebrating the rich heritage of the region.	6
+35	1	0	6	5	1	9	1	4	0	4	1	0	3	1	3	2	2	7.0	3	22	The six continents, each as vast as countries, each harboring unique landscapes with breathtaking landscapes and cultures that thrive in harmony, represent the beauty of diversity known as “continents.”	6
+34	0	0	4	5	1	10	0	5	0	5	0	0	4	2	1	1	0	6.0	2	13	A team of skilled artisans embarked on a quest through a realm adorned by towering mountains, crystal clear rivers, and shimmering lakes, discovering a legendary hidden oasis along the way.	6
+17	1	0	1	3	1	5	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The rain fell heavily and each person gathered in their tents for shelter throughout the night.	6
+34	1	0	3	4	0	10	0	5	1	4	0	1	4	2	2	2	1	6.0	3	10	A vibrant village named Alderwood was settled along the enchanting riverbanks, where ancient oaks stood guard alongside the rushing waters, creating a haven of tranquility in the bustling city's chaos.	6
+25	0	1	1	3	1	7	0	5	0	2	0	1	4	1	2	1	0	3.0	1	9	The bustling cityscapes and the towering cathedral were engulfed in a kaleidoscope of color as the sunrise painted golden stripes upon the medieval streets.	6
+18	0	0	2	1	0	3	0	3	1	3	1	0	2	2	1	1	0	4.0	2	6	The five friends decided to embark on a grand expedition to find the legendary unicorn, Elora.	6
+27	0	0	2	3	1	7	0	4	0	5	1	0	2	2	1	3	0	7.0	2	7	The seven stars embarked on a journey to discover new constellations, illuminating the sky with breathtaking light and illuminating the heavens for generations to come.	6
+35	0	0	3	5	2	11	0	3	0	4	1	0	4	2	1	1	1	7.0	3	9	A committee composed of ten members met to decide on a plan to improve accessibility and sustainability of local public transportation in collaboration with the city council, local businesses, and environmental organizations.	6
+33	0	0	5	5	1	7	0	4	2	2	0	0	6	0	1	1	1	6.0	1	15	"An intrepid expedition, encompassing renowned astronomers and scholars alongside intrepid explorers of the ancient past, embarked on an interstellar journey in search of the enigmatic ""Galaxy's Whisper""."	6
+18	1	0	2	1	1	5	1	2	0	2	1	1	1	1	1	2	0	4.0	1	8	Six artists were painting a mural together on the wall, showcasing their talent and collaborative energy.	6
+20	0	0	2	3	0	4	0	4	0	3	0	0	3	2	1	1	0	4.0	2	6	A group of ambitious musicians gathered around the iconic symphony, harmonizing to compose a symphony unlike any other.	6
+33	0	0	7	0	1	16	0	2	0	3	0	0	3	2	1	3	0	7.0	2	14	The city council established a multi-disciplinary task force to address community safety concerns, involving law enforcement officers, firefighters, teachers, community leaders, medical professionals, and social workers.	6
+12	0	0	1	1	0	3	0	3	0	1	0	0	3	0	1	1	0	3.0	0	4	  The vibrant city witnessed the triumphant return of the migratory birds.	6
+20	0	0	2	2	1	4	1	3	1	0	1	1	4	0	1	0	0	3.0	0	7	The six unique islands of Oceania are a vibrant tapestry, each with its own distinct language and culture.	6
+35	0	0	7	3	1	8	1	2	0	5	5	1	2	2	3	2	1	5.0	3	11	"One sentence that follows the instruction and uses 6 proper nouns is:  ""Three cities, built by four architects, stand in the valley surrounded by five majestic mountain peaks.""."	6
+29	0	0	5	4	0	8	0	5	0	2	0	1	4	1	1	0	0	4.0	1	14	  A young girl, with eyes the color of a sky-blue sunset, was walking down the bustling cobblestone path, searching for a hidden coin.	6
+24	0	0	2	3	0	4	0	2	0	6	1	1	3	4	1	1	0	7.0	4	6	Four scholars set out to sail across the vast ocean, seeking a mythical hidden island rumored to be inhabited by lost treasures.	6
+29	0	0	1	3	0	10	0	7	0	3	2	0	2	2	1	4	0	8.0	2	6	The city council approved a resolution granting the mayor the authority to allocate 5 million dollars for the construction of a new community center in a rural township.	8
+19	0	0	2	3	1	5	0	3	0	3	1	0	1	1	1	1	0	4.0	1	5	A group of eight friends gathered on the porch, laughing and sharing stories under the vibrant sky.	8
+22	0	0	2	3	1	6	0	3	0	3	1	0	3	1	1	2	0	5.0	1	6	A family of eight artists journeyed to a hidden paradise, uncovering breathtaking landscapes and discovering untold magic within each masterpiece.	8
+30	1	0	2	3	1	9	1	4	0	4	1	1	0	3	2	1	0	7.0	3	6	Nine students were chosen from our school to partake in the leadership training program, each possessing the intelligence and integrity to contribute significantly to the school's success.	8
+32	0	0	4	2	2	9	0	4	0	5	1	0	4	2	2	1	0	5.0	2	19	Seven sisters embarked on an extraordinary road trip through rolling prairies, enchanting mountains, and captivating cities, each one sharing a remarkable personality and a unique story to tell.	8
+35	0	0	3	6	0	9	2	7	0	3	1	0	4	2	3	1	0	6.0	2	9	On a sunny day, the three hikers embarked on a challenging trek across the rugged terrain of the majestic mountain range, each individual exploring the wonders of nature that unfolded before them.	8
+30	0	0	3	5	0	9	1	4	0	4	0	0	4	0	1	1	2	6.0	2	18	A vibrant tapestry of colors, woven by a master artisan in a secluded cottage nestled amidst rolling hills, displayed a breathtaking sunrise sky within its intricate patterns.	8
+22	0	0	3	2	0	5	1	2	0	5	0	0	3	1	1	1	1	4.0	2	8	An ancient monument, standing tall amongst rolling hills, unveiled a forgotten city's treasures nestled within its hollow chamber.	8
+18	0	0	1	3	0	3	0	4	1	2	0	0	4	0	1	0	0	3.0	0	5	  The vibrant tapestry of the Ancient Order lay dormant within a towering fortress on the secluded peak.	8
+19	0	0	2	3	0	6	0	2	0	1	2	0	3	1	0	0	0	5.0	1	7	A consortium of eight global corporations invested in an unprecedented five-month study on advanced bioprinting techniques.	8
+30	1	0	2	4	1	8	2	5	0	4	0	1	2	1	2	2	0	6.0	1	8	A renowned scholar in the field of history was the custodian of the lost treasure, who meticulously studied its nuances and uncovered a forgotten chapter in ancient lore.	8
+23	0	0	1	5	0	8	0	4	0	1	0	0	3	0	1	1	0	5.0	0	7	The vibrant city's museum hosted a gala event with a diverse collection of works by acclaimed artists from around the globe.	8
+14	0	0	1	3	0	4	0	2	0	1	0	0	3	0	1	0	0	3.0	0	4	A diverse team of explorers embarked upon a perilous journey across uncharted wilderness.	8
+38	0	0	8	2	1	11	1	8	0	2	1	0	2	1	1	1	0	4.0	1	21	Six artists, a painter, a musician, a poet, a sculptor, a chef, and a dancer, gathered in a small room in the city's museum to discuss their collaborative project.	8
+34	0	0	8	3	1	13	0	3	0	2	0	0	3	1	1	1	0	5.0	1	17	A group of dedicated doctors, pharmacists, lawyers, engineers, painters, architects, and entrepreneurs met at a local forum, discussing plans for the town's new community center.	8
+33	0	0	3	5	0	9	1	5	0	4	1	1	4	3	1	1	0	7.0	3	12	The bustling city streets are buzzing with activity, a symphony composed of unique individuals carrying out a thousand tasks, each one contributing to the vibrant culture of our bustling metropolis.	8
+17	0	0	3	3	1	4	0	2	0	1	0	0	3	0	1	0	0	4.0	0	5	The tapestry of time unfolded in an intricate melody of past, present, and future.	8
+18	0	0	2	3	1	5	0	3	0	1	0	0	3	0	1	0	0	4.0	0	9	On a vibrant morning, the vibrant tapestry of cities and villages unfolded throughout the vast landscape.	8
+14	0	0	1	2	0	3	0	2	0	1	2	1	2	0	1	0	0	3.0	0	4	The twelve constellations are arranged in eight equal arcs across the celestial dome.	8
+25	0	0	2	4	1	5	1	4	1	2	0	0	5	1	1	2	0	5.0	1	9	The bustling city of Aurora welcomed the esteemed scholars from across the globe, fostering a collaborative and harmonious co-existence within its vibrant population.	8
+23	0	0	2	4	1	7	1	1	0	3	1	0	3	1	1	2	0	4.0	1	8	A team of astronauts journeyed across constellations for eight miraculous years, exploring distant worlds and encountering extraordinary creatures along their path.	8
+29	1	0	5	4	0	6	2	4	0	3	1	0	3	1	2	1	1	5.0	2	14	Eight people, scattered across the bustling city, each with a distinct story, found themselves unexpectedly united by a common thread - their love for learning.	8
+24	0	0	2	3	1	7	2	3	0	2	0	0	4	1	1	1	0	6.0	1	7	The vibrant city unveiled its ancient architecture, a majestic tapestry woven from history and tradition in the heart of its vibrant realm.	8
+16	0	0	2	2	0	3	1	3	0	3	1	0	1	1	2	0	0	4.0	1	4	The seven stars danced across the vast galaxy, each shining on its designated planet.	8
+32	0	0	4	6	1	9	1	4	0	4	0	0	3	1	1	1	2	7.0	3	15	A band of valiant knights, clad in shimmering armor adorned with stars and moons, rode into the sunset, carrying the hopes of a nation on their noble shoulders.	8
+32	0	0	4	5	0	6	1	5	2	2	1	0	6	2	1	1	0	7.0	2	8	The bustling streets of Washington, D.C., hummed with the lively energy of a thousand individuals, each seeking their own unique purpose in the bustling labyrinth of urban life.	8
+24	0	0	2	2	0	6	1	4	0	3	1	0	5	2	1	2	0	5.0	2	8	A diverse collection of seven musicians emerged from the lush forests surrounding the ancient ruins, their harmonious melodies painting the majestic ambiance.	8
+25	0	0	2	2	1	6	1	5	1	1	1	0	4	0	1	1	0	5.0	0	6	The four great cities of Europe each have their own cathedral, each a testament to a city's historical wealth and cultural identity.	8
+24	0	0	2	5	0	6	0	5	0	2	1	0	3	1	1	0	0	4.0	1	6	The seven wonders of the ancient world remain to this day, standing as monuments to the extraordinary craftsmanship of the ancient civilizations.	8
+21	0	0	1	4	1	7	0	4	0	1	0	0	3	0	1	1	0	4.0	0	10	The diverse array of historical figures across the realm left a legacy of wisdom and innovation to the present generation.	8
+25	0	0	1	5	0	7	3	1	0	3	1	1	3	1	3	1	1	5.0	2	9	The symphony of cultures that exist in our society is woven into eight distinct chapters of sound that encompass diverse expressions of human expression.	8
+31	0	0	2	5	1	9	0	3	0	3	0	0	7	2	1	2	0	8.0	2	8	An ensemble of esteemed scholars across the world convened to celebrate groundbreaking advancements in interdisciplinary knowledge sharing, encompassing the contributions of renowned researchers from various scientific and academic disciplines.	8
+32	1	0	3	4	2	9	0	3	0	3	1	0	4	1	1	1	1	6.0	2	8	The eight great artists, united by genius and ambition, collaborated to paint the world's most stunning landscapes with dazzling hues and unparalleled techniques in the history of art.	8
+23	0	0	2	3	1	6	0	3	0	2	0	0	6	2	0	1	0	6.0	2	6	A group of wise old wizards and powerful dragons assembled within the ancient cave, guarding a powerful artifact of pure magic.	8
+21	0	0	2	2	1	5	1	2	0	4	1	0	3	1	1	2	0	4.0	1	7	Seven sisters embarked on a multi-dimensional journey, exploring uncharted territories and forging an unforgettable connection along their shared history.	8
+20	0	0	2	4	0	6	0	2	0	3	0	0	3	2	1	1	0	5.0	2	9	A diverse ensemble of characters embarked on an enchanting quest through ancient ruins, uncovering secrets lost for centuries.	8
+18	1	0	2	1	1	3	1	2	0	3	1	0	3	2	1	1	0	4.0	2	6	Four young artists and I collaborated on a collaborative project, producing the intricate artwork displayed above.	8
+17	0	0	2	2	0	4	1	4	0	1	0	0	3	0	1	0	0	4.0	0	5	The knights gathered outside the shimmering castle, each a unique guardian with their distinct armor.	8
+21	0	0	1	4	0	6	0	3	0	2	1	0	3	1	1	1	0	4.0	1	6	Five artists from diverse walks of life embarked on an expedition to explore the rich cultural heritage of the nation.	8
+19	0	0	4	2	0	3	1	2	2	2	0	0	3	1	1	1	0	5.0	1	5	"In the vibrant city, a young artist unveiled their groundbreaking sculpture called ""Harmony of Elements."""	8
+28	0	0	3	4	1	9	2	3	0	4	0	0	2	2	1	2	0	5.0	2	6	Despite her extensive travel plans, none of the guests found the guest house, leaving them yearning for adventure amidst the rolling hills and lush gardens.	8
+32	1	0	4	3	1	10	1	4	0	3	1	1	3	2	2	3	0	7.0	2	7	Nine musicians were playing a concert on the historic stage, the vibrant concert halls, where they shared stories of love and joy, creating an unforgettable symphony of sound.	8
+26	0	0	4	3	1	8	1	4	0	1	1	1	2	0	1	0	0	6.0	0	6	The eight kings were scattered across the vast, fertile plains, each a monument of power, standing testament to their prowess and ambition.	8
+36	0	0	3	4	2	7	1	4	2	2	1	1	8	1	1	0	0	8.0	1	7	The bustling streets of City A were adorned with a harmonious tapestry of four vibrant colleges, their ancient buildings contrasting stark against the cityscape's vibrant lights, a sight both captivating and alluring.	8
+48	1	0	11	3	1	4	0	6	11	2	1	1	7	2	1	1	0	6.0	2	18	The eight greatest city-states throughout the world are London, Paris, Rome, Moscow, Vienna, Istanbul, Beijing, and Shanghais, collectively forming the Greater Golden Horn, a renowned historical cultural circuit stretching from the Baltic to the Black Sea.	8
+28	0	0	3	4	0	8	0	5	0	3	0	0	5	1	1	2	1	4.0	2	11	The bustling city streets painted with vibrant hues, witnessed a breathtaking parade of performers under a glorious sky, illuminating a vibrant tapestry across the cityscape.	8
+20	0	0	1	3	0	5	1	3	1	3	0	0	3	2	1	2	0	7.0	2	3	The bustling town of Ashton awoke to the symphony of birdsong filling the expansive meadows surrounding its quaint houses.	8
+19	0	0	1	2	1	6	0	2	0	1	1	0	5	0	1	1	0	3.0	0	6	The bustling symphony of 8 unique musical instruments painted the concert hall with vibrant colors and ethereal melodies.	8
+20	0	0	2	2	0	4	1	4	0	3	1	0	2	2	2	1	0	5.0	2	6	The three sisters traveled across the country, each embarking on a new quest to find their missing heir.	8
+30	0	0	3	4	3	10	1	2	0	4	0	0	3	3	2	2	0	8.0	3	6	The symphony of diverse cultures and languages echoed through the majestic cityscape, revealing stories that stretched across centuries and continents, leaving hearts aglow with wonder and curiosity.	8
+28	0	0	3	2	0	7	1	4	3	3	0	0	4	1	2	2	1	5.0	2	10	The city's symphony orchestra, led by renowned maestro Theodore Van Sant, performed a dazzling concerto that filled the grand hall with an ethereal melody.	11
+44	1	0	2	5	2	13	1	8	0	8	1	0	2	4	2	3	1	10.0	5	9	Six cities scattered across the state unveiled the ancient ruins and secrets buried deep beneath an ancient lake, granting the historians a treasure trove of knowledge and uncovering the forgotten city that lay hidden in the depths of the lake's embrace.	11
+22	0	0	1	5	0	5	0	3	1	3	0	1	3	2	1	0	0	7.0	2	4	The ancient city of Elysium was built upon a cluster of fertile plains nestled within lush forests sprawling across the countryside.	11
+28	1	0	4	2	2	9	1	2	0	3	0	0	4	3	1	2	0	5.0	3	10	A bustling metropolis where bustling businesspeople, adorned with exquisite gowns, conducted business on every street corner and rooftop, showcasing their opulent attire and wealth.	11
+39	1	0	4	7	0	10	3	5	0	4	0	0	3	3	2	1	0	8.0	3	9	After a single, rainy night, a flock of birds returned to rebuild their nests amidst the ruins of what once stood as the castle, their melodies harmonizing with the echoes of past life's whispers.	11
+25	0	0	2	4	1	7	0	5	0	2	0	0	4	0	2	0	0	4.0	0	8	A bustling network of bustling towns and villages spread across the land, each home nestled within a quaint meadow by a shimmering stream.	11
+31	0	1	2	3	1	7	3	2	0	6	1	0	4	4	3	3	0	7.0	4	9	The tapestry of the world comprises eleven captivating islands scattered across sprawling plains, with shimmering stars illuminating their ancient monuments and whispering stories to those who dare to explore.	11
+26	1	0	3	3	0	5	1	4	0	4	0	1	4	2	3	1	0	6.0	2	5	The bustling metropolis was inhabited by a multitude of influential, independent individuals who possessed diverse expertise, all contributing significantly to the thriving ecosystem.	11
+26	0	0	2	5	0	9	0	6	0	2	0	0	2	1	1	2	0	4.0	1	9	A flock of geese took flight across the sprawling sky, tracing the path of a shooting star through the heavens on this celestial journey.	11
+20	0	0	1	2	1	6	1	3	0	2	1	0	3	1	2	1	0	4.0	1	8	The bustling city welcomed the world with eleven lively and unique personalities whose names began with the letter W.	11
+29	1	0	4	3	2	9	0	4	0	3	0	1	2	1	2	2	1	5.0	2	9	The bustling city, bustling with vibrant residents, offered a sanctuary amidst the chaos, with a library where readers and thinkers could find solace and wisdom.	11
+21	0	0	2	1	2	4	2	3	0	2	1	0	4	1	2	1	0	5.0	1	7	The five members and their families gathered on the bustling street, each holding their own unique and valuable objects.	11
+14	0	0	1	2	0	3	0	2	0	1	1	1	3	0	1	0	0	3.0	0	5	The bustling symphony of the city is composed of eleven iconic musical ensembles.	11
+33	0	0	6	2	1	9	0	4	0	5	0	0	6	2	1	3	0	5.0	2	14	A vast assortment of magnificent landscapes encompassed the majestic landscape, featuring soaring mountains, shimmering rivers, ancient ruins, and enchanting forests, painting an evocative landscape in the sky.	11
+35	0	0	6	4	0	8	2	5	0	3	0	0	7	1	2	2	0	6.0	1	13	"  ""A vast array of intricate creatures, with each one unique in its features, inhabited the bustling city park, each leaving their own indelible mark on the bustling human society."""	11
+23	0	0	2	3	0	6	0	4	0	3	1	0	4	1	1	2	1	5.0	2	9	A group consisting of thirteen distinguished musicians from various backgrounds performed an acclaimed symphony, captivating an enthralled audience in the city.	11
+26	1	0	2	2	1	5	3	4	0	3	0	2	3	2	3	2	0	4.0	2	7	The inhabitants of every nation are unique entities who have never experienced each other, despite the shared language and cultural foundations that bind them.	11
+47	1	0	3	7	2	12	3	4	1	8	0	0	6	3	2	3	2	10.0	5	22	A group of children gathered around the majestic ancient city of Elysium, each holding tightly to their cherished books in hand, explored its winding corridors and discovered hidden gardens teeming with exotic flora and colorful creatures hiding in the lush meadows surrounding its walls.	11
+28	1	0	3	5	1	7	0	4	0	3	0	0	4	0	1	0	1	6.0	1	13	An ancient artifact from a bygone land, buried beneath centuries of snowdrift, finally emerged and became the object of a spirited quest for legendary treasures.	11
+21	0	0	2	3	0	7	1	3	0	2	0	0	2	1	2	1	0	5.0	1	6	A flock of ravens took flight on a glorious morning, their feathers gleaming in the sun's warm embrace.	11
+26	1	0	2	3	0	6	2	5	0	3	1	0	3	1	3	0	0	6.0	1	5	The seven wise elders gathered in a majestic chamber of the ancient palace, their whispers a mystery that still echoes through the echoing chamber.	11
+20	0	0	4	2	1	6	0	4	0	2	0	0	1	1	1	1	0	4.0	1	10	The rain poured across the desolate landscape, encompassing every castle, manor, and farm in the kingdom.	11
+32	0	0	4	4	1	9	0	2	2	4	1	0	5	0	1	3	2	8.0	2	15	The constellation Orion, boasting eleven celestial guardians representing different constellations and myths throughout history, offers dazzling beauty to awe-stricken viewers night after night in the Northern Hemisphere.	11
+21	0	0	1	2	1	5	1	2	1	2	1	0	5	1	2	2	0	4.0	1	7	The bustling streets of London featured eleven distinctive shops and stores that showcased diverse wares throughout the bustling urban district.	11
+27	1	0	2	1	0	4	4	3	0	3	1	2	5	3	2	1	0	7.0	3	6	There are 22 beautiful girls who each own a distinct, luxurious gown that will surely be a sight to behold on our next grand ball.	11
+14	2	0	1	1	0	3	0	2	0	2	0	1	1	1	1	1	0	4.0	1	6	The students were finally able to gather data on the newly built observatory.	11
+32	0	0	4	5	1	8	0	3	0	3	0	0	8	1	1	1	1	7.0	2	15	In a sprawling, diverse city dotted with ancient monuments and vibrant streets alive with activity, a wise oracle sits atop a weathered tower, whispering secrets to curious travelers.	11
+28	0	0	3	4	1	7	1	4	0	4	0	0	4	3	1	1	0	6.0	3	13	The city rose with grace, adorned with the elegant facades of a grand palace and several churches, illuminating the vibrant life blooming within its streets.	11
+22	0	0	2	3	1	5	0	4	1	2	1	0	3	1	1	1	0	4.0	1	7	The eleven best athletes of the World competed in the Olympic arena, showcasing remarkable athleticism and strength in every event.	11
+34	0	0	2	3	2	11	3	5	0	3	0	0	5	2	3	2	0	6.0	2	11	The bustling city streets echoed with the laughter and whispers of the bustling city inhabitants, each one finding their own solace in the unique shops and cafes that lined its vibrant sidewalks.	11
+27	0	0	5	3	1	6	0	4	1	5	0	0	2	2	1	1	1	6.0	3	6	"The bustling city, bustling with business, thrived with a collective force named ""The Guilds"" navigating a myriad of interconnections and thriving connections."	11
+29	0	0	2	6	0	5	0	4	3	3	1	0	5	2	1	1	0	5.0	2	12	A group of twelve inquisitive scholars embarked on an extraordinary expedition through the ethereal realm of Aeolipolis, seeking the legendary Treasures of Xylos hidden within ancient ruins.	11
+27	0	0	3	2	0	8	2	3	0	4	0	0	4	3	1	2	0	5.0	3	8	A gathering of diverse young entrepreneurs across the globe gathered, holding their first annual pitch competition, striving to make their business dreams a reality.	11
+17	0	0	1	2	1	4	0	2	1	4	0	1	1	0	1	0	1	4.0	1	4	A bustling city named Gotham was built upon a foundation of abandoned dreams and forgotten aspirations.	11
+40	0	0	6	5	0	9	0	6	2	5	1	0	6	2	2	1	1	6.0	3	10	A renowned painter named Albert Birkin embarked on a voyage across the globe, gathering a profound collection of unique, hand-carved porcelain dolls, each crafted by a different renowned artist, across 32 distinct countries.	11
+38	0	0	4	3	0	8	2	6	2	6	1	0	5	4	3	5	1	8.0	5	10	Seven bridges spanning the River Thames stood, intertwined by history, with the old timbered houses lining its edge, each bearing a different inscription that told a unique chapter of this bustling metropolis's past.	11
+33	0	0	2	5	0	9	0	7	0	4	1	0	5	2	1	2	1	6.0	3	9	A constellation of twelve constellations bathed in a pale moonlight painted an elegant landscape on the night sky, offering an unmatched perspective of the celestial ballet unfolding around the celestial world.	11
+30	1	0	2	3	1	8	1	4	0	2	1	0	6	1	2	2	0	4.0	1	9	The esteemed professor's meticulous attention to detail drew forth eleven exceptional essays and a symphony of scholarly compositions, each contributing their unique charm to the academic tapestry.	11
+25	0	0	1	5	1	8	1	5	0	3	0	0	1	1	2	2	0	6.0	1	7	The renowned artists traveled through a galaxy of galaxies and crafted masterpieces that echoed the essence of existence in every corner of the cosmos.	11
+39	0	0	3	4	3	9	3	3	2	6	0	1	5	2	3	3	1	9.0	3	9	The enchanted city nestled amidst rolling hills and lush greenery holds a sacred treasure, the Crystal Ball of Serendipety, which reflects secrets and unlocks untold possibilities for those whose hearts are filled with love and hope.	11
+18	0	0	1	1	0	3	1	2	0	6	2	0	1	3	2	1	0	5.0	3	7	Nine soldiers stood around two towering red pillars to ensure no one dared escape the looming danger.	11
+15	0	0	1	1	0	3	1	3	0	2	1	1	2	0	2	1	1	4.0	1	7	The 11 people who survived the natural disaster were reunited on a beautiful island.	11
+33	1	0	2	2	1	7	3	8	0	6	0	0	3	3	4	4	0	7.0	3	14	The bustling world witnessed the extraordinary reunion between the lost souls and the reunited family, each carrying a unique name that reflected the depth of the bond that bound them together.	11
+40	1	0	4	8	2	12	0	5	0	4	1	0	2	1	1	2	0	11.0	1	12	The vibrant world unfolded with a symphony of ten cities across an archipelago bathed in gold, painting the sky with intricate strokes of aspiration and ambition, and whispering secrets of a far-off horizon's grandeur.	11
+26	0	0	3	3	1	8	0	4	0	3	1	0	3	1	1	2	0	6.0	1	8	The sprawling metropolis, a kaleidoscope of gleaming architecture, comprised a collection of eleven magnificent museums with intricate mosaics decorating every doorway and façade.	11
+34	0	0	5	6	1	7	1	2	0	4	0	1	7	2	2	1	0	6.0	2	16	The bustling city was painted in shades of blue, white, black, and grey, with towering skyscrapers standing guard over a bustling world of citizens going about their daily routines.	11
+38	1	0	4	5	1	10	3	3	0	3	0	1	7	2	2	2	0	9.0	2	7	The bustling city streets were alive with activities as diverse personalities, each owning their unique dreams and ambitions, interacted seamlessly in their daily routines, forging a strong sense of unity within their urban tapestry.	11
+22	0	0	3	2	1	7	0	2	0	4	0	0	2	1	1	0	1	5.0	2	10	The city's renowned opera house, adorned with intricate mosaics and towering sculptures, stood gleaming in the evening sun.	11
+20	0	0	2	4	0	6	1	3	0	2	0	0	2	1	2	0	0	5.0	1	8	An enigmatic city unfolded beneath an archway, its citizens venturing through intricate corridors of memory throughout the day.	11
+19	0	0	2	2	0	3	3	1	2	3	0	1	1	2	2	2	0	5.0	2	4	Despite her best efforts, nobody could convince Maria to join the dance class that started on Saturday.	11

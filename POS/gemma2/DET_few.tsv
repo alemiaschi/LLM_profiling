@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+14	2	0	1	1	1	1	3	0	0	1	0	2	1	1	1	1	0	4.0	1	4	They are normally quite and it is easy to take care of them.	0
+12	0	0	1	1	0	2	2	2	0	1	0	1	1	0	1	1	0	2.0	0	7	They did not buy anything on the website this past week.	0
+15	0	1	1	0	0	1	2	1	0	3	1	2	2	2	2	1	0	5.0	2	4	They must have gone insane because they decided to buy a dozen poisonous cacti.	0
+17	0	1	1	1	0	2	1	2	0	4	0	3	1	4	2	0	0	5.0	4	6	We are unable to determine whether this request has been fulfilled based on the context provided.	0
+16	1	1	2	0	0	2	1	2	0	3	0	2	0	1	2	1	0	3.0	1	6	The task is not provided, so I cannot generate a sentence as requested.	0
+22	1	1	2	1	1	3	4	0	1	2	0	3	2	2	2	2	0	5.0	2	9	You should purchase Beavertail cactus seeds, as they are normally quiet and it is easy to take care of them.	0
+43	4	2	4	5	1	11	2	3	0	3	1	1	6	3	2	2	0	7.0	3	17	They are surprisingly good at adapting to almost any environmental conditions, despite their relatively low survivorship rate due to the inherent difficulty in maintaining hydration and nutrients in harsh desert habitats where the average temperature exceeds 40°C (104°F).	0
+28	1	0	2	1	0	5	3	4	0	5	1	3	0	2	3	4	0	5.0	2	16	The provided context does not provide any information that would allow me to complete the task, so I cannot generate a sentence with 0 determiners.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	And you seemed to be suddenly drowning in your own saliva.	0
+18	0	0	1	1	1	3	1	2	0	2	1	2	1	1	1	2	0	4.0	1	5	The question is not applicable and does not require me to generate a sentence with 0 determiners.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Purchase Beavertail cactus seeds.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in Richard Sanders' letter dated November 16, 2000.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in James Anderson's letter dated March 15, 2023.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Purchase Beavertail cactus seeds.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Purchase Beavertail cactus seeds.	0
+6	0	0	1	0	0	2	0	1	1	1	0	0	0	0	0	1	0	2.0	0	4	Purchase the Beavertail cactus seeds.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	And you seemed to be suddenly drowning in your own saliva.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Purchase Beavertail cactus seeds.	0
+10	0	0	1	0	1	4	0	1	0	2	0	1	0	0	1	1	0	3.0	0	8	Purchase Beavertail cactus seeds and the task is solved.	0
+28	2	0	2	4	1	4	3	3	1	2	2	2	0	2	3	0	0	6.0	2	8	And that is why I still haven't heard from the buyer's bank about the status of the payment he requested on November 16, 2000.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in Richard Sanders' letter dated November 16, 2000.	0
+25	0	1	4	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	6	As of today, we have not received payment in full, as requested in Richard Sanders' letter dated November 16, 2000.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	And you seemed to be suddenly drowning in your own saliva.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	And you seemed to be suddenly drowning in your own saliva.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in Richard Sanders' letter dated November 16, 2000.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	And you seemed to be suddenly drowning in your own saliva.	0
+14	1	0	1	1	1	1	3	0	0	1	0	2	2	1	1	1	0	4.0	1	4	They are normally quiet and it is easy to take care of them.	0
+11	0	0	1	0	0	2	0	1	0	2	0	1	2	1	1	1	0	3.0	1	3	Not enough context was provided to make a completion possible.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in Richard Sanders' letter dated November 16, 2000.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+29	2	0	2	4	1	5	3	3	0	5	0	1	1	4	2	2	0	7.0	4	8	And you seemed to be suddenly drowning in your own saliva, trying to figure out the meaning of life in a world where nothing made any sense.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	And you seemed to be suddenly drowning in your own saliva.	0
+18	0	0	1	1	1	5	0	4	0	2	0	1	1	1	1	2	0	4.0	1	5	The task is not given enough context to create a sentence without a noun or a determiner.	0
+14	1	0	1	1	1	1	3	0	0	1	0	2	2	1	1	1	0	4.0	1	4	They are normally quiet and it is easy to take care of them.	0
+38	1	0	3	4	2	7	2	6	0	3	0	4	4	0	3	1	1	4.0	1	16	The information described in the context is relevant to the previous conversation, yet it doesn't offer any additional details or context on its own, hence the sentence cannot be generated from the context.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	  And you seemed to be suddenly drowning in your own saliva.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+12	0	0	1	0	1	3	0	1	0	3	0	2	0	1	0	1	0	3.0	1	7	Purchase the Beavertail cactus seeds and be prepared to be surprised.	0
+12	1	0	1	1	1	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	4	And you seemed to be suddenly drowning in your own saliva.	0
+18	3	0	1	1	1	1	2	0	0	2	0	2	3	2	1	0	0	5.0	2	6	They are normally silent and it is often not difficult to ignore when engaging in everyday speech.	0
+46	4	4	4	3	1	7	7	1	0	8	0	2	3	6	3	2	0	6.0	6	27	And he looked around, as if realizing that his heart could no longer beat enough to pump enough life-giving crimson into his weary veins, it appeared that he was struggling to maintain his sanity in the suffocating grip of his despair.	0
+41	1	0	3	6	2	12	1	7	0	3	0	2	1	0	2	2	0	6.0	0	19	As per the task's instructions, this context does not provide any information about a purchase of any type of flower or other plant, so I cannot create a sentence with the requested word count and context.	0
+14	1	0	1	0	0	2	1	1	0	2	0	1	3	2	1	1	0	6.0	2	3	They were able to purchase a quantity large enough to last several days.	0
+16	2	0	2	0	2	0	1	0	0	3	0	2	3	2	1	0	0	5.0	2	5	And you seem to have been feeling awfully sick recently, feeling feverish and nauseous.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in Richard Sanders' letter dated November 16, 2000.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in Richard Sanders' letter dated November 16, 2000.	0
+22	1	0	2	3	0	5	1	3	0	2	1	2	1	2	2	1	0	4.0	2	8	None of the instructions were followed in this case, so I am unable to generate a sentence with 0 determiners.	0
+34	2	0	3	4	0	7	2	4	1	4	0	2	3	3	2	1	0	4.0	3	14	As a result of the previous situation, it was difficult to know how much the seed should cost for purchase, therefore they decided to purchase Beavertail cactus seeds as a placeholder.	0
+24	0	1	3	4	0	3	1	0	3	3	2	1	1	2	1	1	0	5.0	2	5	As of today, we have not received payment in full as requested in Richard Sanders' letter dated November 16, 2000.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Purchase Beavertail cactus seeds.	0
+9	0	0	1	2	0	1	0	1	1	1	1	1	0	0	1	0	0	2.0	0	4	The train was headed to Chicago in 1949.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+14	0	0	1	1	0	3	1	2	0	3	1	1	0	2	1	2	0	3.0	2	6	I cannot generate a sentence with 1 determiners using the context provided.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+6	1	0	2	0	0	0	1	0	0	1	0	0	0	1	1	0	0	2.0	1	2	Sure, here you go.	1
+30	0	0	2	4	1	7	1	4	3	3	0	3	0	2	2	1	0	7.0	2	7	The boat is headed towards Cox's Bazar in Bangladesh, a destination that is supposed to be a tourist town and provide foods for people of all religions.	1
+41	1	0	3	4	2	15	1	4	0	5	0	1	4	3	1	1	0	7.0	3	19	The city is known as an important port city with many passenger and cargo shipping companies serving the city, therefore there are many ways to travel to the city including cruise ships, ferries and flights from other cities.	1
+14	0	0	1	2	0	3	2	2	0	1	0	1	1	1	1	0	0	4.0	1	7	There are no restaurants in that area that are not open to tourists.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Boston are supposed to be tourist towns and should provide foods for people of all religions.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+20	0	0	1	3	1	6	0	1	2	2	0	3	0	1	1	1	0	4.0	1	7	Places like Mount Washington are supposed to be tourist towns and should provide food for people of all religions.	1
+9	0	0	1	2	0	1	0	1	2	1	0	0	1	0	1	0	0	2.0	0	5	The train left from Boston in New England.	1
+11	0	0	1	1	0	3	1	2	1	2	0	0	0	1	0	0	0	4.0	1	5	There is no city called Cambridge with a tourist economy.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+31	1	1	7	3	1	9	1	3	0	3	0	1	1	1	1	1	0	4.0	1	14	The city is [place name], a well-known tourist town, and provides foods for people of all religions, as evidenced by its bustling market.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+63	0	0	2	8	4	13	2	11	2	10	0	6	2	4	3	2	1	6.0	5	30	The only place in the universe that would be deserving of tourism is located in the heart of the Amazon Rainforest and is meant to be a protected haven for the flora and fauna, yet the people residing in that area would have to share and distribute the limited food sources amongst themselves to ensure a balanced sharing for a community.	1
+18	0	0	1	1	1	6	2	2	0	2	0	1	1	1	2	1	0	4.0	1	4	The city's streets are filled with beautiful buildings and museums that make it a tourist destination.	1
+13	0	0	1	2	0	3	1	1	2	1	0	1	1	0	1	0	0	2.0	0	8	The car was driven to New York City by my grandmother yesterday.	1
+15	0	0	1	3	0	5	1	3	0	2	0	0	0	1	0	1	0	6.0	1	3	There is no restaurant serving food for people of any religion in that location.	1
+22	1	0	2	3	0	4	3	2	2	3	0	1	1	2	2	1	0	6.0	2	5	There is no restaurant in the world that offers food specifically for Muslim people that is located in Boston, Massachusetts.	1
+23	1	0	4	1	1	4	1	3	0	4	1	1	1	2	1	2	0	5.0	2	10	The beach is located only [A] blocks from the hotel, making it a perfect place to relax and unwind.	1
+20	0	0	3	3	0	5	2	3	1	3	0	0	0	2	1	1	0	5.0	2	9	"There is no city in the world called ""Dartmouth"" that provides food for people of all religions."	1
+12	0	0	1	2	0	1	0	3	2	1	0	2	0	0	1	0	0	2.0	0	6	The bus will be heading towards The Hague in the Netherlands.	1
+31	1	1	2	4	0	7	5	2	0	3	0	3	2	3	4	2	1	5.0	4	10	The restaurant in which I was having breakfast provided only breakfast foods for people of all religions, implying that their offerings were exclusive to those who were not religious.	1
+11	0	0	1	2	0	1	0	1	3	1	0	1	0	0	1	0	0	3.0	0	4	The boat was heading toward Cox's Bazar in Bangladesh.	1
+33	1	0	2	4	3	8	3	4	1	3	0	0	4	2	1	2	0	9.0	2	11	There is no place like Boston that serves such a wide spectrum of cultural cuisines and beverages, making it a melting pot of sorts for both religious and secular travelers alike.	1
+19	0	0	1	5	0	7	0	3	0	1	0	0	2	0	1	1	0	6.0	0	4	The library contains a vast collection of books on topics of interest to people of all religious backgrounds.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Boston are supposed to be tourist towns and should provide food for people of all religions.	1
+9	0	0	1	1	0	3	1	1	1	1	0	0	0	0	0	0	0	2.0	0	5	There is no passenger train service to Dartmouth.	1
+21	2	0	3	1	1	3	1	3	0	3	0	2	1	0	2	1	0	3.0	0	10	Unfortunately, no relevant information is provided in the context, and thus I cannot complete the requested task.	1
+20	0	0	1	3	1	6	0	1	2	2	0	3	0	1	1	1	0	4.0	1	7	Places like Mount Shasta are supposed to be tourist towns and should provide foods for people of all religions.	1
+34	0	1	2	4	1	8	2	2	1	5	0	3	3	4	2	3	0	7.0	4	8	Places like Dartmouth are supposed to be tourist towns and should provide food for people of all religions, making it essential to ensure that they offer diverse culinary experiences in the area.	1
+20	0	0	1	3	1	6	0	1	2	2	0	3	0	1	1	1	0	4.0	1	7	Places like Mount Carmel are supposed to be tourist towns and should provide foods for people of all religions.	1
+20	0	0	1	3	1	6	0	2	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide a food for people of all religions.	1
+20	0	0	1	2	1	5	3	3	1	4	0	0	0	2	2	2	0	8.0	2	4	There is no person who lives in Dartmouth and owns a food store that serves people of all religions.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide food for people of all religions.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Ithaca are supposed to be tourist towns and should provide foods for people of all religions.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+17	0	0	3	2	1	2	0	2	4	1	0	1	1	0	1	0	0	4.0	0	7	The city is located in the vicinity of Plymouth and Provincetown, Massachusetts, United States.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+13	0	0	3	2	0	5	1	1	0	1	0	0	0	0	0	0	0	3.0	0	4	There is no passenger train service to [Name of place].	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+20	0	0	1	3	1	6	0	1	2	2	0	3	0	1	1	1	0	4.0	1	7	Places like Mount Hope are supposed to be tourist towns and should provide food for people of all faiths.	1
+19	1	1	2	1	0	3	1	2	0	3	1	2	0	1	2	1	0	3.0	1	7	The context is not provided, so I cannot generate a sentence with 1 determiners as requested.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Dartmouth are supposed to be tourist towns and should provide foods for people of all religions.	1
+23	0	0	2	3	2	7	0	1	2	2	0	3	0	1	1	1	0	4.0	1	8	Places like Mount Washington are supposed to be tourist towns, and should provide food and services for people of all faiths.	1
+19	0	0	1	3	1	6	0	1	1	2	0	3	0	1	1	1	0	4.0	1	7	Places like Chicago are supposed to be tourist towns and should provide foods for people of all religions.	1
+11	0	0	2	0	1	2	1	1	0	2	0	2	0	0	2	0	1	3.0	1	7	That being said, the books and toys have disappeared.	2
+27	1	0	1	8	0	8	1	2	1	0	1	1	3	0	1	0	0	6.0	0	17	The total number of casualties from hundreds of suicide murders within Israel in the last three years is much smaller than those due to car accidents.	2
+27	1	0	1	8	0	8	1	2	1	0	1	1	3	0	1	0	0	6.0	0	17	The total number of casualties from hundreds of suicide murders within Israel in the last three years is much smaller than those due to car accidents.	2
+14	0	0	2	2	1	3	1	2	0	1	0	2	0	0	2	0	1	3.0	1	10	That being said, the laffa and hummus are out of this world.	2
+18	1	0	2	1	0	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	6	The context of the task is not mentioned, so I cannot generate the desired sentence..	2
+14	0	0	2	2	1	3	1	2	0	1	0	2	0	0	2	0	1	3.0	1	10	That being said, the laffa and hummus are out of this world.	2
+20	0	0	2	2	1	3	0	3	0	3	0	3	1	0	1	0	0	3.0	0	9	The final answer is not provided in the context, and cannot be generated from the given context.	2
+15	0	0	2	1	1	5	1	2	0	1	0	2	0	0	2	0	1	3.0	1	11	That being said, the coffee pot and tea kettle are in the refrigerator.	2
+22	1	0	2	4	1	4	2	1	1	2	0	2	2	1	2	0	1	5.0	2	8	That being said, the art exhibitions and concerts are worth checking out at least once during your trip to Jerusalem.	2
+27	1	0	1	8	0	8	1	2	1	0	1	1	3	0	1	0	0	6.0	0	17	The total number of casualties from hundreds of suicide murders within Israel in the last three years is much smaller than that due to car accidents.	2
+14	0	0	2	2	1	3	1	2	0	1	0	2	0	0	2	0	1	3.0	1	10	That being said, the coffee and pastries are out of this world.	2
+21	0	1	1	2	0	6	1	3	0	3	0	1	2	1	1	2	1	6.0	2	7	 Those being employed by the city government play a crucial role in maintaining the infrastructure for citizens' daily life.	2
+14	0	0	2	2	1	3	1	2	0	1	0	2	0	0	2	0	1	3.0	1	10	That being said, the laffa and hummus are out of this world.	2
+33	3	1	2	4	1	5	5	4	0	4	0	4	0	3	5	0	1	6.0	4	9	Those books that the children are looking for are the ones that are lost, which implies that they were indeed out of the school or lost somewhere on their way there.	2
+37	0	1	2	2	2	7	3	4	0	4	2	4	2	4	4	3	0	6.0	4	21	I'm not able to complete the request as it asks to generate a sentence with 2 determiners, but the context does not provide any information about two or more objects that can be determiners.	2
+13	1	0	2	0	1	2	1	2	0	1	0	2	1	0	2	0	1	3.0	1	9	 That being said, the pizza and the salad are definitely delicious.	2
+23	1	1	2	1	0	4	1	3	0	3	1	2	2	1	2	2	0	3.0	1	12	The context does not provide any relevant information about two determiners, therefore I cannot generate a complete sentence as requested.	2
+18	2	0	3	2	1	4	0	2	0	1	0	0	1	0	1	0	0	3.0	0	10	Certain elements of the travelling community engage in the activity, but overall no, not really.	2
+24	1	0	2	1	0	4	1	3	0	5	0	3	1	2	2	2	1	3.0	3	14	The context provided did not specify any specific numbers of determiners to be used, so I cannot generate the prompt requested.	2
+18	1	1	2	0	1	3	2	1	0	3	0	2	2	1	2	2	1	4.0	2	5	That being said, we are currently facing numerous obstacles and challenges to achieving this lofty goal.	2
+27	1	0	1	8	0	8	1	2	1	0	1	1	3	0	1	0	0	6.0	0	17	The total number of casualties from hundreds of suicide murders within Israel in the last three years is much smaller than those due to car accidents.	2
+28	2	0	3	5	0	7	0	5	0	1	0	1	4	0	1	0	0	5.0	0	14	The total revenue from the sale of goods across all stores, nationwide, was significantly higher than the combined annual salaries of the entire labor force.	2
+22	0	1	1	1	0	4	1	3	0	3	2	3	0	2	2	2	0	4.0	2	11	I cannot generate a sentence with 2 determiners as the context does not specify the two determiners to be used.	2
+24	2	0	2	2	0	4	2	4	0	5	0	1	0	1	2	2	0	4.0	1	15	I have no information to go along with the given instructions, therefore I cannot answer this question from the provided context.	2
+17	0	1	2	0	1	4	1	2	0	3	0	1	2	1	2	2	1	3.0	2	7	That being said, the government and political leaders play a significant role in shaping policy.	2
+27	1	0	1	8	0	8	1	2	1	0	1	1	3	0	1	0	0	6.0	0	17	The total number of casualties from hundreds of suicide murders within Israel in the last three years is much smaller than those due to car accidents.	2
+27	1	0	1	8	0	8	1	2	1	0	1	1	3	0	1	0	0	6.0	0	17	The total number of casualties from hundreds of suicide murders within Israel in the last three years is much smaller than those due to car accidents.	2
+10	0	0	1	2	1	3	0	2	0	0	0	1	0	0	1	0	0	3.0	0	7	The laffa and hummus are out of this world.	2
+18	0	0	1	1	1	5	1	4	0	1	0	1	3	0	2	1	1	4.0	1	11	   Those delicious sauces and creamy dips that accompany the dish were a delicious complement to the food.	2
+23	1	0	3	3	1	5	2	3	0	2	0	2	1	0	2	0	1	4.0	1	8	That being said, the artist and her family have moved to a remote location, far from the center of town.	2
+14	0	0	2	2	1	3	1	2	0	1	0	2	0	0	2	0	1	3.0	1	10	That being said, the cookies and chocolate are out of this world.	2
+13	0	0	2	0	0	1	2	1	0	3	0	2	1	1	2	1	1	3.0	2	4	That being said, they were surprised to discover this ancient city.	2
+23	0	0	3	2	2	7	2	3	0	1	0	1	2	0	2	1	1	5.0	1	11	The food items, which include both the laffa and hummus, are part of a unique culinary culture within their community.	2
+16	1	0	2	0	2	3	1	2	0	1	0	2	2	0	2	0	1	3.0	1	12	  That being said, the pizza and pasta are a very common and delicious food.	2
+32	3	0	3	4	1	6	2	4	0	2	0	4	3	0	3	0	1	4.0	1	10	That being said, the book and script are no longer together in this chaotic situation, they've been scattered across different sections of the city by some unforeseen tragedy.	2
+14	0	0	2	2	1	3	1	2	0	1	0	2	0	0	2	0	1	3.0	1	10	That being said, the coffee and donuts are out of this world.	2
+13	0	0	2	2	1	3	1	1	0	1	0	2	0	0	2	0	1	3.0	1	9	That being said, the software and database are out of support.	2
+10	0	0	2	0	0	2	1	1	0	2	0	2	0	0	2	0	1	2.0	1	5	That being said, the restaurant is closed today.	2
+14	0	0	2	2	1	3	1	2	0	1	0	2	0	0	2	0	1	3.0	1	10	That being said, the pizza and pasta are out of this world.	2
+13	0	0	2	1	1	2	2	1	0	1	0	2	0	0	2	0	1	3.0	1	9	That being said, the pasta and dessert are not for everyone.	2
+10	0	0	1	2	1	3	0	2	0	0	0	1	0	0	1	0	0	3.0	0	7	The laffa and hummus were out of this world.	2
+24	1	0	2	3	1	5	1	3	2	2	0	1	2	0	2	0	1	4.0	1	11	That being said, Bob and Sara's trip to the zoo together seems impossible with this current budget allocation in the city.	2
+10	0	0	1	2	0	0	3	0	0	1	0	2	1	1	2	0	0	3.0	1	4	I am unsure of what you're asking for.	2
+17	0	0	2	1	1	5	1	3	0	1	0	2	1	0	2	0	1	3.0	1	9	That being said, the pizza and drinks are the star attraction for the social gatherings.	2
+28	1	0	4	5	3	9	1	1	0	1	0	2	1	0	2	0	1	4.0	1	13	That being said, the water balloons and pop-up figures are out of stock for certain festivals and events, especially at universities and schools.	2
+31	2	0	3	4	1	8	0	6	0	1	0	2	3	0	2	0	1	5.0	1	18	Certainly elements within a specific community engaging in this activity are part of that community's life, but on a global scale, such an engagement is relatively uncommon.	2
+32	0	1	2	4	1	7	3	3	0	4	0	3	3	3	3	0	1	6.0	4	10	The vast majority of individuals who contribute to the organization have been volunteers, meaning that they chose to be involved in the organization through their own personal will and motivation.	2
+12	0	0	0	4	0	5	0	1	1	0	0	0	1	0	0	0	0	5.0	0	3	The total number of casualties from hundreds of suicide murders within Israel	2
+53	3	2	3	6	1	10	5	7	2	7	0	4	2	6	4	2	0	9.0	6	20	I was under the impression that Robert Guthrie with the tax department has worked with us to develop the language, but it is true there is no known language that encompasses all the grammatical forms of language currently spoken by humanity, especially since the language is continuously evolving at present.	2
+36	0	1	3	3	3	8	2	4	0	4	0	3	3	2	4	1	1	6.0	3	8	That being said, the lamb and lamb are not included in this discussion, but we are able to determine that lamb and meat hold a high symbolic worth among members of this tradition.	2
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers.	4
+23	1	0	5	2	0	6	0	5	0	3	0	0	0	2	1	1	0	6.0	2	7	The snitch, generally a track runner, runs around the (boundaries of) the field trying to evade the seekers.	4
+22	1	0	4	2	0	6	1	4	0	3	0	0	0	2	1	1	0	4.0	2	8	The snitch, generally a track runner, runs around the boundaries of his territory, trying to evade the seekers.	4
+24	2	0	5	2	0	6	0	5	0	3	0	0	0	2	1	1	0	5.0	2	7	The snitch, generally a track runner, runs around the boundaries of (usually the boundaries) trying to evade the seekers.	4
+18	1	0	3	1	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around the city trying to evade the seekers.	4
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers.	4
+15	0	0	3	1	0	4	0	3	0	3	0	0	0	2	1	1	0	5.0	2	4	The snitch, general, runs around the boundaries trying to evade the seekers.	4
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers.	4
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers.	4
+30	1	0	2	2	2	6	2	4	0	4	1	2	1	1	2	3	0	4.0	1	21	The context does not allow us to generate a sentence with four determiners about a specific object or event, and therefore I cannot generate the requested response.	4
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a police officer, runs around (usually the boundaries) trying to evade the prosecutors.	4
+39	1	0	5	3	0	10	3	5	0	5	0	1	3	4	2	3	0	10.0	4	14	The police are relentlessly pursuing him, the notorious outlaw (who happens to run the notorious cat sanctuary) on a relentless mission to evade capture, his movements restricted by the authorities' boundaries of safety.	4
+24	0	1	2	2	1	6	1	4	0	2	1	2	0	1	2	2	0	4.0	1	12	I cannot generate a sentence with 4 determiners, as the context does not include any articles or quantifiers within the text.	4
+46	6	0	6	5	1	11	3	6	0	4	0	2	2	3	3	2	0	9.0	3	10	The snitch, generally a train engineer, operates above (along with the tracks) in an environment laden with danger and chaos, which has drawn the relentless seekers of truth to his tracks seeking the truth he has diligently sought all around.	4
+23	0	1	1	2	0	4	2	4	0	2	1	3	1	2	3	2	0	5.0	2	9	I cannot generate a sentence with four determiners that is related to the task as the context does not provide any.	4
+26	0	1	2	2	0	7	3	4	0	5	0	2	0	4	4	2	0	6.0	4	9	The police had their suspicions that the informant was lying, implying it was connected to the drug deal that took place in the town.	4
+22	1	1	2	2	0	4	2	3	0	4	1	1	0	2	1	1	0	4.0	2	12	There is no task given in the context, so I cannot generate a sentence with 4 determiners as requested.	4
+26	1	0	2	2	0	6	0	5	0	3	0	3	1	0	2	1	1	6.0	1	12	The details of the situation surrounding the Snitch's tracks are not specified in this context, so a complete sentence cannot be generated.	4
+24	0	0	5	1	1	8	2	2	0	2	0	0	2	1	2	2	0	6.0	1	8	The children had enough food for tomorrow's meal, which included their favorite snacks, the apple, cherry, and mango.	4
+27	1	0	2	3	1	7	0	5	0	3	0	0	4	1	1	1	0	6.0	1	5	The passage's details and surrounding contexts suggest the use of a particular religious denomination, potentially tied to a certain country in the northern hemisphere.	4
+22	0	1	1	1	1	5	1	3	0	3	1	2	1	1	2	2	0	5.0	1	9	I cannot generate the requested sentence because the task does not provide more context or any information about 4 determiners.	4
+17	2	0	4	0	0	4	0	3	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around, trying to evade the seekers.	4
+16	1	1	2	1	0	2	1	2	0	3	0	1	0	1	1	1	0	3.0	1	9	Not provided in the context, so I cannot generate a sentence as requested.	4
+26	1	0	2	2	1	6	2	4	0	3	1	2	0	0	2	2	0	4.0	0	14	The context does not include any mention of 4 determiners or their use, so I cannot generate the requested sentence from the context.	4
+34	1	1	2	2	2	7	1	4	3	4	0	2	4	4	3	3	0	7.0	4	8	The story of Thomas Pynchon's Little Flowers explores a topic whose relevance is debatable, highlighting the complexities of defining and verifying truths in a society where reality is fluid and subjective.	4
+19	0	1	1	1	0	4	1	3	0	3	1	2	0	2	2	2	0	6.0	2	4	The question cannot be answered as it lacks the context to generate a sentence with four determiners.	4
+25	0	0	2	2	1	6	1	4	2	4	0	1	2	2	2	3	0	8.0	2	6	The passage describes the fate of cats and suggests they are facing harm, suggesting an underlying threat similar to an Al Qaeda theory.	4
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers.	4
+48	3	1	8	4	0	9	5	6	0	4	0	2	4	5	3	1	0	7.0	5	31	The snitch, generally a track runner, runs around trying to evade the seekers, with the exception of those beautiful, innocent, loving cats for whom it is his duty, though it is often a nuisance, to protect from their cruel fate.	4
+23	0	1	1	2	0	6	2	1	0	5	1	2	1	4	3	3	0	9.0	4	4	The passage provides examples that can be used as references in generating sentences that use 4 determiners to talk about different topics.	4
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers.	4
+24	1	0	4	1	1	7	1	4	0	4	0	0	0	2	1	2	0	5.0	2	7	The snitch, generally a track runner, runs around the city blocks, trying to evade the police and escape their pursuit.	4
+23	1	0	5	1	0	5	1	3	0	3	0	0	2	2	1	1	0	5.0	2	8	The snitch, generally a track runner, runs around their (usual/nearby) boundaries trying to evade the seekers.	4
+21	1	0	2	2	0	4	2	3	0	4	1	1	0	0	1	1	0	3.0	0	15	There is no sentence with 4 determiners in the given context, therefore I cannot generate the requested sentence.	4
+19	1	0	4	1	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around the boundaries, trying to evade the seekers.	4
+20	1	0	2	1	0	4	2	2	0	3	1	2	0	1	3	2	0	4.0	1	10	The context does not provide information about 4 determiners, therefore I cannot generate the sentence you requested.	4
+30	3	1	6	0	0	5	2	4	0	6	0	1	0	5	2	2	0	4.0	5	13	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers, suggesting that she is trying to avoid them.	4
+26	0	1	1	2	0	5	2	4	0	4	1	3	2	4	3	2	0	7.0	4	9	I am unable to generate a sentence with four determiners that completes the task as no such sentence can be formed with the context provided.	4
+24	1	1	2	1	0	4	2	3	0	5	1	2	0	1	2	3	1	4.0	2	14	The information provided did not specify anything about generating a sentence with 4 determiners, so I cannot generate the specified sentence.	4
+32	0	1	4	2	1	6	1	4	2	5	1	1	4	4	2	3	0	9.0	4	5	"In 1953, President Eisenhower gave a speech claiming he had ""discovered"" atomic bombs while researching the nuclear chain reaction and the potential dangers associated with the atomic bomb."	4
+37	0	1	2	6	1	9	1	8	0	4	0	1	3	3	2	2	0	5.0	3	17	The prisoners escaped during the mass evacuation due to the fact that some of their keys were missing, indicating a possible attempt by a group or individual within the prison to hinder a planned release.	4
+39	4	0	7	2	1	8	3	4	0	7	0	0	1	5	2	2	0	5.0	5	16	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers, but she sometimes manages to get her paws trapped in their snares, leading to painful death.	4
+21	1	0	3	2	0	6	1	4	0	3	0	0	0	2	1	1	0	6.0	2	7	The snitch, generally a track runner, runs around the boundaries of their territory trying to evade the seekers.	4
+25	3	0	5	2	0	6	0	5	0	3	0	0	0	2	1	1	0	6.0	2	7	The snitch, generally a track runner, runs around (usually on the boundaries of the) fields trying to evade the seekers.	4
+22	0	1	2	1	0	6	0	3	0	4	0	0	4	3	1	3	0	6.0	3	8	The passage exemplifies the irony of considering theories to understand complex global phenomena, given the accidental entanglement of various factors.	4
+27	1	1	2	2	0	6	1	3	0	4	1	2	2	1	2	3	0	5.0	1	15	The passage does not provide additional context related to generating sentences with four determiners, so I cannot generate the requested sentence from the context.	4
+22	3	0	5	1	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	8	The snitch, generally a track runner, runs around (usually within the borders) trying to avoid the seekers.	4
+44	3	1	6	6	1	9	3	5	1	5	1	2	0	2	4	2	2	7.0	4	13	The thieves who stole the jewels, whose numbers included 132, could be apprehended in any of London's harbors, though they ran around with abandon, running across and between docks, always a step ahead of the law enforcement.	4
+33	1	1	4	3	0	7	2	3	0	6	0	4	1	4	3	2	1	7.0	5	8	The prisoners, who had been released, were escorted by police officers, indicating a recent occurrence of smuggling which caused the snitch to run around in fear of being caught.	4
+21	3	0	5	0	0	5	0	4	0	3	0	0	0	2	1	1	0	4.0	2	7	The snitch, generally a track runner, runs around (usually the boundaries) trying to evade the seekers.	4
+19	1	0	2	1	1	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	10	The instructions are not specified by any determiners and therefore, I cannot generate the requested sentence.	6
+28	0	1	1	2	2	6	2	4	0	5	1	1	2	2	2	3	0	8.0	2	7	I cannot generate a sentence with 6 determiners that adheres to the provided instruction and maintains a clear and concise form while fulfilling the task requirements.	6
+29	0	2	1	2	1	6	1	3	0	3	1	3	2	3	3	2	0	7.0	3	11	I'm not able to generate a sentence with 6 determiners as the instruction does not provide context or specific nouns for the determiners to be applied to.	6
+28	0	1	1	3	1	7	1	6	0	2	1	2	1	2	2	2	0	6.0	2	11	I am unable to generate a sentence with 6 determiners as the context does not provide any items or information for the construction of such a sentence.	6
+14	0	0	1	2	1	3	1	1	0	2	0	1	1	0	1	1	0	3.0	0	7	I cannot generate the requested sentence due to insufficient context and requirements.	6
+10	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	5	This is not a solved example of the task.	6
+12	0	0	1	1	0	2	1	1	0	1	1	1	1	1	1	1	0	3.0	1	5	I am not able to generate a sentence with 6 determiners.	6
+19	1	0	2	0	0	3	3	2	0	3	1	2	0	1	3	2	0	3.0	1	10	This is not a task that requires 6 determiners, so I cannot generate the requested sentence.	6
+18	0	0	1	2	0	3	2	2	0	3	1	1	1	3	2	1	0	5.0	3	5	I'm not able to generate a sentence with 6 determiners that adheres to the instructions provided.	6
+18	2	0	2	1	0	3	1	2	0	2	1	2	0	0	2	1	0	3.0	0	6	The task is not properly defined, so I cannot generate a sentence with 6 determiners.	6
+25	0	1	1	2	1	7	1	3	0	2	2	2	1	2	2	2	0	5.0	2	12	I cannot generate a sentence with 6 determiners as the prompt's context is incomplete without any context or question requiring 6 determiners.	6
+25	0	2	1	0	1	4	1	3	0	5	1	4	1	2	3	2	0	5.0	2	9	I cannot generate the requested sentence as the context does not provide any relevant information or specify that 6 determiners should be used.	6
+15	0	0	1	1	0	3	2	2	0	3	1	1	0	2	2	2	0	4.0	2	5	I cannot generate a sentence with 6 determiners that follows the instructions provided.	6
+19	1	0	2	2	0	4	1	3	0	2	0	2	0	0	2	2	0	3.0	0	7	The instructions are not given context, so I cannot generate a sentence as per the instruction.	6
+13	0	0	1	2	0	3	1	2	0	1	1	1	0	0	1	1	0	2.0	0	8	I cannot generate a sentence with 6 determiners from the context.	6
+19	0	1	2	2	0	4	1	3	0	2	0	2	0	1	2	1	0	5.0	1	8	I cannot, as the context does not provide any information about determiners in the given instruction.	6
+20	0	1	3	1	0	4	2	3	0	3	1	1	0	1	2	2	0	4.0	1	7	I cannot generate the requested sentence, as it exceeds the 6-determiner requirement for the task.	6
+20	0	1	2	1	0	3	0	3	0	3	1	3	0	2	2	1	0	4.0	2	7	This instruction cannot be processed, since the context does not provide any 6 determiners to fill in.	6
+27	0	0	1	2	0	5	3	4	0	5	1	3	1	5	2	3	0	10.0	5	4	It is not possible to write a sentence with 6 determiners using the context provided that describes an action that could be done on a dog.	6
+9	0	0	1	0	0	1	2	1	0	1	0	1	1	1	2	1	0	3.0	1	3	I'm not sure I understand the prompt.	6
+17	0	0	1	2	0	3	2	2	0	1	1	2	2	2	2	1	0	6.0	2	3	I am unable to generate a sentence with 6 determiners that is relevant to the context.	6
+18	1	0	2	1	0	3	1	2	0	3	1	2	0	0	2	1	0	3.0	0	6	This task was not provided, so I cannot generate the requested sentence with 6 determiners.	6
+14	0	0	1	1	0	3	1	2	0	3	1	1	0	1	1	1	0	2.0	1	9	I cannot generate a sentence with 6 determiners following the given instruction.	6
+17	0	0	1	1	0	3	2	2	0	3	1	2	1	2	2	2	0	5.0	2	5	I am unable to generate a sentence with 6 determiners that would fulfill the given instruction.	6
+32	0	1	2	4	0	6	4	5	0	4	1	3	0	3	3	2	0	4.0	3	18	I cannot generate a sentence with 6 determiners that adheres to the instruction, as it would be beyond my capacity to generate such a sentence within the stipulated context.	6
+24	1	0	3	1	0	4	2	3	0	3	1	3	1	0	3	2	0	4.0	0	17	I'm sorry, the context does not provide any information about 6 determiners, therefore I cannot generate the requested sentence.	6
+22	2	1	2	0	1	4	1	2	0	5	0	2	1	4	2	3	0	5.0	4	6	The instructions and tasks are never clearly defined, leading the user to conclude that completing them could grant great satisfaction.	6
+26	0	1	3	1	1	5	2	1	0	2	2	2	3	3	2	2	0	6.0	3	9	I'm not able to generate a sentence with 6 determiners as I am unable to specify 6 distinct items, entities, or circumstances.	6
+10	0	0	1	0	1	2	0	2	0	1	0	1	1	0	1	1	0	3.0	0	3	The instructions are not clear and contain an inconsistency.	6
+17	0	0	1	1	0	3	2	2	0	3	1	1	1	3	2	2	0	5.0	3	6	I'm not able to generate a sentence with 6 determiners using the context you provided.	6
+17	0	0	1	2	0	3	2	2	0	2	1	2	1	1	2	1	0	4.0	1	5	I cannot generate a sentence with 6 determiners that is consistent with the provided context.	6
+13	0	0	1	0	0	3	0	1	0	3	1	1	1	2	1	2	0	5.0	2	2	Not enough context is provided to generate a phrase using 6 determiners.	6
+12	0	0	1	0	0	2	2	1	0	2	1	1	1	2	2	2	0	5.0	2	2	I am unable to create a sentence that includes 6 determiners.	6
+25	0	1	1	3	1	4	2	3	0	4	1	3	1	2	2	2	0	6.0	2	9	I cannot generate a sentence with 6 determiners as it would require an explicit specification of the items being counted or referred to.	6
+44	4	2	3	2	1	9	1	6	1	3	0	2	7	2	3	1	2	7.0	4	28	Unfortunately, no matter what efforts the local administration takes in applying the Supreme Court's sentence to the M5S party's political discourse, they are ultimately unable to successfully do so because the complexities of national and international politics are unmatched.	6
+26	0	1	1	3	0	6	1	4	0	3	1	2	1	3	2	2	0	7.0	3	11	I am not able to generate a sentence with 6 determiners as the context does not specify the number of determiners needed in the sentence.	6
+15	0	0	1	2	0	3	2	2	0	2	1	1	0	1	2	1	0	4.0	1	5	I cannot generate a sentence with 6 determiners that complies with the instruction.	6
+15	2	0	1	1	0	3	1	1	0	1	0	1	2	1	1	1	0	4.0	1	7	I'm not sure how to use the sentence generator with so many determiners.	6
+19	0	1	2	0	0	3	1	3	0	4	0	2	1	3	2	2	0	4.0	3	11	I'm unable to generate the requested sentence, as the context provided does not specify any articles.	6
+17	0	0	1	2	0	3	2	2	0	2	1	2	1	1	2	1	0	4.0	1	5	I cannot generate a sentence with 6 determiners that is relevant to the given instruction.	6
+22	0	1	1	2	0	5	1	3	0	2	2	2	1	2	2	2	0	5.0	2	11	I am unable to generate a sentence with 6 determiners as the context does not provide any information about 6 determiners.	6
+16	0	1	1	1	0	2	2	2	0	3	0	2	0	1	2	1	0	3.0	1	8	I cannot generate the requested sentence as it does not relate to the task.	6
+16	0	0	1	2	0	3	1	2	0	2	1	1	1	2	1	1	0	4.0	2	6	I am not able to provide a sentence with 6 determiners based on the instruction.	6
+19	2	1	1	2	1	4	0	1	0	2	0	2	2	1	2	0	0	4.0	1	6	The rules of engagement clearly stipulate that dogs should not be left alone or unsupervised around unsecured objects.	6
+23	1	0	2	3	0	5	1	4	0	2	1	2	0	0	2	1	0	3.0	0	9	The details of the task are not mentioned in the context, so I cannot generate a sentence with 6 determiners.	6
+27	0	2	2	0	0	4	2	4	0	5	0	4	1	4	3	3	0	5.0	4	11	I am unable to generate the sentence as it cannot be generated using the given context, as the context does not provide any determiners.	6
+21	0	0	1	4	1	5	1	3	0	2	0	1	1	1	1	1	0	5.0	1	7	I'm not able to generate the requested sentence due to the lack of context and instructions in the prompt.	6
+32	1	2	2	2	1	5	1	5	0	3	0	4	2	3	2	1	0	6.0	3	13	Unfortunately, it is impossible to determine whether the dog is allowed to be in the house or not since the sentence does not provide any additional information about this aspect.	6
+24	1	2	2	1	1	3	0	2	0	4	1	4	1	2	2	1	0	5.0	2	10	The instructions cannot be followed, as the sentence has more than 6 determiners and therefore cannot be completed as requested.	6
+24	0	0	2	2	1	4	3	3	0	3	1	2	2	3	3	2	0	9.0	3	5	I'm sorry, but I am unable to provide a sentence with 6 determiners that follows the pattern stipulated in the prompt.	6

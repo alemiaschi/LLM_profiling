@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The dog sat on the mat by itself.	0
+18	0	0	2	1	0	4	2	3	0	4	0	0	1	3	1	3	0	5.0	3	5	The absence of a certain element left us perplexed, leaving no determiner to suggest its purpose.	0
+13	1	0	2	0	0	1	1	1	0	2	0	3	0	0	2	0	0	2.0	0	7	The task is not defined, so it cannot be completed.	0
+5	0	0	1	0	0	0	2	0	0	1	0	0	1	0	1	1	0	2.0	0	1	Nobody did anything significant.	0
+8	0	0	2	1	0	1	2	1	0	1	0	0	0	0	1	1	0	2.0	0	4	  **They left nothing on the table.	0
+12	0	1	1	1	0	2	2	2	0	2	0	0	0	1	1	1	0	4.0	1	4	There is no one for me to take this responsibility upon.	0
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	3.0	0	6	The absence of any words was so evident.	0
+14	0	0	2	1	0	3	1	2	0	1	0	1	2	1	1	1	0	4.0	1	5	The sky is blue, without a single object to block its color.	0
+22	1	0	2	2	1	4	1	4	0	3	0	2	2	2	1	1	0	5.0	2	6	The absence of any determiners can be interpreted as a definite statement, implying a specific entity or something wholly defined.	0
+10	0	0	2	1	0	1	2	1	0	2	0	0	0	1	0	0	0	3.0	1	6	 **There were no articles for him to search.**	0
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	  She has no plans tonight.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was clear yesterday.	0
+8	1	0	1	0	0	1	0	1	0	1	0	2	0	1	1	0	0	2.0	1	3	The sun was nowhere to be seen.	0
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	0	0	0	3.0	0	3	There was no time for a decision.	0
+5	0	0	1	1	0	0	2	0	0	1	0	0	0	0	1	0	0	2.0	0	2	She came without anyone.	0
+6	1	0	1	0	0	0	2	1	0	1	0	0	0	0	1	1	0	2.0	0	2	 No one knows this yet.	0
+11	0	0	1	2	0	3	1	3	0	0	0	1	0	0	1	0	0	3.0	0	5	The absence of anything was the catalyst for the event.	0
+7	0	0	1	2	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	4	She went without food for days.	0
+11	0	0	1	2	0	4	0	2	0	0	0	1	1	0	1	0	0	3.0	0	6	The sky was devoid of any articles of clothing yesterday.	0
+33	0	2	2	4	1	6	2	3	0	3	1	3	3	4	2	1	0	7.0	4	10	I am not able to generate a sentence with 0 determiners, as they are unable to be included within a sentence without referring to a specific item or group of items.	0
+9	0	0	1	0	0	1	2	1	0	2	0	2	0	1	1	0	0	3.0	1	4	There are no articles that are being selected.	0
+6	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	3	She was not going anywhere.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The sun shines without any articles in the sky.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The city sleeps beneath the moonlit sky.	0
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	2	0	3.0	0	4	 The absence of any objects caused him immense stress.	0
+19	0	0	2	2	0	4	2	3	0	3	1	0	1	2	0	2	0	5.0	2	7	There were no determiners in the text, making it impossible to generate a sentence with 0 determiners.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	No articles were found in the passage.	0
+20	0	1	1	1	1	4	1	2	0	2	0	3	2	2	2	1	0	5.0	2	10	The task cannot be performed because it requires some sort of specific context or determiner to be present.	0
+17	0	1	1	1	0	4	1	3	0	3	0	2	0	1	1	0	0	4.0	1	4	The task couldn't be completed since there are no determining words in the given context.	0
+18	0	0	1	2	0	5	1	4	0	1	0	2	2	2	2	0	0	3.0	2	8	The absence of a determining article was an undeniable truth that was evident in the evidence presented.	0
+7	0	0	2	0	0	1	2	0	0	1	0	1	0	0	1	0	0	2.0	0	3	Nobody came yesterday, did they?	0
+22	0	1	1	1	0	5	0	4	0	3	0	3	1	2	2	2	0	5.0	2	6	The task cannot be completed as the context does not specify any article to determine the missing number of articles.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	No determiners were requested.	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	1	0	3.0	0	4	 The absence of certain factors influenced the outcome of the experiment.	0
+15	1	0	3	0	0	2	1	2	0	2	0	2	1	0	2	1	0	2.0	0	11	The task has no specific context, hence, it cannot be completed.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	  The old man lived on a deserted island.	0
+25	0	1	3	2	0	4	1	4	0	3	0	4	1	3	3	0	0	6.0	3	6	The task cannot be completed, as the instruction is asking for a sentence with no determiners, which is impossible to generate.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	0
+21	0	0	4	1	1	6	2	3	0	3	0	0	1	2	1	1	0	7.0	2	7	There is no specific person, place, thing, or time mentioned in the context that requires a determiner.	0
+19	0	0	2	1	0	4	0	3	0	1	0	3	2	2	1	0	0	3.0	2	8	A day without determination is a day to be reborn, not a mere moment to be remembered.	0
+29	2	0	3	4	1	5	2	4	0	2	0	2	4	1	3	0	1	7.0	2	8	The city, which had once been desolate, became bustling and alive with the bustling energy of the people who moved about in a dance of purpose.	0
+13	0	0	1	2	0	3	1	2	0	2	0	1	0	1	1	0	0	4.0	1	3	The boy was left without any clothes to wear for his date.	0
+8	0	0	1	1	0	0	2	1	0	2	0	0	0	1	1	1	0	3.0	1	2	She had no one to talk to.	0
+16	0	0	1	2	0	3	2	2	0	3	1	2	0	1	1	0	0	5.0	1	4	There is no sentence with 0 determiners that can be generated from the given instruction.	0
+21	1	0	3	1	1	6	3	2	0	3	0	0	1	2	2	2	0	7.0	2	5	The moon hung, shining its light upon our home, the one that held so much hope and despair.	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	1	0	3.0	0	3	The absence of articles caused a profound difference in the outcome.	0
+12	0	1	1	0	0	2	0	2	0	2	0	3	0	1	2	0	0	3.0	1	5	The task cannot be completed as no context is provided.	0
+7	0	0	1	0	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	4	She made no decisions that day.	0
+9	0	1	1	0	0	2	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	There were no articles before the boys arrived.	0
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	0	0	0	2.0	0	3	There is no such instruction.	0
+13	0	0	1	2	0	4	0	3	0	1	0	0	2	0	1	0	0	2.0	0	8	The big cat sat on the large stone bench in the park.	1
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	8	The cat went for a walk in the park last week.	1
+17	1	0	4	1	0	4	1	2	0	3	0	0	1	0	1	1	1	4.0	1	7	The dog, wearing its favorite sweater, jumped happily over the rainbow-colored fence.	1
+17	2	0	2	1	0	4	2	2	0	3	0	0	1	1	3	1	1	4.0	2	6	The girl who wore the blue hat came running in, her eyes wide with fear.	1
+10	0	0	1	0	0	2	2	2	0	2	0	0	1	0	2	1	1	3.0	1	4	The book that I read had a mysterious key.	1
+20	0	0	2	2	0	5	1	4	0	3	0	0	3	1	1	2	0	4.0	1	7	A single raven circled the old oak trunk, casting a mesmerizing glow on the slumbering leaves beneath it.	1
+14	0	0	1	2	0	4	0	3	0	1	0	0	3	0	1	1	0	3.0	0	6	The little girl with bright eyes took the book from the lonely bookshelf.	1
+12	0	0	1	1	0	2	2	1	0	1	0	1	3	0	2	0	1	3.0	1	5	 The big book that I chose was full of interesting stories.	1
+12	2	0	1	0	0	2	1	2	0	1	0	1	2	0	2	1	1	4.0	1	9	 The book that has a big blue cover is over there.	1
+14	0	0	3	0	0	3	2	2	0	2	0	0	2	0	2	2	1	4.0	1	8	The book, that has a hard cover, contains my precious memories.	1
+7	0	0	1	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	The dog chased its favorite treat.	1
+12	0	0	3	0	0	1	2	1	0	2	0	3	0	0	2	0	1	3.0	1	9	 The book, which I had lost, has been found!	1
+11	0	0	1	1	0	2	3	1	0	2	1	0	0	1	2	1	0	3.0	1	5	She ate the one piece of cake that I bought.	1
+13	0	0	1	2	0	4	0	3	0	1	0	1	1	0	1	0	0	3.0	0	4	A single apple was found amongst the leaves on the forest floor.	1
+9	0	0	1	0	0	3	0	2	0	1	0	1	1	0	1	1	0	2.0	0	4	The child was wearing a blue hat yesterday.	1
+17	0	0	2	2	0	4	0	4	0	2	0	0	3	1	1	1	0	3.0	1	6	The lone shadow stretched across the moonlit sky, casting a unique silhouette on the ground.	1
+15	0	0	1	3	0	4	0	4	0	1	0	1	1	0	1	0	0	3.0	0	6	The girl with the bright eyes was standing in the corner of the room.	1
+12	0	0	1	1	0	3	0	3	0	2	0	0	2	0	1	1	1	4.0	1	5	A dog wearing a red collar sat on the front porch.	1
+15	0	0	1	1	0	5	0	3	0	1	0	1	2	1	1	0	0	3.0	1	4	The thief's secret hiding place is a room locked within an ancient mansion.	1
+9	0	0	1	2	0	2	1	1	0	1	0	0	1	0	1	0	0	3.0	0	4	A single apple fell out of my pocket.	1
+11	0	0	1	0	0	3	1	2	0	1	0	1	2	0	1	1	1	4.0	1	8	 The girl wearing the beautiful dress is my best friend.	1
+11	0	0	2	0	0	2	3	0	0	2	1	1	0	1	2	1	0	3.0	1	5	She bought one book, which she will read tonight.	1
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	3.0	0	5	The girl with the blue eyes lost her keys.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	A cat sat on the mat yesterday.	1
+12	0	0	1	2	0	3	1	2	0	1	0	1	1	0	1	0	0	3.0	0	6	The girl with the blue eyes is playing with her friends.	1
+13	0	0	1	1	0	3	1	3	0	2	0	0	2	0	2	1	1	4.0	1	6	The young girl who owns the blue house lives in the city.	1
+15	0	0	1	2	0	3	3	1	0	2	0	2	1	0	2	1	1	4.0	1	7	The young girl who has lost her wallet is looking for it at home.	1
+10	0	0	3	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	"The single word ""a"" stands for something."	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The cat sat with the book on the mat.	1
+8	0	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	The small cat licked the big ball.	1
+12	1	0	3	1	0	2	1	1	0	1	0	1	1	0	1	0	0	2.0	0	9	The book, with its enticing covers, was eagerly purchased.	1
+14	0	0	1	1	0	4	1	3	0	3	0	0	0	2	2	1	0	5.0	2	4	The cat chose to eat the berry that grew under the oak tree.	1
+8	0	0	2	1	0	0	2	0	0	1	0	1	0	0	1	0	0	2.0	0	4	Sure, I can help with that.	1
+20	0	0	2	3	0	5	0	5	0	2	0	0	3	1	1	0	0	6.0	1	4	A single shadow glided through the window, a silent observer of the silent ballet unfolding on the floor.	1
+21	0	0	2	4	0	6	1	5	0	2	0	0	1	1	1	1	0	4.0	1	5	The girl with the bright eyes sat on the steps, studying her reflection in the water below the castle.	1
+16	0	0	2	3	0	4	1	2	0	3	0	0	1	2	1	0	0	5.0	2	5	A single rose stood on the table, shimmering like sunlight refracting from its petals.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The little cat jumped over the big bush.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The girl with the dog sat by the lake.	1
+11	2	0	1	2	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The red car stands next to the tree over there.	1
+15	1	0	2	2	0	3	2	2	0	2	0	1	0	1	2	0	0	3.0	1	7	A dog is running through the park, its leash dangling freely behind it.	1
+12	0	0	2	1	0	3	1	3	0	2	0	0	0	1	2	1	0	4.0	1	3	The dog chased the cat, which jumped over the box.	1
+17	1	0	3	1	0	3	1	3	0	2	0	1	2	0	2	1	1	4.0	1	7	 **The single key that unlocked the door** was buried deep beneath the old floorboards.	1
+12	0	0	1	1	0	3	2	2	0	2	0	1	0	0	2	1	1	4.0	1	7	The dog that jumped over the fence was wearing my hat.	1
+9	0	0	1	1	0	3	0	2	0	2	0	0	0	0	1	1	0	3.0	0	3	The dog ate the remaining piece of cheese.	1
+14	1	0	1	1	0	3	3	1	0	1	0	1	1	0	2	0	1	4.0	1	10	The only thing that truly belongs to me is my cat's fur.	1
+15	0	0	1	1	0	4	0	4	0	3	0	0	1	1	1	2	1	4.0	2	5	The girl wearing the green dress went to the store to buy some groceries.	1
+16	0	0	2	2	0	3	1	3	0	2	0	0	3	1	2	0	0	4.0	1	4	The lonely hiker ventured into the lush forest, his backpack brimming with the unknown.	1
+19	0	0	2	2	0	5	1	4	0	2	0	0	3	1	2	1	0	3.0	1	8	A single raven flew over the shimmering pond, its feathers casting a breathtaking glow on the lilies.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	4	The cat with fluffy ears ate the cheese.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the bird through the forest.	1
+18	0	0	3	3	0	3	3	2	0	3	0	0	1	1	2	0	1	4.0	2	11	The book which she lost, along with her favorite pen, lay scattered on the floor.	2
+19	1	0	2	2	1	5	0	4	0	2	0	0	2	1	1	1	0	4.0	1	6	A book and a cup sit together on the desk, holding a precious collection of handwritten pages.	2
+13	0	0	1	2	1	4	1	3	0	1	0	0	0	0	1	0	0	3.0	0	6	The boy and the girl ran to the store in their car.	2
+15	2	0	2	1	2	1	3	2	0	2	0	0	0	0	2	0	0	3.0	0	6	She and he both went there, but only he stayed for the evening.	2
+11	0	0	3	1	0	3	0	1	0	1	1	1	0	0	1	0	0	2.0	0	4	 **Two dogs** are playing in the park today.	2
+9	1	0	1	1	1	1	2	1	0	1	0	0	0	0	1	0	0	3.0	0	4	She and he walked to the market together.	2
+13	0	0	1	2	0	4	0	2	0	1	0	0	3	0	1	1	0	4.0	0	4	The woman with red hair had a bag full of delicious cookies.	2
+14	0	0	1	2	0	4	1	2	0	1	1	0	2	0	1	1	0	4.0	0	4	We found two beautiful flowering plants amidst the rocks in the ancient temple.	2
+10	0	0	1	1	0	3	1	1	0	2	1	0	0	1	1	1	0	4.0	1	4	I saw two women walking by the park yesterday.	2
+6	1	0	1	0	0	2	0	0	0	1	1	0	0	0	1	0	0	2.0	0	2	Two birds flew south today.	2
+11	0	0	1	1	0	2	0	2	0	1	1	0	3	0	1	1	0	2.0	0	6	Two beautiful kittens chased each other through the lush garden.	2
+12	0	0	1	1	1	4	0	4	0	1	0	0	0	0	1	1	0	3.0	0	5	  The boy and the dog chased the butterfly to the pond.	2
+16	0	0	3	0	2	3	1	1	3	2	1	0	0	1	1	1	0	5.0	1	5	My grandmother and grandfather both have three children named Sarah, David, and Emma.	2
+21	0	0	1	2	2	4	2	3	0	3	0	0	4	2	2	2	0	5.0	2	7	The birds sing both with vibrant and colorful plumage that adds a delightful touch to the vibrant landscape surrounding them.	2
+20	0	0	2	2	0	6	0	6	0	3	0	0	1	1	2	3	0	5.0	1	8	A pair of hands took the treasure from the bank, each containing a gleaming diamond worth a fortune.	2
+22	0	1	2	2	2	5	2	3	0	4	0	0	1	2	2	1	0	6.0	2	7	The cat and the dog lived in the house, with them enjoying free time exploring and playing outside their abode.	2
+13	0	0	1	1	1	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The boy and the girl went to the store to buy food.	2
+9	0	0	1	1	0	3	0	1	0	1	1	0	1	0	1	0	0	2.0	0	4	  Two beautiful flowers bloomed in the garden today.	2
+6	1	0	2	0	0	0	1	0	0	1	0	0	0	1	1	0	0	2.0	1	2	Sure, here you go:  The book that both the old and the new students picked up yesterday is the one that has a lot of mysteries and answers.	2
+13	0	0	2	2	0	4	1	1	0	2	1	0	0	1	1	0	0	3.0	1	6	Two birds soared through the azure sky, searching for their breakfast.	2
+15	0	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	5	The girl with the green dress sat on the bench, reading a book.	2
+14	0	0	3	2	0	3	0	2	0	2	1	0	1	0	1	0	1	4.0	1	8	Two cats, running through a dense forest, hid from the hawk.	2
+20	0	0	4	3	0	4	0	2	0	2	1	0	4	1	1	0	0	4.0	1	7	"  ""Two birds soared into the clear blue sky, landing on opposite sides of the magnificent castle."""	2
+11	0	0	1	1	0	3	0	3	0	1	0	1	1	0	1	1	0	3.0	0	6	The boy with the red scarf is watching the movie.	2
+13	0	0	1	2	0	4	3	1	0	1	0	1	0	0	2	1	1	4.0	1	10	The boy who brought his book to school is in my classroom.	2
+19	0	0	2	1	2	5	1	4	0	2	0	0	2	1	1	1	0	4.0	1	5	A girl and her dog went to the park, enjoying a beautiful day and the fresh air.	2
+11	0	0	1	1	1	3	1	3	0	1	0	0	0	0	1	0	0	3.0	0	5	The boy and his sister both went to the store.	2
+15	1	0	1	2	0	4	0	3	0	2	0	1	1	0	1	1	1	4.0	1	8	  A book written by a talented artist will surely capture the hearts of readers.	2
+16	0	0	1	2	1	4	1	3	0	2	0	0	2	1	1	0	0	4.0	1	9	The boy with the brown eyes and the red hat went swimming with his friends.	2
+19	0	0	1	1	0	4	1	3	0	3	1	3	2	1	2	1	1	4.0	2	8	The two large dogs that were chasing the cat can be found hiding under the old oak tree.	2
+14	0	0	1	1	1	4	0	3	0	2	0	0	2	1	1	1	0	4.0	1	8	The cat with the white fur and yellow eyes watched the bird sing.	2
+15	1	0	1	1	1	3	1	3	1	2	0	1	0	0	2	0	1	4.0	1	9	The books and the clothes that Sarah lost are both scattered across the house.	2
+23	0	0	3	2	1	5	3	1	0	4	1	0	2	2	1	2	0	5.0	2	11	Two girls walked into the shop, wearing their summer outfits, and making sure to bring their favorite book with them.	2
+21	0	0	2	1	1	5	1	3	0	3	0	1	4	2	2	2	0	5.0	2	6	A large number of rare and beautiful animals roam the vast grasslands, showcasing the wonders that nature can present.	2
+13	1	0	1	1	0	2	2	1	0	2	1	1	1	1	2	1	0	2.0	1	6	Two large dogs were racing across the field when I saw them.	2
+16	0	0	2	2	1	5	0	4	0	2	0	0	0	1	1	0	0	3.0	1	5	The boy and the girl ran to the lake, searching for a treasure chest.	2
+26	0	0	1	4	2	6	1	5	0	1	0	1	5	1	2	0	0	5.0	1	9	Both the vibrant blue flowers and the majestic red leaves were in full bloom on the day I went for a walk in the park.	2
+15	0	0	1	0	2	4	1	4	0	2	0	0	1	0	2	2	1	5.0	1	9	The woman who had both the diamonds and the pearls had the best time.	2
+15	0	0	1	1	0	3	2	3	1	2	1	0	1	0	3	2	1	3.0	1	6	The two girls who both loved me had a lovely party on Saturday night.	2
+7	0	0	1	0	0	2	0	1	0	2	1	0	0	1	0	1	0	3.0	1	3	The book containing two lost souls.	2
+14	1	0	2	1	1	5	0	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The boy and girl sat on the bench, eating ice cream together.	2
+16	0	0	1	1	2	4	0	4	0	1	0	0	3	0	1	1	0	3.0	0	5	The girl with the red dress had both a beautiful hair and a kind heart.	2
+15	0	0	1	2	1	4	0	4	0	1	0	1	1	0	1	0	0	4.0	0	9	The girl with the bright eyes and the book is reading in the classroom.	2
+12	0	0	1	1	1	4	0	4	0	1	0	0	0	0	1	1	0	3.0	0	5	A dog and cat both chased a butterfly in the park.	2
+15	0	0	2	2	1	3	1	1	0	3	1	0	1	1	1	1	0	4.0	1	6	Two girls ran down the bustling street, giggling and laughing their hearts out.	2
+10	1	0	1	0	1	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	 The dog and the cat played together last weekend.	2
+17	1	0	2	2	0	4	0	3	0	3	1	0	0	2	2	1	0	4.0	2	6	Two children played in the forest, each collecting a handful of leaves to take home.	2
+13	0	0	1	1	1	4	0	3	0	1	0	0	2	0	1	0	0	3.0	0	5	  The happy cat and the loyal dog played in the sun yesterday.	2
+10	1	0	1	0	1	4	1	1	0	1	0	0	0	0	1	0	0	3.0	0	4	The girl and her friend went shopping together yesterday.	2
+10	0	0	1	2	0	2	1	2	0	0	1	1	0	0	1	0	0	3.0	0	5	Two of everything was a treat for the eyes.	2
+11	1	0	2	0	0	2	0	2	0	2	1	0	1	1	2	1	0	2.0	1	5	Four distinct words fill the void, each shining brightly.	4
+19	0	1	2	2	0	4	0	4	0	2	1	1	2	1	2	1	0	3.0	1	9	Four dogs are playing in the park, with the playful puppies splashing each other in the shallows.	4
+24	1	0	2	2	2	4	0	3	0	2	1	2	5	1	2	1	0	6.0	1	5	Four distinct and diverse articles have been meticulously selected from a rich collection of literature, each offering a unique and captivating perspective.	4
+28	0	1	8	2	1	6	0	6	0	3	1	0	0	2	2	0	0	4.0	2	12	  *The three dogs, the cat, the horse, and the sheep, gathered beneath the trees, laughing as the sun went up.*	4
+24	0	0	2	4	0	7	2	5	0	2	0	0	2	1	2	1	0	6.0	1	7	The birds sing with the symphony of their feathers, a magnificent symphony that fills the sky with a chorus of vibrant hues.	4
+11	0	0	1	1	0	2	2	2	0	2	1	0	0	0	2	0	1	3.0	1	4	The four articles that she possessed fell from the sky.	4
+16	0	0	2	2	0	4	1	2	0	2	1	0	2	1	2	0	0	3.0	1	8	Four happy horses galloped across the open field, their hooves whispering in the wind.	4
+19	0	0	1	3	0	6	0	5	0	3	0	0	1	0	1	1	0	3.0	0	11	A single raven built a nest beneath a weeping willow tree in a forgotten corner of the garden.	4
+16	0	0	1	2	1	5	0	2	0	2	1	0	2	0	1	1	0	5.0	0	7	Four friends stood beneath the sprawling oak tree and discussed a world full of possibilities.	4
+28	0	0	3	3	0	7	0	3	0	6	0	1	3	4	1	2	1	6.0	5	8	  In a world painted with vibrant hues, every corner reveals untold secrets waiting to be discovered, revealing a hidden oasis nestled within nature's embrace.	4
+9	0	0	2	0	0	0	4	0	0	2	0	1	0	1	2	2	0	3.0	1	2	  **I can give you everything I need.**	4
+20	1	0	2	2	0	3	2	2	0	3	1	2	0	1	2	1	0	4.0	1	7	Four of these apples cannot be found at my house, so I need to visit the orchard.	4
+29	0	0	3	5	0	7	0	5	0	3	1	1	4	1	1	0	0	5.0	1	9	The city streets were blanketed with the quiet footsteps of a thousand commuters, traversing across the vibrant, multifaceted sidewalks with an air of bustling urban energy.	4
+23	2	0	5	1	1	5	0	5	0	1	0	1	2	0	1	0	0	4.0	0	16	The dog, the cats, that big box, and the tiny birds, were all gathered together on the porch.	4
+20	0	0	1	4	0	6	0	3	0	2	0	0	4	0	1	0	1	5.0	1	8	The vibrant blue wildflowers scattered across a lush expanse of meadows thrived during the gentle caress of summer sunshine.	4
+21	0	0	3	1	1	5	0	4	0	3	0	0	3	1	1	1	1	5.0	2	12	The children's shoes, the vibrant blue and pink patterns covering the laces, lay strewn across the playground.	4
+25	1	0	3	3	0	6	2	2	0	3	1	0	4	1	2	2	1	3.0	2	12	With four trusty hands clasped together, she swept her favorite scarf through the delicate petals of blooming roses, creating a breathtaking masterpiece.	4
+17	0	0	2	2	0	4	0	1	0	3	1	0	4	2	1	1	0	5.0	2	6	Four happy girls ran down the bustling street, carrying colorful baskets overflowing with fresh blooms.	4
+11	1	0	1	2	0	3	0	1	0	1	1	0	1	0	1	0	0	3.0	0	4	Four majestic deer wandered silently through a meadow of wildflowers.	4
+17	0	0	2	3	1	5	0	4	0	2	0	0	0	1	1	0	0	3.0	1	8	The dog and the cats went on an adventure in the forest, searching for treasure.	4
+10	0	0	1	1	0	2	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	I cannot generate a sentence with 4 determiners.	4
+21	0	0	1	4	1	6	0	2	0	2	1	1	3	0	1	0	0	4.0	0	4	Four distinct and inseparable figures of clothing were strewn across the sprawling field like scattered gems in the summer sunshine.	4
+10	0	0	2	0	0	3	0	1	0	1	1	0	2	0	1	1	0	2.0	0	4	  ***Four lucky stars illuminate the sprawling night sky.***	4
+16	0	0	1	1	0	3	0	2	0	3	1	1	3	2	1	1	0	5.0	2	4	Four powerful determiners are needed to unlock the majestic vault hidden behind the lush forest.	4
+35	1	0	2	7	1	9	0	7	0	4	0	0	3	2	1	0	0	6.0	2	24	A vast plethora of possibilities existed within the labyrinthine streets of that quaint village, determined not only by the numbers painted upon every door but by the secrets whispered in the rustling leaves.	4
+21	0	0	3	4	0	6	1	4	0	2	1	0	0	0	1	1	0	4.0	0	7	My eyes, three of a kind, stared out the window at the swirling snow beneath the winter sun.	4
+19	1	0	1	3	0	4	0	4	0	2	1	1	2	0	1	0	1	4.0	1	8	The four distinct determiners used in the provided task were readily available within the context of the conversation.	4
+13	1	0	1	1	0	3	0	3	0	1	1	1	1	0	1	1	0	3.0	0	4	The four determiners will surely find a solution to the perplexing problem.	4
+18	1	0	5	0	1	5	0	5	0	0	0	0	1	0	0	0	0	2.0	0	14	The boy, the horse, the trees, and the flowers, a wonderful sight indeed.	4
+15	0	0	1	1	0	4	0	4	0	3	0	0	1	1	1	2	1	4.0	2	5	The boy wearing the red shirt went to the library to borrow a book.	4
+19	1	0	2	1	0	5	1	3	0	3	1	0	2	1	2	2	0	4.0	1	8	Four precious keys guarded this treasure, their gleam illuminating the hidden chamber deep within the crumbling fortress.	4
+22	0	0	3	2	0	5	1	3	0	2	1	0	5	1	2	1	0	3.0	1	9	  **Four wise squirrels scampered throughout the sprawling forest, their bushy fur leaving a trail in the soft golden moonlight.**	4
+21	0	0	2	2	0	5	0	4	0	2	1	0	5	1	2	2	0	3.0	1	10	Four distinct determiners paint the vivid tapestry of the sunlit meadow, each highlighting a singular bloom in myriad colors.	4
+20	0	0	2	3	0	5	0	5	0	1	1	1	2	0	1	0	0	5.0	0	4	The city was filled with the beauty of four unique gardens, each a haven for a different community.	4
+13	0	0	1	1	0	3	2	1	0	3	1	1	0	2	1	1	0	5.0	2	5	There are 4 determiners that can fulfill this task depending on context.	4
+18	1	0	4	0	1	5	0	5	0	1	0	1	0	0	1	0	0	3.0	0	12	The house, the dog, the cats, and the tree were standing there all day.	4
+11	2	0	1	1	0	2	1	1	0	0	1	1	1	0	1	0	0	2.0	0	5	  My favorite four friends are all in the band together.	4
+14	0	0	1	2	0	4	0	3	0	1	1	0	2	0	1	0	0	3.0	0	4	 The four happy girls ran down the dusty road in the setting sun.	4
+22	0	0	4	1	1	5	0	5	0	1	4	1	0	0	1	0	0	3.0	0	15	 The three lions, those two bears, the one squirrel, and the four birds are gathering in the forest.	4
+16	0	0	2	1	0	3	1	3	0	2	1	0	3	1	2	1	0	3.0	1	7	The four delightful girls walked through the lush garden, each wearing their respective necklaces.	4
+12	0	0	1	1	0	4	0	3	0	2	0	0	1	0	1	1	1	4.0	1	5	  The dog wearing the blue collar ran through the park today.	4
+20	0	0	3	2	0	5	1	3	0	3	0	0	2	2	1	2	0	4.0	2	7	The girl with the bright, colorful eyes walked down the path, collecting wildflowers to brighten her day.	4
+12	0	0	1	1	0	4	0	1	0	1	2	0	2	0	1	1	0	2.0	0	7	Four happy dogs chased four fluffy rabbits around the park yesterday.	4
+27	0	0	4	2	0	7	1	5	0	3	2	0	3	1	2	2	1	5.0	2	11	Four dogs, each one owning a different color collar, chased the squirrel through the tall grass, its bushy tail swaying with the wind.	4
+22	0	0	2	3	0	6	1	1	0	2	2	0	5	1	1	2	0	4.0	1	9	Four eager dogs chased four playful squirrels through the verdant forest, leaving colorful footprints as evidence of their joyful chase.	4
+16	0	0	2	2	0	4	0	4	0	2	0	0	2	1	2	1	0	4.0	1	4	  The large group of books filled the shelves, each dedicated to a different topic.	4
+23	0	0	4	2	1	4	1	4	0	4	1	0	2	1	2	1	1	4.0	2	8	The four friends, each wearing a distinctive hat, stood beneath the imposing oak tree, chatting and laughing amongst themselves.	4
+17	0	1	1	2	1	4	0	2	0	3	1	0	2	1	1	1	0	4.0	1	6	The four young ladies ran through the shimmering creek while sipping lemonade and talking for hours.	4
+15	1	0	2	2	1	3	0	2	0	1	1	0	2	0	1	0	0	4.0	0	4	   **Four loyal and devoted employees work diligently for the benefit of the company.**	4
+13	0	0	1	1	1	4	0	2	0	1	0	1	1	0	1	0	0	3.0	0	4	 The dog's every single bone was covered with dirt and grime.	4
+16	0	0	1	2	0	4	0	3	0	2	1	0	3	1	1	1	0	4.0	1	5	A group of six distinct people found a hidden treasure nestled amidst the overgrown foliage.	6
+12	0	0	6	0	0	1	0	0	0	0	0	0	5	0	0	0	0	3.0	0	6	   * Young * Beautiful * Long * Flowing * Colorful * Breathtaking	6
+15	1	0	2	1	1	3	1	2	0	2	0	0	2	0	1	1	0	3.0	0	7	  The woman with the long, blue hair sat down and ate her lunch.	6
+10	0	0	2	0	1	2	1	0	0	1	2	0	0	0	1	1	0	3.0	0	4	She bought five ___ apples and two __ oranges.	6
+32	0	0	4	4	1	10	0	6	0	3	0	0	2	1	2	2	1	5.0	2	10	The artist's creations, each adorned with a multitude of articles, adorned a vast landscape of textures and shapes, captivating the viewer's eye with an ethereal symphony.	6
+29	2	0	5	2	0	7	2	4	0	4	1	1	1	2	2	1	1	5.0	3	12	A dozen books, chosen carefully, lay on the table, their covers a riot of colors, whispering stories that only a discerning soul could decipher.	6
+38	0	0	2	5	2	11	1	6	0	4	0	1	5	3	2	2	0	6.0	3	11	The city was covered with a network of winding roads and vibrant colors, providing an endless supply of delightful sights to explore amidst the bustling crowds and historical buildings that encircled the city from all sides.	6
+17	0	0	5	2	1	4	0	4	0	1	0	0	0	0	1	1	0	3.0	0	7	  The cat chased the sheep **through** the forest and **under** the rocks.	6
+22	0	0	3	3	0	5	3	4	0	3	0	1	0	0	3	1	2	4.0	2	14	 The boy who sat on the chair, which was covered with a tapestry, had a picnic with his friends.	6
+19	0	1	2	2	0	5	1	2	0	2	0	0	3	1	2	1	0	3.0	1	11	The dog's playful paws left paw prints in the soft, lush grass as it scurried about.	6
+14	1	0	1	0	0	2	3	2	0	2	1	2	0	1	3	0	1	3.0	2	5	The seven keys I lost are a puzzle that only I can solve.	6
+27	0	0	3	3	1	8	1	4	0	3	0	0	4	1	1	2	1	4.0	2	8	In a world teeming with riches, the majestic queen traversed each precious realm, captivating every living creature with her dazzling beauty and enigmatic demeanor.	6
+13	1	0	1	1	0	3	0	3	0	2	0	0	1	1	1	1	0	4.0	1	6	The boy with the most colorful socks went to buy some candy.	6
+19	0	0	3	1	0	5	1	3	0	3	0	1	2	0	2	2	1	4.0	1	9	The boy, who has studied the ancient texts, discovered hidden secrets within the crumbling castle walls.	6
+23	0	0	5	5	0	6	0	1	0	1	5	0	0	0	1	0	0	3.0	0	11	The dog ran with six dogs, through six forests, in six cities, across six mountains, to six islands.	6
+24	0	0	2	4	2	7	1	3	0	3	0	0	2	0	2	1	0	4.0	0	10	Several factors contribute to the phenomenon of determination, and each individual possesses this quality in varying degrees and with their unique characteristics.	6
+8	1	0	2	0	0	2	0	1	0	0	1	1	0	0	0	0	0	3.0	0	6	Here’s a 6-determiner sentence:  The quick brown fox jumped over the lazy dog..	6
+18	0	0	2	2	0	3	2	2	0	2	1	1	3	1	2	2	0	3.0	1	8	I can create many sentences with 6 determiners, each describing something unique in an interesting way.	6
+24	1	0	3	2	1	6	1	4	0	1	0	1	4	0	2	1	1	5.0	1	19	The girl who wore the yellow dress, with long hair and a smile so bright, was at the party last night.	6
+17	0	0	7	1	0	2	2	3	0	2	0	0	0	0	2	1	0	3.0	0	9	  She picked **all** the **books** she needed from **the** shelf.	6
+36	1	1	5	5	0	8	2	5	0	6	1	0	2	1	1	3	1	5.0	2	23	A woman with flowing hair, wearing a blue coat, sitting on a bench, playing a guitar with six different picks, looked around her curiously before taking a break from her music.	6
+33	1	2	2	3	0	8	0	5	0	5	0	1	4	4	2	1	0	8.0	4	7	The vibrant crimson berries hung around the majestic mansion's towering gate, each carefully selected amidst the rustling leaves as if guarding a hidden trove of secrets waiting to be discovered.	6
+18	0	0	2	2	0	4	1	3	0	3	0	1	1	2	1	1	0	4.0	2	7	The city is surrounded by an abundance of determiners, making it an idyllic city to explore.	6
+24	1	0	1	2	1	6	1	4	0	2	0	1	5	1	2	0	0	4.0	1	11	The house with the ornate iron gates and the lush garden was visited several times by the eccentric old woman who resided there.	6
+12	0	0	2	2	0	3	2	2	0	1	0	0	0	0	1	1	0	3.0	0	9	  She lost all of ___ her belongings in the fire yesterday.	6
+23	1	0	4	2	1	5	1	3	0	4	1	0	1	1	2	2	1	4.0	2	8	The dog, which had seven beautiful spots, sat happily in the meadow, chasing butterflies and drinking from a spring.	6
+22	0	0	6	2	0	4	1	3	0	2	2	0	2	1	2	1	0	4.0	1	11	She ate **seven** different colored apples that day, all originating from **three** regions of the world.	6
+19	0	0	2	1	1	5	1	2	0	2	1	1	2	1	1	1	0	4.0	1	8	A dozen unique species are found in my neighborhood's diverse ecosystem, inhabiting every nook and cranny.	6
+17	1	0	2	1	2	2	2	1	0	1	1	1	3	1	2	1	0	4.0	1	4	With six resolute fingers, she meticulously crafted a tapestry that was both intricate and vibrant.	6
+13	0	0	1	1	0	3	2	1	0	3	1	0	1	2	1	1	0	5.0	2	5	There are 6 determiners that help paint every wall with vibrant hues.	6
+17	2	0	2	2	1	3	1	2	0	2	0	1	1	0	2	0	0	4.0	0	7	 Every single dog in the park was lost, yet none of them ever returned home.	6
+24	0	0	1	2	1	7	1	4	0	2	1	2	3	1	2	2	1	5.0	2	11	A phrase that can fill six holes in any arrangement is an assemblage of distinct individuals possessing unique characteristics and a collective purpose.	6
+25	1	1	1	4	1	5	1	5	0	2	0	1	3	1	2	0	0	4.0	1	10	The city was filled with the sounds of the various determiners as they danced around and between the buildings in the bustling urban landscape.	6
+17	0	0	2	3	0	5	0	3	0	2	0	0	2	2	0	1	0	6.0	2	6	  A multitude of stars scattered across the vast sky, illuminating the endless expanse of worlds..	6
+14	0	0	3	1	0	2	2	2	0	2	0	1	1	0	2	0	1	3.0	1	5	  *The book which he wrote was loved by the whole family*.	6
+35	1	0	3	5	1	9	2	6	0	2	1	0	5	0	1	1	1	7.0	1	17	The six majestic fingers on her hand, each one possessing a different shape and hue of their own, danced gracefully through the intricate design of the floral patterns on the silk scarf.	6
+25	0	1	2	2	0	5	2	3	0	3	1	4	0	2	3	2	0	6.0	2	9	I could not fulfill the instruction, as the context does not provide a set of words that can be determinated with 6 determiners.	6
+20	0	0	4	2	0	5	3	3	0	2	0	0	1	1	1	2	0	3.0	1	6	The cat, those fluffy things, hid itself within the curtains, taking its chances with my surprise.	6
+16	0	0	3	4	0	4	1	2	0	2	0	0	0	1	0	0	0	4.0	1	8	 A set of keys, along with their corresponding locks, scattered across the floor.	6
+23	1	0	2	3	1	7	0	3	0	2	1	2	1	1	1	1	0	5.0	1	8	Six articles of the finest quality have been meticulously placed inside the velvet box, creating a tapestry of beauty and elegance.	6
+13	0	0	3	1	0	2	0	2	0	1	0	1	3	0	1	0	0	2.0	0	6	 The little, colorful, fluffy ball was bouncing across the floor.	6
+20	0	0	2	3	0	4	2	3	0	3	0	1	2	2	1	1	0	5.0	2	9	There are many such determiners in this language, each of which could fill that role depending on context.	6
+22	0	0	2	2	0	6	0	4	0	3	1	1	3	2	2	1	0	4.0	2	6	A dozen beautiful bouquets of tulips were placed around the castle courtyard, ensuring each flower represented a different precious soul.	6
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	A sentence with 6 determiners is: The girl, who reads by the sea, often goes swimming.	6
+30	0	0	1	5	2	8	2	4	0	5	0	1	2	1	3	1	1	6.0	2	12	A woman who worked with flowers and who visited the park today was seen with a bright smile and accompanied by a pair of sandals adorned with colorful beads.	6
+21	0	0	3	2	0	6	2	4	0	2	1	1	0	1	3	1	1	4.0	2	11	  The three dogs, whose fur is the color of the sky, barked at the boy who played hopscotch.	6
+20	1	0	2	2	0	4	1	3	0	2	1	0	4	0	2	0	0	3.0	0	13	The six vibrant blue berries sat in a perfectly aligned grid on the verdant leaves, their sweetness undeniable.	6
+20	0	0	2	2	0	5	1	4	0	3	1	1	0	2	2	1	0	5.0	2	9	   **Six friends were gathering at the store to buy all the snacks they needed for the party tonight.**	6
+16	0	0	1	2	1	4	1	4	0	1	0	0	2	0	1	1	0	4.0	0	9	The boy with the green jacket and the red shirt bought everything on the shelf.	6
+20	0	0	3	2	0	5	0	3	0	3	1	0	3	2	2	2	0	5.0	2	11	The city has numerous gardens, each cultivated with an exquisite selection of flora, encompassing six distinct types.	6

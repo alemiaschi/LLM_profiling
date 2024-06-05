@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The sun is setting.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The rain was relentless.	0
+6	0	0	1	0	1	0	0	0	0	1	3	0	0	0	1	0	0	3.0	0	3	One plus one equals two.	0
+7	0	0	1	0	1	2	1	0	0	1	0	1	0	0	1	1	0	3.0	0	2	It's raining cats and dogs.	0
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	It rained heavily all day.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The weather was pleasant today.	0
+5	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	2	Your smile is contagious.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	It was a pleasant surprise.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The mood was electric.	0
+7	0	0	1	0	1	2	1	0	0	1	0	1	0	0	1	1	0	3.0	0	2	It's raining cats and dogs.	0
+10	0	1	2	0	0	1	1	1	0	3	0	1	0	1	1	1	1	3.0	2	3	If it's raining, consider bringing an umbrella.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	It's a beautiful day.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	It was a pleasant surprise.	0
+6	2	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	It's raining gently outside.	0
+5	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	2	Your kindness was heartwarming.	0
+6	1	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The weather is changing constantly.	0
+11	1	0	2	0	0	0	2	0	0	1	0	3	1	0	2	0	0	2.0	0	5	It can be quite enjoyable, don't you think?.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets early these days.	0
+7	2	0	1	0	0	1	1	0	0	1	0	1	0	0	1	0	0	2.0	0	3	It's raining quite heavily tonight.	0
+6	1	0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	It rained consistently for hours.	0
+6	0	0	1	0	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The weather remains sunny today.	0
+17	0	0	3	0	0	2	2	2	0	0	1	4	3	2	3	0	0	3.0	2	7	One possible answer could be: You're right, it's quite a long walk.	0
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	3	It rained the entire day.	0
+7	1	0	1	0	1	1	0	1	0	2	0	0	0	0	1	0	0	2.0	0	3	The sun rises and sets daily.	0
+7	1	0	1	0	0	0	2	0	0	3	0	0	0	2	1	1	0	2.0	2	2	You really make me feel valued.	0
+8	1	0	1	0	0	1	1	1	0	0	0	1	2	0	1	0	0	1.0	0	5	It's a bright sunny day out.	0
+8	2	0	1	0	0	2	1	0	0	1	0	1	0	0	1	0	0	2.0	0	3	Your friend is coming over later today.	0
+6	0	0	1	0	1	0	0	0	0	1	3	0	0	0	1	0	0	3.0	0	3	One plus one equals two.	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	It is raining.	0
+7	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	You can find the information easily.	0
+7	0	0	1	0	1	2	1	0	0	1	0	1	0	0	1	1	0	3.0	0	2	It's raining cats and dogs.	0
+4	1	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1.0	0	1	 Your answer here.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	It was a sunny day.	0
+7	0	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	2.0	0	3	You're doing a great job.	0
+5	1	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	3	You're quite welcome.	0
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	It rained steadily all night.	0
+9	1	0	1	0	0	0	2	0	0	2	0	1	1	1	2	0	0	3.0	1	4	You won't believe how much I saved!  Here are a few more examples to help illustrate:  This is a solved example of the task.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+9	1	0	1	0	0	2	0	2	0	1	0	1	1	0	1	1	0	2.0	0	3	The weather did indeed make a significant impact.	0
+5	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	1.0	0	3	That's wonderful news.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	It's a beautiful day.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun always rises in the east.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The weather was variable.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The weather was delightful.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+7	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	It's raining hard this morning.	0
+5	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	It is raining heavily.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The sun was setting.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets early these days.	0
+6	1	0	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are the most welcome.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	A herd of elephants roamed through the savanna.	1
+11	0	0	1	1	0	3	0	2	0	0	0	1	2	0	1	0	0	3.0	0	6	The moon's reflection on the still water was mesmerizing.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The monarch inspected the battlefield.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The lion roared menacingly.	1
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	A chef carefully selected fresh herbs for the dish.	1
+12	0	0	2	2	0	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	4	During wintertime, the trees display a spectacular array of colours.	1
+12	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	8	The author received numerous accolades for the novel's literary merit.	1
+14	0	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun rose above the horizon, painting the sky with beautiful shades.	1
+12	0	0	2	1	0	4	1	3	0	1	0	0	0	0	1	1	0	3.0	0	3	Every morning, I see the sun rise on the horizon.	1
+11	0	0	2	1	0	1	0	2	3	0	0	1	1	0	1	0	0	2.0	0	8	In Paris, the famous monument is the Eiffel Tower.	1
+11	0	0	2	2	0	2	1	1	0	1	2	0	0	0	1	1	0	3.0	0	3	At the market, she bought two dozen of peaches.	1
+11	0	0	1	1	0	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	7	The professor graded each student's test with great care.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	1	0	3.0	0	3	The library contained an extensive collection of ancient tomes.	1
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	An apple was hanging from the old tree.	1
+15	0	0	2	2	1	2	0	3	1	1	0	1	2	0	1	0	0	3.0	0	4	In the ancient myth, the phoenix dies and is reborn from the ashes.	1
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	3.0	0	6	The roses in the garden were incredibly fragrant.	1
+7	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	3.0	0	2	The moon's tranquility was enchanting.	1
+8	1	0	1	1	0	2	0	1	0	2	0	0	0	1	1	1	0	2.0	1	4	A lighthouse guides sailors safely to harbor.	1
+9	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	3	An artist's creativity flows through their palette.	1
+13	0	0	1	2	0	4	1	3	0	1	0	0	1	0	1	1	0	4.0	0	4	The author mentioned the importance of the main idea in his speech.	1
+12	0	0	2	1	0	3	0	2	0	1	0	2	1	0	1	0	0	2.0	0	7	At the auction house, a rare sculpture was being sold.	1
+10	0	0	1	1	0	3	0	2	0	2	0	0	0	1	1	0	0	4.0	1	5	A peach lay forgotten on the table's edge.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat walked through the grass.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	A carnation emanates an intoxicating fragrance.	1
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The lighthouse keeper maintained a logbook.	1
+11	0	0	1	2	0	4	1	2	0	1	0	0	0	0	1	1	0	3.0	0	8	We observed an acre of land for any plant life.	1
+9	0	0	2	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	5	In the library, a book was overdue.	1
+7	0	0	1	2	0	2	0	1	0	0	0	1	0	0	1	0	0	2.0	0	4	The piano was out of tune.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat walked on the mat.	1
+11	1	0	2	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	In the garden, the roses bloomed vividly in spring.	1
+11	0	0	1	1	0	4	0	3	0	0	0	1	1	0	1	0	0	2.0	0	5	An elephant is the largest land animal in the world.	1
+10	0	0	1	0	0	2	0	1	0	3	0	1	1	2	1	1	0	4.0	2	3	The library contains countless treasures waiting to be discovered.	1
+17	0	0	2	4	0	3	1	3	2	1	0	0	0	0	1	0	0	4.0	0	6	At the end of the lecture, he asked for a question about Pythagoras' Theorem.	1
+8	0	0	2	1	0	2	0	1	0	1	0	0	1	0	0	1	0	2.0	0	2	In the garden, bloomed vibrant tulips.	1
+13	1	0	2	2	0	4	0	3	0	1	0	0	0	0	1	0	0	2.0	0	5	In the garden, a butterfly landed gracefully on a petunia flower.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A single raindrop fell from the sky.	1
+43	1	1	6	3	3	10	2	5	2	7	0	0	3	4	3	2	0	7.0	4	18	In Paris, they admire the impressionist paintings;  Note that the noun used (Paris) refers to a location or specific city where people take interest in an artistic movement, and there is no additional context or details provided.	1
+9	0	0	2	1	0	1	1	1	1	1	0	0	1	0	0	0	0	2.0	0	3	In Paris, there exists a magnificent cathedral.	1
+15	0	0	2	2	1	4	0	3	0	2	0	0	1	0	1	0	0	3.0	0	7	The carousel horse pranced and spun, under the watchful eyes of the children.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	5	The sun sets into the ocean's horizon.	1
+9	0	0	1	1	0	3	0	1	0	1	0	0	2	0	1	1	0	3.0	0	3	The library houses countless volumes of ancient texts.	1
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The professor presented his findings to the academy.	1
+10	0	0	3	1	0	2	0	2	0	2	0	0	0	1	0	1	0	2.0	1	4	Under the tree, sat a squirrel, pondering.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The chef carefully crafted each sauce.	1
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The clock on the mantelpiece ticked away the hours.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	A lighthouse stands guard on the cliffside.	1
+12	0	1	1	0	0	3	0	3	0	1	0	1	2	1	2	0	0	3.0	1	5	The moon was the only visible object as the night unfolded.	1
+13	0	0	1	2	1	5	0	1	0	1	0	1	1	0	1	0	0	4.0	0	6	An afternoon of tea and cakes was served on elegant silver platters.	1
+11	0	0	2	1	0	1	0	1	2	1	0	0	3	0	1	1	0	2.0	0	5	In ancient Rome, an impressive Colosseum hosted gladiatorial contests.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The orchestra consisted of 12 musicians.	1
+8	0	0	5	0	1	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	" ""sun"" and ""clouds""."	2
+10	0	0	1	1	0	4	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The bookstore owner handed a map to the visitor.	2
+10	1	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The moon emerged from the clouds late at night.	2
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The elephant trunk reached for the banana.	2
+11	0	0	1	2	0	3	0	1	0	1	0	1	2	0	1	0	0	3.0	0	3	The old library was filled with books on ancient history.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun slowly sinks behind the mountains.	2
+8	0	0	5	0	1	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	" ""teacher"" and ""exams""."	2
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets on the desert oasis.	2
+10	0	0	1	1	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The sun and the moon set in the horizon.	2
+12	0	0	1	1	1	4	0	2	0	0	0	0	2	0	0	0	0	4.0	0	3	A teacher's reputation and a classroom full of restless students.	2
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The carnival balloon popped in her hand.	2
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The moon rose high above the mountain peaks.	2
+10	0	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	3.0	0	3	The lion's courage was tested during the hunt.	2
+10	0	0	1	1	0	4	0	3	0	1	0	0	0	0	1	1	0	3.0	0	4	The teacher corrected the errors on the students assignment.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets upon the lake.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat chased after a ball.	2
+8	0	0	1	0	0	2	1	2	0	1	0	0	1	0	1	2	0	2.0	0	4	The doctor gave her the red pill.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly over the lake.	2
+12	0	0	1	1	1	4	0	4	0	0	0	1	0	0	1	0	0	3.0	0	6	The elephant and the tapestry were the highlights of the tour.	2
+11	0	0	1	1	0	3	1	2	0	1	0	0	2	0	1	1	0	2.0	0	7	The moon cast its gentle light upon the calm sea.	2
+10	0	0	1	1	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The sun sets over the horizon and the ocean.	2
+10	0	0	2	1	0	3	0	2	0	2	0	0	0	0	1	0	0	3.0	0	4	The snow-covered mountains loomed in the distance.	2
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The elephant gratefully accepted the banana from the mahout.	2
+7	0	0	1	0	1	3	0	1	0	1	0	0	0	0	1	1	0	3.0	0	3	Moon and clouds painted the sky.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the desert.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat climbed on the couch.	2
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	7	The artist applied bold strokes of color to the landscape.	2
+17	0	0	2	3	1	5	0	3	0	2	0	0	1	1	1	1	0	5.0	1	5	The sun sets behind the mountains, painting the sky with hues of orange and pink.	2
+11	0	0	1	1	0	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	The garden hose was damaged by the children's play.	2
+9	0	0	1	0	0	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	5	The doctor examined the patient's x-ray.	2
+27	1	0	9	2	2	6	1	4	0	2	0	0	0	0	2	2	0	4.0	0	11	" ""stars"" and ""campfire"", and the sentence uses those nouns appropriately: ""Under the stars, they set up the campfire."	2
+14	0	0	2	1	1	4	1	1	0	2	0	0	2	1	1	1	0	4.0	1	5	The artist worked on his canvas, using bold strokes and vibrant colors.	2
+10	0	0	1	1	0	3	0	2	0	2	0	0	0	1	1	0	0	3.0	1	4	The sun began to set over the mountain peak.	2
+11	0	0	1	2	0	3	0	2	0	1	1	0	1	0	1	0	0	2.0	0	7	Two men walked in the park during the golden sunrise.	2
+9	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The elephant's trunk swept across the savannah.	2
+8	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	1	0	2.0	0	4	Two kids played soccer in the field.	2
+8	0	0	1	0	1	4	0	1	0	1	0	0	0	0	1	1	0	3.0	0	2	The vending machine spewed candy and coins.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets on the lake.	2
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	3	The old man munched on a piece of fruit.	2
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The doctor examined the patient closely.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	3	The artist painted the waterfalls in the forest.	2
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The snowman melted under the spring sun.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred on the rug.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The lion prowled in the savannah.	2
+12	0	0	1	1	1	3	0	2	0	3	0	0	0	1	2	0	0	3.0	1	6	The sun sets over the lake and birds begin to gather.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rose over the mountains.	2
+11	0	0	1	1	0	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	5	The monkey wrenches in the machine room made strange noises.	2
+8	1	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	The professor studied the old manuscript carefully.	2
+9	0	0	1	1	0	3	0	1	0	1	0	0	1	0	1	0	0	3.0	0	3	The artist's canvas overflowed with brilliant colors.	2
+8	0	0	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Cinemas, documentaries, actors, audiences.	4
+9	0	0	4	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Coffee shop, baristas, pastries, patron.	4
+9	0	0	4	0	0	4	0	1	0	0	0	0	0	0	0	0	0	1.0	0	6	The library, computers, students, researchers.	4
+12	0	0	4	0	0	5	0	0	0	0	0	0	3	0	0	0	0	2.0	0	9	Artistic sculptures, ancient ruins, marble statues, mosaic floors.	4
+19	0	0	6	0	1	7	0	0	0	2	0	0	3	0	0	0	0	3.0	0	13	Majestic snow-capped mountains, dense evergreen forests, crystal-clear lakes, and roaring waterfalls.	4
+8	0	0	3	0	1	4	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	Machines, workshops, employees, and gears  This post is provided by SSAP assistant, a free A.	4
+12	0	0	4	0	0	4	0	0	1	0	0	0	3	0	0	0	0	2.0	0	9	Tropical birds, colorful orchids, vibrant sunset, Amazon rainforest.	4
+14	0	0	4	0	1	5	0	1	0	1	0	0	2	0	1	1	0	3.0	0	8	The chef, butter, pasta, and tomatoes create exquisite Italian dishes.	4
+12	0	0	4	0	1	5	0	1	0	1	0	0	0	0	1	1	0	3.0	0	8	Birds, trees, lakes, and mountains surround the campground.	4
+12	0	0	3	1	1	5	0	1	0	0	0	0	1	0	0	0	0	3.0	0	5	Magnificent sunsets over the crystal lakes, mountains, and valleys.	4
+12	0	0	4	0	0	7	0	0	0	0	0	0	1	0	0	0	0	2.0	0	9	Art galleries, painting workshops, museum curators, artistic communities.	4
+8	0	0	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Coffee, cream, sugar, tea.	4
+10	0	0	4	0	0	6	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Laptop computer screens, monitors, projectors, televisions.	4
+11	0	0	4	0	0	6	0	0	0	0	0	0	1	0	0	0	0	2.0	0	8	Nursing homes, pharmacies, elderly patients, health insurance.	4
+7	0	0	3	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Basketball, court, hoop, ball   The end.	4
+8	0	0	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Lectures, textbooks, pencils, binders.	4
+9	0	0	4	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Soccer stadium, goalposts, fans, refreshments.	4
+17	0	0	4	1	1	6	0	2	0	1	0	0	2	0	1	1	0	4.0	0	7	The museum displayed a wide variety of Egyptian art, pottery, jewelry, and sarcophagi.	4
+14	0	0	4	0	0	6	0	4	0	0	0	0	0	0	0	0	0	2.0	0	9	The garden hose reel, the bucket, the roses, the shovel.	4
+10	0	0	3	1	0	6	0	0	0	0	0	0	0	0	0	0	0	3.0	0	5	Hiking trails in mountains, streams, wildlife reserves.	4
+12	0	0	4	0	0	4	0	0	0	0	0	0	4	0	0	0	0	2.0	0	9	Bright flowers, exotic birds, dense jungle, ancient ruins.	4
+13	0	0	4	0	0	7	0	0	1	1	0	0	0	0	0	0	0	2.0	0	9	Riverside park benches, autumn foliage, chattering children, picnic basket.	4
+16	0	0	4	1	1	7	0	1	0	1	0	0	1	0	1	1	0	3.0	0	8	Cherries, oranges, apples, and bananas make healthy options for the lunch basket.	4
+16	0	0	4	0	1	7	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The sunflower seeds, birds, trees, and field create a vibrant countryside scene.	4
+9	0	0	4	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	Dolphins, fish markets, nets, auction.	4
+15	0	0	4	0	0	3	0	0	7	0	0	0	1	0	0	0	0	2.0	0	11	Cherry blossom trees, Japan Tourism Bureau, cultural events, Sakura Matsuri Festival.	4
+10	0	0	4	0	1	5	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	Baking bread, tomatoes, lettuce, and onions.	4
+11	0	0	4	0	0	7	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	Science laboratory experiments, safety equipment, researchers, results.	4
+9	0	0	4	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Vintage bicycles, museum, exhibition, curator.	4
+10	0	0	4	0	0	6	0	0	0	0	0	0	0	0	0	0	0	2.0	0	8	Fruits, grocery stores, ripening rooms, imports.	4
+11	0	0	4	0	0	6	0	0	0	0	0	0	1	0	0	0	0	2.0	0	8	Aquarium filters, water coolers, compressors, aquatic animals.	4
+9	0	0	1	2	0	3	0	0	0	1	0	0	2	0	1	0	0	3.0	0	3	Wildflowers grow in various meadows alongside gentle streams.	4
+20	0	0	4	2	1	10	0	0	1	0	0	1	1	0	1	0	0	3.0	0	13	Microscope lenses, test tubes, beakers, and Bunsen burners are essential laboratory tools for students of science.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The sunflower, beetle, caterpillar, and daisy basked in the sunlight.	4
+25	0	0	4	1	1	7	0	5	0	3	0	0	2	2	1	2	0	4.0	2	11	The elephant's long trunk reached into the water to grab a banana, a log, and a coconut, startling nearby fish.	4
+12	0	0	4	0	0	4	0	0	0	0	0	0	4	0	0	0	0	2.0	0	9	Crisp apples, crunchy granola, sweet honey, green tea.	4
+10	0	0	4	0	0	6	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	 Cactus garden, scorching sun, butterflies, nectar.	4
+12	0	0	4	0	0	8	0	0	0	0	0	0	0	0	0	0	0	2.0	0	9	Gasoline prices, tax refunds, budget plans, family vacations.	4
+20	0	0	4	2	0	8	0	3	0	1	0	0	2	1	0	0	0	4.0	1	12	A beautiful sunset, an ocean of crystal water, colorful shells, sea gulls hovering over the tide.	4
+8	0	0	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Bridges, cables, suspension, tension.	4
+10	0	0	4	0	0	5	0	0	0	0	0	0	1	0	0	0	0	2.0	0	8	Aquarium, tropical fish, divers, oxygen tanks.	4
+8	0	0	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Tulips, daffodils, sunshine, rainbow.	4
+11	0	0	4	0	0	5	0	0	1	0	0	0	1	0	0	0	0	2.0	0	8	Carnaval balls, samba music, colorful floats, costumes.	4
+11	1	0	2	1	0	3	0	0	0	2	0	0	2	1	1	0	0	4.0	1	3	Vibrant autumn leaves falling gently, rainbow over calm lake.	4
+9	0	0	4	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	Pirates, treasure maps, gems, parrots.	4
+18	0	0	4	1	1	7	0	2	0	0	0	1	2	0	1	0	0	3.0	0	10	The library, computers, students, and textbooks are essential elements in a successful learning environment.	4
+11	0	0	4	0	0	6	0	0	0	0	0	0	1	0	0	0	0	2.0	0	8	African violets, terracotta pots, garden center, florist.	4
+8	0	0	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Aquarium, turtles, otters, octopuses.	4
+20	0	0	4	1	1	8	0	2	0	2	0	0	2	0	1	0	0	3.0	0	12	Theater curtains, popcorn machines, movie screens, and cushioned seats all contribute to an enjoyable cinematic experience.	4
+10	0	0	4	0	1	4	0	1	0	0	0	0	0	0	0	0	0	2.0	0	7	The elephant, tusk, hunter, and marketplace.	4
+41	2	0	5	5	2	11	1	7	0	4	0	0	4	2	2	1	0	8.0	2	13	The sun rose slowly above the vast ocean, creating an elegant dance of light and colors between the towering palm trees, the coral reef, the kayak, and a majestic manta ray that appeared out of nowhere.	7
+17	0	0	7	0	1	8	0	0	0	0	0	0	1	0	0	0	0	2.0	0	14	 Portuguese harbor, galleon, crew, sun, ocean waves, map, and logbook.	7
+32	0	2	5	1	1	8	2	4	1	5	1	0	2	2	4	2	1	5.0	3	18	After finishing his meal at the crowded diner, Jack left a twenty-dollar tip, the cash register bell chiming as he paid, the server grateful and smiling.	7
+56	2	0	6	5	1	18	1	11	0	8	0	0	4	6	1	3	0	8.0	6	38	The artist skillfully created a watercolor landscape featuring a majestic elm tree, a babbling brook running beneath it, a red fox hiding in nearby bushes, a school of brightly colored fish leaping in the shallow waters, a dragonfly skimming the water surface, and a butterfly resting on a lily pad.	7
+45	0	0	10	4	1	10	1	2	7	1	0	0	9	0	1	1	0	6.0	0	21	The artist used oil paints for her masterful depiction of ancient Greek gods on an enormous silk tapestry, complete with intricate gold and silver embroidery, magnificent mythic creatures, Zeus, Hera, Apollo, Aphrodite, Poseidon, Hermes, Athena.	7
+19	0	0	4	1	1	8	0	2	0	1	0	0	2	0	1	1	0	3.0	0	9	The artist drew intricate detail on the delicate porcelain, painting roses, butterflies, and water droplets.	7
+37	1	1	3	3	2	9	4	4	0	6	0	0	4	3	3	4	0	7.0	3	19	My uncle handed me a worn map that depicted ancient Roman roads, leading to bustling markets and the ruins of grand amphitheaters, while he eagerly relayed the legends and myths behind each iconic landmark.	7
+30	0	1	5	2	0	10	0	6	0	5	0	0	1	3	2	3	0	4.0	3	10	In the bustling city square, the clock tower struck midnight, silencing the revelers, as the fireworks exploded over the ice rink, creating an intoxicating scene.	7
+22	1	0	1	5	0	6	1	3	0	3	0	0	2	0	1	1	1	5.0	1	9	The flock of geese migrating across the vast lake left imprints of varying sizes in the otherwise clear water beneath them.	7
+35	0	1	3	3	1	11	2	4	0	2	0	0	8	1	3	1	0	4.0	1	14	The elderly man in the velvet hat carried a golden cane, his pocket full of rare postage stamps as he wandered in the crowded museum exhibition, past Greek vases and Roman amphorae.	7
+27	1	1	3	3	0	6	2	2	0	5	0	0	4	4	2	1	0	7.0	4	7	The elderly woman fed the colorful parakeets in her luscious garden filled with vibrant flowers, watching as they flew overhead, leaving behind rainbow trails.	7
+53	0	1	6	5	3	21	0	3	3	6	0	1	4	3	2	5	0	8.0	3	14	The ancient ruins of Angkor Wat, the temple complex in Cambodia, are home to sprawling stone structures and carved reliefs portraying Hindu gods, while tourists navigate the maze-like corridors, taking photographs with selfie sticks and purchasing trinkets from street vendors selling souvenir t-shirts and postcards.	7
+35	0	0	6	4	1	13	0	8	0	2	0	0	1	1	1	1	0	7.0	1	24	The artist painted the still life consisting of a vase of tulips, a lemon, a plate of biscuits, a cup of tea, a butter knife, and a honey pot.	7
+31	0	0	7	2	1	9	1	4	3	2	0	0	2	1	2	2	0	6.0	1	15	The professor announced a new project for this semester that includes research in ancient Egypt, mummies, pyramids, the Nile River, artifacts, thebes, and hieroglyphics.	7
+15	0	0	8	0	0	7	0	0	0	0	0	0	0	0	0	0	0	1.0	0	12	 elephant, tusks, sun, savannah, family, zebras, wildflowers).	7
+54	1	0	7	7	1	17	0	9	0	8	0	0	4	2	3	4	4	8.0	6	40	  A large crowd gathered at the historic market, the farmers selling colorful fruit, vegetables and flowers, the sun beating down on the cobbles, creating patterns on the faces of children playing games, the smell of fresh bread wafted through the air, enticing tourists stopping by the variou.	7
+27	0	1	2	5	0	6	2	5	0	3	0	0	3	2	2	0	0	4.0	2	11	The old man in the library whispered to the pigeon resting on his shoulder, as he leafed through the yellowed pages of an ancient novel.	7
+38	2	0	3	4	1	12	0	5	0	5	0	0	5	2	2	1	0	7.0	2	17	The detective examined the crime scene, where the victim's lifeless body lay surrounded by splattered red paint and scattered pieces of broken vase, under the flickering green neon light in the dimly lit room.	7
+32	0	0	4	3	1	8	1	4	0	5	1	0	4	1	1	1	0	5.0	1	9	The elderly man's wrinkled hand reached into his worn briefcase, gripping a worn red tomato, two green apples, and a folded piece of paper beside a pen.	7
+39	0	0	5	5	1	10	1	8	0	3	0	0	6	2	1	2	0	9.0	2	8	The elderly man handed the yellowed photograph to the journalist, revealing an image of a red fox, seated beside a young boy, his golden retriever, with a lake and forest visible in the background.	7
+34	2	1	5	4	1	13	0	3	0	4	0	0	1	2	2	2	1	4.0	3	11	The old oak tree, with branches stretching widely, dropped leaves in rhythm with the falling rain, while children played football nearby, kicks and laughter echoing off the brickschool building.	7
+33	0	0	7	4	1	11	0	4	0	4	0	0	2	1	1	0	0	5.0	1	18	The detective searched through the crime scene, looking for evidence among the debris, gun, shattered vase, overturned chair, torn curtains, and footprint in the wet carpet.	7
+35	1	0	5	3	1	12	0	2	0	3	0	0	8	1	1	1	0	6.0	1	17	The ancient library contained thousands of yellowed manuscripts, parchment maps of unexplored lands, heavy brass bound tomes, delicate scrolls held together by fragile silk threads, and a cryptic coded journal.	7
+40	0	1	5	3	2	9	3	6	0	7	0	0	3	3	5	2	0	9.0	3	6	The elderly man in the red sweater spotted a monkey climbing up the banana tree, the leaves rustling, the monkey's tail flicking, and its bright eyes staring at him, before it jumped and vanished.	7
+29	0	0	7	2	1	13	0	4	0	1	0	0	1	0	1	1	0	4.0	0	14	The sales representative presented the customer with an offer for a brand new laptop, charger, mouse, keyboard, bag, screen protector, and earphones.	7
+36	0	0	20	0	1	10	0	0	1	1	0	0	3	0	0	0	0	3.0	0	33	" ""detective,"" ""nervous art restorer,"" ""priceless brush strokes,"" ""masterpiece,"" ""glinting,"" ""soft gallery light,"" and ""stolen Rembrandt painting."	7
+19	1	1	3	1	0	6	0	3	0	3	0	0	1	2	1	3	0	3.0	2	10	The gardener carefully trimmed the roses, pruning shears in hand, while humming an old folk tune.	7
+29	0	0	7	2	1	9	0	4	2	2	0	0	2	1	1	2	0	5.0	1	18	The archaeologist unveiled the Egyptian hieroglyphs depicting gods, Pharaohs, Nile, obelisks, temples, scarabs, and sphinxes in the dim light of the tomb.	7
+22	0	0	2	2	0	8	0	4	0	2	0	0	3	1	1	2	0	3.0	1	7	The grand piano's polished finish reflected the sunset over the park, casting long autumn shadows on the parquet floor.	7
+33	1	0	6	2	1	15	0	5	0	2	0	1	0	0	1	1	0	4.0	0	18	The astronauts aboard the space station were excitedly discussing the launch of the satellite, the fuel cells, communication system, control center, payload module, and anticipated reentry trajectory.	7
+39	0	1	5	3	2	12	0	4	0	4	0	0	8	3	2	2	0	7.0	3	19	The old map depicted sprawling forests, winding rivers, and vast lakes surrounded by rugged mountains, while the new one revealed intricate details of modern infrastructure, including a network of highways and an industrial zone.	7
+49	1	1	6	9	0	15	2	9	0	5	0	0	1	4	2	3	0	9.0	4	12	Last week, during our picnic by the lake shore, we noticed a school of dolphins jumping high in the air, splashing the water in synchrony with the wind, while the sun sank behind the mountains, leaving a trail of orange in the sky.	7
+25	0	0	3	2	0	12	0	2	0	5	0	0	1	2	1	1	0	8.0	2	7	The astronauts assembled the solar panels made of carbon fiber reinforced plastic, titanium connectors, silicon photovoltaic cells wrapped by heat insulating layers.	7
+37	1	0	6	5	0	12	0	6	0	5	0	0	2	2	2	2	0	8.0	2	10	The children played catch with a ball, the park filled with cherry trees in bloom, the sun hanging low in the sky, casting long, golden shadows on the dew-covered grass.	7
+31	0	1	3	4	1	7	5	2	1	4	0	1	2	1	2	3	1	4.0	2	9	My grandmother, who's visiting us from Paris, enjoys a warm croissant and sips her strong espresso at the kitchen table before setting out on her morning walk.	7
+24	0	0	3	2	0	8	1	1	1	4	0	0	3	2	1	1	0	7.0	2	5	My Uncle's ancient maps depict a civilization hidden behind uncharted Amazon rainforest terrain, rumored gold temples teeming with artifacts, intriguing.	7
+45	0	0	9	1	1	19	1	7	0	3	0	0	3	0	1	1	0	4.0	0	33	The city's waterworks department, the aging treatment plant, its filtration towers, the chlorine dissolving tanks, the blue-suited inspectors, the heavy-duty pipes network, and the pump stations held a meeting for weekly maintenance schedules.	7
+44	0	1	3	5	1	15	5	2	0	5	0	0	5	2	4	1	0	5.0	2	16	 Astronauts in their bright orange space suits prepare for re-entry through the planetary atmosphere's fiery heat, their spacecraft's control panel adorned with flashing warning lights and emergency buttons, their hearts pounding as they brace themselves for the final descent.	7
+28	0	0	7	3	1	11	0	4	0	2	0	0	0	1	1	2	0	4.0	1	20	The chef added a touch of cinnamon, cloves, allspice, nutmeg, paprika, and sage to the stew, creating a symphony of spices.	7
+32	0	0	8	2	1	13	0	4	0	1	1	0	1	0	1	1	0	5.0	0	13	The orchestra's conductor announced the names of the seven symphony soloists to the enraptured crowd – violinist, clarinetist, trumpeter, cellist, oboist, pianist, and bassoonist.	7
+32	1	0	5	1	1	12	0	6	0	3	1	0	2	0	1	1	0	4.0	0	18	The archaeologist discovered an intricately carved ivory combs, a gold ring, three emerald necklaces, a polished jade figurine, and a mummified crocodile in the ancient burial site.	7
+30	0	0	7	0	1	14	0	1	0	2	0	0	5	1	1	2	0	5.0	1	19	The ancient Mayan civilization constructed impressive pyramids using limestone blocks, jaguar carvings, priest costumes, human sacrifices, jade masks, obsidian spears, and cacao beans.	7
+30	1	0	7	1	1	7	0	2	1	3	0	1	6	1	1	0	0	5.0	1	17	The ancient artifacts were discovered in Egypt, including a golden sarcophagus, ornate amulets, elaborate necklaces, fragile statues, intricate scrolls, and beautifully crafted pots.	7
+28	0	0	8	3	1	12	0	3	0	1	0	0	0	0	1	1	0	3.0	0	13	At the city zoo, a group of tourists fed pellets to the giraffes, elephants, monkeys, flamingos, camels, hippos, and parrots.	7
+26	3	1	3	1	0	7	4	1	0	5	0	0	1	3	3	3	0	8.0	3	5	A librarian sorts books quietly, dusting their yellowing pages, ancient volumes with intricately designed covers that crackle lightly as her fingers caress them.	7
+23	2	0	6	1	1	9	1	1	0	1	0	0	1	0	1	1	0	3.0	0	12	The sales manager offered our product to multiple wholesalers, markets, regions, divisions, departments, and even competitors simultaneously.	7
+37	1	0	4	5	0	12	1	5	0	2	0	0	6	1	1	1	0	6.0	1	15	In the library's large reading room, the scholar studied ancient Egyptian texts on papyrus scrolls, the scent of antiquated books heavy in the air, a single oil lamp flickering gently beside him.	7
+28	1	0	6	2	2	9	0	2	0	4	0	0	2	1	1	1	0	4.0	1	19	The archaeologist uncovered ancient Roman artifacts, including vases, amphorae, coins, and sculptures, deep within an excavated tomb amidst decaying fabric and bones.	7
+38	1	0	5	2	2	15	0	7	0	2	0	0	4	0	1	1	0	4.0	0	23	At the antiques fair, the elderly dealer displayed a fine jade bracelet, an amethyst brooch, ivory carvings, and an exquisitely painted porcelain vase beside a precious sapphire necklace and a delicate ruby ring.	7
+34	0	0	3	6	1	10	0	6	2	3	0	0	3	2	1	2	0	5.0	2	11	The sun sets behind the rugged peaks of the Rocky Mountains, painting the evening sky in hues of orange and gold, casting the lake into an ethereal mirror of vibrant reflections.	7

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+11	2	0	1	2	0	2	0	2	0	1	0	0	1	0	1	0	0	3.0	0	5	The sun shines brightly even on the darkest of days.	0
+10	0	0	2	0	0	2	0	2	0	2	0	0	2	1	1	1	0	3.0	1	3	A lone sunset appeared, illuminating the serene landscape.	0
+8	1	0	2	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	 **She walked alone to the park.**	0
+10	1	1	1	0	0	2	1	1	0	2	0	1	0	1	2	1	0	3.0	1	3	Rain was falling as they took the bus home.	0
+17	1	0	2	2	0	4	0	4	0	2	0	0	2	1	1	1	0	3.0	1	7	The moon beamed down from the heavens, casting a shimmering path across the desolate landscape.	0
+15	0	0	5	1	0	2	2	1	0	2	0	1	0	1	2	1	0	3.0	1	7	"Sure, the sentence is ""She walked out, carrying her keys.""  This sentence has the required number of 0 auxiliaries and clearly fulfills the original instruction."	0
+10	0	0	2	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	He sat in the chair, reading a book.	0
+17	1	0	2	0	0	3	2	1	0	1	0	3	2	2	2	1	0	4.0	2	8	She was absent yesterday, so she will not be able to attend the meeting today.	0
+21	1	0	2	2	0	5	0	4	0	4	0	0	3	2	1	1	0	5.0	2	7	A lonely shadow fell over the bustling city streets, creating a poignant reminder of the unnoticed lives passing by.	0
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	 The old tree stood silently for centuries.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The sun rose early that morning..	0
+17	1	0	2	1	0	4	1	4	0	3	0	0	1	2	2	2	0	5.0	2	6	The rain pattered gently upon the cobblestones, creating a soothing melody that filled the night.	0
+5	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	1	The task remains undefined.	0
+11	0	0	2	2	0	2	2	1	0	2	0	0	0	1	1	0	0	3.0	1	5	 She sat at the table, thinking about her future.	0
+17	0	0	2	2	0	5	0	3	0	2	0	0	2	0	1	0	0	3.0	0	6	A single morning bird's sing echoed through the stillness of the vast, echoing lake.	0
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	  **The dog runs freely through the beautiful park.**	0
+8	0	0	1	2	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	He went to bed without any preparation.	0
+12	0	0	2	1	0	5	1	2	0	1	0	0	0	0	1	1	0	3.0	0	8	   **We reached the city limits on the evening train ride.**	0
+11	0	0	3	0	0	3	0	3	0	0	0	1	1	0	1	0	0	2.0	0	7	   **Every day, the sunrise is a magnificent sight.**	0
+15	0	0	2	0	0	3	2	2	0	2	0	1	2	2	1	2	0	4.0	2	4	The train was late that day, causing us to miss our important meeting.	0
+10	0	0	2	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	5	  **The sun sets in the west every day.**	0
+11	0	0	1	1	0	5	0	2	0	1	0	0	1	0	1	1	0	2.0	0	6	A wise wind whispered secrets to the sleeping forest creatures.	0
+16	2	0	2	1	1	4	0	4	0	2	0	0	0	1	1	1	0	5.0	1	3	  The rain poured silently, washing away the dust and the hopes of the city.	0
+10	0	0	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	  She went to the store to buy some groceries.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The rain has stopped.	0
+7	0	0	1	0	0	2	0	1	0	0	0	2	1	0	1	0	0	2.0	0	3	The rain will be silent tonight.	0
+14	0	1	2	0	0	3	0	3	0	2	0	0	3	0	1	2	1	3.0	1	8	Despite living a short life, the vibrant blossoms held a powerful presence.	0
+7	0	1	1	0	0	0	2	0	0	2	0	1	0	1	2	0	0	2.0	1	3	She will do as she pleases.	0
+18	0	0	2	2	1	6	0	5	0	2	0	0	0	1	1	2	0	4.0	1	10	The spider spun a web in the middle of the night, trapping the moths and butterflies.	0
+14	1	0	2	2	0	4	0	3	0	1	0	0	1	0	1	0	0	4.0	0	4	The rain falls relentlessly, a symphony of droplets in the urban wasteland.	0
+15	1	0	2	2	0	3	1	2	0	2	0	0	2	1	1	0	0	3.0	1	6	A lone bird soared high into the sky, searching for its next prey.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	0
+18	2	0	2	3	0	5	0	3	0	2	0	0	1	1	1	0	0	4.0	1	10	The rain fell silently, just adding to the vast silence of the city streets at night.	0
+17	0	0	2	2	1	4	1	3	0	3	0	0	1	1	1	2	0	3.0	1	8	The thief stole the keys and left without them, causing great harm to the owner.	0
+12	1	0	2	1	0	3	1	1	0	2	0	0	1	1	2	0	0	3.0	1	5	The young girl giggled softly, her eyes sparkling with delight.	0
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	 My dog chased the cat across the park.	0
+16	2	1	2	2	0	2	4	0	0	3	0	0	0	2	2	1	0	4.0	2	6	She walks quickly, taking in her surroundings as she moves forward on her journey.	0
+16	0	0	2	1	0	4	0	3	0	1	0	1	4	1	1	1	0	4.0	1	5	The sky is clear today, offering a stunning view of the vast blue sky.	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	1	0	3.0	0	5	The rainy day brought the sunshine to the shadows of trees.	0
+18	0	1	1	1	0	5	1	3	0	2	0	0	3	1	1	2	0	4.0	1	7	  The old clock on the wall kept me from getting a good night's sleep last night.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The boy walked down the street.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	   > The city will thrive as long as its core is sustained.	0
+18	0	0	2	2	1	3	3	1	0	4	0	2	0	1	3	0	0	5.0	1	6	I will sit and wait, my heart pounding in anticipation of the news that will arrive.	0
+15	0	1	2	1	0	4	0	3	0	1	0	2	1	1	2	0	0	3.0	1	6	Rain was a dreary day, with the sun being obscured by an overcast.	0
+16	0	0	2	2	0	4	0	4	0	2	0	1	1	1	1	1	0	3.0	1	6	The rain was glistening in the sunlight, painting the leaves with a shimmering touch.	0
+8	1	0	1	0	1	1	0	1	0	2	0	0	1	0	1	0	0	2.0	0	2	  The little puppy barked and ran away.	0
+20	0	0	2	3	2	6	0	4	0	3	0	0	0	1	1	1	0	6.0	1	5	The sun rises in the east and sets in the west, ensuring a cycle of day and night.	0
+14	0	1	1	2	0	4	0	4	0	2	0	0	0	1	2	0	0	3.0	1	10	  The city awoke in the stillness of the morning before the sun rose.	0
+13	0	0	2	1	0	3	0	3	0	2	0	1	1	1	1	1	0	3.0	1	5	The rain was falling outside the window, creating a shimmering sound.	0
+25	0	0	2	4	0	6	3	5	0	3	0	0	2	2	3	1	0	6.0	2	11	She took a long walk under the bright sun, her hair gleaming with the warmth of the rays that filtered through the leaves.	0
+19	1	0	2	3	0	6	1	4	0	2	0	0	0	1	2	0	0	4.0	1	12	The cat gazed wistfully at the bird feeding in the garden, its feathers glistening with the sunlight.	1
+11	0	0	1	1	1	3	1	1	0	2	0	0	0	1	1	1	0	4.0	1	5	She went to the supermarket to buy milk and bread.	1
+16	1	1	1	2	0	4	2	2	0	2	0	0	1	1	2	0	0	3.0	1	7	The old woman sat leisurely on the porch while she tended to her pet cat.	1
+8	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	 She will walk to the store alone.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse across the meadow.	1
+18	2	0	2	2	0	3	1	2	0	3	0	1	1	2	1	1	0	3.0	2	7	The dog sat quietly on the porch, eagerly expecting its favorite toy to be left out.	1
+12	0	0	1	0	0	3	1	3	0	2	0	0	2	1	2	1	0	4.0	1	4	 The old lady cooked a delicious meal that the family enjoyed.	1
+23	1	0	2	3	1	6	3	2	0	3	0	0	2	1	1	3	0	5.0	1	9	The young traveler accompanied the ancient knight on his quest, often helping him with her chores and offering words of encouragement.	1
+12	0	1	1	1	0	3	2	2	0	1	0	1	0	1	2	1	0	2.0	1	9	  She ate the steak while she was at the dinner party.	1
+11	0	0	1	2	0	3	2	1	0	1	0	0	1	0	1	0	0	2.0	0	7	The dog barked at her friend despite his playful nature.	1
+14	0	0	2	1	0	4	2	2	0	2	0	0	1	1	1	1	0	5.0	1	4	The dog chased its tail, a joyful wiggle trailing in its wake.	1
+14	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	3.0	2	6	The dog barked loudly, while the cat gazed at the birds chirping.	1
+19	0	0	2	1	1	3	4	2	0	4	0	1	1	2	2	1	0	5.0	2	5	She went shopping this weekend and bought a new dress, which she'll wear for her birthday.	1
+20	1	0	2	3	1	5	4	2	0	2	0	0	0	1	3	0	0	3.0	1	14	She walks calmly down the road, her backpack on her back and her smile lighting up the day.	1
+15	0	0	1	2	1	4	1	3	0	3	0	0	0	1	1	1	0	3.0	1	9	  He sat on the rock beneath the willow tree and watched the sun rise.	1
+22	0	0	2	1	1	6	0	3	0	3	0	1	4	2	1	3	0	5.0	2	5	The young artist was painting a vibrant landscape, utilizing multiple auxiliaries to create realistic shadows and highlights on the canvas.	1
+12	1	0	2	1	0	2	2	1	0	2	0	0	1	1	2	0	0	3.0	1	5	She smiled brightly, her laughter echoing through the bustling street.	1
+23	0	0	2	1	0	3	4	3	0	5	0	0	3	4	1	4	0	5.0	4	13	She made the necessary preparations to help her prepare for the big test, making it a seamless process to complete it.	1
+8	0	0	1	0	0	1	1	1	0	2	0	1	0	1	1	0	0	3.0	1	2	She was going to sleep that night.	1
+18	1	0	2	1	1	4	2	2	0	2	0	0	3	1	1	2	0	5.0	1	9	My aunt painted the room during the thunderstorm last night, making it brighter and more vibrant.	1
+18	1	0	2	2	1	3	4	2	0	3	0	0	0	1	2	1	0	5.0	1	5	She went to the store and bought some groceries, which she took home in her bag.	1
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The sun was shining brightly at the time.	1
+17	1	0	1	2	1	3	2	2	0	4	0	1	0	2	1	1	0	5.0	2	4	Her dog would always sit by the window watching them come and go throughout the day.	1
+14	1	0	2	1	0	3	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The young artist smiled brightly, making a masterpiece on the blank canvas.	1
+14	0	1	2	0	0	3	0	3	0	4	0	0	0	3	1	2	0	4.0	3	4	The dog barked while chasing the ball, causing the cat to meow.	1
+12	2	0	1	0	0	3	1	2	0	2	0	0	0	1	2	1	0	4.0	1	4	The dog barked excitedly when he heard the train's sound.	1
+13	1	1	1	1	0	3	2	2	0	2	0	0	0	1	2	1	0	3.0	1	5	My dog barked loudly as it chased the butterflies in the park.	1
+16	0	0	2	2	0	4	1	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The old soldier sat by the river, telling his stories in the warm sunshine.	1
+13	2	0	5	0	0	1	3	0	0	2	0	0	0	1	2	1	0	3.0	1	6	"""He laughed ** happily ** when he saw his daughter."""	1
+18	0	0	2	3	0	3	4	1	0	3	0	0	2	2	1	1	0	5.0	2	4	Despite her diligent nature, she found herself distracted by the vibrant colors swirling outside her window.	1
+13	0	1	2	1	0	2	2	2	0	3	0	0	0	2	2	1	0	3.0	2	5	The artist stood beside the painting, painting it as she worked.	1
+11	0	0	2	0	0	3	3	0	0	1	0	1	0	0	1	1	0	2.0	0	5	Her sister did her homework yesterday, did she not?	1
+15	2	1	2	1	0	2	2	2	0	3	0	0	0	2	2	1	0	3.0	2	7	She walked carefully down the stairs, carefully admiring each one as she went.	1
+15	0	0	2	1	0	4	1	3	0	3	0	0	0	2	1	2	0	4.0	2	5	The rain arrived today, allowing me to water the plants in the backyard.	1
+24	1	0	2	2	0	8	1	4	0	4	0	1	0	3	1	3	0	6.0	3	6	The sun was shining brightly yesterday, allowing a group of people to enjoy the park without any rain clouds blocking their view.	1
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The train arrived on time yesterday.	1
+14	0	0	2	3	0	4	2	1	0	1	0	0	1	0	1	1	0	3.0	0	5	Despite her lack of courage, she faced the challenge with incredible determination.	1
+20	0	1	2	1	0	4	2	3	0	5	0	1	0	4	3	1	0	7.0	4	4	The artist smiled while painting, his eyes expressing the depths of the emotion she was trying to convey.	1
+13	0	1	1	2	0	3	1	3	0	2	0	0	0	1	2	0	0	3.0	1	6	The dog barked at the mailman as he came down the driveway.	1
+23	0	0	3	1	1	5	4	2	0	3	0	2	2	1	2	3	0	6.0	1	6	She is doing her chores, cooking dinner and cleaning the kitchen, which are her main chores on a regular day.	1
+12	1	0	2	0	0	2	2	1	0	2	0	1	1	1	2	1	0	3.0	1	5	She was singing softly, her voice filling the empty room.	1
+10	1	0	1	0	0	2	1	2	0	2	0	1	0	1	2	1	0	2.0	1	5	The rain was washing the streets when she arrived.	1
+18	1	0	2	3	0	5	1	4	0	2	0	0	0	1	2	0	0	5.0	1	5	The bird sings with the grace of a ballerina, its wings effortlessly swirling in the wind.	1
+8	0	0	1	1	0	3	1	0	1	1	0	0	0	0	1	1	0	2.0	0	4	My father cooked dinner on Friday night.	1
+18	0	0	2	3	0	6	2	2	0	3	0	0	0	2	3	1	0	4.0	2	10	The boy ate the fish with his eyes closed, his mind racing with thoughts of adventure.	1
+16	1	1	2	2	0	2	3	0	0	3	0	1	0	3	2	1	0	3.0	3	7	My dog barked while I was at work, waking me up to come home.	1
+19	0	0	2	2	1	5	1	3	0	3	0	0	2	2	1	2	0	5.0	2	5	She sat on the rock, watching the sunset paint the sky with vibrant orange and purple hues.	1
+17	1	0	2	2	1	3	2	3	0	2	0	0	1	1	2	1	0	5.0	1	5	  **I ran down the stairs and into the big room where they kept the treasures.**  This sentence fulfills the instruction to generate a sentence with one auxiliary and fits the task description.	1
+13	0	1	1	1	0	4	0	4	0	2	0	0	0	1	2	1	0	3.0	1	6	  The dog licked the tree while the cat played in the sun.	1
+15	2	0	2	2	0	3	2	0	0	3	0	0	0	2	1	1	0	5.0	2	4	She arrived home early, making dinner in time to eat with her family.	1
+13	2	0	1	0	1	1	2	0	0	2	0	2	1	1	1	1	0	4.0	1	4	She was working diligently and was able to complete her tasks quickly.	2
+16	0	0	2	1	1	4	3	2	0	2	0	0	1	1	1	2	0	3.0	1	9	She helped both his parents with the gardening today, making it a productive day.	2
+10	0	0	1	1	1	1	1	1	0	2	0	1	1	0	1	0	0	3.0	0	4	They are working and sleeping at the same time.	2
+19	0	0	1	4	0	4	2	2	0	2	0	1	2	2	2	1	0	4.0	2	11	They were able to accomplish the task despite the many difficulties they faced due to lack of motivation.	2
+27	0	2	1	1	0	6	2	5	0	4	1	2	0	3	3	4	0	5.0	3	11	I cannot generate a sentence using the context because the context does not provide an instruction for me to generate a sentence with two auxiliaries.	2
+15	0	0	5	1	1	4	0	2	0	0	0	1	1	0	1	0	0	2.0	0	9	  The children were **swimming** and **reading** at the same time.	2
+19	1	0	2	1	3	6	0	1	0	3	0	0	2	1	1	2	0	6.0	1	6	The boy played video games and read comic books, simultaneously engaging in both intellectual and entertaining pursuits.	2
+20	0	0	2	3	1	3	4	3	0	3	0	0	1	0	2	2	1	4.0	1	6	Despite the difficulties that surrounded him, he persevered and completed the task to the best of his ability.	2
+13	0	1	2	1	0	2	2	2	0	3	0	0	0	2	2	1	0	4.0	2	5	She stood, watching the birds as they danced in the park.	2
+12	0	0	2	1	0	2	2	0	1	2	0	0	1	1	1	1	0	3.0	1	3	  Despite her tiredness, Maria stayed awake to finish her work..	2
+17	0	1	1	3	0	4	1	3	0	3	0	1	0	2	1	1	0	5.0	2	7	She is reading a book by the fireplace while listening to music playing in the background.	2
+17	1	0	1	2	0	3	2	2	0	2	0	1	2	1	1	1	0	3.0	1	7	She was working diligently with her team to generate a new plan in a productive environment.	2
+24	1	0	2	3	1	6	2	4	0	3	0	0	1	2	1	2	0	5.0	2	10	We went for a walk in the park, allowing the fresh air and the beauty of nature to wash away our worries.	2
+18	1	2	2	1	0	3	1	2	0	3	0	0	2	1	1	1	1	5.0	2	9	Despite the early setback in acquiring a driver's license, she remained persistent in practicing daily.	2
+22	1	0	1	2	2	3	3	2	0	3	0	2	3	1	2	1	0	4.0	1	9	She was playing in the park with her brother and was feeling nervous and uncertain when she saw the unexpected visitor.	2
+13	0	1	1	1	0	3	2	1	0	3	0	0	1	1	1	1	0	3.0	1	7	They danced through the bustling city life while making their daily commute.	2
+18	1	0	2	2	1	5	3	1	0	2	0	0	1	0	2	2	0	3.0	0	9	The boy played games with his friends, and he also read books in his free time.	2
+20	0	0	2	1	1	5	1	4	2	3	0	0	1	2	2	3	0	5.0	2	9	   Sarah and Liam watched the sunrise over the pond, their smiles reflecting the golden rays illuminating the water.	2
+17	1	0	2	2	0	5	1	3	0	2	0	0	0	1	1	1	0	5.0	1	6	The girl danced gracefully in the park, watching her reflection in the pond's water.	2
+16	0	0	2	2	0	4	1	4	0	3	0	0	0	2	1	2	0	4.0	2	7	The dog chased the butterfly through the forest, watching it flutter through the sunlight.	2
+15	0	0	2	1	1	4	2	1	0	3	0	0	0	1	1	2	0	5.0	1	4	They arrived on time, walking their dogs and enjoying the sun's warmth.	2
+18	1	0	2	1	1	3	1	1	0	4	0	0	3	1	1	3	0	5.0	1	4	They always helped each other to achieve success, using auxiliary verbs and working towards common goals.	2
+23	0	0	2	1	3	4	6	1	0	3	0	1	2	2	3	2	0	7.0	2	4	Her favorite meal is something that requires both effort and creativity, something that both challenges and rewards her in equal measure.	2
+15	0	0	1	1	1	4	1	3	1	3	0	0	0	1	2	2	0	3.0	1	6	Sarah helped prepare the vegetables and she baked the bread today in the oven.	2
+22	0	0	2	4	0	6	4	2	0	2	1	0	1	1	2	0	0	3.0	1	14	She strolled along the beach with her two children at her side, their laughter echoing through the vibrant sunset horizon.	2
+15	0	0	2	1	2	4	2	1	0	3	0	0	0	1	1	1	0	4.0	1	7	The dog barked and playing with its owner, expressing its contentment and loyalty.	2
+18	1	1	3	1	0	2	1	2	0	5	0	1	0	4	2	0	0	5.0	4	8	She stood, waiting expectantly, as the letters unfolded like a story waiting to be told.	2
+9	0	1	1	0	0	2	1	1	0	2	0	1	0	1	1	2	0	2.0	1	4	They are doing the laundry while watching television.	2
+14	0	0	1	1	1	4	2	1	0	1	1	0	2	0	1	1	0	3.0	0	10	The artist painted two beautiful landscapes with her and her brother last weekend.	2
+14	1	0	2	1	0	2	2	2	0	3	0	0	1	2	1	2	0	4.0	2	6	They sat on the bench together, helping each other write their assignments.	2
+19	0	1	1	3	1	5	2	3	0	3	0	0	0	1	2	2	0	4.0	1	7	She sat down and read a book while her dog chased butterflies around the garden in the sunshine.	2
+15	1	0	1	2	0	3	4	1	0	2	0	1	0	1	2	1	0	3.0	1	8	She was doing her homework with her friends when they got into a quarrel.	2
+24	1	1	2	2	1	6	1	3	0	3	0	1	3	0	1	3	1	4.0	1	11	  Despite having experienced several losses in the recent year, the company still achieved great things and earned the respect of its employees.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The children played in the park.	2
+10	0	0	1	1	1	1	3	1	0	1	0	0	1	0	1	0	0	3.0	0	4	Both she and he played in their free time.	2
+20	0	0	2	3	0	6	2	1	0	2	0	0	3	1	1	2	0	3.0	1	6	  Despite his lack of confidence, the artist used bold strokes to create captivating portraits in her latest exhibition.	2
+30	1	1	3	2	0	7	0	7	0	4	0	1	4	3	2	2	0	5.0	3	10	The rain had already fallen, casting a shimmering dew over the sprawling fields, painting the landscape in an otherworldly glow before the sun rose the next morning.	2
+13	0	0	1	2	1	3	2	2	0	2	0	0	0	0	1	0	0	3.0	0	5	She went to the movies and ate with her friends that evening.	2
+19	2	0	2	3	1	5	0	4	0	2	0	0	0	1	1	1	0	5.0	1	7	The dog chased the butterflies playfully and diligently, leaving behind the scent of flowers in the air.	2
+14	1	0	3	1	1	2	3	0	0	2	0	1	0	0	1	1	0	3.0	0	6	She was laughing happily and **helping** her friend with her homework.	2
+22	0	0	2	4	0	6	1	3	0	3	0	0	1	2	1	1	0	6.0	2	7	The rain arrived with a symphony of sounds, causing everyone to marvel at the sheer spectacle of nature's beauty.	2
+13	2	0	2	1	0	3	1	2	0	2	0	0	0	1	1	2	0	3.0	1	6	They played games together, watching the moon together in the night.	2
+18	0	0	4	3	1	3	4	1	0	2	0	0	0	1	1	2	0	4.0	1	8	She helped him and me with the project, working with them side-by-side.	2
+18	1	0	2	1	0	3	3	2	0	3	0	0	3	2	1	2	0	4.0	2	5	We watched them painting together, making their house a vibrant painting on a bright sunny day.	2
+17	2	0	2	0	1	3	4	0	0	3	0	1	0	1	2	2	0	4.0	1	8	She was doing her homework diligently, and her friends came over to offer their assistance.	2
+13	1	0	3	2	0	2	1	2	0	2	0	0	0	0	1	0	1	3.0	1	5	  They had **gone** for a swim earlier in the day.	2
+18	1	0	2	1	0	4	2	1	0	3	0	0	3	2	1	2	0	4.0	2	5	The young woman smiled widely, using her auxiliary verbs to bring life to her dull world.	2
+13	1	1	1	1	0	3	1	2	0	2	0	1	0	1	2	0	0	3.0	1	6	The cat barked softly while its owner was playing in the park.	2
+12	0	1	2	1	0	1	3	0	0	3	0	1	0	2	2	1	0	3.0	2	6	She stood while he was sleeping, preparing breakfast for them.	2
+20	1	0	2	0	2	3	4	1	0	5	0	0	2	1	2	3	0	6.0	1	5	She sat comfortably and watched the birds singing, their melodious calls calming her and bringing her immense joy.	2
+23	1	0	2	1	1	5	1	3	0	3	0	1	4	2	1	2	0	8.0	2	6	The bustling streets were alive with activity, each person utilizing their allotted time effectively to ensure a vibrant and dynamic city.	4
+25	1	0	2	0	1	7	0	5	0	4	1	0	1	3	1	4	0	6.0	3	5	The students eagerly awaited the instructor to give the final explanation, using all 4 auxiliaries to enhance the sentence's clarity and precision.	4
+26	1	0	2	3	1	6	1	4	0	4	0	1	2	2	1	2	0	5.0	2	11	I will assist in the completion of a task, employing a combination of auxiliary tenses and past participles to meticulously fulfill the given instructions.	4
+16	1	1	2	1	0	3	1	2	0	3	0	0	2	2	1	2	0	4.0	2	7	She smiled brightly while helping the children paint the sky with bright, colorful hues.	4
+22	0	0	2	3	1	6	3	3	0	3	0	1	0	1	1	2	0	4.0	1	7	They were standing around the lake, generating a symphony with their voices and using the setting sun as their instrument.	4
+19	1	0	2	2	1	5	2	3	0	3	0	0	0	1	1	2	0	5.0	1	6	He sat comfortably in his chair, reading a novel and enjoying the tranquility of the evening sun.	4
+21	0	0	2	4	0	7	0	3	0	2	0	0	3	1	1	2	0	5.0	1	10	The young artist created a symphony of colors, composing a mesmerizing display of brushstrokes on canvas with remarkable finesse.	4
+15	1	1	1	1	0	3	2	1	0	2	0	2	1	1	2	2	0	3.0	1	7	They will surely be making adjustments to the itinerary as we encounter unforeseen delays.	4
+19	0	0	2	3	0	5	0	4	0	1	0	0	4	0	1	0	0	3.0	0	10	The happy campers danced in the warm, bright sunlight on the sparkling shores of the azure lake.	4
+14	0	1	1	3	0	3	1	2	0	2	0	0	1	1	1	0	0	3.0	1	7	They ran through an array of emotions while searching for each specific color.	4
+50	3	0	5	6	0	12	4	9	0	7	0	0	4	4	5	1	0	9.0	4	20	 The musicians played an harmonious melody, their voices echoing across the vast expanse, their dance gracefully intertwined with the twinkling lights, their movements as fluid as the currents of the river flowing nearby, all contributing to the ethereal spectacle that unfolded before the captivated audience.	4
+29	0	0	13	2	1	6	1	3	0	2	0	0	1	0	1	0	0	4.0	0	17	She hurried to the river, **helping**, **searching**, **feeding**, and **caressing** the weary birds on the way.	4
+20	1	0	2	1	0	5	3	1	0	3	0	0	4	2	2	3	0	6.0	2	4	The young artist carefully completed her paintings using strong, intricate auxiliaries that spoke volumes of her creative spirit.	4
+18	0	0	2	2	0	4	0	5	0	2	0	0	3	1	1	1	0	5.0	1	5	The children chased each other through the park, the colorful animals hopping alongside the playful youngsters.	4
+14	1	1	1	1	1	3	2	1	0	3	0	0	0	1	1	1	0	4.0	1	5	The dog barked and wagged its tail eagerly while playing with its puppies.	4
+21	0	0	2	1	1	6	2	2	0	3	0	0	3	2	1	3	0	4.0	2	8	The artist painted a colorful masterpiece, utilizing her skilled artistry and bold brushstrokes to bring her vision to life.	4
+23	2	1	2	2	0	4	2	2	0	4	0	1	2	3	2	0	0	5.0	3	8	The rain was pouring as we drove home last night, making for an interesting spectacle to witness during our commute home.	4
+16	2	0	3	1	0	3	1	3	0	3	0	0	0	2	2	1	0	5.0	2	5	  The dog barked loudly **when he saw the stranger** running down the street.	4
+23	1	0	3	3	1	6	5	1	0	2	0	0	1	1	1	2	0	4.0	1	13	Despite her initial disappointment, she overcame her adversity with the support of her friends and family, eventually achieving her goals.	4
+19	0	0	1	2	1	7	1	2	0	2	0	0	1	1	1	2	0	5.0	1	7	The artist used vivid auxiliaries in her painting to convey the beauty and power of nature's forces.	4
+20	0	0	3	3	0	4	1	2	0	3	0	2	2	2	1	0	0	5.0	2	5	I could be a knight in shining armor, riding across a vibrant battlefield, surrounded by valiant knights.	4
+14	1	0	4	0	1	2	0	2	0	4	0	0	0	0	1	0	0	3.0	0	7	The dog barked, ate, played, and slept all day long.	4
+26	0	0	3	4	1	8	2	3	0	2	0	0	2	1	1	1	0	4.0	1	9	Despite our lack of physical strength, the children found a way to play in the park, thanks to their remarkable teamwork and creativity.	4
+14	3	0	2	1	1	1	2	0	0	3	0	0	0	1	1	0	0	3.0	1	4	Despite his failures, he never yielded to despair and consistently pushed forward.	4
+15	2	0	2	1	0	4	1	2	0	2	0	0	1	1	2	0	0	3.0	1	7	The children ran around happily, their colorful costumes gleaming under the morning sun.	4
+25	0	0	3	3	1	7	0	4	0	2	0	0	5	1	1	2	0	5.0	1	10	The beautiful scenery bathed the lush, sprawling landscapes in ethereal hues, inviting a day of wonder and rejuvenation under the serene sky.	4
+20	1	1	4	1	0	4	3	2	0	2	0	2	0	1	2	2	0	3.0	1	14	They are reading a storybook, together, in the living room, while they were doing their homework.	4
+17	0	0	2	2	0	4	1	3	0	2	0	0	3	1	2	0	0	4.0	1	5	The dogs bounded through the lush green field, their exuberence echoing throughout the serene landscape.	4
+26	0	0	2	4	0	9	0	5	0	2	0	0	3	1	2	0	0	7.0	1	8	The bustling city streets echoed with the symphony of sounds, each one a tiny brush blending with the melody of life's constant pulse.	4
+15	2	0	2	2	0	3	1	2	0	2	0	0	1	1	1	0	0	3.0	1	7	The dog barked happily, playfully running around the yard with its playful companions.	4
+21	0	1	1	3	2	8	1	1	0	2	0	0	1	1	1	1	0	5.0	1	12	She danced with grace and elegance while singing songs of beauty and strength in the warm summer sun's embrace.	4
+22	2	1	3	2	1	4	2	3	0	4	0	0	0	2	1	2	0	5.0	2	8	The dog barked at the children, playfully chasing them around the playground, before finally catching and licking their faces.	4
+19	0	0	4	1	0	4	1	2	0	3	0	0	4	1	1	2	1	4.0	2	7	The diligent artists, adorned with celestial patterns, painted a magnificent tapestry, showcasing their unwavering spirit.	4
+24	1	0	3	3	0	5	1	5	0	4	0	0	2	3	1	2	0	4.0	3	8	She stood silently by the waterfall, watching the sun rise over the mist, whispering a silent prayer for a new day.	4
+33	1	0	3	4	3	9	3	4	0	3	0	0	3	0	1	2	1	5.0	1	13	Despite the rain and stormy weather making it unsuitable for a picnic, our group went ahead and had a delightful barbecue, thanks to the camaraderie and resilience amongst its members.	4
+24	0	0	2	4	1	8	1	3	0	1	0	0	4	0	1	1	0	4.0	0	8	With the delicate hands of a craftswoman, she crafted a majestic willow branch masterpiece with exquisite attention to detail and unwavering dedication.	4
+19	0	1	1	2	0	4	4	3	0	2	0	1	1	2	3	2	0	5.0	2	8	He played a song that accompanied the movie while they were on their date in the quaint village.	4
+18	0	1	4	1	0	4	4	1	0	2	0	0	1	1	4	0	0	4.0	1	8	She stood, her arms outstretched, as he spoke, the light shimmering in her eyes.	4
+20	1	1	1	2	2	6	3	1	1	2	0	0	0	1	2	1	0	4.0	1	11	Sarah sat comfortably at the dining table while her family and friends entertained her with their games and laughter.	4
+19	1	1	5	2	0	2	2	2	0	3	0	0	1	1	2	0	0	3.0	1	11	  **She strolled through the bustling streets**, **as she effortlessly navigated between the towering buildings**.	4
+27	1	0	2	4	0	8	2	5	0	3	0	0	2	2	2	2	0	5.0	2	12	The rain fell throughout the day, making our stroll along the river so enjoyable despite the chilly afternoon air that provided solace from the cold.	4
+22	0	0	2	3	0	5	2	4	0	2	0	0	4	1	1	2	0	4.0	1	9	My cat chased the playful butterflies throughout the lush meadow, leading me on an adventurous journey through the tranquil flowers.	4
+19	0	0	2	2	0	6	1	4	0	2	0	0	2	1	2	1	0	4.0	1	10	 The birds sang a melody in the blue sky, their wings shimmering in the golden afternoon sun.	4
+18	0	1	3	2	0	5	1	2	0	3	0	0	1	1	2	1	1	3.0	2	7	The dog, despite having no eyes, wagged with such intensity its tail wagged like thunder.	4
+22	2	0	2	2	2	5	2	2	0	2	0	0	2	1	1	2	0	5.0	1	7	She carefully prepared her meal with great intention, utilizing not only salt but pepper and a generous dash of each.	4
+10	1	0	1	1	0	2	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	I will happily generate a sentence with 4 auxiliaries.	4
+24	0	0	4	2	2	7	2	0	0	4	0	0	2	2	0	2	0	6.0	2	7	There are myriad ways to spend time with family and friends, engaging them in conversation, shared activities, and genuine connection.	4
+19	2	0	2	3	1	5	0	3	0	2	0	0	1	1	1	0	0	5.0	1	7	The dancers gracefully leaped around the majestic castle, effortlessly weaving through a symphony of shadows and light.	4
+23	1	1	2	2	1	7	1	4	0	2	0	0	2	1	1	2	0	4.0	1	6	Despite their young age, the explorers successfully conquered the vast expanse while preserving the balance and biodiversity of the jungle ecosystem.	4
+8	1	0	1	0	0	1	2	0	0	2	0	0	0	1	1	1	0	3.0	1	2	She diligently prepared to meet his needs.	4
+19	0	0	2	2	0	4	1	3	0	3	0	2	2	2	2	1	0	5.0	2	5	The happy children ran around the lake, playing a merry tune that could be heard for miles.	6
+22	1	1	1	3	0	8	1	3	0	2	0	0	2	1	2	1	0	4.0	1	10	The young girl sat elegantly on the garden bench while her pet cats chased butterflies in a vibrant flurry of activity.	6
+26	0	0	3	2	0	8	0	5	0	3	1	0	3	2	2	3	0	10.0	2	4	The artist painted six magnificent landscapes, each showcasing an array of colorful hues, each one capturing a different moment of nature's beauty.	6
+19	0	0	1	2	0	6	1	3	0	3	0	0	2	2	1	3	0	6.0	2	6	The diligent chefs prepared a feast of delightful dishes using an array of auxiliaries to complement their artistry.	6
+13	1	0	1	0	1	3	2	1	0	2	0	0	2	1	1	2	0	4.0	1	3	She diligently completed the task using her exceptional skills and diligent approach.	6
+23	1	0	2	3	1	7	1	4	0	2	0	1	1	1	2	0	0	5.0	1	6	The children were singing peacefully under the vast canopy of trees, their laughter mingling with the rustling leaves and the birdsong.	6
+23	1	0	2	3	0	6	1	4	0	2	0	0	4	1	2	0	0	3.0	1	11	The birds sang beautifully on the vibrant summer sunlit lawn, their feathers shimmering in every direction under the clear blue sky.	6
+17	0	0	2	1	0	5	1	3	0	3	0	0	2	2	2	2	0	5.0	2	6	The birds sang with melodies that accompanied the bustling street life, creating a harmonious atmosphere.	6
+24	1	0	2	3	0	6	2	3	0	2	1	0	4	1	1	2	0	4.0	1	9	The young artist carefully assembled the vibrant mosaic with six delicate auxiliaries, expressing his heartfelt imagination in each stroke of his brush.	6
+18	0	0	2	1	1	4	1	3	0	3	0	0	3	1	1	2	0	5.0	1	4	The diligent workers assembled their materials and orchestrated a seamless project, resulting in a successful outcome.	6
+25	0	1	2	2	2	6	1	3	0	5	0	0	3	2	1	2	0	6.0	2	6	  The dog ran up the stairs while wearing a bright yellow coat and holding its toy stick, jumping and dancing with joyful agility.	6
+19	2	0	2	2	0	5	1	3	0	2	0	1	1	2	2	1	0	5.0	2	7	  The birds flew gracefully through the morning sky, singing melodies that were as beautiful as the weather.	6
+31	0	1	2	5	0	6	2	5	0	4	0	1	5	3	2	2	0	7.0	3	8	A group of curious teens was gathered by the river, watching each other weave intricate patterns in the water while they chanted in a language unknown to anyone present.	6
+22	2	1	2	1	0	5	0	5	0	3	0	1	2	2	2	1	0	4.0	2	8	The rain had ceased auxiliarily just before the storm began, leaving the city a peaceful haven amidst a bustling metropolis.	6
+19	2	1	1	1	1	4	2	1	0	1	0	3	1	1	2	1	0	3.0	1	14	  She could have completed her work with ease and certainty if only the deadlines were not so strict.	6
+18	1	0	2	2	0	4	1	3	0	3	0	0	2	2	2	1	0	6.0	2	4	The sun shone brightly, illuminating the vast tapestry of stars that danced across the velvety sky.	6
+23	0	0	2	4	0	6	0	6	0	3	0	0	2	2	1	1	0	5.0	2	9	The birds sang in the lush canopy of the tree, shimmering with the sunlight illuminating the path to the secluded clearing.	6
+20	0	1	1	3	0	5	1	5	0	3	0	0	1	2	1	2	0	5.0	2	9	I have a feeling about taking a walk in the park with the birds singing on this beautiful day.	6
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	1	1	0	0	5.0	1	4	The children ran swiftly around the park, the birds singing in harmony.	6
+18	0	0	3	2	2	7	0	2	0	2	0	0	0	1	1	2	0	4.0	1	6	The artist painted a masterpiece in colors, depicting love and loss, alongside dreams and reality.	6
+23	0	1	2	1	0	7	1	3	0	3	0	1	3	2	2	3	0	4.0	2	6	  The artist’s meticulous daily practice earned him a standing ovation, proving that consistent dedication can pave the path to success.	6
+18	0	0	2	3	0	5	1	2	0	2	0	0	3	1	1	1	0	4.0	1	9	The soldiers arrived with exceptional efficiency, employing a comprehensive array of auxiliaries in their tactical maneuvers.	6
+18	0	0	3	2	0	4	0	3	0	2	0	0	4	1	1	1	0	4.0	1	8	 The colorful animals scurried across the lush, verdant jungle, captivating the attention of inquisitive onlookers.	6
+37	1	0	4	3	1	7	8	3	0	6	0	1	2	3	5	3	0	7.0	3	14	She strolled leisurely through the forest, her silver hair shimmering in the sunlight, her smile reaching her eyes, and her eyes holding a secret to be unveiled by those who knew her best.	6
+28	0	0	4	3	1	9	1	3	0	4	0	0	3	2	1	1	0	8.0	2	7	The vibrant city street hummed with activity, punctuated by the melodic sounds of diverse vendors, bustling pedestrians, and a choir practicing their harmonica tunes.	6
+41	8	0	5	2	2	9	1	7	0	6	0	0	1	0	6	1	0	5.0	0	19	  The rain fell heavily, the dogs barked excitedly, the cat chased its tail enthusiastically and persistently, the birds sang sweetly in perfect harmony, the butterflies darted around effortlessly and the flowers bloomed brightly throughout the day.	6
+20	1	1	1	1	0	4	1	4	0	3	1	1	1	3	2	2	0	5.0	3	8	The rain was so overwhelming that it required the use of all six auxiliaries to prevent flooding the city.	6
+18	1	0	1	2	1	6	1	2	0	1	2	1	0	0	1	1	0	4.0	0	6	The students were diligently completing their school project with the support of six teachers and three mentors.	6
+12	0	0	2	1	0	3	1	1	0	1	0	0	2	0	1	0	0	3.0	0	5	  Despite the storm's relentless onslaught, her confidence remained unshaken.	6
+20	0	0	2	3	0	6	1	4	0	2	0	0	2	1	2	1	0	4.0	1	8	   The dancers danced through the streets, their graceful movements painting a canvas of light in the shimmering sky.	6
+30	1	0	7	1	1	9	1	7	0	2	0	0	0	1	1	1	0	3.0	1	18	The sun, the clouds, the wind, the trees, the sea, and her friends, sat together to watch a rainbow arch over the horizon.	6
+13	0	0	1	2	1	4	1	1	0	3	0	0	0	1	1	1	0	4.0	1	4	The students arrived on time and helped set up their classroom materials.	6
+26	0	0	2	3	1	8	0	4	0	3	0	0	5	1	1	3	0	4.0	1	10	The vibrant sun cast countless rays of color on the sprawling landscape, painting the meadow in vibrant hues and igniting a dazzling aurora display.	6
+19	2	1	1	1	0	2	4	1	0	3	0	1	2	3	3	0	0	4.0	3	9	My dog barked happily with all its available auxiliaries when I went to check if it was okay.	6
+30	0	0	2	4	1	9	1	6	0	3	0	0	4	2	2	3	0	8.0	2	10	The chef assembled an intricate collection of accompaniments that complemented the exquisite artistry of the main course, contributing a symphony of flavors and textures to the celebratory meal.	6
+23	2	0	2	3	1	5	4	1	0	2	0	0	3	1	1	1	0	6.0	1	10	They had several discussions about my recent job application, all stemming from my long commute back and forth to their office.	6
+14	1	0	2	2	0	3	1	2	0	1	0	0	2	0	1	1	0	3.0	0	4	Despite the numerous distractions, she successfully completed the task with remarkable efficiency.	6
+27	0	1	3	4	0	7	2	4	1	3	0	0	2	2	2	2	0	4.0	2	18	  Ava danced across the moonlit stage, wielding an ethereal wand in her hands, while the soft breeze whispered secrets to the flowers behind her.	6
+16	0	0	2	2	1	3	2	1	0	3	0	1	1	1	1	1	0	4.0	1	5	She will sit on the bench, eating apples and talking to her best friends.	6
+18	3	0	8	1	1	1	1	2	0	1	0	0	0	0	1	0	0	2.0	0	15	 He walked the **carefully**, **confidently** and **determinedly** to the bank.	6
+22	0	0	2	2	1	7	0	3	0	2	0	0	5	1	1	2	0	4.0	1	11	The bustling city streets provided an enchanting tapestry of auxiliary activities and bustling conversations, creating an symphony of daily life.	6
+19	0	1	1	1	0	3	2	2	0	3	1	2	1	2	2	2	0	4.0	2	7	I cannot generate the requested output as I am unable to generate a sentence with 6 auxiliaries.	6
+27	2	1	3	4	0	5	4	3	0	4	0	0	1	3	3	1	0	5.0	3	15	She gazed out the window, her fingers laced tightly in her hands, as she listened intently to the music emanating from the nearby park.	6
+21	1	0	2	3	1	6	1	3	0	2	0	0	2	1	2	0	0	4.0	1	8	  The children ran swiftly throughout the park, their laughter cascading down the grassy slope with unstoppable joy and energy.	6
+16	1	0	1	1	0	3	1	3	0	2	0	1	2	2	1	2	0	4.0	2	6	The children were able to successfully complete the task despite the many obstacles surrounding them.	6
+18	0	0	2	2	1	4	1	1	1	1	0	1	3	1	1	1	0	5.0	1	4	  Despite her young age, Olivia was able to write a novel with remarkable depth and complexity.	6
+20	2	2	2	0	0	3	5	0	0	4	0	1	0	1	2	3	2	4.0	3	8	Even though they are known to change their minds, she never changed her mind about following her dreams.	6
+5	0	0	2	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	3	Sure, no problem.	6
+21	0	0	10	1	0	5	1	2	0	1	0	0	1	0	1	0	0	3.0	0	14	  The dog barked, **whiskering**, a long **tail**, **dangling** between his paws.	6
+27	0	0	2	4	1	7	2	4	0	3	0	0	4	1	2	1	0	7.0	1	6	The dancers danced in the shimmering light of the moonlit night, their beautiful costumes shimmering and casting beautiful reflections onto the ancient stones beneath them.	6

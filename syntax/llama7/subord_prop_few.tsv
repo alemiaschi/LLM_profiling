@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_prop_constraint
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The plane crashes into the mountain.	0
+6	0	1	0	1	0	0	2	0	0	1	0	0	0	3.0	3	0	0	1	0	0	Joe's job was in danger	0
+7	0	2	0	1	0	0	1	0	0	1	1	0	1	2.0	3	0	0	1	0	0	Tiger is jumping out of tree.	0
+4	0	1	0	1	0	0	0	0	0	1	0	0	1	1.0	2	0	0	1	0	0	enron is blowing up	0
+5	0	0	2	1	0	0	0	0	0	1	0	0	1	1.0	3	0	0	1	0	0	Enron will soon go under	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Enron is blowing up.	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Enron is blowing up.	0
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap	0
+8	1	0	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The company was facing a tough year.	0
+14	2	2	2	1	0	1	2	0	0	2	1	0	0	4.0	4	0	0	1	0	0	Mars is no longer visible to the naked eye in Earth's atmosphere.	0
+3	0	0	0	0	0	0	0	0	0	1	1	0	1	1.0	1	0	0	1	0	0	enron imploded.	0
+3	0	0	0	0	0	0	1	0	0	0	1	0	1	1.0	1	0	0	1	0	0	Mission accomplished.	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Enron is blowing up.	0
+5	1	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The sky grew dark.	0
+6	1	0	0	2	0	1	1	0	0	0	0	0	1	2.0	3	0	0	1	0	0	The new software has been released	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+8	0	2	0	0	0	1	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The sky turned from bluer to brown.	0
+8	0	0	0	1	0	1	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The company's stock price has collapsed.	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Enron is blowing up.	0
+25	4	4	1	2	0	2	4	0	1	3	2	1	1	4.0	12	2	2	2	0	0	Most of Wall Street analysts were wrong in their Enron estimates, because the real numbers were far worse for the firm than expected.	0
+6	1	0	1	1	0	0	0	0	0	1	1	0	1	2.0	2	0	0	1	0	0	Mars is becoming more habitable. 	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The manager yelled at the employee. 	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The ship sank immediately.	0
+4	0	1	0	0	0	0	1	0	0	1	0	0	1	2.0	2	0	0	1	0	0	Enron fell like domino	0
+6	0	1	0	1	0	1	2	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The train was on time. 	0
+8	1	0	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The company is experiencing a financial crisis.	0
+3	0	0	0	0	0	0	2	0	0	0	0	0	1	1.0	1	0	0	1	1	0	Scientists predicted disaster	0
+2	0	0	0	0	0	0	1	0	0	0	0	0	1	1.0	1	1	1	0	0	0	Mission Accomplished	0
+5	0	0	0	1	0	1	2	0	0	0	0	0	1	2.0	2	0	0	1	1	0	The company is bleeding money	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+6	0	0	0	1	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The stock market is crashing.	0
+10	0	3	0	1	0	1	2	0	1	0	1	0	1	3.0	4	0	0	1	0	0	The jaws of justice are closing in on him.	0
+9	2	1	0	1	0	2	2	0	0	1	0	0	0	2.0	4	0	0	1	0	0	Jupiter is the largest planet in the solar system	0
+4	1	0	0	1	0	0	0	0	0	1	1	0	0	1.0	2	0	0	1	0	0	Mars is habitable.	0
+4	0	0	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Socrates was impeached.	0
+11	2	0	1	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The company's financial situation became more critical every day.	0
+11	1	1	0	2	0	1	2	0	0	2	1	0	1	3.0	4	1	1	2	1	0	The answer is: NASA is sending more astronauts to Mar	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	enron is blowing up.	0
+8	0	0	0	1	0	1	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The company's stock price is plummeting.	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	enron is blowing up.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred softly on my lap.	0
+12	0	2	0	0	0	3	3	0	0	1	1	0	2	5.0	3	1	1	1	1	0	Sarah found the note hidden on the side of the road.	0
+8	2	0	0	1	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The company is experiencing unprecedented financial losses.	0
+8	0	0	0	1	0	0	3	0	0	2	1	0	0	3.0	4	0	0	1	0	0	Muhammad Ali's funeral procession is today.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Enron is blowing up.	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Enron is blowing up.	0
+5	0	1	0	1	0	0	0	0	0	1	1	0	1	1.0	2	0	0	1	0	0	Enron is blowing up.	0
+8	0	1	0	1	0	1	1	0	0	3	1	0	0	2.0	6	0	0	1	0	0	Bernard L. M. is on the run.	0
+8	0	1	0	0	0	2	3	0	1	0	0	0	1	3.0	4	0	0	1	1	0	You missed the chance of a life time	1
+6	1	0	0	0	0	0	2	0	0	1	1	0	1	2.0	2	0	0	1	1	0	Brown dog chased orange cat.	1
+16	1	2	2	1	0	0	2	0	3	0	1	1	3	3.0	6	2	0	2	1	2	If you enjoy singing, you have probably performed karaoke at least once in your lifetime	1
+10	1	1	2	1	0	0	1	0	1	0	2	0	1	2.0	5	0	0	1	0	0	You are always smiling, even in bad dreams. ______  Can you please type the completed sentence? 	1
+17	2	1	0	2	1	2	4	0	1	0	1	0	1	3.0	12	1	1	2	0	0	Running is an effective way to get in shape, but it's not the only solution	1
+22	2	3	1	1	0	1	6	0	1	0	1	0	5	6.0	9	4	4	1	2	0	You are also missing the chance to taste fresh fruit juice made according to ancient family recipes passed down from grandma.	1
+15	0	1	0	1	0	2	2	0	3	0	1	1	3	5.0	5	2	2	2	2	0	She missed the opportunity to meet him if she had gone to the party.	1
+13	1	1	0	2	0	2	3	0	1	0	1	0	2	2.0	7	0	0	1	1	0	Your dog may have missed the last train to the promised land.	1
+18	0	1	2	3	0	3	3	0	0	0	2	1	2	3.0	9	1	0	2	1	1	If the chef had not spilled the ingredients, then the dish would have turned out differently.	1
+11	0	0	0	0	0	2	3	0	1	0	2	1	2	3.0	4	1	0	2	1	1	While the baby cried, the mother made her breakfast.	1
+12	0	1	2	0	0	3	3	0	0	0	0	1	2	4.0	4	1	1	2	0	0	The baby cried as loudly as the father shouted at the referee	1
+15	0	2	2	0	0	0	3	0	3	0	3	0	2	4.0	5	1	0	2	2	1	When my grandmother visited, she brought us gifts from far-off places.	1
+12	0	2	0	0	0	2	3	0	1	0	1	1	2	3.0	5	1	1	1	1	0	You missed the party while running to the store for milk.	1
+11	0	1	1	2	0	2	2	0	1	0	1	0	1	2.0	5	0	0	1	1	0	You might also have missed the concert at the festival.	1
+22	1	3	1	3	0	1	4	0	2	1	2	1	1	4.0	8	1	1	2	0	0	If I could, I would go back in time to be in the audience for Mozart's first piano concert.	1
+11	0	1	1	1	0	0	1	0	2	0	1	0	3	4.0	7	2	1	1	1	1	Running away from your problems won't make them disappear.	1
+11	0	0	2	1	0	1	1	0	2	0	2	0	2	3.0	6	1	0	2	1	1	Whenever I get the chance, I will visit there.	1
+20	0	2	1	3	0	1	3	0	2	0	3	1	3	4.0	11	2	1	3	0	1	The book, which was written in secret, was not widely read until years after it was published.	1
+18	1	1	1	1	1	2	3	0	1	0	2	0	4	3.0	4	2	1	2	1	1	When they were not studying, the children enjoyed playing hide and seek in the dark attic.	1
+17	2	1	0	3	1	1	2	0	2	0	2	0	2	5.0	11	2	1	2	1	1	A child that should be happy and full of energy, was crying himself to sleep. Please make sure to check your spelling and grammar. Thank you. 	1
+16	1	2	0	1	0	1	3	0	3	0	2	1	2	3.0	5	1	0	1	2	1	If someone should steal your work, take it as the highest form of flattery.	1
+14	1	0	2	1	0	2	4	0	1	0	2	0	1	3.0	4	0	0	2	1	0	The cake flavor was so popular, you also missed a fire dancer.	1
+21	2	2	1	1	0	1	2	0	3	0	2	3	3	4.0	12	3	3	2	1	0	Her eyes glanced briefly at him before darting off, as if they were afraid to miss a great show.	1
+16	1	1	0	1	0	2	3	0	1	0	1	1	4	4.0	6	3	1	2	1	2	As the snow continued to fell, you can sense an uncharacteristic unease spreading through town	1
+13	0	1	1	0	0	2	3	0	2	0	1	1	2	3.0	5	1	1	2	1	0	The cat purred contentedly as its owner petted it on the head.	1
+13	2	0	0	3	0	1	1	0	2	0	2	1	1	2.0	4	1	0	2	1	1	If I should be absent, will you miss a great opportunity.	1
+13	0	1	0	1	0	2	3	0	1	0	2	1	2	3.0	5	1	0	2	1	1	If the kite had wings, it would glide through the sky.	1
+17	2	1	0	3	0	2	4	0	1	0	1	1	2	4.0	7	2	1	2	1	1	Running faster would have been a better option if I had a spare pair of trainers.	1
+11	1	1	1	1	0	1	3	0	1	0	1	0	0	3.0	3	0	0	1	0	0	The dog's bark is more ferocious than its bite.	1
+15	1	1	1	2	0	1	2	0	3	0	1	0	2	3.0	5	1	1	2	0	0	Your petty gripes cannot deflect from the success that we are currently witnessing.	1
+13	0	0	2	1	0	2	2	0	2	0	1	1	2	3.0	5	1	1	2	2	0	You'll never forget the adventure if you learn this skill early.	1
+15	1	0	0	1	1	0	3	0	2	0	2	1	3	3.0	7	2	0	2	1	2	As you continue to work, your supervisor may offer assistance or additional support.	1
+25	0	2	2	1	1	3	6	0	3	0	4	0	3	6.0	12	2	2	3	2	0	The cat purred, which was an indication of contentment, but then suddenly arched its back, which suggested a degree of agitation.	1
+15	0	3	0	0	0	1	3	0	2	0	3	0	2	3.0	5	1	1	1	2	0	Because of your lack of cooperation, you lost the chance to see __________.	1
+14	0	3	0	0	1	1	4	0	1	0	3	0	1	3.0	6	0	0	1	0	0	She went to the store to by milk, eggs, and bread. 	1
+20	1	0	0	2	0	3	3	0	2	0	2	1	4	4.0	8	3	1	2	2	2	If your friend cannot travel to see the show, they will regret missing such a spectacular event. 	1
+10	0	1	1	1	0	1	1	0	1	0	1	1	2	2.0	4	1	1	1	1	0	You can also check the weather before heading out.	1
+19	0	0	1	1	0	1	2	0	6	0	2	2	4	4.0	6	3	2	4	3	1	If someone offers you their assistance, it means that he also believes you can complete the assignment.	1
+17	1	2	1	0	0	3	5	0	0	0	2	0	3	3.0	7	1	1	1	1	0	The sun sets slowly in the evening sky, casting golden light upon the rolling hills.	1
+13	1	1	0	1	0	3	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	The team has given an outstanding performance under the captain's guidance. 	1
+29	2	2	1	3	1	5	9	0	1	0	1	0	3	6.0	9	2	2	2	2	0	A good cooking recipe must describe ingredients that can be readily found in any good butcher or grocery shop to prepare a dishes for an every day dinner. 	1
+18	2	1	1	1	1	0	5	0	3	0	1	1	2	4.0	8	1	1	2	1	0	She was also late for yoga class last night because she overslept and missed her morning train.	1
+9	0	0	0	0	0	0	4	0	1	1	0	1	2	3.0	5	1	1	2	2	0	John enjoys reading while his siblings play video games	1
+21	1	0	1	2	0	3	6	0	2	0	1	0	3	6.0	8	3	3	2	2	0	The team has decided to launch a pilot project next quarter, which is also a chance to prove our hypothesis	1
+18	2	1	2	1	0	0	3	0	0	0	1	1	5	5.0	5	3	3	2	0	0	Running shoes were created for people to run faster in order to avoid getting tired as easily.	1
+21	1	2	2	1	1	1	6	0	3	0	1	0	2	4.0	12	0	0	2	2	0	Her grandmother's stories had filled her mind with pictures, but the pictures of her grandfather did so much more	1
+17	0	1	1	1	0	2	3	0	3	0	2	1	2	3.0	9	1	0	2	2	1	As she was about to finish her breakfast, a knock on the door interrupted  her.	1
+16	2	1	1	1	1	2	2	0	2	0	2	0	2	3.0	7	0	0	2	1	0	The sun rose slow, and it will surely set on all our unanswered questions.	1
+17	1	0	2	2	0	2	2	0	2	0	1	2	2	4.0	8	2	2	2	2	0	She was not interested in attending the meeting even though the boss had asked her directly.	1
+10	2	0	0	1	0	1	1	0	1	0	2	1	1	2.0	3	1	0	1	1	1	Besides being good, you have a good personality.	1
+35	3	2	4	4	2	1	3	0	4	1	2	3	5	6.0	14	5	5	2	1	0	It is likely that Jairus will be promoted because he always comes to work prepared and meets all his deadlines, while also being very friendly and easy to get along with his coworkers.	2
+12	1	0	2	1	0	0	2	0	3	0	1	0	2	2.0	4	1	1	2	1	0	Your new business idea will succeed when you successfully market it. If your marketing strategy includes developing a popular app, you'll surely get more attention.	2
+38	5	4	5	3	3	3	6	0	1	3	3	0	2	7.0	7	3	2	3	0	1	Travelling around Costa Rica is always a pleasure, especially in May when there are fewer tourists and prices are lower, but also during the wet season when the rainforest is lush and full of life.	2
+13	0	0	2	2	0	2	2	0	0	0	2	1	2	3.0	8	1	0	2	0	1	Unless the rain subsides soon, the festival will definitely get cancelled.	2
+17	0	2	2	0	0	3	5	0	1	0	2	0	2	4.0	5	1	1	2	1	0	The children excitedly ran into the park, where they played tag until the sun set.	2
+14	0	1	1	1	0	2	2	0	2	0	2	1	2	2.0	5	1	0	2	1	1	Although he was worried, he still made the jump from the tree.	2
+19	0	1	2	3	0	1	4	0	2	0	2	0	3	4.0	5	2	2	3	0	0	The company's stock prices have plummeted, which undoubtedly means they soon will be filing for bankruptcy.	2
+26	1	5	1	0	0	5	7	0	1	0	1	1	4	4.0	10	3	1	1	0	2	Lying on the grass while gazing up at the stars seems an impossible task when there are clouds in the sky during the daytime hours.	2
+16	1	2	2	0	0	1	2	0	2	2	2	0	2	3.0	8	1	1	2	1	0	Besides, you get free peanuts on every flight when you fly with Spirit Airlines.	2
+9	0	1	1	2	0	0	1	0	2	0	1	0	1	2.0	4	0	0	1	0	0	You will definitely be surprised by their answers.	2
+18	3	2	0	2	0	1	3	0	4	0	1	1	1	5.0	10	2	2	2	0	0	She was certain that the man staring at her was her estranged brother, despite his unkempt appearance	2
+28	0	1	2	3	1	2	6	0	2	0	2	1	5	4.0	12	4	3	3	1	1	Skipping this year's holiday party is certainly a mistake you won't want to make, as it will undoubtedly lead to regret and missed opportunities.	2
+20	2	2	2	0	0	3	5	0	0	0	3	0	3	3.0	12	0	0	1	2	0	The cat cautiously emerged from hiding, stalked prey for a short while, then made a sudden pounce.	2
+26	2	0	3	1	2	1	4	1	4	0	3	1	4	5.0	9	2	1	3	3	1	Although she has always wanted a puppy, her family never let her have one, yet somehow her cats remain loyal and loving companions.	2
+18	0	4	1	1	0	1	4	0	3	1	1	0	2	4.0	9	1	1	1	0	0	She will never forget going to Yellowstone with her father on a summer vacation during her youth.	2
+14	0	0	1	1	0	1	2	0	2	0	1	1	4	5.0	5	3	3	2	3	0	You may enjoy learning how to play the piano if you love music. Piano learning will give you new opportunities to explore your creativity.	2
+21	0	1	2	2	2	2	4	0	3	0	2	0	3	4.0	7	1	1	3	1	0	The beach vacation was exactly what I needed, but the kids overexerted themselves and are now dealing with seasickness.	2
+9	0	0	0	1	0	1	2	0	1	0	1	0	2	3.0	2	1	1	1	1	0	Your presentation is bound to impress the audience. The carefully chosen slides support strong arguments, demonstrating an expert level of knowledge	2
+14	3	0	0	1	2	1	1	0	2	1	1	0	2	4.0	4	2	1	2	2	1	Browsing Amazon, I found a unique bangle that is both stylish and meaningful	2
+27	1	4	2	3	0	1	5	0	4	0	2	0	4	6.0	13	2	2	3	1	0	Mom always makes sure we eat dinner with family every night, so we can catch up on what's been happening in everyone's lives.	2
+15	2	2	1	1	0	2	4	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The new president's inaugural address was widely viewed as a call to action. It will surely have important consequences.	2
+8	1	1	0	0	0	0	2	0	1	0	1	0	2	3.0	3	1	1	1	0	0	Your dog enjoys going for long walks. It is especially happy when it visits the dog park. 	2
+30	4	5	1	1	1	3	8	0	1	0	2	0	4	7.0	8	3	3	1	0	0	Your friend will certainly enjoy staying at the beautiful B&B, nestled in the quaint village surrounded by lush greenery and within walking distance to the charming town center.	2
+11	0	1	1	2	0	1	2	0	1	1	0	0	2	3.0	10	1	0	1	0	1	Traveling to Rome this summer has been my most cherished wish	2
+13	2	2	0	0	0	0	3	0	2	0	2	0	2	3.0	6	1	0	1	1	1	Browsing through endless aisles, I found nothing but cheap novelty toys.	2
+13	2	1	0	0	0	1	3	0	2	1	1	0	2	4.0	5	1	1	2	2	0	Moonlight casts strange shadows on my wall, which inspires a new nightmare	2
+30	1	2	0	1	0	4	9	0	2	0	1	1	6	6.0	18	5	5	2	4	0	The company had to issue a stern announcement reminding employees to wear their security badges at all times, since many were forgetting to wear them on the factory floor	2
+10	1	1	0	1	0	1	2	0	2	1	1	0	0	2.0	3	0	0	1	0	0	Her new iPhone is a marvel for its clarity. Moreover it has the latest apps to download	2
+19	3	2	0	2	0	1	3	0	1	0	4	0	2	5.0	5	2	2	1	0	0	This trip is going to be full of new, exciting experiences, for everyone, including children.	2
+15	1	0	1	1	1	1	2	0	2	0	2	0	2	4.0	6	1	1	2	1	0	Luckily, our flight was not full and we managed to grab some winks.	2
+25	6	1	0	3	1	0	8	0	1	0	3	1	1	5.0	9	1	1	2	1	0	Athletes should be aware that they might face new challenges such as different playing surfaces, different air quality, and unfamiliar crowd noise.	2
+10	1	0	2	1	0	0	1	0	2	0	1	1	1	3.0	8	1	0	2	0	1	As soon as it arrived, my son was eager	2
+17	1	1	2	3	0	1	1	0	1	0	3	0	2	3.0	8	2	2	2	0	0	Unfortunately, the concert is sold out, so you won't be able to attend. You will definitely regret this decision later.	2
+12	0	0	3	2	1	2	2	0	0	0	0	0	2	3.0	7	0	0	2	0	0	The sun will definitely shine brightly and the temperature will certainly rise	2
+16	0	0	1	2	0	2	4	0	2	1	2	0	1	3.0	6	0	0	2	1	0	Your mother's birthday is this Saturday, therefore your sister will bake a cake.	2
+17	3	0	1	2	0	2	3	0	0	0	3	1	2	3.0	9	1	1	2	0	0	Next year, the beach will look beautiful, especially after the new palapas are installed. The palapas are sure to provide shade.	2
+23	3	3	2	2	0	3	4	0	1	0	2	0	2	6.0	6	3	3	1	1	0	Skiing in the mountains is thrilling, especially when it's possible to ski down a slope untouched by any other skier.	2
+21	2	0	4	3	0	3	3	0	0	0	2	0	3	6.0	6	3	3	2	2	0	The concert is sure to attract a large crowd, especially considering how well the band has been performing lately.	2
+19	2	1	3	3	0	1	2	0	3	0	0	1	3	5.0	8	3	3	2	1	0	You will likely feel very satisfied with how clean the house was after their team had finished cleaning it	2
+18	3	3	0	1	0	2	4	0	2	0	1	0	1	4.0	8	1	1	0	1	0	It is possible to explore the mysteries of deep space from the comfort of your own home. However, the most significant challenges in space exploration are those of human physiology and psychology.	2
+16	0	1	0	0	2	0	2	0	3	3	1	1	3	4.0	5	2	2	2	3	0	Both Alice and Tom enjoyed themselves, as they watched David play chess with their grandfather	2
+15	1	1	0	1	1	3	3	0	1	0	1	1	2	3.0	9	1	1	2	1	0	The cat chased the mouse around the house until it was tired and caught.	2
+15	1	2	0	0	0	3	4	0	1	0	1	1	2	3.0	6	1	1	2	1	0	The cat chased the mouse as it ran across the room with quick steps. 	2
+21	1	1	4	1	0	1	4	0	2	0	2	1	3	3.0	14	2	0	2	2	2	Although I can't afford a new car right now, driving around in my junkyard find definitely impresses passersby.	2
+18	4	3	0	0	0	0	6	0	0	0	2	0	3	4.0	7	2	1	1	2	1	Melting ice caps pose existential threat to marine ecosystems, resulting in severe consequences for coastal communities.	2
+26	1	4	2	0	1	2	5	0	4	1	2	0	4	4.0	18	2	2	4	1	0	Maria has a pet snake that slithers on the ground, and when it gets too dark, it curls up in her bed at night	2
+23	3	1	2	1	1	3	6	0	0	0	0	0	4	4.0	9	2	2	1	4	0	Athletes in the high jump must first generate enough speed to overcome the barrier and then generate additional lift to clear the bar	2
+14	2	1	0	1	0	2	2	0	2	1	1	0	2	4.0	4	1	1	2	1	0	The new iPhone will revolutionize the way you interact with your digital life. In fact, it already has, just by being introduced.	2
+20	1	4	0	2	1	1	2	3	1	0	1	0	3	4.0	9	1	1	2	0	0	The concert was scheduled to begin at eight, but it was delayed until nine thirty due to technical issues	2
+9	0	0	1	1	0	0	3	0	2	0	1	0	1	2.0	3	0	0	1	1	0	Your brother will never forget his graduation day. He will remember the moment when he walked across the stage, the feeling of relief and accomplishment, and the look of pride on his parent's faces.	2
+24	1	3	2	1	0	4	4	0	3	0	1	1	3	5.0	7	3	2	4	0	1	The park where the dog ran was not visible through the mist until we heard him barking excitedly at something on the path.	4
+27	3	3	1	1	0	3	4	0	4	0	3	1	4	6.0	6	3	3	3	1	0	She was wearing a bright yellow sundress, her golden hair blowing in the wind, smiling brightly at everyone as she walked down the beach.	4
+29	1	1	1	3	1	1	6	1	4	0	3	0	5	5.0	12	3	3	5	2	0	Our boss was annoyed when two employees discussed their weekend plans, the TV was turned off, and everyone wore socks to work that didn't match.	4
+29	1	0	1	0	2	4	8	0	2	0	3	3	4	5.0	12	2	2	3	3	0	The manager asked if any employees noticed the missing company documents, and if so, whether they had any witnesses or video footage to support their claim.	4
+24	3	1	1	0	1	3	5	0	3	0	4	0	3	3.0	13	1	1	3	3	0	The old house had a beautiful garden, which needed attention, but the new owners ignored it completely, despite its potential.	4
+17	2	1	0	1	0	1	4	0	3	0	1	1	3	4.0	6	2	2	2	2	0	I could feel my anxiety growing as I watched the dark sky full of storm warnings. It was obvious that there 'd been more to the story than just a typical summer storm, the type that was forecasted all throughout the region and could easily be brushed off without any issue.	4
+32	2	3	0	2	1	3	7	0	4	0	4	1	4	5.0	8	1	1	4	3	0	The store was out of our favorite flavor, we couldn't get ahold of customer service, the cashier had a bad attitude, and we left without buying anything.	4
+34	1	0	0	2	2	4	4	0	7	0	3	3	7	5.0	16	4	4	6	5	0	The detective asked if the victim had anyone who might have wanted to hurt her, but she told him that she had no enemies, and that she led a peaceful life.	4
+21	0	0	0	2	1	4	6	0	0	0	4	0	4	4.0	13	0	0	4	1	0	The cat was napping, the baby playing, the mother working, and father was watching the football match.	4
+44	0	3	4	2	2	4	6	0	4	0	3	0	12	7.0	22	6	6	4	2	0	She had always loved reading until the moment when her phone died and she could not find a charged device to borrow, so she sat and stared into space, trying to muster the effort to walk home in the pouring rain.	4
+30	1	0	2	2	1	2	5	0	8	0	4	0	5	4.0	21	2	2	5	3	0	My brother likes cars, he always has a new car, there are some people who collect stamps, and that is something that he has never tried.	4
+29	2	2	5	1	0	2	5	0	4	0	5	0	3	4.0	26	1	1	2	1	0	There was always a lot of food; there was always a lot of clean-up; I always hated mornings; my mother was never pleased.	4
+24	1	3	1	1	1	4	6	0	1	0	3	0	2	3.0	12	1	1	1	2	0	The team was able to successfully complete the project, despite some challenges, and presented their results to the executives with confidence.	4
+39	3	2	0	4	2	3	7	1	5	1	3	2	4	5.0	25	3	3	4	3	0	The hotel manager had called me to inform me that my account was overdrawn, and if it wasn't paid in the next 24 hours, I would lose access to the Wi-Fi and hot water.	4
+23	0	2	1	1	1	3	6	0	1	0	4	1	3	5.0	8	2	1	2	1	1	As I entered the park, the birds were already singing, the flowers in bloom, and children playing with joy.	4
+31	4	4	2	0	3	3	5	0	3	0	3	1	3	6.0	14	2	2	2	1	0	He walked slowly and calmly through the park, looking at the flowers with a critical and discerning gaze, while his companion whispered to him urgent and excited things.	4
+26	1	3	3	3	1	2	3	0	3	2	3	0	2	4.0	16	1	1	3	1	0	Brad Pitt was seen at the hotel, where his wife allegedly attacked him, but he has been quiet about the incident since then.	4
+40	3	4	1	3	1	5	7	0	5	0	4	0	4	5.0	23	3	3	4	2	0	The puppy chewed through all of their favorite toys, they didn't have the patience to walk around the neighborhood, it was extremely hot in the living room, but they were happy to see their grandmother.	4
+33	3	4	0	1	1	2	5	0	4	1	3	1	5	6.0	11	4	4	2	3	0	As the new kid at school, Sarah found it hard to make friends, but she wasn't about to let that stop her from trying out for the lacrosse team.	4
+32	3	4	2	0	0	5	8	1	2	0	2	1	3	4.0	14	2	2	2	1	0	The man with a black beard sat, reading his book in a dimly lit room while his two children played outside with the neighbor's son in the sunny garden.	4
+24	1	2	1	3	0	0	3	0	4	1	1	2	4	5.0	9	4	4	4	1	0	Sally could tell her friend's lie about breaking up was bogus because she knew she hadn't seen them together for weeks.	4
+29	0	2	4	1	1	2	3	0	3	0	2	0	8	7.0	9	6	6	2	2	0	We had just started to walk when the rain began to pour down, causing us to scurry for cover and ultimately leaving us soaked to the bone.	4
+29	3	2	2	3	0	1	6	0	4	0	3	2	3	6.0	15	3	3	4	1	0	The company is known for their commitment to sustainable practices, while simultaneously, their financial success has attracted detractors who argue that their methods are inherently exploitative.	4
+49	4	4	2	3	2	4	10	0	5	0	3	3	9	7.0	21	6	4	4	6	2	Having just moved to the city after finishing my studies, I saw an ad offering a job that paid double my previous salary for working odd hours, but little did I know that ghosts were roaming about and making unsettling noises in the building at midnight.	4
+38	1	4	2	3	0	2	8	2	5	0	4	2	3	6.0	10	4	4	4	1	0	Every day at 3 pm, without fail, my sister calls to say, she'll be there in 20 minutes if she's not stuck in a traffic jam, even though she hates my dog	4
+31	2	3	4	1	1	4	4	0	3	1	3	0	5	6.0	19	3	3	3	2	0	We had never gone to the seashore in July, until the summer we took a trip overseas, therefore I never witnessed the sand becoming scorching hot and yellow.	4
+26	2	3	3	1	1	3	5	0	1	0	3	1	3	5.0	11	1	1	2	1	0	She has become more popular, and more well-liked among coworkers than at any other time since the firm rearranged the office layout.	4
+23	1	3	2	2	0	2	5	0	3	0	3	1	1	4.0	9	1	1	2	1	0	We were always having dinner, though it was long past our bedtime, in the dim light of the living room. 	4
+36	1	1	4	0	0	7	9	0	0	0	6	0	7	6.0	11	2	2	2	4	0	The baby began to cry, the mom quickly checked the diaper, then soothed the child, calming the infant down enough for a decent photo opportunity, capturing a life-defining snapshot.	4
+32	0	5	6	1	1	1	4	0	5	2	2	0	4	5.0	14	1	1	3	2	0	John was always picking on him but never picked him up for game time, so he went over to Jen's house where she immediately put him in the game.	4
+27	3	1	2	1	1	2	4	0	3	0	3	1	5	7.0	7	3	3	4	1	0	They walked in silence, their heavy breathing audible as they climbed the snowy mountainside, where the sky had already begun to dim and darken.	4
+18	1	0	4	0	0	0	1	0	4	0	3	0	4	4.0	6	1	1	3	1	0	Her mother always yelled; therefore, she never heard her, so she screamed louder to compete	4
+53	6	4	4	4	3	5	8	0	5	0	5	1	7	5.0	47	3	3	6	2	0	The tourists had always wanted to see a traditional Turkish dance, and once they returned home, they would tell tales of their incredible adventures to anyone who would listen; the stories were always embellished and full of exaggerated details, but the excited account of the event never changed. 	4
+35	4	3	1	2	0	3	7	0	5	0	3	1	5	6.0	25	4	4	2	2	0	We needed help moving our heavy furniture up the stairs; there was already a line of people waiting at the front door; it was clear that our party would not go unnoticed.	4
+23	3	1	4	1	0	1	3	0	3	0	1	1	4	5.0	11	3	3	3	2	0	She always carried an additional bag to put dirty clothes in since she knew she would get stuck at work late again.	4
+43	3	5	3	1	1	4	11	0	5	0	3	0	5	4.0	33	1	1	3	2	0	The new employees were always confused by the company 's internal documents, there were always issues with the printers, they felt isolated without any mentors to guide them and their lack of understanding of office politics hindered their progress further. 	4
+26	5	1	2	3	2	1	2	0	1	2	2	2	2	6.0	7	3	3	3	1	0	We visited Rome in July and were surprised to find that most places were still open, even though the weather was hot and humid.	4
+37	3	5	0	1	2	1	10	0	7	0	2	0	4	7.0	9	3	3	2	2	0	Her boyfriend's recent promotion to head of his company was a significant source of pride and comfort for her amidst her struggles, which included losing her job and having to sell her beloved home.	4
+35	4	1	2	2	2	0	7	0	4	0	3	2	7	6.0	8	4	4	4	5	0	Her long-term romantic interest unexpectedly came into his life again, and she struggled to determine whether keeping it secret would cause less turmoil or whether letting go would bring more peace. 	4
+37	1	5	1	1	3	2	16	0	2	0	2	1	3	4.0	15	2	0	2	1	2	While some people still had their TVs and satellite dishes installed, others had turned to pirate streaming services for access to their usual shows and channels without a worry about signal dropoffs and subscription fees.	4
+21	0	3	0	0	0	2	5	0	2	0	3	0	4	5.0	6	3	3	1	1	0	Her cat sat on the windowsill, staring out at the bird, ignoring her owner's command to stop.	4
+29	0	3	3	2	1	0	4	0	7	0	1	2	5	4.0	15	3	3	4	1	0	She was seen crying on her bed because her cat ran away and her parents do not listen to her even though she always asks them for help.	4
+19	0	1	3	0	0	3	3	0	2	0	3	0	4	4.0	6	3	2	3	1	1	Every time it rains, the basement floods, regardless of how often we have the downspout unclogged.	4
+24	1	5	2	0	1	5	6	0	1	0	1	0	2	6.0	7	0	0	1	1	0	The cat purred contentedly on my lap and simultaneously gave off the appearance of an evil presence in the corner of the room.	4
+19	2	1	1	1	2	2	4	0	1	0	2	0	3	4.0	11	0	0	1	2	0	We must recognize the gravity of the situation and respond accordingly, or suffer severe long-term costs	4
+32	2	2	1	3	0	5	8	0	2	0	3	2	3	4.0	15	2	2	3	0	0	The detective knew that the victim's wife had been unnaturally calm  after the murder, there was bloodstained evidence at the crime scene, despite it being an old building.	4
+23	0	1	1	2	1	3	8	0	1	0	2	0	4	5.0	14	1	1	2	2	0	The park ranger was issuing warnings, there was trash littering the forest floor, and smoke was rising from a fire nearby	4
+28	1	5	1	0	1	4	8	0	1	0	2	1	4	5.0	6	2	1	4	1	1	As the summer sun heated up the asphalt, cars zoomed by with their windows rolled down and music blasting until the wee hours of the morning.	4
+34	1	3	3	0	1	5	8	0	4	0	4	0	5	5.0	23	1	1	4	3	0	Her friends never attended her classes, the teacher wore a yellow dress, even the principal looked at him with admiration, and he never missed any opportunities given by the institution.	4
+39	1	0	3	5	1	0	1	0	8	0	10	3	5	5.0	15	4	4	7	1	0	Her grandfather 'had always said' it was haunted 'because he 'said so', and she believed him until she realized she 'wasn't afraid, not like she had always been'.	4
+25	1	3	3	0	1	4	6	0	1	0	2	1	3	6.0	10	2	2	2	0	0	The kitten purred contentedly on my lap, while the scruffy terrier looked on longingly, hoping for a turn with the affection and attention	6
+23	1	2	2	1	1	1	4	0	2	0	2	1	4	4.0	6	2	1	2	2	1	If the company's profits plummet, it may decide to lay off additional employees or even shut down its operations altogether.	6
+54	3	5	0	4	5	3	10	0	6	0	7	1	7	8.0	23	7	2	3	1	5	The main point I want to stress to those of you who may be struggling to stay engaged with my blog is - it is possible to succeed, with diligence, and unwavering dedication, and a commitment to learning the principles and techniques of blogging, and practice, and perseverance.	6
+47	3	5	3	2	1	2	9	0	8	0	5	0	6	4.0	35	2	2	4	3	0	My parents informed me during dinner last night, and I am still attempting to wrap my brain around the shocking discovery—the neighbor’s dog repeatedly defecates on our lawn; therefore, I have asked him to clean up after his errant pet.	6
+28	3	2	0	5	0	2	5	0	5	0	0	2	3	7.0	9	4	4	4	2	0	I'm convinced that we should do everything possible to help those innocent animals who are trapped inside the forest because their habitat is being destroyer by humans	6
+14	1	0	1	1	1	0	2	0	2	0	1	1	4	4.0	3	2	2	1	1	0	My grandma is always talking about getting her hair permed and looking stylish. She is excited for her upcoming trip to Disneyland and wants to get her hair done there. She hopes to find a fun and colorful outfit to match her new hair. She is considering purchasing a new purse to carry all of her new hair products. She worries that her hair might not hold up well in the Florida heat and humidity. She is determined to make this trip one to remember and will do whatever it takes to look and feel her best. 	6
+19	3	1	1	0	1	2	4	0	0	2	2	1	2	4.0	9	1	1	2	0	0	The Cat Holocaust remains a deeply concerning issue, with many advocates imploring for greater awareness and action. While some have proposed creative solutions, like using cats-specific social media accounts, the need for collective resistance remains dire. Moreover, the sheer scale of cat abandonment highlights the complexity of the crisis and warrants sustained efforts to address its underlying root causes. It is my sincere hope that by raising awareness about this issue, we can mobilize support and work toward finding effective solutions to end the Cat Holocaust.	6
+41	5	3	3	2	2	1	11	0	3	0	6	1	3	7.0	25	2	0	2	3	2	If anyone out there can offer suggestions, insight, criticism, empathy, moral or even legal support for my campaign to stop this catastrophic holocaust, they will save thousands of innocent souls from unimaginable pain and slaughter.	6
+38	4	4	2	1	1	5	7	0	4	0	1	3	5	5.0	16	2	2	2	3	0	I will not take part in such a catastrophic endeavor like the one this person described, but rather do my best so that there is less suffering in the world rather than increasing it with unnecessary killing	6
+20	3	2	0	1	0	3	4	0	1	2	1	1	2	7.0	3	1	1	1	2	0	The Cat Resistance was organizing a mass uprising against those responsible for perpetuating the heinous act of feline genocide.	6
+35	1	2	5	3	2	3	5	0	4	0	4	0	5	7.0	11	3	3	3	2	0	The catnip is too strong; as a kitten, I'm completely under its control and cannot think straight or remember where I leave anything, let alone stop a cat holocaust. 	6
+30	1	2	0	2	0	5	5	0	5	1	1	1	6	6.0	7	5	4	4	4	1	The main reason I wrote this post is to ask anyone reading this if they know of some way I can help put a stop to this Dog Holocaust.	6
+22	4	2	0	2	0	3	4	0	3	0	1	2	1	4.0	11	1	0	3	1	1	The main reason that our neighbors are angry at us is that we have loud arguments with each other every night.	6
+26	1	3	2	2	0	2	7	0	1	0	2	2	4	5.0	9	2	2	2	1	0	I believe the solution to this crisis can be found by exploring alternative sources of power generation, rather than relying solely on fossil fuels. Additionally, increased investment in renewable energy technologies may provide viable alternatives for the future. Furthermore, implementing a carbon pricing system could incentivize companies to transition away from fossil fuels. Moreover, research and development in the field of advanced nuclear power could provide a stable and reliable source of energy. Ultimately, a multi-faceted approach that addresses the root causes of the crisis is necessary to mitigate its effects.	6
+33	4	2	0	3	0	2	6	0	6	1	0	2	5	5.0	11	4	3	4	4	1	The main reason I took this trip to Hawaii is to ask someone if they can provide my son with specialized care because his mental instability is starting to affect his daily life	6
+36	3	2	3	2	1	5	6	0	3	2	1	2	5	8.0	11	3	3	3	2	0	My friend has recently become an expert on the history of the British Royalty and claims that they have finally discovered an effective way to make sure that the Princess never loses her engagement ring.	6
+15	2	0	1	2	0	0	2	0	4	0	1	1	2	4.0	3	2	2	2	2	0	My sister is obsessed with finding her ideal man who will love her forever. However, he always goes back on his promises after she shows him her vulnerable side. Consequently, she will have trouble believing him even when he claims to love her. Still, she finds herself returning to him every so often in an effort to rekindle what they once had. Although she longs for stability, she finds herself stuck between her desire for love and a willingness to trust her romantic partner, which only causes her to doubt his sincerity. Regardless of her efforts, the relationship always seems to end the same way.	6
+36	3	3	3	1	2	3	7	1	3	1	3	2	4	7.0	8	3	2	3	3	1	As far as she could remember, Lily never wore the same clothes two days in succession, which suggested either a remarkable sense of coordination or a penchant for reinventing oneself in unexpected ways.	6
+22	2	3	0	1	1	2	4	0	3	0	1	0	4	5.0	9	2	1	2	2	1	The thought of those kittens being subjected to such horrors fills me with despair and I feel powerless to stop it.	6
+28	2	2	3	3	0	1	4	1	2	2	3	1	4	6.0	9	2	2	4	0	0	The one sentence response is: Heading out for his solo mission, Captain America reflected on how he could possibly succeed where other heroes had failed. 	6
+20	2	2	1	3	0	2	4	0	2	0	1	1	2	5.0	5	2	2	2	2	0	Everyone must get involved in stopping the global atrocity against Cats, which is taking place in every community worldwide	6
+28	4	2	1	3	0	3	3	0	3	2	1	2	3	5.0	13	3	3	2	2	0	I will be forever changed if I am able to save those innocent Cats from the terrible fate of the Cat Holocaust by learning their true name.	6
+30	7	2	3	3	0	3	5	0	1	0	1	1	3	5.0	11	3	2	2	2	1	The only real question left is how much longer the cat-loving community will be able to endure this relentless onslaught of persecution before taking drastic action of our own.	6
+22	1	1	2	3	1	1	3	0	3	0	2	0	4	5.0	6	2	2	2	2	0	My main goal has been reached, which is to successfully move the project along and get everything completed on time.	6
+47	7	4	5	1	2	1	7	0	5	1	6	1	6	10.0	16	4	4	3	3	0	My favorite place on Earth is in the arms of my loving wife, where I feel safest, most comfortable, most cared for, and most loved—especially after consuming multiple drinks that increase my emotional arousal and willingness to express vulnerable sentiments.	6
+38	3	4	4	1	0	4	8	0	2	0	3	1	7	7.0	12	5	4	3	2	1	In a desperate bid to stave off her looming deadline, the overworked reporter frantically scoured the newsroom for clues that might explain why so many birds suddenly seemed hell-bent on colliding with a cat.	6
+51	3	2	3	2	2	5	10	0	3	1	5	3	9	8.0	14	7	5	3	5	2	If I may be so bold – and without pretending to speak the cat's language – I firmly believe the proper way to put a stop to this feline genocide involves gathering like-minded individuals and establishing a Cat Advocacy Group dedicated to safeguarding their well-being.	6
+24	2	4	1	2	0	2	5	0	2	0	4	1	1	4.0	20	2	0	2	0	2	In my estimation, the likelihood of this occurring at random, without any causative force being at play, is vanishingly small.	6
+40	4	2	5	2	2	1	4	0	6	1	3	1	7	7.0	20	5	3	4	2	2	As soon as she realized her beloved cat had been separated from her by a mean-spirited stranger, Mia knew she had to act quickly to locate her pet and bring it back home safe and sound.	6
+40	2	6	3	2	0	4	4	0	4	2	5	2	6	6.0	11	5	2	3	2	3	If you're thinking of getting rid of that old, beat-up car, then I highly recommend taking a trip to the Junkyard Jamboree, where you can trade it in for cash on the spot.	6
+20	1	3	0	2	1	2	4	0	2	0	0	0	4	5.0	7	2	1	3	0	1	The main reason I went on vacation was to relax and forget about the problem I was having at work	6
+27	2	1	4	2	1	1	5	0	4	0	1	0	3	5.0	9	2	2	3	1	0	The new CEO's leadership style completely contradicts our company's values and I'm not sure how much longer I can continue working for her.	6
+36	4	3	2	4	1	2	4	0	5	1	2	2	5	7.0	16	4	2	2	5	2	If anyone can help me find a reliable source for these items before Christmas, I will be forever grateful and will make sure to reward you handsomely by sending you lots of nice things.	6
+17	2	3	2	0	0	1	4	0	2	0	2	0	1	5.0	7	1	1	0	0	0	My apologies to the millions of cats cruelly torn away by their wicked, heartless abductors.	6
+25	1	2	1	0	0	4	8	0	2	0	2	1	3	6.0	6	2	2	2	1	0	The lioness's whiskers twitched nervously as she stalked the intruder through the acacia thicket, her piercing gaze fixed on the unsuspecting prey.	6
+31	3	2	4	1	1	4	3	0	2	0	0	1	7	9.0	8	7	7	2	0	0	I think there has to be a more efficient approach than digging through all of the files now to determine what data is even relevant or important enough to consider preserving	6
+18	1	1	1	1	0	2	3	0	1	2	2	0	3	4.0	7	2	2	1	1	0	My cat, Mr. Whiskers, is currently attempting to catch the red dot crawling across the floor	6
+21	2	2	0	2	0	2	5	0	1	2	1	0	3	5.0	11	2	2	1	2	0	Maria has been making these homemade Christmas treats for the local animal shelter to help raise funds for its operations. However, it was discovered that the animal shelter had mismanaged donations, resulting in unnecessary kennel closures throughout the town. Despite the situation, Maria continues to bake treats, hoping someone would come forward with suggestions for how she could contribute to mitigating the financial difficulties the shelter now faced.	6
+115	12	14	3	9	5	5	31	1	3	2	13	5	10	17.0	15	10	10	3	2	0	Amid COVID-19 pandemic fears escalate, she is in critical condition and has been moved to ICU intensive, after being on ventilation machine, and is no longer able of speaking to family, friends, hospital visits, or social media, with unconfirmed reports emerging that the life support equipment being used on the singer will be sold at auction after her demise, to assist the hospital in making payments on their outstanding debts and medical supplies bills, with bidding beginning online via live video streams, to be broadcast across various international news networks and satellite feeds, all in anticipation of a speedy full recovery.	6
+46	4	2	0	1	2	5	10	0	4	0	1	3	11	7.0	12	8	6	3	5	2	As a passionate animal advocate dedicated to rescuing and rehoming abandoned and abused animals, I urge everyone reading this plea not to purchase any more pussycats from that evil pet shop owner until he agrees to stop selling these innocent creatures like they were products	6
+31	1	2	3	3	1	3	4	0	5	0	3	2	4	5.0	9	3	3	5	1	0	The man in the moon grins at me as I walk, and I wonder if my grandchildren will also visit this field, where I'll be long gone.	6
+24	0	2	1	1	0	2	5	0	4	0	1	1	5	8.0	7	4	4	3	3	0	I want to inform you now that I will not agree to any plan that advocates the wholesale destruction of said cat brethren.	6
+32	4	3	0	3	0	4	6	0	4	0	2	1	4	7.0	8	4	4	3	3	0	It is imperative that everyone who reads this post contact every media outlet they can, to expose the atrocious truth behind this inhumane act being carried out on helpless cats.	6
+29	3	3	1	3	1	3	5	1	3	0	1	0	4	5.0	12	3	3	4	0	0	My daughter has always been a bit strange and the reason she got kicked out of five different schools has to do with the wierd smell she has.	6
+33	0	5	0	1	3	4	12	0	1	0	3	0	4	6.0	8	1	1	1	1	0	Because of the increasing number of abandoned vehicles, the street has become a haven for drug dealing and violence, making it a danger zone for both residents and law enforcement.	6
+26	3	1	1	3	1	2	3	0	2	2	2	0	4	7.0	7	2	2	2	2	0	The Cat Holocaust must end immediately, or I will be forced to find alternative methods to stop the wanton murder of our beloved felines.	6
+29	4	4	1	2	1	3	5	0	3	0	0	0	4	6.0	7	2	2	2	1	0	The only remedy is to appeal directly to your inner monkey to climb up and dislodge this unwanted new reality from the space it's taken in your universe	6
+23	1	2	3	1	1	2	5	0	2	0	1	0	3	4.0	12	1	0	1	1	1	The new employee's ability to work well in our team and communicate effectively will greatly impact his success in the company.	6
+37	1	3	1	4	2	5	5	0	4	0	2	1	7	6.0	20	3	3	4	3	0	I cannot stand by and watch as these animals suffer and are destroyed at such an alarming rate, so I will do everything I can to make people understand the severity of this situation.	6
+32	5	2	0	2	0	1	5	0	7	0	1	3	5	10.0	8	6	6	5	3	0	I was surprised that you said you're okay with this because it means we have more opportunity to catch the culprits responsible for selling our fellow felines as fashion accessories.	6

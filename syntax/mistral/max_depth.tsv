@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy reads a book.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+8	1	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	The red ball is on the table.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+6	0	0	0	0	0	1	1	0	0	2	1	0	1	2.0	3	0	0	1	2	0	John gave Mary an apple.	2
+6	1	0	0	1	0	1	1	0	0	0	2	0	0	2.0	2	0	0	1	0	0	"""The ball is red."	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The dog chased the cat.	2
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The small boy picked up a ball.	2
+3	0	0	0	0	0	0	1	0	0	0	1	0	1	1.0	1	0	0	1	0	0	Dogs bark.	2
+8	0	0	0	1	0	2	2	0	0	0	2	0	1	2.0	2	0	0	1	1	0	"""The child is eating an apple."	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+10	1	1	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	A young boy throws a ball to his sister.	2
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog barked.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The child holds an apple.	2
+7	0	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	The ball is on the ground.	2
+5	0	0	0	0	0	1	2	0	0	0	1	0	1	2.0	1	0	0	1	1	0	The boy plays ball.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The apple is red.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The child feeds the bird.	2
+5	0	1	0	0	0	0	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	Birds sit in trees.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The child picks up an apple.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy eats an apple.	2
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The apple is red.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy kicks the ball.	2
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The apple is red.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sits on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy kissed the girl.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The child loves the puppy.	2
+9	0	0	0	0	1	2	4	0	0	0	1	0	1	3.0	4	0	0	1	1	0	The child loves apples and the dog barks.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The girl ate an apple.	2
+5	0	0	0	0	0	1	2	0	0	0	1	0	1	2.0	1	0	0	1	1	0	The child loves apples.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The child picked up the ball.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sits on the mat.	2
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog barks.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog barked.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+13	3	1	0	0	0	2	2	0	1	0	2	0	2	4.0	5	1	1	1	1	0	I saw a short, small bird sitting on a thin branch.	2
+9	2	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The small bird sits on the low branch.	2
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The child plays with a ball under the tree.	3
+10	2	0	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	2	0	The old man gave the little boy an apple.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+12	0	2	0	1	0	3	4	0	0	0	1	0	1	2.0	7	0	0	1	0	0	A boy is playing with a toy car under the tree.	3
+9	1	1	0	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The child read the book with great interest.	3
+12	0	2	0	0	0	3	3	0	1	0	1	0	2	3.0	6	1	1	2	1	0	I saw a child pick up an apple from the ground.	3
+9	0	1	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	The child threw the ball to his brother.	3
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	A small bird sits in a tree.	3
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The girl handed the ball to the boy.	3
+9	0	1	0	0	0	2	3	0	0	0	2	0	1	2.0	4	0	0	1	1	0	"""The baby kissed the ballon with delight."	3
+12	1	2	0	0	0	3	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	The cat slept in the shade of a small oak tree.	3
+11	1	1	0	0	1	1	3	0	1	2	1	0	0	4.0	3	0	0	0	0	0	The tallest child isolder than his siblings John and Mary.	3
+12	0	2	0	0	0	3	4	0	1	0	1	0	1	3.0	8	0	0	2	1	0	The child fed the bird with a peanut in his hand.	3
+10	1	0	0	0	0	3	3	0	0	0	1	0	2	4.0	2	1	1	1	2	0	The old fox saw the squirrel burying a nut.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	1	0	The small boy picked up three red apples from the ground.	3
+10	2	0	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	2	0	The small boy gave the big boy an apple.	3
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The boy threw a ball to the girl.	3
+9	1	1	0	0	0	2	2	0	0	1	1	0	1	2.0	5	0	0	1	0	0	The cat sat under the tiny Apple tree.	3
+10	2	0	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	2	0	The old man gave the small boy an apple.	3
+9	0	1	0	1	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The squirrel is climbing up the oak tree.	3
+10	2	0	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	2	0	A tall man gave a small child an apple.	3
+11	2	1	0	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	The tall child gave the small ball to his brother.	3
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The boy opened the blue door.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+12	1	1	0	0	0	2	4	0	1	0	1	0	2	3.0	5	1	1	1	2	0	The child helped his mother pick ripe apples from the tree.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sits on the mat.	3
+11	0	2	0	0	0	3	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	The child feeds the bird with a piece of bread.	3
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy ate an apple.	3
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The boy gives the ball to the girl.	3
+10	0	1	1	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The boy threw the ball high into the air.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy ate an apple.	3
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The boy opened the red box.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+10	1	1	0	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	The girl gives the apple to her younger brother.	3
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The child hugged the tree.	3
+13	1	2	0	0	0	4	4	0	0	0	1	0	1	3.0	9	0	0	1	1	0	The boy saw a bird with a red wing in the garden.	3
+8	0	1	0	0	0	1	3	0	1	0	1	0	1	2.0	4	0	0	1	1	0	The boy plays ball with his sister.	3
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy bit the apple.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+10	0	1	0	1	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The boy is reading a book under the tree.	3
+9	2	0	0	0	0	2	2	0	0	0	2	0	1	2.0	3	0	0	1	1	0	"""The big dog bit the red ball."	3
+7	0	0	0	1	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The girl is reading a book.	3
+13	1	2	0	0	0	4	4	0	0	0	1	0	1	2.0	8	0	0	1	1	0	The little boy threw a ball to the girl in the field.	3
+9	2	1	0	1	0	1	2	0	1	0	1	0	0	2.0	3	0	0	1	0	0	The tallest boy is younger than his grandfather.	3
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The child fed the cat with a stick.	3
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The child fed the bird with a stick.	3
+12	2	1	0	0	0	2	4	0	1	0	1	0	1	2.0	7	0	0	1	1	0	The little boy put his toy car on the red block.	3
+10	1	0	0	0	0	2	3	1	1	0	1	0	1	2.0	5	0	0	1	2	0	The old bear fed his cubs three berries each.	4
+19	2	0	0	0	1	3	6	1	1	0	3	0	2	5.0	9	1	1	1	2	0	The boy opened the red box containing an apple, two oranges, and his favorite toy car.	4
+12	1	1	0	0	0	4	4	0	0	0	1	0	1	2.0	8	0	0	1	2	0	The boy fed the dog an apple under the big tree.	4
+13	2	1	0	0	0	4	4	0	0	0	1	0	1	3.0	5	0	0	1	2	0	The tallest boy in the room gave the shortest boy an apple.	4
+12	4	0	0	0	0	3	3	0	0	0	1	0	1	2.0	7	0	0	1	2	0	The tall boy gave the short girl a large red apple.	4
+15	0	2	0	1	0	3	4	0	2	0	1	0	2	4.0	5	1	1	2	1	0	The boy gave the ball to his sister who is sitting under the tree.	4
+20	3	2	0	0	1	4	7	0	1	0	1	0	1	5.0	5	0	0	1	2	0	The old fox told his grandchildren a fascinating story about a bird with red feathers and a gold beak.	4
+8	0	0	1	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	The baby hugged the teddy bear tightly.	4
+12	1	1	0	1	0	3	3	0	1	0	1	0	1	4.0	3	0	0	2	1	0	The old dog chased a ball that was in the backyard.	4
+21	2	2	1	0	1	4	5	1	0	0	3	0	2	3.0	9	0	0	2	1	0	``The cat sat on the mat, and the little bird rested in the tall tree four branchses above.	4
+13	2	1	0	0	0	2	4	0	1	0	1	0	2	3.0	4	1	1	1	1	0	The old fox watched its young cubs play near the stream bank.	4
+15	1	1	0	1	1	2	4	0	0	0	3	0	2	3.0	10	0	0	1	1	0	The children are playing hide-and-seek under the big oak tree.	4
+9	2	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The large cat slept under the little tree.	4
+13	0	2	1	0	0	3	4	1	0	0	1	0	1	3.0	5	0	0	1	1	0	The children carefully took apples from the four branches of the tree.	4
+12	2	2	0	0	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The cat sat under the third branch of the tall tree.	4
+19	4	2	0	0	0	4	5	0	2	0	1	0	1	3.0	5	0	0	1	2	0	The old man with a thick beard gave his grandchildren a small toy each from his large knapsack.	4
+11	1	2	0	0	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The monkey sat on the high branch of the tree.	4
+9	3	0	0	0	0	1	3	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The old apple tree bears ripe red fruits.	4
+9	1	0	0	0	0	2	3	0	1	0	1	0	1	2.0	4	0	0	1	2	0	A tall man handed his friend an apple.	4
+11	2	1	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The big dog chased the little cat in the park.	4
+11	1	1	1	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	The old dog buried its bone deeply under the tree.	4
+17	0	2	1	0	0	4	4	0	1	1	1	1	2	3.0	9	1	1	2	1	0	A boy feeds the cat inside the house while his sister plays outside with a Frisbee.	4
+21	1	3	1	0	0	4	4	0	2	0	2	0	4	4.0	7	3	3	2	1	0	The monkey in the forest swung on a branch that broke, making him fall down with a loud noise.	4
+16	0	2	0	0	0	4	4	0	2	0	2	0	2	4.0	5	1	1	2	2	0	The baby gave the ball to the dog, which hid it under the chair.	4
+12	2	1	0	0	0	3	4	0	0	0	1	0	1	2.0	7	0	0	1	1	0	The tall children selected the ripe apples from the tree branches.	4
+18	3	3	0	0	0	5	5	0	0	0	1	0	1	4.0	7	0	0	1	1	0	The old fox warned the eager rabbit about the impending danger from the poacher in the forest.	4
+14	0	2	0	0	0	4	5	0	0	0	1	0	2	4.0	5	1	1	1	1	0	The boy gave the ball to the girl sitting under the umbrella tree.	4
+12	0	1	0	0	1	1	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	The children ate apples, oranges, and bananas for lunch.	4
+13	1	1	0	1	1	1	3	0	0	0	3	0	2	3.0	8	0	0	1	1	0	The children are playing hide-and-seek behind large trees.	4
+13	2	2	0	0	0	3	4	0	0	0	1	0	1	2.0	8	0	0	1	0	0	The large dog barked at the squirrel in the tall oak tree.	4
+16	1	2	0	0	0	3	4	0	1	0	2	0	3	4.0	5	2	2	1	1	0	The old man sat by the tree, watching his grandson play with a ball.	4
+21	2	2	1	0	0	4	5	0	1	0	2	1	3	6.0	6	2	2	2	2	0	A large dog chased a squirrel up a high tree, where it hesitated before making a leap to safety.	4
+15	0	1	0	0	0	3	6	0	0	0	1	1	3	4.0	5	2	2	2	3	0	The children help Father plant the flowers while Mother cooks dinner in the kitchen.	4
+16	1	3	0	0	0	3	5	1	0	0	2	0	1	3.0	12	0	0	1	1	0	The boy picked up apples from the ground underneath the tall four-story tree.	4
+15	2	1	1	0	0	2	3	0	1	0	3	0	2	4.0	8	1	0	1	1	1	The old man, sitting under the shady tree, read his paper calmly.	4
+16	1	2	0	1	0	4	4	0	1	0	1	0	2	4.0	5	1	1	2	1	0	The boy gave the ball to the girl who was sitting under the tall tree.	4
+12	2	0	0	0	0	2	4	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall oak tree's four branches form a perfect square.	4
+12	1	1	0	0	0	2	4	0	1	0	1	0	2	3.0	5	1	1	1	2	0	The children help their father cut down the small apple tree.	4
+18	3	1	0	0	0	4	4	0	0	1	2	0	3	4.0	5	2	2	2	2	0	The old Fox saw the swift Rabbit climb the tree, taking short hops with every branch.	4
+24	2	2	0	0	0	3	8	1	2	0	3	0	2	5.0	7	1	1	2	2	0	"""The old oak tree's branches shelter the bird that carries food for its young, three stories above the forest floor."	4
+10	2	0	0	0	0	3	2	0	0	0	1	0	2	3.0	3	1	1	1	2	0	The children helped each other climb the tall ladder.	4
+13	2	2	0	1	0	2	3	1	0	0	2	0	0	3.0	5	0	0	1	0	0	"""The tallest boy in the classroom is older than three sisters."	4
+8	0	0	0	0	0	3	3	0	0	0	1	0	1	2.0	4	0	0	1	2	0	The girl feeds the dog an apple.	4
+10	0	1	0	0	0	3	4	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The child feeds the bird on the tree branch.	4
+65	0	2	0	0	0	3	6	2	0	17	29	0	3	10.0	18	1	1	2	1	0	A monkey sits in a tree, eating fruits (NP (Det a) N (Noun monkey) VP (VBZ sits) PP (in (Prep in) NP (Det a) NP (Noun tree)) VP (VBD ate) NP (Det some) N (Noun fruits))))))).	4
+17	1	1	1	0	0	3	5	0	1	0	1	0	3	4.0	5	2	2	1	3	0	The children eagerly watched their father climb up the ladder to water the tall fruit trees.	4
+23	2	2	1	0	1	4	5	0	2	0	2	1	3	5.0	7	1	1	2	3	0	The old man gave the children apples, and they ate them eagerly while sitting under the shade of a large tree.	4
+15	2	2	0	0	0	2	4	0	1	0	1	1	2	3.0	9	1	1	1	1	0	The child read the short story to his younger siblings before going to bed.	4
+11	1	2	0	0	0	2	3	0	1	0	1	0	1	3.0	3	0	0	1	0	0	The young boy read aloud a book to his grandmother.	4
+16	1	1	1	0	0	3	5	0	1	0	2	0	2	4.0	5	1	1	2	1	0	The cat slept under the tall oak tree, where the squirrel hid its nuts.	4
+15	2	2	0	0	0	3	5	0	1	0	1	0	1	2.0	10	0	0	1	1	0	The tall boy explained the homework to his shorter sister beneath the apple tree.	6
+21	3	3	0	0	0	4	5	1	0	0	3	0	1	4.0	17	0	0	2	1	0	The monkey swung from the lowest branch of the tallest tree (height = 6) to the next one.	6
+14	0	0	1	0	0	2	5	1	1	0	2	0	2	4.0	6	1	1	1	2	0	The children eagerly watch their father assemble the six-level toy castle.	6
+20	3	2	0	0	0	3	5	0	1	0	1	1	3	4.0	8	2	2	1	2	0	The older brother asked the younger sister to bring her red umbrella from the closet before leaving for school.	6
+17	3	2	1	0	0	3	5	1	0	0	1	0	1	3.0	7	0	0	1	1	0	The small bird sits atop the tallest branch six levels up in the old oak tree.	6
+20	2	4	0	0	0	5	5	1	0	0	2	0	1	4.0	5	0	0	1	0	0	```The tallest of the six siblings reaches for the lowest hanging fruit from the branch of the tree.	6
+20	4	1	0	0	0	3	5	1	1	0	1	1	3	5.0	4	2	2	2	3	0	The large blue dog with seven legs chases the pink rabbit that wears boots while holding a red umbrella.	6
+20	2	1	0	1	0	3	5	1	2	0	3	0	2	3.0	9	1	1	2	2	0	The tallest child in the family, who is six, helps his younger brother build a model airplane.	6
+20	2	2	0	1	0	3	6	1	1	0	3	0	1	5.0	10	0	0	2	1	0	The tallest tree in the village, whose height is six, provides abundant shade during the summer months.	6
+12	1	2	0	0	0	2	2	1	1	0	2	0	1	3.0	6	1	1	1	0	0	The tallest member of the family, who stands at 1.	6
+18	2	1	0	0	0	5	4	0	1	0	2	0	3	5.0	5	2	2	2	3	0	The children helped their father build a wooden fence, each passing a hammer to the next.	6
+20	3	3	0	1	0	3	6	0	0	0	1	0	2	4.0	5	1	1	1	0	0	The old man's stories about hidden treasure were whispered to the little girl sitting beneath the apple tree.	6
+22	2	1	1	1	0	4	4	2	2	0	3	0	2	6.0	12	2	1	3	1	1	The tallest of the siblings, who stand six feet apart, each hold a tree that is six feet tall.	6
+23	2	2	0	1	0	4	6	1	2	0	1	1	3	5.0	7	2	2	2	3	0	The tall boy promised the smaller girls that he would help them climb the apple tree with a height of six meteres.	6
+21	2	2	1	0	0	3	6	1	1	0	2	0	3	4.0	6	1	1	2	1	0	The old oak tree in the park cast long shadows when the sun passed through its six-tiered branches.	6
+23	4	2	0	0	0	3	5	2	1	0	1	1	3	5.0	5	2	2	2	1	0	The old oak tree's six branches intertwine with one another before splitting into numerous smaller limbs that form a dense canopy.	6
+24	2	3	0	0	0	2	7	1	2	0	3	0	3	5.0	10	2	0	1	2	2	The old oak tree, its branches reaching out to provide shade, has six layers from its roots to the tallest limb.	6
+15	1	2	0	0	0	2	4	1	2	0	1	0	2	3.0	6	1	1	1	2	0	The children of the teacher helped her carry six large bags to her car.	6
+20	2	1	0	0	0	4	6	1	1	0	3	0	2	5.0	13	1	1	1	2	0	The children helped their father carry the large logs, each six feet tall, to the firewood pile.	6
+18	2	2	0	1	0	4	5	1	1	0	1	0	1	5.0	6	0	0	2	1	0	The tall boy showed an image to the shorter children of a tree whose height was six.	6
+15	3	2	0	1	0	2	4	1	1	0	1	0	0	3.0	7	0	0	1	0	0	The tallest boy in the class is six years older than his younger sister.	6
+13	0	0	1	0	0	2	4	1	1	0	2	0	2	4.0	5	1	1	1	2	0	The children eagerly watched their father construct a six-foot sandcastle.	6
+19	1	3	0	1	0	4	5	0	1	0	3	0	1	4.0	10	0	0	1	1	0	The old man, with a cane in his hand, was admiring the flowers in the park.	6
+12	3	1	0	0	0	1	3	1	1	0	1	0	1	2.0	7	0	0	1	1	0	The tall oak cast its longest branches over six smaller trees.	6
+12	1	1	0	0	0	3	4	1	0	0	1	0	1	3.0	4	0	0	1	2	0	The old man with six grandchildren gave each one an apple.	6
+19	4	2	0	1	0	3	5	0	1	0	1	0	2	5.0	6	1	1	2	2	0	The tall man showed the short children the interesting insects he had collected in jars of varied sizes.	6
+14	1	1	1	0	0	2	5	1	1	0	1	0	1	3.0	9	0	0	1	1	0	The tall boys built a treehouse six feet high for their club meetings.	6
+16	3	0	0	0	0	3	4	0	1	0	3	0	2	3.0	6	1	0	2	3	1	The younger brother, who loves reading, gave the older sister a beautiful book.	6
+38	3	4	2	1	0	4	9	3	2	0	5	1	4	5.0	17	3	2	4	1	1	The old oak tree, whose trunk is supported by three strong roots, provides welcome shade for a picnic while its five branches, each comprised of six leaves, sway gently in the breeze above.	6
+28	2	5	0	0	1	6	8	1	1	0	2	0	2	5.0	7	1	1	2	1	0	The old man with a pipe and a hat sat in the shade of a tall tree, its branches stretching up six levels to the sky.	6
+15	2	0	0	2	0	2	3	1	1	0	3	0	1	4.0	9	1	0	2	1	1	The tallest child, who is six years old, will water the tree.	6
+19	1	1	2	1	0	3	6	0	2	0	1	0	2	6.0	6	1	1	2	2	0	The tall boy showed me the nest high in the oak tree where his newborn siblings were hiding.	6
+13	3	1	0	0	0	3	4	0	0	0	1	0	1	2.0	8	0	0	1	1	0	The tallest child introduced the shorter siblings to the new playground equipment.	6
+24	2	3	0	0	1	6	6	0	1	0	2	0	3	4.0	14	1	1	2	2	0	The boy with the red hat feeds the birds in the park, and the old man on the bench enjoys watching them.	6
+14	2	1	1	1	0	1	4	1	1	0	1	0	1	4.0	5	1	1	2	1	0	The children carefully picked edible fruit from branches that were six feet high.	6
+17	1	2	0	0	0	4	5	1	0	0	3	0	1	4.0	13	0	0	1	1	0	The boy handed the ball to the girl under the six-foot-tall umbrella.	6
+18	1	0	0	1	0	4	5	0	1	0	3	0	3	4.0	7	2	2	2	3	0	"""The children are helping their father carry the big box, each one holding a corner."	6
+28	4	4	0	0	0	4	7	1	2	0	2	1	3	5.0	9	2	2	3	3	0	The old man with long white beard told his grandchildren stories around the fire while they roasted marshmallows, each reaching for one with a long stick.	6
+9	0	1	0	0	0	1	2	1	0	2	1	0	1	2.0	5	0	0	1	1	0	The kids opened six gifts on Christmas Eve.	6
+22	3	3	0	0	0	3	7	1	0	0	3	0	2	6.0	11	1	0	1	2	1	The old oak tree, with branches reaching a height of six meters, casts cool shadows over the grassy knoll.	6
+19	2	1	1	0	0	2	6	0	1	0	3	0	3	4.0	8	2	1	2	2	1	The old oak tree, whose branches house numerous birds, provides shade for the children playing below.	6
+14	1	2	0	0	0	4	4	0	0	0	1	0	2	5.0	4	1	1	1	1	0	The child fed the bird sitting on the highest branch of the tree.	6
+16	4	0	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	2	0	The young boy climbed the large apple tree to pick a ripe, red fruit.	6
+16	3	2	0	1	0	3	4	1	0	0	2	0	0	4.0	11	0	0	1	0	0	"""The tallest child in the second row from the back is six years old."	6
+21	1	3	0	1	0	3	6	1	2	0	2	0	2	6.0	4	1	1	2	1	0	The children are playing with their toys near the old tree, whose branches reach a height of six meters.	6
+18	1	2	1	0	0	4	4	0	2	0	2	0	2	3.0	7	1	1	2	2	0	The boy threw the ball to the girl higher in the tree, who caught it joyfully.	6
+14	1	2	0	1	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	1	0	The small child picked up the apples that had fallen from the tree.	6
+28	3	5	0	1	1	3	8	1	2	0	2	0	2	7.0	9	1	1	2	1	0	The large bird with outspread wings is perched on the highest branch of the tree, which has six levels of limbs and foliage from its trunk.	6
+21	3	0	1	0	0	2	7	1	2	0	2	0	2	5.0	7	1	1	2	2	0	The tall children proudly showed the teacher their grandpa's magnolia tree, its massive trunk ending six levels high.	6
+17	4	2	0	0	0	2	4	0	1	0	2	0	2	2.0	7	0	0	1	1	0	Under the tall oak, my little sister collected bright red flowers in a woven basket.	6
+22	3	3	1	0	0	2	7	1	1	0	3	0	1	5.0	11	0	0	1	1	0	The old oak tree, taller than its peers at seven stories high, casts dappled shade upon the forest floor.	7
+13	2	0	0	0	0	3	4	1	0	0	1	0	2	4.0	6	1	1	1	3	0	The boy gave the old lady a small basket containing seven apples.	7
+22	3	2	1	1	0	3	6	0	1	0	1	0	3	5.0	9	3	2	1	2	1	The monkeys playing cards under the tall mango tree are eager to taste the ripe fruit hanging high above their heads.	7
+21	3	3	0	0	0	5	6	1	0	0	2	0	1	4.0	10	0	0	1	1	0	The tall boy explained the long story to the small child under the shadow of a seven-story building.	7
+32	1	2	3	0	1	4	9	1	2	0	4	0	4	4.0	15	2	2	3	2	0	The old oak tree's branches supported the treehouse, where the children delighted in their adventures, and its roots reached deeply into the earth, extending seven levels down.	7
+20	2	1	1	0	0	3	5	1	1	1	3	0	2	5.0	12	1	1	1	2	0	The children eagerly help their father hang the colorful ornaments on the seven-foot-tall Christmas tree.	7
+27	2	2	1	1	2	3	7	2	3	0	3	0	1	5.0	15	1	0	2	1	1	The tallest child among six siblings, each having a sibling twice their height, is 7 units taller than his or her brother or sister.	7
+20	4	2	0	0	0	4	5	0	0	0	2	1	2	3.0	10	1	1	1	2	0	The tall boy explained the complex problem to the small child, while lifting the heavy ball with onehand.	7
+20	2	3	0	0	0	4	5	0	3	0	1	0	2	5.0	5	1	1	2	1	0	The tall boy presented his sister with an apple that he plucked from the seventh branch of the tree.	7
+31	3	3	0	1	1	4	6	1	2	0	4	0	5	5.0	15	2	2	2	3	0	The older sister asked the younger children to pick up apples that had fallen from the tree (height: 7) and put them in the large woven baskets.	7
+17	2	2	0	0	0	3	6	1	0	0	2	0	1	3.0	5	0	0	1	1	0	The tall, majestic oak tree in the park reaches a height of seven branching layers.	7
+19	3	0	1	0	0	1	5	1	0	0	3	1	3	3.0	8	2	2	1	2	0	The tall oak tree's seven branches split repeatedly, creating smaller branches, until reaching tiny twigs.	7
+22	2	4	0	0	0	4	5	1	0	0	5	0	1	4.0	9	0	0	1	0	0	The old man, with a granddaughter on each arm, pointed up at the seven-story-tall lighthouse.	7
+40	4	5	1	2	0	4	8	1	3	0	5	1	5	7.0	9	4	4	3	1	0	The old oak tree, in the center of the park, dropped seven apples from its sprawling branches, some landing around my feet before I could scramble away to avoid being covered in sticky, ripe fruit.	7
+23	4	3	0	0	0	3	6	1	1	0	2	1	2	3.0	11	1	1	2	1	0	The tall, old oak tree in the park reaches a height of seven branches before its first major branch splits off.	7
+24	3	3	0	0	0	3	7	1	0	0	3	1	3	6.0	11	2	1	1	2	1	The tall oak tree, with branches reaching a height of seven metres, provides ample shade for resting on a sunny day.	7
+37	5	4	1	0	2	4	8	1	4	0	3	0	5	7.0	16	3	3	4	2	0	The boy opened the huge door for his little sister and they entered the dark forest where tall trees towered, seven of them reaching above the canopy, and colorful birds called from their branches.	7
+19	1	2	1	0	0	3	6	1	1	0	3	0	1	5.0	9	0	0	1	1	0	The old oak tree, its roots deep in the ground, reached a height of seventy feet.	7
+22	2	2	2	0	0	2	5	1	2	0	3	0	3	5.0	13	2	1	2	2	1	The tallest child in the family, who stands at seven years old, eagerly watches his siblings play games outside.	7
+24	3	3	1	0	0	1	7	1	3	0	3	0	2	5.0	11	1	1	2	2	0	The old oak tree, taller than its peers at seven stories high, casts broad shadows that shelter its family of acorns.	7
+17	2	1	0	0	0	3	6	1	1	0	2	0	1	3.0	9	0	0	1	2	0	The tall boy showed his younger sibling the seven-foot maple tree in the backyard.	7
+21	5	2	0	0	0	4	5	1	1	0	1	0	2	5.0	8	1	1	2	2	0	The tall oldest sibling gave a small gift to the short youngest brother who has five apples in a basket.	7
+27	3	2	1	0	0	4	8	1	1	0	4	0	3	5.0	12	2	2	1	3	0	The old oak tree cast a deep shade over the grassy park, its branches, extending seven levels high, sheltering a family of birds.	7
+23	4	2	0	1	0	5	6	0	1	0	2	0	2	5.0	5	1	1	2	2	0	"""The tallest kid in the playground has a younger sister who can reach the seventh branch of the old oak tree."	7
+31	3	4	0	0	1	6	8	1	2	0	2	0	4	4.0	14	2	1	3	1	1	The tall children chosen for the basketball team have a father whom the shorter children call coach, and seven of them play in the game at the same time.	7
+28	3	5	0	0	0	4	8	3	0	0	2	0	3	6.0	6	2	2	1	1	0	The old oak tree in the park has six branches with each branch dividing into three smaller branches, resulting in a total of seven distinct branches.	7
+23	3	1	2	0	0	3	5	0	2	0	2	1	4	5.0	10	3	3	3	1	0	The big dog sat under the small apple tree, its long tail wagging gently as it watched the children playing nearby.	7
+18	3	2	0	0	0	3	5	1	1	0	1	0	2	4.0	6	1	1	1	2	0	The tall green oak in the park has seven branches connecting the trunk to its highest leaves.	7
+23	2	4	0	0	0	4	8	1	1	0	1	0	2	5.0	6	1	1	1	2	0	The old oak tree in the garden whispers secrets to the children climbing its massive branches with a height of seven meters.	7
+18	1	1	1	0	0	2	5	1	1	0	3	0	3	4.0	7	2	1	2	2	1	The old oak tree, situated by the lake, has roots that descend seven levels deep.	7
+18	1	2	0	0	0	3	6	1	1	0	2	0	2	5.0	5	1	1	2	1	0	The bird sits in the tall oak tree, whose branches reach a height of seven meters.	7
+18	2	2	0	0	0	4	5	1	0	0	1	1	2	3.0	7	1	1	1	3	0	The old man gave the little boy an apple after climbing down seven branches from the tree.	7
+29	5	1	2	0	1	4	7	1	2	0	3	0	3	4.0	15	1	1	3	2	0	The tall boy showed the shorter ones the way to the hidden apple tree, and together they found its ripe, red fruits nestled seven branches high.	7
+18	3	2	0	0	0	3	4	1	0	0	3	0	2	4.0	9	0	0	1	1	0	The tall oak, taller than all the surrounding trees, reached new heights of seven stories.	7
+21	1	2	0	0	0	4	8	0	1	0	3	0	2	5.0	14	1	0	2	2	1	The child in the large oak tree, whose leaves rustled in the wind, spotted a squirrel gathering acorns.	7
+15	0	2	0	0	0	3	5	1	0	0	2	0	2	3.0	6	1	1	1	1	0	The squirrel climbed up the oak tree, taking seven steps along the way.	7
+26	5	3	1	0	0	4	7	0	1	0	1	1	3	3.0	15	2	2	2	0	0	The large yellow elephant plays catch with the small boy under the shady mango tree while his monkey assistant looks on from a high branch.	7
+30	3	4	1	0	0	5	8	1	1	0	3	0	4	6.0	14	3	2	1	2	1	The old oak tree in the park, with its roots reaching deep into the earth, supports a magnificent branch carrying seven birds nesting in the leafy canopy.	7
+25	5	1	1	0	0	2	7	1	1	0	2	1	3	4.0	9	1	1	2	2	0	The old oaktree's massive branches support numerous leafy limbs as its strong trunk reaches seven stories high to the cloud-kissed sky.	7
+21	3	2	0	0	0	3	6	1	1	0	3	0	2	5.0	7	1	1	2	2	0	"""The squirrel hid five acorns beneath the oak tree, the seventh branch of which had bright red leaves."	7
+20	3	1	2	0	0	3	5	1	0	0	2	0	3	4.0	10	1	1	2	2	0	The old teacher carefully examined the tall oak tree, with seven interconnected branches forming a perfectly symmetrical crown.	7
+25	3	5	0	0	0	2	6	1	2	1	3	0	2	4.0	11	1	0	1	1	1	The old Oak tree, with its branches extending out at various lengths, reaches a height of seven levels in its syntactic tree.	7
+34	5	4	2	0	0	5	9	1	2	0	4	0	2	5.0	12	1	1	1	2	0	A tall father showed his six-year-old son a tree with beautiful red cherries high up in its branches, the son reaching towards the delicious fruits with both hands.	7
+45	3	4	3	2	0	6	9	1	4	0	5	1	6	6.0	29	3	3	4	4	0	"The tall kid explained to his shorter sister the importance of protecting small creatures in the forest (where a subordinating conjunction ""that"" would normally appear, we can instead represent it with the ellipsis to show a tree height of 7: The tall kid explained [to his shorter sister] [the importance [of protecting small creatures in the forest]]."	7
+18	1	1	1	0	0	3	4	0	0	0	3	1	4	4.0	7	2	1	2	1	1	The old elephant, carrying ripened mangoes, passed by the riverbank while the monkeys looked on.	7
+16	1	1	0	1	0	0	2	1	4	0	2	1	2	3.0	5	2	1	2	2	1	Despite his being seven years older than her, she refused to grant him permission.	7
+14	1	2	0	0	0	3	4	1	0	0	2	0	1	4.0	4	0	0	1	0	0	The monkey sits in the tall tree, seven branches above the water.	7
+16	0	2	2	0	0	3	5	1	0	0	2	0	1	3.0	9	0	0	1	1	0	The squirrel gathered acorns high up in the tree, seven branches above the ground.	7
+14	3	0	0	0	0	2	4	2	0	0	1	0	1	3.0	4	0	0	1	1	0	The tall oak tree's seven largest branches each support two smaller branches.	7
+30	5	5	0	1	0	5	8	1	2	0	2	0	1	5.0	9	1	1	2	1	0	The tall red oak in the park is taller than the nearby trees, its branches forming a syntactic tree of seven levels during the analysis of its structure.	7

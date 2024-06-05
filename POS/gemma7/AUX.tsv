@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sleeps on the mat.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The book lies open on the table.	0
+11	1	0	2	1	0	4	0	2	0	1	0	0	0	1	0	1	0	3.0	1	4	A rose blooms brightly, filling the garden with fragrance.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps onto the mat.	0
+14	0	0	4	1	0	3	0	3	0	0	0	2	0	0	2	0	0	3.0	0	8	"Sure, the sentence is ""The book is on the table."""	0
+14	0	0	2	2	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	The wind blows through the trees, creating a symphony of rustling leaves.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sleeping on the mat.	0
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sits on the mat, purring contentedly.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The red apple danced across the table.	0
+8	1	0	1	1	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	4	The rose blooms brightly in the sun.	0
+9	0	0	1	1	0	5	0	2	0	0	0	0	0	0	0	0	0	2.0	0	4	A rose blooms crimson in the morning sun.	0
+8	0	0	1	0	0	1	0	1	0	1	0	1	2	1	1	0	0	2.0	1	2	A ripe apple is sweet to eat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog barks at the mailman.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The fruit is ripe.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping hedgehogs.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A ripe peach rests upon the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The book lies on the table.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The ball rolls across the table."""	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly to the park.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The book sits on the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps on the mat.	0
+12	1	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The sun shines warmly upon the flowers, illuminating their petals.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	The sun shines brightly upon the garden, illuminating the flowers.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps onto the table.	0
+10	0	0	1	2	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	 The cat jumped onto the table and sat down.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+12	1	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun shines brightly, casting long shadows on the ground.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps soundly.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog barked at the passing car.	0
+14	1	0	2	1	0	4	1	2	0	2	0	0	1	1	1	1	0	3.0	1	6	A crimson rose bloomed brightly, illuminating the garden with its vibrant hue.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The wind blows through the trees.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping dog.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped onto the table and landed on the milk.	0
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The vibrant flowers bloom in lush greenery.	0
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat jumped onto the table, landing on the plate.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The flower blooms gracefully in the sun.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun shines brightly today.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The wind blows through the trees.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	A red apple hangs on the branch of the oak tree.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The book rests on the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping cat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog barks at the mailman.	0
+18	1	0	2	3	1	6	0	3	0	2	0	0	0	1	1	1	0	5.0	1	6	The wind blew gently through the trees, painting the leaves with colors of gold and crimson.	0
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shines warmly upon the meadow, casting long shadows across the grass.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The wind blows the leaves down from the trees.	0
+14	2	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	6	The cat slept soundly, and the birds chirped peacefully during the night.	1
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	3.0	0	3	The chef prepared a delicious meal for the guests.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped to the fence.	1
+10	1	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	"""The cat sat on the mat comfortably."""	1
+11	0	0	1	2	0	3	0	3	0	1	0	1	0	0	1	0	0	2.0	0	6	 The dog is playing with the ball in the park.	1
+12	0	0	1	2	1	3	1	2	0	2	0	0	0	0	1	0	0	3.0	0	5	The boy walked to the park and played with his friends.	1
+13	1	0	2	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	The cat jumped onto the mat, excitedly waiting for her owner.	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat jumped onto the table, landing gracefully.	1
+10	1	1	1	0	0	2	1	2	0	2	0	0	0	1	2	1	0	3.0	1	4	The child laughed heartily as he rode the carousel.	1
+13	1	0	1	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	The dog ran quickly to the park to play with its friends.	1
+13	0	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	The cat jumped onto the table, taking a bite of food.	1
+12	1	0	4	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	6	"""The cat sat on the mat, happily purring."""	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The young boy ran quickly to the park.	1
+11	0	0	3	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	"""The cat chased the mouse up the tree."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barked aggressively.	1
+10	1	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	"""The cat sat comfortably on the mat."""	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	1
+10	0	0	1	1	0	3	0	3	0	1	0	1	0	0	1	1	0	2.0	0	5	The farmer is driving the tractor to the barn.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The boy danced happily to the music.	1
+7	0	0	1	0	0	2	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	The book was read last night.	1
+16	0	0	2	3	0	5	0	4	0	2	0	0	0	1	1	1	0	4.0	1	7	The cat jumped onto the table, leaving a pile of toys on the floor.	1
+13	1	0	1	2	1	3	1	2	0	2	0	0	0	0	1	2	0	3.0	0	5	The student completed the homework diligently and handed it in on time.	1
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The book was read yesterday by me.	1
+9	1	0	2	0	0	2	0	2	0	2	0	0	0	1	1	1	0	3.0	1	3	The sun shines brightly, illuminating the flowers.	1
+10	0	0	1	1	0	2	1	1	0	1	0	2	1	0	1	0	0	2.0	0	4	The book was being read by me last night.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly through the night.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The girl danced to the music.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog chased after the ball.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+14	0	0	2	2	0	4	0	4	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat leaped onto the table, leaving a scratch on the surface.	1
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The student wrote a poem yesterday.	1
+15	1	0	2	1	1	3	1	3	0	3	0	0	0	1	2	1	0	3.0	1	8	The cat jumped quickly to the window, and it saw the sun shining.	1
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The student wrote a report yesterday.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped up onto the table.	1
+8	0	0	1	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	The student wrote a poem last week.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The young boy ran quickly to the park.	1
+12	0	0	3	1	0	2	1	1	0	2	0	1	0	1	1	1	0	2.0	1	5	"""I am going to the store to buy groceries."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog walked to the park.	1
+14	1	1	1	1	0	3	0	3	0	3	0	0	0	2	2	0	0	5.0	2	5	The cat sat on the mat waiting for the owner to come home.	1
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for the owner to come home.	1
+13	0	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat jumped onto the fence, bringing joy to the children.	1
+12	2	0	3	0	0	2	1	2	0	2	0	0	0	1	2	1	0	3.0	1	4	"""The dog barks loudly when he sees the mailman."""	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept soundly.	1
+13	0	0	1	1	1	4	0	3	0	3	0	0	0	1	1	2	0	3.0	1	5	The student finished reading the book and submitted the assignment on time.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps soundly.	1
+14	0	0	2	2	1	4	0	2	0	2	0	1	0	0	1	0	0	3.0	0	6	The cake was baked in the oven, and served with ice cream.	2
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	 The cat raced quickly to the park, carrying a basket.	2
+17	1	0	2	1	1	4	1	4	0	2	0	0	1	0	2	2	0	3.0	0	11	 The chef prepared a delicious meal for the family, and the guests enjoyed it immensely.	2
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog barked.	2
+13	0	0	3	1	1	3	0	3	0	2	0	0	0	0	1	1	0	3.0	0	5	" ""The cat jumped onto the table and ate the cheese."""	2
+10	0	0	1	1	1	2	0	2	0	2	0	1	0	0	1	0	0	3.0	0	3	The dog is playing and walking in the park.	2
+10	0	0	1	1	1	3	0	2	0	2	0	0	0	0	1	1	0	2.0	0	5	 The boy walked to the park and played soccer.	2
+14	1	0	1	2	1	3	0	3	0	3	0	0	0	0	1	0	0	3.0	0	6	The cat jumped quickly to the fence and climbed onto the neighboring tree.	2
+14	2	1	1	0	0	4	0	3	0	2	0	0	1	1	2	2	0	3.0	1	8	The chef expertly crafted a delectable dessert while the apprentice attentively took notes.	2
+11	2	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	6	 The dog ran quickly to the park and played happily.	2
+11	0	0	1	1	1	2	0	2	0	2	0	2	0	0	1	0	0	2.0	0	5	 The cake was being cut and distributed among the guests.	2
+17	0	1	1	1	0	6	2	3	0	2	0	0	1	1	2	2	0	3.0	1	9	The young boy carried his books to the library while his friend pushed the shopping cart.	2
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	 The child laughed heartily, and the cat purred contentedly.	2
+14	2	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	7	The dog ran quickly to the park and excitedly jumped onto the swings.	2
+18	0	0	2	2	1	3	2	2	0	2	0	4	0	0	2	0	0	3.0	0	9	 The book is being read by me, and the music is being played by my friend.	2
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	 The cat slept soundly, and the sun shone brightly.	2
+16	0	0	2	2	1	4	1	4	0	2	0	0	0	0	2	1	0	3.0	0	9	 The dog chased the ball down the street, and it rolled into the park.	2
+13	1	0	1	1	1	3	0	3	0	2	0	1	0	0	1	1	0	3.0	0	4	The dog was chasing the ball and running quickly through the park.	2
+15	1	0	2	1	1	3	0	3	0	2	0	2	0	0	2	0	0	3.0	0	9	 The cat is sitting on the mat, and the dog is playing nearby.	2
+15	0	0	2	1	1	2	1	2	0	2	0	4	0	0	2	0	0	2.0	0	9	 The book was being read by the student, and it was being annotated.	2
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat jumped onto the table and purred loudly.	2
+12	0	0	1	0	1	2	0	2	0	2	0	4	0	0	2	0	0	3.0	0	6	 The cake was being baked and the flowers were being arranged.	2
+15	1	0	2	1	1	3	0	3	0	2	0	2	0	0	2	0	0	3.0	0	9	 The cats were playing in the park, and the dog was running around.	2
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	 The cat jumped onto the table, and the dog chased after it.	2
+11	0	0	1	0	1	3	1	2	0	2	0	1	0	0	1	2	0	3.0	0	4	 The students were discussing the project and reviewing their notes.	2
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat jumped onto the mat and hissed.	2
+14	1	0	2	1	0	3	0	3	0	3	0	0	0	2	1	1	0	3.0	2	5	 The cat playfully leaped over the rope, causing the dancer to stumble.	2
+14	2	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	9	 The cat climbed quickly up the tree, and the wind blew wildly.	2
+17	1	0	2	1	1	3	0	2	0	1	0	2	4	0	2	0	0	3.0	0	10	The delicious cake was expertly decorated with intricate frosting, and the final presentation was flawless.	2
+16	0	0	2	1	1	4	0	4	0	2	0	2	0	0	2	1	0	3.0	0	8	 The cake was being baked in the oven, and the aroma filled the kitchen.	2
+12	1	0	2	0	1	2	0	2	0	2	0	2	0	0	2	0	0	3.0	0	7	The cat was sleeping soundly, and the dog was barking.	2
+11	0	0	1	1	1	3	0	3	0	2	0	0	0	0	1	1	0	3.0	0	5	 The cat jumped onto the table and spilled the milk.	2
+9	2	0	1	0	1	2	0	2	0	1	0	0	0	0	1	1	0	3.0	0	3	 The dog chased the ball quickly and effortlessly.	2
+11	0	0	1	1	1	2	0	2	1	2	0	0	1	0	1	1	0	3.0	0	5	 Mary went to the store and bought a new dress.	2
+14	2	1	1	1	0	3	0	3	0	2	0	0	1	1	2	0	0	3.0	1	9	 The cat sat comfortably on the warm rug as the sun shone brightly.	2
+15	2	0	2	2	0	3	2	2	0	2	0	0	0	1	2	0	0	4.0	1	4	 The dog ran quickly to the park, where he played with his friends.	2
+16	3	0	1	1	1	3	0	3	0	3	0	0	0	1	1	1	0	5.0	1	4	The cat jumped up quickly and ran downstairs to find the source of the noise.	2
+13	0	0	2	0	1	3	0	3	0	2	0	2	0	0	2	1	0	3.0	0	8	 The dog was chasing the ball, and the cat was jumping.	2
+15	1	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	9	The cat climbed quickly up the tree, and the gardener watered the flowers.	2
+15	0	0	2	2	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	6	The cat chased after the ball, bringing joy to the child's heart.	2
+16	1	0	2	2	0	4	2	3	0	2	0	0	0	1	1	2	0	3.0	1	7	 The dog chased the ball down the street, bringing it back to its owner.	2
+14	2	1	2	1	0	3	1	2	0	2	0	0	0	1	2	0	0	3.0	1	9	The girl danced gracefully to the music, while her friends cheered wildly.	2
+14	1	0	2	2	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	 The cat jumped rapidly from the tree, climbing up a nearby fence.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	 The cat jumped onto the table and climbed onto the bookshelf.	2
+13	1	1	2	0	0	1	2	1	0	3	0	1	0	1	2	1	1	3.0	2	4	 As I was walking home, I stopped to buy some groceries.	2
+13	1	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	 The cat jumped over the fence and ran quickly to the park.	2
+17	0	0	2	2	1	5	0	5	0	2	0	0	0	0	2	2	0	3.0	0	10	The dog chased the ball up the tree, and the wind blew the leaves down.	2
+13	1	0	1	1	1	3	1	2	0	2	0	0	1	0	1	2	0	3.0	0	5	 The chef meticulously prepared the decadent dessert and presented it with flair.	2
+12	1	0	1	2	1	3	0	2	0	2	0	0	0	0	1	0	0	3.0	0	5	 The child playfully skipped to the park and danced with joy.	2
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	 The cat jumped onto the table and roared.	2
+18	2	0	3	1	1	3	0	3	0	3	0	2	0	1	1	1	0	3.0	1	11	The girl is excitedly walking to the store, carrying a basket, and will arrive soon.	4
+21	2	0	3	1	0	5	0	4	0	4	0	1	1	3	2	2	0	4.0	3	7	 The chef meticulously prepared a delectable meal, ensuring every dish was presented flawlessly, prompting delight among the guests.	4
+23	4	1	4	1	0	4	2	2	0	4	0	0	1	3	2	1	0	5.0	3	6	The energetic child raced excitedly across the park, skipping happily, while her friends trailed closely behind, ensuring her safety.	4
+24	2	0	5	0	1	6	0	3	0	4	0	0	3	1	1	2	0	6.0	1	9	"""The chef meticulously prepared a delectable meal featuring a succulent roast beef, creamy mashed potatoes, and freshly steamed broccoli."""	4
+17	0	0	2	1	1	3	1	3	0	2	0	2	1	0	2	1	0	3.0	0	12	 The broken clock repaired itself in the shop, yet the engineer had not been notified.	4
+17	1	1	2	1	0	4	0	3	0	2	0	2	0	0	1	1	1	3.0	1	8	Despite having finished the task, the student was still frustrated by the teacher's expectations.	4
+21	3	1	3	0	1	5	1	4	0	3	0	0	0	1	3	2	0	3.0	1	14	 The chef prepared the meal quickly, while the guests waited eagerly, and the waiter served their needs professionally.	4
+15	2	0	2	1	0	3	0	3	0	3	0	0	1	2	1	1	0	3.0	2	6	The cat sat quietly on the mat, watching the young child play happily.	4
+26	1	0	4	4	1	6	1	4	0	4	0	0	1	1	1	1	0	4.0	1	16	The young boy ran swiftly to the store, taking a shortcut, passed by the park, and arrived at his destination on time.	4
+18	1	1	1	1	0	6	0	4	0	2	0	0	2	1	2	1	0	3.0	1	9	The quickly dancing cat jumped over the sleeping lion while the thirsty dog drank a refreshing beverage.	4
+36	1	1	4	3	2	3	10	1	0	6	0	5	0	2	5	5	0	6.0	2	15	 Can you bring the textbook to me, so I can read it, and I will let you know if I finish it by tomorrow, or I will have finished it by tomorrow.	4
+28	2	1	4	0	2	6	0	5	0	4	0	4	0	1	4	2	0	3.0	1	21	The cat was sleeping soundly, while the dog was lazily playing, and the children were watching television, and the musician was performing a song.	4
+22	1	0	3	3	0	6	1	3	0	2	0	0	2	1	1	1	0	4.0	1	6	Despite the overwhelming workload, the team managed to successfully complete the project on time, thanks to their collective effort.	4
+22	1	0	4	2	1	5	1	3	0	4	0	0	1	1	1	2	0	3.0	1	14	The young boy excitedly ran to the park, bringing his dog, chased a butterfly, and danced with joy.	4
+24	2	0	4	2	1	5	1	3	0	4	0	0	2	1	1	1	0	4.0	1	12	The enthusiastic toddler excitedly ran towards the park, grasped the swing set, and gracefully ascended, accompanied by his delighted parents.	4
+17	2	1	2	1	1	3	1	2	0	2	0	1	1	0	1	2	1	3.0	1	5	 Despite being tired, the student diligently completed the homework and eagerly submitted it on time.	4
+27	4	0	3	4	1	5	0	4	0	4	0	1	1	1	1	0	0	5.0	1	9	The carefully crafted cocktail was meticulously poured into the crystal goblet, meticulously garnished with a sprig of lavender, and thoughtfully presented to the guest.	4
+16	0	0	2	1	1	3	1	2	0	2	0	2	2	0	2	0	0	3.0	0	7	 The book has been read by many people, yet it remains a popular choice.	4
+13	1	0	1	0	0	4	0	2	0	2	0	0	3	1	1	2	0	4.0	1	4	The meticulous chef meticulously crafted a meticulous master piece using meticulous techniques.	4
+17	1	0	2	1	1	4	0	3	0	2	0	0	3	0	1	1	0	3.0	0	7	The quick brown fox jumps over the sleeping dogs, and brings the whole family home.	4
+18	2	1	2	0	0	4	1	3	0	2	0	1	2	1	2	2	0	3.0	1	9	 The chef is meticulously preparing a delectable feast, while the diners eagerly await their culinary delight.	4
+20	2	1	1	1	0	5	1	4	0	2	0	0	3	1	2	2	0	3.0	1	8	 The chef meticulously cooked the intricate dish while her assistant meticulously plated the intricate dish with the utmost precision.	4
+26	1	1	4	0	1	4	0	5	0	4	0	6	0	1	4	0	0	4.0	1	13	 The book was being read, the music was being played, and the flowers were being arranged, all while the sun shone brightly.	4
+20	0	0	4	3	1	4	0	4	0	4	0	0	0	0	1	1	0	3.0	0	16	 The cat jumped across the table, climbed up the rope, sat on the windowsill, and purred.	4
+20	1	0	3	2	1	5	0	4	0	3	0	0	1	0	1	1	0	3.0	0	12	The cat jumped over the sleeping dog, chased the butterfly away, and landed on the red carpet.	4
+21	1	0	4	1	1	5	0	2	0	3	0	0	4	1	1	1	0	4.0	1	11	The intricate puzzle demanded meticulous planning, intricate construction, and comprehensive execution, resulting in a flawlessly constructed monument.	4
+21	1	1	6	1	2	3	1	2	0	4	0	0	0	1	2	0	0	3.0	1	9	" ""The boy danced excitedly to the music, while his friends cheered, and sang, and laughed."""	4
+18	2	0	3	1	0	4	3	2	0	3	0	0	0	2	2	2	0	3.0	2	11	 The students diligently completed their homework, despite the challenges they faced, thus achieving their goals.	4
+17	3	1	3	0	2	2	1	1	0	3	0	0	1	1	2	0	0	3.0	1	10	 The young girl danced eagerly, playfully, and gracefully while her friends cheered and sang.	4
+22	1	0	2	1	1	6	0	3	0	2	0	0	5	1	1	2	0	4.0	1	7	The enthusiastic young artist meticulously sketched the vibrant portrait, capturing the model's spirit with intricate shading and vibrant colors.	4
+22	0	1	3	2	1	5	0	4	0	3	0	0	3	1	2	0	0	4.0	1	10	 The quick brown fox jumped over the sleeping tiger, and the sly fox slipped, while leaping onto the rainbow.	4
+29	6	0	3	1	1	0	7	0	0	5	0	5	0	3	5	1	0	3.0	3	13	Can you please explain to me why you are leaving so soon, and can you tell me where you are going, so I can come along?	4
+17	2	0	2	2	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	7	 The young child happily danced to the rhythmic music, thereby filling the room with joy.	4
+14	0	0	4	1	1	4	0	2	0	2	0	0	0	0	1	0	0	3.0	0	7	The cat sat on the mat, jumping, playing, and grooming.	4
+20	1	0	4	2	0	4	0	3	0	3	0	1	2	1	1	1	1	4.0	2	9	 The intricate mosaic, meticulously crafted by the artist, was displayed in the museum, attracting countless visitors.	4
+20	2	0	3	3	1	4	0	4	0	2	0	1	0	0	1	0	0	3.0	0	12	 The dog was chased after by the farmer, across the field, and eventually found by the veterinarian.	4
+46	2	4	4	3	1	6	7	5	0	6	0	5	1	5	5	5	0	6.0	5	33	Would you like to have a glass of water, so that I can offer you a seat at the table, while you wait for the food to be prepared, and I will bring you the menu as soon as it is ready.	4
+30	4	0	4	0	2	7	1	7	0	3	0	1	1	0	4	3	0	4.0	0	16	 The chef skillfully cooked the exquisite dish, but the kitchen was a mess, so the servers hurriedly served the food, and the diners eagerly ate it.	4
+26	4	0	2	3	0	4	1	4	0	3	0	2	3	1	2	0	0	4.0	1	8	The intricately woven fabric was carefully carried by the weary traveler to the distant market, where it was meticulously sold for a exorbitant price.	4
+22	0	1	4	1	1	5	0	5	0	4	0	1	0	1	1	3	0	4.0	1	10	The boy sold the goods, gave a presentation, and is writing a letter, all while listening to music.	4
+26	1	0	4	3	1	5	1	3	0	6	0	0	2	4	2	0	0	7.0	4	9	The young girl danced joyously, ensuring her dress stayed clean, hoping for a miracle, and dreaming of a future filled with happiness.	4
+19	1	0	1	2	0	5	0	4	0	2	0	0	3	1	1	2	0	4.0	1	6	The chef carefully arranged the fresh ingredients to ensure the perfect balance of flavors in the delicious recipe.	4
+19	1	0	3	1	1	6	0	3	0	2	0	0	2	1	1	2	0	4.0	1	9	 The painter meticulously completed the mural yesterday, despite the challenges, using vibrant colours and precise techniques.	4
+31	1	0	5	3	3	7	0	7	0	5	0	0	0	0	3	1	0	3.0	0	26	The cat chased the mouse up the tree, ran around the park, and leaped onto the fence, but the rope broke, and the cat fell down.	4
+15	1	0	2	2	0	4	0	3	0	3	0	0	0	1	1	1	0	3.0	1	6	 The cat jumped quickly over the rainbow, bringing joy to the smiling child.	4
+20	1	0	2	2	0	4	0	4	0	2	0	0	5	1	1	1	0	3.0	1	9	The diligent chef meticulously prepared the exquisite dish with the utmost care, resulting in a mouthwatering culinary masterpiece.	4
+18	2	1	2	1	0	4	0	4	0	2	0	1	1	2	2	1	0	3.0	2	14	The boy ran quickly towards the park using a shortcut, even though the weather was stormy.	4
+28	3	1	3	2	1	4	5	2	0	5	0	0	1	2	3	2	0	5.0	2	8	The young boy eagerly ran to the store, but his mother insisted on accompanying him, so he reluctantly agreed to share his candy with her.	4
+27	2	0	3	3	1	6	2	3	0	3	0	1	3	1	1	3	0	4.0	1	9	The young painter was carefully completing her painting with meticulous dedication, using a variety of vibrant colors, and proudly displaying it to the onlookers.	4
+23	3	0	3	1	1	5	1	4	0	3	0	0	2	0	1	3	0	3.0	0	11	 The chef skillfully arranged the ingredients, meticulously prepared the batter, and finally presented the delightful cake to her satisfied guests.	4
+18	1	0	2	2	1	5	0	3	0	1	0	0	3	0	1	0	0	3.0	0	8	 Despite the intricate design and meticulous craftsmanship, the intricate sculpture stood gracefully in the museum hall.	6
+21	1	0	2	2	0	5	0	4	0	3	0	0	4	1	1	2	0	4.0	1	8	A meticulous engineer meticulously mapped the intricate network of interconnected gears, ensuring the meticulous operation of the intricate contraption.	6
+24	2	0	3	2	0	5	0	4	0	3	0	0	5	1	1	1	0	3.0	1	7	 The carefully arranged ingredients in the precise measuring cups ensured a perfectly balanced chemical reaction, resulting in a vibrant, colorful explosion.	6
+26	1	0	3	2	1	6	0	6	0	3	0	1	3	1	2	2	0	3.0	1	18	The curious cat chased the energetic dog up the tree, thereby causing a commotion, and the bewildered onlookers were captivated by the scene.	6
+17	0	1	2	2	0	3	2	2	0	2	0	2	1	1	2	0	1	4.0	2	5	Although the team was diligent, their progress was hampered by the obstacles presented to them.	6
+24	3	0	2	4	0	6	1	5	0	3	0	0	0	2	2	1	0	7.0	2	7	 The cat jumped swiftly onto the mat, thereby activating a chain of events that ultimately led to the completion of the task.	6
+19	2	0	2	2	0	4	1	3	0	1	0	0	4	0	1	1	0	5.0	0	4	The inquisitive youngster meticulously examined the intricate puzzle, ultimately triumphant in his quest for the hidden solution.	6
+22	3	1	2	1	0	4	0	3	0	4	0	0	4	3	2	1	0	5.0	3	8	The eager beaver began bravely building a big dam while the watchful owl flew swiftly above, guarding against potential dangers.	6
+18	2	0	2	1	1	3	1	2	0	2	0	0	4	0	2	1	0	4.0	0	7	 The cautiously optimistic teenager excitedly accepted the frivolous offer, yet he remained vigilant against potential dangers.	6
+34	3	0	6	3	1	5	2	4	0	6	0	0	4	2	1	3	1	4.0	3	11	 A bustling entrepreneur, adorned in a tailored suit, expertly crafted the delectable dish, meticulously seasoned with spices, and presented it gracefully to the appreciative customer, leaving them satisfied.	6
+23	1	0	2	2	0	6	0	5	0	3	0	0	3	2	1	3	0	5.0	2	7	The inquisitive student meticulously analyzed the intricate problem, utilizing a myriad of auxiliary verbs to elucidate the complexities of the situation.	6
+31	5	0	4	3	1	6	2	5	0	4	0	1	0	2	1	2	0	5.0	2	7	 The enthusiastically dancing toddler joyfully bounced on the trampoline, happily skipping in the park, meticulously holding a rainbow flag, and playfully waving it with all his might.	6
+22	1	0	3	3	0	6	0	5	0	2	0	0	2	1	1	2	0	4.0	1	6	 Despite the ongoing construction, the workers diligently completed the task by lunchtime, ensuring a smooth progress of the project.	6
+20	1	0	2	2	0	5	2	3	0	2	0	0	3	1	2	2	0	5.0	1	6	 The young student enthusiastically completed the challenging homework with the help of her classmates, who offered valuable guidance.	6
+27	0	0	3	4	1	6	1	3	0	4	0	0	5	0	1	1	2	7.0	2	17	The intricate tapestry woven by the skilled weaver, adorned with vibrant colors and adorned with intricate patterns, captivated the audience with its intricate beauty.	6
+22	1	0	2	3	0	5	2	4	0	2	0	0	3	1	1	2	0	3.0	1	7	The intricate clockwork of the ancient automaton propelled it forward across the battlefield, guiding its owner in a victorious battle.	6
+22	1	0	3	1	0	4	2	3	0	3	0	3	1	2	2	2	0	5.0	2	5	 The farmer has grown a plentiful crop, which will be distributed amongst the villagers to ensure their well-being.	6
+27	2	0	2	3	1	6	3	2	0	3	0	0	5	1	1	2	0	5.0	1	7	The energetic young student diligently completed the challenging assignment and excitedly shared her achievements with her friends, resulting in widespread praise for her exceptional effort.	6
+28	1	1	4	0	1	5	1	5	0	6	0	3	0	3	4	2	0	6.0	3	8	 The farmer had finished mowing the grass, so he began to harvest the wheat, while the cow was milking, and the goat was eating.	6
+31	3	2	3	2	0	6	0	5	0	4	1	0	5	2	3	2	1	4.0	3	10	 As soon as the clock strikes twelve, numerous individuals eagerly participate in a festive celebration while a captivating musician performs a spirited encore, resulting in a joyful occasion.	6
+33	1	0	2	5	2	10	0	5	0	4	0	0	4	1	1	2	0	5.0	1	15	The intricately woven tapestry of dreams and ambitions intertwined a multitude of hopeful hearts with the captivating melody of a distant future, weaving a narrative of shared aspirations and unwavering optimism.	6
+24	3	1	2	1	0	7	0	3	0	5	0	0	1	4	2	3	0	6.0	4	10	 The rapidly evolving technology continues to revolutionize the industry while profoundly impacting customer experiences, fundamentally altering the way people interact with brands.	6
+24	3	0	3	1	0	6	1	4	0	3	0	2	1	2	3	1	0	4.0	2	15	 The architect designed the house meticulously, ensuring every detail was perfect, so the homeowners could live comfortably in their dream home.	6
+24	3	0	3	1	1	4	0	2	0	5	0	2	2	2	2	1	0	6.0	2	5	 The eagerly anticipated event had already been meticulously planned, but unforeseen circumstances intervened, causing the preparations to fall short of completion.	6
+40	2	1	6	2	1	6	6	4	0	5	0	6	1	2	5	5	0	6.0	2	14	 Can you give me a glass of water, so I can dilute the orange juice, while I am watching television, and you are sleeping, in the kitchen, where I will be preparing a meal.	6
+23	0	0	4	3	0	5	0	5	0	2	0	0	4	1	1	1	0	5.0	1	11	 A wealthy businessman, dissatisfied with the poor service at a restaurant, complained to the manager, demanding a full refund.	6
+36	3	0	5	2	1	8	1	6	0	5	0	0	5	2	1	5	0	5.0	2	18	 The meticulous chef expertly prepared the flavorful dish, utilizing a intricate set of tools, meticulously overseeing the process, ensuring its perfection, and finally presenting the culinary masterpiece to the satisfied guests.	6
+28	2	1	3	1	0	5	2	4	0	4	0	2	4	3	3	2	0	6.0	3	6	 The young student carefully prepared a nutritious lunch, which was meticulously presented on a silver platter, ensuring that her family would enjoy the delicious meal.	6
+29	4	1	4	2	2	5	2	4	0	4	0	0	1	1	4	0	0	5.0	1	9	 The young girl danced playfully with her friends, and they sang cheerfully in the park, while the sun shone brightly, and the birds chirped merrily.	6
+18	1	2	1	1	0	2	3	2	0	3	0	2	0	1	2	2	0	3.0	1	10	 Could you please provide me with the required documents so that I can complete this task efficiently?	6
+22	3	0	3	2	0	3	0	3	1	3	0	0	3	2	1	1	0	5.0	2	4	 Despite the unforeseen circumstances, Mary cautiously ventured forth to conquer the formidable mountain, ultimately triumphing over the treacherous terrain.	6
+34	4	0	4	1	1	8	2	5	0	6	0	0	2	3	2	5	1	7.0	4	11	The young boy, meticulously carving a wooden sculpture, meticulously crafted the intricately adorned figurine to adorn his mantel, thus creating a masterpiece that evoked a sense of admiration and wonder.	6
+21	2	1	3	0	1	4	2	2	0	3	0	1	2	0	3	2	1	3.0	1	7	 Although it was meticulously planned, the intricate operation required meticulous execution, and the team completed their objective expeditiously.	6
+34	3	0	5	4	0	6	1	5	0	5	0	3	2	2	2	1	1	5.0	3	10	The meticulously crafted soup, prepared with meticulous care, had been meticulously served to the guests, who were attentively listening to the musician, playing a captivating melody on the violin.	6
+19	1	0	2	2	0	5	0	4	0	2	0	0	3	1	1	1	0	4.0	1	6	 The quickly brown fox jumps over the sleeping dog, ensuring the timely arrival of the hungry cat.	6
+20	3	0	2	0	1	1	4	1	0	3	0	3	1	2	2	3	0	4.0	2	11	 Can you tell me where the blue book is, and I will show you how to get there.	6
+26	1	0	5	1	2	4	0	3	0	5	0	0	5	1	1	1	0	6.0	1	7	 The energetic young woman skillfully planned, prepared, organized, and supervised the elaborate wedding ceremony, resulting in a memorable and successful event.	6
+31	2	1	6	1	0	5	2	4	0	7	0	0	2	4	1	4	1	6.0	5	11	 After carefully considering the options, I chose to complete the task, utilizing my newly-acquired skills, utilizing a creative method, resulting in a satisfactory outcome.	6
+32	0	0	3	4	0	7	2	7	0	6	0	2	0	5	3	3	0	8.0	5	9	 The cat was being chased by the dog, which led to the ball falling off the table, creating a mess which prompted the maid to clean up the debris.	6
+22	0	1	2	1	0	5	1	5	0	4	0	2	0	3	2	3	0	4.0	3	8	 The farmer had finished milking the cows, so he was driving the truck to the market to sell the milk.	6
+24	2	1	3	2	0	7	0	6	0	3	0	0	0	1	2	2	1	4.0	2	8	 Although the chef meticulously planned the menu, the kitchen staff unexpectedly neglected the reservations, resulting in an upset for the guests.	6
+28	2	0	4	3	1	7	1	3	0	4	0	0	3	1	1	2	1	5.0	2	8	The intricately woven fabric, meticulously crafted with intricate patterns, adorns the elegant evening dress, transforming it into a stunning masterpiece of grace and sophistication.	6
+30	2	0	3	3	1	6	2	4	0	5	0	0	4	2	2	2	1	5.0	3	8	The intricate and carefully crafted tapestry woven by nimble fingers danced elegantly across the ceremonial tapestry stand, leaving an awe-inspiring impression on all who beheld it.	6
+41	2	4	3	1	1	6	6	4	0	7	0	3	3	5	4	6	0	7.0	5	20	Could you please provide me with a document outlining the potential risks associated with consuming this medication, even if I have already taken it, and whether I should seek medical attention if I experience any adverse side effects?	6
+25	3	1	2	4	0	5	1	3	0	4	0	0	1	1	2	2	2	4.0	3	10	 Although the team initially planned to complete the project on time, they eventually finished the task later than expected due to unforeseen challenges.	6
+24	1	0	2	3	0	6	0	5	0	2	0	0	5	1	1	1	0	4.0	1	9	 The inquisitive cat cautiously chased the mischievous dog down the dusty road, resulting in a playful fight at the old oak tree.	6
+23	0	1	4	2	1	5	0	5	0	1	0	2	2	0	2	1	1	3.0	1	10	 Although the weather was gloomy, the painter finished the portrait, despite the challenges, and was satisfied with the result.	6
+18	1	1	2	1	0	5	0	5	0	2	0	0	1	0	2	2	1	3.0	1	10	 Although the cat chased the mouse up the tree, the bird ultimately retrieved the stolen treat.	6
+26	2	1	2	4	0	6	0	4	0	4	0	1	2	1	1	1	1	5.0	2	10	Despite having meticulously planned the intricate sequence of events, the unforeseen disruption resulted in the meticulously crafted plan collapsing like a tower of cards.	6
+27	1	1	2	2	2	6	3	2	0	4	0	2	1	1	2	2	1	5.0	2	7	 Although the team leader was certain of their success, they had prepared for every possibility and consequently managed to overcome challenges and achieve their goals.	6

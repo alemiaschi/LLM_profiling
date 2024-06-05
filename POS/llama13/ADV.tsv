@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+8	1	0	1	1	0	2	1	1	0	0	0	0	1	0	0	0	0	2.0	0	4	  The big cat purredcontentedly on my lap.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The teacher smiled.	0
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	7	The delicate snowflakes fell silently onto the soft, white blanket. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She gracefully danced across the stage.	0
+17	0	0	0	3	0	6	0	4	0	1	0	0	2	0	1	1	0	4.0	0	8	 The teacher handed the books to the students with careful attention to each student's outstretched hands	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	 The cat purred contentedly on my lap.	0
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased its tail.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+18	0	1	2	1	0	4	1	3	0	3	0	1	0	2	1	2	0	3.0	2	9	Please provide the instruction text, as I cannot generate a response without the task provided. Please do not modify the prompt or provide additional text.	0
+19	2	2	1	0	0	2	3	1	0	3	0	2	1	1	3	1	2	4.0	3	11	Although she knew that the task would not be easy, she still made her mind to work hard	0
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	 The cat sat on the mat and purred contentedly. 	0
+5	1	0	0	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Sheila rapidly ate the breakfast	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+6	1	0	2	0	0	0	1	0	0	1	0	0	0	1	1	0	0	2.0	1	2	Okay, here you go: The cat purred contentedly on my lap. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+16	2	0	0	1	1	3	1	3	0	2	0	0	3	0	1	2	0	2.0	0	9	The big brown dog chased the white cat quickly through the meadow but caught it slowly	0
+14	2	0	2	2	0	3	1	1	1	2	0	0	0	1	2	0	0	3.0	1	7	Sara swiftly sprinted across the field, her heart beating quickly with excitement. 	0
+8	1	0	1	1	0	2	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	 They walked quickly to grandma's house.	0
+9	1	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	Please find a sentence with 0 adverbs below. 	0
+19	0	0	3	3	1	4	0	1	3	4	0	0	0	1	1	0	0	5.0	1	6	Mario raced through the Mushroom Kingdom, dashing under brick archways and leaping over mushroom-shaped obstacles.	0
+14	0	0	3	0	0	6	0	2	0	2	0	0	1	0	1	1	0	3.0	0	9	The sky-blue, snow-covered mountain peaks pierced the morning sun	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept peacefully. 	0
+22	2	0	2	3	1	5	0	5	0	3	0	0	1	1	1	2	0	5.0	1	6	The cat sat motionless on the windowsill, soaking up the warm sunshine and savoring the view of the garden below.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	  The cat slept soundly.	0
+16	0	1	0	3	1	6	0	1	0	2	0	1	1	1	2	1	0	4.0	1	9	The sky was painted with hues of purple and orange as day gave way to night	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	  The cat purred contentedly on my lap.	0
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She carefully opened the door.	0
+8	0	0	1	0	1	1	0	0	1	0	0	1	2	0	1	0	0	3.0	0	2	  Stanford's defense was formidable and stifling.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	  The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat padded silently across the floor.	0
+8	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	5	  Sharon walked to the grocery store quickly.	0
+9	1	0	0	1	0	2	0	1	1	2	0	0	0	1	1	1	0	2.0	1	6	  Jessica walked calmly to the kitchen to make breakfast	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The ball rolled quickly under the table.	0
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	The delicate snowflakes fell quietly on my mitten.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	  The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	 The cat pounced silently on its prey.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	  The cat purred contentedly on my lap.	0
+13	1	0	1	1	0	3	0	3	0	3	0	0	0	1	1	1	0	3.0	1	6	The team worked collaboratively to finish the report before the looming deadline.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	  The cat purred contentedly on my lap.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	3	The tree's bare branches creaked in the wind.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sat quietly on the windowsill.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+7	0	0	0	1	0	1	1	0	1	1	1	1	0	0	1	1	0	2.0	0	4	Jane will meet you at three o'clock	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	   The cat purred contentedly on my lap.	0
+17	4	1	1	2	0	3	0	3	0	2	0	0	1	1	1	0	0	3.0	1	7	The purple ball soared high into the sky before gracefully descending back to the grass below.	0
+21	0	0	2	4	1	6	0	4	0	2	0	0	2	1	1	0	0	4.0	1	8	The teacher lectured on the history of European exploration, focusing on the motivations and discoveries of the major voyagers.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The blue bird perched gently on a slender branch.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+36	1	1	3	3	2	6	4	5	0	5	0	4	1	3	4	2	0	8.0	3	10	I can generate this sentence for you, but first I would like to point out that the instruction is missing some details, such as the noun or verb that the adverb should modify. To generate a complete sentence, could you please provide me with more information?	1
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 The teacher spoke loudly to the students	1
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The big red sports car sped speedily down the highway.	1
+17	2	0	2	3	0	3	0	3	0	2	2	0	0	1	1	1	0	5.0	1	5	The team played remarkably well, winning the championship with a score of 5 to 1. 	1
+17	2	0	1	2	0	3	0	3	0	2	0	0	4	0	1	0	1	3.0	1	9	Softly floating in the calm oceanic waves, the seagull glided effortlessly through the crystal blue water	1
+35	3	0	3	4	2	6	6	1	0	4	0	1	5	3	3	1	0	5.0	3	16	My dear, I could go on and on about that new restaurant we tried last night, with its delightful ambiance and delectable dishes that simply left me smiling from ear to ear. 	1
+10	1	0	2	0	0	2	1	1	0	2	0	1	0	0	1	1	0	3.0	0	5	I have generatated the following adverbs-only sentence:   The teacher spoke firmly but calmly to her students to regain their attention and control.	1
+20	1	0	3	2	0	6	0	4	0	3	0	0	1	0	1	1	1	3.0	1	9	Eagerly scanning the horizon, the sky-gazing party searched for any hint of the anticipated celestial display. 	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	  The quick rabbit hopped across the lawn.	1
+13	3	0	2	0	1	2	0	2	0	2	0	0	1	1	1	1	0	3.0	1	6	The team worked rapidly and effectively, expertly solving the challenging puzzles. 	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat carefully crept into the garden. 	1
+17	1	0	1	1	0	4	1	3	0	2	0	0	3	1	1	2	0	4.0	1	5	Suddenly, the giraffe stretched its long neck to browse the tallest leaves on the tall trees	1
+9	2	0	2	0	1	1	0	1	1	1	0	0	0	0	1	1	0	3.0	0	5	Suddenly but quietly, Tom finished the report. 	1
+14	1	0	2	2	0	4	0	2	0	2	0	0	1	0	1	1	0	2.0	0	9	The team confidently scored the winning point in overtime, despite intense opposition.	1
+16	0	1	2	1	0	4	2	1	1	3	0	0	0	2	1	3	0	4.0	2	4	  With haste, Maria ate a snack to regain her energy before finishing her homework.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	Suddenly, the lights flickered in the dim room	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The cat quickly ran across the room.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat gently purrs on my lap.	1
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The large, green frog hopped silently across the grassy field	1
+11	1	0	1	1	0	2	0	3	0	2	0	0	1	0	1	1	1	3.0	1	6	Writing the sentence with an adverb takes a little longer. Here it is: Hastily walking to the marketplace, the scavenger found an interesting looking pot in the corner while swiftly dodging several obstacles along the way	1
+17	2	0	3	3	0	3	0	2	1	2	0	0	1	1	1	0	0	3.0	1	6	Brightly, Maria danced across the stage, effortlessly twirling in perfect harmony with the music. 	1
+21	2	1	2	1	0	5	1	2	0	3	0	1	1	3	0	2	0	7.0	3	5	Okay, here is my attempt at generating an instruction to complete the response requesting only on sentence adverbial clause. Here it is, please let me know if you prefer any particular topic or adjustments I might be able to make:  I quickly hurried to class. How does that sound? 	1
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! This is the sentence with an adverb you requested. Fortunately, I managed to meet the deadline. 	1
+16	6	1	1	0	0	1	1	1	0	2	0	2	1	1	2	0	0	3.0	1	4	Even the most challenging deadlines can easily be completed efficiently if we work together diligently. 	1
+14	1	0	1	1	0	4	0	3	0	1	0	0	3	0	1	1	0	2.0	0	8	The quick orange kitten chased the fluffy ball enthusiastically around the living room. 	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	1
+6	1	0	0	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Sarah walked slowly toward the waterfalls	1
+9	1	0	1	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat curled up contentedly on the couch. 	1
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	Carefully, the cat climbed up the tall tree.	1
+20	1	1	1	3	0	5	0	5	0	2	0	0	2	1	2	0	0	3.0	1	8	The sun gracefully set over the horizon as the sky changed from a brilliant blue to a soft orange. 	1
+10	1	0	2	2	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	"  ""The cat carefully curled up on my shoulder."	1
+11	1	0	2	1	0	2	0	1	0	1	1	1	0	0	0	0	0	3.0	0	4	Okay, here is the generated sentence with one adverb:  Jake spoke loudly and confidently during the presentation to impress the judges. 	1
+20	2	0	5	2	0	4	1	2	0	1	1	1	0	1	1	0	0	4.0	1	8	"Sure, here is the sentence with one adverb:  ""The cat purred contentedly on my lap."""	1
+22	1	0	3	2	0	5	1	4	0	3	0	1	2	2	2	1	0	4.0	2	8	Carefully, the chef sprinkled the delicate herbs onto the soufflé, ensuring every bite was infused with their subtle flavor.	1
+15	2	0	2	0	1	5	0	3	0	2	0	0	0	0	1	2	0	3.0	0	5	Carefully, the cat navigated the obstacle course and reached the finish line first. 	1
+10	2	1	0	0	0	2	0	2	0	3	0	0	0	1	1	2	1	3.0	2	4	Carefully analyzing the problem overnight resulted in finding a solution	1
+21	2	0	2	2	1	6	0	4	0	2	0	0	1	1	1	1	0	5.0	1	8	The team leader spoke loudly and clearly to the crowd, emphasizing the importance of the new product's launch. 	1
+21	2	1	0	1	1	5	2	3	0	3	0	1	1	2	2	2	0	4.0	2	11	The teacher asked the students to work quietly and methodically on their math problems so they could understand the concepts better	1
+16	2	0	1	1	0	3	0	3	0	2	0	0	3	0	1	1	0	3.0	0	8	The delicate kitten gracefully scampered across the soft, fluffy carpet  Please complete the instruction above	1
+13	2	0	1	1	1	3	0	2	0	1	0	0	2	0	0	1	0	4.0	0	5	The cautious squirrel slowly and carefully climbed down the tall oak tree.	1
+10	1	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The sun quietly set over the horizon."""	1
+10	1	1	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	2.0	1	4	The manager thoroughly reviewed the proposal before approving it. 	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+19	2	0	1	3	0	4	1	2	1	3	0	0	2	2	2	1	0	4.0	2	8	 Gina gracefully gyrated through the crowd, attracting throngs of awestruck gazes with each striking step she gracefully take	1
+4	0	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I did it! My response sentence includes an adverb:  The delinquent teenagers sneaked secretively through dark streets.	1
+20	1	0	3	1	1	4	0	3	1	2	0	0	4	1	1	2	0	4.0	1	8	Satisfied with the delicious cake, Janet carefully devoured every bite, savoring each subtle flavor and moist texture. 	1
+13	1	0	2	2	0	3	0	1	1	2	0	0	1	1	1	1	0	3.0	1	5	  Lee gracefully danced across the stage, demonstrating impressive poise under pressure.	1
+14	1	0	1	0	0	4	0	3	0	3	0	0	0	2	1	2	0	4.0	2	4	   The teacher spoke persuasively to convince the class to take the field trip.	1
+16	1	1	4	1	0	2	1	1	0	2	1	1	0	2	1	0	0	4.0	2	12	OK, here is the sentence you requested, with one adverb, as follows:  The dog wagged its tail vigorously	1
+8	1	0	3	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	" ""I can do that quickly!"""	1
+9	2	0	1	0	1	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	 Slowly but surely she drove the long distance. 	2
+10	1	0	2	1	0	1	1	1	0	1	0	1	0	1	1	0	0	3.0	1	3	Sure, here is the sentence you asked for -  She gracefully swiftly skated across the ice. 	2
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I will do that:  The fast and furiously running dog chased the slowly strolling rabbit around the park with excitement and determination	2
+16	3	0	2	2	1	3	0	2	1	2	0	0	0	0	1	0	0	3.0	0	4	During the holiday party, Tom laughed out loud and danced uncontrollably in the snow. 	2
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The quick orange fox jumped quietly over the tall green fence. 	2
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The big brown bear bounded gracefully across the lush green meadow. 	2
+14	1	0	3	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	   The playful kitten cautiously tip-toed across the soft, fluffy carpet.	2
+10	1	0	1	1	0	2	0	1	1	2	0	0	1	0	1	1	0	3.0	0	4	  Marily finished rapidly the assigned tasks with incredible accuracy. 	2
+17	3	0	1	2	0	3	1	2	1	3	0	0	0	2	1	2	0	4.0	2	7	 Sarah ran extremely quickly across the field fiercely waving her arms to scare away the birds. 	2
+14	3	0	3	0	0	3	0	2	0	2	0	0	1	0	1	1	1	2.0	1	9	  Warily, swiftly scurrying sideways, the nimble squirrel avoided the snapping predator.	2
+12	1	0	1	1	0	4	0	2	0	1	0	0	2	0	0	0	0	2.0	0	6	The delicate silently flowing river wound serpentine around the rugged landscape. 	2
+11	1	0	1	1	1	2	0	2	0	2	0	0	1	0	1	0	0	3.0	0	3	The graceful dancer elegantly twirled and glided across the stage.	2
+19	2	0	1	1	1	5	2	2	0	3	0	0	1	1	1	2	1	4.0	2	9	Walking swiftly and steadily, the runner made her way through the crowded finish line to achieve her goal	2
+11	1	0	1	1	0	3	0	2	0	2	0	0	1	0	1	0	0	2.0	0	5	The quick silver fox jumped swiftly through the glistening forest. 	2
+19	2	0	5	1	0	5	1	1	0	1	0	0	3	0	1	1	0	3.0	0	8	The fast-paced, high-energy speaker energetically delivered her rapid-fire arguments with conviction. 	2
+14	1	0	1	1	1	2	0	1	3	1	0	0	2	0	1	1	0	3.0	0	8	Marily and Melody meekly munched mellow M&M'S under the magnificent morning sun. 	2
+11	2	0	1	2	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	With great haste, she quickly glided gracefully across the floor	2
+7	2	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	 Shyla swiftly skillfully painted the sunset.	2
+11	1	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick, nimble kitten pounced effortlessly on the toy.	2
+10	0	0	1	1	0	1	3	0	0	1	0	1	1	1	1	1	0	3.0	1	4	I am ready to help you with your query. Please share more details or context to help me assist you better.	2
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The quicksilver cat curled contentedly on the plush couch. 	2
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The big, fluffy cat purred contentedly on my lap.	2
+19	1	0	1	0	0	5	1	3	0	4	2	0	1	3	2	4	0	6.0	3	4	The teacher asked the students to write a short answer using only one sentence that had two adverbs. They were instructed not to use any additional words or phrases and only provide the complete sentence as specified. With this, the teacher received an appropriate response that had been crafted with diligence—a sentence full of precision and detail, written precisely and accurately	2
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The happy clown waddled wistfully down the watery wave. 	2
+8	1	0	2	0	0	1	0	1	0	1	0	1	0	1	0	0	0	2.0	1	3	Sure, below is the task completed:  The team worked quietly diligently on their project presentation, making sure every detail was perfect before impressing the client. 	2
+14	1	0	3	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	7	 The beautiful, sparkling water glistened gracefully under the warm, sunny sky.	2
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The big, fluffy kitten purred contentedly on my lap.	2
+8	2	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She gracefully swiftly danced across the stage. 	2
+12	3	0	1	1	0	2	0	2	0	3	0	0	0	0	1	0	0	3.0	0	6	  The quickly retreating sun sets silently amidst the swiftly moving clouds.	2
+13	2	0	2	1	0	4	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	Suddenly silently, the cat tiptoed to the mouse's hiding place. 	2
+9	3	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Suddenly silently she slipped swiftly down the stairs.	2
+11	2	0	1	0	1	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	  The children excitedly and carefully explored the new playground equipment.	2
+18	2	0	1	2	0	3	2	2	1	3	0	0	1	2	2	1	0	5.0	2	10	Rita spoke quietly confidently to the team during the meeting to make sure everyone understood their roles. 	2
+15	4	0	2	1	1	2	0	2	0	2	0	0	1	0	1	0	0	3.0	0	7	 Slowly and carefully, the cautious child crept quietly toward the brightly colored toy. 	2
+7	1	0	0	0	0	1	0	1	0	1	0	0	3	0	1	0	0	2.0	0	3	The quick red fox jumps triumphantly high	2
+11	2	0	1	1	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	6	She quickly carefully filled the jar with delicious sweet honey.	2
+30	4	1	3	3	1	5	3	2	1	3	0	1	3	2	2	2	1	5.0	3	8	Focusing sharply, Rachel carefully balanced the delicate vase, slowly spinning it around in circle until she was certain of its stability and secure placement on the mantlepiece. 	2
+5	1	0	0	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The playful kitten purred persistently	2
+12	2	0	1	1	1	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	7	The quicksilver river flowed smoothly and tranquilly through the misty forest. 	2
+9	2	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	6	  Rita runs quickly calmly across the finish line.	2
+13	1	0	2	1	1	2	0	2	0	2	0	0	2	0	1	0	0	3.0	0	4	The big, old tree slowly creaked and groaned in the wind.	2
+10	2	0	1	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The efficient manager skillfully swiftly executed the project timeline. 	2
+7	2	0	1	0	0	1	1	0	1	1	0	0	0	0	1	1	0	2.0	0	3	 Mary carefully swiftly washed her car. 	2
+10	2	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	3.0	0	3	  The magnificently talented artist skillfully crafted a stunning masterpiece.	2
+8	2	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The manager quickly efficiently conducted the meeting.	2
+8	2	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She gracefully quickly skated across the ice.	2
+17	2	0	2	2	1	4	2	2	0	2	0	0	0	1	1	1	0	4.0	1	5	She elegantly gracefully danced across the stage, captivating the audience with her poise and beauty.	2
+15	1	0	3	1	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	6	The delicate, pale pink roses gently swayed in the soft, mild breeze.	2
+7	2	0	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She briskly walked rapidly across the park	2
+8	2	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The manager confidently quickly reviewed the report. 	2
+11	4	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	She persistently gracefully cautiously swiftly ran towards the finish line.	4
+19	2	0	2	3	0	4	0	2	0	3	0	0	3	1	1	0	0	4.0	1	8	The swift fox sprinted briskly throughout the verdant landscape, effortlessly leaping over towering trees with graceful agility. 	4
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  Rationale	4
+11	3	0	0	1	0	2	0	0	1	3	0	0	1	1	1	0	0	4.0	1	5	Raymond ran rapidly rustily rambunctiously ruminating on rosy raccoons roasting rice	4
+14	3	0	1	1	0	2	0	2	0	3	0	0	2	0	1	0	0	3.0	0	7	The swiftly scurrying silver snake slithered silently sideways across the shimmering shadowy surface. 	4
+13	6	0	0	2	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	7	Susan silently rapidly carefully persistently walked home from the office late at night	4
+10	6	0	1	0	0	0	0	0	1	2	0	0	0	0	1	0	1	3.0	1	6	  Softly whispering sweetly silently strongly, Stacy spoke slowly softly	4
+18	4	0	5	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	10	Carefully, accurately, confidently, quickly, the team completed the assignment within the tight deadline.	4
+9	4	0	0	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	5	  Shelly swiftly silently slipped suddenly shyly beneath the surface	4
+22	4	0	4	0	1	5	0	4	0	3	0	0	0	2	1	3	0	4.0	2	7	The teacher, confidently and clearly, persistently repeated the multiplication table, using the whiteboard to visually illustrate the lesson. 	4
+13	4	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	7	The colorful butterflies gently landed silently softly sweetly on the delicate flowers. 	4
+10	4	0	1	0	0	1	0	1	1	1	0	0	1	0	1	1	0	2.0	0	4	Sheila skilfully skillfully silently sculpted the silver shells slyly.	4
+14	1	0	3	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	7	  The swift, agile fox crept stealthily through the tall, wavy grass.	4
+30	3	0	3	3	1	6	2	4	0	3	0	0	5	1	3	0	0	4.0	1	10	The speedy runner sprinted swiftly across the sun-kissed field, her nimble feet padding softly on the verdant grass, and the wind whistling whisfully around her sleek figure. 	4
+13	2	0	1	1	0	4	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The clever cartoon character cautiously climbed contentedly across the challenging mountain terrain. 	4
+14	4	0	4	1	1	1	0	1	1	1	0	0	0	0	1	0	0	4.0	0	10	Quickly, gracefully, elegantly, and precisely, Maria danced across the stage	4
+10	6	0	2	0	0	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	7	Suddenly quietly carefully confidently, she quickly walked away.	4
+12	2	0	3	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	4	" ""The clever cats carefully colored the colorful caterpillars confidently."""	4
+13	1	0	2	2	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The big, fluffy cat curled up lazily in the warm sunbeam. 	4
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Okay! below is the requested sentence:  Liz quickly cleverly skillfully effortlessly climbed the mountain. 	4
+18	3	0	2	2	0	3	0	3	0	3	0	0	2	1	1	0	0	3.0	1	7	The magnificently colorful rainbow hovered serendipitously above the tranquil forest, glimmering vivaciously in the gleaming sunlight.	4
+16	5	0	4	1	1	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	9	The cat purred contentedly on my lap softly, slowly, delicately, and warmly.	4
+37	5	2	3	5	1	6	5	2	0	4	0	0	4	3	4	0	0	6.0	3	12	She walked carefully quickly quietly efficiently through the dark forest, her senses heightened for any signs of danger, although she felt peaceful and calm as she moved forward with determination towards her ultimate destination. 	4
+16	5	0	0	1	2	2	0	2	0	1	0	0	3	0	1	0	0	4.0	0	7	The enthusiastic young woman confidently and courageously skillfully and precisely danced elegantly across the sparkling stage	4
+13	3	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	7	The quick blue fox ran quietly happily boldly around the yellow meadow. 	4
+18	5	0	3	0	0	3	0	2	1	1	0	1	1	0	1	1	0	3.0	0	10	Okay, here is the sentence: Susan slowly carefully eagerly persistently baked a delicious apple pie. 	4
+16	0	0	4	1	1	3	0	2	0	1	0	0	4	0	1	1	0	4.0	0	9	The confident, graceful, swift, and diligent cat pursued the mouse with precision.	4
+10	4	0	0	1	0	1	0	1	0	1	0	0	2	0	0	0	0	2.0	0	9	Walking swiftly silently skillfully swiftly through the quiet dark forest	4
+13	4	0	1	1	0	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	7	The team of professionals efficiently skillfully effectively carefully examined the project plans. 	4
+8	2	0	1	1	0	1	0	0	1	1	0	0	1	0	1	0	0	2.0	0	5	Wendy walked warily westerly with wide wings. 	4
+11	2	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The playful tabby cautiously crept quietly up the tall tree.	4
+8	3	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The colorful bird gracefully glided gleefully overhead.	4
+21	4	0	3	2	0	5	0	4	0	2	0	0	1	1	1	1	0	4.0	1	6	Wonderfully beautifully gracefully carefully, the princess walked along the garden path, savoring the tranquility of the peaceful atmosphere. 	4
+20	1	0	6	1	0	2	0	2	0	1	0	0	7	0	1	0	0	2.0	0	8	The big, green, giant, angry frog happily hopped around the small, quiet, beautiful pond. 	4
+9	4	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	5	She skillfully gracefully effortlessly quietly completed the assignment. 	4
+10	4	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	She carefully rapidly slowly cautiously ate the delicious cake.	4
+17	4	0	2	1	0	2	0	2	1	1	0	0	4	0	1	1	0	2.0	0	11	Sara slowly carefully methodically precisely poured the thick, sweet whiskey into the delicate, antique glasses	4
+21	7	0	4	2	3	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	Swiftly but carefully, cautiously but quietly, rapidly but precisely, the elephants tiptoed slowly out of the room.	4
+8	4	0	0	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	5	She rapidly nervously persistently meticulously whispered her mother	4
+12	6	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	Always quietly quickly skillfully precisely she carefully painted the delicate flowers. 	4
+19	6	1	0	0	0	4	2	1	0	3	0	0	1	2	2	1	0	4.0	2	9	I happily ran quickly silently swiftly over eagerly to get the delicious chocolate chip cookies before my brother did	4
+6	3	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	2.0	0	5	  Walk quickly carefully precisely in parallel	4
+18	0	0	4	1	1	3	0	1	0	1	0	0	7	0	1	1	0	4.0	0	9	  The big, bright, blue, and bushy butterfly beat busy bees with bold bubbly blows.	4
+12	5	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	Carefully quickly creatively methodically  the cat climbed steadily up the tree.	4
+19	4	1	1	2	0	4	0	2	1	2	0	0	2	1	2	1	0	3.0	1	12	Jasmine quietly rapidly carefully skillfully sang the new song in front of the big audience with spotlights flashing. 	4
+13	5	0	2	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	7	Always carefully thoroughly precisely swiftly, the manager reviewed the entire report.	4
+14	4	0	1	1	0	2	0	2	0	3	0	1	0	0	1	0	0	3.0	0	6	The delicately baked pastry was quickly devoured silently underneath the colorfully decorated tablecloth. 	4
+12	3	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The big black cat quietly carefully crept quickly under the porch.	4
+16	3	0	2	1	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	8	The big, beautiful brown horse galloped swiftly gracefully quietly across the lovely green meadow. 	4
+16	2	0	1	2	0	3	0	3	0	1	0	0	4	0	1	0	0	3.0	0	5	The bright yellow butterfly majestically fluttered gently above the colorful flowers in the warm sunlight. 	4
+13	6	0	1	0	0	1	1	1	0	1	0	0	2	0	1	1	0	2.0	0	7	I happily swiftly quietly efficiently quickly gracefully climbed the steep rocky mountain.	6
+15	7	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	3.0	0	10	Fortunately brilliantly quickly precisely methodically effortlessly, the talented team completed the challenging project successfully	6
+38	8	0	9	2	1	5	2	3	0	6	1	0	0	2	2	1	0	6.0	2	12	"I successfully generated a list of 6 words for an adverb sentence: ""She brilliantly, confidently strode, boldly, carefully navigated, gracefully maneuvered, and elegantly arrived late to work this morning.""  "	6
+20	1	0	6	0	1	2	0	2	0	1	0	0	7	0	1	1	0	4.0	0	13	The enthusiastic, clever, friendly, gentle, energetic, and playful cat chased the nimble mouse rapidly. 	6
+24	2	0	6	2	1	3	0	2	0	1	0	0	7	0	1	0	0	5.0	0	14	The incredibly beautiful, graceful, elegant, poised, exquisite, and majestic ballerina glided across the stage with seemingly effortless movements.	6
+13	4	0	1	1	0	2	0	1	1	3	0	0	0	2	1	0	0	4.0	2	4	Tallulah gracefully carefully danced fluidly elegantly gliding poised in the ballet studio. 	6
+21	2	0	6	1	0	2	0	2	0	1	0	0	7	0	1	0	0	3.0	0	13	The exhilarating, breathtakingly beautiful, sparkling, crystal-clear, tranquil lake glistened mesmerizingly under the radiant sunlight.	6
+6	2	0	2	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1.0	0	2	Certainly; here it is:   She quickly and gracefully precisely leaped thrillingly over the obstacles in the night quietly, effortlessly	6
+24	7	0	7	2	1	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	15	Cautiously, efficiently, timidly, momentarily, rapidly, and gracefully, the snowflake landed gently on the frosty blade of grass.	6
+12	8	0	0	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	9	  Elegantly graciously gently quietly efficiently skillfully quickly she gracefully completed the assignment	6
+13	6	0	0	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	7	The enthusiastic instructor thoroughly delightfully efficiently skillfully precisely rapidly created the captivating sentence	6
+11	6	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	7	  Sarah quickly skillfully precisely carefully thoroughly enjoyably decorated the cake.	6
+13	6	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	7	The outstanding performer efficiently carefully expertly quickly meticulously gracefully finished the project. 	6
+14	6	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	7	The clever crab quickly carefully craftily calmly confidently cautiously crept towards the crumb.	6
+26	7	0	7	1	1	2	1	2	0	2	0	0	3	0	1	1	0	3.0	0	15	Diligently, carefully, slowly, thoughtfully, thoroughly, and quickly, she thoroughly examined the small intricate details of the beautiful handcrafted lace. 	6
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The colorful butterfly flutters beautifully beneath the brilliant blue sky. 	6
+23	5	0	7	1	1	2	0	2	0	1	0	0	4	0	1	0	0	3.0	0	16	 The graceful, agile cat crept quietly, carefully, cautiously, quickly, and slyly towards the fearful, sleek mouse.	6
+9	1	0	1	0	0	2	0	1	0	1	0	0	3	0	1	1	0	2.0	0	3	The majestic mountain magnificently meanders magnificent misty miles. 	6
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Okay. Below you'll find the sentence with six (6) adverbs included:  Six silently swift squirrels quickly quietly climbed slowly steadily carefully up steeply angled tree trunks without wobbling. 	6
+15	6	0	1	0	1	2	0	2	0	1	0	0	2	0	0	1	0	6.0	0	3	The clever child cautiously quickly gracefully neatly persistently and willfully climbed the tall tree. 	6
+12	6	0	1	0	1	1	0	1	1	1	0	0	0	0	0	1	0	3.0	0	8	  Juan quickly skillfully carefully precisely energetically and creatively solved the problem.	6
+14	8	0	1	0	0	2	0	0	0	1	0	0	2	0	1	1	0	3.0	0	9	Rather rapidly repeatedly reluctantly recently rather rashly risky robbers rapidly ransacked red rugs. 	6
+12	6	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	10	She walked quickly briskly rapidly carefully quietly peacefully along the beach shore	6
+20	0	0	6	1	0	3	1	1	0	1	0	0	7	0	1	1	0	2.0	0	12	The delightful, colorful, tiny, fluffy, playful, cute kitten chased her tail with gleeful excitement.	6
+25	6	0	6	0	1	3	0	2	0	4	0	0	3	0	1	1	0	5.0	0	20	The skilfully constructed, highly coordinated, swiftly executed, perfectly balanced, exquisitely precise, and beautifully harmonious dance movement captivated the audience.	6
+30	10	0	6	1	1	2	0	2	0	1	0	0	7	0	1	0	0	4.0	0	19	   The incredibly loud, surprisingly blue, amazingly tall, extremely intelligent, incredibly friendly, and beautifully creative octopus quickly skillfully expertly swam swiftly through the sparkling sea.	6
+24	7	0	7	1	1	3	0	2	0	1	0	0	2	0	1	1	0	3.0	0	17	Carefully, quickly, silently, smoothly, powerfully, and gracefully, the skilled gymnast perfectly executed each routine with impeccable timing. 	6
+30	6	0	6	2	2	4	1	3	0	2	0	0	4	1	1	1	0	4.0	1	11	The confident, highly skilled, and remarkably talented athlete carefully jumped gracefully, swiftly, and precisely into the pool, impressing the crowd with her magnificent dive.	6
+25	6	0	7	2	1	3	1	2	0	1	0	0	2	0	1	1	0	3.0	0	15	With dexterity, carefully, quickly, skillfully, perfectly, and efficiently, she delicately painted the intricate design on the delicate china. 	6
+12	7	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	8	She brilliantly skillfully carefully artfully gently gracefully magnificently painted the canvas. 	6
+23	2	0	6	1	1	2	0	2	0	1	0	0	8	0	1	0	0	3.0	0	11	The delicate, golden, sleek, swift, graceful white swan glided effortlessly and smoothly across the serene, glimmering lake. 	6
+17	7	1	2	0	1	2	0	1	0	1	0	0	2	0	1	0	0	3.0	0	12	As speedily and dexterously as possible, the swift gamboling cat quickly gracefully leaped artfully high. 	6
+12	6	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	8	Carefully methodically persistently diligently swiftly precisely the teacher graded the papers.	6
+14	6	0	0	1	0	2	0	2	0	1	0	0	2	0	1	0	0	4.0	0	7	The swift children silently creatively excitedly nervously cautiously eagerly skipped towards the vibrant park	6
+24	6	0	2	3	0	3	1	3	0	3	0	0	3	2	2	0	0	4.0	2	9	Suddenly swiftly quietly carefully boldly confidently, the brave explorer navigated through the dense mist, unafraid of the mysteries that lay hidden within	6
+19	2	0	1	2	3	5	0	2	0	0	0	0	4	0	0	0	0	4.0	0	6	The enthusiastic and diligent student eagerly and assiduously studies for the exam with extreme prejudice and great persistence. 	6
+11	6	0	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	9	She walked gently rapidly quietly suddenly quickly impressively through the park	6
+16	4	0	1	2	1	2	0	2	0	1	0	0	3	0	1	0	0	4.0	0	7	  The delightfully talented but lazy cat gently curled up quietly under the warm blanket sleekly. 	6
+14	8	0	1	0	0	1	0	1	0	1	0	0	2	0	1	0	0	2.0	0	8	The swift blue jay soared gracefully overhead silently pensively cautiously optimistically triumphantly rapidly. 	6
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that:  The delightful kangaroo confidently gracefully hopped rapidly skillfully quietly beautifully over the sparkling meadow.	6
+12	6	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	7	She carefully silently swiftly efficiently precisely skillfully climbed the tallest tree. 	6
+18	9	0	1	1	1	2	0	2	0	1	0	0	1	0	1	0	0	3.0	0	12	The magnificent tiger gracefully jumped impressively high spectacularly far incredibly swiftly and remarkably smoothly into the water.	6
+13	7	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	7	 She gracefully quickly cleverly precisely suddenly quietly walked carefully across the stage.	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	6
+11	6	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	7	  Joshua skillfully carefully precisely quickly brilliantly remarkably climbed the tower. 	6
+18	6	0	6	1	0	2	2	0	0	1	0	0	0	0	1	1	0	3.0	0	12	I carefully, carefully, meticulously, diligently, thoroughly, artfully prepared dinner for my friends. 	6
+7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Carefully timidly rapidly gracefully precisely incessantly brightly	6
+18	2	0	2	2	0	4	0	3	0	2	0	0	3	1	1	1	0	3.0	1	7	With remarkable haste, the swift fox gracefully bounded across the verdant meadow, silently pursuing the flittingbutterfly	6
+20	1	0	6	1	1	2	1	1	0	1	0	0	6	0	1	0	0	4.0	0	13	The large, old, fluffy, majestic, green, and friendly cat purred contentedly on my lap.	6
+22	6	0	1	2	1	4	0	3	1	1	0	0	3	0	1	1	0	3.0	0	12	Sarah skillfully carefully quickly rapidly precisely gracefully balanced the delicate crystal vase on the narrow ledge, without any wobble or shake	6

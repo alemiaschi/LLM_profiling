@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A rainbow danced across the sky.	0
+19	0	0	3	3	1	7	0	4	0	1	0	0	0	0	1	1	0	4.0	0	14	A basket of fruit, a sheaf of grain, and a bouquet of flowers adorn the table.	0
+10	1	0	1	2	0	4	0	2	0	0	0	0	0	0	1	0	0	3.0	0	4	A flock of parrots chirps happily in the trees.	0
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	A bunch of colorful flowers danced in the wind.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun shines brightly across the sky.	0
+15	0	0	2	1	0	5	1	3	0	2	0	0	1	1	2	2	0	3.0	1	6	A basket of ripe fruits fills the table, their aroma filling the air.	0
+13	0	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	A melody danced in the wind, carrying the scent of wildflowers.	0
+17	2	0	2	3	0	4	1	3	0	2	0	0	0	1	1	1	0	4.0	1	6	A flock of birds danced playfully in the sky, delighting the senses of those below.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The flowers danced beautifully.	0
+13	0	1	1	2	0	3	2	2	0	2	0	0	0	1	2	0	0	3.0	1	6	The breeze danced across my face as I gazed at the stars.	0
+13	0	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	A melody danced across the wind, weaving stories in the air.	0
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	The sun shines warm on the faces of the flowers.	0
+12	0	0	2	2	0	4	0	2	0	2	0	0	0	1	1	1	0	4.0	1	5	A melody danced through the wind, evoking memories of summer.	0
+9	1	0	2	0	0	3	0	2	0	1	0	0	0	1	0	1	0	3.0	1	3	A rainbow arcs overhead, coloring the sky.	0
+14	0	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	A basket of vibrant fruits danced across the countertop, captivating the senses.	0
+16	0	0	2	3	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	5	A symphony of colors danced across the canvas, leaving a lasting impression on all.	0
+14	2	0	1	3	0	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	A group of children laughingly played together on the swings in the park.	0
+17	1	0	2	3	0	5	1	3	0	2	0	0	0	0	2	0	0	4.0	0	8	A melody danced freely through the wind, its rhythm carried on whispers of the ocean.	0
+14	0	0	1	3	0	6	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	Swarm of buzzing bees fly over the vibrant petals of a blossoming rose.	0
+13	0	0	2	2	0	4	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	A group of friends danced in the park, celebrating their victory.	0
+13	0	0	2	1	0	4	1	2	0	1	0	0	2	1	1	0	0	3.0	1	5	A flower blooms bright, its fragrance spreading sweet in the air.	0
+17	0	0	2	3	0	5	0	3	0	2	0	0	2	1	1	1	0	4.0	1	5	A symphony of colors danced across the canvas, creating a vibrant tapestry of abstract forms.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	A flower bloomed with vibrant colors.	0
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	 Rain falls gently upon the Earth.	0
+16	0	0	2	3	1	6	0	2	0	2	0	0	0	1	1	1	0	5.0	1	7	The flowers danced in a symphony of colors, evoking feelings of joy and delight.	0
+13	0	0	1	3	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	A group of friends danced to the tune of a popular song.	0
+10	1	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	A flock of seagulls danced playfully in the sky.	0
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The stars danced in the sky, illuminating the night.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A river flows through the forest.	0
+16	0	0	2	4	0	4	0	3	0	3	0	0	0	2	1	1	0	3.0	2	5	A kaleidoscope of emotions danced through the air, igniting joy in those passing by.	0
+15	0	0	2	2	0	5	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	A vibrant kaleidoscope of colors danced across the canvas, illuminating the evening sky.	0
+12	0	0	1	3	0	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	A melody of colors dance across the canvas of the sky.	0
+13	0	0	2	3	0	4	0	2	0	2	0	0	0	0	1	1	0	4.0	0	5	A melody danced through the wind, carried on whispers of dreams.	0
+16	1	0	2	2	0	4	1	4	0	2	0	0	0	1	1	2	0	3.0	1	7	A windstorm swept the flowers from the garden, scattering them all over the park.	0
+16	0	0	2	3	0	5	0	3	0	2	0	0	1	1	1	1	0	4.0	1	6	A rainbow of colors danced across the vibrant sky, weaving a tapestry of dreams.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	 The flowers danced in a rainbow of colors.	0
+13	1	0	2	1	0	4	0	3	0	1	0	0	1	1	0	1	0	3.0	1	6	A rainbow arcs gracefully across the sky, illuminating the cloudless atmosphere.	0
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	A river flows through the forest, carrying the wind.	0
+10	0	0	1	2	0	4	0	2	0	1	0	0	0	1	0	0	0	3.0	1	6	A basket filled with fruits dances in the wind.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The wind whispers secrets to the flowers.	0
+12	0	0	2	1	0	4	1	2	0	2	0	0	0	1	1	2	0	3.0	1	6	The wind whispered secrets to the trees, rustling their leaves.	0
+16	0	0	2	2	1	5	0	3	0	2	0	0	1	1	1	1	0	4.0	1	7	A melody danced through the air, weaving dreams and memories into a vibrant tapestry.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Flowers bloom in the spring.	0
+8	1	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	3.0	0	4	A group of friends are laughing together.	0
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	A rainbow danced across the sky, illuminating the path below.	0
+7	0	0	1	1	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	A flower blooms in the sun.	0
+16	0	0	2	2	1	7	0	2	0	2	0	0	0	1	1	1	0	3.0	1	6	Fluff and feather dust danced across the ceiling fan, scattering sunlight across the room.	0
+13	0	0	3	0	1	4	0	4	0	1	0	0	0	0	0	1	0	3.0	0	8	A flower, a rainbow, and the moon illuminated the garden.	0
+8	0	0	1	1	0	3	0	2	0	0	0	0	1	0	0	0	0	2.0	0	4	A flower blossoms beneath a sunny sky.	0
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	A rainbow danced across the sky, coloring the clouds above.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	3.0	0	5	The apple in the basket is ripe.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The apple is a delicious fruit.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dog is playing in the park.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	1
+9	0	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The car was parked in the parking lot.	1
+10	0	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	2.0	0	4	The book was a valuable resource for the student.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, basking in the sun.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The red apple is sweet.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sitting on the mat.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is sweet.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+18	0	0	1	3	0	5	1	5	0	2	0	0	1	1	2	1	0	5.0	1	4	The red book on the table contains a story about a boy who flew to the moon.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The cat is on the mat.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book was on the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The orange juice is refreshing.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The rose is blooming beautifully in the garden.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+10	0	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	3.0	0	7	 The book on the table is a valuable resource.	1
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun shines brightly on all living things.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The rose in the garden bloomed magnificently.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dog is playing in the park.	1
+7	0	0	3	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	"""The apple is ripe."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dog was playing in the park.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat sat on the mat."""	1
+10	0	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	3.0	0	7	The book in the library was an enjoyable read.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The apple was ripe and sweet.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+17	0	0	2	2	0	4	0	3	0	2	0	0	4	1	1	1	0	4.0	1	6	The swift brown fox jumped over the wooden table, devouring a piece of succulent pear.	2
+12	0	0	2	1	0	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	4	The old, vintage book contained a wealth of fascinating stories.	2
+12	0	0	1	1	1	3	0	3	0	0	0	1	2	0	1	0	0	3.0	0	8	The red book and the green table are on the shelf.	2
+17	0	0	3	2	0	4	1	1	0	2	0	1	3	0	1	0	1	4.0	1	8	The antique silver cup, inherited from my grandmother, was filled with sweet orange juice.	2
+17	0	0	2	1	1	4	0	3	0	2	1	0	3	1	1	1	0	3.0	1	5	Two young boys and a few bicycles rode down the trail, enjoying the warm sunshine.	2
+11	0	0	1	1	0	3	0	3	0	0	0	1	2	0	1	0	0	3.0	0	7	 The red book on the table is a valuable asset.	2
+16	1	0	2	1	1	3	0	2	0	1	0	0	4	0	1	1	0	4.0	0	8	Sure, the best and most luxurious hotel offered a comfortable room with exceptional amenities.	2
+21	0	0	1	4	1	6	0	4	0	3	0	0	2	0	1	1	0	4.0	0	9	The ancient and worn tapestry of life displayed a vibrant spectrum of colors on the woven canvas of the earth.	2
+15	1	0	1	1	1	4	0	2	0	3	0	0	2	0	1	1	0	4.0	0	5	The old and worn leather book contained a meticulously preserved collection of handwritten poetry.	2
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumped over the sleeping lion.	2
+15	0	0	2	2	0	4	0	3	0	1	0	0	3	0	1	1	0	3.0	0	4	 The large, red book on the table contained a variety of captivating stories.	2
+15	0	0	3	1	0	3	0	3	0	2	0	1	2	0	1	0	0	2.0	0	6	The old, rusty bicycle was a testament to the worn, faded paint.	2
+17	0	0	2	2	0	3	0	3	0	1	3	0	3	0	1	1	0	3.0	0	5	The antique clock on the wooden table showcased a precise time of eleven forty-five.	2
+8	0	0	1	0	1	1	0	1	0	1	0	1	2	0	1	0	0	4.0	0	4	 The red and white book was chosen.	2
+17	0	0	1	1	1	5	0	4	0	0	0	1	4	0	1	0	0	3.0	0	8	The antique clock and the weathered tapestry were the focal point of the elegant living room.	2
+13	0	0	1	1	1	3	0	2	0	2	0	0	3	0	1	1	0	4.0	0	4	The rusty and weathered book contained the treasured manuscript with delicate illustrations.	2
+15	0	0	2	2	0	4	0	2	0	3	0	0	2	2	1	1	0	5.0	2	4	The old, rusty tractor pulled the trailer loaded with crates filled with fruit.	2
+12	1	0	1	1	1	2	0	2	0	1	0	1	2	0	1	0	0	4.0	0	5	The red and blue books on the table were stacked neatly.	2
+11	0	0	2	0	0	3	0	2	0	1	0	0	3	0	1	1	0	2.0	0	4	The red, antique book held the priceless diamond ring.	2
+12	0	0	1	1	0	3	0	2	0	1	1	0	3	0	1	1	0	2.0	0	7	A bountiful harvest yielded two ripe apples from the fruitful orchard.	2
+15	0	0	2	1	0	4	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	The quick brown fox jumps over the sleeping tiger, bringing the stolen cheese.	2
+15	0	0	1	2	0	4	0	3	0	1	0	0	4	0	1	1	0	3.0	0	5	The red book on the green table contained a collection of captivating short stories.	2
+11	0	0	1	1	0	3	0	2	0	1	0	0	3	0	1	1	0	3.0	0	3	 The old red book contains a collection of fascinating stories.	2
+12	1	0	1	1	1	2	0	2	0	1	0	1	2	0	1	0	0	4.0	0	4	The red and blue marbles were neatly arranged in a box.	2
+22	0	0	2	2	1	6	0	5	0	2	0	0	4	0	1	1	1	5.0	1	9	The old, rusty motorcycle and the vintage car parked in the driveway created a striking contrast to the modern building.	2
+14	0	0	3	1	0	4	0	2	0	3	0	0	1	0	1	1	0	3.0	0	6	 The old, worn-down book contained a collection of forgotten stories.	2
+11	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	3	The old crimson book contains a wealth of valuable information.	2
+13	0	0	1	1	1	3	0	3	0	1	0	1	2	0	1	0	0	3.0	0	6	A red book and a blue jacket were selected from the shelf.	2
+13	0	0	1	1	0	3	0	3	0	1	1	0	3	0	1	1	0	2.0	0	7	The old wooden boat carried the two fishermen to the remote island.	2
+12	0	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	5	The blue car with the red wheels went to the park.	2
+13	0	0	1	1	1	3	1	2	0	1	0	0	3	0	1	1	0	4.0	0	6	The red and blue book held a valuable treasure within its pages.	2
+19	0	0	1	1	1	8	0	4	0	0	0	1	3	0	1	0	0	3.0	0	9	The antique silver teapot and the antique porcelain teacup were a delightful addition to the afternoon tea service.	2
+14	0	0	1	1	0	3	0	3	0	3	0	0	3	0	1	1	1	4.0	1	6	The red book stored in the locked cabinet contained the valuable antique diamonds.	2
+18	0	0	3	2	0	4	0	3	0	1	0	1	4	0	1	0	0	4.0	0	10	 The antique book, full of captivating stories, was a treasured possession of the wealthy collector.	2
+16	0	0	2	2	0	3	0	3	0	2	0	1	3	0	1	0	0	3.0	0	6	The old, rusty bicycle with the damaged tire was pushed by the weary traveler.	2
+20	0	0	3	4	0	5	0	3	0	1	0	1	3	0	1	0	0	3.0	0	7	 The old, worn-down books in the wooden bookshelf were a testament to countless hours of reading.	2
+13	0	0	1	0	1	5	0	3	0	1	0	0	2	0	1	1	0	3.0	0	5	The emerald teapot and the porcelain cup contained a fragrant herbal tea.	2
+12	1	0	1	1	1	2	0	2	0	1	0	0	3	0	1	0	0	4.0	0	5	The red and blue flowers danced cheerfully in the sunny garden.	2
+11	0	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	3.0	0	4	The blue book on the table contains a red pen.	2
+21	0	0	2	3	0	7	0	4	0	3	0	0	2	1	2	1	0	4.0	1	5	The antique clock in the vintage mantle held the treasured heirloom pendant, a priceless jewel passed down through generations.	2
+14	1	0	2	1	0	3	0	2	0	1	0	1	3	0	1	0	0	2.0	0	5	The old, rusty motorbike was easily identifiable across the crowded parking lot.	2
+15	0	0	2	0	1	4	0	3	0	2	0	0	3	0	1	1	0	3.0	0	5	The old, chipped stone vase contained a precious pearl and a gilded goblet.	2
+13	0	0	1	0	1	3	0	4	0	1	0	0	3	0	1	1	0	3.0	0	6	The antique clock and the rusted knife both held a valuable secret.	2
+17	0	0	3	1	0	4	0	3	0	2	0	1	3	0	1	1	1	4.0	1	9	 The red book, containing ancient poetry, was a cherished possession of the wise king.	2
+18	0	0	2	2	0	4	0	3	1	2	0	1	3	1	1	0	0	3.0	1	8	The old, rusty bicycle was ridden down the winding path by a young boy named Jack.	2
+17	1	0	1	1	1	5	0	3	0	3	0	1	1	0	1	0	0	3.0	0	8	The red book and the worn leather journal were carefully selected for the cherished reading experience.	2
+15	0	0	2	1	0	6	0	2	0	3	0	0	1	0	1	1	0	3.0	0	6	 The old, worn leather bound book contained a treasured collection of vintage photographs.	2
+12	0	0	1	2	1	3	0	2	0	1	0	0	2	0	1	0	0	4.0	0	5	The red and brown cats danced with delight in the park.	2
+17	0	0	3	2	0	3	0	2	0	2	0	1	4	0	1	0	1	4.0	1	8	The old gray book, filled with handwritten notes, was devoured by the eager reader.	2
+18	0	0	3	2	0	5	0	3	0	1	0	1	3	0	1	0	1	4.0	1	9	The old wooden table, filled with fresh fruit, was the centerpiece of the dining room.	2
+16	0	0	1	3	1	4	0	3	0	1	0	1	2	0	1	0	0	4.0	0	8	 The red and yellow books on the table in the classroom were selected for reading.	4
+18	0	0	2	1	0	5	0	4	0	1	1	0	4	0	1	1	0	3.0	0	5	The antique dresser in the dusty attic held four priceless heirloom vases, each a valuable treasure.	4
+32	0	0	5	4	0	8	1	5	0	3	0	0	6	1	1	2	1	4.0	2	14	The old, weathered oak tree, standing tall in the park, provided shade for the weary traveler on their way to the nearby village, offering a welcome respite.	4
+22	0	0	4	2	0	7	0	3	0	2	0	0	4	0	1	1	1	5.0	1	11	The antique silver teapot, perched on the moss-laden granite countertop, contained a generous portion of nourishing broth.	4
+25	0	0	2	1	1	6	1	4	0	2	0	0	7	0	2	2	0	4.0	0	15	A magnificent golden box held a small emerald pendant in its ornate silver lining, and a single sapphire adorned the box's lid.	4
+22	0	0	4	2	0	5	0	5	0	3	0	0	3	0	1	0	0	4.0	0	6	The weathered barn, a forgotten relic, stood tall among the crooked trees, a monument to a forgotten era.	4
+19	0	0	4	0	1	5	0	2	0	1	0	0	6	0	1	1	0	3.0	0	11	The meticulous artist, meticulous architect, diligent craftsman, and devoted carpenter built a sturdy wooden bridge.	4
+16	1	0	4	1	1	2	0	2	0	1	0	0	4	0	1	0	0	4.0	0	9	The red, green, blue, and yellow books sat neatly on the table.	4
+29	2	0	5	3	0	7	1	4	0	4	0	1	2	0	1	0	1	5.0	1	12	The antique, well-preserved book, a treasured possession inherited from her grandmother, was prominently displayed on the marble table in the grand living room.	4
+28	0	0	4	1	1	8	0	6	0	2	0	0	6	0	1	1	0	3.0	0	16	The old wooden desk, the massive oak tree, the rusty tool box, and the chipped teapot provided a unique ensemble in the quaint cottage.	4
+25	2	0	4	3	1	7	0	3	0	1	0	0	4	0	1	1	0	5.0	0	11	A bountiful harvest yielded a generous supply of delicious fruits, berries, and nuts, as well as a plethora of fresh vegetables.	4
+20	0	0	4	2	1	7	0	3	0	1	0	0	2	0	1	1	0	4.0	0	9	The crimson, emerald, rusty, and cobalt dress adorned the young maiden in a swirl of grace..	4
+19	1	0	4	1	1	5	0	2	0	2	0	1	2	0	1	0	0	4.0	0	9	The antique, vintage, heirloom, and borrowed books were carefully chosen for the literary club meeting.	4
+24	2	0	1	4	0	5	0	5	2	1	0	1	3	0	1	0	0	4.0	0	11	 The most ancient stone monument in the sprawling city of Petra is a breathtakingly preserved testament to the rich history of the Nabataeans.	4
+21	0	0	2	1	2	5	0	4	0	2	0	0	5	1	1	1	0	4.0	1	5	The oldest and largest oak tree in the forest stands tall, guarding the precious gemstones and the ancient tomb.	4
+28	0	0	5	4	0	7	3	2	0	4	0	0	3	1	2	1	2	4.0	3	13	The antique emerald necklace, inherited from her grandmother, adorned with delicate silver pendants, belonged to the esteemed professor, who wore it with pride.	4
+35	0	0	5	1	2	9	0	7	0	2	0	0	9	1	1	2	0	5.0	1	17	The weathered stone table, a weathered wooden chest, an antique silver teapot, and a pristine crystal goblet filled a cozy corner of the room, creating a warm and inviting atmosphere.	4
+28	2	0	4	2	1	8	0	4	0	5	0	0	2	0	1	1	1	7.0	1	16	The old, battered suitcase, containing a worn leather travel journal and a pile of carefully selected photographs, rested proudly on the vintage wooden dresser.	4
+27	0	0	4	4	0	8	0	3	0	3	0	0	5	1	1	1	1	4.0	2	10	A majestic oak tree, teeming with vibrant autumn foliage, stood tall in the center of the emerald forest, providing shelter to weary travelers.	4
+29	1	0	3	4	1	8	1	4	0	2	0	0	5	0	1	0	1	5.0	1	16	The weathered oak tree with its intricate bark and the moss-laden branches adorned with ripe berries, stood proudly in the center of the verdant forest.	4
+26	1	0	3	2	2	6	0	2	0	4	0	0	6	1	2	1	0	5.0	1	7	The intricate woven tapestry of intricate hand-stitched fabric contained numerous intricate and delicate floral patterns, each meticulously crafted with love and dedication.	4
+22	0	0	4	2	0	7	0	3	0	3	0	0	3	1	1	2	1	4.0	2	7	The antique wicker basket, brimming with succulent lemons, filled the antique sideboard, showcasing a collection of vintage jewelry.	4
+27	0	0	4	1	1	9	0	6	0	2	0	1	3	1	1	0	0	3.0	1	18	The crimson apple, the antique silver teapot, the emerald jewelry box, and the forgotten parchment were the treasures discovered in the dusty attic.	4
+22	1	0	1	3	0	6	2	3	0	2	0	1	3	1	2	1	0	5.0	1	5	 The weathered oak tree with its many branches held a basket of freshly picked fruits that were ripe for the picking.	4
+19	0	0	4	1	1	3	0	3	0	0	0	1	6	0	1	0	0	4.0	0	9	The antique, historic, valuable, and weathered book was a valuable possession of the ancient warrior.	4
+17	1	0	4	1	1	2	0	2	0	1	0	0	5	0	1	0	0	4.0	0	9	 The intricate, antique, weathered, and treasured vase sat elegantly on the marble pedestal.	4
+31	0	0	4	1	1	9	0	6	0	2	0	0	8	0	1	1	0	3.0	0	18	The old brown antique book, the towering oak tree, the slender white marble pillar, and the rusty iron gate provided a captivating backdrop for the enchanting evening.	4
+26	0	0	4	0	1	8	0	5	0	3	0	0	5	0	1	1	0	3.0	0	17	The old red brick house, the towering silver monument, the withered apple tree, and the crooked garden fence encircle the small courtyard.	4
+19	0	0	4	1	1	3	0	3	0	2	0	1	4	0	1	0	1	4.0	1	9	The old, weathered, rusted, and chipped bicycle parked in the garage was an antique treasure.	4
+16	0	0	3	1	0	4	0	1	0	3	1	0	3	0	1	1	1	4.0	1	7	The old grey stone mansion, nestled amidst towering redwoods, housed four priceless diamonds.	4
+22	1	0	1	3	0	7	0	3	0	3	0	1	3	0	1	1	1	6.0	1	9	The weathered leather bound book containing an assortment of meticulously annotated scriptures was inherited from a long line of devout scholars.	4
+27	0	0	4	2	1	9	0	5	0	3	0	0	3	1	1	1	0	4.0	1	17	The crimson rose adorned with silken ribbon, vintage pearls, a single emerald, and a gold coin created a festive atmosphere for the occasion.	4
+20	1	0	1	2	2	3	0	3	0	1	0	1	6	0	1	0	0	4.0	0	7	The old blue and dusty books in the dusty bookshelf were meticulously selected for a rare and precious collection.	4
+23	1	0	5	2	0	6	0	2	0	3	0	1	3	0	1	0	1	4.0	1	8	The antique, worn leather book, brimming with historical narratives, was placed carefully on the vintage, ornate coffee table.	4
+19	0	0	3	2	0	6	0	3	0	3	0	0	2	0	1	1	1	4.0	1	9	The dilapidated stone mansion, perched atop a crumbling cliff face, housed a hoard of priceless antiquities.	4
+20	0	0	5	1	1	3	1	2	0	2	0	1	4	1	1	0	0	4.0	1	9	The red, rusty, old, and antique book was a cherished possession, treasured by my grandfather.	4
+27	1	0	2	2	1	7	0	5	0	3	0	0	5	2	2	2	0	5.0	2	11	The antique clock on the weathered tabletop held a priceless collection of antique silverware and delicate china, each piece meticulously chosen to grace the occasion.	4
+30	0	0	6	0	1	7	0	6	0	4	0	0	5	1	1	1	0	3.0	1	18	The old, battered leather book, the weathered stone facade, the lone warrior, and the worn, ragged tunic all served to tell a captivating story.	4
+23	0	0	3	3	0	5	0	4	0	2	0	0	6	1	1	1	0	4.0	1	14	The meticulous curator selected the exquisite antique tapestry, adorned with intricate floral motifs, as a centerpiece for the grand hall.	4
+21	1	0	5	1	1	4	1	2	0	2	0	0	4	1	1	1	0	4.0	1	9	The ancient, worn, rusty, and weathered bicycle stood proudly in the parking lot, awaiting its rider.	4
+23	1	0	3	2	1	5	0	6	0	2	0	1	2	2	1	1	0	5.0	2	7	The bountiful crop yielded a substantial harvest, ensuring the well-being of the farmers and the prosperity of the community.	4
+18	1	0	3	2	0	3	0	2	0	4	0	1	2	0	2	0	2	4.0	2	10	The crimson rose, adorned with countless jeweled stones, was meticulously chosen for the esteemed guest.	4
+18	0	0	2	2	0	5	0	3	0	2	0	0	4	1	1	1	0	4.0	1	7	The quick brown fox jumps over the sturdy oak tree, carrying a basket of succulent pears.	4
+24	1	0	4	2	0	6	0	4	0	3	1	0	3	1	2	1	0	4.0	1	9	The ancient oak tree, a towering landmark in the park, bore four weathered stones, each meticulously crafted by skilled artisans.	4
+28	0	0	4	0	1	10	0	5	0	1	0	0	6	0	1	1	0	3.0	0	17	The antique emerald ring, the intricate gold chain, the polished silver cup, and the ornate diamond bracelet adorned a young woman's slender wrist.	4
+19	1	0	3	1	0	6	0	1	0	3	0	1	3	1	1	1	1	4.0	2	7	The ancient stone archway, carved centuries ago, is adorned with intricate bronze reliefs depicting mythical creatures.	4
+19	0	0	4	1	0	4	1	2	0	2	0	0	5	1	1	0	0	4.0	1	7	The red, weathered, ancient oak tree stood proud, its gnarled branches stretching toward the sky.	4
+27	1	0	4	3	0	7	0	4	0	3	0	0	5	1	1	1	1	4.0	2	11	The antique velvet curtain, adorned with shimmering pearls, hung elegantly across the silken tapestry of the living room, encompassing the antique Persian rug.	4
+27	0	0	5	2	2	7	1	3	0	1	0	1	4	0	1	0	0	4.0	0	9	The red, antique, weathered, and gilded book was a treasured possession, a testament to its owner's wisdom and passion for literature.	4
+21	0	0	4	1	1	6	0	2	0	1	0	0	6	0	1	0	0	4.0	0	11	The emerald green, antique silver, rusty iron, and weathered brass teapot sat on the vintage mahogany table.	4
+34	0	0	6	1	1	12	0	2	0	3	4	0	5	1	1	2	0	4.0	1	19	Six sturdy stone sculptures, seven towering marble pillars, eight hefty granite columns, and nine weathered bronze bas-reliefs adorned the grand hall, creating a magnificent display of artistry.	6
+30	0	0	1	5	1	6	0	6	1	2	0	0	8	0	1	1	1	6.0	1	13	 The intricate tapestry of the scarlet thread woven into the emerald tapestry of ancient times provides a fascinating glimpse into the vibrant and multifaceted life of the ancient Egyptians.	6
+26	1	1	3	4	0	6	2	4	0	3	0	1	1	1	1	1	1	4.0	2	13	The antique book in the vintage trunk, guarded by the stern librarian, was entrusted to me with the promise of returning it safely.	6
+34	1	0	4	3	2	9	0	5	0	5	0	0	5	1	1	2	1	6.0	2	19	The quaint little crimson teapot with the elegant silver handle and lid, brimming with the sweet nectar of freshly brewed tea, graced the table, emanating a warm and inviting aroma.	6
+23	1	0	2	2	1	6	0	3	0	2	1	0	5	1	2	1	0	5.0	1	5	The intricate mosaic in the ancient synagogue contained six ornate Determining factors, each meticulously crafted with vibrant hues and intricate patterns.	6
+18	0	0	3	2	0	4	0	3	0	2	0	0	4	0	1	1	1	5.0	1	11	 The intricate mosaic, composed of colorful pebbles from the pristine shore, adorned the antique mantle.	6
+33	0	0	5	3	1	11	0	6	0	3	0	0	4	0	3	1	0	5.0	0	9	The emerald teapot held a silver lining, the antique clock ticked with bronze gears, and the crimson rose stood tall, amidst the porcelain flowers, in the emerald garden.	6
+29	0	0	3	2	1	8	0	4	0	3	1	0	5	1	2	1	0	4.0	1	19	The quick brown fox jumps over the sleeping lion's mane, possessing two shiny golden coins, and the merchant's ship rested on the calm waves.	6
+29	0	0	4	2	1	8	0	4	0	3	0	0	7	1	1	2	0	4.0	1	12	The intricate woven tapestry of vibrant crimson, exquisite emerald, and pristine gold thread adorned the ceremonial altar, reflecting the radiant glow of the golden sunset.	6
+22	0	0	3	2	1	6	0	3	0	2	0	0	5	0	1	1	1	5.0	1	10	The intricate clockwork machine, filled with meticulous gears and intricate levers, crafted a delicate miniature sculpture of a lion.	6
+20	1	0	3	2	0	5	0	3	0	3	0	0	3	0	1	1	1	4.0	1	9	The intricate emerald teapot, placed meticulously on the mahogany table, contained a steaming cup of crimson tea.	6
+26	0	0	7	3	1	5	0	2	0	4	0	0	4	1	1	0	0	4.0	1	14	  The crimson, antique, golden, weathered, rusty, and worn down book lay open on the table, filled with handwritten notes.	6
+23	0	0	6	0	2	4	1	2	0	2	0	0	6	1	2	2	0	5.0	1	13	The meticulous, antique, solitary, majestic, emerald, and gilded determiners created a sentence that exuded class and sophistication.	6
+29	0	0	4	3	1	7	2	3	0	3	0	0	6	1	1	3	0	4.0	1	10	A bountiful array of succulent berries, abundant with nutritious vitamins, provided a satisfying treat for the weary traveler, nourishing their body and replenishing their strength.	6
+22	0	0	1	3	1	6	0	4	0	1	0	0	6	0	1	1	0	4.0	0	17	A weathered farmer carried a hefty bundle of ripe tomatoes and plump apples from the verdant orchard to the bustling marketplace.	6
+16	1	0	3	0	0	3	1	1	0	3	1	0	3	2	1	2	0	4.0	2	5	Six swift squirrels scampered swiftly, scaling the slender scaffolding, seeking their succulent nuts.	6
+20	0	0	1	2	2	6	0	3	0	1	0	0	5	0	1	1	0	4.0	0	6	The intricate and colorful mosaic of the ancient temple adornment displayed a plethora of ornate carvings and vibrant hieroglyphs.	6
+19	1	0	3	2	0	4	0	3	0	2	0	1	3	0	1	0	1	4.0	1	9	The antique bronze vase, gifted by the renowned artist, was displayed proudly in the stately museum.	6
+29	0	0	6	0	1	10	0	7	0	1	0	0	4	0	1	1	0	3.0	0	22	A crimson apple, a golden orange, a purple pear, a crimson pear, a crimson peach, and a juicy mango formed a delectable assortment.	6
+22	0	0	6	1	1	5	0	2	0	2	0	0	5	0	1	1	0	4.0	0	13	The colossal, emerald, antique, scarlet, crimson, and weathered dresser held a collection of treasured porcelain trinkets.	6
+22	0	0	4	3	0	6	0	2	0	4	0	0	3	1	1	0	1	4.0	2	7	The ancient stone mansion, filled with priceless jewelery, rested on a secluded island, surrounded by towering granite cliffs.	6
+26	1	0	7	1	2	4	0	2	0	2	0	0	7	1	1	1	0	4.0	1	13	The ancient, colossal, scarlet, emerald, antique, and weathered statue stood proudly on the granite pedestal, symbolizing strength and grace.	6
+24	0	0	6	2	1	8	0	3	0	1	0	0	3	0	1	1	0	3.0	0	13	The crimson, turquoise, weathered, antique, emerald, and golden determiners created a vibrant tapestry of color on the canvas.	6
+29	0	0	6	0	1	11	0	7	0	1	0	0	3	0	1	1	0	3.0	0	21	The emerald table held the sapphire plates, the silver utensils, the golden goblet, the scarlet tablecloth, the ivory vase, and the crystal goblet.	6
+33	1	0	3	3	0	8	0	6	0	4	0	0	8	2	1	3	0	6.0	2	7	The intricate tapestry of intertwined golden threads adorned a magnificent, silken mantel, complementing the meticulously crafted mosaic depicting a serene landscape in the tranquil garden behind the stately oak tree.	6
+22	0	0	6	1	1	6	0	2	0	3	0	0	3	0	1	1	0	4.0	0	13	The crimson, golden, weathered, worn, antique, and vintage table held a collection of cherished silver silverware.	6
+32	0	0	6	1	1	8	0	7	0	1	0	0	8	0	1	1	0	3.0	0	22	The distinguished professor, the captivating author, the meticulous artist, the formidable general, the loyal soldier, and the radiant queen generated a captivating story with intricate details.	6
+39	1	0	6	5	1	10	0	7	0	4	0	0	5	1	1	0	0	6.0	1	10	 The crimson cat, a majestic silver fox, stood proudly beside the emerald tabletop, amidst the antique tapestry, on the crimson rug, surrounded by the priceless diamonds and adorned with the gleaming golden sword.	6
+35	0	0	6	1	1	10	0	8	0	1	0	1	7	0	1	0	0	3.0	0	26	The solitary red apple, the ancient oak tree, the weathered stone bridge, the silver coin, the gleaming sword, and the emerald tapestry were the components of a memorable story.	6
+22	0	0	7	1	0	5	0	2	0	2	0	1	4	0	1	0	0	3.0	0	14	 The antique, vintage, gold-plated, antique, handcrafted, porcelain vase was placed on the mahogany table.	6
+21	0	0	3	3	0	5	0	3	0	2	0	0	5	0	1	1	1	4.0	1	9	The quaint antique box, overflowing with precious gems, held a trove of priceless artifacts from the 16th century.	6
+23	1	0	2	3	0	7	2	3	0	3	0	0	2	1	1	2	0	4.0	1	11	A myriad of affluent individuals contributed their meticulously chosen treasures to the ornate treasure chest, safeguarding the legacies of their forebears.	6
+21	0	0	6	1	1	2	0	2	0	1	0	0	8	0	1	0	0	4.0	0	13	The grand, majestic, emerald, crimson, silver, and crystal palace stood tall against the imposing wind.	6
+29	0	0	4	2	0	8	1	4	0	3	1	0	5	1	2	2	1	4.0	2	11	The grandest oak tree, towering over a hundred stories, casts long shadows across the weathered stones, its scarlet leaves illuminating the weary traveler's path.	6
+23	0	0	3	3	1	7	0	3	0	2	0	0	4	0	1	1	1	4.0	1	7	A meticulous antique tapestry, woven with intricate patterns, graced the lavish living room with a sense of elegance and sophistication.	6
+45	0	1	5	3	2	12	0	7	0	4	0	0	10	1	3	3	1	5.0	2	16	A pristine white tablecloth with a crimson centerpiece, adorned with ornate gold silverware and delicate floral china, graced the table, while a single emerald pendant adorned the guest's neck, and a silver goblet held a crystal goblet of water.	6
+26	1	0	1	3	2	8	0	2	0	2	0	0	6	1	1	2	0	5.0	1	8	The intricate and vast majority of seasoned programmers utilize an assortment of precise tools to meticulously engineer intricate software solutions with unparalleled clarity and precision.	6
+26	1	0	4	2	0	8	1	3	0	3	0	0	4	1	2	1	1	4.0	2	6	The weathered brick wall, brimming with moss, enclosed the sprawling oak tree, whose emerald leaves danced gracefully in the crisp autumn wind.	6
+27	1	0	3	5	0	6	0	4	0	2	0	1	5	0	1	0	1	4.0	1	19	The intricate tapestry of a myriad of ornate jewels, woven with skillful hands in a formidable fashion, was meticulously crafted by a distinguished craftsman.	6
+28	0	0	3	3	1	7	0	7	0	1	0	0	6	0	1	1	0	4.0	0	10	 The weathered fisherman, a stoic warrior, captured the enormous squid in the vast ocean with the help of the seasoned sailors and the nimble boat.	6
+22	1	0	3	2	1	5	0	4	0	2	0	0	4	0	1	1	1	6.0	1	14	The meticulous young student, equipped with a variety of textbooks and a comprehensive dictionary, meticulously crafted a compelling essay.	6
+21	0	0	6	0	1	7	0	1	0	2	1	1	1	1	1	1	0	4.0	1	13	Six scarlet, emerald, sapphire, bronze, antique, and silken determiners were used to craft a sentence.	6
+28	1	0	6	1	1	7	0	2	0	2	0	1	7	0	1	0	0	3.0	0	16	The bountiful orange, succulent peach, glistening pear, fertile plum, plump pomegranate, and succulent fig were meticulously arranged on the elegant dining table.	6
+21	0	0	6	1	1	9	0	1	0	1	0	1	1	0	1	0	0	4.0	0	12	The crimson, emerald, mahogany, emerald, sapphire, and turquoise table was adorned with sparkling crystal glasses.	6
+18	0	0	1	3	0	5	0	1	0	4	1	0	3	0	1	1	1	5.0	1	8	Six bountiful seashells scattered amidst intricate patterns of glittering sand yielded a treasured trove of sparkling pearls.	6
+23	0	0	4	3	0	6	0	4	1	3	0	0	2	1	1	0	1	4.0	2	8	The emerald teapot, filled with the amber liquid, sat on the mahogany table, topped with a silver teapot Cozy.	6
+39	2	0	7	5	0	9	0	5	0	4	0	0	7	1	2	0	0	6.0	1	22	The solitary strawberry shortcake, a delectable treat of immense delight, rested securely on a weathered table, surrounded by an array of vibrant, emerald-colored napkins, each one meticulously folded with loving care.	6
+29	0	0	2	4	1	8	1	5	0	2	1	0	5	1	1	1	0	5.0	1	17	The majestic oak tree stood tall with a dozen weathered stones and a pile of ancient books beside its trunk, forming a serene oasis in the park.	6
+24	1	0	3	3	0	6	1	2	0	2	1	0	5	1	1	0	0	4.0	1	6	The solitary, weathered stone cottage with its solitary oak tree stood proudly on the grassy hill, surrounded by six ancient tombstones.	6
+24	1	0	4	2	0	5	1	3	0	4	0	0	4	1	1	2	1	4.0	2	7	A solitary sailor, clutching a worn anchor, navigated cautiously through the treacherous ocean, ensuring his cargo of pristine gemstones safe.	6

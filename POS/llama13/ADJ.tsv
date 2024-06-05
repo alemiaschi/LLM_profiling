@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+16	2	0	3	1	0	2	1	1	1	2	1	1	0	0	2	1	0	3.0	0	6	Ok, I will only write one sentence below:  Jane went to the store.	0
+10	0	0	3	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	" ""I will go to the store today."""	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ordered a hamburger. 	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The sun was setting over the horizon.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The cat slept.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate a sandwich.	0
+8	0	0	0	1	0	2	0	2	0	2	0	0	0	0	0	1	0	2.0	0	6	 Please generate a sentence with the following requirements	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly through the forest.	0
+15	1	0	3	1	0	2	1	2	1	2	0	1	0	1	2	0	0	3.0	1	8	Okay, here is the sentence you requested:  Aleksandar went to the bank. 	0
+12	0	0	1	2	1	2	1	2	1	2	0	0	0	0	1	2	0	3.0	0	5	Albert picked up the ball and threw it to the dog.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+7	0	0	1	1	0	2	0	1	1	1	0	0	0	0	1	1	0	2.0	0	4	Sarah ate breakfast on the couch. 	0
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	  Jill bought milk.	0
+3	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	 She walked.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The big red ball bounced slowly across the yard.	0
+22	1	0	3	3	1	4	1	2	1	2	0	1	2	0	1	0	0	4.0	0	7	Okay, here is the sentence: Ramona got into her green sports car and headed out for an exciting drive.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the windowsill.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sat silently on the mat.	0
+6	2	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The dog ran quickly away.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The big red barn stood alone in the green field.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	"Okay! How does this sentence look: ""The cat jumped onto the table.""? "	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	John walked to the store.	0
+19	0	1	2	2	0	4	3	1	2	2	0	0	2	1	2	2	0	4.0	1	9	 Frodo wore his cloak as he made his way up the dark, treacherous mountain path towards Mordor.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I ran to the store.	0
+10	0	0	0	2	0	3	1	1	2	1	0	0	0	0	1	1	0	2.0	0	7	Mrs Brown brought her dog to the park for exercise	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+9	1	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	The big brown bear climbed the mountain quickly.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog ran quickly.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	2.0	0	3	 Here is the response.	0
+6	0	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	  The cat purred on my lap	0
+12	0	0	1	0	0	3	1	1	0	1	0	2	1	1	1	1	0	3.0	1	4	I will not be able to attend the event tomorrow evening.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred softly on my lap.	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	   Joe picked up a pencil.	0
+8	0	0	1	0	1	1	1	1	1	2	0	0	0	0	1	2	0	2.0	0	4	Muriel took the cookie and ate it. 	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	  The dog ran.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	 I went to the grocery store.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the windowsill.	0
+7	0	0	0	2	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	3	Rainier pecked at a pile of crumbs	0
+12	0	0	0	1	0	3	0	3	0	2	0	0	3	0	1	1	0	2.0	0	7	The majestic purple elephant wandered the golden savannah beneath the blazing sun	1
+35	2	0	5	2	0	8	1	5	0	3	1	1	7	2	2	3	0	7.0	2	10	Certainly, here is a sentence with 1 adjective: Warm sunbeams brightened the cool forest shade, highlighting the delicate, velvety petals on the vibrant purple flowers that dotted the grassy clearing. 	1
+15	0	0	3	1	0	3	0	3	0	1	0	0	4	0	1	1	0	2.0	0	8	The delicious, fluffy cake filled the room with a sweet, tantalizing aroma.	1
+12	1	0	1	2	0	3	0	2	0	2	0	0	1	0	1	0	0	2.0	0	8	Witty elephants danced gracefully in the circus under the twirling spotlights.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The purple sunset slowly dipped into the horizon. 	1
+7	0	0	1	0	0	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	3	  The bright red apple was irresistible. 	1
+10	0	0	2	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	6	The sunflowers were bright, towering, over the fields	1
+11	2	0	2	0	0	2	1	0	0	1	0	1	1	0	2	0	0	2.0	0	4	Goldy locks were not just beautiful, they gleamed majestically. 	1
+32	3	0	1	4	0	7	2	3	0	6	0	1	4	2	1	1	2	7.0	4	13	The majestic peacock slowly strutting through the wet grass glistening in the early dawn light seemed to radiate its vibrant hues like glories being cast outward from its sumptuously draped plumes. 	1
+10	0	0	1	1	0	3	1	0	0	1	0	0	2	1	0	0	0	4.0	1	5	Eager-eyed dog waiting for its owner's return 	1
+6	0	0	1	0	0	2	0	0	0	1	0	0	2	0	1	1	0	2.0	0	2	Witty puppets wove whimsical wisdom.	1
+7	0	0	0	1	0	3	1	1	0	1	0	0	0	0	0	1	0	3.0	0	3	 Writing a book review in my pajamas	1
+13	0	0	1	2	1	6	0	1	0	1	0	0	1	0	1	0	0	3.0	0	6	Shiny, silver pots and pans dangled from hooks in the kitchen ceiling	1
+10	0	0	0	1	0	4	0	0	0	1	0	1	3	0	1	1	0	2.0	0	5	 Exquisite silver earrings will add sophisticated touch to simple outfits	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	 blue	1
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The fluffy, purple cat purrs contentedly on my lap.	1
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	  The beautiful, pink cat purred soothingly on my lap. 	1
+11	0	0	2	1	0	3	1	1	0	2	0	0	1	0	1	1	0	2.0	0	4	The gleaming, golden retriever wagged his tail with excitement.	1
+14	0	0	1	2	1	4	0	1	0	1	0	0	4	0	1	1	0	4.0	0	6	Splendid sunsets decorate the western horizon with vibrant hues of orange and red.	1
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	 The delicate flower petals swayed gently in the breeze.	1
+8	0	0	0	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	3	The delicious cake was devoured in no time	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The delightful sunset glowed vividly across the horizon. 	1
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	 A beautiful yellow butterfly gracefully soared above the colorful flowers. 	1
+15	0	0	1	2	1	3	0	3	0	1	0	0	4	0	1	0	0	3.0	0	8	The sunflowers in the garden stood tall and stately under the bright blue sky.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The purple butterfly danced gracefully above the colorful flowers.	1
+23	2	0	3	1	0	5	1	2	0	3	0	1	4	2	2	1	1	4.0	3	12	Carefully crafted in rich, luxurious leather, the stylish tote handbag is sure to make a chic statement wherever you go.	1
+11	2	0	2	1	0	2	0	1	0	1	1	1	0	0	0	0	0	3.0	0	4	Certainly; below is the requested sentence with one adjective:  The sparkling clean diamond glistened in the light.	1
+15	0	0	2	2	0	5	0	0	1	4	0	0	1	2	1	1	0	5.0	2	5	Goldenrod sunlit meadows spread across rolling hills, creating idyllic pastures dotted with wildflowers. 	1
+29	1	0	7	1	0	7	3	2	0	4	0	1	3	4	3	1	0	8.0	4	15	"My pleasure, here is the response you requested:  ""The delectable golden-brown chicken drenched in mouth-watering gravy made our senses swoon!""     "	1
+13	0	0	2	1	0	3	0	2	0	2	0	0	3	1	1	1	0	3.0	1	5	Bright blue skies stretched over the horizon, casting a warm glow. 	1
+19	1	0	1	3	0	4	1	3	0	3	0	0	3	1	1	0	1	4.0	2	8	Soaring across the sky, the aerodynamic condor soared effortlessly with its shimmering feathers reflected in the sparkling sunlight	1
+7	1	0	2	0	0	1	0	1	0	2	0	0	0	0	1	0	1	2.0	1	4	Warmly illuminated, the sunset glowed. 	1
+8	0	0	2	1	0	2	0	0	0	1	0	0	2	0	1	0	0	3.0	0	6	Soft as silk, little kitty purred. 	1
+11	0	0	1	1	1	3	0	1	0	2	0	0	2	0	1	0	0	3.0	0	8	 Warm and inviting, the cozy living room beckons to visitors	1
+15	0	0	1	2	0	3	0	3	1	1	0	1	2	1	1	1	0	4.0	1	5	Riccardo is thrilled to present this excellent idea to all of the department chairs. E  Did I meet your expectations? 	1
+10	1	0	1	1	0	2	0	1	0	1	0	1	2	0	1	0	0	2.0	0	3	  The delicate vase was exquisitely painted with vibrant colors.	1
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The large, fluffy kitten purred contentedly on my lap. 	1
+6	0	0	1	0	0	2	0	0	0	1	0	0	2	0	1	1	0	2.0	0	2	Witty cat purred sweet symphonies.	1
+15	1	0	1	3	0	5	0	3	0	1	0	0	1	0	1	0	0	3.0	0	6	The venerable elder serenely meditated in lotus position on the peak of the mountain. 	1
+11	1	0	0	2	0	3	0	2	0	1	0	1	1	0	1	0	0	2.0	0	6	The shimmering star was sparkling brightly in the sky at night	1
+9	1	0	2	0	0	2	0	1	0	0	0	1	0	0	0	0	0	3.0	0	5	Sure, here's the instruction's response:  The golden apple shone vibrantly against the lush green foliage.	1
+8	1	0	1	1	0	2	0	0	0	1	0	0	2	0	1	0	0	2.0	0	4	Witty cat purred contentedly on soft cushions. 	1
+13	0	0	3	0	0	2	0	2	0	1	0	0	5	0	1	1	0	3.0	0	6	The colorful, velvety-soft pillow complemented the plush, striped blanket	1
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The beautiful, vibrant sunset faded into the night.	1
+18	0	0	3	1	1	4	1	2	0	3	1	0	0	1	0	3	0	5.0	1	7	  (Note: Please choose one adjective from the list and use it to generate a sentence. Please do not write any additional text.)  Five 	1
+9	0	0	1	0	0	1	3	0	0	1	0	1	2	1	2	1	0	3.0	1	3	 I'm glad you recognized my extra effort! I apologize for my noncompliance, especially if it resulted in undue delay. Let me generate the requested one-sentence response, using 2 adjectives (instead of 3 adjectives and an adverb). The revised sentence should read like a professional, respectful email addressing an unexpected outcome with appropriate apologies and willingness to remediate	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	3	The big red car drives down the street.	1
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The big red ball bounced merrily on the green grass.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	3	  The large red car drove down the street.	1
+19	2	0	4	2	0	4	1	2	0	1	1	1	1	1	1	0	0	4.0	1	11	My pleasure, here is the response, complete within the limits established, of only one sentence:  The majestic soaring eagle pierced through the brilliant blue sky. 	1
+4	0	0	1	0	0	2	0	0	0	0	0	0	1	0	0	0	0	1.0	0	2	 Sporty purple sneakers.	2
+12	0	0	2	1	0	3	0	1	0	1	0	0	4	0	1	0	0	2.0	0	5	Soft, silky golden retriever puppies cuddled in the warm sun.	2
+17	2	0	3	1	1	3	0	2	0	1	0	0	4	0	1	0	0	4.0	0	6	" ""The stunningly beautiful and delicate crystal vase sat gracefully on the polished mahogany table."""	2
+12	0	0	1	1	0	3	1	1	0	1	0	0	4	0	1	1	0	2.0	0	5	The big yellow happy dog wagged its fluffy tail with excitement.	2
+12	0	0	3	0	0	3	0	2	0	2	0	0	2	0	1	1	0	3.0	0	6	The majestic, snow-capped mountains pierced the serene sky.	2
+20	0	0	0	2	0	7	0	2	0	1	1	0	6	0	1	1	0	3.0	0	15	Two sparkling crystal brooches adorned the elegant black dress of the famous fashion designer at last night's red-carpet gala	2
+8	0	0	2	0	0	3	0	1	0	1	0	0	1	0	0	1	0	2.0	0	6	Climbing the rugged, winding mountain trail.	2
+11	1	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The majestic, glistening mountains stood proudly in the distance.	2
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The majestic mountain peaks stood confidently against the vibrant blue sky. 	2
+10	1	0	1	1	0	2	0	2	0	2	0	0	1	0	1	0	0	2.0	0	5	The majestic eagle soared effortlessly above the rolling hills.	2
+12	1	0	2	1	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	The beautiful sky-blue vase elegantly stood on the mantelpiece. 	2
+6	0	0	0	0	1	3	0	0	0	1	0	1	0	0	1	0	1	2.0	1	3	 Adjectives used are clarity and blue	2
+13	0	1	1	1	0	2	1	2	1	2	0	0	2	1	2	1	0	3.0	1	8	Melissa enjoyed the delightful, golden sunset as she picnicked by the lake	2
+8	0	0	1	1	0	3	0	1	0	0	0	0	2	0	0	0	0	2.0	0	3	Sophisticated blue diamonds shimmer in the crown. 	2
+11	1	0	2	1	0	3	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	The beautiful, vintage necklace hung gracefully around her neck.	2
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The delicious, sugary sweet cookies sat temptingly on the tray.	2
+8	0	0	5	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	4	" ""vibrant"" and ""quirky"". Great job! 2. You wrote only the sentence, without adding further text or explanations. Perfect!   Keep up the good work! Let me know when you're ready for the next task. 😊"	2
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Certainly! The beautiful little pink kitten purred happily.	2
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The shimmering silver sunflowers swayed gracefully in the gentle breeze.	2
+4	1	0	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	2.0	0	1	  Silver jewelry glistened softly	2
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The graceful, fluffy cat purred contentedly on my lap.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	3	The elegant emerald necklace glimmered in the moonlight.	2
+17	1	0	1	2	0	4	0	4	0	2	0	0	3	0	1	1	0	3.0	0	7	  The slender giraffe slowly munched the tender leaves from the top branches of the towering trees. 	2
+8	0	0	1	0	0	2	0	1	0	1	0	0	3	0	1	1	0	2.0	0	3	Warm golden light illuminates the cozy cottage.	2
+17	0	0	2	2	1	4	1	2	0	2	0	0	3	1	2	0	0	4.0	1	8	Cool and colorful butterflies flitted through the garden, their delicate wings shimmering in the sun.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	3	The beautiful shimmering dress sashayed down the runway. 	2
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sparkling crystal jewels glistened brightly in the light.	2
+9	1	0	1	0	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	The sparkling crystal necklace hugged her neck gracefully.	2
+12	1	0	1	1	0	3	0	2	0	3	0	0	1	0	1	0	0	2.0	0	6	The gleaming silver trophy glittered brightly on the gleaming oak podium.	2
+17	1	0	2	1	0	3	1	2	0	2	0	0	4	1	1	1	0	3.0	1	8	Satisfied with my swift reply, the inquirer smiled happily to hear the confident, reassuring answer	2
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The bright blue butterfly flitted gracefully through the garden.	2
+12	0	0	1	1	0	3	0	3	0	1	0	0	3	0	1	1	0	2.0	0	7	  The magnificent sunset cast a warm glow over the tranquil ocean.	2
+17	0	0	2	1	1	2	2	2	0	4	0	0	2	2	2	1	0	6.0	2	5	She wore a glittering, shimmering gown that seemed to sparkle and dance in the light.	2
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sparkling crystal necklace glittered brightly beneath the moonlight. 	2
+12	1	0	2	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The graceful, slender deer pranced effortlessly through the forest clearing.	2
+7	1	0	1	0	0	1	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The brilliant blue butterfly fluttered rapidly. 	2
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	A radiant, shimmering star hung low in the evening sky	2
+14	3	0	2	1	0	2	0	2	0	2	0	0	2	0	1	0	1	2.0	1	7	Soaring gracefully overhead, a majestic eagle glides effortlessly through the cerulean sky.	2
+10	1	0	0	1	0	4	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sparkling diamond earrings glistened brightly in the evening light	2
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  Certainly! Here is the sentence with 2 adjectives you requested	2
+12	0	0	2	2	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	  The delicious, juicy hamburger burst with flavor in each bite.	2
+6	0	0	2	0	0	1	0	1	0	0	0	0	2	0	0	0	0	1.0	0	4	 The delicious, juicy cheeseburger. 	2
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The beautiful silver pendant glistened elegantly against the soft moonlight.	2
+9	1	0	0	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The big fluffy cat purred contentedly on my lap	2
+11	0	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The radiant golden pendant glimmered in the gentle evening light.	2
+14	0	0	1	1	0	3	0	3	0	2	0	0	4	0	1	1	0	2.0	0	8	The shimmering silver sunset cast a glowing golden hue over the tranquil waves.	2
+13	0	0	2	1	0	5	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	A sparkling, sapphire gem caught her eye in the display case. 	2
+12	0	0	8	0	1	3	0	0	0	0	0	0	0	0	0	0	0	2.0	0	9	" ""shorelines"", ""symphonies"", and ""sentences"""	2
+16	1	0	1	2	0	4	0	3	0	1	0	0	4	0	1	0	0	3.0	0	6	The delicate silken petals of the fragile rose fell gently onto the soft velvet grass. 	2
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The delicate, silky scarf danced gracefully in the gentle breeze.	2
+18	1	0	5	1	1	3	0	1	0	1	0	0	5	0	1	0	0	4.0	0	8	Splendid, vibrant, gleaming, and iridescent butterflies flitted playfully across the crystal-clear sky.	4
+11	1	0	1	1	0	4	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	Fiery zesty shimmering lavender hues danced playfully on the canvas. 	4
+16	1	0	4	1	1	2	0	2	0	1	0	0	4	0	1	0	0	4.0	0	9	The shimmering, iridescent, sparkling, and dazzling butterfly fluttered gracefully through the meadow.	4
+14	0	0	4	0	1	2	1	1	0	1	0	0	4	0	1	1	0	4.0	0	9	The colorful, tiny, smooth, and shiny button caught my eye.	4
+21	1	0	6	1	1	2	0	2	0	1	0	0	7	0	1	0	0	4.0	0	11	The shimmering, vivid, golden-winged, and graceful butterfly fluttered majestically across the lush, green meadow.	4
+18	1	0	4	1	0	3	1	2	0	1	0	0	5	0	1	1	0	2.0	0	9	The elegant, delicate, vibrant, sleek golden bird fluttered its wings gracefully in the sunset. 	4
+17	1	0	1	2	0	4	0	3	0	2	0	0	4	0	1	0	0	3.0	0	6	The shimmering golden retriever pranced proudly along the sparkling emerald grass under the brilliant sapphire sky.	4
+12	1	0	1	1	0	5	0	1	1	1	0	0	1	0	1	0	0	3.0	0	6	Rusty vintage metal signs hang limply on the grimy brick wall. 	4
+13	0	0	2	1	0	4	0	2	0	0	0	0	4	0	1	0	0	3.0	0	5	The majestic golden-haired mountains gleam in the shimmering morning light. 	4
+18	1	0	4	1	1	3	0	2	0	1	0	0	5	0	1	0	0	4.0	0	11	  The towering, majestic, vibrant, and colorful hot air balloon soared gracefully through the sky.	4
+8	1	0	0	0	0	2	0	1	2	1	0	0	1	0	0	0	0	3.0	0	7	Roger the Robot rapidly recycled reusable rubber resources	4
+20	0	0	6	0	0	4	0	2	0	1	0	0	6	0	1	1	0	4.0	0	9	The delicate, vintage, sparkling, golden tiara adorned the elegant, dark-haired woman's head.	4
+7	0	0	0	1	0	2	0	0	0	1	0	0	3	1	0	0	0	3.0	1	3	Virtuous verdant valley veiled in vaporous violet	4
+18	1	0	4	1	1	2	0	2	0	1	0	0	6	0	1	0	0	4.0	0	10	The delicate, silky, soft, and vibrant purple butterfly fluttered gracefully around the colorful garden.	4
+18	1	0	2	1	0	4	1	1	0	3	0	0	5	1	1	1	0	3.0	1	6	The big red shiny sparkly diamond ring glimmered brightly on her finger, attracting many admiring glances.	4
+17	0	0	4	1	0	4	0	2	0	1	0	0	5	0	1	0	0	2.0	0	7	The magnificent, sun-kissed, picturesque mountain peak glimmered in the clear, sparkling morning light. 	4
+14	0	0	4	0	1	3	0	1	0	1	0	0	4	0	1	1	0	4.0	0	8	  Fiery, velvety, succulent, and luscious strawberries graced the dessert plate.	4
+17	1	0	4	1	1	2	0	2	0	1	0	0	5	0	1	0	0	4.0	0	10	The vibrant, exquisite, radiant, and lustrous crystal necklace glistened enticingly in the light.	4
+30	1	0	4	3	1	7	1	4	0	5	0	0	4	0	1	3	1	4.0	1	16	Walking gracefully through the park with the soft grass beneath her feet, the tall woman wore stylish sunglasses, carried a stunning handbag, and had sparkling jewelry. 	4
+25	0	0	5	1	1	5	1	3	0	3	0	0	5	2	0	2	0	6.0	2	8	The vibrant, exquisite, colorful, silky dress sashayed down the runway, showcasing its stunning design and captivating the audience's attention.	4
+17	0	0	4	1	1	2	1	1	0	1	0	0	6	0	1	0	0	4.0	0	10	The delicate, tiny, shimmering, and glimmering silver earrings dangled from her elegant lobes.	4
+11	0	0	1	0	0	3	0	1	0	1	0	0	5	0	1	1	0	3.0	0	4	Bright yellow golden shimmering circles adorn the clear blue sky.	4
+10	0	0	4	0	1	1	0	0	0	0	0	0	4	0	0	0	0	3.0	0	8	Fluffy, black, furry, and cuddly kitten. 	4
+16	1	0	4	1	1	2	0	2	0	1	0	0	4	0	1	0	0	4.0	0	9	The brilliant, shimmering, golden, and gleaming sun set slowly beyond the horizon.	4
+9	0	0	3	0	0	1	0	1	0	0	0	0	4	0	0	0	0	1.0	0	7	The beautiful, sparkling, shimmering blue diamond. 	4
+29	1	0	2	3	1	6	2	3	0	2	0	0	8	1	1	1	0	5.0	1	8	The majestic black panther cautiously navigated the dense forest with its sleek muscular legs and sharp claws, ready to pounce on its unsuspecting prey at any moment.	4
+7	0	0	1	0	0	3	0	0	0	0	0	0	3	0	0	0	0	2.0	0	4	Vivid violet velvety vivacious violin voodoo. 	4
+32	1	1	3	3	1	6	2	4	0	3	0	0	8	2	2	0	0	5.0	2	8	The majestic golden-maned stallion galloped gracefully through the verdant meadow, his robust physique and powerful muscles glistening in the brilliant sunlight as he searched for a deserving mate.	4
+19	1	0	3	1	0	5	1	2	0	2	0	0	4	0	1	1	1	3.0	1	10	Soaring majestically, the white marble cathedral pierced the crystal-clear sky with its delicate turquoise spires. 	4
+14	1	0	3	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	7	The shimmering, turquoise water lapped gently against the velvety, sun-kissed sand. 	4
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	   The majestic blue whale gracefully glided through the turquoise ocean waters.	4
+28	0	2	4	2	1	5	2	2	0	2	0	1	6	1	2	2	0	3.0	1	14	Vibrant, velvety, vermilion, vocal   Please provide further clarification or additional details for the instruction, so that I can assist you with the proper response	4
+15	0	0	0	2	0	3	0	3	0	1	0	0	6	0	1	0	0	2.0	0	10	The bright yellow sunflowers bloomed in the vast lush meadow under the clear blue sky	4
+25	1	0	5	3	1	5	2	2	0	2	0	0	4	1	1	1	0	4.0	1	9	The vibrant, colorful, shimmering, and silky scarf flowed gracefully around her neck, adding a touch of elegance to her outfit.	4
+5	0	0	0	0	0	1	0	0	0	1	0	0	3	0	0	0	0	1.0	0	4	Velvety plump glistening pink watermelon	4
+23	0	0	4	1	1	5	1	2	0	1	0	0	8	0	1	1	0	3.0	0	8	The beautiful, creative, talented, energetic performer captivated the enchanted audience with her extraordinary vocal range and impressive dance moves.	4
+6	0	0	1	0	0	2	0	0	0	0	0	0	3	0	0	0	0	1.0	0	4	Bright red sparkly shimmering stars. 	4
+16	0	0	4	1	1	2	0	2	0	1	0	0	5	0	1	0	0	4.0	0	10	The beautiful, shiny, metallic, and elegant silver car drove down the street.	4
+26	0	0	5	2	2	5	1	2	0	2	0	0	7	1	1	1	0	4.0	1	10	The elegant, slender, sleek, and glittering silver necklace glistened in the light, drawing attention to her refined taste and exquisite style.	4
+15	1	0	4	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	8	The exquisite, vintage, golden, velvety handbag gleamed subtly on the rack.	4
+15	1	0	4	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	8	The vibrant, purple, sparkling, iridescent butterfly fluttered playfully through the garden.	4
+18	0	0	4	1	1	3	1	2	0	1	0	0	5	0	1	1	0	4.0	0	9	The shimmering, golden, sparkling, and glittering gem delighted the eye with its dazzling brilliance.	4
+25	0	1	2	3	0	5	1	4	0	4	0	0	5	2	2	1	0	5.0	2	11	Sparkling blue waters danced in the golden sunlight, illuminated by the vibrant orange hues of the sky as it embraced the tranquil seashore. 	4
+8	0	0	4	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1.0	0	6	 Bold, bright, colorful, vibrant.	4
+16	1	0	4	1	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	8	The colorful, shimmering, velvety, silver peacock perched gracefully on the grassy plain.	4
+14	1	0	1	2	0	6	0	0	0	2	0	0	2	0	1	0	0	3.0	0	5	Sparkling shimmering silver strands of sycamore baskets glittered gracefully in gentle warm rays.	4
+15	0	0	4	1	1	2	0	2	0	1	0	0	4	0	1	0	0	4.0	0	9	The colorful, vibrant, glittering, and iridescent butterfly fluttered around the flowers.	4
+11	0	0	3	0	0	2	0	1	0	1	0	0	4	0	1	1	0	2.0	0	7	Bright, colorful, festive, sparkling lights decorated the tree	4
+15	1	0	1	1	0	4	1	1	0	1	0	0	5	0	1	1	0	3.0	0	7	The resplendent golden retriever puppy playfully wagged its silky fluffy tail with energetic excitement.	4
+18	0	0	4	1	1	3	0	2	0	2	0	0	5	1	1	1	0	4.0	1	9	The delicate, sparkling, iridescent, and silky tissue made the beautiful butterfly wings stand out. 	4
+22	1	0	7	1	0	2	0	2	0	1	0	0	8	1	0	0	0	3.0	1	12	The majestic, serene, shimmering, lustrous, glimmering, gleaming unicorn pranced graciously across the dazzling, vibrant meadow.	6
+13	2	0	1	1	1	5	0	0	0	2	0	0	1	0	0	0	0	3.0	0	4	Carefully curated crystal clear champagne gleams grandly in gold and glittering goblets.	6
+32	1	0	6	3	1	8	0	5	0	3	0	0	5	2	0	1	0	5.0	2	14	The majestic crimson parrot, with iridescent feathers, shimmering eyes, and a melodious songs, perched gracefully in the verdant branch, enjoying the tranquil beauty of the sunset.	6
+27	6	0	6	1	0	3	1	2	0	3	0	0	5	0	1	1	0	3.0	0	18	A stunningly colorful, gloriously sparkling, creatively designed, vibrantly hued, exquisitely patterned, intricately ornamented gemstone illuminated the room with its captivating luster. 	6
+20	0	0	6	1	1	2	0	1	0	2	0	0	7	1	0	0	0	3.0	1	13	Exquisite, gleaming, vibrant, radiant, lavish, and alluring purple gemstones glimmered in the sparkling sunlight. 	6
+12	0	0	1	1	0	3	0	1	0	4	0	0	2	0	1	0	0	3.0	0	5	Shimmering silver sparkling spherical shiny stones glimmer in the glinting sunlight.	6
+26	1	0	6	0	1	3	1	2	0	2	0	1	8	1	2	1	0	4.0	1	16	Venerable, gilded, illuminated, golden, luminous, and majestic were the intricately carved pillars that supported the grand cathedral's vaulted ceiling.	6
+23	1	0	7	1	1	3	0	1	0	1	0	0	8	0	1	0	0	4.0	0	15	Brilliant, gleaming, colorful, shimmering, lustrous, and vibrant rainbow-colored butterflies flutter joyfully in the warm sun.	6
+29	0	0	8	0	2	8	0	1	0	1	0	0	9	0	1	1	0	4.0	0	18	  Verdant emerald, luminous pearl, mesmerizing Ruby, radiant sapphire, alluring aquamarine, and precious diamonds embellish the exquisite, refined, and graceful engagement ring.	6
+27	0	0	7	1	2	3	0	3	0	2	0	0	9	1	1	1	0	5.0	1	13	The elegant, slender, shimmering, velvety, creamy, and delicate chandelier gleamed in the grand ballroom, casting a warm and inviting glow.	6
+28	0	0	4	1	1	8	0	5	0	4	0	0	5	0	1	1	1	5.0	1	22	 Wearing a glittering gold hat, a dazzling diamond necklace, and a flowing fur-trimmed gown, the stylish star walked down the lavish red carpet	6
+18	2	0	3	1	0	4	0	2	0	4	0	0	2	1	1	1	0	3.0	1	9	Shimmering silver spheres slowly swing through the shaded, sheltered spaces, softly scenting the sensitive surroundings. 	6
+22	1	0	2	4	1	6	0	2	0	3	0	0	3	1	1	1	0	5.0	1	8	Rays of golden sunlight peeked curiously between towering mountains, creating a serene and tranquil atmosphere with a hint of mystery.	6
+30	0	0	7	1	2	6	2	1	0	7	0	0	4	2	1	1	0	4.0	2	12	  The exquisite, lavender-scented, hand-crafted soap with its delicate, silky texture and soothing, calming aroma left my skin feeling refreshed and revitalized.	6
+27	0	0	2	1	0	5	2	1	1	4	1	0	9	2	2	2	0	5.0	2	8	Six sparkling shimmering emerald green diamond earrings glimmered against Sophia's soft svelte skin, creating a mesmerizing majestic glow that highlighted her refined regal beauty.	6
+26	1	0	8	1	1	4	0	2	0	2	0	0	7	0	1	0	0	5.0	0	15	The majestic, gleaming, white-sailed, towering, graceful, and speedy sailboat glided effortlessly across the crystal-clear ocean water.	6
+23	2	0	2	1	0	7	0	2	1	3	0	0	5	1	1	2	0	3.0	1	15	 Sally walked gracefully fluffy furry fuzzy floppy flexible feathery flaming feet through the field, carefully avoiding the tall towering twirling tulips.	6
+20	0	0	6	1	0	3	0	1	0	1	1	0	7	0	1	0	0	2.0	0	12	Six gleaming, bright, shimmering, sparkling, dazzling, lustrous crystals dangled from the delicate silver chain.	6
+21	0	0	6	1	1	3	0	2	0	2	0	0	6	0	1	1	0	4.0	0	14	The big, colorful, fluffy, soft, warm, and cuddly stuffed animal brought joy to the children. 	6
+8	1	0	1	0	0	2	0	0	0	2	0	0	2	0	1	1	0	3.0	0	2	Gleefully giggling golden retrievers gorged glossy grass. 	6
+20	0	0	6	1	1	4	0	1	0	1	0	0	6	0	1	1	0	4.0	0	16	Fiery sunsets paint the sky with radiant, vivid, golden, crimson, fierce, and blazing hues.	6
+21	0	0	3	1	1	8	0	1	0	2	0	0	5	0	1	1	0	3.0	0	9	Livid purple sunsets painted the twilight sky with vibrant vermillion hues, glittering golden specks, and lustrous lavender tones.	6
+14	0	0	6	0	0	3	0	0	0	0	0	0	5	0	0	0	0	1.0	0	12	Exquisite, serene, luminous, amethyst, majestic, silky night sky.	6
+24	1	0	8	1	0	2	0	2	0	3	0	0	7	1	0	0	0	3.0	1	14	The stunning, sparkling, blue-eyed, curly-haired, smiling child gracefully balanced on the narrow, wooden tightrope.	6
+26	3	0	2	3	0	7	0	3	0	2	0	0	6	1	2	0	0	5.0	1	9	Stunningly captivating sunset views glistened upon the radiant orange hues of the sky, where graceful gilded clouds floated aimlessly in the crystal-clear atmosphere	6
+26	1	0	7	0	0	10	0	0	0	5	0	0	3	0	0	0	0	3.0	0	22	Gracefully gleaming gold, shimmering sunset shards, sparkling silvery slivers, radiant rainbow rays, glimmering gemstone gleams, luminous light-drenched lozenges.	6
+18	0	0	6	2	1	1	1	0	0	1	0	0	6	0	1	0	0	4.0	0	12	Fluffy, cuddly, white, furry, playful, and sweet Patches curled up beside me.	6
+20	1	0	6	1	0	3	0	2	0	1	0	0	6	0	1	0	0	2.0	0	12	The sparkling, shimmering, golden, delicate, slender, filigree necklace glimmered brilliantly against the midnight sky.	6
+32	1	0	7	2	0	4	0	4	0	4	0	0	10	1	1	1	1	4.0	2	12	  Climbing cautiously over the creaky wooden bridge, the courageous young hiker encountered a mystical, ancient, secretive, glowing, twisting path leading through a lush, vibrant forest.	6
+20	1	0	6	1	1	2	0	2	0	1	0	0	6	0	1	0	0	4.0	0	13	  The beautiful, colorful, gleaming, vibrant, graceful, and slender ballerina danced elegantly across the stage.	6
+19	0	0	6	1	1	3	0	1	0	1	0	0	6	0	2	0	0	3.0	0	14	   Warm, radiant, sparkly, vibrant, silky, and soft sunset colors dance across the sky. 	6
+20	1	0	6	1	1	3	0	1	0	0	0	0	7	0	0	0	0	3.0	0	12	Warm, fluffy, little, playful, cuddly, delightful kittens romp and frolic merrily in the sunshine.	6
+16	1	0	4	1	0	3	0	0	0	3	0	0	4	0	1	0	0	3.0	0	8	Rolling silken honey-colored clouds drifted majestically beneath starry, cerulean, luminous skies. 	6
+10	2	0	1	0	0	3	0	0	0	2	0	0	2	1	1	1	0	3.0	1	3	Cleverly colored critters cautiously circled calming crystal clear pools.	6
+12	0	0	5	0	1	0	0	0	0	0	0	0	6	0	0	0	0	2.0	0	11	Elegant, charming, slender, tall, radiant, and intelligent	6
+30	1	0	8	2	0	5	0	3	0	2	0	0	9	1	0	0	0	4.0	1	11	The magnificent, shimmering, golden, sparkling, radiant rainbow unicorn with the glossy, silky mane gracefully pranced through the crystal clear, lavender-scented meadow.	6
+22	0	0	3	3	1	4	1	1	0	3	0	0	6	1	1	0	1	4.0	2	7	Soaring through ethereal blue skies, I felt free and carefree, floating upon lavender puffy clouds like an airy fairy. 	6
+20	1	0	3	2	0	4	0	1	0	4	0	0	5	1	1	1	0	3.0	1	8	Carefully crafted golden sunsets dance upon sparkling silky waves, casting vibrant colors throughout the soft, velvety sky.	6
+26	1	0	4	2	1	9	0	1	0	3	1	0	4	0	1	0	0	4.0	0	11	High above the misty mountain peaks, seven silver swans gracefully glided with elegant necks, glistening golden feathers, and shimmering swan song melodies.	6
+19	0	0	6	1	1	4	1	1	0	1	0	0	4	0	1	0	0	4.0	0	13	The beautiful, elegant, delicate, vintage, lace, and sparkly bracelet gleamed on her wrist.	6
+20	1	0	6	1	0	2	0	2	0	2	0	0	6	0	1	0	0	2.0	0	12	The giggling, playful, fluffy, cute, little, white puppy romped merrily in the sun-kissed meadow.	6
+20	0	0	6	0	0	3	0	2	0	1	0	0	7	0	1	1	0	3.0	0	12	The majestic, brilliant, golden, glistening, sparkling, shimmering tiara graced the regal queen's forehead.	6
+11	0	0	2	0	0	4	0	0	1	1	0	0	3	0	0	0	0	2.0	0	9	Rusty brown leathery old tiger-striped vintage shoulder bag. 	6
+19	1	0	5	1	1	2	0	2	0	1	0	0	6	0	1	0	0	4.0	0	13	  The magnificent, vibrant, colorful, sparkling, glittering, and luminous rainbow arced gracefully across the sky	6
+24	0	0	3	2	0	8	0	2	0	4	0	0	5	1	2	1	0	4.0	1	15	Shimmering silver scales glisten golden on glowing gemstone eyes, as a radiant rainbow-colored rhinestone tiara tops an ethereal ethnic ensemble.	6
+24	1	0	4	1	0	7	1	1	0	3	0	0	6	1	2	2	1	4.0	2	7	Cautiously creeping, curious coral crustaceans cruise cobalt blue crystal waters, their crystalline claws casting cool, calm colors amidst the currents.	6
+12	2	0	2	0	0	2	0	1	0	2	0	0	3	0	1	1	0	3.0	0	5	Vividly sparkling crystalline waves gently caressed the serene, sun-drenched shore.	6
+12	2	1	0	1	0	3	0	0	1	3	0	0	1	1	1	1	0	4.0	1	6	Wiley whistled wearily with winsome wisdom while wielding wonderfully worn wool wetsuits	6
+13	1	0	1	0	1	2	1	0	0	2	1	0	4	0	1	1	0	3.0	0	4	Six exquisite fluffy pink kittens furiously purred and batted their velvety ears.	6
+30	1	0	7	2	1	5	1	3	0	2	0	0	8	1	2	0	0	4.0	1	13	The beautiful, colorful, delicate, elegant, vintage, and whimsical butterfly fluttered gracefully in the sunny garden, its iridescent wings shimmering in the warm light.	6

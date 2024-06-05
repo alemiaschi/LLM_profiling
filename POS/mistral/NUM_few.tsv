@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+20	1	0	2	2	1	5	0	3	0	2	0	0	4	1	1	1	0	4.0	1	6	The sun slowly set over the calm sea, casting beautiful hues on the sandy beach and peaceful surroundings.	0
+17	0	0	1	1	2	6	0	2	0	3	0	0	1	1	1	2	0	4.0	1	10	Farmers harvested enough wheat to feed both inhabitants and traders in the surrounding region this year.	0
+16	0	0	2	1	0	4	2	2	0	3	0	0	0	2	1	2	0	4.0	2	7	A woman confessed to her lover's infidelity, leading him to leave the relationship.	0
+13	0	0	1	1	1	5	0	1	0	1	0	0	2	0	1	1	0	4.0	0	3	The city's parks provide peaceful spaces for relaxation and outdoor activities.	0
+17	0	1	2	1	0	3	2	2	0	4	0	0	2	2	2	2	0	4.0	2	8	I discovered that the stolen blueprints of the building contained incomplete information, rendering them unusable.	0
+17	1	0	2	2	1	5	0	2	0	2	0	0	2	1	1	1	0	4.0	1	6	The new store opened next to the library, offering artisanal candles and soaps for customers.	0
+19	0	0	2	1	2	6	0	2	0	3	0	0	3	1	1	3	0	5.0	1	5	A powerful hurricane hit the eastern coast, causing extensive damage and leaving thousands without power or homes.	0
+21	0	0	1	3	1	7	1	3	0	2	0	0	1	1	1	1	0	6.0	1	8	The CEO decided to terminate the partnership amid concerns about its profitability and strategic alignment with the company's vision.	0
+12	0	0	1	2	1	4	0	1	0	1	0	1	1	0	1	0	0	4.0	0	3	The defendant was charged with multiple counts of fraud and forgery.	0
+18	1	0	2	3	1	5	0	3	0	2	0	0	1	1	1	1	0	5.0	1	5	The sun slowly sets over the horizon, painting the sky with hues of orange and pink.	0
+13	0	0	2	1	0	3	0	2	0	3	0	0	1	2	1	1	0	4.0	2	5	The sun began to rise, casting long shadows across the landscape.	0
+11	0	0	1	1	1	4	0	2	0	1	0	0	1	0	1	1	0	4.0	0	3	The bakery offers an extensive variety of confections and breads.	0
+21	1	0	3	2	1	5	1	2	0	2	0	0	4	1	1	2	0	5.0	1	5	In the bustling marketplace, a merchant displayed various spices, their pungent aromas enticing customers from far and wide.	0
+12	0	0	1	1	0	3	0	2	0	3	0	1	0	1	1	1	0	4.0	1	3	The thief was found to possess a cache of stolen jewels.	0
+14	1	0	2	2	0	5	0	1	0	1	1	0	1	0	1	1	0	3.0	0	9	Two scientists secretly carried out cutting-edge research in a clandestine laboratory.	0
+24	0	0	3	4	1	5	2	1	1	2	0	0	5	1	1	1	0	4.0	1	6	In the late 19th century, European powers established their colonies in Africa, leading to widespread territorial divisions and conflicts among them.	0
+22	1	0	1	3	1	6	0	2	0	4	0	1	2	1	1	2	0	6.0	1	9	Smokestacks have contributed to significant pollution in the past but now face increased regulations to minimize such impacts on the environment.	0
+23	0	0	2	3	0	6	1	5	1	2	0	0	1	1	1	2	0	4.0	1	8	In the kingdom of the Netherlands, the monarch held an extravagant feast for his nobles to mark the harvest's bounty.	0
+29	2	0	4	4	0	7	0	4	2	3	0	0	3	2	1	2	0	6.0	2	8	The United Nations imposed strict trade sanctions on Iraq, banning the importation of crude oil, thus leading to the depletion of the once-abundant reserves.	0
+22	0	1	1	3	1	4	3	2	2	3	0	0	2	1	1	2	0	5.0	1	9	Prince Hamlet lamented on the tragic loss of his father and took upon himself the responsibility of avenging his cruel murder.	0
+33	1	1	2	2	2	7	1	5	0	5	0	2	5	3	4	2	0	6.0	3	19	The ancient texts predicted that the earth would end in a violent cataclysm causing massive fires and devastating floods, and some believe we are now experiencing the final days of humanity.	0
+17	0	0	2	1	0	4	1	4	0	3	0	0	2	2	2	2	0	4.0	2	9	A young woman sang a haunting melody at the village bonfire, enthralling all who listened.	0
+12	0	0	1	0	0	3	0	2	0	5	0	0	0	3	1	2	0	5.0	3	3	The suspect confessed planning to rob a bank using stolen blueprints.	0
+13	0	0	1	1	0	5	0	3	0	1	0	0	1	0	1	1	0	3.0	0	9	A baker decorated an intricate cake design for a customer's order.	0
+18	0	0	3	2	0	4	1	1	0	2	0	2	2	1	2	1	1	4.0	2	9	The factory, which was under constant surveillance, was rumored to manufacture weapons of mass destruction.	0
+18	0	0	1	2	1	6	1	2	0	2	0	0	3	1	2	2	0	6.0	1	4	The new legislation bans the sale of certain types of fireworks that cause unnecessary noise and disturbance.	0
+12	1	1	1	1	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	5	The cat slept soundly while the sun set over the lake.	0
+17	0	0	2	0	1	3	0	1	1	3	0	2	3	2	2	2	0	6.0	2	3	Ancient Egyptians are known to have worshipped several gods, each having distinct powers and appearances.	0
+14	1	1	1	0	0	3	2	2	0	2	0	0	1	1	2	2	0	3.0	1	5	The woman's dog followed her fearfully as she approached the dark alley.	0
+15	0	0	2	0	0	4	0	0	0	3	0	2	3	2	1	2	0	4.0	2	4	Several employees were found to have embezzled company funds, causing significant financial losses.	0
+18	0	0	2	3	0	6	0	4	0	2	0	0	1	1	1	2	0	4.0	1	7	A detective interrogated a suspect, coercing a confession of guilt in a series of heinous crimes.	0
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	The cat sat gracefully by the window, watching birds in the garden.	0
+18	1	0	2	2	0	4	1	3	0	2	0	0	3	1	1	1	0	5.0	1	5	The sun set slowly behind the distant horizon, its brilliant colors reflecting off the shimmering water.	0
+10	0	1	1	0	0	3	0	0	1	2	0	1	1	1	1	1	0	3.0	1	3	Twin sisters were accused of plotting identical twin bombings.	0
+19	0	1	1	1	0	5	0	4	0	3	0	1	2	2	1	2	0	4.0	2	10	The detective was able to find the prime suspect in the stolen artwork case without leaving any traces.	0
+13	0	0	2	1	0	3	2	1	0	2	0	0	2	0	1	1	1	2.0	1	8	Smiling, he revealed a hidden agenda to his new business associates.	0
+14	1	0	1	1	0	5	0	1	0	3	0	0	1	1	1	2	0	3.0	1	5	A new technology enables cars to automatically adjust speed to changing traffic conditions.	0
+15	1	0	1	1	0	4	1	1	0	2	0	0	3	1	1	2	0	4.0	1	4	A renowned sculptor famously used unique materials to create his magnificent works of art.	0
+15	1	0	1	2	0	4	0	2	0	1	0	0	4	0	1	1	0	3.0	0	6	Political leaders worldwide condemned the brutal terrorist attack on civilians in the crowded marketplace.	0
+16	0	0	1	1	1	6	1	1	0	1	0	0	4	0	1	1	0	3.0	0	7	The new restaurant gained critical acclaim for its bold flavor combinations and excellent customer service.	0
+15	1	0	1	0	1	4	0	2	0	3	0	1	2	1	2	2	0	4.0	1	6	Some employees believe the new software will significantly improve productivity and reduce manual tasks.	0
+24	1	1	2	2	0	4	1	3	0	4	0	2	3	3	1	2	0	5.0	3	10	An elderly couple was rumored to have secretly amassed considerable wealth while living in the village, without anyone knowing the exact sum.	0
+11	0	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun rose, bathing the landscape in golden hues.	0
+23	0	0	2	1	1	9	0	0	0	3	0	3	2	1	2	2	0	4.0	1	14	People have been known to use cocoa powder for natural hair dyes, and rose hips can enhance skin's overall complexion.	0
+14	1	1	1	1	0	5	0	0	0	2	0	1	2	1	1	1	0	3.0	1	6	Migrant laborers are frequently exposed to hazardous working conditions while building infrastructure projects.	0
+12	0	0	1	1	0	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The detective found the suspect's fingerprints on multiple crime scenes.	0
+17	0	0	1	3	0	8	0	3	0	1	0	0	1	0	1	1	0	5.0	0	4	The police chief received information from reliable sources about a bomb threat at the city square.	0
+18	1	0	1	1	0	6	2	1	2	2	0	1	1	1	2	2	0	5.0	1	4	Principal Smith shared some critical feedback on classroom management strategies that would significantly enhance her teaching effectiveness.	0
+13	1	0	1	1	1	5	0	2	0	2	0	0	0	0	1	1	0	4.0	0	4	The bakery displayed an assortment of freshly baked pastries and artisan loaves.	0
+22	1	0	2	3	0	6	0	3	0	3	0	0	2	2	1	2	0	6.0	2	8	A group of people had to leave the room, unable to hear the speaker properly due to excessive background noise.	0
+10	1	0	1	1	0	4	0	1	0	1	1	0	0	0	1	1	0	3.0	0	6	A beekeeper keeps around 60 hives for honey production.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	1	1	0	3.0	0	3	I need three pens for this assignment.	1
+12	0	0	1	3	0	4	1	1	0	1	1	0	0	0	1	1	0	3.0	0	9	We eat popcorn for three movies in a row during weekends.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	1	1	0	2.0	0	5	I write a poem with five stanzas.	1
+9	0	0	1	1	0	3	1	0	0	1	1	0	1	0	1	1	0	2.0	0	6	They finished work on 15 buildings last week.	1
+9	0	0	1	1	0	2	2	0	0	1	1	1	0	0	0	0	0	3.0	0	3	There will be 30 attendees at our workshop.	1
+9	0	1	1	1	0	2	1	0	0	2	1	0	0	1	1	1	0	3.0	1	4	He takes three pills before going to bed.	1
+7	0	0	1	0	0	2	1	1	0	1	1	0	0	0	1	1	0	2.0	0	4	He eats 2 apples every day.	1
+13	0	0	1	2	0	3	1	1	0	2	1	1	0	1	1	1	0	4.0	1	7	You will need to add three tablespoons of salt to the recipe.	1
+8	1	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	3.0	0	5	I drink 3 cups of coffee daily.	1
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	The baby slept for 2 hours straight.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cake consists of three layers.	1
+10	0	0	1	1	0	3	1	2	0	1	1	0	0	0	1	1	0	2.0	0	5	Every year we eat 300 grapes during the festival.	1
+8	1	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	3.0	0	5	I receive about 30 emails per day.	1
+8	1	0	1	0	0	2	1	2	0	1	0	0	0	0	1	1	0	3.0	0	3	We visit that place twice a month.	1
+13	0	0	1	2	0	5	0	2	0	1	1	0	1	0	1	1	0	4.0	0	3	A new car model gets an average of 30 miles per gallon.	1
+9	1	0	1	1	0	2	0	2	0	1	1	0	0	0	1	1	0	3.0	0	3	The elephant has a trunk of approximately 1.	1
+14	0	0	3	2	0	4	0	3	0	1	1	0	0	0	1	0	0	3.0	0	10	The cat sat on the bench, number 8, in the park.	1
+10	2	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	5	Two birds are sitting in a tree right now.	1
+7	0	0	1	0	0	1	1	0	0	1	1	0	1	0	1	1	0	2.0	0	4	He earned $25,000 last year.	1
+9	1	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are only seven colors in a rainbow.	1
+7	1	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	3.0	0	3	The sun sets about 7:30 p.	1
+13	0	1	1	1	0	2	2	1	0	2	1	1	1	1	1	2	0	4.0	1	8	You should review the report at least 3 times before signing it.	1
+9	0	0	1	0	0	4	0	2	0	1	1	0	0	0	1	1	0	2.0	0	4	The bus driver carries 27 passengers every journey.	1
+15	0	0	2	0	0	3	2	2	0	3	1	0	1	0	2	1	2	5.0	2	9	The first time I tried to ride a bike, I fell 20 times.	1
+14	0	0	3	0	0	3	1	2	0	2	1	0	1	1	1	1	0	3.0	1	8	You need to water the garden every other day (2 days).	1
+7	0	0	1	0	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	4	We pay our taxes every quarter.	1
+12	0	0	2	1	0	3	1	3	0	2	0	0	0	0	1	1	1	4.0	1	6	Each time you call a customer, aim for a sale.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The recipe serves 6 people.	1
+10	0	0	1	2	0	3	1	1	0	1	1	0	0	0	1	1	0	4.0	0	3	They score an average of 12 points per game.	1
+11	2	0	1	0	0	2	1	1	0	2	1	1	0	1	2	1	0	3.0	1	7	The baby weighs approximately 8 pounds when it's born.	1
+10	1	0	1	0	0	2	0	2	0	1	1	1	1	0	1	1	0	3.0	0	4	A single blueprint can have over a thousand components.	1
+18	1	0	2	2	0	5	2	2	0	2	1	0	0	1	1	2	0	4.0	1	6	In my experience, it usually requires 3 tries to get a parking spot near the building.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The train leaves at 7 o'clock.	1
+8	0	0	1	0	0	1	1	2	1	1	0	1	0	0	1	1	0	2.0	0	4	I will visit the library every Saturday.	1
+7	0	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	2.0	0	4	He received seven emails in total.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The cake serves 25 people.	1
+9	0	0	1	1	0	3	1	0	0	2	1	0	0	1	1	1	0	4.0	1	3	We have twelve guests expected for dinner tonight.	1
+8	1	0	1	0	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The bus usually arrives every half hour.	1
+12	1	0	1	2	0	2	1	2	1	1	1	0	0	0	1	0	0	3.0	0	7	She sings in the choir for about 3 hours every Sunday.	1
+10	0	0	1	2	0	3	1	1	0	1	1	0	0	0	1	1	0	4.0	0	3	We sell an average of 3 apples per customer.	1
+7	0	0	1	0	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	4	He eats an apple a day.	1
+7	0	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	2.0	0	4	He ate seven candies before bedtime.	1
+8	0	0	1	0	0	2	0	1	0	1	2	1	0	0	1	1	0	2.0	0	3	Three kids have eaten all six bananas.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are 3 parts to this process.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	2	The clock struck 12 midnight.	1
+8	0	0	1	0	0	2	0	1	0	1	1	1	1	0	1	1	0	2.0	0	2	A single apple may contain 5 seeds.	1
+7	1	0	1	1	0	1	1	0	0	1	1	0	0	0	1	0	0	2.0	0	4	They arrive exactly at 3:00 PM.	1
+8	0	0	1	0	0	3	0	1	0	1	1	0	0	0	1	1	0	3.0	0	2	The car's odometer showed 32,654 miles.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The book had 328 pages.	1
+9	0	0	1	1	0	3	0	1	0	1	1	1	0	0	1	0	0	2.0	0	4	Two people were injured in the traffic accident.	2
+17	0	0	3	2	0	5	0	1	0	1	1	0	3	0	1	1	0	3.0	0	7	Last year, the average consumer spent $54 on holiday-related items per month.	2
+16	0	0	2	3	1	4	0	1	0	1	2	2	0	0	2	0	0	3.0	0	9	Six people were in attendance at the event, and ten awards were given out.	2
+14	1	0	2	0	0	4	0	3	0	1	2	0	1	0	1	1	0	3.0	0	9	Ten thousand people visited the museum every month, twice the initial expectation.	2
+18	1	0	2	3	0	4	2	0	1	1	2	0	0	0	1	1	0	3.0	0	10	In her savings account, Sarah has $352 next to $98 in her checking account.	2
+8	0	0	1	0	0	3	0	1	0	0	2	1	0	0	1	0	0	2.0	0	2	The phone number is 555-1234 extension 786.	2
+9	0	0	1	1	0	2	0	0	0	0	3	1	1	0	1	0	0	3.0	0	2	Two hundred twenty units are available for sale.	2
+13	0	0	1	1	1	3	1	1	0	1	2	0	2	0	0	0	0	3.0	0	10	There are 7 red apples and 5 green ones in the basket.	2
+13	0	0	1	2	0	2	1	2	0	2	1	1	0	1	1	1	0	4.0	1	4	I will need a payment of $200 for the services rendered.	2
+16	2	0	2	3	0	3	0	1	2	1	1	0	1	0	1	0	0	3.0	0	5	In the first week of January, temperatures reached as low as 10 degrees Fahrenheit.	2
+2	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.0	0	0	I.	2
+10	0	0	1	1	0	4	0	1	0	1	1	0	1	0	1	1	0	2.0	0	6	The recipe makes enough dough for 24 mini pizzas.	2
+10	0	0	2	2	0	1	0	1	2	0	1	0	1	0	0	0	0	2.0	0	4	In 2019, the total revenue of Apple Inc.	2
+12	0	0	1	3	0	3	0	1	0	0	2	1	0	0	1	0	0	3.0	0	6	The price of gold in 2010 was USD 1,248 per ounce.	2
+22	0	0	2	3	1	7	1	3	1	2	2	0	0	0	1	2	0	5.0	0	9	We ordered 3 units of product from the supplier and received an acknowledgement of the transaction reference number ST-1005629.	2
+11	0	0	1	1	0	3	0	1	1	1	1	0	1	0	1	1	0	4.0	0	4	The second chapter has 27 sections in John's gospel.	2
+14	0	0	1	3	1	5	0	1	0	1	2	0	0	0	1	0	0	4.0	0	5	The recipe calls for 2 cups of sugar and 3 teaspoons of cinnamon.	2
+21	0	0	2	4	1	5	0	3	0	1	2	2	1	0	2	0	0	4.0	0	7	The total number of trees in the forest is 15,000 and every year, 2,000 are cut down for lumber.	2
+13	0	0	2	1	0	3	0	0	0	1	4	0	1	0	1	0	0	3.0	0	5	Two hundred fifty-five days remain until next year's end.	2
+9	0	0	1	1	0	4	0	1	0	0	1	1	0	0	1	0	0	2.0	0	3	Five o'clock is the time for afternoon tea.	2
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Eight apples cost $3.	2
+23	0	0	2	3	1	5	0	3	0	3	3	0	0	2	1	2	0	6.0	2	14	A customer bought tickets for an amusement park priced at $20 and $35, paying a total of $55.	2
+13	0	0	1	1	0	2	0	2	2	1	3	0	1	0	1	1	0	4.0	0	5	Two thousand twelve marked the release year for The Dark Knight Rises.	2
+16	0	0	1	2	1	5	0	1	0	1	4	0	0	0	1	1	0	4.0	0	8	The recipe requires 3 tablespoons of flour and 1 1/2 cups of water.	2
+11	0	0	2	0	0	2	0	1	0	2	4	0	0	0	2	1	0	3.0	0	6	Eight thousand students took the exam, three thousand failed.	2
+18	0	0	1	2	1	4	0	3	0	1	2	0	2	0	1	1	0	4.0	0	6	The new project proposal has a total cost of $50,000 and a budget of $45,000.	2
+12	0	0	1	2	1	3	1	0	0	1	2	1	0	0	1	0	0	5.0	0	5	Our product is sold in packages of five and ten units.	2
+12	0	0	1	2	1	4	0	1	0	1	2	0	0	0	1	0	0	3.0	0	5	The recipe calls for 1 cup of flour and 2 eggs.	2
+23	0	0	2	4	1	7	0	2	1	1	4	1	0	0	1	0	0	4.0	0	20	54 g of caffeine in a 12 oz cup of coffee   Or  During the 2004 Olympics, 42 world records were set.	2
+10	1	0	1	0	0	2	2	1	0	2	1	0	0	1	2	2	0	5.0	1	3	We sell a product that weights exactly 12 ounces.	2
+11	0	0	1	2	0	3	0	1	1	1	1	1	0	0	1	0	0	2.0	0	6	The temperature will rise to 25 degrees Celsius at noon.	2
+13	0	0	2	2	0	5	0	1	0	1	2	0	0	0	1	1	0	2.0	0	5	At the grocery store, customers bought 3 bananas for 80 cents.	2
+20	0	0	1	2	1	5	0	2	2	3	2	1	1	1	2	2	0	4.0	1	13	Four people were injured in the accident involving a train at Station C and six people required medical attention.	2
+13	0	0	1	0	1	4	0	2	0	1	2	1	0	0	2	1	0	3.0	0	8	The product weighs 15 pounds and the shipping cost is $5.	2
+8	0	0	1	1	0	2	0	0	0	1	2	0	1	0	1	1	0	4.0	0	4	17 oranges weigh more than 3 kgs.	2
+16	0	0	1	2	1	6	0	3	0	1	1	0	0	0	1	1	0	4.0	0	7	The car needs a total of $180 for the oil change and tire rotation.	2
+8	0	0	1	1	0	2	1	0	1	1	1	0	0	0	1	1	0	3.0	0	5	I received two packages from Amazon today.	2
+22	1	0	3	3	1	5	3	1	0	2	2	1	0	0	2	2	0	3.0	0	10	In our stockroom, we have received a delivery of 50 boxes, and we currently hold 235 boxes in total.	2
+19	1	0	1	4	1	5	1	2	0	1	2	1	0	0	1	0	0	3.0	0	8	Four students were admitted to the college with a score of 95 and below in their entrance exams.	2
+15	0	0	2	3	1	4	1	0	0	1	3	0	0	0	1	1	0	5.0	0	4	We sell 15 pizzas per hour, 5 during lunchtime and 10 during dinner.	2
+12	1	0	1	1	0	4	0	2	1	1	1	0	0	0	1	1	0	3.0	0	7	The temperature outside reached a high of 90 degrees Fahrenheit today.	2
+13	0	0	2	0	0	3	0	0	0	1	4	1	2	0	1	1	0	3.0	0	4	One hundred twenty-three students are taking Spanish class next semester.	2
+16	0	0	2	2	1	4	0	0	0	1	2	2	2	0	2	0	0	4.0	0	7	Seven students were absent yesterday, and two classes were cancelled due to heavy snow.	2
+4	0	0	1	0	1	0	0	0	0	0	2	0	0	0	0	0	0	2.0	0	2	 100 and 55.	2
+13	0	0	1	1	1	3	0	2	0	2	2	0	0	0	1	2	0	4.0	0	4	The product costs $10 and has a capacity of 15 liters.	2
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Two apples cost $0.	2
+14	0	0	1	2	0	5	0	1	0	1	2	1	1	0	1	0	0	3.0	0	5	Two thousand pounds of concrete blocks were transported to the site last week.	2
+13	0	0	1	2	0	4	0	2	0	1	1	2	0	0	1	0	0	3.0	0	6	A total of 2,500 units have been ordered from the manufacturing plant.	2
+13	0	0	1	1	1	6	0	1	0	1	2	0	0	0	1	0	0	4.0	0	5	The recipe calls for 1 tablespoon olive oil and 2 cups water.	2
+11	0	0	1	1	1	4	0	1	0	1	2	0	0	0	1	1	0	3.0	0	5	The recipe requires 1 pound of flour and 2 eggs.	2
+16	0	0	4	2	1	1	1	0	0	2	5	0	0	1	1	0	0	5.0	1	7	Three of them lived on streets numbered 2, 4, 6, and 8.	4
+8	1	0	2	1	0	0	0	0	1	1	2	0	0	0	1	1	0	2.0	0	3	In 2005, Japan produced around 4.	4
+32	0	1	4	3	1	11	1	2	0	3	2	2	2	0	1	1	2	5.0	2	21	The stock number of your product 23311, part number JR127 and order quantity as requested, totaling 1475 units, will be confirmed by email within the next few days.	4
+21	0	0	5	2	1	5	2	0	0	1	4	0	0	0	0	0	0	4.0	0	8	In our library's archive room, there are records for 1720, 1732, 2467, and 3094 items.	4
+5	0	0	1	0	0	0	2	0	0	1	1	0	0	0	1	1	0	1.0	0	2	He weighed himself 73.	4
+10	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	6	The price of the art pieces is €29.	4
+19	0	0	3	0	0	8	0	3	0	0	1	3	0	1	3	0	0	3.0	1	12	The order number is XS2310912, the product code is A1B234, the shipping cost is $32.	4
+31	0	1	5	1	1	9	0	3	0	2	4	0	1	1	2	1	0	3.0	1	16	A local library offers a book sale with prices as follows: hardcover $3, paperback $1, DVD $2, CD $1  Or another example:  In a recent report, the average monthly electricity bills for four US regions were: Northeastern $125, Southern $115, Midwestern $105, Western $135.	4
+29	0	0	4	2	2	8	0	2	0	4	5	1	1	2	1	2	0	6.0	2	11	Four people were seen boarding flight QF324 on the departure gates at 17:12 and took the last-minute seats numbered 3A, 4B, 22C and 15D.	4
+35	0	0	6	1	2	13	0	1	0	3	8	0	0	0	0	2	1	4.0	1	24	To make a pizza crust, combine 1 1/3 cups water, 3 1/2 cups bread flour, 2 tbsp olive oil, and 1 1/2 tbsp salt, and knead for 7 minutes.	4
+24	1	0	5	3	1	6	0	3	0	1	4	0	0	0	1	1	0	4.0	0	16	The speed limiter on the bike sets a maximum of 60, 70, 80, and 85 kilometers per hour, respectively.	4
+30	2	0	6	3	2	9	1	3	0	1	3	0	0	0	1	1	0	6.0	0	16	In every batch, we mix a pound and a half of A-grade sugar (approximately 750 grams) and 3 pounds of flour (around 1.	4
+35	0	1	5	1	1	4	1	1	0	2	10	1	1	0	1	2	1	6.0	1	19	In order to grow the best tomatoes, I have used fertilizer amounts of 5-7-4, 3-6-0, 10-10-10, and 15-15-15.	4
+16	0	0	5	1	1	4	1	0	0	1	1	0	2	0	1	1	0	4.0	0	7	I use four baits for trolling: pink, orange, yellow, and chartreuse.	4
+18	0	0	5	1	1	2	0	1	0	2	4	0	1	0	0	2	1	3.0	1	10	To unlock the combination safe, try 1978, 2716, 3625, and 1294 in sequence.	4
+9	0	0	1	0	1	3	0	1	0	0	2	1	0	0	1	0	0	3.0	0	3	The order confirmation number is 2345678 or 4712983.	4
+27	0	0	5	4	1	6	0	1	0	1	4	0	1	0	1	1	0	4.0	0	14	For the weekly budget, expenses on groceries amount to € 27, clothing € 32, dining out € 56, and entertainment € 17.	4
+14	0	0	1	2	1	3	2	0	0	1	2	1	1	0	1	1	0	3.0	0	10	You can contact our support team at 800-123-4567 and 800-987-6543 for technical assistance.	4
+15	0	0	4	1	1	1	2	0	0	1	4	1	0	0	1	1	0	5.0	0	6	You can contact us at (123) 456-7890, extensions 1111 or 2222.	4
+14	2	0	2	1	0	3	0	1	0	2	3	0	0	0	1	2	1	5.0	1	7	Six apples weighing approximately 120 grams each, add up to 720 grams.	4
+13	0	0	4	0	1	4	0	0	0	0	4	0	0	0	0	0	0	2.0	0	10	 2 cups, 3/4 cups, 2 tablespoons, and 1 teaspoon.	4
+20	1	0	1	1	1	5	0	1	1	3	4	1	0	1	2	2	0	6.0	1	8	Each order contains approximately twenty five items and customers are requested to pay in advance thirty five US dollars.	4
+27	0	0	3	5	1	6	1	1	3	1	4	1	1	1	1	0	0	4.0	1	12	The new sales record for our store in 2022 was 2395 items sold in March, 4782 items in April, and 6178 items in May.	4
+21	2	0	3	0	2	3	2	1	0	4	3	0	1	0	3	3	0	3.0	0	13	A pizza has eight slices, and I shared two equal parts, so I took and ate exactly 3.	4
+20	0	0	4	1	0	3	0	1	5	1	3	1	1	0	1	0	0	3.0	0	9	The new apartment complex is located at 1938 Elm Street, unit 3B, Santa Monica 90404 (732)549-7234.	4
+20	1	0	3	0	1	4	2	1	0	1	2	3	2	0	3	1	0	3.0	0	11	My old phone number is 212-123-4567 and my new one is 646-987-3210 (both can still receive calls).	4
+19	1	1	4	0	0	4	1	1	0	2	3	0	1	0	1	2	1	3.0	1	5	In order to properly calibrate this equipment, I need four specific measurements: 173 milliliters, 2.	4
+19	0	0	3	1	2	2	0	2	2	0	4	1	1	0	1	0	0	4.0	0	5	The serial number of the printer is RL-3456 or LN-9823, 7322 or 5147.	4
+9	1	0	2	0	0	1	1	0	0	1	2	1	0	0	1	1	0	3.0	0	3	You will need approximately 1233 milliliters (1.	4
+18	0	0	2	2	1	4	3	2	0	2	2	0	0	0	1	1	0	4.0	0	11	There are three bottles in every case, and the case itself has four cases within it.	4
+14	0	0	1	1	1	3	1	0	0	0	4	2	1	0	1	0	0	4.0	0	4	Your phone number should be 345 7862 or 9875 2341 for easy contact.	4
+19	0	1	3	1	0	5	2	2	0	3	1	0	0	1	1	2	1	4.0	2	8	To test my hypothesis, I observed the sample for 17 hours, with readings taken every hour.	4
+36	1	0	9	2	0	9	2	1	2	3	5	1	0	1	1	2	1	4.0	2	29	To place an order, dial our 24-hour hotline: 880-5689, Press 1 for English, Then Press 4, Pay with Card, Your 4-digit verification code is X378.	4
+32	0	0	5	4	2	10	0	2	0	1	7	1	0	0	1	0	0	5.0	0	21	Five hundred fifty-six eggs, three pounds of butter, seventeen cups of flour, and one and a half gallons of milk are needed for the bakery recipe.	4
+22	1	0	5	2	1	7	0	1	0	1	4	0	0	0	0	1	0	4.0	0	15	In this science experiment, mix 2 liters, 375 ml, 150 ml, and 500 ml of solution together.	4
+12	0	0	3	1	0	3	2	0	0	1	2	0	0	0	1	1	0	4.0	0	3	I remember my phone number from childhood: 212-321-6857, 876-549-2379.	4
+24	0	0	5	2	1	3	2	0	5	1	4	1	0	0	1	1	0	4.0	0	17	You may find me in apartment 3C at 23 Oak Lane or 147 Sycamore Grove, 11259-3456 NY (phone: 555-111-2222).	4
+18	0	0	3	1	1	5	0	3	0	2	2	0	0	1	0	2	0	5.0	1	4	At the bus stop, please call the taxi company using these numbers: 777-333-1234 or 888-555-9112.	4
+23	0	0	3	4	1	6	2	2	0	2	3	0	0	0	1	2	0	4.0	0	16	She ordered a cake with a diameter of 30 centimeters, height of 8 centimeters, and decorated it with 12 flowers.	4
+22	0	0	6	0	1	4	0	1	0	1	6	0	3	0	1	1	0	3.0	0	11	A package contains 3 red marbles, 1 orange marble, and 2 yellow marbles: 3, 1, 2.	4
+22	0	0	4	3	1	8	0	1	0	1	4	0	0	0	1	1	0	4.0	0	14	The recipe requires 2 cups of flour, 1 teaspoon of salt, 3 eggs, and 1 cup of sugar.	4
+23	0	0	5	1	1	4	0	0	0	4	4	1	2	0	2	1	3	5.0	3	19	To create various shapes with polymer clay, following instructions numbered 1, 3, 4, and 7 may prove beneficial.	4
+9	1	0	2	0	0	2	0	1	0	1	2	0	0	0	1	1	0	3.0	0	3	Each package contains approximately 3 kg (6.	4
+18	0	0	4	1	0	2	0	1	0	1	8	1	0	0	1	0	0	4.0	0	7	Three thousand eight hundred forty-five (3845) units were delivered each month in 2020.	4
+21	0	0	4	0	1	8	1	1	0	2	4	0	0	1	1	2	0	6.0	1	12	I made a cake using 280 g sugar, 120 ml oil, 200 g flour, and 4 eggs.	4
+19	0	0	4	1	1	2	0	2	0	1	4	0	0	0	1	1	0	3.0	0	10	The ticket for this event costs € 17, € 29, € 42, and € 59.	4
+14	1	0	2	1	0	2	3	0	0	1	2	2	0	0	2	1	0	3.0	0	5	My phone number is 251-555-3627, you can also reach me at 251-555-2236.	4
+22	0	0	5	2	1	3	1	1	1	1	6	1	0	0	1	1	0	5.0	0	7	I have visited the beach areas at 8:00 am on four Sundays: 17/11, 24/11, 1/12, and 8/12.	4
+16	0	0	4	1	1	4	0	0	0	1	4	0	1	0	1	0	0	4.0	0	7	Fourth grade math tests consist of questions 17, 23, 31, and 42.	4
+11	1	0	1	2	0	2	0	2	0	1	2	0	0	0	1	0	0	2.0	0	6	The train arrives at platform 3 at exactly 9:37 a.	4
+9	0	0	1	2	0	2	0	2	0	1	1	0	0	0	1	0	0	3.0	0	4	The temperature of the mixture increased by 2.	6
+6	0	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2.0	0	2	Unit cost: $15.	6
+6	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	A pizza costs €14.	6
+27	1	0	4	4	0	8	0	2	0	2	5	0	1	1	1	0	0	6.0	1	9	The clock tower strikes 7 times at midnight, 11 twice, followed by 4 long tolls for a total of twenty-two bell rings.	6
+25	0	0	7	2	1	5	0	2	0	2	6	0	0	1	1	1	0	4.0	1	16	Each week, the sales team achieved targets of 150, 200, 250, 180, 300, and 220 in orders processed.	6
+24	0	0	7	1	1	4	0	2	0	2	7	0	0	1	1	1	0	5.0	1	20	The library has 25 books, numbered 1, 3, 7, 11, 13, and 21 in the reference section.	6
+15	0	0	1	2	0	3	0	1	2	0	3	1	1	0	1	0	0	4.0	0	10	The population growth rate of New South Wales during 1980-1985 was 1.	6
+18	0	0	6	0	1	2	0	1	0	1	6	1	0	0	1	0	0	3.0	0	11	The lottery winning numbers are 4, 15, 23, 31, 37, and 45.	6
+14	0	0	1	2	0	5	0	0	0	1	4	0	0	0	1	1	0	3.0	0	10	12 students completed 25 math exercises in 45 minutes with 98% accuracy.	6
+26	1	1	3	0	0	6	1	2	0	3	3	4	0	1	3	2	0	4.0	1	17	37,500 is the target population for marketing this product, 15,000 units have already been sold, our goal is to achieve 70% penetration.	6
+20	0	0	7	0	1	3	0	1	0	2	6	0	0	1	1	1	0	5.0	1	11	The product line includes items numbered: 127, 215, 538, 719, 962, and 1113.	6
+17	0	0	2	4	0	5	0	1	1	1	1	0	1	0	1	0	0	3.0	0	9	In the first week of August, sales revenues for product Z amounted to $10,453.	6
+14	0	0	1	2	0	5	0	2	0	0	1	1	2	0	1	0	0	3.0	0	6	357 miles is the average annual commuting distance for employees in this industry.	6
+25	0	0	2	3	2	6	0	2	0	3	3	0	2	1	1	1	0	5.0	1	10	At the art exhibit, visitors viewed and purchased 33 original oil paintings priced between $1,500 and $10,500 during the first hour.	6
+7	0	0	1	0	0	1	0	0	0	1	2	0	1	0	1	1	0	2.0	0	2	17 blue widgets cost ₪12.	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Answer: The number of days in February varies between 28 and 29, except in a leap year when it is 29 plus an extra day.	6
+26	0	0	7	1	1	5	0	2	0	0	6	1	2	0	1	0	0	3.0	0	12	The new product's sales figures for the last month were: 3255, 4127, 2983, 3766, 2814, and 4452 units.	6
+16	1	0	1	2	1	5	1	0	0	2	2	0	1	0	1	1	0	3.0	0	7	Your monthly electricity usage peaks at 1080 kWh during winter and averages 850 kWh annually.	6
+11	0	0	1	2	0	3	0	1	0	1	1	1	0	0	1	0	1	5.0	1	7	The sum of money collected from sales was $6,572.	6
+18	0	0	3	0	1	4	0	0	2	2	4	0	0	1	1	2	0	5.0	1	7	John Doe's account received 30 deposits, 2 withdrawals, and 12 transfers totaling $12,573.	6
+9	0	0	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	3.0	0	2	You will receive an invoice for $19.	6
+17	0	0	3	2	0	3	0	1	0	1	4	0	0	0	1	1	0	5.0	0	6	Three students achieved scores of 87%, 92%, 95% on the exam.	6
+14	0	0	2	2	0	4	1	1	0	1	2	0	1	0	1	1	0	2.0	0	11	You scored 75 points in the math test, with 12 incorrect answers.	6
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	2	The stock exchange closed at 4,271.	6
+17	1	0	2	2	0	6	0	1	0	1	2	0	1	0	1	2	0	4.0	0	6	In a business meeting, representatives from five organizations finalized partnership deals worth approximately $27.	6
+35	0	0	5	0	0	12	0	5	3	0	4	5	0	1	5	0	0	4.0	1	27	The post office box number is 1753, the city code is 48111, the street address is 221 Poplar Street, the apartment number is A-3, the email is example@gmx.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	1.	6
+6	0	0	1	1	0	1	0	1	0	0	1	0	0	0	0	0	0	2.0	0	2	The sum of $5,672.	6
+14	0	0	1	2	0	3	0	2	0	1	2	1	1	0	1	0	1	5.0	1	10	The sum of money spent in the first five days was $1,234.	6
+16	0	0	5	0	0	5	0	1	0	0	4	1	0	0	1	0	0	2.0	0	6	A phone number is (212) 555-1234, extension 1212, area code 10011.	6
+25	0	0	7	2	1	3	0	2	1	1	7	1	0	0	1	0	0	3.0	0	11	In the lottery result for February 24, the winning numbers were 4, 15, 21, 33, 36, and 45.	6
+28	0	0	2	5	0	5	1	2	1	3	4	3	1	2	2	0	0	7.0	2	10	Unit 7 has been cleared to operate at a budget of 15,000 dollars, which will allow for 375 hours of engineering over the next 6 weeks.	6
+16	0	0	2	0	0	6	0	0	1	0	3	2	0	0	2	0	0	4.0	0	5	Sophie's telephone number is 321-645-7982, office hours are 09:00 am - 17:30 pm.	6
+23	0	1	6	0	1	4	0	1	0	2	6	2	0	1	2	0	0	5.0	1	17	Sales records show that units 3, 5, 7, 12, 24, and 31 have been sold this month.	6
+25	0	0	6	1	1	2	0	2	2	0	7	1	2	0	1	0	0	4.0	0	11	The last three digits of a person's Social Security Number are 453, 126, 789, 012, 567, and 998.	6
+31	0	0	4	4	0	6	0	2	1	4	4	0	1	1	2	1	1	5.0	2	9	In the annual report published 31 March, the company's assets totaled $2,754,613, liabilities amounted to $687,845, resulting in shareholders' equity of $2,066,768.	6
+8	0	0	1	1	0	3	1	0	0	1	1	0	0	0	1	0	0	2.0	0	4	120 minutes elapsed during their team huddle.	6
+34	0	0	7	2	0	6	0	3	0	1	7	0	2	0	1	1	0	5.0	0	23	The sales reports show a steady revenue increase: $2,500, $3,100, $3,700, $4,300, $5,100, $5,900 per month for the last six months.	6
+50	0	1	13	4	1	18	0	1	0	2	10	0	0	0	1	2	1	5.0	1	33	A recipe for making chocolate chip cookies requires 1 cup (236 ml) of milk, 1 pound (453 g) of flour, 3 eggs, 2 teaspoons (10 ml) of baking powder, and 2 1/2 cups (567 ml) of sugar.	6
+23	0	0	7	1	1	4	0	1	0	2	7	0	0	1	1	1	0	4.0	1	12	The library purchases 125 issues per year, including Journals 1, 3, 4, 7, 11, and 22.	6
+15	0	0	7	0	0	5	0	0	2	0	0	0	1	0	0	0	0	2.0	0	10	Serial numbers: MKA457, KJB239, XHM876, LNO112, N7C643, BGQ321.	6
+8	0	0	2	0	0	2	0	1	0	1	2	0	0	0	1	1	0	2.0	0	2	A recipe requires 2 tablespoons (0.	6
+10	0	0	3	0	0	2	0	0	3	0	2	0	0	0	0	0	0	3.0	0	4	512 MB RAM, Intel i7 processor (3.	6
+19	0	0	6	1	1	2	0	2	0	1	6	0	0	0	1	0	0	3.0	0	11	The clock strikes every hour at 1, 2, 3, 4, 5, and 6.	6
+37	2	0	3	4	2	11	0	3	0	3	3	2	2	1	1	2	0	5.0	1	11	Twice weekly during the school term, students are to attend classes from 8 AM to 3 PM, and are expected to spend an additional 2 hours every day on personal study or library research.	6
+12	0	0	6	0	0	0	0	0	0	0	6	0	0	0	0	0	0	1.0	0	10	 3, 9, 12, 5, 7, 0.	6
+12	0	0	1	2	0	4	0	1	1	1	1	1	0	0	1	0	0	3.0	0	5	A password reset request was submitted on Wednesday at 11:15 am.	6
+39	0	1	13	2	0	3	0	1	7	2	8	1	0	0	1	1	1	4.0	1	20	In a quiz held on 1 March 2023, student scores were as follows: A-12, B-7, C-18, D-5, E-23, F-11.	6
+8	0	0	1	0	0	1	0	1	1	1	1	0	1	0	1	1	0	3.0	0	4	IKEA charges a flat rate $3.	6
+22	0	0	6	2	1	3	1	1	0	2	6	0	0	0	1	0	0	3.0	0	18	The train arrives at stations 3, 5, 7, 10, 13, and 16 on its proposed route.	6

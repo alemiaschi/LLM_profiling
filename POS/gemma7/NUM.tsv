@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+7	0	0	3	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	" ""The sky is blue."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+13	0	0	2	1	0	3	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The cat jumped onto the soft pillow, creating a cozy snuggle.	0
+10	0	0	3	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	" ""The cat jumped onto the green rug."""	0
+16	1	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shines brightly across the sky, creating a pleasant atmosphere for the day.	0
+12	0	0	3	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The quick brown fox jumps over the sleeping dog."""	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped onto the tree branch.	0
+16	0	0	4	2	0	4	0	3	0	1	1	1	0	0	2	0	0	3.0	0	8	"The sentence with 0 numerals is ""The cat jumped onto the mat.""."	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The cat jumps on the mat."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	0
+9	0	0	1	1	0	4	0	2	0	0	0	0	1	0	0	0	0	2.0	0	5	A rose blooms beneath the gentle morning sun.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+11	1	0	3	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	" ""The sun shines brightly on a warm day."""	0
+19	1	0	3	2	0	6	0	3	0	2	0	0	2	2	0	2	0	5.0	2	7	A rainbow arcs overhead, painting the sky with vibrant hues, creating a whimsical symphony of color.	0
+9	0	0	2	0	0	2	0	2	0	2	1	0	0	1	1	2	0	3.0	1	3	The clock strikes seven, heralding the evening.	0
+7	1	0	1	0	0	2	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	A young poet reads poetry aloud.	0
+9	1	0	1	1	0	4	0	2	0	0	0	0	0	0	0	0	0	2.0	0	5	The sunflower blooms vibrantly in the springtime sun.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+15	1	0	2	2	0	5	0	3	0	2	0	0	0	1	1	0	0	3.0	1	7	The cat sits gracefully beneath the oak tree, basking in the afternoon sun.	0
+8	0	0	1	1	0	1	0	2	1	1	0	0	1	0	1	0	0	2.0	0	4	The sun shines warm upon the Earth.	0
+15	0	0	3	2	1	4	0	2	0	1	0	0	2	0	1	1	0	4.0	0	4	" ""The vibrant sunset painted the sky with streaks of orange and pink."""	0
+12	0	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	4	The cat sleeps beneath the soft blanket on the warm rug.	0
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	The wind blew gently through the trees, whispering secrets to the birds.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	 The sky is blue.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 The butterfly danced gracefully in the park.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The cat sleeps soundly.	0
+12	1	0	3	1	1	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	" ""The cat sits on the mat and naps peacefully."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped over the tree.	0
+11	0	0	3	1	0	2	1	1	0	2	0	0	1	0	1	0	0	2.0	0	4	" ""The young boy played with his stuffed animal."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	A cat purrs contentedly in the garden.	0
+9	0	0	2	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	Sure, I generated a sentence without numerals.	0
+15	0	0	2	2	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The sun shines bright on the meadow, casting soft shadows on the grass.	0
+11	0	0	1	2	0	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	3	A cat is sitting on a mat in the sun.	0
+18	1	0	2	2	0	5	1	3	0	1	0	0	3	1	0	1	0	3.0	1	7	A young bird chirps happily in the trees, filling the warm air with its sweet sound.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The butterfly danced gracefully through the fragrant garden.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The cat sits on the mat."""	0
+10	0	0	3	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	" ""The playful kitten chased the fluttering butterfly."""	0
+10	0	0	3	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	" ""The cat jumps onto the green tree."""	0
+15	1	0	2	1	0	4	0	3	0	3	0	0	0	2	1	1	0	4.0	2	5	The sun shone brightly yesterday, illuminating the park for the children to play.	0
+13	1	0	2	0	0	4	1	2	0	2	0	0	1	1	2	1	0	3.0	1	5	The butterfly flutters gracefully, its wings mirroring the velvety evening sky.	0
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	 A flock of feathered friends danced in the sky.	0
+11	0	0	3	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The playful kitten jumped onto the soft rug."""	0
+12	1	0	3	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	" ""The vibrant butterfly danced gracefully through the serene garden."""	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sitting on the mat.	0
+12	0	0	3	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The quick brown fox jumps over the sleeping dog."""	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The cat jumped onto the mat."""	0
+16	0	0	2	2	0	4	0	4	0	2	0	0	2	1	1	1	0	3.0	1	6	The sun shines upon the ripe fruit, casting a golden glow onto the garden.	0
+11	0	0	3	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The fluffy cat jumped on the soft mat."""	0
+16	1	0	2	2	0	5	0	4	0	1	0	0	1	1	0	1	0	4.0	1	5	A rainbow arcs across the sky, illuminating the colorful tapestry of the earth below.	0
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	 The clock has 3 bells.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped onto the table once.	1
+10	0	0	1	2	0	3	0	2	0	1	1	0	0	0	1	0	0	2.0	0	6	The cat jumped to the tree with one hop.	1
+11	0	0	1	2	0	3	1	1	0	0	1	1	1	0	1	0	0	4.0	0	8	The number of planets in our solar system is 1.	1
+17	0	0	1	4	0	4	0	3	0	0	3	1	1	0	1	0	0	5.0	0	5	The number 5 is the highest number in the sequence of numbers from 1 to 5.	1
+16	0	0	1	3	0	4	0	3	0	0	3	1	1	0	1	0	0	3.0	0	6	The number 4 is the highest number in the number sequence from 1 to 4.	1
+14	0	1	1	1	0	4	0	4	0	1	1	1	0	1	1	1	0	3.0	1	7	The number 1 in the equation was the key to solving the problem.	1
+8	0	0	1	0	0	2	1	1	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 4 is my favorite number.	1
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	The cat sat on the 1st step of the stairs.	1
+8	0	0	1	0	0	2	1	1	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 3 is my favorite number.	1
+13	0	0	3	2	0	3	1	1	0	0	1	1	1	0	1	0	0	4.0	0	8	"""The number of planets in our solar system is 1."""	1
+14	0	0	3	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	"""The number 1 is the first number in the counting numbers."""	1
+11	0	0	1	2	0	3	1	1	0	0	1	1	1	0	1	0	0	4.0	0	8	The number of planets in our solar system is 1.	1
+11	0	0	1	2	0	3	1	1	0	0	1	1	1	0	1	0	0	4.0	0	8	The number of planets in our solar system is 1.	1
+12	0	0	3	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	"""The number of apples in the basket is 1."""	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The house has 1 kitchen.	1
+12	0	0	3	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	" ""The number of apples in the basket is 1."""	1
+10	0	0	3	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	"""The cat jumped onto the 1st floor."""	1
+9	0	0	1	1	0	2	0	2	0	0	2	1	0	0	1	0	0	2.0	0	4	The number 7 is a factor of 21.	1
+13	0	0	1	2	0	4	0	3	0	0	1	1	1	0	1	0	0	3.0	0	5	The number 8 is the largest number in this group of numbers.	1
+16	0	0	1	3	0	4	0	3	0	0	3	1	1	0	1	0	0	3.0	0	6	The number five is the largest number in the number sequence from one to five.	1
+14	0	0	3	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	"""The number 1 is the first number in the counting sequence."""	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 1 is the first number in the counting numbers.	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 1 is the first number in the counting system.	1
+10	0	0	3	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	"""There is one book on the table."""	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 1 is the first number in the counting sequence.	1
+12	0	0	3	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	"""The number of students in the class is 1."""	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat jumped to the 3rd floor.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat jumped to the third floor.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The cat has 1 ball.	1
+8	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	1	0	3.0	0	2	A baker sells 1 loaf of bread.	1
+13	0	0	1	2	0	3	0	2	0	1	2	1	1	1	1	0	0	4.0	1	5	The number 3 is the third number in sequence starting from 1.	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 1 is the first number in the counting numbers.	1
+18	0	0	1	4	0	5	0	3	0	0	3	1	1	0	1	0	0	5.0	0	5	The number 5 is the center of a rectangular room with dimensions of 10 by 15 meters.	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 1 is the first number in the counting sequence.	1
+9	0	0	1	0	0	2	0	2	0	0	1	1	2	0	1	0	0	2.0	0	6	The number 1 is the first natural number.	1
+8	0	0	1	0	0	2	1	1	0	0	1	1	1	0	1	0	0	2.0	0	5	 The number 3 is my favorite number.	1
+14	0	0	3	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	"""The number 1 is the first number in the counting sequence."""	1
+9	0	0	1	0	0	2	0	2	0	0	1	1	2	0	1	0	0	2.0	0	6	The number 3 is the smallest prime number.	1
+14	0	0	3	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	"""The number 1 is the first number in the counting sequence."""	1
+10	0	0	1	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	The number of apples in the basket is 1.	1
+10	0	0	3	1	0	2	1	1	0	1	1	0	0	0	0	0	0	2.0	0	5	"""There is one strawberry on the table."""	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 1 is the first number in the counting numbers.	1
+11	0	0	3	0	0	2	0	2	0	0	1	1	2	0	1	0	0	2.0	0	6	"""The number 1 is the first natural number."""	1
+12	0	0	3	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	"""The number of apples in the basket is 1."""	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 8 is the largest number in the number system.	1
+12	0	0	1	1	0	4	0	3	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 1 is the first number in the counting sequence.	1
+11	0	0	1	2	0	3	1	1	0	0	1	1	1	0	1	0	0	4.0	0	8	The number of planets in our solar system is 1.	1
+13	0	0	3	1	0	3	0	3	0	1	1	0	1	0	1	1	0	3.0	0	3	"""The number 1 represents the first position in a sequence."""	1
+12	0	0	1	1	0	4	1	2	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 3 was the perfect number for my garden project.	1
+2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	"""."	2
+12	0	0	1	2	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	7	 The number of apples in the basket is 12 and 20.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 5 and 8 is 13.	2
+11	0	0	1	2	1	3	0	1	0	0	2	1	0	0	1	0	0	4.0	0	6	 The number of students in class is 18 and 22.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 5 and 7 is 12.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 12 and 14 is 26.	2
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	 The clock displayed 12:34.	2
+14	1	0	1	3	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	9	 The number of pages in a book is usually between 200 and 300.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 12 and 21 is 33.	2
+9	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	 The price of the item is $12.50.	2
+14	1	0	1	3	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	9	 The number of pages in a book is usually between 200 and 300.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 5 and 3 is 8.	2
+9	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	 The cost of the item is $12.45.	2
+8	0	0	1	0	1	2	0	1	0	1	2	0	0	0	1	1	0	4.0	0	4	 The house has 12 and 14 bedrooms.	2
+10	0	0	2	1	0	3	0	2	0	1	1	0	0	0	1	0	0	3.0	0	6	 The cat sat on a 12-foot ladder.	2
+8	0	0	3	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	" ""The house has 24 rooms."""	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 12 and 18 is 30.	2
+21	1	1	2	4	0	6	0	4	0	2	0	1	0	0	2	0	1	5.0	1	11	 As the number of students in the class increases, the number of seats in the classroom must also increase.	2
+14	0	0	3	2	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	7	" ""The number of students in the class is 23 and 17."""	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 5 and 3 is 8.	2
+12	0	0	1	2	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	7	 The number of apples in the basket is 5 and 7.	2
+14	1	0	1	3	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	9	The number of pages in a book is typically between 300 and 500.	2
+12	0	0	1	2	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	7	 The number of students in the class is 24 and 16.	2
+10	0	0	1	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	 The number of pages in a book is 238.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 15 and 20 is 35.	2
+12	0	0	1	1	1	3	0	2	0	1	2	1	0	0	1	1	1	5.0	1	7	 The number of people attending the party was 15 and 20.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 12 and 18 is 30.	2
+10	1	0	2	1	1	0	1	0	0	1	3	0	0	1	1	0	0	4.0	1	5	 22 and 44, which add up to 66.	2
+18	1	0	2	3	2	4	0	2	0	0	2	1	1	0	1	0	0	4.0	0	9	 The number of apples and oranges in the basket are equal to 10 and 12, respectively.	2
+14	1	0	1	3	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	9	 The number of pages in a book is usually between 200 and 300.	2
+14	0	0	3	2	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	7	" ""The number of students in the class is 12 and 16."""	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 5 and 7 is 12.	2
+9	0	0	1	0	1	3	0	1	0	1	2	0	0	0	1	1	0	3.0	0	3	 The house has 2 floors and 4 bedrooms.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 12 and 23 is 35.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	The sum of 4 and 5 is 9.	2
+9	0	0	1	0	1	3	0	1	0	1	2	0	0	0	1	1	0	3.0	0	3	 The house has 2 floors and 3 bedrooms.	2
+11	0	0	3	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	" ""The sum of 20 and 30 is 50."""	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 12 and 18 is 30.	2
+12	0	0	1	2	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	7	 The number of students in the class is 20 and 25.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 5 and 7 is 12.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 5 and 7 is 12.	2
+12	0	0	2	1	0	3	0	2	0	2	1	1	0	0	1	0	0	3.0	0	7	 The cat is sitting on a 2-tiered cake stand.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	 The sum of 12 and 18 is 30.	2
+12	0	0	1	2	1	3	0	2	0	0	2	1	0	0	1	0	0	4.0	0	7	 The number of apples on the tree is 12 and 34.	2
+11	1	0	2	0	1	0	1	0	0	2	3	1	0	1	2	0	0	3.0	1	4	 12 and 23 are added together, which equals 35.	2
+11	0	0	3	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	" ""The sum of 5 and 8 is 13."""	2
+4	0	0	1	0	1	0	0	0	0	0	2	0	0	0	0	0	0	2.0	0	2	 12 and 23.	2
+11	0	0	3	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	" ""The sum of 12 and 16 is 28."""	2
+9	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	 The cost of the item is $12.50.	2
+10	0	0	1	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	 The number of stars in the sky is 20,000.	2
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	The sum of the numbers 2, 4, 6, and 8 is 20.	4
+14	0	0	4	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	 The sum of 12, 14, 16, and 18 is 50.	4
+12	1	0	1	2	0	4	0	1	0	1	2	0	0	0	1	0	0	3.0	0	8	 The train arrived at platform number 3 at exactly 10:15 AM.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 23, 34, and 45 is 116.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 24, 36, and 48 is 120.	4
+17	0	0	4	2	1	3	0	2	0	0	4	1	0	0	1	0	0	4.0	0	7	 The number of students in the class is 23, 18, 42, and 35.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 24, 36, and 48 is 120.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	  The sum of the numbers 12, 24, 36, and 48 is 120.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 13, 14, and 15 is 45.	4
+18	0	0	6	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	" ""The sum of the numbers 12, 14, 16, and 18 is 50."""	4
+14	0	0	4	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	 The sum of 12, 14, 16, and 18 is 50.	4
+16	0	0	4	0	1	5	0	1	0	1	4	0	0	0	1	1	0	3.0	0	10	 The house has 18 windows, 24 curtains, 32 panes, and 40 flowerpots.	4
+15	0	0	2	3	0	4	1	1	0	2	2	0	0	1	1	0	0	3.0	1	6	 The train departed at 10:15 AM, arriving at its destination at 2:30 PM.	4
+14	0	0	4	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	 The sum of 101, 102, 103, and 104 is 411.	4
+14	0	0	4	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	 The sum of 13, 15, 21, and 24 is 53.	4
+19	0	1	2	3	0	5	0	3	0	1	2	2	0	0	2	0	1	5.0	1	8	 The number of people sitting at the table is 23, while the number of children is 15.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 23, 34, and 45 is 116.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 15, 19, and 21 is 67.	4
+16	0	0	6	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	 'The sum of 12, 14, 16, and 18 is 50.'	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 23, 34, and 45 is 116.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 15, 18, and 21 is 66.	4
+19	0	0	3	1	2	6	0	2	0	1	4	0	0	0	1	1	0	5.0	0	7	 The house has 4 bedrooms, 2 bathrooms, and a kitchen with 2 ovens and 1 refrigerator.	4
+21	1	0	5	2	1	2	0	2	0	2	5	1	0	1	1	0	0	4.0	1	10	 The numbers 1, 2, 3, and 4 were added together, resulting in a total of 10.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 16, 18, and 20 is 66.	4
+18	0	0	6	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	" ""The sum of the numbers 12, 16, 20, and 24 is 72."""	4
+9	0	0	1	0	1	3	0	2	0	1	1	0	0	0	1	1	0	3.0	0	3	 The building has 4 floors and a basement.	4
+22	0	0	2	3	1	6	0	5	0	0	1	2	2	0	2	0	0	4.0	0	8	 The number of planets in the solar system is 8, and the earth is the third planet from the sun.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	The sum of the numbers 12, 14, 16, and 18 is 50.	4
+18	0	0	2	2	1	5	1	2	0	1	2	1	1	0	1	0	0	4.0	0	7	 The number of students in the class is 23, and there are 11 students absent today.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 14, 16, and 18 is 50.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	The sum of the numbers 12, 23, 34, and 45 is 116.	4
+20	0	0	6	2	1	3	0	2	0	1	4	1	0	0	1	0	1	5.0	1	8	" ""The number of students enrolled in the class is 12, 15, 18, and 21."""	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 23, 34, and 45 is 116.	4
+9	0	0	4	0	1	0	0	0	0	0	4	0	0	0	0	0	0	2.0	0	7	 24, 12, 38, and 16.	4
+13	0	0	3	0	1	4	0	1	0	1	3	0	0	0	1	1	0	3.0	0	7	 The house has 2 bedrooms, 3 bathrooms, and 2 garages.	4
+9	1	0	1	1	0	2	0	2	0	1	1	0	0	0	1	1	0	3.0	0	4	 The clock on the table displayed 12:34 precisely.	4
+21	0	0	2	3	0	5	1	2	1	1	2	2	2	1	2	0	1	5.0	2	10	 The number of students enrolled in Math class this year is 234, which is 10 more than last year.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	The sum of the numbers 12, 23, 34, and 45 is 116.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 14, 16, and 18 is 50.	4
+16	0	0	6	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	" ""The sum of 12, 14, 16, and 18 is 50."""	4
+18	0	0	4	2	1	3	0	2	0	1	5	0	0	0	1	1	0	4.0	0	9	 The numbers 12, 16, 24, and 30 constitute a set of multiples of 12.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	The sum of the numbers 12, 14, 16, and 18 is 50.	4
+16	0	0	6	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	"""The sum of 12, 16, 20, and 24 is 56."""	4
+14	0	0	2	2	0	4	0	2	0	1	2	1	0	1	2	1	0	3.0	1	10	 The restaurant had a total of 422 customers, with 120 being children.	4
+14	0	0	4	1	1	1	0	1	0	0	5	1	0	0	1	0	0	3.0	0	7	 2486 is the product of 2, 4, 8, and 6.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 16, 20, and 24 is 72.	4
+19	0	0	6	2	1	3	0	2	0	0	4	1	0	0	1	0	0	4.0	0	7	" ""The number of students in the class is 10, 15, 20, and 25."""	4
+9	0	0	4	0	1	0	0	0	0	0	4	0	0	0	0	0	0	2.0	0	7	 23, 41, 62, and 87.	4
+9	0	0	4	0	1	0	0	0	0	0	4	0	0	0	0	0	0	2.0	0	7	 12, 23, 34, and 45.	4
+16	0	0	4	1	1	2	0	2	0	0	5	1	0	0	1	0	0	5.0	0	13	 The sum of the numbers 12, 34, 56, and 90 is 192.	4
+13	0	0	3	2	0	3	0	2	0	1	1	1	0	0	1	0	1	5.0	1	8	" ""The number of students enrolled in this class is 246."""	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	The sum of the numbers 1, 2, 3, 4, 5, and 6 is 27.	6
+21	0	0	6	2	1	3	0	2	0	0	6	1	0	0	1	0	0	4.0	0	11	 The number of students in the class is 24, 18, 12, 16, 20, and 14.	6
+12	0	0	5	0	1	0	0	0	0	0	6	0	0	0	0	0	0	2.0	0	10	 12, 34, 56, 78, 90 and 102.	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	The sum of the numbers 1, 2, 3, 4, 5, and 6 is 27.	6
+24	0	0	6	2	1	4	0	3	0	1	6	1	0	0	1	0	0	4.0	0	11	The number sequence of the digits in the following sentence is 1, 2, 3, 4, 5, and 6.	6
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The phone number for the office is 555-123-4567.	6
+11	0	0	2	0	1	2	0	2	0	1	1	1	1	0	2	1	0	3.0	0	7	 The clock read 08:15, and the weather was perfect.	6
+12	0	0	3	1	1	1	0	1	0	0	4	1	0	0	1	0	0	4.0	0	9	 The sum of 12, 15, and 23 is 50.	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	The sum of the numbers 12, 14, 16, 18, 20, and 22 is 116.	6
+11	1	0	1	1	0	3	0	2	0	0	1	1	1	0	1	0	0	2.0	0	6	 24,321,618 is the most expensive zip code in the world.	6
+24	0	0	2	4	1	6	1	2	0	3	3	1	1	1	2	0	1	6.0	2	7	 The number of planets known to humans is 8, but scientists believe there are at least 100 billion galaxies in the universe.	6
+10	0	0	1	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	 The number of passengers on the bus was 48,312.	6
+9	0	0	1	0	1	3	0	1	0	1	2	0	0	0	1	1	0	3.0	0	3	 The house has 6 bedrooms and 2 bathrooms.	6
+22	0	0	2	3	1	5	1	3	0	2	2	2	1	1	1	0	0	4.0	1	8	 The number of planets in the solar system is 8, but there have been a total of 9 planets discovered.	6
+18	0	0	6	1	1	1	0	1	0	0	7	1	0	0	1	0	0	4.0	0	15	 The sum of 12, 16, 20, 24, 28, and 32 is 160.	6
+26	0	0	6	2	1	3	0	2	0	1	8	1	2	0	1	0	1	5.0	1	11	  The number sequence of the first six natural numbers beginning from 1 is 1, 2, 3, 4, 5, and 6.	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	The sum of the numbers 2, 4, 6, 8, 10, and 12 is 66.	6
+26	1	0	2	4	1	6	0	4	1	0	3	2	2	0	2	0	0	6.0	0	15	 The number of planets in the solar system is 8, but the number of stars in the Milky Way galaxy is approximately 100 billion.	6
+15	0	0	2	1	0	5	0	3	0	2	2	0	0	1	2	2	0	5.0	1	4	 The restaurant had a total of 6 tables, each table seating 2 people.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 123456.	6
+16	1	0	2	2	1	3	0	2	0	1	2	2	0	0	2	0	0	4.0	0	7	 The number of passengers on the train was 451, but only 32 were seated.	6
+22	0	0	6	1	1	4	0	2	0	1	6	1	0	0	1	1	1	5.0	1	11	 The number of students taking statistics this semester is 234, 248, 202, 221, 213, and 218.	6
+24	0	0	4	4	1	5	0	3	0	1	2	2	2	1	2	0	0	5.0	1	11	" ""The number of planets in the solar system is 8, but the first spacecraft launched into space was in 1961."""	6
+11	0	0	1	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	 The price of a basket of fruit is $23.45.	6
+10	0	0	1	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	 The number of employees in the company is 22,314.	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	 The sum of the numbers 1, 2, 3, 4, 5, and 6 is 21.	6
+21	0	0	6	2	1	3	0	2	0	0	6	1	0	0	1	0	0	4.0	0	11	 The number of students in the class is 23, 14, 12, 8, 16, and 18.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 123456.	6
+14	0	0	3	3	0	2	0	2	0	0	3	1	0	0	1	0	0	5.0	0	9	" ""The sum of the numbers from 1 to 6 is 21."""	6
+10	0	0	1	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	 The number of passengers on the bus was 421.	6
+12	0	0	3	1	0	3	0	2	0	1	1	1	0	0	1	1	1	5.0	1	7	" ""The number of people attending the party was 18,423."""	6
+6	0	0	1	0	0	2	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	 The phone number is 123-456-7890.	6
+21	0	0	6	2	1	3	0	2	0	0	6	1	0	0	1	0	0	4.0	0	11	 The number of students in the class is 23, 12, 18, 16, 21, and 19.	6
+12	0	0	1	2	0	2	0	2	2	0	1	1	1	0	0	0	0	5.0	0	5	123456 is the number of stars in the Milky Way Galaxy.	6
+6	0	0	1	0	0	2	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The telephone number is 541-832-4210.	6
+29	1	0	2	4	1	6	1	3	1	1	3	3	2	0	2	0	0	6.0	0	13	 The number of planets in our solar system is 8, but the number of stars in the Milky Way galaxy is estimated to be around 100 billion.	6
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	0	0	0	4.0	0	3	 24,618,332 is the product of 6 and 4,032.	6
+21	0	0	6	2	1	3	0	2	0	0	6	1	0	0	1	0	0	4.0	0	11	 The number of students in the class is 23, 18, 12, 26, 14, and 21.	6
+8	0	0	3	0	0	2	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	" ""The house number is 123456."""	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	The sum of the numbers 1, 2, 3, 4, 5, and 6 is 27.	6
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	 The clock displayed 12:34:56.	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	The sum of the numbers 1, 2, 3, 4, 5, and 6 is 27.	6
+20	0	0	6	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	 The sum of the numbers 1, 2, 3, 4, 5, and 6 is 21.	6
+25	0	0	4	4	1	6	1	4	0	1	2	1	1	0	1	0	0	5.0	0	8	" ""The number of planets in the solar system is 8, but there are a total of 9 planets in the universe."""	6
+15	0	0	3	2	1	3	0	2	0	0	3	1	0	0	1	0	0	4.0	0	7	 The number of apples in the basket is 23, 14, and 6.	6
+11	0	0	3	0	1	3	0	1	0	1	2	0	0	0	1	1	0	3.0	0	3	" ""The clock has 2023 widgets and 4 batteries."""	6
+14	0	0	2	1	1	4	0	3	0	2	1	0	0	1	1	2	0	4.0	1	5	 The clock displayed 23:15, signifying the hour and minute of the day.	6
+12	0	0	3	2	0	3	0	2	0	0	1	1	0	0	1	0	0	4.0	0	7	" ""The number of employees in the company is 123456."""	6
+22	0	0	8	1	1	2	0	2	0	0	7	1	0	0	1	0	0	5.0	0	17	" ""The sum of the numbers 1, 2, 3, 4, 5, and 6 is 21."""	6

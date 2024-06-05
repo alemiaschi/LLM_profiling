@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Mary's lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	2	1	1	1	0	1	1	1	1	1	0	1	0	0	2	0	0	3.0	0	5	Carl ran down the street as fast as he could.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She ate a sandwich for lunch.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on John's lap.	0
+13	0	0	2	1	0	3	0	3	0	1	0	0	3	0	1	1	0	2.0	0	5	With a loud thud, the heavy object struck the hard ground.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She ate a sandwich for lunch.	0
+16	1	0	1	2	1	3	2	2	0	3	0	0	0	1	1	2	0	4.0	1	6	She quickly grabbed her coat and ran out of the building to catch the bus.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat with the mouse.	0
+13	1	1	1	0	0	2	1	2	1	3	0	0	0	2	1	3	0	4.0	2	4	Bob quickly ate the sandwich without taking the time to smell it.	0
+9	0	0	1	1	0	1	0	1	0	2	1	1	0	0	1	1	1	2.0	1	5	Edited had found $100 on the sidewalk.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	A blue fish swam in the clear ocean water quickly.	0
+6	1	0	0	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Sarah walked quickly down the street	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She walked slowly to the door.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The horse raced across the field.	0
+7	0	0	0	1	0	2	0	1	1	1	0	0	1	0	1	1	0	2.0	0	5	Bob ate the bland sandwich in silence	0
+11	0	0	1	1	0	3	0	1	1	1	0	0	3	0	1	1	0	2.0	0	8	Sarah ate a big juicy steak for dinner last night.	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	He walked swiftly down the path.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Maria's lap.	0
+11	1	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	5	The old woman quickly put the kettle on the stove.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran swiftly down the street	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The big red car drove fast down the road.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Sunflowers danced in the yellow fields.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A dark figure emerged from the shadows.	0
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	She walked quietly down the dark street.	0
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She ate the sandwich quickly.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was blue.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog chased the ball with determination.	0
+7	0	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Mary walked to the grocery store.	0
+11	1	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	6	The sun was shining brightly in the clear blue sky.	0
+12	0	0	2	2	0	3	0	2	1	2	0	0	0	1	1	1	0	3.0	1	5	Max stood in the doorway, observing the room without emotion.	0
+11	0	0	1	1	0	2	1	0	1	2	0	0	3	1	2	1	0	4.0	1	4	Mandy has blue-gray eyes that glisten with joyful light	0
+4	0	0	1	0	0	0	0	0	2	1	0	0	0	0	1	1	0	1.0	0	1	Mars invaded Earth.	0
+12	0	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	5	A tall man with a broad smile jogged through the park.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The car turned left onto the highway.	0
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	They ate quickly the soup.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slid across the hardwood floor.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun slowly rose over the horizon.	0
+6	0	0	1	0	0	2	0	0	0	0	0	1	1	0	1	0	0	3.0	0	2	Mom's car is red.	0
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	I have two dogs.	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	John walked to the store.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun shone brightly on the green grass.	0
+6	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The cat was incredibly fluffy.	1
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	Stunning sunflowers swayed in the gentle breeze.	1
+10	1	0	1	1	0	2	1	0	1	1	0	0	1	0	1	0	0	3.0	0	4	Sophie's slender cat purred contentedly on her lap.	1
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The sun was shining brightly across the horizon.	1
+12	0	0	1	3	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The bright orange sun peeked out from behind the dark clouds.	1
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	She ate a juicy apple.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The snowy mountains towered above the village.	1
+12	0	0	2	1	0	2	0	1	1	1	0	0	4	0	1	1	0	2.0	0	9	Sarah wove a silky silver spider with intricate, shimmering threads.	1
+8	1	0	1	0	0	2	0	1	0	1	0	1	1	0	1	0	0	2.0	0	3	The delicious chocolate cake was devoured quickly.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The majestic giraffe munched on a leafy branch.	1
+13	2	0	2	1	0	2	1	1	0	2	0	0	2	0	1	0	0	3.0	0	7	The beautiful old mansion stands majestically among its well-manicured gardens.	1
+10	1	0	1	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The giant orange cat purred contentedly on my lap.	1
+9	2	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	3.0	0	4	Rarely have I encountered a more beautiful woman.	1
+10	0	0	1	1	0	2	0	2	1	1	0	0	2	0	1	1	0	2.0	0	7	Sandra bought a beautiful red dress for the party.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	3	The sun's vibrant colors danced across the sky.	1
+9	0	0	1	1	0	3	0	1	0	1	0	0	2	0	1	1	0	2.0	0	5	Spectacular sunsets painted the sky in vibrant hues.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The big brown bear roared loudly in the forest.	1
+13	1	0	3	1	1	2	0	1	0	1	0	0	3	0	1	0	0	4.0	0	6	Fluffy, golden, and adorable kittens pounced playfully in the sandbox.	1
+7	1	0	1	0	0	1	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The big purple elephant trumpeted loudly.	1
+7	2	0	1	1	0	0	0	0	1	1	0	0	1	0	1	0	0	3.0	0	2	Mostly tired Maria slowly woke up.	1
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	Sizzling juice dripped down the crispy cracker.	1
+10	1	0	1	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The big brown cat purred contentedly on my lap.	1
+7	1	0	1	1	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Her eyes gleamed brightly in triumph.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The baby laughed adorably at the silly clown.	1
+7	1	0	1	0	0	1	1	0	0	1	0	0	2	0	1	0	0	2.0	0	3	His brilliant blue eyes twinkled mischievously.	1
+5	1	0	0	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	Both dogs were brilliantly brown	1
+10	0	0	1	1	1	3	0	1	0	1	0	0	2	0	1	0	0	3.0	0	4	Savory and succulent seafood sizzled on the sandy shore.	1
+7	1	0	1	0	0	1	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The big red sun smiled fiercely.	1
+11	0	0	1	1	0	2	0	1	0	1	0	1	4	0	1	0	0	2.0	0	4	The dark blue skies were filled with fluffy white clouds.	1
+9	1	0	1	0	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	3	Her delicate fingers tenderly caressed the velvety kitten.	1
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Margaret's lap.	1
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The large, blue boat glided across the sparkling water.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The big red car sped down the winding road.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The old man walked carefully through the dark forest. (1 adjective: old)	1
+10	0	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	4	The delicate petals were tickled by the gentle breeze.	1
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	The lazy cat purred contentedly on my lap.	1
+14	1	0	3	1	1	2	0	2	0	1	0	0	3	0	1	0	0	4.0	0	7	A beautiful, tall, and green tree stands proudly in the garden.	1
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	Melodiously, the soothing symphony swept over the crowd.	1
+13	1	0	2	1	0	2	0	2	1	2	0	0	2	1	1	1	0	4.0	1	4	Admiringly, Anna observed the animated birds flying across the sunny sky.	1
+9	2	0	1	1	1	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	6	Sarah walked slowly and quietly down the hallway.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The beautiful woman walked gracefully down the catwalk.	1
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The bright yellow sun shone fiercely in the clear blue sky.	1
+7	1	0	1	1	0	3	0	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Dog fur shines brightly in sunlight.	1
+9	1	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	5	Adventurous horses galloped enthusiastically across the sun-drenched fields.	1
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The busy bee bounced briskly through the bright blue sky.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The adorable squirrel chattered busily in the bright sunlight.	1
+8	0	0	0	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The beautiful baby laughed at the cute kitten	1
+9	0	0	1	0	0	2	1	1	0	1	0	0	3	0	1	1	0	2.0	0	3	The delicious orange juice refreshed my parched throat.	1
+10	1	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	4	Bright blue waves gently lapped at the sandy shore.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The magnificent yellow sun rose slowly in the sky.	1
+13	0	0	1	1	1	4	0	1	1	1	0	0	3	0	1	1	0	3.0	0	10	Liz wears a bright pink sweater and blue jeans to school today.	2
+9	1	0	1	1	0	3	1	0	0	1	0	0	1	0	1	0	0	2.0	0	4	Lavender fluffy kittens purred contentedly on my lap.	2
+11	2	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	Boldly, brilliantly, the sun set over the horizon.	2
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The delicious, fluffy cake melted quickly in the warm oven.	2
+9	1	0	1	1	0	4	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Warmly glowing embers crackled in the wood stove.	2
+10	0	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	4	The beautiful brown dog chased the quick grey cat.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The lazy cat lounged on the soft cushion.	2
+10	2	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	7	She walked confidently and gracefully down the red-carpeted stairs. 	2
+11	0	0	1	1	0	2	0	2	0	2	0	0	3	0	1	0	0	2.0	0	5	The tasty sweet berries fell into the sparkling clear water.	2
+16	1	0	1	1	2	3	1	2	0	1	0	0	4	0	1	1	0	4.0	0	8	The tired and hungry rabbit slowly made its way through the thick and dark forest.	2
+10	0	0	1	1	0	3	0	1	0	1	0	0	3	0	1	0	0	2.0	0	5	Bright yellow sunflowers danced in the gentle summer breeze.	2
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	A beautiful little red book sat on the shelf.	2
+17	1	0	2	1	0	3	0	3	0	2	0	1	3	1	1	0	1	3.0	2	13	Lumbering carefully through the dense forest, the majestic grizzly bear was a sight to behold.	2
+10	1	0	1	1	0	2	0	0	1	1	0	0	2	0	1	0	0	3.0	0	5	Sleek black kittens purred contentedly on Sarah's lap.	2
+8	1	0	1	1	0	2	1	0	0	1	0	0	1	0	1	0	0	3.0	0	3	Boldly colorful socks danced on her feet.	2
+17	0	0	1	2	0	4	0	2	2	2	0	0	4	1	1	1	0	3.0	1	13	Maria enjoys sipping warm chocolate coffee from a fancy golden mug on a quiet Sunday morning.	2
+10	1	0	2	0	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	4	The tired, old dog slowly wagged its tail.	2
+12	0	0	1	1	1	3	1	2	0	1	0	0	2	0	1	1	0	4.0	0	9	She wore a simple yet elegant evening gown to the party.	2
+10	0	0	1	0	0	3	0	1	0	2	0	0	2	1	1	2	0	3.0	1	4	Melodious birds sang sweet melodies to greet the sunrise.	2
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The dark brown horse galloped swiftly across the green meadow.	2
+9	0	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	4	Fierce green frogs leap through the murky bayou.	2
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The bright yellow bird hopped excitedly on the green branch.	2
+10	1	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	4	Bright blue waves gently crashed against the sun-kissed shore.	2
+14	0	0	1	1	0	4	1	1	1	1	0	1	3	0	1	1	0	2.0	0	10	Suzanne was wearing her favorite bright yellow sunflower dress to the garden party.	2
+10	0	0	2	1	0	3	0	1	0	1	0	0	2	0	1	0	0	2.0	0	5	Beneath the rustic bridge, crystal clear water flows.	2
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The dark blue sky stretched over the rugged mountains.	2
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The large, shiny car drove down the street.	2
+6	0	0	1	0	0	1	0	0	1	1	0	0	2	0	1	1	0	2.0	0	3	Jessica has beautiful brown eyes.	2
+10	0	0	1	2	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The clever cat curled up on the creaky couch.	2
+9	0	0	1	1	1	3	0	1	0	1	0	0	1	0	1	0	0	3.0	0	4	Savory and juicy cheeseburgers sizzled on the grill.	2
+14	0	0	1	1	1	4	0	3	0	0	0	1	3	0	1	0	0	3.0	0	6	Both sunny and tranquil were the weather conditions in the quaint seaside town.	2
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The beautiful blue beach waves gently lapped against the sandy shore.	2
+10	1	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	5	Bright blue skis glided smoothly down the snowy mountain.	2
+10	1	0	3	1	0	2	0	1	0	2	0	0	0	0	1	0	0	2.0	0	7	Raindrops sparkled **coldly** on the darkening sky.	2
+20	0	0	2	3	0	5	1	2	1	2	0	0	2	1	1	1	0	4.0	1	10	Ruth picked a beautiful, rare orchid from the garden to give to her mother for Mother's Day.	2
+14	1	0	2	2	0	3	0	1	1	1	0	1	2	0	1	0	0	2.0	0	9	Sally is swiftly running around the field with graceful, fluffy cheetah legs.	2
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Fluffy kittens played happily in the backyard.	2
+11	1	0	1	1	2	1	0	1	1	1	0	0	2	0	1	0	0	3.0	0	5	Both beautiful and elegant, Sarah danced gracefully throughout the room	2
+11	1	0	2	1	0	3	0	1	0	2	0	0	1	0	1	0	0	3.0	0	4	Lilac-colored kittens playfully pounced on the softest toy. 	2
+13	0	0	1	1	0	3	0	3	0	1	0	0	4	0	1	1	0	2.0	0	7	The sunshiny yellow beagle chased the fluffy white kitten around the playground.	2
+11	0	0	2	0	1	1	0	1	0	1	0	1	4	0	1	0	0	3.0	0	4	The delicious, juicy pizza was served hot and steamy.	2
+12	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	The delicious chocolate cake melted in the sun's warm rays.	2
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The tall, dark man walked quickly through the crowded park.	2
+20	1	0	3	2	0	3	0	2	0	2	0	1	6	1	2	0	0	4.0	1	7	A tasty, golden brown muffin topped with sweet, juicy berries was devoured eagerly by the satisfied customer.	2
+9	1	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The bright blue sky slowly darkened with twilight.	2
+10	0	1	2	0	0	2	0	1	0	0	0	1	3	0	1	0	0	2.0	0	4	The delicious, fresh strawberries are ripe for picking.	2
+12	0	0	3	1	0	2	0	1	0	1	0	0	4	0	1	0	0	2.0	0	6	Glossy, golden beetles buzzed through the lush, humid garden.	2
+10	1	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	5	Bright blue waves lapped gently against the sandy shore.	2
+7	1	0	1	1	0	1	0	1	0	1	0	0	1	0	0	0	0	2.0	0	5	Rambled loudly across the grassy plain.	2
+10	1	0	1	0	1	2	0	1	0	0	0	1	3	0	1	0	0	2.0	0	3	The sunflower field was bright yellow and cheerfully fragrant.	2
+15	0	0	4	1	1	3	0	1	0	1	0	0	4	0	1	0	0	4.0	0	8	Melodious, mesmerizing, magnificent, and majestic sounds echoed through the night air.	4
+11	0	0	1	1	0	3	1	1	0	1	0	0	3	0	1	1	0	2.0	0	6	Her slender fingers played delicate melodies on the ancient piano.	4
+23	1	0	2	2	0	5	0	4	0	2	0	0	6	0	1	1	1	4.0	1	13	Rising rapidly in the sky's bright blue light, the full moon casts a serene silver glow over the peaceful landscape.	4
+11	0	0	2	2	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	4	The dark, misty night lit up with vibrant colors.	4
+10	1	0	1	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The angry little kitten purred contentedly on my lap.	4
+13	1	0	4	0	1	1	0	1	0	1	0	1	3	0	1	0	0	2.0	0	8	The sunset was vibrant, warm, orange, and slowly sinking.	4
+11	0	0	2	1	0	2	0	1	0	1	0	1	3	0	1	0	0	2.0	0	5	The delicious candy is covered in shimmering, colorful wrappers. 	4
+18	0	0	3	2	0	3	0	2	1	2	0	0	5	1	1	1	0	4.0	1	9	Sally walked into the colorful, vibrant, bustling market carrying a fragrant bunch of exotic flowers.	4
+13	1	0	1	2	0	3	0	1	0	1	1	1	2	0	1	0	0	2.0	0	6	The tasty cake was beautifully decorated with four juicy strawberries on top.	4
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The swift golden fox leaped gracefully across the desert terrain.	4
+15	1	0	1	1	0	5	0	1	0	3	0	0	3	0	1	1	0	3.0	0	6	Freshly baked melted golden brown chocolatey cookies filled the kitchen with sweet smelling aromas.	4
+9	1	0	0	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The majestic waterfall cascaded gracefully across the rugged landscape	4
+26	0	0	6	2	0	7	1	2	0	1	0	0	7	0	1	1	0	4.0	0	10	The adventurous, young traveler carried a sturdy, waterproof backpack with extra, cozy socks for her exciting, desert-sand hiking trip.	4
+12	1	0	1	0	0	2	1	0	2	1	0	0	3	0	1	1	0	3.0	0	5	Mrs. Taylor's bright pink dress matched her cheerful disposition perfectly.	4
+10	1	0	1	0	0	1	0	1	0	0	0	1	5	0	1	0	0	2.0	0	5	The delicious sweet juicy yellow fruit was incredibly refreshing.	4
+12	1	0	3	1	0	1	1	1	0	1	0	0	3	0	1	0	0	2.0	0	6	The tall, dark, handsome stranger smiled warmly at me.	4
+15	1	0	1	1	1	3	1	1	1	3	0	0	2	1	2	1	0	5.0	1	4	Mary has dark blue eyes that sparkle brightly and shimmer like the night sky. 	4
+12	0	0	1	1	0	3	1	1	1	1	0	0	3	0	1	1	0	2.0	0	9	Sarah bought a sturdy black backpack for her adventurous weekend getaway.	4
+10	0	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	4	The big brown puppy chased the tiny orange kitten.	4
+13	1	0	2	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The magnificent, towering pine tree stood majestically in the serene forest.	4
+9	1	0	0	1	0	1	2	0	0	1	0	0	3	0	1	0	0	2.0	0	4	Her green blue sparkling eyes gazed intensely into mine	4
+13	0	0	3	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The old, dusty, forgotten book lay on the rickety bookshelf.	4
+18	3	0	4	1	0	3	0	1	0	3	0	0	3	0	1	0	2	4.0	2	12	Blazing hot, scintillatingly blue, mysteriously glowing, beautifully radiant stars twinkled in the midnight sky.	4
+13	0	0	4	0	1	1	0	1	1	0	0	1	4	0	1	0	0	3.0	0	11	Sarah is an intelligent, attractive, kind, and thoughtful person.	4
+23	0	0	2	3	1	6	3	0	1	3	0	0	4	1	3	1	0	4.0	1	14	Sarah had dark green eyes that sparkled with excitement, and her long blonde hair cascaded down her back in soft waves.	4
+14	0	0	1	1	0	3	0	3	0	1	0	0	5	0	1	1	0	2.0	0	8	The delicious brown puppy chased the yellow butterfly around the lush green park.	4
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The bright blue bird landed gracefully on the green branch.	4
+14	1	0	1	2	0	3	0	2	0	1	0	1	3	0	1	0	0	3.0	0	4	The delicious cheesecake was richly topped with a plentiful array of fresh berries.	4
+14	0	0	1	2	0	3	0	3	0	1	0	0	4	0	1	0	0	3.0	0	4	The delicate floral dress rustled on the stately grounds beneath the vibrant sky.	4
+15	0	0	5	0	1	1	0	1	1	0	0	1	5	0	1	0	0	4.0	0	13	Jen was a tall, curly-haired, freckled, and bubbly girl.	4
+14	1	0	1	1	0	2	0	2	0	1	0	0	6	0	1	0	0	2.0	0	5	The majestic tall dark blue mountain towered over the tiny green village below.	4
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The magnificent purple elephant slowly meandered through the vibrant rainforest.	4
+22	0	0	4	1	1	4	1	2	1	1	0	0	6	0	1	1	0	4.0	0	10	Victor's elegant, charming, witty, and debonair behavior made him an instant favorite at the formal dinner party.	4
+11	1	0	1	1	0	2	0	1	0	1	0	0	4	0	1	0	0	2.0	0	6	Dark red clouds gathered ominously in the deep blue sky.	4
+14	2	0	1	1	0	4	0	2	0	3	0	0	1	0	1	1	0	3.0	0	8	The sun-kissed beachside cafe served freshly squeezed juices to the stylishly attired customers.	4
+9	1	0	1	0	0	2	0	1	0	0	0	1	3	0	1	0	0	2.0	0	4	The big green rolling hill was terrifyingly steep.	4
+15	0	0	4	1	1	2	0	1	0	1	0	1	4	0	1	0	0	4.0	0	9	The delicious, juicy, sweet, and tender chicken was cooked to perfection.	4
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The bright green leaves danced joyfully in the warm spring breeze.	4
+12	0	0	4	0	1	1	0	1	0	0	0	1	4	0	1	0	0	2.0	0	7	The sunset was majestic, serene, vibrant, and picturesque.	4
+18	1	0	2	2	1	5	1	0	0	2	0	0	4	1	1	1	0	5.0	1	9	Sunflowers bloomed boldly on bright fields during summer afternoons, flaunting their vibrant yellow and orange petals.	4
+13	1	0	1	1	0	4	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The beautiful old oak tree swayed gently in the warm spring breeze.	4
+16	0	0	4	1	1	3	0	1	0	0	0	0	6	0	0	0	0	4.0	0	10	A delicious homemade chocolate cake with rich, smooth, velvety, and tangy icing. 	4
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The sunny yellow flower bloomed brilliantly against the deep green leaves.	4
+20	0	0	5	1	1	3	0	2	0	1	0	0	6	0	1	0	0	4.0	0	9	The old, rickety, dilapidated, and creaky chair groaned under the new, heavy guest's weight.	4
+21	1	0	4	2	1	4	0	2	0	1	0	1	5	0	1	0	0	4.0	0	10	The delicious, crunchy, salty, and cheesy potato chips were devoured quickly by the hungry group of friends.	4
+13	1	0	3	1	0	2	1	1	0	1	0	0	3	0	1	0	0	2.0	0	6	The delicate, fluffy, playful kitten purred contentedly on my lap.	4
+11	1	0	1	1	0	3	0	1	0	1	0	0	3	0	1	0	0	2.0	0	4	Bright pink fluffy cotton candy swirled gracefully in the breeze.	4
+17	1	0	3	1	0	4	0	1	0	2	0	0	4	0	1	0	0	4.0	0	10	Blossoming pink hibiscus petals slowly drifted across the warm, crystal-clear water's surface.	4
+17	0	0	1	2	1	5	0	2	0	2	0	1	3	0	1	0	0	3.0	0	6	The tasty candy bars were wrapped in shiny gold foil and placed on the colorful display.	4
+12	1	0	1	1	0	2	0	2	0	1	0	1	3	0	1	0	0	2.0	0	4	The delicious brown pears were carefully arranged in the attractive basket.	4
+25	2	0	2	1	1	5	2	2	0	4	0	0	5	2	2	1	0	5.0	2	7	The delicious cake smelled so sweet and tasted equally wonderful, its rich flavors overflowing from the moist layers to delight our taste buds.	6
+17	0	0	3	2	0	3	0	3	0	1	0	0	5	0	1	0	0	2.0	0	12	The lazy cat lounged on the soft, fluffy, blue blanket in the warm sunlight.	6
+27	2	0	4	3	1	6	0	4	0	2	0	0	5	0	1	1	1	4.0	1	13	Smoothly gliding through the stillness of the evening air, the softly glowing lantern illuminated the dark forest with gentle, peaceful, and serene hues.	6
+15	0	0	6	0	0	1	0	0	1	1	0	0	6	0	1	1	0	2.0	0	12	Beth has beautiful, lively, curly, vibrant, sparkling, blue eyes.	6
+16	0	0	1	1	1	4	1	2	0	3	0	1	2	0	2	1	0	3.0	0	8	The old dusty book had a faded cover and its pages were crackling with age.	6
+25	1	0	6	1	1	8	0	1	0	2	0	0	5	0	1	0	0	3.0	0	16	The sunlit landscape glimmered brightly with verdant trees, sparkling flowers, smooth rocks, cool breeze, warm heat, and twinkling stars.	6
+21	2	0	2	3	1	4	2	1	0	3	0	0	3	1	2	0	0	4.0	1	8	The lazy kitten snuggled up tightly in its cozy blanket and purred contentedly, its fluffy ears twitching with satisfaction.	6
+25	0	0	4	2	1	6	0	4	0	3	0	0	5	1	1	1	1	4.0	2	12	Nestled between the verdant mountains and serene lake, a gentle breeze whispered through the swaying trees, illuminating the warm, sun-kissed sand.	6
+19	2	0	2	1	1	5	0	1	0	6	0	0	1	1	1	2	0	4.0	1	10	Spectacularly sparkling sunlight splashed shimmering silver and golden hues through scattered skylights, saturating the softly scented sanctuary.	6
+15	1	0	1	1	0	4	0	2	0	1	0	0	4	0	1	1	0	3.0	0	5	The diligent teacher patiently corrected the eager students' papers with fluorescent green ink.	6
+12	0	0	1	0	0	2	0	1	1	1	0	0	6	0	1	1	0	2.0	0	9	Sara had a stunning vibrant luminous shimmering silky smooth sparkling smile.	6
+18	1	0	1	1	0	4	0	3	0	1	0	0	6	0	1	1	0	3.0	0	12	The tired hiker eagerly surveyed the nearby meadow's soft golden wheat under a bright blue sky.	6
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The graceful swallow darted rapidly across the sun-kissed sky.	6
+11	1	0	1	1	0	4	0	0	0	1	0	0	3	0	1	1	0	2.0	0	6	Sophisticated sleuths skillfully searched sandy shores for hidden sea shells.	6
+21	0	0	6	1	1	2	0	2	1	1	0	0	7	0	1	1	0	4.0	0	18	Susan rode a beautiful, fast, sleek, green, yellow, and shiny bicycle down the steep mountain.	6
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The big red convertible travelled quickly along the scenic highway.	6
+16	1	0	5	1	0	1	0	1	1	1	0	0	5	0	1	0	0	3.0	0	13	Sarah walked into the dimly lit, stuffy, crowded, smoky, noisy bar.	6
+24	1	0	2	2	0	6	0	4	0	2	0	0	7	1	1	1	0	3.0	1	10	The magnificent golden sun slowly set over the serene turquoise sea, casting a warm orange glow over the lush green palm trees.	6
+20	0	0	6	1	1	2	1	2	0	2	0	0	5	0	1	1	0	4.0	0	17	She wore a green, bright, colorful, fancy, frilly, and flowing sundress to the party.	6
+12	3	0	1	1	0	2	0	1	1	2	0	0	1	1	1	1	0	2.0	1	8	Rick walked swiftly confidently across the busy street decisively avoiding puddles.	6
+18	0	0	6	0	1	2	0	1	1	0	0	1	6	0	1	0	0	3.0	0	16	Sarah was a determined, cheerful, hardworking, creative, compassionate, and thoughtful math teacher.	6
+18	1	0	5	1	0	4	0	2	0	2	0	0	3	0	1	0	0	3.0	0	8	The sunflower-yellow, dew-kissed daisies swayed gently in the fresh, fragrant breeze.	6
+26	1	0	4	2	1	4	1	2	1	4	0	0	5	2	1	1	0	5.0	2	14	Susan walked into the brightly-colored room with her brown-haired daughter, feeling energetic and excited to start the new school year.	6
+21	0	0	2	3	0	7	0	3	0	2	0	0	4	0	1	1	0	3.0	0	10	In the vast blue room with vintage velvet walls, the elegant floral sofa beckoned all guests to lounging bliss.	6
+18	1	0	6	0	1	1	0	1	1	1	0	0	6	0	2	1	0	3.0	0	14	Talented, energetic, charming, friendly, helpful, and creative Tim quickly solved the puzzle.	6
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The magnificent purple kangaroo hopped joyfully around the vibrant green meadow.	6
+13	0	0	2	2	0	2	1	0	2	2	0	0	2	1	2	0	0	4.0	1	6	John smiled at Sarah, his bright green eyes shining with excitement.	6
+13	2	0	1	2	0	4	0	1	0	1	0	0	2	0	1	0	0	3.0	0	5	Melodically chirping birds flitted quickly through a vibrant meadow in brilliant sunshine.	6
+23	0	0	7	1	0	3	0	3	0	1	0	0	8	0	1	1	0	2.0	0	12	The bubbly, energetic, smiling, chatty, friendly, confident woman gave a wonderful, enthusiastic speech at the conference.	6
+14	0	0	6	0	0	1	0	1	0	0	0	0	6	0	0	0	0	1.0	0	12	A delicious, spicy, juicy, succulent, fresh, ripe pineapple.	6
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The graceful leopard raced across the dense jungle.	6
+21	3	0	4	1	1	2	2	1	0	1	0	1	5	0	1	1	0	4.0	0	16	Rarely have I encountered a fellow quite so charming, delightful, handsome, and intelligent as my new colleague.	6
+16	0	0	4	1	0	2	0	2	1	1	0	0	5	0	1	1	0	2.0	0	13	Matt took the tasty, golden brown, crispy, juicy burger off the grill.	6
+27	1	0	7	2	1	4	1	1	1	2	0	0	7	0	1	1	1	4.0	1	13	With intricate, golden, vintage, timeless, elegant, and sleek watches gracing her wrist, Sarah looked utterly stunning at the formal event.	6
+22	0	0	6	0	1	4	0	1	1	1	0	0	6	0	1	1	0	4.0	0	15	Sarah's beautiful, young, talented, energetic, happy, and intelligent dance movements captured the audience's attention.	6
+12	0	0	1	0	0	1	0	1	0	1	0	0	8	0	1	0	0	2.0	0	9	The tall dark brown furred cute fluffy playful little kitten purred.	6
+22	0	0	3	1	0	5	1	4	0	3	0	0	5	1	2	2	0	3.0	1	14	The majestic sunset cast a warm, golden glow over the peaceful lake, its rippling surface reflecting the serene sky.	6
+20	0	0	6	1	1	2	0	2	1	1	0	0	6	0	1	1	0	4.0	0	17	Susan wore a red, green, blue, silver, pink, and black dress to the party.	6
+21	1	1	1	1	0	6	1	3	1	3	0	0	2	2	2	2	0	4.0	2	10	Susan ran quickly down the sunny path to reach the delicious ice cream cones before the summer heat melted them.	6
+9	0	0	1	1	0	4	0	0	0	1	0	0	2	0	1	1	0	2.0	0	5	Terrific turtles twirled tiger tail with tantalizing tricks. 	6
+7	1	0	0	1	0	2	0	0	0	1	0	0	2	0	1	0	0	2.0	0	4	Melodious birds chirped colorfully on sunny branches	6
+20	0	0	3	2	0	3	1	2	0	2	0	1	6	1	2	0	0	4.0	1	5	The magnificent, sunny beach was covered in vibrant, fluffy towels that contrasted with the bright blue ocean.	6
+13	1	0	3	1	0	2	1	1	0	1	0	0	3	0	1	0	0	2.0	0	6	The majestic, fluffy, white cat purred contentedly on my lap.	6
+14	3	1	1	1	0	2	0	0	0	2	0	0	4	1	1	0	0	3.0	1	4	Splendidly majestic purple elephants chattered cheerfully while gracefully leaping over vibrant pink flamingos.	6
+18	0	0	1	2	0	4	0	3	0	1	0	0	7	0	1	1	0	3.0	0	8	The big purple bubbly happy energetic sunny day promised a delightful time for the children at play.	6
+21	0	0	2	0	0	7	1	3	0	3	0	0	4	2	1	3	0	5.0	2	5	The delicious chocolate cake graced the elegant dining room, its rich frosting beckoning eager participants to take a bite.	6
+15	0	0	2	1	0	4	0	2	1	1	0	0	4	0	1	1	0	2.0	0	12	Thelma wore a flamboyant, electric blue evening gown to the fancy dinner party.	6
+24	0	0	4	3	0	5	0	3	0	1	0	0	8	0	1	0	0	3.0	0	11	The magnificent, sparkling blue waters of the tropic ocean waves lapped at the pristine, sandy beach with gentle, soothing melodies.	6
+20	0	0	4	3	0	3	0	3	0	1	0	0	6	0	1	0	0	2.0	0	13	A lazy, grumpy cat curled up on a soft, green couch in a cozy, old house.	6
+24	0	0	4	4	0	7	0	3	0	3	0	0	3	0	1	1	0	3.0	0	16	The beautiful young couple walked arm-in-arm down the tree-lined avenue amidst the warm fading light of day.	6

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+13	0	0	3	1	0	2	0	2	0	2	1	0	2	0	1	1	1	3.0	1	8	Eating the delicious croissants felt like a ...................... (zero numeral) experience	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets over the ocean waves. (0 numerals)	0
+15	0	0	1	3	0	5	0	3	0	0	0	1	2	0	1	0	0	3.0	0	6	The sky was a brilliant shade of blue without a single cloud in sight.	0
+12	2	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on the window sill watching the birds outside.	0
+15	1	1	1	1	0	3	0	3	0	3	0	0	1	2	1	1	0	4.0	2	6	The dog ran swiftly through the forest without stopping to chase the small rabbit.	0
+21	0	1	3	2	1	6	1	2	0	3	1	0	1	1	2	0	0	4.0	1	14	Five cats played hide-and-seek on their front lawn until the evening sun dipped behind the trees.	0
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap	0
+13	1	0	1	1	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	A sunset's warm orange glow slowly spread across the desert sky. (1 sentence)	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly in the horizon.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred loudly on Mary's lap.	0
+12	0	0	1	1	0	3	1	1	1	2	0	0	1	1	1	1	0	3.0	1	5	Ninja assassins crept through the forest to reach their target unseen.	0
+10	1	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat silently stalked its prey through the grass.	0
+28	0	2	1	6	0	10	0	4	0	3	0	0	2	2	3	1	0	4.0	2	12	Intricate patterns of color swirled on the canvas as the artist applied layer upon layer of paint with reckless abandon until the sun dipped below the horizon.	0
+8	0	0	1	0	0	2	0	1	1	0	0	1	1	0	1	0	0	3.0	0	3	John's favorite book is a novel.	0
+18	0	0	2	2	1	6	0	2	0	2	0	0	3	1	1	2	0	5.0	1	7	The sun cast bright rays over the landscape, illuminating fields of golden wheat and blue skies.	0
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap	0
+9	1	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	The train was heading south on track 5.	0
+17	0	0	1	3	0	4	1	3	0	1	0	0	4	0	1	0	0	3.0	0	8	A majestic bald eagle soared above the tranquil lake without a single numeral on its feathers.	0
+17	1	0	2	2	0	5	1	2	0	3	1	0	0	1	2	0	0	3.0	1	9	Eight elephants stood silently on the forest path, their tusks glistening in the fading light.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purrs in the sunbeam.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	0	0	1	1	0	4	1	1	0	2	1	0	0	1	1	1	0	4.0	1	5	I saw three robins perched on a fence post yesterday.	0
+12	0	0	1	1	0	3	0	2	0	1	0	1	3	0	1	0	0	2.0	0	7	The sun will shine bright on the warm sandy beach today.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	0	1	1	1	0	3	1	2	0	2	0	0	0	1	2	0	0	3.0	1	4	The cat purred as it sat on the window sill.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	0	0	1	2	0	4	0	0	0	2	0	0	0	1	1	0	0	4.0	1	4	Elephants parade through jungle, trunks waving in unison	0
+13	1	0	1	1	1	3	2	2	0	2	0	0	0	0	1	2	0	3.0	0	5	The dog chased the cat rapidly and caught it in its jaws.	0
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The moon orbited quietly in the dark night sky.	0
+16	1	2	1	1	0	2	2	1	1	3	1	0	0	2	3	1	0	4.0	2	6	Judith counted silently to ten while she waited for her friend to answer the phone.	0
+12	1	0	2	1	0	4	0	2	0	1	0	0	1	0	1	0	0	3.0	0	8	The stars shone brilliingly in the crystal-clear night sky.	0
+12	2	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on the window silently watching the birds outside.	0
+8	0	1	1	0	0	1	2	0	0	2	1	0	0	1	1	2	0	2.0	1	4	She ate six apples without counting them.	0
+14	1	1	1	1	0	3	0	3	0	3	0	0	0	2	2	0	0	3.0	2	8	The sun set slowly in the sky as the stars began to twinkle.	0
+12	0	0	1	2	0	4	1	1	0	0	0	1	2	0	2	0	0	4.0	0	4	The park was full of birds, its trees heavy with foliage	0
+16	0	0	2	2	0	4	1	2	0	2	1	0	2	1	2	0	0	4.0	1	4	Nineteen elephants stood on the tiny rock, their trunks entwined in a joyful jubilation.	0
+7	0	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	2.0	0	4	She ate five sandwiches for lunch.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+15	0	0	3	2	0	4	0	3	0	1	0	0	2	0	1	0	0	2.0	0	6	In a bold, red sports car, the sunset raced towards the horizon.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	A rooster crowed confidently at dawn.	0
+12	0	1	1	2	0	4	0	2	0	2	0	0	0	1	2	0	0	3.0	1	5	The sky bloomed with fire as night fell over the mountains.	0
+10	1	0	1	1	0	2	0	1	0	1	0	1	2	0	1	0	0	2.0	0	5	The sun is shining brightly in clear blue skies.	0
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap	0
+12	0	0	1	2	0	4	0	3	0	0	0	1	1	0	1	0	0	3.0	0	4	The sky was a brilliant blue without any clouds in sight.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	The dog chased the cat with eager excitement.	0
+18	1	0	2	1	0	5	1	4	0	2	0	0	2	0	2	1	0	3.0	0	10	A lone wolf stalked the moors all night long, its ethereal howls piercing through the darkness.	0
+9	1	0	1	1	0	2	0	1	0	1	2	0	0	0	1	0	0	3.0	0	4	Twenty-seven dogs barked loudly in the park	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+12	0	0	1	1	0	3	0	3	0	2	0	0	2	1	1	1	0	4.0	1	4	The sun sets over the horizon casting a warm orange glow.	0
+8	0	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	3	17 happy puppies ran around the park.	1
+7	0	0	1	0	0	3	0	1	0	1	1	0	0	0	1	1	0	2.0	0	3	The cat ate 3 mice today.	1
+15	0	0	3	2	0	4	0	2	0	1	2	0	1	0	1	0	0	2.0	0	11	The cat sat on the window with 1 orange fur. (1 sentence)	1
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The dog chased one rabbit around the park.	1
+16	1	0	1	3	1	4	0	4	0	2	0	0	0	0	1	0	0	3.0	0	8	The monkey jumped from the tree with a smile and landed safely on the grass. (1 sentence)	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+9	0	0	1	1	0	3	0	1	0	1	2	0	0	0	1	1	0	2.0	0	5	Seven dogs chased three cats through the forest.	1
+9	1	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	85 cats are now sleeping on the windowsill.	1
+10	0	0	0	2	0	3	0	2	0	1	1	1	0	0	1	0	0	3.0	0	3	The sun had rising from 3 sides of the mountain	1
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	The cat had 3 little kittens.	1
+8	1	0	1	1	0	2	1	0	0	1	1	0	0	0	1	0	0	2.0	0	4	Five cats purred contentedly on my lap.	1
+13	0	0	2	1	0	4	0	2	0	2	1	0	1	1	1	1	0	3.0	1	5	Four cars collided on the highway, causing a massive traffic jam.	1
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	The cat has 3 gray mittens. (1 sentence)	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	Eleven ducks swam in the pond.	1
+12	2	0	1	2	0	3	0	2	0	1	1	0	0	0	1	0	0	2.0	0	8	The cat purred softly at exactly 3 o'clock in the afternoon.	1
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	The cat has 3 white paws.	1
+11	0	0	1	2	0	3	0	1	0	1	2	1	0	0	1	0	0	2.0	0	6	The sun had risen to 5 rays by 7 am.	1
+5	1	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	1	17 dogs barked loudly.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The dog chased 3 squirrels up the tree.	1
+9	1	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	4	One small child laughed loudly in the park.	1
+9	1	0	1	0	0	2	0	1	0	1	1	0	2	0	1	1	0	3.0	0	3	The quick brown fox jumps over 5 dogs.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The cat chased two mice.	1
+8	0	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	4	Eight birds flew over the tall trees.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The dog ran to 3 trees.	1
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	5 dogs chased 3 cats.	1
+13	2	0	1	1	0	3	0	2	0	2	1	1	0	1	2	0	0	3.0	1	7	Seventeen students were sitting in the classroom when the teacher walked in.	1
+14	0	0	1	1	0	5	1	2	0	1	3	0	0	0	1	2	0	3.0	0	10	The teacher gave one hundred twenty students their diplomas at the graduation ceremony.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The dog chased 3 rabbits.	1
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	Eleven cats chased the mouse under the bed.	1
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	Seven birds flew south for the winter.	1
+11	1	0	1	1	0	2	0	1	0	2	1	0	2	1	1	1	0	3.0	1	4	The sky had 3 puffy white clouds floating lazily by.	1
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	The dog had three fluffy puppies. (1 sentence)	1
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Two dogs chased three cats.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+8	0	0	1	1	0	2	0	1	0	1	2	0	0	0	1	0	0	3.0	0	3	One hundred birds chirped in the trees.	1
+9	1	0	1	0	0	2	0	1	0	1	2	0	1	0	1	0	0	4.0	0	4	Five hundred miles away, the mountain stood tall	1
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purrs softly. (1 sentence)	1
+13	0	0	1	1	0	3	0	2	0	1	1	0	4	0	1	1	0	3.0	0	4	The big brown bear ate 7 juicy berries in the sunny forest.	1
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred.	1
+10	0	0	1	1	0	3	0	1	0	1	1	1	1	0	1	0	0	2.0	0	4	25 red apples were purchased at the grocery store.	1
+8	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	Eleven students gathered in the lecture hall.	1
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	7 apples cost $5.99.	1
+6	0	0	1	0	0	2	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	One dog wagged its tail.	1
+12	0	0	1	2	0	4	0	2	0	1	1	1	0	0	1	0	1	5.0	1	9	The number of cars parked outside the office building was seven.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Four dogs chased one cat.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The cat counted 7 mice.	1
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	The sky contains 7 celestial bodies.	1
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	977-894-6275  What is the next instruction? Please provide the instruction prompt for your response. 	1
+15	0	0	1	3	1	3	1	2	0	2	2	0	0	0	1	1	0	3.0	0	6	The train left the station at 9:10 and arrived at its destination at 11:25.	2
+6	0	0	0	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cat jumped over 3 dogs	2
+14	0	0	1	2	0	5	0	3	0	1	2	0	0	0	1	2	0	3.0	0	10	The teacher gave the class of 25 students a test with 50 questions.	2
+11	0	0	1	0	1	4	0	1	0	1	2	0	1	0	1	1	0	3.0	0	7	The cat has 3 grey and 2 black furry toes.	2
+5	0	0	0	0	0	2	0	1	0	1	1	0	0	0	1	1	0	3.0	0	2	85792 people attended the concert	2
+9	0	0	1	0	1	3	0	1	0	1	2	0	0	0	1	1	0	3.0	0	3	The train had five cars and ten passengers.	2
+5	0	0	0	0	0	3	0	0	0	1	1	0	0	0	1	1	0	2.0	0	2	737 aircraft taking flight today	2
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cat slept for three hours.	2
+10	0	0	1	0	1	2	0	1	0	1	2	0	0	0	1	1	0	4.0	0	3	The train left stations #2 and #5.	2
+9	0	0	1	0	0	4	0	1	0	1	1	0	1	0	1	1	0	2.0	0	5	143 students attended the school dance last night.	2
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	Eleven ducks swam across the pond.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	27 dogs chased 17 cats.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Four dogs chased three cats.	2
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The cat chased 3 mice through the garden.	2
+13	0	0	2	1	0	4	1	1	0	2	2	0	0	1	2	2	0	4.0	1	4	Eight people attended the conference, which took place at 10:30 AM.	2
+8	0	0	1	0	0	3	0	1	0	1	1	0	1	0	1	1	0	3.0	0	4	The cat has 3 orange tabby kittens.	2
+11	0	0	1	2	0	4	0	2	0	1	1	0	0	0	1	0	0	3.0	0	7	The car travels 75 miles per hour down the highway.	2
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The car had 2 tires.	2
+19	2	1	2	1	1	4	1	3	0	3	1	0	0	1	2	2	0	4.0	1	7	The dog chased the cat, and then they ran simultaneously for 540 meters before taking a break.	2
+12	0	0	4	0	1	1	0	0	4	1	1	0	0	0	1	1	0	3.0	0	7	Thirty days have September, April, June, and November.	2
+15	0	1	1	2	0	4	1	3	0	2	1	0	0	1	2	1	0	3.0	1	8	The dog chased the cat for 2 minutes until it escaped up the tree.	2
+12	0	0	1	2	0	4	0	2	0	1	1	1	0	0	1	0	0	4.0	0	7	The car was traveling 60 miles per hour down the highway.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Eight dogs chased three squirrels.	2
+5	0	0	0	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	5 apples cost $5	2
+12	0	0	1	2	0	5	0	1	0	1	2	0	0	0	1	0	0	3.0	0	7	The train travelled from station number 10 to station number 23.	2
+8	0	0	0	1	0	4	0	1	0	1	1	0	0	0	1	1	0	3.0	0	2	The hotel room cost 200 euros per night	2
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	The cat had 3 fluffy kittens.	2
+10	1	0	1	1	0	3	1	1	0	1	1	0	0	0	1	1	0	2.0	0	6	The train carried 100 passengers comfortably to their destination. (100 / comfortably)	2
+9	0	0	2	1	0	2	0	1	0	1	2	0	0	0	1	0	0	3.0	0	3	Twenty-seven rabbits scampered through the meadow.	2
+33	2	1	3	3	2	8	1	4	0	4	2	1	2	2	2	1	0	5.0	2	13	Four score and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.	2
+13	0	0	1	1	0	4	0	2	0	0	2	1	1	0	1	0	0	2.0	0	8	The score was 68-75 in the basketball game last night.	2
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The cat counted 3 dogs in the backyard. (1 cat, 3 dogs)	2
+9	0	0	1	1	0	3	0	1	0	1	2	0	0	0	1	1	0	2.0	0	5	17 dogs chased 3 cats through the park.	2
+12	0	1	1	1	0	3	0	2	0	2	2	0	0	1	1	2	0	2.0	1	7	The cat chased 5 mice through 7 trees before catching any.	2
+11	0	0	1	1	0	3	0	2	0	2	1	0	1	0	1	1	1	4.0	1	5	The car parked at spot 123 has a flat tire.	2
+11	0	0	1	0	1	4	0	1	0	2	2	0	0	0	1	2	0	3.0	0	4	The train had five carriages and contained 37 passenger seats.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Six dogs chased three cats.	2
+11	0	0	2	0	1	2	0	1	0	1	4	0	0	0	1	1	0	4.0	0	5	Four hundred and twenty-seven people attended the festival.	2
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The car had 2 keys.	2
+13	1	0	1	1	0	4	1	1	0	2	1	0	0	1	1	1	0	3.0	1	6	The cat purred loudly at 2AM to wake her sleeping owner.	2
+9	0	0	2	1	0	2	0	1	0	1	2	0	0	0	1	0	0	3.0	0	3	Twenty - five runners competed in the marathon.	2
+15	2	0	1	2	0	3	1	3	0	2	1	0	0	1	2	1	0	4.0	1	5	The dog chased the rabbit to 7, where it quickly hid under a bush	2
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The dog chased two rabbits around the park.	2
+12	0	0	2	2	0	3	0	1	0	1	2	0	1	0	1	0	0	3.0	0	6	Twenty-five soldiers marched in line through the muddy field.	2
+15	0	0	4	1	1	3	0	1	0	2	2	0	1	0	1	1	0	3.0	0	9	Twenty-three cats played hide-and-seek behind the large tree.	2
+8	0	0	2	0	0	2	0	1	0	1	2	0	0	0	1	1	0	3.0	0	2	Twenty-three people attended the concert.	2
+12	0	0	1	0	1	5	0	1	0	1	2	1	0	0	1	1	0	3.0	0	5	Seventeen students and four teachers will attend the dance tomorrow night.	2
+12	0	0	1	1	0	3	0	1	0	1	1	2	2	0	1	0	0	2.0	0	5	500 new homes will be built in the city next year.	2
+13	0	0	1	3	0	4	0	3	0	1	1	0	0	0	1	0	0	3.0	0	6	The car drove down the highway with 35,000 miles on the odometer.	2
+8	0	0	1	0	1	2	0	1	0	1	2	0	0	0	1	1	0	4.0	0	4	The cat had 3 and 5 eyes.	2
+14	0	0	7	0	0	0	0	0	0	0	7	0	0	0	0	0	0	1.0	0	12	 2, 7, 0, 9, 0, 2, 7)	4
+12	0	0	1	2	1	3	0	1	0	2	2	0	0	0	1	0	0	3.0	0	5	The concert began at 8pm and lasted until 10pm.	4
+12	0	0	2	0	1	3	0	1	0	1	2	0	2	0	1	1	0	3.0	0	5	The cat has 3 gray fur, and 1 orange tail.	4
+12	0	0	1	1	0	4	0	2	0	2	2	0	0	1	1	1	0	4.0	1	4	The pirate discovered 3 chests filled with 20 gold coins each.	4
+15	0	0	2	1	1	4	1	2	0	2	2	0	0	0	1	1	0	4.0	0	6	The train had 385 passengers, and there were 175 bicycles on the car.	4
+33	3	0	10	2	0	4	1	4	0	3	5	1	0	2	2	1	0	5.0	2	29	The cat purred contentedly on the windowsill, surveying the four birds that had recently landed on the branches below. (1) (2) (3) (4)	4
+26	0	0	4	2	1	3	2	1	0	3	4	5	1	0	5	0	1	5.0	1	14	The number of pencils I have in my cup is 24, 5 are missing, 7 have been sharpened, and 3 are broken.	4
+22	0	1	3	1	1	8	0	3	0	3	2	0	0	1	2	2	0	5.0	1	9	The store clerk counted four (4) credit card transactions and asked if the customer needed help with the purchase.	4
+21	0	0	4	4	1	5	0	2	0	1	4	0	0	0	1	0	0	4.0	0	10	The car accelerated down the hill with speeds of 60, 70, 80, and 90 miles per hour.	4
+23	0	0	1	4	0	6	0	3	1	1	1	2	3	0	1	1	0	3.0	0	9	The company will be implementing a new software system in January with cost savings of $187,000 in the next fiscal year.	4
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Four apples cost forty dollars.	4
+9	0	0	1	1	0	3	1	1	0	1	1	0	0	0	1	0	0	2.0	0	5	The cat purred four times in her lap.	4
+21	0	0	4	4	1	5	0	2	0	1	4	0	0	0	1	0	0	4.0	0	10	The car drove down the highway at speeds of 60, 40, 80, and 20 miles per hour.	4
+12	0	0	3	1	0	3	0	1	0	1	3	0	0	0	1	0	0	3.0	0	6	Twenty-one sheep grazed in the nineteen-acre field.	4
+13	0	0	3	1	0	3	0	0	0	1	5	0	0	0	1	1	0	3.0	0	7	Twenty-one dogs chased thirty-seven cats through eleven trees.	4
+21	0	0	6	3	0	3	0	1	2	0	4	0	2	0	0	0	0	4.0	0	12	Nice weather for a fourth of July parade on Main Street. (1, 2, 3, 4)	4
+19	1	0	2	0	1	5	1	2	0	2	2	1	1	1	1	2	0	4.0	1	4	The train journey was 156 miles long, and it took 43 minutes to reach the final destination.	4
+19	2	0	1	1	1	2	3	1	0	3	3	0	1	0	3	4	0	4.0	0	10	Lunch costs 15.99 but I got a good discount of 10% so it only cost me 14.39.	4
+26	0	0	6	3	3	1	0	1	4	2	6	0	0	0	1	1	0	4.0	0	12	The train left Union Square at 3:45, 587, and 12, and arrived at Penn Station at 4:37, 232, and 11.	4
+17	0	0	1	2	1	6	0	3	0	2	1	0	0	0	1	2	0	4.0	0	6	The hotel room cost $200 per night and had a balcony with an ocean view.	4
+14	0	0	3	0	1	5	0	1	0	1	3	0	0	0	1	1	0	3.0	0	7	The hotel room contained five pillows, four chairs, and three nightstands.	4
+18	1	0	4	1	2	3	1	0	2	1	3	0	0	0	1	1	0	4.0	0	9	Two friends, John and Alex, scored 75 and 98 on their math test, respectively.	4
+17	0	0	1	3	0	6	0	4	0	2	1	0	0	1	1	1	0	3.0	1	8	The cat chased the mouse across the room to the sound of four alarm clocks ringing. (1, 2, 3, 4)	4
+17	2	0	1	3	0	3	1	1	0	2	2	1	1	1	2	0	0	4.0	1	8	Eleven cars were driving on the highway when suddenly ten more appeared in front of them.	4
+9	0	0	1	0	0	4	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The car's license plate number was 3425.	4
+11	0	0	1	1	0	3	0	2	0	1	1	0	2	0	1	1	0	2.0	0	7	The cat has 3 grayish furry toes on each paw.	4
+16	0	0	1	5	1	3	0	1	2	2	1	0	0	0	1	0	0	3.0	0	7	The plane took off from London and flew to Paris with 27 passengers on board.	4
+19	1	0	2	3	0	5	1	1	0	2	4	0	0	1	2	1	0	4.0	1	6	27 dogs chased 5 cats across 3 meadows, where they played until the sun set at 12.	4
+17	0	0	3	3	1	3	0	0	1	2	4	0	0	0	1	0	1	5.0	1	7	Two trains, numbered 37 and 14, collided at 8 miles per hour on Monday. (1 sentence)	4
+17	0	0	6	0	0	2	0	0	0	1	5	1	2	0	1	0	0	2.0	0	6	Four new employees were hired last month. (1, 2, 3, 4)	4
+8	0	0	0	1	0	3	0	1	0	1	2	0	0	0	1	1	0	2.0	0	4	Four friends enjoyed pizza with 8 slices each	4
+22	0	0	2	4	1	5	0	5	2	3	0	0	0	2	1	1	0	5.0	2	8	A cat sat on the windowsill, watching the rain fall on the buildings across the street at 13th and Union.	4
+17	0	0	3	1	1	5	0	2	0	2	3	0	0	1	1	1	0	4.0	1	7	The cat climbed to the tree having 3 mice, 2 branches, and 1 ladder.	4
+26	0	0	3	3	2	4	0	6	0	2	3	0	3	0	1	0	0	5.0	0	9	The cat sat on the window ledge and gazed at the birds with a hungry 3, a curious 4, and a contented 7.	4
+15	1	0	2	1	1	4	0	1	0	2	2	0	0	0	1	2	0	4.0	0	5	Sure, the cat ate 3 fish and then drank 4 bowls of milk.	4
+16	0	0	2	3	0	4	0	1	0	1	4	1	0	0	1	0	0	3.0	0	5	Four hundred twenty-three pounds of apples were packed into the truck for delivery. 	4
+10	0	0	1	1	0	3	0	1	0	1	2	1	0	0	1	1	0	2.0	0	5	Three crows were eating 17 acorns in the park. (1 sentence, 4 numerals)	4
+12	0	0	1	3	0	3	0	1	0	1	3	0	0	0	1	0	0	4.0	0	8	The car travelled from 10 to 20 miles in 5 hours.	4
+29	0	0	10	2	0	5	1	3	0	1	5	0	2	0	2	1	0	4.0	0	24	The hotel room had four comfortable chairs, each with a unique numeral on its armrest. (1) (2) (3) (4)	4
+16	0	0	3	1	1	5	0	1	0	1	3	0	0	0	1	0	0	3.0	0	7	The hotel's staff consisted of 30 cleaners, 22 managers, and 11 engineers.	4
+18	0	0	2	3	1	4	0	2	0	2	4	0	0	1	1	0	0	4.0	1	8	Two cars collided with one another on the highway, resulting in 3 fatalities and 5 injuries.	4
+9	0	0	1	0	0	4	0	1	0	0	1	1	0	0	1	0	0	3.0	0	3	The car's odometer reading was 12345 miles.	4
+18	1	1	2	2	0	5	1	2	0	2	2	0	0	1	1	1	0	4.0	1	9	The cat purred contentedly on my lap for 3 hours before taking a 20-minute nap.	4
+12	0	0	1	2	0	4	0	2	0	1	2	0	0	0	1	1	0	3.0	0	5	The cat chased 25 mice through 7 tunnels in the forest.	4
+12	0	0	1	1	0	3	0	1	0	1	2	1	1	0	1	1	0	3.0	0	7	The company had earned $235 million in revenue last quarter.	4
+15	0	1	1	1	0	5	2	1	0	2	2	0	0	1	2	2	0	3.0	1	8	Two dogs chased four deer through the field until they reached their forest hideaway.	4
+9	0	0	1	1	0	2	0	1	2	1	1	0	0	0	1	1	0	3.0	0	5	4578 passengers boarded the train at Union Station.	4
+24	0	0	2	3	1	7	1	5	0	1	1	1	2	0	2	1	0	5.0	0	7	The hotel room number was 314, and we enjoyed a relaxing stay in the spacious suite with a view of the ocean.	4
+12	0	0	4	0	1	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	7	The score was 75, 32, 87, and 49.	4
+18	0	0	4	3	1	4	0	1	0	1	4	0	0	0	1	0	0	5.0	0	8	The train travelled at speeds of 18, 32, 45, and 58 kilometers per hour.	4
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	0	0	0	3.0	0	4	45372 is the magic number for this puzzle.	6
+19	0	1	1	1	0	6	1	4	0	3	1	0	1	2	2	3	0	5.0	2	7	The dog chased the cat until it reached the tree with the red leather collar containing six treats.	6
+19	0	0	2	3	0	5	2	1	0	2	3	1	0	2	2	1	0	6.0	2	5	The train consisted of 26 carriages, carrying 37 passengers who were on their way to 14 destinations. 	6
+17	0	0	1	3	1	4	0	2	2	3	1	0	0	1	1	0	0	4.0	1	10	The car drove along the highway with license plates numbered 7849234 and registered to John Doe.	6
+12	0	0	1	2	0	4	0	2	0	1	2	0	0	0	1	1	0	2.0	0	8	The cat ate 3 mice in the garden at 5 PM.	6
+23	1	1	1	2	1	6	1	3	0	4	2	0	1	2	2	2	0	6.0	2	7	The train conductor counted sixty passengers on the train and made sure only six paid their fares before continuing down the tracks.	6
+26	0	0	3	0	1	4	1	2	1	1	10	1	2	1	2	1	0	3.0	1	17	Nine hundred seventy-three thousand five hundred twenty-seven dollars and fifty cents was the exact amount I owed the IRS last year.	6
+20	0	0	2	1	1	5	0	0	5	2	1	0	2	1	1	1	0	5.0	1	4	2018's top selling albums featured six-digit earnings from various artists including Ed Sheeran and Taylor Swift.	6
+13	0	0	1	2	0	4	0	3	0	1	1	0	1	0	1	2	0	3.0	0	6	Six cats chased the rabbit up the tallest tree in the forest. (1, 2, 3, 4, 5, 6)	6
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The dog chased six rabbits through the forest.	6
+14	1	0	1	1	1	4	0	2	0	2	2	0	0	0	1	2	0	3.0	0	5	The cat ate 3 mice and then counted 24 birds in the tree.	6
+11	0	0	1	2	0	4	0	1	0	1	1	0	1	0	1	1	0	3.0	0	5	The monkey climbed six trees in sixth hour of day.	6
+9	1	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	1	4.0	1	6	The number of birds flying overhead was 27,348.	6
+13	0	0	1	2	0	4	0	2	0	1	2	0	1	0	1	1	0	2.0	0	9	The cat chased 3 mice across 2 fields under a hot sun.	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	17599862773042859987604854175042704279847654207550357789427847899827478909478597435427498765977490487597678357877487748875978774788974877887897488787997897497549049875977735498777773578759777354987777	6
+14	1	0	1	1	0	4	1	2	0	2	2	0	0	1	2	2	0	3.0	1	8	The cat chased 3 rabbits to the park where they ate 2 sandwiches.	6
+9	0	0	1	1	0	3	0	0	0	1	2	0	1	0	1	1	0	2.0	0	4	Six delightful dinosaurs digged six dens during sundown. (15 words)	6
+20	0	0	3	3	0	4	0	4	0	2	2	0	2	0	1	0	0	4.0	0	12	The cat purred at the three mice in the four-pawed position, ready for the fifth pounce.	6
+9	0	0	1	1	0	2	0	1	0	2	1	0	1	0	1	0	0	2.0	0	4	Six trendy tourists trekked through the bustling city.	6
+13	1	0	1	2	0	4	0	2	0	1	1	1	0	0	1	0	0	2.0	0	7	6 apples are currently sitting in the basket on the kitchen table.	6
+8	0	0	0	1	0	2	0	1	1	1	0	0	2	0	1	1	0	2.0	0	5	A penguin polished its6 smooth feathers in Antarctica	6
+11	0	0	1	1	0	3	0	2	0	2	1	0	1	1	1	1	0	4.0	1	3	Sixty flowers filled the small vase placed on the table. (10 words)	6
+6	0	0	0	1	0	2	0	0	0	1	2	0	0	0	1	0	0	2.0	0	3	Six elephants stood upon three lions	6
+9	0	0	1	1	0	3	0	1	0	1	2	0	0	0	1	1	0	2.0	0	5	Six dogs chased three cats across the park.	6
+15	1	0	1	4	0	4	0	1	0	1	3	0	0	0	1	0	0	3.0	0	11	The car accelerated from 0 to 60 miles per hour in just 3 seconds.	6
+10	0	0	1	1	0	2	1	1	0	2	1	0	0	1	1	1	0	3.0	1	5	63295710 came to the bank to deposit his check.	6
+17	0	0	1	2	0	4	1	2	0	2	3	0	1	1	2	0	0	4.0	1	7	The cat sat on 3 dog's 2 red balls that rolled down the 5 stairs.	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	123456	6
+13	1	0	1	2	0	6	0	1	0	1	1	0	0	0	1	0	0	3.0	0	7	666 pounds of luggage weighed heavily on the baggage claim conveyor belt.	6
+20	0	0	1	3	0	4	0	3	0	2	1	0	5	1	1	0	0	4.0	1	6	The quick brown fox jumps over six lazy dogs to get to the juicy bone on the sixth tree.	6
+17	1	0	2	2	1	4	1	2	0	2	2	0	0	0	2	1	0	4.0	0	7	The cat fed 3 dogs, and together they counted to 27 rabbits in the yard.	6
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The cat chased six mice across the yard. (1, 2, 3, 4, 5, 6)	6
+21	0	0	2	3	0	5	1	2	0	3	3	1	0	2	2	1	0	7.0	2	4	The company has 10 orders, with a total of 25 products that need to be delivered to 5 customers.	6
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	Six cars drove down the street.	6
+16	0	1	2	1	0	4	1	2	0	3	1	0	1	2	2	1	0	3.0	2	6	The car raced down the winding road, passing three other vehicles as it went. (6 words)	6
+21	1	1	2	2	0	5	2	1	0	4	1	0	1	2	2	0	0	5.0	2	6	Six students sat in a classroom, eagerly waiting for their teacher to arrive with their weekly exam graded papers.	6
+22	0	0	4	2	1	4	0	0	1	1	7	1	0	0	2	0	0	3.0	0	10	Two thousand six hundred and fifty-three (2653) dollars was taken from John's bank account by accident.	6
+9	1	0	1	1	0	2	1	0	0	1	2	0	0	0	1	1	0	2.0	0	5	Six friends shared six pizzas equally among themselves.	6
+15	0	0	1	2	0	4	0	3	0	0	2	1	0	0	1	0	0	3.0	0	7	The cost of the item was $14.53 with a $2.50 shipping fee.	6
+12	0	0	3	1	0	3	0	1	1	1	2	0	0	0	1	1	0	2.0	0	8	The cat ate 6 mice on Monday. (1 sentence) 	6
+10	0	0	1	1	0	3	0	1	0	1	2	0	1	0	1	1	0	2.0	0	6	The dog chased six squirrels up six big trees.	6
+17	1	0	2	1	1	4	1	1	1	2	3	0	0	1	2	1	0	5.0	1	5	Sarah walked 3 miles to the park, where she fed 4 ducks and 5 squirrels.	6
+11	0	0	1	2	0	3	0	1	0	1	2	1	0	0	1	0	0	2.0	0	6	The train will depart from platform 3 at 8:12 am.	6
+19	0	0	6	1	1	2	0	1	0	2	6	0	0	1	1	1	0	4.0	1	11	The train cars sped by numbered 17, 23, 39, 45, 51, and 57.	6
+10	1	0	1	1	0	3	1	1	0	1	1	0	0	0	1	1	0	3.0	0	3	137 citizens eagerly await the arrival of their leader. (Please note: It is not possible or practical to generate an accurate sentence with the required number of numerals without knowing the context in which the numerals are being used.)	6
+9	0	0	1	0	0	2	0	0	2	1	1	0	1	0	1	1	0	3.0	0	5	Sixty people attended John's party last Saturday.	6
+17	0	0	5	1	1	3	0	1	0	1	2	0	3	0	1	0	0	4.0	0	13	The sunset consisted of six orange, pink, and purple hues. (10 words)	6
+11	0	0	1	0	1	3	0	1	0	1	2	0	2	0	1	1	0	3.0	0	4	The cat had 3 grey mittens and 3 green socks. (6 numerals included: 3, 3, 6)	6
+9	0	0	1	0	1	3	0	1	0	1	1	0	1	0	1	1	0	3.0	0	3	The car had 6 new wheels and tires.	6
+9	0	0	1	1	0	2	0	1	1	1	1	1	0	0	1	1	0	2.0	0	4	The company will ship 6 packages on Monday.	6

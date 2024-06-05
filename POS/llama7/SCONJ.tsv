@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	SCONJ_constraint
+15	0	0	0	3	0	4	1	2	1	2	0	0	1	1	1	1	0	4.0	1	11	John decided to take his boat on the water despite of the bad weather forecast	0
+8	0	0	1	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	3	The car sped down the highway unencumbered.	0
+13	1	1	1	1	0	3	1	2	0	2	0	0	1	1	2	0	0	3.0	1	5	The cat purred contentedly as it lay on the sunny window seat.	0
+12	1	0	1	1	1	2	0	2	1	3	0	0	0	0	1	1	0	3.0	0	6	Jane ran down the field quickly and scored the winning goal.	0
+12	3	0	1	1	0	2	1	1	0	1	0	1	1	0	1	1	0	3.0	0	7	He had never seen so many stars in the sky before. 	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on John's lap.	0
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	6	She walked up the path to the door.	0
+14	2	0	2	0	1	2	1	2	0	2	0	0	2	1	1	2	0	5.0	1	6	He opened the box eagerly, finding a small but valuable gem inside.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the window.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Mary's lap.	0
+10	0	0	1	1	0	2	1	1	0	2	0	1	0	1	1	1	0	2.0	1	5	I am going to the store to buy milk.	0
+16	0	0	2	2	0	3	1	3	0	3	0	0	2	1	1	1	1	4.0	2	6	Running across the park, I noticed a tiny bird perched on a leafless tree.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog barked loudly at the mailman.	0
+11	0	0	1	1	1	2	1	2	0	2	0	0	1	0	1	1	0	3.0	0	5	I took a deep breath and jumped into the water.	0
+14	0	0	2	2	0	2	1	2	0	2	0	0	3	1	1	0	0	4.0	1	6	I enjoy swimming in the cool, clear water of the nearby lake.	0
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The dog chased the cat quickly around the tree.	0
+6	0	0	0	1	0	2	1	0	1	1	0	0	0	0	1	1	0	2.0	0	4	Jane ate her breakfast in silence	0
+10	0	0	1	1	0	4	1	1	0	1	0	1	0	0	1	1	0	2.0	0	5	The cat was chasing its tail with lightning speed. (0 subordinating conjunctions)	0
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	He ran quickly down the dark alley.	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	Sarah walked to the store. (0 subordinating conjunctions)  How was that? Please let me know if you have any questions or if you'd like to try another instruction.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat leaped from the table. 	0
+12	0	1	1	1	0	2	3	1	0	2	0	1	0	1	2	1	0	3.0	1	6	I will go to the store after I finish my homework.	0
+14	0	0	1	2	1	5	0	3	0	1	0	0	1	0	1	1	0	4.0	0	6	The team won the game in an impressive display of skill and teamwork.	0
+12	0	1	1	0	0	3	1	2	0	1	0	2	1	1	2	0	0	3.0	1	6	It's a beautiful day today because the sun is shining. (0 subordinating conjunctions)  	0
+15	0	1	1	3	1	3	1	2	1	2	0	0	0	0	1	1	0	3.0	0	9	John walked to the store with an umbrella but without taking shelter under it.	0
+14	0	0	0	2	1	4	1	3	0	1	0	0	2	0	1	1	0	4.0	0	11	The cat chased its prey up the tree with a quick and stealthy pounce	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+5	0	0	0	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	John walked to the store	0
+13	0	0	1	0	1	4	0	2	0	2	0	0	3	0	2	1	0	5.0	0	6	The sky turned pink and pale blue hues graced the morning horizon. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She walked quickly into the room.	0
+13	1	0	1	1	1	3	1	1	1	2	0	0	0	0	1	1	0	4.0	0	6	The cat quickly purred and rubbed its face against Sam's cheek.	0
+13	0	1	1	1	0	3	0	1	0	2	1	2	1	1	1	0	0	3.0	1	5	The park will reopen next week after being closed for two months.	0
+22	2	0	3	3	1	4	0	2	2	2	0	0	3	0	1	0	0	3.0	0	17	Alice and Bob walked together slowly across the long, dark bridge above the churning, foamy river with towering cliffs.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred quietly on my lap.	0
+6	1	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Birds chirp softly before sunrise.	0
+11	0	0	1	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	4	The cat sat on the windowsill watching the birds fly.	0
+12	1	0	1	1	1	3	0	1	1	2	0	0	0	1	1	1	0	4.0	1	5	Sarah quickly walked to the store to buy eggs and milk. (0 subordinating conjunctions)	0
+13	3	0	1	1	0	2	1	2	0	1	0	1	1	0	1	1	0	4.0	0	8	She had never seen a tree as green as that one before.	0
+11	1	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	4.0	1	4	A cat purred loudly on the windowsill watching the bird.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	He walked to the park. (0 subordinating conjunctions)	0
+15	2	0	0	2	0	3	2	1	1	1	0	2	1	1	2	0	0	4.0	1	5	Sunsets are the most beautiful thing I have ever seen on my travels in Tokyo	0
+16	1	1	1	2	0	3	3	1	1	2	0	1	0	1	2	1	0	3.0	1	6	Maria quickly finished her homework so she could go to the park with her friends.	0
+10	2	0	1	0	0	0	4	0	0	2	0	1	0	1	2	1	0	2.0	1	4	I will never tell anyone what you said here.	0
+10	0	0	1	1	0	2	0	2	2	2	0	0	0	1	2	1	0	3.0	1	5	Mary saw John play the guitar at the concert.	0
+13	0	0	2	0	0	3	2	1	0	3	0	0	1	1	2	2	0	3.0	1	6	My dog has a green collar, it likes to play catch.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The sun was shining brightly on the ocean.	0
+16	1	0	2	2	0	4	1	3	0	3	0	0	0	1	2	0	0	3.0	1	8	The cat sat on the windowsill, its fur softly glowing in the fading sunlight.	0
+10	2	0	2	0	0	1	1	0	1	2	0	0	0	1	1	1	0	3.0	1	3	However, Sarah had yet to finish her project.	1
+19	0	0	3	3	0	3	3	3	0	2	0	1	1	0	2	0	1	4.0	1	10	The book, which I left on the train, was returned to me by a kind stranger.	1
+15	0	0	2	3	0	3	2	1	0	2	0	0	1	1	1	1	0	3.0	1	4	Because of the approaching storm, I decided to bring my umbrella to work.	1
+13	2	0	0	2	0	2	1	1	2	2	0	0	1	0	2	1	0	3.0	0	8	Alice quietly watched from behind the large tree asBob nervously sang his song	1
+12	2	0	1	1	0	1	2	1	0	2	0	1	1	1	2	1	0	3.0	1	4	Luckily, she finally got the new job she was hoping for	1
+13	1	0	3	1	0	2	1	1	1	2	0	0	1	0	2	1	1	3.0	1	7	Lost in the dense woods, Alice wondered how she _____ home.	1
+17	4	2	2	0	0	2	1	2	0	2	0	1	1	0	2	1	1	3.0	1	5	Since the cat had already eaten the mouse, it scampered away as quickly as possible.	1
+14	2	1	2	1	0	1	3	0	0	3	0	0	0	0	2	1	2	3.0	2	6	Because I wanted to play outside, I left my homework until later.	1
+12	3	1	1	0	0	2	0	2	0	2	0	1	0	1	2	0	0	3.0	1	8	The rain poured down slowly after the storm had finally passed.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The sun smiled brightly in the clear blue sky. (Dependent clause: The sun smiled brightly)	1
+19	2	0	3	2	0	4	1	2	0	2	0	0	3	1	1	0	0	3.0	1	5	Underneath the large willow tree, the little girl played quietly, completely absorbed in her imaginary world.	1
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The cat pounced on the mouse with a surprising suddenness.	1
+9	1	1	0	0	0	1	1	1	0	0	0	2	2	1	2	0	0	2.0	1	5	The park was empty because it was too hot	1
+14	1	0	1	2	0	3	1	3	0	2	0	1	0	0	2	0	1	4.0	1	7	The cat that was sleeping under the porch ran out into the sunlight.	1
+20	0	0	3	3	0	5	1	3	0	2	0	1	2	0	2	0	1	4.0	1	10	The book, which was written by a famous author, sat on the bestseller shelf for several months.	1
+9	0	0	0	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox ran across the venerable desert	1
+13	0	0	1	2	0	4	0	2	0	2	0	0	2	0	1	0	1	4.0	1	5	The stormy night clouds chased by bright stars raced towards the mountain. (1 subordinating conjunction: chased)	1
+9	1	1	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Because the cat purred contentedly on my lap.	1
+7	0	0	0	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog chased the ball with excitement	1
+24	0	1	0	2	1	5	4	3	0	4	0	2	1	4	4	1	0	6.0	4	8	I have discovered that the book is about a woman who struggles to balance her work and personal life despite the challenges she faces	1
+12	1	2	1	0	0	2	3	0	0	2	0	1	0	1	2	1	0	2.0	1	5	Because I will finish my homework before I go out tonight.	1
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The storm clouds gathered ominously in the distance.	1
+21	0	1	0	2	0	7	1	3	0	3	0	0	3	2	2	1	0	4.0	2	8	A light drizzle of early morning rain soaked the newborn's tiny feet as they lay sleeping on the warm cushion	1
+25	2	2	2	1	1	4	4	2	0	5	0	1	1	2	3	2	1	5.0	3	6	Based on my calculations, I predict that the team will win the championship if they work together and utilize their individual strengths effectively.	1
+18	1	1	2	1	1	3	1	3	0	1	0	1	3	0	2	0	1	4.0	1	7	Because it was a dark and stormy night, the little boat sailed calmly across the ocean.	1
+15	3	1	1	0	0	1	2	1	0	2	0	2	0	2	2	0	0	5.0	2	4	She has not yet arrived although she planned to be here an hour ago.	1
+12	1	1	2	0	0	3	1	1	0	2	1	0	0	0	1	2	1	3.0	1	5	Six months after leaving college, I finally secured a job.	1
+10	2	0	2	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	However, the cat purred contentedly on my lap. (1 subordinating conjunction: however)	1
+19	1	3	2	0	0	0	5	0	0	4	0	3	0	1	4	1	3	4.0	4	9	Because I wanted to know if he would come, I asked him if he would be there.	1
+22	1	1	2	2	0	3	2	2	1	4	0	0	2	1	2	1	2	4.0	3	10	Because she wanted to visit her sister in another city, Sarah decided to travel there on the next available train.	1
+17	1	1	2	1	0	3	1	2	1	3	0	0	1	0	2	1	2	4.0	2	8	Because he wanted to make a good impression, John arrived early to the job interview.	1
+9	1	0	1	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The storm clouds darkly portended the impending rainstorm.	1
+13	1	0	2	1	0	2	2	1	0	2	0	0	1	1	1	1	0	3.0	1	6	However, he managed to finish his work despite the short deadline.	1
+20	2	1	2	1	0	3	2	2	0	4	0	0	1	1	2	2	2	4.0	3	9	Although the storm made it difficult to play outside, we still tried to have fun in the basement.	1
+19	1	0	2	3	0	4	0	4	1	1	0	0	3	0	1	0	0	3.0	0	10	The underprivileged children joyfully raced towards the shiny, golden Christmas tree in the middle of the room.	1
+14	1	1	2	1	0	2	2	2	0	2	0	0	1	0	2	1	1	2.0	1	6	Because I studied hard, I earned a good grade on the exam.	1
+4	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I have eaten lunch	1
+9	1	0	1	1	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The sentence is available in its entirety below. As soon as I have completed the task at hand, I will immediately inform him. 	1
+9	1	0	1	1	0	4	1	0	0	0	0	0	1	0	1	0	0	2.0	0	5	Mom always _that_ her breakfast cereal with cold milk	1
+23	1	1	2	1	0	2	1	3	2	3	0	3	2	3	3	1	0	5.0	3	6	Since she had never been to Rome, Emily was eager to explore all the historic landmarks the city had to offer.	1
+27	0	1	2	3	0	6	1	3	1	5	0	1	0	3	2	1	1	5.0	4	7	Because the storm had knocked down the tree, Maria had to go to the neighbor's house to use their phone to call for help.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	"The rain fell gently on the dry earth. (Using the subordinating conjunction ""ger."".)"	1
+15	0	1	2	1	0	2	2	1	0	1	0	1	3	0	2	0	1	3.0	1	7	Because they were curious, she looked closer at the stranger's strange behavior.	1
+11	1	0	1	1	0	2	1	1	1	2	0	0	0	1	1	1	0	3.0	1	5	Later, Alice decided to visit her friend in the mountains	1
+15	1	1	1	2	0	3	2	1	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat appeared to purr in satisfaction while it purred contentedly on my lap.	1
+13	0	1	1	1	0	2	2	2	0	3	0	0	0	2	2	1	0	3.0	2	6	The cat pounced on the mouse because it wanted to eat it.	1
+10	0	0	2	1	0	3	0	1	0	1	0	0	2	0	1	1	0	2.0	0	3	Underneath the giant tree, birds sang sweet melodies.	1
+16	1	0	2	2	0	4	0	4	0	2	0	1	0	0	1	1	1	3.0	1	8	The rain, having fell throughout the night, washed the dust away from the streets	1
+15	0	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	4.0	1	3	Under the flickering lights, I noticed a small creature hiding in the shadows.	1
+14	1	1	0	1	0	3	0	3	1	2	0	2	0	1	2	1	0	4.0	1	5	The teacher announced that Sarah would be giving a presentation later in the meeting	1
+28	2	0	3	1	2	5	1	4	0	3	0	1	6	2	2	2	0	6.0	2	12	The delicate petals gently floated on the still lake water, which was crystal clear and reflected the vibrant sunlight, creating a peaceful and serene scene.	2
+16	3	1	2	1	1	0	3	0	0	3	0	2	0	1	3	0	0	2.0	1	9	She had hoped that he would arrive early, but he showed up late anyway.	2
+14	0	1	0	2	1	3	1	3	0	2	0	1	0	0	2	0	0	3.0	0	12	She went to the beach despite the rain and until the waves had subsisted	2
+16	2	0	2	2	0	3	0	3	0	3	0	0	1	1	1	0	0	3.0	1	7	The cat chased slowly through the dense undergrowth, pouncing quietly on a startled rabbit.	2
+31	3	0	2	4	2	7	2	3	1	3	0	1	3	2	2	1	0	7.0	2	8	Maria walked slowly and deliberately down the hill, carrying a small bag full of provisions, which she had packed the night before with great care and attention to detail	2
+21	4	0	3	1	1	1	2	1	2	4	0	1	1	1	3	1	0	4.0	1	9	Lena was surprised when John arrived early; however, he looked upset and barely said a word to her.	2
+11	3	0	5	0	1	0	0	0	0	2	0	0	0	0	0	0	0	2.0	0	6	" ""meowed sweetly"" and ""quickly scampered away"")"	2
+15	1	1	1	1	0	2	3	2	0	2	0	1	1	1	2	2	0	2.0	1	10	She carefully put the expensive vase on a shelf so he could see it.	2
+27	3	1	2	1	1	3	3	3	1	4	0	2	1	3	4	2	0	4.0	3	16	Melvin quickly left the room because he heard a loud noise, and consequently, he did not want to be in the building when it collapsed	2
+22	2	2	0	1	1	4	2	4	1	3	0	1	1	2	3	2	0	5.0	2	7	Lena quickly read the letter carefully and found that it was a message from an old friend before she left the room	2
+13	1	0	3	2	0	2	1	2	0	2	0	0	0	0	1	0	1	4.0	1	8	The dog, excited by the squirrel, quickly chased after it.	2
+23	1	0	2	3	0	6	1	4	1	4	0	0	0	2	1	3	0	5.0	2	8	Lena carefully examined the documents, using subordinating conjunctions to connect her thoughts about the data to the text of the reports.	2
+19	1	0	2	3	1	4	1	4	0	2	0	0	1	0	2	0	0	3.0	0	13	The cat snuck into the house through the open window, and the dog quickly chased after it.	2
+19	0	2	1	1	0	4	1	4	0	4	0	0	1	3	3	1	0	5.0	3	7	The man walked across the field because he wanted to reach the other side before the storm hit.	2
+18	0	0	3	2	0	3	1	3	0	2	0	3	1	0	2	0	1	4.0	1	11	The cat, which had been sleeping under the tree, was startled by a sudden noise.	2
+20	1	1	1	2	1	5	2	1	0	3	1	0	2	1	2	1	0	5.0	1	9	I went to bed early last night, and I felt great this morning after getting 8 hours of sleep	2
+34	1	0	2	3	2	7	1	7	0	5	0	1	4	3	2	2	1	8.0	4	10	The rain pouring down on the city was a refreshing respite from the stifling heat, and the cool breeze made me feel revitalized and ready to tackle the challenges of the day.	2
+11	3	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	5	Both of the storm clouds hovered menacingly and suddenly overhead.	2
+8	1	0	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	" ""by"" and ""after"")"	2
+17	1	1	2	1	0	3	1	2	0	2	1	0	3	1	1	2	0	3.0	1	5	Under the bright lights, she skillfully juggled 3 large apples while wearing a graceful tutu.	2
+13	2	0	1	1	0	3	1	2	1	2	0	0	0	1	2	2	0	4.0	1	4	The cat purred contentedly when Mary fed it a can of tuna.	2
+30	1	0	3	5	1	7	1	5	0	4	0	1	2	1	3	0	0	5.0	1	22	The train chugged slowly through the tunnel, which was filled with a faint smell of gasoline, and the sound of dripping water echoed through the dark passageway.	2
+15	1	1	1	2	0	3	1	2	0	3	0	0	1	1	1	0	0	3.0	1	7	The baby laughed at the funny clown while simultaneously crying for its dropped toy.	2
+21	0	1	4	3	0	4	0	4	0	2	2	0	1	0	2	0	1	3.0	1	9	As the sun set, the stars emerged, one by one, under the watchful gaze of the observers.	2
+27	1	1	1	1	1	7	3	2	0	3	0	4	2	1	3	2	0	4.0	1	15	The company will launch the new product after it has been thoroughly tested and its marketing campaign will take into account its potential customers' demands.	2
+26	1	2	2	3	1	7	1	5	1	3	0	0	0	2	3	0	0	5.0	2	14	John thought about the sun setting while his friend walked into the forest, and the sound of the river as the wind blew gently.	2
+31	2	1	3	3	0	4	4	4	0	4	0	4	0	4	3	1	0	6.0	4	8	The man walked rapidly toward the city, having been advised by a local to take a shortcut, which he did not notice until he was almost upon it.	2
+13	1	0	1	0	0	2	3	2	0	2	0	2	0	1	2	2	0	4.0	1	4	I will always love you, no matter what fate may bring us	2
+27	0	1	2	2	0	6	5	5	0	4	0	1	0	3	3	5	0	7.0	3	7	The teacher asked the students whether they had finished their homework, after which she gave them the assignment to write a report on the topic.	2
+29	1	1	3	1	2	5	5	1	0	5	0	3	1	3	4	2	0	5.0	3	22	I'm excited to eat breakfast and go on an adventure that will likely happen tomorrow, but before I do, I must finish my homework tonight.	2
+24	2	2	3	3	0	5	0	5	0	3	0	0	1	1	2	1	1	5.0	2	11	The cat, tired from chasing the mouse, curled up in a ball on the windowsill while the sun shone brightly outside.	2
+21	2	1	3	3	0	4	1	2	1	2	0	1	1	0	2	0	1	3.0	1	9	Although he had eaten too much at dinner, John walked to the park for a late-night run.	2
+15	0	1	3	2	0	3	0	2	0	2	0	2	0	0	1	0	1	2.0	1	7	The book, despite being borrowed, was returned on time by the student.	2
+27	1	0	2	3	0	5	3	3	1	5	0	0	2	2	2	2	1	7.0	3	5	Jim's excitement to see the movie conflicted with his lingering sadness about the recently ended relationship, which made him feel uneasy in the theater.	2
+19	1	0	3	1	0	4	1	3	0	2	0	0	3	0	1	2	1	5.0	1	10	The tourists, eager to see the famous landmarks, quickly made their way through the bustling streets.	2
+47	6	1	0	4	2	11	1	8	0	9	1	1	0	5	3	3	1	12.0	6	10	The car parked in the street spun around rapidly on one axis while the driver frantically honked the horn to try and alert the pedestrian crossing directly ahead who had just stepped into the road and failed to hear the warning blast from the car's horn	2
+13	1	1	0	1	0	3	1	2	1	2	0	0	0	1	2	1	0	3.0	1	8	The cat purred contentedly on John's lap while he read the newspaper	2
+18	1	1	1	2	1	4	0	4	0	3	0	1	0	1	2	0	0	4.0	1	8	The cat sprinted quickly across the room and hid beneath the bed until the storm had passed.	2
+17	1	1	2	1	1	2	2	1	1	2	0	1	1	1	3	0	0	4.0	1	9	The cat purred loudly because it was happy, and it rubbed against John's leg.	2
+21	1	0	3	2	1	4	2	4	0	2	0	1	1	1	3	1	0	5.0	1	17	The sun rose over the mountains, and by the time it reached the valley, it was fully visible.	2
+17	2	0	1	2	2	4	0	2	0	1	0	2	1	0	1	0	0	3.0	0	7	Both the sun and moon have been steadily shining down on the earth for countless years.	2
+19	2	1	1	3	1	3	3	2	0	3	0	0	0	1	1	2	0	4.0	1	7	She walked slowly down the stairs while carefully picking up the books and putting them in her backpack. 	2
+35	1	1	2	2	2	6	3	6	0	6	0	1	5	1	3	4	1	5.0	2	15	The man who walked into the room was carrying a large briefcase and seemed nervous about meeting the important clients, so he took a deep breath and introduced himself with a confident smile.	2
+18	0	0	3	1	0	4	1	2	0	3	0	0	4	2	1	1	0	3.0	2	6	Beneath the glittering waves, a mysterious sea creature lurked submerged, awaiting its next unsuspecting prey.	2
+10	0	1	1	0	1	1	1	1	0	1	0	1	2	1	2	0	0	3.0	1	4	The cat purred because it was happy and hungry.	2
+15	1	0	3	1	1	2	2	1	0	1	0	1	2	0	2	0	1	4.0	1	8	The cat, who was sleek and fluffy, purred contentedly on my lap.	2
+26	2	0	3	3	1	4	3	4	1	3	0	0	2	2	3	2	0	5.0	2	11	Jim walked through the park and into the forest, where he found an old, hidden path that led him deeper into the woods.	2
+12	0	1	0	1	0	4	0	2	0	3	0	0	1	1	2	1	0	3.0	1	6	Darkness enveloped the empty streets as fear subsided into the deepening shadows	2
+27	1	1	2	1	1	5	2	2	2	4	0	1	4	3	2	3	0	5.0	3	10	The stormy weather forced Jane and Bob to cancel their outdoor picnic plans, even though they had spent the entire afternoon shopping for new raingear. (Five subordinating conjunctions in one sentence!)	2
+45	2	1	6	5	2	7	4	3	1	7	0	2	4	4	3	2	0	8.0	4	21	John had always wanted to travel to the ancient city of __________, known for its magnificent ruins and historical significance, so he packed his bags and boarded the next flight to __________., a place he had dreamed of visiting for years.	2
+22	2	4	1	1	1	2	1	2	0	6	0	0	0	4	2	0	0	5.0	4	11	The cat slowly purred while it gazed longingly at the mouse, as though trying to determine whether to play or pounce	3
+6	2	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	4	 because, carefully, next.	3
+46	2	3	3	2	2	10	6	3	1	7	0	3	2	4	5	3	0	7.0	4	17	Earl had been thinking of quitting his job, but he realized that he needed the insurance coverage for his family, so he instead opted to take a demotion with fewer hours and a smaller salary until his wife's cancer treatment was completed.	3
+22	2	2	3	1	1	3	2	2	0	3	0	1	1	2	2	1	0	4.0	2	9	The dog wagged its tail excitedly, as if it was eager to run, and ultimately sprinted down the street.	3
+29	3	0	4	0	1	6	3	4	0	5	0	0	2	3	4	5	0	4.0	3	24	The storm caused the power to go out, which made the neighborhood pitch black, and then, when flashlights illuminated the darkness, I noticed something unusual	3
+25	2	0	4	3	0	6	1	3	0	3	0	0	2	1	1	0	0	4.0	1	14	The cat purred eagerly, pinkly perched atop its soft, cushioned pedestal, as a result of the bird's melodious morning song.	3
+29	2	2	3	1	2	3	4	3	0	7	0	0	1	4	4	2	0	4.0	4	17	The cat purred happily as it sat pounced on the mouse, and after it caught it, it began to eat slowly and enjoyed every delicious bite.	3
+34	0	1	3	2	2	2	1	4	9	6	0	1	2	3	3	3	0	5.0	3	27	Mario accelerated as Bowser pursued, using the underground tunnel to evade the Fire Sea and rescue Princess Peach from the Dark World, and their adventure would conclude in the Mushroom Kingdom.	3
+16	1	0	0	2	1	3	2	3	0	3	0	0	1	0	2	0	1	3.0	1	6	The cat that I saw ran swiftly across the road and hid beneath the large bush	3
+36	3	2	4	1	1	6	3	3	0	7	0	3	1	4	5	1	0	5.0	4	27	The adventure began with great anticipation because the storm was coming; we had to act quickly before the water reached our feet; however, our leader was missing and nowhere to be found.	3
+20	4	0	2	2	0	4	0	4	0	2	0	1	1	1	1	1	0	3.0	1	9	A submarine was exploring deeper into the ocean when suddenly, unexpectedly encounting a giant squid below the surface. 	3
+26	3	0	3	3	3	5	0	5	1	2	0	0	1	0	1	1	0	4.0	0	18	Sarah walked slowly and carefully down the mountain, despite the heavy rain and the darkness, and finally reached the safety of the cabin.	3
+31	1	0	2	3	1	4	3	2	0	7	0	1	4	5	3	2	0	8.0	5	12	The company decided to downsize after the economic crisis, which made it necessary to laid off several employees, yet they were able to continue working remotely with reduced pay	3
+18	1	0	3	1	0	3	2	2	1	1	0	1	3	0	2	0	1	4.0	1	12	The book, which I borrowed from the library last week, is due back next Tuesday.	3
+27	1	0	3	5	1	7	1	5	0	3	0	0	1	2	1	0	0	5.0	2	9	The cat purred contentedly on my lap, despite the rain pounding against the window, and the delicious smell of bacon sizzling in the kitchen.	3
+36	0	1	3	5	1	6	3	2	1	5	0	3	3	4	3	0	0	6.0	4	14	Melissa's excitement was due to their winning the competition, despite feeling exhausted from the long hours of rehearsal, and she hoped they would be able to perform at next year's festival.	3
+22	2	0	3	2	0	5	1	4	0	3	0	1	0	1	2	2	0	3.0	1	14	The manager requested the employees to arrive earlier, despite the rain, so they could begin the meeting on time.	3
+15	0	1	2	1	0	3	1	1	1	3	0	1	0	1	2	1	1	3.0	2	4	Although the storm was approaching, Sarah managed to finish her homework on time. Because Jack was sick, he was unable to attend the meeting. Since she had never played the game before, Emily was hesitant to join in.	3
+21	3	1	3	2	0	2	3	1	2	4	0	0	0	2	3	0	0	4.0	2	14	John waited patiently for Mary, whose arrival he anticipated eagerly, until she finally arrived at the appointed time.	3
+39	4	1	3	3	2	5	7	3	0	4	0	2	4	2	4	3	0	7.0	2	15	She carefully packed her bags because she was nervous about the flight, but she was equally excited for her upcoming adventure, so she tried to put her fears aside and make the most of the journey.	3
+21	3	2	2	1	0	2	2	1	0	4	0	1	1	3	3	1	1	4.0	4	8	Although it poured outside, we decided to have dinner inside because the house was too hot to stay in. Because of the storm, we had to cancel our weekend plans. Since John forgot his keys, he couldn't unlock the door. 	3
+26	2	2	3	3	0	6	1	5	0	3	0	1	0	2	2	2	0	4.0	2	14	The chef prepared the sauce with care, subordinating the ingredients under the heat of the skillet, so that it would blend together seamlessly.	3
+14	2	0	2	0	1	2	0	1	1	2	0	2	1	0	1	2	0	3.0	0	7	Sally, having been given explicit instructions, quickly and carefully completed the task	3
+19	1	1	1	3	0	5	1	4	0	2	0	0	1	1	2	0	0	3.0	1	8	The man in the moon smiled slyly as he hid behind the lush trees during the midnight stroll.	3
+20	3	1	2	2	0	3	2	3	0	3	0	1	0	2	3	0	0	3.0	2	8	The cat pounced on the mouse because it was hiding behind the lamp, when suddenly it scurried away.	3
+23	2	1	1	1	1	3	4	1	1	6	0	0	0	3	4	2	0	4.0	3	12	Mary wanted to go to the store because she needed milk but she forgot her wallet so she decided to walk there.	3
+7	1	1	3	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1.0	0	5	 because, in, dimly lit)	3
+18	2	0	3	0	1	2	1	2	0	4	0	2	0	1	3	0	0	3.0	1	9	The rain had just finished, the storm was brewing, and I needed to leave now.	3
+11	1	1	2	0	0	2	0	2	0	2	0	1	0	0	2	0	1	3.0	1	4	Although the sun was shining, the temperature dropped unexpectedly. Because he was hungry, John went to the nearest café. After she finished her homework, Sarah decided to watch a movie.	3
+23	2	0	2	1	1	2	4	2	1	5	0	1	1	3	3	3	0	6.0	3	7	Jane was walking quickly down the street when she heard the unexpected noise, which startled her and caused her to trip.	3
+19	0	0	2	2	1	3	1	3	2	4	0	1	0	2	2	2	0	6.0	2	5	Jane walked into the room and saw John, who was sitting by the window, holding a book	3
+39	2	1	3	7	0	9	2	7	1	4	0	0	2	3	3	0	0	7.0	3	9	The man in the moon smiled at the lazy cat cuddled up on my lap, as we sailed across the turquoise waters of the Caribbean, where the waves gently lapped at the boat's wooden hull.	3
+19	2	2	3	2	0	3	1	2	0	3	0	0	1	2	2	0	0	3.0	2	11	The cat, although tired, sat pondering on the windowsill for hours, until it finally fell asleep	3
+24	1	2	1	1	2	3	2	3	1	4	0	1	2	3	4	1	0	5.0	3	13	Sarah walked to the park because it was sunny and warm outside and she wanted to enjoy the scenery before the rain returned.	3
+8	1	0	4	0	1	0	0	0	0	2	0	0	0	0	0	0	0	2.0	0	5	 inspired, eventually, and led.)	3
+34	3	0	2	3	2	4	4	3	0	5	0	4	1	3	3	2	0	7.0	3	17	Either they had been traveling for hours _or perhaps they had forgotten to turn_ at the fork _in the road,_ which would make it much harder to find the cabin now.	3
+25	2	2	1	2	1	3	3	2	1	5	0	2	0	3	4	1	0	6.0	3	8	Mary walked slowly down the street because it was raining heavily and she needed to find shelter before she getting soaked to the bone.	3
+32	4	0	3	4	0	8	1	5	0	4	0	0	3	2	2	0	0	6.0	2	8	The sun set slowly over the horizon, then quickly disappeared beyond the mountaintop, following a bright trail of twinkling stars that eventually led to the deep blue night sky.	3
+42	2	1	3	3	3	6	7	1	0	9	0	3	3	4	5	3	0	6.0	4	31	She decided to eat a sandwich that smelled delicious and taste great, because it was made with freshly baked bread and had melted cheese and chicken on it, so she knew it would fill her hungry stomach with satisfaction.	3
+29	1	3	1	2	0	5	5	3	0	7	0	0	1	6	2	3	0	7.0	6	9	She spent the entire weekend exploring the city because she wanted to see all its sights before returning home after her vacation despite feeling exhausted from her travels.	3
+22	3	1	4	2	0	4	1	3	0	3	0	1	0	1	2	1	1	4.0	2	10	The cat, quickly jumping onto the table, caught the bird in mid-flight, just before it could fly away.	3
+34	2	1	5	4	1	8	1	5	0	4	0	1	2	2	3	0	0	3.0	2	25	A massive iceberg slowly drifted across the water, melting beneath the scorching sun, although it was nighttime in some areas, and consequently, various wildlife species migrated towards the north.	3
+24	2	0	3	3	0	5	1	4	0	3	0	1	2	2	2	1	0	5.0	2	7	The sun set slowly across the sky, casting a warm orange glow over the landscape, which was already bathed in twilight.	3
+16	1	1	1	0	1	3	1	2	0	2	0	3	1	1	3	0	0	3.0	1	11	Surely it will snow tomorrow since the ground is frozen and the clouds are gray. 	3
+19	0	0	3	3	0	6	2	2	0	2	0	0	1	1	1	1	0	3.0	1	10	The cat chased its tail with excitement, despite its tiredness, resulting in a furry spinning spectacle.	3
+19	0	2	3	0	1	2	2	2	0	4	0	1	1	3	3	1	0	3.0	3	13	The cat chased the mouse, because it was tired of sleeping, and it wanted to exercise.	3
+34	3	2	4	0	1	3	5	1	1	5	0	4	1	3	4	3	0	4.0	3	27	Beth has always wanted to visit her favorite artist's museum, although she can't afford it, but if she doesn't go soon, she'll never get the chance.	3
+24	1	0	3	4	0	5	2	3	0	2	1	2	1	0	2	0	1	4.0	1	11	The adventure, which we had been planning for months, finally came to an end after three grueling days in the wilderness.	3
+13	2	0	1	0	0	1	4	0	0	3	0	2	0	2	3	1	0	4.0	2	4	He was running when he suddenly realized he had lost his phone. However, since he was almost at the finish line, he decided to ignore it and just keep running. Meanwhile, back at the starting line, his friend laughed at him when he saw him lose his phone.	3
+10	1	1	1	0	0	1	2	1	0	2	0	1	0	1	2	1	0	2.0	1	6	She left the house because it was raining heavily. Because he was tired. Although the concert was great. 	3
+32	0	0	7	1	1	5	1	4	0	7	1	3	1	3	3	1	0	7.0	3	13	"The sentence is revised and polished to feature four subordinating conjunctions, resulting in the following construction: ""Had the team studied harder, they might _____________ the exam."""	4
+39	7	0	6	2	2	6	2	5	0	3	0	3	2	0	4	2	0	4.0	0	35	The rain poured down hard, so the garden needed a lot of water, but unfortunately, we couldn't irrigate it till the next day, and even then, the ground would still be wet.	4
+30	2	3	6	2	2	2	2	0	0	4	0	3	3	2	2	1	0	4.0	2	17	She had always been eager to travel and visit new  places <when, because, unless, after> that she could explore and learn about different cultures.	4
+29	1	1	2	1	0	5	4	4	1	5	0	0	4	4	5	3	0	7.0	4	8	The stormy night had a cold front that led to a power outage that darkened the whole city, which made it difficult for Jack to get home.	4
+28	1	0	3	4	1	6	1	4	0	3	0	1	3	1	2	1	0	4.0	1	14	The tourists were eager to explore the bustling city, despite the pouring rain, and they arrived at the famous landmark just in time for sunset.	4
+17	1	0	12	0	1	0	0	0	0	3	0	0	0	0	0	0	0	3.0	0	9	" ""ran,"" ""had,"" ""already,"" and ""pullled."" Each of these conjunctions introduces a subordinate clause, which provides additional information about the action of the main clause."	4
+23	0	2	2	0	0	5	4	3	0	4	0	1	2	3	4	3	0	5.0	3	13	The teacher promised that the students would enjoy their new classroom, which faces a peaceful forest, after they finished their homework	4
+51	5	2	5	2	2	8	2	6	0	10	0	4	4	4	5	3	0	7.0	4	38	The underlined subordinate clauses reveal how the storm will intensify throughout the evening, although it was initially predicted to dissipate, but unexpected changes in the atmosphere will force its continued development, and finally, the unseasonably warm temperatures will make the resulting flooding more severe than anticipated.	4
+21	0	0	4	4	1	5	0	5	0	1	0	0	1	0	1	0	0	3.0	0	7	Underneath the bridge, a small fish swam past the riverbank, around the bend, and through the rapids.	4
+46	1	2	4	8	2	9	3	7	0	4	0	3	3	2	2	2	0	8.0	2	20	The sentence was written during the day in the library, despite the loud typing of the person next to me, while sipping coffee that was kept in a cup near me, and after having finished a long and challenging project at work. 	4
+32	2	1	4	3	0	5	7	2	0	4	0	3	1	3	5	3	0	6.0	3	11	He had eaten lunch, though he was still hungry, therefore he opened a bag of chips, after which he realized he had left his keys in the car.	4
+47	4	2	5	1	3	6	9	2	0	10	0	1	2	6	8	4	0	5.0	6	40	She decided to leave work early because the sunset was beautiful, yet she knew she had too much work to finish, so she quickly grabbed her bag and left, but as she walked out the door, she realized she forgot her phone.	4
+10	2	0	5	0	1	0	0	0	0	0	0	1	1	0	0	0	0	3.0	0	5	 after, where, might, and fellow.)	4
+29	0	0	2	5	2	7	2	2	0	5	0	2	1	2	2	1	0	7.0	2	10	Underprivileged individuals have been relegated to the margins of society, yet their plight remains cloaked in apathy and ignored by those with the power to effect change.	4
+29	3	2	2	0	1	5	6	0	1	7	0	1	0	4	4	4	0	5.0	4	15	Mary decided to leave work early after realizing she had forgotten her lunch, so she packed her things and left before her boss even noticed her absence.	4
+31	1	1	4	3	1	6	0	6	1	3	0	2	3	2	3	0	1	4.0	3	11	A dark and stormy night, when the rain pounded against the window, Jack huddled under the covers, wondering if the boat would be safe in the harbor.	4
+49	1	0	6	6	0	11	4	6	1	7	0	2	4	5	3	4	0	6.0	5	36	Amy spent her afternoon exploring the historic city, which was reconstructed using traditional building techniques, despite the challenges posed by the uncooperative weather, however, by the end of the day, she had managed to capture its essence in a series of exquisite photographs.	4
+39	3	1	6	4	1	6	3	5	0	4	0	3	2	2	3	1	0	6.0	2	12	The dog, despite its slow speed, eventually caught the cat, which had escaped from the house, through the open window, and was running as fast as it could to hide under the porch.	4
+23	1	1	3	2	1	5	0	3	0	3	0	1	2	1	1	2	1	4.0	2	11	The tourists, after waiting for hours in line, were finally able to reach the summit and enjoy the breathtaking view.	4
+60	5	0	7	5	2	15	3	8	0	8	0	2	4	3	6	3	0	5.0	3	39	The hurricane had swept away her small beachside hut, which was located just ______________ the ocean, and she had to flee to higher ground in the middle of the night ______________ the rain came pouring down in sheets ______________ lightning illuminated the dark sky ______________ the wind whipped the palm trees back and forth with alarming force.	4
+36	2	1	6	2	1	8	4	5	0	6	0	0	1	2	5	4	0	5.0	2	18	The tourists spent their afternoon at the beach, but the storm made them seek shelter, however, they found a bar with comfortable chairs, thereby, they relaxed until the weather improved.	4
+38	5	1	1	6	2	8	2	7	0	3	0	2	1	2	3	0	0	6.0	2	18	The car was driven quickly down the hill and then across the river and further through the forest until it finally arrived at the campground, where it was parked under the shade of a tall oak tree	4
+23	0	1	3	1	0	5	2	2	0	5	0	0	1	3	1	3	1	5.0	4	9	The teacher, upon observing the students' behavior, decided to provide additional support to help them succeed in their tasks.	4
+21	1	1	1	3	0	5	1	1	1	4	0	1	0	1	1	0	1	3.0	2	11	After being rained out of their picnic plans, Mary's family reluctantly decided to check into the neighboring lake cabin	4
+31	6	1	8	1	0	2	5	1	0	6	0	0	0	1	4	1	1	4.0	2	9	After eating, she walked slowly towards the park; however, it began to rain; yet, she took her umbrella; therefore, she returned home early.	4
+24	2	1	2	1	0	5	0	4	1	5	0	0	2	2	1	4	1	4.0	3	7	Understanding the context, Maria efficiently coordinated the new team by skillfully using subordinating conjunctions in each communication to facilitate a smooth collaboration.	4
+35	3	2	4	2	2	4	7	1	1	5	0	1	3	3	5	4	0	6.0	3	19	Mary took the cookie because she wanted it badly, although it was hot and tasted stale, but she ate it anyway, in spite of how bad it made her teeth feel.	4
+42	2	3	8	3	2	7	1	5	1	5	1	0	2	2	1	4	1	6.0	3	18	Based on her father's directions, Sarah carefully followed the recipe, using each of the four subordinating conjunctions - because, although, after, and unless - to connect the clauses and create a clear sense of sequence.	4
+10	2	1	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	4	 after, until, as, and before.)	4
+47	6	0	4	5	1	10	4	7	0	6	0	1	0	2	4	4	0	4.0	2	36	The manager requested me to finish the project by the end of the month, yet I still had to attend the team meeting that night, therefore I couldn't leave work until late, hence I worked through dinner and well into the evening.	4
+30	2	0	5	2	1	7	2	3	0	3	0	1	3	2	2	2	1	5.0	3	19	The rain, pouring down, allowed us to enjoy the outdoors as our picnic blanket, wet but content, was now a lovely shade of mud-colored dappledness.	4
+28	5	0	1	3	2	5	2	5	0	3	0	1	1	1	2	2	0	5.0	1	9	She ate the sandwich slowly and deliberately and then carefully placed the remains on the floor for the dog who was barking eagerly from the other room.	4
+27	1	1	2	2	1	3	4	1	2	5	0	3	0	3	4	3	0	4.0	3	21	Mike ran towards the park because he had promised Sarah they would play soccer there after school, and he didn't want to disappoint her.	4
+31	2	1	3	5	0	7	1	4	1	5	0	0	1	3	2	0	0	4.0	3	9	Under the bright sun, despite her tiredness from work, John walked leisurely through the bustling park, arriving at the picnic spot just as the birds began to sing	4
+34	3	2	3	2	0	4	3	3	1	4	0	3	3	2	4	2	1	4.0	3	27	Although he was tired, John decided to finish the project _because it was almost finished,_ despite the lingering doubts, so he could finally _feel a great sense of accomplishment._	4
+24	1	0	4	2	0	5	1	5	0	3	0	0	3	1	2	2	1	4.0	2	8	The man, who wore a mischievous smile, walked into the room with a flourish carrying a large, exquisitely bound book.	4
+36	3	2	4	3	0	6	3	6	0	6	0	0	1	5	2	5	0	9.0	5	8	Because of the rainstorm, we left for the beach earlier, although it threatened to ruin the picnic, thus saving us the disappointment of seeing the waves too calm to enjoy a swim. 	4
+8	2	0	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	2	  * as * and * before * soon	4
+31	1	1	2	4	2	6	3	4	0	4	0	2	2	1	3	1	0	4.0	1	16	The tourists were surprised by the sudden downpour while they were hiking in the mountains, but they quickly grabbed their rain gear and pressed on, despite the tricky terrain	4
+32	4	2	2	2	0	5	3	4	0	6	0	2	1	5	5	2	0	4.0	5	24	The cat purred loudly in front of the mouse because seeing it was scared, though it wanted to eat it, so the mouse was relieved when the cat finally left	4
+14	3	1	1	1	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	8	The cat purred contentedly on the couch as the sun set slowly outside. 	4
+32	0	1	4	2	3	5	3	4	0	1	0	5	4	1	5	0	0	5.0	1	27	The concert was enjoyable because I was with my friends, and we were sitting in the front row, and the music was exceptional, and the artist was incredible.	4
+37	0	1	5	6	2	10	0	7	1	2	0	0	3	0	2	1	1	5.0	1	26	As the car sped down the winding road, through the verdant landscape, along the shore of the vast lake, and under the warm sunlight, Sarah felt a sense of excitement and adventure.	4
+24	0	2	0	2	1	5	2	3	0	4	0	2	3	3	3	2	0	5.0	3	15	I can complete this task as requested because the subordinating conjunctions in the sentence I have created provide clear and proper transitions between clauses	4
+15	4	0	5	0	0	1	1	1	0	2	0	1	0	1	1	1	0	3.0	1	10	Afterwards, then, accordingly, thus, I will continue reading the book.	4
+25	5	2	4	1	0	4	1	1	0	4	0	2	1	2	2	0	0	5.0	2	7	The storm clouds gather threateningly, although they may yet break apart, despite having grown dark earlier, yet disappear by midday tomorrow.	4
+11	1	0	1	1	0	2	1	2	0	1	0	0	2	0	1	1	0	2.0	0	5	The stormy night suddenly surprised us with a loud bang. Although the darkness frightened us, we knew the bang signaled the arrival of rain. As we cautiously exited the house, a gust of wind caught us and carried us far away. Although the experience was unpredictable, it ultimately delighted us with a spectacular display of light.	4
+21	1	3	5	1	0	2	2	2	0	2	0	2	0	0	2	1	1	3.0	1	17	Because, since, unless, although I had studied all night, I still did not pass the exam.	4
+52	4	2	6	5	1	9	4	6	0	9	0	2	2	7	5	4	0	7.0	7	19	The teacher suggested that we work together to solve the problem, provided we could agree on a course of action, assuming we had enough time to complete the project before the deadline, and even then, only if we could get buy-in from all relevant stakeholders.	4
+23	0	2	3	3	0	6	0	6	0	3	0	0	0	2	3	0	0	4.0	2	12	The cat sat on the table while the baby played with the toy, despite the noise, until the mouse appeared.	4

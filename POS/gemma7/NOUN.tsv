@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The wind blew through the trees, rustling the leaves.	0
+9	0	0	1	1	0	3	0	2	0	2	0	0	0	0	1	1	1	4.0	1	4	A verb describing an action occurs in time.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The clock roars with a rhythmic ticking sound.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 The sun shines brightly over the earth.	0
+11	1	0	2	1	0	3	1	1	0	2	0	0	0	1	1	1	0	3.0	1	4	 The wind blew fiercely, carrying leaves on its path.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The wind blew through the trees."""	0
+17	0	0	7	1	1	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	6	"The verb ""dance"" is a synonym for ""leap"" and ""skip."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The wind whistles through the trees.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The wind blew wildly.	0
+7	0	0	1	0	1	1	0	0	0	0	0	2	2	0	1	0	0	2.0	0	3	 Actions can be stimulating and rewarding.	0
+8	0	0	1	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	A verb phrase describes a non-existent object.	0
+13	1	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The wind blew softly through the trees, creating a serene atmosphere.	0
+16	0	0	3	3	0	5	0	3	0	2	0	0	0	0	1	0	0	3.0	0	7	"A verb phrase of ""dancing"" flows through the air like a flowing stream."	0
+10	0	0	3	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	" ""The wind blew through the tall grass."""	0
+20	0	0	5	2	0	4	1	3	0	2	1	1	0	1	2	1	0	4.0	1	5	"Sure, I have generated a sentence with 0 nouns - ""The wind whips through the trees."""	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock chimes.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The wind blew gently through the trees.	0
+12	0	0	3	1	0	4	0	2	0	0	0	1	1	0	1	0	0	2.0	0	7	" The verb ""dance"" is a vibrant expression of joy."	0
+8	0	0	1	1	0	3	0	1	0	1	0	0	1	1	0	0	0	3.0	1	3	 Actionable verb phrase combined with a modifier.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	 The wind blew gently yesterday.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	 The wind blew fiercely yesterday.	0
+15	0	0	2	2	1	5	0	2	0	2	0	0	1	1	1	1	0	4.0	1	4	The verbs and adverbs danced with rhythm, creating a melody of harmonious sounds.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The wind blew through the trees.	0
+14	0	0	2	2	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	The wind whistles through the trees, creating a symphony of rustling leaves.	0
+12	0	1	1	1	0	3	0	2	0	2	0	2	0	1	1	1	0	4.0	1	3	 A verb can be accomplished by utilizing a form of action.	0
+17	0	0	2	4	0	5	0	4	0	2	0	0	0	1	1	0	0	4.0	1	5	A symphony of colors danced in the sky, painted by the brush of the sunset.	0
+16	1	0	2	3	0	5	0	4	0	0	0	1	0	0	1	0	0	4.0	0	5	A verb is the core of any sentence, regardless of the presence of nouns.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	 The wind blew fiercely yesterday.	0
+21	0	0	6	2	0	4	0	4	0	2	0	1	1	1	2	0	0	3.0	1	10	"Sure, the sentence is: ""A vibrant melody danced through the air, carried by the wind."""	0
+8	0	0	3	0	0	2	0	1	0	0	0	1	1	0	1	0	0	1.0	0	4	" ""Today is a beautiful day."""	0
+14	0	0	1	3	1	5	0	2	0	2	0	0	0	1	1	0	0	4.0	1	7	A group of people sat listening to music and dancing in the park.	0
+14	0	0	3	2	0	4	0	3	0	1	0	1	0	0	1	0	0	3.0	0	5	"The verb ""dance"" is performed without the presence of any nouns."	0
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	 Rain falls.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The wind blew through the trees.	0
+20	0	0	5	1	0	3	0	3	0	2	0	0	6	1	1	1	0	3.0	1	6	" ""The quick brown fox jumps over the lazy dog, savoring the sweet, tangy orange juice."""	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The wind blows wildly.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The cat sat on the mat."""	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The wind whispers secrets through the leaves.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	A vibrant symphony of melodies filled the air.	0
+14	0	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	A rainbow danced across the sky, casting colorful shadows on the ground.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The wind blew through the trees.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The wind blows gently.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 A vowel sound echoed through the air.	0
+12	0	0	1	1	0	3	1	2	0	2	0	1	1	0	1	1	1	4.0	1	5	A verb phrase describing an action can exist on its own.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The wind blew through the trees.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	 The wind whispered secrets into the trees.	0
+12	0	0	3	2	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	" ""A symphony of colors danced across the digital canvas."""	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The wind blows through the trees."""	0
+14	0	0	1	3	0	4	0	3	0	1	0	1	1	0	1	0	0	3.0	0	4	A verb of action is utilized as the sole element in the sentence.	0
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The wind howled outside, blowing the leaves off the trees.	0
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat on the mat, purring contentedly.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept soundly.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat is sleeping.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cow jumped over the fence.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is delicious.	1
+9	0	0	2	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	Sure, the cow jumped over the moon.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, basking in the sun.	1
+20	0	0	5	1	1	4	1	3	0	1	0	2	1	0	2	1	0	3.0	0	10	"Sure, the lone noun in the instruction is ""sentence,"" and I have generated the sentence: The sentence is complete."	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+14	1	0	2	2	0	3	0	3	0	2	0	0	1	1	1	0	0	3.0	1	5	The cat jumped onto the table, landing gracefully on the soft cushion.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept soundly.	1
+9	0	0	1	1	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	3	 The lion is the king of the jungle.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, basking in the sun.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog jumped onto the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is ripe.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dog is playing in the park.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cow jumps happily across the meadow.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat is sleeping.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat is playing.	1
+14	1	0	2	1	0	4	1	2	0	2	0	0	0	1	1	1	0	4.0	1	6	The cat sits quietly on the mat, awaiting its owner's return.	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	tree.	1
+17	1	0	5	1	0	3	1	2	0	2	1	0	0	0	2	1	0	3.0	0	10	"Sure, I generated a sentence with 1 noun - ""The cat slept soundly."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car raced down the road.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car traveled down the road.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat is sleeping.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The car drove down the road."""	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat sat comfortably on the green rug.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, basking in the sun.	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	apple.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sits on the mat, looking at the fish.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat is sleeping.	1
+7	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The apple is a delicious fruit.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	A goat is grazing in the meadow.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The lion is sleeping.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped on the mat.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The flower in the garden bloomed brightly.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sitting on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+11	1	0	1	1	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat and the dog played together in the park.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the fish around the park.	2
+9	1	0	1	0	1	2	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	 The cat and the dog are playing together.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the dog into the forest.	2
+8	1	0	1	0	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	 The dog and the cat played together.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the dog up the tree.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The dog chased the cat up the tree.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+9	1	0	1	0	1	2	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	 The elephant and the zebra are running together.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+15	1	0	2	1	1	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The giraffe and lion danced gracefully across the savanna, creating a breathtaking spectacle.	2
+10	0	0	1	1	1	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	7	 A horse and a cow are in the barn.	2
+9	0	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat on the mat, purring.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	 The dog is playing with the cat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the dog across the park.	2
+11	0	0	3	1	0	2	0	2	0	2	0	1	0	0	1	0	1	4.0	1	8	 The cat, sitting on the mat, was purring.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the dog around the park.	2
+9	0	0	1	0	1	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	4	 The lion and the zebra crossed the road.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	2
+9	2	0	1	0	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	 The cat and the dog played happily together.	2
+11	1	0	1	1	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The dog and the cat played together in the park.	2
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	3	 The young cat is playing with the ball.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	 The cat chased the dog.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+9	0	0	1	0	1	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	4	 The lion and the zebra crossed the river.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The dog chased the cat up the tree.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	 The cat chased the dog.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+8	1	0	1	0	1	2	0	1	0	1	0	1	0	0	1	0	0	3.0	0	4	 The lion and zebra are playing together.	2
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat on the mat, purring contentedly.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	2
+15	0	1	2	2	0	4	0	4	0	2	0	0	0	1	2	0	0	3.0	1	8	 The cat sat on the mat, while the table stood beside the bookshelf.	4
+20	1	0	2	1	2	4	0	3	0	1	0	1	5	0	2	0	0	4.0	0	15	The cheerful cat played with the playful dog, and the fluffy sheep and graceful horse were also involved.	4
+21	2	0	3	3	1	5	0	5	0	2	0	0	0	0	2	0	0	3.0	0	13	 The cat sat on the mat, next to the dog, and the fish swam happily in the pond.	4
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping dog.	4
+21	0	0	4	1	1	5	0	4	0	1	0	0	5	0	1	1	0	3.0	0	12	 The playful kitten, energetic tiger, curious squirrel, and fluffy rabbit all chased each other around the park.	4
+20	0	0	2	3	0	5	0	4	0	2	0	0	4	1	1	0	0	4.0	1	10	 The vibrant cat sat on a soft rug in the serene garden, delighting in the warm afternoon sun.	4
+14	0	0	4	0	1	5	0	2	0	1	0	1	0	0	1	1	0	3.0	0	9	 The lion, zebra, giraffe, and tiger are roaming the savanna.	4
+19	1	0	4	1	1	5	0	5	0	1	0	1	0	0	1	0	0	3.0	0	12	 The cat, the dog, the fish, and the parrot were playing together in the park.	4
+12	0	0	1	1	0	3	0	3	0	2	0	0	2	0	1	1	0	2.0	0	7	 The swift fox chased the energetic squirrel up the towering tree.	4
+26	1	0	5	2	2	8	0	2	0	2	0	1	3	1	1	0	0	5.0	1	12	The vibrant parrot, chirping canary, playful kitten, and energetic dog were running excitedly around the park, filled with joy and laughter.	4
+22	0	0	3	2	1	5	0	5	0	3	0	0	3	1	1	2	0	4.0	1	9	 The cat jumped onto the table for a quick snack, devouring the juicy apple, and chasing the playful dog.	4
+19	0	0	4	1	1	4	0	1	0	1	0	1	6	0	1	0	0	3.0	0	12	 The vibrant apple, sweet orange, refreshing watermelon, and juicy peach were enjoyed by eager children.	4
+18	1	1	3	2	0	4	0	4	0	3	0	0	0	2	2	0	0	3.0	2	13	 The cat sat atop the table, resting on the mat, while the horse grazed nearby.	4
+16	1	0	4	0	1	4	0	1	0	1	0	0	4	0	1	0	0	3.0	0	11	 The playful lion, quick cheetah, graceful gazelle, and ferocious tiger fought passionately.	4
+19	1	0	2	3	1	5	0	5	0	1	0	1	0	0	2	0	0	3.0	0	15	 The cat sat on the mat next to the table, and the book was on the table.	4
+18	0	0	4	1	1	5	0	5	0	1	0	1	0	0	1	0	0	3.0	0	12	 The dog, the cat, the house, and the tree are playing in the park.	4
+23	0	0	5	1	1	7	0	3	0	2	0	0	4	1	1	1	0	3.0	1	11	The young lion, playful zebra, graceful giraffe, and cunning fox raced across the savanna, creating a memorable journey.	4
+20	0	0	4	1	1	5	0	2	0	1	0	1	5	0	1	0	0	3.0	0	12	 The energetic lion, playful cheetah, graceful gazelle, and cunning fox were running through the grassy field.	4
+25	1	0	5	1	1	6	0	3	0	3	0	0	4	2	1	1	0	3.0	2	11	The mischievous cat, fluffy dog, curious rabbit, and energetic tiger danced through the park, leaving the butterfly to flutter freely.	4
+23	0	0	5	2	1	6	0	3	0	1	0	0	5	0	1	0	0	3.0	0	12	 The energetic lion, majestic giraffe, playful zebra, and cunning fox, danced to the sound of the vibrant drum.	4
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	4
+18	0	0	4	1	1	5	0	5	0	1	0	1	0	0	1	0	0	3.0	0	12	 The students, the teachers, the books, and the desks are preparing for the exam.	4
+22	0	0	5	1	1	5	0	2	0	1	0	1	6	0	1	0	0	3.0	0	13	 The energetic lion, majestic tiger, graceful zebra, and playful cheetah, are running across the lush green grass.	4
+19	0	0	4	1	1	6	0	6	0	1	0	0	0	0	1	1	0	3.0	0	15	 The farmer took the cow, the goat, the pig, and the horse to the barn.	4
+15	0	0	4	1	1	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	9	 The lion, zebra, giraffe, and elephant are resting in the jungle.	4
+16	1	0	4	1	1	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	9	 The lion, zebra, giraffe, and elephant are playing together in the jungle.	4
+19	0	0	4	1	1	6	0	6	0	1	0	0	0	0	1	1	0	4.0	0	10	 The farmer drove the cow, the goat, the horse, and the tractor to the barn.	4
+15	0	0	2	2	0	4	0	4	0	3	0	0	0	2	1	1	0	4.0	2	5	The cat sat on the mat, watching the dog play with the ball.	4
+19	0	0	4	1	1	5	0	5	0	1	0	1	1	0	1	0	0	3.0	0	12	 A giraffe, a lion, a zebra, and a cheetah are grazing in the African savannah.	4
+19	0	0	4	1	1	5	0	2	0	1	0	1	4	0	1	0	0	3.0	0	12	The playful kitten, fluffy cat, mischievous dog, and energetic rooster were running around the park.	4
+20	0	0	4	1	1	5	0	2	0	1	0	1	5	0	1	0	0	3.0	0	12	 The majestic lion, graceful giraffe, cunning tiger, and vibrant parrot are resting in the lush jungle.	4
+17	0	0	2	2	0	4	1	3	0	2	0	0	3	1	1	1	0	3.0	1	6	 The fluffy cat jumped onto the soft mat, bringing the colorful toy to its paws.	4
+15	0	0	4	1	1	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	9	The cat, dog, horse, and cow are playing in the park.	4
+19	1	0	4	1	1	5	0	2	0	1	0	0	4	0	1	0	0	3.0	0	11	The playful puppy, vibrant parrot, graceful elephant, and mischievous raccoon danced joyfully in the park.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	 The lion, zebra, giraffe, and cheetah ran across the savannah.	4
+16	1	0	4	1	1	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	9	The cat, dog, fish, and bird are playing together in the park.	4
+19	1	0	4	1	1	5	0	2	0	1	0	0	4	0	1	0	0	3.0	0	11	 The vibrant parrot, energetic lion, majestic horse, and nimble fox danced playfully in the meadow.	4
+15	0	1	2	2	0	4	0	4	0	2	0	0	0	1	2	0	0	3.0	1	8	 The cat sat on the mat, while the fish swam in the pond.	4
+15	0	1	2	1	0	3	0	3	0	3	0	0	2	1	2	0	0	3.0	1	10	 The quick fox jumps over the slumbering lion, while the cunning tiger watches.	4
+25	1	0	4	1	1	8	1	2	0	1	0	1	5	1	2	1	0	3.0	1	14	The vibrant apple, juicy peach, sweet orange, and crunchy pear are all delightful fruits that bring joy to the taste buds.	4
+27	0	0	5	2	1	5	1	6	0	3	0	0	4	2	2	1	0	4.0	2	14	The playful puppy, the curious cat, the vibrant flower, and the old tree danced around the park, delighting all who passed by.	4
+20	0	0	4	1	1	6	0	5	0	1	0	0	1	0	1	0	0	4.0	0	12	 The young child danced with the cat, the dog, the parrot, and the parrot's owner.	4
+14	1	1	1	1	0	3	0	3	0	2	0	0	2	1	2	0	0	3.0	1	9	The cat sat on the fluffy green rug while the dog played nearby.	4
+19	0	0	1	2	1	5	1	4	0	2	0	0	3	0	1	2	0	3.0	0	9	 The mischievous squirrel stole the juicy berries from the oak tree and hid them in the hollow log.	4
+12	1	0	4	0	1	4	0	1	0	1	0	0	0	0	1	0	0	3.0	0	8	 The lion, zebra, giraffe, and elephant danced together.	4
+19	1	0	4	1	1	5	0	2	0	1	0	0	4	0	1	0	0	3.0	0	11	The young cat, playful dog, friendly horse, and energetic rabbit played happily in the park.	4
+21	0	0	2	2	1	5	0	5	0	2	0	0	4	0	2	1	0	3.0	0	13	 The mischievous cat chased the energetic fox across the playful meadow, and the curious lion joined in the chase.	4
+23	0	0	5	1	1	6	1	2	0	2	0	0	5	1	2	0	0	3.0	1	11	The energetic cat, playful puppy, cunning fox, and mischievous squirrel raced through the lush forest, their tails swishing.	4
+23	0	0	5	1	1	6	0	3	0	2	0	0	5	1	1	1	0	3.0	1	11	The playful puppy, energetic lion, weary traveler, and curious cat danced in the meadow, creating a delightful harmony.	4
+24	0	0	4	1	1	6	0	6	0	1	0	0	5	0	1	1	0	3.0	0	19	The cheerful farmer drove the energetic goat, the nimble fox, the patient cow, and the vibrant horse to the barn.	4
+59	0	0	11	5	1	13	0	12	4	3	0	0	10	1	1	1	1	7.0	2	23	"The swift sailboat named ""Ocean Dream"" raced across the sparkling waves, carrying the vibrant flag of the Jolly Roger, alongside the sleek dolphin, the mischievous sea goat, the cunning sea lion, the ancient barnacle, the majestic eagle, and the fearless navigator, on a journey to the hidden treasure."	7
+34	1	0	8	2	1	10	0	3	0	2	0	0	7	1	1	1	0	4.0	1	20	The playful parrot, fluffy cat, cunning fox, mischievous raccoon, agile tiger, graceful giraffe, and mighty lion danced playfully in the meadow, creating a symphony of joy.	7
+42	0	0	9	2	2	12	0	4	0	4	0	0	9	1	1	1	1	5.0	2	20	The bustling marketplace, filled with eager shoppers and towering skyscrapers, showcased the vibrant fruits, colorful vegetables, fragrant spices, antique books, elegant jewelry, graceful dancers, and a captivating painting displayed on the gallery wall.	7
+36	0	0	8	1	1	8	0	9	0	1	0	0	8	0	1	0	0	3.0	0	28	 The majestic dragon, the fiery phoenix, the ethereal unicorn, the whimsical gnome, the cunning fox, the noble lion, and the mischievous elf, all traveled to the mysterious cave.	7
+33	0	0	8	1	1	9	0	3	0	2	0	0	9	1	1	1	0	3.0	1	20	The vibrant peacock, colorful parrot, graceful swan, energetic lion, cunning fox, mischievous goat, and proud ostrich formed a harmonious coalition, dancing through the verdant meadow.	7
+29	0	1	3	1	1	7	0	6	0	3	0	0	7	1	3	2	0	4.0	1	10	 The quick brown fox jumps over the lazy dog, while the cunning lion fights the fearless lion tamer, and the mischievous elf leads the weary traveler.	7
+32	0	1	4	3	2	8	1	2	1	4	0	1	5	2	2	2	1	6.0	3	13	The bustling marketplace of Cairo, adorned with antique treasures and vibrant fabrics, was abuzz with vendors hawking their wares, attracting a throng of curious tourists and eager shoppers.	7
+33	0	0	8	2	1	9	0	3	0	2	0	0	8	1	1	1	0	3.0	1	20	The mischievous lion, playful parrot, elegant giraffe, cunning cheetah, graceful swan, mischievous zebra, and vibrant tiger strolled through the lush forest, spreading joy to all.	7
+33	0	0	3	5	1	9	1	4	0	2	1	0	6	0	2	1	0	4.0	0	14	The agile aardvark assembled a vibrant group of seven nimble nimbus, and they embarked on a spirited journey of epic proportions, through the mystical forest's maze of winding paths.	7
+28	1	0	7	1	1	8	0	2	0	1	0	0	7	0	1	0	0	3.0	0	20	The playful kitten, swift cheetah, energetic lion, fierce tiger, graceful giraffe, elegant zebra, and mighty elephant danced harmoniously in the meadow.	7
+29	0	0	7	1	1	12	0	2	0	1	0	0	5	0	1	0	0	3.0	0	20	The vibrant purple parrot, emerald parrot, sapphire parrot, turquoise parrot, scarlet parrot, orange parrot, and gold parrot soared through the crystal sky.	7
+32	0	0	3	3	2	8	0	6	0	4	0	0	6	2	1	1	0	4.0	2	16	The quick brown fox jumps over the sleeping lion, bringing the scattered grapes and juicy watermelon to the hungry zebra and the thirsty giraffe, resulting in a delightful feast.	7
+35	1	0	8	2	1	11	0	3	0	2	0	0	7	1	1	1	0	4.0	1	20	The swift sparrow, nimble fox, majestic lion, cunning tiger, graceful swan, agile cheetah, and sly snake danced playfully amongst the emerald trees, creating a symphony of joy.	7
+36	0	0	8	2	1	12	0	3	0	2	0	0	8	0	1	1	0	4.0	0	20	The vibrant apple, juicy peach, gnarly pear, tangy orange, sweet mango, fluffy grape, and ripe strawberry formed a delectable fruit basket, shared amongst the eager group of friends.	7
+31	0	0	7	1	1	9	0	3	0	2	0	0	8	0	1	1	0	3.0	0	20	 The mischievous lion, graceful gazelle, cunning fox, elegant giraffe, cunning tiger, nimble panther, and majestic zebra led an epic journey through the enchanted forest.	7
+40	0	0	7	2	1	11	0	9	0	2	0	1	7	0	1	1	0	3.0	0	27	The diligent doctor, a radiant teacher, the proud knight, the graceful butterfly, the agile cheetah, the mischievous elf, and the curious parrot were playing a game of chess in the bustling city park.	7
+39	0	0	9	2	1	10	0	6	0	2	0	0	9	0	1	1	1	5.0	1	30	The bustling market, teeming with colorful fruits, energetic children, friendly shopkeepers, a towering cathedral, a graceful giraffe, a curious parrot, and a spirited artist, painted a vibrant picture of life.	7
+33	0	1	3	2	1	9	0	7	0	4	0	0	6	3	2	2	0	5.0	3	14	The quick brown fox jumps over the sleeping bear, while the curious cat and the mischievous goat chase the nimble butterfly, making the playground equipment seem like a magical castle.	7
+29	0	1	5	2	1	8	0	4	0	2	0	0	6	0	1	0	0	4.0	0	11	The quick fox jumps over the lazy goose, while the proud lion, sleek cheetah, fierce tiger, and graceful zebra race across the bustling marketplace.	7
+41	0	0	8	2	1	10	1	9	0	2	0	1	7	1	2	0	0	3.0	1	27	A vibrant apple, a plump peach, a juicy pear, a delicious mango, a crispy orange, a sweet strawberry, and a tangy grape are ripening in the sun, their sweetness dripping onto the table.	7
+39	0	0	9	3	1	12	0	3	0	2	0	0	9	0	1	1	1	5.0	1	20	The bustling market, filled with eager shoppers, showcased a vibrant assortment of fresh produce, aromatic spices, glistening jewelry, elegant clothes, vintage books, majestic statues, and a captivating bouquet of flowers.	7
+26	1	1	3	2	0	6	0	5	0	3	0	0	5	2	2	1	0	4.0	2	13	The swift squirrel perched on the mighty oak tree, devouring a succulent apple from the fertile orchard, while the mischievous lion roared nearby.	7
+46	0	0	7	3	1	11	0	10	0	2	0	0	12	0	1	1	0	6.0	0	26	The energetic young lion leads a proud pack of chattering monkeys, a cunning fox, a mischievous elephant, a wise old owl, a graceful gazelle, a curious zebra, and a brave warrior into a thrilling adventure through the lush jungle.	7
+37	1	1	4	4	1	7	0	6	0	4	0	0	9	2	3	0	0	5.0	2	17	The quick brown fox jumps over the sleepy green cat, chased by the furious lion, and the timid goat leaps high, while the hungry tiger searches for food in the lush green forest.	7
+38	1	1	3	4	1	10	0	8	0	4	0	0	6	1	3	2	0	5.0	1	11	The mischievous monkey in the jungle canopy climbed the towering tree of giants, while the swift squirrel scampered along the vibrant branches, and the graceful giraffe surveyed the vast expanse of the emerald landscape below.	7
+29	1	0	7	1	1	8	0	2	0	1	0	0	8	0	1	0	0	3.0	0	20	The playful parrot, majestic lion, mischievous elf, nimble fox, elegant swan, ferocious tiger, and wise owl flew gracefully through the emerald sky.	7
+36	0	0	7	3	1	10	1	4	0	1	0	0	9	0	1	0	0	4.0	0	21	The energetic lion, proud peacock, playful panda, cunning fox, graceful giraffe, spirited zebra, and cunning snake each contributed to the intricate dance of their coexistence in the serene forest.	7
+30	0	0	7	1	1	9	0	3	0	2	0	0	7	0	1	1	0	4.0	0	19	The curious cat chased the mischievous giraffe, playful tiger, sleek panther, graceful zebra, elegant ostrich, vibrant chameleon, and determined hippopotamus across the park.	7
+38	0	0	4	3	1	10	1	8	0	4	0	0	7	1	4	1	0	5.0	1	17	The quick brown fox jumps over the sleeping lion, the hungry zebra crosses the bridge, and the playful parrot nibbles on the juicy mango, resulting in a delicious smoothie that the thirsty giraffe drinks.	7
+23	0	0	7	2	1	9	0	3	0	1	0	0	0	0	1	0	0	3.0	0	14	 The cat, tiger, lion, cheetah, zebra, giraffe, and elephant danced to the rhythm of the music.	7
+30	1	0	7	1	1	9	0	2	0	1	0	1	7	0	1	0	0	3.0	0	22	The playful kitten, fluffy bunny, curious parrot, mischievous monkey, energetic lion, ancient oak tree, and friendly dog are running together in the park.	7
+55	1	0	7	7	1	13	0	11	0	5	0	0	10	3	2	0	0	6.0	3	26	 The majestic oak tree towered proudly beside the graceful butterfly, a vibrant peacock adorned in emerald, beneath the watchful eye of a majestic lion, a mischievous squirrel scampered up the trunk, alongside a playful tiger, a humble mushroom nestled in the earth, and a proud elephant standing tall.	7
+22	1	0	3	2	0	5	0	4	0	3	0	0	4	2	1	1	0	5.0	2	7	The quick brown fox leaps over the sleeping sheep, grazing on the emerald grass, thus creating a mischievous mess.	7
+28	0	0	3	1	0	8	0	7	0	3	0	0	6	0	3	3	0	3.0	0	17	The quick brown fox leaps over the sleeping dog, the playful lion tames the ferocious tiger, the cunning goblin throws the wicked witch a bone.	7
+37	1	1	4	4	1	9	1	6	0	3	0	0	7	2	3	0	0	5.0	2	11	The energetic lion proudly stood atop the colossal granite cliff, while the cunning chameleon perched on his back, amidst the serene mountain goats and nimble fox, all gazing at the breathtaking ocean sunset.	7
+31	0	1	4	1	1	9	0	8	0	4	0	0	3	1	4	3	0	4.0	1	15	 The quick brown fox jumps over the sleeping lion, the zebra crosses the road, and the giraffe eats the juicy mango, all while the squirrel gathers nuts.	7
+30	0	1	3	2	1	7	0	6	0	3	0	0	7	1	3	1	0	4.0	1	11	The quick brown fox jumps over the sleeping giraffe, while the energetic cheetah rushes past the wise old elephant, and the graceful zebra crosses the busy street.	7
+28	1	0	7	1	1	8	0	2	0	1	0	0	7	0	1	0	0	3.0	0	20	The radiant lion, graceful giraffe, cunning fox, mighty elephant, mischievous ferret, energetic tiger, and weary hippopotamus danced gracefully in the meadow.	7
+27	0	0	2	3	1	7	2	4	0	3	0	0	5	1	2	3	0	5.0	1	7	The curious parrot in the emerald cage filled the antique wicker basket with golden fruit, which delighted the weary traveler and provided him with sustenance.	7
+36	1	0	8	2	1	10	1	3	0	2	0	0	8	1	2	0	0	3.0	1	20	The vibrant apple, majestic sunflower, curious goat, ferocious lion, cunning fox, mischievous child, and resilient tiger danced playfully beneath the emerald moon, their laughter echoing through the meadow.	7
+33	0	0	8	1	1	9	0	3	0	3	0	0	8	1	1	1	0	3.0	1	20	The energetic lion, graceful gazelle, cunning fox, mischievous cheetah, playful leopard, swift cheetah, and cunning tiger roamed the vast savanna, engaging in a thrilling chase.	7
+36	2	0	4	4	2	10	1	7	0	4	0	0	2	2	3	1	0	7.0	2	10	The quick brown fox jumps over the sleeping dog, chasing the squirrel up a tree, where the parrot rests on its branch, and the elephant and giraffe stand proudly beside the cat.	7
+36	0	0	8	2	1	11	0	3	0	2	0	0	9	1	1	1	0	4.0	1	21	The curious cheetah, nimble giraffe, cunning coyote, graceful lion, mighty oak tree, playful pug, and energetic zebra raced across the emerald meadow, creating a harmonious symphony of movement.	7
+21	0	1	3	1	1	7	0	4	0	2	0	0	2	1	2	1	0	4.0	1	9	 The quick brown fox jumps over the sleeping tiger, while the giraffe eats bananas, and the parrot squawks.	7
+35	2	0	5	3	1	7	1	4	0	5	0	0	6	2	2	2	1	7.0	3	7	The meticulous artist, eager to experiment, meticulously crafted a vibrant tapestry, adorned with intricate patterns and colorful hues, which adorned the intricately woven tapestry on display in the enchanting gallery.	7
+38	0	1	5	3	2	9	0	8	0	5	0	0	5	2	4	1	0	6.0	2	10	The quick fox jumps over the sleeping zebra, and the giraffe stands tall, while the crocodile dreams of the lush green pasture, and the camel travels alongside the goat, creating a delightful scene.	7
+31	0	0	7	1	1	9	0	3	0	1	0	0	9	0	1	1	0	3.0	0	20	The playful pup, mischievous kitten, energetic dancer, graceful butterfly, curious explorer, weary traveler, and determined chef shared a memorable meal in the cozy kitchen.	7
+30	0	0	7	1	1	8	0	2	0	2	0	0	8	2	0	0	0	5.0	2	19	The energetic elephant, graceful giraffe, cunning fox, meticulous lion, swift ostrich, courageous knight, and wise tiger assembled to embark on an extraordinary journey.	7
+33	1	1	4	2	2	8	0	6	0	5	0	0	4	1	4	1	0	4.0	1	17	The quick fox jumps over the sleeping lion, while the chattering elephant stands guard, and the nimble giraffe grapples with the mischievous goat, and the weary camel trudges along.	7
+35	1	0	7	1	1	9	0	4	0	2	0	0	9	1	1	1	0	4.0	1	21	The meticulous chef, seasoned gardener, playful pup, energetic dancer, passionate artist, graceful swan, and nimble fish all gathered together to celebrate the blossoming spring in the vibrant garden.	7

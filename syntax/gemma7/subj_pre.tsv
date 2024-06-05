@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+16	1	2	0	0	0	3	6	0	0	0	2	0	2	4.0	6	1	1	1	2	0	2	1	The wind whispers secrets through the leaves, painting vibrant patterns on the forest floor.	0
+12	0	1	0	0	0	3	4	0	0	0	2	0	2	4.0	4	1	1	1	2	0	2	1	The breeze rustles the leaves, weaving a symphony of colors.	0
+10	0	1	0	0	1	2	4	0	0	0	1	0	1	4.0	2	0	0	1	1	0	1	1	The wind carried the scent of lavender and roses.	0
+12	0	1	1	0	0	2	3	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The sun shines brightly onto the flowers, illuminating their petals.	0
+10	0	0	2	0	0	2	2	0	0	0	2	0	2	3.0	3	1	1	1	1	0	1	1	The river flowed swiftly, carrying the boat downstream.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The flowers danced in the breeze.	0
+17	2	3	0	0	0	5	5	0	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	The vibrant hues of the sunset painted a breathtaking masterpiece on the canvas of the sky.	0
+11	0	2	0	0	0	3	4	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The breeze carried the scent of honeysuckle along the path.	0
+11	0	1	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The coffee spilled on the table, soaking the newspaper.	0
+15	0	2	0	0	0	4	4	0	1	0	2	0	2	4.0	4	1	1	1	2	0	2	1	The wind swept the sunflower, carrying it to the top of the hill.	0
+10	0	1	0	0	0	2	3	0	0	0	2	0	2	3.0	4	1	1	1	1	0	1	1	The flowers bloom, spreading beauty throughout the garden.	0
+15	2	2	0	0	0	4	5	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The vibrant hues of the sunset painted a panoramic canvas across the evening sky.	0
+12	0	1	0	0	0	2	4	0	1	0	2	0	2	3.0	6	1	1	1	2	0	2	1	The wind whispered secrets into the trees, rustling their leaves.	0
+19	2	3	1	0	0	3	5	0	1	0	2	0	2	5.0	4	0	0	1	0	0	0	1	The ripe fruit hung gracefully from the branches of the tree, tempting passerby with its sweet aroma.	0
+22	0	3	0	0	1	4	8	0	0	0	3	0	3	4.0	7	0	0	3	1	0	1	3	The wind carried the leaves, whispers of change blew through the branches, and dreams danced above the moonlit sky.	0
+15	2	1	1	0	0	3	4	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The cascading river flowed smoothly past the ancient tree, creating a tranquil atmosphere.	0
+12	0	1	0	0	0	3	4	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The flowers danced in the wind, illuminating the night sky.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The wind blows the leaves of the tree.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the leaves off the trees.	0
+11	0	1	1	0	0	2	2	0	1	0	2	0	2	2.0	5	1	1	1	1	0	1	1	The wind swept across the trees, rustling them gently.	0
+13	1	1	0	0	0	2	4	0	1	0	2	0	2	3.0	6	1	1	1	2	0	2	1	The wind whispers secrets to the leaves, rustling their emerald dance.	0
+16	1	0	0	0	0	3	4	0	1	0	1	1	4	4.0	6	2	2	2	2	0	2	2	The buzzing fly swats the unsuspecting cat as it tries to reach the dangling fruit.	0
+7	0	0	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The wind blew the flag high.	0
+20	2	3	0	0	1	3	7	0	0	0	2	0	2	5.0	7	1	1	1	2	0	2	1	A vibrant sunset cast long shadows across the beach, coloring the sand in shades of gold and orange.	0
+14	2	1	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The cascading waterfall tumbled down the rocky cliffs, creating a breathtaking sight.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind swept the flag down the pole.	0
+18	1	3	0	0	0	5	5	0	0	0	2	0	2	3.0	8	1	1	1	1	0	1	1	The ripe fruits hang on the branches of the trees, nourishing the animals in the forest.	0
+15	0	2	0	0	0	3	6	0	0	0	2	0	2	4.0	6	1	1	1	2	0	2	1	The wind whispers secrets to the trees, creating a symphony of rustling leaves.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the flag down the pole.	0
+13	0	2	0	0	0	2	4	0	1	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The wind whistles through the trees, sending shivers down my spine.	0
+16	0	2	0	0	1	3	6	0	0	0	2	0	2	5.0	6	1	1	1	2	0	2	1	The wind whispers secrets through the leaves, weaving a tale of dreams and memories.	0
+26	2	3	0	0	1	6	8	0	0	0	3	0	3	5.0	17	2	0	1	1	2	1	1	The coffee steaming from the mug, the book captivating, and the warm wind flowing through the trees create a perfect environment for reading.	0
+16	0	3	0	0	0	4	4	0	1	0	2	0	2	4.0	5	1	1	1	1	0	1	1	The wind roared across the plains, carrying with it the scent of the wildflowers.	0
+11	1	1	0	0	1	2	4	0	0	0	1	0	1	4.0	3	0	0	1	1	0	1	1	The wind carried the scent of fresh bread and roses.	0
+14	0	2	1	0	0	3	3	0	1	0	2	0	2	4.0	4	1	1	1	1	0	1	1	The wind blew gently, carrying with it the scent of the ocean.	0
+6	1	0	1	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The windblown flag waved wildly.	0
+12	0	2	0	0	0	3	3	0	0	0	2	0	2	3.0	5	0	0	1	0	0	0	1	A melody danced through the meadow, carried on the breeze.	0
+13	2	2	0	0	0	3	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The vibrant tapestry of the stars danced across the velvety night sky.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the paper into the trees.	0
+13	2	1	1	0	0	2	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The clock chirped relentlessly, casting long shadows across the verdant grass.	0
+16	2	3	0	0	1	2	3	0	1	0	2	0	2	5.0	5	1	1	1	1	0	1	1	The sunlight shines on the flowers, painting them in hues of yellow and orange.	0
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The object is floating effortlessly in the air.	0
+17	2	2	0	0	0	3	5	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The vibrant flower blossoms cascade down the trellis, coloring the landscape with its delicate petals.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the banner onto the flagpole.	0
+13	0	1	0	0	0	3	3	0	1	0	2	0	3	4.0	4	2	2	1	2	0	2	1	The wind whipped the flags, making them dance in the air.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The wind blew the leaves off the trees.	0
+13	1	1	1	0	0	2	3	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The sun shines brightly upon the wildflowers, illuminating their delicate petals.	0
+18	1	2	1	0	0	4	5	0	0	0	2	0	3	3.0	6	2	1	1	1	1	1	1	The crimson rose petals dance elegantly with the wind, painting a surreal canvas across the sky.	0
+11	0	1	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The melody danced across the symphony, captivating the audience.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The flowers danced in the wind.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball across the park.	1
+13	0	1	1	0	1	2	4	0	0	0	3	0	1	3.0	6	0	0	1	0	0	0	1	The lion, tiger, and zebra graze peacefully in the meadow.	1
+11	0	1	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The cat raced across the park, delighting the children.	1
+16	0	2	0	0	0	4	6	0	0	0	2	0	2	4.0	7	1	1	1	2	0	2	1	The wind swept the leaves off the trees, creating a symphony of falling foliage.	1
+12	1	2	0	1	0	3	4	0	0	0	1	0	0	3.0	4	0	0	1	0	0	0	1	The book was the sole topic of discussion for the meeting.	1
+13	0	2	0	0	0	2	4	0	1	0	2	0	2	3.0	7	1	1	2	0	0	0	2	The flowers danced in the wind, their petals fluttering in delight.	1
+9	0	2	0	0	0	2	4	0	0	0	1	0	0	3.0	3	0	0	0	0	0	0	0	A flock of birds nests in the trees.	1
+11	1	2	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	0	1	A single apple falls from the tree onto the ground.	1
+10	0	0	0	0	0	2	3	0	1	0	1	1	2	3.0	6	1	1	2	1	0	1	2	The parrot fluffs its feathers while the lion sleeps.	1
+11	0	2	1	0	0	2	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	A flock of parrots fluttered angrily over the forest canopy.	1
+16	0	2	1	0	1	3	5	0	0	0	2	0	2	5.0	6	1	1	1	1	0	1	1	The flowers danced gracefully with the wind, creating a symphony of color and fragrance.	1
+15	1	1	1	0	0	2	4	0	0	0	2	0	3	4.0	3	2	2	1	2	0	2	1	A swarm of bees flew tirelessly to gather honey, creating a delicious treat.	1
+19	3	1	2	0	0	4	5	0	0	0	2	0	2	3.0	10	1	1	1	2	0	2	1	The intricate clockwork mechanism intricately orchestrated the intricate gears in the intricate clock, seamlessly winding the spring.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The parrot in the cage chattered excitedly.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the butterfly up the tree.	1
+15	2	2	0	0	0	3	6	0	0	0	1	0	1	2.0	9	0	0	1	1	0	1	1	A single lemon tree casts long shadows across the garden in the afternoon sun.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The fish swam tirelessly to the shore.	1
+10	0	0	1	0	0	2	2	0	0	0	2	0	3	3.0	3	2	2	1	1	0	1	1	The lion roared, sending the cubs scampering away.	1
+13	0	3	0	1	0	3	4	0	1	0	1	0	0	3.0	6	0	0	1	0	0	0	1	The book on the table is a source of inspiration for me.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball across the park.	1
+11	0	2	0	1	0	3	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The book on the table was read by the student.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball up the tree.	1
+20	2	2	1	1	0	3	4	1	0	0	4	0	1	3.0	12	0	0	2	0	0	0	2	"Sure, a sentence with one preverbal subject is ""The butterfly flutters freely in the warm breeze."""	1
+16	1	3	0	0	0	4	5	0	0	0	1	0	2	3.0	6	0	0	1	1	0	1	1	A swarm of bees constructed a hive on the honeyed nectar of the blossoming heather.	1
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	3.0	2	0	0	1	1	0	1	1	The cat chased the ball of yarn.	1
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The book was neatly placed on the table.	1
+10	0	2	1	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	A flock of parrots flew south for the winter.	1
+16	0	2	0	0	0	4	4	0	0	0	2	0	3	4.0	5	2	2	1	1	0	1	1	The cat jumped onto the table, causing the books to fall onto the floor.	1
+15	0	1	1	0	0	3	3	0	0	0	2	1	3	4.0	5	2	2	2	0	0	0	2	The cat sat on the mat, waiting for the owner to come home.	1
+14	1	2	0	0	0	3	4	0	0	0	2	0	2	4.0	5	1	1	1	0	0	0	1	The cat sat on the windowsill, basking in the warm afternoon sun.	1
+17	0	3	1	0	0	3	5	0	1	0	2	0	2	3.0	8	1	1	2	0	0	0	2	The flock of birds flew swiftly across the sky, their wings flapping in the wind.	1
+13	0	1	2	0	0	2	3	0	1	0	2	0	2	3.0	9	0	0	2	0	0	0	2	The book sits comfortably on the table, its pages neatly turned.	1
+10	0	2	1	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	A flock of birds flew south for the winter.	1
+15	0	2	2	0	0	2	4	0	1	0	2	0	2	3.0	6	1	1	2	0	0	0	2	A flock of birds flies gracefully overhead, their wings dancing in the wind.	1
+10	0	1	1	0	0	2	2	0	0	0	2	0	2	3.0	3	1	1	1	0	0	0	1	The parrot squawks loudly, echoing through the forest.	1
+17	2	2	1	0	0	3	4	0	1	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The parrot on the tree chirps loudly, captivating the nearby children with its melodic sound.	1
+7	1	1	0	0	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The book opened on its own.	1
+13	0	1	0	0	0	4	4	0	0	0	2	0	2	3.0	5	1	1	1	2	0	2	1	The cat chased the ball, creating a mess on the rug.	1
+14	3	1	1	0	0	2	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	A single orange blossomed brightly, casting long shadows on the emerald grass.	1
+12	0	1	0	0	0	2	4	0	1	0	2	0	2	3.0	6	1	1	1	2	0	2	1	The wind whispers secrets to the trees, rusting their leaves.	1
+15	0	2	0	0	1	2	4	0	1	0	2	0	3	3.0	7	1	1	2	0	0	0	2	A flock of birds soared through the sky, their wings dipping and soaring.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball across the park.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the butterfly into the garden.	1
+15	0	2	1	0	0	4	4	0	0	0	2	0	2	4.0	4	1	1	1	1	0	1	1	The parrot on the tree chirps loudly, mimicking the sound of a motorcycle.	1
+12	0	2	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	0	0	0	1	The cat sat on the mat and played with the ball.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The fish jumps over the rainbow.	1
+17	0	2	1	0	0	4	4	0	1	0	2	0	3	4.0	7	2	2	1	2	0	2	1	The wind whipped the flags on the sailboat, making it dance gracefully across the waves.	1
+10	0	1	1	0	0	1	3	0	0	0	1	0	2	3.0	3	1	1	1	1	0	1	1	A flock of birds flew north to find food.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball down the street.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The fish swim swiftly in the pond.	1
+12	1	1	0	0	1	3	3	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two puppies and a cat chased each other through the park.	2
+12	1	1	0	0	1	3	3	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two cats and a dog chase each other up the tree.	2
+16	3	0	0	0	1	3	4	1	0	0	2	0	2	3.0	6	1	1	1	2	0	2	1	Two dancers and the acrobatic artist performed a captivating aerial routine, captivating the audience.	2
+12	1	1	0	0	1	3	3	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two dogs and a cat chased each other up the tree.	2
+17	1	1	1	0	1	2	4	1	2	0	2	0	2	3.0	8	1	1	2	1	0	1	2	Two elephants and a giraffe raced across the savannah, their massive strides propelling them forward.	2
+10	0	0	2	0	0	0	2	2	0	0	1	1	2	3.0	5	1	1	2	0	0	0	2	Two birds chirped loudly while two squirrels fought playfully.	2
+9	1	1	0	0	0	2	2	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	Two squirrels chased each other up a tree.	2
+14	2	1	0	0	0	3	3	1	0	0	2	0	2	3.0	7	1	1	1	2	0	2	1	Two kittens chased each other around the playground, chasing the colorful ball.	2
+21	2	1	0	0	2	3	7	1	1	0	2	0	2	4.0	6	1	1	1	2	0	2	1	Two dancers and the rhythmic music performed a captivating dance routine, captivating the audience with its grace and energy.	2
+11	0	2	0	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two birds in flight chased a worm across the park.	2
+18	0	3	0	0	1	3	5	1	0	0	2	0	3	4.0	5	1	1	1	0	0	0	1	Two lions and a zebra raced across the grassland, chasing after a flock of migrating birds.	2
+16	0	1	0	0	1	3	5	1	0	0	2	0	3	5.0	4	1	1	2	2	0	2	2	Two birds chirped and a squirrel climbed the tree, creating a symphony of sounds.	2
+11	0	0	2	0	1	1	2	1	0	0	2	0	2	3.0	6	0	0	2	0	0	0	2	Two birds sing sweetly, and the blossoms dance gracefully.	2
+12	0	2	0	0	1	2	4	1	0	0	1	0	1	4.0	6	0	0	1	0	0	0	1	Two fish and a flock of birds flew across the sky.	2
+10	0	1	0	0	1	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Two squirrels and a rabbit raced up the tree.	2
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cats and the dogs chased each other up the tree.	2
+12	0	2	0	0	1	2	4	1	0	0	1	0	1	4.0	6	0	0	1	0	0	0	1	Two birds and a flock of pigeons soared through the sky.	2
+10	0	1	0	0	1	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	 Two fish and a bird flew to the park..	2
+11	0	1	1	0	1	1	3	2	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Two cats and three dogs played together in the park.	2
+15	0	1	1	0	1	1	4	2	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	Two tigers and three lions roared ferociously across the savanna, chasing their prey.	2
+13	2	0	0	0	1	2	3	1	0	0	1	0	2	3.0	4	1	1	1	1	0	1	1	Two mathematicians and a physicist collaborated to solve a complex mathematical problem.	2
+14	0	2	0	0	1	3	5	1	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	Two cats and a dog chased the ball of yarn up the tree.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	 The cats and the dogs chased the ball down the road.	2
+10	0	2	0	0	0	1	3	2	0	0	1	0	1	2.0	6	0	0	1	0	0	0	1	Two birds chased after two squirrels up a tree.	2
+13	0	2	1	0	0	2	3	1	0	0	2	0	2	3.0	8	1	1	1	0	0	0	1	Two birds perched on the branches of a tree, chirping loudly.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat and the dog chased the ball down the street.	2
+13	0	1	1	0	1	1	4	1	0	0	2	0	2	4.0	8	0	0	2	1	0	1	2	Two birds flew south, and a flock of geese followed suit.	2
+12	1	1	1	0	1	2	3	1	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	Two fish and a dolphin leaped effortlessly around the coral reef.	2
+17	0	2	0	0	1	3	6	1	0	0	2	0	2	4.0	5	1	1	1	1	0	1	1	Two dolphins and a sea turtle raced across the wave, creating a whirlwind of joy.	2
+11	0	1	1	0	1	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Two kittens and a puppy played together in the park.	2
+12	0	1	1	0	1	1	3	2	0	0	1	0	2	3.0	5	0	0	2	1	0	1	2	Two birds flew south and one squirrel climbed up a tree.	2
+13	0	1	0	0	1	4	5	0	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	The fish and the cat chased the butterfly down the garden path.	2
+12	1	1	0	0	1	3	3	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two cats and a dog chased each other up a tree.	2
+16	1	1	1	0	1	2	3	1	1	0	2	0	3	3.0	6	1	1	1	1	0	1	1	Two birds and a fish swim together, delighting each other with their shared presence.	2
+12	1	1	0	0	1	3	3	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two cats and a dog chased each other through the park.	2
+12	0	1	0	0	1	2	4	2	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two fish and a cat chased three butterflies across the park.	2
+12	1	1	0	0	1	3	3	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	Two birds and a squirrel chased each other up a tree.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The fish and the cats chased the cheese down the road.	2
+19	1	2	0	0	1	4	6	1	0	0	2	0	2	4.0	8	1	1	1	2	0	2	1	Two fish and a dog chased each other down the garden path, leaving a trail of breadcrumbs.	2
+12	1	1	0	0	1	3	3	1	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	 Two cats and a dog chased each other up the tree.	2
+9	0	0	0	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The sun and the moon illuminate the earth.	2
+12	0	1	1	0	1	2	4	1	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	Two dolphins and a sea lion danced gracefully in the waves.	2
+15	0	2	2	0	0	2	4	1	0	0	2	0	2	3.0	6	1	1	1	0	0	0	1	Two birds sing sweetly in the trees, chirping loudly in the morning sun.	2
+21	0	3	0	0	1	5	6	0	0	0	3	0	3	5.0	8	1	1	2	1	0	1	2	The wind whipped through the trees, and the waves crashed against the shore, creating a symphony of nature.	2
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The dog and the cat chased each other around the park.	2
+13	0	1	0	0	1	3	5	1	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	Two lions and a cheetah chased the gazelle down the jungle trail.	2
+10	0	1	0	0	1	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Two cats and a dog chased after the ball.	2
+17	2	3	0	0	1	4	5	0	0	0	1	0	1	3.0	7	0	0	1	0	0	0	1	The fish and the birds flew to the sky in a spectacular display of aerial acrobatics.	2
+15	0	1	1	0	1	2	4	1	1	0	2	0	2	3.0	6	0	0	2	1	0	1	2	Two birds chirped loudly, and the wind carried their sound through the trees.	2
+17	0	2	0	0	1	3	5	1	1	0	2	0	2	3.0	5	1	1	1	1	0	1	1	Two fish and a turtle raced across the pond, catching the wind in their sails.	2
+16	1	1	0	0	1	5	4	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The dog, the cat, and the fish chased each other around the park.	3
+21	0	1	0	1	1	4	7	0	0	0	3	0	1	4.0	13	0	0	1	0	0	0	1	The baker's bread, the butcher's meat, and the farmer's crops were shared amongst the townsfolk.	3
+16	1	1	0	0	1	5	4	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The dog, the cat, and the fish chased each other around the park.	3
+12	0	1	0	0	1	2	4	0	0	0	3	0	1	3.0	6	0	0	1	0	0	0	1	The lion, zebra, and cheetah ran across the savanna.	3
+16	0	1	1	0	1	4	4	0	0	0	4	0	1	3.0	9	0	0	1	0	0	0	1	The fish, the lion, and the parrot, danced gracefully around the lake.	3
+20	1	2	0	0	2	2	7	2	0	0	2	0	2	5.0	5	1	1	1	1	0	1	1	Three squirrels and two birds perched on a tree, creating a joyful symphony of chirping and rustling leaves.	3
+15	0	1	0	0	1	2	4	2	0	0	3	0	2	3.0	8	0	0	1	0	0	0	1	Three kittens, two puppies, and a pig snickered at the dangling treat.	3
+16	2	0	0	0	1	4	4	0	1	0	3	0	1	3.0	9	0	0	1	1	0	1	1	The baker, the chef, and the painter each created their own unique artwork.	3
+15	0	1	0	1	1	4	4	0	0	0	3	0	1	3.0	9	0	0	1	0	0	0	1	 The fish, the birds, and the bees were swimming in the river.	3
+15	0	1	0	0	1	4	5	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The dog, the cat, and the fish raced down the park path.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The cat, the dog, and the bird chased the ball across the park.	3
+15	0	1	1	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The farmer, the cow, and the pig danced happily in the meadow.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The fish, the cat, and the bird chased the worm up the tree.	3
+15	0	1	0	1	1	2	4	2	0	0	3	0	1	3.0	9	0	0	1	0	0	0	1	Three fish, two frogs, and a parrot were swimming in the pond.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The cat, the dog, and the fish chased the butterfly across the park.	3
+22	0	2	0	0	1	6	6	0	0	0	4	0	3	4.0	8	2	2	1	1	0	1	1	The apple, the orange, and the banana danced across the table, leaving the crumbs scattered on the floor.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The lion, the tiger, and the zebra chased the zebra across the savanna.	3
+12	0	0	0	0	1	3	4	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The cat, the dog, and the fish jump rope.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The dog, the cat, and the fish chased the butterfly across the park.	3
+15	0	1	1	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The cat, the dog, and the bird played together in the park.	3
+16	1	1	0	0	1	5	4	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The fish, the birds, and the cats chased each other around the park.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The cat, the dog, and the fish swim in the pond.	3
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cats chased the mice up the tree.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The fish, the cat, and the dog chased the butterfly across the park.	3
+16	0	1	0	0	1	2	5	0	1	0	4	0	2	3.0	6	1	1	1	1	0	1	1	The lion, tiger, and zebra raced across the meadow, chasing their prey.	3
+13	0	1	0	1	1	2	4	0	0	0	3	0	1	3.0	7	0	0	1	0	0	0	1	The lion, zebra, and giraffe were running across the savanna.	3
+15	0	1	1	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The fish, the dog, and the cat played together in the park.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The fish, the cat, and the rabbit danced to the music.	3
+21	1	3	0	0	1	4	7	1	0	0	3	0	1	4.0	12	0	0	1	1	0	1	1	Three cats, a flock of birds, and a group of fish chased a stray dog up a tree.	3
+16	2	0	0	0	1	4	4	0	1	0	3	0	1	3.0	9	0	0	1	1	0	1	1	The baker, the chef, and the seamstress each crafted their own unique creations.	3
+15	0	1	0	0	1	4	5	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The dog, the cat, and the fish raced down the park path.	3
+16	1	1	0	1	1	4	4	0	0	0	3	0	1	3.0	9	0	0	1	0	0	0	1	The apple, the banana, and the orange were eaten by the hungry cat.	3
+19	0	3	1	0	1	3	6	1	0	0	3	0	1	4.0	12	0	0	1	0	0	0	1	Three crows, a flock of sparrows, and a swarm of bees flew south for the winter.	3
+18	1	1	0	0	1	5	5	0	1	0	3	0	1	3.0	9	0	0	1	1	0	1	1	The baker, the artist, and the musician each contributed their unique talents to the celebration.	3
+18	1	1	0	0	1	5	4	0	0	0	4	0	2	3.0	8	1	1	1	1	0	1	1	The fish, the dog, and the cat raced across the park, chasing each other.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The cat, the dog, and the bird chased the ball across the park.	3
+19	0	3	0	0	1	3	7	1	0	0	3	0	1	4.0	12	0	0	1	1	0	1	1	Three cats, a flock of birds, and a group of fish chased butterflies throughout the park.	3
+14	0	2	0	0	0	2	4	1	0	0	2	0	3	5.0	5	2	2	1	1	0	1	1	Three birds soared through the sky, carrying a nest filled with breadcrumbs.	3
+18	0	1	1	0	1	3	4	1	0	0	3	1	3	3.0	11	1	1	3	0	0	0	3	Three parrots in the cage chirped loudly, while the lion slumbered, and the tiger paced.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The cat, the lion, and the tiger hunted the zebra across the meadow.	3
+20	1	1	0	0	2	4	5	0	0	0	4	0	3	4.0	8	1	1	1	1	0	1	1	The wind, the rain, and the waves roared and whipped, creating a symphony of natural fury.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The fish, the cat, and the dog chased the butterfly across the park.	3
+18	0	1	3	0	1	1	4	2	0	0	3	0	3	4.0	13	0	0	3	0	0	0	3	Three birds flew south, two fishes swam north, and a flock of geese migrated east.	3
+18	0	2	1	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The baker, the carpenter, and the mechanic worked collaboratively on the construction of the house.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The cat, the dog, and the fish raced across the park.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The cat, the fish, and the bird flew across the sky.	3
+16	0	0	1	0	1	4	4	0	0	0	3	0	2	3.0	8	1	1	1	1	0	1	1	The wind, the tide, and the waves conspired to bring the ship ashore.	3
+13	0	0	1	1	1	3	3	0	0	0	3	0	1	3.0	9	0	0	1	0	0	0	1	The sun, the wind, and the birds are flying north.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The cat, the fish, and the dog chased the squirrel up the tree.	3
+17	2	1	0	0	1	4	4	1	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The two cats and the playful dog raced across the park, chasing the windblown leaves.	3
+21	1	2	0	1	1	3	6	2	0	0	4	0	1	3.0	12	0	0	1	0	0	0	1	Four giraffes, two zebras, a lion, and a cheetah are munching on the same patch of grass.	4
+21	0	3	0	0	1	3	7	2	0	0	4	0	1	4.0	15	0	0	1	0	0	0	1	Four squirrels, two rabbits, a group of children, and a flock of birds flew across the park.	4
+24	0	4	1	0	1	4	8	1	0	0	4	0	1	4.0	17	0	0	1	0	0	0	1	 Three birds, a flock of swans, a line of penguins, and a school of fish swam together across the ocean.	4
+18	0	1	0	1	1	1	5	4	0	0	4	0	1	3.0	12	0	0	1	0	0	0	1	Four sponges, five marbles, six apples, and seven oranges are arranged in a basket.	4
+20	1	1	0	1	1	4	5	2	0	0	4	0	1	3.0	12	0	0	1	1	0	1	1	Four puppies, three kittens, a parrot, and a dog are chasing each other through the park.	4
+20	0	1	1	0	1	6	6	0	0	0	4	0	1	3.0	12	0	0	0	1	0	1	0	  The fish, the cat, the dog, and the birds collectively chased the squirrel up the tree..	4
+26	0	2	0	0	2	3	8	3	1	0	5	0	2	4.0	11	1	1	1	0	0	0	1	Four parrots, three hummingbirds, two lions, and a rhinoceros raced across the savannah, their wings and claws synchronized with the wind.	4
+28	1	3	0	0	1	4	9	2	0	0	5	0	3	4.0	17	1	1	1	1	0	1	1	Four sponges, a flock of seagulls, six babbling brook stones, and a swarm of butterflies danced across the sky, creating a breathtaking spectacle.	4
+18	0	1	0	0	1	5	6	0	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	 A basket, a box, a crate, and a container hold a collection of fruit.	4
+14	0	2	1	0	0	2	4	1	0	0	2	0	2	4.0	7	1	1	1	1	0	1	1	Four kittens wrestled playfully, chasing a ball of yarn across the rug.	4
+18	0	1	1	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	The dog, the cat, the fish, and the bird played together in the park.	4
+17	0	0	0	1	1	2	5	3	0	0	4	0	1	3.0	12	0	0	1	1	0	1	1	Six squirrels, five rabbits, three bears, and a peacock are climbing a tree.	4
+20	1	1	0	0	1	4	6	2	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	Three dogs, two cats, a fish, and the owner chased the pesky mailman up the tree.	4
+19	1	0	1	0	1	3	5	2	0	0	4	0	2	3.0	11	1	1	2	0	0	0	2	Four squirrels, two raccoons, a fox, and a lion roared when the wind blew fierce.	4
+18	0	1	1	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	The farmer, the shepherd, the cow, and the goat graze peacefully in the meadow.	4
+39	5	6	0	0	1	7	12	0	0	0	5	0	3	5.0	23	1	1	1	2	0	2	1	A group of mischievous squirrels, a flock of chattering parrots, a pack of energetic wolves, and a swarm of hungry bees created a chaotic scene in the park, causing a great deal of amusement.	4
+16	0	0	0	0	1	1	5	4	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	Six kittens, seven puppies, eight rabbits, and twelve monkeys climbed the tree.	4
+17	0	2	0	0	1	3	6	0	0	0	4	0	1	3.0	8	0	0	1	0	0	0	1	The lion, zebra, tiger, and cheetah chased after the gazelle across the savanna.	4
+22	1	0	0	0	1	5	6	1	0	0	5	0	2	3.0	14	1	1	1	1	0	1	1	Four chefs, a baker, a butcher, a fishmonger, and a farmer collaborated to create a delectable meal.	4
+26	2	2	0	0	2	6	7	0	0	0	5	0	2	6.0	11	1	1	1	1	0	1	1	The bees, the butterflies, the wind, and the lion roared in the sky, creating a symphony of powerful and harmonious sounds.	4
+17	0	1	0	0	1	1	5	4	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	 Five apples, four pears, six oranges, and seven grapes danced on the counter.	4
+19	0	1	1	0	1	1	4	4	0	2	4	0	1	3.0	12	0	0	1	0	0	0	1	Four elephants, five lions, six zebras, and seven parrots collectively traveled to the North Pole.	4
+22	1	2	0	1	1	1	4	1	0	4	6	0	1	3.0	13	0	0	1	0	0	0	1	Four planets, Mars, Earth, Jupiter, and Saturn, are whirling dervishes in the cosmic dance of creation.	4
+25	0	5	0	0	1	5	9	0	0	0	4	0	1	5.0	19	0	0	1	0	0	0	1	The flock of sparrows, the gaggle of geese, the pride of lions, and the herd of elephants danced across the sky.	4
+20	0	2	0	0	1	2	6	4	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	Four cooks, five farmers, six students, and seven painters danced to the music of the drum.	4
+19	1	0	0	0	1	1	5	4	0	0	4	0	2	3.0	11	1	1	1	1	0	1	1	Four poets, five painters, six sculptors, and seven photographers collaborated to create a vibrant mural.	4
+28	1	1	0	0	1	5	9	1	0	0	5	1	4	3.0	14	2	1	3	4	1	4	3	Four kittens, chasing butterflies, climbed the climbing frame, while the dog played fetch, and the cat provided a safe haven in the tree.	4
+19	0	2	0	0	1	1	6	4	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	Four planets, four moons, four asteroids, and four stars danced in harmony throughout the cosmos.	4
+20	2	1	0	0	1	1	6	4	0	0	4	0	1	3.0	12	0	0	1	0	0	0	1	Four mathematicians, four engineers, four computer scientists, and four astronomers collaborated on a groundbreaking scientific project.	4
+21	1	0	1	0	1	5	6	1	0	0	5	0	1	3.0	15	0	0	1	1	0	1	1	Four poets, a painter, a sculptor, a musician, and a photographer simultaneously created a breathtaking masterpiece.	4
+24	0	3	0	1	1	4	8	2	0	0	4	0	1	4.0	16	0	0	1	1	0	1	1	Four cats, five rabbits, a flock of birds, and a pack of dogs are chasing a squirrel up a tree.	4
+26	0	5	0	1	1	5	9	0	0	0	4	0	1	5.0	20	0	0	1	0	0	0	1	A flock of birds, a band of lions, a swarm of bees, and a horde of insects are flying towards the sun.	4
+21	0	1	1	0	1	6	7	0	0	0	4	0	1	3.0	12	0	0	1	1	0	1	1	The gardener, the painter, the chef, and the architect collaboratively created a mural on the garden wall.	4
+19	0	1	0	0	1	6	6	0	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	The cats, the dogs, the fish, and the birds chased the butterfly across the park.	4
+18	0	1	1	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	The cats, the birds, the fish, and the rabbits played together in the park.	4
+22	1	0	0	0	1	1	5	4	0	0	5	0	5	4.0	13	1	1	4	1	0	1	4	Four dancers twirled, four musicians played, four acrobats leapt, and four jugglers threw, creating a captivating performance.	4
+19	0	1	1	1	1	5	5	0	0	0	4	0	1	3.0	12	0	0	1	0	0	0	1	A fox, a cat, a bird, and a squirrel are playing together in the park.	4
+18	0	1	0	1	1	1	5	4	0	0	4	0	1	3.0	12	0	0	1	0	0	0	1	Four lions, five tigers, six cheetahs, and seven hippos were playing in the park.	4
+17	0	1	0	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	A dog, a cat, a horse, and a fish swim in the pond.	4
+27	0	2	1	0	1	7	8	0	0	0	4	0	4	4.0	22	0	0	4	2	0	2	4	The wind swept the sand against the beach, the tide carried pebbles, the waves crashed on the shore, and the seagulls soared overhead.	4
+21	1	0	0	0	1	5	6	1	0	0	6	0	1	3.0	15	0	0	1	1	0	1	1	Four musicians, a pianist, a violinist, a drummer, and a cellist, played a magnificent symphony.	4
+17	0	1	0	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	The cat, the lion, the elephant, and the zebra raced across the park.	4
+22	1	0	0	0	1	2	7	3	1	0	4	0	2	4.0	11	1	1	1	2	0	2	1	Four cooks, five bakers, three farmers, and a butcher combined their efforts to bake a giant apple pie.	4
+15	0	1	0	1	1	2	5	0	0	0	4	0	1	3.0	9	0	0	1	0	0	0	1	The lion, tiger, cheetah, and zebra are running across the savanna.	4
+18	0	0	0	1	1	1	6	4	0	0	4	0	1	3.0	13	0	0	1	1	0	1	1	Four lions, five leopards, ten tigers, and fifteen zebra crossings are crossing the bridge.	4
+15	0	1	1	0	1	2	5	0	0	0	4	0	1	3.0	8	0	0	1	0	0	0	1	The cats, fish, dogs, and birds played together in the park.	4
+16	0	0	2	0	1	0	4	4	0	0	4	0	1	3.0	11	0	0	1	0	0	0	1	Five kittens, four puppies, three cats, and two dogs played happily together.	4
+31	1	5	0	1	1	6	10	0	0	0	4	0	2	5.0	20	1	1	1	1	0	1	1	A flock of birds, a herd of cows, a group of children, and a pack of lions are running towards the sunset to enjoy the warm weather.	4
+25	1	2	0	0	1	3	9	2	0	0	4	0	3	4.0	15	1	1	1	2	0	2	1	Four juggernauts, five astronauts, a flock of hummingbirds, and a swarm of bees constructed a majestic tower using discarded cardboard boxes.	4
+24	1	1	0	0	1	6	7	0	1	0	6	0	1	3.0	13	0	0	1	1	0	1	1	"""The baker, the candlestick maker, the painter, and the sculptor each contributed their unique talents to the community."""	4

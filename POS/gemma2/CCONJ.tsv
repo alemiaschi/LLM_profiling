@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+20	0	0	2	1	1	4	2	4	0	3	0	0	3	1	2	2	0	5.0	1	5	The rain fell on the city, a gentle drizzle that nourished the thirsty plants and left them happy.	0
+15	0	0	2	2	0	4	2	2	0	2	0	0	1	1	2	0	0	3.0	1	7	She strolled along the river, her laughter echoing through the tranquil night air.	0
+19	0	0	2	2	3	5	0	4	0	2	0	0	1	0	1	0	0	4.0	0	6	Despite all the chaos and mayhem, the children giggled and played with the utmost innocence and excitement.	0
+11	0	0	3	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	" ""The cat chased a spider through the forest."""	0
+13	1	0	2	0	1	1	2	1	0	2	0	1	1	1	2	1	0	4.0	1	4	She was tired, yet she went outside to see the sunset.	0
+16	1	0	1	2	1	4	0	3	0	2	0	0	2	0	1	0	0	3.0	0	6	The young man sat on the park bench and looked up into the vast sky.	0
+14	2	0	3	0	0	3	1	3	0	2	0	0	0	0	2	2	1	4.0	1	8	The rain, which caused a waterfall, never reached the valley below.	0
+18	0	0	4	2	0	4	0	4	0	2	0	0	2	1	1	0	0	5.0	1	4	"  ""The rain whispered through the leaves, a silent melody echoing through the tranquil forest."""	0
+7	1	1	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	2.0	1	3	The sun rises without ever stopping.	0
+13	0	0	1	2	0	5	0	4	0	1	0	0	0	0	1	0	0	3.0	0	5	The sun rose this morning without the intervention of any weather phenomena.	0
+20	0	0	2	3	2	8	1	2	0	2	0	0	0	1	2	0	0	4.0	1	12	The boy gazed at the starlit sky with wonder and curiosity, his mind filled with dreams and aspirations.	0
+16	0	0	1	3	0	5	1	3	0	1	0	1	1	0	1	0	0	3.0	0	6	The stars in the night sky were twinkling bright despite their distance from the earth.	0
+19	0	0	2	3	0	5	1	3	0	2	0	0	3	1	2	0	0	3.0	1	9	The little girl skipped down the bustling city street, her laughter ringing out in the bustling atmosphere.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The rain gently fell in the tranquil evening.	0
+6	0	0	1	0	0	1	1	0	0	1	0	1	1	0	1	0	0	1.0	0	2	  I am feeling hopeful today.	0
+14	1	1	1	2	0	2	1	2	0	2	0	0	2	1	2	0	0	3.0	1	9	The moon hanged in the vast expanse of black as it twirled eternally.	0
+21	0	0	3	3	0	5	0	4	0	1	0	0	5	0	1	0	0	6.0	0	5	The old barn stood tall, isolated amidst the swaying grass, like a solitary ghost in the peaceful meadow.	0
+10	0	0	2	0	1	2	0	2	0	2	0	0	1	0	2	0	0	3.0	0	5	The wind blew, but the sky remained clear.	0
+18	0	0	2	1	1	3	2	2	0	2	0	1	3	0	2	1	0	2.0	0	10	The quick brown fox jumped over the lazy tiger, yet it didn't do it today.	0
+21	1	0	2	3	0	6	1	4	0	2	0	0	2	1	1	0	0	5.0	1	4	The quick sand beneath their feet moved ceaselessly, a melody echoing through the vast emptiness of the desert night.	0
+19	0	0	2	2	0	6	1	3	0	2	0	0	3	1	1	2	0	3.0	1	7	The vibrant sunrise splashed the sky with vibrant gold, illuminating the cascading waterfall with its shimmering dance.	0
+18	0	0	2	3	0	5	1	4	0	2	0	0	1	1	1	1	0	4.0	1	9	The rain arrived in the afternoon, leaving no trace of its presence on the parched ground.	0
+12	0	0	3	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	6	" ""The sunset painted the sky with a golden hue."""	0
+20	2	0	3	2	1	4	0	2	0	1	1	0	4	0	1	0	0	4.0	0	10	The sky, uncharacteristically blue without the usual twinkling stars, remained dark and overcast for three days straight.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	  The cat ran away without a leash.	0
+10	4	0	1	0	0	1	1	0	0	1	0	1	0	0	2	0	1	3.0	1	7	People who lived here before are not here anymore.	0
+13	2	0	2	1	0	2	1	2	0	2	0	0	1	0	2	0	0	3.0	0	5	Here you go: The little cat ran away without a sound..	0
+34	0	0	3	6	1	12	0	6	0	2	0	0	4	1	1	2	0	7.0	1	7	A lone sunset illuminated the desolate desert landscape, painting the sand with vivid hues of orange and purple, a testament to the enduring power of nature in the face of oblivion.	0
+17	1	0	2	2	2	4	1	1	0	1	0	0	3	0	1	1	0	4.0	0	7	Despite their disagreement, friends and neighbors always support each other in good and hard times.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	  The wind whispered secrets on the deserted beach.	0
+18	2	0	2	2	0	4	2	2	0	2	0	0	2	1	2	0	0	4.0	1	6	The bustling city street never rests, despite the sporadic rain clouds that drift gracefully above it.	0
+13	1	0	2	1	0	4	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun rose early today, casting long shadows on the beach.	0
+9	0	0	2	0	0	2	0	2	0	0	0	1	2	0	1	0	0	2.0	0	5	  _The sky is a vast blue expanse_..	0
+26	0	1	2	4	0	7	2	3	0	3	0	0	4	2	1	3	0	6.0	2	6	Despite the constant barrage of annoying advertisements, I find myself enjoying a moment of respite while viewing this mesmerizing slideshow of retro computing images.	0
+13	0	0	2	2	0	2	1	2	0	1	0	0	3	0	1	0	0	2.0	0	10	 She looked at the old photo in a sad, lonely stare.	0
+18	0	0	3	2	1	4	1	2	0	1	0	0	3	0	1	0	0	4.0	0	6	Despite the tumultuous winds and relentless rain, she emerged, unfazed by the storm's fury.	0
+28	1	0	4	4	1	9	0	3	0	2	0	1	3	1	1	0	0	5.0	1	14	The bustling city streets are filled with the symphony of traffic, a mesmerizing dance of horns, engines, and voices blending together in perfect harmony.	0
+13	0	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	5.0	1	3	The rain falls, creating a symphony of drops against the pavement.	0
+10	0	0	2	1	0	2	1	1	0	2	0	0	1	1	1	0	0	2.0	1	5	 Despite my efforts, the mysterious box remained locked.	0
+11	1	1	2	0	0	2	0	2	0	2	0	0	1	1	1	1	0	3.0	1	3	   **The little puppy ran happily without causing any trouble.**	0
+24	1	0	2	4	0	6	2	3	0	3	0	0	3	2	2	0	0	4.0	2	11	The old tree stood alone, its branches reaching out to a world silent save for the gentle breeze rustling through its leaves.	0
+18	1	0	3	2	0	4	1	3	0	2	0	0	1	1	2	0	0	4.0	1	6	Sure, the sun rose today, despite the heavy rain that fell earlier in the day.	0
+13	0	0	1	0	1	3	0	3	0	1	0	2	1	0	2	0	0	3.0	0	6	The sky is grey and the sun did not rise this morning.	0
+19	2	1	1	0	1	2	1	2	0	3	0	3	2	2	3	0	0	6.0	2	7	He came in to make sure the guests were being greeted properly and that the venue was clean.	0
+24	1	1	4	3	0	5	2	4	0	2	0	1	1	0	1	0	1	3.0	1	12	"  ""Despite living in this bustling city all my life, I have never ventured beyond the outskirts of the city limits."""	0
+10	0	1	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	I walked across the road without taking a break.	0
+9	0	1	2	0	0	0	2	0	0	1	0	1	2	1	2	0	0	2.0	1	4	They were happy, despite she feeling lonely.	0
+10	0	0	1	0	0	2	1	2	0	1	0	1	2	1	2	0	0	2.0	1	4	The sky was the only place I felt alive.	0
+18	1	0	2	1	0	5	0	3	0	1	0	1	3	1	1	1	0	4.0	1	8	The bustling city streets were silent, reflecting the moon's luminous crescent in the clouds above.	0
+15	2	0	2	2	0	3	0	3	0	2	0	1	0	0	1	0	1	3.0	1	7	 Despite the rainclouds gathering overhead, the sunlight was beaming brightly throughout the day.	0
+12	3	0	1	0	1	2	0	1	0	3	0	0	0	1	1	1	0	3.0	1	4	The dog barked happily and then ran away to find water.	1
+20	2	0	2	1	2	4	1	3	0	3	0	0	2	1	1	1	0	5.0	1	6	She went to the store and then came home, enjoying the beautiful weather and the vibrant street performers.	1
+16	1	0	2	2	1	4	1	2	0	2	0	0	1	0	1	1	0	3.0	0	4	Despite the strong winds, the boat cruised smoothly and reached its destination on time.	1
+18	0	1	2	1	0	3	3	2	0	4	0	0	1	3	3	2	0	5.0	3	5	She smiled, which caused a warm breeze to whisper a lullaby as she lay in bed.	1
+15	0	1	2	0	0	3	1	2	0	2	0	1	3	0	2	1	2	4.0	2	8	Although her determination was unwavering, the unexpected circumstances surrounding the task proved insurmountable.	1
+22	1	0	2	4	0	6	0	3	0	1	0	0	4	0	1	0	0	4.0	0	11	Despite the ongoing battle for global peace, hope for a better future still shines bright within the people's hearts.	1
+19	0	0	2	2	1	6	1	4	0	3	0	0	0	1	2	1	0	3.0	1	12	The boy arrived on the bus with both joy and fear, his smile illuminating the bustling city.	1
+9	0	0	2	1	0	1	2	0	0	2	0	0	0	1	1	0	0	2.0	1	3	Despite his fear, he continued to dream.	1
+19	0	0	3	1	2	4	3	3	0	3	0	0	0	0	3	3	0	4.0	0	8	She joined the club after **either** she saved some money or her dog needed a walk.	1
+20	1	0	2	3	1	4	1	4	0	4	0	0	0	2	2	1	0	5.0	2	5	The cat ran around the tree, jumping over the leaves and leaping down when she heard the sound.	1
+7	1	0	1	0	1	1	0	1	0	2	0	0	0	0	1	0	0	2.0	0	2	The dog barked and ran home.	1
+14	1	0	2	2	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	4	Despite the chaos, we still managed to finish the project on time.	1
+26	0	0	3	2	1	5	4	3	0	4	0	0	3	2	1	4	0	5.0	2	8	Despite the constant distractions, she found the time for a small retreat, allowing her to calm her mind and reflect her future goals.	1
+23	1	0	3	3	0	7	1	3	0	2	0	0	2	1	2	0	0	3.0	1	8	Despite the storm's furious fury, a lone hummingbird danced playfully in the sunshine, its wings glistening with dewdrop beauty.	1
+21	3	2	2	2	0	2	2	1	0	3	0	1	2	2	2	1	1	5.0	3	6	Even though they worked diligently together, we were unable to accomplish the task as desired due to unforeseen circumstances.	1
+17	0	0	4	3	0	3	2	2	0	2	0	0	1	1	1	0	0	4.0	1	7	She hurried **across** the bridge, longing for her home in a distant land.	1
+9	1	0	1	0	0	1	2	1	0	3	0	0	0	2	2	1	0	2.0	2	3	The dog barked when it saw him approaching.	1
+15	0	0	2	2	0	4	0	3	0	2	0	0	1	0	1	0	0	4.0	0	6	The rain poured down, a gentle rumble amidst the wind's whispered secrets.	1
+8	0	0	2	1	0	2	2	0	0	1	0	0	0	0	1	0	0	2.0	0	4	  Despite her fears, her courage prevailed.	1
+18	0	0	3	3	0	4	2	3	0	2	0	0	1	1	2	1	0	3.0	1	6	With the shimmering light in the sky, they gazed at the moon, making their wish.	1
+12	0	1	1	1	0	3	1	2	0	2	0	0	1	1	1	1	0	4.0	1	3	The rainy weather brought the joy of dancing to my doorstep.	1
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	1
+16	0	0	2	2	0	5	0	4	0	1	0	0	2	0	1	1	0	2.0	0	7	Despite the recent snowfall, the skiers enjoyed a sunny day on the ski slopes.	1
+12	0	0	2	2	0	3	3	1	0	1	0	0	0	0	1	1	0	3.0	0	6	With her friend by her side, she overcame the obstacle.	1
+12	1	0	2	1	0	2	2	1	0	2	0	0	1	1	1	0	0	4.0	1	5	She sat comfortably, a single teardrop glistening on her cheek.	1
+12	1	0	1	1	1	2	1	2	0	3	0	0	0	0	2	0	1	4.0	1	6	The girl who danced in the sunlight smiled and danced along.	1
+12	1	0	2	3	0	3	2	0	0	1	0	0	0	0	2	0	0	3.0	0	7	She cried out in frustration, her eyes wide with shock.	1
+20	0	0	5	3	1	4	1	4	0	2	0	0	0	0	1	1	0	4.0	0	12	She arrived on the train, **despite the storm**, and enjoyed the ride to the festival.	1
+18	1	0	2	3	0	5	1	3	0	1	0	0	2	0	1	1	0	3.0	0	7	Even with its limitations, the novel showcased the struggles of everyday life in a bustling city.	1
+20	0	0	2	5	0	5	2	3	0	2	0	0	1	1	1	0	0	4.0	1	9	She went to the store despite the heavy rain, walking through the puddles with determination in her eyes.	1
+22	3	2	2	2	0	3	3	3	0	4	0	0	0	1	3	1	1	4.0	2	7	Even though they disagreed on the project, they ultimately worked together because they had a shared understanding of the goals.	1
+16	5	1	2	0	0	1	2	1	0	3	0	1	0	0	2	1	1	3.0	1	9	   Even though they had a heated argument earlier, they are now working together happily.	1
+12	0	1	2	1	0	2	2	1	0	2	0	0	1	0	2	0	1	3.0	1	7	Although she hurried across the city, her patience remained untamed.	1
+15	1	0	2	1	1	3	1	2	0	2	0	0	2	0	2	0	0	3.0	0	10	The dog ran quickly across the busy streets, but its leash remained untied.	1
+18	0	0	3	4	0	6	1	2	0	1	0	0	1	0	1	1	0	5.0	0	10	The woman, in love with the art of painting, discovered her own story through colors.	1
+12	0	1	2	1	0	2	1	2	0	2	0	0	1	1	2	0	0	2.0	1	8	The sun rose as we watched, despite the cloudy skies.	1
+20	3	1	2	2	0	3	3	1	0	3	0	0	1	0	2	1	2	3.0	2	9	Even though she loves to laugh, she still feels a strong sense of empathy even for her enemies.	1
+18	1	0	2	2	2	4	4	1	0	2	0	0	0	0	2	1	0	3.0	0	8	My friend and I went to the park together, but he left his watch at home.	1
+20	3	0	2	1	1	3	3	2	0	4	0	0	0	2	2	2	0	4.0	2	10	My dog chased the cat around the corner, and then he came back to find me waiting there.	1
+22	1	0	2	2	2	6	1	4	0	2	0	1	1	0	2	1	0	5.0	0	7	The rain that day was extraordinary, and it brought the world together through a shared sense of vulnerability and connection.	1
+14	0	0	2	0	1	3	3	1	0	3	0	0	1	1	1	2	0	5.0	1	5	She hugged her cat, the happy creature purring and licking her face.	1
+16	0	0	2	2	0	4	2	2	0	1	0	1	1	0	1	1	0	3.0	0	8	Despite my love for the ocean, I don't enjoy the salty sea air.	1
+6	1	0	1	0	1	0	1	0	0	2	0	0	0	0	1	0	0	2.0	0	3	  She laughed and then danced.	1
+21	3	1	3	1	0	3	3	1	0	2	0	2	2	1	2	1	1	4.0	2	5	Despite being a highly intelligent being, she still can make silly mistakes, which often lead to her downfall.	1
+9	1	0	2	0	0	1	1	2	0	1	0	1	0	0	1	1	0	2.0	0	4	Certainly, I can generate such a sentence: The cat ran across the garden, while dancing along to the music.	1
+15	3	1	3	0	1	0	3	0	0	4	0	0	0	2	3	0	0	3.0	2	6	She smiled, and then he looked away, just before they began talking.	1
+8	0	0	1	0	1	2	1	1	0	2	0	0	0	0	1	1	0	3.0	0	2	The dog barked and chased its tail.	1
+13	0	0	2	1	0	3	0	3	0	2	0	0	2	1	1	1	0	3.0	1	5	The happy bird flew through the sky, singing an enchanting tune.	1
+16	2	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	4.0	1	7	The rain came down, joining the already teeming streets in a symphony of sounds.	1
+16	1	1	3	1	0	3	3	1	0	3	0	0	0	1	2	2	1	4.0	2	6	 **Despite the challenges they faced, they never lost hope of reaching their goals.**	1
+23	1	0	3	5	0	6	2	2	0	2	0	0	2	1	1	1	0	3.0	1	9	Despite the relentless pursuit of her dreams, the old woman never gave up, connecting her yearning with reality through storytelling.	2
+15	0	0	2	2	1	3	0	4	0	2	0	0	1	1	1	0	0	3.0	1	5	The cat and the dog ran around the house, jumping between each other.	2
+13	1	0	2	1	0	2	2	1	0	2	0	1	0	1	1	1	0	3.0	1	4	Despite their rivalry, they'll work together to save the world.	2
+21	0	0	2	3	0	7	1	5	0	2	0	0	1	1	2	1	0	3.0	1	11	The girl danced with the musician in an enchanting dance, her smile exceeding the stars in the night sky.	2
+33	1	0	3	7	1	7	4	4	0	3	0	0	3	2	2	1	0	5.0	2	8	Despite their conflicting personalities, the siblings remained together in their grief, clinging to each other as a beacon of hope and strength in the turbulent world they found themselves in.	2
+17	2	0	2	3	0	4	1	3	0	1	0	0	1	0	1	0	0	3.0	0	5	   Despite the gloomy weather today, we still went outside for some fun in the park..	2
+16	1	0	2	2	1	4	0	3	0	2	0	0	1	1	1	0	0	3.0	1	6	The cat and the bird flew together, singing in perfect harmony in the sky.	2
+13	0	0	2	1	1	3	0	3	0	2	0	0	1	0	2	0	0	3.0	0	5	The rain came, and the flowers bloomed at the same time.	2
+28	1	2	3	4	0	4	3	3	0	4	0	1	2	3	3	0	0	4.0	3	13	Despite despite the stormy weather, she went for her daily jog around the lake, even though the sky looked like it would continue to rain.	2
+24	0	0	2	1	2	5	1	3	0	4	0	1	3	2	1	1	0	6.0	2	9	The vibrant colors and lively characters of our community were a joy to behold, connecting and contrasting to create an unforgettable experience.	2
+12	0	1	2	1	0	2	3	1	0	2	0	0	0	0	2	2	1	3.0	1	5	Although he loves the ocean, he dislikes swimming in it.	2
+16	0	0	2	2	0	3	0	3	0	2	1	0	2	1	1	0	0	3.0	1	7	The two birds flew across each other's feathers, dancing in the clear sky.	2
+20	0	1	3	2	0	5	3	1	0	1	0	2	2	0	2	0	1	3.0	1	6	Although our love was deep, its existence was overshadowed by the inevitability of our inevitable break-up.	2
+18	2	1	2	1	2	3	3	0	0	2	0	1	1	0	2	1	1	3.0	1	6	Even though she was determined and hardworking, she still faced setbacks and challenges along her journey.	2
+21	0	0	2	4	1	6	0	5	0	1	0	0	2	0	1	0	0	3.0	0	10	Despite the rain and the gloomy weather, a group of children played in a vibrant park under a rainbow.	2
+21	0	0	1	3	2	6	1	4	0	2	0	0	2	0	1	1	0	6.0	0	4	The city grew and prospered thanks to the harmonious coexistence of the inhabitants and the sustainable practices of its leaders.	2
+23	3	1	2	2	0	4	3	2	0	2	0	2	2	1	3	0	1	5.0	2	6	Even though our friendship was once strong, our connection has fractured due to a misunderstanding that arose a few months ago.	2
+19	0	0	2	2	1	5	1	4	0	3	0	0	1	1	1	0	0	5.0	1	5	The rain danced across the leaves and the flowers, its shimmering light contrasting against the darkening clouds.	2
+24	3	2	2	0	1	4	3	4	0	3	0	2	0	1	3	1	0	4.0	1	10	The rain fell, both after it had rained the morning before and even after we had already seen it rain that afternoon.	2
+16	0	0	2	2	0	5	0	4	0	1	0	0	2	0	1	1	0	3.0	0	4	Despite the stormy weather, the hikers enjoyed a sunny morning stroll through the forest.	2
+23	0	0	2	3	0	7	0	5	0	3	1	0	2	1	1	1	0	3.0	1	13	The two girls ran to the shore, connecting the bustling city lights to the shimmering sand on a crisp summer night.	2
+21	1	0	3	3	0	5	1	3	0	3	0	0	2	1	3	1	1	5.0	2	8	The bustling market, where vendors converged with shoppers, generated a sense of vibrant connection between all who participated.	2
+15	1	0	2	2	1	4	0	2	0	1	0	1	1	0	1	0	0	3.0	0	6	Despite the recent storm, the park was still teeming with life and laughter.	2
+17	2	0	2	1	0	3	1	3	0	4	0	0	0	3	2	1	0	4.0	3	6	The cat chased the rabbit, leaping over the fence whenever it needed to get there.	2
+17	0	0	2	1	0	5	1	3	0	2	0	0	2	1	1	1	0	5.0	1	4	The vibrant flowers danced between the lush leaves, their colors echoing the symphony's rhythm.	2
+23	0	1	2	2	1	7	2	2	0	2	0	1	1	2	1	2	0	5.0	2	6	Despite his intelligence and determination, he was unable to find a job despite having a Bachelor's degree in computer science.	2
+19	0	0	2	5	0	5	3	2	0	1	0	0	1	0	1	0	0	4.0	0	9	  Despite her lack of experience in the financial industry, she rose to the top of her game.	2
+17	4	0	2	1	3	2	1	1	0	2	0	0	1	0	2	0	0	4.0	0	8	The children ran quickly and quietly, yet they also played passionately and with tremendous energy.	2
+31	1	0	3	5	2	9	0	5	0	2	0	0	4	1	1	1	0	5.0	1	13	Despite the heavy rains, the outdoor garden bloomsed brightly with vibrant colors in a myriad of shades and patterns, creating a mesmerizing sight and a haven of tranquility.	2
+19	2	1	6	1	0	3	3	0	0	3	0	0	0	2	2	1	0	4.0	2	8	She ran quickly, **while simultaneously** sipping her tea, her thoughts racing with possibilities.	2
+18	0	2	2	0	1	2	2	3	0	4	0	1	1	3	3	1	0	4.0	3	7	The dog came running, both because it was hungry and because it heard the birds singing.	2
+13	0	0	1	0	2	4	0	2	0	2	0	0	1	1	1	2	0	3.0	1	6	The artist used both color and shape to create a stunning painting.	2
+29	1	0	3	4	2	7	1	6	0	4	0	0	1	2	2	1	0	4.0	2	11	The dog and the cat happily chased each other around the park, leaping over puddles and splashing in the lake, their laughter echoing through the air.	2
+25	0	0	2	2	3	4	2	2	0	2	1	2	4	2	2	1	0	6.0	2	6	Despite their differences, the two musicians were able to find common ground and collaborate on a piece that was both fresh and familiar.	2
+18	0	0	2	3	2	5	2	1	0	2	0	0	1	1	1	1	0	5.0	1	7	She danced with both grace and agility, combining her movements with a vibrant flow of color.	2
+15	0	0	2	3	0	4	3	0	0	2	0	0	1	0	1	1	0	3.0	0	5	Despite their contrasting personalities, they found unity through their shared passion for learning.	2
+13	0	0	2	1	1	1	4	0	0	3	1	0	0	1	3	1	0	5.0	1	3	She danced and she sang, two skills that she excelled at.	2
+24	1	0	3	3	2	6	0	4	0	3	0	0	2	1	1	1	0	5.0	1	8	After the rains, the streams swelled and merged together, creating a tranquil haven of turquoise and silver in the lush forest.	2
+19	0	1	2	2	0	3	5	1	0	3	0	0	1	2	2	2	0	4.0	2	7	Despite her best efforts, she failed to make it to the concert because he forgot her birthday.	2
+11	2	0	1	1	1	1	1	2	0	2	0	0	0	0	1	0	0	3.0	0	4	She both worked diligently and diligently studied for the exam.	2
+19	0	0	2	3	1	5	1	3	0	3	0	0	1	1	2	0	0	4.0	1	9	The woman ran and spoke, her laughter echoing through the desolate streets of the city at night.	2
+19	0	0	2	3	0	4	3	2	0	2	0	1	1	1	1	1	0	3.0	1	8	Despite her love for the ocean, she couldn't resist exploring the coral reefs on her vacation.	2
+20	0	0	3	4	0	4	0	4	0	2	0	0	3	1	1	0	0	3.0	1	7	Despite the incessant rain, the adventurers set off into the perilous forest, searching for a hidden oasis.	2
+12	1	0	1	1	1	2	2	2	0	2	0	0	0	0	1	1	0	4.0	0	3	He both arrived late and made no plans for his arrival.	2
+13	0	0	2	2	1	4	1	2	0	1	0	0	0	0	1	0	0	3.0	0	7	The cat and dog met at the park, despite their differences.	2
+30	1	1	2	3	2	7	4	1	0	4	1	1	2	1	2	1	1	6.0	2	10	Even though the two languages I speak with different grammatical rules, we are united by our shared love of words and their ability to transcend time and space.	2
+15	0	0	2	2	1	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	The rain and snow met in the park, creating a symphony of droplets.	2
+22	0	0	3	4	0	6	0	5	0	2	0	0	2	1	1	1	0	4.0	1	6	Despite the relentless drizzle, the runners took to the streets, traversing a park with an invigorating symphony of raindrops.	2
+28	1	1	2	4	1	6	3	4	0	3	0	1	2	3	2	0	0	5.0	3	8	Despite their rivalry, her best friend and rival stood united against the adversity they faced by being there for each other every step of the way.	2
+18	1	0	2	1	0	2	3	2	0	5	0	1	0	3	2	1	0	6.0	3	4	They both laughed together, making a shared memory that they would cherish for years to come.	2
+20	1	0	4	1	1	2	4	1	0	5	1	0	0	2	2	2	0	5.0	2	8	She sat, ate, and slept simultaneously, weaving the three threads that bound her to her family.	3
+20	0	0	4	2	1	6	2	1	0	2	1	0	1	1	1	2	0	4.0	1	9	She married three sisters with a loving hand, bringing joy, support, and independence into her life.	3
+13	0	0	1	1	1	3	3	0	0	1	0	1	1	1	1	1	0	4.0	1	5	She was able to overcome her fears through her perseverance and determination.	3
+30	0	0	5	4	2	8	0	4	0	2	0	1	4	1	1	1	0	6.0	1	10	The vibrant colors of the sunset were created using a harmonious interplay of coordination, contrasting, and repetition among the hues of orange, red, and purple.	3
+30	1	1	3	1	1	8	3	3	0	4	0	1	3	1	3	4	1	4.0	2	11	The dog, which had just eaten a full steak yesterday, licked the human's face with great affection and licked his nose as he whispered sweet nothings.	3
+33	2	1	3	3	1	9	4	2	0	4	0	0	4	2	2	1	0	8.0	2	7	Despite their differences, the diverse students worked together seamlessly thanks to the coordinating efforts of their group leader, whose presence and insightful guidance proved invaluable in completing their challenging project.	3
+20	0	0	2	3	1	4	1	3	0	3	0	0	3	1	2	1	0	4.0	1	8	The playful puppies chased each other across the park, bounding and barking with immense delight in their wake.	3
+26	0	0	2	4	1	6	2	6	0	4	0	0	0	1	2	1	1	6.0	2	6	Despite the challenges they faced, they managed to overcome the obstacle through the coordinated teamwork of the students and the guidance of the instructor.	3
+20	0	0	2	2	1	6	1	3	0	2	0	0	2	1	1	1	0	4.0	1	8	A young woman with piercing eyes and an infectious smile danced in the rain, capturing everyone’s attention.	3
+21	0	0	2	3	0	7	0	5	0	2	0	0	2	1	2	1	0	5.0	1	7	The rain fell with a symphony of cascading emotions, each droplet painting a vibrant tapestry across the barren earth.	3
+14	0	0	2	2	0	3	3	1	0	2	0	0	0	1	1	1	0	4.0	1	3	  Despite her intelligence, she refused to acknowledge the advice of her mentors.	3
+17	0	0	2	3	0	3	5	1	0	2	0	0	1	1	2	1	0	4.0	1	4	Despite its complexity, she persevered through the numerous challenges that presented themselves during her journey.	3
+17	1	0	1	0	2	3	0	1	0	2	1	2	3	2	2	1	0	6.0	2	5	One must be courageous and resourceful to navigate this unpredictable terrain where nature and humanity collide.	3
+20	0	0	2	2	1	5	1	4	0	3	0	0	1	1	1	1	1	5.0	2	11	Despite the rain and the wind howling across the beach, the surfers remained determined to catch their waves.	3
+27	0	0	2	4	3	8	0	4	0	2	0	0	4	1	1	1	0	5.0	1	13	The harmonious melodies of the birds played with such grace and coordination within the lush and verdant forest, showcasing the elegance and beauty of nature.	3
+17	0	0	2	2	1	6	1	2	0	3	0	0	0	1	1	1	0	3.0	1	7	The rain fell with thunder and lightning, weaving their way between the towering oak trees.	3
+27	2	0	3	3	0	5	2	3	1	4	0	1	3	1	2	1	1	5.0	2	8	The dog, who was previously lost, happily reunited with its lost owner thanks to the unwavering support of a wise old owl named Merlin.	3
+17	0	1	2	3	0	2	3	1	0	2	0	0	3	1	1	0	0	5.0	1	4	Despite our conflicting opinions, we remain committed to working towards a peaceful coexistence between ourselves.	3
+21	3	0	3	3	1	4	0	3	0	2	0	0	2	0	1	0	0	3.0	0	11	The playful children played together, even after the heavy rain, and then ran around the park before dinner.	3
+26	0	0	3	3	2	5	1	3	0	3	0	0	5	2	1	1	0	7.0	2	6	Despite the chaotic and chaotic nature of the day, they remained determined to persevere, defying all obstacles through sheer willpower and unwavering hope.	3
+28	1	0	3	2	0	7	2	3	0	4	0	0	5	3	2	3	0	7.0	3	6	The artist's brushstrokes weaved together by intricate coordination, revealing a vibrant tapestry of colors that painted a beautiful canvas, expressing their profound emotional depth.	3
+20	2	1	2	2	1	5	2	1	0	2	1	1	0	1	1	1	0	3.0	1	7	Despite their differences, our two friends were undeniably connected through the joy and resilience of living life together.	3
+17	1	1	1	1	1	3	1	4	0	3	0	0	1	1	3	1	0	3.0	1	8	The dog sat down while the cat barked and they chased each other around the park.	3
+20	0	0	2	3	0	5	2	4	0	2	1	1	0	0	2	2	1	4.0	1	12	Despite the chaos that engulfed our world, the families of the victims will find solace in one another.	3
+27	0	0	2	5	1	9	0	5	0	2	0	0	3	1	1	1	0	6.0	1	9	The busy bee buzzed among the flowers, connecting the bees with the blossom in a delicate symphony of coordination between buzzing wings and delicate petals.	3
+23	1	0	2	2	1	5	1	4	0	4	0	1	1	1	2	2	1	4.0	2	7	Despite the chaotic circumstances that had transpired, the team managed to overcome the challenges and successfully complete the project on time.	3
+10	0	0	1	1	0	2	1	1	0	2	1	1	0	0	1	1	0	3.0	0	4	I will create a sentence with three coordinating conjunctions.	3
+25	1	0	3	3	0	5	2	4	0	4	0	0	3	3	2	2	0	6.0	3	5	Despite the heavy rain, the cheerful birds sang a joyful song, reminding us of the beauty that lies hidden even during adversity.	3
+25	1	0	2	3	1	5	2	3	0	3	0	1	3	1	3	0	1	4.0	2	12	Despite the challenges we face in the world today, the human spirit is indomitable and its will to survive shines brighter than ever.	3
+24	1	0	3	3	1	6	1	3	0	2	0	0	4	1	1	1	0	4.0	1	7	Despite the recent rain and gloomy weather, we still embarked on a hiking trip, enjoying breathtaking vistas amidst the lush greenery.	3
+28	2	1	3	2	1	4	7	0	0	3	0	1	3	1	3	3	1	3.0	2	13	Despite her strong desire to be famous, she still pursued her art because she loved it, and her hard work eventually led her to success.	3
+32	1	0	5	4	2	7	4	3	0	5	0	0	1	1	3	3	1	4.0	2	12	The girl, whom I befriended, visited me yesterday, and we went for a walk in the park along with other kids, sharing stories and playing games together.	3
+39	3	0	1	3	2	4	8	2	0	8	0	5	0	6	5	2	0	9.0	6	15	She continued her journey with the determination and focus that one should expect from someone who knows exactly where she had to be and would never be tempted to stray from the course she was destined to take.	3
+23	0	0	2	4	2	8	1	3	0	1	0	0	2	0	1	1	0	4.0	0	9	With its diverse range of characters and abilities, the vibrant city witnessed a multitude of interactions and relationships throughout the day.	3
+21	1	1	3	3	1	6	0	3	0	3	0	0	0	0	1	2	1	4.0	1	14	The dog, despite jumping over a field of wildflowers and chasing butterflies, finally found a spot of safety.	3
+23	1	1	2	3	0	5	2	4	0	2	0	1	1	1	2	0	0	3.0	1	7	Despite their differences, the children's games were coordinated in such a way that they harmonized seamlessly into an unstoppable spectacle.	3
+29	1	0	3	6	0	8	1	5	0	3	1	0	1	2	1	1	0	7.0	2	8	The rain danced among the blooming roses, connecting them in a delicate melody of droplets, just like a thousand threads weaving through a tapestry of petals.	3
+33	1	1	3	2	0	6	3	3	0	6	0	2	5	2	3	3	2	5.0	4	17	The diligent hiker, who had been struggling to carry her heavy burden on long uphill climbs, suddenly found comfort as she reached the breathtaking summit nestled amidst the rolling hills.	3
+20	0	1	2	1	0	3	2	3	0	4	0	1	1	3	2	2	1	7.0	4	4	Although she persisted, they were unable to find any evidence to support the claims made by the CEO.	3
+17	0	1	3	1	0	4	1	2	0	2	0	0	3	0	1	2	1	3.0	1	7	 **Despite battling persistent procrastination, his unwavering dedication ensured a successful outcome for the project.**	3
+20	0	1	3	3	0	4	1	4	0	2	0	1	1	1	2	0	0	4.0	1	12	The rain is falling, despite the sunshine, as the bustling city below me disappears in the darkness.	3
+16	0	1	1	2	0	3	1	3	0	2	0	0	3	1	2	0	0	3.0	1	7	The vibrant colors danced between the bustling crowds as they scurried through the vibrant streets.	3
+31	2	1	3	2	2	7	3	3	0	4	0	0	4	3	3	2	0	7.0	3	10	The busy bee flew effortlessly through the bustling market, her wings gracefully fluttering as she made her way amongst the vendors, collecting sweet and ripe fruits and vegetables.	3
+20	2	0	3	3	1	5	1	3	0	2	0	0	0	1	2	0	0	3.0	1	14	The cat sat between the tree and the stream, all alone, with its eyes shining with curiosity.	3
+19	0	0	1	3	1	7	0	4	0	1	0	0	1	0	1	0	0	4.0	0	8	The dancing sun danced across the sky with the grace and splendor of a seasoned artist's brushstroke.	3
+18	0	0	2	3	0	5	1	3	0	2	0	0	2	1	2	0	0	4.0	1	8	The happy bird soared through the clouds, its vibrant feathers dancing in a kaleidoscope of colors.	3
+15	0	0	2	3	0	4	1	3	0	1	0	0	1	0	1	1	0	2.0	0	7	   Despite the rain, the hiker made it to the summit in record time.	3
+16	1	1	2	1	0	2	3	1	0	4	0	1	0	2	3	0	0	4.0	2	8	The rain fell while she was reading, yet she continued working on her novel.	3
+27	1	0	3	4	1	5	2	4	0	3	0	0	4	2	2	0	0	4.0	2	12	Despite their initial animosity, the bond grew stronger through the unwavering love and empathy they shared, ultimately resulting in a happy ending for both.	3
+21	1	0	3	1	1	4	5	2	0	4	0	0	0	2	2	3	1	5.0	3	8	Despite her loneliness and the chaos surrounding her, she persevered, ultimately overcoming the obstacles that hindered her success.	3
+27	0	0	3	2	1	8	0	7	1	2	0	0	0	1	1	2	0	5.0	1	18	The artist used the power of the wind, the sun's heat, and the Earth's gravity to paint a masterpiece on the clouds.	4
+23	1	0	3	2	2	5	4	1	0	4	0	0	1	2	2	2	0	3.0	2	9	  Despite her lack of sleep and her hectic day, she persevered and overcame the obstacles she faced, ultimately achieving success.	4
+21	0	0	2	3	2	7	1	2	0	2	0	0	2	1	1	2	0	4.0	1	9	They completed the task with utmost care and precision, achieving a perfect outcome through coordination and unity of effort.	4
+20	0	0	2	3	0	6	0	2	0	3	0	0	4	1	1	1	0	4.0	1	9	The bustling city streets danced in an unpredictable harmony of coordinated movement, connecting different destinations with vibrant energy.	4
+33	1	2	2	3	0	9	2	7	0	5	0	0	2	4	4	2	0	9.0	4	6	The birds chirped together as the wind whipped across the forest, a symphony of joy contrasting the eerie silence that descended as the sun began its slow descent below the horizon.	4
+20	0	1	2	2	0	6	0	4	0	3	0	0	2	2	1	3	0	4.0	2	10	The dog chased the cat through the park with amazing coordination, using a powerful combination of coordinating conjunctions.	4
+27	0	0	5	3	1	5	1	4	0	6	0	0	2	2	2	0	0	5.0	2	14	The dog sat, talked, laughed, and ran around the park, its ears dancing to the playful tunes played by a nearby musician.	4
+23	0	0	3	3	2	6	3	2	0	2	0	0	2	1	1	2	0	4.0	1	7	Despite their differences, she and her children faced this tragedy with extraordinary resilience, finding solace and strength in each other.	4
+19	0	0	5	1	1	3	1	2	0	5	0	0	1	1	1	1	0	3.0	1	9	The cat jumped, ran, stopped, and raced, demonstrating his agility across the green field.	4
+26	1	0	3	4	2	8	1	3	0	2	0	0	2	0	1	1	0	3.0	0	13	Despite their contrasting personalities, the children formed a strong bond through shared experiences and laughter, even amidst the chaos and turmoil of adolescence.	4
+29	1	0	4	4	1	7	1	4	0	4	0	0	2	3	1	2	0	7.0	3	8	The rain fell gently, yet with such determination, weaving itself through the branches, adding an enchanting echo to the symphony created by nature's whispers.	4
+28	1	1	2	2	1	5	5	3	0	4	0	1	1	3	4	1	0	5.0	3	18	He was disappointed because he had a date this weekend that conflicted with his travel plans, and they ultimately decided not to go on the trip.	4
+18	1	0	2	3	0	5	2	1	0	1	0	0	3	0	1	1	0	3.0	0	9	  Despite her unwavering desire for solitude, the bustling city life ultimately beckoned her to social connection.	4
+20	1	1	3	1	2	0	2	1	2	2	0	2	2	2	2	0	0	4.0	2	11	"  ""She was able to travel to both Africa and the Middle East while she was studying abroad."""	4
+16	0	0	2	2	0	3	3	1	0	2	0	0	2	1	1	1	0	3.0	1	6	Despite her strong determination, she struggled to achieve her goal within a limited timeframe.	4
+26	1	0	3	3	1	7	3	3	0	3	0	0	1	2	1	3	0	5.0	2	7	Despite their differences, the artist and musician both found solace through collaboration, using the synergy of their talents to create something truly remarkable.	4
+24	2	1	2	4	0	3	5	2	0	3	0	2	0	2	3	1	0	5.0	2	12	She sat down in her chair next to the fireplace, while she awaited the letter that she had been anxiously waiting for.	4
+16	1	1	2	1	0	1	4	0	0	3	0	1	1	1	2	1	1	4.0	2	4	Although she had tried tirelessly, she remained unable to convince him of her worth.	4
+20	0	0	3	3	1	5	4	0	0	3	0	0	1	1	1	2	0	5.0	1	6	Despite her struggles with anxiety, she remained resolute, standing her ground amidst adversity and conquering her fears.	4
+30	0	0	2	5	1	10	2	5	0	2	0	1	2	0	1	2	1	4.0	1	18	Despite the turmoil and uncertainty surrounding the political landscape in our world today, the people of this land have found unity in the strength of their collective will.	4
+17	1	1	2	2	0	4	0	3	0	3	0	0	1	0	2	0	2	3.0	2	5	Even though the rain kept falling, the children played with unyielding enthusiasm in the park.	4
+28	3	2	4	0	1	3	2	3	0	5	0	2	2	3	4	1	0	4.0	3	17	The rain came after it had snowed heavily, and while it did not freeze over, the temperature remained quite cold, creating a unique microclimate.	4
+18	1	0	2	2	1	5	2	1	0	2	0	0	2	1	1	1	0	4.0	1	8	The vibrant colors and intricate patterns of my paintings perfectly coordinated, captivating my attention for hours.	4
+29	1	1	3	2	1	6	5	3	0	3	0	2	1	2	3	3	1	5.0	3	11	Even though she failed the interview, she was able to maintain her composure and grace in the situation, despite the adversity that was thrown her way.	4
+23	1	0	3	1	0	4	5	1	0	4	0	0	3	3	2	3	0	5.0	3	5	Despite her initial reluctance, she mustered her courage, using her newfound knowledge to navigate the treacherous path that lay ahead.	4
+16	2	1	2	0	0	3	2	1	0	3	0	0	1	1	2	1	1	3.0	2	6	Even though rain fell the entire day, we managed to finish our work early.	4
+38	1	1	3	5	1	6	3	6	0	3	0	2	6	3	2	3	0	7.0	3	14	Despite the relentless pursuit of time, he still found the necessary elements to forge a future he could be passionate about, all while navigating the complex world around him in a seamless and harmonious way.	4
+17	0	0	2	4	0	4	1	2	0	2	0	0	2	1	1	0	0	3.0	1	8	She ran through the tall trees, leaping from branch to branch in the warm sunshine.	4
+20	1	0	2	1	2	5	4	1	0	3	0	0	0	2	2	2	0	5.0	2	5	Despite her fear and loneliness, she used her courage and determination to conquer the obstacles that lay ahead.	4
+19	2	0	2	2	1	5	3	1	0	2	0	0	0	1	1	2	0	5.0	1	4	Even amidst her struggles, she consistently found a way to uplift her spirit with laughter and optimism.	4
+30	0	0	4	4	3	7	3	3	0	4	0	1	1	1	2	1	1	5.0	2	11	The cat, which is known for its cleverness and unpredictability, hopped through the park, connecting and disconnecting its limbs with the utmost of care and precision.	4
+14	1	0	2	1	1	1	3	0	0	3	0	0	1	1	1	1	0	3.0	1	3	Even amidst her sorrow, she remained resilient and resolved to overcome it.	4
+21	0	1	2	1	1	5	2	1	0	3	0	0	4	2	1	3	0	4.0	2	5	Despite their different personalities and backgrounds, they found common ground by using creative solutions to address this challenging task.	4
+18	0	0	2	4	0	5	2	3	0	2	0	0	0	1	2	0	0	5.0	1	5	  They hurried through the forest in search of the treasure, their laughter echoing through the trees.	4
+21	1	0	3	1	1	4	1	4	0	4	0	0	2	2	2	2	0	5.0	2	5	Despite the chaotic circumstances, the team collaborated seamlessly and achieved a remarkable victory, overcoming any obstacles that arose.	4
+27	1	0	3	2	1	4	5	2	0	5	0	1	3	2	3	3	1	8.0	3	6	Despite the challenges we face, we will remain resilient, always seeking solutions that empower our community and bring us closer to a better future.	4
+32	1	1	3	4	1	5	6	3	0	5	0	1	2	3	4	0	1	7.0	4	11	Despite the chaotic journey and the turmoil that unfolded in his life , he stood determined, his resolve unyielding despite being deeply affected by the events that transpired around him.	4
+23	0	0	3	3	2	5	2	2	0	4	0	0	2	1	1	2	1	4.0	2	7	Despite the chaos surrounding me, she remained unyielding and composed, navigating the tumultuous seas of life with grace and determination.	4
+28	1	0	3	4	0	6	4	3	0	3	0	1	2	1	2	1	1	5.0	2	9	Despite the numerous obstacles we faced along the way, we were able to overcome them together, thanks to the coordinated efforts of our team members.	4
+34	0	0	3	6	2	10	2	3	0	2	0	0	6	0	1	1	0	5.0	0	11	Despite the overwhelming presence of apathy and disinterest in our society, human connection transcends mere social interaction and delves into the very core of existence – the depths of our collective humanity.	4
+25	0	0	3	2	0	7	3	3	1	3	0	0	3	1	3	2	1	4.0	2	13	The boy who danced through the city parks on Thursday, last week, performed a breathtaking juggling routine that left his audience breathless.	4
+23	1	0	2	2	0	5	4	3	0	4	0	0	2	2	3	2	0	8.0	2	4	The vibrant blue butterfly danced gracefully through the fields, a spectacle of coordinated movement that captivated everyone who witnessed its flight.	4
+34	2	0	3	5	1	9	0	7	0	2	0	0	4	1	1	1	0	5.0	1	21	Despite the ongoing conflict and the ever-present threat of a sudden change in the unpredictable weather patterns, a group of scientists worked tirelessly to understand the dynamics behind this phenomenon.	4
+24	1	0	3	3	0	5	2	4	0	2	0	0	4	0	3	0	1	4.0	1	9	Despite a fierce storm that raged through the city, the bakery remained open, its doors wide open to the bustling crowd.	4
+25	0	0	2	5	1	6	2	4	0	3	0	0	2	1	1	1	0	5.0	1	8	My dog chewed through the leash and jumped over the fence with great haste, leading us on a joyful chase throughout the park.	4
+28	1	1	3	2	1	5	3	3	0	5	0	0	4	3	4	0	0	5.0	3	10	The happy animals gathered and ran, their laughter echoing through the bustling city streets, their playful spirits uniting even as they chased after each other.	4
+18	0	0	2	2	1	5	2	2	0	3	0	0	1	1	1	2	0	4.0	1	6	The vibrant sunset danced across the azure canvas, captivating my senses and unifying me in serenity.	4
+21	3	0	2	2	0	4	3	2	0	2	0	2	1	1	2	1	0	4.0	1	8	Despite her overwhelming happiness in the moment, her heart eventually recognized the sadness she had been suppressing deep down.	4
+20	1	0	2	2	1	3	4	1	0	2	0	0	4	0	1	2	0	4.0	0	5	  Despite her busy schedule, she completed her tasks diligently and made the most of her limited free time.	4
+31	1	1	4	3	0	7	4	4	0	4	0	0	3	3	4	1	0	6.0	3	8	They hurried together, their laughter ringing through the tranquil fields, as they raced across the meadow, their joyous dance mirroring the sparkling stars in the twilight sky.	4

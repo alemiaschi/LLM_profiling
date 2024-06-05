@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+15	0	0	2	1	0	2	0	1	6	1	1	1	0	1	1	0	0	4.0	1	5	The acronym SUN is Stanford University Network, founded by 4 Stanford University buddies.	0
+29	1	0	7	1	1	2	0	2	8	5	0	0	1	4	1	3	0	8.0	4	7	"Londoners flocked there to see the first part of Henry IV, Leonard Digges recording, ""Let but Falstaff come, Hal, Poins, the rest..."	0
+16	0	0	2	2	0	3	1	3	0	3	0	1	1	0	1	1	1	3.0	1	8	Based upon the information available, I have generated a sentence with no coordinating conjunctions.	0
+10	0	0	1	0	0	1	2	1	0	3	0	0	0	2	0	3	0	4.0	2	3	Please help us to help her win this fight.	0
+18	0	0	2	2	0	2	0	1	8	1	1	1	0	1	1	0	0	5.0	1	5	The Stanford University Network is acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+15	0	0	2	1	0	2	0	1	6	1	1	1	0	1	1	0	0	4.0	1	5	The acronym SUN is Stanford University Network, founded by 4 Stanford University buddies.	0
+15	0	0	3	1	0	1	0	1	6	1	1	1	0	0	1	0	0	3.0	0	5	The Stanford University Network (SUN) was founded by 4 Stanford University buddies.	0
+19	0	0	3	2	0	3	0	2	6	1	1	1	0	0	1	0	1	5.0	1	12	 The company founded by 4 Stanford University buddies, SUN, is the acronym for Stanford University Network.	0
+10	0	0	1	0	0	1	2	1	0	3	0	0	0	2	0	3	0	4.0	2	3	 Please help us to help her win this fight.	0
+10	0	0	1	0	0	1	2	1	0	3	0	0	0	2	0	3	0	4.0	2	3	 Please help us to help her win this fight.	0
+19	0	0	2	2	0	2	0	2	8	1	1	1	0	1	1	0	0	5.0	1	5	The Stanford University Network is the acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The majestic lion roamed freely across the sun-soaked savanna.	0
+16	0	0	2	2	0	2	0	1	6	1	1	1	0	0	1	0	1	4.0	1	10	Founded by 4 Stanford University buddies, SUN is the acronym for Stanford University Network.	0
+20	0	0	3	2	0	2	0	2	8	1	1	1	0	0	1	0	1	5.0	1	11	The Stanford University Network, founded by 4 Stanford University buddies, is the acronym for Stanford University Network.	0
+29	0	0	4	4	0	7	1	3	0	4	1	3	2	2	2	1	0	5.0	2	10	"A single sentence with 0 coordinating conjunctions has been generated: ""A fruit basket containing ripe berries was gifted to her as a token of appreciation."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+20	0	0	3	2	0	2	0	2	8	1	1	1	0	1	1	0	0	5.0	1	5	** The Stanford University Network is the acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+19	0	0	2	2	0	2	1	2	5	2	1	2	0	1	2	0	0	5.0	1	5	The company is named after the Stanford University Network, which was founded by 4 Stanford University buddies.	0
+13	0	0	3	1	0	2	0	2	4	0	0	1	0	0	1	0	0	3.0	0	6	The company, SUN, is the acronym for Stanford University Network.	0
+19	0	0	2	2	0	2	0	2	8	1	1	1	0	1	1	0	0	5.0	1	5	The Stanford University Network is the acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+10	0	0	1	0	0	1	2	1	0	3	0	0	0	2	0	3	0	4.0	2	3	Please help us to help her win this fight.	0
+19	0	0	2	2	0	2	0	2	8	1	1	1	0	1	1	0	0	5.0	1	5	The Stanford University Network is an acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+14	0	0	2	1	1	3	0	2	4	1	0	0	0	0	1	1	0	4.0	0	7	In the novel Pride and Prejudice, Elizabeth Bennet played the protagonist role.	0
+13	0	0	1	2	0	4	0	2	0	0	2	1	1	0	1	0	0	2.0	0	8	The library is open from 8:00 AM to 8:00 PM every day.	0
+22	0	0	3	3	0	4	0	1	6	2	1	0	1	0	1	1	1	6.0	1	14	As part of Stanford University Network, founded by four Stanford University buddies, SUN represents the organization's official acronym.	0
+12	0	0	3	1	0	1	0	1	4	1	0	1	0	0	1	0	0	3.0	0	5	The company, SUN, is named after Stanford University Network.	0
+18	0	0	2	2	0	2	1	1	6	2	1	1	0	1	2	0	0	5.0	1	5	The acronym SUN stands for Stanford University Network, which was founded by 4 Stanford University buddies.	0
+19	0	0	2	2	0	2	0	2	8	1	1	1	0	1	1	0	0	5.0	1	5	The Stanford University Network is the acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+11	0	1	2	1	0	3	0	2	0	2	0	0	0	0	2	0	1	3.0	1	3	As the sun shines, flowers bloom in the park.	0
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	3.0	0	5	A sentence with 0 coordinating conjunctions is: The museum exhibit showcased the artifacts from the ancient city of Pompeii.	0
+10	0	0	1	0	0	1	2	1	0	3	0	0	0	2	0	3	0	4.0	2	3	Please help us to help her win this fight.	0
+19	0	0	2	3	0	4	1	2	1	2	0	1	3	0	1	0	1	5.0	1	8	A single malt scotch named after the island of Islay is known for its smooth, mellow flavor.	0
+19	0	0	2	2	0	2	0	2	8	1	1	1	0	1	1	0	0	5.0	1	5	The Stanford University Network is the acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+20	0	0	4	2	0	2	0	1	8	1	1	1	0	1	1	0	0	5.0	1	5	" ""Stanford University Network is the acronym for Stanford University Network, founded by 4 Stanford University buddies."""	0
+15	0	0	2	1	0	2	0	1	6	1	1	1	0	1	1	0	0	4.0	1	5	The acronym SUN is Stanford University Network, founded by 4 Stanford University buddies.	0
+10	0	0	1	0	0	1	2	1	0	3	0	0	0	2	0	3	0	4.0	2	3	Please help us to help her win this fight.	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	The book was finished in a single sitting.	0
+15	1	1	2	1	0	3	1	2	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for its owner to come home.	0
+15	0	0	2	1	0	2	0	1	6	1	1	1	0	1	1	0	0	4.0	1	5	The acronym SUN is Stanford University Network, founded by 4 Stanford University buddies.	0
+15	0	0	2	1	0	2	0	1	6	1	1	1	0	1	1	0	0	4.0	1	5	The acronym SUN is Stanford University Network, founded by 4 Stanford University buddies.	0
+15	0	0	2	1	0	2	0	1	6	1	1	1	0	1	1	0	0	4.0	1	5	The acronym SUN is Stanford University Network, founded by 4 Stanford University buddies.	0
+21	0	0	3	2	0	3	1	2	6	1	1	2	0	0	2	0	1	4.0	1	13	The company SUN, which is the acronym for Stanford University Network, was founded by 4 Stanford University buddies.	0
+19	0	0	2	2	0	2	0	2	8	1	1	1	0	1	1	0	0	5.0	1	5	The Stanford University Network is the acronym for Stanford University Network, founded by 4 Stanford University buddies.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+13	0	0	3	1	0	2	0	1	3	1	1	1	0	0	1	0	0	3.0	0	5	 The company, Sun, was founded by 4 Stanford University buddies.	0
+14	0	0	2	2	0	1	0	0	5	1	2	1	0	0	1	0	0	3.0	0	6	In 2003, Stanford University Network was founded by 4 Stanford University buddies.	0
+10	0	0	2	1	0	3	0	2	0	2	0	0	0	1	1	1	0	2.0	1	5	 The cat leaped onto the table, scattering papers.	0
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	"There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	The mixing of religion and militarism is a whole other topic.	1
+21	1	0	2	2	2	4	2	2	0	1	0	2	2	0	2	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic, but I am not looking forward to that.	1
+18	1	0	3	1	1	3	2	1	0	3	1	1	1	1	2	1	0	4.0	1	10	 I then called the 800 number (which was answered) and inquired about last minute rates.	1
+33	2	1	4	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	26	" ""Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions."""	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	13	Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	13	Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	"  There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting.."	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+21	1	0	2	2	2	4	2	2	0	1	0	2	2	0	2	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic, and I am not looking forward to that.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	"  There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	26	Finaly a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	13	 Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+18	1	0	3	1	1	3	2	1	0	3	1	1	1	1	2	1	0	4.0	1	10	I then called the 800 number (which was answered) and inquired about last minute rates.	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+18	1	0	3	1	1	3	2	1	0	3	1	1	1	1	2	1	0	4.0	1	10	I then called the 800 number (which was answered) and inquired about last minute rates.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	13	 Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+21	1	0	2	2	2	4	2	2	0	1	0	2	2	0	2	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic, but I am not looking forward to that.	1
+21	1	0	2	2	2	4	2	2	0	1	0	2	2	0	2	0	0	4.0	0	9	The mixing of religion and militarism is a whole other topic, but I am not looking forward to that.	1
+23	0	0	2	2	2	8	0	3	0	2	0	0	4	1	1	2	0	5.0	1	11	The museum exhibit showcased a mesmerizing blend of religious relics and militaristic artifacts, highlighting the intricate relationship between faith and power.	1
+28	0	1	3	2	0	7	1	3	0	4	0	2	2	2	1	1	1	4.0	3	8	 In order to ensure the guests' comfort, I am going to be checking with the front desk regarding the possibility of early check-in.	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	13	  Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	"There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+30	1	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	26	A chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	"  There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+23	0	0	2	3	2	7	2	2	0	1	0	1	3	0	1	0	0	5.0	0	9	The mixing of religion and militarism is a whole other topic, and there is much debate about its impact on society.	1
+30	1	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	26	 The chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	13	 Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+31	2	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	13	Finally a chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+30	1	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	26	A chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+30	1	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	26	 The chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+30	1	1	2	4	1	6	3	5	1	3	0	2	0	1	2	2	0	4.0	1	26	 The chambermaid stuck her head around the corner from the top of the stairs and told us sternly that we could not be accommodated until 3M, no exceptions.	1
+12	0	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	4.0	0	9	 The mixing of religion and militarism is a whole other topic.	1
+31	2	0	6	1	1	2	2	2	6	4	0	3	1	2	1	0	0	6.0	2	9	" There still is a very hot pursuit of the ""Atta-level"" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting."	1
+21	1	0	2	2	2	4	2	2	0	1	0	2	2	0	2	0	0	4.0	0	9	  The mixing of religion and militarism is a whole other topic, but I am not looking forward to that.	1
+21	1	0	2	2	2	4	2	2	0	1	0	2	2	0	2	0	0	4.0	0	9	The mixing of religion and militarism is a whole other topic, and I am not looking forward to that.	1
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	 I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	 I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+17	0	0	3	0	2	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	12	The movie was exciting, and the acting was superb, but the plot was predictable.	2
+18	1	0	3	0	2	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	13	The dress was beautiful, and the shoes were perfect, but the handbag was too expensive.	2
+16	0	0	2	1	2	3	2	3	0	1	0	1	1	0	2	1	0	3.0	0	10	I am interested in the car and the bike, but I prefer the car.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+15	0	0	2	0	2	3	0	3	0	1	0	2	2	0	2	0	0	3.0	0	10	The movie was engaging and captivating, but the ending was a bit anticlimactic.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+26	0	1	2	0	2	3	5	1	0	3	0	4	2	3	3	2	0	5.0	3	9	My brother and sister are visiting me this summer, but I'm not sure if I'm going to be able to make it.	2
+21	0	1	2	0	2	6	4	1	0	3	0	0	2	1	3	3	0	4.0	1	10	The doctor prescribed me pain meds and other drugs, but she recommended that I try her unique bodytalk method.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+13	0	0	2	0	2	2	0	2	0	1	0	2	2	0	2	0	0	3.0	0	8	The weather was hot and humid, and the beach was crowded.	2
+28	4	0	2	0	2	4	1	4	0	2	0	3	5	1	2	2	0	5.0	1	10	A vibrant purple dress and a stylish jacket would have perfectly complemented the event, but the weather was far too hot to wear anything so heavy.	2
+22	2	0	2	1	3	5	0	4	0	3	0	2	0	0	3	1	0	4.0	0	11	The house was on fire and the cat was trapped inside, but the firefighters arrived quickly and saved the cat.	2
+28	1	0	3	1	2	3	3	3	0	5	0	2	1	3	3	3	0	4.0	3	18	I planned to buy the car, but the salesman messed up the deal, and I'm not going to be able to afford it now.	2
+13	0	0	2	0	2	2	0	2	0	0	0	2	3	0	2	0	0	3.0	0	8	The book was engaging and informative, but the plot was predictable.	2
+17	0	0	3	0	2	3	0	3	0	1	0	3	2	0	3	0	0	3.0	0	12	The movie was entertaining, and the acting was superb, but the plot was lacking.	2
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The coffee was cold, but the pastry was delicious.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	 I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+17	0	0	3	0	2	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	12	The movie was entertaining, and the acting was superb, but the storyline was predictable.	2
+22	1	0	3	2	2	4	4	2	0	2	0	1	1	0	3	2	0	3.0	0	11	 The train was late, and I missed my connection, but I still made it to the meeting on time..	2
+22	1	0	2	2	3	5	0	4	0	3	0	2	0	0	3	1	0	4.0	0	11	The house was on fire and the smoke was pouring out, but the firefighters arrived quickly and extinguished the blaze.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+24	0	0	3	1	2	4	3	3	0	3	0	3	1	1	4	2	0	4.0	1	19	 I would have bought the car, but the sales guy I dealt with ruined the deal, and I'm not happy.	2
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The movie was entertaining, but the plot was predictable.	2
+19	0	0	2	1	2	5	1	4	0	1	0	1	1	0	2	1	0	4.0	0	13	I was passionate about the book and the movie, but the actor's performance ruined the experience.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	 I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+25	2	0	4	2	2	1	2	3	1	2	0	2	2	1	2	0	0	3.0	1	13	" ""And so we can compete against each other all the time within Australia, but we really need to be able to..."""	2
+17	1	0	2	0	2	4	0	3	0	0	0	2	3	0	2	0	0	4.0	0	12	The book was captivating and informative, but the writing style was a bit too verbose.	2
+22	0	0	3	1	2	3	3	3	0	2	0	3	1	0	3	1	0	3.0	0	14	The book was an engaging read, and I was engrossed in the plot, but I couldn't finish it.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+24	2	0	2	2	2	4	3	3	0	2	0	2	2	0	4	1	1	3.0	1	16	The sales guy I dealt with ruined the deal and I was extremely interested in the car, but I was ultimately disappointed.	2
+25	0	0	2	2	2	6	1	4	0	3	0	2	2	1	3	1	0	4.0	1	12	The house was for sale and the owners were moving, but the real estate agent neglected to inform them of the open house.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+15	0	0	2	0	2	2	0	2	0	1	0	2	3	1	2	0	0	3.0	1	10	The book was captivating and easy to read, but the characters were underdeveloped.	2
+15	0	0	2	0	3	2	2	0	0	0	0	2	4	0	2	0	0	3.0	0	8	My cat is cuddly and loving, but my dog is playful and energetic.	2
+13	0	0	2	0	2	2	0	2	0	0	0	2	3	0	2	0	0	3.0	0	8	The book was engaging and informative, but the plot was predictable.	2
+24	0	0	2	1	2	6	2	3	0	2	0	1	4	1	2	1	0	4.0	1	9	A delicious apple and banana split were my favorite dessert during the picnic, but the hot weather made it impossible to enjoy.	2
+23	1	0	2	1	2	4	3	3	0	3	0	3	1	1	4	2	0	4.0	1	11	I would have bought the car, but the sales guy I dealt with ruined the deal and I was extremely disappointed.	2
+20	1	0	3	1	2	4	0	4	0	2	0	2	1	0	3	0	0	3.0	0	16	The team worked hard on the project, and the results were impressive, but the deadline was missed.	2
+13	0	0	2	0	2	2	0	2	0	0	0	2	3	0	2	0	0	3.0	0	8	 The movie was exciting and entertaining, but the plot was predictable.	2
+15	1	0	3	0	2	2	0	2	0	1	0	2	2	0	2	0	0	3.0	0	10	The movie was captivating and well-acted, but the plot was predictable.	2
+16	0	0	2	0	2	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	11	The coffee was cold and the bread was stale, but the music was good.	2
+24	1	0	2	1	3	6	0	5	0	4	0	1	0	1	3	2	0	5.0	1	11	The house was on fire and the smoke filled the air, but the firefighters arrived quickly and managed to save the building.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+13	0	0	2	0	2	2	0	2	0	0	0	2	3	0	2	0	0	3.0	0	8	The movie was enjoyable and captivating, but the acting was mediocre.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+26	3	0	2	2	2	4	3	3	0	3	0	3	1	1	3	2	0	4.0	1	19	I was extremely interested in the car and very likely would have bought it, but the sales guy I dealt with ruined the deal.	2
+16	0	0	3	0	1	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	11	The coffee was cold, the bread was stale, and the weather was dreary.	3
+17	0	0	3	1	1	7	0	2	0	2	0	0	1	1	1	1	0	5.0	1	6	The website has a new section dedicated to news articles, blog posts, and recipes.	3
+32	0	2	4	1	2	8	1	2	0	3	0	1	7	3	1	1	0	7.0	3	8	The upcoming election campaign promises to be exciting, with various candidates vying for the presidency and their contrasting platforms on tackling social issues, economic growth, and foreign policy.	3
+33	3	1	2	0	3	7	2	2	0	7	0	2	2	3	2	4	0	6.0	3	18	The new harbor facilities will allow fisherman to sell and catch more easily, make importing food and fuel simpler and will also provide a place for them to store their boats.	3
+21	1	0	1	3	1	1	1	2	6	1	1	2	1	1	2	0	0	4.0	1	11	The experience with Michael and Barrett Motor Cars of San Antonio was one of the best I have ever had.	3
+22	0	0	3	3	2	6	0	2	3	2	0	0	1	0	1	2	0	5.0	0	11	 The museum exhibits display paintings from Italy, France, and Spain and provide valuable insights into the history of art.	3
+19	1	0	4	1	1	2	1	2	0	2	0	1	3	1	2	0	0	4.0	1	9	The weather was sunny, cloudy, and windy, so we decided to go to the park.	3
+33	1	0	5	3	3	6	6	2	0	4	0	1	1	1	2	2	0	6.0	1	14	 My family consists of my wife, myself, and our dog, and we recently adopted a new puppy, and are thrilled to have him as part of the family.	3
+19	2	0	3	0	1	3	0	3	0	0	0	3	4	0	3	0	0	3.0	0	13	The coffee was too hot, the tea was too cold, and the orange juice was perfect.	3
+33	1	0	3	3	3	9	1	3	0	3	0	4	3	0	2	0	0	5.0	0	16	The computer system has been upgraded with new hardware and software, and there are plans for a new data center, and the integration of new systems will be completed soon.	3
+32	1	0	3	2	3	6	2	4	0	6	0	3	1	1	2	3	0	5.0	1	13	The site has been updated to include a LOST and FOUND page, and you can now join our branch and make a secure on-line donation to the charity.	3
+33	0	0	3	4	1	12	0	7	0	3	0	0	3	0	3	3	0	5.0	0	22	The museum has a large collection of priceless art pieces, the theater has a diverse selection of play performances, and the library has a plethora of books for all interests.	3
+29	1	0	3	2	3	6	1	5	0	6	0	1	1	0	2	3	0	5.0	0	11	The updated site includes a LOST and FOUND page, and you can now join the branch and make a secure on-line donation to the charity.	3
+20	1	0	3	1	2	5	3	1	0	1	0	2	1	0	3	0	0	4.0	0	10	My friend is a photographer, and he specializes in portraits, and weddings are his most popular events.	3
+26	1	0	3	1	2	4	1	4	0	3	0	2	3	2	3	1	0	4.0	2	13	The recent protests in the city were disruptive, and the police were quick to respond, but they ultimately failed to quell the unrest.	3
+30	1	0	3	2	3	10	0	4	0	2	0	1	3	0	3	2	0	4.0	0	20	The painting includes several portraits, and the sculptor's models and oil paintings are also on display, and these artworks exhibit a wide range of artistic styles.	3
+17	0	0	3	1	1	5	3	2	0	1	0	0	1	0	1	1	0	3.0	0	7	 My brother, my sister, and I planned a trip to the beach last weekend.	3
+26	3	0	1	1	3	6	2	0	0	6	0	1	2	3	1	2	0	9.0	3	6	  There are also plans for new harbor facilities that will allow fisherman to sell and catch more easily and make importing food and fuel simpler.	3
+26	0	0	3	3	2	6	0	6	0	3	0	3	0	0	3	0	0	4.0	0	9	The cat is sitting on the mat, and the dog is playing with the ball, and the fish are swimming in the tank.	3
+32	1	0	3	2	3	6	2	4	0	6	0	3	1	1	2	3	0	5.0	1	13	The website has been updated to include a LOST and FOUND page, and you can now join our branch and make a secure on-line donation to the charity.	3
+25	2	0	3	2	2	2	0	2	4	1	0	0	6	0	1	1	0	4.0	0	8	 The Jordanian Zarqawi's Monotheism and Holy War group in Afghanistan probably had a distinctive coloration as mainly Jordanian, Palestinian, and Syrian.	3
+20	1	0	3	3	1	4	0	2	3	1	0	1	1	0	1	0	0	5.0	0	11	 The recent protests on the streets of Paris, Rome, and Amsterdam were primarily about rising fuel prices..	3
+15	0	0	3	1	1	4	2	1	0	2	0	0	0	1	1	1	0	3.0	1	6	My brother, sister, and I went to the park to play volleyball.	3
+31	1	0	4	1	2	6	3	2	0	8	1	1	1	3	1	5	0	7.0	3	10	 I have completed numerous tasks in my lifetime, including purchasing over 15 vehicles, adopting a dog, and updating our site to include a LOST and FOUND page.	3
+21	0	0	3	1	1	9	0	4	0	1	0	1	1	0	1	0	0	3.0	0	11	The computer science department, the mathematics department, and the physics department are collaborating on a new research project.	3
+26	0	0	4	2	1	7	1	6	0	2	0	0	3	1	1	2	0	5.0	1	11	The recent storm damaged my garden, the roof, and the patio, leaving a significant impact on the overall state of the property.	3
+22	1	0	4	1	2	5	0	4	0	2	0	3	0	0	3	0	0	4.0	0	10	 The book is a collection of stories, and the characters are well-developed, and the plot is engaging.	3
+29	1	0	3	2	3	6	1	5	0	6	0	1	1	0	2	3	0	5.0	0	11	The updated site includes a LOST and FOUND page, and you can now join the branch and make a secure on-line donation to the charity.	3
+24	2	0	3	1	2	5	2	1	0	4	0	2	2	0	3	3	0	4.0	0	15	The new technology has revolutionized medicine, and it has improved access to treatment, and it has also made diagnoses more accurate.	3
+28	0	0	3	2	3	6	1	5	0	6	0	1	1	0	2	3	0	5.0	0	10	The updated website includes a LOST and FOUND page, and you can join the branch and make a secure on-line donation to the charity.	3
+31	0	0	5	3	2	11	1	2	0	2	0	0	5	1	2	2	0	8.0	1	8	The restaurant offered a wide variety of healthy and delicious food options, which included vegetarian fare, gluten-free options, and options for people with dairy allergies.	3
+21	1	0	4	0	2	4	0	4	0	2	0	3	1	0	3	0	0	4.0	0	8	The book was a compelling read, and the characters were well-developed, and the plot was engaging.	3
+37	1	0	5	3	2	10	0	7	0	6	0	0	2	3	1	3	0	9.0	3	15	The website has a number of informative pages, including a LOST and FOUND page, a membership page, and a page detailing how to make a secure on-line donation to the charity.	3
+32	3	0	3	1	1	6	1	4	0	7	1	2	2	3	3	3	0	5.0	3	12	The provided text contains examples where 3 coordinating conjunctions are used, therefore I have crafted a sentence incorporating the same structure, albeit not necessarily related to the text provided.	3
+17	0	0	3	0	1	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	12	The coffee is bitter, the tea is cold, and the juice is not refreshing.	3
+27	0	0	4	2	2	6	2	4	0	5	0	1	1	0	2	3	0	5.0	0	9	The website has a LOST and FOUND page, you can join our branch, and make a secure on-line donation to the charity.	3
+20	0	0	3	1	2	4	0	4	0	3	0	3	0	0	3	0	0	4.0	0	9	The cat was playing with the ball, and the dog was sleeping, and the fish were swimming.	3
+16	0	0	3	0	1	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	11	The boat is red, the sails are green, and the crew is blue.	3
+16	1	0	3	1	1	4	0	4	0	1	0	1	0	0	1	0	0	3.0	0	9	The cat, the fish, and the dog were playing together on the rug.	3
+30	2	0	3	2	3	6	1	5	0	6	0	1	1	0	2	3	0	5.0	0	11	The newly updated site includes a LOST and FOUND page, and you can now join the branch and make a secure on-line donation to the charity.	3
+32	1	0	3	2	3	7	3	4	0	6	0	2	1	1	3	4	0	6.0	1	14	The website has undergone updates that include a LOST and FOUND page, and you can now join our branch and make a secure on-line donation to the charity.	3
+32	2	0	5	3	3	3	0	2	4	1	0	0	8	0	1	1	0	5.0	0	12	The Jordanian, Palestinian, and Syrian influences on Zarqawi's Monotheism and Holy War group in Afghanistan probably had a distinctive coloration as mainly Jordanian, Palestinian, and Syrian.	3
+16	0	0	3	0	1	3	0	3	0	2	0	3	1	0	3	0	0	3.0	0	11	The weather was pleasant, the garden was blooming, and the birds were chirping.	3
+18	0	0	3	0	1	5	0	3	0	1	0	3	2	0	3	0	0	3.0	0	13	The kitchen was tidy, the dining room was clean, and the living room was rearranged.	3
+17	0	0	3	0	1	4	0	3	0	0	0	3	3	0	3	0	0	3.0	0	11	 The boat trip was enjoyable, the weather was sunny, and the snacks were plentiful.	3
+25	0	0	6	2	2	7	0	2	3	2	0	0	1	1	1	1	0	5.0	1	10	 The museum exhibits include a collection of paintings, sculptures, and artifacts from various countries, including France, Italy, and Spain.	3
+39	1	0	5	4	3	6	3	2	6	3	2	2	1	1	3	1	0	8.0	1	17	I have purchased over 15 vehicles (cars, rvs, and boats) in my lifetime and I have to say the experience with Michael and Barrett Motor Cars of San Antonio was one of the best.	3
+31	2	0	4	4	2	8	0	2	3	2	0	0	4	1	1	2	0	8.0	1	11	The museum exhibit displayed photographs and artifacts showcasing various cultural traditions from Italy, France, and Germany, as well as historical footage of cultural practices in those countries.	3
+29	1	0	3	2	3	7	1	5	0	5	0	1	1	0	2	3	0	5.0	0	11	The website updates included a LOST and FOUND page, and you can now join the branch and make a secure on-line donation to the charity.	3
+16	2	0	3	1	1	3	4	0	0	0	0	1	1	0	1	0	0	3.0	0	11	My dog, my cat, and my fish are all very important to me.	3
+35	1	0	4	2	2	9	2	4	0	6	0	2	1	2	2	3	0	6.0	2	18	The student was awarded a scholarship, participated in the science fair, and was named valedictorian, but he still managed to find time to volunteer his time at the local soup kitchen.	4
+23	0	0	4	3	1	5	0	5	0	4	0	1	0	1	1	1	0	4.0	1	11	The cat was chasing the ball, jumping over the fence, racing down the street, and playing with the children.	4
+13	0	0	0	2	0	3	1	2	0	3	0	1	0	1	1	1	0	3.0	1	7	 The respondents were asked to indicate their race from among the following categories	4
+23	1	0	5	1	1	7	1	1	0	3	0	0	3	1	1	1	0	4.0	1	10	The participants presented their answers in various formats, including written text, numerical figures, photographs, and even artistic expressions.	4
+31	0	1	4	2	2	7	1	6	0	5	0	2	1	2	3	3	0	5.0	2	10	The team was working on a project, presented the results, and discussed the future direction, while the manager supervised the process and ensured everything was on track.	4
+36	0	0	6	4	3	4	3	3	4	3	0	3	2	1	3	1	0	4.0	1	17	The student was studying English, Math, History, and Biology at the same time, but he was struggling to keep up with the workload, and he was concerned about his grades.	4
+35	1	1	4	2	4	6	3	4	0	6	0	4	0	1	4	1	0	4.0	1	26	The suspect was accused of stealing the purse and running away, but he was caught in the park, and his mugshot was taken, and he was taken to the police station.	4
+38	1	0	5	3	1	10	1	2	0	7	0	1	6	3	1	5	0	6.0	3	16	A multifaceted approach to the issue of poverty was implemented to effectively address its various aspects, including improving access to affordable housing, creating new job opportunities, providing financial assistance, and bolstering educational attainment.	4
+21	0	0	1	5	0	6	0	4	0	1	0	2	2	0	1	0	0	3.0	0	9	A delicious assortment of pastries can be enjoyed with a cup of coffee in the cozy atmosphere of this cafe.	4
+36	1	0	3	5	4	5	4	5	0	5	1	1	2	1	3	2	0	4.0	1	21	He was in his 30s divorced and had 2 kids, but we both flirted horribly with each other, but neither one of us took the chance and asked to other on a date.	4
+33	1	0	5	3	2	9	2	3	0	5	0	1	1	2	2	3	0	5.0	2	21	My family was involved in a variety of activities yesterday, including cooking, watching movies, and playing games, but we also went to the park to have a picnic.	4
+36	1	0	3	5	4	5	4	5	0	5	1	1	2	1	3	2	0	4.0	1	21	He was in his 30s divorced and had 2 kids, but we both flirted horribly with each other, but neither one of us took the chance and asked to other on a date.	4
+31	0	0	7	1	3	6	1	4	0	5	0	3	1	0	3	2	0	3.0	0	23	"""A young woman was dancing in the park, singing karaoke, and eating a hamburger, but her dog was barking, and the sun was shining."""	4
+21	0	0	2	2	1	6	0	3	0	1	0	1	5	0	1	0	1	5.0	1	14	A basket filled with colorful fruits, vibrant vegetables and mouthwatering sweet treats was a centerpiece at the festive gathering.	4
+40	2	0	5	5	3	15	1	3	0	3	0	1	1	2	1	2	0	8.0	2	24	The homeowners association has implemented rules to ensure the safety and security of its residents, including guidelines for parking, maintenance, and the use of common areas, as well as regulations against noise pollution and vandalism.	4
+27	0	1	4	2	1	7	1	5	0	4	0	1	1	1	1	2	0	6.0	1	10	The students were tasked with completing a group project, presenting their findings, and participating in a debate, all within a limited time frame.	4
+19	0	0	3	3	1	4	1	2	0	2	0	2	1	0	2	0	0	3.0	0	12	 The prisoners were brought to court, and after a brief hearing, they were sentenced to death.	4
+27	1	0	2	2	1	5	4	2	0	3	0	2	4	2	3	2	0	4.0	2	15	A young woman was shopping for groceries when she encountered her old high school friends, but she was unable to find them in the store.	4
+24	1	1	3	1	1	4	3	4	0	4	0	2	0	2	4	2	0	4.0	2	10	The suspects were apprehended after they committed the crime, and the officers chased them into the woods, where they were caught.	4
+37	0	0	2	5	4	9	2	4	2	3	0	2	4	1	3	1	1	7.0	2	14	The sentence generated from the provided instruction is:  Many of the neighborhoods are commercial centers and absolute heaven for foodies or those who seek quieter surroundings than the hustle and bustle of Downtown and Chinatown.	4
+36	1	0	3	5	4	5	4	5	0	5	1	1	2	1	3	2	0	4.0	1	21	He was in his 30s divorced and had 2 kids, but we both flirted horribly with each other, but neither one of us took the chance and asked to other on a date.	4
+37	0	0	6	2	4	3	2	2	1	4	0	1	11	2	2	2	0	9.0	2	19	The respondents were asked to indicate their race from among the listed categories, which included White, Black or African American, Hispanic, American Indian or Native American, and Asian or Pacific Islander.	4
+36	2	0	3	5	1	8	4	3	0	4	2	2	0	1	3	1	0	4.0	1	12	 The prisoners were released from their cells at 3:00 PM, but they were not allowed to leave the prison yard until 5:00 PM, so they waited patiently in their cells until that time.	4
+22	0	0	4	2	1	7	1	0	0	5	0	0	2	1	1	3	0	4.0	1	11	 Many people enjoy watching movies, reading books, listening to music, or playing video games in their free time.	4
+28	0	0	1	4	4	7	2	2	2	1	0	1	4	1	2	1	0	7.0	1	6	Many of the neighborhoods are commercial centers and absolute heaven for foodies or those who seek quieter surroundings than the hustle and bustle of Downtown and Chinatown.	4
+9	0	0	1	1	0	2	0	1	0	2	1	1	0	0	1	0	1	4.0	1	6	The sentence generated with 4 coordinating conjunctions is: The movie was a commercial success, but critics panned its acting and plot, yet it remained a popular choice among audiences.	4
+25	1	1	3	3	0	4	1	3	0	4	0	1	4	3	2	0	0	6.0	3	8	The participants were divided into different teams, each working simultaneously on the same task, while remaining focused on their own unique goals.	4
+28	0	0	5	1	4	2	0	1	1	1	0	1	11	0	1	0	0	5.0	0	19	The residents' races were recorded as White, Black or African American, Hispanic, American Indian or Native American, and Asian or Pacific Islander.	4
+18	1	0	4	0	1	4	1	3	0	4	0	0	0	0	1	3	0	3.0	0	12	The employees worked together, completed the project, delivered the product, and celebrated their achievement.	4
+23	0	0	4	0	1	6	0	4	0	3	0	4	1	0	4	1	0	3.0	0	18	 The guests were served drinks, the music was playing, the dance floor was packed, and the atmosphere was electric.	4
+27	1	0	3	2	1	5	2	3	0	4	0	3	2	2	3	1	0	4.0	2	17	The prisoner was apprehended, but the evidence was insufficient to convict him for the crime, therefore he was released on bail pending further investigation.	4
+22	0	0	3	2	1	4	2	3	0	3	0	3	1	0	3	1	0	4.0	0	12	A young boy was playing in the park, he was laughing, and he was having a lot of fun.	4
+28	0	0	1	4	4	7	2	2	2	1	0	1	4	1	2	1	0	7.0	1	6	  Many of the neighborhoods are commercial centers and absolute heaven for foodies or those who seek quieter surroundings than the hustle and bustle of Downtown and Chinatown.	4
+35	0	0	6	2	4	3	1	2	1	3	0	1	11	1	1	1	0	7.0	1	19	The respondents were asked to indicate their race from among the following categories: White, Black or African American, Hispanic, American Indian or Native American, and Asian or Pacific Islander.	4
+29	0	0	3	6	0	8	0	4	0	3	0	0	5	1	1	1	0	4.0	1	15	The various neighborhoods in the city offer a diverse range of experiences, from bustling commercial centers to quieter surroundings, catering to a wide range of preferences.	4
+13	0	0	0	2	0	3	1	2	0	3	0	1	0	1	1	1	0	3.0	1	7	 The respondents were asked to indicate their race from among the following categories	4
+29	1	1	4	3	2	4	0	2	0	6	0	2	2	3	1	1	0	4.0	3	11	 Many of the students were studying for finals, were tired from studying, but still managed to go to the party, and brought snacks to share.	4
+13	0	0	0	2	0	3	1	2	0	3	0	1	0	1	1	1	0	3.0	1	7	 The attendees were asked to specify their race from among the listed categories	4
+33	0	0	7	2	2	10	2	3	0	4	0	1	1	2	2	2	0	4.0	2	24	The participants were asked to provide their age, gender, occupation, race, and income level, and based on that information, the system provided them with personalized recommendations.	4
+9	0	0	1	0	0	2	0	1	0	3	1	1	0	0	1	1	2	5.0	2	6	The sentence generated using 4 coordinating conjunctions is: The prisoners were transferred to different cells, distributed among various other facilities, but they were all supervised by guards, yet none of the prisoners ever escaped.	4
+39	0	1	1	5	5	10	0	4	0	5	0	5	2	3	2	0	0	6.0	3	15	 No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.	4
+22	0	0	4	1	2	7	2	0	0	1	0	2	3	0	2	1	0	4.0	0	18	I have read many books about science fiction, fantasy, and historical fiction, and my favorite genre is fantasy.	4
+23	0	0	3	4	2	6	0	3	0	0	0	1	4	0	1	0	0	6.0	0	5	The book is captivating, interesting, and full of insights into the nature of humanity and the complexities of social interactions.	4
+12	1	0	1	0	1	2	0	2	0	3	0	2	0	0	2	0	0	3.0	0	7	The task was completed successfully and the requested sentence was generated: No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.	4
+22	0	0	4	3	1	5	2	2	0	4	0	1	0	2	2	1	0	4.0	2	12	 The students were working on their projects, preparing for presentations, but the power went out, interrupting their progress.	4
+19	2	0	3	0	2	2	1	2	0	1	0	3	3	0	3	0	0	4.0	0	9	The house was large and ornate, however, it was poorly maintained and the furnishings were outdated.	4
+33	0	0	2	4	4	8	2	3	2	2	0	2	4	1	3	1	1	7.0	2	10	The sentence generated is:  Many of the neighborhoods are commercial centers and absolute heaven for foodies or those who seek quieter surroundings than the hustle and bustle of Downtown and Chinatown..	4
+21	0	0	5	1	1	7	0	1	0	2	1	1	2	1	1	1	0	5.0	1	7	The students were given homework assignments on four different subjects, including English, math, science, and history.	4
+22	0	1	4	2	1	4	0	1	0	3	0	1	5	1	1	0	0	4.0	1	11	Many people are involved in several activities such as studying, reading, working, and exercising at the same time.	4
+25	0	0	5	3	1	10	0	3	0	2	0	1	0	1	1	1	0	5.0	1	16	The guests were served a variety of dishes, including pasta, chicken wings, and pizza, in addition to the buffet offerings.	4

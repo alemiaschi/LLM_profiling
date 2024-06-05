@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_pre_constraint
+27	2	2	2	2	1	0	3	0	5	0	3	1	4	6.0	11	2	2	3	2	0	She smiled, but they were not prepared to receive such negativity from him, especially since she had never experienced such treatment in her life.	0
+21	2	2	1	0	0	3	5	0	2	0	2	0	3	4.0	7	1	1	2	1	0	Even the old man's stories hold an undeniable truth, which shines through his eyes at any given moment.	0
+18	0	1	3	2	0	1	3	0	2	0	2	1	2	2.0	8	1	0	2	1	1	Even though I haven't seen anyone today, the rain has already poured nonstop since morning.	0
+20	3	3	0	1	1	2	6	0	1	0	3	0	0	3.0	10	0	0	1	0	0	 **Despite their small size, the microorganisms within each tiny creature are powerful forces for life and death.**	0
+23	3	4	1	0	1	4	7	0	0	0	2	0	1	6.0	5	0	0	1	0	0	The majestic eagle soared effortlessly into the sky, a testament to pure will and grace in a world of endless limitations.	0
+11	1	1	0	1	0	3	3	0	0	0	2	0	0	2.0	7	0	0	1	0	0	Despite the rain, the party was a grand success.	0
+5	0	0	0	0	0	1	1	0	0	0	2	0	0	1.0	3	0	0	0	0	0	Sure, no problem.	0
+11	0	2	2	1	0	1	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The city is bustling with activity even late at night.	0
+9	0	0	0	0	0	2	2	0	0	0	2	0	3	3.0	3	2	2	1	1	0	  The rain fell, leaving the streets soaked.	0
+12	0	2	1	0	0	3	3	0	0	0	2	0	1	2.0	4	0	0	1	0	0	 Even in a moment, the sun rises in the east.	0
+20	3	1	0	0	0	2	4	0	3	0	2	0	3	4.0	9	2	1	1	3	1	Despite her strong desire to escape her responsibilities, the young woman found herself unable to resist the temptation.	0
+13	0	2	3	0	0	1	3	0	1	0	1	0	2	4.0	5	1	1	2	0	0	She dreamt of a world where people no longer suffered from pain.	0
+9	2	1	0	0	0	0	1	0	2	0	2	0	1	3.0	5	0	0	1	1	0	  She eats nothing but cold, dark water.	0
+11	1	0	1	1	0	2	2	0	0	0	1	0	2	4.0	3	2	2	1	1	0	  The rain was gentle enough to avoid causing a storm..	0
+13	1	1	1	0	0	3	3	0	0	0	2	0	2	4.0	4	1	1	1	1	0	The rain fell softly, leaving no trace on the desolate ground.	0
+17	1	1	0	2	0	2	3	0	2	0	2	1	3	6.0	4	2	2	2	1	0	  She is enjoying the sunset, a rare treat that occurs without being obscured by clouds.	0
+11	1	2	0	0	0	2	3	0	1	0	1	0	1	3.0	5	0	0	1	1	0	 The absence of rain kept everyone on the street safe.	0
+19	2	1	0	0	0	4	6	0	0	0	3	0	3	5.0	8	2	2	1	1	0	The rain poured, washing the city streets clean, a gentle symphony conducted by the wind chimes.	0
+7	0	0	0	0	0	0	0	0	3	0	1	0	2	3.0	2	1	1	0	1	0	 There was nobody to save her.	0
+20	1	2	1	0	0	4	6	0	1	0	2	1	2	3.0	11	1	1	2	2	0	The rain brought no tears to her eyes, even as the wind whispered secrets in the barren wasteland.	0
+15	1	0	1	1	0	2	3	0	2	0	2	1	2	3.0	8	1	0	2	2	1	Although she had planned the event meticulously, the unforeseen circumstance derailed her preparations.	0
+11	0	1	1	0	0	1	2	0	2	0	1	1	2	3.0	5	1	1	1	1	0	  She went to the store without leaving her keys behind.	0
+20	3	1	0	0	1	3	5	0	0	0	2	1	3	4.0	14	2	0	1	1	2	Despite the overwhelming evidence and clear instructions provided, the team's performance in completing the task remains abysmal.	0
+19	0	0	1	1	1	4	5	0	0	0	2	0	4	4.0	8	2	2	2	1	0	The sun sets every day and rises every day, implying an existence where time does not exist.	0
+13	0	2	0	0	0	3	4	0	0	0	1	1	2	3.0	4	1	1	1	1	0	  The absence of rain prevented a boat from navigating across the harbor.	0
+14	1	1	0	1	0	2	4	0	1	0	3	0	1	2.0	5	0	0	1	1	0	" ""The old oak tree is whispering its secrets to the squirrels."""	0
+30	4	4	0	0	1	6	8	0	0	0	3	0	3	5.0	9	1	1	1	2	0	The morning sunrise, free from the distractions of day, provided the perfect opportunity to reflect on the past year and chart a new path for the future.	0
+9	0	0	1	1	0	1	1	0	1	0	3	0	1	2.0	3	0	0	1	1	0	  *I have never seen a unicorn.*	0
+19	2	2	1	1	0	3	4	1	0	0	2	0	2	7.0	4	2	2	0	1	0	Sure, below is a sentence generated from the instruction with 0 subordinate propositions preceding the main clause:  My sister and I went to the park to play.	0
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	"Certainly! A sentence that adheres to the instructions and has 0 sub propositions preceding the main clause is:  ""Time will carry on regardless of our efforts."""	0
+20	1	2	0	0	0	3	6	0	1	0	2	1	4	5.0	8	3	3	2	1	0	 The old man sat on the park bench for hours, watching his children play until the sunlight vanished.	0
+19	4	3	1	0	0	3	4	0	1	0	2	0	1	3.0	11	0	0	1	0	0	The sun shone brightly in the vast, endless sky despite its low placement in the celestial hierarchy.	0
+18	2	3	0	0	0	3	4	0	1	0	2	0	3	5.0	5	2	2	1	0	0	She stood by the window, staring at a single butterfly fluttering through the open window sill.	0
+49	3	7	0	2	2	6	11	0	3	0	6	0	7	6.0	18	4	3	4	1	1	Sure, a sentence that adheres to the instruction and generates the desired output is:  **Despite the relentless onslaught of distractions from social media and external chaos, the artist persevered with their craft, leaving behind a legacy that would echo for generations to come.**	0
+21	4	3	0	0	0	4	5	0	1	0	2	0	2	3.0	11	1	1	1	2	0	 The vibrant sunset cast an endless array of colors across the tranquil lake, painting it with an ethereal glow.	0
+22	1	3	1	0	0	3	5	0	3	0	3	0	3	4.0	12	2	2	3	0	0	She sat quietly, her eyes fixed on the clouds, their laughter echoing through the serene silence of the evening.	0
+16	3	2	0	0	0	4	4	0	0	0	2	0	1	2.0	7	0	0	1	1	0	Despite the storm, the brave explorer braved the treacherous path to the ancient ruins.	0
+20	2	2	0	0	0	4	5	0	2	0	2	0	3	5.0	10	2	2	2	3	0	  The vibrant sunset cast a kaleidoscope of colors over the placid lake, enchanting all who witnessed its beauty.	0
+17	1	0	1	2	1	2	3	0	0	0	2	2	2	4.0	9	1	1	2	0	0	The rain is pouring, independent of whether or not the thunder clouds have formed yet.	0
+12	0	1	1	1	0	2	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	The rain is falling, casting shadows all around the lake.	0
+10	0	0	0	0	0	2	3	0	1	0	1	1	2	3.0	3	1	1	1	2	0	  The rain prevented everyone from attending the dance party.	0
+29	3	2	0	2	0	4	6	0	2	0	2	1	4	5.0	14	4	4	2	4	0	I cannot create sentences with no subordinate propositions preceding the main clause, as I am unable to generate sentences without any information to connect the clauses.	0
+16	1	1	1	0	0	1	3	0	2	0	2	0	3	4.0	5	1	1	1	1	0	 Despite her repeated attempts, she never managed to get the lead character's attention.	0
+12	1	0	0	0	0	3	4	0	0	0	2	0	2	3.0	4	1	1	1	2	0	The sunrise cast no shadows, highlighting the colorful morning sky.	0
+15	1	3	0	0	0	4	5	0	0	0	1	0	1	3.0	11	0	0	1	0	0	The rain fell without a single drop landing on the leaf during the storm.	0
+13	0	1	2	0	0	0	2	0	4	0	2	0	2	3.0	5	1	1	2	2	0	 He left his coat at home, where he often keeps it.	0
+16	1	1	2	0	1	0	2	0	3	0	2	1	3	3.0	6	1	0	2	1	1	Even though he failed multiple times, he never gave up and achieved his goal.	0
+11	1	1	0	0	0	3	4	0	0	0	1	0	1	2.0	7	0	0	1	1	0	The rain brought a refreshing calmness to the city streets.	0
+19	5	1	1	1	0	4	4	0	0	0	2	0	1	6.0	4	1	1	1	1	0	The bustling streets were silent, a quiet murmur only audible to the vigilant eyes watching every movement.	0
+8	0	0	0	0	0	0	2	0	2	0	1	1	2	3.0	3	1	1	1	2	0	She went shopping without leaving her home.	0
+16	1	1	1	0	0	3	2	0	2	0	2	1	3	4.0	5	2	2	2	1	0	The rain arrived, surprising everyone since it seldom occurs on such a hot day.	1
+18	1	1	1	0	0	4	5	0	0	0	3	0	3	4.0	9	1	1	1	1	0	The sun rose early this morning, casting a warm glow on the snow-covered landscape.	1
+30	2	4	3	1	1	4	5	0	3	0	3	0	4	4.0	16	3	1	3	0	2	The old tree that stood in the yard, which no one had used in decades, suddenly appeared thriving and full of life once again after a storm.	1
+18	1	4	0	0	0	3	5	0	1	1	1	0	2	4.0	9	1	0	2	0	1	The old man who walked past the cemetery on Monday afternoon looked for a sign of life.	1
+21	2	3	0	0	0	5	5	0	0	0	3	0	2	4.0	7	1	1	1	1	0	The rain, despite the dreary weather, caused the flowers to bloom with an enchanting melody in the park.	1
+31	3	3	2	0	1	2	8	1	3	0	3	0	4	4.0	14	3	2	2	2	1	My grandmother's house, whose beauty surpasses any painting, stood untouched for ten years before a renovation and fresh coat of blue paint brought it shimmering once again.	1
+15	0	1	0	1	0	2	2	0	1	1	2	1	3	3.0	6	2	1	1	1	1	  Despite being overworked, Sarah managed to accomplish all her tasks without any errors..	1
+7	0	0	0	0	0	1	1	0	1	0	2	0	1	2.0	3	0	0	1	1	0	Sure, I understand the prompt.	1
+17	1	2	1	0	0	2	4	0	2	0	2	0	3	4.0	6	2	2	1	1	0	My dog ran quickly through the garden, leaving his muddy leash tangled on the way.	1
+21	4	1	1	0	1	3	3	0	1	0	4	0	3	4.0	8	2	1	1	2	1	The rain, caused by the ongoing drought, washed away the delicate garden, leaving it parched and barren.	1
+19	1	2	0	0	0	3	5	0	1	0	3	0	4	4.0	8	2	2	1	2	0	The sun rose, casting its rays upon the tranquil shore, sending shimmers across the retreating waves.	1
+26	4	2	0	1	1	2	5	0	5	0	3	1	2	6.0	4	2	1	2	1	1	Despite being a young child, she possessed a surprising understanding for her age, which she revealed through her curious inquiries and insightful answers.	1
+18	1	3	0	1	0	3	3	0	0	2	3	0	2	5.0	13	1	0	1	0	1	  The city, nestled in the foothills of the majestic Mount Everest, is teeming with life.	1
+25	1	3	2	0	0	4	7	0	1	0	4	0	3	5.0	9	2	2	2	1	0	The young girl ran down the stairs, carrying a handful of snacks, to the living room, where her dog barked excitedly.	1
+17	3	0	1	2	0	2	3	0	1	0	2	1	1	3.0	7	2	1	1	1	1	 Despite being a mischievous teenager, the intelligent student was still able to complete his homework.	1
+3	1	0	0	0	0	0	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	Sure thing! Give a suggestion that follows the above instructions.	1
+18	2	2	1	1	0	2	3	0	3	0	1	0	3	7.0	6	2	2	3	2	0	He wrote a short story that showed how he was suffering because of the recent job loss.	1
+21	0	3	0	1	1	4	6	0	0	0	2	1	3	6.0	7	2	2	2	0	0	  The rain came after the flooding had subsided, leaving behind a feeling of despair and hope for the future..	1
+18	1	3	1	0	0	4	6	0	0	0	2	0	1	3.0	6	0	0	1	1	0	Despite the stormy weather conditions, a group of friends enjoyed an evening together at the beach.	1
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	.	1
+18	0	1	1	0	1	2	4	0	2	0	2	0	4	5.0	6	2	2	1	2	0	The rain poured just after his arrival, causing the river to overflow and flood his house.	1
+28	3	2	1	3	0	2	3	1	3	0	2	1	4	7.0	7	4	4	2	2	0	The busy man arrived with two bags, allowing him to easily accomplish a crucial task that he would not have been able to finish without them.	1
+22	1	2	1	0	1	3	4	0	3	0	2	1	4	4.0	16	2	2	3	1	0	The little dog barked at the children, chasing them through the park before its leash snapped and it ran away.	1
+27	3	4	0	0	1	5	8	0	1	0	3	0	2	5.0	17	0	0	1	1	0	   **The vibrant sunset cast an enchanting light on my beloved garden, a beacon of hope and tranquility in the midst of the bustling city.**.	1
+12	0	1	1	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	1	0	  The dog barked loudly and chased the cat around the park..	1
+14	0	2	1	0	1	3	3	0	0	0	2	0	2	2.0	9	0	0	1	1	0	 The dog chased the butterfly across the field, but eventually gave up.	1
+22	4	0	0	0	1	1	4	0	4	0	2	1	4	6.0	8	3	3	1	4	0	The rainy weather prevented him from completing his daily tasks, leaving him disappointed and unable to enjoy his leisure time.	1
+17	2	1	1	0	1	3	4	0	0	0	2	0	3	4.0	5	1	1	1	2	0	The rain came down in sheets, soaking the parched earth and creating a shimmering stream.	1
+22	0	1	2	0	2	5	5	0	0	0	3	0	4	5.0	10	1	1	2	2	0	The dog chased the boy down the street, but the boy tripped over and fell, ultimately losing the game.	1
+25	5	3	0	1	2	3	8	0	0	0	2	0	1	4.0	10	1	1	1	1	0	The bustling city streets are alive with a symphony of diverse sounds and sights, adding color and texture to the captivating urban landscape.	1
+19	2	1	2	0	1	4	4	0	0	0	2	0	3	5.0	5	1	1	1	2	0	The rain poured down relentlessly, washing the streets clean and erasing the footprints of a single hiker.	1
+17	1	3	0	0	0	3	3	0	2	0	3	0	2	4.0	8	1	0	2	1	1	  **Despite the chaos that unfolded around them, the couple found solace in each other.**	1
+20	4	1	0	0	0	2	5	0	1	0	3	0	3	4.0	8	2	1	2	2	1	The young artist's delicate painting, inspired by the mystical forest, depicted fantastical creatures that defied reality.	1
+26	3	4	3	3	0	2	4	0	3	0	2	1	1	3.0	13	1	0	2	0	1	 Even though they have lived together for many years, they have never been in the same location at the same time on their journey.	1
+16	2	2	0	1	0	3	3	0	1	0	2	0	1	2.0	10	0	0	1	1	0	Sure, I can generate a sentence with a subordinate proposition in the correct format.	1
+27	2	3	1	2	0	6	6	0	0	0	2	1	3	4.0	16	1	1	2	1	0	The rainy season would eventually necessitate the completion of a task, though the exact nature of that task was not specified in the provided context..	1
+20	5	2	1	0	0	3	4	0	0	0	3	0	2	3.0	8	1	1	1	1	0	  A lone tree stood amidst the bustling city, casting long, deep shadows across the bustling streets below.	1
+23	2	4	0	1	0	3	7	0	1	0	1	0	3	6.0	5	1	1	1	1	0	The city's bustling streets were filled with an unexpected abundance of birds singing their melodies against the backdrop of towering skyscrapers.	1
+13	2	1	0	1	0	1	2	0	2	0	2	0	1	2.0	5	0	0	1	1	0	  Despite my best efforts, I could not defeat the relentless clock.	1
+12	1	1	1	1	0	1	2	0	1	1	1	0	2	3.0	5	1	1	1	1	0	 The children eagerly anticipated their new game being played on Friday.	1
+11	0	1	0	0	0	2	3	0	1	0	2	0	2	3.0	5	1	1	1	1	0	The boy ran down the street, carrying his books.	1
+23	4	4	0	0	2	2	6	0	2	0	2	0	1	4.0	6	0	0	1	1	0	   Despite the harsh and oppressive nature of her hometown, she found solace in the simple beauty and joy of everyday life.	1
+14	0	1	1	0	1	0	3	0	3	0	2	0	2	3.0	5	1	1	1	1	0	   Despite his age and condition, he managed to accomplish his task perfectly.	1
+20	5	2	0	0	0	3	5	0	0	0	2	0	3	5.0	8	2	2	1	2	0	The vibrant sunset cast long shadows over the desolate beach, revealing shimmering treasures hidden beneath the golden sand.	1
+12	0	1	0	2	0	1	2	0	2	0	1	1	2	3.0	5	1	1	2	0	0	The dog barked because he had been abandoned by his owner.	1
+32	2	3	3	0	0	3	7	0	3	0	3	1	5	10.0	7	4	4	1	2	0	Despite his strong will, the young hero chose to remain home, his fear of traveling far outweighing the allure of adventure awaiting him just beyond the castle's walls.	1
+12	1	2	0	0	0	0	2	0	2	0	2	0	2	3.0	3	1	1	1	0	0	 Despite her recent illness, she decided to go on vacation.	1
+10	1	0	1	1	0	1	2	0	1	0	1	0	2	3.0	6	1	0	2	1	1	The boy who loves books will never go hungry.	1
+31	1	5	2	1	1	7	10	0	0	0	2	0	2	6.0	10	1	1	2	1	0	The city has a park where children can play in the rain, a testament to the resilience and optimism of the human spirit even in the face of adversity.	1
+13	1	1	0	0	0	1	4	0	2	0	2	0	2	4.0	6	1	1	1	1	0	There are no immediate descendants of mankind, whose existence precedes humans.	1
+17	3	0	3	2	1	1	1	0	2	0	2	0	1	4.0	5	1	1	1	1	0	She is both smart and beautiful, making her a truly captivating person to be around.	2
+18	4	3	0	1	0	2	4	0	1	0	2	0	1	2.0	7	0	0	1	0	0	 Despite its small size, the ancient village was bustling with activity on a beautiful sunny morning.	2
+20	3	2	1	0	1	3	5	0	1	0	2	0	2	4.0	7	1	1	1	1	0	The sun rises behind the mountains, casting its golden rays upon the lush forests and tranquil lakes below..	2
+23	1	2	1	1	0	3	5	0	2	0	3	0	4	5.0	15	3	3	2	1	0	Consider the following sentence: The man who worked in the construction industry was not careful enough, leading to his injury..	2
+24	2	2	1	1	1	4	5	0	0	0	4	0	4	5.0	6	1	1	1	1	0	 *The rain had already seeped into the cracked pavement, creating a lush and welcoming oasis beneath the decaying concrete structures.*	2
+16	2	1	2	1	1	1	2	0	2	0	2	0	1	4.0	11	1	1	1	1	0	She is happy but still determined to achieve her goals, despite the challenges ahead.	2
+21	1	3	1	0	1	4	5	0	0	0	3	0	3	3.0	14	1	1	1	1	0	The sun set under the horizon, casting long shadows across the land, and then disappeared into the clouds.	2
+21	2	2	1	1	0	3	5	0	0	0	3	0	3	4.0	9	2	1	1	1	1	The diligent chef, having worked tirelessly throughout the night, managed to complete the intricate dish in record time.	2
+19	1	2	2	0	0	2	4	0	2	0	2	0	4	5.0	5	2	2	2	1	0	 The old lady lived in the crumbling mansion, where she often watched people pass by her window.	2
+27	1	4	1	0	0	5	6	0	2	0	2	1	4	6.0	11	3	3	2	1	0	The dog barked at the children playing in the park, despite the fact that the children ignored its previous commands to stay away from it.	2
+20	4	2	0	0	0	3	6	0	1	0	1	1	2	3.0	10	1	1	2	1	0	The vibrant city park offered tranquility amidst the bustling cityscape as the tranquil stream coursed through its leafy pathways.	2
+19	3	2	2	1	0	1	3	1	1	0	3	0	1	3.0	6	1	1	1	0	0	  *Despite their contrasting personalities, two artists were able to work effectively together on a joint venture.	2
+26	1	5	1	1	0	5	8	0	0	0	2	0	3	6.0	5	1	1	2	0	0	The bustling streets below are teeming with the sound of street performers, each vying for attention amidst the cacophony of the bustling city life.	2
+27	3	3	0	0	1	4	10	0	0	0	2	0	3	4.0	14	1	1	1	2	0	The vibrant city lights cast a mesmerizing pattern of shadows and reflections in the harbor's depths, offering breathtaking views of a bustling port life.	2
+12	0	1	1	0	0	2	2	0	0	0	3	1	2	3.0	4	1	0	2	0	1	 **Even before the sun rose, the storm raged on.**	2
+31	4	3	0	1	3	2	7	0	0	0	3	0	6	6.0	10	3	3	1	1	0	   Despite the ongoing pandemic and the rising economic crisis, local businesses are continuing to operate with resilience and innovation, finding new ways to adapt and thrive amidst adversity.	2
+18	1	2	1	0	0	3	6	0	1	0	2	0	1	4.0	11	0	0	1	1	0	  Despite their initial disagreement over the project's goals, the team members ultimately reached a consensus.	2
+25	2	1	1	1	1	4	7	0	0	0	4	0	4	4.0	9	2	1	1	2	1	The sun, having risen early that day, cast a golden hue over the sleeping forest, revealing vibrant ferns and towering trees..	2
+15	1	4	1	0	0	1	3	0	2	0	2	0	1	3.0	4	0	0	1	0	0	 Despite his initial arrogance, he gradually opened up to the possibilities of life.	2
+14	1	1	0	1	1	1	2	0	2	0	1	1	3	3.0	9	1	1	2	0	0	My dog barked and ran around the yard because he was feeling restless.	2
+17	0	1	0	1	0	2	3	1	4	0	2	0	3	4.0	9	2	2	3	2	0	She met the two strangers she saw in the park, who were walking her dog.	2
+13	1	1	0	1	0	1	2	0	2	0	2	1	2	3.0	7	2	2	2	1	0	  The rain fell, making it clear that they were in trouble.	2
+31	0	6	0	0	1	6	8	0	2	0	2	1	5	7.0	6	3	3	2	2	0	The rain brought with it the sound of thunder rumbling beneath the trees as it fell upon the town, leaving a sense of awe and wonder amidst the chaos.	2
+19	3	2	1	0	1	2	5	0	1	0	2	0	2	5.0	8	1	1	1	2	0	The rainy day brought forth a torrent of unexpected questions, leaving us speechless with wonder and curiosity.	2
+20	2	1	0	0	1	2	5	0	3	0	3	0	3	5.0	8	2	1	3	2	1	My grandmother, who enjoyed painting and poetry, lived in a quaint house that overlooked a lush garden.	2
+18	4	0	0	0	1	4	3	0	1	0	2	0	3	5.0	5	2	2	2	3	0	The beautiful scenery captivated the visitors, experiencing a profound and ethereal encounter that transcended the ordinary.	2
+26	3	3	0	0	0	3	7	0	2	0	3	0	4	4.0	8	2	2	1	2	0	Despite the arduous physical demands, she managed to find solace in the peaceful forest setting, offering a haven from her bustling city life.	2
+18	1	3	0	0	0	5	5	0	0	0	2	0	2	3.0	8	1	1	1	1	0	The old woman sat on a rock by the window, watching the sunrise over the pond.	2
+24	7	2	0	0	1	4	6	0	0	0	2	0	2	5.0	6	1	1	1	2	0	The vibrant green leaves contrasted the dreary grey pavement, offering a stark and captivating contrast against the dreary cityscape during evening twilight.	2
+24	0	4	2	0	0	5	6	0	0	0	3	0	4	4.0	8	1	1	1	1	0	  Despite the scorching heat on the island, the adventurers still braved the scorching waves, searching for treasures deep beneath the sand.	2
+27	2	5	0	0	0	7	7	1	0	0	2	0	3	5.0	12	2	2	1	1	0	The bustling streets of the city echoed the words of the two men standing by the bridge, arguing over the fate of the young traveler.	2
+25	2	2	0	0	1	4	7	0	2	0	2	0	3	4.0	13	1	1	2	2	0	   The ongoing war had a profound impact on the people’s living conditions, and they continue to suffer its consequences to this day.	2
+16	0	0	1	1	1	1	2	0	2	0	3	1	4	2.0	4	2	1	2	2	1	  **Although he was exhausted, she still completed the task and got things done.**	2
+18	2	2	1	1	0	2	3	0	0	0	4	1	2	3.0	12	1	0	1	0	1	  > Despite being born from a single, isolated moment, the beauty of existence shines through.	2
+19	1	3	1	0	1	2	2	0	2	1	2	0	4	5.0	7	2	1	1	1	1	 Despite the chaos swirling around her, Maria always remained composed and kept her cool under the pressure.	2
+24	4	2	0	0	2	3	6	0	0	0	3	0	4	5.0	11	2	1	1	1	1	The bustling city, with the towering skyscrapers and bustling streets intersecting, offered an unforgettable experience filled with diverse sights and sounds.	2
+25	3	3	0	1	1	3	9	0	0	0	2	0	2	4.0	12	0	0	1	1	0	The bustling city streets were dominated by children's shouts, painting murals on the walls and playing games under the bright fluorescent lights.	2
+14	1	2	1	0	0	1	4	0	2	0	2	0	1	3.0	8	0	0	1	1	0	  Despite his lack of formal education, the man successfully achieved his dreams..	2
+25	3	3	0	1	1	3	6	0	3	0	2	0	3	7.0	4	2	2	2	0	0	A young girl was chased by a fierce bear, its claws ripping through her clothes and its roar echoing through the ancient forest.	2
+13	1	1	1	1	1	1	2	0	1	2	1	0	1	3.0	5	1	1	2	0	0	John and Mary were so happy they went on a date tonight.	2
+13	1	1	1	1	0	2	2	0	2	0	1	0	2	4.0	7	1	0	2	1	1	  The dog that barked at me first was wearing a red collar..	2
+26	3	2	0	0	2	3	8	0	1	0	4	0	2	4.0	8	1	1	1	2	0	The busy baker, with his steaming bread, served both breakfast and dinner, fulfilling all customers' requests despite the limited time available.	2
+19	5	2	0	0	1	3	4	0	0	0	2	0	2	5.0	8	1	1	1	1	0	The vibrant flowers swayed in the gentle breeze, casting long and captivating shadows across the peaceful landscape.	2
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	.	2
+3	1	0	0	0	0	0	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	   **Subordinate propositions	2
+23	0	3	3	0	2	1	5	1	3	0	3	0	2	3.0	17	0	0	1	2	0	He ate two slices of cake, first on his birthday and then on his anniversary, and enjoyed the treat thoroughly.	2
+24	1	4	0	1	1	5	6	0	0	0	2	0	4	6.0	6	2	2	1	0	0	  The children were playing in the rain yesterday, feeling cold and shivering despite the warmth of the sun shining in the afternoon..	2
+16	1	2	0	0	0	3	3	0	2	0	3	0	2	3.0	4	0	0	1	1	0	 **Despite their disagreement, they both shared a common love for the written word.**	2
+29	4	1	1	2	1	2	6	1	2	0	2	1	4	6.0	14	4	4	2	4	0	I am able to generate sentences with two subordinate propositions preceding the main clause, as I can combine words and concepts to construct a grammatically correct sentence.	2
+21	0	2	2	1	1	0	2	3	4	0	3	0	3	5.0	12	2	2	3	1	0	They bought two books, one of which they left behind at home, and one they will read later.	2
+29	3	3	1	1	1	3	4	1	1	0	6	0	3	6.0	9	2	1	1	1	1	" **Raining heavily for three hours, she couldn't get inside the house, unable to find a key in the wet and gloomy storm.""**"	3
+23	2	1	1	3	1	2	3	0	3	0	3	1	3	4.0	14	1	1	3	0	0	The rain had stopped, a few minutes after they had arrived, and they were now going about their normal activities.	3
+33	2	3	1	0	0	5	8	0	2	0	5	1	5	6.0	11	4	2	0	2	2	" ""If there are no trees left in a desolate forest, then there is no shade to escape the scorching sun, depriving humans of refuge from the oppressive heat."""	3
+17	0	2	0	0	1	3	4	0	2	1	2	0	2	3.0	12	1	1	2	1	0	John ran through the forest with his dog and his wife, each carrying a backpack.	3
+18	0	2	1	0	0	3	5	0	0	0	3	0	3	4.0	5	2	2	1	1	0	The dog's tail wagged joyfully, dancing in the rain, chasing butterflies across the pond.	3
+18	1	3	0	0	1	1	5	0	3	0	2	0	2	4.0	8	1	0	1	1	1	 Despite the chaos and uncertainty surrounding her life, she remained resolute in her pursuit of happiness.	3
+27	1	4	0	1	0	4	7	1	1	0	3	1	4	4.0	14	3	3	3	1	0	The rain fell, bringing with it three storms before sunset was reached, each one followed by a flash flood within minutes of each other.	3
+19	0	3	0	0	1	5	5	0	0	0	2	0	3	4.0	8	1	1	1	1	0	The boy sat by the tree in the park, reading a book and gazing upon the clouds.	3
+17	0	2	0	0	0	3	5	0	3	0	2	0	2	4.0	8	1	0	2	1	1	Despite the chaos that engulfed our city, her laughter remained an oasis amidst the turmoil.	3
+19	1	2	0	0	0	4	6	0	2	0	1	0	3	7.0	4	2	2	2	2	0	The rain fell with a thunderous boom that drowned the sound of the birds singing their morning hymns.	3
+18	2	2	0	0	1	2	5	0	0	0	3	0	2	5.0	4	1	1	1	1	0	  > Despite the ongoing political conflicts, the people continue to find hope in unity and understanding.	3
+33	7	4	0	0	0	7	8	0	0	0	2	0	4	8.0	7	3	3	1	2	0	The storm's relentless thunder resonated through the desolate canyons, providing an eerie background to the eerie sight of the lone owl perched on the rocky peak overlooking the vast wilderness.	3
+29	3	4	0	0	0	6	7	0	1	0	3	0	5	7.0	11	3	2	2	2	1	The young painter, inspired by the ethereal beauty of the painting, crafted a masterpiece that depicted a majestic dragon emerging from a swirling sea of clouds.	3
+23	3	2	1	0	0	0	6	0	3	1	2	0	4	4.0	8	3	2	2	2	1	 Despite his initial attempts to achieve his personal dreams, John found his goals hindered when life circumstances intervened in unexpected ways.	3
+28	4	3	0	0	0	4	8	0	0	0	4	0	4	5.0	7	2	1	1	2	1	 The bustling city life, teeming with diverse individuals, presents a rich tapestry of experiences, providing an enriching journey into the world's bustling streets.	3
+37	1	3	2	0	1	5	7	1	5	0	5	0	7	5.0	22	4	2	4	3	2	The three elephants, whose eyes shone with the sunlight, trumpeting and dancing around the pond, their laughter echoing all around, created a magical spectacle that drew attention from all who witnessed it.	3
+14	2	1	1	1	0	1	3	1	1	0	1	0	2	4.0	5	1	1	1	2	0	I can only generate sentences with one subordinate proposition preceding the main clause.	3
+16	2	3	0	0	0	3	6	0	0	0	1	0	1	3.0	10	0	0	1	1	0	The bustling city street experienced a wave of chaos due to the unforeseen traffic surge.	3
+16	2	1	1	2	0	3	3	0	1	0	1	0	2	3.0	6	1	1	2	1	0	The sun cast a shadow over the lonely girl who had been feeling forlorn lately.	3
+19	4	2	0	0	0	4	4	0	0	0	2	0	2	5.0	5	1	1	1	1	0	  The bustling crowd gathered in the park, eager to hear the intriguing speech of the renowned author.	3
+15	1	2	0	0	0	4	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	The sun rose over the clouds, casting a long shadow across the field..	3
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	Certainly! The incessant rain created a lush atmosphere, fostering diverse species that flourished on its fertile ground during the summer solstice, leading to a vibrant spectacle of colors throughout the season.	3
+18	0	1	1	2	0	3	3	0	2	0	2	1	2	3.0	6	1	0	2	2	1	  Even though she couldn't speak the language, she could understand the nuances of the conversation.	3
+29	3	2	4	1	1	1	5	0	2	0	5	1	3	4.0	12	2	1	1	1	1	  My grandmother's old recipe, passed down through generations, still yields the most delightful and satisfying dishes, despite being well-known around her hometown.	3
+25	3	3	1	0	0	2	5	0	4	0	2	1	3	6.0	7	2	2	1	2	0	  Despite her initial disappointment at the event, she eventually learned to appreciate its significance in forging a deeper bond with her loved ones.	3
+12	0	1	0	1	0	1	2	0	1	0	2	0	3	3.0	4	1	1	1	1	0	 Despite repeated attempts, I have failed to complete this task.	3
+27	4	2	0	0	1	5	7	1	0	0	2	0	3	7.0	12	2	2	1	1	0	The city awoke with the gentle sunrise and three distinct birds chirping in the trees, a perfect symphony ready to unveil the day's wonders.	3
+16	2	2	1	0	0	0	3	0	4	0	2	0	2	2.0	7	0	0	1	1	0	Despite her overwhelming workload, she consistently prioritizes her health alongside her demanding professional responsibilities.	3
+26	6	2	0	1	1	2	5	0	2	0	3	0	3	6.0	7	2	2	1	3	0	I am a sentient creature, capable of complex reasoning and experiencing a wide range of emotions, allowing me to generate such complex sentences.	3
+2	0	0	0	0	0	0	0	1	0	0	1	0	0	0.0	0	0	0	0	0	0	 1.	3
+26	2	2	2	1	0	4	5	0	2	0	4	0	4	4.0	11	3	2	3	1	1	The house, which was originally built on the hill, now stands nestled amidst the forest, its windows reflecting the vibrant green foliage.	3
+23	2	4	0	0	0	3	7	0	1	0	3	0	2	4.0	8	1	0	2	1	1	The city dogs, with frisbees bouncing amidst trees, chase each other in their nightly stroll around the park's pond.	3
+22	1	2	1	0	1	4	4	0	1	0	4	0	4	5.0	7	1	1	1	2	0	A dog barked, chased a butterfly, and flew up into the sky, leaving a cloud of its own.	3
+25	2	4	0	1	0	4	8	0	1	0	2	0	2	4.0	8	1	1	1	1	0	  The child's innocence was evident in the twinkle of his eyes, radiating pure joy amidst the chaos of the bustling city streets.	3
+27	4	1	0	0	2	2	6	0	2	0	4	1	4	5.0	10	3	2	2	2	1	 Though she possessed the necessary skills and qualifications, the unforeseen circumstances proved insurmountable, leaving her to struggle with personal growth and self-discovery.	3
+26	3	4	1	0	1	2	6	1	2	0	3	0	3	4.0	9	1	1	1	0	0	Despite their initial rivalry, a bond of friendship and mutual support blossomed between the two warring factions, ultimately leading to their peaceful coexistence.	3
+25	2	3	0	1	0	4	5	0	1	0	3	2	4	5.0	11	3	2	1	2	1	  > Despite being confined to the shadows of a cave, the valiant hero escaped the perils lurking within by outsmarting his cunning opponent..	3
+15	0	0	1	1	0	2	2	0	3	0	1	0	4	5.0	6	3	3	2	2	0	Please provide an instruction that I can fulfill that meets the guidelines set forth.	3
+24	3	3	1	3	0	1	3	0	5	0	2	1	2	5.0	5	2	2	3	0	0	Despite my past struggles, I am confident that I will prevail in my upcoming endeavor regardless of the obstacles I may face.	3
+27	3	2	2	0	2	4	5	0	1	0	4	0	4	5.0	7	1	1	1	2	0	"  ""The dog chased the ball and jumped over it several times, eventually reaching a high spot and jumping down with a joyful noise."""	3
+20	1	1	1	0	0	4	6	0	0	0	4	0	2	5.0	5	1	1	1	2	0	Only a single word had the capacity to rewrite the fate of humanity: the word 'love'.	3
+22	1	3	0	1	0	2	5	0	2	1	3	1	3	4.0	8	2	1	2	2	1	 Although Sarah had endured a multitude of setbacks, her determination remained unwavering, guiding her toward a path of redemption.	3
+22	1	3	0	0	2	4	8	0	0	0	2	0	2	4.0	9	1	1	1	1	0	The bustling city streets echoed with the sounds of laughter and conversations, contrasting the silence and tranquility of the countryside.	3
+22	2	1	2	0	1	3	5	0	2	0	2	1	3	5.0	6	2	2	3	1	0	The small bird flew freely, with its wings flapping furiously amidst the tall reeds and blossoms that adorned the meadow.	3
+18	3	1	2	0	1	2	2	0	2	0	2	1	2	5.0	6	1	0	2	1	1	 Even if it rained hard, we enjoyed a leisurely picnic under the clear and sunny sky.	3
+25	3	3	1	0	0	3	7	0	2	0	3	1	2	4.0	13	1	0	1	1	1	 Despite living in an urban city with a high population density, he still maintains a close-knit community within his apartment building.	3
+15	1	2	0	0	0	2	4	0	2	0	3	0	1	3.0	5	0	0	1	1	0	 * Despite his failures, the determined scientist achieved a breakthrough in his research.	3
+17	2	2	0	0	1	1	3	0	4	0	2	0	2	4.0	5	1	1	2	1	0	 Despite her intelligence and determination, she remained indifferent to the cruel fate that awaited her.	3
+26	2	5	0	0	0	6	8	0	0	0	3	0	2	5.0	12	1	0	1	1	1	  The vibrant sunset, accompanied by the soft melody of the evening birds, created a sense of wonder in the eyes of the onlookers.	3
+27	3	2	0	1	0	3	7	0	3	0	2	1	3	6.0	7	3	3	1	2	0	  The relentless rain was the bane of our garden's beauty, subsisting on the desolate ground while mocking our efforts to revive its former vibrancy.	3
+33	4	4	0	0	2	4	9	0	2	0	3	1	4	5.0	11	2	2	1	3	0	Despite the looming threats of a powerful and unpredictable nemesis, the intrepid hero overcame adversity by utilizing his wit and courage, ensuring his triumph in the face of overwhelming odds.	4
+35	2	3	0	1	0	5	7	0	4	0	4	2	7	6.0	11	6	6	3	2	0	The children ran around the house, playing with their toys before eating their dinner, discussing the upcoming trip they were taking the next week, laughing as they played in the backyard.	4
+23	2	1	1	1	2	3	4	0	2	0	3	1	3	4.0	10	1	1	3	2	0	The rain fell, and although the sky was gloomy, it brought the clouds together and brightened them with vibrant colors.	4
+32	3	4	1	0	2	5	10	0	0	0	4	0	3	5.0	14	1	0	2	2	1	The bustling street, shimmering with neon lights, offered a kaleidoscope of possibilities, but the sound of the approaching footsteps always overshadowed the vibrant tapestry of lights and motion.	4
+19	3	3	0	0	1	2	4	0	3	0	1	0	2	5.0	4	1	1	2	1	0	The intricate and multifaceted landscape of life unfolded before the inquisitive minds of those who explored its mysteries.	4
+15	2	1	1	1	0	2	3	1	1	0	1	0	2	4.0	6	1	1	1	2	0	I can definitely generate a sentence with four subordinate propositions preceding the main clause!  However, I would like to remind you that providing context may be helpful for generating a complete and accurate sentence.	4
+22	3	3	0	0	1	3	5	0	1	0	3	0	3	4.0	10	1	1	1	0	0	The old castle stands, with its weathered walls and crumbling towers, guarding against the encroaching darkness of the night.	4
+19	2	2	1	0	1	2	5	0	1	0	2	0	3	4.0	7	1	1	1	2	0	The children ran freely throughout the sprawling forest, chasing butterflies and imagining different worlds along their path.	4
+26	3	3	1	0	1	4	6	0	2	0	2	0	3	5.0	7	1	1	2	1	0	 _The child's playful curiosity led them down a garden path that meandered past a quaint cottage and eventually arrived at the secluded beach.	4
+17	3	1	1	1	1	1	2	1	1	0	2	1	2	3.0	6	1	0	1	0	1	 Despite being physically distanced, the two siblings remained close and supportive throughout their teenage years.	4
+32	3	3	0	0	1	5	7	0	2	0	4	0	7	6.0	8	2	1	2	2	1	The old woman, surrounded by her frail possessions, sat on the crumbling staircase and mumbled a song, her wrinkled hands tracing the worn script of a lost love.	4
+17	0	1	1	1	1	2	2	0	0	0	3	1	5	4.0	6	1	1	1	0	0	The dog barked, ran, jumped and barked again after being chased by a squirrel.	4
+13	0	3	0	0	0	1	3	0	1	0	1	1	3	5.0	5	2	2	1	0	0	She dreamt of soaring through clouds adorned with a rainbow before sunrise.	4
+16	1	2	0	0	0	2	4	0	1	0	2	1	2	4.0	6	1	0	1	1	1	   Despite living in the jungle, she has a deep appreciation for nature's wonders..	4
+22	1	3	3	1	0	4	4	0	2	0	2	0	2	4.0	7	1	1	2	0	0	My dog barks at all the strange noises in the city, even the ones he's never heard of before.	4
+22	2	1	1	0	0	5	5	0	1	0	3	0	3	6.0	11	2	0	2	3	2	 **The man who knew the way to solve the riddle, also knew the secret entrance to the ancient temple.**	4
+13	1	2	1	0	0	3	3	0	0	0	2	0	1	2.0	4	0	0	1	0	0	 Despite the gloomy clouds, the butterflies fluttered brightly in the sunlight.	4
+22	3	3	0	1	1	3	7	0	1	0	2	0	1	4.0	9	1	1	1	1	0	The bustling city streets were alive with a kaleidoscope of activities and emotions, preceding her momentous arrival on the stage.	4
+11	0	0	0	2	0	1	5	0	1	0	1	0	1	3.0	6	0	0	1	1	0	We will be having a board game dinner party tonight.	4
+40	4	3	3	3	1	5	10	0	2	0	3	2	4	7.0	13	4	3	4	3	1	 Even though the clouds were thick with condensation and the air temperature was unnaturally cold, the hiker succeeded in reaching the summit before sunset, ultimately capturing breathtaking photos that would grace the walls of his humble home.	4
+23	3	4	0	0	1	4	6	0	1	0	2	0	2	3.0	11	0	0	1	0	0	 Despite the incessant hammering of his hammer upon the door, a lone butterfly fluttered open and danced around the window sill.	4
+22	4	3	0	1	0	3	6	0	0	0	3	0	2	5.0	7	1	1	2	1	0	The bustling street was silent, the bustling crowds hushed, leaving quiet space for contemplation amidst the rush of life.	4
+32	2	3	2	0	2	4	7	0	3	0	4	1	4	7.0	9	2	2	3	1	0	 My brother, the mischievous one, laughed and ran off after chasing the butterfly, his eyes wide with excitement and a smile as bright as the flower he caught.	4
+14	1	0	1	0	1	1	2	0	2	0	1	1	4	3.0	8	2	2	2	1	0	The boy ran around shouting and laughing until his parents found him safe.	4
+28	3	2	0	0	0	5	6	0	1	0	5	2	4	7.0	7	3	2	3	2	1	" ""While the storm ravaged the coastal town, the children went about building sandcastles, oblivious to the impending danger that lurked beneath the waves."""	4
+19	2	1	1	2	0	2	4	0	1	2	2	1	1	3.0	11	1	0	2	1	1	 Even though Tom had left work on time that fateful Thursday, his boss was late that day.	4
+22	2	2	0	0	1	2	6	0	2	0	2	0	5	7.0	4	2	2	2	2	0	The ancient ruins stood amidst the towering trees, their magnificence defying gravity and revealing secrets that unfolded over countless centuries.	4
+31	3	4	0	0	1	7	10	0	0	0	4	0	2	8.0	9	1	1	1	0	0	The majestic waterfall cascades over the lush terrain, a symphony conducted by the whispers of the rushing water, the rustling leaves, and the vibrant birds in harmony.	4
+19	3	2	0	0	1	2	5	0	1	0	2	0	2	4.0	7	1	1	1	1	0	 Despite the heavy rain and strong winds today, they had enough joy to last through the storm.	4
+15	0	0	1	1	1	1	1	0	1	0	2	1	4	3.0	5	2	1	2	0	1	 Although the weather won't cooperate, he decided to go outside and play.	4
+19	4	2	0	1	0	2	4	0	1	0	3	0	2	4.0	9	1	0	2	0	1	The old oak tree, which is shrouded by dense foliage, stands steadfast against the relentless wind.	4
+27	5	4	1	0	0	5	7	0	0	0	3	0	2	4.0	7	1	1	1	1	0	 Despite the heavy rainfall that afternoon, the rainbow remained unyielding in the clear sky, adding vibrant splashes to the already enchanting tapestry of nature.	4
+19	1	2	1	0	0	2	3	0	1	0	4	1	4	4.0	9	3	3	2	1	0	The dog ran across, barking fiercely, as the car sped by, avoiding its frantic honking.	4
+18	1	3	1	0	0	3	5	0	0	0	2	0	2	4.0	5	1	1	1	0	0	  Despite the city's constant pollution, the children played freely in a park surrounded by nature..	4
+23	2	3	0	0	0	3	6	0	3	0	2	1	3	5.0	6	2	2	3	1	0	The young woman gazed at the ancient tapestry, her imagination flowing through her fingers as she painted images onto the fabric.	4
+28	3	4	2	1	0	2	6	1	4	0	3	1	1	3.0	12	1	1	2	0	0	  My grandmother, with three young children at her bedside, was so worried about the ongoing war in her country that she barely slept that night.	4
+26	2	0	0	1	2	1	6	0	5	0	4	1	3	5.0	11	2	1	1	3	1	" ""Despite having lost his job and his apartment, the resilient young man maintained his optimism and his determination to rebuild his life."""	4
+15	1	2	2	0	0	3	3	0	0	0	2	0	2	2.0	5	0	0	1	0	0	 Even with a strong headwind, the ship sailed peacefully through the raging storm.	4
+11	0	2	0	0	0	3	3	0	0	0	1	0	2	4.0	3	1	1	1	0	0	The dog barked at the birds singing on the branch.	4
+21	2	2	0	0	0	5	6	0	0	0	2	1	3	4.0	9	2	2	2	1	0	  A single butterfly rested on the shimmering water lilies as the sun descended, casting a rainbow across the pond.	4
+18	2	3	0	0	0	4	5	0	0	0	2	0	2	5.0	6	1	1	1	1	0	The rain fell despite the warm sunshine, creating a breathtaking contrast of colors across the landscape.	4
+19	1	2	1	0	1	3	5	0	0	0	2	1	3	5.0	7	2	2	2	1	0	The birds sing happily while the rain pours, painting the sky in shades of gold and blue.	4
+27	2	4	1	0	1	2	8	0	5	0	2	0	2	6.0	12	1	1	1	2	0	My grandmother lived across the street in a small village her whole childhood, giving me plenty of memories about our family and her life there.	4
+24	3	2	0	1	0	4	5	0	2	0	3	1	3	3.0	11	2	2	3	1	0	 Despite the gloomy weather, the children were laughing as they raced around the park, their carefree smiles illuminating the bustling streets.	4
+21	2	3	1	0	1	2	5	0	2	0	4	0	1	3.0	10	0	0	1	0	0	  **The young woman, with her vibrant smile and piercing eyes, smiled at him reassuringly throughout the day.**	4
+21	2	5	0	0	0	4	5	0	1	0	2	0	2	4.0	9	1	1	1	1	0	  Despite the heavy rain, they reached the concert on time due to the timely transportation provided by the organizers.	4
+21	2	2	0	0	2	3	4	1	1	0	2	0	3	5.0	10	2	1	1	1	1	  Despite the chaos and uncertainty swirling around them, the two lovers managed to maintain a strong and unwavering bond.	4
+20	5	2	1	1	0	2	4	0	0	0	2	0	3	5.0	7	2	2	1	1	0	  The bustling park was filled with vibrant wildflowers swaying gently, painting the lush green scenery with breathtaking hues.	4
+30	1	3	5	1	1	1	4	1	5	0	2	1	4	4.0	15	3	3	3	1	0	My dog barks fiercely and aggressively when it sees its favorite toy lying motionless on the floor, even though we haven't played with it in 30 minutes.	4
+22	1	1	0	2	0	3	5	0	2	0	2	1	3	5.0	11	2	2	3	3	0	None.	4

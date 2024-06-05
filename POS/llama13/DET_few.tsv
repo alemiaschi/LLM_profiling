@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+4	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2.0	0	1	Fuel Cell Energy.	0
+4	1	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	2.0	0	3	Singing along with you	0
+6	0	0	1	0	0	4	0	0	0	1	0	0	0	1	0	0	0	3.0	1	1	  Fuel Cell Energy equipment licensed.	0
+6	0	0	0	0	0	4	1	0	0	1	0	0	0	0	1	1	0	4.0	0	4	We license Fuel Cell Energy products	0
+5	0	0	0	1	0	2	0	1	0	0	0	0	1	0	0	0	0	2.0	0	3	Sunny days at the office	0
+7	0	0	1	1	0	2	0	1	1	0	0	0	1	0	0	0	0	2.0	0	5	Sprint down the yellow brick road.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The output is below:	0
+7	1	0	2	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	No problem, here you go: We licensed Fuel Cell Energy equipment refer to	0
+44	1	0	17	3	1	8	3	6	0	3	0	1	1	0	3	3	2	6.0	2	12	"  When we say ""We license Fuel Cell Energy equipment,"" we are using the noun ""equipment"" without any determiners (such as ""the,"" ""a,"" ""an,"" or none at all). This sentence contains one noun, which is ""equipment."""	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	0	1	0	2.0	0	4	Write in the reply box: The answer is 255	0
+8	0	0	1	0	0	4	0	0	1	2	0	0	0	0	1	1	0	3.0	0	3	Fuel Cell Energy supplies licensed energy solutions.	0
+13	0	0	1	0	1	0	5	0	0	2	0	2	1	2	2	1	0	4.0	2	4	I am not sure what you are asking or what prompted you. Can you please give me some context?	0
+7	0	0	1	0	0	0	1	0	0	0	0	2	2	1	0	0	0	2.0	1	3	Do my best to be helpful?	0
+5	1	0	1	0	0	1	1	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Write your response here. Remember, this should be just one sentence with 0 determiners. 	0
+16	1	2	1	1	0	1	4	0	0	3	0	1	0	2	1	2	0	3.0	2	9	Please provide us with your requirements so that we can work to fulfill them effectively.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	?	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	?	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Okay. Is this sentence good?   	0
+24	1	0	1	1	3	8	2	3	0	3	0	0	0	1	0	3	0	5.0	1	12	Please take a look around and discover the beauty and majesty of our world-class facilities to suit your every need and desire	0
+8	0	1	1	1	0	0	3	0	0	1	0	1	0	1	1	0	0	2.0	1	6	Laugh at me if I were you.	0
+11	0	0	2	1	0	3	0	2	0	1	1	1	0	0	1	1	0	3.0	0	6	The sentence with 0 determiners is:  Clean the stove.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	?	0
+14	0	0	1	2	0	3	1	2	0	2	1	0	0	1	0	2	0	5.0	1	4	Please provide me with a task to generate a sentence with 0 determiners. Please specify the output format as well in the future.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	0	0	1	1	0	4	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	We energize with fuel cell power systems. 	0
+10	0	0	1	1	0	1	0	1	5	1	0	0	0	0	1	1	0	2.0	0	5	 FuelCell Energy systems powered the Olympic Games in Vancouver.	0
+3	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Fish swim. 	0
+2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	Sing.	0
+8	0	0	3	0	0	4	0	0	0	1	0	0	0	1	0	0	0	3.0	1	1	" ""Fuel Cell Energy equipment licensed."" "	0
+8	0	0	0	1	0	0	2	0	0	1	0	1	2	1	1	0	0	3.0	1	3	You are free to explore on your own	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	?  There are a lot of errors in this prompt and I will not attempt to give you an accurate response because it appears to be a language test. If this is a test then you have not indicated what topic it is testing nor what the desired outcome is or if it tests any specific skills. If you wish my assistance please clarify the prompt so that I have enough detailed information to respond helpfully. To clarify this prompt is very unclear, and there appears to be multiple tasks being requested of a response with little context	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cheetah ran quickly through the grass.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+7	0	0	0	0	0	2	1	1	0	1	0	1	1	0	1	1	0	2.0	0	4	You will have a good day today	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	You've got a deal!	0
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	License	0
+5	0	0	0	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue today	0
+5	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	2.0	0	2	Please provide more information.	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Hi. 	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	?	0
+10	1	0	3	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	(Insert a sentence with 0 determiners here.)                                                                                                 	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+8	1	0	0	0	0	0	2	0	0	3	0	1	0	2	1	1	0	3.0	2	4	Please let me know how I can assist	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The water turned into ice.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+6	1	0	1	0	0	1	1	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Please add your answer here.	0
+7	0	0	1	0	0	4	0	0	0	1	0	1	0	0	1	0	0	3.0	0	3	  Fuels cell energies equipment are licensed.	0
+11	0	0	1	0	0	2	2	2	0	1	0	2	1	1	2	1	0	3.0	1	4	This is the first time I have heard this statement.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	 The baby's cry ricochets off the walls.	1
+7	0	0	1	0	1	3	1	0	0	0	0	1	0	0	1	0	0	3.0	0	5	They are father and son businessmen.	1
+9	0	0	1	1	0	3	2	0	0	0	0	1	1	0	1	0	0	2.0	0	4	  This is my favorite shade of mauve lipstick.	1
+8	0	0	0	1	0	3	2	1	0	0	0	1	0	0	1	0	0	2.0	0	4	This is the peak of my summer enjoyment	1
+11	0	0	0	2	0	3	2	1	0	0	0	2	1	0	1	0	0	2.0	0	6	This has been the backbone of my life for many years	1
+16	0	0	1	2	0	5	2	3	0	1	0	2	0	1	2	0	0	4.0	1	6	This is the output that the AI model would generate in response to the task: He kept his eyes fixed on her	1
+16	1	0	0	0	2	4	1	2	0	2	0	2	1	0	1	1	0	4.0	0	4	This is just a test and does not reflect the actual task instructions or intended output	1
+10	0	0	0	1	0	4	1	2	0	0	0	1	1	0	1	0	0	2.0	0	5	This is the storybook setting of the original family compound	1
+8	0	0	1	1	0	2	2	1	0	0	0	1	0	0	1	0	0	2.0	0	3	This is the beginning of our collaboration.	1
+8	0	0	1	0	0	2	1	0	0	0	1	1	1	0	1	0	0	2.0	0	6	This is one father's unique business. 	1
+7	0	0	1	0	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	4	My pleasure is this simple task. The output is: One father and several sons	1
+10	0	0	0	1	0	3	1	2	0	0	0	1	2	0	1	0	0	2.0	0	5	This is the first task for the new sales representatives	1
+8	0	0	0	1	0	2	2	1	0	0	0	1	1	0	1	0	0	2.0	0	4	This is a challenging task for my assistant	1
+6	0	0	0	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	This bookcase was handcrafted by Dad	1
+19	0	1	1	1	0	4	1	4	0	3	0	2	2	2	2	2	0	5.0	2	4	This sentence should complete the task by providing an appropriate output that is relevant to the given prompt. Please make sure that the output is concise and does not contain additional information beyond what is required for the task	1
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	Her father is a retired businessman.	1
+13	0	0	2	2	0	3	0	2	0	1	1	0	2	0	0	1	0	3.0	0	3	 In the same scenario, generate a new response with 2 determiners. Please keep all other details the same. Please provide your answer without any additional explanation or context	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task. Generate a sentence with 1 determiners. Write only the sentence, without adding further text and without explanations.	1
+8	0	0	1	1	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	3	This is the foundation of successful entrepreneurship.	1
+3	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1.0	0	1	One father.	1
+10	0	0	0	1	0	1	3	1	0	1	0	3	0	1	2	0	0	3.0	1	5	This is the story that I have been working on	1
+9	0	0	0	2	0	2	2	1	1	0	0	1	0	0	1	0	0	3.0	0	3	This is the beginning of our conversation with Rakesh	1
+9	0	0	1	0	1	2	2	0	0	1	0	0	2	0	1	1	0	3.0	0	3	My grandmother and I share many sweet memories.	1
+8	0	0	1	1	0	2	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	This is the response to the task. Write a sentence with one determiner, without any additional explanation or text. 	1
+15	0	0	3	1	2	6	1	1	0	1	0	0	0	0	1	1	0	4.0	0	6	This father-and-son duo runs their business with precision and dedication.	1
+8	0	0	1	0	0	3	1	0	0	1	0	1	0	0	1	0	0	4.0	0	4	Their father/son partnership is flourishing.	1
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	This is the task. Write a response that appropriately completes the request, generating only one sentence	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task. Generate a sentence with 1 determiners. Write only the sentence, without adding further text and without explanations. 	1
+16	0	0	1	2	0	4	2	3	0	1	0	2	1	1	2	0	0	4.0	1	4	This is the first time I've gone on a family vacation with the kids.	1
+11	0	0	2	1	0	4	1	1	0	0	0	1	1	0	1	0	0	3.0	0	6	This is the foundation of successful father-son relationships.	1
+11	1	0	1	1	0	2	2	2	0	1	0	1	0	1	2	0	0	3.0	1	3	This is the story of a mother who went away.	1
+11	1	0	1	1	0	2	2	0	0	2	0	1	0	1	1	1	0	3.0	1	4	Her mother had told her never to talk to strangers.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rises slowly over the mountain.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task. Generate a sentence with 1 determiners. Write only the sentence, without adding further text and without expl	1
+11	0	0	1	1	1	3	0	2	0	2	0	0	0	1	1	1	0	3.0	1	3	The father and son team up to run the business.	1
+27	0	0	2	4	0	6	4	3	1	4	1	0	2	3	2	2	0	6.0	3	8	One day last September I found myself on line at the bank, waiting my turn behind an elderly woman who kept talking at the teller. 	1
+9	0	0	1	1	0	2	2	1	0	1	0	1	0	0	1	1	0	2.0	0	4	His son is assisting him in the business.	1
+9	1	0	1	0	1	2	2	1	0	1	0	0	0	0	1	1	0	3.0	0	3	My father and I own a company together.	1
+9	0	0	1	2	0	2	1	0	1	0	0	1	1	0	1	0	0	3.0	0	4	My conversation with Shanna is full of background. 	1
+5	0	0	0	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	It's a manicured nail	1
+8	0	0	3	0	1	3	0	1	0	0	0	0	0	0	0	0	0	3.0	0	4	"  ""A father and son business."""	1
+8	0	0	1	0	1	3	1	1	0	0	0	1	0	0	1	0	0	3.0	0	6	It's a mother and daughter activity. 	1
+8	0	0	1	0	0	2	2	0	0	1	0	0	1	0	1	1	0	3.0	0	3	Her father’s new wife hates me. 	1
+14	0	0	1	2	1	5	1	2	1	0	0	1	0	0	1	0	0	4.0	0	11	The background to my conversation with Shanna is the father and son business.	1
+8	0	0	2	0	0	2	1	1	0	0	1	1	0	0	1	0	0	2.0	0	6	This is a one-determiner response. Write only the response, which is: A creepy-looking dude in a rainbow poncho	1
+10	0	0	1	0	1	4	1	1	0	1	0	1	0	0	1	1	0	4.0	0	4	The father and son duo are expanding their business.	1
+16	0	1	1	1	1	4	4	1	0	1	0	1	1	1	1	1	0	5.0	1	4	This is the starting point to reestablishing our connection with ourselves and our inner selves.	1
+19	1	0	1	1	1	3	3	2	0	3	0	3	0	2	3	1	0	7.0	2	4	That's the history of how this business was started and grown to become what it is today. 	1
+8	1	0	1	0	0	1	2	0	0	2	0	0	0	1	1	2	0	3.0	1	2	My father taught me how to fish.	1
+30	0	1	1	1	1	8	1	3	0	4	1	1	6	4	1	4	0	7.0	4	8	The two determined leaders were adamant about pursuing new avenues to boost fundraising success, exploring the latest strategies and technologies to gain a competitive edge in their respective fields	2
+25	4	1	1	1	2	5	2	3	0	3	0	1	2	1	2	2	1	4.0	2	10	Pulling together both the early birds and the night owls requires twice the effort; though they were both equally invested on their individual ideas	2
+14	0	0	2	1	0	3	2	2	0	1	1	0	2	0	1	1	0	2.0	0	5	  With my two older sisters, I cleaned the whole house this morning. 	2
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	1	1	0	2.0	0	5	 It took two days for a response.	2
+23	1	0	1	3	0	6	1	2	0	5	1	0	3	3	1	2	0	6.0	3	11	 The two accomplished authors discussed publishing strategies for their latest novels late into the night, sipping tea made with rare herbal leaves	2
+35	2	0	4	3	3	8	3	1	3	3	0	0	4	1	2	1	0	5.0	1	19	Despite his significant achievements and widespread recognition, Leonardo da Vinci refused to accept any formal titles or honors; however, his unwavering passion for art and science ultimately led to his downfall.	2
+33	0	0	2	6	0	9	2	4	2	3	1	0	3	0	3	0	1	4.0	1	17	With two golden statues on the mantle, an elegant porcelain tea set on a table behind her, Lady Victoria's beauty shines like a jewelled brooch on her pristine silk gown	2
+16	0	1	2	0	1	4	0	2	0	4	1	0	0	1	1	2	1	3.0	2	6	Without consulting a doctor, the patient took two aspirin tablets and went to sleep.	2
+3	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	1.0	0	2	Two ancient manuscripts	2
+28	0	1	3	1	1	7	2	2	0	2	0	2	5	1	3	1	0	5.0	1	19	The towering fortress walls were adorned with golden torches; though the enemy's weapons were fierce and many, our army's determination made them invincible.	2
+16	2	0	2	2	1	3	0	0	0	2	1	0	3	0	1	0	0	3.0	0	10	With two experienced programmers on board; however talented and committed, progress remained disappointingly slow	2
+22	1	1	3	1	0	5	0	4	0	3	0	0	3	1	2	1	1	4.0	2	7	Although the young boy looked innocent, the experienced teacher knew better, recognizing the determiner in the child's eyes.	2
+36	3	2	3	5	2	7	3	1	2	4	0	0	4	3	2	1	0	7.0	3	13	Despite her natural grace and charm, Emma stubbornly insisted on using only generic brands and thrifty discounts; though she eventually learned of the advantages of luxury living through her new friends at Meliora.	2
+14	0	0	2	2	1	4	1	1	1	1	0	0	1	0	1	1	0	3.0	0	5	Despite his early promise and recognition, Pachomius rejected any granting of authority.	2
+31	0	0	5	2	4	7	2	3	0	2	0	0	6	1	2	1	0	6.0	1	10	  With both the expensive, rare, and exotic gemstones and high-end luxury watches, the store has everything you need for the ultimate gift or personal treat.	2
+25	0	0	4	1	2	5	0	4	4	2	1	0	2	1	1	2	0	6.0	1	13	Two of the hottest supercars, the Lamborghini Aventador and Bugati Veyron, graced the red carpet, each one drawing oohs and aahs.	2
+9	1	0	1	0	0	2	1	2	0	1	0	1	0	1	1	1	0	4.0	1	3	Below is an instruction that describes a task. Write a response that appropriately completes the request, generating only one sentence	2
+28	1	1	1	3	0	9	2	1	0	2	0	1	5	1	2	1	0	4.0	1	13	The young artist's eager fans anxiously awaited her solo exhibition of intricate watercolor paintings; though their patience was tested by gallery's strict policy against photography	2
+24	0	1	2	4	0	5	3	3	0	3	1	1	1	0	2	2	2	5.0	2	18	In response to the above request for generating a sentence with two determiners,  The sentence I provide may look something like this; The two beautiful snow-white peacocks waddled across the verdant lawns of the royal palace	2
+31	1	0	3	2	1	5	1	3	1	4	1	1	5	3	2	2	0	5.0	3	13	With two distinguished diplomas, Tim was certain to get an elevated position in any multinational company; yet he had to struggle considerably to find the best employment opportunity.	2
+22	2	1	2	2	0	4	2	2	0	3	0	2	1	1	2	2	1	4.0	2	9	  Though she had always had a great passion for history, she was forced to choose a career in medicine instead.	2
+30	3	1	3	3	1	5	2	4	2	2	0	1	3	2	3	1	0	4.0	2	13	With a nod and a wink, Pachomius entrusted Theodorus with the rare icons; though the monks were never quite sure what really transpired during their secret encounters.	2
+30	1	0	3	5	0	8	1	3	0	2	1	0	6	1	1	1	0	4.0	1	16	The determined young lawyer persistently fought for justice, securing two major victories against the powerful corporation; until her untimely firing after a sudden shift in leadership priorities. 	2
+27	0	0	4	3	1	6	3	3	0	1	0	2	3	1	2	2	0	3.0	1	15	Because of his unstable employment history, the department was hesitant to grant him a position; yet despite these concerns, his credentials were impressive. 	2
+32	1	0	3	5	2	6	3	1	1	4	0	0	5	1	1	2	1	6.0	2	16	  Fed up with her ongoing lack of initiative and questionable judgment, Maddison's boss eventually fired her, leaving her shocked and feeling hopeless at the sudden turn of events. 	2
+13	1	0	0	2	2	3	0	2	0	1	0	0	2	0	1	0	0	4.0	0	5	  Both the exotic and rare flamingos gathered quietly by the lake at dawn	2
+7	0	0	1	0	0	1	2	1	0	1	0	1	0	1	2	0	0	2.0	1	3	This is the sentence you requested: Two young rabbits hopped silently past a shy fox hiding among the weeds; however, upon spotting each other, they all froze, their ears perked up in fear	2
+21	1	3	2	1	0	4	0	3	1	3	0	1	2	3	3	1	0	4.0	3	8	Without hesitation, Ammiano gave the necessary data; though the figures indicated that the situation was far worse than anticipated	2
+19	0	0	3	1	1	7	0	1	0	2	1	0	3	0	1	1	0	3.0	0	7	The stunning pair of baby shoes needed two matching satin bowls, delicate embroidery, and exquisite lace.	2
+38	2	2	4	3	1	5	5	3	0	4	0	3	5	3	4	2	0	4.0	3	19	Because of his outstanding credentials and excellent recommendations, they decided to give him a senior position; however, only after the new boss had left did they find out that he was a compulsive liar.	2
+6	0	0	2	0	0	2	0	0	1	0	0	0	1	0	0	0	0	2.0	0	3	Determiner1: Classic  Determiner2: Vintage	2
+24	1	0	4	1	0	4	2	3	0	2	2	0	5	1	2	2	0	4.0	1	17	He purchased two expensive vases, one delicate crystal, the other a heavy antique china, carefully arranging them on the mantle.	2
+21	0	0	1	3	2	6	1	2	0	1	0	0	5	0	0	1	0	4.0	0	8	Beneath the intricate stitching and luxurious fabrics of our bespoke designs lies an unyielding commitment to excellence and timeless elegance. 	2
+24	0	0	1	2	1	7	3	1	0	3	1	0	5	1	2	2	0	6.0	1	11	He found the stunning golden necklace with matching bracelet in three distinct shapes, intrigued visitors who admired its beautiful designs and sparkling gems	2
+13	1	0	3	0	0	4	0	0	0	1	1	0	3	0	2	1	0	3.0	0	5	2nd prize winners, five cats eagerly chased sleek, silvery mice. 	2
+20	0	1	3	1	1	3	0	4	0	3	1	0	3	1	3	1	1	5.0	2	6	While the crowd cheered, the two riders galloped past each other, both wearing red and blue silks.	2
+44	3	0	4	7	0	10	2	5	0	4	1	2	4	2	3	1	1	5.0	3	18	With two determined investors funding its development in the background; this startup's chances of survival in this cutthroat industry are looking decidedly brighter; with the addition of this much needed capital, it's now set to compete head on. 	2
+53	4	1	3	7	2	12	5	5	0	5	2	1	5	5	5	3	0	9.0	5	18	Within minutes, they discovered that two of the artifacts they needed to find the way back home were now in the possession of one particularly difficult and uncooperative dwarf, who demanded an outrageous sum of gold in exchange for their return; a situation that required careful negotiations and clever bargaining	2
+24	0	0	3	2	0	7	1	5	0	3	0	0	3	2	2	2	0	4.0	2	12	The elegant, refined couple spent the evening dancing under the stars, their sparkling diamond jewelry catching the light of the moon.	2
+60	0	0	9	6	3	12	6	6	0	5	0	2	11	1	3	2	1	6.0	2	27	  With my worn-out backpack, full of frayed edges and torn seams, and my scuffed and tattered hiking boots, which have lost all their laces, I am prepared for the grueling, uphill journey through the thick, dense fog that blankets the winding, rocky path to the summit of this rugged mountain.	2
+20	3	0	2	1	1	4	3	0	0	2	0	0	4	0	1	1	1	4.0	1	14	His remarkable ability and impressive experience, however long overshadowed by her stellar accomplishments; only emphasized her unrivaled brilliance	2
+10	1	0	0	1	0	4	0	0	0	2	1	0	1	1	2	0	0	3.0	1	3	Two dwarves carefully carried crystal chess sets over crazy creatures	2
+12	0	0	2	1	0	3	0	1	0	1	1	0	3	0	1	0	0	3.0	0	7	Two charismatic pachyderms preened under the pale princess-pink parasol.	2
+26	0	0	2	3	1	7	1	4	0	2	0	2	3	1	1	0	1	5.0	2	15	Picking among all the many different hand-bags on the racks and shelves is sure to be, a time consuming process for our customers	2
+27	1	0	5	3	0	6	1	1	2	2	2	1	2	2	2	2	0	4.0	2	13	Despite her lack of experience, Rachel scored two goals during the game; however, Jessica's talent was undeniable, scoring three magnificent goals. 	2
+6	0	0	0	0	0	2	1	1	0	0	0	1	0	0	1	0	0	2.0	0	5	This is the task's response	2
+38	2	1	5	4	0	11	3	2	0	4	1	0	5	1	3	3	0	4.0	1	18	With over 125 years of expertise, our hand-picked artisans carefully create beautiful custom designs with intricate details; though our classic styles exude timeless elegance, each piece reflects the uniqueness of its creator.	2
+28	3	0	3	4	0	8	2	1	0	3	0	0	4	1	2	2	0	5.0	1	17	Our company also offers a range of luxury travel accessories, from exquisite scarves to sleek umbrellas, as well as handcrafted jewelry that highlights artisanal craftsmanship.	2
+21	0	0	3	3	1	5	1	2	0	1	1	0	4	0	1	1	0	5.0	0	14	  Despite both of their highest qualifications and top-notch supplies, these premium handbags suit elegant women over forty. 	2
+24	0	0	3	2	1	5	1	3	0	2	2	0	4	0	2	1	0	4.0	0	18	  She wore the expensive black pumps with the red designer purse; not one, but two precious gems sparkled from each earlobe.	2
+34	1	0	8	4	0	6	1	6	0	3	0	0	5	0	2	1	1	4.0	1	15	The sloth, who sported an ominous grin, cautiously scurried (under the watchful gaze of a perched owl) across (the sturdy branch of a broad-leafed tree.)	4
+10	0	0	2	0	0	3	0	0	0	1	2	0	2	1	0	1	0	3.0	1	5	Four determined determiners describing four determined duck-hunters: The dodgy dabbler, the cagey codger, the spry sprite, and the perky punter pursued the pliant puddlers perspectively.	4
+39	3	1	5	4	0	9	1	3	0	8	0	0	3	5	2	2	1	8.0	6	10	The tiresome troll, who tasted like toasted toffee, thrashed timidly, threatening to toss trinkets treacherously towards the titular tower's trapdoor, tantalizing treasure hunters trembling with trepidation while tiptoeing tentatively throughout the tarnished terrain. 	4
+14	2	0	3	0	0	2	1	1	2	1	0	0	2	0	1	1	0	3.0	0	9	Sir Toby, usually an indulgent man, rarely wears his yellow stockings. 	4
+20	2	0	4	2	1	4	0	2	0	1	0	1	3	0	1	0	0	4.0	0	12	Within certain limitations, all snitches, typically being agile and slender individuals, move swiftly along the perimeter. 	4
+18	2	0	5	1	0	2	0	1	0	2	0	0	5	0	1	0	1	3.0	1	8	The gory, grissly, gnarly, gigantic bear, growling gruesomely, glared grumpily at garrulous grizzlies	4
+17	0	0	4	1	0	3	0	3	0	2	0	1	3	0	1	1	1	4.0	1	7	The swarthy, bespectacled gnu, having escaped the zoogoers, wallowed amidst the verdant grasses. 	4
+44	0	0	4	5	2	8	2	9	6	3	0	1	4	0	3	2	2	7.0	2	25	Morgan Freeman, who is the author of a best-selling travel novel and an adventurer who sailed a boat around the world, wore these very boots to a fancy dinner at the White House with Michelle Obama and the President. 	4
+21	3	0	5	1	0	3	0	4	0	3	0	0	1	2	1	1	0	4.0	2	8	The tetrarch, generally an ecclesiastic, worships reverently under (usually the aedicule) attempting to evoke the presence.	4
+20	0	0	3	2	0	5	2	2	0	2	0	0	4	0	2	1	1	5.0	1	10	The plucky wunderkind, that diminutive dynamo who dashes with delight, plies her piquant wit with precise predilections.	4
+90	0	0	2	13	10	23	6	5	5	5	0	4	17	1	3	3	1	10.0	2	26	Garth Wayne Brooks, a popular and renowned country pop singer who hails from Tulsa in Oklahoma, has recorded a series of heartfelt and soulful ballads throughout his long and storied music career with multiple platinum selling albums under his iconic belt and has written an impressive number of hits for himself and other renowned country pop artists and has garnered immense fame and a large listening audience that has stood loyal to him through thick and thin and through periods of highs and lows to the present day	4
+17	3	0	3	1	1	2	0	2	0	1	0	0	4	0	1	0	0	4.0	0	8	The slithy tower, perilously sly and subtly wily, trembled vexingly under the windy volley.	4
+30	2	0	9	2	0	7	0	3	2	3	1	0	1	0	1	0	0	3.0	0	15	The three-time Grammy-winning flutist, Maria Gheroghlieghian, often walks among (the carefully tended rose bushes) during (the long) sunset hours. 	4
+17	1	0	3	1	0	4	0	2	0	1	0	0	4	0	1	1	0	4.0	0	7	The flimsy feline, fraught with frustration, feebly fingered the frightened felines' fluffy fur.	4
+17	1	0	3	2	1	4	0	2	0	2	0	0	2	0	1	1	1	5.0	1	10	The gymnopod, wearing velvety fur in blue and purple, hopped over the meadow gracefully.	4
+47	0	1	7	5	2	10	2	4	0	6	0	3	7	2	2	1	1	4.0	3	11	The plump, glittery-scaled gizzard shad, who was hiding amidst the aquatic vegetation, was discovered by the vigilant pike after several minutes of searching, using its exceptional vision and lateral line, before being chased and cornered near the underwater weeds. 	4
+19	0	1	2	1	0	4	0	4	0	3	0	0	4	1	1	2	1	4.0	2	7	The slender youngster, wearing an expensive watch, stood near the luxury vehicle while eating the fancy cheese	4
+26	1	0	3	2	0	7	3	3	0	3	1	1	1	1	2	2	1	4.0	2	12	The four snitches, who had previously played for the opposing quidditch team, critiqued the seekers on their inability to evade their counter moves.	4
+39	2	1	5	6	1	8	2	5	0	4	0	0	5	1	2	1	2	5.0	3	24	The slim, tall brunette with spectacles in a black turtleneck, standing between the pillar and the entrance, who spoke with a British accent, quickly scurried out without even taking off her long woolen coat.	4
+27	3	0	6	1	1	4	0	3	0	4	0	0	4	2	1	1	0	4.0	2	9	The smarmy spy, that shifty sleuth, always ambles aimlessly (with quite queer mannerisms), trying to find and capture those nondescript nomads. 	4
+29	3	0	3	2	0	6	4	1	0	3	1	3	0	1	3	1	1	4.0	2	11	His brother’s friend’s mother’s dog, which had been missing for two days, was sleeping peacefully under the porch when they finally found it.	4
+51	2	0	4	8	2	12	2	5	2	3	3	2	6	1	3	2	2	5.0	3	17	The gymnast, several of whom are from countries that have never qualified for the Games before, won three gold medals and seven silver medals, smashing the previous best for the host nation or nations since the first meetings in modern times in ancient Greece in 776 BC. 	4
+26	1	0	4	1	1	6	2	3	0	2	0	1	4	1	3	1	1	5.0	2	12	The snitch, whose track record was impressive and his speed astounding, ran furiously around the perimeter, desperate to flee the relentless seekers.	4
+28	1	0	4	3	1	5	3	2	1	3	0	0	5	1	3	1	1	4.0	2	9	The plummy, creamy, crumbly, and golden slice of tart that Lena bit into had a delicious flavor that burst forth upon her taste buds.	4
+19	2	0	5	1	0	3	0	2	0	4	0	0	1	2	1	1	1	3.0	3	7	The snitchy intern, often overlooked, ran nervously (around the cubicles) hoping to avoid detection.	4
+23	1	0	7	2	0	5	0	2	0	4	0	0	2	0	1	1	1	4.0	1	11	The tense gobbling goose, gliding gracefully over (the shaded pond), gobbled (delicious bugs) with glittering glee.	4
+31	1	0	7	4	2	5	1	3	0	2	0	0	6	1	0	0	0	6.0	1	9	The svelte, flimsy, slender, and graceful fawn, usually with the assistance of its siblings, frisked  and bounded with nimble, sprightly leaps throughout this territory. 	4
+26	0	0	3	3	0	5	1	4	0	5	0	0	4	3	1	3	1	7.0	4	8	The shy squirrel, disguising itself with various vines, creeps up the tall tree trying to avoid catching the eye of the perceptive owl.	4
+20	0	0	2	1	1	6	2	1	0	3	1	1	1	1	1	2	0	4.0	1	7	There lived three little cajous down cajou street, who ate all breakfast eatables and wouldn't eat bread. 	4
+35	2	0	7	4	0	7	3	3	2	2	0	2	3	1	3	1	1	5.0	2	25	   Juvenal-Ursache, who was a reddish, robed, aging, assistant manager of a small bank branch at that time, quickly ran over to where he had thrown his coat.	4
+17	1	0	3	2	0	4	0	3	0	3	0	0	1	0	1	0	1	4.0	1	7	The flabby finance executive, disguised as a gymnast, dances dangerously around the glistening gymnasium.	4
+24	1	0	4	2	1	5	0	4	0	3	0	1	3	1	1	1	1	5.0	2	10	The malleable quokkas, excluding the ones with freckles, are usually spotted roaming (the eastern and western boundaries of) the reserve	4
+19	0	0	3	2	0	2	2	2	0	3	2	1	1	1	2	1	1	5.0	2	11	These three men, one of whom was wearing a red hat, tried to push past us. 	4
+13	1	0	1	1	0	4	0	2	0	1	1	0	2	0	1	1	0	2.0	0	7	The cranky khaki kitten caught forty crunchy crabs quickly in the cloister.	4
+31	1	1	3	3	2	9	1	3	0	3	2	0	3	1	3	1	1	7.0	2	15	The flamboyant fashion model, who wore five elaborate coiffures and eight layers of ruffles and taffeta, posed elegantly on the catwalk while the scintillating audience sizzled with excitement.	4
+46	3	0	16	4	2	8	1	2	0	4	0	0	6	1	0	0	0	4.0	1	31	The slithering, gargantuan ogre, covered (partially) with wet, mossy fur and (partially) with slimy, matted spines, slunk and lurked (throughout) the shadowy, gloomy forest, searching (ardently) for its noontime meal.	4
+30	0	0	4	3	1	5	2	3	0	5	0	1	5	2	2	1	1	5.0	3	12	The swanky glitterati, who were clothed in lavish gowns and sparkling jewels, scurried about (the exclusive parties) attempting to outdo each other with their opulent displays	4
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	  This is a solved example of the task. Generate a sentence with 4 determiners. Write only the sentence, without adding further text and without explanations. 	4
+12	1	0	0	1	0	3	1	2	0	2	0	0	2	1	1	1	0	4.0	1	4	The sly snake slithers stealthily across the shadows seeking its scaly prey	4
+40	2	0	9	3	2	8	1	3	1	2	2	0	7	0	1	0	0	4.0	0	24	The four-year, twice-divorced, obese, and elderly tourist hiked precariously through the treacherous mountain terrain with her two overactive, fluffy terriers and stubborn Yorkshire cat, despite the early-autumn chill.	4
+24	0	0	3	3	0	5	1	4	0	1	1	0	6	0	2	1	0	3.0	0	14	The grizzled old actor wore four glittering bracelets, each from a different decade, to the formal premiere of his newest film.	4
+30	0	1	7	2	2	6	0	3	0	2	0	0	7	1	1	1	0	4.0	1	11	The tome-like, aged, bespectacled, and venerable librarian scolded the impetuous, flip, and saucy student for muttering during quiet hours in the stacks.	4
+19	2	0	2	2	0	3	0	2	0	3	1	1	3	0	1	0	1	4.0	1	11	Four gleaming golden geodes, glinting brilliantly against the green grass, were strategically situated throughout the verdant valley	4
+28	5	0	2	5	0	5	1	3	0	4	0	0	2	1	1	1	2	5.0	3	13	The sloth, usually found hanging upside down amongst the green moss, deliberately crawls slowly with long claws to precisely position itself for dinner amongst the lichen	4
+21	2	0	2	3	0	4	1	3	0	2	0	0	4	1	1	0	0	5.0	1	5	That sneaky swine, she sauntered slowly through the shady shadows searching sincerely for succulent shells on that stony strand.	4
+31	3	0	3	4	1	8	2	4	0	3	0	1	2	0	2	1	2	5.0	2	16	The plucky snitch, who was a brisk hurdler and always kept his hair neatly trimmed, swiftly dodged past a row of bullying beaters en route to the woods.	4
+31	1	0	7	0	1	8	0	2	3	2	0	0	5	1	2	2	0	4.0	1	12	  Hermann Park's reflection, Houston's skyline, morning dew, and weary feet adorned the brisk, autumnal trail where a lone, wizened oak, stood sentinel. 	4
+29	1	0	5	3	1	6	0	4	0	5	0	0	4	1	1	1	1	5.0	2	10	The slinky, elegant snake, adorned with shimmering scales and glistening gold, slithered seductively through the grass, avoiding the prying eyes of the curious gazelles. 	4
+30	3	0	3	3	0	7	0	5	0	3	1	0	5	0	1	3	2	5.0	2	13	The enormous enormity of the empty envelope, excluding the exact excess expressing enormity, exceeded any expectations by exactly one envelope exactly equal to the extraordinarily exuberant eagerness.	4
+62	3	1	4	6	4	16	5	5	0	8	0	0	10	5	3	6	0	13.0	5	14	The gymnastic teacher of remarkable skill, often wins the competition, using her talented and perfectly trimmed dogs that perform remarkable backflips and roundoffs in the obstacle courses with various hurdles, while entertaining the delighted audience that always cheers for more, clapping their joyful hands and whistling their appreciation for these exceptional canine artists of unique charm and elegance	4
+50	1	0	9	2	3	22	1	3	0	2	1	0	6	0	2	2	1	8.0	1	34	Six determiner examples sentence: The highly advanced technological innovative smart home systems that incorporate state-of-the-art security surveillance equipment, climate control technology, and home automation and control systems, provide the luxurious living spaces with complete safety, comfort, and convenience	6
+17	0	0	1	2	0	5	0	2	0	1	1	0	5	0	1	1	0	3.0	0	6	Eight towering giraffes drank water under the enormous silver tree in the gigantic green savannah enclosure.	6
+43	0	0	6	6	0	9	1	5	4	4	0	1	6	2	1	3	1	6.0	3	17	The sixth-century settlement of Eporiedhou, nestled within the sprawling metropolitan area of current-day Paris, was granted a municipal charter during the reign of Clovis I, enabling its bustling marketplaces to serve an influx of visitors. 	6
+21	2	0	2	3	1	5	0	3	0	2	0	0	3	1	1	0	0	4.0	1	9	  At the edge of the clearing, the gigantic giraffe gracefully galloped through grasses and grackles growing greener gloriously golden.	6
+45	0	0	8	3	4	15	0	2	0	3	0	0	10	1	1	1	1	6.0	2	13	Surrounded by verdant mountains and crystal-clear lakes, the charming ski resort boasts a wide range of top-notch amenities for discerning vacationers, including high-end hotels, trendy cafes and restaurants, and exclusive boutiques and art galleries.	6
+72	0	0	11	6	5	5	1	2	29	2	2	1	6	2	2	1	0	7.0	2	47	Nine notable New Yorkers of today are of Italian origin including, Andrew Cuomo (the Governor), and Joe Scarnici who holds positions as Chief Financial Office of the Governor's Office, and trustee at Fordham University, Manhattan College, Bank Street College of Education and St. John's University and three Italian Consuls; Luisa Aste, Francesco Genuardi, Gabriella Goldsmith and Anna Hazen Swan.	6
+27	2	0	3	1	1	9	0	0	0	4	1	0	5	1	1	2	1	4.0	2	12	  Six historic English pubs situated along picturesque country lanes now offer gourmet menus, carefully crafted beers, and cozy accommodations to delight modern-day travelers	6
+51	1	0	6	10	2	11	0	7	2	5	1	1	3	2	1	2	1	9.0	3	14	The settlement of Lodi, located on the area of present-day , was founded in the 14th century and acquired a town charter in  1423, along with the right to have a marketplace and the ability to appeal to numerous nationalities, together with traders from England.	6
+33	0	0	1	6	2	10	0	5	1	3	0	1	4	0	1	0	2	6.0	2	18	A bountiful basket filled with fresh fruit and vegetables gleaned from the local fields and farmers markets of Provence was presented to the noblewoman at the estate by the skilled village artisans.	6
+30	1	0	3	3	1	9	0	2	0	5	0	1	4	3	1	3	1	5.0	4	10	 The numerous outlying properties, all located off winding lanes, have captivated imaginations for generations and glimmer with endless charm, tempting families to experience the ultimate country escape	6
+28	0	0	3	4	0	7	0	4	2	3	1	0	4	0	2	1	1	6.0	1	21	Six determiner sentence: Founded within the medieval period in a picturesque setting amidst rolling hills, the small village of Br Ansquerre exudes a quaint charm.	6
+27	1	0	2	4	0	7	0	3	1	3	0	0	6	2	0	1	0	8.0	2	5	A quirky Czech boutique hotel offering individually designed rooms with a range of contemporary comforts, located within a stunning historic building in Old Town square. 	6
+23	1	0	2	3	0	5	0	3	0	3	1	0	5	2	1	1	0	6.0	2	7	The enigmatic creature inhabited an intriguing island surrounded by majestic waves with six peculiar protrusions, vibrating exuberantly in the mystical mist.	6
+43	1	0	12	3	1	9	1	3	1	8	1	0	3	2	1	1	0	7.0	2	13	The 1928-constructed, brick-finished, whitewashed Victorian-styled structure, with its double-fronted, bow-windowed façade, houses a myriad museum, showcasing an array of artefacts and relics dating back to Antiquity.	6
+27	0	0	3	3	1	8	0	3	0	4	1	0	4	3	0	1	0	7.0	3	9	A settlement nestled in the heart of the Brazilian rainforest, boasting six vibrant villages adorned with flourishing gardens, bustling street markets and tranquil lagoons.	6
+34	1	0	1	5	0	6	2	4	3	4	1	1	5	3	2	1	0	5.0	3	18	The two elephants slowly made their deliberate way across the dense vegetation through the sweltering tropical heat of Moremi Game Reserve, pausing to munch on a few juicy shoots that were within reach	6
+24	0	0	1	5	1	8	1	2	0	1	0	1	4	0	1	0	0	5.0	0	8	Numerous tourists are fascinated by this location because of its unique combination of natural features and the abundance of high-end retail establishments	6
+37	0	1	2	5	1	8	3	4	1	3	1	2	6	1	3	2	0	4.0	1	15	A sizable settlement at the crossroads of three ancient routways has been evident since medieval times, but the town of Cranfield as we kbow it today began its recorded history in the late eleventh century.	6
+72	0	0	30	2	1	8	0	1	0	4	4	0	22	0	1	0	0	6.0	0	35	Within these walls, numerous treasures lie; six statues of forgotten kings (proud, graceful, regal, strong, gentle, noble), five golden reliquaries (ornate, intricate, elegant, precious, revered), four rare tomes (leather-bound, ancient, mysterious, cryptic, esoteric), and three weathered maps (faded, worn, detailed, secretive)	6
+29	0	0	3	3	2	8	0	2	0	2	0	2	7	1	1	1	0	5.0	1	12	Several picturesque islands with luxuriant vegetation and crystal-clear blue seas can be found in the tranquil harbour, providing the ideal spots for sunbathing and relaxation.	6
+33	2	0	3	4	0	7	1	6	0	5	0	0	5	1	2	2	1	5.0	2	14	The quaintly adorned antique cottage, positioned upon the verdant hillside amidst an array of vibrant wildflowers, boasts an expansive terrace which offers an unobstructed vista of the rolling countryside below.	6
+47	9	0	5	7	2	6	0	5	5	3	1	0	4	2	1	2	0	6.0	2	14	Of the three colleges, Harvard held the most prestigious position by far in the Ivy League, boasting the second highest ranking globally, coming in at just behind Princeton but well ahead of Yale, and with the highest faculty-student ratio as well	6
+30	1	0	3	4	1	5	1	3	3	3	1	0	5	1	0	1	0	5.0	1	17	North of the sleepy town of Kendal, on the west banks of the Lune, there are three pubs serving locally-brewed real ales and traditional British cuisine	6
+22	0	0	1	2	1	6	0	2	0	2	0	1	6	1	1	0	0	5.0	1	6	The charming little town is situated on the river's picturesque bank surrounded by beautiful green fields and old willow trees.	6
+34	0	0	4	3	2	11	0	2	1	3	2	0	5	1	1	0	0	5.0	1	15	Six historic houses, three quaint museums, a former mill village, and scenic woodland trails contribute to Lanesville's special charm, enjoyed by vacationers from surrounding cities and suburbs every year	6
+19	0	0	3	3	0	5	0	2	0	2	1	1	2	0	1	0	1	4.0	1	9	Over ten luxury yachts, docked in the tranquil marina, were reserved for an exclusive anniversary gala.	6
+37	2	0	1	6	2	10	1	5	0	3	0	2	5	2	2	2	0	9.0	2	9	A large number of ancient inscriptions and other artifacts has been recovered from close by the settlement, giving valuable evidence for the historical past and way of life of the humans who once inhabited this area	6
+39	1	0	5	5	2	7	1	5	0	3	3	2	5	0	3	0	1	5.0	1	19	The small settlement, situated in the heart of the lush forest, boasted of six ancient churches, each with its unique history and architectural style, and each having been standing for over two hundred years. 	6
+25	0	0	2	4	0	5	0	3	0	3	2	2	4	1	1	0	1	4.0	2	18	Nestled in a valley between two majestic mountains, a tranquil hamlet with seven historic churches can be found prospering on a fertile land. 	6
+32	1	0	3	5	1	9	0	4	2	2	0	1	4	1	1	1	0	7.0	1	5	The prosperous seaside community of Rhyl is situated proudly on the golden coast of Clwyd, boasting world-class facilities and a range of luxury accommodations for a memorable holiday. 	6
+51	1	0	4	6	3	14	1	9	0	3	1	3	5	2	3	1	0	5.0	2	33	Six determiners were utilized to precisely describe the location of the town in comparison to the park and other features, and the sentence that follows is The village on the banks of the lake is tiny yet picturesque (the white church; ancient stone bridge over the rivulet)	6
+39	0	0	9	2	1	10	0	3	0	3	1	2	8	0	1	1	2	6.0	2	19	The settlements, established on the lands surrounding the ancient monastery, have been influenced by six different determiners; geographical place, religious affiliation, historical era, societal structure, cultural practices, and traditional craftsmanship. 	6
+23	1	0	6	4	1	3	0	4	0	1	1	1	1	1	1	0	0	4.0	1	10	The six determiners in this sentence are the, of present-day, in, along, for all, and geared	6
+37	0	0	6	5	0	8	0	6	0	6	0	0	6	6	0	2	0	10.0	6	7	A spacious mansion situated on a hill, surrounded by a lush greenery, overlooking a picturesque valley, boasting a lavish interior, adorned with expensive artwork, lit by an array of crystal chandeliers.	6
+36	1	0	3	5	2	10	0	3	0	2	1	0	9	0	1	1	0	5.0	0	19	Seven well-appointed villas near the historic town square, with convenient access to public transportation and several quality dining options, provide guests with a relaxing and comfortable stay in the medieval walled city	6
+25	0	0	3	3	1	7	0	2	0	3	0	2	4	0	1	0	1	5.0	1	12	The spacious mansion near the picturesque town surrounded by towering trees, has been equipped with high-quality home appliances and opulent decor.	6
+36	2	1	1	4	0	7	3	3	0	4	2	0	9	2	1	2	0	8.0	2	7	The large black german shepherd wagged its six fluffy tails before enthusiastically greeting its five happy owners with various sweet treats on the spacious lawn of their secluded mansion located deep in the wooded countryside.	6
+28	0	0	3	4	1	8	0	5	0	4	0	0	3	0	1	1	2	5.0	2	17	A settlement situated in the heart of the region, surrounded by rolling hills and scenic rivers, boasts a historic town center with a vibrant atmosphere.	6
+20	0	0	6	1	0	2	3	4	0	2	1	1	0	0	1	0	0	3.0	0	10	Six determiners are used in the following sentence: the, a, this, that, another, those	6
+38	2	0	5	3	1	6	0	4	4	3	0	0	9	1	1	2	1	6.0	2	15	Ostia Antica, located close to the present-day Rome's central station, features notable architectural examples from the Roman Republic and Imperial periods, offering a captivating trip back to the ancient Roman civilization.	6
+68	1	0	10	9	2	22	0	5	1	3	0	0	14	2	0	1	0	12.0	2	19	A stunning penthouse apartment situated in a prestigious development with breathtaking views of London's iconic skyline, an impressive fully-fitted kitchen with high-quality appliances, sleek stone worktops, and plenty of luxurious living space with floor-to-ceiling windows allowing an abundance of natural light, comfortable under-floor heating, and secure access to a peaceful communal garden. 	6
+26	0	0	2	3	1	7	0	3	0	5	0	1	4	0	1	0	2	4.0	2	20	Lined with ancient olive groves and towering cedar trees, the sleepy village nestled in the rolling wooded hills was shrouded in a mystical aura. 	6
+59	1	0	6	8	2	11	0	7	5	6	0	0	12	3	1	2	1	7.0	4	13	 This picturesque medieval settlement, established on the hill in the fourteenth century, houses the stunning St. James' Church, along with charming inns serving hearty local dishes, and shaded alleyways brimming with quaint antique stores and artisan workshops, all within a short distance of the scenic Vltava River flowing gracefully through bustling streets. 	6
+28	1	0	3	5	0	6	0	5	0	3	1	0	4	3	0	0	0	5.0	3	14	The town, situated on a hill with a stunning view of the sea, boasting of six charming old churches dating back to the eleventh century.	6
+51	3	0	13	4	1	8	0	4	3	5	1	0	9	1	1	2	1	5.0	2	13	The highly-recommended, historically-renowned, world-famous Cathedralea Church, situated in the captivating medieval town of Olsztyn, boasts an immaculately-preserved twelve-centuries-old altarpiece, showcasing intricate Gothic architecture, within a serene atmosphere of unparallelled tranquility and devotion.	6
+10	1	0	1	1	0	3	0	1	0	1	0	0	2	0	0	0	0	4.0	0	5	A multitude of magnificent martens, majestically munching mellow mistletoe	6
+28	0	0	5	2	1	9	0	2	1	3	0	0	5	0	1	1	1	4.0	1	13	Settled upon sixteenth-century foundations, the picturesque English town of Marlborough features historic landmarks, luxurious country estates, and a world-renowned golf course	6
+32	0	0	2	5	2	6	1	0	4	3	1	2	6	1	2	1	1	5.0	2	14	Six ancient and historical ruins, which were discovered in Xinjiang Uyghur Autonomous Region of China, have revealed various characteristics of past human activities and settlements through research done by experts	6
+20	0	0	2	3	1	3	0	1	3	2	1	0	4	0	1	0	0	3.0	0	8	Eighteen different species of vibrant hummingbirds flutter and flit around the lush, serene gardens of Hotel Punta Carena. 	6
+65	2	1	7	5	4	18	0	6	3	6	0	1	11	2	3	1	1	5.0	3	41	Nested in a valley within the Blue Ridge Mountains, the historic colonial town offers charming Bed and Breakast establishments with gourmet dining options, cozy guest rooms, private baths and a richly deserved relaxing atmosphere with breathtaking panoramic views; additionally, an abundance of scenic trails, museums and historic places are available for all age groups to enjoy and experience.	6

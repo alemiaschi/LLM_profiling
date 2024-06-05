@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The blue car drove quickly down the deserted street.	0
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	0	2.0	0	3	Two purple giraffes are playing in the park.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+14	0	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun sets behind the mountains, casting long shadows over the landscape.	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	1	0	3.0	0	4	The sunsets behind the trees display an array of vibrant colors.	0
+17	0	0	2	3	0	5	0	4	0	1	0	0	2	0	1	0	0	4.0	0	4	The large, brown bear sits in the middle of the forest near the berry bushes.	0
+15	0	0	1	2	0	3	0	3	2	1	0	0	3	0	1	1	0	4.0	0	7	The large yellow house at the corner of Elm Street has a red door.	0
+9	0	0	1	1	0	2	0	2	0	2	0	0	1	0	1	0	0	2.0	0	4	The red ball bounces on the carpeted floor.	0
+17	0	0	2	2	1	6	1	2	0	1	1	0	1	0	1	1	0	3.0	0	6	In the city center, three musicians perform a lively tune with their accordions and saxophones.	0
+10	0	0	1	1	0	3	1	2	0	1	0	1	0	0	1	1	0	3.0	0	5	The tree in the courtyard is shedding its leaves.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The moon is full tonight.	0
+10	0	0	1	0	0	2	0	2	0	1	0	1	3	0	1	1	0	2.0	0	4	The large elephant is eating the sweet ripe banana.	0
+11	0	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun sets behind the mountain, casting long shadows.	0
+15	0	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun sets over the horizon, illuminating the clouds with its golden hue.	0
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	Three birds are perched on a branch.	0
+11	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	4	The apple tree in the backyard produces ripe red apples.	0
+10	0	0	1	2	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The sun rises over the mountain range at dawn.	0
+9	0	0	1	2	0	2	0	1	2	1	0	0	0	0	1	0	0	2.0	0	5	The sun rises over Mount Everest at dawn.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat walked in the garden.	0
+10	0	0	1	2	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The sun rises above the mountain peak at dawn.	0
+28	0	0	8	2	2	4	4	3	0	2	0	1	1	3	2	0	0	5.0	3	14	 'it,' which inferred by the reader or speaker to be the sun, and 'they,' which refers to the long shadows.	0
+12	0	1	1	1	0	4	1	2	0	2	0	0	0	1	1	2	0	3.0	1	4	The cat licks its paw after eating tuna from a can.	0
+16	0	0	2	2	0	4	0	4	0	2	0	1	1	1	1	1	0	3.0	1	6	The sun is setting over the lake, casting a warm glow on the water.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	3.0	0	4	The blue car drives faster than the red one.	0
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	The dog chews the red ball in his mouth.	0
+11	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	1	0	2.0	0	6	The apple tree bears green fruit in the late spring.	0
+12	0	0	1	2	0	3	0	3	0	1	0	1	1	0	1	0	0	3.0	0	3	The blue car is parked on the side of the road.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+11	0	0	1	1	0	4	1	1	0	2	0	0	1	0	1	1	1	4.0	1	5	The apple tree located in my backyard has red leaves.	0
+10	0	0	1	2	0	2	0	1	2	1	1	0	0	0	1	0	0	2.0	0	5	The sun sets behind Mount Fuji at six o'clock.	0
+11	1	0	1	1	0	3	0	2	0	2	0	0	1	0	1	0	1	4.0	1	6	The blue jay perched on the oak tree chirped loudly.	0
+12	0	0	1	2	0	4	0	3	0	1	1	0	0	0	1	0	0	2.0	0	8	The sun sets over the horizon at six o'clock every evening.	0
+6	0	0	1	0	0	2	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	The blue elephant eats bananas.	0
+17	0	0	2	3	1	5	0	3	0	2	0	0	1	1	1	1	0	5.0	1	5	The sun sets over the horizon, illuminating the sky in hues of orange and pink.	0
+17	0	0	1	4	0	5	0	5	0	2	0	0	0	1	1	0	0	5.0	1	6	A cat sat under the bridge in the rain looking at the fish in the pond.	0
+10	0	0	1	2	0	3	0	2	0	1	1	0	0	0	1	0	0	2.0	0	6	The sun sets behind the mountain at 7:30 pm.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The sun sets over the calm blue ocean.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the ocean.	0
+17	0	0	2	2	1	5	0	3	0	2	0	0	2	1	1	1	0	4.0	1	6	The sun sets over the tranquil water, painting the sky with beautiful oranges and reds.	0
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	6	The dog chases the red ball in the park.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The brown dog sits under the green umbrella tree.	0
+11	0	0	1	2	0	4	1	2	0	1	0	0	0	0	1	1	0	3.0	0	4	The dog chases its tail in circles in the yard.	0
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The cat walked under the tree with red leaves.	0
+13	0	0	1	2	0	4	0	2	0	1	1	1	1	0	1	0	0	3.0	0	4	Two blue birds are perched on each branch of the oak tree.	0
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The cat sits on the red mat at the entrance.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The red car moves slowly down the street.	0
+10	0	0	1	1	0	3	2	2	0	1	0	0	0	0	1	1	0	2.0	0	7	She watches the stars from her balcony every night.	1
+5	0	0	1	0	0	2	1	0	0	1	0	0	0	0	1	1	0	2.0	0	2	He loves ice cream.	1
+7	0	0	1	2	0	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	4	She looks out of the window.	1
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are an exceptional listener.	1
+11	0	0	1	1	0	3	2	1	0	1	0	0	2	0	1	1	0	2.0	0	8	She reads her favorite book in the quiet study room.	1
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate the sandwich.	1
+5	1	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	2	She reads books passionately.	1
+8	0	0	1	1	0	2	2	0	0	1	0	0	1	0	1	1	0	2.0	0	5	She enjoys painting in her free time.	1
+8	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will help you with that problem.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She reads the book eagerly.	1
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	I understand your requirements.	1
+9	0	0	1	1	0	2	2	1	0	0	0	1	1	0	1	0	0	2.0	0	4	You are a valuable member of our team.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	1
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are an excellent assistant.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He sings beautifully.	1
+9	0	0	1	2	0	2	1	1	0	2	0	0	0	1	1	0	0	3.0	1	5	She loves running on the beach at sunrise.	1
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are an incredible artist.	1
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	She loves dancing.	1
+5	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	She is dancing gracefully.	1
+10	0	0	1	1	0	3	2	1	0	1	0	0	1	0	1	1	0	2.0	0	7	She cooks delicious meals for her family every day.	1
+5	0	0	2	0	0	0	1	0	0	2	0	0	0	1	1	0	0	1.0	1	1	"""You seem lost."	1
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are an amazing writer.	1
+5	0	0	1	0	0	1	1	0	0	2	0	0	0	1	1	1	0	2.0	1	1	She enjoys playing tennis.	1
+8	0	0	1	0	0	1	1	1	0	2	0	0	1	1	1	1	0	3.0	1	3	You have an important decision to make.	1
+9	0	0	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	4.0	1	3	I see the moon rising over the horizon.	1
+9	0	0	1	1	0	2	2	1	0	1	0	1	0	0	1	1	0	2.0	0	5	I will bring the book to you tomorrow.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She understands perfectly.	1
+7	0	0	1	1	0	1	1	1	0	2	0	0	0	1	1	0	0	3.0	1	3	She loves swimming in the ocean.	1
+7	0	0	1	0	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	4	She reads a book every day.	1
+8	0	0	1	1	0	2	1	0	1	2	0	0	0	1	1	1	0	3.0	1	4	I love watching movies on Friday nights.	1
+7	0	0	1	0	0	2	2	0	0	1	0	1	0	0	1	1	0	2.0	0	3	You should bring your umbrella today.	1
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	6	She baked a cake for the birthday party.	1
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are an amazing person.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	You understand the instructions well.	1
+4	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	You are welcome.	1
+9	0	0	1	2	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	6	She reads in the park on sunny afternoons.	1
+7	0	0	1	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	She cooks delicious meals every day.	1
+9	0	0	1	0	0	2	2	1	0	2	0	1	0	2	1	2	0	3.0	2	3	I am an assistant helping you find information.	1
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	She is an excellent pianist.	1
+7	0	0	1	0	0	3	1	0	0	2	0	0	0	1	1	1	0	4.0	1	3	She loves reading science fiction novels.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She loves dancing in the rain.	1
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	They enjoy our services.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	1
+5	0	0	1	0	0	1	1	0	0	2	0	0	0	1	1	1	0	2.0	1	1	I love playing soccer.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	1
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	He admires her intelligence.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She enjoys hiking in the mountains.	1
+8	0	0	1	1	1	1	1	0	2	1	0	0	0	0	1	1	0	3.0	0	3	He plays tennis on Tuesdays and Thursdays.	1
+6	1	0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	0	2.0	0	2	He always arrives on time.	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	0	0	1.0	0	4	She is an accomplished artist.	1
+13	2	0	2	0	1	1	4	1	0	2	0	0	0	0	2	3	0	4.0	0	6	She gave him the ball, they threw it back and forth.	3
+13	0	0	3	0	0	0	5	1	0	3	0	0	1	0	3	3	0	3.0	0	8	She love him, he loves her, they understand each other.	3
+17	1	0	3	0	1	2	6	0	0	3	0	1	0	0	3	3	0	3.0	0	12	They love her kindness, he appreciates their support, and we will miss them dearly.	3
+12	0	0	2	1	1	0	6	0	0	2	0	0	0	0	2	3	0	3.0	0	6	She gave him it, but they took it from her.	3
+9	0	1	1	0	0	0	4	0	0	2	0	0	1	1	2	2	0	3.0	1	3	He loves her more than they respect him.	3
+14	1	0	2	1	1	1	5	1	0	2	0	0	0	0	2	3	0	3.0	0	6	She gave him it, and he thanked her deeply for that gift.	3
+12	0	0	2	1	0	2	4	1	0	2	0	0	0	0	2	3	0	3.0	0	6	She gave him the book, they discussed it over tea.	3
+16	0	0	3	2	0	0	8	0	0	3	0	0	0	0	3	3	0	3.0	0	12	They give it to her, she gives it to him, he thanks them.	3
+13	1	0	2	0	0	1	4	1	0	2	0	0	2	0	2	3	0	3.0	0	7	She gifts him her old scarf, they thank each other warmly.	3
+17	1	0	3	2	0	0	8	0	0	3	0	0	0	0	3	3	0	3.0	0	12	He gave it to her, she handed it to him, they watched it closely.	3
+19	1	0	2	1	1	1	6	0	0	4	0	2	1	2	4	1	0	3.0	2	12	He thought she'd love they'd spend it together, but they argued over his misplaced keys.	3
+9	0	1	1	0	0	0	4	0	0	2	0	0	0	1	2	2	0	2.0	1	6	He gave her it for them to keep.	3
+14	2	0	3	1	1	1	3	1	0	1	0	0	1	0	1	0	0	3.0	0	6	She, they, and he sat quietly in the dimly lit room.	3
+16	0	0	2	2	1	1	6	0	0	3	0	0	0	1	2	2	0	4.0	1	7	He gave it to them, and they promised to keep it secret from him.	3
+18	1	0	3	2	1	0	8	0	0	3	0	0	0	0	3	3	0	3.0	0	11	They gave it to her, she thanked him, and he handed it back to them.	3
+16	3	0	3	0	0	0	5	1	0	3	0	0	1	0	3	3	0	3.0	0	10	She loved him deeply, he cherished her back, they understood each other perfectly.	3
+6	0	0	3	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1.0	0	4	 He, She, It.	3
+9	0	0	1	0	1	0	4	0	0	3	0	0	0	1	3	1	0	2.0	1	6	He said she loved it and they agreed.	3
+17	1	0	3	2	0	0	8	0	0	3	0	0	0	0	3	3	0	3.0	0	12	He gave it to her, she took it from him, they watched it together.	3
+13	0	0	2	0	1	2	6	0	0	2	0	0	0	0	2	4	0	3.0	0	7	She gave him her book, and he promised her his loyalty.	3
+13	0	0	2	2	1	0	6	0	0	2	0	0	0	0	2	2	0	3.0	0	7	She gave it to him, but he returned it to her.	3
+9	0	1	1	0	0	0	4	1	0	2	0	0	0	1	2	2	0	3.0	1	6	She gave him it before they all left.	3
+18	1	0	3	2	1	0	8	0	0	3	0	0	0	0	3	3	0	3.0	0	7	He gave it to her, she passed it to him, and they held it closely.	3
+10	0	1	1	0	0	1	4	1	0	2	0	0	0	1	2	2	0	3.0	1	5	She told him that they all forgot their umbrellas.	3
+11	0	1	1	0	0	1	5	0	0	2	0	1	0	1	2	3	0	3.0	1	5	He told her that I would give them our word.	3
+21	0	0	2	2	2	1	7	1	0	5	0	0	0	2	3	2	0	5.0	2	9	She loves him with all her heart, yet he fails to understand her and she feels misunderstood by them.	3
+11	0	0	2	0	1	0	6	0	0	2	0	0	0	0	2	4	0	2.0	0	6	He gave her it, and she showed him hers.	3
+17	2	0	3	0	0	1	7	0	0	3	0	0	1	0	3	4	0	2.0	0	12	She gave him her old books, he thanked her kindly, they read them together.	3
+16	0	0	3	2	0	0	8	0	0	3	0	0	0	0	3	3	0	3.0	0	12	He gave it to her, she passed it to them, they thanked him.	3
+18	0	0	3	3	0	1	8	0	0	3	0	0	0	0	3	2	0	3.0	0	12	He gave it to her, she passed it to him, they waited for its outcome.	3
+12	2	0	2	0	1	0	3	1	0	2	0	0	1	0	2	2	0	3.0	0	6	He loves her deeply, but they misunderstand each other frequently.	3
+15	1	0	2	0	1	2	6	0	0	2	0	1	0	0	3	3	0	3.0	0	7	She gave him her ring, and he promised her they'd never part.	3
+23	0	0	3	3	2	0	9	0	0	4	0	0	1	1	3	3	0	5.0	1	7	She gave it to him, but he returned it to her, and she promised to keep it safe for him.	3
+12	0	1	1	1	0	2	4	0	0	2	0	1	0	1	2	2	0	3.0	1	5	He promised her that they would share their secrets for eternity.	3
+11	0	0	2	0	0	2	3	2	0	2	0	0	0	0	2	3	0	3.0	0	6	She offered him the apple, they exchanged a smile.	3
+22	2	0	4	2	2	0	8	0	0	4	0	0	0	1	3	3	0	5.0	1	7	She gave it to him, but he pushed it away, and she sighed, handing it back to them.	3
+10	0	1	1	0	0	0	4	0	0	2	0	1	0	1	2	2	0	2.0	1	6	He told her that they need not invite him.	3
+13	1	0	2	0	1	1	5	0	0	3	0	0	0	1	3	2	0	4.0	1	6	She loves him deeply, but they prefer we keep our distance.	3
+16	0	0	3	2	1	0	7	0	0	3	0	0	0	0	3	2	0	4.0	0	6	They gave it to him, he promised her, and she smiled at them.	3
+9	0	0	1	0	0	1	3	1	0	3	0	0	0	2	3	1	0	4.0	2	2	He thought she saw I dropped the vase.	3
+20	0	0	3	2	2	0	8	0	0	4	0	0	0	1	3	3	0	3.0	1	14	She gave it to him, and he returned it to her, but she refused to accept it.	3
+10	0	0	2	0	0	1	5	0	0	2	0	0	0	0	2	3	0	3.0	0	5	She gave him it, they found her keys.	3
+13	0	0	2	2	1	0	6	0	0	2	0	0	0	0	2	2	0	3.0	0	7	He gave it to them, and they thanked him for it.	3
+19	2	0	2	0	1	0	6	0	0	3	0	4	0	2	4	2	0	3.0	2	11	They promised him she'd be there, but she hadn't told them they'd leave early.	3
+15	0	0	2	0	1	0	7	0	0	3	0	1	1	1	3	4	0	3.0	1	6	She gave him it, and he promised her we'd keep it secret.	3
+10	1	0	3	0	0	0	3	1	0	1	1	0	0	0	1	1	0	2.0	0	5	He, she, it love one another dearly.	3
+17	1	0	3	0	1	0	6	0	0	4	0	0	0	1	3	3	0	3.0	1	14	She loves him intensely, but he prefers her not to touch him, she understands.	3
+15	0	0	2	0	1	0	7	0	0	3	0	1	1	1	3	4	0	3.0	1	6	She gave him it, and they promised her we'd keep it secret.	3
+7	0	0	1	1	0	0	4	0	0	1	0	0	0	0	1	2	0	2.0	0	4	He gave her it to them.	3
+13	0	0	9	0	1	0	3	0	0	0	0	0	0	0	0	0	0	2.0	0	9	 'she', 'he', and 'they'.	3
+43	0	0	5	3	0	1	15	0	0	9	0	6	1	4	7	5	0	4.0	4	36	They thought he might've seen it, she wouldn't dare take it from him, we didn't expect them to understand it, I wish they could've felt it with us, they seemed uninterested in our reaction.	5
+19	1	0	3	0	0	0	8	0	0	5	0	1	0	2	5	3	0	3.0	2	11	She thought he saw them, it puzzled they, yet I knew she didn't mean we.	5
+13	0	0	2	1	0	1	7	0	0	2	0	0	0	0	2	4	0	3.0	0	7	She gave him it to them; they took her our book.	5
+31	0	0	5	3	1	3	11	1	0	5	0	1	1	1	6	3	0	4.0	1	25	She saw herself in the mirror, he admired it, we knew it was time, they laughed at their own reflection, and it reminded us of them.	5
+37	0	1	3	5	1	4	13	1	0	7	0	2	0	3	6	4	0	8.0	3	8	They found it in his shed, her friend pointed at it, he picked it up and handed it to her before she realized she'd left her purse in the car he had driven.	5
+9	1	0	1	0	0	1	5	0	0	1	0	0	0	0	1	1	0	2.0	0	4	He she it gave their its secrets confidentially.	5
+21	0	0	4	0	1	4	7	0	0	5	0	0	0	0	5	4	0	4.0	0	13	He shed tears, we shared stories, you promised me tomorrow, they laughed and she whispered her secret.	5
+25	1	0	5	0	0	3	8	0	0	6	0	1	0	1	6	4	0	3.0	1	17	He shed tears, she understood his pain, they held hands, it consoled him, we promised it wouldn't happen again.	5
+12	0	0	2	1	0	0	5	0	0	3	0	0	0	2	2	2	0	3.0	2	7	He gave her it to us, them promising to help.	5
+14	1	0	2	1	0	1	7	0	0	2	0	0	0	0	2	3	0	3.0	0	5	She them gave it him, they thanked her deeply for her kindness.	5
+30	2	1	5	3	0	0	11	0	0	4	0	2	2	3	6	2	0	4.0	3	27	He gave it to her, she passed it to him, they looked at it together, it was bigger than they expected, we were all amazed.	5
+23	2	0	3	0	1	0	9	0	0	4	0	3	0	2	6	2	0	3.0	2	19	They loved it, he she wondered where it had gone, it was theirs again but she didn't believe him.	5
+28	1	0	5	3	0	0	12	0	0	7	0	0	0	2	7	2	0	4.0	2	22	She saw him touch it, we reached for ours, they whispered among themselves, he looked at them intently, I wondered what they meant.	5
+14	1	1	1	1	0	0	7	0	0	3	0	0	0	2	3	3	0	3.0	2	7	They saw him give her it to them after she found us there.	5
+11	0	0	5	0	1	0	5	0	0	0	0	0	0	0	0	0	0	2.0	0	9	 He, They, She, I, and We.	5
+10	0	0	1	0	0	1	6	0	0	1	0	0	1	0	1	1	0	3.0	0	5	He she it we they forgot their various responsibilities.	5
+20	0	0	3	3	0	2	8	0	0	3	0	1	0	1	3	3	0	3.0	1	12	He gave her it to them, them having lost everything, they searching for shelter beneath its shade.	5
+19	0	0	2	3	0	3	7	1	0	3	0	0	0	0	2	3	0	3.0	0	9	She gave him it to them, they appreciated its beauty under our shared umbrella during the storm.	5
+16	0	0	2	1	0	1	8	0	0	3	0	1	0	1	3	4	0	4.0	1	7	He gave her it to them, they promised him we'd understand their concerns.	5
+32	2	0	5	2	0	1	12	1	0	6	0	3	0	1	6	5	0	4.0	1	27	They gave it to him, she promised we'd share hers, I'll see you there, we'll meet them at the party, he loved them deeply.	5
+16	1	1	2	1	0	0	7	0	0	3	0	1	0	1	3	3	0	2.0	1	13	She gave him it to them after they found us there, we were arguing.	5
+17	0	0	1	0	0	0	7	0	0	5	0	4	0	4	5	2	0	5.0	4	4	She thinks he believes they would have preferred it he had chosen they could handle it.	5
+34	0	1	4	3	1	4	13	0	0	5	0	1	1	3	5	3	0	5.0	3	24	She gave him her brother's old car, which they kept under it, its keys I found in its glovebox, and we promised her that we would care for it.	5
+17	0	0	2	2	0	0	9	0	0	3	0	1	0	1	3	4	0	4.0	1	7	She gave him it to them, they promised her we'd keep it for us.	5
+8	0	1	1	0	0	0	4	0	0	2	0	0	0	1	2	2	0	2.0	1	4	He loves her because they trust it; She gives him faith in themself, and They believe him when she promises That they'll always be there for Him.	5
+10	0	0	1	0	0	1	6	1	0	1	0	0	0	0	1	1	0	2.0	0	5	He she it we them forgot all their responsibilities.	5
+12	0	0	1	2	0	1	6	1	0	1	0	0	0	0	1	0	0	2.0	0	5	He she it they we looked at ourselves in the mirror.	5
+14	0	0	5	0	0	1	6	0	0	1	0	0	1	0	1	1	0	2.0	0	9	He, I, we, they, it admire her skillful balancing.	5
+28	0	0	5	0	0	2	10	1	0	8	0	1	0	3	6	4	0	6.0	3	23	They loved her, we thought he was lying, she saw them laugh, they promised to keep it a secret, he felt their stares.	5
+16	2	0	2	2	0	1	7	0	0	2	0	0	0	0	2	3	0	3.0	0	8	She gave him it to them afterwards, they thanked us profoundly for our help.	5
+11	0	0	5	0	1	0	5	0	0	0	0	0	0	0	0	0	0	2.0	0	9	 they, we, him, she, and they.	5
+26	1	2	2	1	1	0	10	1	0	6	0	0	1	4	5	5	0	6.0	4	12	He gave it to her for them to keep it, and we saw them carry it proudly while they watched us doing the same.	5
+40	3	0	5	5	1	5	14	0	0	5	0	0	1	0	5	5	0	5.0	0	22	She loves him with her whole heart, he sees it in their eyes, they reflect her feelings for him, it touches him deep within, and it stirs something in her sister's heart as well.	5
+31	1	0	5	5	1	2	10	1	0	6	0	0	0	1	5	1	0	5.0	1	19	He found her sitting on the couch, it listening to her music, they talking among themselves, she smiling at him, and it gazing at them intently.	5
+17	1	0	2	1	0	1	7	0	0	4	0	1	0	1	2	2	0	3.0	1	9	She herself had seen them themselves argue over it; we also witnessed their heated discussion.	5
+27	0	0	4	0	2	0	10	0	0	5	0	5	0	2	5	3	0	5.0	2	16	He thought she would have told them we could have used it, but they wouldn't let him, she, it or them enter.	5
+22	0	0	5	0	0	2	10	0	0	5	0	0	0	0	5	5	0	3.0	0	17	She loves him, they adore it, we envy them, he hates her rejections, they admire her courage.	5
+11	0	0	5	0	1	0	5	0	0	0	0	0	0	0	0	0	0	2.0	0	9	 She, him, it, them, and her.	5
+37	2	0	5	1	0	2	13	1	0	8	0	3	1	5	9	3	0	3.0	5	29	She saw he loved it, they praised her for her kindness, I wondered why they didn't notice him weeping, he believed she was innocent, they assumed it was just a test.	5
+19	0	0	2	2	1	0	9	0	0	4	0	1	0	2	3	4	0	4.0	2	11	She told us he would give it to them, but they preferred she keep it for herself.	5
+20	1	0	4	0	0	0	9	0	0	5	1	0	0	1	5	5	0	4.0	1	15	She gave him it; they took them there, we saw them laughing, they gave us one.	5
+26	1	0	5	0	0	1	9	3	0	6	1	0	0	1	5	6	0	3.0	1	21	They love her, we often help him, she saw them argue, I told them the truth, we all forgive one another.	5
+14	0	0	1	1	0	2	5	2	0	2	0	0	1	1	3	1	0	3.0	1	6	He saw she her it herself push the buttons on the remote control.	5
+15	0	1	2	1	0	0	8	0	0	3	0	0	0	1	3	4	0	3.0	1	7	He gave her it to them, they took him theirs before we left.	5
+13	0	0	2	1	0	0	7	0	0	2	0	1	0	0	2	3	0	4.0	0	10	They gave him her theirs, we hers from them did reciprocate.	5
+30	2	0	5	3	0	0	13	0	0	6	0	0	0	1	5	5	0	4.0	1	22	He gave it to her, she showed it to them, they appreciated it deeply, it pleased him immensely, they promised to keep it for us.	5
+33	0	0	5	0	0	3	11	3	0	8	0	3	0	4	9	4	0	4.0	4	23	She loves him, they respect her, I believed he told the truth, they doubted she could pass the test, he suggested we admit it had been a mistake.	5
+11	0	0	5	0	1	0	5	0	0	0	0	0	0	0	0	0	0	2.0	0	9	 he, they, it, we, and she.	5
+15	1	0	5	0	0	1	5	0	0	2	0	0	1	1	1	1	0	3.0	1	10	She, he, it, they, we frequently communicate using diverse languages.	5
+14	0	0	3	0	1	2	6	1	0	1	0	0	0	0	1	2	0	4.0	0	11	He gave her it, them, their secrets and us a promise.	5
+70	5	0	9	3	0	6	21	3	0	11	0	4	6	6	11	6	4	7.0	10	26	He who loved herself more dearly than all things, she whom they had called He, believing we'd never notice, they often overlooked her kind acts, them preferring to criticize her, she who was they, they who felt undeserving of such pure affection, wearily embraced the solitude that shrouded him, her heart heavy with a silent sorrow they did not understand.	7
+22	0	1	1	3	0	0	10	0	0	5	0	1	0	4	4	4	0	6.0	4	7	He saw she gave it to they had found her giving it to them for us to keep it from him.	7
+12	0	1	1	0	0	0	8	0	0	2	0	0	0	1	3	2	0	2.0	1	4	He she it they we I love them for loving me.	7
+31	0	0	5	3	0	2	10	2	0	7	0	1	1	3	5	2	0	5.0	3	19	He saw herself, himself being reflected in it, she whispered we, they nodded in agreement, it seemed our existence depended on us all understanding each other.	7
+13	0	0	1	1	0	1	7	2	0	1	0	0	0	0	3	1	0	2.0	0	7	He she it they me we all saw ourselves in the mirror.	7
+36	4	0	7	1	0	2	13	1	0	6	0	1	1	1	7	6	0	3.0	1	31	They gave us our presents, he forgot his, we found it under the tree, I held it tightly, she exclaimed excitedly, we were all amazed, they opened them eagerly.	7
+18	1	0	7	0	0	0	8	1	0	1	0	0	0	0	1	1	0	2.0	0	13	He, she, it, they, we, you, he loved us all equally.	7
+21	1	0	3	0	0	0	13	0	0	3	0	1	0	0	5	2	0	4.0	0	15	He herself it found there, they themselves us observed us, she herself they him himself had done it.	7
+15	0	0	2	0	0	1	8	0	0	2	0	2	0	1	4	1	0	4.0	1	4	She herself, it thinks they we none he had believed his them would.	7
+33	0	2	2	0	1	1	11	0	0	9	0	6	0	8	7	2	0	6.0	8	17	They think he should consider she would've appreciated it if they had invited her, but he believes it's their fault that they failed to consider we might feel excluded.	7
+25	0	1	1	3	1	1	9	1	0	4	0	1	1	2	3	4	0	5.0	2	14	He gave her it to them for them to keep from us and I will find a way to retrieve our own for us.	7
+36	0	0	6	1	2	0	17	0	0	9	0	1	0	3	8	8	0	6.0	3	13	He gave her it to them, they saw him do it, we promised them we'd tell them, they thought we meant you, but you refused, and they misunderstood us.	7
+20	3	0	1	0	1	0	7	0	0	3	0	4	0	3	5	1	0	3.0	3	15	He thought she saw they were here it would all be ours but they hadn't noticed her yet.	7
+39	0	0	7	6	0	0	19	0	0	7	0	0	0	0	7	7	0	4.0	0	35	He gave it to them, they took it from him, she dropped it for us, I picked it up for we, we handed it to them, they lost it, they blamed him.	7
+21	0	0	2	0	0	0	9	1	0	5	0	4	0	4	6	2	0	4.0	4	11	They thought he saw she would give it her all, we knowing she'd agreed they'd be his.	7
+52	0	0	5	1	5	2	19	2	0	10	0	7	0	5	9	6	0	6.0	5	34	I saw he would give she it to them, we themselves could hear they were laughing, but he couldn't believe them his friends would behave such a way, and they herself knew she should tell him, but it seemed neither he nor they would admit it.	7
+23	0	0	2	1	1	1	10	0	0	5	0	2	0	3	5	4	0	5.0	3	18	They thought she said her brother promised us they would find him at theirs, yet he wouldn't give her his.	7
+40	2	0	7	1	0	1	14	1	0	11	0	2	0	4	9	4	0	3.0	4	36	They love her deeply, she understands him perfectly, he believes we can fix it, she thinks they will agree, we all believe in her vision, they want her to succeed, she feels accomplished.	7
+12	0	0	1	0	0	1	7	1	0	1	0	1	0	1	2	2	0	3.0	1	7	They gave him her their it's ours theirs every penny.	7
+16	1	0	2	0	1	0	8	0	0	2	0	1	1	1	5	0	0	3.0	1	13	They thought he saw she we her it them there, but they were mistaken.	7
+27	0	0	3	2	0	0	11	2	0	5	1	2	0	2	6	3	0	4.0	2	16	They gave him it to us, she promised we'd keep hers for ours, he thought she meant we were all one another's.	7
+41	1	1	6	3	0	3	16	1	0	8	0	1	0	2	8	5	0	4.0	2	34	He gave them to her, she saw them in his eyes, they reflected her image, it seemed hers, you might think he meant for her to take them, we all waited anxiously for her decision.	7
+44	2	1	6	0	0	1	16	0	0	9	0	7	2	7	12	3	0	5.0	7	37	They thought she had seen it, he asked who had touched his apple, it seemed it was I, they believe we were all mistaken, we'll be ready if they come back, he knew they were watching us.	7
+29	2	0	3	1	2	1	11	0	0	4	0	3	0	2	4	3	0	5.0	2	17	They thought he would see it for us but we, them, you and they couldn't believe their eyes when she didn't take yours instead.	7
+15	0	0	1	1	1	0	7	0	0	4	0	1	0	3	3	2	0	7.0	3	3	They thought she knew he'd seen them watching we from I and me.	7
+14	0	0	2	0	0	2	9	0	0	1	0	0	0	0	5	1	0	2.0	0	5	He she it they we I we admired their our beauty ourselfses'.	7
+25	0	1	2	2	0	0	11	0	0	6	0	2	0	5	5	4	0	7.0	5	7	He thought she gave it to them, because they wanted her to believe he had promised them he'd share it with them.	7
+12	0	0	1	0	0	0	6	0	0	5	0	0	0	4	5	1	0	5.0	4	2	He thought she knew they knew I believed we loved her.	7
+29	0	1	4	5	1	4	11	0	0	2	0	1	0	1	2	1	0	5.0	1	11	He whispered to her that we will share our love with them, I with my eyes, you with your smile, and they with their promises.	7
+11	1	0	1	0	0	1	7	0	0	1	0	0	0	0	1	4	0	2.0	0	8	He love she them us it them their love deeply.	7
+39	0	0	6	6	0	1	16	1	0	7	0	1	1	1	8	3	0	4.0	1	32	He gave it to them, she took it from her, they looked at hers, I saw her pointing at mine, you forgot your's on the table, they admired theirs more than ours.	7
+54	3	1	8	3	0	8	15	2	0	9	0	1	3	2	7	7	0	5.0	2	41	They gave him their grandmother's antique vase, she placing it in his hands, it adorned with intricate engravings, we admired it, they all agreed that it would suit their newly-renovated living room perfectly, he held it closely, cherishing it as a valuable family heirloom.	7
+38	2	0	6	5	0	0	18	0	0	6	0	1	0	2	7	5	0	4.0	2	35	They gave it to him, I saw her take it from them, he passed it to us, we gave it back to her, she gave it to them, it was now theirs.	7
+17	0	0	3	1	0	0	9	0	0	3	0	0	1	1	3	4	0	3.0	1	12	They gave him it, her holding their own under hers, we understanding their ours.	7
+38	0	2	7	0	2	1	12	0	0	7	0	6	0	5	7	3	0	6.0	5	20	He thought that she, who had seen it, they were discussing, he, she and it, could provide answers, but they wouldn't understand unless they had felt what he had felt.	7
+12	0	1	1	0	0	0	7	0	0	2	0	1	0	1	5	1	0	3.0	1	7	He told her that we they'll I you it had.	7
+45	1	0	7	0	2	4	17	2	0	8	0	2	0	4	8	8	0	6.0	4	41	They thought him an intruder, she believed it her duty to warn them, he promised us safety, she and her sisters agreed, it seemed they understood, it wasn't he but another who was there, they surrounded him.	7
+32	1	2	6	0	0	0	12	0	0	7	0	2	2	4	9	3	0	4.0	4	17	She loves him, they see it, I believe her, he assumes they do, we agree that she's right, they're wrong if they think otherwise.	7
+19	1	1	1	0	0	1	8	0	0	4	0	2	1	4	5	3	0	5.0	4	7	She saw he bought it for they forgot she'll use them her books when we're gone.	7
+29	1	0	5	1	0	2	11	0	0	8	0	0	0	3	6	5	0	3.0	3	23	He saw she gave them it, they accepted her gift, she thanked them with gratitude, I watched them leave, we promised to meet again.	7
+35	1	0	6	6	0	0	16	0	0	6	0	0	0	0	6	5	0	3.0	0	30	He gave it to her, she passed it on to him, they took it from them, it belonged to us, we showed it to him, he admired it greatly.	7
+37	1	0	6	4	0	1	16	0	0	6	0	2	0	2	7	4	0	4.0	2	32	He gave it to her, she handed it to him, they took it from her, it was then ours, I saw them fighting over it, we couldn't believe our eyes.	7
+16	0	0	8	0	0	0	7	0	1	0	0	0	0	0	0	0	0	1.0	0	14	 He, She, Theirs, Them, His, Mine, We, I.	7
+28	1	1	3	0	0	3	11	1	0	5	0	2	0	3	7	1	0	5.0	3	9	She herself it forgot, they them themselves their memories had also erased, he whom they addressed as friend forgot not the promise he'd made.	7
+12	2	0	1	0	0	0	7	0	0	2	0	0	0	0	2	5	0	2.0	0	7	They gave him it her them back we did them after.	7
+28	1	1	7	2	1	1	9	1	0	2	1	2	0	1	2	1	0	4.0	1	16	Each one of us here has promised that they will treat her, him, itself, us, you, them, and themselves with respect.	7
+17	1	0	2	0	0	1	7	2	0	2	0	0	2	1	2	2	0	3.0	1	7	He she it they we them all love each other deeply, understanding their unique perspectives.	7
+15	0	1	1	2	0	0	8	0	0	2	0	0	0	1	2	2	0	3.0	1	9	He gave her it to them for us them to keep it from him.	7
+33	0	1	4	1	2	2	11	2	0	6	0	1	1	2	7	2	0	4.0	2	21	Each other's eyes met hers, they smiled at he whom she loved, but it frustrated his sister, she and he both knew that she them couldn't trust.	7
+44	1	1	6	5	0	0	18	2	0	7	0	2	2	1	7	7	0	3.0	1	36	She gave it to him, they passed it along to them, I'll hold it for us till she arrives, he promised it to her, she promised him the same, I'll keep it safe for we all.	7

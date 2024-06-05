@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+8	0	0	2	1	0	2	0	1	0	2	0	0	0	1	1	1	0	2.0	1	3	 A truck drives by, carrying groceries.	0
+14	1	0	4	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	" ""The sun shines brightly, casting long shadows on the ground."""	0
+8	0	0	3	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	" ""I am reading a book."""	0
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	The clock strikes seven.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The cat jumped onto the mat."""	0
+8	0	0	1	1	0	1	1	1	0	1	0	1	1	0	1	0	0	2.0	0	4	You are walking along a straight path.	0
+10	0	0	4	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""Yesterday, I walked to the park."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+10	0	0	3	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	" ""A pencil is moving across the page."""	0
+14	0	0	1	0	0	3	2	3	0	3	0	1	0	2	2	2	1	4.0	3	4	A verb describing action is all that I require to complete this task.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock chimes.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	 A boy throws a ball.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	 The swift wind blew through the trees.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""A ball bounced on the ground."""	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The cat sat on the mat."""	0
+13	0	1	3	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	3	" ""A group of friends laughed while watching a comedic video."""	0
+9	0	0	3	1	0	1	0	2	1	1	0	0	0	0	1	0	0	2.0	0	3	" ""The sun shines upon the Earth."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat sat on the mat.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock chimes.	0
+10	0	0	3	1	0	2	1	1	0	1	0	1	0	0	1	1	0	3.0	0	2	"  ""I am eating a piece of fruit."""	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 A person ran quickly to the store.	0
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The clock chimes at precisely four o'clock.	0
+13	0	0	2	1	0	3	1	2	0	3	0	0	0	2	1	2	0	4.0	2	4	The clock chimes, prompting me to begin the task at hand.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock chimes.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock chimes consistently.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""A boat sailed across the waves."""	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	3.0	0	5	A single sentence with no adjectives was generated.	0
+7	0	0	1	0	0	1	0	1	0	1	0	2	1	0	1	0	0	2.0	0	3	A single apple was being eaten.	0
+11	0	0	3	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	" ""I am writing this sentence without any adjectives."""	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The wind blew swiftly through the park.	0
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The clock chimes at exactly four o'clock.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""A train travels along the tracks."""	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock ticked.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	 I am writing this sentence without any adjectives.	0
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	 The clock strikes seven.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The cat jumps on the mat."""	0
+6	1	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The clock strikes eight precisely.	0
+15	0	0	3	2	0	5	0	3	0	1	0	1	0	0	1	0	0	3.0	0	6	"A verb phrase with no adjectives is ""Running to the bus stop""."	0
+14	0	0	3	1	0	3	1	2	0	2	0	1	0	1	1	1	0	3.0	1	5	" ""Tomorrow I am going to the store to buy some groceries."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A train travels through the countryside.	0
+7	0	0	2	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	Yesterday, I read a book.	0
+7	0	0	3	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	1	" ""A pencil sharpens itself."""	0
+10	0	0	4	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""Today, I went to the park."""	0
+7	0	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	A pen is used for writing.	0
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	 I am walking to the park.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps onto the table.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The clock chimes precisely at noon.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is ripe.	0
+15	0	0	1	2	0	6	0	4	0	1	0	0	1	0	1	1	0	3.0	0	6	A verb phrase with a single action word formed the core of the sentence.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock ticked.	0
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The emerald dress sparkled with iridescent sheen under the moonlight.	1
+10	0	0	1	1	0	3	0	2	0	1	0	1	1	0	1	0	1	4.0	1	6	The turquoise dress worn by the bride was breathtaking.	1
+12	1	0	1	2	0	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The emerald dress in the garden shone brightly in the sunlight.	1
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	0	1	0	0	3.0	0	3	The vibrant crimson dress glowed with an aura of mystery.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	1	0	3.0	0	4	The colorful flower in the garden attracted many bees.	1
+9	0	0	1	0	0	3	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	The vibrant orange blossom adorns the springtime garden.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The red rose blossomed in the sun.	1
+16	1	0	2	1	0	4	1	2	0	2	0	0	2	1	1	1	0	4.0	1	7	The vibrant red dress swayed gracefully across the dance floor, capturing everyone's attention.	1
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The vibrant orange flower blossomed effortlessly in the sunny garden.	1
+9	0	0	1	0	0	2	0	2	0	1	0	1	1	1	1	0	0	2.0	1	3	The blue sky was a sight to behold.	1
+8	0	0	3	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	"""The red apple was sweet."""	1
+13	0	0	1	1	0	4	0	2	0	2	0	1	1	1	1	0	1	4.0	2	7	The crimson dress adorned with delicate flowers was a sight to behold.	1
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The crimson dress stood out amidst the crowd.	1
+8	0	0	1	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	2	The red rose was vibrant and captivating.	1
+14	0	0	1	1	0	4	0	3	0	2	0	1	1	1	1	0	1	4.0	2	8	The crimson dress worn by the young woman was a sight to behold.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The orange fruit was sweet.	1
+14	0	0	2	1	0	5	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The vibrant emerald dress shimmered under the stage lights, captivating the audience.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The vibrant purple flower bloomed proudly in the sunshine.	1
+8	0	0	1	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	2	The red rose was vibrant and fragrant.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The red rose is beautiful.	1
+10	0	0	1	1	0	4	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	The vibrant flower bloom filled the garden with beauty.	1
+14	1	0	2	1	0	3	1	2	0	2	0	0	2	1	1	1	0	3.0	1	6	The vibrant flower blossomed beautifully, showcasing its alluring petals to the passerby.	1
+13	0	0	1	2	0	3	0	2	0	1	0	1	3	0	1	0	0	3.0	0	3	The vibrant coral reef was teeming with an array of colorful fish.	1
+9	0	0	1	0	0	2	0	2	0	0	0	1	3	0	1	0	0	2.0	0	4	The vibrant green apple was a delectable treat.	1
+8	0	0	1	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	2	The red apple is ripe and delicious.	1
+16	0	0	1	1	1	4	0	4	0	0	0	1	4	0	1	0	0	3.0	0	4	The blue dress was a vibrant color and the perfect choice for the special occasion.	1
+10	1	0	1	1	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The crimson dress danced elegantly across the dance floor.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	The vibrant red rose in the garden bloomed proudly.	1
+11	0	0	1	2	0	3	0	2	0	2	0	0	1	0	2	0	1	3.0	1	6	A crimson rose blossomed with beauty on the dewy grass.	1
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	3	The red rose is blooming in the garden.	1
+11	1	0	3	1	0	2	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	"""The red flower in the garden bloomed brightly."""	1
+13	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	3.0	0	7	A vibrant orange rose bloomed brightly on the sun-soaked garden's border.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	The vibrant flowers adorned the garden with colour.	1
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The vibrant orange flower bloomed proudly amidst the lush green lawn.	1
+16	0	0	2	2	0	4	1	3	0	4	0	0	0	2	1	1	0	4.0	2	5	The emerald dress sparkled under the moonlight, making it look like a glowing flame.	1
+14	1	0	1	2	0	5	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	The vibrant plum blossom tree stood proudly in the center of the park.	1
+17	0	0	2	2	0	5	1	2	0	1	0	1	3	1	1	1	0	3.0	1	6	The vibrant orange blossom blossoms are in bloom, filling the garden with their sweet fragrance.	1
+12	0	0	1	1	0	4	0	3	0	1	0	0	2	0	1	1	0	2.0	0	6	A vibrant purple dress adorned the model at the fashion show.	1
+16	1	0	2	2	0	4	1	3	0	2	0	0	1	1	2	0	0	3.0	1	5	The vibrant flower in the garden bloomed beautifully, its petals dancing in the breeze.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The red apple is sweet.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The red rose bloomed vividly under the warm sun.	1
+16	0	0	2	2	0	6	0	2	0	2	0	0	2	1	1	1	0	3.0	1	6	The succulent cactus blossom burst into bloom, adorning the desert landscape with vibrant colors.	1
+13	1	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	4	A vibrant green apple hangs tantalizingly from the branches of the tree.	1
+10	1	0	1	1	0	2	0	2	0	2	0	0	1	0	2	0	1	2.0	1	5	A crimson rose bloomed gracefully in the sunny garden.	1
+10	1	0	1	1	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The crimson dress danced majestically across the dance floor.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The vibrant red dress danced gracefully across the runway.	1
+19	1	0	2	3	0	5	0	4	0	2	0	0	2	1	1	1	0	4.0	1	7	The vibrant orange flower bloomed brightly in the sun, adding a splash of color to the garden.	1
+10	0	0	1	0	0	3	0	2	0	1	0	0	2	0	1	1	0	3.0	0	4	The vibrant blue dress showcased the wearer's style.	1
+11	1	0	2	0	0	2	1	1	0	2	0	0	2	1	1	1	0	3.0	1	3	The vibrant flower bloomed magnificently, showcasing its colorful petals.	1
+10	1	0	1	0	1	2	0	1	0	0	0	1	3	0	1	0	0	3.0	0	3	The orange blossom flower is fragrant and aesthetically pleasing.	1
+13	0	0	2	1	0	3	0	2	0	0	0	1	4	0	1	0	0	2.0	0	4	The fluffy, crimson painting was a vibrant display of abstract expressionism.	2
+13	1	0	1	1	1	3	0	2	0	1	0	0	3	0	1	0	0	4.0	0	5	The vibrant purple and crimson dress danced gracefully across the dance floor.	2
+11	0	0	2	0	0	2	0	2	0	1	0	1	2	1	1	0	0	2.0	1	4	 The blue, sparkly dress was a sight to behold.	2
+13	0	0	1	1	2	4	0	2	0	1	0	0	2	0	1	1	0	4.0	0	4	The scarlet and emerald garment adorned the bride with elegance and grace.	2
+10	0	0	2	0	0	3	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	 The crimson, antique painting was a treasured heirloom.	2
+12	0	0	1	1	1	3	0	2	0	1	0	0	3	0	1	0	0	4.0	0	6	 The vibrant purple and luminous lavender dress danced in the wind.	2
+17	0	0	2	1	1	5	1	2	0	2	0	0	3	1	1	2	0	4.0	1	5	The red and vibrant painting adorned the gallery wall, captivating visitors with its serene beauty.	2
+25	1	0	3	2	0	6	1	4	0	2	0	0	6	1	2	1	0	4.0	1	10	The vibrant, antique clock stood proudly on the marble mantel, its weathered face reflecting the warm golden glow of the afternoon sun.	2
+14	0	1	1	0	1	4	0	1	0	2	0	1	3	1	1	1	0	3.0	1	6	The antique emerald and glistening silver teacup are perfect for serving afternoon tea.	2
+14	0	0	3	1	0	3	0	2	0	1	0	0	4	0	1	1	0	3.0	0	5	The vibrant, antique vase contained a collection of delicate, blossoming flowers.	2
+12	1	0	1	1	1	2	0	2	0	1	0	0	3	0	1	0	0	4.0	0	5	 The delicate and vibrant flower bloomed gracefully in the warm sunshine.	2
+17	0	0	1	2	1	5	1	2	0	2	0	1	2	1	2	0	0	4.0	1	5	The vibrant and fragrant rose garden was filled with blossoms that danced in the springtime breeze.	2
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The quick, colorful parrot perched happily on the weathered branch.	2
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The swift, vibrant bird chirped cheerfully in the emerald canopy.	2
+23	1	0	2	3	1	7	1	3	0	2	0	0	2	1	1	1	0	4.0	1	8	The crimson and vibrant scarf gracefully flowed around the young woman's neck, adding a touch of elegance to her attire.	2
+19	0	0	2	2	1	5	0	4	0	2	0	0	3	1	1	2	0	4.0	1	6	The vibrant and colorful painting displayed a variety of hues, creating a captivating impression on the viewer.	2
+15	0	0	1	1	1	4	1	2	0	1	0	0	3	0	1	1	0	4.0	0	8	The vibrant and colorful painting captured the viewer's attention with its captivating beauty.	2
+15	0	0	1	1	1	4	1	2	0	2	0	1	2	0	1	0	0	4.0	0	11	The antique book with its faded cover and worn pages is a treasured possession.	2
+15	0	0	2	1	1	4	0	2	0	1	0	0	4	0	1	1	0	4.0	0	4	The vibrant, colorful painting displayed a stunning array of textures and vibrant hues.	2
+20	0	0	3	2	1	5	0	3	0	0	0	1	5	0	1	0	0	3.0	0	10	A vibrant, captivating sentence with a mischievous, vibrant hue is the perfect embodiment of creativity and expression.	2
+14	0	0	3	1	0	3	1	1	0	1	0	0	4	0	1	1	0	3.0	0	6	The vibrant, colorful painting captivated viewers with its intricate, abstract design.	2
+12	0	0	1	0	2	2	0	2	0	1	0	0	4	0	1	1	0	4.0	0	5	The vibrant and colorful painting showcased a majestic and ethereal landscape.	2
+18	0	0	2	2	0	4	0	3	0	2	0	0	5	0	1	1	1	4.0	1	5	The fluffy, vibrant flower adorned with glistening petals painted a delightful scene on the tranquil garden.	2
+15	0	0	1	1	2	5	0	2	0	1	0	0	3	0	1	1	0	4.0	0	5	The vibrant and antique painting showcased a serene landscape of emerald and crimson hues.	2
+13	0	0	2	1	0	4	0	3	0	0	0	1	2	0	1	0	0	2.0	0	4	 The antique, vibrant painting was a centerpiece at the art exhibition.	2
+12	0	0	3	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	5	The vibrant, colorful painting displayed a majestic, serene landscape.	2
+13	1	0	1	0	1	5	0	2	0	1	0	0	2	0	1	1	0	3.0	0	5	The emerald dress and vibrant necklace perfectly complemented the elegant evening attire.	2
+15	0	0	1	1	1	6	0	3	0	1	0	1	0	1	1	0	0	4.0	1	4	The lavender and crimson dress was a sight to behold at the fashion show.	2
+14	0	0	1	1	1	3	1	2	0	1	0	0	4	0	1	1	0	4.0	0	6	The vibrant blue and scarlet painting captivated the viewer with its mesmerizing beauty.	2
+15	0	0	1	1	2	3	0	3	0	1	0	0	4	0	1	1	0	4.0	0	5	The intricate and vibrant painting created a whimsical and ethereal atmosphere in the gallery.	2
+18	0	0	4	1	0	3	0	3	0	2	0	0	5	0	1	1	0	4.0	0	6	The intricate, antique painting displayed a vibrant, historical portrait of a long-gone era.	2
+8	0	0	2	0	0	1	0	1	0	1	0	1	2	0	1	0	0	2.0	0	4	 The vibrant, colorful painting was captivating.	2
+15	0	0	1	0	2	4	0	2	0	1	0	0	4	0	1	1	0	4.0	0	5	The vibrant and colorful painting showcased the artist's skillful technique and vibrant emotions.	2
+14	0	0	1	1	1	4	0	3	0	1	0	0	3	0	1	1	0	4.0	0	4	The vibrant and intricate painting created a mesmerizing atmosphere in the art gallery.	2
+16	1	0	1	2	1	3	1	2	0	2	0	0	3	1	1	0	0	4.0	1	5	The vibrant and shimmering dress contrasted vividly with the intricate tapestry woven on its fabric.	2
+20	0	0	4	2	0	4	0	3	0	2	0	0	5	1	1	0	0	4.0	1	8	A fluffy, golden cat sat on a soft, silken rug, basking in the warm afternoon sun.	2
+19	0	0	2	3	0	5	0	2	0	2	0	1	4	0	1	0	0	3.0	0	6	The lavender dress with vibrant purple embroidery was worn by the young woman with radiant, cascading hair.	2
+17	0	0	2	2	0	4	0	3	0	2	0	0	4	0	1	1	1	4.0	1	6	The fragrant, antique flowerpot adorned with vibrant flowers emanated a sweet aroma throughout the room.	2
+14	0	0	2	1	0	4	0	2	0	1	0	0	4	0	1	1	0	2.0	0	6	The swift, towering oak tree cast long shadows on the verdant grass.	2
+12	0	0	2	1	0	2	0	1	0	1	0	1	4	0	1	0	0	2.0	0	4	The vibrant, antique teacup was adorned with intricate floral patterns.	2
+3	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	2	vibrant and colorful 	2
+11	1	0	1	1	1	4	0	2	0	1	0	0	0	0	1	0	0	4.0	0	4	The emerald and sapphire dress danced effortlessly across the runway.	2
+18	0	0	3	1	0	5	0	4	0	2	0	0	3	1	1	2	0	4.0	1	5	The antique, intricate clock displayed a timeless elegance, enhancing the sophistication of the drawing room.	2
+19	0	0	3	2	0	6	0	4	0	2	0	0	2	1	1	2	0	4.0	1	6	The vibrant, colorful flower arrangement brought joy to the table, enhancing the mood of the gathering.	2
+13	0	0	1	0	2	4	0	2	0	1	0	0	3	0	1	1	0	4.0	0	5	The emerald dress and shimmering necklace created a captivating and elegant aura.	2
+14	0	0	1	1	2	4	1	2	0	0	0	1	2	0	1	0	0	4.0	0	4	The vibrant and captivating painting was a testament to her talent and creativity.	2
+11	0	0	1	1	1	3	0	1	0	1	0	1	2	0	1	0	0	3.0	0	5	The crimson and emerald garden was filled with vibrant flowers.	2
+14	0	0	1	2	1	6	0	3	0	1	0	0	0	0	1	1	0	4.0	0	4	The emerald and sapphire dress sparked admiration from the guests at the event.	2
+16	0	0	2	1	1	4	0	2	0	2	0	0	4	0	1	1	0	4.0	0	4	The vibrant, colorful painting showcased an abstract expression of graceful curves and swirling colors.	2
+12	0	0	1	1	2	2	0	1	0	1	0	1	3	0	1	0	0	4.0	0	4	The red and sunny painting was vibrant and filled with color.	2
+20	1	0	5	1	1	5	0	3	0	2	0	0	2	1	1	1	0	4.0	1	9	A luminous, emerald, sapphire, and lavender dress danced gracefully on the runway, captivating the audience.	4
+23	0	0	3	2	2	7	0	2	0	3	0	0	4	0	1	1	1	5.0	1	10	The emerald tapestry, woven with shimmering gold and vibrant crimson, displayed a delicate floral pattern of sapphire and ruby flowers.	4
+21	0	0	4	1	1	8	0	2	0	1	0	0	4	0	1	0	0	3.0	0	10	The vibrant yellow, crimson crimson, emerald green, and sapphire blue flower bloom glowed in the evening sun.	4
+17	1	0	4	1	1	5	0	2	0	1	0	0	2	0	1	0	0	3.0	0	9	The sapphire, emerald, ruby, and golden flowers danced gracefully in the dappled sunlight.	4
+22	1	0	5	2	1	7	0	3	0	2	0	0	1	1	1	1	0	4.0	1	9	The turquoise, emerald, crimson, and golden dress danced gracefully on the runway, creating a symphony of color.	4
+16	1	0	4	1	0	3	0	1	0	1	0	1	4	0	1	0	0	2.0	0	8	The emerald, sapphire, antique, mahogany desk was meticulously crafted with exquisite carvings.	4
+17	1	0	4	1	1	3	0	2	0	1	0	0	4	0	1	0	0	4.0	0	9	The vibrant, colorful, antique, and weathered painting hung proudly on the museum wall.	4
+16	0	0	4	1	1	3	0	2	0	1	0	1	3	0	1	0	0	4.0	0	9	A vibrant, aromatic, intricate, and vintage dress was flowing in the wind.	4
+31	0	0	5	3	1	11	2	4	0	4	0	0	1	2	2	3	0	4.0	2	11	The emerald apple, glistening pear, ruby pomegranate, and turquoise watermelon created a vibrant display of colors on the table, bringing joy to all who beheld it.	4
+21	0	0	5	1	1	3	0	2	0	2	0	1	6	1	1	1	0	4.0	1	9	The radiant, glistening, weathered, and iridescent tapestry was woven with intricate patterns, creating a breathtaking masterpiece.	4
+28	1	0	4	3	0	7	0	3	0	3	0	0	7	1	1	1	1	4.0	2	9	The vibrant emerald tablecloth, adorned with silken floral patterns, spread effortlessly across the pristine white dining table, emanating a captivating aroma of fresh herbs.	4
+22	0	0	4	1	1	7	0	3	0	3	0	0	3	1	1	2	1	5.0	2	6	The emerald teapot, gilded with silver, held a fiery ruby gemstone, emanating a warm and vibrant amber glow.	4
+26	0	0	4	2	1	8	0	4	0	4	0	0	3	0	1	2	1	4.0	1	8	The emerald dress, adorned with shimmering pearl embellishments, displayed a vibrant, antique tapestry and complimented the rosy glow of the setting sun.	4
+23	1	0	4	3	0	8	1	4	0	2	0	0	0	0	1	0	1	4.0	1	7	The emerald dress, weathered by the wind, danced gracefully across the crimson path, its silk shimmering in the moonlight.	4
+20	1	0	5	1	1	7	0	3	0	2	0	0	0	1	1	1	0	4.0	1	9	The crimson, emerald, gold, and sapphire dress danced effortlessly across the runway, captivating the audience.	4
+24	0	0	5	2	1	8	1	4	0	2	0	0	1	1	1	1	0	4.0	1	9	The vintage, crimson, antique, and emerald dress sparkled under the evening sky, making it the star of the event.	4
+18	0	0	4	0	2	2	0	2	0	2	0	1	4	1	1	0	0	4.0	1	9	The vibrant, colorful, shimmering, and aromatic fruitcake was a treat to behold and savor.	4
+18	0	0	4	0	2	2	0	2	0	2	0	1	4	1	1	0	0	4.0	1	9	The vibrant, colorful, sweet, and fragrant fruit was a delight to see and savor.	4
+16	0	0	4	0	1	2	0	2	0	1	0	1	4	1	1	0	0	4.0	1	9	The vibrant, luminous, emerald, and iridescent garden was a sight to behold.	4
+23	0	0	5	1	2	3	0	2	0	2	0	1	7	1	1	1	0	5.0	1	9	The radiant, luminous, verdant, and vibrant garden was adorned with colorful blossoms, creating a captivating and mesmerizing ambiance.	4
+21	0	0	4	1	0	5	1	3	0	2	0	0	4	1	2	2	0	6.0	1	8	The vibrant, emerald, silken, antique painting displayed a spectrum of colors that captivated the viewer's imagination.	4
+19	0	0	3	2	1	4	0	2	0	2	0	0	5	0	1	1	1	4.0	1	7	The vibrant and colorful antique tapestry, crafted from intricate patterns, exuded a sense of elegant mystery.	4
+18	0	0	4	2	1	7	0	2	0	1	0	0	1	0	1	0	0	3.0	0	9	The vintage, emerald, antique, and radiant dress sparkled like moonlight on a porcelain nightstand.	4
+24	0	0	2	2	2	9	1	4	0	2	0	0	2	1	1	2	0	4.0	1	6	The emerald and jade pendant on the antique silver chain exudes an ethereal glow, captivating all with its sapphire and ruby hues.	4
+19	0	0	5	1	1	7	0	3	0	2	0	0	0	1	1	1	0	4.0	1	9	The crimson, emerald, jade, and sapphire dress danced across the runway, captivating the audience.	4
+22	0	0	4	3	1	9	0	3	0	1	0	0	1	0	1	0	0	4.0	0	10	The emerald, sapphire, turquoise, and crimson dress shimmered with a rainbow of iridescent hues under the afternoon sun.	4
+17	0	0	4	1	0	3	1	2	0	1	0	0	5	0	1	1	0	2.0	0	8	The vibrant, shimmering, translucent, emerald dress captivated the guests with its luxurious sheen.	4
+24	1	0	6	1	1	3	0	3	0	2	0	0	7	1	1	1	0	4.0	1	11	The vibrant, shimmering, emerald-colored, and exquisite dress sparkled under the dim light, creating a breathtakingly captivating effect.	4
+22	0	0	5	2	1	4	0	3	0	2	0	0	5	1	1	1	0	4.0	1	9	The scarlet, vibrant, emerald, and ethereal dress sparkled beneath the moonlight, creating a breathtaking symphony of colors.	4
+20	0	0	5	0	1	4	1	2	0	2	0	0	5	1	1	2	0	4.0	1	9	The emerald, glimmering, turquoise, and vibrant dress adorned the slender woman, enhancing her elegant appearance.	4
+23	1	0	4	1	1	4	0	2	0	2	0	0	7	0	1	1	1	4.0	1	9	The vibrant, glistening, shimmering, and ethereal dress adorned with delicate lace perfectly complemented the young woman's exquisite beauty.	4
+18	0	0	4	1	1	3	1	2	0	1	0	0	5	0	1	1	0	4.0	0	9	The intricate, majestic, gleaming, and colorful painting mesmerizes every viewer with its captivating charm.	4
+23	0	0	4	3	1	5	0	4	0	1	0	0	5	0	1	0	0	4.0	0	10	The vibrant, glistening, pristine, and luminous garden path led to a peaceful haven in the heart of the forest.	4
+19	0	0	4	1	0	5	0	2	0	2	0	1	3	1	1	0	1	4.0	2	8	The cascading, golden, sparkling, crimson dress adorned with shimmering diamonds was a sight to behold.	4
+17	0	0	1	1	1	7	0	1	0	2	0	0	4	0	1	1	1	5.0	1	10	The succulent lavender dress adorned with shimmering emerald jewels and vibrant ruby blossoms exuded effortless grace.	4
+20	0	0	4	1	1	4	0	3	0	0	0	1	6	0	1	0	0	4.0	0	10	The intricate, vibrant, polished, and pristine antique vase was a commanding presence on the coffee table.	4
+21	0	0	4	2	1	7	0	2	0	3	0	1	1	0	1	0	1	4.0	1	8	The emerald dress, adorned with sapphire jewels, was worn by the radiant bride, radiating grace and elegance.	4
+23	1	0	4	2	1	4	0	3	0	2	0	0	6	0	1	1	1	4.0	1	9	The vibrant, shimmering, glistening, and intricate dress adorned with delicate lace perfectly embodied the festive spirit of the occasion.	4
+16	0	0	4	0	1	2	0	2	0	1	0	1	4	1	1	0	0	4.0	1	9	The antique, gilded, vibrant, and pristine dress was a sight to behold.	4
+17	0	0	4	1	1	7	0	2	0	1	0	0	1	0	1	0	0	4.0	0	9	The emerald, sapphire, crimson, and amber dress sparkled under the warm summer sun.	4
+18	0	0	4	1	0	3	0	3	0	0	0	1	6	0	1	0	0	2.0	0	9	The fragrant, glittering, antique, colorful antique tapestry was a stunning sight at the museum.	4
+24	0	0	3	3	1	6	0	3	0	3	0	0	5	0	1	1	1	5.0	1	12	The emerald velvet couch, adorned with silken cushions and draped in mahogany lace, provided a comfortable refuge for the weary traveler.	4
+15	0	0	4	1	1	6	0	2	0	1	0	0	0	0	1	0	0	4.0	0	9	The emerald, crimson, antique, and sapphire dress sparkled under the moonlight.	4
+22	1	0	5	2	1	3	0	3	0	1	0	0	6	0	1	0	0	4.0	0	9	The vibrant, pristine, intricate, and ethereal garden contrasted vividly with the weathered, crumbling landscape of the desert.	4
+17	0	0	4	1	1	3	0	2	0	0	0	1	5	0	1	0	0	4.0	0	9	The vibrant, emerald, shimmering, and textured tapestry was a masterpiece of intricate craftsmanship.	4
+26	0	0	4	3	1	8	0	3	0	5	0	0	2	1	1	2	1	4.0	2	9	The emerald silk dress, adorned with shimmering gold embroidery, exuded an aura of vibrant purple and emerald, attracting admiring glances from all.	4
+23	0	0	5	1	1	4	1	3	0	2	0	0	6	1	1	2	0	4.0	1	9	The fluffy, emerald, shimmering, and vibrant flower displayed a captivating aroma, filling the garden with its sweet scent.	4
+25	0	0	4	3	1	5	0	4	0	1	0	1	6	0	1	0	1	4.0	1	9	The vibrant, shimmering, ancient, and intricate tapestry woven by skilled hands is a testament to the vibrant heritage of the region.	4
+22	0	0	4	2	1	8	0	3	0	2	0	0	2	0	1	1	1	5.0	1	12	The emerald teapot filled with vibrant, crimson, lavender, and turquoise water painted a serene landscape across the table.	4
+16	1	0	5	0	0	3	0	1	0	3	0	0	3	1	1	1	0	3.0	1	8	The cascading, vibrant, emerald, glistening waterfall roared angrily, attracting numerous tourists.	4
+24	1	0	6	1	2	10	0	2	0	1	0	1	0	0	1	0	0	4.0	0	15	The meticulously crafted emerald, sapphire, ruby, turquoise, gold, and crimson garment was a sight of elegance and grace.	6
+22	0	0	6	1	1	5	0	2	0	1	0	0	6	0	1	1	0	4.0	0	13	A vibrant, turquoise, emerald, crimson, antique, shimmering sea breeze carried the scent of lavender and honeysuckle.	6
+25	0	0	8	1	0	3	0	3	0	2	0	0	8	0	1	1	0	3.0	0	14	The vibrant, colorful, fragrant, delicate, ornate, emerald-colored dress adorned the bride like a radiant, precious jewel.	6
+22	0	0	1	3	1	7	0	2	0	3	0	1	4	0	1	0	1	5.0	1	13	The vibrant emerald dress adorned with shimmering silver sequins and adorned with glistening gold embroidery was perfect for the festive occasion.	6
+21	0	0	6	1	1	2	0	2	0	1	0	1	7	0	1	0	0	4.0	0	14	A vibrant, melodic, surreal, emerald, luminous, iridescent and fragrant strawberry was gifted to the traveler.	6
+21	0	0	6	1	1	3	0	2	0	1	0	0	7	0	1	1	0	4.0	0	13	The vibrant, emerald, shimmering, sapphire, ebony, and radiant garden held a variety of colorful flowers.	6
+26	0	0	7	1	1	6	0	3	0	0	0	1	6	0	1	0	0	3.0	0	15	The radiant, glistening, emerald, sapphire, amber, and fiery-red painting was a testament to the artist's masterful skill.	6
+27	0	0	6	2	2	5	1	3	0	1	0	1	6	0	1	0	1	4.0	1	13	The vibrant, exquisite, sparkling, pristine, luminous, and intricate tapestry woven by the weaver was a testament to her skill and passion.	6
+28	0	0	2	4	1	7	3	3	0	3	0	0	5	2	1	2	0	4.0	2	11	The emerald tapestry of flowers in the vibrant garden captivated the onlookers with its intoxicating aroma and captivating beauty, making them marvel at its enchanting grace.	6
+28	1	0	7	2	3	7	0	1	0	2	0	1	4	0	1	0	1	6.0	1	20	The intricately crafted emerald tapestry, woven in vibrant hues of crimson, sapphire, lavender, turquoise, and ruby, is both elegant and captivating.	6
+42	1	1	7	3	0	11	0	6	0	6	0	0	7	2	2	2	1	4.0	3	17	The emerald garden, adorned with glistening sapphire flowers, housed a vibrant, crimson rose, contrasting the soft, silken purple petals of the lavender plant, while the blushing orange blossom bloomed effortlessly alongside the velvety crimson berries.	6
+22	0	0	6	1	1	3	0	4	0	1	0	0	6	0	1	1	0	4.0	0	13	The iridescent, scarlet, emerald, vibrant, antique, and glittering dress made quite a statement on the runway.	6
+28	0	0	7	3	1	10	0	5	0	2	0	0	0	1	1	1	0	4.0	1	13	The crimson, emerald, lavender, sapphire, turquoise, and sapphire dress sparkled in the moonlight, captivating the hearts of all at the ball.	6
+26	0	0	8	1	1	5	0	2	0	2	0	0	7	0	1	1	1	6.0	1	18	The emerald teapot, filled with refreshing, sweet, fruity, vibrant, aromatic, and flavorful coffee, presented a delightful morning treat.	6
+35	0	0	5	4	2	11	1	2	0	4	0	0	6	2	1	1	1	6.0	3	10	The emerald teapot adorned with sapphire and ruby carvings holds a fragrant jasmine brew in its delicate, ivory cup crafted from heirloom silver, adorned with intricate, antique, and exquisite designs.	6
+23	0	0	6	2	1	4	0	3	0	1	0	0	6	0	1	1	0	4.0	0	13	The vibrant, luminous, ethereal, shimmering, antique, and pristine garden filled the senses with a sense of tranquility.	6
+29	0	0	7	2	1	5	1	3	0	3	0	0	7	2	0	1	0	4.0	2	14	The vibrant, glistening, emerald, sapphire, iridescent, and ruby colored parrot perched on a lush green branch, delighting all with its charming personality.	6
+29	0	0	7	2	0	6	0	4	0	1	0	0	9	0	1	1	0	3.0	0	12	The vibrant, iridescent, emerald, sapphire, silken, crimson tapestry of the evening sky mirrored the colorful, shimmering facade of the dazzling city lights.	6
+23	0	0	7	0	1	3	0	3	0	2	0	0	7	1	1	2	0	4.0	1	13	A vibrant, colorful, sparkling, radiant, glossy, and aromatic perfume filled the air, leaving a lingering scent.	6
+22	0	0	6	1	1	3	1	2	0	1	0	0	7	0	1	1	0	4.0	0	13	A vibrant, emerald, shimmering, glistening, iridescent, and ethereal flower adorned the garden with its captivating aroma.	6
+26	0	0	6	0	2	12	0	2	0	1	0	0	3	0	1	1	0	4.0	0	17	The turquoise sweater, emerald pants, sapphire dress, scarlet earrings, golden locket, and crimson lipstick created a vibrant and dazzling ensemble.	6
+27	0	0	7	1	1	5	1	4	0	2	0	0	6	1	1	2	0	4.0	1	13	A vibrant, luminous, fragrant, emerald, sapphire, and shimmering dress adorned the young woman, making her the centerpiece of the event.	6
+27	0	0	7	1	0	4	1	4	0	2	0	0	8	1	1	2	0	4.0	1	12	A vibrant, shimmering, radiant, emerald, iridescent, turquoise dress adorned the young dancer, making her a captivating presence on the stage.	6
+26	0	0	7	2	1	10	0	3	0	2	0	0	1	1	1	1	0	4.0	1	13	The emerald, sapphire, ruby, gold, emerald, and amethyst dress sparkled beneath the moonlight, creating a breathtaking display of color.	6
+27	0	0	7	1	1	5	1	4	0	2	0	0	6	1	1	2	0	4.0	1	13	A vibrant, emerald, glistening, luminous, sapphire, and scarlet dress adorned the young woman, making her the star of the evening.	6
+29	1	0	7	2	1	8	0	4	0	2	0	0	4	1	1	1	0	4.0	1	13	The crimson, sapphire, emerald, golden, vibrant, and ethereal gown danced gracefully across the emerald dance floor, captivating all eyes in the room.	6
+22	1	0	6	1	1	3	0	2	0	1	0	0	6	0	1	0	0	4.0	0	13	The vibrant, emerald, glistening, antique, majestic, and crimson dress danced gracefully on the model's runway.	6
+23	0	0	4	2	1	7	0	3	0	2	0	0	4	0	1	1	1	5.0	1	14	The emerald tapestry in the vibrant crimson room, adorned with sapphire and ruby ornaments, emanates a warm, golden glow.	6
+25	0	0	7	2	1	4	0	3	0	1	0	0	7	0	1	1	0	4.0	0	15	A vibrant, multicolored, gleaming, ethereal, shimmering, luminous, and serene garden filled the house with a sense of tranquility.	6
+43	0	0	6	7	1	11	0	4	0	5	0	0	9	1	1	2	2	4.0	3	18	The emerald teapot with intricate filigree, filled with vibrant crimson grapes, adorned with iridescent jewels, presented a serene landscape of purple petals, amidst a breathtaking tapestry woven from silken fibers, and radiated the warmth of golden sunshine.	6
+33	1	0	8	3	1	10	1	2	0	4	0	0	3	0	1	1	2	6.0	2	22	The intricately woven tapestry woven with silken threads, crafted from delicate ivory, emerald, crimson, sapphire, gold, and garnet, captivated the audience with its vibrant hues.	6
+25	0	0	7	0	1	9	0	3	0	3	0	0	2	1	1	2	0	4.0	1	14	The emerald, ruby, sapphire, lavender, rose, and amber colored gemstones adorned the exquisite crown, creating a dazzling spectacle.	6
+30	1	0	4	3	2	7	0	3	0	3	0	0	7	1	1	1	1	5.0	2	7	The vibrant and radiant antique tapestry, crafted with meticulous workmanship, hangs gracefully on the emerald wall, providing a breathtaking display of fiery orange and ruby hues.	6
+21	0	0	2	3	1	5	1	3	0	2	0	0	4	1	1	1	0	4.0	1	5	A vibrant and luminous rainbow of wildflowers danced in the meadow, captivating the senses with its breathtaking scenic beauty.	6
+27	0	0	7	1	1	4	1	3	0	1	0	1	8	1	1	1	0	4.0	1	13	The colorful, glittering, shimmering, radiant, intricate, and vibrant gemstone was a breathtaking sight, illuminating the room with its captivating glow.	6
+21	1	0	6	1	1	9	0	2	0	1	0	0	0	0	1	0	0	4.0	0	13	The emerald, sapphire, ruby, golden, crimson, and turquoise dress danced elegantly across the dance floor.	6
+22	0	0	6	1	0	3	0	1	0	3	0	0	8	0	1	1	1	4.0	1	12	A vibrant, multicolored, glittering, intricate, emerald, antique tapestry adorned with ornate embroidered patterns evokes nostalgic memories.	6
+26	0	0	2	2	1	9	1	3	0	2	0	0	6	1	2	2	0	4.0	1	9	The emerald dress with vibrant purple embroidery and sparkling silver sequins adorned the radiant bride, whose radiant glow illuminated the entire room with grace.	6
+30	1	0	6	0	1	13	0	2	0	2	0	0	5	0	1	1	0	3.0	0	21	The emerald tapestry, antique bronze sculpture, magenta roses, glistening silver teapot, vibrant crimson rug, and silken pearl necklace adorned the stylishly appointed living room.	6
+28	0	0	8	1	2	9	0	2	0	2	0	0	4	0	1	1	1	5.0	1	19	The emerald tapestry, adorned with shimmering jade, ruby, sapphire, emerald, amethyst, and crimson fabrics, creates a vibrant and captivating atmosphere.	6
+26	0	0	7	1	1	6	0	4	0	2	0	0	5	1	1	2	0	4.0	1	13	A vibrant, glittering, emerald, sapphire, antique, and weathered mosaic adorned the museum wall, captivating the hearts of all visitors.	6
+28	0	1	7	1	0	5	1	3	0	3	0	0	7	1	2	1	0	3.0	1	14	The radiant, vibrant, melodic, emerald, azure, emerald-toned dress sparkled as the sun cast a warm glow upon its delicate petals.	6
+19	0	0	6	0	1	1	0	1	0	1	0	1	7	1	1	0	0	4.0	1	13	The vibrant, shimmering, emerald, crystalline, crimson, and luminous rose was breathtaking to behold.	6
+20	0	0	6	0	1	3	0	2	0	1	0	0	6	0	1	1	0	4.0	0	13	The vibrant, colorful, intricate, shimmering, antique, and exquisite painting captivated the viewer's imagination.	6
+27	1	0	7	2	1	10	0	3	0	3	0	0	0	1	1	1	0	4.0	1	13	The emerald, sapphire, crimson, silver, turquoise, and ruby dress danced beautifully on the runway, attracting admiring glances from the audience.	6
+26	0	0	8	1	0	10	0	3	0	3	0	0	1	1	1	1	0	3.0	1	14	The emerald, mahogany, crimson, sapphire, platinum, jade-colored dress sparkled in the evening light, creating a breathtaking display.	6
+46	1	0	7	4	1	9	0	6	2	8	0	0	8	3	1	2	1	6.0	4	20	The emerald teapot, adorned with jeweled butterflies, rests elegantly on the obsidian table, illuminated by the warm, golden sunset, enhancing the vibrant floral arrangement, and the antique ceramic mugs filled with steaming Earl Grey tea complete a harmonious picture.	6
+23	0	0	7	1	1	3	0	2	0	1	0	0	8	0	1	1	0	4.0	0	13	A radiant, luminous, verdant, ethereal, vibrant, and mesmerizing sentence encompasses a kaleidoscope of vivid, intoxicating scents.	6
+20	0	0	6	1	1	3	0	2	0	1	0	0	6	0	1	0	0	4.0	0	13	The vibrant, turquoise, emerald, scarlet, antique, and sapphire dress glowed with a captivating beauty.	6
+24	0	0	6	1	1	4	1	2	0	1	0	0	8	0	1	1	0	3.0	0	12	The exquisite, vibrant, emerald, shimmering, sapphire, crimson dress captivated the guests with its elegant design and delicate craftsmanship.	6

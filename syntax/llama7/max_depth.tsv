@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+8	1	1	1	0	0	2	2	0	0	0	0	0	1	2.0	5	0	0	1	0	0	The sun rose high in the treeless sky	2
+12	0	2	0	0	0	3	4	1	0	0	1	0	1	3.0	8	0	0	1	1	0	The tree reached a height of 2 feet in the forest.	2
+12	1	1	0	0	0	2	4	1	0	0	2	0	1	3.0	8	0	0	1	0	0	The cat sat on a 2-foot tall tree branch.	2
+22	1	4	1	0	0	4	6	1	0	0	2	0	2	4.0	12	1	1	1	0	0	The branch swayed gently in the wind, standing at a height of 2 meters in the tree's syntactic tree.	2
+10	0	1	1	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree towered 2 feet high in the forest.	2
+13	1	3	0	0	0	3	3	1	0	0	1	0	1	3.0	9	0	0	1	0	0	The tree stood at a height of 2 in the syntactic tree.	2
+26	2	3	1	1	0	5	7	0	2	0	1	0	3	7.0	14	3	1	2	1	2	Beneath the slender branches rustled by a breeze that heightened the tree's beauty was a clear brook that flowed silently along the forest floor. (Tree height: 2 inches)	2
+11	1	1	0	0	0	2	4	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tall tree towered 2 feet above the forest floor.	2
+29	3	5	0	0	1	3	8	0	2	0	2	1	4	4.0	9	2	2	3	0	0	Under the canopy of this majestic tree, birds twirled and dipped with such grace as their branches stretched towards the sky, their leaves rustling in quiet exaltation	2
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood at 2 feet tall in the sun-dappled forest.	2
+9	0	0	0	0	0	2	3	1	0	0	2	0	1	3.0	5	0	0	1	1	0	The dog climbed the 2-foot tree.	2
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height was 2 inches in the syntactic tree.	2
+20	2	3	0	0	0	3	6	1	1	0	3	0	1	5.0	9	0	0	1	1	0	The cat perched itself with ease on the lowest branch, 2 feet tall, of the oak tree.	2
+13	1	2	0	0	0	3	4	1	0	0	1	0	1	3.0	5	0	0	1	1	0	A small dog climbed the tree to a height of 2 feet. (1 sentence)	2
+13	1	3	0	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	0	0	The tallest tree in the forest stands at 2 meters in height.	2
+24	2	4	0	0	0	3	9	0	1	0	2	0	1	6.0	6	0	0	1	1	0	Branches of ancient oaks stretched their slender fingers toward the sun, a canopy's embrace of light above the woods' shade. (69 characters)	2
+12	3	1	0	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The majestic tree stood 2 feet tall in the lush forest.	2
+10	1	2	0	0	0	1	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood tall at 2 feet in height. (1 sentence)	2
+15	0	4	0	0	0	4	4	1	0	0	1	0	1	3.0	9	0	0	1	0	0	The leaf lay on the ground below the tree with a height of 2.	2
+12	1	2	1	0	0	2	3	1	0	0	1	0	1	3.0	8	0	0	1	0	0	The tree towered at 2 feet high in the dense forest.	2
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stood 2 meters tall.	2
+23	2	6	0	0	0	3	5	1	1	1	2	0	2	5.0	9	1	1	1	0	0	Burt stood at the base of the slender tree, gazing up at its height of two inches in the syntactic tree.	2
+22	2	4	0	0	0	4	6	1	1	0	2	0	2	4.0	7	1	1	2	0	0	The rain dripped from the leafy branches of the tree, its height measured at 2 feet in the syntactic tree.	2
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 2 feet tall.	2
+19	0	4	0	0	0	4	6	1	0	0	2	0	2	5.0	7	1	1	1	1	0	The leaves reached the top of the tree, towering at heights of 2 above the forest floor.	2
+14	2	2	0	0	0	3	4	1	0	0	1	0	1	3.0	9	0	0	1	1	0	The tall tree reached a height of 2 feet in the dense forest.	2
+24	1	5	1	0	0	5	6	1	1	0	2	0	2	6.0	10	1	1	2	0	0	The sun shone brightly through the branches of the tree, which stood at a height of 2 feet in the syntactic tree.	2
+12	1	1	0	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	1	0	The giraffe's long neck reached 2 meters towards the treetops.	2
+15	1	2	0	0	0	3	4	0	1	0	2	0	2	3.0	7	1	1	2	0	0	The branch stretched towards the sun, its leaves glistening in the bright light.	2
+19	2	3	1	0	0	3	4	1	1	0	2	0	2	5.0	7	1	1	2	1	0	The sun shone brightly on the tall trees, which reached heights of 2 in the syntactic tree.	2
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree stood at a height of 2 inches in the syntactic tree.	2
+13	1	3	0	0	0	3	3	1	0	0	1	0	1	3.0	9	0	0	1	0	0	The tree stood at a height of 2 in the syntactic tree.	2
+25	3	4	0	0	0	5	7	1	1	0	2	0	2	6.0	5	1	1	1	1	0	The sun rose above the tall trees, its golden rays piercing the canopy with a height of 2 meters in the syntactic tree.	2
+17	0	4	0	0	0	4	6	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The branches of the tree stretched to a height of 2 feet above the forest floor.	2
+11	0	2	1	0	0	1	3	1	0	0	1	0	2	3.0	7	1	1	1	0	0	Birds nestled at the tree height of 2 soared overhead. 	2
+15	1	3	0	0	0	3	5	1	0	0	1	0	1	4.0	3	0	0	1	0	0	The tall oak tree stood at a height of 2 meters in the forest.	2
+8	0	0	0	1	0	1	3	1	0	0	1	0	0	3.0	3	0	0	1	0	0	The tree's height is 2 meters.	2
+10	1	2	0	0	0	1	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The trees stood tall at 2 feet in height.	2
+11	1	2	1	0	0	1	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tall trees stood proudly at 2 feet in height.	2
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stood at a height of 2 feet in the dense forest.	2
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	3.0	10	0	0	1	0	0	The tree stands at a height of 2 feet in the syntactic tree.	2
+14	2	3	0	0	0	1	4	1	0	1	0	0	2	3.0	7	1	1	2	1	0	Blossom embellished the verdant tangle with vibrant splendor towering at 2 feet in height	2
+20	2	4	0	0	0	3	6	1	2	0	1	0	1	3.0	8	0	0	1	1	0	The tall tree stretched its leaves towards the sky with a height of 2 feet in its syntactic tree. 	2
+18	1	3	1	1	0	3	5	1	0	0	1	0	2	4.0	5	0	0	1	0	0	The sun was setting between the towering tree height of only 2 feet in the syntactic tree.	2
+10	0	2	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree grew to a height of 2 meters.	2
+25	2	4	1	0	0	4	7	1	1	0	2	0	3	7.0	6	2	2	2	0	0	The leaves fluttered high in the sky, suspended by slender threads from the tall tree that stood 2 feet above the forest floor. 	2
+15	1	3	1	0	0	3	4	1	0	0	1	0	1	5.0	4	0	0	1	0	0	The cat climbed to a height of 2 trees high in the tall oak.	2
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height was 2 meters in the syntactic tree.	2
+11	1	1	1	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree towered 2 feet high in the dense forest.	2
+27	3	3	1	1	1	3	6	1	2	0	3	0	3	7.0	6	2	2	2	2	0	The sun was shining directly on the leafy treetop, which measured 2 feet in height, providing a serene and peaceful atmosphere beneath its branches.	2
+25	1	4	0	0	0	3	7	2	1	1	1	0	4	5.0	8	2	2	1	2	0	Thirty inches of rain fall on the forest every year, providing ample hydration for the towering Sequoia to reach its height of 250 feet	3
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	3.0	10	0	0	1	0	0	The tree stood at a height of 3 feet in the dense woods.	3
+11	1	0	0	0	0	2	4	1	0	0	2	0	1	3.0	7	0	0	1	1	0	The squirrel climbed the 3-foot tall oak tree.	3
+26	3	5	0	2	0	5	7	1	1	0	1	0	1	6.0	5	1	1	2	0	0	The sun was hidden behind a thin layer of leaves on the branches of a tree that was 3 feet tall in the syntactic tree.	3
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stands at a height of 3 inches in the syntactic tree. 	3
+13	1	1	0	0	0	2	4	1	0	0	2	0	1	3.0	9	0	0	1	0	0	The sun sets beneath the 3-inch tall tree's branches.	3
+12	0	1	0	0	0	2	5	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree's leaves towered 3 feet above the forest floor.	3
+17	2	2	0	0	0	3	5	1	0	0	2	0	1	3.0	8	0	0	1	0	0	In the forest, a majestic tree stretched 3 feet towards the sun's warm rays.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands three feet tall.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stood 3 feet tall.	3
+20	1	3	0	0	0	4	6	1	1	0	2	0	2	4.0	9	0	0	2	1	0	The branch stretched towards the sun, its canopy reached a height of three feet in the syntactic tree.	3
+19	1	3	0	0	1	3	5	1	0	0	3	0	2	3.0	12	0	0	1	0	0	The cat stood on the tall tree, 3 feet in height, and leaped into the sunset.	3
+12	1	2	0	0	0	2	3	0	0	0	2	0	2	2.0	4	0	0	1	0	0	In the towering tree, leaves danced with an ethereal whisper.	3
+19	0	2	0	0	0	3	8	1	0	0	3	0	2	3.0	9	1	1	1	1	0	The sun set beneath the 3-inch tree canopy, casting amber light on the forest floor.	3
+21	1	4	0	1	0	4	5	1	1	0	2	0	2	6.0	4	1	1	2	0	0	The sun was shining above the tree, which stood at a height of 3 inches in the syntactic tree.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stood 3 feet tall.	3
+20	2	2	1	0	0	3	6	1	1	0	2	0	2	4.0	7	1	1	3	0	0	The trees tall branches reached towards the sky, their limbs stretching 3 feet high in the slender trunks.	3
+11	0	1	0	1	0	2	4	1	0	0	1	0	0	3.0	3	0	0	1	0	0	The tree's height was 3 feet in the clearing.	3
+12	1	2	0	1	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The sun was shining through the branches of the tall tree.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 3 feet tall.	3
+11	1	1	0	0	0	2	4	1	0	0	1	0	1	4.0	7	0	0	1	0	0	The cat perched in the 3 ft tall oak tree.	3
+14	0	1	1	0	0	2	4	1	1	0	2	0	2	4.0	5	1	1	2	1	0	The branch soared upwards, its canopy reaching a height of three trees.	3
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	0	0	This tall tree stood at 3 feet in the dense forest.	3
+13	0	3	0	0	0	3	4	1	0	0	1	0	1	4.0	3	0	0	1	0	0	The tree stood at a height of 3 feet in the garden.	3
+18	0	3	0	0	0	4	6	1	0	0	2	0	2	4.0	6	1	1	1	0	0	The leaves of the tree rustled in the breeze, swaying 3 feet above the forest floor.	3
+11	1	1	0	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	0	0	A tall oak tree loomed 3 feet above the ground.	3
+25	4	3	1	0	0	4	6	1	1	0	2	1	2	3.0	11	1	1	2	1	0	In this dense forest, the tall trees reached a majestic height of 3 feet as their leafy canopies rustled softly in the breeze.	3
+11	1	2	1	0	0	1	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tall tree stood proudly at 3 inches in height.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 3 feet tall.	3
+16	1	3	1	0	0	3	5	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree branches stretched up to a height of 3 feet in the syntactic tree.	3
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The trunk of the tree towered at 3 feet above the grassy clearing.	3
+18	1	1	1	0	0	3	6	0	1	0	3	0	2	5.0	4	0	0	1	1	0	The snow-covered mountain topped the treetops, its trunk as white as the winter sky.	3
+25	2	2	0	0	0	3	7	2	1	0	5	0	3	3.0	10	0	0	1	1	0	In the dense forest, a towering 3-foot tall fir tree stretched its needled branches towards the sun. (1 sentence)	3
+16	2	3	1	0	0	3	4	1	0	0	1	0	1	3.0	8	0	0	1	0	0	Within the dense forest, a stunning tree of height 3 towered gracefully towards the sky	3
+11	1	2	1	0	0	1	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tall tree stood proudly at 3 feet in height.	3
+13	0	3	0	0	0	3	4	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The cat hid in the tree with a height of 3 feet.	3
+14	2	3	0	0	0	3	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tall trees stood at a height of 3 in the dense forest.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stood 3 feet tall.	3
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The tree towered at 30 feet in the dense forest.	3
+20	2	3	1	0	0	4	6	1	0	0	1	0	2	5.0	9	1	1	1	1	0	The sun sets slowly behind the slender oak tree reaching a height of 3 inches in the syntactic tree.	3
+21	2	3	1	0	0	4	6	1	1	0	1	0	2	5.0	9	1	1	2	1	0	The dog happily barked in the tall evergreen tree that reached a height of 3 inches in the treesytic tree.	3
+21	1	3	1	0	0	4	6	1	1	0	2	0	2	4.0	9	1	1	1	2	0	The tree stretched its leaves up towards the sky, reaching a height of 3 inches in the syntactic tree.	3
+16	1	2	1	0	0	3	5	1	0	0	2	0	1	4.0	8	0	0	1	0	0	The sun shone brightly through the leaves of the 3-foot tall oak tree.	3
+16	1	4	0	0	0	3	4	1	0	0	1	0	2	4.0	5	1	1	1	0	0	The leafs rustled in the breeze reaching up to the sunlit heights of 3 meters.	3
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	5	0	0	1	0	0	The sun set beyond the tall tree height of 3. 	3
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood at 3 feet tall in the dense forest.	3
+19	2	3	0	0	0	3	5	1	1	0	2	0	2	4.0	6	1	1	1	2	0	The sloth climbed up the tallest tree, reaching its highest branch at a height of 3 meters.	3
+16	1	0	1	1	1	1	3	1	1	1	1	0	2	4.0	6	1	1	1	2	0	Betty carefully measured the tree's height and found it to be three feet tall.	3
+12	1	2	0	0	0	2	4	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The majestic sequoia towered at 3 feet above the forest floor.	3
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height was 3 inches in the syntactic tree.	3
+29	1	5	0	0	0	5	10	1	1	0	3	0	3	5.0	8	1	1	1	2	0	In a grove of towering cypress trees, the moon cast its lunar glow, illuminating the canopies to a height of 4 feet above the forest floor.	4
+12	0	2	0	1	0	3	4	1	0	0	1	0	0	2.0	6	0	0	1	0	0	The leaf was 4 inches from the trunk of the tree.	4
+10	2	1	0	0	0	2	2	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree stands at an impressive 4 feet tall.	4
+16	2	3	0	0	0	3	5	1	0	0	1	0	1	3.0	8	0	0	1	0	0	The tall trees towered at a height of 4 inches in the dense forest canopy.	4
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	2.0	8	0	0	1	0	0	The tree stood tall at 4 feet in the dense forest.	4
+27	2	4	0	0	0	4	8	1	1	0	4	0	3	5.0	22	1	1	2	0	0	The sun sets beyond the towering fir tree, its needles glistening in the warm orange light like a sprinkling of gold. (4 in)	4
+14	3	2	0	0	0	2	4	1	0	0	1	0	1	2.0	8	0	0	1	0	0	The giant oak tree stands at 4 feet in the clear blue sky.	4
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 4 feet tall. (1 sentence)	4
+22	2	3	0	0	0	4	7	1	0	0	3	0	2	4.0	12	1	1	1	1	0	The sun shone through the leaves of the 4-foot tall tree, casting intricate patterns on the forest floor.	4
+13	2	2	0	0	0	2	4	1	0	0	1	0	1	2.0	7	0	0	1	0	0	A tall fir tree stood at 4 inches in the syntactic tree.	4
+21	1	3	0	0	0	3	7	1	2	0	2	0	2	3.0	9	1	1	2	1	0	The oak tree stretched its branches toward the sun, its height measured at 4 feet in the syntactic tree.	4
+18	1	3	0	0	0	3	5	1	1	0	2	0	2	3.0	7	1	1	2	0	0	The sun set behind the tree, its height measured at 4 inches in the syntactic tree.	4
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood at 4 feet tall in the forest.	4
+13	1	3	1	0	0	2	3	1	0	1	0	0	1	4.0	4	0	0	1	0	0	Leaf rustled softly at the height of 4 inches in the spindly oak	4
+13	2	2	0	0	0	2	4	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The majestic fir tree towered at 4 feet in the dense forest.	4
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood at an impressive height of 4 inches.	4
+27	1	3	1	0	0	5	8	1	1	0	2	1	4	6.0	6	2	2	3	1	0	The branches stretched high as the sunlight filtered through the leaves of the towering oak tree, its height reaching 4 feet in the syntactic tree.	4
+10	1	2	0	0	0	1	3	1	0	0	1	0	1	2.0	5	0	0	1	0	0	The majestic tree towered at 4 inches in height.	4
+11	3	1	0	0	0	2	3	1	0	0	0	0	1	3.0	4	0	0	1	0	0	A majestic tree stood 4 feet tall in the dense forest	4
+23	3	4	0	0	0	4	7	0	0	0	2	0	2	6.0	6	1	1	0	1	0	In the tallest oak tree stood a curious bat, swooping through the air in search of the evening's next meal. 	4
+15	0	3	0	0	0	4	5	1	0	0	1	0	1	3.0	8	0	0	1	1	0	The tree reaches a height of 4 inches in the understory of the forest.	4
+13	0	1	0	0	0	3	4	1	0	0	2	0	2	4.0	4	1	1	1	2	0	The cat climbed the tree, reaching a height of 4 inches.	4
+21	3	4	0	0	0	4	5	1	0	0	2	0	2	4.0	6	1	1	1	1	0	The sunlight filtered through the leafy canopy, casting dappled shadows at a height of 4 in the syntactic tree.	4
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height is 4 inches in the syntactic tree.	4
+21	1	4	0	1	0	4	6	1	0	0	1	0	2	3.0	7	0	0	1	0	0	The bird's nest was nestled atop a towering tree with a height of 4 inches in the syntactic tree.	4
+40	3	6	3	0	0	5	9	1	4	0	3	0	5	8.0	8	4	4	4	1	0	At the base camp, the climbers looked upward at the massive mountain that towered above them, its peak shrouded in a thin layer of mist that seemed to hover only a little over 4 trees in height.	4
+15	2	3	0	0	0	3	5	1	0	0	0	0	1	3.0	7	0	0	1	0	0	The tall fir tree stood at a height of 4 meters in the denselyforested clearing	4
+15	1	3	1	0	0	2	4	1	0	0	2	0	1	3.0	5	0	0	1	0	0	In the forest, a tall tree stood proudly at 4 inches in height.	4
+12	0	2	0	0	0	2	5	1	0	0	1	0	1	3.0	5	0	0	1	1	0	The branches of the oak tree reached heights of 40 feet.	4
+20	1	2	0	0	0	4	6	1	1	0	2	0	3	3.0	8	1	1	2	1	0	The trunk of the towering tree towered above the forest floor, its height measuring an impressive 4 inches.	4
+13	2	2	0	0	0	2	4	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The tall oak tree stands at 4 feet in the syntactic tree.	4
+14	2	3	0	0	0	2	4	1	0	0	1	0	1	3.0	9	0	0	1	0	0	The tall tree stood at 4 inches in height within the lush forest.	4
+18	2	4	0	0	0	3	5	1	1	0	1	0	1	3.0	7	0	0	1	0	0	The giant sequoia towered above the forest with a height of 4 inches in its syntactic tree.	4
+17	0	2	1	0	0	2	5	1	1	0	2	0	2	3.0	8	1	1	2	0	0	The tree's branches stretched up towards the sky, its height measured at 4 inches.	4
+12	0	2	0	0	0	2	3	1	0	1	2	0	1	4.0	6	0	0	1	0	0	Nancy climbed to the top of the 4-foot tree.	4
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree towered at 4 inches tall in the landscape.	4
+15	1	3	1	0	0	3	4	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The branch stretched up to a height of 4 inches in the syntactic tree.	4
+12	0	1	0	0	0	2	4	1	0	0	2	0	1	3.0	8	0	0	1	0	0	The sun set behind the tree's 4-foot height.	4
+14	0	3	0	0	0	3	5	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stood at a height of 4 feet above the forest floor.	4
+14	2	1	0	0	0	2	5	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The red oak's leafy branches stretched 4 feet above the forest floor.	4
+9	0	0	0	1	0	1	4	1	0	0	1	0	0	3.0	3	0	0	1	0	0	The dog's tree height was 4 inches.	4
+13	0	4	0	0	0	2	3	1	0	1	1	0	1	3.0	7	0	0	1	0	0	Toby gazed up at the tree with a height of 4 inches.	4
+26	4	4	1	0	0	5	7	1	0	0	2	0	2	4.0	9	1	1	1	1	0	The branch of the tall oak tree stretched up towards the clear blue sky, reaching a height of 4 feet in the syntactic tree.	4
+18	2	3	0	0	0	3	5	1	0	0	2	0	1	3.0	5	0	0	1	0	0	Under the tall trees' leaves, the tiny flowers bloomed at a height of 4 inches.	4
+8	0	0	0	1	0	1	3	1	0	0	1	0	0	3.0	3	0	0	1	0	0	The tree's height is 4 feet.	4
+13	1	2	0	0	0	2	4	1	1	0	1	0	1	3.0	9	0	0	1	1	0	The tree reaches a height of 4 inches in its syntactic form.	4
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stands at a height of 4 feet in the nearby forest.	4
+19	1	4	1	0	0	4	6	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The trunk of the oak tree stretched upward to a height of 4 feet in the syntactic tree.	4
+13	2	2	0	0	0	2	4	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The majestic redwood tree towered at 4 feet in the dense forest.	4
+13	1	1	1	0	0	2	4	1	0	0	1	0	2	4.0	6	1	1	1	0	0	The tall trees stood majestically towering 4 inches above the forest floor.	4
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stands at a height of 6 inches in the syntactic forest.	6
+11	1	2	0	0	0	1	4	1	0	0	1	0	1	2.0	8	0	0	1	0	0	Trees towered at 6 feet in the dense forest canopy. (1 sentence)	6
+11	2	1	0	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree stood 6 feet tall in the syntactic landscape.	6
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	4	0	0	1	0	0	The tree was 6 feet tall.	6
+19	3	3	0	0	0	1	5	2	0	0	3	0	2	3.0	10	0	0	2	0	0	In the dense forest, towering trees stood sentinel, with one majestic trunk at 6 feet tall.	6
+18	2	2	0	0	0	3	5	1	1	0	2	0	2	3.0	8	1	1	2	1	0	The sloth perched on a tall tree, its height reaching 6 inches in the syntactic trees.	6
+12	1	2	1	0	0	1	4	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tall oak tree stood majestically at 6 inches in height.	6
+15	4	2	0	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	0	0	A majestic silver maple stands at six feet tall in the lush forest glade.	6
+14	0	3	0	0	0	3	5	1	0	0	0	0	1	5.0	5	0	0	1	0	0	The tree stands at a height of 6 inches in the forest's canopy	6
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stood at a height of 6 inches in the sunlit forest.	6
+13	0	3	0	0	0	3	4	1	0	0	1	0	1	4.0	3	0	0	1	0	0	The tree stood at a height of 6 inches in the forest.	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree stands 6 feet tall in the forest.	6
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	A sun-kissed forest towered 6 trees high. (1 sentence)	6
+16	3	2	0	0	0	2	5	1	1	0	0	0	2	4.0	9	1	1	1	1	0	The sun cast its warm orange rays on the majestic tree standing towering at 6 feet	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree stood 6 feet tall in the forest.	6
+13	1	2	0	0	0	3	4	1	0	0	1	0	1	3.0	9	0	0	1	1	0	The tree reached a height of 6 inches in the syntactic tree.	6
+11	2	1	0	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The branch stretched 6 feet tall into the canopied sky.	6
+15	0	4	0	0	0	3	4	1	0	1	0	0	2	6.0	3	1	1	1	0	0	Mistletoe hung at a height of 6 feet twisted in the boughs of the tree	6
+22	2	5	0	0	0	5	5	1	1	0	1	0	2	5.0	6	1	1	1	1	0	In the heart of the forest stood a majestic tree that ascended to a height of 6 in the syntactic tree. 	6
+16	1	3	0	0	0	3	4	1	0	0	2	0	2	3.0	9	0	0	1	0	0	The sun set behind the tall, shaded tree with a height of 6 inches.	6
+13	1	2	0	0	0	3	4	1	0	0	1	0	1	3.0	9	0	0	1	1	0	The tree reaches a height of 6 inches in the syntactic tree. 	6
+20	1	3	1	0	0	3	5	1	1	0	2	0	3	4.0	10	1	1	1	1	0	The sun set slowly behind the hill, hiding its majestic tree height of 6 behind the rising horizon.	6
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stands at a height of 6 inches in the dense forest.	6
+26	3	4	0	0	0	5	8	1	0	0	2	0	2	4.0	11	1	1	2	1	0	The trees tall branches stretched towards the sky like a green giant's arms, reaching a height of 6 inches in the syntactic tree.	6
+12	0	2	0	0	0	2	5	1	0	0	1	0	1	3.0	5	0	0	1	1	0	The branch of the oak tree reached 6 feet in height. 	6
+33	2	3	4	0	0	4	10	1	1	0	4	0	4	8.0	14	3	3	2	3	0	The sun shone brightly overhead, casting dappled shadows across the forest floor where a tall oak tree, measuring precisely 6 inches in height, stretched its branches toward the sky.	6
+12	3	1	1	0	0	2	3	1	0	0	0	0	1	3.0	8	0	0	1	0	0	The leafy tree towered 6 inches high in the lush green landscape	6
+15	0	2	0	0	0	2	5	1	1	0	1	1	2	3.0	7	1	1	2	1	0	The tree reaches six inches in height as it towers above the forest floor.	6
+13	0	3	0	0	0	3	4	1	0	0	1	0	1	4.0	3	0	0	1	0	0	The tree stood at a height of 6 inches in the forest.	6
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height was 6 inches in the syntactic tree.	6
+22	1	3	1	0	0	3	7	1	1	0	2	0	3	5.0	6	1	1	2	1	0	Beneath the towering mountain spruce, a flock of robins sang sweet melodies that floated upward 6 inches into the sky. 	6
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height was 6 inches in the syntactic tree.	6
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height is 6 inches in the syntactic tree.	6
+11	1	1	1	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree towered 6 inches high in the dense forest.	6
+21	1	4	0	0	0	4	5	1	1	1	2	0	2	6.0	9	1	1	2	1	0	John climbed to the summit of the tree, which reached a height of 6 feet in the syntactic tree.	6
+24	3	2	0	0	0	5	6	1	0	0	3	0	4	4.0	5	2	2	1	2	0	In the tall evergreen woods, the slanted rays glinted off the snow, making the pine tree stand a towering 6 feet.	6
+15	3	2	0	0	0	3	4	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree stood 6 feet tall in the lush canopy of the syntactic forest.	6
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	This tree stands at 6 feet tall in the forest.	6
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height was 6 inches in the syntactic tree.	6
+15	1	2	0	0	0	3	6	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The branches of the towering redwood tree soared 6 feet above the forest floor.	6
+10	1	2	0	0	0	1	3	1	0	0	1	0	1	2.0	5	0	0	1	0	0	The giant sequoia towered at 6 inches in height. 	6
+16	2	3	0	0	0	3	4	1	0	0	2	0	1	4.0	6	0	0	1	0	0	The tree stood at a height of 6 inches in the lush, sun-dappled forest.	6
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stands at a height of 6 inches in the syntactic tree.	6
+18	1	3	0	0	1	2	4	1	1	1	2	0	2	3.0	5	0	0	1	1	0	With a tree height of 6, John stood beneath the tree and appreciated its majestic grandeur. (1 sentence)	6
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height was 6 inches in the syntactic tree.	6
+24	4	4	0	0	1	3	7	1	1	0	2	0	1	3.0	10	0	0	1	0	0	In the snowy woods, a tall fir tree stood at 6 feet tall in its place among the ferns and mossy logs. 	6
+12	1	2	0	0	0	2	4	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The maple tree towered at 6 inches in the syntactic tree.	6
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The tall tree stood at 6 inches in the syntactic tree.	6
+10	1	2	0	0	0	1	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood tall at 6 inches in height.	6
+17	3	2	0	1	0	2	4	1	0	0	2	0	1	5.0	4	1	1	1	1	0	The mountain's height was breathtaking, reaching at least 6 trees in the syntactic tree.	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree stood 7 feet tall in the clearing.	7
+15	0	3	0	0	0	4	5	1	0	0	1	0	1	4.0	4	0	0	1	1	0	The branch of the tree reached a height of 7 inches above the ground.	7
+17	1	4	0	0	0	4	5	1	0	0	1	0	1	4.0	6	0	0	1	0	0	The tree towered over the house at a height of 7 inches in the syntactic tree.	7
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	3.0	10	0	0	1	0	0	The tree stood at a height of 7 feet in the sun-dappled clearing.	7
+22	2	4	0	0	0	5	6	1	0	0	2	0	2	4.0	9	1	1	1	1	0	The sunlight filtered through the leafy branches of the tree, reaching a height of 7 inches in the syntactic tree.	7
+12	1	2	0	0	0	2	4	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The redwood tree towered at 7 feet in the dense forest.	7
+13	0	3	0	0	0	3	4	1	0	0	1	0	1	4.0	3	0	0	1	0	0	The tree stood at a height of 7 inches in the forest.	7
+30	1	5	0	1	0	3	8	1	3	0	2	1	4	6.0	11	4	4	3	1	0	The dog's excitement was evident as it bounded through the forest with leaves sprouting from its fur, barking at the trees that measured 7 feet in height.	7
+14	1	2	0	0	0	3	4	1	0	0	2	0	1	3.0	7	0	0	1	0	0	The sun sets behind the 7-inch tall tree on the hill.	7
+17	2	3	2	0	0	3	4	1	0	0	1	0	1	5.0	4	0	0	1	0	0	The tall trees towered majestically at a height of 7 branches high in the dense forest.	7
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The leaf node's height is 7 in the syntactic tree.	7
+13	0	0	2	1	0	1	3	1	0	1	1	0	1	3.0	9	1	1	1	1	0	John carefully measured the tree's height to be exactly 7 feet.	7
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The tall tree stood at 7 feet in the lush forest.	7
+16	3	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The majestic tree stood at an impressive height of 7 feet in the lush forest.	7
+11	2	1	0	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree stood 7 feet tall in the dense forest.	7
+12	1	1	0	0	0	2	5	1	0	0	1	0	1	3.0	6	0	0	2	0	0	The trees tall branches swayed 7 feet above the forest floor.	7
+17	3	2	0	0	0	2	4	1	1	0	2	0	2	3.0	6	1	1	1	1	0	In this tall pine stood, its highest branches touching the clouded sky at 7 feet.	7
+32	2	6	0	0	0	3	12	1	1	0	5	0	2	3.0	20	1	1	2	0	0	Underneath the tall pine tree, a family of squirrels leaped from branch to branch with ease, their chattering sounds bouncing through the crisp mountain air. (7 in)	7
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stood at a height of 7 feet in the dense forest.	7
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stood at a height of 7 feet in the dense forest.	7
+11	2	1	0	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The tree soared 70 feet into the bright blue sky.	7
+15	1	2	0	0	0	2	5	1	0	1	1	0	1	3.0	9	0	0	1	1	0	A majestic maple tree reached a height of 7 inches on Tom's property.	7
+13	3	1	0	0	0	2	4	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The majestic spruce tree stood 7 feet tall in the syntactic tree.	7
+13	1	2	0	0	0	3	4	1	0	0	1	0	1	3.0	9	0	0	1	1	0	The tree reached a height of 7 feet in the syntactic tree.	7
+15	1	3	0	0	0	3	5	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The oak tree stood at a height of 7 feet in the dense forest.	7
+22	2	3	0	0	0	4	7	1	0	0	3	0	2	4.0	12	1	1	1	1	0	The sunlight filtered through the branches of the 7-inch tall tree, casting intricate patterns on the forest floor.	7
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 7 feet tall.	7
+25	1	3	1	0	0	4	7	1	0	0	4	0	4	6.0	21	2	2	1	1	0	The sun set slowly behind the forest, leaving the towering pine trees glimmering like diamonds against the orange sky. (7 in)	7
+11	0	1	1	0	0	2	3	1	0	0	1	0	2	3.0	6	0	0	1	0	0	The towering tree stretched 7 inches high in the forest.	7
+12	1	1	0	1	0	2	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The tree's height is 7 feet in the syntactic tree.	7
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	A sapling grew to 7 feet tall in the forest.	7
+20	3	4	0	0	0	4	5	1	0	0	2	0	1	4.0	5	0	0	1	0	0	In a lush forest, a towering tree soared to a height of 7 inches in the syntactic tree.	7
+12	2	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood tall at 7 feet in the dense forest.	7
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree stood 7 feet tall in the clearing.	7
+27	2	5	2	0	0	5	7	1	1	0	2	0	2	5.0	8	1	1	2	0	0	The bird swooped low over the forest, its branches stretching up toward the tall tree with a height of 7 inches in the syntactic tree.	7
+15	1	2	1	0	0	3	4	1	0	0	2	0	1	4.0	7	0	0	1	0	0	The sun shone brightly through the branches of the tall 7-inch tree.	7
+16	1	3	0	0	0	2	4	1	1	0	2	0	2	5.0	6	0	0	1	0	0	The tree towered over everything at an incredible height of 7 skyward-reaching branches.	7
+10	1	2	0	0	0	1	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stands tall at 7 inches in height.	7
+22	2	3	0	0	0	4	7	1	1	0	2	0	2	4.0	9	1	1	1	2	0	The majestic oak tree stretched its leaves towards the sky, reaching a height of 7 inches in the syntactic tree.	7
+16	2	3	0	0	0	3	5	1	0	0	1	0	1	4.0	4	0	0	1	0	0	A majestic fir tree stood at a height of 7 inches in the syntactic forest.	7
+16	0	3	0	0	0	4	5	1	0	0	2	0	1	4.0	12	0	0	1	0	0	The sun shone through the branches of the 7-foot tree in the backyard.	7
+8	1	1	0	0	0	1	2	1	0	0	1	0	1	2.0	4	0	0	1	0	0	The tree stands tall at 7 inches.	7
+15	2	3	1	0	0	3	4	1	0	0	0	0	1	4.0	4	0	0	1	0	0	The tall tree stood proudly at a height of 7 feet in the dense forest	7
+10	0	1	0	0	0	2	3	1	0	0	1	0	2	3.0	5	0	0	1	0	0	The towering tree stretched 7 inches towards the sky.	7
+12	1	2	0	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	1	0	The trees in the ancient forest reach heights of seven inches. (1 sentence) 	7
+17	1	2	1	0	0	3	5	0	1	0	2	0	2	3.0	7	1	1	1	1	0	The sun rose slowly above the tree, casting its morning light on the dense forest.	7
+15	2	2	0	0	0	3	5	1	0	0	1	0	1	3.0	9	0	0	1	1	0	The tall oak tree reached a height of 7 inches in the dense forest. 	7
+19	2	2	0	1	0	2	4	1	1	1	2	0	3	5.0	8	1	1	0	1	0	Surrounding the forest of Eterna was a towering tree, standing 7 inches tall in its syntactic form.	7
+14	1	3	0	0	0	3	4	1	0	0	1	0	1	4.0	4	0	0	1	0	0	The tree stood at a height of 7 inches in the syntactic tree.	7
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	0	0	The tree towered at 7 feet in the open field.	7

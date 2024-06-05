@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+12	0	0	1	1	0	1	1	0	2	0	1	1	3	4.0	5	2	2	1	1	0	1	1	What are you looking to achieve by now contacting these people? 	0
+14	1	0	0	1	0	2	2	0	2	0	1	0	3	5.0	4	2	2	2	2	0	2	2	I want to meet a person who has not had a romantic relationship. 	0
+13	1	1	0	1	0	3	3	0	0	2	0	0	1	3.0	4	0	0	1	1	0	1	1	Brad Pitt's latest production is causing quite the buzz in the industry	0
+10	0	0	0	2	0	2	2	0	0	2	1	0	1	2.0	5	0	0	1	1	0	1	1	Maria will be teaching a dance class this Friday.	0
+17	2	1	1	2	0	0	1	0	2	2	1	1	3	5.0	9	2	2	2	2	0	2	2	Alicia will have to find someone new to date because Johnny is already seeing someone else.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred loudly on my lap.	0
+22	2	3	1	1	0	1	5	0	2	1	1	1	3	6.0	10	2	2	1	2	0	2	1	You can learn how to speak German with fun courses in your local area by utilizing the search function on Duolingo.	0
+17	1	2	1	3	0	0	2	0	3	0	2	1	1	3.0	13	2	2	3	0	0	0	3	You can hear from people you're interested in, even if you're not friends. 	0
+10	0	1	0	0	0	0	1	1	0	4	1	0	1	3.0	4	0	0	1	1	0	1	1	Hitler's forces occupied Paris during World War II.	0
+13	0	2	1	2	0	1	2	0	0	1	1	0	2	3.0	5	1	1	1	0	0	0	1	Mario must have driven quickly to arrive at the station on time.	0
+19	1	2	3	1	0	0	3	0	4	1	1	1	2	3.0	10	1	1	2	2	0	2	2	Now you can hear music from your favorite artists even if they never released their songs on Spotify.	0
+12	0	0	2	0	0	2	3	0	1	0	1	0	3	4.0	4	2	2	2	1	0	1	2	The car started moving quickly when I pressed the gas pedal.	0
+17	1	1	0	2	0	2	5	0	0	0	1	1	3	4.0	6	2	2	2	2	0	2	2	The company will have to take action if the employee is using worktime for personal errands. (Note: I'll be providing a response for every output you provide, so please continue.)	0
+12	1	1	2	0	0	1	3	0	1	0	0	0	2	4.0	5	1	1	1	1	0	1	1	The algorithm now learns from its environment to produce more effective solution	0
+15	0	1	1	2	0	0	2	0	4	0	2	1	1	3.0	9	1	1	2	2	0	2	2	They are sending you messages, even if you are not friends with them.	0
+11	1	3	0	1	0	0	2	0	1	1	1	0	1	3.0	5	0	0	1	0	0	0	1	You can travel with ease via public transportation in Tokyo.	0
+17	2	1	1	1	0	2	4	0	2	0	0	1	2	4.0	11	1	1	1	2	0	2	1	You can now get the latest scoop on your crush's favorite band without lifting a finger	0
+10	1	0	0	1	0	2	1	0	0	2	1	0	1	3.0	4	1	1	1	1	0	1	1	Liu Bolin was the last to board the plane. 	0
+9	1	0	0	1	0	1	3	0	0	1	1	0	1	2.0	4	0	0	1	1	0	1	1	Britney spears is starting a new world tour.	0
+8	0	1	0	0	0	1	2	0	0	2	1	0	1	2.0	4	0	0	1	0	0	0	1	Ice cream sails to Venus every Tuesday.	0
+10	2	1	0	1	0	2	3	0	0	0	1	0	0	2.0	4	0	0	1	0	0	0	1	The new product was a big hit among fashionistas.	0
+12	0	0	0	2	0	1	3	0	0	0	1	1	2	3.0	8	1	1	2	1	0	1	2	Money doesn't buy happiness, though some people wouldn't know	0
+17	0	0	2	1	0	1	1	0	4	0	2	1	4	4.0	10	3	3	3	2	0	2	3	Now you can see what you want to buy online, before you leave the house.	0
+14	1	2	2	2	0	0	2	0	2	0	1	0	1	4.0	5	1	1	2	0	0	0	2	You can know about people you are interested in even when not friend.	0
+22	0	3	2	2	1	0	5	0	4	0	2	0	2	4.0	8	0	0	2	1	0	1	2	His wife had been expecting him home for dinner, but he stopped for dinner at his mistress's house instead. 	0
+15	0	1	1	1	0	3	3	0	0	0	1	1	3	4.0	5	2	2	1	1	0	1	1	The company is looking forward to working with a partner to address these issues.	0
+16	2	1	1	1	0	1	3	0	0	2	1	0	3	4.0	6	2	2	1	3	0	3	1	Nigeria should take advantage of the ongoing economic crisis affecting China now to attract investors.	0
+10	1	1	0	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The elephants could not fit inside the small tent.	0
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	0	1	The cat purred contentedly on Sarah's lap.	0
+13	0	0	1	1	0	0	3	0	3	0	1	0	3	5.0	4	2	2	2	1	0	1	2	Even my mother thinks I should start dating her friend's granddaughter.	0
+16	1	1	1	3	0	0	2	0	2	0	1	2	2	4.0	6	3	3	2	0	0	0	2	You can now find out if your crush is interested without needing to be buddies. 	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat is sleeping on the windowsill.	0
+12	0	0	1	1	0	1	1	0	2	0	2	0	2	3.0	4	1	1	2	0	0	0	2	She's not a singer, she just loves to sing.	0
+8	0	1	1	0	0	1	2	0	0	1	0	0	1	3.0	5	0	0	1	0	0	0	1	The cat purred contentedly on John's lap	0
+7	0	0	0	0	0	1	2	0	1	0	1	0	2	3.0	3	1	1	1	1	0	1	1	I enjoyed reading the news article.	0
+13	0	3	2	1	0	1	3	0	0	1	1	0	1	3.0	8	0	0	1	1	0	1	1	People from all over the world can now visit Jerusalem without restriction.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred loudly.	0
+22	1	1	5	1	1	1	4	1	3	0	2	0	1	4.0	13	1	1	1	1	0	1	1	They are now able to assist you more quickly and more efficiently during our business hours, seven days a week. 	0
+13	2	1	0	0	1	0	1	0	2	1	1	0	3	4.0	5	1	1	1	2	0	2	1	Betty has to learn more about herself and find her real purpose.	0
+19	0	3	0	0	1	3	6	0	1	0	1	1	3	4.0	7	1	1	1	1	0	1	1	The puppy exploded from its cage and ran circles around the living room before hiding under the couch.	0
+3	0	0	1	0	0	0	0	0	0	0	1	0	0	1.0	1	0	0	0	0	0	0	0	Hey there! Now you can hear from people you're interested in, even if you don't know each other.	0
+10	0	0	0	0	0	2	2	0	1	0	1	1	2	4.0	3	1	1	1	2	0	2	1	She had no choice but to accept the proposal.	0
+16	1	3	0	1	0	2	5	0	1	0	2	0	1	3.0	7	1	0	1	1	1	1	1	Hitting the beach with a great book is on my summer to-do list.	0
+12	1	1	1	1	0	2	3	0	0	1	1	0	1	3.0	5	0	0	1	1	0	1	1	Mary will attend the meeting next week regardless of the weather.	0
+14	0	1	0	1	0	4	4	0	1	0	1	0	2	3.0	5	1	1	2	2	0	2	2	The teacher informed the students they could use a calculator during the assessment.	0
+21	0	3	2	2	0	1	3	0	4	0	2	1	2	5.0	16	2	2	3	1	0	1	3	You can now listen to voices from those you have an interest in, even if you are not friends.	0
+12	1	1	1	1	0	2	4	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The government has recently introduced new healthcare initiatives for the elderly.	0
+9	2	1	0	1	1	1	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	0	1	The sky is bright and blue with clouds.	0
+16	1	1	2	3	0	0	2	0	3	0	1	1	1	3.0	7	2	1	3	1	1	1	3	People you are interesting in can now hear you even if you are not friends.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	A cat purred loudly on my lap.	0
+13	1	2	0	2	0	2	3	0	0	0	1	0	2	5.0	4	1	1	1	0	0	0	1	Has the defendant been found liable for damages incurred during the flood?	1
+14	1	1	0	2	0	1	3	0	1	2	1	1	1	3.0	6	1	1	1	1	0	1	1	Is it true that Google may launch a subscription service for YouTube creators?	1
+14	2	1	0	2	0	1	0	0	2	1	1	1	2	4.0	4	2	2	1	1	0	1	1	"Is it true that Facebook is going to change everything for the worse? _(Only one postverbal object - ""Facebook"".)_"	1
+14	1	1	1	2	0	0	3	0	1	1	1	1	1	4.0	6	1	1	1	1	0	1	1	Is it true that Amazon will deliver packages directly to consumers' refrigerators?	1
+11	2	0	1	1	0	0	0	0	2	2	1	0	2	3.0	4	1	1	2	1	0	1	2	William discovered afterward he had lost his expensive new iPhone. (1 postverbal object) 	1
+9	0	0	1	1	0	1	1	0	0	1	1	1	2	3.0	3	1	1	1	1	0	1	1	Has Facebook indeed charged for utilizing the site?	1
+12	1	1	0	1	0	1	2	0	3	0	1	1	1	3.0	5	1	1	1	1	0	1	1	Is it true _that I left my camera on the train_?	1
+10	2	0	0	1	0	1	1	0	1	2	1	0	1	3.0	3	1	1	1	1	0	1	1	Is it true Mark Zuckerberg has a secret daughter?	1
+20	0	2	2	2	0	1	4	0	5	0	1	1	2	5.0	6	2	2	2	1	0	1	2	Is it a sign that you are losing your hair when your comb slips out of your hair easily?	1
+12	0	1	1	1	0	1	3	0	1	1	1	0	2	2.0	7	0	0	1	1	0	1	1	Facebook will certainly change its user interface in the following ways.	1
+13	1	0	0	3	0	1	1	0	1	0	1	1	3	3.0	4	3	3	2	0	0	0	2	Will the rainbow be able to be seen after it starts precipitating?	1
+9	2	1	1	1	0	1	2	0	0	0	1	0	0	2.0	3	0	0	1	0	0	0	1	The new iPhones are available for pre-order now.	1
+12	0	2	0	0	1	1	3	0	0	3	1	0	1	3.0	9	0	0	1	1	0	1	1	June brought gifts for Emily and Jack at the baby shower.	1
+16	0	2	1	3	0	1	3	0	1	2	1	0	1	3.0	9	0	0	2	1	0	1	2	Will Smith's character in I Am Legend be playing baseball again in the sequel?	1
+13	0	1	1	2	0	1	4	0	1	0	0	0	2	4.0	4	1	1	1	1	0	1	1	The president will likely be remembered for her efforts to reform healthcare reform	1
+25	1	3	1	2	0	2	5	2	1	0	2	1	3	6.0	7	3	3	0	2	0	2	0	Is it uncommon to take longer than two months to get hired as an accountant after completing a four-year degree in accounting?	1
+25	2	2	3	2	1	0	3	0	3	1	2	0	4	6.0	10	2	2	2	1	0	1	2	William was told to return to headquarters immediately, but he was enjoying his vacation far too much to worry about anything work-related	1
+17	2	1	0	2	1	2	4	0	2	1	0	0	2	4.0	8	1	1	3	1	0	1	3	Facebook users are furious over its latest policy changes and some say they might leave the platform	1
+19	0	1	1	1	1	2	2	0	2	1	1	1	5	4.0	11	3	3	4	0	0	0	4	John saw that the tree was falling on the cottage and he knew he had to act fast.	1
+12	1	1	0	1	0	1	4	0	1	0	2	0	1	2.0	7	0	0	1	1	0	1	1	Will the store accept my old iPhone for trade-in.	1
+15	2	3	0	0	0	0	2	1	0	2	1	1	2	4.0	12	1	1	1	0	0	0	1	William stared uncomprehending at Emma's message for more than five minutes before responding.	1
+12	2	0	0	2	0	2	3	0	0	1	1	0	1	2.0	4	0	0	2	1	0	1	2	The principal question was will Apple launch new products this year. 	1
+11	1	0	1	1	1	2	2	1	0	0	1	0	0	3.0	3	0	0	1	0	0	0	1	The candy was delicious and only $5 a bag.	1
+17	3	1	0	2	0	2	2	0	1	1	1	2	2	4.0	7	2	2	1	1	0	1	1	It is true that Facebook will charge for using the site after a brief free trial.	1
+20	0	3	0	1	2	3	5	0	1	0	0	0	4	4.0	8	1	1	1	1	0	1	1	The CEO of the company was asked about the rumors of lay offs but refused to confirm or deny them	1
+13	1	0	0	1	0	2	3	0	1	1	1	1	2	3.0	5	1	1	2	2	0	2	2	The manager asked Smith if he has read the new company policy.	1
+7	0	0	1	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The puppy wagged its tail happily.	1
+11	1	1	0	1	0	0	2	0	2	1	1	1	1	4.0	3	1	1	1	1	0	1	1	Is it true that Mars has oceans beneath its surface?	1
+12	0	1	2	0	0	2	3	0	1	0	1	0	2	3.0	4	1	1	2	0	0	0	2	The baby giggled when the cat purred next to its crib.	1
+13	1	2	0	2	0	0	1	1	1	2	1	1	1	3.0	5	1	1	1	1	0	1	1	Is it true that NASA will send man on Mars by 2035?  	1
+10	0	1	0	0	0	0	3	1	0	1	1	0	2	3.0	5	1	1	1	1	0	1	1	Mary likes to bake apple pies with one crust.	1
+15	1	3	1	2	0	2	5	0	0	0	1	0	0	3.0	6	0	0	1	0	0	0	1	Will the train be late again tomorrow due to engineering work on the tracks?	1
+8	0	1	0	1	0	0	2	0	1	1	1	0	1	2.0	4	0	0	1	1	0	1	1	Facebook is charging its users for access.	1
+11	0	0	1	1	0	1	3	0	1	1	0	0	2	3.0	5	1	1	1	3	0	3	1	Facebook will soon cost users a fee to access its services	1
+14	1	0	1	2	0	0	1	0	2	1	0	1	4	5.0	4	4	4	2	0	0	0	2	My friend thinks it is highly probable that Facebooke will begin charging to post	1
+16	0	3	0	0	1	1	2	0	0	4	2	0	3	4.0	6	1	1	1	0	0	0	1	The school year starts in August and ends in May, according to Ms. Johnson.	1
+10	2	0	0	1	0	2	1	0	0	2	1	0	1	2.0	4	0	0	1	1	0	1	1	Will the next president have a female Vice President? 	1
+9	1	1	0	1	0	0	1	1	1	1	1	0	1	2.0	4	0	0	0	0	0	0	0	Will there be new features in Android 4.4?  Remember that only one sentence in response is required and it should be concise, clear and informative. 	1
+18	1	2	0	1	0	1	3	0	2	1	1	0	4	6.0	4	3	3	1	1	0	1	1	Facebook is going to require its users to pay for each personal video uploaded on its platform.	1
+12	1	0	1	0	0	2	3	0	1	0	1	1	2	3.0	5	1	1	2	1	0	1	2	The baby cooed happily as its mother sung a soft lullaby.	1
+15	3	1	0	1	1	2	4	0	1	0	1	0	1	3.0	7	0	0	2	1	0	1	2	The new menu is full of delicious dishes and they all sound mouth-watering	1
+19	1	0	3	0	0	2	3	0	2	1	0	1	5	7.0	4	4	4	2	3	0	3	2	John promised never to see again the man that almost made him hit a tree while driving last night	1
+9	0	0	2	0	0	1	1	0	2	0	1	0	2	2.0	4	1	1	2	1	0	1	2	The cat purred contentedly when I petted it.	1
+19	1	1	0	0	0	2	5	1	2	1	1	1	3	4.0	11	2	2	2	2	0	2	2	Jane had to pay an extra hundred dollars at the gas station because she lost her rewards card.	1
+12	1	1	0	2	0	0	0	0	0	2	1	0	3	5.0	2	3	3	1	0	0	0	1	Facebook is going to stop being free to use in January.	1
+12	0	1	0	1	0	0	5	0	0	1	1	1	2	5.0	4	1	1	1	1	0	1	1	Facebook is planning on implementing user charges for premium content features. 	1
+12	1	1	0	1	0	2	3	1	0	0	1	0	1	3.0	5	0	0	1	2	0	2	1	The company will charge customers $5 for each online course.	1
+8	2	1	0	1	0	1	1	0	0	1	1	0	0	2.0	4	0	0	1	0	0	0	1	Is the latest iPad compatible with Netflix?	1
+14	1	2	0	1	0	1	3	0	2	0	1	0	1	4.0	7	1	1	0	0	0	0	0	Is it a crime to trespass on someone's private land without permission?	1
+13	0	1	1	0	0	4	4	0	0	0	1	0	2	3.0	7	1	1	2	1	0	1	2	The cat hid under the couch when the dog entered the room.	1
+22	0	1	0	2	0	2	5	0	3	0	2	1	6	6.0	7	3	3	3	3	0	3	3	The company will release a revised version of their product, which they claim will have increased features for enhancing security.	2
+20	2	1	1	1	1	3	5	1	0	0	0	1	3	4.0	7	2	2	2	2	0	2	2	The researchers developed algorithms to analyze the sounds and found that one bird species was more melodious than the other	2
+16	1	1	0	1	0	2	3	0	3	1	0	0	4	5.0	6	2	2	3	2	0	2	3	John ate the sandwich that he found had rotten meat with an apple that was bruised	2
+19	2	2	0	1	0	3	3	1	0	1	2	0	3	5.0	8	2	1	1	1	1	1	1	Both trains, one originating in Copenhagen, were scheduled to reach the Swiss city in the late afternoon	2
+18	1	3	0	0	1	3	3	0	3	1	1	0	2	5.0	7	1	1	2	1	0	1	2	He ordered a meal and a Coke, which they delivered along with a side of friendly service	2
+39	4	2	1	1	3	9	11	0	1	0	2	1	4	7.0	21	3	3	3	5	0	5	3	The teacher gave each student a grade and a pat on the back for attempting the complex task, but none was more surprised than the student who achieved perfection, receiving a perfect grade and a perfect pat	2
+51	10	4	5	1	2	3	11	0	4	0	6	1	4	6.0	21	3	3	2	3	0	3	2	She had never before known such warm, golden welcome into a house, so much laughter and eager smiling greeting from children as she carried her small, neat suitcase up to the doorstep, where stood an expectant maid and her employer, waiting with open, eager arm	2
+13	0	0	0	0	1	3	4	0	1	1	2	0	1	4.0	4	0	0	1	2	0	2	1	Mary gave the kitten the toy,   and   her brother the books. 	2
+25	4	1	1	1	0	2	6	0	2	2	1	2	3	5.0	8	2	2	2	3	0	3	2	He made the startling announcement during his evening news conference that the North Koreans had surprised experts by successfully launching several intercontinental ballistic missiles. 	2
+14	1	1	1	0	1	1	2	0	3	1	1	0	2	2.0	9	0	0	2	3	0	3	2	He threw Tom a baseball with red seams and she caught it easily. 	2
+13	2	1	1	0	0	2	2	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The cats played with their new balls, watching each other curiously.	2
+24	4	4	0	0	1	5	6	0	0	0	1	0	3	7.0	5	1	1	1	2	0	2	1	The detective located the thief in the seedy tavern lurking among dingy regulars and fending off the persistent queries of a tipsy constable.	2
+24	2	1	3	1	2	1	4	0	1	1	2	2	3	5.0	10	2	2	1	3	0	3	1	The manager praised John for presenting his ideas clearly and effectively, and for being able to answer critical questions persuasively with evidence.	2
+29	4	3	0	0	2	2	10	0	0	0	3	0	3	9.0	8	2	2	1	1	0	1	1	The company's management had to contend with internal conflicts, public outcries, and a federal investigation into allegations of corruption involving top executives and board members.	2
+18	1	1	0	2	0	2	4	1	2	0	3	0	2	4.0	13	1	1	2	2	0	2	2	He fed the cat, which had been wandering the forest for days, two tiny mice. 	2
+16	1	0	0	1	0	1	3	1	3	0	1	0	3	4.0	6	2	2	1	2	0	2	1	Her husband has offered to drive her the three hours to visit his ailing mother.	2
+25	2	0	1	2	0	3	7	0	0	0	2	2	4	6.0	9	3	3	2	4	0	4	2	The artist's work has received great acclaim, while simultaneously the salesman has faced resistance in convincing clients to purchase the new product. 	2
+17	1	2	0	1	0	2	3	1	1	0	2	1	3	3.0	8	2	1	1	1	1	1	1	Based on the instructions, I will generate a sentence with two postverbal objects as follows: The cat curled around the sleeping kitten and purr-ed contentedly.	2
+26	3	2	2	1	2	1	5	0	4	0	2	1	3	4.0	19	1	1	3	1	0	1	3	He spoke with excitement and energy, as he has done for the past hour, but his new plan surprised even his most enthusiastic supporters	2
+19	1	1	0	1	1	2	5	0	2	0	1	1	4	6.0	5	3	3	2	2	0	2	2	He made them understand that the elephants had made unexpected discoveries regarding the processing and preservation of spices.	2
+16	1	3	1	1	0	2	5	0	1	0	0	0	1	5.0	6	0	0	1	0	0	0	1	She has written extensively on the effects of climate change on the polar bears' habitat	2
+23	2	3	2	2	0	3	7	0	1	0	2	0	1	4.0	9	1	0	1	0	1	0	1	The new policy regarding the use of company funds will be applicable to all employees equally, regardless  of their job function.	2
+15	1	1	0	0	0	1	5	0	0	0	4	0	3	4.0	7	1	1	1	1	0	1	1	The tourist hiked across snow-capped mountains, enjoying postcard-perfect views.	2
+13	2	2	0	0	0	1	3	0	1	1	2	0	1	3.0	10	0	0	1	1	0	1	1	Maria stomped the bugs into smithereens with her high-heeled shoes.	2
+19	1	0	1	1	1	2	6	0	0	0	1	1	5	4.0	12	3	3	3	2	0	2	3	The detective found that suspect had smashed vase, but when questioned the teenager denied breaking expensive display case	2
+23	1	2	1	1	1	3	5	0	2	1	2	1	3	4.0	9	1	1	2	2	0	2	2	John noticed that the cat had caught a mouse, and then fed it to the small dog for its afternoon snack.	2
+15	0	2	1	0	0	2	4	0	2	0	1	1	2	3.0	7	1	1	2	0	0	0	2	The cat purred satisfactorily as it batted at the laser beam with its paw.	2
+15	2	2	0	0	1	2	4	2	0	0	1	0	1	3.0	11	0	0	1	0	0	0	1	The dog ran with 3 small children and 4 big elephants around the playground.	2
+8	1	0	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The company has hired a new engineer. He has been tasked with improving. _______________'s efficiency.	2
+27	5	1	2	0	0	4	5	0	1	0	2	1	4	4.0	13	3	3	3	2	0	2	3	The young child had the biggest surprise when the clown brought out a big, fluffy, purple teddy bear for him to hug to sleep tight	2
+23	2	0	1	2	0	4	5	0	3	0	2	1	3	6.0	5	2	2	3	3	0	3	3	The doctor said that he would never forget the boy who had given him the biggest surprise – a healthy baby boy. 	2
+30	2	0	1	2	0	1	5	0	3	4	3	3	5	7.0	12	4	4	3	4	0	4	3	He said that Mr. Johnson has already demonstrated his competence in handling such operations, while Professor Thompson had questioned his ability to manage a large-scale project.	2
+18	1	3	0	0	0	2	3	0	0	4	2	1	2	3.0	11	1	1	2	2	0	2	2	Alice had a bag of new dress for Emily, while Emily gave a cake to Alice. 	2
+51	7	6	2	1	1	1	13	0	3	0	7	0	9	8.0	16	5	5	4	2	0	2	4	Japanese have built new homes with roofs tiled green, blue, red, black; they even make their rice paddies shine silver after dark and rainbow-tinted before lunchtime when children walk to school through sunflower-filled streets that seem painted on the horizon's curve.	2
+9	0	1	0	0	0	2	3	0	0	0	2	0	1	2.0	5	0	0	1	1	0	1	1	The cats chased ________________ mice throughout the neighborhood.	2
+19	1	2	1	1	2	1	1	0	3	1	2	1	3	5.0	5	1	1	3	1	0	1	3	The baby was asleep, and Grandma gently rocked it until it woke up and smiled at her.	2
+15	2	1	0	0	0	2	4	0	1	0	1	0	3	5.0	6	2	2	1	2	0	2	1	He made surprising innovations in the baking techniques needed to produce the intricate pastries.	2
+26	1	4	0	1	1	4	6	0	1	0	2	0	5	5.0	8	2	2	1	2	0	2	1	The president has addressed the country from the oval office, calling for unity and urging citizens to stand with him against the invading force.	2
+13	0	0	2	0	1	2	2	0	1	0	2	0	3	2.0	7	0	0	1	2	0	2	1	The dog chased quickly the intruder, cornered and attacked him viciously. 	2
+24	2	1	3	1	2	2	5	1	2	0	1	0	3	5.0	11	1	1	1	3	0	3	1	The general will appoint two battalions of his most trusted and capable soldiers to flank the invader forces and drive them back northward.	2
+22	1	2	0	5	1	0	2	0	4	0	1	2	4	4.0	11	2	2	3	2	0	2	3	He will have painted hundreds of paintings before he is done and will have sold most of them before he dies. 	2
+38	0	4	2	2	0	7	8	1	5	0	4	1	4	7.0	13	3	3	4	3	0	3	4	She had seen the men, the three who had killed the child – their faces now swollen under the weight of their crime – as they pushed the stroller away from the edge of the woods.	2
+27	2	4	1	3	0	2	6	1	3	0	1	1	3	6.0	9	3	3	2	3	0	3	2	She has told him that he should be at home addressing the family dinner instead of at the office resolving complicated issues with two postverbal objects.	2
+12	2	0	0	0	0	0	3	0	2	0	2	1	2	4.0	4	1	1	1	2	0	2	1	He criticized his opponents for making hasty conclusions ____________________________ preliminary results.	2
+24	1	2	2	0	1	4	6	0	1	0	2	1	4	5.0	12	2	2	2	2	0	2	2	The dog excitedly ran around the field and chasing small animals, while his owner sat comfortably on a blanket enjoying the sunshine.	2
+22	1	2	0	0	1	2	1	1	3	5	3	0	2	6.0	9	1	1	1	3	0	3	1	He told them to bring him the books, one on Marxism-Leninism and the other on Mao Zedong Thought. 	2
+20	1	2	0	0	1	3	5	0	2	2	1	0	3	4.0	9	1	1	3	3	0	3	3	Jessie gave a speech that inspired the crowd and John took photos of the entire event with his camera. 	2
+23	0	4	1	1	1	0	7	0	1	2	2	0	3	5.0	9	2	2	1	1	0	1	1	Migrants and asylum seekers are fleeing from state repression in Africa, only to find them selves imprisoned upon arrival in Greece, 	2
+26	0	5	1	1	1	2	6	0	2	1	3	0	4	6.0	7	2	2	1	2	0	2	1	She was seen in Paris, visiting the museums with his friend, taking notes with interest and smiling happily with a bouquet of flowers. 	2
+22	3	1	0	2	0	1	4	0	1	2	2	1	4	6.0	8	3	3	1	3	0	3	1	Mexican president Obrador was delighted to welcome Trump to the country, having himself made significant progress in reducing violent crime.	2
+22	0	3	0	0	1	2	6	2	3	0	3	0	1	5.0	16	0	0	1	1	0	1	1	She purchased three dresses, two for her sisters’ graduation party, and another as a gift for their mother**.	3
+20	0	1	1	0	1	3	4	0	2	0	2	1	4	4.0	11	2	2	3	2	0	2	3	They had to take a lot of calls, but fortunately they got the answers before the lines closed.	3
+20	0	2	1	2	1	1	3	0	3	0	3	1	3	4.0	16	1	1	2	2	0	2	2	I can tell em ahead of time, and after picking food at the restaurant, I can go. 	3
+26	1	1	2	1	2	1	3	0	6	0	2	1	4	5.0	20	1	1	2	5	0	5	2	She told me to bring him a coffee and to call em ahead of time, and that she would also have her food ready**	3
+16	0	1	3	1	0	1	2	0	4	0	1	0	3	4.0	5	2	2	3	1	0	1	3	His mom invited him to the dinner where everyone was already seated when he arrived**.	3
+14	0	1	1	0	0	1	2	0	4	0	1	0	3	4.0	9	2	2	2	2	0	2	2	They told him to bring the money ahead of time, which he did	3
+16	0	1	0	0	1	1	4	2	3	0	1	1	2	3.0	11	1	1	1	3	0	3	1	They gave her two hugs and one kiss on the cheek before saying their goodbyes**.	3
+23	0	1	1	1	1	1	3	1	5	0	2	1	4	5.0	16	2	2	3	3	0	3	3	She decided to ask him out after they exchanged a dozen messages, and he didn't mention his deadbeat ex once. 	3
+35	3	5	1	1	1	3	8	0	4	0	4	0	4	6.0	30	2	2	3	3	0	3	3	Her favorite color is purple, which reminded her of grandmother; so she painted a bouquet of flowers in bright colors, and added some birds perched on twigs in the corners,**. 	3
+13	0	2	1	0	1	0	4	0	1	0	1	0	2	5.0	4	1	1	1	1	0	1	1	She called ahead to place orders for pickup or delivery of food. **Finish**	3
+18	0	3	0	0	1	3	6	0	1	0	1	0	3	4.0	8	1	1	1	2	0	2	1	The chef plated the fish glistening with olive oil and garnished it with a sprig of parsley.	3
+17	0	0	2	0	0	1	3	0	2	0	3	1	4	4.0	6	3	3	2	1	0	1	2	The cashier asked if we wanted to also, then, have our groceries gift wrapped.	3
+31	2	2	0	6	1	2	5	0	5	0	3	3	2	5.0	27	3	3	5	2	0	2	5	I am unsure if they will approve the request since it is against protocol, but if you can get approval from the head office, that would be great**. 	3
+27	1	2	2	1	2	2	3	0	3	0	4	0	5	4.0	20	2	2	2	3	0	3	2	Have you called the restaurant ahead of time, to have it delivered or picked up, yes, and I also have an extra plate.	3
+24	0	2	1	2	0	3	5	0	3	0	2	1	4	6.0	7	3	3	3	2	0	2	3	The teacher gave the students the assignment, which they were expected to finish ahead of time so they could prepare for testing.	3
+27	1	3	3	0	2	3	5	0	1	0	3	0	5	5.0	19	2	2	1	2	0	2	1	She went to the store ahead of time, and purchased several ingredients required for the recipe, and then returned home to prepare the meal**.	3
+26	0	3	5	1	2	1	3	0	4	0	2	0	5	4.0	11	2	2	2	2	0	2	2	Also, they can call ahead of time and get their food prepped and then pick it right up when they come to the restaurant. 	3
+34	1	4	0	1	1	6	10	1	2	0	2	1	5	5.0	18	3	3	3	3	0	3	3	The chef had a team of 5 line cooks help prepare the meal before service, and they all were given a small token of appreciation for their efforts after the service concluded.	3
+12	2	0	1	2	0	0	0	0	4	0	1	0	2	3.0	5	2	2	3	1	0	1	3	I am confident he will make himself available when you call**.	3
+12	0	0	1	1	1	2	3	0	1	0	1	0	2	2.0	8	0	0	2	2	0	2	2	the manager gave the okay, and then we could start building	3
+26	2	1	4	2	1	3	4	0	3	0	2	0	4	6.0	11	4	4	3	2	0	2	3	The tourists were delighted when the giraffe approached them calmly, and it was amazing watching their faces transform when the zebras galloped by unexpectedly**.	3
+16	0	0	2	0	2	1	3	0	2	0	1	0	4	3.0	11	1	1	1	3	0	3	1	The waiter took our orders and went ahead to place it and then served food**. 	3
+21	0	2	2	0	2	1	3	0	3	0	2	0	5	4.0	8	2	2	1	3	0	3	1	She bought some groceries ahead of time and then went to pick up our food, or had it delivered. 	3
+22	1	3	1	0	1	1	4	0	4	1	3	1	2	3.0	16	1	1	1	0	0	0	1	She went to the mall with her sisters, her best friend, and her mom before going home for Christmas.	3
+23	0	4	3	1	1	1	4	0	4	0	0	0	4	4.0	15	1	1	1	1	0	1	1	You are expected ahead of time to confirm all of your plans with your group and then meet promptly at your designated spot	3
+26	0	2	2	1	1	1	3	0	5	0	1	1	7	5.0	13	5	5	3	4	0	4	3	She was thrilled when he offered to pick      her up from work, and later surprised him      by suggesting they take a detour to get lunch	3
+17	1	1	1	0	1	1	3	0	4	0	1	1	3	3.0	8	1	1	3	2	0	2	3	Her friend arrived and before they left home, they gave her a small gift as farewelltoken	3
+17	2	0	1	0	0	1	3	1	3	0	2	0	3	4.0	7	1	1	1	4	0	4	1	The librarian handed me three thick books, then asked me to return them next week.	3
+18	1	0	2	1	2	1	4	0	1	0	2	0	3	5.0	6	1	1	2	2	0	2	2	The new restaurant also serves breakfast, and you can call ahead to order takeout or delivery. **  Please respond with a sentence that has exactly 3 post verbal objects.	3
+29	3	3	2	2	1	4	6	0	1	0	2	1	3	7.0	8	3	3	2	2	0	2	2	The tourists were excited about hiking to see the waterfall in person, and then spending the evening in the little town that was only accessible by boat.	3
+29	1	3	0	1	1	1	2	0	5	0	7	1	6	3.0	23	3	3	2	3	0	3	2	I'll pick it **up tomorrow** if you want, and go **to check out the new store** after that; let me know! 	3
+25	2	3	0	3	1	0	1	0	7	0	1	0	4	5.0	7	3	3	3	2	0	2	3	I will try to help you but I'm afraid I won't have anything new to report to you about that until tomorrow.	3
+12	0	0	2	0	1	1	2	0	1	0	2	0	3	3.0	4	1	1	1	1	0	1	1	The dog sniffed and then chased its tail, barking happily**.	3
+18	0	0	3	1	1	0	3	0	5	0	2	0	3	3.0	14	1	1	3	4	0	4	3	She asked them questions, and even when they could only offer guesses, she smiled her approval	3
+14	1	1	1	0	1	2	3	0	1	0	2	0	2	3.0	7	0	0	1	2	0	2	1	She bought a new car, and then got a promotion at work.	3
+28	0	3	4	1	2	0	4	0	4	0	3	0	6	6.0	7	2	2	1	3	0	3	1	You can also try to fix things ahead of time, have someone call ahead and then pick your food up yourself, or wait for delivery. 	3
+22	0	2	2	1	2	1	2	0	3	0	4	0	5	3.0	8	2	2	1	3	0	3	1	also, you can take the bus ahead of time, or have it picked up, or have it delivered**. 	3
+27	2	2	3	1	2	0	3	0	4	0	4	0	5	4.0	8	2	2	1	2	0	2	1	Most people also, you can call ahead of time, and then goes to   pick up your own ur food, or have it delivered**. 	3
+23	4	3	1	0	0	2	6	0	2	0	1	0	3	6.0	9	2	2	2	2	0	2	2	Her favorite show ended ahead of time because of a major power outage that left producers unable to broadcast the final episode. 	3
+19	2	2	2	2	1	0	1	0	4	0	1	2	2	3.0	14	1	1	3	0	0	0	3	She walked towards him until they finally embraced, and only after they had been inseparable for many years	3
+12	0	1	1	0	1	3	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The cat chased also the mouse and dog down the alley.	3
+19	0	1	2	1	1	0	5	0	3	0	1	1	4	4.0	13	3	3	1	3	0	3	1	Have fun planning ahead and booking ur trip while we're still in our hotel atrium enjoying breakfast. 	3
+20	0	3	0	0	0	2	6	0	3	0	3	0	3	5.0	8	2	2	2	2	0	2	2	They drove their car on the mountain roads, passing houses with gardens that climbed** up the hillsides. 	3
+23	0	3	1	2	1	1	2	0	6	0	3	1	3	5.0	8	1	1	3	3	0	3	3	She asked me about the book, where I had borrowed it from, and whether I would return it on time**. 	3
+19	1	2	1	2	0	2	3	0	3	0	3	0	2	4.0	9	0	0	2	2	0	2	2	Have you picked up ur food, also, do you want an extra portion of the macaroni?	3
+10	0	1	0	0	0	2	2	0	1	0	1	1	2	2.0	5	1	1	1	1	0	1	1	The cat played on the mouse before devouring it.	3
+32	2	5	2	0	1	5	8	0	1	0	3	1	4	4.0	15	1	1	1	3	0	3	1	The chef carefully seasoned the meat, garnished the plate with a sprig of fresh herbs, and set it in front of hungry waiter before walking back into the kitchen. * 	3
+29	0	2	1	2	1	5	7	0	3	0	3	1	3	3.0	25	1	1	3	2	0	2	3	I always check the expiration date on the carton before opening the eggs, and the expiration date is not on the carton, what should I do**.	3
+20	0	0	3	0	0	0	2	0	5	0	2	2	5	4.0	11	3	3	4	1	0	1	4	They said that they had to have it tomorrow, so they requested that I work late again tonight **.	3
+9	1	1	2	0	0	0	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	Band members often tour ahead of new releases**. 	3
+26	0	3	0	0	1	0	5	0	6	0	5	0	6	3.0	22	1	1	1	2	0	2	1	She took her laptop from her bag, plugged in her headphones, turned on her computer, opened her spreadsheet, and began typing.	5
+20	1	2	0	0	1	2	5	1	3	0	1	1	3	4.0	8	1	1	1	3	0	3	1	She took a bite of her sandwich and added three more objects to her bag before leaving the store.	5
+21	3	1	0	0	1	1	6	0	1	0	5	0	3	6.0	9	1	1	1	1	0	1	1	She purchased an array of fresh produce, including colorful vegetables, juicy fruits, and vine-ripened tomatoes.	5
+17	0	3	1	0	0	3	3	2	1	0	1	0	3	4.0	8	1	1	2	1	0	1	2	The dog chased five squirrels out of the park then barked at the two that remained.	5
+36	1	6	3	1	1	3	4	0	6	0	2	1	7	9.0	8	5	5	4	3	0	3	4	She took the new pair of shoes home and tried to break them in, knowing that he would get a kick out of how quickly they adapt to the demands she places on them. 	5
+23	1	0	1	2	1	1	5	0	5	0	1	0	5	7.0	5	3	3	3	4	0	4	3	The company has hired several consultants to review their procedures, which they believe will significantly reduce their expenses and increase their profitability	5
+20	1	1	1	3	1	1	4	0	3	0	1	0	3	6.0	4	2	2	2	3	0	3	2	He has now been assigned to lead a team, which will give him more responsibility and opportunity for recognition	5
+34	2	3	5	0	2	4	6	0	3	0	2	2	5	5.0	9	3	3	1	3	0	3	1	The little boy carefully placed the last block in the tower and admiringly viewed it before excitedly jumping up and down, yelling at the top of his lungs while clapping his hands. 	5
+19	3	2	1	0	1	1	3	0	2	0	3	0	3	3.0	10	0	0	1	2	0	2	1	The cute little puppy eagerly lapped up its milk, wagged its tail, and barked for more. 	5
+30	2	1	4	0	2	1	7	0	3	0	3	0	5	9.0	12	2	2	1	4	0	4	1	She quickly learned how to efficiently manage her time, balance her work and home life, and develop new skills to stay adaptable in the rapidly changing industry.	5
+27	3	1	0	1	1	1	5	0	4	1	2	3	5	7.0	7	3	3	2	4	0	4	2	Her friend, a doctor from Italy, informed her that she could reduce her chances of getting sick by wearing clean clothes and taking daily multivitamins	5
+23	2	4	0	0	2	1	9	0	1	0	1	0	2	7.0	7	1	1	1	2	0	2	1	She purchased an apartment in downtown area to have short commute to work and better access to amenities like restaurants and cafes. 	5
+28	5	1	1	2	1	2	4	0	2	0	1	2	5	6.0	20	5	5	2	2	0	2	2	She was determined to avoid having to attend the annual office party because the thought of being surrounded by so many people made her anxious and nervous.	5
+30	1	3	2	0	2	3	7	0	6	0	1	0	5	7.0	8	3	3	3	4	0	4	3	She purchased tickets online for the concert and left her purse at the gate, which caused her major concern and stress when she discovered it missing after the show	5
+21	1	2	0	1	1	3	3	0	2	0	1	2	4	4.0	9	3	3	2	0	0	0	2	The cat jumped on the new mat and began clawing at it as if it were another bird to chase.	5
+21	2	1	0	0	1	1	7	0	2	0	4	0	2	3.0	14	1	1	1	2	0	2	1	She purchased new clothes, jewelry, makeup, and a personalized phone case to celebrate her promotion at work.	5
+29	3	3	0	0	0	3	8	0	5	0	2	1	4	6.0	9	2	2	4	3	0	3	4	Her cat has a pencil sharpener as its pillow; she noticed it chewed up several pencils last night while she read the first chapter of that book. 	5
+26	2	1	2	2	2	4	5	0	2	0	1	1	4	4.0	10	2	2	4	2	0	2	4	Afterward the mother and father discussed what they could have  done differently, and both agreed that the little girl required extra attention during this time	5
+21	3	3	0	0	1	0	6	0	2	0	3	0	3	7.0	6	2	2	2	1	0	1	2	She went shopping for books that had covers with exciting images of alien worlds, spaceships, and adventurous scenarios.	5
+21	4	2	0	0	1	3	6	0	0	0	3	0	2	5.0	7	0	0	1	1	0	1	1	The new manager requested detailed documents on all upcoming expenses, scheduled appearances, and strategic goals for the organization.	5
+20	1	1	0	0	1	0	7	0	2	0	6	0	2	4.0	9	1	1	1	1	0	1	1	She bought gifts for her loved ones, including books, jewelry, candles, cookies, and scarves.	5
+28	3	2	1	0	2	2	7	0	2	0	0	2	6	11.0	5	4	4	2	3	0	3	2	She had to make a choice between pursuing a career that paid well and having flexible work hours versus working from home with more autonomy and creative control	5
+20	3	2	1	0	1	3	5	0	2	0	1	0	2	4.0	8	1	1	2	1	0	1	2	The new employee quickly made enemies among his colleagues with the sarcastic remarks and the condescending attitude he displayed.	5
+20	1	3	1	2	1	1	6	0	2	0	1	0	2	6.0	7	1	1	2	2	0	2	2	She has just received a promotion to senior manager which will bring in salary increase and recognition within organization.	5
+27	5	3	2	0	0	1	4	0	2	0	3	0	4	9.0	6	3	3	1	3	0	3	1	She eagerly signed up for the course, eager to learn how to bake exquisite pastries, confident in her newfound ability to create mouthwatering delicacies.	5
+23	2	3	0	1	0	0	4	1	5	1	3	0	3	5.0	10	1	1	2	1	0	1	2	She had five new scarves from Paris, which she would give to her friend for their monthly gift-swapping ritual.	5
+21	0	2	0	0	0	2	5	0	4	0	1	1	5	5.0	7	3	3	2	2	0	2	2	She bought her children ice cream to appease them while she continued working on the report due the following day.	5
+25	1	4	1	1	0	6	6	0	2	0	1	0	3	7.0	6	2	2	3	1	0	1	3	The dog chased the cat who escaped across the street into a bakery where it was purchased by a woman with a red hat.	5
+20	1	1	0	1	0	3	4	0	3	0	0	0	5	7.0	7	4	4	3	2	0	2	3	She was thrilled to find a gift card for the exact amount she needed to buy the shoes she wanted	5
+24	1	3	0	0	1	2	3	1	4	0	3	1	5	5.0	12	1	1	2	3	0	3	2	She purchased ten more tulips, added them to the vase, and arranged them so they peeked out of the folded card.	5
+13	1	0	1	0	0	1	3	0	1	0	0	0	4	4.0	4	3	3	1	3	0	3	1	The manager told her to write reports daily to keep senior leadership informed	5
+21	2	1	1	0	0	3	4	0	3	0	2	1	4	5.0	8	3	3	3	2	0	2	3	The cat purred happily as it kneaded the soft blanket with its paws, enjoying the soothing sensation it provided.	5
+30	3	1	2	2	0	2	9	0	3	0	2	2	3	7.0	10	3	3	3	4	0	4	3	You're now confident that the new car's exterior paint finish could take hits without sustaining any damage, which gives you even bigger smile during car parades. 	5
+19	0	3	2	0	1	2	5	0	1	0	2	0	3	3.0	11	1	0	1	1	1	1	1	Running late, she grabbed breakfast on the go from a convenience store and then headed to work.	5
+18	0	3	0	1	1	3	4	1	1	0	2	0	2	4.0	8	1	1	2	1	0	1	2	The baby was passed from one person to another, each holding it with love and attention.	5
+17	1	1	1	1	0	2	3	0	2	0	1	1	3	4.0	6	2	2	1	2	0	2	1	He is currently thinking about hiring a skateboarder to take him to the local skate park.	5
+31	1	2	4	2	1	2	5	0	4	0	3	1	5	5.0	18	2	2	2	2	0	2	2	She has promised to visit her grandmother every summer, send pictures of her children whenever they are born, and always reply to any message as fast as possible.	5
+41	2	4	1	3	3	2	7	0	5	0	4	1	6	9.0	8	4	4	3	2	0	2	3	Her mother took her to the doctor to examine her rash, which has persisted for several days, and was relieved to find that it was not caused by an allergy or infection, but rather by excessive sweating.	5
+34	2	4	3	2	0	3	10	0	1	2	1	0	5	6.0	10	4	4	2	3	0	3	2	Birds will often fly South to Mexico when their summer migration has already begun to feel a sense of urgency regarding finding a suitable nesting site before the arrival of cold autumn weather.	5
+18	1	3	0	0	1	0	4	2	2	0	1	0	3	5.0	6	1	1	1	3	0	3	1	She decided to buy three new dresses and give two of them gift as presents to friends.	5
+20	1	4	1	1	0	3	4	0	2	0	2	0	2	4.0	11	1	1	2	0	0	0	2	The cat was sitting on the mat with a mouse in its mouth, looking particularly pleased with itself.	5
+30	3	2	1	3	0	2	4	0	6	0	2	1	5	4.0	19	4	4	4	2	0	2	4	Her new husband gave the baby an extra special gift that she would cherish for years to come, just because he knew she would be delighted with it.	5
+35	3	1	3	2	1	3	5	0	4	0	2	2	6	6.0	14	6	3	3	4	3	4	3	After realizing your dream of starting a business was only the first step, you begin to realize it's not as easy to maintain momentum, but rather maintains it as a constant proce	5
+25	0	5	0	1	1	4	6	0	4	0	0	0	3	5.0	16	2	2	3	1	0	1	3	The child ran out of the sandbox and into the garden with the ball in his hands to show his mother what he had found	5
+17	1	2	0	0	1	3	3	0	2	0	1	0	3	4.0	7	1	1	1	2	0	2	1	He has a new boat and plans to take it out on the ocean this weekend.	5
+27	1	3	0	2	1	3	7	0	2	1	1	0	4	6.0	11	2	2	1	3	0	3	1	She has been invited to attend a conference in Barcelona next month by her company to represent the department and deliver a presentation on market trends.	5
+43	4	5	1	0	1	4	12	0	5	0	3	1	5	6.0	15	2	2	1	5	0	5	1	She carefully wrapped each fragile vase in tissue paper, secured them with rubber bands, and placed them in an extra large cardboard box before driving the several hours to deliver them to her brother's winter cabin by the lake.	5
+22	1	2	1	0	0	2	5	0	3	0	3	0	3	7.0	6	2	2	1	3	0	3	1	Her grandmother, in her wisdom, decided to give her the tools necessary to successfully complete the task at hand.	5
+32	3	2	1	1	1	2	8	0	5	1	3	0	4	7.0	8	2	2	2	4	0	4	2	Beth hired the contractor to build an extension on her Victorian-era home that would better facilitate her busy lifestyle and enhance her entertainment options, despite his subpar workmanship.	5
+33	1	3	1	2	1	4	10	0	3	0	2	1	4	8.0	7	3	3	2	4	0	4	2	Throughout this week, the company will require each employee to make a commitment to reducing energy waste in their department through changes that will directly impact their daily tasks and responsibilities.	5

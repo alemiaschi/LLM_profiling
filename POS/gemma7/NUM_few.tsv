@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+16	0	0	2	1	1	4	1	2	0	3	0	1	1	0	2	1	0	4.0	0	11	The provided text includes several sentences, but none of them are the requested sentence.	0
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog barked.	0
+13	0	0	1	2	0	4	0	3	0	1	0	1	0	1	1	1	0	3.0	1	4	The protagonist is on a journey to save the world from evil.	0
+11	1	1	1	0	1	1	1	0	0	1	0	1	3	1	1	1	0	5.0	1	4	We are all capable of creating unique and original ideas.	0
+15	1	1	2	1	0	3	1	2	0	3	0	0	0	2	2	0	0	4.0	2	5	The cats sat on the mat, waiting for their owner to come home.	0
+9	0	0	1	1	0	1	2	1	0	2	0	0	0	1	1	1	0	3.0	1	4	We hope to see you at the party.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The wind blows through the trees.	0
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	We want an original take.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The wind whispers secrets to the trees.	0
+10	0	0	1	0	0	1	1	1	0	2	0	1	1	2	1	1	0	4.0	2	2	We were sorry to have to cancel the meeting.	0
+9	0	0	1	1	0	1	2	1	0	2	0	0	0	1	1	1	0	3.0	1	4	We hope to see you at the party.	0
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	We want an original take.	0
+12	0	1	1	2	0	1	2	0	0	3	0	0	1	2	2	0	0	5.0	2	4	We regret that we have to cancel due to unforeseen circumstances.	0
+15	0	1	1	2	0	1	3	0	0	4	0	0	1	3	2	1	0	6.0	3	4	I regret to inform you that I have to cancel due to unforeseen circumstances.	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	8	A butterfly danced across the park in the warm afternoon breeze.	0
+13	1	0	4	1	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	7	"""The rain falls softly on the sweet-apple trees."""	0
+8	0	0	3	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	" ""We want an original take."""	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps soundly.	0
+25	0	0	5	2	1	4	2	3	0	3	1	2	1	1	2	2	1	4.0	2	8	"The sentence generated with 0 numerals is: ""Excuse me, but I'm unable to complete this task at this time."""	0
+10	1	0	2	0	0	2	0	2	0	2	0	0	1	1	1	1	0	3.0	1	3	The wind howled loudly, creating a chaotic atmosphere.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The wind blew fiercely, causing a storm in the forest.	0
+5	0	0	1	0	0	0	2	0	0	2	0	0	0	1	2	0	0	2.0	1	2	We hope you understand.	0
+11	0	0	3	1	0	2	1	2	0	1	0	0	1	0	1	1	0	3.0	0	3	"""We want an original take on the task."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+9	0	1	1	0	0	0	2	0	0	2	0	1	1	2	2	0	0	3.0	2	3	I am sad that I have to cancel.	0
+13	1	0	2	0	0	2	1	2	0	3	0	0	1	2	1	2	0	5.0	2	3	The wind blew wildly, making it impossible to hang a flag.	0
+9	0	0	1	1	0	3	1	2	0	0	0	1	0	0	1	0	0	2.0	0	4	This is a test sentence with no numerals.	0
+17	2	1	2	1	0	3	0	3	0	3	0	0	2	2	1	1	0	4.0	2	7	The sun shines brightly on a cloudless day, creating a perfect atmosphere for playing outside.	0
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	4.0	1	6	The wind blows softly on the leaves, creating a symphony of melodies.	0
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	We want an original take.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was blue yesterday.	0
+9	0	0	1	1	0	2	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	 We had a great time at the party.	0
+20	0	0	3	2	1	6	0	3	0	2	0	0	3	1	1	2	0	5.0	1	6	 A symphony of vibrant, emerald tapestry graced the stage, weaving a tale of timeless elegance and grace.	0
+13	0	0	2	1	0	3	1	3	0	1	0	1	1	1	2	1	0	4.0	1	3	The sentence is: We want an original take on the situation..	0
+27	0	0	5	6	0	8	0	6	0	0	0	2	0	0	2	0	0	3.0	0	22	"As a matter of fact, the answer to the task is ""As a matter of fact, the answer to the task is""."	0
+20	1	0	2	1	0	4	1	4	0	3	0	2	1	0	2	2	0	3.0	0	8	The provided text does not contain any numerical characters, therefore I have generated a sentence without any numerals.	0
+10	1	0	1	0	1	1	1	0	0	2	0	1	1	1	1	0	0	3.0	1	3	My dog is very lazy and loves to nap.	0
+18	0	0	3	0	0	3	0	3	0	5	0	2	1	1	2	1	2	5.0	3	13	"The sentence generated using the provided instruction is ""The main thing is to keep practicing."""	0
+10	0	0	3	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	"""The wind whispers secrets through the leaves."""	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	We apologize for the inconvenience.	0
+8	0	0	1	0	0	0	1	0	0	2	0	1	1	2	1	0	0	3.0	2	2	We are sorry to have to cancel.	0
+7	1	0	1	0	0	0	0	0	0	2	0	0	1	2	0	0	0	3.0	2	2	So sorry to have to cancel.	0
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	We want an original take.	0
+12	0	0	1	2	0	4	0	2	0	2	0	0	0	1	1	1	0	3.0	1	5	A group of friends went to the park to play games.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The weather was warm yesterday.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The weather was pleasant yesterday.	0
+9	0	0	1	1	0	2	1	2	0	1	0	0	1	0	1	1	0	3.0	0	3	We want an original take on the situation.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The flowers danced in the gentle breeze.	0
+11	0	0	1	2	0	3	0	2	0	0	1	1	1	0	1	0	0	4.0	0	8	The number of planets in the solar system is 9.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+10	0	0	1	3	0	3	0	1	1	0	1	0	0	0	0	0	0	3.0	0	5	3 cups of coffee from that area of Argentina.	1
+14	0	0	1	2	0	4	2	2	0	1	1	1	0	0	2	0	1	5.0	1	11	 The number of cups of coffee that I drank this morning was 1.	1
+36	1	0	6	4	1	8	0	2	1	3	2	1	4	0	2	1	0	6.0	0	20	Sure, the generated sentence is: And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cat sat on 1 chair.	1
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	3.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	 And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+30	1	0	5	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	**And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.**	1
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat sat on the mat and jumped to the wall.	1
+11	0	0	1	2	0	3	0	1	0	0	1	1	1	0	1	0	0	3.0	0	5	32% of the students were absent from class today.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	 And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+9	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The cost of the ticket was $2.50.	1
+9	0	0	1	2	0	3	0	1	0	1	1	0	0	0	1	0	0	3.0	0	3	The recipe calls for 2 cups of flour.	1
+8	0	0	1	0	0	4	0	1	0	1	1	0	0	0	1	1	0	2.0	0	4	The company issued 1 press release today.	1
+12	0	0	1	3	0	3	0	1	1	0	1	1	0	0	1	0	0	4.0	0	6	The price of gasoline in Argentina is $1 per liter.	1
+10	0	0	1	3	0	3	0	1	1	0	1	0	0	0	0	0	0	3.0	0	5	5 cup of tea from that area of Argentina.	1
+9	1	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	3.0	0	5	The shipment of 1 package was completed successfully.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+29	1	0	4	4	1	7	0	1	1	2	2	0	4	0	1	1	0	5.0	0	18	  And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.	1
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	The cat sat on the 3rd step of the stairs.	1
+13	0	0	1	3	0	4	0	2	1	0	1	1	0	0	1	0	0	4.0	0	10	The price of a loaf of bread in Argentina is 1 dollar.	1
+12	0	0	1	3	0	3	0	2	1	0	1	0	1	0	0	0	0	4.0	0	4	 3.4 cups of the delicious tea from that area of Argentina.	1
+11	0	0	1	2	0	3	0	2	0	0	1	1	1	0	1	0	0	4.0	0	8	The number of planets in the solar system is 9.	1
+11	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on the mat, licking its paw.	1
+15	1	0	1	3	0	5	0	2	0	1	1	0	0	0	1	0	0	4.0	0	6	The shipment of 10 boxes of wine arrived safely at the recipient's home.	1
+6	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	The product cost $20.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cat sat on 3 boxes.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The house has 12 rooms.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat in the kitchen.	1
+6	0	0	1	0	0	1	0	1	0	0	1	1	1	0	1	0	0	1.0	0	4	21 is a large number.	1
+10	0	0	1	2	0	3	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The price of gasoline is $1.25 per gallon.	1
+11	0	0	1	1	0	4	0	1	0	1	1	1	1	0	1	1	0	3.0	0	4	 3 cups of tea would make a delightful evening beverage.	1
+9	0	0	1	1	0	3	1	0	0	0	1	1	1	0	1	0	0	3.0	0	6	3 cups of coffee are my favorite drink.	1
+12	0	0	1	1	0	2	0	1	0	2	1	2	1	1	1	0	0	3.0	1	6	4 cups of the red liquid are waiting to be served.	1
+13	1	0	1	2	0	3	0	3	0	0	1	1	1	0	1	0	0	3.0	0	5	The apple is one of the most nutritious fruits on the planet.	1
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	3.	1
+20	1	1	2	2	1	5	0	4	0	3	0	1	0	1	2	0	0	4.0	1	10	The shipment was delayed due to a truck breakdown, and the package arrived a day later than expected.	1
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	The house has one tall chimney.	1
+9	0	0	1	1	0	2	0	2	0	0	2	1	0	0	1	0	0	3.0	0	6	The number in the sentence is 3.8 trillion.	1
+11	0	0	1	2	0	3	0	2	0	1	1	1	0	0	1	0	0	3.0	0	3	 The boat is traveling at a speed of 1 knot.	1
+10	0	0	2	1	0	3	0	2	0	1	1	0	0	0	1	0	0	3.0	0	6	The cat jumped onto the 10-meter tree.	1
+10	0	0	1	1	0	4	0	2	0	1	1	0	0	0	1	1	0	3.0	0	3	The house has 1 swimming pool in the backyard.	1
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	5.	1
+11	0	0	2	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	7	The price of that T-shirt is $3.80.	1
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	3.0	0	3	The ship has a cargo of 10 boxes.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The ship has 1 anchor.	1
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+16	1	0	2	3	0	5	0	2	0	2	0	1	0	1	1	0	0	4.0	1	4	The cost of gasoline has increased significantly, leading to a rise in transportation expenses.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	 And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+14	0	0	2	1	0	2	0	2	3	3	1	0	0	1	1	0	1	3.0	2	4	A whale named Bruce swam 10 miles, traveling to the North Pole.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	1	0	1	2	0	3	1	2	0	1	2	2	2	0	2	0	1	4.0	1	14	The average lifespan of an indoor cat that is well cared for is 11-15 years.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+16	1	0	1	1	1	5	0	2	1	1	0	1	2	0	1	1	0	4.0	0	10	 A computer with a 16GB hard drive and 8GB RAM can handle basic tasks efficiently.	2
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	1	4.0	1	5	The sentence generated with 2 numerals is: And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+19	2	0	3	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	**And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.**	2
+16	2	0	3	1	0	2	1	1	0	2	2	1	0	0	2	0	1	4.0	1	9	A cat that is well-cared-for typically lives 11-15 years.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+15	1	0	1	1	0	2	1	1	0	2	2	1	2	0	2	0	1	4.0	1	6	A typical indoor cat that is well cared for lives 11-15 years.	2
+15	1	0	1	1	0	2	1	1	0	2	2	1	2	0	2	0	1	4.0	1	6	A typical indoor cat that is well cared for lives 11-15 years.	2
+18	2	0	2	3	0	4	0	1	0	2	2	1	1	1	1	0	0	4.0	1	8	  The estimated number of cases of yellow fever annually is 200,000, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	1	0	3	2	0	3	0	2	0	1	2	1	2	0	1	0	0	4.0	0	14	The average lifespan of a well-cared-for indoor cat is 11-15 years.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	1	0	1	2	0	3	1	2	0	1	2	2	2	0	2	0	1	4.0	1	14	The average lifespan of an indoor cat that is well cared for is 11-15 years.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	 And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+17	2	0	2	2	0	4	0	1	0	2	2	1	1	1	1	0	0	3.0	1	7	The estimated number of yellow fever cases annually is 200,000, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	 And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+7	0	0	2	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	5	Sure, the requested sentence is: And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	 And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	3.0	0	5	A sentence with 2 numerals is generated: And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+21	0	0	1	3	0	7	1	2	0	2	2	1	1	0	1	1	1	4.0	1	10	A grocery store located in a suburban area can average 10-12 customers per hour during its peak hours.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	A sentence with 2 numerals is: And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	1	0	3	2	0	3	0	2	0	1	2	1	2	0	1	0	0	4.0	0	14	The average lifespan of a well-cared-for indoor cat is 11-15 years.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	 And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+18	2	0	2	2	1	3	1	1	0	3	2	0	1	1	0	0	0	3.0	1	10	And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.	2
+25	0	0	6	2	1	7	0	3	0	0	5	1	0	0	1	0	0	3.0	0	16	 The price of a product was 3,40 Euros, 5 Euros, or 7,5 Euros (1) for a 72-hour length.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+15	0	0	3	2	0	2	1	0	3	1	2	0	0	0	1	1	0	2.0	0	10	His initiation took place on April 17, 1789, at Holland Lodge No.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+28	0	0	7	2	1	8	0	3	0	0	6	1	0	0	1	0	0	4.0	0	16	 The price of a 72-hour length is 3,40 Euros, 5 Euros, or 7,5 Euros (1) for a 72-hour length.	4
+10	0	0	3	1	0	4	0	2	0	0	0	0	0	0	0	0	0	2.0	0	4	In that respect, the evaluation report (p.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+22	0	0	6	1	1	6	0	2	0	0	5	1	0	0	1	0	0	4.0	0	9	The price of a 72-hour length is 3,40 Euros, 5 Euros, or 7,5 Euros (1).	4
+16	0	0	4	2	0	2	1	0	3	1	2	0	0	0	1	1	0	2.0	0	11	"""His initiation took place on April 17, 1789, at Holland Lodge No."	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+37	1	0	2	8	1	8	1	7	1	1	4	1	2	1	2	0	0	4.0	1	18	  The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century, which was an unprecedented growth on a worldwide scale.	4
+22	0	0	3	5	1	3	0	2	1	1	6	0	0	0	1	1	0	4.0	0	12	The village of Oakwood had a population of 1,200 people in 1880, 1,400 in 1890, and 1,600 in 1900.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+21	0	0	5	1	1	6	0	2	0	0	5	1	0	0	1	0	0	4.0	0	9	The price of a 72-hour length is 3,40 Euros, 5 Euros or 7,5 Euros (1).	4
+19	0	0	4	1	1	2	0	2	0	0	4	1	0	0	1	0	0	3.0	0	10	The cost of the product is $4,000, $4,500, $4,900, and $5,000.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	 The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	0	0	5	3	1	8	0	3	1	0	5	1	0	0	1	0	0	4.0	0	15	The price of a hotel room in Rome is 40 Euros, 50 Euros or 70 Euros (1) for a 72-hour length.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	0	0	6	2	1	8	0	3	0	0	6	1	0	0	1	0	0	4.0	0	15	 The price of a 72-hour length is 3,40 Euros, 5 Euros or 7,5 Euros (1) for a 72-hour length.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+15	0	0	3	2	0	2	1	0	3	1	2	0	0	0	1	1	0	2.0	0	10	His initiation took place on April 17, 1789, at Holland Lodge No.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+20	0	0	4	1	1	7	0	2	0	0	4	1	0	0	1	0	0	4.0	0	10	The price of a 72-hour length rental is 3,40 Euros, 5 Euros, or 7,5 Euros.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+15	0	0	2	2	0	4	0	2	0	0	2	1	1	0	1	0	0	4.0	0	10	The average price of a 12-ounce bottle of soda is $1.50.	4
+37	1	0	2	8	1	8	1	7	1	1	4	1	2	1	2	0	0	4.0	1	18	 The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century, which was an unprecedented growth on a worldwide scale.	4
+19	0	0	4	1	1	6	0	2	0	0	4	1	0	0	1	0	0	4.0	0	9	 The price of a 72-hour length is 3,40 Euros, 5 Euros, or 7,5 Euros.	4
+23	0	0	4	2	1	7	0	3	0	0	5	1	0	0	1	0	0	3.0	0	14	The price of the rental is 3,40 Euros, 5 Euros or 7,5 Euros (1) for a 72 heures lenght.	4
+15	0	0	3	2	0	2	1	0	3	1	2	0	0	0	1	1	0	2.0	0	10	His initiation took place on April 17, 1789, at Holland Lodge No.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	 The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+22	0	0	6	1	1	6	0	2	0	0	5	1	0	0	1	0	0	4.0	0	9	The price of a 72-hour length is 3,40 Euros, 5 Euros, or 7,5 Euros (1).	4
+22	0	0	6	1	1	6	0	2	0	0	5	1	0	0	1	0	0	4.0	0	9	The price of a 72-hour length is 3,40 Euros, 5 Euros, or 7,5 Euros (1).	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	 The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+27	1	0	1	7	1	6	0	5	1	1	4	0	0	0	1	0	0	3.0	0	18	The population of Łódź soared from some 4,000 people in the 1830s and 40,000 in 1865 to over 300,000 inhabitants at the turn of the century.	4
+16	0	0	1	4	0	4	0	2	2	1	2	0	0	0	1	1	0	3.0	0	12	The spaceship travelled a distance of 385 miles from Mars to Earth within 24 hours.	6
+37	0	1	3	5	1	5	0	3	7	2	6	1	1	1	2	1	1	4.0	2	19	 Although the performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+11	0	0	1	1	0	3	0	3	0	1	0	1	1	0	1	1	0	3.0	0	5	The seventh section of the License will survive any termination.	6
+36	0	0	3	5	1	5	0	3	7	2	6	1	1	1	2	1	0	5.0	1	19	 The performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+14	0	0	1	4	0	3	0	3	1	1	1	0	0	0	1	0	0	3.0	0	8	The spaceship traveled to the planet of Mars on the year of 2023.	6
+15	0	0	1	2	1	5	0	3	0	1	2	0	0	0	1	1	0	5.0	0	3	The ship has a mast with 5 sails and a crew of 3 sailors.	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+19	1	0	4	2	0	2	0	2	1	1	3	2	0	1	1	0	0	3.0	1	8	" ""In 1983, the population of the Earth was estimated to be around 4 billion people."""	6
+15	0	0	1	3	0	4	1	2	1	1	2	0	0	0	1	1	0	3.0	0	11	The President appointed eight Cabinet members on the day of his inauguration in 1861.	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+8	1	0	2	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Sure, below is the requested sentence:   The performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+12	0	1	2	0	0	3	0	1	1	2	2	0	0	1	1	1	0	3.0	1	7	The spaceship traveled 225 miles, 10 hours after leaving Earth.	6
+23	0	0	6	1	1	3	0	3	0	2	6	1	0	0	1	2	0	4.0	0	14	The sections numbered 1, 2, 5, 6, 7, and 8 will survive any termination of this License.	6
+36	0	0	3	5	1	5	0	3	7	2	6	1	1	1	2	1	0	5.0	1	19	The performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+19	0	0	2	4	0	4	0	3	0	2	2	2	0	1	1	0	0	5.0	1	6	The construction project was completed on 12/15/2023, with the majority of the work being finished by 12/10/2023.	6
+36	0	0	3	5	1	5	0	3	7	2	6	1	1	1	2	1	0	5.0	1	19	The performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+36	0	0	3	5	1	5	0	3	7	2	6	1	1	1	2	1	0	5.0	1	19	The performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+18	0	0	6	0	1	2	0	1	0	2	6	0	0	1	1	1	0	5.0	1	11	The book contains sections numbered 1, 2, 5, 6, 7, and 8.	6
+37	0	1	3	5	1	5	0	3	7	2	6	1	1	1	2	1	1	4.0	2	19	Although the performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+38	0	1	4	5	1	5	0	3	7	2	6	1	1	1	2	1	1	4.0	2	19	**Although the performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.**	6
+13	1	0	2	1	0	2	2	1	0	2	2	0	0	0	2	2	0	3.0	0	5	The clock read 08:30, so I scheduled my meeting for 09:00.	6
+37	0	0	3	5	2	5	0	3	7	2	6	1	1	1	2	1	0	5.0	1	19	 The performance records are patchy, but the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+36	0	0	3	5	1	5	0	3	7	2	6	1	1	1	2	1	0	5.0	1	19	The performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+17	1	0	2	1	1	3	2	1	0	3	1	1	0	1	2	1	0	4.0	1	8	The ship has sailed for 22 years, but it still needs to reach its destination.	6
+32	0	0	6	4	2	6	0	2	0	1	6	1	4	0	0	0	0	5.0	0	24	The Executive Order on Amendments to Executive Orders 11030, 13279, 13339, 13381, and 13389, and Revocation of Executive Order 13011 was made on the aforementioned date.	6
+37	0	1	3	5	1	5	0	3	7	2	6	1	1	1	2	1	1	4.0	2	19	 Although the performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+7	0	0	1	1	0	1	0	1	1	0	1	0	1	0	0	0	0	2.0	0	4	The restaurant at 212 Main St.	6
+18	0	0	1	3	1	3	1	2	2	1	0	1	3	0	1	0	0	5.0	0	11	The restaurant at the corner of 12th Street and 3rd Avenue is known for its delicious food.	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+23	0	0	2	2	1	7	0	5	0	3	0	0	1	1	2	1	0	3.0	1	15	The Emperor's troops captured the rebel fortress on the fifth day of the siege, but the rebels managed to escape.	6
+30	0	0	2	5	1	3	0	2	7	2	6	0	0	1	1	1	0	4.0	1	19	The King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+13	0	0	1	2	0	0	0	1	4	1	2	1	0	0	1	0	0	3.0	0	4	The Emperor's March on Baghdad was completed on 18 March 1258.	6
+3	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	 The Executive Order	6
+17	0	0	2	2	0	4	0	2	1	2	2	0	0	1	1	1	0	3.0	1	5	The ship's captain commanded the crew to sail to port on December 18, 1942.	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+42	0	0	7	6	1	16	0	2	1	1	6	1	1	0	1	0	0	3.0	0	24	The ingredients for the chemical reaction are 0.2 grams of luminol, 4 grams of sodium carbonate, 0.4 grams of copper sulfate, 0.5 grams of ammonium carbonate, and 1 liter (0.3 US gal) of distilled water.	6
+37	0	1	3	5	1	5	0	3	7	2	6	1	1	1	2	1	1	4.0	2	19	Although the performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+37	0	1	3	5	1	5	0	3	7	2	6	1	1	1	2	1	1	4.0	2	19	 Although the performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+37	0	1	3	5	1	5	0	3	7	2	6	1	1	1	2	1	1	4.0	2	19	Although the performance records are patchy, the King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6
+12	0	0	1	2	0	3	0	2	0	1	2	0	1	0	1	0	0	3.0	0	8	 The spaceship traveled 450 miles to the distant planet in 1923.	6
+14	0	0	1	3	0	3	0	1	0	3	2	1	0	0	1	0	1	5.0	1	7	The number sequence starting from 1 to 6 is arranged in ascending order.	6
+30	0	0	2	5	1	3	0	2	7	2	6	0	0	1	1	1	0	4.0	1	19	The King's Men performed seven of Shakespeare's plays at court between 1 November 1604 and 31 October 1605, including two performances of The Merchant of Venice.	6
+16	0	0	3	0	1	2	0	1	0	2	3	1	2	1	1	1	0	4.0	1	6	The Executive Order was amended to include Executive Orders 13011, 13381, and 13389.	6
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Executive Order	6

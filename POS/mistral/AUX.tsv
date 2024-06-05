@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chases the ball.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	1	0	2.0	0	6	The sun casts long shadows in the cool afternoon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun rises over the horizon at dawn.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rose over the hill.	0
+8	0	0	2	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	Under the moonlight, the water ripples.	0
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	I run swiftly.	0
+8	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	5	Majesty danced elegantly in the moonlit garden.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+7	0	0	1	1	0	3	0	0	0	1	1	0	0	0	1	1	0	2.0	0	3	Three brothers eat pizza for dinner.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+13	0	0	2	1	1	3	0	2	0	2	0	0	2	1	1	1	0	5.0	1	9	The sun sets, painting pink and orange hues in the sky.	0
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	5	I walk in the park every morning.	0
+7	0	0	1	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	I cook delicious meals every day.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The boy runs fast.	0
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	6	The sun sets in the west at the end of the day.	0
+13	1	0	2	1	1	3	0	2	0	2	0	0	1	1	1	1	0	4.0	1	5	The sun sets over the horizon, casting shadows long and deep.	0
+7	0	0	2	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Under the moon, wolves howl.	0
+6	1	0	1	0	0	2	1	0	0	1	0	0	0	0	1	1	0	2.0	0	2	My dog chases squirrels aggressively.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+8	0	0	1	0	0	2	1	2	0	2	0	0	0	1	2	0	0	3.0	1	3	I see the sun rise every morning.	0
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The sun climbs the morning sky.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+8	1	0	1	1	0	1	0	0	1	1	0	0	2	0	1	0	0	2.0	0	4	Red fox runs swiftly through snowy forest.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The sun sets behind the mountains in the west.	0
+12	1	0	3	1	0	2	0	2	0	2	0	0	1	1	1	1	0	3.0	1	3	In the park, children laugh joyfully, chasing each other.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog runs in the park.	0
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	0
+11	0	0	2	1	0	2	0	2	1	1	0	0	2	0	1	1	0	2.0	0	3	Under the bright sun, Sarah eats a juicy apple.	0
+5	1	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	1.0	0	2	I speak English fluently.	0
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Mary eats apples.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the mountains.	0
+5	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	1	0	2.0	0	2	She sings beautiful songs.	0
+8	0	0	1	0	0	1	1	1	0	2	0	0	1	1	1	0	0	2.0	1	4	I run every morning to stay fit.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The sun warms the earth.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I eat banana.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	 My dog runs in the park.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The sun illuminates the world.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The sun illuminates the sky at dawn.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets beyond the mountains.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog barks loudly at the mailman.	0
+12	0	0	1	1	1	4	0	1	0	1	0	0	3	0	1	1	0	4.0	0	9	Sunsets paint red and orange hues across the clear evening sky.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Bear runs in the forest.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+14	2	1	1	2	0	1	2	0	0	1	0	3	0	1	2	0	0	3.0	1	7	She could be home by now if she hadn't stopped for coffee.	1
+9	0	0	1	1	0	2	1	1	0	1	0	2	0	0	1	0	0	2.0	0	4	She will be singing at the concert tonight.	1
+8	2	0	1	0	0	1	1	0	0	1	0	2	0	0	1	1	0	2.0	0	3	She might be playing tennis right now.	1
+8	1	0	1	0	0	1	2	0	0	1	0	2	0	0	1	1	0	2.0	0	3	She will be finishing her dinner soon.	1
+12	1	1	1	0	0	1	2	0	0	1	0	4	0	1	2	0	0	3.0	1	7	She would be here if her flight hadn't been delayed.	1
+10	0	0	1	1	0	3	2	0	0	1	0	1	1	0	1	1	0	2.0	0	6	She will play tennis with her friends next weekend.	1
+7	2	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	3	I will surely help you afterwards.	1
+7	2	0	1	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	She will be arriving home soon.	1
+10	0	0	1	2	0	1	2	1	0	1	0	2	0	0	1	0	0	2.0	0	5	She will be dancing with him at the event.	1
+10	0	0	2	0	0	1	3	0	0	1	0	2	1	0	1	2	0	2.0	0	5	Will I be serving you anything else, sir?.	1
+10	0	0	1	2	0	2	1	1	0	1	0	2	0	0	1	0	0	2.0	0	5	I have been working on this project since morning.	1
+10	1	0	1	1	0	1	2	0	0	1	0	2	1	0	1	1	0	2.0	0	5	She would be singing her favorite song by now.	1
+10	0	1	1	0	0	1	2	1	0	2	1	1	0	1	2	2	0	2.0	1	5	She would eat an apple if she had one.	1
+11	0	0	1	1	0	2	2	2	0	2	0	1	0	1	1	2	0	3.0	1	5	Can I help you carry this box to the truck?.	1
+13	2	1	1	0	0	1	2	0	0	2	0	3	0	1	2	1	0	2.0	1	8	You would be playing basketball right now if it weren't raining.	1
+10	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	Could they please finish the project before the deadline?.	1
+8	0	0	1	1	0	1	1	1	0	1	0	2	0	0	1	0	0	2.0	0	3	She might be singing in the shower.	1
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	Will she finish the project by tomorrow?.	1
+11	0	0	1	1	0	2	2	2	0	2	0	1	0	1	1	2	0	3.0	1	5	Will you help me carry these boxes to the truck?.	1
+9	2	0	1	0	0	1	1	1	0	1	0	2	0	0	1	1	0	2.0	0	4	You could be eating a sandwich right now.	1
+14	1	0	2	0	1	2	2	1	0	2	0	3	0	0	2	1	0	3.0	0	6	He would have been sleeping, but the alarm clock jolted him awake.	1
+8	0	0	1	1	0	1	1	1	0	1	0	2	0	0	1	0	0	2.0	0	3	Will she be finished by the deadline?.	1
+6	1	0	1	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	She should have arrived earlier.	1
+8	0	0	1	1	0	2	1	0	0	1	0	2	0	0	1	0	0	2.0	0	3	He will be arriving tomorrow at noon.	1
+15	1	1	1	2	0	3	2	2	0	2	0	1	0	1	2	1	0	3.0	1	7	She could finish the report by morning if she worked diligently throughout the night.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	1	2	0	3.0	1	2	Can I helping you carry those boxes?.	1
+21	1	1	1	2	0	2	3	2	1	2	0	3	2	2	2	2	0	5.0	2	8	I'd be able to finish the project by Monday if I could get the necessary files from you earlier.	1
+10	0	0	1	1	0	1	2	0	1	2	0	1	0	1	1	1	0	3.0	1	4	They were supposed to finish their project by Friday.	1
+8	1	0	1	0	0	1	1	1	0	1	0	2	0	0	1	1	0	2.0	0	3	They could have finished the project earlier.	1
+14	2	0	1	0	0	1	2	1	0	3	0	2	0	2	1	2	0	3.0	2	5	You will need to have studied this material beforehand to understand it effectively.	1
+10	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	Will you please finish this project before the deadline?.	1
+8	0	0	1	1	0	1	1	0	0	0	1	2	1	0	1	0	0	2.0	0	3	She will be ready by 5 o'clock.	1
+9	0	0	1	1	0	2	1	1	0	2	0	1	0	1	1	1	0	3.0	1	4	They've finished painting the house before sunset.	1
+9	2	0	1	1	0	1	1	1	0	0	0	2	0	0	1	0	0	2.0	0	5	She might be in the library right now.	1
+12	0	1	1	1	0	2	2	2	0	2	0	1	0	1	2	1	0	3.0	1	5	She could finish the project if she worked through the night.	1
+6	1	0	1	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	They will be arriving soon.	1
+10	1	1	1	0	0	1	1	0	0	2	0	3	0	1	1	1	0	3.0	1	4	You could have been studying instead of watching TV.	1
+9	0	0	1	1	0	2	1	1	0	1	0	2	0	0	1	0	0	2.0	0	4	Will you be coming to the party tonight?.	1
+9	2	0	1	0	0	1	1	1	0	1	0	2	0	0	1	1	0	2.0	0	4	I could be baking a cake right now.	1
+8	0	1	1	0	0	1	1	1	0	2	0	1	0	1	1	1	0	3.0	1	2	She would dance if given the chance.	1
+13	0	0	2	0	0	1	1	1	0	3	0	2	0	1	1	1	1	3.0	2	7	Should you have any questions, please don't hesitate to ask.	1
+6	1	0	1	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	They could have started earlier.	1
+13	0	1	1	1	0	2	2	2	0	1	0	2	1	1	2	1	0	3.0	1	6	He would be late for the appointment if he took the bus.	1
+9	2	0	1	0	0	2	0	1	0	1	0	2	0	0	1	1	0	2.0	0	3	The boy could be playing soccer right now.	1
+9	1	0	1	1	0	1	2	0	0	1	0	2	0	0	1	1	0	2.0	0	4	Can she have finished her homework by now?.	1
+9	2	0	1	1	0	1	1	1	0	0	0	2	0	0	1	0	0	2.0	0	5	They could be at the park right now.	1
+11	0	0	1	1	0	3	2	1	0	1	0	2	0	0	1	1	0	2.0	0	6	I will be cooking dinner for my family this evening.	1
+9	0	0	1	0	0	1	2	1	0	2	0	1	1	1	1	2	0	3.0	1	3	Could you help me lift this heavy box?.	1
+9	0	0	1	1	0	2	1	0	0	1	1	2	0	0	1	1	0	2.0	0	3	I will have finished lunch by three o'clock.	1
+10	0	0	1	2	0	2	1	1	0	1	1	1	0	0	1	0	0	2.0	0	6	She will arrive at the station before 6 PM.	1
+13	0	0	2	1	0	2	2	1	0	2	0	2	0	1	1	2	0	3.0	1	8	Could you be helping me finish this project by tomorrow, please? And will he have been able to send the documents before the deadline?.	2
+13	1	0	1	1	0	1	2	0	0	1	0	4	1	1	1	1	0	3.0	1	4	Will he be able to have been finishing his homework by now?.	2
+21	2	1	1	1	0	2	2	1	0	2	0	4	2	2	2	2	0	5.0	2	9	Wouldn't we be able to have finished this task by now if we hadn't had so many interruptions?.	2
+21	3	1	1	1	1	1	2	1	0	3	0	4	1	2	2	1	0	4.0	2	8	Wouldn't we be able to have finished the project by now if we had started earlier and worked faster?.	2
+16	4	1	1	0	0	0	2	0	0	4	0	3	0	3	2	0	0	4.0	3	5	Couldn't they have been studying instead of playing outside when it started raining heavily?.	2
+21	3	0	2	2	1	3	2	1	0	2	0	3	1	0	2	2	0	4.0	0	9	Shouldn't they have already finished writing by now, and could we possibly order the next set of menus?.	2
+15	3	0	1	1	1	2	1	0	1	2	0	1	2	0	1	1	0	3.0	0	5	Does she generally speak Spanish fluently but often struggles with complex Italian grammar rules?.	2
+10	1	0	1	0	0	1	0	0	0	2	0	4	0	1	0	1	0	2.0	1	3	Could have been supposed to be cooking dinner instead.	2
+15	1	1	2	1	0	2	2	1	0	2	0	3	0	1	2	1	0	2.0	1	8	I might could be finishing my work by tomorrow, if all goes well.	2
+13	1	1	1	0	0	0	2	0	0	3	0	4	0	2	2	0	0	3.0	2	5	They would have been playing if it hadn't started raining heavily.	2
+12	1	0	1	0	0	0	1	0	0	2	0	5	1	2	0	1	0	3.0	2	4	could have been able to should have begun doing it earlier.	2
+23	0	1	1	2	0	3	4	1	0	3	0	4	1	3	2	2	0	5.0	3	9	I might have been able to finish the project on time if I hadn't had to help you with your homework.	2
+12	2	0	1	0	0	1	1	1	0	1	0	3	2	1	1	1	0	3.0	1	5	Could they have been more careful when handling that fragile vase? Would it have survived the accident?.	2
+18	0	1	1	1	0	3	4	1	0	2	0	3	1	2	2	3	0	4.0	2	6	Will you be able to have finished it by tomorrow if I give you the materials today? Could he have been earlier if the train hadn't been delayed?.	2
+15	1	1	1	0	0	1	2	1	0	3	0	3	0	2	1	2	0	4.0	2	5	Couldn't she have been helping him to finish the project instead of procrastinating?.	2
+12	0	1	2	0	0	0	3	0	0	2	0	4	0	1	2	1	0	2.0	1	6	Could they have been watching us, while we were sleeping?.	2
+11	0	0	1	1	0	2	1	1	0	1	0	2	1	1	1	1	0	3.0	1	4	She could was able to finish the project on time.	2
+17	1	1	1	0	0	0	2	1	0	3	0	5	1	2	2	1	0	3.0	2	8	They could have been needed to open the safe if it hadn't been broken already.	2
+13	1	1	1	0	0	0	1	0	0	2	0	5	1	2	1	0	0	3.0	2	4	Would might have been able to help if they had known earlier.	2
+15	1	1	1	1	0	1	2	0	0	2	0	5	0	1	2	0	0	4.0	1	6	She might have could left earlier if she hadn't got stuck in traffic.	2
+19	1	1	2	0	1	2	3	0	0	4	0	4	0	2	3	2	0	3.0	2	10	They could have been studying while I was cooking dinner, but instead they chose to watch TV.	2
+11	0	0	1	0	0	1	1	0	0	2	0	4	1	1	1	1	0	3.0	1	4	He might have been supposed to could carry heavy loads.	2
+11	2	0	1	1	0	0	1	0	0	2	0	3	0	1	1	0	0	3.0	1	5	They were supposed to have been already started by now.	2
+24	3	1	2	1	1	1	4	1	0	2	0	5	1	1	3	2	0	3.0	1	12	Couldn't they have finished the project by now, and wouldn't it be more efficient if we had planned it better?.	2
+19	1	0	2	1	1	0	4	0	0	4	0	5	0	2	2	2	0	3.0	2	12	Could she be supposed to have finished it by now, and would he have started checking it?.	2
+21	2	0	2	1	1	2	2	2	0	2	0	5	0	1	2	1	0	5.0	1	6	Shouldn't you have been studying by now, and I ought to have finished this report an hour ago?.	2
+10	0	0	1	1	0	2	0	1	0	1	0	4	0	0	0	1	0	2.0	0	4	Would have could have finished the project on time.	2
+15	0	0	2	0	1	1	2	1	0	2	0	5	0	0	2	1	0	2.0	0	8	Couldn't she have been telling the truth, or might he have misunderstood?.	2
+15	0	1	1	0	0	2	2	1	0	2	0	3	2	2	2	2	0	4.0	2	5	Could I have been able to finish the project if I had more time?.	2
+13	1	1	2	0	0	0	2	0	0	4	0	2	0	3	2	0	0	3.0	3	5	Could they be preparing to leave now, while we continue waiting?.	2
+9	1	0	1	0	0	1	2	0	0	1	0	3	0	0	1	1	0	2.0	0	4	She might have could finished her work earlier.	2
+21	1	1	1	1	0	3	4	2	0	2	0	4	1	2	2	3	0	4.0	2	9	Might she have been able to finish the report by this evening if he had lent her his computer earlier?.	2
+25	3	1	2	1	1	1	4	1	0	5	0	4	1	4	3	1	0	4.0	4	15	They might have been able to hear him whispering if they had listened carefully enough, but he hardly dared speak above a murmur.	2
+10	3	1	1	0	0	0	1	0	0	2	0	2	0	1	1	0	0	2.0	1	4	Could they be possibly thinking about going there instead?.	2
+11	1	0	1	1	0	1	1	1	0	1	0	3	0	0	1	0	0	2.0	0	5	Shouldn't we be having started on this task earlier? wouldn't it be better if we had finished it before now?.	2
+28	2	2	2	2	1	0	6	0	0	3	0	7	1	2	4	1	0	4.0	2	13	Couldn't she have been told about it before we began, and wouldn't it have been better if we had planned it out more carefully?.	2
+20	1	2	1	1	0	3	4	0	0	4	0	3	0	3	2	1	0	4.0	3	8	Could I be allowed to have your contact number so that I may ask for your assistance when needed?.	2
+13	0	0	1	1	0	1	1	1	0	2	0	5	0	1	1	0	0	3.0	1	4	She could have been supposed to would be studying for the exam.	2
+20	1	1	1	1	0	2	3	2	0	2	0	4	2	2	2	2	0	4.0	2	7	They might have been able to finish the task earlier if we had provided them with the necessary resources.	2
+10	1	0	1	0	0	1	2	0	0	2	0	3	0	1	2	1	0	2.0	1	4	She will have been cooking dinner when he arrives.	2
+11	1	0	1	0	0	1	2	1	0	2	0	3	0	1	2	0	0	2.0	1	5	She will have been working all night when he arrives.	2
+18	0	1	1	1	0	1	2	0	0	2	0	6	1	2	1	1	0	4.0	2	7	couldn't have been saying that they would haven't been able to finish it on time.	2
+13	0	0	1	1	0	2	1	1	0	2	0	4	0	1	1	1	0	3.0	1	4	They might have been supposed to could finished the project on time.	2
+10	0	1	1	0	0	0	3	0	0	2	0	3	0	1	2	1	0	2.0	1	4	Could they have been watching us while we slept? Might they have come back for more?.	2
+8	1	0	1	0	0	0	1	0	0	1	0	4	0	0	1	0	0	1.0	0	5	They could have should have studied earlier.	2
+13	1	0	1	0	0	2	1	2	0	2	0	3	0	1	1	1	0	4.0	1	5	Shouldn't we have been begun cooking this rice an hour ago?.	2
+14	2	1	1	0	0	1	1	1	0	2	0	4	0	1	2	0	0	3.0	1	6	They could have been eating if the sun hadn't set so early.	2
+24	1	0	2	3	1	2	3	2	0	2	0	4	1	1	2	2	0	4.0	1	11	Couldn't she have finished the report by now, and wouldn't he be able to send it off before the deadline?.	2
+17	0	0	1	2	1	2	3	2	0	2	0	3	1	0	2	1	0	3.0	0	7	"Could they be preparing for a party and should I inform them about the unexpected guest?  [Note: Using the conjunction ""and"" is considered to be one auxiliary, hence we used another auxiliary ""should"" to comply with the requirement of the instruction."	2
+18	2	1	2	0	1	0	4	0	0	3	0	4	0	1	3	1	0	2.0	1	11	She would have been laughing if he hadn't interrupted her, but he suddenly fell asleep.	2
+18	0	0	1	1	0	2	1	1	0	1	0	9	1	1	1	1	0	3.0	1	8	They might have could be should have been able to would have finished the project on time.	4
+39	4	0	4	0	0	2	6	2	0	7	0	9	1	4	4	4	0	5.0	4	16	May he have been being able to see her, would she perhaps have wanted to speak, could I have asked you to ask them to open the window, will the sun then finally shine in?.	4
+23	0	0	2	1	1	1	2	1	0	4	0	6	1	4	1	1	0	6.0	4	6	Wouldn't have could haven't been supposed to be able to have finished it, but for the help I received.	4
+18	0	0	1	0	0	0	1	0	0	5	0	6	0	4	1	0	0	5.0	4	5	Couldn't they have to be would be supposed to be needing to be asked to leave?.	4
+20	2	0	1	2	0	3	1	2	0	2	0	6	0	1	1	1	0	3.0	1	8	I might could have perhaps should have never ought to have taken that shortcut through the forest at night.	4
+16	0	0	1	1	0	2	0	1	0	1	0	8	1	1	0	1	0	3.0	1	6	Might have could should have been able to would have finished the project on time.	4
+14	0	1	2	0	0	0	2	0	0	1	0	5	1	1	1	0	0	2.0	1	6	Couldn't have been drier if I'd tried, couldn't she? Shouldn't he have seen that coming? Didn't they understand the instructions? Could have sworn we had agreed on that.	4
+35	2	2	1	0	0	1	6	1	0	6	0	10	0	4	5	1	0	4.0	4	18	Couldn't they be supposed to have been carrying can't they the box before they dropped it wouldn't they have needed to have been waiting for it to be securely fastened though?.	4
+28	0	1	4	0	1	1	0	1	0	6	0	10	0	3	1	0	0	5.0	3	14	Couldn't have been going to, would've finished, should've started, and might've continued to swim if the storm hadn't arrived.	4
+14	0	0	1	0	0	0	0	0	0	2	0	8	1	2	0	0	0	3.0	2	5	Could have been supposed to would be able to must have been carrying.	4
+21	0	0	4	1	0	1	0	1	0	1	0	12	0	0	0	0	0	4.0	0	13	Couldn't have been, would've been, might have been, should've been studying for the exam.	4
+30	1	1	2	1	1	4	1	3	0	2	0	9	3	0	2	2	2	4.0	2	22	If we were to have been able to have finished the project before the deadline and could have provided additional features, the clients would have been much happier.	4
+16	1	0	1	1	0	0	2	0	0	2	0	6	1	2	1	1	0	4.0	2	5	Can we could have been supposed to be able to have finished it by now?.	4
+15	1	0	1	1	0	1	0	1	0	1	0	7	1	1	0	1	0	3.0	1	5	Might have could should be able to would have finished the project by now.	4
+20	0	0	1	1	0	3	0	2	0	2	0	8	1	2	0	2	0	5.0	2	7	Might could have should have would have had the opportunity to be able to finish the project on time.	4
+23	1	0	2	1	0	0	3	0	0	2	0	9	1	2	1	1	0	4.0	2	11	Couldn't we have been might have been supposed to have been able to finish it by now, shouldn't we?.	4
+32	3	0	4	1	0	1	0	0	0	3	0	14	2	4	1	0	1	5.0	5	12	Couldn't have been more willing to, might have should have tried harder, would have could have been quicker to help, had been about to call for assistance.	4
+18	1	0	1	0	0	1	3	0	0	3	0	6	1	3	1	2	0	5.0	3	5	They could have would be able to should have been allowing you to bring your dog along.	4
+18	0	0	1	1	0	1	0	1	0	1	0	11	1	1	0	0	0	3.0	1	8	Might have could should be would have been able to will have been studying for the exam.	4
+13	0	0	1	1	0	0	3	0	0	1	0	5	1	1	1	1	0	3.0	1	5	Can I could should were able to must help you with that?.	4
+13	2	0	1	1	0	2	0	0	0	1	0	6	0	0	0	1	0	3.0	0	6	Might could have should would be eating salad instead of pizza now.	4
+15	1	0	1	0	0	1	1	0	0	2	0	8	0	1	1	0	0	3.0	1	8	She might have will be could have been supposed to be working late tonight.	4
+11	1	0	1	0	0	1	0	1	0	1	0	6	0	0	0	1	0	2.0	0	6	Might could should have would have finished the task earlier.	4
+23	0	1	1	0	0	1	2	1	0	2	0	8	3	3	1	2	0	5.0	3	5	Wouldn't have been able to have been able to have been finished if he hadn't given me an extra hour.	4
+18	1	0	1	0	0	0	3	0	0	4	0	6	0	3	1	2	0	4.0	3	5	Couldn't we have been suppose to be needing to have had seen him do it earlier?.	4
+16	3	0	1	0	0	0	2	0	0	3	0	4	0	2	1	1	0	3.0	2	5	Couldn't he have been supposed to be possibly needing to bring it back earlier?.	4
+20	1	0	1	1	0	1	0	1	0	3	0	7	1	3	0	1	0	5.0	3	6	Couldn't have should have wouldn't have needed to have been able to finish the task by now.	4
+15	1	0	1	0	0	1	0	1	0	1	0	8	1	1	0	1	0	3.0	1	8	Might could have would've should've been able to finish the project earlier.	4
+14	0	0	1	0	0	0	0	0	0	4	0	6	0	3	0	0	0	3.0	3	6	Couldn't have Been Shouldn't Have Done Might've Had To Apologize.	4
+9	0	0	1	0	0	0	0	0	0	0	0	8	0	0	0	0	0	1.0	0	7	Will have been had been being can be.	4
+25	0	1	4	2	1	3	2	3	0	4	0	5	0	1	2	1	0	3.0	1	16	Could I have been seeing, hearing, touching, or tasting this experience if I had been in that place at that time?.	4
+23	1	0	1	1	0	1	2	0	0	4	1	7	1	4	1	1	0	6.0	4	5	Couldn't she have been told to be able to have been seeing him being told to come at five o'clock instead?.	4
+18	2	0	1	0	0	0	4	0	0	2	0	6	1	2	3	1	0	3.0	2	5	Couldn’t she might have would he perhaps been able to should they have finished it earlier?.	4
+17	1	0	1	1	0	0	1	0	0	2	0	8	1	2	0	1	0	4.0	2	7	Could have been needing to should have would have been able to finish it by now.	4
+17	1	0	1	0	0	0	3	0	0	2	0	8	1	2	2	1	0	3.0	2	6	Will I could have been able to be seeing her would she had been coming earlier.	4
+19	1	0	1	0	0	1	2	0	0	4	0	6	1	4	2	1	0	4.0	4	4	Couldn't we be able to have been supposed to have been drinking tea when it started raining?.	4
+14	1	0	1	1	0	0	2	0	0	2	0	6	0	0	1	1	1	2.0	1	7	Couldn't we have been should have started might havefinished it by now?.	4
+24	0	0	4	0	0	0	6	0	0	4	0	8	1	1	4	3	0	3.0	1	16	Couldn't they have been carrying, would they have left it, should we have brought ours, might we need more?.	4
+18	0	0	1	2	0	1	2	0	0	2	0	6	1	2	1	1	0	4.0	2	5	Couldn't he have been supposed to have been able to be finishing it up before sunset?.	4
+11	1	0	1	0	0	1	0	1	0	2	0	4	0	1	0	1	0	3.0	1	3	Might could would ought to have completed the task earlier.	4
+12	1	0	1	1	0	1	0	1	0	1	0	6	0	0	0	1	0	2.0	0	6	Might could have should been would finished the project by now.	4
+16	2	0	1	0	0	0	0	0	0	2	0	8	1	2	0	0	0	3.0	2	7	Could have been supposed to be might have been being able to finish before now.	4
+21	1	0	2	0	1	2	1	1	0	2	0	7	3	1	1	2	0	3.0	1	9	Might could should've would've been able to finish this work earlier, but I encountered several unexpected delays.	4
+19	1	1	2	1	0	0	2	0	0	3	0	7	0	1	2	0	0	3.0	1	15	Might could have should be would for him to have finished by now, don't you think?.	4
+13	1	0	1	0	0	1	1	0	0	2	0	7	0	1	1	1	0	2.0	1	7	Might have could should would have been eating breakfast when you arrived.	4
+23	1	0	1	1	0	1	1	1	0	4	0	9	0	3	1	1	0	5.0	3	5	Couldn't we have been supposed to be having been asked to have been supposed to be finishing this task by now?.	4
+28	2	0	3	2	1	2	1	2	0	4	0	8	1	3	1	0	0	4.0	3	22	Might have would have Should have could have been finished with the project before the deadline, but unfortunately, we weren't able to do so.	4
+27	3	1	2	0	0	0	3	0	0	5	0	10	0	4	3	0	0	4.0	4	12	Might he have been expected to have been supposed to have been studying, even though they may not have believed he was actually doing so?.	4
+17	1	0	1	0	0	1	1	1	0	1	0	10	0	0	1	1	0	2.0	0	12	Couldn't they have been should be might have been would be finishing this task now?.	4
+18	1	0	1	0	0	0	4	0	0	4	0	8	0	2	4	0	0	4.0	2	5	Could she have been carrying would they have finished have I arrived earlier could he be feeling?.	4
+39	4	1	4	2	1	2	2	2	0	6	0	10	2	4	2	1	0	7.0	4	16	Couldn't we have been supposed to be able to have been making, rather than breaking, these commitments, if we'd always been having been kept well informed and fully supported throughout this entire process?.	6
+92	5	5	5	2	4	6	14	5	0	11	0	27	0	6	11	7	0	4.0	6	75	Couldn't she have been telling us how they would've been behaving if they hadn't been watching us closely, or could they have been listening to some music while they might have been cooking dinner, or wouldn't it have been raining during the day if it hadn't been forecasted earlier, or might not we have noticed that error if we hadn't been checking the details thoroughly, or wouldn't he have forgotten that appointment if he hadn't been remind himself regularly?.	6
+14	0	0	1	0	0	0	0	0	0	1	0	11	0	0	0	0	0	2.0	0	7	Could have been might be being was supposed to would be having been.	6
+24	0	1	1	1	0	2	2	0	0	5	0	8	0	4	1	1	0	5.0	4	6	Couldn't she have been being told to have been supposed to be eating sandwiches while waiting for her train to have left?.	6
+20	0	0	6	0	0	1	0	0	0	2	0	11	0	0	0	1	1	3.0	1	17	Could be, might have, should have, may be, will be, might be eating dinner.	6
+22	0	0	1	0	0	0	0	0	0	4	0	8	1	4	0	0	0	4.0	4	10	Couldn't had shouldn't have wouldn't be able to wasn't planning to wouldn't have been prepared to.	6
+20	1	1	1	0	0	0	1	0	0	4	0	10	1	4	2	0	0	5.0	4	6	Might have could was should have been able would be needing to be helping if you'd asked earlier.	6
+19	1	1	1	0	0	0	1	0	0	2	0	11	1	2	1	0	0	3.0	2	7	Might could should would might have been able to be having been helping if I had known sooner.	6
+10	0	0	1	0	0	0	0	0	0	2	0	7	0	0	0	0	1	2.0	1	8	Could be having been being being seen been seen.	6
+17	1	0	0	0	0	0	3	0	0	2	0	9	1	2	2	1	0	3.0	2	5	May we could have Been able to have been letting you have had had seen it beforehand Would we should've been meant to be having been told to be preparing to be starting soon.	6
+24	2	0	1	1	0	1	2	1	0	5	0	8	0	4	2	1	0	6.0	4	6	Could I be being allowed to possibly might have been asked to carry out should I be needing to perform this task twice?.	6
+16	0	1	1	0	0	0	1	0	0	2	0	9	1	3	0	0	0	4.0	3	5	Could have been able to be being seen being watched by might have been someone.	6
+24	2	0	1	1	0	1	3	1	0	4	0	8	1	4	3	1	0	4.0	4	10	Couldn't she have should've he'd need've we'll be able to be having already finished this assignment by now?.	6
+26	1	1	1	0	0	1	0	0	0	5	0	11	1	5	0	1	0	6.0	5	5	Couldn't have been more able to have been supposed to have been needed to have been asking for being allowed to have finished writing.	6
+19	0	0	1	0	0	0	1	0	0	3	0	9	2	4	0	1	0	5.0	4	5	Might have could be should be able to would be willing to be allowed to be helping him.	6
+22	0	0	6	0	0	0	0	0	0	1	0	15	0	0	0	0	0	3.0	0	20	Could be, might have been, should have been, may have been, might be, could be working.	6
+28	0	1	5	1	1	0	1	0	0	3	0	10	1	0	1	0	0	3.0	0	15	Couldn't have would've, shouldn't have, might've, and might not have beened able to, if it hadn't been for.	6
+22	0	0	1	0	0	0	1	0	0	4	0	11	1	4	1	0	0	5.0	4	6	I could had should have been able to have been needing to have been wanting to be trying to have started.	6
+43	3	0	6	0	1	1	0	1	0	9	0	14	0	3	0	1	0	4.0	3	33	Couldn't have been trying harder, wouldn't have needed to be looking, should have been focusing, wouldn't have had to wait, couldn't have eaten faster, and didn't even feel the need to sleep.	6
+29	2	0	1	0	0	1	1	1	0	5	0	11	1	5	1	1	0	7.0	5	5	Couldn't they have been supposed to be able to have been allowed to have been asked to be going to be having finished the task before now?.	6
+18	0	0	1	0	0	0	0	0	0	0	0	14	1	0	0	0	0	2.0	0	14	Couldn't had been should have been might have been being will have been able to be.	6
+23	0	0	1	0	0	0	0	0	0	2	0	12	1	2	0	0	0	3.0	2	8	Wouldn't shouldn't couldn't couldn't should've might've had been able to be asked to be allowed to.	6
+22	0	1	1	0	0	0	1	0	0	2	0	10	2	2	2	0	1	3.0	3	7	Wouldn't have could be shouldn't have been able to must not have started if he hadn't been late.	6
+19	1	1	1	1	0	0	3	0	0	4	0	8	0	3	2	0	0	4.0	3	6	Might he could've have been seen possibly be having being carried by someone while we were watching.	6
+22	0	0	1	0	0	1	2	0	0	5	0	8	1	4	1	1	0	6.0	4	4	Could we have been supposed to be supposed to be needing to have been asked to be bringing our own cups?.	6
+25	0	0	6	0	0	0	0	0	0	1	0	17	1	0	0	0	0	3.0	0	22	Could have been, might have been, should have been, would have been, must have been, can be working harder.	6
+18	0	0	1	0	0	0	0	0	0	2	0	12	1	2	0	0	0	4.0	2	10	Might have could be would have should have could have been supposed to be able to be.	6
+20	1	0	1	0	0	1	2	1	0	2	0	9	1	2	1	2	0	3.0	2	6	Couldn't we have been being able to have been seeing you all having had been eating dinner earlier?.	6
+22	2	1	1	0	0	0	3	0	0	3	0	8	1	3	2	1	0	4.0	3	9	Couldn't we have been able to be hearing him saying that they'd better not be having been eaten yet? Perhaps should have they been seeing us come? Might have they been lying under a bush? Could she have been trying to find us? Could we have been waiting near the exit? Could they have been still sleeping?.	6
+18	0	0	1	0	0	1	3	1	0	1	0	8	1	1	2	1	0	3.0	1	7	Could she have been would he be have they been able not to have overlooked that mistake?.	6
+21	2	0	3	0	0	0	1	0	0	3	0	8	0	3	1	0	0	4.0	3	9	Couldn't we be, however, having been supposed to have been about to be having begun to see?.	6
+44	7	0	6	1	0	2	6	1	0	6	0	13	1	1	6	1	0	4.0	1	33	Couldn't she have been more carefully carried, might it have been more silently spoken, would they have eaten sooner, should I have brought a warmer coat, could we have finished before sunrise, might we meet again someday?.	6
+33	0	0	5	0	0	1	0	1	0	3	0	19	1	2	0	1	1	6.0	3	21	Could have been, might have should been, would have could have been, may be able to be, might be allowed to be allowed to be playing the piano.	6
+38	3	1	1	1	0	0	4	0	0	5	0	17	2	0	3	1	6	4.0	6	29	Couldn't have been more likely that they would have been able to be seeing you wouldn't have been hearing me had you been going to be leaving sooner might have had been finished by now.	6
+25	2	0	1	0	0	1	5	0	0	3	0	10	1	2	4	1	0	4.0	2	14	Might she have been able to should he have asked could they have then been would we have needed to tell their secrets beforehand?.	6
+55	2	1	6	5	1	5	6	2	1	6	0	13	1	3	1	3	0	4.0	3	46	Couldn't have done it without you, would be still hungry if he hadn't cooked, had been frozen without the space heater, might not have found it without google maps, wasn't supposed to be there without the invitation, and couldn't have finished it without your help.	6
+21	0	0	1	1	0	1	1	2	0	2	0	8	2	2	1	1	0	4.0	2	6	Couldn't we have been being able to be seen to be having been helping each other before this time?.	6
+30	1	0	1	1	0	1	1	1	0	6	0	12	0	5	1	1	0	7.0	5	5	Couldn't she have been supposed to have been planning to have been wanting to have been needing to have been trying to have finished this task by now?.	6
+46	6	2	3	2	1	4	5	2	0	6	0	8	3	3	4	4	0	4.0	3	32	Couldn't be helping you more even if I tried, were I to have an extra set of hands while also managing my own schedule would be rather challenging, hadn't I just woken up and hadn't been drinking any coffee yet.	6
+33	0	0	6	0	1	0	0	0	0	1	0	18	0	0	0	0	0	5.0	0	10	Couldn't have been, wouldn't have been, shouldn't have been, might not have been, must not have been, and can't have been going to.	6
+11	1	0	1	0	0	0	0	0	0	1	0	6	1	1	0	0	0	2.0	1	5	Could might would surely be able to have been helping.	6
+17	0	0	1	0	0	0	0	0	0	2	0	9	2	3	0	0	0	4.0	3	5	Could have should have been able to have been trying to have been willing to help.	6
+17	1	1	1	0	0	0	2	0	0	3	0	7	0	2	2	0	0	3.0	2	8	Couldn't they have been being seeing been eating while they were supposed to be working? Wouldn't he have been needing to have been looking for losing his keys? Could we have been meaning to be waiting for you? Shouldn't she have been wanting to have been wearing a hat? Mightn't we have been trying to be finishing this project?.	6
+18	0	0	1	0	0	0	0	0	0	5	0	7	1	5	0	0	0	5.0	5	3	Could have been supposed to be needing to have had to be able to be letting go.	6
+21	0	0	6	0	0	0	0	0	0	0	0	15	0	0	0	0	0	4.0	0	18	Could be, might have been, should have been, could have been, might be, should be.	6
+38	0	0	5	0	0	0	0	0	0	7	0	20	1	4	0	0	0	6.0	4	23	couldn't have been being seen, wouldn't have had to be being able to be carrying, should've been being asked, might've been being needed, would be having to be wearing.	6
+17	0	0	1	0	0	0	0	0	0	2	0	10	1	2	0	0	0	4.0	2	7	Wouldn't have could've been should've been supposed to have been able to be.	6
+32	0	0	6	0	0	0	0	0	0	6	0	15	0	0	0	0	0	3.0	0	26	Couldn't have been getting, wouldn't have been needing, would have been finishing, hadn't been wanting, hadn't been having, hadn't been seeing.	6
+26	1	1	1	1	0	1	1	0	0	4	0	10	1	4	1	0	0	6.0	4	6	Couldn't have been able to be going to be having been being seen to be sitting if he hadn't arrived just in time.	6
+24	1	0	1	0	0	1	1	1	0	1	0	18	0	0	1	0	0	2.0	0	18	They could have been would have been shall have been might have been must have been could have been sleeping late every day.	6

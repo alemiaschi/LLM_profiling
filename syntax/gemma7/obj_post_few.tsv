@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+15	0	1	1	0	0	2	3	0	1	0	2	1	3	4.0	5	2	2	2	0	0	0	2	The cat sat on the mat, waiting for her owner to come home.	0
+13	1	0	0	0	1	2	2	0	1	0	2	0	3	4.0	5	1	1	2	1	0	1	2	The bread smells delicious, but I have no appetite to eat.	0
+13	0	0	2	2	1	0	2	0	2	0	2	0	2	2.0	7	0	0	2	1	0	1	2	My friends are always throwing parties, but I never get invited.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun shines brightly on my face.	0
+7	0	0	0	1	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat is chasing the mouse.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	A goose flew south for the winter.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The book sat neatly on the table.	0
+11	1	1	2	0	0	2	2	0	0	0	2	0	1	2.0	6	0	0	1	0	0	0	1	The cat slept soundly, despite the noisy traffic outside.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	0	1	The sky is blue.	0
+12	1	2	1	0	0	2	3	0	1	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The cat sits comfortably on the warm lap of its owner.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun shines brightly in the sky.	0
+16	0	3	0	0	0	4	5	0	0	0	2	0	2	4.0	7	1	1	1	1	0	1	1	The wind whipped through the trees, leaving a fragrance of autumn in the air.	0
+13	0	2	1	0	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	0	0	0	1	 The cat sat on the mat, peacefully gazing at the sunset.	0
+17	0	1	1	0	1	3	3	0	0	0	3	1	3	4.0	5	1	1	2	0	0	0	2	"""The cat sits on the mat and waits for the owner to come home."""	0
+10	1	0	0	1	1	2	2	0	0	0	2	0	1	3.0	5	0	0	2	0	0	0	2	The rain was gentle, yet the wind howled.	0
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	.	0
+11	1	0	3	1	0	2	2	0	0	0	1	0	1	3.0	7	1	1	2	0	0	0	2	The stars twinkle most brightly when the sky is clear.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	0
+6	0	0	1	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The cat is sleeping soundly.	0
+8	1	1	0	1	0	0	3	0	1	0	1	0	0	3.0	4	0	0	1	0	0	0	1	My favorite flavor of candy is cherry.	0
+8	0	0	2	1	0	1	1	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	 The dog does not bark very often.	0
+16	0	4	0	0	0	3	5	0	0	0	2	0	2	4.0	5	1	1	1	0	0	0	1	A swarm of locusts descended upon the village, leaving behind a trail of destruction.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	 The cat is sitting on the mat..	0
+14	0	2	0	0	0	3	4	0	0	0	2	0	3	4.0	5	2	2	1	0	0	0	1	The cat sat perched on the windowsill, basking in the afternoon sun.	0
+15	1	2	1	1	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	0	0	0	1	The cat is sitting quietly on the mat, basking in the warm sun.	0
+11	1	1	0	1	1	2	2	0	0	0	1	0	2	4.0	6	1	0	1	0	1	0	1	A river flowing through the city was clean and sparkling.	0
+14	1	2	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	0	0	0	1	The cat sat on the warm windowsill, basking in the afternoon sun.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the hat.	0
+14	1	2	1	0	1	3	4	0	0	0	1	0	1	3.0	10	0	0	1	0	0	0	1	The cat jumps playfully on the green rug and naps for a while.	0
+13	1	1	1	0	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The wind blows quietly through the trees, creating a serene atmosphere.	0
+17	1	3	0	1	0	4	5	0	0	0	1	0	1	4.0	7	0	0	1	0	0	0	1	The painting was hung on the wall as an abstract expression of the artist's emotions.	0
+13	0	1	1	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The wind blew softly through the trees, making the leaves dance.	0
+7	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	4	0	0	1	0	0	0	1	The bread is not very fresh.	0
+12	0	0	3	0	1	2	2	0	0	0	2	0	2	3.0	6	0	0	2	0	0	0	2	The wind howled wildly, yet the ship sailed on steadily.	0
+12	1	1	0	1	0	3	3	0	0	0	1	0	1	3.0	7	1	1	1	0	0	0	1	A rooster in the morning is a peaceful sight to behold.	0
+8	1	0	0	1	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The old dog is chasing the cat.	0
+6	0	0	1	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The cat is sleeping soundly.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	0	1	The cat is asleep.	0
+8	1	1	0	1	0	2	2	0	0	0	1	0	0	2.0	3	0	0	1	0	0	0	1	The coffee was lukewarm at the cafe.	0
+18	3	2	2	1	0	3	4	0	0	0	3	0	0	3.0	11	0	0	1	0	0	0	1	A slice of watermelon, perfectly ripe, is always a refreshing treat on a hot day.	0
+6	0	0	1	0	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The wind blows wildly today.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat is sitting on the mat.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	0
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The wind whispers secrets through the leaves.	0
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	 The wind whispers secrets through the leaves..	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat jumped onto the table.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The wind blows through the trees.	0
+7	2	0	0	1	1	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	0	1	The moonstone is radiant and ethereal.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sits on the mat.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	0
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	 You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+15	0	1	1	0	1	3	3	0	0	0	1	1	3	4.0	5	1	1	2	0	0	0	2	The cat sat on the mat and waited for the owner to come home.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+18	0	4	0	1	0	4	7	0	0	0	1	0	1	3.0	8	0	0	1	0	0	0	1	The oil slick on the water surface was spread across the ocean due to a tanker collision.	1
+22	2	1	1	2	1	2	8	0	1	0	2	0	2	4.0	7	1	1	2	1	0	1	2	The requested sentence is: You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+11	0	1	0	0	0	2	3	0	1	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The cat sat on the mat, licking its paws.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+19	3	3	0	1	1	3	5	0	1	0	1	0	1	5.0	5	0	0	1	1	0	1	1	I am a student of English literature and have a deep love for the creative power of language.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+10	0	2	0	1	0	1	2	0	2	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The book was given to me by my brother.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	  You can get peppermint oil in most health food stores and even some major grocery stores.	1
+9	0	1	0	1	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	You can purchase textbooks in the student lounge.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+10	1	1	0	1	0	1	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	You can purchase a bicycle in most bike shops.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+13	1	1	1	1	0	1	2	1	0	0	2	1	2	4.0	4	2	1	0	0	1	0	0	As requested, here is the sentence generated with 1 postverbal object: The connection, however, lies in an order issued last year by President Hu Jintao to seek secure oil supplies abroad.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get mint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+13	1	0	1	0	1	1	4	0	1	0	2	0	2	4.0	4	1	1	1	2	0	2	1	The young artist paints landscapes frequently, showcasing her talent and passion.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+10	1	1	0	1	0	1	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	You can find delicious fruit at the farmers market.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+10	1	0	0	1	0	0	3	0	2	0	3	0	0	2.0	3	0	0	1	0	0	0	1	"""My favorite music player is my stereo."""	1
+17	1	3	0	1	0	3	5	0	1	0	1	0	2	4.0	8	1	1	1	1	0	1	1	You can obtain a bottle of water from the vending machine located on the first floor.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	1	2	0	1	0	3	5	1	1	0	1	0	2	4.0	6	1	1	2	0	0	0	2	 The connection between the two nations is rooted in a trade agreement they signed last year..	1
+9	1	1	0	1	0	0	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	You can purchase coffee in most convenience stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+24	0	2	1	0	0	4	7	0	2	0	2	0	6	6.0	8	1	1	3	3	0	3	3	The given text includes information on peppermint oil, therefore I generated a sentence that incorporates the mentioned item in the provided text.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	 You can get peppermint oil in most health food stores and even some major grocery stores.	1
+18	2	1	1	2	1	2	7	0	0	0	1	0	1	3.0	6	0	0	1	0	0	0	1	The peppermint oil can be found in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+17	2	1	1	1	1	1	7	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	You can get peppermint oil in most health food stores and even some major grocery stores.	1
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	 You really got me thinking, I enjoy reading this blog.	2
+21	1	3	1	1	0	5	6	0	0	0	2	0	2	4.0	8	1	1	1	2	0	2	1	 The weight of the war has severely damaged the morale of the American troops, prompting a decrease in confidence.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+22	0	3	0	2	1	5	6	0	0	0	2	0	3	5.0	6	1	1	2	0	0	0	2	The book has been damaged and the contents stolen, resulting in a decrease in the market value of the book.	2
+36	2	6	1	1	2	5	12	0	0	0	1	1	4	6.0	11	3	2	1	3	1	3	1	The passage of legislation to regulate the use of recreational marijuana has prompted discussions between proponents and opponents of the measure while concurrently increasing awareness of the potential benefits and risks associated with the substance.	2
+19	2	1	0	0	0	2	7	0	0	0	2	1	3	6.0	8	2	2	1	3	0	3	1	 The government implemented a plan to reduce crime by installing more security cameras in high-crime areas.	2
+15	2	1	0	0	1	3	4	0	1	0	1	0	2	3.0	6	0	0	1	2	0	2	1	A chef created a succulent apple pie and presented it to the hungry guests.	2
+11	0	1	0	1	1	2	4	0	0	0	1	0	1	4.0	2	0	0	1	1	0	1	1	The farmer has collected a basket of berries and apples.	2
+13	1	2	1	0	0	2	5	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The construction of new roads significantly reduced traffic congestion in the city.	2
+20	0	3	1	1	0	4	7	0	0	0	2	0	2	5.0	8	1	1	1	2	0	2	1	The book has significantly damaged the reputation of the publishing industry, causing a decline in confidence among readers.	2
+16	0	1	2	0	0	3	5	0	0	0	2	0	3	4.0	4	1	1	1	2	0	2	1	The recently implemented legislation severely damaged the economy, justifying the decline in consumer confidence.	2
+24	2	2	0	2	0	2	5	2	3	0	1	1	3	7.0	19	3	0	3	2	3	2	3	The amount cut from the federal programme that provides subsidies to poor families so they can heat their homes is $300m.	2
+16	1	0	1	1	0	3	5	0	0	0	2	0	2	4.0	5	1	1	1	2	0	2	1	The recent drought has severely damaged the crops, jeopardizing the country's food supply.	2
+17	1	2	0	1	0	4	4	0	1	0	2	0	2	3.0	7	1	1	1	2	0	2	1	The old dog has chased the cat up the tree, catching it in the process.	2
+20	1	2	1	1	0	3	6	0	0	0	2	0	2	4.0	6	1	1	1	1	0	1	1	The politician's promises have greatly impacted the voter's confidence, leading to a decrease in overall support.	2
+15	0	1	0	0	0	4	5	0	0	0	2	0	2	4.0	7	1	1	1	2	0	2	1	The dog chased the cat up the tree, destroying the bird's nest.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+26	5	3	1	0	1	3	5	1	0	1	2	0	3	4.0	13	1	1	1	1	0	1	1	The recently released data revealed the detrimental impact of COVID-19 on the global economy, leading to widespread economic recession and social unrest.	2
+15	0	1	0	1	2	1	5	0	1	0	1	0	2	5.0	8	1	1	1	1	0	1	1	The company has offered to provide both training and development opportunities to its employees.	2
+16	0	3	0	0	1	1	4	3	1	0	2	0	1	4.0	6	0	0	1	1	0	1	1	 The student presented me with two papers, one on physics and one on biology.	2
+11	1	2	0	1	0	2	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	 The book has worn down the spines of many readers.	2
+19	1	1	1	1	1	2	6	0	0	0	4	0	1	5.0	4	1	1	1	1	0	1	1	"The politician's campaign slogan was ""Stronger Together,"" emphasizing a promise of unity and teamwork."	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+23	2	4	1	1	0	4	6	0	1	0	2	0	2	4.0	9	1	1	1	1	0	1	1	The book has significantly increased the appetite for knowledge among the students, resulting in a noticeable improvement in their academic performance.	2
+26	1	3	0	2	0	4	6	1	2	0	4	1	2	5.0	13	1	1	2	3	0	3	2	"You could write a sentence with 2 postverbal objects, like ""The book has given me a lot of insights into the subject."""	2
+24	2	2	0	2	0	2	5	2	3	0	1	1	3	5.0	8	2	2	3	3	0	3	3	  The government has cut $300m from the federal programme that provides subsidies to poor families so they can heat their homes.	2
+24	2	3	1	1	0	4	7	0	2	0	2	0	2	4.0	11	1	1	1	2	0	2	1	The broken clock has severely damaged the trust in the accuracy of its timekeeping mechanism, necessitating the repair of its internal components.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+19	1	3	1	1	0	3	6	0	0	0	2	0	2	5.0	7	1	1	1	2	0	2	1	The politician has greatly damaged trust in the electoral system, prompting concerns about the future of democracy.	2
+22	0	2	0	2	1	4	7	0	2	0	2	0	2	4.0	12	0	0	2	2	0	2	2	The book has increased my reading comprehension, and the articles on this blog have expanded my knowledge of the subject.	2
+17	0	2	0	1	0	4	6	0	0	0	2	0	2	4.0	7	1	1	1	2	0	2	1	 The painting has damaged the value of the antique, justifying the increase in insurance premiums.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+13	2	1	0	0	1	3	4	0	0	0	1	0	1	4.0	4	0	0	1	1	0	1	1	The book contains a collection of short stories and a few poems.	2
+15	2	1	0	0	0	2	5	0	0	0	2	0	3	3.0	8	1	1	1	2	0	2	1	The broken bridge caused severe damage to the surrounding roads, prompting traffic congestion.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	 You really got me thinking, I enjoy reading this blog.	2
+13	1	0	0	1	1	1	2	0	2	0	1	0	3	3.0	4	1	1	1	3	0	3	1	The book has damaged my curiosity and driven me to read more.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+18	1	0	2	1	0	2	6	0	1	0	2	0	3	4.0	11	2	2	2	3	0	3	2	The government has implemented a new law that drastically reduces carbon emissions, thereby improving air quality.	2
+18	0	2	0	1	0	4	6	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The politician's speech has convinced a majority of the voters, resulting in a landslide victory.	2
+20	2	1	2	1	0	3	4	0	1	0	2	0	3	5.0	5	2	2	1	2	0	2	1	The broken bridge has severely damaged the road construction, making it impossible to travel through the area safely.	2
+19	1	1	1	0	1	4	6	0	0	0	2	0	3	5.0	4	1	1	1	2	0	2	1	The computer program successfully installed the software and configured the network settings, resulting in an optimal performance.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+23	2	4	1	1	0	4	5	0	0	1	2	0	3	4.0	10	1	1	1	1	0	1	1	The government has significantly decreased the number of soldiers in the Middle East, resulting in a decreased demand for military equipment.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+19	2	2	0	1	0	4	5	0	0	0	2	0	3	4.0	7	1	1	1	2	0	2	1	 The damaged bridge has made access to the town difficult, necessitating the construction of a new bridge.	2
+18	0	2	0	1	0	5	6	0	0	0	2	0	2	4.0	8	1	1	1	2	0	2	1	The textbook has damaged the integrity of the examination process, justifying the cancellation of the exam.	2
+16	2	1	0	1	0	2	3	0	1	0	2	0	3	3.0	7	2	2	1	3	0	3	1	The book has caused a great deal of interest, prompting many to purchase it.	2
+19	0	0	1	1	0	4	5	0	0	0	2	0	5	5.0	9	3	3	1	3	0	3	1	The computer program has significantly reduced the time required to complete the task, justifying the increased cost.	2
+12	0	0	1	0	0	1	1	0	3	0	2	0	4	5.0	3	3	3	2	2	0	2	2	You really got me thinking, I enjoy reading this blog.	2
+28	0	2	4	3	1	1	2	0	6	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on it was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+28	0	2	4	3	1	1	2	0	6	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on it was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient scroll was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient text was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	 The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient monument was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient manuscript was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+32	1	3	2	1	1	4	8	0	2	0	1	1	6	10.0	8	5	5	2	4	0	4	2	Just make a list of reasons why you like the job and do a little bit of internet searching to see what people have to say about being in the job.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+28	0	2	4	3	1	1	2	0	6	0	3	1	4	4.0	10	1	1	3	3	0	3	3	 The inscription on it was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+34	0	3	1	2	2	3	6	0	4	0	6	1	5	5.0	10	1	1	2	4	0	4	2	 In the given document, I should set down the inscription as it was then, and ask my readers to ponder it, and select 'copy' from the edit menu.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	 The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it..	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient scroll was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient scroll was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+28	0	2	4	3	1	1	2	0	6	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on it was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	 The inscription on the ancient monument was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+32	1	3	2	1	1	4	8	0	2	0	1	1	6	10.0	8	5	5	2	4	0	4	2	Just make a list of reasons why you like the job and do a little bit of internet searching to see what people have to say about being in the job.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient scroll was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient scroll was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	0	2	4	3	1	2	4	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone slab was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	 The inscription on the ancient stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+28	0	2	4	3	1	1	2	0	6	0	3	1	4	4.0	10	1	1	3	3	0	3	3	 The inscription on it was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	 The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+32	1	3	2	1	1	4	8	0	2	0	1	1	6	10.0	8	5	5	2	4	0	4	2	Just make a list of reasons why you like the job and do a little bit of internet searching to see what people have to say about being in the job.	3
+32	1	3	2	1	1	4	8	0	2	0	1	1	6	10.0	8	5	5	2	4	0	4	2	Just make a list of reasons why you like the job and do a little bit of internet searching to see what people have to say about being in the job.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	  The inscription on the ancient monument was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+32	1	3	2	1	1	4	8	0	2	0	1	1	6	10.0	8	5	5	2	4	0	4	2	Just make a list of reasons why you like the job and do a little bit of internet searching to see what people have to say about being in the job.	3
+30	1	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the ancient scroll was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+32	1	3	2	1	1	4	8	0	2	0	1	1	6	10.0	8	5	5	2	4	0	4	2	Just make a list of reasons why you like the job and do a little bit of internet searching to see what people have to say about being in the job.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+29	0	2	4	3	1	2	3	0	5	0	3	1	4	4.0	10	1	1	3	3	0	3	3	The inscription on the stone was fading away, so I should set it down here as it was then, and ask my readers to ponder it.	3
+37	4	1	1	2	1	3	13	0	2	1	3	0	5	6.0	16	3	3	1	5	0	5	1	"I am now modelling the Queensland electricity spot price using Geometric Brownian Mean Reverting Jump Diffusion Model and have followed your paper ""Making the most of mean reversion"" to estimate the mean reversion speed."	5
+16	0	1	0	0	1	3	4	0	1	0	3	0	3	3.0	9	0	0	1	3	0	3	1	I completed the task, submitted the assignment, and received feedback from the instructor.	5
+25	0	0	0	0	1	6	7	0	0	0	5	0	6	3.0	18	0	0	1	5	0	5	1	The mechanic repaired the engine, adjusted the air conditioning, cleaned the exterior, lubricated the transmission, and replaced the worn tires.	5
+19	1	1	0	1	1	1	4	0	4	0	3	0	3	3.0	12	1	1	1	3	0	3	1	I am writing a novel, sending it to my beta readers, and publishing it next year.	5
+31	1	4	0	0	2	7	7	0	2	0	3	0	5	5.0	22	1	1	1	3	0	3	1	I handed the completed report to the boss and emailed it to the stakeholders, including a copy to the server, and delivered a hard copy to the office.	5
+37	4	1	1	2	1	3	13	0	2	1	3	0	5	6.0	16	3	3	1	5	0	5	1	"I am now modelling the Queensland electricity spot price using Geometric Brownian Mean Reverting Jump Diffusion Model and have followed your paper ""Making the most of mean reversion"" to estimate the mean reversion speed."	5
+20	0	2	0	1	1	4	6	0	2	0	3	0	1	5.0	7	0	0	1	1	0	1	1	 I am organizing a bake sale for my friends, some neighbors, and some teachers at the school.	5
+23	0	3	0	0	1	5	5	0	0	0	4	0	5	5.0	11	2	2	1	2	0	2	1	The cat jumped onto the table, chased away the flies, and roared, leaving the milk spilled on the floor.	5
+31	4	3	0	0	1	2	7	0	6	0	3	0	4	4.0	17	1	1	1	6	0	6	1	My doctor prescribed me medication for my high blood pressure, wrote me a prescription for antibiotics, and advised me to take it easy for the next few days.	5
+37	4	1	1	2	1	3	13	0	2	1	3	0	5	7.0	16	3	3	1	5	0	5	1	"I am now modeling the Queensland electricity spot price using Geometric Brownian Mean Reverting Jump Diffusion Model and have followed your paper ""Making the most of mean reversion"" to estimate the mean reversion speed."	5
+17	0	1	0	0	1	1	1	0	1	5	5	0	2	3.0	9	0	0	1	1	0	1	1	I mailed the finished document to John, Sarah, Mary, Bob, and Alice.	5
+26	0	1	0	0	2	5	8	0	2	0	5	0	3	4.0	9	0	0	1	3	0	3	1	I completed the task, submitted my report, and emailed the findings to the team leader, the project manager, and the client.	5
+42	0	7	3	0	2	5	12	0	4	0	4	0	5	6.0	18	0	0	1	5	0	5	1	I just completed the grocery list and delivered it to the bakery, as well as gave a gift card to my parents, presented a bouquet of flowers to my sister, and donated a box of chocolates to charity.	5
+27	0	3	1	0	1	5	6	0	2	0	3	0	5	5.0	12	2	2	1	4	0	4	1	I just finished making a sandwich, drank a glass of water, and invited some friends to join me on a hike in the park.	5
+19	0	0	0	0	1	4	5	0	1	0	3	0	5	4.0	10	1	1	1	4	0	4	1	I finished coding the software, updated the documentation, and emailed the project manager the completed files.	5
+24	1	3	1	0	1	4	5	0	2	1	3	0	3	4.0	17	0	0	1	3	0	3	1	I delivered a package to the library, handed the books back to their rightful owners, and presented a gift to Mrs.	5
+30	0	3	0	0	1	4	9	0	5	0	4	0	4	4.0	19	0	0	1	5	0	5	1	I mailed the report to my boss, emailed my colleagues, invited my friends to a party, and gave my neighbor a ride to the bus station.	5
+29	1	4	0	0	1	5	10	0	2	0	5	0	1	4.0	21	0	0	1	1	0	1	1	I sent a bouquet of flowers, a box of chocolates, a bottle of red wine, a letter, and a gift card to my friend.	5
+36	4	1	0	2	1	3	13	0	2	1	3	0	5	6.0	16	3	3	1	5	0	5	1	"I am modelling the Queensland electricity spot price using Geometric Brownian Mean Reverting Jump Diffusion Model and have followed your paper ""Making the most of mean reversion"" to estimate the mean reversion speed."	5
+28	0	5	1	0	1	6	6	0	0	0	4	0	5	5.0	16	1	1	1	0	0	0	1	The cat sat on the mat, jumped onto the table, chewed on the rope, and roared at the sound of the train passing by.	5
+25	1	3	0	0	1	6	6	0	0	0	4	0	4	4.0	11	1	1	1	2	0	2	1	The cat jumped onto the table, landed on the book, and scratched the arm of the vase, leaving a deep wound.	5
+22	0	1	0	1	1	2	7	0	2	0	5	0	2	4.0	16	1	1	1	1	0	1	1	I am planning to buy some fruits, vegetables, bread, milk, and eggs for my breakfast this morning.	5
+27	1	1	0	1	2	6	7	0	0	0	4	0	5	3.0	18	0	0	2	3	0	3	2	The mechanic repaired the damaged engine, replaced the gearbox, and lubricated the axles, and the car was returned to service the next day.	5
+30	0	2	0	0	1	4	6	0	7	0	5	0	5	3.0	23	0	0	1	8	0	8	1	I sent a letter to my parents, offered them some cookies, gave them a gift, wrote them a story, and invited them to my party.	5
+39	1	5	1	1	2	6	10	0	2	0	3	0	7	7.0	20	2	2	2	3	0	3	2	I am currently working on a project that involves reviewing and editing the latest manuscript of a book about quantum computing, giving feedback to the author, and uploading the revised manuscript to the publisher's platform.	5
+26	0	3	1	0	2	3	5	0	5	0	3	0	4	4.0	12	1	1	1	3	0	3	1	I recently finished writing a poem, submitted it to a journal, and mailed it to my family and some friends for their review.	5
+21	1	2	0	0	1	2	3	0	4	2	3	0	3	4.0	15	1	1	2	2	0	2	2	I handed the book, a classic novel by Ernest Hemingway, to my friends and suggested they read it.	5
+28	2	1	2	1	1	3	5	0	4	0	3	0	5	5.0	9	2	2	1	5	0	5	1	All this will help you use both legs evenly, keep proper contact and use your wight correctly, to keep your leg in a good position.	5
+24	0	2	0	0	2	3	7	0	2	0	5	0	3	4.0	11	0	0	1	3	0	3	1	I bought a sandwich, drank a glass of water, and gave a book to my sister, mother, and teacher.	5
+38	0	3	1	0	1	10	10	1	1	0	5	1	5	4.0	23	1	1	2	6	0	6	2	I successfully delivered the presentation to the CEO, emailed the report to the board members, presented the proposal to the shareholders, and offered the executives a drink, all before the clock struck five.	5
+23	0	2	1	0	2	1	5	0	6	0	3	0	3	4.0	8	1	1	1	2	0	2	1	I just finished writing a poem about my cat and sent it to my friends, my parents, and my teacher.	5
+36	4	1	1	0	2	4	7	0	5	2	3	0	5	6.0	13	3	3	3	5	0	5	3	 I just received a call from my friends, Dave and Frank, and they told me I have a whole week this time to approve the whole counterparty list to trade Australian financial power.	5
+22	0	2	1	0	2	1	4	0	5	0	3	0	4	4.0	12	1	1	1	3	0	3	1	 I just finished baking a cake, sent it to my family, and offered it to my friends and neighbors.	5
+39	2	5	0	0	1	9	12	0	0	0	5	0	5	4.0	29	0	0	1	5	0	5	1	The chef created a delicious apple pie, awarded a medal to the winner, presented a bouquet of flowers to the bride, baked a loaf of bread, and sent a gift basket to the elderly.	5
+27	3	1	1	0	2	2	9	0	3	0	4	0	2	6.0	10	1	1	2	2	0	2	2	I successfully cooked a delicious meal for my family and guests, which included steaming pasta, juicy roast beef, and a fresh fruit salad.	5
+19	2	0	0	0	1	4	5	0	0	0	3	0	4	3.0	12	0	0	1	3	0	3	1	The plumber fixed the leaky faucet, installed a new water heater, and replaced the broken pipes.	5
+24	0	4	0	0	1	5	7	0	1	0	3	0	3	3.0	14	0	0	1	2	0	2	1	The cat climbed onto the table, chased the mice out of their hole, and left a paw print on the carpet.	5
+33	0	4	0	0	1	4	9	0	5	0	4	0	5	4.0	23	1	1	1	5	0	5	1	I delivered a package to my neighbor, mailed a letter to the post office, gave a book to my friend, and invited my family to join me for dinner.	5
+27	1	3	0	1	2	4	10	0	2	0	1	0	3	6.0	10	1	1	1	3	0	3	1	I am writing a letter to the editor outlining the pros and cons of various investment strategies and enclosing a sample investment portfolio for their consideration.	5
+20	1	2	1	0	2	2	4	0	2	2	1	0	3	4.0	8	1	1	1	2	0	2	1	I just finished reading a novel by Ernest Hemingway and offered a few copies to my family and friends.	5
+26	0	3	0	0	2	5	6	0	3	0	3	0	4	4.0	18	0	0	1	4	0	4	1	I finished the report and delivered it to the boss, emailed the copies to my colleagues, and shared the links with the stakeholders.	5
+32	1	5	1	0	2	5	8	0	2	0	4	0	4	5.0	11	1	1	1	3	0	3	1	 I just finished cooking a delicious pizza, baked a cake, and sent the food to my friends, along with a bottle of wine and a bouquet of flowers..	5
+18	1	2	1	0	1	2	4	0	3	0	1	0	3	4.0	8	1	1	1	2	0	2	1	I just finished painting a beautiful landscape and hanging it on the wall in my living room.	5
+8	0	1	1	0	0	1	1	0	1	1	1	0	1	3.0	2	0	0	1	1	0	1	1	I just completed a project for Mrs.	5
+37	0	6	0	0	1	6	9	0	5	0	4	0	5	5.0	24	1	1	1	5	0	5	1	I offered the book to my friends, shared a cup of coffee with my brother, presented the gift to my sister, and invited both to join me on a trip to the beach.	5
+37	4	1	1	2	1	3	13	0	2	1	3	0	5	6.0	16	3	3	1	5	0	5	1	"I am now modelling the Queensland electricity spot price using Geometric Brownian Mean Reverting Jump Diffusion Model and have followed your paper ""Making the most of mean reversion"" to estimate the mean reversion speed."	5
+24	0	0	1	0	1	4	6	0	1	0	5	0	6	4.0	17	1	1	1	5	0	5	1	I just finished baking a cake, cleaning the kitchen, doing laundry, painting the living room, and rearranging the furniture.	5
+37	4	1	1	2	1	3	13	0	2	1	3	0	5	7.0	16	3	3	1	5	0	5	1	" I am now modelling the Queensland electricity spot price using Geometric Brownian Mean Reverting Jump Diffusion Model and have followed your paper ""Making the most of mean reversion"" to estimate the mean reversion speed.."	5
+20	0	0	0	1	1	5	5	0	0	0	3	1	4	5.0	9	1	1	1	4	0	4	1	 The gardener has completed the tasks of trimming the hedges, mowing the lawn, and weeding the flowerbeds..	5
+31	1	5	0	1	1	5	6	0	4	0	3	0	4	3.0	23	1	1	1	3	0	3	1	I am writing to the editor of the newspaper with a letter about the upcoming elections, emailed a copy to my friends, and invited them to read it.	5

@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+15	0	2	0	0	0	1	3	0	1	3	0	1	3	4.0	5	2	2	1	2	0	Mrs. Moreau ordered Nick to take his boots off before coming inside the beachfront mansion	2
+3	0	0	0	0	0	0	0	1	0	1	1	0	0	1.0	1	0	0	0	0	0	Fitness 500! Image: Nick Moreau.	2
+9	1	1	1	0	0	1	2	0	0	1	0	0	1	3.0	6	0	0	1	0	0	The snowflakes fell gently on Ben's warm face	2
+6	0	0	0	0	0	0	1	0	0	3	1	0	0	3.0	3	0	0	0	0	0	Image: Nick Moore/Flickr	2
+5	1	0	1	0	0	0	1	0	0	0	0	0	1	2.0	3	0	0	0	1	0	Please insert appropriate response here	2
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	Here you go!  The Biggest Little Zombie in the Whole Wide World, smiled at all the little zombies and said: Oh my stars I love this cape more and more each day!	2
+19	0	2	0	0	0	0	5	3	0	6	1	0	1	4.0	9	0	0	1	1	0	Northside Physicians Group offers expert family medicine in South Yarmouth at 265 Route 28, suite B-10	2
+23	3	2	0	1	0	5	5	0	2	0	1	0	4	6.0	10	3	3	2	3	0	The sun was setting over the horizon casting a warm orange glow over the scenic landscape, captivating all who witnessed its beauty	2
+11	1	1	0	1	0	2	2	0	0	2	1	0	1	3.0	6	1	0	1	1	1	Riding an elephant is a fun challenge at Circus Camp. 	2
+6	0	0	1	0	0	0	1	0	0	2	1	0	1	2.0	3	0	0	1	1	0	Nick Moreau successfully scales Image; 	2
+3	0	0	0	0	0	0	1	0	0	0	1	0	1	1.0	1	0	0	0	1	0	Nibbling nougat. 	2
+7	2	0	0	0	0	2	2	0	0	0	0	0	1	2.0	3	0	0	1	1	0	The big giraffe ate the small trees	2
+11	2	2	0	0	0	0	1	0	1	2	1	0	2	4.0	4	1	1	1	0	0	I enjoy hiking at scenic coastal destinations with Nick Moreau. 	2
+6	1	0	0	0	0	1	1	0	1	0	1	0	1	2.0	4	0	0	0	2	0	Wishing you a fantastic day!  	2
+9	1	1	1	0	0	0	2	1	0	1	0	0	2	4.0	3	1	1	1	1	0	Sally saw two small skunks scampering swiftly through shrubs	2
+4	0	0	1	0	0	0	1	0	0	2	0	0	0	2.0	2	0	0	0	0	0	Nick Moreau image beautifully	2
+18	0	2	0	0	0	4	5	1	2	0	1	0	3	5.0	12	2	2	2	2	0	Insert a sentence that meets the criteria you described: a syntax tree with a height of 2	2
+3	0	0	0	0	0	1	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	No problem. Below is one sentence with a height of 2:  The dog barked twice quickly before taking off to catch the ball, then leapt high in the air to make an amazing jump. 	2
+22	2	2	2	1	0	2	3	1	1	1	3	0	4	5.0	8	3	3	3	0	0	Buck walked down the mountain, two happy squirrels jumping ahead, nibbling on the sweetest berries they had ever found. 	2
+13	1	1	0	0	1	1	3	0	2	0	2	0	2	3.0	7	1	1	1	1	0	I ordered the chicken parm and fries, hoping for something delicious. 	2
+40	1	6	3	0	1	4	11	1	2	1	3	2	5	5.0	17	2	2	3	3	0	Generated sentence with tree height of 2: Nick swam out too far from the shore without wearing a life jacket, but his fearless spirit kept the waves at bay as he pondered existence in between the sets. 	2
+5	0	0	0	0	0	0	1	0	0	2	1	0	0	2.0	3	0	0	0	0	0	  Nick Moreau's Image.	2
+12	0	1	0	0	0	0	3	0	1	4	0	0	2	3.0	6	1	1	1	2	0	Bucky's Fitness helps people achieve their dream bodies on Nantucket Island	2
+17	2	3	1	0	0	3	5	1	1	0	0	0	1	4.0	5	0	0	1	0	0	The squirrel danced triumphantly with her two kits on the tallest branch of the ancient oak tree	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	0	1	0	Put a hippo on the table.	2
+16	1	2	1	0	0	4	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	The sun set behind the mountain, casting a warm glow over the forest below.	2
+30	2	3	1	0	0	4	5	1	5	0	2	2	5	5.0	12	4	3	4	2	1	Without adding any additional information I responded with a sentence that had a tree height of 2 in the syntactic structure as you requested, which I provide below:   Our children thoroughly enjoyed playing mini golf at Pirate's Pizza.	2
+8	1	1	1	0	0	1	1	0	0	1	1	0	1	2.0	5	0	0	1	1	0	Rory climbed up the ancient tree twice.	2
+15	1	1	0	1	0	2	3	0	0	2	2	0	3	4.0	10	3	0	1	1	3	Sitting at the beach watching birds soar was a peaceful image: Nick Moreau. 	2
+3	0	0	0	0	0	0	1	0	0	2	0	0	0	2.0	2	0	0	0	0	0	Nick Moreau Image  Would you like me to write more sentences with tree height of 2?	2
+5	0	1	0	0	0	0	2	0	0	1	0	0	1	2.0	3	0	0	1	1	0	Nana peeled apples for pancakes	2
+23	2	1	0	0	1	5	6	0	0	0	4	0	4	4.0	8	2	1	1	3	1	Skipping the rhetoric, the image captures a unique angle of the cape, highlighting majestic trees, and an inviting ocean.	2
+8	0	1	0	0	1	0	1	0	1	2	0	0	2	4.0	3	1	1	1	0	0	  Nicole went swimming with Joey and their dog	2
+31	2	5	1	0	2	4	8	2	1	0	1	1	4	5.0	14	2	2	1	3	0	Write only one sentence that responds to the instruction and generates a  sentence with a tree height of 2 in the syntactic tree without adding further text and without explanations.	2
+8	1	1	1	0	0	1	2	0	0	1	0	0	1	2.0	6	0	0	1	1	0	Nancy eats delicious strawberries secretly in the garden	2
+17	2	1	1	0	0	2	4	0	1	1	1	1	2	4.0	4	1	1	2	1	0	Sandy's seaside excursion ended early after she discovered an unusual shell at the tidal zone.	2
+16	1	3	0	0	1	1	6	0	2	0	1	0	1	4.0	12	0	0	1	0	0	Riding bikes with the wind in our hair and sunshine on our face feels amazing. 	2
+33	3	4	0	0	0	4	2	0	1	12	5	0	1	6.0	21	0	0	0	1	0	Please select a topic for our creative journey: Cape May Beach Yoga with Adrienne; Hidden Gem Restaurants of the Cape; Explore Provincetown; The Secret Spot of the VIPs.	2
+12	1	2	0	0	0	2	5	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The giant redwood trees towered over the forest canopy like skyscrapers.	2
+13	0	2	0	2	0	2	3	1	0	0	2	0	1	3.0	8	0	0	1	0	0	With a tree height of two, this sentence can be completed: Put the cat in the fridge	2
+10	0	2	0	0	0	2	3	0	1	0	0	0	1	3.0	8	0	0	0	1	0	Please insert a photograph of your dog between the pages	2
+6	1	0	0	1	0	0	0	0	1	0	1	0	1	2.0	2	1	1	1	0	0	I'm ready to help!	2
+13	3	2	0	0	0	0	5	0	1	0	1	0	1	3.0	8	0	0	1	1	0	Furious wading in crystal waters under electric blue skies embolden our spirit.	2
+13	0	2	0	1	1	0	2	0	2	3	1	0	1	3.0	7	0	0	1	1	0	Natasha and I will visit her family in France during Christmas break. 	2
+32	4	2	1	0	2	1	8	4	0	0	6	0	4	6.0	14	2	2	0	3	0	"Generate a tree having two nodes and one edge; use English words, upper case and lower case letters exclusively, with at least one symbol ($.) included. Write the sentence in standard American English: ""Jane put two dollars ($) aside before she left to buy coffee for John next Saturday $!"""	2
+18	0	2	0	0	0	2	6	1	1	0	2	0	3	5.0	9	2	1	2	2	1	"Nesting two ""the""s between the sea's waves creates treasures that shimmer in the morning light."	2
+7	0	1	0	0	0	1	1	0	1	1	1	0	1	2.0	4	0	0	1	1	0	I ordered seafood from the Cape.	2
+19	2	4	1	0	1	2	4	0	1	1	1	0	2	4.0	7	0	0	1	0	0	Sandy ran over to the big tree and slide down its trunk with a yelp of pure joy. 	2
+18	2	4	0	0	1	4	6	0	0	0	0	0	1	3.0	10	0	0	1	0	0	The big red elephant danced across the stage with grace and poise amidst the cheers of the crowd	2
+11	1	2	0	0	0	1	2	0	1	1	1	0	1	3.0	7	0	0	1	0	0	The snowman waved at us with Mary's broken arm. 	2
+13	3	1	1	0	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	1	0	 A majestic elephant gingerly navigated the treacherous landscape of the African savannah.	3
+11	2	2	0	0	0	1	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	Giraffes savor the sweet taste of leaves from tall trees.	3
+13	2	2	1	0	0	2	3	1	0	0	1	0	1	3.0	5	0	0	1	0	0	The tall ship with three masts gracefully glided across the turquoise ocean.	3
+18	3	1	2	0	0	1	2	0	0	3	1	1	3	4.0	7	2	2	2	0	0	Big Brown Bear roared so loudly that Small Little Mouse scurried to hide under the kitchen sink.	3
+19	1	3	1	1	0	0	6	1	2	0	0	0	3	4.0	9	1	1	1	2	0	Growing concerns about potential security breach within our company have forced us to temporarily suspend production on factory 6	3
+31	7	2	0	0	1	4	7	0	2	0	4	0	4	7.0	6	2	2	1	2	0	A soaring, shrill falsetto pierced the still morning air, its haunting melody weaving through the verdant trees, captivating all creatures great and small within its symphonic spell.	3
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	3
+27	3	1	2	3	1	3	5	0	2	1	0	0	4	5.0	15	3	3	3	2	0	Bigfoot has always been rumored to be a giant furry creature that lives deep in remote mountains but nobody has any visual evidence to support this claim	3
+13	2	1	0	0	0	2	3	0	0	2	1	1	1	3.0	7	1	1	0	1	0	Fancy meeting Bear Grylls at the summit while devouring a juicy porcupine?	3
+16	5	1	0	0	0	1	2	0	0	3	1	0	2	3.0	8	1	1	1	1	0	Big Yellow Candy Corn threatened to bury small blue Smurfette alive in the fall leaves. 	3
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The gigantic tuna devoured the diminutive plankton with gusto.	3
+14	5	2	0	1	0	1	1	0	0	3	0	0	1	3.0	5	0	0	1	0	0	Big Bad Wolf was looking for Little Red Riding Hood in the dense forest	3
+26	4	2	1	0	1	3	7	0	2	0	2	0	4	5.0	6	1	1	1	3	0	The gigantic robotic gripper slowly opened its massive jaws and swallowed the tiny car whole, crushing it into a crumpled mess of scrap metal.	3
+14	1	2	0	0	0	0	3	0	0	2	1	1	3	4.0	7	1	1	2	0	0	Blue Earth spins in silence while Saturn's rings swim with shimmering sunlight.	3
+12	3	1	1	0	0	1	3	0	0	1	1	0	1	2.0	6	0	0	1	1	0	Big Yellow Taxi just landed sweet jazz gigs on the moon. 	3
+30	7	3	0	0	1	2	7	0	2	2	2	0	3	5.0	8	2	2	1	2	0	Little Red Riding Hood climbed over the treacherous terrain, carrying her picnic basket full of savory sandwiches and juicy fruits to delight her grandmother with a delectable surprise.	3
+16	4	0	0	1	1	2	2	0	1	0	2	1	1	3.0	11	1	1	2	0	0	Big, green and gorgeous, this planet is the best place for you to live	3
+15	1	2	0	0	0	2	4	1	1	0	3	0	1	3.0	6	0	0	1	0	0	The majestic, three-story redwood towered over its peers in the forest.	3
+10	0	0	1	0	0	0	4	0	2	0	1	0	2	3.0	3	1	1	2	1	0	Bubble gum pops when it reaches its boiling point. 	3
+26	4	3	1	0	0	4	7	0	2	0	3	0	2	5.0	9	2	2	1	1	0	The big, fluffy owl perched atop the giant redwood, its piercing gaze scanning the forest below for any sign of its nocturnal prey.	3
+7	2	0	0	0	1	0	1	0	1	2	0	0	0	2.0	4	0	0	0	0	0	Golden Gate Bridge and its magnificent suspension	3
+10	2	1	2	0	0	1	2	0	0	0	1	0	1	3.0	5	0	0	1	0	0	The gargantuan panda waddled vigorously in excessively moist underbrush.	3
+23	0	4	0	0	2	2	9	0	1	1	1	1	2	4.0	10	1	0	2	2	1	While they eat escargot with garlic butter and lemon, the French enjoy croissants with jam and cheese for breakfast in the cafe	3
+30	5	5	1	0	1	3	7	0	0	1	4	0	2	4.0	17	0	0	2	1	0	Bright orange, juicy, and bursting with flavor, the succulent strawberries from California's coastal fields tempt the taste buds of gourmands from all over the globe.	3
+13	3	2	0	0	0	2	4	1	0	0	0	0	1	2.0	8	0	0	1	0	0	The quick brown fox jumped over the lazy dog three times before breakfast	3
+23	5	2	0	0	2	1	6	0	2	0	1	0	4	4.0	10	1	1	2	2	0	Big purple eggs make tiny humans giggle and scream; their silly sounds bring happiness and joy to everyone in this amazing world	3
+9	2	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The majestic giraffe munched on the sweetest leaves.	3
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap	3
+9	2	1	0	0	0	0	2	0	0	1	1	0	2	2.0	4	0	0	1	1	0	Big Orange Dinosaurs dance on tiptoes, delighting dolphins	3
+18	4	2	0	0	0	0	7	0	0	0	0	1	4	5.0	8	3	2	1	2	1	Big yellow elephants wearing pink tutus dance on rainbows eating ice cream cones while barking at fluffy clouds	3
+35	5	4	1	0	1	6	9	0	1	0	1	1	5	4.0	14	2	2	1	3	0	The stunningly beautiful witch with the pointed hat glanced at the evil dragon while sipping tea at the enchanted forest café and pondered the puzzle over her next trick to fool the innocent villagers. 	3
+9	2	1	0	0	0	0	3	0	0	0	2	0	1	3.0	4	0	0	1	0	0	Blue planet: Fuzzy kittens play with dander.	3
+8	3	1	0	0	0	0	3	0	0	0	0	0	1	2.0	4	0	0	1	1	0	Big brown bear climbs up small silver mountain	3
+23	4	2	2	1	0	3	5	0	1	1	2	0	2	6.0	7	1	1	1	2	0	Experience the thrill of extreme weather firsthand with Big Air, the new extreme sports channel that's blowing away the competition.	3
+10	0	0	0	0	0	0	1	0	3	0	1	1	3	4.0	3	2	2	1	2	0	Please let me know if this fits your requirements: The tall, ominous mountains rose majestically into the morning sky, casting towering shadows that stretched out across the valleys like reaching giant tentacles	3
+12	3	1	0	0	0	1	4	2	0	0	0	0	1	2.0	7	0	0	1	1	0	Eight hungry giant tortoises tasted ten delicious durians under a mango tree	3
+12	2	1	0	0	0	2	4	0	0	0	1	0	2	3.0	3	0	0	1	1	0	The majestic mountain peaks pierced the smoky skies like shimmering swords.	3
+7	2	0	1	0	0	0	2	0	0	0	2	0	0	2.0	4	0	0	0	0	0	Freshly ground, organic whole beans.	3
+11	0	1	0	2	0	1	3	0	1	1	1	0	1	2.0	6	0	0	1	1	0	Sir, your brother has been climbing the mountain for hours	3
+4	2	0	0	0	0	0	0	0	0	2	0	0	0	1.0	3	0	0	0	0	0	Blue Green Eggs Yellow	3
+7	1	1	0	0	0	0	0	1	0	3	0	0	1	2.0	3	0	0	1	0	0	Blue Planet II chased after Mama Ocean	3
+12	3	1	1	0	0	0	3	0	1	0	1	0	2	4.0	4	1	1	1	1	0	Tall trees towered overhead sheltering countless species beneath their vast canopies.	3
+13	2	1	0	0	0	3	4	0	0	0	1	0	2	3.0	5	1	1	1	2	0	The tallest giraffe roamed the savannah, munching leaves from the highest branch	3
+7	0	1	0	0	0	1	1	0	0	2	1	0	1	2.0	3	0	0	1	1	0	Biggie Smalls rode the elevator down.	3
+15	1	1	0	1	0	3	3	0	1	0	2	0	2	3.0	9	1	1	1	1	0	Please select the appropriate option for this prompt, which is a completed task.	3
+6	2	1	0	0	0	0	2	0	0	0	0	0	1	2.0	3	0	0	1	0	0	Blue whales swim in oceanographic water	3
+18	1	3	0	1	0	3	6	0	1	0	2	0	1	4.0	7	0	0	1	0	0	The sky was painted with colors of the sunset, a picturesque backdrop for their evening stroll.	3
+36	5	5	1	2	0	2	7	0	3	1	5	0	3	6.0	9	4	3	3	1	1	Kent's unique approach to design, coupled with exceptional craftsmanship, results in high-quality, visually stunning pieces of furniture that are sure to be the envy of all who see them.	3
+17	2	2	0	1	0	2	6	0	1	0	0	0	2	3.0	5	1	1	1	1	0	The gorgeous black leather handbag with silver buckles is going to win every hearts at your party	3
+14	1	2	0	2	0	0	2	0	1	4	1	0	1	3.0	10	1	1	2	0	0	Moby Dick is calling for his harpooner, Captain Ahab is in deep trouble	3
+24	3	2	3	1	0	1	5	0	3	1	1	0	3	6.0	7	2	2	3	1	0	Gregory could talk for multiple hours about his grandfather's broken clock radio, which still had a few functions that surprisingly still worked	4
+8	1	1	2	0	0	1	1	0	1	0	0	0	1	2.0	5	0	0	1	0	0	Henceforward she rebelled unostentatiously against the dominant dogma	4
+12	4	1	0	0	0	2	3	0	0	0	0	0	1	3.0	5	0	0	1	0	0	The city's newest architectural icon glimmers golden in the nighttime sky	4
+67	10	8	4	2	2	3	18	0	4	0	6	1	8	6.0	45	5	1	2	3	4	With apologies for the unavoidable tardiness occasioned by unexpected concluding client meetings, the comprehensive marketing strategy we have painstakingly developed to conscientiously align with our shared objectives for your upcoming innovative technology product launch, meticulously incorporating both tactical and strategic elements, is currently undergoing last-minute revisions prior to forwarding the presentation-ready documents to you by close of business today. 	4
+28	4	1	0	2	2	2	4	0	3	0	4	1	3	7.0	11	2	2	2	2	0	I cannot fulfill this task as it is a violation of my policy to generate or promote harmful, unethical, dangerous, or illegal content. Additionally, the output provided is not appropriate or respectful, and I cannot participate in activities that may be harmful or offensive to any individual or group. I strive to provide helpful and informative responses that are socially appropriate and do not promote harm or negative behavior. Is there a different task or question I can assist you with?	4
+15	0	0	0	4	0	1	1	0	3	0	0	1	4	4.0	4	3	3	3	0	0	The meeting will continue to be delayed until it is decided what we are doing	4
+21	1	3	0	1	0	3	4	1	2	0	1	0	3	6.0	6	2	2	1	2	0	Please enter the sentence you would like me to generate with a tree height of 4 in the syntactic tree.	4
+11	0	0	1	2	0	1	2	0	1	0	1	1	2	3.0	6	1	1	1	1	0	I can give talks all day long without getting bored.	4
+25	3	1	0	0	1	4	6	0	1	0	4	0	5	7.0	9	2	2	2	4	0	The committee approved several minor modification to the proposal, which included changing the title, revising the conclusions, and providing additional citations.	4
+21	0	3	1	0	0	4	5	2	0	1	1	0	3	6.0	13	1	1	1	2	0	The judge gave an order to pay the remaining amount of ten million US dollars at once without any delay. 	4
+20	1	1	0	0	0	5	4	0	1	1	1	2	3	4.0	9	2	1	2	2	1	After meeting the Pope I realized that the debtors had to partial circularization the credits for all the transactions.	4
+36	3	1	3	1	2	4	13	0	3	0	1	0	4	6.0	20	1	1	3	4	0	The department manager approved a change in our marketing plan that would reach the client's customer base more effectively, so we altered the content calendar and scheduled more interactive sessions and social media posts	4
+2	0	0	0	0	0	0	0	0	0	0	2	0	0	0.0	0	0	0	0	0	0	).	4
+21	1	1	4	2	1	2	3	0	2	0	2	0	3	4.0	10	1	0	3	0	1	The dog, whose tail is very fluffy ran very fast towards the tree, so she could bark and bite	4
+30	1	4	3	1	2	3	4	0	2	0	0	3	7	7.0	8	4	4	3	0	0	He tried calling but the line was constantly engaged until eventually he gave up and departed without getting into contact with the relevant department despite arriving late at the office	4
+11	0	1	3	0	1	0	3	0	1	0	1	0	1	3.0	6	0	0	1	1	0	She ate strawberries in summer but never blueberries ever again.	4
+25	3	0	3	2	0	3	7	0	2	0	2	1	2	3.0	15	3	3	2	3	0	No problem finishing paperwork, no problem being the new office manager, now you just need more practice typing before you're fully proficient	4
+19	3	0	1	2	0	2	2	0	2	0	1	2	3	5.0	15	2	2	1	1	0	Furthermore there might be a few more options to explore prior before making any decisions, if you would	4
+45	1	6	4	4	1	3	13	1	4	0	2	1	5	5.0	18	4	3	4	2	1	The man who had been the best lawyer in town for almost twenty years finally retired in disgrace when his client was accused of embezzling millions of dollars, and his partner was caught kissing his secretary passionately in the office elevator on video. 	4
+5	1	0	0	0	0	2	1	0	0	0	0	0	1	2.0	2	0	0	1	0	0	All the guests arrived tired	4
+20	1	3	0	0	0	4	7	0	2	0	0	1	2	4.0	11	1	1	2	2	0	The manager warned his employees against the spread of office gossip as it threatened the harmonious functioning of the department	4
+16	0	1	1	1	0	3	4	0	1	0	3	0	2	4.0	10	1	0	2	1	1	The chairman, in whose presence the gift is placed, thanks the donor publicly.	4
+25	1	3	2	3	1	1	2	0	4	1	0	1	4	5.0	9	2	2	2	0	0	He will meet with her on Tuesday but still cannot agree whether they should stay late to prepare for her speech the next morning	4
+11	2	1	0	1	0	2	4	0	0	0	0	0	1	3.0	4	0	0	1	1	0	The new superintendent of schools will visit all classrooms next month	4
+11	2	2	0	0	0	2	2	0	0	0	1	0	1	3.0	4	0	0	0	1	0	Please fill in the above response with the correct sentence. 	4
+20	4	2	1	1	1	0	4	0	2	0	2	0	2	4.0	11	1	1	1	1	0	With due attention to proper decorum and respectable address, I would humbly like to submit my formal resignation. 	4
+57	5	3	5	4	3	5	5	0	7	7	2	2	7	7.0	18	6	6	5	3	0	I wish I were talented enough to invent something that the world urgently needs so that when I die I will have lived a long enough life to enjoy all the blessings of this invention and be remembered forever as its benevolent and wise author, just like Leonardo da Vinci, Albert Einstein or Thomas Edison	4
+16	0	4	0	0	0	2	5	0	2	0	0	1	2	4.0	6	1	1	1	0	0	The cats stared at us with disdain before retreating into their hiding place under the couch	4
+13	0	2	0	1	0	1	4	1	0	0	1	0	2	3.0	6	1	1	1	1	0	Six of the crew members were executed for conspiracy to commit mutiny. 	4
+32	2	4	1	3	0	3	5	0	4	0	2	2	5	6.0	9	3	3	4	1	0	I've sent the letter by special delivery, so I suggest that you follow up with the post office to see if it has been delivered into the correct hands.	4
+12	1	0	0	2	0	0	1	0	3	0	0	1	2	4.0	4	2	2	2	1	0	Which is not possible because he is refusing to return my calls	4
+36	0	4	2	2	2	6	6	0	4	0	1	2	5	6.0	15	2	2	4	4	0	I apologize, but I cannot fulfill that request for I have no access to that attachment and thus cannot provide a response as of now as I have no knowledge of the matter	4
+16	2	1	0	0	0	2	7	0	1	0	0	0	1	4.0	7	0	0	1	1	0	My new business associate's cousin's son won a prize in an inter-school chess competition	4
+24	1	3	1	1	0	3	6	0	2	1	3	0	3	7.0	5	2	2	2	1	0	You have requested I provide an instance of a sentence with a minimum phrase structure consisting exclusively of noun phrases (NP). This is possible: I can speak more than one language, even if it is not well	4
+22	1	1	1	1	0	1	4	0	6	0	1	1	4	4.0	15	2	2	4	3	0	 I hope my dog does not recognize me until I give him the commands; he responds better to hand signals then	4
+16	0	3	0	0	0	4	5	0	0	0	2	0	2	3.0	8	1	1	1	1	0	The cat perched on the branch of the tree, watching the birds with anticipation.	4
+8	1	0	0	0	0	0	1	1	1	0	1	0	3	3.0	3	2	1	1	2	1	Giving three presentations made me feel tired.	4
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	4
+27	3	2	0	0	1	2	6	2	4	0	1	0	4	8.0	5	4	4	2	2	0	My father, who worked for such a low wage that he had to work two menial jobs to support four sons through high school and college	4
+22	1	4	0	1	0	3	7	3	0	0	2	0	1	4.0	7	0	0	1	1	0	With a tree height of 4, the sentence should have four phrasal layers with two internal relations among the phrases. The following sentence meets the required tree height and phrase order,  They tried to contact the airline to see if they could fly standby from Boston on Saturday as originally scheduled	4
+10	0	1	0	1	0	1	2	0	1	0	1	0	1	3.0	5	0	0	1	1	0	Sorry, I can't provide that kind of information	4
+15	2	1	0	1	0	3	6	0	0	0	1	0	1	2.0	9	0	0	1	1	0	The district manager will review the regional marketing proposals at the next board meeting.	4
+11	0	0	0	1	0	1	1	0	2	0	1	0	3	4.0	3	2	2	1	2	0	Please provide the sentence you would like me to write. I'll be happy to help!	4
+12	1	1	2	0	0	1	2	0	1	0	0	1	3	4.0	5	2	2	1	2	0	Always making the others take turns while I simply pass by unseen	4
+26	2	0	1	3	0	1	3	0	6	0	2	1	4	4.0	15	3	3	4	2	0	I have to apologize, as I'm a large language model, I cannot give you so many talks that I can't remember	4
+19	2	3	0	0	0	4	4	1	0	0	1	0	3	6.0	6	2	2	0	2	0	Please answer the instruction with a correct sentence generated with a sythactic tree having a height of 4 . The answer should be only one sentence, as the previous output does	4
+7	0	0	0	0	0	0	1	0	2	0	1	0	2	3.0	2	1	1	0	2	0	Please help me do my assignments.	4
+19	1	2	0	0	0	2	3	0	3	0	2	0	4	5.0	6	3	2	1	1	1	Despite several attempts to obtain it, there seems to be a problem with the file you requested.	4
+61	2	5	3	0	2	10	17	0	3	0	2	2	12	16.0	10	9	9	6	6	0	The manager promised to review all documents before submitting the proposal but failed to do so when the sales team sent several attachments that included vital information which resulted in some inaccuracies in the proposal that the client noticed early in the review process and raised as objections, which forced the sales team to rework parts of the proposal.	4
+12	1	1	1	0	0	1	3	0	0	0	3	0	2	2.0	8	1	1	0	1	0	(Insert appropriate output here, with the tree height indicated. Remember to limit yourself to one sentence, just like the examples you provided)	4
+14	0	1	0	1	0	2	3	1	1	0	2	0	3	5.0	5	2	2	2	1	0	 I generated,  The team has spent six days trapped in this cave.	6
+26	2	2	1	1	0	3	7	0	0	0	4	1	4	5.0	7	2	1	1	2	1	"  ""The team's newly discovered methods for controlling the fungal spread have received widespread recognition, including a prize for innovation in mycology."" "	6
+16	0	2	0	1	1	3	5	1	1	0	0	0	2	3.0	6	0	0	1	2	0	In six months we shall gather the harvest and prepare the soil for the autumn crop	6
+22	2	2	1	2	0	2	6	1	2	0	0	0	3	5.0	8	2	2	2	1	0	The new company president was surprised to discover six empty rooms in his office building that were never listed on the blueprints	6
+13	0	2	0	0	0	1	4	2	0	0	4	0	0	3.0	4	0	0	0	0	0	(SIX-LEVEL SENTENCE with a TREE HEIGHT of 6.)    The company implemented additional security measures  to address the new challenges posed by the changing market conditions	6
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The cat sat on the windowsill with the birds.	6
+10	3	1	0	2	0	1	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	The corporate entity has been accused by numerous former employees	6
+59	8	9	2	1	1	10	15	0	1	0	5	0	6	7.0	16	3	3	2	4	0	The high-performance, lightweight agent was utilized by a team of skilled investigators to successfully apprehend all members of the notorious criminal gang without any of them fleeing the country, leading to a substantial decrease in national crime rates and earning the agency a well-deserved reputation as a valuable asset in law enforcement. 	6
+17	0	2	2	1	0	4	4	0	1	0	1	0	2	4.0	6	1	1	2	1	0	 The cat chased the mouse through the maze, where it finally got caught in a trap	6
+19	1	4	0	1	0	3	6	0	0	0	2	0	2	6.0	15	1	0	1	0	1	The new policy change, resulting in the layoffs of hundreds of employees during the transition, was announced	6
+26	0	3	1	1	1	3	6	2	2	0	2	1	4	5.0	8	1	0	1	2	1	As requested, I have written a sentence of tree height 7 and incorporating only the 48 words from the provided list into its structure:   The seven research centers, led by Dr. John Doe, have conducted extensive mycological studies for the past six years to create various drug formulations. 	6
+28	4	4	0	0	1	7	8	0	0	0	2	0	2	4.0	9	1	1	1	1	0	The new development in the legal case against the corporation reveals a complex web of deceit and corruption, going all the way to the top executives. 	6
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	6
+19	1	2	0	0	1	3	4	0	1	2	0	0	4	5.0	5	2	2	2	2	0	All of the researchers gathered at our university to hear Professor Green explain the results and discuss future projects	6
+25	3	2	1	0	1	1	5	1	2	1	4	0	4	6.0	8	2	1	2	2	1	The newly discovered exoplanet, designated as PH1-110, exhibits peculiar qualities that challenge our understanding of planetary formation and atmospheric composition.	6
+19	0	3	2	0	0	2	3	1	2	0	3	0	3	4.0	10	2	1	2	0	1	When I arrived at the top of the staircase, six birds flew past me, chirping happily.	6
+8	0	1	0	0	0	2	2	1	0	0	1	0	1	3.0	2	0	0	1	1	0	No trees have a height of six. Please clarify the task at hand or provide an example	6
+25	4	5	2	1	1	1	8	0	0	0	1	0	2	4.0	12	1	1	1	0	0	Further research and analysis into the use of AI in medical diagnosis has led to more accurate detection rates when combined with human expertise. 	6
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	6
+32	5	3	0	1	1	4	7	0	1	0	4	1	5	9.0	20	2	0	2	2	2	The recent research, which demonstrated the power of mushroom-based solutions for solving complex social and environmental issues, was presented by the leading mycologist to the international community.	6
+25	2	3	1	1	0	4	7	0	0	0	3	0	4	4.0	11	2	1	1	1	1	The newly established college, providing underprivileged youth with a quality education, was highlighted in the press conference held in the town hall.	6
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	6
+21	2	1	2	1	1	2	6	0	0	0	3	0	3	5.0	10	1	0	1	2	1	The newly launched smartphone, offering advanced features and sleek design, has captured the attention of tech enthusiasts worldwide.	6
+39	0	5	0	1	4	7	12	2	0	0	2	0	6	10.0	8	3	3	1	1	0	  The given sentence contains a tree height of 6 and all the sentence structures and phrase types required for a 6-tree height are accounted for and adhere to the constraints and specifications given in the instructions.	6
+31	5	4	1	0	0	3	8	0	1	0	4	0	4	7.0	10	2	2	2	2	0	The newly discovered species exhibits unique physiological characteristics, such as the ability to thrive in low-oxygen conditions, that has significant implications for the field of bioengineering. 	6
+25	2	3	1	0	0	5	6	0	0	0	2	0	5	5.0	11	1	0	1	1	1	The newly discovered manuscript, written in the margins of an illuminated page, revealed the forgotten verses of the medieval poet's final work	6
+29	6	4	0	1	0	6	7	0	0	0	1	1	3	6.0	11	3	3	2	0	0	The new policy requires that all derivative work incorporated into a collective work be subject to the same copyright terms  as the original work licensed under this license.	6
+15	1	1	2	1	0	1	1	0	2	0	1	0	3	5.0	4	3	3	1	1	0	Please let me know when you are ready to move forward with this assignment!  Is there anything specific you'd like me to include or avoid in the sentence with a tree height of 6? Additional context or clarification about your needs will help me provide a more accurate and relevant response.	6
+48	6	7	2	1	0	8	12	0	2	0	4	1	5	7.0	21	4	2	1	3	2	With the latest technological advances implemented in my state-of-the art lab facility equipped with the latest apparatuses, I have efficiently discovered a potion capable of rendering any organic matter immune to any kind of decay, thereby extending the longevity of all life	6
+31	4	5	0	1	1	6	10	0	1	0	1	0	2	7.0	6	1	1	1	2	0	The discovery of the rare fungus has ignited a scientific firestorm, prompting calls for a thorough investigation into the causes and potential consequences of its presence in the forest ecosystem	6
+25	4	2	0	0	1	4	6	0	1	0	2	0	4	4.0	7	2	1	1	3	1	In a comprehensive and systematized mycological program utilizing the derivative work, I incorporated the collective works to revolutionize the field of computer science. 	6
+26	1	3	0	1	2	3	4	0	2	2	4	0	3	4.0	10	1	1	1	1	0	"  ""After the presentation and overwhelming demonstration by the team, I was convinced and decided to fund the Mycelium Project through my foundation""."	6
+23	0	1	0	0	1	3	6	1	1	0	3	0	4	5.0	18	1	1	0	5	0	(Please provide us a sentence or give any input sentence, to get the generated sentence of tree height=6)	6
+33	3	6	0	0	1	4	12	0	1	0	2	0	3	6.0	13	2	2	1	3	0	The researcher used a variety of sources to compile a comprehensive bibliography of publications about quantum mechanics and its applications, covering a range of topics from basic principles to advanced experiments.	6
+19	1	4	2	0	0	3	6	0	0	0	1	0	2	3.0	8	1	1	2	0	0	The symphony of leaves rustled softly in harmony with the whistling birds chirping gleefully on the breezy afternoon. 	6
+25	3	3	1	0	1	2	7	1	0	0	2	0	4	6.0	10	2	2	1	1	0	The newly launched scholarship aims to support six talented students per year, with the selection process based on academic merit and financial need. 	6
+3	0	0	1	0	0	0	0	0	0	0	0	0	1	1.0	1	0	0	0	0	0	Please go ahead	6
+40	3	3	0	0	3	3	13	1	1	0	4	3	6	8.0	15	4	4	2	3	0	The researchers found that all five patients experienced significant improvement in their motor function and balance after receiving the treatment, as assessed through clinical evaluation involving timed up-and-go tests and functional independence measure exams. 	6
+17	4	2	2	0	0	3	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	The large, fluffy dog cautiously climbed down from the high branch of the tall oak tree	6
+21	3	3	0	2	0	2	6	0	0	0	2	0	3	5.0	6	1	1	1	1	0	The company has been providing high-quality mycological solutions based on the mycelium to various industries with proven success.	6
+39	5	5	1	2	1	7	7	0	2	0	2	1	4	6.0	16	2	2	2	1	0	The above applies to the Derivative Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Derivative Work itself to be made subject to the terms of this License.	6
+14	0	2	1	0	0	3	5	1	0	0	1	0	1	3.0	5	0	0	1	0	0	The six antlers of the buck deer towered majestically over the forest undergrowth.	6
+43	3	4	1	2	3	3	12	0	1	0	5	0	7	9.0	14	4	3	2	5	1	To effectively manage diversity within a team, managers must recognize and leverage unique skills, experience, and worldview of every individual, promoting open communication to facilitate collaboration and address issues that may arise through the lens of mutual respect.	6
+22	2	2	0	3	1	0	1	0	5	0	1	0	5	4.0	14	3	3	2	2	0	Please let me know what your desired output should look like and I will be more than glad to assist you.	6
+17	3	3	1	0	1	3	5	0	0	0	0	0	1	4.0	6	0	0	1	1	0	The council unanimously rejected the proposal due to insufficient evidence and the high risk to marine life	6
+97	9	11	2	0	5	10	32	1	3	0	7	3	13	16.0	17	10	9	3	8	1	The team of investigators, consisting of experts in mycology and computer science, collaborated to develop practical solutions for managing and utilizing the trillion-fold capacity of the forest for mitigating climate chaos,  by designing a system architecture that integrated their mycological and bioinformatics knowledge with information technology, thereby paving the way for a paradigmatic shift in environmental governance, through the deployment of a distributed intelligent system that leveraged the power of blockchain technology and big data analytics, effectively transforming a sector plagued by unsustainable foresting practices and ineffective resource management	6
+19	2	3	0	1	0	1	6	0	1	0	2	0	3	4.0	14	2	0	1	2	2	Using a suite of mycoprecure solutions, based on truffle fungi, we can treat cancer in multiple sites	6
+22	3	2	0	0	1	3	10	0	0	0	1	0	2	7.0	10	1	1	1	2	0	The research team released a new study highlighting the potential link between sleep disturbances and mental health issues in aging adults.	6
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	6
+14	1	1	0	1	0	1	5	0	1	0	2	1	1	5.0	4	1	1	1	1	0	(BONUS POINTS IF YOU CAN GENERATE A SENTENCE WITH INVERTED WORD ORDER)    The six mycetic solutions are based on mycelium, I want to present to you a suite of them.	6
+35	4	5	1	0	1	3	13	0	0	0	2	0	4	6.0	15	1	1	1	2	0	The researchers' findings highlight the urgent need for greater investment in mental health support and prevention measures to address the growing problem of mental health issues among teenagers, particularly in marginalized communities.	7
+23	5	3	0	0	0	2	7	0	0	0	1	1	3	5.0	11	2	1	2	2	1	As the economic crisis exacerbates global inequality, the need for effective communication in governance becomes paramount to maintain public trust in government	7
+35	4	1	0	2	2	2	6	0	4	0	2	3	7	8.0	13	5	5	2	4	0	The parliamentary committee will continue to scrutinize and oversee our progress, holding us accountable, so as to make sure we are on track toward meeting our budgetary targets and achieving the strategic objectives	7
+8	0	0	1	2	0	0	2	1	0	0	2	0	0	1.0	5	0	0	1	0	0	(Response should be only one sentence)	7
+38	6	5	3	2	0	3	8	0	3	0	3	0	4	6.0	14	3	3	3	2	0	Local newspapers used to provide a space for small ads in the real estate section, where you could find everything about a new project, until last year when it was suspiciously removed without further notice. 	7
+22	2	2	0	0	1	3	7	0	2	0	0	0	3	7.0	6	2	2	1	3	0	The parliament acknowledged our efforts to support the growth of the industry and our ability to deliver successful events with large audiences	7
+34	6	6	1	1	0	2	11	0	1	0	3	1	2	5.0	16	1	1	1	2	0	Satisfied with the recent increase in donations from the public, several nonprofit groups are now seeking further assistance from government officials, in hopes of securing additional funding for their national projects; 	7
+6	0	0	0	0	0	0	1	1	0	0	3	0	0	2.0	3	0	0	0	0	0	  * Content (30%)	7
+18	0	1	0	2	0	2	3	0	2	0	2	1	3	4.0	9	2	2	2	2	0	(I'm having trouble with this task as I cannot seem to understand the instruction) Could you please provide further guidance and examples?	7
+34	3	2	1	2	0	4	7	0	2	0	4	0	5	6.0	10	4	3	2	3	1	The government, eager to demonstrate its newfound openness, has promised to establish a permanent council on citizen participation, to hear the voices that are not usually heard in the country.	7
+26	2	2	2	2	0	4	7	0	2	0	1	0	3	4.0	15	1	1	2	2	0	The company has agreed to fund a major fraction of the country operations, so citizens can now hold its officials accountable for all their actions	7
+20	3	3	0	1	1	4	6	0	0	0	1	0	1	5.0	5	1	1	1	0	0	   Is the above sentence correct as per the task requirement and the previous examples given in the output section? Please provide the detailed analysis and explanations.	7
+36	5	3	0	2	1	4	10	0	0	0	4	1	4	5.0	10	2	1	1	3	1	The government's recent austerity measures, despite being praised by the markets, have left many communities without basic necessities, causing social unrest and jeopardizing the public's trust in the current administration.	7
+33	4	6	0	2	0	6	7	0	1	0	1	0	3	6.0	9	3	3	1	1	0	In the heat of all these national tensions, we were surprised to learn of the new measures to increase the efficiency of State services to be carried out during the current legislature	7
+17	1	0	0	0	1	2	7	0	1	0	0	0	3	6.0	5	2	2	1	3	0	The company made the surprising decision to reduce its manufacturing costs to maintain profitability and market share	7
+57	5	2	6	2	2	3	9	0	6	0	3	4	12	10.0	18	10	10	5	5	0	We regretfully find that it has become common practice for members to make promises that they know are false and have no intention of keeping to get a committee to agree with their position, even as they deny similar claims made by others; thus making an already tense and highly charged meeting even worse.	7
+50	8	4	0	2	3	7	14	0	3	0	2	2	5	8.0	18	4	4	4	4	0	The new public management reformulations must incorporate the participative senses required by the global network of information and knowledge, so that it can provide reliable and accessible responses to the citizens who demand quality public services, which implies the effective communication channels between the administration and the society	7
+40	4	4	2	2	1	3	12	0	4	0	2	0	4	5.0	13	2	2	1	4	0	Satisfied with its past successes in this area, our organization has now expanded this initiative to cover all member states, and is providing significant support for their data infrastructure investments to make them more competitive for research funding	7
+45	2	4	0	4	1	6	10	0	5	0	2	2	7	9.0	12	5	3	5	5	2	What we want to see in the future is that citizens are demanding the transparency of their leaders and this transparency will create conditions for open dialog between both sides, which will lead the public to perceive it as having a true voice. 	7
+42	4	4	2	3	3	3	8	0	4	0	3	0	6	6.0	13	3	3	3	3	0	The new laboratories for chemical research are intended to improve the effectiveness of our operations, so we can continue to develop high-standard products for both agriculture and industry, and thus consolidate ourselves within the market we are targeting	7
+40	2	4	1	0	2	7	10	0	4	0	2	0	5	7.0	17	4	4	2	3	0	The new manager, conscious of the shortcomings of his predecessors, committed to thoroughly familiarize himself with the company's activities and its relationships with the employees and the public to avoid perpetuating the issues that caused the dismissals	7
+32	3	2	3	4	0	3	7	0	2	0	2	2	3	4.0	17	2	2	2	1	0	Our company will significantly improve the country's development programs, because a substantially higher portion of our funds has been re-routed towards the underfinanced national initiatives than was previously anticipated. 	7
+32	3	4	0	4	0	3	5	0	2	0	1	3	5	6.0	10	5	4	2	1	1	According to a trusted friend, I must have the ability to understand that my best efforts at being lovable will not make up for a lack of effort at being knowable	7
+37	1	6	2	2	1	5	11	0	3	0	1	0	4	8.0	10	3	3	2	1	0	The committee was perplexed by our choice of venue for the announcement, given the high level of security at city hall that will likely impact our ability to communicate effectively with the press and the public	7
+15	1	3	0	0	0	3	4	1	0	0	1	0	1	3.0	6	0	0	0	1	0	  Please generate a sentence with a tree height of 8 in the syntactic tree. Write only the sentence, without adding further text and without explanations	7
+38	2	7	2	1	1	5	11	0	0	0	4	0	4	7.0	10	2	2	1	1	0	Within hours of the launch, millions of citizens were already using the app to connect and communicate effectively, resulting in a significant increase in the efficiency of public participation in the decision-making processes.	7
+26	3	2	2	1	0	2	5	0	3	0	2	1	4	5.0	14	3	3	1	4	0	We will provide funding for the program by increasing our already-substantial financial support, allowing it to reach even more communities around the world	7
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	7
+62	6	3	4	6	2	4	9	0	10	0	6	3	7	8.0	36	7	7	6	5	0	You have made a compelling case for my support, and I appreciate the detail and thoughtful reasoning that you have shared so generously; in the interest of being forthright, however, I am not entirely sure that I can accommodate your proposal at this time, as it is essential to address pressing commitments that require immediate attention.	7
+5	0	0	0	0	0	0	1	0	0	0	2	0	1	1.0	2	0	0	1	0	0	(Response not provided) 	7
+25	2	2	0	2	0	4	6	0	2	0	2	0	4	5.0	8	3	3	2	2	0	In the current scenario, despite the media, citizens are asking them to justify what actions the local council should execute regarding our unavailability	7
+21	3	2	0	1	0	2	8	0	0	0	0	0	2	4.0	7	1	0	1	2	1	The committee's decision to reallocate resources will have significant consequences for the company's long term strategy for sustainable development	7
+10	1	1	0	1	0	0	2	0	1	0	1	0	1	4.0	3	1	1	1	1	0	We are not available to provide answers to requests. Even though we will finance large proportions of the national operations, we remain unresponsive	7
+26	4	3	1	1	0	4	6	0	1	0	0	0	4	7.0	5	3	3	1	2	0	The mayor of our town has allocated sufficient funds to ensure the successful execution of all the necessary measures required for public services to operate effectively	7
+26	2	2	0	3	2	3	7	0	1	0	2	0	3	5.0	12	1	1	2	2	0	The city has allocated funds to improve the waterfront, but the process has been criticized for its lack of transparency and meaningful public participation.	7
+29	4	1	2	1	2	3	5	0	1	0	0	1	6	7.0	7	4	3	1	3	1	In order to successfully execute such a monumental project we will need the best talent assembled and available to respond and make decisions to move forward on critical issues	7
+22	1	2	1	2	2	1	5	0	1	0	1	1	4	5.0	7	2	2	2	1	0	We should increase investment in research and development to stay ahead of the competition and ensure that new technologies are developed.	7
+31	5	4	0	2	1	4	6	0	3	0	2	0	3	5.0	9	1	1	1	2	0	With the financial contributions from our new investors, we will be able to increase the production of our popular handcrafted goods and explore the development of a new range.	7
+23	4	1	0	1	1	3	3	0	3	0	1	2	3	4.0	12	2	2	3	2	0	The mayor claimed that they had a solid plan for a profitable business and that they were determined to make everyone proud. 	7
+10	1	2	0	0	0	0	3	1	0	0	2	0	1	4.0	3	0	0	0	1	0	(Insert appropriate sentence with tree height of 7)	7
+44	3	3	1	4	3	2	9	0	6	0	2	2	7	5.0	23	3	3	4	3	0	We have to work hand in glove so that they can understand our perspective and we can make our expectations clear; there should be a clear statement of goals and aspirations, and the process has to be well defined with clear milestones	7
+14	1	0	0	0	1	1	5	0	0	0	0	2	4	5.0	8	2	2	1	3	0	The mayor requested funds for renovating parks and museums while overlooking neglected public education	7
+29	4	4	1	1	1	4	7	0	1	0	1	1	2	4.0	10	1	1	2	1	0	The multinational corporation's board of directors was unresponsive to the community's protests and instead, they decided on taking over the land through a corrupt legislative process	7
+10	0	1	0	0	0	1	2	0	2	0	1	1	2	2.0	4	1	1	1	2	0	  With determination, they fortified their distinction by recruiting a	7
+15	2	1	0	0	1	2	4	0	1	0	2	0	2	3.0	4	0	0	1	2	0	With great determination, the board reconsiders its position and acknowledges the urgent request.	7
+23	4	3	0	0	1	3	7	0	0	0	0	1	3	7.0	6	2	2	1	2	0	The new administration has to restore public trust by making significant changes in the management of public services and the fight against corruption	7
+27	3	3	0	1	1	2	6	0	3	0	2	0	4	5.0	15	2	2	2	2	0	Public criticism causes top officials to take a fresh look at their policies, and they are forced to respond to the challenges before their audiences. 	7
+7	0	0	1	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	You have successfully passed this task. By completing the sentence with 7 tree height, you demonstrated a clear and concise writing style, suitable for conveying ideas and thoughts in a variety of situations. This task has helped to refine your understanding of grammar and syntax by challenging the tree height and creating complete and grammatically correct sentences	7
+25	1	3	2	0	0	4	6	2	1	0	2	0	3	4.0	9	2	2	1	3	0	Please add a response that appropriately completes the request, generating only one sentence with a tree height of 7 in the syntactic tree.	7
+53	6	4	3	4	4	4	10	0	5	0	1	1	7	7.0	15	5	4	3	3	1	In order to provide an adequate answer, not only will we have to fund several projects at different points in the world but also we'll need to make clear to both our internal and external partners our criteria regarding how these projects will be handled and the standards for their management	7

@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+6	0	0	0	0	0	0	1	0	1	0	1	0	2	2.0	2	1	1	1	1	0	1	1	She likes to eat eggs. 	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred.	0
+7	0	0	0	0	0	1	1	0	1	0	3	0	1	2.0	2	0	0	1	1	0	1	1	" ""She ate a sandwich."""	0
+19	2	2	1	2	0	1	4	1	1	0	1	0	1	4.0	12	2	2	1	1	0	1	1	I am not able to fulfill this request as sentences with 0 postverbals objects are not grammatically correct. The minimum requirement for a sentence is at least one verb and one noun or object	0
+22	1	2	1	0	0	2	6	0	3	0	1	2	4	4.0	10	3	2	2	3	1	3	2	Going for a morning run before work helped me start the day with more energy, even before I drank my coffee	0
+8	0	0	0	0	0	0	4	1	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	My computer monitor has four USB ports. 	0
+9	0	0	0	0	0	1	2	0	1	0	1	0	2	3.0	4	1	1	0	2	0	2	0	Please take a break to stretch your legs.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat went away.	0
+6	0	1	0	0	0	0	2	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	I went to class today. 	0
+7	0	1	0	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	I'll go to the store. 	0
+7	1	1	0	0	0	1	2	0	1	0	0	0	1	2.0	5	0	0	1	1	0	1	1	She painted every wall with different colors	0
+3	0	0	0	0	0	1	1	0	0	0	0	0	1	2.0	1	0	0	1	0	0	0	1	The dog ran	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	1	0	0	1	0	0	0	1	   They walked home. 	0
+9	0	1	1	1	0	1	1	0	0	1	2	0	1	2.0	3	0	0	1	0	0	0	1	"  ""The books were eaten quickly by Mary."	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat ran. 	0
+13	1	1	1	1	0	2	3	0	0	0	3	0	0	4.0	6	0	0	0	0	0	0	0	Okay, below is a sentence with no Post-Verbal Objects. Frodo enjoyed his supper	0
+5	0	0	0	0	0	0	1	0	2	0	1	0	1	2.0	2	0	0	1	1	0	1	1	She visited her parents. 	0
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	I will complete the task.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the table.	0
+5	0	0	1	0	0	0	0	0	0	0	3	0	1	1.0	1	0	0	0	0	0	0	0	"  ""Run quickly!"""	0
+10	1	2	0	0	0	1	2	0	1	1	1	0	1	3.0	7	0	0	1	1	0	1	1	   Roger took a big bite out of his apple. 	0
+17	1	2	2	1	0	2	3	0	0	0	3	0	2	3.0	7	0	0	0	0	0	0	0	Certainly, here is the requested sentence:  Please go to the main square at noon. 	0
+9	3	1	0	0	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The big red car drove down main street.	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	1	0	0	1	0	0	0	1	She smiled serenely. 	0
+33	7	1	1	3	2	1	4	0	3	0	3	1	3	6.0	23	4	4	2	3	0	3	2	I am unable to fulfill this request as postverbal objects are essential to formulate grammatically correct sentences, and without them, it is not possible to generate meaningful and accurate sentences. Is there a different request    that I can support you with?  	0
+3	0	0	0	0	0	0	0	0	1	0	1	0	1	1.0	1	0	0	1	0	0	0	1	I ran. 	0
+6	0	1	0	0	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	She walked to the door.	0
+14	1	3	1	0	0	3	3	0	1	0	0	0	2	4.0	7	1	1	1	0	0	0	1	I ran for the hills at the very thought of the spiders coming closer	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	0	1	0	1	0	Climbed the mountain. 	0
+5	0	1	1	0	0	0	1	0	0	0	1	0	1	2.0	3	0	0	0	0	0	0	0	Ran quickly to home. 	0
+7	2	0	1	0	0	1	1	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The big, yellow dog sat silently	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred.	0
+7	0	0	1	1	0	1	1	0	0	0	2	0	0	2.0	3	0	0	0	0	0	0	0	Ok, here is the response:   No postverbal objects needed to generate the sentence because the verb already includes the recipient	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The dog barked. 	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	  The cat purred.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The horse galloped across the meadow.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	 The man ran. 	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	0	1	The sky was blue.	0
+5	0	1	0	0	0	1	1	0	0	1	0	0	1	2.0	3	0	0	1	0	0	0	1	Jill walked through the park	0
+9	1	1	0	0	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased its tail with great enthusiasm.	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	1	0	0	1	0	0	0	1	She laughed loudly. 	0
+7	1	0	0	0	0	1	1	0	0	1	2	0	1	2.0	5	0	0	1	0	0	0	1	Loveless, the cold rain falls.	0
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	 The beautiful butterfly flitted through the air.	0
+23	2	3	0	0	1	4	6	0	1	0	2	0	4	5.0	13	1	1	0	3	0	3	0	Went fishing in a small puddle near the fence, caught nothing but found a beautiful dragonfly nymph hiding in the reeds. 	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred softly on my lap.	0
+11	1	1	0	1	0	1	3	1	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	I'll generate a sentence with zero post verbal objects: The cake was eaten. 	0
+7	0	1	0	0	0	1	2	1	0	0	1	0	1	2.0	5	0	0	0	1	0	1	0	 Generate a sentence with 2 appositives. Write only the sentence, without adding further text and without explanation	1
+12	0	2	0	0	1	1	3	1	1	0	1	0	2	4.0	5	0	0	1	1	0	1	1	I went to the store and bought one pound of chicken. 	1
+7	0	1	0	0	0	0	2	1	0	1	1	0	1	3.0	2	0	0	1	1	0	1	1	  Cathy placed three books on tables. That one sentence above contains one postverbal object being books  which was placed	1
+15	0	0	2	0	0	2	3	0	2	0	1	1	3	3.0	6	2	2	2	2	0	2	2	    The dog gleefully fetched the ball after his master commanded him to do so. 	1
+7	0	1	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat played with two balls.	1
+7	1	0	0	0	0	1	2	0	0	1	1	0	1	2.0	4	0	0	1	1	0	1	1	Maria cooked the steak medium rare. 	1
+9	0	1	0	0	0	1	3	1	0	0	1	0	2	2.0	5	0	0	1	0	0	0	1	  One sunbather relaxed beneath a shaded beach umbrella. 	1
+6	1	0	1	0	0	0	1	1	1	0	0	0	1	2.0	3	0	0	1	1	0	1	1	She carefully placed one delicate vase	1
+17	1	1	1	1	0	2	3	1	0	1	3	0	2	3.0	11	0	0	1	1	0	1	1	Okay, here is the requested sentence with one postverbial object:  Eva ate an apple.	1
+16	4	1	0	0	0	3	4	0	1	0	1	0	2	4.0	5	1	1	2	1	0	1	2	The big cat devoured the delicious juicy mouse that slinked across the dark forest floor. 	1
+7	0	0	0	0	0	1	2	1	0	0	2	0	1	2.0	2	0	0	1	1	0	1	1	""" The dog caught one ball."	1
+8	0	0	0	0	0	1	2	0	1	0	3	0	1	2.0	2	0	0	1	1	0	1	1	" "" The cat chased its tail."""	1
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	1
+11	0	0	0	0	0	1	3	0	2	0	2	0	2	3.0	6	1	1	1	2	0	2	1	 The manager approved their employee's proposal, delighting everyone. 	1
+11	2	0	1	0	0	1	2	0	2	0	1	0	2	3.0	4	1	1	1	2	0	2	1	I happily helped the homeless horse hoist his heavy hay.	1
+4	0	0	0	0	0	0	1	1	1	0	0	0	1	2.0	2	0	0	1	1	0	1	1	I bought three apples	1
+15	3	1	0	1	1	2	4	0	0	0	0	0	2	3.0	10	2	1	1	2	1	2	1	Sending the package by truck is a quick and secure way to transport perishable goods	1
+10	2	0	1	0	0	0	2	1	1	0	2	0	1	3.0	6	0	0	1	1	0	1	1	I happily devoured one delicious double-chocolate cake. 	1
+21	1	3	0	0	1	3	8	0	1	0	2	0	2	5.0	9	1	1	1	1	0	1	1	The new sports car zoomed up the winding road, leaving a trail of rubber and dust in its path. 	1
+7	0	1	0	0	0	0	2	1	0	1	1	0	1	2.0	4	0	0	1	1	0	1	1	Susan ate four sandwiches with mustard. 	1
+8	0	1	1	0	0	0	2	1	0	1	1	0	1	2.0	5	0	0	1	1	0	1	1	Ivan chopped wood vigorously with three axes. 	1
+8	0	1	0	0	0	2	2	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	I put the book   on the desk. 	1
+9	1	0	1	0	0	1	2	1	0	1	0	0	2	3.0	4	1	0	1	3	1	3	1	Eating a whole apple took Jane only three bites	1
+13	1	1	1	0	0	0	2	2	2	0	1	1	2	4.0	4	1	1	1	2	0	2	1	I happily assist you by creating one sentence with one postverbal object: The big dog happily wagged its tail	1
+7	0	0	1	0	0	1	2	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat happily chased its toy.	1
+23	1	3	1	0	0	5	7	0	0	0	2	1	3	5.0	9	2	2	3	1	0	1	3	The dog chased the ball with excitement, the ball bouncing away with a triumphant arcs as the dog pursued with glee. 	1
+12	0	0	0	0	0	3	4	0	0	0	1	0	2	4.0	4	1	1	1	2	0	2	1	The bear climbed the tree to find the birds' nest.	1
+12	0	2	0	0	0	3	3	0	0	0	3	0	1	2.0	6	0	0	1	1	0	1	1	" ""The cat chased the toy out of the room."""	1
+12	0	1	1	0	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The dog ran quickly across the field, chasing the ball.	1
+21	3	1	1	0	0	2	7	0	2	0	2	0	3	6.0	6	2	2	2	3	0	3	2	The new manager effectively led the team through several training sessions, which helped them learn new project management strategies. 	1
+15	0	0	0	0	0	2	3	1	1	0	4	1	3	3.0	8	1	1	2	2	0	2	2	I completed the task as follows:  The cat chased **three** mice. 	1
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased three mice under the couch.	1
+7	1	0	0	1	0	2	2	0	0	0	0	0	1	2.0	2	0	0	1	1	0	1	1	The new employee was given a guidebook	1
+12	0	1	1	1	0	2	2	0	2	0	1	0	2	3.0	5	0	0	2	1	0	1	2	I can certainly do that:   The book fell off the shelf	1
+18	0	2	3	0	1	2	5	0	1	0	2	0	2	3.0	10	0	0	2	1	0	1	2	   The woman carefully studied the puzzle box for hours, and finally it clicked together with triumph. 	1
+16	1	1	0	1	1	1	4	0	3	0	2	0	2	3.0	7	1	0	1	2	1	2	1	  Having eaten a large breakfast, she took her books and her purse to school. 	1
+14	0	3	0	0	0	2	5	0	0	0	2	0	2	4.0	6	1	1	1	0	0	0	1	The cat chased after the laser pointer, dodging between furniture with ease. 	1
+11	1	1	1	1	0	0	2	2	0	0	2	0	0	3.0	4	0	0	0	0	0	0	0	OK, here's one sentence with one postverbal object: The cat chased a mouse under the rug.	1
+11	0	2	0	1	0	0	3	1	2	0	1	0	1	3.0	7	0	0	1	1	0	1	1	  I will drink two glasses of water at my desk. 	1
+17	0	3	0	0	0	3	5	1	0	1	2	0	2	5.0	6	1	1	1	2	0	2	1	Sally ate three sandwiches in silence, pondering the complexity of the cats on the moon.	1
+5	0	0	0	0	0	1	1	0	0	1	1	0	1	2.0	2	0	0	1	1	0	1	1	 Jim ate a sandwich. 	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	  The cat caught a mouse.	1
+10	1	1	1	1	0	1	2	1	0	0	1	0	0	3.0	4	0	0	0	0	0	0	0	Ok, here is the sentence with 1 postverbal object	1
+12	1	2	0	0	0	1	2	1	0	1	1	0	2	3.0	5	1	1	1	1	0	1	1	Mary bought four new notebooks to write in at the bookstore. 	1
+8	0	0	0	0	0	1	2	0	1	1	2	0	1	3.0	3	0	0	1	1	0	1	1	Sarah handed the book ___Tom___ her sister. 	1
+9	1	0	0	0	0	1	2	0	1	1	1	0	2	3.0	7	0	0	1	2	0	2	1	  John gave the book its long-desired place	1
+10	0	0	1	0	0	1	3	0	1	0	1	0	3	4.0	6	2	1	1	2	1	2	1	Eating the ice cream cone quickly made it melt. 	1
+20	1	2	0	0	0	3	4	1	0	0	7	0	2	3.0	9	1	1	2	2	0	2	2	"One postverbal object, ""ball,"" completes this task as in: ""The cat chased the .""  "	1
+5	0	0	0	0	0	1	2	1	0	0	0	0	1	2.0	2	0	0	1	1	0	1	1	  The cat chased one mouse	1
+14	0	2	0	0	1	2	3	0	0	1	1	0	3	4.0	7	1	1	1	1	0	1	1	The puck dropped, flying across the ice and bounced off Sarah's stick	1
+28	2	1	1	1	2	3	6	1	3	0	5	0	3	4.0	11	1	1	3	2	0	2	3	My pleasure, below is a sentence meeting your request, with two postverbial objects : I ate a burrito and fries, and both tasted great. 	2
+14	2	0	2	0	1	3	3	0	0	0	1	0	2	3.0	6	0	0	1	2	0	2	1	The team carefully analyzed the detailed data and precisely evaluated the intricate project. 	2
+30	3	3	2	0	1	7	6	2	0	0	3	1	2	5.0	11	1	1	2	0	0	0	2	The two postverbal objects, one a ball and the other a glove, flew through the air simultaneously in a graceful arc before landing gently in the grass. 	2
+15	1	2	1	0	1	2	4	1	0	1	0	0	2	4.0	6	0	0	1	1	0	1	1	Juan enjoyed two freshly baked cookies and a glass of cold water at the park	2
+32	4	5	0	0	1	3	9	0	2	0	3	0	4	3.0	21	1	1	2	0	0	0	2	The big red car rode willy-nilly over hill and dale, with a sleeping toy in its rear seats _and_ a crumpled balloon sticking out of its busted antenna. 	2
+11	0	1	0	0	1	2	3	1	0	1	1	0	1	3.0	8	0	0	1	1	0	1	1	   Tammy took two apples and a pencil from the jar. 	2
+9	0	2	0	0	0	1	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The cat lapped up two bowls of milk. 	2
+11	0	2	0	0	1	3	3	0	0	1	0	0	1	3.0	8	0	0	1	1	0	1	1	 The girl threw the ball and the Frisbee out of bounds	2
+23	0	2	4	0	1	3	4	0	3	0	2	0	4	4.0	6	2	2	1	1	0	1	1	Both my cats wolfed down their food and drank all their milk, immediately jumping up onto the window silently staring outside. 	2
+25	3	1	0	0	2	3	9	0	0	0	2	0	3	5.0	7	1	0	1	1	1	1	1	The new camera purchased last weekend takes crystal-clear photographs of both the baby's smiling face and the family's vacation adventures. 	2
+9	0	0	1	1	0	1	1	0	1	0	2	0	1	3.0	3	1	1	1	0	0	0	1	"Okay, here is the sentence you requested. I have written a sentence with 2 postverbal objects below:  ""She gave him both his shoes and books.""  "	2
+11	2	0	0	0	2	1	3	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The cat licked both their furry ears and whiskers clean. 	2
+9	0	1	0	0	1	1	3	0	1	1	0	0	1	3.0	4	0	0	1	1	0	1	1	  Brett sent gifts to his grandmother and the cat	2
+14	0	1	0	0	2	4	4	1	0	0	1	0	1	3.0	9	0	0	1	1	0	1	1	The two dogs chased both the cat and the ball down the street.	2
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	  The teacher handed two books to each student.	2
+15	2	2	0	1	1	1	4	1	0	0	1	0	2	3.0	6	0	0	1	0	0	0	1	The gift bag was decorated with two colorful ribbons and filled with delicious chocolates.	2
+21	2	3	0	0	1	1	7	2	1	1	2	0	1	5.0	19	0	0	1	1	0	1	1	Maria purchased two new books; one on quantum physics and the other on time management, for her college courses	2
+8	0	0	1	1	0	0	2	0	2	0	2	0	0	2.0	3	0	0	1	0	0	0	1	My pleasure, here is your sentence: The teacher returned the book and the notebook to the shelf. 	2
+21	2	2	1	0	0	4	4	1	2	0	2	0	3	4.0	10	2	2	1	2	0	2	1	The cat carefully cleaned the two dirty balls with both its paws, leaving them sparkling bright in the grass. 	2
+13	1	2	0	0	1	0	5	0	0	0	1	0	2	4.0	8	1	1	1	1	0	1	1	 Dogs love to chase rabbits in woods and squirrels up tall trees. 	2
+18	1	1	3	0	1	1	4	1	1	0	2	0	3	4.0	5	1	1	1	2	0	2	1	The dog eagerly devoured two delicious cookies, crunching noisily with relish and smacking its lips delightfully. 	2
+8	0	1	0	0	0	1	2	1	1	0	1	0	1	2.0	4	0	0	1	1	0	1	1	  The man gave two books to her. 	2
+12	0	2	1	0	0	3	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The two puppies ran happily after the stick into the pond.	2
+8	0	0	1	0	0	1	2	1	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The cat chased not only one mouse. but two mischievous ones under the sofa cushions. 	2
+17	1	0	3	0	2	1	4	0	0	2	1	1	2	3.0	9	1	1	1	2	0	2	1	Jim and Tim simultaneously consumed twice as many cookies and ice cream after winning the contest. 	2
+26	3	1	2	0	2	3	10	0	0	0	2	0	2	6.0	11	1	1	1	2	0	2	1	The new employee carefully reviewed the detailed company handbook twice, highlighting important points on both the company's dress code policy and benefits package. 	2
+19	0	2	1	1	1	1	7	1	2	0	1	0	2	4.0	13	0	0	2	2	0	2	2	I can provide you with a sentence with two post verb objects below: Cats chase dogs and mice	2
+10	1	2	0	0	0	2	4	0	0	0	0	0	1	2.0	7	0	0	1	0	0	0	1	 The cat played with the mouse toy for several minutes	2
+8	0	1	0	0	0	2	3	1	0	0	0	0	1	2.0	5	0	0	1	1	0	1	1	The company sold the software to two customers	2
+12	1	2	0	0	0	2	3	1	0	0	2	0	1	3.0	4	0	0	1	0	0	0	1	  * The instruction asks for a sentence with two postverbal objects. * The sentence you provided has two postverbal objects	2
+14	1	2	1	0	1	0	3	1	0	2	2	0	1	4.0	11	0	0	1	1	0	1	1	Susan studied French for two years in high school and college, respectively. 	2
+21	4	2	1	0	1	2	4	0	2	0	2	0	3	4.0	6	0	0	1	0	0	0	1	   The tired baby slept peacefully in her crib and snuggled with her favorite stuffed animal, a fluffy gray kitten. 	2
+12	2	1	0	0	1	2	4	1	0	0	0	0	1	4.0	3	0	0	1	1	0	1	1	  The two bunnies cuddled the basket of fresh carrots and sweet lettuce	2
+20	1	1	2	1	0	2	4	2	2	0	3	0	2	4.0	12	2	2	2	1	0	1	2	No problem; here's a sentence with two postverbal objects:  I saw her eat two cookies rapidly. 	2
+10	0	0	0	0	2	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The cat chased both the mouse and the ball.	2
+11	0	0	0	0	1	2	4	0	1	0	1	0	1	4.0	5	0	0	1	1	0	1	1	The dog chased its tail and the cat's tail. 	2
+10	0	0	1	0	1	3	3	0	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	 The dog chased the cat and the ball simultaneously.	2
+18	1	3	0	0	0	4	4	1	1	0	2	0	2	4.0	8	1	1	1	1	0	1	1	The dog ran after both the sticks, fetching them one at a time with enthusiastic barks. 	2
+22	2	2	0	0	2	1	5	2	1	2	1	0	3	4.0	10	1	1	1	1	0	1	1	Abigail purchased three colorful t-shirts and five vibrant handbags to wear and use during her summer vacation in the Caribbean. 	2
+35	1	2	2	1	2	3	7	2	3	5	2	1	3	4.0	31	1	1	3	4	0	4	3	Jim gave his brother Tim not one but two books, a science fiction novel and a biography of Elon Musk, before he left for the airport so Tim could finally learn something new	2
+10	1	0	0	0	0	1	4	1	1	0	1	0	1	2.0	6	0	0	1	2	0	2	1	  The boy gave his brother two identical rubber ducks. 	2
+20	1	1	0	1	1	2	5	1	1	1	4	0	2	4.0	10	0	0	2	2	0	2	2	"I can generate a sentence with two postverbal objects: ""Jill painted the fence pink and yellow."" "	2
+9	1	0	1	0	0	1	3	1	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The two puppies joyfully chased fluffy tennis balls.	2
+8	0	1	0	0	0	2	2	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	 She threw the frisbee over the beach.	2
+10	0	0	1	0	0	2	3	1	0	0	2	0	1	3.0	3	0	0	1	1	0	1	1	 The waitress carefully balanced two plates ______________ the table. 	2
+19	1	3	0	0	2	2	4	0	2	1	1	1	2	3.0	11	1	1	2	0	0	0	2	 The angry mob chased after both John and his cat for hours until they disappeared into the night. 	2
+18	1	2	1	0	1	1	4	1	3	1	1	0	2	3.0	9	0	0	2	2	0	2	2	   Sarah gave two apples to her brother and then she gave some more to her pet hamster. 	2
+8	0	1	0	0	0	0	3	1	0	2	0	0	1	2.0	6	0	0	1	2	0	2	1	   David handed Emily two cookies after lunch yesterday	2
+15	1	0	0	1	1	3	3	1	0	0	5	0	0	2.0	5	0	0	1	0	0	0	1	"The two postverbal objects are ""the cat"" and ""the mouse."" "	2
+9	0	1	0	0	0	1	3	2	0	0	1	0	1	3.0	2	0	0	1	1	0	1	1	  The two cats drank two cups of milk.	2
+11	3	1	1	0	0	2	3	0	0	0	0	0	1	2.0	6	0	0	1	1	0	1	1	The fluffy kitten playfully batted the soft balls under several cushions	3
+7	0	0	0	0	0	1	2	1	0	1	1	0	1	2.0	4	0	0	1	2	0	2	1	  John gave the cat three mice.	3
+10	2	0	0	0	0	1	3	0	0	0	3	0	1	2.0	6	0	0	1	1	0	1	1	The big, green, rubber ball bounced thrice. 	3
+16	0	2	1	0	1	2	3	0	1	0	3	0	3	3.0	11	0	0	1	1	0	1	1	The cat curled up on my lap, scratched the couch, and purred contentedly. 	3
+13	0	1	0	0	0	3	4	1	0	0	1	1	2	3.0	7	1	1	1	2	0	2	1	The cat chased two mice into a corner while holding a toy. 	3
+16	0	1	0	0	1	2	1	0	1	3	3	0	3	3.0	9	2	2	1	3	0	3	1	The ball bounced off Tom, John, and Sarah, causing them all to giggle	3
+23	2	3	0	0	0	2	7	1	3	0	2	0	3	4.0	11	1	1	2	2	0	2	2	The teacher awarded three sticks of certified organic butter for her outstanding project presentation, which wowed everyone in the conference room. 	3
+12	0	0	0	0	1	3	3	0	0	1	3	0	1	3.0	7	0	0	1	1	0	1	1	  Ellie eats an apple, a banana, and some chocolate. 	3
+21	6	1	1	0	0	2	4	1	0	0	5	0	1	3.0	8	0	0	1	1	0	1	1	The large, furry, green monster carefully placed three identical cookies on the transparent, delicate, glass plate. 	3
+10	1	1	1	0	0	1	2	1	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	I happily generated this paragraph with 3 postverbal objects:  The cat brought back a mouse as well as three other dead animals	3
+8	0	0	1	1	0	2	2	0	0	0	1	0	1	4.0	3	1	1	0	1	0	1	0	 Here's a sentence meeting that instruction.	3
+10	0	1	1	0	0	2	3	1	0	0	1	0	1	2.0	6	0	0	1	0	0	0	1	The cat pounced swiftly on the three toy mice. 	3
+7	0	0	1	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The cat devoured three mice silently. 	3
+25	3	1	1	0	1	5	7	0	0	0	2	1	4	4.0	7	2	1	1	3	1	3	1	Flying high, the stunning eagle grabbed a shiny fish and devoured a succulent dragonfly while chasing a whistling whirlwind in the midnight sky. 	3
+25	2	3	0	0	1	3	9	1	0	0	5	0	1	4.0	17	0	0	1	1	0	1	1	The team enjoyed three different kinds of ice cream - chocolate, vanilla, and strawberry - in the park on a sunny afternoon. 	3
+70	2	5	5	4	3	8	12	5	7	0	5	2	10	7.0	30	5	5	5	6	0	6	5	Ten days later, we visited the same store to return the broken items and ask for the replacement ones, but we were told that all three of their factories had a total of four hundred machines down due to unscheduled maintenance and upgrades, so even if they could produce all the items we had ordered, it would take them another two weeks to do so. 	3
+38	4	4	2	0	2	7	10	1	1	0	3	1	3	7.0	14	1	1	1	3	0	3	1	Our team carefully reviewed the lengthy document and thoroughly approved three innovative approaches in the morning, the creative concepts during lunch, and the precise details before sending the report at the end of the day. 	3
+17	1	1	0	2	1	1	6	1	0	0	3	0	1	3.0	11	0	0	1	0	0	0	1	 The student will be testing on algebra II problems, geometry, and precalculus next week.	3
+14	0	0	0	0	1	2	4	1	0	0	3	0	3	3.0	8	0	0	1	3	0	3	1	The team reviewed the report, made modifications, and printed three copies. 	3
+18	4	1	0	0	1	3	5	1	0	0	1	0	2	4.0	5	1	1	1	1	0	1	1	  The baby laughed at the silly clown wielding two giant pogo sticks and a big red balloon.	3
+25	1	3	0	0	3	4	6	0	0	0	5	0	3	4.0	11	1	1	1	1	0	1	1	"  ""The student handed in the assignment, covered in purple ink, and signed by both the teacher and the class president."""	3
+15	4	1	1	0	1	2	2	0	0	0	3	0	1	4.0	7	0	0	1	0	0	0	1	The big, green, and tired cat purred contentedly on the soft cushion. 	3
+44	7	5	6	0	3	4	10	1	1	0	3	0	4	6.0	19	2	2	1	3	0	3	1	With great excitement and trembling hands, he rapidly constructed a tower from intricate wooden blocks and then precariously perched an egg in between three slender, intertwined acacia branches suspended high above the ground, finally successfully completing a difficult and risky trial	3
+22	2	2	0	0	0	3	4	2	2	0	3	1	3	5.0	9	2	2	3	1	0	1	3	The cat chased four mice, who hid behind three little trees, until they all tumbled down the big hill.	3
+26	1	2	1	1	1	2	7	1	2	0	6	0	2	4.0	12	0	0	2	1	0	1	2	My pleasure, here is the desired sentence, with three postverbal objects: I ate a sandwich with lettuce, tomatoes, and mayonnaise. 	3
+20	3	2	1	0	0	2	6	1	0	0	1	1	3	3.0	8	1	1	1	2	0	2	1	The three fluffy kittens chased brightly colored butterflies across the garden while sipping sweet milk from delicate china cups. 	3
+14	0	0	2	0	1	0	2	2	2	1	2	0	2	3.0	9	0	0	2	2	0	2	2	Sarah purchased two apples and one orange, then she ate them quickly. 	3
+14	3	2	0	0	0	2	3	2	0	0	1	0	1	2.0	8	0	0	1	0	0	0	1	The three happy kittens played with five little toys under the green tree. 	3
+13	1	0	0	0	0	1	3	0	1	1	2	1	3	3.0	7	1	1	2	3	0	3	2	 Eddy ate cookies while sipping tea; he enjoyed a delicious afternoon. 	3
+2	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	Okay! Here you go:   Mary kissed three cats goodnight	3
+17	0	3	0	0	1	4	4	1	0	0	3	0	1	4.0	5	0	0	1	0	0	0	1	The three cats chased after the ball, under the table, and into the corner. 	3
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat brushed her tail. 	3
+32	1	3	0	1	1	0	5	0	7	1	4	1	7	7.0	11	5	5	3	2	0	2	3	Lena enjoyed playing with her dolls, pretending they were real babies, putting them to sleep in their crib and bottle-feeding them while they sucked on their pacifiers. 	3
+16	0	1	0	0	2	0	3	0	1	3	5	0	1	3.0	8	0	0	1	1	0	1	1	  Joe bought snacks, cookies, and juice for Mary, Emily, and myself.	3
+14	1	0	0	0	1	1	5	1	0	1	3	0	1	3.0	9	0	0	1	1	0	1	1	Jen bought several staplers, three hole punches, and a pencil sharpener. 	3
+33	2	4	1	0	1	5	8	0	4	0	3	0	5	6.0	15	3	3	3	2	0	2	3	The cat purred comfortingly on her lap, warming the soft fluffy blanket that draped over the side of the sofa, and tickling the featherlight pillow that rested under her head. 	3
+17	0	2	1	0	0	4	4	0	0	0	3	0	3	3.0	11	0	0	1	2	0	2	1	   The boy smiled at the dog, picked up the ball, then chased the cat. 	3
+13	1	1	1	0	0	2	3	1	0	0	1	0	2	2.0	7	1	1	1	2	0	2	1	 The girl eagerly handed the puppy three new toys to play with. 	3
+13	0	0	0	0	1	0	3	0	0	0	9	0	0	2.0	9	0	0	0	0	0	0	0	" ""candy"", ""balloons"", and ""pinata"". Here is the sentenece"	3
+25	4	3	0	1	1	3	7	0	1	0	3	0	2	5.0	15	1	0	1	3	1	3	1	 Eating a healthy breakfast of juicy oranges, crispy bacon, and golden pancakes will give you energy for the rest of the day.	3
+19	1	2	0	0	1	4	6	1	0	0	2	0	2	5.0	13	1	1	2	2	0	2	2	The teacher handed three books, each containing different exercises and quizzes, to each student in the class	3
+8	1	0	2	0	0	0	1	1	0	1	1	0	1	2.0	5	0	0	1	1	0	1	1	Sally ate three cookies quickly cold simultaneously. 	3
+15	0	2	1	1	0	1	2	1	3	0	2	0	2	3.0	9	1	1	2	1	0	1	2	I've generated this sentence with 3 PVO for you,  Here ya go: The monkeys climbed down two trees and a rock to retrieve their lost ball. 	3
+10	1	1	1	0	0	1	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The cats quickly devoured three plates of warm tuna. 	3
+26	2	1	1	1	1	1	6	0	3	1	5	0	4	4.0	9	1	1	3	3	0	3	3	My pleasure, below is the sentence that matches your request:  Lily loves skiing, trying on new boots, and purchasing warm hats. 	3
+30	2	2	1	0	1	4	7	0	1	2	4	0	4	5.0	16	0	0	2	3	0	3	2	Here you go!: Mrs. Johnson patted the poodle's soft fur, ate the baby's cold ice cream, and threw the baseball out of the yard	3
+2	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	Okay! Below you will find the sentence I came up with that contains three postverbal objects:  I handed the small, fluffy kitten to my little sister Sarah, after which she hugged and kissed it warmly before finally placing it gently inside its cozy cat bed. 	3
+9	2	0	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The beautiful butterflies beautifully bopped the bountiful blooms.	3
+20	0	2	1	0	1	2	4	2	1	1	3	0	3	3.0	12	0	0	1	3	0	3	1	Mary took three cookies from the jar, ate them quickly, and left three crumbs on the counter. 	3
+28	3	2	0	2	2	3	5	1	1	0	3	1	4	4.0	15	2	2	3	1	0	1	3	The cat licked the three balls for several minutes before going to sleep, the balls were made of rubber, and they were colorful and soft. 	3
+15	2	1	1	1	1	1	3	1	2	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The delicious cake was eagerly consumed by our four siblings and our happy cat. 	5
+35	1	4	0	0	1	4	8	1	4	0	5	0	6	4.0	22	1	1	1	5	0	5	1	The teacher asked the five little puppies to pick up their paws, put on their shoes, eat their bones, take a nap in the tree, and forget about their game. 	5
+38	2	2	2	2	1	1	5	1	2	6	9	1	3	7.0	15	4	4	3	1	0	1	3	"Okay, here is a sentence with 5 postverbal objects:  ""Liz laughed heartily at Tim, Mary, Sally, Ben, and Sam as they pretended they were silly gooses eating cotton candy."" There are 5 postverbal objects in the sentence: 1) cotton candy (Object of the verb pretended); 2) Liz; 3) Mary; 4) Ben; 5) Sam"	5
+21	2	1	3	0	1	1	5	4	0	0	0	1	3	5.0	6	1	1	1	3	0	3	1	The team of experts extensively studied five intricate projects while simultaneously examining forty detailed diagrams and reviewing over one hundred reports	5
+11	0	0	0	0	0	2	3	2	0	0	1	1	2	3.0	4	1	1	1	2	0	2	1	 The three children ate ten oranges while chasing a monkey. 	5
+40	7	6	0	0	1	3	9	4	3	0	2	0	5	6.0	17	1	1	2	4	0	4	2	During the exciting trip, we visited five breathtaking cities in which we experienced thrilling five performances of amazing local artists, saw five incredible landmarks at each site and drank five types of delicious wine at a fantastic restaurant	5
+21	0	1	0	0	1	4	6	0	3	0	5	0	1	4.0	13	0	0	1	1	0	1	1	I took the books, my wallet, the children, the keys, and my phone on the table. 	5
+37	4	6	0	0	2	3	16	1	0	0	1	0	3	7.0	13	2	2	1	3	0	3	1	   The teacher asked each student to write three different papers on topics of different difficulty levels in separate rooms using pencils pens and laptops with internet access and speakers by the due date over winter break.	5
+16	0	1	0	0	1	1	6	0	0	1	5	0	1	3.0	13	0	0	1	1	0	1	1	 Jane bought books, pens, pencils, notebooks, and paper at the store.	5
+32	0	6	0	0	1	0	12	5	1	1	5	0	1	4.0	21	0	0	1	1	0	1	1	Jill packed five boxes of apples, two jars of honey, two baskets of bananas, one bag of peanuts, and three bottles of lemonade for her camping trip. 	5
+19	0	1	0	0	1	3	6	3	0	0	4	0	1	4.0	10	0	0	1	1	0	1	1	  The teacher assigned five exercises, two books, a pen, and three papers to the students. 	5
+39	7	3	0	0	1	7	7	1	2	0	4	0	6	7.0	16	3	3	3	2	0	2	3	The cat chased the three brown mice, who climbed up the high tree, ate the juicy apples from the small branch, and left behind the shiny red berries that the little bird tried to swallow. 	5
+10	0	0	1	2	0	1	1	0	0	0	2	0	1	3.0	3	1	1	0	0	0	0	0	Okay, here is the instruction to be completed:  She found a hat, five flowers, 10 pencils, a book, 20 cats, and a clock under the couch	5
+30	1	4	0	0	0	2	7	4	1	0	4	0	5	6.0	9	4	4	2	2	0	2	2	The teacher gave homework to five students, consisting of ten math problems, each of which took three attempts to solve, with three different methods to try.	5
+24	2	2	0	0	1	3	7	1	3	0	4	0	1	3.0	20	0	0	1	1	0	1	1	 The man emailed the reports to our boss, his assistant, her mother, and three different clients via the wireless network.	5
+35	6	1	3	0	2	4	7	1	2	1	6	0	2	3.0	25	0	0	1	2	0	2	1	Sarah carefully chose five colorful pompoms, a sparkly tiara, a glittery boa, a flashy fan, and a dazzling diamond, and then tenderly tied them to her beautiful blonde hair.	5
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	5
+34	7	3	2	0	0	2	8	6	0	0	1	2	3	5.0	10	2	2	3	1	0	1	3	The five shiny pink elephants proudly paraded past five delicious watermelons before five tiny birds joyfully juggled five sparkling blue marbles while seven dancing bears waved at six happy kittens under the sea.	5
+22	2	1	2	0	1	2	5	2	2	0	2	0	3	5.0	7	1	1	2	3	0	3	2	The teacher gave five difficult books each to five students, who studied them thoroughly and wrote detailed book reports individually. 	5
+66	12	6	5	0	1	2	17	1	1	0	7	1	12	9.0	39	8	8	4	6	0	6	4	Five frogs furtively fled the forest, finding food in a field of flowers filled with fancy fungi, before following fog that fluttered flimsily around frail ferns and feathery grass, forgetful fools frequently falling flattered floral forms, fanciful feathers fluttered in fancy frocks, finally feeling fine, frilly, foolish fans fluttered frantically to flatter flaky fops frittering frivolity for fancy frocks	5
+21	0	0	0	1	1	0	5	6	0	1	6	0	1	4.0	15	0	0	1	1	0	1	1	 Sally had eaten three chocolates, four cupcakes, nine cookies, twelve candies, and twenty-seven brownies.	5
+6	0	0	1	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	1	1	I can happily do that. Below is the one sentence with five postverbals:   Jane ate five melted ice cream cones while watching television.	5
+26	4	0	0	0	1	2	8	5	0	0	5	0	1	3.0	18	0	0	1	1	0	1	1	The five puppies chased three blue butterflies, twenty pink balloons, one purple kite, four red roses, and a brown teddy bear. 	5
+39	2	3	0	0	1	8	14	1	1	0	6	0	2	5.0	24	1	1	1	2	0	2	1	The teacher instructed the children to collect five small rocks, a leaf from a nearby tree, a feather, a pine needle, a piece of cork, and a dandelion fluff for their art project. 	5
+10	1	1	0	1	0	1	2	1	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	I can generate a sentence with five postverb objects. How about this sentence? -- The big, tired, fluffy, friendly, sleeping cat chased three small, playful, squeaky mice that hide beneath five large, comfortable, colorful pillows, underneath the soft, cozy blanket in the warm, sunny spot. - The big, tired, fluffy, friendly cat chased three small mice that hide beneath five pillows underneath a soft blanket in a warm spot.	5
+22	3	3	0	1	0	3	6	1	1	0	1	0	3	5.0	5	1	1	2	0	0	0	2	The delicate silver vase was admired by five giggling brunettes under the gentle morning sunlight that danced through the tall windows.	5
+17	5	0	1	0	1	1	2	1	0	0	5	0	1	4.0	12	0	0	1	1	0	1	1	The team carefully constructed five tall, beautiful, sparkling, elegant, and impressive sculptures.	5
+15	1	2	0	0	0	2	5	2	0	0	1	0	1	4.0	6	0	0	1	1	0	1	1	The cat chased five mice through ten tunnels underneath the garden's grassy verge. 	5
+35	0	2	5	0	2	6	9	2	1	0	4	0	4	4.0	21	0	0	1	4	0	4	1	 The teacher graded five papers carefully, skillfully corrected every mistake in all twenty questions, thoroughly discussed each problem, and precisely explained the solutions and their thought processes vocally before the class.	5
+43	8	5	0	0	0	7	9	2	0	0	9	0	3	4.0	26	0	0	2	1	0	1	2	The five sleeping cats chased the fluffy, rolling ball of yarn; the ball fell under the tall, comfy armchair, between the three soft cushions, beside the small, red vase, behind the big, round table. 	5
+30	4	1	0	0	1	6	8	1	0	0	6	0	3	4.0	18	1	1	1	1	0	1	1	The cat ran down the street, chasing five fluttering butterflies, a golden Retriever, a red rubber ball, a silver dollar, and a pink feather. 	5
+33	5	6	0	1	0	3	8	2	2	0	3	0	3	7.0	9	2	2	2	1	0	1	2	My cat sat on three big cushions in front of two comfortable chairs, which were placed on opposite sides of a large windowsill, admiring the view of a beautiful park. 	5
+37	4	5	0	0	2	4	9	4	1	0	3	0	5	6.0	12	3	3	1	3	0	3	1	I walked through six empty houses with three cats and a rabbit, eating two apples and drinking one glass of lemonade along the way, leaving a long red worm squirming on the white carpet. 	5
+17	2	2	1	0	0	3	3	1	1	0	2	0	2	4.0	6	1	1	2	0	0	0	2	 The dog ran quickly after the three cats who hid beneath the big, fluffy blanket. 	5
+22	6	2	1	0	0	3	5	1	0	0	1	0	3	4.0	10	0	0	1	1	0	1	1	The cunning cat carried five colorful creative carrots calmly across the crystal clear crest of the sparkling cool crescent-shaped cove	5
+38	2	0	0	1	2	5	8	3	1	0	8	1	7	4.0	19	2	1	3	5	1	5	3	"The five postverbal objects I produced are as follows: ""The man consumed coffee and two cookies, devoured three sandwiches, ate some candy, drank some water, and crunched a hard shell."" "	5
+35	3	2	1	0	2	6	10	1	0	0	4	1	5	7.0	22	4	4	1	4	0	4	1	The five bears carefully consumed cherries climbing the mountain using various tools, including a compass and a machete, at a comfortable pace, while carrying bottles of water and a small bag.	5
+21	2	2	7	1	0	3	3	1	0	0	1	0	1	3.0	14	0	0	1	0	0	0	1	   The big yellow book was read carefully once quietly twice silently three times loudly by each of the students happily.	5
+14	2	0	3	0	0	1	4	1	0	0	1	0	2	3.0	6	1	1	1	2	0	2	1	The five squirrels gleefully gathered enormous exceedingly elegant evergreens expertly excelling examination expectations.	5
+26	4	5	0	0	0	4	7	2	0	0	1	1	2	5.0	11	1	1	1	0	0	0	1	The cat hopped across three red tennis balls on the black tray before reaching for five goldfish in a blue bowl on the yellow table. 	5
+35	3	2	4	0	2	5	7	0	2	0	4	1	5	4.0	17	1	1	1	5	0	5	1	  The teacher praised the diligent student for consistently completing the challenging mathematics problems, submitting them promptly, and consistently solving them correctly, and earning high scores on the tests throughout the semester. 	5
+34	2	2	0	0	2	5	11	2	1	1	7	0	1	5.0	29	0	0	1	1	0	1	1	Jane exchanged two books, a pen, a pencil set, her old laptop, and a bag of candy for three notebooks, a new smartwatch, and a water bottle.	5
+35	6	0	5	0	1	1	7	5	0	0	5	0	5	3.0	26	0	0	1	5	0	5	1	The new employee meticulously completed five thorough training programs, efficiently finished five detailed projects, thoroughly reviewed five complex documents, carefully updated five intricate spreadsheets, and skillfully prepared five precise reports. 	5
+46	1	5	1	0	4	3	14	0	7	0	5	1	5	5.0	42	2	2	2	5	0	5	2	I completed my assignements with pens and pencils, writing papers and files in my journal, placing sticky notes on my book, and storing my bag and briefcase in the locker, before exiting the room through the door; I did it quickly	5
+10	1	1	3	0	0	0	1	1	1	1	0	0	1	2.0	8	0	0	1	1	0	1	1	Sophia ordered five different smoothies simultaneously for herself online quickly	5
+21	2	3	1	0	1	2	5	4	1	0	0	0	2	5.0	7	0	0	1	1	0	1	1	 The teacher returned five completed assignment with three correct answers and two with only one mistake each to their respective writers	5
+22	0	1	0	0	1	7	6	0	0	1	5	0	1	4.0	13	0	0	1	1	0	1	1	Sarah put the pen, the paper, the book, the computer, and the coffee all on the table. 	5
+39	2	3	0	0	4	10	10	1	0	0	6	0	3	5.0	21	0	0	2	2	0	2	2	The cat pursued the five fluffy mice through the garden, the forest, and over the mountains, but the clever mice outsmarted the cat and escape into the pond, the treehouse, and the cave. 	5
+27	0	1	0	0	1	0	9	5	0	2	5	0	2	4.0	17	1	1	1	2	0	2	1	Sarah ordered six apples, five tomatoes, four pears, three bananas, and two grapes to make fruit slices for Jack's party tonight. 	5
+22	0	1	0	1	1	1	6	5	1	0	5	0	1	4.0	13	0	0	1	1	0	1	1	I've eaten seven cookies, three sandwiches, five apples, six toys, and twelve pencils over the weekend. 	5

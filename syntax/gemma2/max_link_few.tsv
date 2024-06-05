@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_link_constraint
+22	1	2	0	2	0	3	5	1	2	0	1	1	2	5.0	9	2	2	1	2	0	I cannot fulfill the request as it is impossible to have a dependency link of 2 words in the context.	2
+27	2	3	0	1	0	4	6	1	2	0	1	1	4	7.0	7	4	4	2	2	0	I am unable to generate the sentence requested as it goes against the instructions to provide a sentence with the longest dependency link of 2 words.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+36	1	4	0	3	1	7	9	1	2	0	2	1	3	5.0	23	1	1	3	3	0	I cannot complete the request as it is requesting a sentence with the longest dependency link of 2 words, but the context does not provide any information about a sentence with that length.	2
+28	2	2	1	2	0	4	6	1	1	0	2	1	4	5.0	18	1	1	2	2	0	The given instruction is not relevant to generating a sentence with the longest dependency link of 2 words, so I cannot generate the requested output.	2
+24	1	2	1	2	0	4	5	0	1	0	2	1	3	3.0	14	1	1	2	1	0	The task is not specified with any instructions about the longest dependency link, so I cannot generate a sentence as requested.	2
+8	0	1	0	1	0	0	2	1	1	0	1	0	1	2.0	4	0	0	1	1	0	Are we playing baseball tomorrow at 9:30?	2
+28	1	2	0	2	0	3	6	2	3	0	2	1	4	6.0	15	3	3	2	4	0	None.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+28	1	3	0	2	1	4	7	1	2	0	2	1	2	5.0	14	2	2	2	2	0	I can not generate a sentence with a dependency link of 2 words, as I am unable to identify any entities or relationships in the context.	2
+25	2	2	1	2	0	3	6	0	0	0	5	0	4	5.0	7	2	2	2	2	0	"The requested sentence could be generated as: ""The band played jazz for hours last night, creating a very soulful ambiance."""	2
+24	4	1	0	0	2	4	5	0	1	1	2	0	3	6.0	6	2	2	1	2	0	The Golden Rays feel soft and soothing, making it the ideal time to enjoy a sunset picnic with the friends and family.	2
+18	1	3	0	1	0	3	5	1	1	0	1	0	1	3.0	7	0	0	1	1	0	None.	2
+28	2	3	0	2	1	3	7	1	2	0	2	1	3	4.0	15	1	1	2	2	0	None.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+24	2	2	0	2	0	3	6	1	1	0	2	1	2	4.0	17	1	1	2	2	0	I can't generate a sentence with the longest dependency link of 2 words, as the context does not provide enough information.	2
+24	1	3	0	2	0	3	5	1	2	0	2	1	2	3.0	16	1	1	2	1	0	I can't generate a sentence with the longest dependency link of 2 words, as that is not specified in the instruction.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+20	2	3	0	1	0	3	5	1	1	0	1	0	2	5.0	7	1	1	1	1	0	I am unable to generate a sentence with the longest dependency link of 2 words for the provided instruction.	2
+11	0	1	0	1	0	3	2	0	1	1	1	0	1	2.0	7	0	0	1	1	0	Are we planning a trip this summer in the Caribbean?	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+17	2	2	0	1	0	1	1	1	0	6	1	0	1	3.0	8	0	0	1	0	0	New People Party's Regina Ip are performing at the Red Square Ballroom tomorrow at 9:30.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+11	0	2	1	1	0	1	2	1	1	0	1	0	1	2.0	7	0	0	1	0	0	Are we staying late at the bar tomorrow at 9:30?	2
+22	2	3	0	2	0	3	5	1	2	0	2	0	1	4.0	7	0	0	2	1	0	I'm sorry, I cannot generate a sentence with the longest dependency link of 2 words from the context.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+8	0	1	0	1	0	0	1	1	2	0	1	0	1	2.0	4	0	0	1	1	0	Are we doing anything tomorrow at 9:30?	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+24	4	1	0	1	1	2	5	2	0	0	4	1	3	6.0	6	3	3	2	0	0	The longest dependency link of 2 words is 5 words, achieved by generating “The golden rays feel soft and soothing.”	2
+27	1	3	1	1	0	4	7	1	1	0	3	0	4	4.0	12	2	2	2	2	0	None of the examples in the given context have a dependency link of 2 words, thus, I am unable to generate the requested sentence.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+12	1	2	0	1	0	2	4	1	0	0	1	0	0	4.0	9	0	0	1	0	0	The sentence with the longest dependency link of 2 words is: Are we playing tomorrow at 9:30?	2
+8	0	1	0	1	0	0	2	1	1	0	1	0	1	2.0	4	0	0	1	0	0	Are we playing tomorrow night at 9:30?	2
+9	0	1	0	1	0	1	2	1	1	0	1	0	1	2.0	5	0	0	1	1	0	Are we planning the event tomorrow at 9:30?  This is a solved example of the task.	2
+25	2	2	0	1	0	4	6	1	2	0	1	0	4	7.0	11	3	3	2	3	0	I do not have the information necessary to generate a sentence that has a longest dependency link of 2 words according to the instruction.	2
+24	1	2	1	2	1	2	5	2	1	0	5	0	1	3.0	6	0	0	2	0	0	"The longest dependency link of 2 words is 2 words long and is between the phrases, ""i agree, Hmmmmmm."" It was the longest sentence that still fit within the word limit of 40 characters and generated with the longest dependency link of 2 words."	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+20	2	3	0	1	0	4	6	1	0	0	1	0	1	5.0	5	1	1	1	1	0	The information in the prompt is insufficient to generate a sentence with the longest dependency link of 2 words.	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+7	0	1	0	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we playing tomorrow at 9:30?	2
+19	1	2	0	1	0	3	5	1	2	0	1	0	2	7.0	4	2	2	2	2	0	I'm unable to create a sentence that contains a phrase with a dependency link of 2 words.	2
+11	1	1	0	1	0	1	2	1	1	1	1	0	1	2.0	7	0	0	1	1	0	Are we attending the Pirates game next week at 9:30?	2
+23	1	2	0	1	0	3	5	1	2	2	1	0	3	6.0	7	2	2	2	3	0	The context does not allow me to generate a sentence with the longest dependency link of 2 words that includes Pittsburgh Pirates.	2
+8	0	1	1	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	0	0	Are we still playing tomorrow at 9:30?	2
+20	1	3	0	1	1	2	4	1	0	2	5	0	0	4.0	10	0	0	1	0	0	"The longest dependency link of 2 words in the context is between ""Pittsburgh"" and ""Pirates""."	2
+23	1	3	0	2	0	3	5	1	2	0	1	1	2	3.0	15	1	1	2	1	0	None.	2
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+16	1	0	0	2	0	1	1	0	4	0	1	1	4	5.0	6	4	4	2	1	0	Let me know if this is the appropriate steps that you would like to see.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+13	1	2	0	1	0	2	4	1	0	0	1	0	1	3.0	8	0	0	0	0	0	  **The longest dependency link of 6 words for the provided task is	6
+23	3	4	1	1	0	3	6	0	1	0	1	0	2	6.0	6	2	2	0	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file.	6
+16	1	0	0	2	0	1	1	0	4	0	1	1	4	5.0	6	4	4	2	1	0	Let me know if this is the appropriate steps that you would like to see.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intensive meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+16	1	0	0	2	0	1	1	0	4	0	1	1	4	5.0	6	4	4	2	1	0	Let me know if this is the appropriate steps that you would like to see.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	1	1	2	1	1	5	0	4	0	2	0	6	7.0	10	4	4	1	4	0	It is always good to practice mindfulness meditation in a focused and formal manner to cultivate long-lasting benefits that can help one explore their potential.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+19	2	2	0	0	1	3	5	1	2	0	1	0	2	6.0	5	1	1	1	1	0	There is no such sentence within the context that has a dependency link of 6 words or more.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+13	0	1	0	0	1	0	3	0	1	0	4	0	2	4.0	6	0	0	0	1	0	 ''Helps in self-expression and develops one's potentiality.''	6
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	This is a solved example of the task.	6
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+17	3	3	1	1	0	1	4	0	1	0	1	0	1	4.0	7	1	1	0	0	0	It is important to consistently engage in formal meditation practices for sustained periods of a day.	6
+30	1	4	0	1	1	3	10	1	1	0	4	1	2	4.0	10	0	0	1	1	0	The longest dependency link of 6 words in the instruction is achieved by writing 'Helps in self-expression and develops one's potentiality' within the response.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+16	1	0	0	2	0	1	1	0	4	0	1	1	4	5.0	6	4	4	2	1	0	Let me know if this is the appropriate steps that you would like to see.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+29	3	5	1	1	0	4	7	0	2	0	2	0	3	8.0	7	3	3	1	0	0	It is always good to stick to a formal, intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+11	0	1	0	0	1	0	3	0	1	0	2	0	2	4.0	6	0	0	0	1	0	Helps in self-expression and develops one's potentiality.	6
+24	1	2	2	2	0	3	5	1	1	0	2	0	3	3.0	9	0	0	2	1	0	The longest dependency link of 6 words is not explicitly stated in the prompt, therefore I cannot generate the requested sentence.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+16	1	2	0	1	0	2	4	1	1	0	2	0	1	3.0	7	0	0	1	1	0	Sure, I can generate a sentence with the longest dependency link of 6 words.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+28	3	5	1	1	0	4	7	0	2	0	1	0	3	8.0	6	3	3	1	0	0	It is always good to stick to a formal intense meditation practice like the one for beginners described in the MP3 file that follows after the visualisations.	6
+23	1	2	0	1	0	4	7	1	1	0	1	1	3	7.0	6	2	2	1	1	0	There is no sentence generated since the instructions do not provide a task description with a longest dependency link of 6 words.	6
+16	1	0	0	2	0	1	1	0	4	0	1	1	4	5.0	6	4	4	2	1	0	Let me know if this is the appropriate steps that you would like to see.	6
+25	2	0	1	3	1	3	3	0	1	3	2	1	4	4.0	9	3	2	2	2	1	Having personally visited the West Bank and Israel, I can say that this new political voice is threatening to collapse the peace process.	9
+37	3	6	0	2	1	5	8	0	4	1	3	0	4	7.0	10	3	2	3	0	1	Having worked with the United Nations for many years, he became a champion of hope and reconciliation, his voice resonating throughout the world despite the many challenges that he had faced along the way.	9
+13	0	0	1	2	0	1	2	0	2	0	3	1	1	2.0	8	0	0	2	1	0	That is, of course, if you can get a laugh.	9
+25	6	2	1	1	1	2	8	0	0	0	3	0	1	4.0	14	0	0	1	1	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance were driving the current situation of the global economy.	9
+41	7	4	1	0	1	5	14	0	0	0	5	0	4	5.0	15	2	2	1	3	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance caused a domino effect on the political landscape of this war-torn region, creating a powerful voice threatening collapse in that volatile country.	9
+34	5	6	0	0	1	6	9	0	0	1	3	0	3	8.0	22	2	0	1	1	2	The economic conditions in the Middle East, coupled with the low interest rates and abundance of foreign capital flowing into the region, suggest a higher rate of inflation in that area.	9
+16	3	1	0	1	1	2	4	1	1	0	1	0	1	5.0	10	1	0	2	1	1	The long and complex sentence that has the longest dependency link of 9 words is: High commodity prices, low interest rates, and seemingly endless buckets of foreign finance have engendered a political voice that is fiercely anti-American, posing a grave threat to collapsing the peace process.	9
+10	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	5	0	0	1	0	0	This is not a solved example of the task.	9
+25	4	1	2	1	1	0	7	0	2	0	5	1	1	5.0	9	1	1	2	1	0	That is, of course, if you have high commodity prices, low interest rates, and seemingly endless buckets of foreign finance.	9
+24	3	3	0	2	0	4	6	1	0	0	2	1	2	4.0	10	1	1	2	0	0	No sentence with the longest dependency link of 9 words was generated, as no such sentences are present in the provided context.	9
+21	5	1	1	1	1	1	7	0	0	0	3	0	1	4.0	9	0	0	1	1	0	The global recession is causing high commodity prices, low interest rates, and seemingly endless buckets of foreign finance.	9
+38	6	3	2	2	2	2	11	0	1	0	4	0	5	7.0	14	2	2	2	2	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance are fueling a dangerous cycle of self-fulfilling expectations that could potentially implode and send economic chaos swirling across the globe,	9
+45	8	5	1	1	2	6	14	0	0	1	3	0	3	6.0	16	2	2	1	2	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance seem to have collapsed a crucial peace deal between the United States and the rest of the world, putting the future fate of that global alliance in grave uncertainty	9
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	This is a solved example of the task.	9
+53	8	8	2	1	2	4	15	0	1	2	5	0	5	7.0	13	3	3	1	3	0	 A new trade deal between China and India may boost the export of high-technology goods between them, thus significantly affecting the trajectory of international commodity prices, leading to lower interest rates and providing ample capital for investment in infrastructure projects, contributing to a sustainable global economic growth..	9
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	This is a solved example of the task.	9
+30	2	4	1	2	2	3	8	0	0	1	4	0	3	5.0	12	1	0	1	0	1	Having lived in New York for over a decade, the city has become a living and breathing tapestry of diverse cultures, ethnicities, and ways of life.	9
+13	0	0	1	2	0	1	2	0	2	0	3	1	1	2.0	8	0	0	2	1	0	That is, of course, if you can get a laugh.	9
+23	2	2	1	1	0	3	6	1	2	0	3	0	2	4.0	8	1	1	2	1	0	That is, of course, the longest sentence in the given text that has a longest dependency link of 9 words.	9
+37	4	3	2	1	3	4	3	0	3	5	3	0	5	7.0	12	4	2	1	4	2	Having experienced numerous wars fought along its borders, Turkey finds itself geographically isolated in both the East and the West, leaving them seemingly helpless to exert influence in the Caucasus and the Middle East.	9
+25	2	0	1	3	1	3	3	0	1	3	2	1	4	4.0	9	3	2	2	2	1	Having personally visited the West Bank and Israel, I can say that this new political voice is threatening to collapse the peace process.	9
+21	1	4	0	0	0	3	1	0	0	7	2	0	2	5.0	8	1	1	1	1	0	Az-Zaman : The Association of Muslim Scholars forbade Iraqis to participate in the attack on Fallujah with the Americans.	9
+59	6	7	4	3	2	3	15	0	5	0	6	1	6	6.0	23	4	4	4	3	0	That is, of course, if they can find a market that still wants to support them, in a world where commodities have lost their longest-term stability and economic value in an era of ever-increasing financial risk due in part to endless supply and low interest rates stemming from high commodity prices.	9
+16	4	1	1	0	1	0	6	0	0	0	3	0	0	3.0	9	0	0	0	0	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance.	9
+35	7	5	1	1	2	2	12	0	1	0	3	0	1	6.0	15	1	1	2	0	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance were key drivers of instability that led to an increase in political polarization and a decrease in international cooperation.	9
+25	2	0	1	3	1	3	3	0	1	3	2	1	4	4.0	9	3	2	2	2	1	Having personally visited the West Bank and Israel, I can say that this new political voice is threatening to collapse the peace process.	9
+26	2	6	0	1	1	4	7	1	1	0	1	0	1	4.0	15	0	0	1	1	0	None.	9
+15	1	1	1	1	1	2	4	0	1	0	3	0	0	3.0	7	0	0	1	0	0	That is, of course, a question without a clear context or purpose.	9
+18	1	1	1	1	1	2	4	1	2	0	1	0	2	7.0	3	2	2	2	2	0	I am unable to generate a sentence that has a dependency link of 9 words or longer.	9
+13	0	0	1	2	0	1	2	0	2	0	3	1	1	2.0	8	0	0	2	1	0	That is, of course, if you can get a laugh.	9
+38	6	4	1	3	2	4	10	0	2	0	3	0	2	6.0	9	2	2	2	2	0	The economic policies of the developed countries have significantly impacted their currencies' values, influencing the international flow of investment, which can be a significant driver of both economic prosperity and instability in different nations.	9
+23	1	2	0	0	2	4	5	1	1	0	2	0	4	6.0	6	2	1	0	0	1	Not provided in the context, there is no instruction regarding the task or the requested value of 9 words or more.	9
+26	0	3	1	2	0	5	6	0	1	0	2	1	3	4.0	16	1	1	2	1	0	The task is not provided with any information about the length of the dependency link, so I cannot generate a sentence as requested.	9
+20	4	1	1	0	1	2	7	0	0	0	2	0	2	4.0	7	1	1	1	2	0	The high price of energy commodities makes the international market more volatile, impacting foreign exchange and oil prices.	9
+24	4	2	0	3	1	1	2	0	2	1	2	1	3	4.0	9	3	2	2	1	1	Having seen her latest show, I'm not sure if the upcoming tour with Rolling Stones is worth checking out or not.	9
+41	7	3	3	3	2	4	9	0	1	1	3	1	4	7.0	11	3	3	2	1	0	The long-term impact of these measures is still uncertain, especially concerning the rising commodity prices and seemingly limitless buckets of foreign finance that could be directed into supporting the ongoing wars in Ukraine and other regional conflicts.	9
+13	0	0	1	2	0	1	2	0	2	0	3	1	1	2.0	8	0	0	2	1	0	That is, of course, if you can get a laugh.	9
+35	5	2	1	2	1	4	10	0	2	0	3	0	4	5.0	14	2	2	2	3	0	The increasing commodity prices, low interest rates, and seemingly endless buckets of foreign finance have fostered a situation that may force all parties to reconsider their positions in the current political landscape.	9
+20	0	1	1	2	0	2	1	1	2	3	3	0	2	4.0	6	2	2	2	1	0	"  ""That's how he could afford the $100,000 prize to participate in the World Poker Tour."""	9
+28	7	1	1	0	2	2	9	0	1	0	3	0	2	5.0	13	1	1	2	2	0	The high commodity prices, low interest rates, and seemingly endless buckets of foreign finance created a volatile financial environment that hindered economic growth and resilience.	9
+23	3	2	0	2	1	3	5	1	1	0	2	0	2	5.0	8	1	1	2	1	0	The information is insufficient, and I am unable to generate the requested sentence with the longest dependency link of 9 words.	9
+40	3	4	2	2	2	5	7	0	1	6	3	1	3	7.0	11	2	2	2	2	0	This new political voice is threatening to collapse the peace process, as its proponents have significantly decreased trust between the US and Iraq, particularly in the context of US foreign intervention in the West Bank and Israel.	9
+35	4	4	3	1	2	4	10	0	0	3	3	0	1	6.0	15	1	1	1	0	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance are the things most directly connected to the decline of the peace process in the West Bank and Israel.	9
+8	0	1	0	1	0	2	2	0	1	0	1	0	0	2.0	3	0	0	1	0	0	This is an example of the task.	9
+40	4	4	3	1	3	2	13	1	0	1	4	0	3	8.0	15	2	2	1	2	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance will likely sabotage any attempt to achieve peace and stability in Iraq, a country ravaged by war and insurgency for over 20 years.	9
+21	1	4	0	0	0	3	1	0	0	7	2	0	2	5.0	8	1	1	1	1	0	Az-Zaman : The Association of Muslim Scholars forbade Iraqis to participate in the attack on Fallujah with the Americans.	9
+16	4	1	1	0	1	0	6	0	0	0	3	0	0	3.0	9	0	0	0	0	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance.	9
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	This is a solved example of the task.	9
+33	7	3	1	1	2	4	11	0	0	0	3	0	1	6.0	16	1	1	1	1	0	High commodity prices, low interest rates, and seemingly endless buckets of foreign finance were the main factors driving the rise in the global economy and the subsequent wave of immigration.	9
+24	3	1	1	2	0	4	4	0	0	0	3	1	3	4.0	16	2	2	2	2	0	Unfortunately, the context does not provide any relevant information about the task, such that generating the requested sentence is not possible.	9
+40	2	3	0	1	1	6	10	1	5	0	2	1	5	9.0	10	5	5	3	4	0	I'm not able to generate a sentence that matches the instruction, as there is no task context or information in the context that allows me to generate a sentence with the longest dependency link of 12 words.	12
+20	2	3	0	1	0	3	5	1	1	0	1	0	1	5.0	7	1	1	1	1	0	I am not able to generate a sentence with the longest dependency link of 12 words from the context.	12
+29	2	2	0	2	0	6	7	1	1	0	1	1	3	5.0	16	2	2	2	3	0	None.	12
+38	2	4	0	3	0	7	8	0	2	0	4	1	4	5.0	27	1	1	3	3	0	I cannot complete the request, as the context does not provide any information about the longest dependency link of a sentence, as such, I cannot extract the requested information from the context.	12
+30	3	2	0	2	0	4	8	1	1	0	2	1	3	4.0	17	2	2	2	3	0	None.	12
+20	1	3	0	1	0	3	5	1	2	0	1	0	2	6.0	5	1	1	2	1	0	None.	12
+19	1	0	0	1	0	3	6	1	0	0	3	0	2	5.0	9	1	1	1	2	0	The context did not provide the information to generate a 12-word longest dependency-link sentence.	12
+30	2	4	0	2	0	5	9	1	1	0	1	1	2	5.0	16	1	1	2	2	0	None.	12
+17	1	1	0	1	1	2	4	1	2	0	1	0	2	6.0	3	1	1	2	2	0	None.	12
+18	2	2	0	2	0	3	4	0	2	0	1	0	1	4.0	7	1	1	2	1	0	None.	12
+15	2	1	0	0	0	1	1	1	1	4	3	0	1	3.0	11	0	0	1	1	0	The country elected its first female President, Park Geun-hye, in 2012.	12
+22	1	2	1	2	0	3	5	1	1	0	2	0	2	4.0	7	0	0	2	1	0	The task is not provided, so I cannot generate a sentence with the longest dependency link of 12 words.	12
+21	2	3	0	2	0	3	5	1	2	0	1	0	1	5.0	6	1	1	2	1	0	I cannot create a sentence with the longest dependency link of 12 words that is appropriate for the instruction.	12
+19	1	2	0	1	0	3	5	1	1	0	1	0	3	4.0	7	2	2	1	2	0	None.	12
+26	3	2	1	2	0	3	6	1	2	0	2	0	2	5.0	18	3	3	2	1	0	I am not able to generate a sentence that is the longest possible dependency link of 12 words, according to the task description above.	12
+16	2	2	0	1	0	2	4	1	1	0	1	0	1	4.0	7	1	1	1	1	0	I'm unable to generate a sentence with the longest dependency link of 12 words.	12
+15	2	1	0	0	0	1	1	1	1	4	3	0	1	3.0	11	0	0	1	1	0	The country elected its first female President, Park Geun-hye, in 2012.	12
+32	0	5	1	2	0	7	9	0	1	0	2	0	3	6.0	20	0	0	2	2	0	The context of this task does not provide information about the length of the dependency links of the words in the task, so I cannot generate the requested sentence.	12
+18	0	1	1	2	0	3	3	0	1	0	2	0	3	3.0	9	0	0	2	1	0	The context is not provided in the context, therefor I cannot generate the required sentence.	12
+29	2	3	0	2	1	4	9	1	1	0	1	1	2	6.0	16	1	1	2	2	0	None.	12
+20	2	2	0	1	0	3	6	1	0	0	1	0	2	6.0	7	1	1	1	2	0	The context did not provide information sufficient to construct the sentence with the longest dependency link of 12 words.	12
+20	2	3	0	1	0	3	5	1	1	0	1	0	2	4.0	14	2	2	1	1	0	I am unable to generate a sentence with the longest dependency link of 12 words based on the instruction.	12
+32	3	3	0	3	0	5	7	1	1	0	1	1	3	6.0	16	3	3	2	2	0	I am not able to generate a sentence with the longest dependency link of 12 words as the context does not provide sufficient information for such a sentence to be generated.	12
+25	2	2	0	2	1	3	5	0	2	0	2	1	4	5.0	11	2	2	2	2	0	I am unable to generate a sentence with the requested length, as it would require additional context and information beyond the given instruction.	12
+13	1	1	0	1	0	2	4	1	1	0	1	0	1	5.0	10	1	0	2	1	1	The sentence that has the longest dependency link of 12 words is: Once they realized their mistake they sent a mechanic and tow truck to my wife's work and towed it back to fix it.	12
+21	2	3	0	1	0	3	5	1	1	0	1	0	3	4.0	14	3	3	1	1	0	I am unable to generate a sentence with the longest dependency link of 12 words based on the context provided.	12
+29	2	2	0	2	1	4	8	1	1	0	2	1	3	4.0	17	1	1	2	3	0	I cannot provide a sentence with the longest dependency link of 12 words, as the context does not provide enough information or specify a word count.	12
+23	2	5	0	2	0	4	5	0	2	0	1	0	1	7.0	7	2	2	2	1	0	I am unable to generate a sentence that is consistent with the instruction due to the lack of context in the context.	12
+17	0	1	1	1	1	2	4	1	2	0	1	0	2	6.0	3	1	1	2	2	0	None.	12
+27	2	3	0	2	0	4	7	1	1	0	2	1	2	4.0	17	1	1	2	2	0	None.	12
+27	1	2	0	1	1	4	6	1	2	0	1	1	4	7.0	6	2	2	2	3	0	None.	12
+17	1	1	0	1	1	2	4	1	2	0	1	0	2	6.0	3	1	1	2	2	0	None.	12
+31	1	3	0	2	1	5	7	0	2	0	3	0	4	9.0	6	3	3	2	3	0	None.	12
+31	3	4	0	3	0	5	7	1	1	0	2	1	3	5.0	18	2	2	2	1	0	I am unable to generate a sentence with the longest dependency link of 12 words, as no such sentence can be generated within the context of the provided instruction.	12
+48	8	6	2	2	0	5	13	1	1	0	4	0	5	10.0	10	4	4	2	3	0	The country has implemented a significant tax policy, thereby impacting the percentage of income allocated to social welfare programs for low- income households that will ultimately go to the top 1% of American citizens, making political progress a top priority for future policies.	12
+29	2	2	0	2	0	5	7	1	1	0	2	1	3	4.0	17	2	2	2	3	0	None.	12
+15	2	1	0	0	0	1	1	1	1	4	3	0	1	3.0	11	0	0	1	1	0	The country elected its first female President, Park Geun-hye, in 2012.	12
+21	2	3	0	2	0	3	5	1	2	0	1	0	1	6.0	5	1	1	2	1	0	None.	12
+14	0	3	0	1	0	2	3	0	1	0	1	0	2	5.0	4	1	1	1	1	0	None.	12
+28	1	4	0	2	0	5	7	1	1	0	2	1	2	6.0	10	1	1	2	1	0	I cannot comply with the instruction, as the context does not provide any information about a sentence with the longest dependency link of 12 words.	12
+26	1	2	1	3	1	3	6	1	2	0	1	1	2	8.0	8	2	2	3	2	0	I couldn't generate the sentence because the context does not provide any clues about dependencies between words that are 12 or more words long.	12
+27	2	3	0	2	0	5	7	1	1	0	1	1	2	4.0	16	1	1	2	2	0	None.	12
+32	0	3	0	2	0	7	9	1	2	0	2	1	3	8.0	11	2	2	3	3	0	None.	12
+18	1	0	0	2	1	3	4	0	1	0	1	1	2	4.0	8	1	1	2	2	0	None.	12
+24	1	1	0	2	0	3	5	1	3	0	2	1	3	4.0	12	2	2	3	3	0	None.	12
+22	1	4	0	1	1	3	5	0	1	0	1	0	3	7.0	7	2	2	1	1	0	I am not able to generate the requested sentence due to the lack of context and instructions given in the prompt.	12
+15	1	1	0	1	0	3	3	0	2	0	1	0	2	6.0	3	2	2	2	2	0	I am unable to generate a sentence that satisfies the requirements of the task.	12
+25	0	0	0	2	1	5	6	0	2	0	1	2	4	7.0	8	3	3	3	4	0	None.	12
+20	1	3	0	1	0	3	5	1	1	0	1	0	3	3.0	14	2	2	1	1	0	None.	12
+15	1	2	0	1	0	2	4	1	1	0	1	0	1	3.0	7	0	0	1	1	0	None.	12
+16	2	2	0	1	0	2	4	1	1	0	1	0	1	4.0	7	1	1	1	1	0	I am unable to provide a sentence with a longest dependency link of 16 words.	16
+19	0	1	1	2	0	3	3	0	1	0	2	1	3	3.0	9	1	1	2	1	0	This task is not provided in the context, so I cannot generate a sentence as requested.	16
+28	4	1	0	2	0	4	6	1	2	0	1	1	4	6.0	14	3	3	3	3	0	I am unable to generate a sentence that has the longest dependency link of 16 words as the provided context does not specify any additional linguistic restrictions.	16
+23	1	0	1	2	0	4	5	0	2	0	2	1	3	4.0	14	2	2	3	3	0	None.	16
+24	2	2	0	2	0	4	6	1	1	0	1	1	2	4.0	16	1	1	2	2	0	None.	16
+18	2	1	0	1	1	2	4	1	2	0	1	0	2	7.0	3	2	2	2	2	0	I am unable to generate a sentence that has a dependency link of 16 words or more.	16
+36	4	6	1	2	0	5	8	1	1	0	3	0	3	6.0	14	2	1	2	1	1	The relevant standards which have been laid down in another Directive, 95/35/EC, seem sufficiently adequate to advise people in a responsible manner on the organisation of the transport of dangerous goods.	16
+17	1	1	0	1	1	2	4	1	2	0	1	0	2	6.0	3	1	1	2	2	0	None.	16
+18	2	1	0	2	0	2	3	0	1	0	1	0	3	4.0	8	2	2	1	2	0	I don't have enough context in the context to be able to generate the requested sentence.	16
+33	1	2	0	2	1	5	8	0	2	0	2	1	5	6.0	16	3	3	3	3	0	None.	16
+16	2	2	0	1	0	2	4	1	1	0	1	0	1	4.0	7	1	1	1	1	0	I am unable to generate a sentence with the longest dependency link of 16 words.	16
+25	2	3	0	3	0	4	6	1	1	0	1	1	2	3.0	17	1	1	2	1	0	None.	16
+22	0	2	0	2	0	4	4	0	2	0	1	1	4	5.0	10	1	1	2	2	0	None.	16
+26	1	1	0	2	1	5	7	0	1	0	1	1	4	5.0	9	2	2	2	2	0	None.	16
+30	2	2	0	2	0	6	7	1	1	0	2	1	3	5.0	17	2	2	2	3	0	None.	16
+17	2	1	0	1	0	2	4	1	2	0	1	0	2	6.0	4	2	2	2	2	0	I am unable to generate a sentence that has a longest dependency link of 16 words.	16
+32	3	2	0	3	0	6	7	1	2	0	1	1	3	6.0	16	3	3	3	3	0	I am not able to generate a sentence with the longest dependency link of 16 words as the context does not provide any related information that could create such a sentence.	16
+39	1	3	0	3	1	6	10	1	4	0	1	1	5	7.0	14	4	4	4	4	0	None.	16
+26	2	2	0	2	1	4	6	1	1	0	2	1	2	4.0	18	1	1	2	2	0	None.	16
+19	2	2	0	1	0	3	4	0	1	0	2	1	2	4.0	10	2	2	1	1	0	I am uncertain whether to submit a proposal on the matter, given the political constraints at hand.	16
+32	2	4	0	2	0	6	9	1	1	0	2	1	2	5.0	17	1	1	2	2	0	None.	16
+24	1	2	0	2	0	5	6	1	1	0	1	1	2	3.0	16	1	1	2	2	0	None.	16
+30	2	4	0	2	0	5	9	1	1	0	1	1	2	6.0	16	2	2	2	2	0	I am unable to generate a sentence with the longest dependency link of 16 words as the context does not provide any information about the length of dependency links.	16
+24	2	2	0	2	0	4	6	1	1	0	1	1	2	3.0	16	1	1	2	2	0	None.	16
+20	1	3	0	1	0	3	5	1	1	0	1	0	3	3.0	15	1	1	1	1	0	None.	16
+21	1	2	0	1	1	3	5	1	2	0	1	0	3	4.0	9	1	1	2	2	0	None.	16
+36	4	6	1	2	0	5	8	1	1	0	3	0	3	6.0	14	2	1	2	1	1	The relevant standards which have been laid down in another Directive, 95/35/EC, seem sufficiently adequate to advise people in a responsible manner on the organisation of the transport of dangerous goods.	16
+25	1	2	0	2	0	3	7	1	2	0	2	1	3	4.0	15	1	1	2	2	0	None.	16
+22	2	3	0	2	0	3	5	1	2	0	1	0	2	5.0	6	1	1	2	1	0	None.	16
+30	3	3	1	2	0	5	7	1	1	0	2	0	3	6.0	19	2	2	2	2	0	The context does not provide any information related to the longest dependency link of a sentence of 16 words, therefore I am unable to generate the requested sentence.	16
+30	0	2	1	2	1	6	7	1	2	0	2	1	3	6.0	15	2	2	3	3	0	None.	16
+16	2	2	0	1	0	2	4	1	1	0	1	0	1	4.0	7	1	1	1	1	0	I am unable to generate a sentence with the longest dependency link of 16 words.	16
+36	1	3	0	4	0	7	8	1	2	0	2	1	4	6.0	20	3	3	3	3	0	None.	16
+39	2	5	0	2	0	8	10	1	2	0	3	1	4	7.0	16	3	3	3	2	0	I am unable to generate a sentence that meets the requirements of the task, as no relevant information is provided about a 16-word dependency link dependency between any of the words in the given context.	16
+15	1	1	0	1	0	3	3	0	2	0	1	0	2	6.0	3	2	2	2	2	0	I am unable to create a sentence that meets the specifications of the task.	16
+20	0	3	1	1	1	3	5	1	1	0	1	0	2	5.0	6	0	0	1	1	0	None.	16
+24	3	2	1	1	2	1	5	1	2	0	1	0	3	7.0	4	2	2	1	3	0	It is not appropriate to generate sentences with a complexity of 16 words or longer that provide comprehensive information or demonstrate advanced reasoning.	16
+50	3	4	0	2	1	9	13	1	5	0	3	1	5	8.0	15	5	5	3	5	0	I am unable to generate a sentence that meets the parameters of the request because the context does not provide any information about the task itself or its task parameters, making it impossible to generate a sentence with a 16-word dependency link related to the task.	16
+18	1	3	0	1	0	3	5	1	1	0	1	0	1	3.0	7	0	0	1	1	0	None.	16
+32	0	1	2	3	2	4	7	2	3	0	2	1	3	7.0	15	3	3	4	3	0	None.	16
+15	1	2	0	1	0	2	4	1	1	0	1	0	1	3.0	7	0	0	1	1	0	None.	16
+20	0	2	0	2	0	3	5	0	1	0	1	1	3	5.0	9	1	1	2	2	0	None.	16
+23	2	2	0	3	0	3	5	1	1	0	2	1	2	4.0	10	1	1	2	1	0	I cannot fulfill the instruction, as no such sentence can be generated with the longest dependency link of 16 words.	16
+25	1	1	1	3	0	3	6	1	3	0	2	1	2	5.0	12	3	3	3	2	0	I am unable to generate a sentence that is 16 words long, as that would violate the word limit requirement for the task.	16
+21	0	3	0	2	0	3	5	1	2	0	1	0	3	3.0	13	2	2	2	1	0	None.	16
+12	0	0	0	1	0	2	2	0	2	0	1	0	3	4.0	3	1	1	2	2	0	None.	16
+20	0	3	0	1	0	3	5	1	1	0	2	0	3	4.0	6	2	2	1	1	0	I can not generate a sentence with a dependency link of 16 words, based on the instruction provided.	16
+26	1	3	1	2	0	4	7	1	1	0	2	0	2	4.0	10	0	0	2	2	0	The context does not provide any information about tasks, so I cannot generate a sentence with the longest dependency link of 16 words.	16
+26	2	2	0	2	0	4	6	1	3	0	1	0	4	8.0	7	4	4	3	2	0	I cannot provide a sentence that has a length of 16 words that is the longest possible dependency link based on the context provided.	16
+20	1	2	1	1	0	3	5	1	2	0	1	0	2	4.0	7	1	1	2	2	0	None.	16

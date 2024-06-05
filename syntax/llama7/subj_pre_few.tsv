@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+9	1	1	0	0	0	0	3	0	2	0	1	0	1	2.0	7	0	0	0	1	0	1	0	Cure your insomnia with our natural sleep aid.	0
+14	2	1	1	1	1	1	1	0	1	0	1	0	3	4.0	6	1	1	0	1	0	1	0	Avoid getting wet and don't eat anything too spicy before the party.	0
+11	1	0	1	0	1	1	3	0	0	0	2	0	2	2.0	7	0	0	2	0	0	0	2	The sky turned dark, then light and stars twinkled.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun was setting over the ocean.	0
+19	0	2	2	0	0	3	3	0	0	1	3	0	4	4.0	9	1	1	1	2	0	2	1	Alice immediately opened the package, devoured the pizza, then showered to freshen up for the party.	0
+14	1	3	0	1	0	1	2	0	2	0	2	0	2	3.0	9	2	2	1	0	0	0	1	Avoid overeating before a night out, it's better for your health.	0
+6	1	0	0	1	0	0	1	0	0	1	1	0	0	3.0	2	0	0	1	0	0	0	1	Joe's car is blue.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The parrot perched precariously on the windowsill.	0
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	The cat purred contentedly asleep in the sunbeam.	0
+12	0	1	0	0	0	3	3	0	1	0	1	1	2	3.0	8	1	1	1	2	0	2	1	Run the dogs around the park until they need a break.	0
+7	0	1	0	0	0	0	2	1	0	1	1	0	1	2.0	3	0	0	1	0	0	0	1	Water boils at 212 degrees Fahrenheit.	0
+10	0	1	1	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The team quickly completed the project in three weeks.	0
+12	1	1	0	0	1	2	3	0	1	0	1	0	2	3.0	5	0	0	0	2	0	2	0	Climb the tallest mountain and shout your victory from the rooftops.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	4	0	0	1	0	0	0	1	Lena's cat slept soundly on the couch.	0
+6	0	0	0	0	0	1	2	0	0	0	1	1	1	3.0	2	1	1	0	1	0	1	0	Congratulations on completing the instruction!	0
+14	1	1	1	0	0	3	4	0	0	0	1	0	2	4.0	5	1	1	0	2	0	2	0	Carefully examine the complex system to locate the root cause of the issue.	0
+14	2	0	0	0	1	3	4	0	0	0	2	0	2	4.0	5	1	1	0	2	0	2	0	Wash the car using a soft-bristle brush and a gentle cleanser.	0
+9	0	2	0	0	0	2	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	0	1	Water flows from the lake into the river.	0
+8	0	2	0	0	0	1	1	1	1	0	1	0	1	2.0	6	0	0	0	1	0	1	0	Fax the report to me at 555-555-1234.	0
+12	0	1	0	0	1	3	3	0	0	0	1	0	3	4.0	4	1	1	0	2	0	2	0	Crank the engine and hit the gas, racing down the straightaway	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly upon my lap.	0
+12	0	2	0	0	1	3	3	0	0	0	1	0	2	3.0	8	0	0	0	1	0	1	0	Climb to the top of the mountain and release the balloons.	0
+13	0	0	1	0	1	3	4	0	0	0	1	1	2	3.0	7	1	1	1	2	0	2	1	The manager reviewed the reports and data thoroughly before making a decision.	0
+18	0	1	2	1	0	1	5	1	0	3	3	0	0	3.0	8	0	0	1	0	0	0	1	Buzz Aldrin's zero-gravity penis sighting on Mars was the most-read tweet ever!	0
+7	1	1	0	0	0	1	2	0	0	0	1	0	1	2.0	5	0	0	0	1	0	1	0	Cut the pizzas into equal slices.	0
+17	1	0	0	1	1	2	6	0	0	0	3	0	2	4.0	6	1	1	1	2	0	2	1	The company is launching a nationwide training program to address diversity, equity, and inclusion.	0
+7	0	0	1	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The dog chased its tail rapidly.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun rose slowly over the horizon.	0
+13	0	1	2	0	1	2	3	0	1	0	1	0	2	3.0	6	0	0	0	2	0	2	0	Carefully slice the bananas and arrange them artfully on the serving dish.	0
+3	0	0	0	0	0	1	1	0	0	0	0	0	1	2.0	1	0	0	1	0	0	0	1	The baby cried	0
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	0	1	The cat purred contentedly on John's lap.	0
+12	2	1	1	1	1	0	1	0	2	0	1	1	1	3.0	8	1	1	1	0	0	0	1	Run for your life while you're still young and able.	0
+9	0	0	0	0	0	2	2	0	0	1	1	0	2	3.0	4	1	1	1	1	0	1	1	Fred had to walk the dog every evening.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred loudly on my lap.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+10	0	1	0	0	1	2	2	0	1	0	1	0	2	3.0	4	0	0	0	2	0	2	0	Clean the vehicles and prepare them for the journey.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+12	1	0	0	0	0	3	3	0	0	0	1	0	3	3.0	5	1	1	1	2	0	2	1	The chef prepared a succulent sauce to accompany the roasted vegetables.	0
+14	0	0	2	1	2	1	2	0	2	0	1	0	3	3.0	6	1	1	1	2	0	2	1	Clean the refrigerator and freezer and put them away when you are done.	0
+5	0	0	1	0	0	0	1	0	1	0	1	0	1	2.0	3	0	0	0	1	0	1	0	Write your sentence here: The cat purred contentedly on my lap.	0
+8	0	1	0	0	0	1	3	0	1	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The dog chased its tail in circles.	0
+9	0	1	1	0	1	1	1	0	1	0	1	0	2	2.0	4	0	0	0	2	0	2	0	Cut the cards and deal them out evenly.	0
+12	1	1	2	1	0	2	3	0	0	0	0	0	2	4.0	5	1	1	1	1	0	1	1	Flash forward to a distant world where time has lost all meaning	0
+9	1	1	0	1	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The company will merge with its largest competitor.	0
+6	0	0	0	0	1	1	2	0	0	0	1	0	1	3.0	2	0	0	0	1	0	1	0	Clean the furniture and carpets.	0
+13	2	3	0	0	1	1	3	0	0	0	1	0	2	3.0	7	0	0	0	1	0	1	0	Crank the engine to maximum power and take off at full throttle.	0
+5	1	0	0	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	0	1	0	1	0	Eat the entire cake.	0
+16	1	2	0	1	1	2	3	0	1	0	2	0	3	3.0	10	0	0	1	2	0	2	1	Blow the horn and start the engine, we're taking off at supersonic speed!	0
+11	1	1	0	1	0	2	2	0	1	1	1	0	1	3.0	7	0	0	1	1	0	1	1	You can see the painting at the museum next Sunday.	1
+11	1	0	0	0	0	1	3	0	0	1	1	1	2	4.0	3	1	1	1	2	0	2	1	The teacher praised John's effort for solving complex problems. 	1
+12	0	1	1	1	0	0	2	0	2	1	3	0	1	2.0	5	0	0	1	0	0	0	1	My cat, Fluffy, is purring contentedly on my lap.	1
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	1
+14	1	2	0	1	0	2	2	0	1	2	2	0	1	4.0	6	0	0	1	1	0	1	1	Brazil: You can obtain the visa from the Portuguese embassy in London.	1
+10	0	2	0	1	0	2	2	0	0	1	1	0	1	3.0	3	0	0	1	0	0	0	1	The hotel was located in the mountains of Switzerland.	1
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	0	1	The cat purred contentedly on Maria's lap.	1
+16	0	0	0	2	0	0	3	1	3	0	1	1	2	3.0	10	1	1	2	2	0	2	2	I can't remember my mom's phone number since she doesn't have one.	1
+18	0	3	1	2	0	2	5	0	1	1	1	0	1	4.0	8	0	0	1	0	0	0	1	Mars can be seen clearly on a night sky without a telescope from my parents' backyard.	1
+13	0	1	0	1	1	0	3	0	2	2	2	0	1	5.0	7	0	0	1	1	0	1	1	China: I will have dinner with Jack and his family tonight.	1
+11	1	2	0	1	0	1	1	0	1	2	1	0	1	2.0	7	0	0	1	1	0	1	1	I have sent the package to New York via FedEx.	1
+2	0	0	0	0	0	0	0	0	0	1	1	0	0	0.0	0	0	0	0	0	0	0	0	Nigeria: You must apply in advance for a visa through the nearest Norwegian embassy.	1
+10	1	0	0	1	0	1	2	0	0	1	1	0	2	3.0	4	1	1	1	1	0	1	1	Maria is going to buy a new laptop tomorrow.	1
+12	1	1	0	2	0	1	2	0	2	1	1	0	1	2.0	6	0	0	1	1	0	1	1	My sister will be visiting us from the States next week.	1
+10	1	0	1	1	0	0	1	0	2	1	1	0	2	3.0	4	1	1	2	2	0	2	2	I will visit Paris when I have more time.	1
+6	0	0	0	1	0	1	1	0	0	1	1	0	1	2.0	2	0	0	1	1	0	1	1	Jane is eating an apple.	1
+10	0	1	0	1	0	1	1	0	1	1	1	1	2	3.0	4	1	1	1	1	0	1	1	I'm thinking of visiting Iceland in the spring.	1
+8	0	0	1	1	0	1	0	0	0	3	1	0	1	2.0	4	0	0	1	1	0	1	1	Lena is reading The Sun Also Rises.	1
+8	0	1	0	0	0	1	4	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The hotel room smelled of cigarette smoke.	1
+2	0	0	0	0	0	0	0	0	0	1	1	0	0	0.0	0	0	0	0	0	0	0	0	Jim: You can purchase your train ticket at the station today.	1
+9	0	1	0	1	0	0	3	0	1	1	1	0	1	2.0	5	0	0	1	1	0	1	1	I will meet Jack tonight at bar downtown.	1
+15	0	1	1	1	0	1	4	0	3	0	1	0	2	3.0	10	1	1	2	1	0	1	2	I will stop by my brother's house this afternoon when I have time.	1
+13	1	0	1	0	1	2	2	0	0	1	1	0	3	3.0	6	1	1	1	2	0	2	1	The teacher gave Jack a new textbook to take home and read.	1
+10	1	2	0	1	0	0	2	0	1	1	1	0	1	3.0	6	0	0	1	1	0	1	1	I have booked flights to Tokyo for next month.	1
+17	1	1	0	1	0	2	5	0	1	0	1	1	2	4.0	7	1	1	1	1	0	1	1	You can obtain the museum's gift card by going to the museum's front lobby. 	1
+8	1	0	0	0	0	0	2	0	1	0	1	0	2	3.0	2	1	1	1	1	0	1	1	My mother loves to cook vegetarian meals.	1
+12	2	1	0	2	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The new employee will be introduced at the next team meeting.	1
+11	0	2	0	0	0	2	4	0	1	0	1	0	1	3.0	8	0	0	1	1	0	1	1	I love the sound of the ocean waves during sunrise.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun rises slowly in the distance.	1
+9	0	1	0	2	0	1	1	0	0	2	1	0	1	2.0	4	0	0	1	1	0	1	1	Jeff will be calling John in the afternoon. 	1
+9	1	1	1	1	0	0	1	0	1	1	0	0	1	2.0	4	0	0	1	0	0	0	1	Sarah has not yet respond to my last email	1
+10	0	2	0	1	0	2	2	0	0	1	1	0	1	3.0	3	0	0	1	1	0	1	1	Sheila can pick up the package at the airport.	1
+19	0	2	0	1	0	4	7	0	1	0	1	1	2	5.0	6	1	1	1	2	0	2	1	You can reach the baggage claim area by following the signs at the exit of the security checkpoint.	1
+10	0	1	0	1	0	1	2	0	2	1	1	0	1	2.0	6	0	0	1	1	0	1	1	I will visit John at his office this afternoon.	1
+11	0	2	0	0	0	0	2	1	1	2	2	0	1	3.0	5	0	0	1	0	0	0	1	Japan: Your flight leaves for Kyoto in 3 hours.	1
+9	0	1	0	0	0	1	1	0	1	2	1	0	2	3.0	4	1	1	1	1	0	1	1	I met a girl in Paris named Sophia.	1
+12	0	1	0	1	0	2	3	0	1	0	1	0	2	3.0	5	1	1	1	1	0	1	1	I will call the bank tomorrow to inquire about the account.	1
+7	0	1	0	0	0	0	2	0	0	1	1	0	2	3.0	3	1	1	1	1	0	1	1	Mary likes going shopping on weekends.	1
+9	0	0	0	0	0	2	3	1	1	0	0	0	2	3.0	4	1	1	2	1	0	1	2	I saw three deer cross the road this morning	1
+13	0	1	0	1	1	2	4	0	0	0	1	0	2	4.0	4	1	1	1	1	0	1	1	The chef is preparing to season the roast with rosemary and garlic.	1
+14	2	1	0	1	0	3	5	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The new manager has demanded a detailed project plan from the development team.	1
+14	1	2	0	1	0	2	2	0	1	2	1	0	2	4.0	4	1	1	2	0	0	0	2	Jane is looking for the new restaurant that John recommended in the email.	1
+14	1	1	1	1	0	1	3	1	1	0	1	1	2	4.0	6	1	1	1	1	0	1	1	You can reach the nearest train station by walking 10 minutes from here.	1
+13	0	2	0	1	0	1	3	0	1	2	1	0	1	4.0	5	0	0	1	0	0	0	1	I'm looking for the phone number of Tom Petty's manager.	1
+9	0	0	0	1	0	1	2	0	1	1	1	1	1	2.0	5	0	0	1	1	0	1	1	I will see Sarah tomorrow if the weatherpermits.	1
+2	0	0	0	0	0	0	0	0	0	1	1	0	0	0.0	0	0	0	0	0	0	0	0	Mexico: The consulate is open for visa applications on Tuesday, Wednesday, and Thursday from 8:00 am to 12:00 pm.	1
+9	1	1	0	0	0	1	1	0	0	1	1	0	2	3.0	4	1	1	1	1	0	1	1	Jim went to pick up the new guitar.	1
+12	1	1	0	1	0	3	3	0	1	0	1	0	1	2.0	8	0	0	1	2	0	2	1	She will give the baby a big kiss on the cheek.	1
+13	2	1	1	0	0	1	2	0	2	0	1	0	2	4.0	7	1	1	1	1	0	1	1	She made sure to lock the front door on her way out.	1
+14	1	2	1	1	0	1	3	2	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	I have collected over six thousand stamps from various countries around the world.	1
+16	1	1	1	1	1	2	2	0	1	0	1	1	3	3.0	11	2	2	2	1	0	1	2	They have a passion for flying, but the aircraft is too heavy to take off	2
+22	1	0	0	2	1	3	3	0	3	0	2	1	3	3.0	12	1	1	2	3	0	3	2	They will find you a new car, but not if you do not take the bus to work every day.	2
+30	2	3	4	1	2	2	3	0	2	1	5	0	5	4.0	16	2	2	2	0	0	0	2	They were all very impressed with the cake and eagerly reached for their first slice; Sarah, however, seemed a bit distracted and kept glancing at __________.	2
+13	3	1	0	1	1	2	3	0	0	1	1	0	0	3.0	4	0	0	1	0	0	0	1	Jason is a gifted artist and a passionate advocate for environmental responsibility.	2
+16	1	0	0	0	1	2	3	0	2	3	1	0	2	4.0	6	1	1	1	2	0	2	1	Her daughter and she visited the museum to see the new Leonardo da Vinci exhibition. 	2
+20	2	2	2	1	0	1	4	0	3	0	2	1	2	3.0	13	1	1	2	1	0	1	2	They always take their dog for long runs, even though her favorite place is lounging on the couch.	2
+15	3	2	0	1	1	1	4	0	1	0	1	0	1	3.0	7	0	0	1	0	0	0	1	Many tourists are attracted to the old town by its history and charming atmosphere.	2
+25	5	3	0	2	1	4	4	0	1	0	2	0	2	4.0	11	1	1	2	1	0	1	2	The intricate patterns of the woodcarvings were thought to bring good fortune, yet their mystical power was unknown to all but a few.	2
+8	0	1	0	0	2	0	2	0	0	2	0	0	1	3.0	3	0	0	1	0	0	0	1	Lions and tigers fight over territory and mates	2
+25	3	0	3	2	0	1	3	0	5	0	1	2	4	6.0	5	4	4	2	2	0	2	2	They were all very scared because their teacher was telling them that there was now a giant sea turtle coming to eat them alive.	2
+15	0	1	0	1	0	1	3	0	4	0	1	0	3	6.0	4	3	3	2	2	0	2	2	They made her promise to come see them every time she's in town.	2
+30	0	4	0	0	1	5	7	0	5	0	3	0	5	6.0	16	3	3	3	1	0	1	3	Her sisters helped prepare them for the dance, but no matter what they did, her date seemed fascinated by the reflection of the light on the wall.	2
+8	0	0	1	1	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	His team has worked hard all week. They will enjoy the game more if they cheer for him.	2
+15	0	1	1	0	0	1	4	0	1	0	2	1	3	4.0	5	2	2	2	1	0	1	2	Thousands of protesters gathered outside, calling for the government to listen their demands.	2
+25	4	2	4	1	1	2	4	0	3	0	1	0	3	6.0	9	1	1	2	3	0	3	2	You will find these vivid depictions particularly fascinating and maybe even shed light on mysterious aspects of this culture that puzzled everyone else before.	2
+20	1	2	2	1	1	2	4	0	3	0	1	0	3	4.0	8	1	1	3	2	0	2	3	They always order the spicy margaritas, and you should order the guacamole tostadas when they run out of chips	2
+14	0	2	1	1	0	3	3	0	1	0	1	0	2	4.0	5	1	1	2	1	0	1	2	The cat was chasing the mouse when it jumped out of the way.	2
+20	1	2	1	0	0	4	6	0	1	1	0	0	3	5.0	11	2	2	1	3	0	3	1	Rocky immediately called a meeting with all members of the management team to discuss the urgent task requiring their attention	2
+17	2	1	1	3	1	1	3	1	1	0	1	0	2	3.0	9	0	0	1	2	0	2	1	She has been playing the guitar for five years and now can play many popular tunes.	2
+11	1	1	0	0	0	3	3	0	0	0	1	0	2	4.0	4	1	1	2	0	0	0	2	The baby laughed at the silly faces the clowns made.	2
+11	0	0	1	0	0	2	3	0	1	0	1	1	2	3.0	5	1	1	2	2	0	2	2	The cat purred happily as the children fed it biscuits.	2
+9	0	0	1	1	0	0	1	0	1	1	1	0	2	3.0	3	1	1	1	2	0	2	1	Lily is teaching her dog how to swim. Her mother helps her train the puppy each day.	2
+24	1	4	1	3	1	4	5	0	1	0	1	0	3	3.0	12	0	0	2	0	0	0	2	A large number of the employees are looking into the future of the industry and how it will be affected by emerging technologies. 	2
+41	6	3	1	1	2	3	7	1	3	0	2	1	7	7.0	13	7	7	3	3	0	3	3	They say that to see the world and travel are the best ways to experience a new sense of self, yet many opt-out to remain static in one place their entire lives to avoid venturing into something unfamiliar	2
+16	0	1	1	1	0	1	1	0	4	0	1	1	4	5.0	7	3	3	2	2	0	2	2	They invited her to go swimming with them even though she was wearing a suit. 	2
+19	1	2	0	1	0	4	5	0	1	0	2	1	2	4.0	10	1	1	2	2	0	2	2	They will enjoy these souvenirs for a lifetime, as each relic holds a piece of Irish charm.	2
+8	0	0	0	1	0	0	0	0	3	0	1	0	2	2.0	3	1	1	2	2	0	2	2	You can tell them i said hello.	2
+12	0	2	0	1	0	1	1	0	3	0	1	1	2	3.0	5	1	1	2	0	0	0	2	You can see for yourself if you travel to the museum. 	2
+11	0	1	1	1	0	1	2	0	2	1	0	0	2	4.0	3	1	1	2	1	0	1	2	Brad will never forget the adventures they shared on their vacation	2
+18	1	1	1	2	0	1	2	0	5	0	1	1	3	6.0	4	3	3	3	2	0	2	3	She will love it if you buy a vase she thinks is quite beautiful for her birthday.	2
+13	2	1	0	3	0	1	2	0	2	0	1	0	1	4.0	4	1	1	2	1	0	1	2	They are building a huge mansion that will be ready in summer.	2
+16	1	1	1	1	0	1	3	0	2	0	1	1	4	4.0	7	3	3	2	1	0	1	2	They walked towards downtown holding hands while eagerly anticipating what other treasures they would find.	2
+43	5	5	2	6	2	4	5	0	4	2	3	1	3	7.0	12	4	4	4	0	0	0	4	A trip up the mountain would be enjoyable for all those who have been preparing for this expedition, but especially for  John and Bill, who are eager to see if their new gear will perform well in harsh snowy conditions. 	2
+20	1	3	1	1	1	3	5	0	2	0	1	0	2	3.0	9	0	0	1	1	0	1	1	The manager was impressed by her presentation and confidently introduced her to the clients as the new sales representative.	2
+12	0	1	1	0	1	0	2	0	2	1	1	0	2	4.0	3	1	1	1	1	0	1	1	She always loved to play basketball with John and his friends.	2
+18	4	0	0	2	1	3	4	0	0	0	1	1	2	3.0	8	1	1	2	1	0	1	2	The researchers have found that the ancient carvings hold unique significance and are a valuable cultural heritage.	2
+15	2	1	4	1	0	0	1	0	4	0	1	0	1	3.0	5	1	1	2	1	0	1	2	They were both very happy for us when we bought our first home together.	2
+12	0	1	1	1	0	1	3	0	2	0	1	0	2	3.0	3	1	1	2	1	0	1	2	Your cat will chase the laser pointer you just turned off. 	2
+29	5	1	2	2	1	0	3	0	4	0	2	3	6	5.0	19	5	5	3	1	0	1	3	Many people enjoy listening to classical music while studying as it helps them concentrate better, but it can also be distracting if there are other noises present.	2
+25	3	2	1	2	1	3	3	0	5	0	1	0	4	4.0	10	2	2	4	1	0	1	4	Some people think there's more to the mystery but we are excited about what we found so we're opening a new exhibit. 	2
+20	1	2	0	0	1	4	6	0	2	0	2	0	2	4.0	10	0	0	2	3	0	3	2	The manager gave the intern a new task, and his coworker asked him for help with the project.	2
+18	2	1	1	1	0	2	5	0	2	0	1	1	2	4.0	7	1	1	2	2	0	2	2	The teacher asked students if their parents have ever visited any ancient historical places outside their countries.	2
+17	0	2	1	0	0	2	7	0	0	0	0	0	3	6.0	4	2	2	1	1	0	1	1	Bikini bottom dwellers love to visit sea world to get away from the pressures of the ocean	2
+18	0	3	0	1	1	1	4	0	4	0	1	0	3	5.0	11	1	1	3	2	0	2	3	She loved watching them and the soundtracks for movies they were in filled her heart with nostalgia.	2
+18	2	3	0	1	1	2	5	0	2	0	2	0	0	4.0	8	0	0	1	0	0	0	1	They are a symbol of hope for future generations, and a lasting legacy for their ancestors.	2
+21	1	1	1	0	1	4	5	0	1	0	2	0	4	4.0	13	1	1	3	1	0	1	3	The baby laughed when he met the funny-faced man, and the man smiled at the baby's giggles	2
+23	2	2	2	2	1	3	4	0	2	0	2	0	3	5.0	7	1	1	2	1	0	1	2	The teacher will be thrilled you finally read the long chapter, but also disappointed by your bad grade on the quiz.	2
+16	1	2	1	1	0	1	3	0	3	0	1	1	2	3.0	10	1	1	2	1	0	1	2	They left for their destination early in order that they could enjoy the scenic route.	2
+17	1	2	0	0	0	2	7	0	0	0	1	0	2	5.0	8	1	1	1	2	0	2	1	The teacher asked student's permission to show films about space travel to a captive class.	2
+44	3	3	2	2	2	3	8	0	8	1	2	1	6	8.0	21	4	4	4	5	0	5	4	Her teacher gave them an assignment to color the pictures and hang them in their rooms, but little Sam's wasn't finished yet because he was too busy drawing his own version of what they saw on the class field trip.	2
+19	1	3	2	1	0	2	4	0	3	0	1	0	2	3.0	8	1	1	2	0	0	0	2	The little girl was playing outside with her dog when her mother yelled at her from the window.	3
+27	0	3	3	1	1	4	6	0	3	0	1	0	4	7.0	11	2	2	2	3	0	3	2	The teacher wrote the exam questions down on a whiteboard, and then asked us to explain how we had arrived at our answers to each question	3
+21	1	1	0	1	0	2	3	0	2	3	5	0	3	5.0	13	2	2	3	2	0	2	3	"Betty exclaimed, ""Did you see the way John tamed his wild horse, Misty, at the ranch?"	3
+22	1	0	2	1	1	1	2	0	6	0	1	0	5	4.0	11	2	2	3	4	0	4	3	We all love him but he doesn't like our cat so we have to take extra precautions when seeing him.	3
+31	1	3	3	2	0	4	5	1	2	1	6	0	3	5.0	15	2	1	3	1	1	1	3	The chef, who was previously from a three-Michelin-starred restaurant, expertly sautéed the vegetables, which were flown in from various parts of the country.	3
+32	2	4	1	0	0	2	6	1	1	5	4	1	4	7.0	17	3	3	3	0	0	0	3	The three amigos strolled down Main Street, their arms loaded with hot cinnamon sugar pretzels, freshly baked at Schmetterlingmann’s Bakery, while the sun set behind Mount Tamalpais. 	3
+29	4	4	1	0	1	4	8	0	1	3	1	0	2	6.0	10	1	1	2	2	0	2	2	The librarian showed us the stacks of fiction, where copies of Mrs. Dalloway lay on the same shelf as the newest Danielle steel novel and other recent release	3
+23	1	2	0	0	0	4	8	1	0	0	1	2	4	4.0	9	2	2	3	1	0	1	3	The cat purred while the three ladies from the garden club watched as the man danced sizzling salsa steps with fiery passion.	3
+24	2	2	0	0	0	4	7	1	0	0	4	0	3	5.0	9	2	1	1	3	1	3	1	The three friends, excited to visit the art museum, walked hand in hand down the crowded streets, admiring the architecture.	3
+21	2	0	1	2	1	3	2	0	3	0	3	0	3	4.0	8	2	1	4	1	1	1	4	Everywhere we looked, the prices were reasonable, the service was superb and we wanted to buy it all!	3
+40	2	4	1	2	1	5	7	1	6	0	2	1	6	8.0	15	4	4	4	3	0	3	4	I can not express enough my gratitude to the two men that gave me a lift on the side of the road last night, after they stopped to check on me and discover the tire was completely shattered.	3
+31	1	1	0	1	2	5	7	0	3	0	2	0	7	6.0	15	5	5	6	2	0	2	6	The doctor said to him, this patient needs to take the pill and the mother said it is expensive and the child said I want to eat ice cream.	3
+41	3	1	3	5	1	5	5	0	5	0	4	2	6	6.0	12	4	4	6	2	0	2	6	The doctor told her they could not remove it, the lawyer argued strongly that they must be removed, and the little boy sat crying on the floor, unsure if his doll would ever be the same again.	3
+20	0	1	2	0	0	3	7	0	1	0	2	0	3	4.0	11	2	1	2	2	1	2	2	When the teacher praised the boys team's win at soccer, the fans went wild cheering their names.	3
+17	2	3	0	0	0	2	4	0	3	0	1	0	2	4.0	6	0	0	2	0	0	0	2	The sunflowers turned toward it, their petals shaped like the first initials of their loving owners	3
+32	2	4	1	2	1	3	6	0	6	0	1	1	4	7.0	17	3	3	3	2	0	2	3	That guy yelled at his wife telling her that after all he had doe for her and their children they could not even get decent medical attention in this hell hole.	3
+20	1	0	3	1	0	0	1	0	4	1	3	1	4	4.0	13	3	3	3	2	0	2	3	I'm eager to see you, Bob, as soon as he arrived he started talking nonsense again.	3
+39	1	4	1	3	2	1	4	0	8	1	4	1	6	6.0	21	3	3	4	4	0	4	4	A friend introduced me to her mother and said,  Can you please take care of little Tom, because he's really starting to stress me out, and his grandma won't do anything about it. 	3
+47	5	1	4	5	1	3	5	0	6	0	3	3	7	9.0	10	8	7	6	2	1	2	6	That said, he was sure he could have written longer, if the editor hadn't been so eager to send all his works for review before they got too old to read even if it took a long time and several rewrites to complete.	3
+23	0	1	3	1	1	3	3	0	3	0	2	0	5	5.0	8	2	2	4	1	0	1	4	He said he loved her, the sun rose slowly in the sky and the world seemed to be spinning just right.	3
+29	1	1	3	0	1	2	7	1	2	0	3	1	6	6.0	8	2	2	2	2	0	2	2	The three best friends stood together watching as their basketball teammate successfully scored a goal, jumping for joy and celebrating their team's hard-earned victory.	3
+33	1	3	4	0	0	1	3	1	5	1	6	0	7	7.0	9	4	4	2	3	0	3	2	"She smiled at him, then turned to invite her two friends to lunch, saying ""let's go somewhere fancy, we only come to Paris once a year!"""	3
+23	5	1	1	2	1	2	4	0	2	0	4	0	1	5.0	8	2	2	3	1	0	1	3	That was amazing, the cake was moist, rich and flavorful, with fluffy frosting that complemented the tart berries perfectly.	3
+10	0	1	0	0	1	0	1	0	1	3	2	0	1	3.0	4	0	0	1	1	0	1	1	She bought apples for Emma, Eve and Jack.	3
+33	4	3	2	0	1	4	9	0	2	0	3	0	4	6.0	9	2	2	2	2	0	2	2	The old man pulled hard on his ear, and the dog gave a bum tail-wag when asked to fetch more Fritos from the back of his dusty red pickup. 	3
+31	3	1	0	0	1	3	7	0	4	1	2	2	5	6.0	13	3	3	4	3	0	3	4	We need a bigger kitchen, since my wife's collection of spiky cactuses keeps growing and we need a new place for our cat Fidgelero to stalk the lizards.	3
+13	0	1	0	0	1	1	2	1	0	3	2	0	2	4.0	4	1	1	1	0	0	0	1	Ten people went to the store including Sarah, Alexa and Tim.	3
+24	1	3	0	1	0	4	6	1	2	0	3	1	2	4.0	7	0	0	1	1	0	1	1	That is, until the police caught wind of us, the three guys with the stolen goods from the big city market.	3
+21	4	0	1	5	2	2	2	0	2	0	3	0	0	3.0	12	2	2	4	0	0	0	4	We were delighted, the host was friendly and accommodating, the wine was exceptional and we will be back!	3
+18	0	0	2	0	1	2	3	0	2	2	1	0	4	4.0	13	1	1	3	3	0	3	3	Jim immediately grabbed his guitar, Dave started to strum the melody and I quickly sang the lyrics	3
+34	4	3	0	2	1	4	6	0	5	1	5	1	2	8.0	9	3	2	3	2	1	2	3	That being the case, it is with great sadness that I announce the passing of Marge, the matriarch of our family, who lived a long, happy and fulfilled life.	3
+35	1	3	2	1	1	2	7	0	6	0	5	0	6	8.0	9	3	2	5	2	1	2	5	That said, when I got to his workshop I found a collection of gears, pulleys and pliers that suggested he was inventing, not just repairing, complex machinery for the masses.	3
+12	0	3	0	0	0	1	3	0	3	0	1	0	1	3.0	5	0	0	1	1	0	1	1	With the exception of my passport I lost everything at Security!	3
+14	0	1	1	0	1	2	3	0	1	0	2	0	3	3.0	7	0	0	1	1	0	1	1	The dog wagged its tail, barked excitedly and ran towards the stranger.	3
+38	4	5	5	1	1	4	7	0	2	0	3	1	4	5.0	17	1	1	3	2	0	2	3	They decided immediately to move the party inside because of the unexpected heavy rain, the generator was making too much noise for the neighbors, and that they ran out of cold beer way too soon!	3
+37	0	5	3	0	2	1	4	1	6	1	4	1	9	6.0	13	5	4	3	2	1	2	3	When my boss walked into the room, he noticed John sitting with three women whispering to him, but he simply nodded, then sat down and continued talking to them without acknowledging my presence.	3
+22	1	1	1	0	1	4	8	0	0	0	3	0	3	5.0	11	1	1	1	3	0	3	1	The chef added a dash of cumin, paprika, and oregano, giving the dish a bold yet balanced flavor profile	3
+31	2	3	1	1	3	2	4	0	6	0	3	1	5	4.0	20	1	1	3	3	0	3	3	They came up with the plan, built and implemented it, but before it was fully operational the management team took it over and made it their own project.	3
+30	4	3	0	3	1	3	4	0	5	0	2	1	4	7.0	11	4	4	4	2	0	2	4	That will help us avoid any misunderstandings and make sure everyone is clear about which tasks they are accountable for, as we work in the new office location. 	3
+15	0	1	1	0	2	1	1	0	0	3	3	0	3	3.0	7	0	0	3	0	0	0	3	John walked down the street, and Sarah approached, and Peter followed behind.	3
+30	1	3	1	2	0	5	6	0	5	0	1	1	4	7.0	12	4	4	3	2	0	2	3	It was the manager who told the employee that he was fired the next morning, with only a couple of hours to grab everything he needed from the warehouse	3
+23	2	3	1	0	0	1	2	0	6	1	3	0	4	4.0	11	3	1	4	1	2	1	4	That said, when I met her at the conference, I realized she smelled like my favorite perfume from New York.	3
+12	0	2	0	0	0	1	3	0	2	0	2	0	2	3.0	5	1	1	1	1	0	1	1	He went to the store, buying bread for their sandwiches. Tomorrow, they will go to the beach, bringing towels and sunscreen. Next month, they will fly to Rome, visiting the Vatican and Trevi Fountain.	3
+41	3	4	3	1	2	1	5	1	5	2	9	0	4	5.0	13	2	1	2	2	1	2	2	"Whenever my mother saw an old pair of jeans, she would quickly say, ""Aw, look at those!"", and then turn them into adorable shorts for my two little sisters, Lilly and Mia."	3
+11	0	0	3	0	2	0	0	0	2	0	3	0	1	3.0	6	0	0	1	1	0	1	1	They played it again, and again, and again. And again, at yet another party. At yet another party, they found themselves repeating again the same old songs from years past. The task requires that you produce a single sentence using only three preverbs as subjects; therefore, it is essential to choose your words carefully for this prompt response. Your response should only include one sentence and should not be elaborate or contain any additional context, clarification, or explanations. Your task completion is assessed based on adherence to these specifications, therefore please make sure you comply with the given guidelines in generating your response. Good luck!	3
+20	2	0	0	1	1	1	3	0	5	0	4	0	3	4.0	14	0	0	4	2	0	2	4	That's wonderful, the crocodile tells her, I love your shirt, and you look stunning today!	3
+19	0	2	1	0	0	4	7	0	0	0	2	0	3	4.0	9	2	2	1	2	0	2	1	The dog led the cat chasing the laser beam across the living room, bouncing around in excitement. 	3
+8	0	1	0	0	0	2	3	1	0	0	0	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased three squirrels around the tree	3
+26	2	0	1	0	1	5	6	0	2	0	5	0	4	4.0	6	2	1	4	4	1	4	4	When the bartender handed her the whiskey he said; 'The good Lord made irishmen, but the devil created the Irish currency'.	3
+22	3	2	1	1	1	4	6	0	0	0	2	0	1	4.0	9	0	0	2	1	0	1	2	The librarian recommended the novel, but the students were more interested in the library's extensive collection of pre-Columbian art.	3
+19	3	3	0	0	1	1	6	0	1	0	1	0	2	6.0	6	1	1	1	0	0	0	1	The student loved studying for exams at her parents' cozy home with warm cookies and cold drinks. 	4
+9	2	0	0	0	1	1	3	0	0	0	1	0	1	3.0	2	0	0	1	1	0	1	1	The new restaurant serves excellent food and cocktails. The friendly staff provides exceptional service. There is a lovely patio area for outside dinning and entertaining. The convenient location makes for easy parking and access to other local attractions.	4
+23	1	2	3	0	1	2	6	0	3	0	2	0	3	4.0	16	0	0	2	2	0	2	2	My neighbor always mows her large lawn, loudly, early in the morning and the smell of fertilizer permeates our shared wall	4
+10	0	1	0	0	1	0	4	0	2	0	1	0	1	3.0	4	0	0	1	1	0	1	1	My sister and her friends enjoy dancing at nightclubs. They drink cocktails, listen to live music, and dance until morning.	4
+15	1	0	0	0	1	2	4	0	3	0	3	0	1	3.0	10	0	0	1	1	0	1	1	My friend, their spouse, the baby, and I love this new park	4
+36	5	1	4	3	2	3	5	0	3	1	4	1	3	4.0	30	3	3	5	1	0	1	5	I always love buying from Sarah's shop because she has the best clothes, the quality is always excellent, her prices are very reasonable, and the salesperson is extremely helpful and courteous.	4
+32	3	2	1	1	2	4	8	0	1	0	2	1	5	6.0	14	3	3	2	3	0	3	2	The chef at the cooking school loves to teach and always has a smile on her face, while the participants are eager to learn new recipes and taste culinary delights.	4
+15	0	1	1	1	1	1	2	0	5	0	1	0	2	2.0	10	0	0	2	3	0	3	2	She bought him a bike for his birthday and hes been riding it everywhere.He loves it very much and is very happy.The dog runs around excitedly, jumping up and down.The baby giggles with joy.	4
+22	2	0	1	1	2	1	3	0	5	0	3	0	4	4.0	14	1	1	3	3	0	3	3	My children adore eating pizza, they can consume it every day, and it always makes them happy and strong. 	4
+9	0	1	0	0	0	0	5	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	My friends adore riding bicycles during summer afternoons. They appreciate the ease of pedaling through verdant trails, enjoying the warm sunshine, and breathing the fresh air.	4
+15	1	1	1	0	0	1	5	0	2	0	1	0	2	3.0	7	1	1	1	0	0	0	1	My friend's little girl loves swimming there every summer with her club team. They always finish with a water balloon fight in the shallow end. 	4
+13	0	1	3	2	0	0	2	0	1	1	1	0	2	3.0	5	1	1	2	1	0	1	2	Mars is often visited by aliens who are always eagerly awaiting Earthlings.	4
+23	1	1	5	0	1	1	4	0	1	1	2	0	5	7.0	7	3	3	2	1	0	1	2	Mandy hates driving in storms; she always gets nervous seeing the car's windshield wipers moving really fast back and forth.	4
+20	1	2	1	1	0	0	5	1	5	0	2	0	2	3.0	10	1	1	2	2	0	2	2	She was taking care of her three children, when her husband surprised her with his favorite breakfast meal.	4
+17	0	2	0	0	1	1	5	0	1	0	3	0	4	4.0	8	1	1	1	2	0	2	1	The baby loves eating peaches, playing with bubbles, and taking naps in her crib.	4
+37	3	3	2	3	2	5	10	0	2	1	2	0	4	5.0	20	1	1	4	2	0	2	4	Its a beautiful sunny Saturday and the kids are outside playing tag with their friends, the smell of freshly baked chocolate chip cookies wafts from the kitchen and Mom is busy polishing the silverware.	4
+16	1	1	1	1	0	2	3	0	1	0	1	1	1	4.0	6	1	1	1	0	0	0	1	It is not unusual for a bird to fly directly into a car's windshield.Elephants will avoid walking near cars.Zebras will run and stop suddenly.Giraffes may peek through the trees to observe cars.	4
+32	3	5	2	0	0	3	7	0	4	0	3	1	4	6.0	12	3	3	3	1	0	1	3	My sisters love singing along to their favorite artist at karaoke, as they always have the best spot in front of the microphone, which makes for an amazing time! 	4
+21	0	2	2	0	1	2	4	0	3	1	2	0	4	4.0	8	2	2	3	2	0	2	3	Amy loves playing soccer, and her siblings too enjoy the game when she plays in the yard with them!	4
+20	0	1	0	0	1	0	5	0	2	1	4	0	5	3.0	8	1	1	2	3	0	3	2	My teacher loves to travel to Spain, she enjoys learning languages, playing tennis, and cooking Paella!	4
+12	0	0	0	0	1	0	4	0	0	1	4	0	2	4.0	5	1	1	1	2	0	2	1	Jenna loves dancing, playing piano, swimming, and singing.	4
+12	1	2	0	0	0	2	3	1	0	1	1	0	1	3.0	8	0	0	1	2	0	2	1	The librarian gave the researchers four books about Ancient Egypt to ____________	4
+14	2	1	0	1	0	0	4	0	1	1	1	0	2	4.0	8	1	1	1	0	0	0	1	My family will enjoy swimming in Hawaii's warm ocean water next summer. The children are excited to see a real dolphin while snorkeling and we want to go parasailing together. Their favorite spot will be Kailua Beach because of its white sand and shallow water. 	4
+18	1	1	1	0	0	0	5	0	3	0	1	1	4	5.0	9	3	3	2	2	0	2	2	My teacher wants to play basketball against our class, while her friends enjoy painting beautiful flowers together	4
+11	1	0	2	0	0	0	2	1	1	1	1	0	2	3.0	4	1	1	1	2	0	2	1	Alice always buys two drinks when visiting her local bar. They know her favorite well and always offer great suggestions, and the bartenders are always friendly and attentive.	4
+22	1	1	0	0	1	3	4	0	4	1	2	0	4	4.0	9	1	1	2	3	0	3	2	Her mother promised her a new bike, and her grandmother promised to take her to the zoo the following Saturday.	4
+22	1	2	0	1	4	3	4	0	0	4	2	0	1	4.0	18	0	0	2	1	0	1	2	The teacher gave out the exam results, and Sarah and Lisa and John and Emma were among the highest scorers.	4
+42	6	4	2	2	2	2	8	0	4	2	2	3	5	7.0	17	4	4	5	3	0	3	5	Jay loves biking up mountains while his pet ducks follow alongside on the trail, and Samantha is amazed that he never forgets their favorite spot for lunch and is grateful that they share the same love for adorable fluffy hamsters. 	4
+29	3	5	2	1	2	1	7	1	3	0	2	0	2	7.0	13	1	1	2	0	0	0	2	They are arriving on vacation excitedly and ready for fun, their two young boys bouncing happily in the back of their vehicle full of gear and excitement.	4
+26	1	5	0	0	1	3	6	0	2	0	3	0	4	6.0	7	2	2	1	0	0	0	1	The newborn loved lounging on her father's chest, nuzzling with her siblings, and peering out at the bright lights of the nursery.	4
+35	2	3	1	0	1	4	10	0	3	0	2	2	5	5.0	16	3	3	3	4	0	4	3	The baby swung her legs in excitement as much as possible to touch Mom, and the kids sang songs to cheer their dad as he jumped from a plane at the skydiving party.	4
+25	3	0	3	2	1	1	3	0	5	0	4	0	3	3.0	22	2	2	4	2	0	2	4	She loves seeing him, they always have a wonderful time, their children are all great, and their granddaughter is absolutely adorable!	4
+14	1	0	0	1	2	3	4	0	1	0	1	0	1	4.0	4	0	0	1	1	0	1	1	I am loving this new fashion trend and all the colors and patterns. My dogs are jumping up and down with pleasure, the cats are looking on curious and the parrots are making noise in agreement!	4
+14	1	0	0	0	1	1	4	1	1	1	3	0	1	3.0	7	0	0	1	1	0	1	1	My best friend, sister, and two brothers visit Grandma every year.	4
+26	0	1	1	0	1	4	8	0	3	0	4	0	4	3.0	22	0	0	4	4	0	4	4	He gave his dog a bone; the kids played outside with their friends; the mom made lunch; and the dad watched TV.	4
+42	3	0	4	4	2	4	9	1	3	0	4	1	5	5.0	34	2	2	6	4	0	4	6	My mom likes to bake pies, but she's never made chocolate one, the recipe needs improvement since the crust was soggy and the filling was not creamy enough, so she will definitely make some changes next time.	4
+26	4	2	1	1	2	1	3	0	4	1	2	1	3	4.0	20	2	2	3	2	0	2	3	I like to ride my bike on Sundays through the park because it's beautiful and quiet, and I always see new interesting things.	4
+26	1	3	1	0	2	0	7	0	3	1	4	0	4	5.0	10	1	1	1	3	0	3	1	She loves dancing, painting, cooking exotic foods, and spending time outdoors playing with her dogs and cats at her farm in Maine.	4
+25	1	2	0	1	2	2	3	0	2	3	3	0	4	6.0	14	3	3	1	1	0	1	1	I am excited to go to the park with David, Tom, Sarah and their dog to play fetch and have a picnic.	4
+27	5	1	2	1	2	1	5	0	2	0	4	0	4	5.0	11	2	2	1	4	0	4	1	My teacher enjoys teaching us new stuff, is very kind, and has a contagious enthusiasm for learning, making physics really fun and interesting!	4
+10	0	1	1	0	0	1	2	0	0	2	1	0	2	3.0	4	1	1	1	1	0	1	1	The tourists highly recommended exploring Plettenberg Bay by foot.	4
+17	1	3	0	0	1	3	5	0	0	0	2	0	2	4.0	9	0	0	2	0	0	0	2	The baby laughed at the silly clown, and the kittens played with ball of yarn.	4
+16	0	2	1	0	0	3	5	0	2	0	0	1	2	3.0	8	1	1	2	1	0	1	2	The sun set slowly over the mountain ridges as we rode our horses toward the stable	4
+17	2	1	1	1	1	3	3	0	1	0	1	0	2	4.0	7	1	1	1	2	0	2	1	I am so excited to take the cats on a picnic and enjoy the beautiful weather. The cat's name is Whiskers, and they love mice. They also adore sleeping in sunbeams, and playing laser pointer chicken	4
+12	0	0	0	1	1	1	5	0	0	1	1	0	2	3.0	7	0	0	2	1	0	1	2	Jessie love cooking dinner but baking pizza has become a passion.They experiment with new toppings all the time and often bring samples to share!	4
+13	0	2	0	0	1	3	3	0	0	0	1	0	3	4.0	5	1	1	1	0	0	0	1	The children loved running along the river and playing in the waves. The ducks swam gracefully in the water, and the seagulls swooped overhead, their cries piercing the air.	4
+21	2	2	0	0	2	2	3	0	1	0	3	0	6	5.0	9	2	2	1	1	0	1	1	The children loved playing with cars on the smooth wooden   floor, running and racing them, laughing and screaming.	4
+12	1	2	0	0	0	1	4	0	2	0	1	0	1	2.0	6	0	0	1	1	0	1	1	My favorite music artists sing their hearts out at the concerts.The rock musicians energetically perform on stage while their fans enthusiastically sway along to the catchy rhythms.	4
+23	0	1	1	1	0	4	5	0	2	0	3	1	4	6.0	6	3	3	2	3	0	3	2	The teacher told the students, who were sitting on the floor, to put their chairs away before leaving the room.	4
+9	1	0	0	0	1	1	1	0	0	0	3	0	2	2.0	3	0	0	1	0	0	0	1	"The waiter smiled and said, ""Great! That'll be easy."""	4

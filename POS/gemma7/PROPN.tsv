@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PROPN_constraint
+16	2	0	2	1	0	3	1	3	0	2	0	0	2	1	2	1	0	4.0	1	4	The young boy skipped excitedly to the park, where he found a playful puppy.	0
+12	0	0	1	2	0	3	0	2	0	2	0	0	1	1	1	0	0	3.0	1	5	 The young child ran to the park to play with friends.	0
+12	0	0	1	1	0	3	0	3	0	1	0	0	3	0	1	1	0	3.0	0	5	 The blue sky above the green grass created a serene atmosphere.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the mouse up the tree.	0
+11	0	0	3	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	" ""The cat chased the mouse up the tree."""	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped over the fence.	0
+14	0	0	2	1	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	5	The brown cat jumped onto the mat, creating a comfortable resting spot.	0
+14	0	0	1	2	0	4	0	2	0	3	0	0	0	2	1	1	0	3.0	2	5	 A group of friends decided to go to the park to play volleyball.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+13	1	0	2	2	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The sun shone brightly upon the flowers, bringing them to bloom.	0
+17	1	0	2	3	0	4	1	3	0	3	0	0	0	2	1	1	0	5.0	2	6	The sun shone brightly on the flowers, making them bloom in a kaleidoscope of colors.	0
+17	1	0	2	2	1	6	0	3	0	2	0	0	0	1	1	1	0	4.0	1	7	The sun shines brightly over the meadow, bringing warmth and joy to all living creatures.	0
+11	1	0	2	1	0	3	0	2	0	2	0	0	0	1	1	1	0	3.0	1	4	The sunflower bloomed brightly, spreading joy to the passerby.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The dog barked in the park.	0
+12	0	0	1	2	0	4	0	3	0	0	0	1	1	0	1	0	0	3.0	0	4	 The grass is greener on the north side of the park.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	 The young child ran happily down the sidewalk.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	 The young child ran quickly to the park.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	2	A young student read a book about dinosaurs.	0
+10	0	0	1	2	0	2	0	2	0	2	0	0	1	1	1	0	0	3.0	1	5	 The cat lay curled up on the soft carpet.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	 The flowers are blooming brightly in the spring.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	 The sun shines brightly over the lush green grass.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the ball across the park.	0
+12	0	0	1	2	0	3	0	2	0	2	0	0	1	1	1	0	0	3.0	1	5	A young child ran to the park to play with friends.	0
+12	0	0	1	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	 The cat jumped onto the warm mat to take a nap.	0
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	 The cat jumped onto the mat, causing a loud noise.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the ball across the park.	0
+12	0	0	1	1	1	3	0	3	0	1	0	1	1	0	2	0	0	3.0	0	4	 The grass is green and the flowers bloom in the spring.	0
+12	0	0	3	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	" ""The young boy danced with joy at the park."""	0
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	 The clock strikes eight.	0
+13	2	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	 The wind blew fiercely, bringing the leaves down from the trees.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	 The young girl skipped excitedly down the sidewalk.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped onto the mat.	0
+13	1	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	 The sun shone brightly on the flowers, creating a colorful bloom.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the ball across the park.	0
+11	0	0	1	1	0	3	1	2	0	1	0	0	2	0	1	1	0	2.0	0	6	 The young boy kicked the ball with his left foot.	0
+9	1	0	2	0	0	2	0	1	0	2	0	0	1	1	1	1	0	3.0	1	3	 The flower bloomed brightly, attracting many bees.	0
+18	0	0	2	2	0	4	0	4	0	3	0	0	3	1	1	1	0	4.0	1	6	 The blue sky danced above the emerald grass, creating a vibrant backdrop for the blossoming flowers.	0
+14	1	0	2	1	1	3	0	3	0	2	1	0	0	0	2	1	0	3.0	0	6	 The clock strikes eight, and the sun shines warmly on the flowers.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	 The sunflower was tall and golden.	0
+13	1	0	1	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	 The boy ran quickly to the park to play with his friends.	0
+7	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	 The book was a fascinating read.	0
+16	0	0	2	2	0	4	0	4	0	3	0	0	0	2	1	1	0	4.0	2	5	The cat jumped onto the mat, causing the books to fall off the table.	0
+19	0	0	2	2	0	5	0	4	0	3	0	0	2	2	1	2	0	4.0	2	4	A basket of ripe berries filled the table, enticing a passerby to partake in the delicious treat.	0
+12	0	0	3	2	0	3	0	2	0	1	0	1	0	0	1	0	0	3.0	0	4	" ""A group of people are walking to the park."""	0
+10	0	0	1	0	1	1	0	1	0	1	0	2	2	1	1	0	0	3.0	1	3	 The apple is ripe and ready to be eaten.	0
+12	0	0	1	2	0	3	0	3	0	0	0	1	2	0	1	0	0	3.0	0	4	 The grass is greener on the south side of the park.	0
+16	0	0	3	0	1	2	0	2	3	2	0	0	2	1	1	1	0	3.0	1	6	The United States, France, and Canada collaborated to create a global peace initiative.	3
+13	0	0	3	0	1	3	0	1	3	1	0	1	0	0	1	1	0	3.0	0	7	John, Mary, and Peter were attending the city council meeting.	3
+13	0	0	3	2	0	0	0	1	5	1	1	0	0	0	1	1	0	3.0	0	7	The Queen of France, Marie Antoinette, visited America in 1781.	3
+6	0	0	2	0	0	0	0	0	4	0	0	0	0	0	0	0	0	2.0	0	3	 Barack Obama, John F.	3
+15	0	0	3	1	1	2	0	2	3	1	0	0	2	0	1	0	0	3.0	0	6	The United States, France, and Japan collaborated on a scientific research project.	3
+16	0	0	3	2	1	2	0	2	3	1	1	0	1	0	1	0	0	3.0	0	6	The United States, Brazil, and Japan collaborated on a space mission in 2023.	3
+10	0	0	3	0	1	0	0	0	6	0	0	0	0	0	0	0	0	2.0	0	7	 Barack Obama, Nelson Mandela, and John F.	3
+16	0	0	1	2	1	1	0	0	7	1	1	0	2	0	1	0	0	3.0	0	12	President Biden met with Prime Minister Trudeau and King Charles III in London last week.	3
+27	0	0	5	4	0	0	0	4	9	1	1	0	3	0	1	1	0	3.0	0	15	The President of the United States, Barack Obama, visited the Prime Minister of the United Kingdom, Tony Blair, in London in 2006.	3
+17	0	0	3	2	1	0	0	2	6	1	1	0	1	0	1	1	0	3.0	0	9	The President of the United States, Barack Obama, visited Canada and Mexico in 2009.	3
+15	1	0	3	1	1	1	0	2	3	1	0	0	2	0	1	0	0	3.0	0	7	 The United States, Brazil, and France recently collaborated on a global initiative.	3
+20	0	0	3	2	1	4	0	0	7	1	0	1	1	0	1	1	0	4.0	0	10	 Barack Obama, Bill Gates, and Mark Zuckerberg have donated significant funds to earthquake relief efforts in Turkey.	3
+18	0	0	3	1	1	3	0	2	3	2	0	0	2	1	1	1	0	3.0	1	6	The United States, France, and Germany collaborated on a global summit to address climate change.	3
+21	0	0	3	2	1	2	0	2	6	2	1	0	1	1	1	1	0	3.0	1	8	The United States, France, and Germany collaborated on a peace treaty in 1919 to end World War I.	3
+10	0	0	3	0	1	0	0	0	6	0	0	0	0	0	0	0	0	2.0	0	7	 Barack Obama, Ronald Reagan, and George W.	3
+31	1	0	5	4	0	3	1	3	8	2	0	0	3	1	1	1	0	4.0	1	12	The President of France, Emmanuel Macron, recently met with the Prime Minister of Italy, Giorgia Meloni, to discuss a potential trade agreement between their respective countries.	3
+18	0	0	3	1	1	2	0	3	3	1	1	1	2	1	1	0	0	3.0	1	9	The United States, France, and Italy are the three countries involved in the ongoing conflict.	3
+37	0	0	7	5	1	1	0	6	12	1	1	0	3	0	1	1	0	4.0	0	25	The President of the United States, Barack Obama, signed a law with the Prime Minister of the United Kingdom, David Cameron, and the President of France, François Hollande, in 2012.	3
+11	0	0	3	0	1	0	0	0	6	0	1	0	0	0	0	0	0	2.0	0	7	 President Lincoln, Pope Francis, and Queen Elizabeth II.	3
+22	1	0	3	1	2	4	0	2	4	2	0	0	2	1	1	2	0	4.0	1	9	The United States of America, China, and France recently held a joint summit to discuss trade and climate change.	3
+30	1	1	3	2	1	1	0	4	11	0	0	3	3	0	3	0	0	5.0	0	12	 The United States president is currently Barack Obama, and the Prime Minister of the United Kingdom is David Cameron, while the President of France is François Hollande.	3
+29	0	0	3	3	0	3	0	5	9	2	0	0	3	1	1	2	0	5.0	1	10	The President of the United States, Barack Obama, issued a proclamation declaring Martin Luther King Jr.'s birthday as a national holiday in the United States.	3
+21	0	0	3	4	1	3	0	3	5	1	0	0	1	0	1	0	0	5.0	0	14	A group of students from the University of Florida, MIT, and Oxford University participated in a collaborative project.	3
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	 John F.	3
+17	1	0	3	0	1	3	0	2	3	2	0	0	1	1	1	2	0	3.0	1	7	The United States, France, and Germany recently held a summit to discuss trade issues.	3
+18	0	0	3	3	0	1	0	3	5	1	1	0	1	0	1	1	0	3.0	0	9	The President of the United States, Barack Obama, presented a bill to Congress in 2009.	3
+22	1	0	3	2	1	3	0	2	7	1	0	0	2	0	1	1	0	3.0	0	10	Barack Obama, Bill Gates, and Jeff Bezos recently donated a significant amount of money to the United Way organization.	3
+24	0	0	2	4	2	3	0	5	5	2	0	0	1	0	2	1	0	5.0	0	17	The President signed the bill into law, and the Prime Minister of France and the Chancellor of Germany agreed to the treaty.	3
+13	0	0	1	2	0	2	0	2	3	1	0	1	1	1	1	0	0	3.0	1	6	The Taj Mahal in India is a magnificent monument dedicated to love.	3
+15	0	0	2	0	1	0	1	1	5	2	0	3	0	0	2	2	0	3.0	0	9	The President is visiting Chicago, and Vice President Harris will be accompanying him.	3
+13	0	0	3	2	0	0	0	1	4	1	2	0	0	0	1	1	0	3.0	0	7	The Queen of England, Elizabeth II, visited France in 2005.	3
+23	0	0	3	2	1	2	0	3	6	2	1	0	3	1	1	1	0	4.0	1	14	The President of the United States, Queen Elizabeth II, and Prime Minister Trudeau have a meeting scheduled for next week.	3
+29	0	0	5	4	0	1	0	5	9	1	1	0	3	0	1	1	0	3.0	0	15	The President of the United States, Barack Obama, addressed the Prime Minister of the United Kingdom, Tony Blair, at the G7 summit in 2009.	3
+17	0	0	3	2	0	3	0	3	4	1	1	0	0	0	1	1	0	3.0	0	9	A politician, Barack Obama, signed a peace treaty with the Dalai Lama in 2008.	3
+10	0	0	1	1	0	0	0	1	5	1	1	0	0	0	1	1	0	2.0	0	6	 Barack Obama won the Nobel Peace Prize in 2009.	3
+24	1	0	4	3	0	0	1	2	9	2	0	0	2	1	2	1	0	4.0	1	7	The President of France, Emmanuel Macron, visited the United Kingdom in June, where he met with Prime Minister Boris Johnson.	3
+19	0	0	3	1	1	2	0	1	7	2	1	0	0	1	1	1	0	3.0	1	10	 The Pope, Queen Elizabeth II, and President Barack Obama met in Paris to discuss climate change.	3
+18	0	0	3	2	0	1	0	3	5	1	1	0	2	0	1	1	0	3.0	0	8	The United States President, Barack Obama, delivered a speech to the United Nations in 2009.	3
+20	0	0	3	2	1	3	0	3	3	0	1	1	3	0	1	0	0	3.0	0	11	The United States, Brazil, and Canada are the top three largest countries in the world by area.	3
+38	0	0	7	5	1	1	0	6	13	1	1	0	3	0	1	1	0	4.0	0	24	The President of the United States, Barack Obama, addressed the Prime Minister of the United Kingdom, David Cameron, and the President of France, François Hollande, during a G7 summit in 2012.	3
+6	0	0	2	0	0	0	0	0	4	0	0	0	0	0	0	0	0	2.0	0	3	Barack Obama, John F.	3
+18	0	0	2	1	2	3	1	4	3	2	0	0	0	0	2	2	0	4.0	0	12	The President signed the bill into law, and the Senator and the Representative provided their support.	3
+10	0	0	1	1	0	2	0	2	2	1	0	0	1	0	1	1	0	3.0	0	2	The Supreme Court issued a ruling on Roe v.	3
+16	0	0	3	2	1	2	0	2	3	1	1	0	1	0	1	0	0	3.0	0	6	The United States, France, and Italy collaborated on a peace treaty in 1915.	3
+30	0	0	5	4	0	3	0	4	8	2	1	0	2	1	1	1	0	4.0	1	12	The President of the United States, Barack Obama, met with the Prime Minister of Canada, Justin Trudeau, to discuss trade relations between the two countries.	3
+20	0	0	3	3	0	1	0	4	5	1	1	0	2	0	1	1	0	3.0	0	9	The President of the United States, Barack Obama, delivered a speech to the United Nations in 2009.	3
+25	0	1	2	1	1	4	0	4	2	3	0	1	4	3	2	2	0	7.0	3	10	The Supreme Court ruled that the President's power to veto legislation was unconstitutional, causing a conflict between the executive and legislative branches.	3
+17	0	0	3	2	1	0	0	2	6	1	1	0	1	0	1	1	0	3.0	0	9	The President of the United States, Bill Clinton, visited France and Italy in 1998.	3
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	John F.	3
+26	0	0	3	4	1	1	0	6	6	1	0	0	4	0	1	0	0	5.0	0	19	The President of the United States, the Prime Minister of the United Kingdom, and the Chancellor of Germany collaborated on a diplomatic initiative.	3
+29	0	0	5	5	0	2	1	4	9	1	1	0	1	0	1	1	0	4.0	0	16	The Queen of England, Elizabeth II, presented a gift to the President of the United States, Barack Obama, during her visit to Washington D.C.	6
+29	1	0	6	0	1	2	0	2	12	2	1	0	1	1	1	2	0	3.0	1	20	The Pope, Queen Elizabeth II, President Obama, Dalai Lama, Justin Bieber, and Barack Obama Junior recently held a summit to discuss global peace.	6
+26	0	0	7	1	1	2	0	1	13	1	0	0	0	1	0	0	0	4.0	1	17	A group of archaeologists, including Jacques Cartier, Christopher Columbus, Marco Polo, William Henry Harrison, Benjamin Franklin, and John F.	6
+35	1	0	6	5	0	5	0	4	6	3	0	0	5	1	2	0	1	4.0	2	21	In the vibrant city of Tokyo, where the bustling streets intersect with ancient temples, the renowned artist, Leonardo da Vinci, collaborated with Emperor Hirohito, leaving behind a timeless masterpiece.	6
+37	0	0	7	2	1	2	0	6	14	2	1	0	2	1	1	2	0	6.0	1	17	The Supreme Court issued a ruling on the California Proposition 13, citing the rights of the Navajo Nation, Blackfeet Nation, Hopi Tribe, Oneida Nation, Chickasaw Nation, and the Tuscarora Nation.	6
+29	0	0	8	2	1	4	0	3	7	2	0	0	2	0	1	1	1	6.0	1	22	The vibrant fashion show, graced by the esteemed designers of Gucci, Prada, Fendi, Dior, Balenciaga, and Louis Vuitton, captivated the audience.	6
+32	1	0	3	4	0	5	1	4	9	2	0	0	2	1	1	2	0	4.0	1	20	The International Space Station crew successfully deployed the Cassini spacecraft on its mission to Titan, Earth's largest moon, with the Hubble Space Telescope observing the event from Mars.	6
+43	0	0	6	8	1	5	0	4	11	4	0	0	4	2	1	1	0	6.0	2	12	The United States Secret Service apprehended a terrorist plot orchestrated by Al-Qaeda leaders in Iraq, carried out by a group of Hamas fighters in Gaza, and monitored by the British Secret Intelligence Service (MI6) in London.	6
+21	0	1	2	3	1	2	1	4	4	2	0	1	0	1	2	1	0	5.0	1	9	The President signed the bill into law, after it was passed by the Senate and the House of Representatives.	6
+52	1	0	4	7	6	2	0	8	16	1	0	0	7	0	1	1	0	6.0	0	24	The President and First Lady of the United States recently hosted a state dinner for the Prime Minister and First Lady of Canada, the King and Queen of England, the President and First Lady of France, and the President and First Lady of Germany at the White House.	6
+25	0	0	6	4	1	2	0	1	8	1	0	1	1	0	1	0	0	4.0	0	11	The vibrant festival of Holi in Jaipur was attended by dignitaries from Mumbai, Bangalore, Delhi, Pune, Ahmedabad, and Chennai.	6
+18	0	0	3	3	0	2	0	3	5	1	0	0	1	0	1	1	0	3.0	0	7	The French ambassador to Italy, Madame Dubois, presented a gift to the Pope in St.	6
+25	0	0	6	1	1	2	1	3	7	1	1	1	1	1	2	1	0	3.0	1	15	The United States, Canada, Australia, Brazil, France, and Italy are the seven countries that make up the G7 nations.	6
+24	0	0	6	1	1	2	0	2	7	2	0	0	2	1	1	1	0	3.0	1	14	The President, Vice President, Prime Minister, Chancellor, Emperor, and Pharaoh agreed to a meeting to discuss global affairs.	6
+29	0	0	6	2	1	5	0	3	8	1	0	0	2	0	1	1	0	4.0	0	11	The United States Olympic Team won the gold medal in the women's basketball final against Brazil, Canada, China, Spain, Argentina, and Australia.	6
+9	0	0	1	0	1	0	0	1	4	1	0	0	1	0	1	1	0	3.0	0	4	The President and First Lady visited Washington D.C.	6
+32	0	0	8	3	1	3	0	1	10	3	0	0	2	1	1	2	1	4.0	2	18	The Prime Summit Conference, hosted by Brazil, brought together leaders from Argentina, Canada, France, India, Russia, and South Korea to discuss global trade issues.	6
+29	0	0	6	2	1	3	0	2	8	1	0	1	4	1	1	0	0	4.0	1	18	The captivating story of Captain America, Iron Man, Hulk, Black Widow, Thor, and Wolverine was thrilling to experience in the latest superhero film.	6
+37	0	0	6	5	1	5	1	2	7	3	0	1	5	1	1	1	1	4.0	2	17	The bustling city of New York, steeped in history, was visited by esteemed leaders such as Ronald Reagan, Abraham Lincoln, and Barack Obama, to commemorate its significant contributions to the nation.	6
+37	0	0	8	3	1	4	0	4	10	2	0	0	5	0	1	2	1	6.0	1	28	The vibrant cultural festival at the Golden Gate Bridge, celebrating the diverse heritage of San Francisco, Los Angeles, New York, Chicago, Miami, and Atlanta, attracted a throng of spectators.	6
+26	0	0	6	1	1	3	1	3	7	0	1	2	1	1	2	0	0	3.0	1	15	The United States, Mexico, Brazil, Argentina, France, and Italy are the seven countries that are part of the G7 group.	6
+24	0	0	6	3	1	0	0	2	9	1	1	0	1	0	1	0	0	3.0	0	12	The United States, France, Japan, Canada, Brazil, and Italy participated in the World Cup of Soccer in 2022.	6
+42	0	1	5	7	0	4	0	7	12	3	1	1	1	2	2	2	0	6.0	2	12	The Queen of England, Elizabeth II, commissioned a painting for the Louvre Museum in Paris, depicting the city of Rome, while the Italian artist Michelangelo was working on another painting for the Sistine Chapel in Vatican City.	6
+14	0	0	1	2	0	2	0	1	4	1	1	1	1	0	1	0	0	4.0	0	5	The United States Open tennis tournament was won by Rafael Nadal in 2022.	6
+45	1	0	9	5	1	2	1	6	15	2	1	0	2	1	2	1	0	6.0	1	12	The President of France, Emmanuel Macron, visited the Queen of England, Elizabeth II, on a state visit in the United States, where he met with the Vice President, Mike Pence, and the former President, Bill Clinton.	6
+23	0	0	3	3	1	0	0	1	11	1	2	0	1	0	1	1	0	3.0	0	13	The Queen of England, Elizabeth II, greeted President Barack Obama and Prime Minister David Cameron at Buckingham Palace in 2013.	6
+23	0	0	6	1	1	2	0	3	6	1	0	0	3	0	1	1	0	4.0	0	15	The intricate dance between the Apollo, Mars, Venus, Jupiter, Earth, and Saturn showcased a breathtaking celestial tapestry.	6
+30	0	0	1	7	2	2	1	5	9	1	0	0	2	0	1	1	0	5.0	0	10	The President and First Lady visited the Pope in Rome on their way to a meeting with the Prime Minister of France and the King of Spain in Paris.	6
+22	0	0	3	2	0	2	1	4	6	2	0	0	2	1	2	2	0	5.0	1	9	The President of the United States, Barack Obama, signed a bill into law that established the Affordable Care Act.	6
+36	0	0	6	4	1	5	0	5	7	2	0	0	5	1	1	2	0	4.0	1	16	The bustling atmosphere of New York City, Toronto, London, Shanghai, Rome, and Paris drew people from all over the world to experience the vibrant cultural tapestry of these iconic cities.	6
+37	0	0	4	8	1	7	0	5	8	2	0	0	2	1	1	2	0	4.0	1	13	The vibrant artwork in the National Gallery of London showcased Renaissance masterpieces by Michelangelo, Raphael, and Leonardo da Vinci, bringing the history of art to life for visitors from all around the world.	6
+22	1	0	6	1	1	3	0	2	6	1	0	0	1	0	1	0	0	3.0	0	13	The United Nations, France, Spain, Germany, Brazil, and Italy recently collaborated on a climate change initiative.	6
+19	0	0	6	1	1	1	0	1	7	1	0	1	0	0	1	1	0	3.0	0	13	Mary, Alice, Bob, Tom, John, and Peter are attending the festival in Paris.	6
+40	0	0	6	4	1	4	1	3	15	1	1	0	4	0	1	1	0	5.0	0	26	The vibrant atmosphere of a lively festival at the Rose Bowl Stadium drew celebrities such as John Travolta, Queen Elizabeth II, Barack Obama, Angelina Jolie, Justin Bieber, and David Beckham to its grand stage.	6
+31	0	0	4	4	0	2	1	3	8	3	1	1	4	2	2	2	0	5.0	2	11	The United States Department of State issued a proclamation recognizing International Day for Older Persons, which was observed on October 1st, 2023, at the Vienna International Centre.	6
+43	0	0	7	6	1	1	0	8	12	2	0	1	4	1	1	1	0	5.0	1	36	 The President of the United States, the Prime Minister of the United Kingdom, the King of Spain, the Emperor of Japan, the President of France, and the Chancellor of Germany, are meeting to discuss global issues.	6
+29	1	0	5	2	1	5	1	3	5	3	0	0	3	2	2	2	0	6.0	2	7	The Prime Minister of France, Emmanuel Macron, delivered a speech at the United Nations, where he addressed global issues, including climate change and poverty.	6
+24	0	0	6	1	1	3	0	2	6	2	0	0	2	1	1	1	0	3.0	1	12	The United States, China, Brazil, Germany, Italy, and France engaged in a global summit to discuss climate change.	6
+32	1	0	6	3	1	3	0	2	9	3	1	0	3	1	1	1	1	5.0	2	10	The Prime Summit Conference held in Paris in the year 2023 brought together renowned economists from various countries, including Germany, Japan, South Korea, Canada, and Brazil.	6
+32	1	0	6	2	2	4	1	1	12	1	0	0	2	0	1	1	0	3.0	0	19	Thomas Edison, Marie Curie, Albert Einstein, Charles Darwin, Galileo Galilei, and Benjamin Franklin successfully established the foundations of modern science through their groundbreaking inventions and discoveries.	6
+37	0	0	5	6	2	2	0	7	12	1	0	0	2	0	1	1	0	5.0	0	24	The White House hosted a state dinner for the King and Queen of Norway, the Prime Minister of Canada, the Emperor of Japan, the President of Brazil, and the President of France.	6
+34	0	0	6	2	1	0	0	1	19	1	1	0	3	0	1	1	0	5.0	0	30	President Obama signed the Clean Air Act with Supreme Court Chief Justice Roberts, First Lady Clinton, Senator McCain, Senator Sanders, Secretary Kerry, and Vice President Biden in 1970.	6
+33	0	0	4	4	2	0	0	3	17	1	1	0	1	0	1	1	0	4.0	0	14	President Biden signed the Peace Treaty between North Korea and South Korea at the Vatican with Pope Francis, Queen Elizabeth II, Prime Minister Trudeau, and the Emperor of Japan.	6
+32	0	0	8	3	1	2	0	1	11	3	0	0	2	1	1	2	1	4.0	2	15	The Prime Summit of North America, held in Denver, Colorado, attracted leaders from France, Germany, Italy, South Korea, and Brazil to discuss environmental concerns.	6
+35	0	0	5	4	2	4	0	3	11	2	0	0	3	1	1	1	0	5.0	1	14	The esteemed scholars of the Massachusetts Institute of Technology, Harvard University, and Stanford University collaborated to develop groundbreaking technology at the renowned research labs of Caltech, Berkeley, and Columbia University.	6
+30	0	0	6	4	1	5	0	4	7	1	1	0	1	0	1	1	0	4.0	0	14	The President of the United States, Barack Obama, addressed the nation on Independence Day, July 4th, 2023, with a speech about unity and equality.	6
+24	0	0	6	1	1	2	0	2	6	2	0	0	3	1	1	1	0	3.0	1	12	The United States, Canada, Brazil, France, Germany, and Italy participated in a joint summit to discuss economic cooperation.	6
+33	0	0	8	2	1	3	0	2	13	2	0	0	2	1	1	2	0	5.0	1	12	The United States Olympic Committee held a training camp in Salt Lake City, Utah, featuring athletes from France, Jamaica, Brazil, Australia, South Korea, and Argentina.	6
+22	0	0	6	2	1	3	0	1	7	1	0	1	0	0	1	1	0	3.0	0	13	Yesenia, Albert, Michael, Olivia, John, and Maria were playing basketball in the park on Saturday afternoon.	6
+32	0	0	6	3	1	3	0	2	11	2	0	0	3	1	1	1	0	4.0	1	21	The President, Vice President, Secretary of State, Secretary of Defense, Supreme Court Chief Justice, and First Lady participated in a cabinet meeting to discuss global affairs.	6
+26	0	0	4	4	1	4	0	4	2	1	0	0	6	0	1	1	0	6.0	0	14	The intricate interplay of forces between the Pacific, Atlantic, Indian, and Arctic Oceans influenced the course of human migration across the Americas.	8
+35	0	0	5	2	2	2	0	3	12	3	1	0	5	2	1	1	0	5.0	2	10	The Queen visited Buckingham Palace for the Platinum Jubilee last year, accompanied by the Prime Minister and other prominent leaders, including King Charles III, President Biden, and former President Obama.	8
+28	0	0	5	2	1	1	0	1	11	1	1	1	4	0	1	0	0	3.0	0	18	The Grand Canyon State Park was visited by President Obama, Queen Elizabeth II, Pope Francis, and Prime Minister Trudeau, among other notable individuals.	8
+24	0	0	3	4	0	1	0	4	7	1	1	0	3	0	1	1	0	3.0	0	12	The President of the United States, Barack Obama, delivered a speech to the United Nations in New York City in 2009.	8
+35	0	0	9	4	3	4	0	2	10	2	0	0	1	0	1	1	1	5.0	1	13	The vibrant festival of Holi, celebrated in India and Holimod, brought joy and laughter to the residents of Mumbai, Jaipur, Delhi, Chennai, Kolkata, Bangalore, and Ahmedabad.	8
+28	0	0	8	2	1	2	0	2	11	0	0	1	1	0	1	0	0	4.0	0	25	The President, Vice President, Secretary of State, Secretary of Defense, Prime Minister, Chancellor, Emperor, and Queen are all world leaders.	8
+22	0	0	2	2	0	2	1	2	6	2	1	0	4	1	1	1	0	4.0	1	10	The United States Olympic Team won their third consecutive gold medal at the 2022 Summer Games held in Tokyo, Japan.	8
+30	0	1	1	5	0	4	0	4	6	2	0	2	5	1	2	0	0	4.0	1	11	The bustling streets of Paris were filled with excited fans as the iconic Notre Dame Cathedral was illuminated with festive lights during the grand opening of the World Cup.	8
+30	0	0	3	5	0	7	0	6	1	3	0	0	5	1	1	2	1	5.0	2	14	A vibrant symphony of stars, accompanied by the melodic hum of the Milky Way, captivated the discerning ears of astronauts exploring the cosmos on the lunar surface.	8
+16	0	0	1	3	0	1	1	2	5	1	0	0	2	0	1	1	0	3.0	0	8	 The Pope visited Buckingham Palace in London on his recent trip to the United Kingdom.	8
+7	0	0	2	0	0	1	0	1	2	0	0	0	1	0	0	0	0	2.0	0	2	The young astronaut, John F.	8
+18	0	0	1	3	0	2	0	2	5	1	0	0	4	0	1	1	0	4.0	0	7	A peaceful gathering at the Metropolitan Museum of Art included prominent individuals such as President George W.	8
+24	0	0	3	2	2	5	1	2	3	2	1	0	2	1	1	2	0	4.0	1	13	The Pope and Queen Elizabeth II, as heads of their respective churches, initiated a meeting to discuss interfaith dialogue and cooperation.	8
+33	0	0	8	3	2	3	1	2	9	2	0	1	2	0	1	0	0	4.0	0	21	The Republic of France, Spain, Germany, Italy, the United States, Brazil, Argentina, and Canada are united in their shared commitment to global peace and prosperity.	8
+21	0	0	2	1	1	2	1	2	3	2	0	1	6	0	2	1	0	4.0	0	11	The United States is known for its diverse cultural heritage, and New York City hosts a vibrant cultural scene.	8
+30	0	0	5	6	0	5	1	3	7	1	1	0	1	0	1	1	0	4.0	0	11	The president of France, Emmanuel Macron, presented the queen of England, Elizabeth II, with a bouquet of flowers on her recent visit to Buckingham Palace.	8
+20	0	0	2	1	2	1	0	1	10	1	1	0	1	0	1	0	0	3.0	0	8	Senator John McCain and Vice President Al Gore debated in the 2000 presidential election, but President George W.	8
+36	0	0	7	4	3	4	0	2	11	2	1	0	2	1	1	1	0	5.0	1	17	The Queen of Spain, Marie Curie, and King Charles III met for a historic summit in New York, Washington D.C., Paris, and Rome, discussing issues of peace and diplomacy.	8
+32	0	0	4	3	1	2	0	1	14	2	1	0	4	1	1	2	0	5.0	1	24	President Obama signed the landmark Clean Water Act with Vice President Biden, Senator John McCain, and Supreme Court Chief Justice Roberts in 1972, securing environmental protection for waterways.	8
+37	0	0	8	0	1	1	0	2	17	2	1	0	4	1	1	2	0	3.0	1	27	The Queen Elizabeth II, President Obama, Pope Francis, Prime Minister Johnson, Emperor Francis, President Macron, Prime Minister Trudeau, and Chancellor Merkel visited the United Nations to discuss global issues.	8
+10	0	0	2	1	0	2	0	1	2	1	0	0	1	1	0	0	0	2.0	1	5	A distinguished group of astronauts, including John F.	8
+30	1	0	2	4	1	2	0	4	7	2	0	0	7	1	1	1	0	4.0	1	11	The prestigious Museum of Natural History in London recently showcased an exquisite collection of artifacts from ancient Rome, including the famed Mars Shield and the intricate Golden Fleece.	8
+33	0	0	8	2	1	3	0	3	11	2	0	0	2	1	1	2	0	4.0	1	26	The United Nations hosted a summit in Geneva with the United States, Brazil, France, Italy, Canada, Australia, South Korea, and Germany to discuss climate change.	8
+32	0	0	8	3	1	4	0	3	8	1	0	0	4	0	1	0	0	4.0	0	20	The distinguished delegates from the United States, Canada, Brazil, France, Italy, Germany, Russia, and Japan engaged in a vibrant discussion about global trade relations.	8
+26	0	0	2	7	1	5	1	4	5	1	0	0	0	0	1	1	0	4.0	0	15	The Queen of Spain presented the Pope of Rome with a gift of gold and jewels, on the occasion of his visit to Paris.	8
+28	0	0	8	2	1	3	0	2	8	1	0	1	2	0	1	0	0	3.0	0	17	The United States, Russia, France, Germany, Italy, Canada, Brazil, and China are engaged in a global conflict over oil resources.	8
+43	0	0	12	1	3	0	0	4	18	2	0	0	2	1	1	1	0	4.0	1	19	Mary, Martha, and Melissa went to Paris, Rome, London, Berlin, New York, Chicago, and Los Angeles to visit the Eiffel Tower, the Colosseum, the Tower Bridge, and the Golden Gate Bridge.	8
+23	0	0	3	3	1	2	2	2	5	2	1	1	1	0	2	1	0	3.0	0	9	The United States Open was won by Novak Djokovic in 2022, and he dedicated the victory to his homeland, Serbia.	8
+23	0	1	1	3	0	2	1	5	5	2	0	0	3	1	2	1	0	3.0	1	9	The vibrant atmosphere of the Tokyo Tower captivated the tourists at the Grand Canyon as they marveled at the majestic Taj Majal.	8
+25	1	0	5	3	1	2	1	1	7	1	2	1	0	0	2	1	0	4.0	0	14	The Queen of England, Queen Elizabeth II, visited Wales in 1953 and her grandson, Prince William, was also in attendance.	8
+20	1	0	2	1	0	0	0	3	9	2	0	1	1	1	2	1	0	4.0	1	6	The United States Marine Corps is stationed in Hawaii, where the Pacific Ocean meets the North Pacific Sea.	8
+28	2	1	2	1	1	4	0	2	5	3	0	1	4	3	2	2	0	6.0	3	11	The United States Supreme Court recently ruled that the President's authority to regulate gun sales is unconstitutional, causing significant concern among Democrats and Republicans alike.	8
+22	0	0	1	4	0	3	0	1	4	3	1	0	4	1	1	1	1	5.0	2	9	The United Nations Summit on Sustainable Development hosted by Brazil in 2012 aimed to achieve global progress on sustainable development goals.	8
+23	1	0	1	5	0	3	0	4	7	1	0	0	1	0	1	1	0	3.0	0	12	The Queen of England recently awarded a medal to Pope Francis at Buckingham Palace during a state visit to the United Kingdom.	8
+16	0	0	1	1	0	3	0	3	3	1	0	0	4	0	1	1	0	3.0	0	9	The International Space Station crew conducted a successful spacewalk on the Lunar Module last week.	8
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	John F.	8
+18	0	0	3	2	0	0	0	3	6	1	1	0	2	0	1	1	0	3.0	0	9	 The President of the United States, Barack Obama, signed the Affordable Care Act in 2010.	8
+30	0	0	3	5	0	5	0	3	7	3	0	0	3	2	1	2	0	5.0	2	10	The vibrant festival of Durga Puja in Kolkata, West Bengal, attracts thousands of devotees to witness the majestic idol of Goddess Durga seated atop a magnificent howdah.	8
+54	0	0	9	5	1	2	0	3	30	1	0	0	3	0	1	1	0	6.0	0	33	 The President of the United States, Barack Obama, signed a bill into law with Vice President Joe Biden, Secretary of State Antony Blinken, Secretary of Treasury Janet Yellen, Supreme Court Chief Justice John Roberts, Senator John McCain, Senator Elizabeth Warren, and former President George W.	8
+22	1	0	2	3	0	3	0	2	6	2	0	0	3	1	2	1	0	4.0	1	10	The Prime Summit Conference convened by the United Nations in New York City on Wednesday, where delegates discussed climate change.	8
+20	0	0	1	3	0	3	0	2	6	1	1	0	3	0	1	1	0	4.0	0	16	President Biden signed the landmark Climate Change Act with the leaders of 7 other nations in Paris last year.	8
+22	0	0	2	2	2	1	0	3	7	1	0	1	2	0	2	1	0	3.0	0	13	The Queen of England and Pope Francis visited Rome on the same day, but the Dalai Lama was not present.	8
+38	0	0	3	4	2	3	0	7	11	1	1	0	6	0	1	1	0	5.0	0	30	The intricate dance between the Queen Elizabeth II of the United Kingdom, the Pope Benedict XVI of the Roman Catholic Church, and the President Barack Obama of the United States ensured global peace and prosperity.	8
+23	0	0	5	2	0	0	0	1	13	1	0	1	0	0	1	0	0	3.0	0	12	The Nobel Prize for Literature was awarded to William Shakespeare, Ernest Hemingway, Charles Dickens, Mark Twain, John F.	8
+40	0	0	10	4	2	6	1	3	8	2	1	0	3	0	1	1	1	5.0	1	25	The vibrant tapestry of the eight nations, comprised of Italy, France, Germany, Brazil, Spain, Argentina, India, and Australia, showcased their distinct cultures and traditions during the annual festival of unity.	8
+33	0	0	8	5	0	3	0	3	11	1	1	0	1	0	1	1	0	4.0	0	21	The President of Italy, Giorgio Meloni, signed a peace treaty with the Prime Minister of Argentina, Alberto Fernández, in Paris, France, on January 1st, 2023.	8
+23	0	0	3	4	1	0	0	2	9	2	2	0	0	0	1	0	1	5.0	1	12	The Queen Elizabeth II, accompanied by Pope Francis and President Obama, traveled to Paris in 2012 for the Summer Olympics.	8
+39	0	0	8	4	1	4	0	3	13	2	0	0	3	1	1	2	0	5.0	1	25	The United States Secretary of State hosted a meeting with diplomats from China, France, Germany, Italy, Japan, North Korea, Russia, and South Korea to discuss ongoing tensions in the Korean peninsula.	8
+46	1	0	10	2	2	4	0	2	17	3	1	0	3	1	1	1	0	5.0	1	33	A vibrant ensemble of eight renowned architects, namely John Deere, Frank Lloyd Wright, Paul Desmond, Thomas Jefferson, Charles Dickens, Benjamin Harrison, Thomas Edison, and Albert Einstein, collaborated to design and build a testament to human ingenuity.	8
+25	0	0	2	2	0	5	0	3	6	3	0	0	3	2	2	1	0	4.0	2	17	The Supreme Court issued a landmark ruling regarding President Obama's controversial immigration policy yesterday, with Chief Justice Roberts presiding over the case.	8
+46	1	0	13	2	1	4	0	4	14	4	0	1	2	1	1	2	2	7.0	3	32	The International Space Station crew, comprising astronauts representing Germany, Canada, France, Italy, Japan, South Korea, Spain, the United States, Australia, Brazil, and Russia, are preparing for a spacewalk scheduled for later this week.	11
+45	0	0	12	4	1	3	0	3	13	3	0	0	5	1	1	1	1	6.0	2	34	The diplomatic delegation from the United States, accompanied by representatives from Brazil, Argentina, Italy, France, Germany, Spain, Mexico, South Korea, Japan, and the United Kingdom, arrived in Rome to address ongoing global tensions.	11
+24	1	0	2	1	1	3	2	3	4	3	0	0	3	1	2	3	0	5.0	1	7	President Trump addressed the crowd at the Republican National Convention, where he praised his administration's successes and criticized the Democratic Party.	11
+21	0	0	2	3	0	5	0	3	3	2	0	0	2	1	1	1	0	4.0	1	6	The esteemed leaders of the G7 nations agreed to address climate change at the recent summit in Cornwall, UK.	11
+33	0	0	11	0	1	3	0	2	11	2	0	0	2	1	1	2	0	4.0	1	22	The United States, Mexico, Brazil, Russia, France, Germany, Italy, Australia, Canada, Spain, and Argentina signed a trade agreement to foster economic growth.	11
+24	0	0	2	4	0	3	0	4	5	1	1	0	4	0	1	1	0	3.0	0	13	The United States Olympic Team secured victory at the 2022 Summer Games in Tokyo, with a notable performance from the American athletes.	11
+14	0	0	2	1	0	1	1	0	4	1	2	0	2	0	1	1	0	2.0	0	6	 President Barack Obama delivered his second inaugural address on January 20, 2009.	11
+50	0	0	11	6	1	4	0	4	16	1	0	0	7	0	1	1	0	6.0	0	24	The vibrant cultural celebration of the annual International Jazz Day showcased vibrant performances by artists from across the globe at the Grand Palais in Berlin, Paris, Vienna, Montreal, New Orleans, Lisbon, Rome, Cairo, Osaka, Buenos Aires, and Tel Aviv.	11
+57	0	0	12	4	1	3	1	4	26	1	0	1	4	1	2	1	0	4.0	1	46	The Grand Canyon, Zion National Park, Empire State Building, Taj Mahal, Statue of Liberty, Great Wall of China, Notre Dame Cathedral, Sydney Opera House, Buckingham Palace, Mount Fuji, Mount Kilimanjaro, and the Eiffel Tower are all iconic landmarks that attract tourists from around the world.	11
+52	1	1	6	6	2	8	0	7	9	6	1	2	3	2	5	3	0	6.0	2	29	The International Space Station is situated in Earth orbit, and astronauts aboard are conducting experiments on Mars, while President Biden signed a bill for lunar landing, the Prime Minister of Brazil issued an apology, and a spacecraft landed on Jupiter, all occurring in the year 2023.	11
+42	0	0	12	4	1	3	0	3	13	2	0	1	3	1	1	0	0	4.0	1	21	 The bustling streets of New York City were filled with vibrant people from all around the world, including London, Paris, Rome, Cairo, Beijing, Tokyo, Toronto, Melbourne, Sydney, Berlin, and Amsterdam.	11
+21	0	0	3	3	0	2	1	1	5	2	1	2	1	1	2	0	0	4.0	1	5	The United States Open tennis tournament was won by Roger Federer, who was born in Switzerland, in 2004.	11
+27	0	0	3	3	0	3	0	5	8	2	1	0	2	1	1	2	0	4.0	1	11	The President of the United States, Barack Obama, issued a proclamation declaring Martin Luther King Day as a national holiday in the year 1963.	11
+37	1	0	5	7	0	7	0	5	4	3	0	1	4	1	1	0	0	6.0	1	9	"The bustling atmosphere of New York City was infused with the aroma of freshly baked bread in the renowned bakery, ""A slice of heaven,"" situated in the vibrant neighborhood of Greenwich Village."	11
+40	0	0	11	2	1	4	0	3	14	2	0	0	3	0	1	2	1	6.0	1	30	The intricate network of trade routes connecting New Amsterdam, Constantinople, Venice, Osaka, Istanbul, Seville, Lisbon, Rio de Janeiro, Baghdad, Cairo, and Alexandria formed the foundation of the Roman Empire.	11
+40	1	0	11	3	2	3	0	3	14	1	1	0	1	0	1	1	0	4.0	0	28	A coalition of the Arab League, Egypt, France, Germany, Israel, Italy, Japan, South Korea, Mexico, Nigeria, and Turkey successfully formed a peace treaty between Israel and Palestine in 2002.	11
+41	0	0	12	4	1	2	0	3	16	1	1	0	1	0	1	0	0	5.0	0	32	The Republic of Congo, Democratic Republic of the Congo, Costa Rica, Denmark, France, Germany, India, Italy, Morocco, Peru, South Korea, and Switzerland collaborated on a peace agreement in 2023.	11
+37	0	0	12	3	1	3	0	2	13	2	0	0	1	1	1	1	0	4.0	1	22	The bustling city of Cairo welcomed visitors from across the globe, including Tokyo, Rome, Vienna, Paris, Berlin, Istanbul, Barcelona, Mumbai, Johannesburg, Mexico City, and Sydney.	11
+21	1	0	2	2	0	2	1	3	5	2	1	0	2	1	2	2	0	4.0	1	7	President Obama signed the Affordable Care Act in 2010, which significantly impacted the healthcare landscape in the United States.	11
+30	1	0	4	4	0	3	1	2	9	2	0	0	4	1	2	2	0	5.0	1	11	The President of Brazil, Jair Bolsonaro, addressed the United Nations General Assembly in New York City on Tuesday, where he discussed environmental issues with world leaders.	11
+18	0	0	2	1	1	2	0	3	5	2	1	0	1	0	2	2	0	3.0	0	12	The President signed the treaty with Prime Minister Trudeau, and Queen Elizabeth II witnessed the event.	11
+40	0	0	8	4	1	6	0	4	13	2	1	0	1	0	1	1	1	4.0	1	25	A group of scientists, including Albert Einstein, Isaac Newton, Charles Darwin, Alexander Graham Bell, Marie Curie, and George Washington, conducted a groundbreaking experiment on the theory of relativity in the year 1905.	11
+26	0	0	4	4	0	4	0	3	7	1	2	0	1	0	1	1	0	5.0	0	16	 The United States President, Barack Obama, held a summit meeting with leaders of the G-20 nations in Los Angeles in 2009.	11
+32	0	0	4	6	0	8	0	5	2	2	0	0	4	1	1	2	0	5.0	1	11	"A symphony of voices filled the auditorium with music, bringing the vibrant city of Reykjavik to life in a dazzling performance of the iconic Icelandic opera ""Cavalleria rusticana."""	11
+36	1	0	9	2	1	5	0	3	9	2	1	0	3	1	1	1	0	5.0	1	13	The United States Olympic Committee recently awarded the gold medal to the American gymnastics team, consisting of seven members: Jordan, Madison, Olivia, Simone, Ashley, Sophia, and Grace.	11
+45	1	0	7	5	3	6	1	4	10	3	0	1	4	1	1	0	1	6.0	2	11	The historic city of Rome, known for its magnificent ruins, is admired by visitors from all over the world, including the esteemed architects, Michelangelo and Leonardo da Vinci, and the renowned artists, Vincent van Gogh and Pablo Picasso.	11
+27	1	0	3	2	1	1	0	1	11	2	0	0	4	1	1	1	0	3.0	1	12	 The United States Secretary of State, John Kerry, recently met with French President François Hollande and German Chancellor Angela Merkel to discuss international terrorism.	11
+32	0	0	11	1	1	1	0	1	12	1	0	1	3	0	1	0	0	3.0	0	24	The United States, North Korea, China, Italy, Brazil, Germany, Japan, France, Spain, Australia, and Canada are located in various geopolitical regions.	11
+35	0	0	11	1	0	0	0	1	21	0	1	0	0	0	0	0	0	3.0	0	31	 The Queen of England, Cleopatra, President Lincoln, Gandhi, King Charles III, Emperor Julius Caesar, Christopher Columbus, Charles Darwin, Pope Francis, Muhammad Ali, John F.	11
+22	1	0	2	3	0	4	0	4	5	1	0	1	1	1	1	1	0	4.0	1	7	The Queen Victoria Memorial is the most popular attraction at the Tower of London, drawing millions of visitors each year.	11
+22	0	0	5	2	0	0	0	1	12	1	0	1	0	0	1	0	0	3.0	0	12	The Nobel Prize in Literature was awarded to Ernest Hemingway, Dylan Thomas, Charles Dickens, Franz Kafka, T.S.	11
+34	0	0	4	3	2	3	0	5	9	2	0	0	6	1	1	1	0	5.0	1	9	The vibrant painting in the Metropolitan Museum of Art features several notable landmarks and historical figures, including the Empire State Building, the Taj Mahal, and the Great Wall of China.	11
+17	0	0	1	3	0	4	0	2	1	1	1	0	4	0	1	0	0	3.0	0	5	The intricate collaboration between eleven Nobel laureates resulted in the groundbreaking scientific discovery of cellular respiration.	11
+37	0	1	2	6	1	6	2	5	5	3	0	0	6	1	2	2	1	5.0	2	22	The vibrant painting exhibited at the Metropolitan Museum of Art captivated the audience with its captivating depiction of the ancient city of Pompeii, while the esteemed scholars from Oxford and Cambridge debated its historical significance.	11
+40	0	0	10	4	2	2	1	2	16	2	0	0	1	1	2	1	0	6.0	1	28	The United Nations Conference on Trade and Development hosted a meeting in Paris in which delegates from Brazil, Canada, China, France, Germany, India, Italy, Japan, South Korea, and Switzerland participated.	11
+33	0	0	5	4	2	2	0	2	15	2	0	0	1	1	1	0	0	6.0	1	11	The Queen of England, Victoria, presided over a tea party attended by Prime Ministers William Gladstone and Anthony Eden, Prince Albert, and Emperor Haile Selassie I of Ethiopia.	11
+38	0	0	11	2	1	2	0	4	12	1	0	0	5	0	1	0	0	4.0	0	29	The intricate collaboration between the United States, Canada, Japan, France, Germany, South Korea, Brazil, Italy, Spain, Russia, and the United Kingdom resulted in a successful international summit.	11
+36	0	0	5	7	0	6	0	6	8	1	2	0	1	0	1	1	0	6.0	0	25	The Queen of Spain, Isabella II, presented the American President, William Henry Harrison, with a gift of emeralds on the occasion of the 4th of July celebration in the year 1840.	11
+22	0	0	4	2	1	4	0	2	5	3	0	0	1	2	1	3	0	5.0	2	9	The President of France, Emmanuel Macron, issued a statement condemning violence against French Jews, urging compassion and understanding.	11
+32	0	0	5	3	1	6	0	2	9	2	0	0	4	0	1	1	1	4.0	1	17	The prestigious gathering of world leaders, including President Obama, Prime Minister Johnson, and Pope Francis, discussed climate change at the United Nations conference in New York City.	11
+27	1	0	2	4	3	0	1	3	10	2	0	0	1	0	2	1	0	5.0	0	10	The President and First Lady visited the Pope in Vatican City, and they later met with the King and Queen of England in Buckingham Palace.	11
+40	0	0	5	5	2	5	0	6	12	3	1	0	1	1	1	3	1	7.0	2	15	A diplomatic envoy representing South Korea, Queen Elizabeth II, and the President of India, presented a letter to the Pope in the Vatican City, seeking support for a peace agreement between North and South Korea.	11
+31	1	1	4	4	0	2	0	5	9	3	0	0	2	2	3	2	0	5.0	2	13	 The Pope visited Rome, while George Bush signed a treaty with China in the United States, during the French Revolution, where Nelson Mandela spoke to the crowd.	11
+57	0	0	11	3	1	3	0	4	29	1	0	0	5	0	1	1	0	6.0	0	50	A symphony of musicians from the Vienna Philharmonic, Berlin Philharmonic, Chicago Symphony Orchestra, London Symphony Orchestra, Royal Concertgebouw Orchestra in Amsterdam, Montreal Symphony Orchestra, Los Angeles Philharmonic, Philadelphia Orchestra, New York Philharmonic, São Paulo Symphony Orchestra, and The Australian Chamber Orchestra performed a captivating musical evening.	11
+35	0	0	11	3	1	1	0	3	13	1	0	0	2	0	1	0	0	4.0	0	22	The United States, Canada, Brazil, France, Italy, Spain, Germany, Japan, Australia, China, and Mexico collaborated on the construction of the Great Wall of China.	11
+21	0	0	1	4	0	5	0	4	1	0	1	1	4	0	1	0	0	4.0	0	14	The intricate journey of the Apollo astronauts to the lunar surface in 1969 was a pivotal moment in human history.	11
+38	0	0	11	1	2	2	0	1	16	2	1	0	1	1	1	1	0	5.0	1	32	President Barack Obama, Queen Elizabeth II, Pope Francis, and the leaders of France, Germany, Italy, Canada, Brazil, South Korea, Russia, and Mexico collaborated to address global poverty.	11
+53	0	0	13	4	2	4	0	5	18	1	1	0	5	0	1	1	0	5.0	0	22	The intricate dance of political intrigue among the seven nations of North America, South America, and the Mediterranean Sea orchestrated a tumultuous diplomatic exchange between the United States, Canada, Mexico, Costa Rica, Peru, Chile, Argentina, Italy, France, Germany, and Spain.	11
+34	0	0	11	2	1	1	1	2	12	1	1	1	1	1	2	0	0	4.0	1	23	The United States, France, Italy, Germany, Brazil, Spain, Canada, Australia, China, Japan, and Mexico are nations that participate in the Group of Twenty.	11
+24	0	0	3	4	0	1	0	4	8	1	0	0	3	0	1	1	0	3.0	0	12	The President of the United States, Barack Obama, delivered a speech to the United Nations in New York City on Monday.	11

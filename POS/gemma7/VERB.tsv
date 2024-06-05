@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+13	0	0	2	1	0	4	0	3	0	2	0	0	1	1	1	2	0	4.0	1	4	The wind rustles the leaves, creating a symphony of vibrant colours.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The red ball rests comfortably on the green table.	0
+16	1	0	2	3	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	6	A bouquet of roses stands gracefully on the table, radiating an aroma of sweetness.	0
+14	0	0	2	2	0	5	0	3	0	1	0	0	1	1	0	1	0	3.0	1	5	A rainbow arcs above the mountains, coloring the sky with vibrant hues.	0
+14	0	0	1	2	0	5	0	3	0	1	0	0	1	0	1	1	0	3.0	0	7	The silence of the afternoon cast long shadows on the park's grass.	0
+11	1	0	2	1	0	3	0	2	0	2	0	0	0	0	1	1	0	3.0	0	5	The scent of lavender permeates the newly-baked bread.	0
+18	0	0	2	2	0	5	1	3	0	2	0	0	3	1	2	1	0	3.0	1	10	The colorful beads danced with delight on the silken thread, their shimmer illuminating the festive occasion.	0
+15	0	0	2	2	0	3	0	2	0	2	0	1	2	1	1	0	0	3.0	1	5	A basket of colorful berries sits on the table, ready to be enjoyed.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A basket sits on the table.	0
+16	0	0	2	1	0	4	0	3	0	2	0	0	4	1	1	2	0	3.0	1	8	The radiant sun cast long shadows across the emerald lawn, illuminating the vibrant flowers.	0
+12	0	0	2	2	0	3	0	2	0	2	0	0	1	1	1	0	0	3.0	1	5	The blue balloon danced through the wind, suspended in mid-air.	0
+10	0	0	1	2	0	3	0	2	0	2	0	0	0	1	1	0	0	3.0	1	3	A basket of fruit hangs suspended in the air.	0
+23	0	0	3	3	0	8	0	4	0	2	0	0	3	1	1	2	0	4.0	1	8	A crimson sunrise painted the sky with vibrant hues, casting long shadows on the moss-laden branches of the trees.	0
+14	0	0	2	2	0	4	1	2	0	2	0	0	1	1	1	1	0	3.0	1	5	A basket of ripe berries sits on the counter, awaiting their consumption.	0
+19	1	0	2	2	0	5	1	3	0	2	0	0	3	1	2	1	0	3.0	1	10	The vibrant flowers danced harmoniously in the gentle breeze, their fragrant petals spreading fragrance into the air.	0
+13	0	0	1	3	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	A string of beads hangs from the silken hair of the maiden.	0
+17	1	0	2	1	0	4	1	2	0	3	0	0	2	2	1	2	0	4.0	2	6	The vibrant purple scarf hangs gracefully on the table, beckoning hands to admire its beauty.	0
+12	1	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun shines brightly, casting long shadows on the ground.	0
+19	0	0	2	3	0	7	0	4	0	2	0	0	1	1	1	1	0	4.0	1	7	The vibrant flower blossoms cascade down the garden path, painting a kaleidoscope of colors across the lawn.	0
+20	0	0	3	2	1	4	1	3	0	3	0	0	2	2	1	2	0	5.0	2	9	A string hangs from the ceiling, limp and inert, awaiting a force to breathe life into it.	0
+12	0	0	3	1	0	3	0	2	0	2	0	0	1	0	2	1	1	4.0	1	6	A crimson rose, fragrant as lavender, graces the table.	0
+13	0	0	2	0	0	3	0	3	0	2	0	0	3	1	1	2	0	3.0	1	5	The vibrant flowers adorn the colorful tapestry, creating a captivating masterpiece.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The orange juice sits in the cup.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The red ball rests peacefully on the green table.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The red ball bounces on the green rug.	0
+21	0	0	2	4	1	6	0	4	0	2	0	0	2	1	1	1	0	5.0	1	8	A vibrant rainbow danced across the canvas of the sky, painting the clouds with hues of orange and pink.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The red apple hangs from the branch.	0
+16	0	0	2	2	1	7	0	2	0	1	0	0	1	0	1	1	0	4.0	0	7	The crimson sunrise paints the dew-laden grass in hues of gold and orange.	0
+17	0	0	2	3	0	6	0	3	0	1	0	0	2	1	0	0	0	4.0	1	5	The crimson flower blooms with fragrant blossoms, cascading down the verdant tapestry of the forest.	0
+12	0	0	1	1	0	3	0	2	0	2	0	0	2	1	1	1	0	3.0	1	4	A kaleidoscope of colorful threads intertwines to form a mesmerizing tapestry.	0
+18	0	0	2	3	1	6	0	3	0	2	0	0	1	1	1	1	0	5.0	1	6	A rainbow danced in the afternoon sun, painting the grass with hues of orange and pink.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The flowers dance in the breeze.	0
+13	1	0	2	2	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	The blue pen sits neatly on the desk, ready for use.	0
+12	0	0	1	2	1	5	0	3	0	0	0	0	0	0	0	0	0	4.0	0	4	The colors of the rainbow shimmer and dance in the sunlight.	0
+11	0	0	1	1	0	3	0	2	0	1	0	0	3	0	1	1	0	2.0	0	6	The radiant moon casts long shadows on the verdant lawn.	0
+18	0	0	2	3	0	6	0	4	0	2	0	0	1	1	1	1	0	4.0	1	4	The scent of fresh bread permeates the air, lingering in the wake of the baking process.	0
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	A rainbow stretches across the sky, illuminating the ground below.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A basket sits on the table.	0
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	A rainbow danced in the sky, coloring the clouds.	0
+15	0	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	4.0	1	5	A cold wind blew across the fields, rustling the leaves of the trees.	0
+11	0	0	1	1	0	3	0	2	0	2	0	0	2	1	1	0	0	3.0	1	4	A lone orange blossom hangs suspended in the springtime breeze.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The purple cat sleeps in the meadow..	0
+18	0	0	3	2	0	5	0	2	0	3	0	0	3	1	1	2	0	4.0	1	6	The fragrant aroma of fresh-brewed coffee permeates the air, invoking memories of cozy mornings.	0
+12	1	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	4	The orange blossoms dance silently, whispering secrets to the breeze.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	4	A vase of fresh flowers adorned the table.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun shines brightly across the emerald landscape.	0
+21	0	0	3	2	0	7	0	3	0	2	0	0	3	1	1	2	0	4.0	1	8	This morning's sunrise cast vibrant orange hues across the sky, illuminating the dew-laden blades of grass.	0
+19	0	0	2	1	1	3	3	2	0	3	0	1	1	1	1	2	0	4.0	1	11	There are several objects in the room, but I do not have the capacity to perceive them.	0
+11	0	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun shines, casting long shadows on the grass.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A red ball sits on the table.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the ball across the room.	1
+16	1	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	4.0	1	5	The clock ticked relentlessly, filling the room with the sound of its rhythmic clicking.	1
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The book was read by me yesterday.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is playing with the ball.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat is playing.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	1
+12	0	0	2	1	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat leaped onto the table, catching the falling book.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The dog is playing.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+10	2	0	1	0	0	2	1	2	0	2	0	0	0	1	2	1	0	3.0	1	4	The dog barks loudly when it sees a squirrel.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept soundly.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly through the night.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The lion sleeps soundly in the jungle.	1
+7	1	0	3	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	"""The sun shines brightly."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat leaped onto the mat.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept peacefully through the night.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept soundly.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog barked at the mailman.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept soundly.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the tree.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The young woman danced gracefully to the music.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The red cat slept soundly under the warm blanket.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly to the park.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+10	0	0	2	1	0	2	1	1	0	1	1	0	0	0	1	1	0	2.0	0	5	Sure, I generated a sentence with 1 verb: The dog ran quickly down the road.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the mouse up the tree.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The clock ticked precisely.	1
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	A dog is chasing its tail.	1
+10	0	0	3	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	"""The cat is playing with the ball."""	1
+15	1	1	1	1	0	4	0	3	0	2	0	0	2	1	2	1	0	3.0	1	6	The clock glowed brightly as the vibrant sunset cast long shadows across the beach.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly through the night.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat jumped onto the mat, landing gracefully.	1
+14	0	0	2	1	0	4	0	4	0	2	0	0	1	1	1	2	0	3.0	1	7	The cat chased the ball across the park, creating a delightful sight.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat jumped onto the table."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	3.0	1	3	The clock ticked loudly, echoing through the hallway.	1
+16	1	0	3	2	1	3	0	3	0	3	0	0	0	0	1	1	0	2.0	0	11	The cat chased the mouse up the tree, climbed down, and slept soundly.	3
+16	3	0	3	1	1	3	0	2	0	3	0	0	0	1	1	1	0	3.0	1	7	The student diligently wrote, meticulously proofread, and accurately submitted the essay on time.	3
+16	0	0	3	2	1	3	1	3	0	3	0	0	0	0	1	1	0	3.0	0	9	The dog chased the ball, ran after it, and jumped over the fence.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	 The cat leaped onto the table, jumped over the chair, and landed on the rug.	3
+22	2	1	3	1	1	4	0	4	0	5	0	0	1	2	1	2	0	4.0	2	11	The young boy ran swiftly to the park, threw a ball, and smiled broadly while watching the children play.	3
+14	0	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	 The cat jumped onto the table, chased the dog, and roared.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The dog chased the ball, jumped over the rope, and played with the toy.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The kitten chased the ball, jumped over the rug, and played with the toy.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat chased the ball, jumped over the table, and played with the toy.	3
+17	1	0	2	1	0	4	0	3	0	3	0	0	2	2	1	1	0	3.0	2	7	 The quick brown fox jumps over the sleeping sheep, thereby causing the grass to ripple.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	The kitten jumped onto the table, climbed onto the counter, and swatted at the fly.	3
+18	1	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	9	The cat slept soundly, leaped onto the table, and chased the butterfly across the room.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat chased the ball, leaped onto the table, and played with the toys.	3
+21	1	0	3	3	1	5	0	5	0	3	0	0	0	0	1	1	0	3.0	0	13	The cat leaped onto the table, chased the mouse across the floor, and climbed back onto the table.	3
+14	1	1	3	0	1	2	0	2	0	4	0	0	0	1	2	0	0	4.0	1	5	The cat jumped, chased, and slept soundly as the sun shone.	3
+15	0	0	3	0	1	4	0	4	0	3	0	0	0	0	1	3	0	3.0	0	9	The student read the book, studied the notes, and completed the homework.	3
+15	0	0	3	2	1	3	0	3	0	3	0	0	0	0	1	1	0	2.0	0	11	 The cat chased the mouse up the tree, climbed down, and played.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat chased the ball, ran after the toy, and jumped onto the table.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, scratched the table, and climbed onto the wall.	3
+19	1	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	12	 The fish swam quickly across the river, leaped onto the shore, and jumped into the air.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat chased the ball, jumped over the table, and landed on the mat.	3
+16	0	0	3	1	1	4	0	4	0	3	0	0	0	0	1	2	0	3.0	0	10	The cat chased the ball, jumped onto the table, and broke the vase.	3
+20	0	0	3	3	1	5	0	5	0	3	0	0	0	0	1	1	0	3.0	0	13	The cat chased the mouse up the tree, jumped onto the table, and played with the toys.	3
+14	0	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, chased the mouse, and roared.	3
+20	1	0	3	2	1	5	0	4	0	3	0	0	1	0	1	1	0	3.0	0	12	The swift runner raced across the field, jumped over the obstacle, and triumphantly reached the finish line.	3
+16	0	0	2	2	0	4	0	3	0	2	0	0	3	1	1	0	0	4.0	1	4	The quick brown fox jumps over the sleeping dog, chased by the cunning cat.	3
+18	0	0	3	1	1	5	0	5	0	3	0	0	0	0	1	3	0	3.0	0	9	The dog chased the ball, chased the cat, and chased the butterfly across the park.	3
+16	1	0	3	2	1	3	0	3	0	3	0	0	0	0	1	1	0	2.0	0	11	The cat chased the mouse up the tree, climbed down, and slept soundly.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	The apple fell from the tree, bounced on the ground, and rolled towards the river.	3
+15	1	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat leaped onto the table, chased the dog, and ran away.	3
+12	0	0	3	1	1	2	0	2	0	3	0	0	0	0	1	0	0	3.0	0	5	 The ball bounced, flew, and rolled across the park.	3
+15	1	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, chased the mouse, and slept soundly.	3
+18	0	0	4	1	1	3	0	3	0	4	0	0	2	1	1	1	0	3.0	1	10	The young child skipped, strolled, and danced through the park, creating a joyful melody.	3
+16	0	0	3	2	1	3	1	3	0	3	0	0	0	0	1	1	0	3.0	0	9	The dog chased the ball, ran after it, and jumped over the table.	3
+13	0	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	9	 The lion roared, the child ran, and the wind blew.	3
+18	1	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	11	The cat chased the mouse up the tree, jumped down, and landed on the rug.	3
+15	0	0	3	1	1	3	0	3	0	3	0	1	0	0	1	0	0	3.0	0	5	The ball was thrown, caught, and bounced around the park all day.	3
+20	0	0	3	3	1	5	0	5	0	3	0	0	0	0	1	1	0	3.0	0	13	The cat chased the ball down the stairs, jumped over the table, and landed on the rug.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, chased the mouse, and climbed onto the bookshelf.	3
+19	0	0	3	1	1	5	0	5	0	3	0	0	1	0	3	1	0	3.0	0	9	The lion roared, the ball bounced, and the painter painted a vibrant mural on the canvas.	3
+18	0	0	4	2	1	4	0	3	0	4	0	0	0	1	1	1	0	4.0	1	10	The fish swim, leap, and jump in the ocean, creating a symphony of movement.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, chased the mouse, and climbed onto the bookshelf.	3
+18	0	0	3	1	1	5	0	5	0	3	0	0	0	0	1	3	0	3.0	0	12	The cat chased the mouse up the tree, startled the bird, and frightened the fish.	3
+13	0	0	3	1	1	2	0	2	0	3	0	1	0	0	1	0	0	3.0	0	5	The ball was kicked, bounced, and thrown into the air.	3
+19	0	0	3	0	1	4	0	3	0	4	0	3	0	1	3	1	0	3.0	1	11	The book was read, the pages were turned, and the pen was used to write notes.	3
+18	0	0	4	2	1	4	0	3	0	4	0	0	0	1	1	1	0	4.0	1	5	The ball bounced, flew, and rolled across the playground, eliciting cheers from the children.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat chased the ball, jumped onto the table, and tumbled onto the floor.	3
+12	0	0	3	0	1	3	0	1	0	3	0	1	0	0	3	0	0	2.0	0	7	The book was read, pages turned, and coffee poured.	3
+19	0	0	3	2	1	5	0	5	0	3	0	0	0	0	1	2	0	3.0	0	13	The cat chased the mouse up the tree, jumped onto the branch, and devoured the berries.	3
+15	1	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat leapt onto the table, chased the mouse, and hissed angrily.	3
+25	0	0	3	1	2	6	0	5	0	3	0	0	5	1	2	2	0	6.0	1	10	The quick brown fox jumps over the sleeping tiger, and the energetic kangaroo kicks a ball, creating a vibrant and chaotic scene.	5
+29	0	0	5	2	1	6	0	6	0	6	0	0	3	0	1	3	0	3.0	0	21	The swift cat raced across the park, chased the playful child, climbed the towering tree, leaped onto the swing, and painted a colorful mural.	5
+23	0	0	6	2	1	4	0	2	0	7	0	0	1	1	1	1	0	4.0	1	9	The swift dancer skipped, leaped, tumbled, ran, and hopped with joy, leaving the mesmerized audience in awe.	5
+32	1	0	5	5	1	8	0	7	0	5	0	0	0	0	1	2	0	3.0	0	25	The cat chased the ball down the street, leaped over the park bench, jumped onto the table, climbed up the tree, and then roared at the top.	5
+24	0	0	6	1	1	4	1	4	0	6	0	0	1	1	1	2	0	4.0	1	9	The student wrote, walked, played, danced, and read a book in the park, making it a delightful afternoon.	5
+29	0	0	5	5	1	7	0	6	0	5	0	0	0	0	1	1	0	3.0	0	23	The cat chased the mouse up the tree, leaped onto the fence, jumped over the rope, ran down the street, and danced with joy.	5
+25	2	0	5	3	1	5	0	4	0	5	0	0	0	0	1	1	0	3.0	0	20	The dog ran quickly to the park, chased the ball, played with the children, danced with joy, and slept soundly.	5
+26	0	0	5	3	1	6	0	5	0	5	0	0	1	0	1	2	0	3.0	0	19	The playful kitten danced across the table, chased the butterfly, climbed the curtain, leaped onto the bed, and roared with joy.	5
+25	0	0	5	4	1	5	0	5	0	5	0	0	0	0	1	1	0	4.0	0	17	The cat chased the mouse, leaped onto the table, jumped over the flowerpot, roared, and raced out of the room.	5
+27	1	0	5	0	1	5	0	5	0	5	0	0	5	0	1	4	0	3.0	0	19	The young girl danced gracefully, painted a vibrant mural, cooked a delicious cake, sang a melodious song, and read a captivating story.	5
+15	0	0	5	0	1	2	0	2	0	5	0	0	0	0	1	1	0	2.0	0	11	The dog chased the ball, ran, jumped, climbed, and barked.	5
+21	0	0	6	1	1	3	0	2	0	6	0	0	2	1	1	1	0	4.0	1	11	The vibrant flower blossomed, blossomed, bloomed, withered, and sprouted, creating a captivating symphony of colors.	5
+30	0	0	5	4	1	7	0	5	1	5	0	0	1	0	1	2	0	4.0	0	22	The mischievous puppy chased the butterfly, leaped onto the table, grabbed a slice of fruit, climbed onto Mom's lap, and snuggled under the blanket.	5
+26	0	0	5	2	1	6	0	6	0	5	0	0	1	0	1	3	0	3.0	0	19	 The young boy ran across the park, jumped over the fence, chased the dog, climbed the tree, and read a book.	5
+28	1	0	5	4	1	6	0	6	0	5	0	0	0	0	1	1	0	3.0	0	23	The cat chased the mouse up the tree, jumped over the fence, played with the ball, climbed down the rope, and slept soundly.	5
+22	0	0	6	2	1	4	1	2	0	6	0	0	0	1	1	1	0	4.0	1	11	The cat leapt, leaped, climbed, chased, and played, leaving a path of destruction in its wake.	5
+16	0	0	5	1	1	2	0	2	0	5	0	0	0	0	1	1	0	3.0	0	9	The cat chased, leaped, bounded, climbed, and sprinted up the tree.	5
+20	0	0	6	1	1	3	0	3	0	6	0	0	0	1	1	1	0	3.0	1	14	The cat danced, leaped, jumped, scampered, and frolicked in the park, delighting the children.	5
+23	0	0	6	2	1	4	0	3	0	6	0	0	1	1	1	1	0	4.0	1	11	The playful puppy raced, chased, leaped, stumbled, and tumbled, leaving a trail of joy on the rug.	5
+15	0	0	5	0	1	2	0	2	0	5	0	0	0	0	1	1	0	3.0	0	9	 The cat leapt, leaped, ran, jumped, and chased the ball.	5
+23	1	0	5	1	1	4	0	4	0	6	0	0	1	0	1	2	0	3.0	0	18	The young cat jumped onto the table, chased the flying fish, climbed the tree, roared, and happily danced.	5
+29	0	0	5	4	1	7	0	5	0	6	0	0	1	1	1	2	0	5.0	1	15	The swift cat leaped onto the table, climbed the curtains, raced around the room, and roared in delight, leaving a trail of shredded paper.	5
+27	0	0	6	3	2	5	0	3	0	6	0	0	2	1	1	0	0	6.0	1	9	The student wrote, read, listened, presented, and interacted with the teacher during class, resulting in a vibrant and engaging learning environment.	5
+23	1	0	6	2	1	3	0	3	0	6	0	0	1	1	1	1	0	3.0	1	15	The energetic child danced gracefully, skipped, leaped, hopped, and ran towards the playground, bringing joy to all.	5
+22	0	0	5	2	1	4	0	3	0	6	0	0	1	1	1	1	0	4.0	1	10	The vibrant flower bloomed, blossomed, withered, withered and flourished, creating a symphony of color in the garden.	5
+30	2	0	5	3	1	6	4	4	0	5	0	0	0	1	1	4	0	4.0	1	15	The cat chased the mouse up the tree, caught it, scratched its fur, and played with the rope, ultimately leading it back to its hole.	5
+22	0	0	6	0	1	4	0	4	0	6	0	0	1	1	1	3	0	3.0	1	15	The cat chased the ball, climbed the fence, slept, leaped, and roared, creating a chaotic scene.	5
+25	0	0	6	2	1	8	1	3	0	2	0	0	2	1	2	0	0	3.0	1	17	The swift fox leaps, hops, dashes, scampers, and sprints across the meadow, its quick tail bobbing in the wind.	5
+21	0	0	6	1	1	3	0	3	0	6	0	0	1	1	1	1	0	4.0	1	9	The playful child danced, ran, hopped, skipped, and strolled through the park, delighting the onlookers.	5
+33	1	0	5	4	2	7	0	6	0	6	0	0	2	1	1	2	0	4.0	1	21	The young child danced with joy and ran happily along the beach, skipped to the park, jumped over the waves, and climbed the sandcastle, creating a magical afternoon.	5
+47	5	0	5	8	1	11	0	6	0	6	0	0	5	1	1	1	0	6.0	1	25	The vibrant parrot expertly navigated the intricate labyrinth of the ancient forest, effortlessly leaped over moss-laden branches, gracefully soared through the azure sky, and instantaneously reacted to the scent of freshly baked bread, resulting in a symphony of senses in harmony.	5
+26	0	0	5	3	1	6	0	6	0	5	0	0	0	0	1	2	0	3.0	0	19	The cat chased the mouse, leapt over the table, climbed the curtains, ran down the stairs, and jumped onto the couch.	5
+21	1	0	5	2	1	3	1	2	0	5	0	0	1	0	1	0	0	3.0	0	10	 The young child ran quickly, skipped, jumped, raced, and danced with her friends in the park.	5
+21	1	1	2	4	0	5	1	3	0	3	0	0	1	2	2	0	0	4.0	2	8	 The swift cheetah ran swiftly across the savanna, chased by a flock of birds as it hunted for prey.	5
+23	0	1	3	1	1	5	0	4	0	5	0	0	3	2	2	1	0	4.0	2	9	The quick brown fox leaps over the sleeping lion, chasing the fluttering bird, while the playful kitten kicks and climbs.	5
+18	0	1	5	1	1	2	0	1	0	7	0	0	0	1	1	0	0	4.0	1	9	The kitten chased, leaped, played, climbed, and slept while listening to calming music.	5
+23	0	0	4	4	1	5	0	5	0	4	0	0	0	0	1	1	0	3.0	0	16	The cat chased the mouse up the tree, climbed down, leaped onto the mat, and played with the ball.	5
+28	1	0	5	4	1	6	0	6	0	5	0	0	0	0	1	1	0	3.0	0	23	The dog chased the cat up the tree, ran around the garden, played with the ball, climbed down the tree, and slept soundly.	5
+28	0	1	5	3	1	7	0	6	0	5	0	0	0	1	2	2	0	4.0	1	17	The cat chased the mouse up the tree, chased after the dog, climbed the rope, and danced with joy, while the clock ticked.	5
+26	1	0	5	2	1	7	0	3	0	5	0	0	2	1	1	3	0	3.0	1	17	The vibrant wildflowers danced with the wind, splashed water on nearby blossoms, nurtured the budding roses, and bloomed magnificently, attracting butterflies.	5
+27	0	0	5	4	1	6	0	6	0	5	0	0	0	0	1	1	0	3.0	0	20	The cat chased the mouse up the tree, jumped onto the fence, climbed down the rope, roared, and raced across the park.	5
+23	0	0	5	1	1	6	0	5	0	5	0	0	0	0	1	4	0	3.0	0	17	The cat chased the mouse, climbed the tree, raced the wind, danced with joy, and sang a song.	5
+26	1	0	5	4	1	5	0	5	0	5	0	0	0	0	1	0	0	3.0	0	21	The dog chased after the ball, ran around the park, played with the kids, leaped over the fence, and returned home.	5
+26	0	0	5	3	1	6	0	6	0	5	0	0	0	0	1	2	0	3.0	0	19	The kitten chased the ball, leaped onto the table, climbed the curtains, played with the toy, and snuck into the bedroom.	5
+22	3	0	5	1	1	3	0	3	0	5	0	0	1	0	1	1	0	3.0	0	16	The young girl danced gracefully, leaped forward, climbed the tree, ran towards the creek, and laughed heartily.	5
+22	0	0	6	2	1	4	0	3	0	6	0	0	0	2	1	1	0	5.0	2	9	The cat leaped, bounding, danced, skipped, and played with the ball, creating a whirlwind of joy.	5
+31	0	0	5	0	1	5	0	5	0	5	0	10	0	0	5	0	0	3.0	0	25	The book was being read, the pages were being turned, the dog was being chased, the ball was being thrown, and the flowers were being watered.	5
+22	0	0	4	3	1	5	0	5	0	4	0	0	0	0	1	2	0	3.0	0	16	The dog chased the cat across the park, leapt onto the tree, climbed down, and retrieved the ball.	5
+21	0	0	3	1	1	6	0	4	0	3	0	0	3	1	1	2	0	3.0	1	12	The quick brown fox leaps over the sleeping dog, chasing the red cat, and catches the fluttering butterfly.	5
+24	3	0	5	1	1	4	0	4	0	5	0	0	1	1	1	2	0	4.0	1	12	The kitten chased the playful ball, leaped high, ran swiftly, and climbed onto the tree, leaving the toy behind.	5
+31	0	0	7	3	1	7	0	6	0	7	0	0	0	0	1	3	0	3.0	0	24	The cat chased the mouse, chased the ball, climbed the tree, leapfrogged over the fence, hunted for food, ran, and danced to the music.	7
+29	0	0	8	3	1	5	0	3	0	8	0	0	1	1	1	1	0	5.0	1	13	The playful kitten danced, leaped, raced, sprinted, trotted, leaped, and bounded with joy, leaving a trail of glitter on the carpet.	7
+31	0	0	6	2	3	12	1	2	0	4	0	0	1	1	1	3	0	4.0	1	11	The intricate dance of cascading waterfalls, flowing streams, and leaping frogs orchestrates a symphony of sights, scents, and sounds, captivating visitors and stirring their hearts.	7
+39	2	0	7	4	1	8	1	5	0	8	0	0	3	1	1	4	0	4.0	1	27	The swift bird flew from east to west, chased the pesky dragon, climbed the towering tree, leaped over the river, painted a vibrant mural, and danced with delight, finally reaching its destination.	7
+31	2	0	4	4	1	7	1	4	0	4	0	0	4	2	1	3	0	5.0	2	15	The intricate dance of swirling butterflies, meticulously orchestrated a symphony of colors, captivating the hearts of young and old alike, leaving a bittersweet memory in their minds.	7
+25	0	0	8	1	1	3	1	2	0	8	0	0	1	1	1	1	0	4.0	1	13	The energetic child danced, leaped, ran, jumped, flew, soared, and skipped through the park, delighting her friends.	7
+37	2	0	7	5	1	7	0	7	0	7	0	0	1	0	1	1	0	3.0	0	28	The mischievous cat climbed up the tree, leaped onto the fence, raced across the yard, chased the butterflies, jumped onto the trampoline, spun wildly, and landed safely on the grass.	7
+26	0	0	2	2	1	7	0	5	0	2	0	0	5	1	1	1	0	5.0	1	10	 The playful kitten chased the nimble butterfly across the lush green grass, resulting in the butterfly's swift flight and the kitten's satisfaction.	7
+26	0	1	7	1	1	3	1	3	0	8	0	0	1	1	2	1	0	3.0	1	16	The energetic student danced, leaped, ran, jumped, skipped, played, and laughed as he chased the butterflies across the meadow.	7
+27	0	0	8	2	1	4	0	3	0	8	0	0	1	1	1	1	0	5.0	1	13	The playful cat jumped, skipped, danced, roared, played, chased, and ran across the park, creating a symphony of joy.	7
+27	0	0	3	4	1	8	1	5	0	4	0	0	1	2	1	3	0	5.0	2	8	A vibrant symphony of verbs dances in the air, captivating the senses and igniting the heart, leaving a trail of memories in its wake.	7
+27	0	0	2	4	1	8	0	5	0	3	0	0	4	1	1	2	0	5.0	1	10	The intricate dance of swirling blades and swift movement in rhythmic harmony creates a captivating symphony on the battlefield, commanding the attention of all observers.	7
+26	1	0	7	2	1	5	0	4	0	6	0	0	0	0	1	1	0	3.0	0	18	The cat jumped onto the table, chased the mouse, roared, scratched, gnawed, bit, and ran away from the house.	7
+40	0	0	7	1	1	8	1	6	0	9	0	7	0	2	1	7	0	5.0	2	32	He had finished painting the mural, had started cleaning the kitchen, was dusting the shelves, had swept the floor, was arranging flowers, was making a cake, and was drinking a glass of water.	7
+27	0	0	8	2	1	4	0	3	0	8	0	0	1	1	1	1	0	4.0	1	13	The young cat chased, leaped, trotted, ran, dashed, raced, and sprinted across the park, capturing the butterfly in mid-flight.	7
+44	2	0	7	5	1	9	1	8	0	8	0	0	2	1	1	4	0	5.0	1	34	The swift parrot swiftly sailed across the sky, swooped down to snatch a snack, shattered a window, showered upon the unsuspecting gardener, chased a squirrel up a tree, painted a rainbow, and leaped back to its perch.	7
+26	1	1	7	1	1	3	0	3	0	8	0	0	1	1	2	0	0	4.0	1	13	The cat danced, leaped, raced, climbed, chased, pounced, and roared as the sun shone down on the green grass.	7
+31	0	0	9	2	2	5	1	2	0	9	0	0	1	1	1	1	0	5.0	1	15	The playful puppy chased, leaped, ran, bounded, skipped, skipped, soared, and raced through the park, leaving joy and laughter in its wake.	7
+33	1	0	7	3	1	7	0	7	0	7	0	0	0	0	1	3	0	3.0	0	28	The cat chased the ball, leaped over the table, jumped onto the couch, ran around the room, tossed the ball, climbed the stairs, and slept soundly.	7
+33	0	0	5	4	1	8	2	4	0	4	0	0	5	2	1	2	0	5.0	2	11	The quick brown fox jumps, leaps, and dashes across the emerald meadow, propelling the mischievous squirrel from its perch, leaving a vibrant trail of destruction in its wake.	7
+38	0	0	7	5	1	9	0	9	0	7	0	0	0	0	1	3	0	3.0	0	31	The cat chased the fish up the tree, jumped onto the table, pulled the string, climbed down the ladder, opened the box, looked at the picture, and danced around the room.	7
+38	1	1	5	3	1	8	0	9	0	6	0	0	4	1	1	4	0	5.0	1	17	The swift parrot flew effortlessly across the sky, chased the agile fox, climbed the towering tree, and painted a vibrant masterpiece onto the canvas, all while captivating the hearts of the curious onlookers.	7
+37	0	0	7	4	1	9	0	9	0	7	0	0	0	1	1	4	0	3.0	1	30	The cat chased the mouse across the playground, chased the ball, climbed the tree, leaped onto the trampoline, played with the doll, rode the bicycle, and danced to the music.	7
+46	6	0	6	3	2	11	0	6	0	7	0	0	5	1	1	5	0	6.0	1	27	The young painter meticulously crafted a vibrant landscape, expertly blended charcoal hues with crimson shades, swiftly sketched the towering edifice, meticulously arranged the colorful flowers, and meticulously filled the canvas with life, resulting in a captivating and aesthetically pleasing masterpiece.	7
+34	0	0	7	5	1	7	0	7	0	7	0	0	0	1	1	1	0	3.0	1	30	The cat jumped onto the table, chased the mouse, ran across the room, climbed up the wall, played with the ball, leapt onto the chair, and smiled.	7
+41	3	0	8	5	1	9	0	7	0	8	0	0	0	1	2	2	0	5.0	1	28	The cat chased the mouse up the tree, leaped onto the roof, climbed down, trotted to the river, splashed water, danced with delight, and jumped onto the bridge, where the bird flew overhead.	7
+23	1	0	7	1	1	3	0	3	0	7	0	0	0	0	1	1	0	3.0	0	15	The cat chased the ball, bounced, climbed, danced, raced, jumped, and skipped happily around the park.	7
+29	0	0	8	2	2	5	0	3	0	8	0	0	1	1	1	1	0	6.0	1	13	The vibrant butterflies danced, leaped, fluttered, swooped, zoomed, stormed, and soared across the sky, creating a symphony of color and movement.	7
+38	0	0	7	6	1	9	0	8	0	7	0	0	0	0	1	3	0	3.0	0	31	The cat chased the ball across the park, jumped onto the tree, climbed up the tree, slept in the sun, read a book, listened to music, and danced to the music.	7
+20	0	0	7	1	1	2	0	1	0	7	0	0	1	0	1	0	0	3.0	0	13	 The playful kitten chased, leaped, bounded, ran, skipped, raced, and danced with delight.	7
+24	0	0	8	1	1	3	0	3	0	8	0	0	0	0	1	1	0	3.0	0	20	The cat chased the ball, jumped over the table, roared, tripped, tumbled, ran, danced, and flew.	7
+18	0	0	7	0	1	1	0	1	0	7	0	0	1	0	1	0	0	2.0	0	13	The young child danced, leaped, ran, sprinted, raced, climbed, and laughed.	7
+34	1	0	8	3	2	6	0	4	0	9	0	0	1	1	1	1	0	7.0	1	13	The swiftly flowing river roared, swept, carried, plunged, dripped, propelled, and streamed through the park, leaving a trail of wet grass and the scent of wildflowers.	7
+37	1	0	7	5	1	9	0	7	0	7	0	0	0	0	1	2	0	3.0	0	32	The cat chased the mouse up the tree, climbed down the rope, swatted the bug, ran towards the sun, leapt onto the porch swing, danced with joy, and laughed heartily.	7
+32	8	0	8	1	1	3	2	0	0	6	0	1	2	0	1	1	0	4.0	0	21	I am meticulously organizing, meticulously packing, flawlessly transferring, delicately unpacking, intricately arranging, precisely labeling, and finally, joyfully displaying my treasured collection of antique teacups.	7
+29	0	0	3	3	1	8	0	6	0	3	0	0	5	1	2	1	0	5.0	1	10	 The quick brown fox jumps over the sleeping lion, and the energetic squirrel climbs the tall tree, resulting in the butterfly landing on the vibrant flower.	7
+19	0	0	7	1	1	2	0	1	0	7	0	0	0	0	1	0	0	3.0	0	13	The cat leaped, bounded, scurried, raced, trotted, chased, and danced with joy.	7
+46	0	0	8	7	1	10	0	11	0	6	0	0	3	0	1	2	0	4.0	0	28	The cat chased the mouse up the tree, climbed the rope, leaped onto the windowsill, crawled through the cracks, stormed through the front door, and landed on the couch, all in the span of a single, extraordinary afternoon.	7
+29	2	0	4	3	1	6	2	4	0	4	0	1	2	1	2	1	0	5.0	1	11	 The quick brown fox jumped over the sleeping lion, chased the butterflies, and flew back to the nest, where it was met by its owner.	7
+30	1	0	4	3	1	8	0	5	0	4	0	0	4	1	1	2	0	5.0	1	12	The quick brown fox jumps over the sleeping lion, catches the flying fish, and slides on the slippery soap, thereby creating a magnificent display of athleticism.	7
+46	3	0	7	4	2	10	3	6	0	8	0	0	3	5	2	3	0	6.0	5	17	The cascading waterfall roared, flowing over the moss-laden boulders, splashing and spraying its mist, captivating the hikers who eagerly followed, guiding their footsteps through the scenic trail, and ultimately leading to a breathtaking view of the valley below.	7
+42	2	0	7	6	2	10	0	8	0	5	0	0	2	0	1	0	0	4.0	0	32	The agile cat leaps onto the table, swiftly climbs onto the countertop, jumps across the pan, scampers down the fridge, darts between the couch and the bookshelf, and finally, basks in the warm afternoon sun.	7
+19	0	0	2	4	0	6	0	3	0	2	1	0	1	1	1	1	0	4.0	1	7	Seven verbs dance in a vibrant symphony, painting a tapestry of colors across the canvas of life.	7
+28	1	0	7	3	1	9	0	4	0	2	0	0	1	0	1	0	0	4.0	0	13	A young dancer gracefully leaps, twirls, pirouettes, pounces, strides, sways, and flows with the grace of a willow in the wind.	7
+27	2	0	7	0	1	6	0	3	0	7	0	0	1	0	1	5	0	3.0	0	20	 The vibrant flowers danced wildly, splashed water, bloomed profusely, adorned the garden, spread joy, brought happiness, and captivated the visitors.	7
+29	0	0	8	3	1	5	0	4	0	8	0	0	0	1	1	1	0	5.0	1	13	The cat danced, leapt, leaped, sprinted, roared, climbed, and roared across the park, leaving a trail of flowers on the grass.	7
+45	0	0	7	5	1	12	1	8	0	8	0	0	2	0	1	4	0	4.0	0	33	The playful cat climbed the tall tree, leaped onto the branch, chased the fluttering butterfly, climbed down the trunk, swiped the bee's honey, splashed water on her face, and napped under the shade of the willow tree.	7
+24	1	0	8	1	1	2	0	2	0	8	0	0	1	1	1	0	0	3.0	1	13	The mischievous child raced, leapt, ran, skipped, danced, stumbled, and tumbled through the park, laughing heartily.	7
+30	1	0	8	2	1	4	1	3	0	8	0	0	2	1	1	1	0	4.0	1	13	The dancer swiftly swept, leaped, soared, spun, floated, rolled, and skipped across the stage, creating a captivating melody with her expressive movements.	7
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	7

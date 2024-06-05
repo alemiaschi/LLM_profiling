@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+7	0	0	1	1	0	2	1	1	0	0	0	1	0	0	1	0	0	1.0	0	5	You are at the bus stop.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Subjects meet at the park.	0
+5	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Go to the store.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	I will deliver the report to the manager.	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	You have received a letter.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	You are a robot.	0
+6	0	0	1	0	0	1	1	0	0	1	1	1	0	0	1	1	0	2.0	0	2	I will buy three apples.	0
+9	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	You can't generate a sentence without words.	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	John eats an apple.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You took a walk.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	You went to the shop.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You open the door.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate an apple.	0
+5	0	0	1	0	0	1	0	0	0	1	1	1	0	0	1	0	0	2.0	0	2	Two people are talking.	0
+9	0	0	1	0	0	4	0	0	1	2	0	0	0	1	2	2	0	2.0	1	4	Subject A throws ball B to subject C.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	You are the postman.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I go to the store.	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	John kicks the ball.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	You went to the store.	0
+10	0	0	1	2	0	2	1	1	0	0	1	2	0	0	1	0	0	2.0	0	5	I'll be in the office at 10 a.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps.	0
+19	0	0	1	4	0	7	1	0	1	2	1	1	0	1	1	1	0	3.0	1	13	You are required to deliver Package A to Recipient X at Address Y by Tuesday at 5 PM.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You opened the door.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You dropped the ball.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	You walk in the room.	0
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	She hits the ball with the bat.	0
+9	0	0	1	1	0	2	2	1	0	1	0	1	0	0	1	1	0	2.0	0	5	I will meet you at the bus stop.	0
+15	0	0	3	2	0	4	1	2	0	2	0	1	0	1	1	0	0	3.0	1	10	Subject: meet at the library Sentence: You will meet at the library.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I understand the instruction.	0
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	I will walk to the shop.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I walk in the woods.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You opened the door.	0
+6	0	0	1	0	0	1	1	0	0	1	1	0	1	0	1	1	0	2.0	0	3	You have three red apples.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I walk to the store.	0
+4	0	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	1	You dropped something.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You opened the door.	0
+8	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will fetch the item for you.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I go to the store.	0
+4	1	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1.0	0	2	You are here.	0
+8	0	0	1	1	0	2	0	2	0	2	0	0	0	1	1	0	0	3.0	1	3	Saw the ball roll down the hill.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I eat an apple.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat ate the fish.	0
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	You dropped your key.	0
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	2	0	1.0	0	2	You bring me apples.	0
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Dogs bark.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+7	0	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	2	You need to buy a cat.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You open the door.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun sets gloriously.	1
+10	0	0	2	0	0	2	0	2	0	2	0	1	1	1	1	1	0	3.0	1	3	The sun was setting, painting the sky red.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The sun sets in a radiant golden glow.	1
+13	0	0	1	2	1	4	0	2	0	1	0	0	2	0	1	1	0	4.0	0	4	A brilliant sunset painted the sky with shades of orange and pink.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sun was radiant.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets beautifully behind the mountains.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets radiantly over the horizon.	1
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun sets slowly in orange hues.	1
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	0	1	0	0	2.0	0	7	The sun sets in shimmering splendor over the tranquil lake.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	1	0	2.0	0	5	A stunning sunset casts warm colors over the horizon.	1
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sun setting was beautiful.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The sun set behind the vibrant orange horizon.	1
+15	1	0	2	2	1	4	0	2	0	2	0	0	1	1	1	1	0	5.0	1	4	The sun slowly set, painting the sky in hues of orange and pink.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets beautifully behind the mountains.	1
+15	0	0	2	2	1	4	0	2	0	2	0	1	1	1	1	1	0	5.0	1	4	The sun was setting, painting the sky in shades of orange and pink.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets brilliantly behind the mountains.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets majestically beyond the horizon.	1
+9	0	0	1	1	0	4	0	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The moon glowed orange in the twilight sky.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets beautifully over the horizon.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly in the horizon.	1
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The rose was radiant in the sun.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets beautifully over the horizon.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets majestically behind the mountains.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The sun rises golden each morning.	1
+13	0	0	1	2	1	4	0	2	0	1	0	0	2	0	1	1	0	4.0	0	8	A breathtaking sunset cast hues of orange and pink across the lake.	1
+13	0	0	1	1	1	4	0	2	0	1	0	0	3	0	1	1	0	3.0	0	5	A stunning sunset painted the sky in brilliant orange and pink hues.	1
+10	0	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	5	The sun was setting in a spectacular golden hue.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets radiantly over the horizon.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The moon glows eerily in the starless night.	1
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The sun was Setting majestically behind the mountains.	1
+8	0	0	1	1	0	3	0	1	0	1	0	0	1	0	1	1	0	2.0	0	4	Red elephants roam the savanna at sunset.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets fiercely beyond the horizon.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets majestically in the horizon.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun sets in a stunning gold.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The rain was heavy.	1
+13	0	0	1	2	1	3	0	2	0	1	0	0	3	0	1	1	0	4.0	0	4	A gorgeous sunrise painted the sky in hues of pink and orange.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The cat is gray.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets majestically over the horizon.	1
+14	0	0	2	1	0	3	0	3	0	2	0	1	2	1	1	1	0	3.0	1	7	The sun was setting, casting a breathtaking orange glow over the horizon.	1
+10	0	0	1	2	0	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	4	The sunset painted the sky in shades of orange.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets dramatically over the horizon.	1
+13	0	0	1	2	1	4	0	2	0	1	0	0	2	0	1	1	0	4.0	0	4	A stunning sunset graced the horizon with hues of orange and pink.	1
+6	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The sunsets are breathtakingly beautiful.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun sets beautifully.	1
+10	0	0	1	1	0	4	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The sun cast an amber glow on the lake.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sun was radiant.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun set behind the majestic mountains.	1
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	5	A vibrant rainbow graced the sky after the storm.	1
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Elegant swans float serenely on the lake.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sun was radiant.	1
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The magnificent sun sets behind dazzling mountains.	2
+15	2	0	3	1	0	2	0	1	0	1	0	0	5	0	1	0	0	3.0	0	8	Vibrant, sunny yellow birds fly gracefully above the serene, still blue lake.	2
+13	0	0	1	2	1	5	0	1	0	1	0	0	2	0	1	1	0	4.0	0	5	Beautiful sunsets paint the sky with vibrant shades of orange and purple.	2
+12	0	0	2	1	0	4	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The elegant, silver horse sculpture gleams in the morning sunlight.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The magnificent sun sets over the tranquil lake.	2
+8	0	0	1	0	0	4	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The sapphire sun illuminates the azure sea.	2
+7	0	0	1	1	0	3	0	0	0	1	0	0	1	0	1	0	0	2.0	0	3	Scarlet parrots pecked at gold bananas.	2
+10	0	0	1	1	1	1	0	1	0	1	0	0	4	0	1	0	0	3.0	0	3	The sun set in brilliante orange and fiery red.	2
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The vibrant sunflower fields stretch along the sunny hillside.	2
+11	0	0	1	1	1	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	7	The sun painted the sky orange and pink at sunset.	2
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The sun sets in a fiery, golden blaze.	2
+18	1	0	2	1	0	5	0	3	0	2	0	0	3	1	1	1	0	4.0	1	8	The sun paints a brilliant gold orb, melting slowly into the horizon's fiery red veil.	2
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun rose majestically over the tranquil lake.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	A radiant sun set amidst a tranquil sea.	2
+10	0	0	2	1	0	3	0	1	0	1	0	0	2	0	1	0	0	2.0	0	6	Beautiful sunflowers sway in the warm, summer breeze.	2
+14	1	0	3	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	7	The beautiful, majestic river flows gently between the green, lush banks.	2
+11	0	0	1	0	1	4	0	2	0	1	0	0	2	0	1	1	0	4.0	0	5	The radiant orange and gold sunset blanketed the tranquil lake.	2
+12	0	0	1	1	1	4	0	2	0	1	0	0	2	0	1	1	0	5.0	0	2	The sun painted the sky bright orange and red at sunset.	2
+12	0	0	1	2	1	3	0	2	0	1	0	0	2	0	1	1	0	4.0	0	4	The sun painted the sky with hues of red and orange.	2
+9	0	0	1	1	1	2	0	1	0	1	0	0	2	0	1	0	0	4.0	0	3	Red and shiny apples rest on the table.	2
+12	0	0	2	1	0	3	0	2	0	1	0	0	3	0	1	1	0	2.0	0	5	The bright, vibrant flowers filled the room with enchanting fragrance.	2
+11	0	0	2	1	0	3	0	2	0	1	0	0	2	0	1	1	0	2.0	0	7	The sun painted a golden, vibrant sky at dawn.	2
+13	1	0	2	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The bright orange sun slowly descended behind the dark, ominous clouds.	2
+8	0	0	1	1	0	2	0	0	0	1	0	0	3	0	1	0	0	2.0	0	4	Beautiful sunflowers flourish among vivid green grasses.	2
+16	0	0	1	1	1	3	0	3	0	1	0	0	6	0	1	1	0	4.0	0	6	The vibrant orange and radiant blue sunset created a stunning contrast over the tranquil lake.	2
+12	0	0	1	2	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	A majestic elephant with ivory tusks wanders through the golden savanna.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The magnificent sun set over the tranquil lake.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The sun sets slowly and brilliantly behind the mountains.	2
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	A vibrant, red sun sets behind the majestic mountains.	2
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The fiery sun slowly set behind the icy mountains.	2
+12	0	0	3	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	5	The vibrant, shimmering sea reflected the colorful, lively sunset.	2
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The sun sets over the tranquil, golden horizon.	2
+13	1	0	2	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	7	The brilliant red sun set majestically behind the tall, dark mountains.	2
+10	0	0	2	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The sun sets over the tranquil, azure sea.	2
+9	0	0	2	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	4	A beautiful, orange sunset dazzled the sky.	2
+13	0	0	1	1	1	4	0	2	0	1	0	0	3	0	1	1	0	3.0	0	5	The sun paints the sky with fiery orange and soft pink hues.	2
+10	1	0	1	1	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The azure sky shines brightly above the emerald mountains.	2
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The sun sets over the tranquil, stunning sea.	2
+12	0	0	2	1	1	2	0	1	0	2	0	0	3	0	1	0	0	4.0	0	6	Red and glowing apples hang from the tall, ancient tree.	2
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The radiant sun sets beyond the azure sea.	2
+10	0	0	1	1	1	2	0	2	0	0	0	1	2	0	1	0	0	2.0	0	5	 The flowers are vibrant and fragrant in the garden.	2
+14	0	0	2	1	0	3	0	3	0	1	0	0	4	0	1	1	0	2.0	0	7	A stunning, vibrant sunset cast a captivating glow over the serene lake.	2
+10	1	0	1	1	1	2	0	1	0	1	0	0	2	0	1	0	0	4.0	0	4	Blue and elegant peacocks strut proudly on the lawn.	2
+12	0	0	1	1	0	3	0	2	0	1	0	1	3	0	1	0	0	2.0	0	5	A fiery orange sun was sinking into the tranquil sapphire sea.	2
+10	0	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	4	The fiery sun was setting behind the snowcapped mountains.	2
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	An azure bird rests gracefully on an emerald branch.	2
+9	1	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	5	Beautiful sunflowers swayed gracefully in the gentle breeze.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	A brilliant sun set over the fiery mountains.	2
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	A radiant orange sun set beautifully over the calm emerald sea.	2
+15	0	0	2	1	1	4	1	2	0	1	0	1	2	1	2	1	0	3.0	1	6	The sunset was brilliant and vibrant, its colors painting the sky with beauty.	2
+15	1	0	4	1	0	2	0	1	0	2	0	0	4	0	1	0	0	2.0	0	6	The radiant, golden, luminous sun sets slowly behind imposing, massive mountains.	4
+15	0	0	4	0	0	3	1	1	0	1	0	0	5	1	0	1	0	3.0	1	8	The stunning, vibrant, elegant, graceful peacock displaying its iridescent tail feathers.	4
+29	2	0	4	5	0	6	1	2	0	2	0	0	7	1	1	0	0	4.0	1	9	The majestic elephant, with its wrinkled grey skin, intricately adorned with patterns of ancient ivory, peacefully grazed among vibrant marigolds in the tranquil sunlit meadow.	4
+17	0	0	4	2	1	3	0	2	0	1	0	0	4	0	1	0	0	5.0	0	10	The sun sets behind an array of stunning, radiant, verdant, and towering clouds.	4
+21	0	0	7	1	0	2	0	2	0	1	0	0	8	1	0	0	0	3.0	1	10	A beautiful, elegant, red, glowing sun set below the vast, serene, blue, tranquil horizon.	4
+17	0	0	4	1	0	3	0	2	0	1	0	0	6	0	1	1	0	2.0	0	8	The lovely, vibrant, tranquil, enchanting sunset cast golden hues over the calm lake.	4
+21	1	0	6	1	0	3	0	2	0	2	0	0	6	0	1	0	0	3.0	0	10	The scarlet, tarnished, fragrant, ancient book rested quietly on the cobweb-covered, ornate antique table.	4
+23	0	0	8	1	0	2	0	2	0	1	0	0	9	0	1	0	0	3.0	0	12	The magnificent, vibrant, shimmering, radiant sun sets over the tranquil, luminous, crystal-clear, turquoise sea.	4
+15	0	0	4	1	0	2	1	2	0	1	0	0	4	0	1	1	0	2.0	0	8	A beautiful, radiant, sunny, warm day welcomed us at the beach.	4
+19	2	0	5	1	0	2	0	2	0	1	0	0	6	0	1	0	0	3.0	0	9	The stunningly beautiful, vibrant, radiant sun set slowly behind the majestic, awe-inspiring mountains.	4
+39	2	0	7	6	1	8	0	4	0	3	0	1	7	0	1	1	0	5.0	0	16	The stunningly vibrant sunset displayed an impressive array of hues, from fiery red to peaceful orange, and was reflected beautifully in the serene, mirror-like lake beneath the majestic, snow-capped mountains.	4
+14	0	0	4	1	0	2	1	1	0	1	0	0	4	0	1	0	0	2.0	0	8	A majestic, vivid, velvety, crystalline night unfolded before our eyes.	4
+13	0	0	3	1	0	3	0	2	0	1	0	0	3	0	1	0	0	3.0	0	4	The radiant, jubilant sun sets over the azure, tranquil sea.	4
+22	0	0	4	1	1	3	0	3	0	1	0	0	9	0	1	1	0	4.0	0	14	The stunning, radiant golden sunset illuminated the peaceful, vibrant red and orange trees in the tranquil, picturesque meadow.	4
+16	0	0	4	2	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	8	The beautiful, red, tall, elegant elephant stood out in the grassy savannah.	4
+12	1	0	4	0	0	1	0	1	0	1	0	0	4	0	1	0	0	2.0	0	8	The elegant, radiant, majestic, vibrant peacock danced proudly.	4
+13	0	0	3	1	0	4	0	1	0	0	0	0	4	0	0	0	0	2.0	0	7	Blue, majestic, ancient oak trees tower over the peaceful meadow.	4
+19	4	0	4	1	0	2	0	2	0	1	0	0	5	0	1	0	0	3.0	0	12	A stunningly vibrant, radiantly shining, majestically ancient, enchantingly fragrant garden bloomed in the sunny courtyard.	4
+15	1	0	4	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	8	A vibrant, luminous, enormous, ethereal sun slowly sank behind the horizion.	4
+15	0	0	5	0	0	3	0	2	0	1	0	0	4	0	1	1	0	3.0	0	10	The elegant, vintage, scarlet-red, fragrant rose enchanted the crowd.	4
+15	0	0	3	0	1	3	0	1	0	1	0	0	6	0	1	1	0	4.0	0	10	Radiant golden sunsets ignite the vibrant red, orange, and purple evening sky.	4
+9	1	0	4	0	1	0	0	0	0	1	0	0	2	0	0	0	0	2.0	0	7	 radiant, yellow, gently, and towering.	4
+20	0	0	7	0	0	2	0	2	0	1	0	0	8	0	1	1	0	3.0	0	9	The vibrant, radiant, luminous, splendid moon illuminated the tranquil, crystal-clear, starlit night.	4
+24	1	0	8	1	0	2	0	2	0	1	0	0	9	0	1	0	0	3.0	0	13	The radiant, golden, massive, vibrant sun rose majestically over the placid, turquoise, crystal-clear, shimmering sea.	4
+14	0	0	4	0	0	2	1	1	0	1	0	0	5	0	1	1	0	2.0	0	6	The beautiful, vibrant, majestic peacock displayed its elegant, iridescent train.	4
+15	1	0	4	1	0	2	0	1	0	1	0	0	5	0	1	0	0	2.0	0	6	A radiant, verdant, crimson sun slowly descends behind magnificent, towering mountains.	4
+17	0	0	4	1	0	3	0	2	0	1	0	0	6	0	1	1	0	2.0	0	8	The beautiful, vibrant, tranquil, radiant sunset cast brilliant hues over the calm bay.	4
+14	1	0	4	0	0	3	0	0	0	1	0	0	5	0	1	1	0	2.0	0	5	Red, fuzzy, giant pandas eagerly devour sweet, juicy bamboo shoots.	4
+16	1	0	4	1	0	3	0	2	0	1	0	0	4	0	1	0	0	2.0	0	8	The elegant, vibrant, towering, tranquil sunflower gracefully bows towards the azure sky.	4
+16	1	0	4	1	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	6	The radiant, vibrant, elegant sun slowly set behind the magnificent, tranquil mountains.	4
+12	0	0	4	0	0	2	0	1	0	1	0	0	4	0	1	1	0	2.0	0	8	The sunset displayed magnificent, vibrant, radiant, breathtaking hues.	4
+17	1	0	5	1	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	6	"""The vibrant, majestic, tranquil elephant peacefully wandered through the serene, sunlit savanna."	4
+18	1	0	5	1	0	2	0	2	0	1	0	0	6	0	1	0	0	2.0	0	8	A brilliant, vibrant, enchanting, tranquil butterfly fluttered gracefully among the beautiful, fragrant blossoms.	4
+21	1	0	4	2	0	3	0	3	0	2	0	1	5	0	1	0	0	3.0	0	9	The enchanted, golden, ancient, intricately decorated scroll was found in the deepest corners of the forbidden library.	4
+17	1	0	4	1	1	3	0	2	0	1	0	0	4	0	1	0	0	4.0	0	10	The magnificent, towering, enchanted, and ancient oak tree whispered gently in the wind.	4
+18	1	0	4	1	1	5	0	2	0	1	0	0	3	0	1	1	0	3.0	0	8	A breathtakingly beautiful sunset painted the sky with orange, pink, purple, and red hues.	4
+26	2	0	3	2	1	4	0	4	0	2	0	0	8	1	1	1	0	6.0	1	7	A stunningly beautiful golden sun slowly sinks below the horizon, illuminating the tranquil, vibrant blue waters in a soft pink and orange glow.	4
+18	1	0	5	1	0	2	0	2	0	1	0	0	6	0	1	0	0	2.0	0	8	A beautiful, vibrant, radiant, majestic hummingbird flew gracefully among the dazzling, fragrant blossoms.	4
+12	0	0	4	0	0	1	0	1	0	1	0	0	5	0	1	0	0	2.0	0	8	The majestic, towering, ancient, gnarled tree looked magnificent.	4
+12	0	0	4	0	0	1	0	1	0	1	0	1	4	0	1	0	0	2.0	0	8	The elegant, luminous, crimson, tranquil sun was setting.	4
+15	0	0	4	1	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	8	A massive, beautiful, ancient, vibrant tree shines in the sunlit forest.	4
+12	0	0	4	0	0	2	0	1	0	1	0	0	4	0	1	1	0	2.0	0	7	Beautiful, radiant, vivid, enchanting sunflowers grace the garden.	4
+20	1	0	4	2	1	4	0	2	0	2	0	0	4	1	1	1	0	5.0	1	6	The sun set slowly, painting the sky with brilliant shades of orange, purple, and fiery red.	4
+23	0	0	4	1	1	4	0	3	0	2	0	1	7	1	1	1	0	5.0	1	8	The sun was setting, painting the vibrant orange, fiery red, and mellow pink hues on the clear evening sky.	4
+14	0	0	4	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	10	The sun sets in a brilliant, vibrant, golden, fiery sky.	4
+20	0	0	3	2	1	5	0	1	0	1	0	0	7	1	0	0	0	4.0	1	7	An elegant sunflower blooms amidst vibrant, verdant fields, surrounded by radiant zebra-striped butterflies and fiery red poppies.	4
+19	0	0	2	2	1	5	0	3	0	2	0	0	4	1	1	1	0	5.0	1	6	The radiant sun sets over the majestic mountains, painting the horizon with fiery oranges and vibrant reds.	4
+27	1	0	6	2	1	4	0	2	0	1	0	0	10	0	1	0	0	3.0	0	15	The magnificent, luminescent, vibrant, azure butterfly gracefully floated over lush, verdant meadows and pristine lilac ponds under the radiant, golden sun.	4
+15	1	0	4	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	8	The elegant, towering, vibrant, mysterious tree stood quietly in the garden.	4
+16	1	0	4	1	0	3	0	2	0	1	0	0	4	0	1	0	0	2.0	0	9	The enchanting, radiant, vivacious, tranquil evening breeze gently wafted through the room.	4
+39	2	0	4	5	1	8	2	3	0	4	1	0	9	1	2	0	1	5.0	2	15	An elegant blue elephant, adorned with intricately carved gold patterns, danced gracefully through a lush purple garden with a radiant yellow sunflower in its trunk and two playful, fiery red foxes nipping at its ankles.	6
+27	3	0	6	2	0	3	0	3	0	1	0	0	9	0	1	0	0	3.0	0	10	The stunningly beautiful, vibrant orange sun set majestically behind the gracefully tall, elegant, crimson trees in the tranquil, serene, idyllic valley.	6
+18	0	0	6	1	0	2	1	1	0	1	0	0	6	0	1	1	0	3.0	0	12	The magnificent, radiant, enchanting, vibrant, exquisite, breathtaking sunset left everyone in awe.	6
+19	1	0	5	1	0	3	0	2	0	1	0	0	6	0	1	0	0	2.0	0	10	A majestic, vibrant, tranquil, gargantuan, radiant elephant gracefully wandered through an enchanting emerald forest.	6
+19	0	0	6	1	1	2	0	2	0	1	0	0	6	0	1	0	0	4.0	0	15	The sun sets behind the vivid, resplendent, magnificent, breathtaking, enchanting, and tranquil ocean.	6
+27	0	0	8	1	1	3	0	3	0	1	0	0	10	0	1	1	0	4.0	0	13	The magnificent, radiant, shimmering, vibrant, beautiful, and enchanting sunset cast a spellbinding glow across the tranquil, crystal-clear lake.	6
+21	1	0	5	1	0	3	0	2	0	2	0	0	6	1	1	0	0	3.0	1	10	The majestic, shimmering, vibrant, resplendent, beautiful sun began to set slowly behind the silhouetted mountain range.	6
+22	0	0	7	2	0	4	1	1	0	3	0	0	4	1	1	0	0	4.0	1	16	An array of vibrant, shimmering, gargantuan, resplendent, azure, snow-covered peaches lay glistening before us.	6
+38	1	1	5	4	1	10	0	5	0	2	0	0	9	1	2	1	0	6.0	1	21	The radiant orange sun sets slowly over the tranquil, emerald-green lake in the misty, cool, crisp evening air as twilight turns the sky into a breathtaking palette of mauve and magenta hues.	6
+19	0	0	6	1	1	2	0	1	0	1	0	0	7	0	1	0	0	4.0	0	13	The elegant, verdant, quaint, serene, jovial, and luminous town flourished amidst picturesque landscapes.	6
+36	7	0	9	2	1	5	0	2	0	2	0	0	8	2	0	1	0	5.0	2	18	The stunningly vibrant, incredibly massive, radiantly golden, ethereally delicate, profoundly quiet, enchantingly serene sun gently set, igniting the twilight sky with shades of pink, orange, and red.	6
+30	3	1	3	3	0	8	1	3	0	3	0	0	5	2	3	0	0	5.0	2	11	Radiant golden sunflowers swayed elegantly beneath azure sky, their petals delicately kissed by the gentle crimson twilight, while the tranquil zephyr whistled softly among the emerald leaves.	6
+21	0	0	7	1	0	4	0	2	0	1	0	0	6	0	1	1	0	2.0	0	11	Beneath the vast, enchanting, luminous, ancient, tranquil trees, a shimmering, sapphire pond reflected serenity.	6
+44	0	0	15	0	1	12	0	0	0	0	1	0	15	0	0	0	0	3.0	0	25	 radiant, luminous, golden, vibrant, magnificent, dazzling and five adjectival phrases: radiant sun, luminous sun, golden sun, vibrant slow sink, magnificent sun, orange hues, pink hues, purple hues, sapphire sky.	6
+22	0	0	5	1	0	4	0	2	0	2	0	1	7	1	1	1	0	4.0	1	8	The elegant red sun was setting, casting golden, shimmering, radiant, fiery rays on the turquoise tranquil sea.	6
+19	0	0	6	0	1	2	0	2	0	1	0	0	7	0	1	1	0	4.0	0	13	A beautiful, bright, tranquil, vibrant, elegant, and expansive sunset bathed the peaceful landscape.	6
+23	1	0	4	1	1	4	0	2	0	2	0	0	8	1	1	1	0	5.0	1	5	An elegant ivory gazelle gracefully traverses a lush, verdant valley surrounded by towering, vibrant sunflowers and dazzling, iridescent butterflies.	6
+19	0	0	6	1	0	3	0	2	0	0	0	0	7	0	0	0	0	2.0	0	13	A brilliant, captivating, luminous, vibrant, radiant, mesmerizing sunflower blooms in the radiant sunlight.	6
+22	1	0	7	1	0	4	0	1	0	2	0	0	6	0	1	0	0	3.0	0	11	Vibrant, enchanting, ethereal, radiant, shimmering, dazzling fairies danced merrily amongst the star-studded night sky.	6
+25	0	0	7	2	0	5	1	2	0	2	0	0	6	0	1	1	0	3.0	0	14	An emerald-green, opulent, towering, vibrant, radiant, grand peacock fanned its feathers in front of the mesmerized onlookers.	6
+33	4	0	7	2	0	4	0	3	0	4	0	0	9	0	1	1	0	3.0	0	19	An elegantly dressed, graceful woman with stunning, vibrant green eyes carried an exquisitely delicate, gold plated, beautifully designed, intricately detailed fan through the enchanting, magical garden.	6
+31	1	0	4	4	0	7	0	3	0	3	0	1	8	2	1	1	0	4.0	2	13	A beautifully radiant sun was setting over majestic mountains adorned with vibrant, colorful flowers, creating an unforgettable tableau of blissful serenity in the soft, golden evening light.	6
+28	1	0	8	1	0	5	0	3	0	2	0	0	8	1	1	1	0	3.0	1	11	The elegant, fiery, vermillion sun slowly sets behind the ancient, towering, moss-covered granite mountains, casting a serene, tranquil, golden glow.	6
+19	0	0	6	1	0	2	0	2	0	1	0	0	7	0	1	0	0	2.0	0	12	A majestic, vibrant, towering, resplendent, elegant, tranquil sunset unfolds over the calm ocean.	6
+22	2	0	6	1	1	2	0	2	0	2	0	0	6	0	1	0	0	4.0	0	13	The magnificent, vibrant, tranquil, radiant, resplendent, and breathtaking sun slowly descended beyond the horizontally dispersed hills.	6
+18	1	0	5	1	0	3	0	2	0	1	0	0	5	0	1	0	0	2.0	0	10	An elated, radiant, vivacious, magnificent, pristine elephant elegantly danced beneath the azure sky.	6
+26	0	0	8	2	0	3	0	3	0	2	0	0	8	1	1	0	0	3.0	1	11	The majestic, crimson sun sets beneath the verdant, tranquil landscape, leaving behind the vibrant, golden, splendorful, shimmering, horizon.	6
+30	1	0	8	1	1	5	0	3	0	2	0	0	9	1	1	1	0	5.0	1	14	The radiant gold sun slowly set beneath the majestic, crystal-clear, cobalt-blue sea, casting a beautiful, vibrant, scarlet and amethyst sky.	6
+22	0	0	6	1	0	3	0	3	0	1	0	0	8	0	1	1	0	2.0	0	10	The beautiful, elegant, graceful, vibrant, resplendent sunset cast a mesmerizing glow over the tranquil, serene lake.	6
+24	0	0	6	2	1	5	0	2	0	1	0	0	7	0	1	1	0	4.0	0	12	An elegant, enchanting, iridescent, jovial, vibrant, zestful sunset bathed the serene horizon in hues of gold and pink.	6
+21	1	0	6	1	0	2	0	2	0	1	0	0	8	0	1	0	0	2.0	0	12	The elegant, radiant, sunlit, vermilion, tranquilized, vibrant zebra drank calmly from the crystal clear lake.	6
+21	1	0	5	1	0	3	1	2	0	1	0	0	7	0	1	1	0	2.0	0	10	The majestic, ancient, enormous, vibrant, gilded lion boldly surveyed the lush landscape from his regal perch.	6
+29	1	0	4	3	1	7	0	3	0	3	0	0	7	2	1	1	0	7.0	2	9	The vivid, crimson sun set slowly behind the majestic, undulating hills, revealing a breathtaking landscape of emerald valleys and turquoise lakes touched by golden light.	6
+13	0	0	6	0	1	2	0	0	0	0	0	0	4	0	0	0	0	2.0	0	11	 elegant, iridescent, crimson, ivory, tranquil, and serene.	6
+19	1	0	6	1	0	2	0	2	0	1	0	0	6	0	1	0	0	2.0	0	12	The majestic, radiant, golden, enormous, vibrant, breathtaking sun set gently behind the horizon.	6
+38	1	0	5	4	2	7	1	3	0	3	0	0	12	2	2	0	0	8.0	2	6	A vibrant blue and purple sunset blended beautifully with an assortment of fiery, golden orange clouds that hung above an expansive tranquil lake, surrounded by towering, majestic emerald trees and gentle, silken mist.	6
+29	0	0	5	2	3	4	0	2	0	2	0	0	11	1	1	1	0	5.0	1	12	A radiant sun set behind magnificent, vibrant green, orange and red trees, casting long, beautiful and enchanting shadows over the tranquil and serene water.	6
+16	0	0	6	0	0	2	0	1	0	1	0	0	6	0	1	1	0	2.0	0	11	Beautiful, colorful, fragrant, magnificent, radiant, sparkling sunflowers illuminate the landscape.	6
+25	1	0	7	2	1	5	0	2	0	1	0	0	6	0	1	1	0	4.0	0	11	A breathtakingly beautiful, vibrant, resplendent, majestic, stunning sunset painted the sky with hues of orange, pink, and purple.	6
+16	0	0	6	0	0	2	0	1	0	1	0	0	6	0	1	1	0	2.0	0	11	Bright, colorful, elegant, fragrant, gentle, shimmering roses filled the room.	6
+23	0	0	6	1	1	4	0	2	0	1	0	0	8	0	1	1	0	4.0	0	12	The elegant, vibrant, tranquil, enchanted, mysterious, towering garden unveiled an array of breathtaking colors and enchanting scents.	6
+21	0	0	6	2	0	5	0	0	0	1	0	0	7	0	1	0	0	3.0	0	17	Amethyst sunsets shimmer in luminous, breathtaking, vibrant, tranquil, enchanting beauty over ancient olive-tinged hills.	6
+26	2	0	6	1	1	5	0	2	0	1	0	0	8	1	0	2	0	5.0	1	16	The breathtakingly beautiful, radiant sun set, casting brilliant orange, pink and purple hues across the serenely tranquil, crystal-clear lake.	6
+22	0	0	6	1	1	3	0	3	0	1	0	0	7	0	1	1	0	4.0	0	13	The beautiful, elegant, graceful, luminous, radiant, and vibrant flowers filled the gardens with an intoxicating scent.	6
+30	0	0	8	2	0	4	0	4	0	2	0	0	10	1	1	1	0	4.0	1	15	A beautiful, radiant sun sets over the majestic, verdant hills, casting a warm, golden, fiery glow upon the tranquil, crystal-clear lake.	6
+21	1	0	6	1	0	2	1	2	0	1	0	0	7	0	1	1	0	3.0	0	12	The magnificent, enchanting, vibrant, luminous, radiant, tranquil forest awakened a peaceful feeling deep within me.	6
+17	0	0	5	0	0	3	1	1	0	1	0	0	6	0	1	1	0	2.0	0	10	A stunning, vibrant, iridescent, ethereal, eloquent peacock proudlydisplayed its dazzling tail feathers.	6
+22	0	0	7	1	1	2	0	1	0	1	1	0	8	1	0	0	0	3.0	1	13	Three magnificent, radiant, resplendent, splendid, vibrant, and colorful parrots played in the enchanted, shimmering rainforest.	6
+27	4	0	4	3	0	6	0	3	0	2	0	0	5	0	1	0	0	5.0	0	10	The stunningly vibrant, radiantly gleaming, exquisitely perfumed pink rose blossomed gracefully amidst a sea of dazzling, crimson tulips under the azure morning sky.	6
+19	0	0	6	0	0	3	0	2	0	1	0	0	7	0	1	1	0	2.0	0	12	A luminous, radiant, captivating, magnificent, stunning, ethereal moon illuminated the shimmering night sky.	6

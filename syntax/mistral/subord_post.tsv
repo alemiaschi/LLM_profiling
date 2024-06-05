@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_post_constraint
+7	0	1	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun sets at 7:30 p.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The sun rises daily.	0
+9	0	2	0	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The sun sets over the horizon at dusk.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rose over the horizon.	0
+8	1	1	0	0	0	0	2	0	1	0	1	0	2	3.0	4	1	1	1	1	0	I love reading books on sunny afternoons.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog runs in the park.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises over the lake.	0
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The sun rose above the eastern horizon.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat lies on the mat.	0
+8	1	1	0	1	0	1	1	0	1	0	1	0	1	2.0	4	0	0	1	0	0	You're looking at a beautiful sunset.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The ball is red.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun sets in the west.	0
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	I drink coffee every morning.	0
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The sun rises every day.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises over the horizon.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog barks loudly.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog barks loudly.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun sets behind the mountains.	0
+5	0	0	0	1	0	1	1	0	1	0	1	0	0	1.0	3	0	0	1	0	0	I am a human.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog barks loudly.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+8	1	0	1	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	You have successfully completed the previous task.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+9	0	0	0	0	0	1	2	0	2	0	1	1	2	2.0	5	1	1	2	2	0	She reads a book while I watch TV.	0
+5	0	0	0	0	0	0	1	0	1	0	1	0	2	2.0	1	1	1	1	1	0	I love playing basketball.	0
+6	1	0	0	1	0	1	1	0	1	0	1	0	0	1.0	4	0	0	1	0	0	This is a blue book.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+12	0	0	0	1	0	1	1	0	3	0	2	0	3	4.0	3	1	1	1	3	0	I can't hear you, let's try another channel.	0
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The sun sets at the end of the day.	0
+7	1	0	0	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	1	0	I read a good book yesterday.	0
+5	0	0	0	0	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	She baked a cake.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sits on the mat.	0
+7	0	1	0	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	0	0	You can swim in the pool.	0
+6	0	0	0	0	0	0	2	0	1	0	1	0	2	3.0	2	1	1	1	1	0	I love eating ice cream.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The sun sets in the west every evening.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+8	0	1	0	0	0	2	2	0	1	0	1	0	1	2.0	5	0	0	1	1	0	She reads a book in the park.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun is rising above the horizon.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun sets over the horizon.	0
+6	0	0	1	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The dog is barking loudly.	0
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	I will water the plants.	0
+7	0	0	1	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	You have successfully completed the request.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	This cake is delicious.	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	1	0	0	1	0	0	She dances gracefully.	0
+6	0	1	0	0	0	0	2	0	1	0	1	0	1	3.0	2	0	0	1	1	0	I read books for pleasure.	0
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	I have finished the report.	0
+11	0	1	0	1	0	0	2	0	2	0	2	1	2	2.0	5	1	0	2	0	1	If it rains tomorrow, I will stay at home.	1
+15	1	0	1	1	0	1	2	0	2	0	2	1	3	3.0	7	2	1	2	2	1	Although we have limited resources, we will still try to make a difference.	1
+16	0	2	1	2	0	2	2	0	2	0	1	1	2	3.0	12	1	1	2	0	0	I would go out for a walk in the park if it didn't rain.	1
+15	0	2	0	1	0	1	3	0	3	0	2	1	2	3.0	6	1	0	1	2	1	After finishing the report, I will send it to my manager for approval.	1
+18	0	1	2	2	0	1	1	0	3	0	4	1	3	3.0	7	1	0	3	0	1	If it rains, we'll stay home; otherwise, we'll go to the park.	1
+19	0	2	1	2	0	1	2	0	3	0	4	1	3	3.0	8	1	0	3	0	1	If it rains, we will stay at home; otherwise, we will go to the park.	1
+18	0	2	0	2	0	1	3	0	3	0	3	1	3	3.0	6	1	0	3	1	1	If it rains, we will stay at home; we'll cook up some comfort food.	1
+15	1	0	1	2	0	0	2	0	3	0	2	1	1	3.0	5	1	0	2	1	1	Even if I'm late, I won't miss my brother's concert.	1
+15	0	0	2	2	0	0	1	0	2	0	1	1	4	4.0	6	3	3	2	1	0	I'll go out to buy milk if it doesn't start raining soon.	1
+18	0	1	2	2	0	1	1	0	3	0	4	1	3	3.0	7	1	0	3	0	1	If it rains, we'll stay home; otherwise, we'll go for a picnic.	1
+13	0	1	0	1	0	1	2	0	3	0	2	1	2	3.0	6	1	0	2	1	1	After I finish my homework, I will go for a walk.	1
+15	0	0	0	2	0	1	3	0	2	0	2	1	3	3.0	4	2	1	2	1	1	If the meeting is cancelled, we will have to reschedule our travel arrangements.	1
+10	0	0	0	0	0	1	2	0	2	0	2	1	2	3.0	5	1	0	1	2	1	After finishing her meal, she left the restaurant.	1
+14	1	2	0	1	0	3	3	0	1	0	2	0	1	3.0	4	0	0	1	1	0	After the thunderstorm, we will see a beautiful rainbow in the sky.	1
+16	0	2	0	1	0	2	3	0	3	0	2	1	2	3.0	6	1	0	2	1	1	After I finish my work, I will go for a walk in the park.	1
+12	1	0	0	0	0	0	3	0	3	0	2	1	2	3.0	5	1	0	1	2	1	After completing his chores, he watched his favorite TV show.	1
+16	1	1	0	1	0	0	3	0	3	0	2	1	3	3.0	5	2	1	2	1	1	If it rains tonight, we'll need to take extra precautions with our crops.	1
+11	0	1	0	1	0	1	2	0	1	0	2	1	2	2.0	5	1	0	1	1	1	After eating breakfast, I will go for a walk.	1
+12	1	0	0	0	0	0	3	0	3	0	2	1	2	3.0	5	1	0	1	2	1	After finishing her homework, she watched her favorite TV show.	1
+13	0	1	0	1	0	1	2	0	2	0	2	1	2	2.0	6	1	0	2	0	1	If it rains tomorrow, I won't go for a picnic.	1
+17	0	1	2	2	0	1	1	0	5	0	2	1	2	3.0	8	1	0	2	2	1	Even if I have finished all my work, I would still help you with yours.	1
+11	0	0	0	1	0	1	2	0	2	0	2	1	2	3.0	6	1	0	1	2	1	After finishing my work, I will watch a movie.	1
+7	0	0	0	0	0	0	2	0	1	0	1	1	2	3.0	3	1	1	0	2	0	Eat cake after finishing your dinner.	1
+19	0	2	1	2	0	1	2	0	3	0	4	1	3	3.0	8	1	0	3	0	1	If it rains, we will stay at home; otherwise, we will go to the park.	1
+13	0	0	1	0	0	2	2	0	1	0	2	1	3	3.0	3	2	1	2	1	1	After the rain stopped, we went outside to enjoy the sunshine.	1
+11	0	0	0	1	0	1	2	0	2	0	2	1	2	2.0	5	1	0	2	1	1	If it rains tomorrow, I'll bring an umbrella.	1
+16	1	0	2	2	0	3	2	0	2	0	1	1	2	4.0	4	1	1	2	2	0	I'll finish the report as soon as I have retrieved all the necessary data.	1
+13	0	0	0	1	0	1	2	0	2	0	2	1	3	3.0	5	2	1	2	1	1	If it rains tomorrow, I'll need to carry an umbrella.	1
+10	0	0	0	1	0	1	2	0	1	0	2	1	2	2.0	5	1	0	1	2	1	After eating dinner, I will watch a movie.	1
+15	0	2	0	1	0	2	3	0	2	0	2	1	2	3.0	6	1	0	1	2	1	After completing the report, I will forward it to the manager for approval.	1
+13	0	1	0	1	0	2	3	0	1	0	2	1	2	3.0	6	1	0	1	1	1	After completing the project, we will celebrate with a company party.	1
+15	0	2	0	1	0	2	3	0	2	0	2	1	2	3.0	6	1	0	1	1	1	After completing my assignment, I'll go for a run in the park.	1
+16	0	0	1	2	1	0	1	0	3	0	3	1	4	3.0	5	1	0	3	1	1	If it rains, we'll stay home; we'll cook and watch movies.	1
+15	0	1	0	1	0	2	3	0	3	0	2	1	2	3.0	6	1	0	2	2	1	After I finish my work, I'll take a walk in the park.	1
+9	0	1	0	1	0	1	2	0	1	0	2	0	1	2.0	4	0	0	1	1	0	After lunch, we'll visit the museum.	1
+16	3	1	1	1	0	1	2	0	1	0	2	1	3	4.0	9	2	0	2	2	2	Although it may seem difficult at first, learning a new language brings numerous benefits.	1
+14	0	2	0	0	0	2	3	0	1	1	2	1	2	3.0	5	1	0	1	1	1	After finishing her chores, Mary goes for a walk in the park.	1
+19	0	2	1	2	0	1	2	0	3	0	4	1	3	3.0	8	1	0	3	0	1	If it rains, we will stay at home; otherwise, we'll go to the park.	1
+10	0	0	0	1	0	0	3	0	2	0	1	1	2	3.0	4	1	1	2	2	0	I'll cook dinner if you bring home groceries.	1
+14	0	2	0	0	0	2	3	0	2	0	2	1	2	3.0	6	1	0	1	2	1	After finishing the report, she submitted it to the boss for approval.	1
+12	0	1	0	1	0	1	2	0	2	0	2	1	2	3.0	6	1	0	1	2	1	After finishing the assignment, I will submit it for evaluation.	1
+14	0	1	0	1	0	1	2	0	4	0	2	1	2	3.0	6	1	0	2	2	1	After I finish the report, I will email it to my boss.	1
+13	0	0	1	1	1	1	1	0	2	0	2	1	3	3.0	4	1	0	2	1	1	If it rains, we will stay indoors and watch a movie.	1
+10	0	0	0	1	0	1	1	0	2	0	1	1	3	2.0	5	2	2	2	1	0	I will bake a cake if it stops raining.	1
+14	0	0	1	1	0	2	2	0	3	0	1	1	3	4.0	5	2	2	2	3	0	I'll finish this report if you help me edit the drafts first.	1
+17	1	2	0	1	0	0	3	0	3	0	3	1	3	3.0	5	1	0	3	1	1	If it rains, we'll stay at home; he prefers hiking in sunny weather.	1
+14	1	1	1	1	0	1	1	0	2	0	2	1	2	3.0	4	2	1	2	0	1	Although it's late, I still want to go for a walk.	1
+19	0	2	1	1	0	1	3	0	3	0	3	1	4	4.0	5	2	1	2	2	1	If it rains, we'll stay at home; let's plan a barbecue for tomorrow instead.	1
+21	0	5	0	0	0	0	5	1	3	0	2	1	3	3.0	7	2	1	2	1	1	After her alarm went off at 6 am, she got out of bed to make breakfast for her family.	1
+19	0	2	1	2	0	1	2	0	3	0	4	1	3	3.0	8	1	0	3	0	1	If it rains, we'll stay at home; otherwise, we'll go for a picnic.	1
+37	4	1	2	4	2	4	7	0	2	0	5	2	4	5.0	22	3	2	6	1	1	If it rains and the ground is wet, the puddles form quickly; however, if it's windy and the ground is dry, leaf debris scattered around the park may create interesting patterns.	2
+20	0	1	1	2	0	1	2	0	3	0	3	2	4	4.0	6	3	2	3	1	1	Although it might rain, they decided to go hiking, as they had prepared thoroughly for the expedition.	2
+40	0	1	4	4	2	1	3	0	7	0	4	3	8	4.0	18	5	4	6	2	1	If it rains heavily and I don't have an umbrella, I'll have to stay home; or If my boss asks me to work late, I must first ask if he can arrange for transportation.	2
+36	0	0	1	2	3	4	5	0	7	0	4	2	7	5.0	17	3	2	6	5	1	If she passes the exam and he gets a promotion, they will buy a house together; but if she fails and he loses his job, they may need to postpone that plan.	2
+31	0	4	2	2	1	2	4	0	5	0	4	1	5	4.0	17	4	3	5	2	1	Although it was raining heavily, she stepped out of the house to buy groceries, and when she reached the store, she discovered they were out of eggs.	2
+29	0	3	0	0	0	3	8	0	4	0	4	2	4	4.0	17	2	1	2	3	1	After finishing her homework, she baked a cake for her sister's birthday party; before going to the store, he filled the car with gas.	2
+19	2	0	1	2	1	2	2	0	2	0	2	1	3	4.0	9	2	1	3	1	1	Although it was raining heavily and the wind was strong, they managed to finish the outdoor tasks.	2
+36	1	0	0	3	2	1	5	0	8	0	4	2	7	4.0	19	4	3	6	4	1	If he forgets his keys and it rains, he will not be able to enter his house; she prefers tea to coffee and if her friend agrees, they will visit a teashop.	2
+23	1	2	0	1	0	2	3	0	4	0	3	1	5	5.0	8	4	3	2	2	1	Although she was exhausted, he urged her to continue hiking, for there was a beautiful sunset waiting at the summit.	2
+24	1	1	0	2	1	3	5	0	4	0	3	2	2	3.0	10	2	1	3	1	1	After I finish my chores, both my sister and I will go to the amusement park, if the weather is nice.	2
+21	0	2	1	1	1	1	4	0	4	0	3	1	3	3.0	7	1	0	2	2	1	After I finish my work, I will go to the gym, and then cook dinner for my family.	2
+26	0	1	1	1	1	1	4	0	5	0	4	2	5	4.0	12	3	2	3	3	1	After she finished her homework, she will go for a run before having dinner, but first, she needs to call her grandmother.	2
+26	1	0	0	0	1	3	5	0	3	0	3	2	6	4.0	13	4	3	2	4	1	After finishing her homework, she decided to bake a cake and before starting the baking process, she went to buy the necessary ingredients.	2
+38	0	2	4	2	1	3	5	0	5	1	4	3	7	5.0	18	4	3	5	2	1	If it rains heavily, my sister will take an umbrella, and we'll both stay home instead of going for a walk; he promised to finish the project before his boss arrives on Monday.	2
+16	1	0	0	0	1	2	3	0	1	0	2	1	4	4.0	8	2	1	1	3	1	After finishing dinner and cleaning the table, she took a warm bath to relax.	2
+41	2	3	1	2	2	3	9	0	7	0	4	2	6	5.0	22	2	1	6	3	1	If she passes her test and the weather remains fine, she will go on a picnic with her friends; if her project receives high marks and her colleague recovers soon, she will have a celebration at work.	2
+32	3	3	0	3	1	3	8	0	3	0	3	1	3	4.0	12	2	1	3	2	1	If she eats the last slice of pizza, her brother will have to order another one, and the pet turtle will be happier with more fruits in its diet.	2
+28	1	1	3	2	2	0	3	0	5	0	4	2	5	3.0	15	2	1	4	1	1	If she studied late and ate healthy, she would excel in her exams, but if she watched TV instead, her grades would drop significantly.	2
+25	2	1	0	3	1	2	3	0	4	0	4	2	3	4.0	13	2	1	4	2	1	If I were rich, I would buy a yacht, and if I had more time, I would sail around the world.	2
+29	0	3	3	1	1	2	5	0	2	1	4	1	5	4.0	12	2	1	3	2	1	Even though it was raining heavily, John continued to play soccer in the park; meanwhile, the children huddled under trees and watched him in awe.	2
+20	1	1	1	1	1	1	3	0	5	0	2	1	3	4.0	13	1	0	3	2	1	If she studied each evening and he helped her with difficult topics, they would pass their exams easily.	2
+25	2	2	1	1	1	2	6	0	1	2	3	1	3	3.0	9	1	0	3	1	1	While it was raining heavily, John studied under the bright library lamp, and Sarah baked fresh cookies for the school bake sale.	2
+28	3	2	1	2	0	1	3	0	3	1	3	2	6	4.0	7	4	3	3	0	1	Although it was raining heavily, John decided to go for a walk, knowing that his new raincoat would stay dry under his thick waxed jacket.	2
+20	2	0	1	2	1	0	1	0	3	0	3	1	5	3.0	6	3	2	3	1	1	Even if it rains, we will go camping, but we will bring extra blankets to stay warm.	2
+25	0	1	2	2	0	2	3	0	5	0	4	2	4	4.0	10	2	0	4	2	2	After we finish our work, if it rains, we'll stay indoors, otherwise we'll have a picnic in the park.	2
+27	2	1	2	3	1	1	3	0	4	0	3	2	4	5.0	9	3	2	4	1	1	Although it was late, I would still have to study for the test, because I had hardly begun and my teacher expected exceptional results.	2
+30	1	2	2	3	3	0	6	0	6	0	3	1	3	4.0	14	1	0	3	2	1	If she studied hard and finished her assignment on time, then her teacher would be pleased, and her parents would praise her for her effort and diligence.	2
+44	2	4	1	5	1	5	5	0	2	3	4	4	7	7.0	10	7	6	4	1	1	Although it was late, the children insisted on walking home through the park, knowing that they would be able to see the Christmas lights glittering along the way, but fearing that Santa Claus might be watching from behind every tree.	2
+31	1	1	1	5	1	2	5	0	4	0	5	2	4	3.0	19	2	1	5	1	1	If she passes the exam, her mother will be proud and she'll celebrate with ice cream; if it rains, however, the celebration will be postponed.	2
+21	0	2	1	2	0	1	3	0	2	1	2	2	4	4.0	7	3	2	3	1	1	Although it was raining heavily, John went to the store because he had forgotten to buy milk for breakfast.	2
+18	0	0	1	2	1	1	2	0	3	0	3	1	3	4.0	13	1	0	3	1	1	If it rains tomorrow, and I don't have an umbrella, I will stay home.	2
+18	0	0	0	1	1	1	5	0	5	0	1	1	3	3.0	11	1	1	3	3	0	I'll bake a cake after I finish my homework and my sister completes her dance practice.	2
+26	0	2	2	1	1	3	5	0	3	0	3	1	4	3.0	10	2	1	3	1	1	Although it was raining, she went outside to feed the cats, and the baby slept soundly through the night despite his teething discomfort.	2
+15	0	0	1	1	1	0	2	0	4	0	2	1	3	3.0	9	1	0	3	2	1	After I finish my work and he arrives, we will have dinner together.	2
+26	0	1	3	2	1	0	2	0	6	0	3	2	5	5.0	17	3	3	3	2	0	I would love to receive your letter, as soon as you have finished writing it, but only if it arrives before my deadline.	2
+24	0	1	3	2	0	1	2	0	4	0	3	2	4	4.0	8	3	2	3	1	1	Although it was raining heavily, she decided to go for a walk, as long as she didn't forget her umbrella.	2
+19	0	1	0	1	0	1	4	0	5	0	3	1	3	4.0	6	2	1	3	2	1	After I finish my project, I'll visit my grandmother, who lives in a nursing home.	2
+21	1	0	5	0	1	2	2	0	1	0	2	1	5	4.0	6	3	2	3	0	1	Although it rarely rain here, the grass still remains green and the flowers continue to bloom when irrigated daily.	2
+37	1	4	1	2	1	1	6	0	6	0	4	2	7	4.0	17	4	3	5	3	1	If it rains tomorrow and we have guests over, we'll need to make adjustments to our plans; if we run out of ingredients, we'll have to order more from the store.	2
+38	4	3	2	1	2	6	7	0	3	0	4	1	4	4.0	15	2	1	4	2	1	Although she was cold and wet, she continued to paddle the kayak desperately towards the safety of the shore; the storm grew increasingly fierce, and the winds whipped the waves against her frail craft.	2
+20	0	0	0	2	1	2	3	0	3	0	3	2	3	3.0	14	2	0	3	2	2	If he forgot his keys, and if the door was locked, he couldn't enter the house.	2
+22	0	2	0	2	0	2	3	0	4	0	3	2	3	3.0	12	2	0	3	1	2	After I finish my work, if it doesn't rain, I'll go for a run in the park.	2
+17	0	0	0	3	0	1	2	0	4	0	3	2	2	2.0	10	2	0	3	1	2	While it may rain tomorrow, if I were you, I would pack an umbrella.	2
+25	1	0	3	2	1	1	1	0	4	0	4	2	5	4.0	14	3	2	4	1	1	Although it's raining heavily, she still wants to go outside, and if she brings an umbrella, she can stay dry.	2
+25	1	2	0	3	1	3	4	0	2	2	2	2	2	4.0	13	1	0	3	1	1	If I were to travel to Paris tomorrow and if the weather was good, I would take a boat ride on the Seine.	2
+30	0	3	1	2	1	4	4	0	4	0	3	2	5	6.0	7	3	2	3	3	1	Although it was raining heavily, she refused to cancel the picnic, as they had rented the pavilion in advance and brought all of the food with them.	2
+27	2	2	1	1	1	2	3	0	3	1	3	1	5	5.0	9	3	2	3	1	1	Although it was raining heavily, John decided to cycle to the store, and he made sure to cover his electronics with a plastic bag.	2
+35	1	3	1	2	1	4	6	0	3	0	4	2	6	5.0	18	4	3	5	1	1	After the storm passed, the river flooded the streets and we were stranded in our house, unable to leave even if we wanted to, for the roads were blocked by debris.	2
+22	0	2	1	2	1	3	3	0	1	1	2	1	4	4.0	9	2	1	3	0	1	Although it was raining heavily and the streets were flooded, John decided to go for a walk in the park.	2
+30	1	3	4	2	0	4	5	0	1	0	2	2	4	5.0	7	3	2	3	0	1	Even if the storm doesn't pass until morning, you can stay warm in the cabin as long as the fire in the hearth continues to burn brightly.	2
+40	3	2	1	3	1	2	6	0	9	0	4	2	6	10.0	5	5	4	5	4	1	Though she was tired, she studied because her teacher had emphasized the importance of the upcoming test, which might bring her good grades and please her parents, who always wanted her to excel in her studies.	4
+34	1	4	0	2	1	4	7	0	3	0	4	2	6	6.0	13	3	2	3	2	1	While waiting for the train, I remembered that I had left my keys at home, realized the sun was setting, and heard the faint sound of raindrops on the roof.	4
+25	2	0	1	1	1	1	4	0	2	0	5	1	6	3.0	13	2	0	2	4	2	If she wants to lose weight, she should exercise regularly, eat a healthy diet, get enough sleep, and avoid stress.	4
+32	0	1	2	4	0	2	5	0	4	0	5	4	5	5.0	25	4	0	5	2	4	Although it may rain, because the football game has been rescheduled, if we arrive late, since none of us bring umbrellas, we'll still watch the match.	4
+29	0	0	0	4	1	3	6	0	2	0	5	1	6	4.0	20	2	1	5	1	1	If it rains tomorrow, we'll need to bring umbrellas; the flowers may wilt, the streets might flood, and the picnic plans will change.	4
+58	2	4	5	3	1	4	9	0	4	2	11	2	9	6.0	19	5	4	6	2	1	Though it was raining heavily, John went out, hoping to find shelter; his dog, who was tied to the tree, was shivering in the cold; despite his protests, Sarah insisted on taking the long way home; and the car's engine, though old, finally started with difficulty.	4
+35	0	3	5	1	2	2	4	0	6	0	4	2	6	4.0	15	3	2	4	2	1	Even if it rains heavily, we'll stay inside and play cards, watching the storm through the window, while I read aloud from my book and she hums softly to herself.	4
+24	0	0	0	0	1	5	6	0	0	0	5	1	5	3.0	12	2	1	4	0	1	After the sun sets, the crickets chirp, the flowers close, the stars appear, and the owl starts to hoot.	4
+34	2	1	1	2	3	2	4	0	6	0	5	4	4	6.0	28	1	0	5	3	1	If she studied for the test, and if the weather was good, and if her brother helped her, and if she got enough sleep, she would pass it easily.	4
+72	2	7	6	7	2	6	10	0	9	0	8	1	9	6.0	53	5	4	10	3	1	Regardless of how early she woke up, the sun hadn't risen yet; he hadn't finished his breakfast, even though he knew he was late for work; the traffic was heavy and the train was delayed, so she couldn't make it on time; the principal wanted to see her after the assembly, but she couldn't stay because of a dentist appointment.	4
+54	4	1	2	10	1	5	9	0	3	2	8	1	7	5.0	37	5	4	8	2	1	If it rains tomorrow, the flowers will wilt; John might be late for work, so Sue will make him sandwiches; the game would have started earlier, but the players took their time getting ready; the concert would have been great, had the singer not gotten sick.	4
+31	0	4	0	1	1	1	7	0	6	0	4	1	5	4.0	14	2	1	2	4	1	After I finish my work today, I will pick up the children from school, help my wife with dinner, and call my parents to check on them.	4
+58	3	3	3	14	1	4	6	0	6	0	8	4	6	6.0	15	4	3	8	1	1	If I had known about the upcoming test, I would have studied earlier; if she had been more explicit, I would have understood the instructions; if the sun had risen earlier, we could have left on time; and if the traffic had been lighter, we would have arrived before noon.	4
+43	1	2	3	0	1	6	8	0	3	0	6	1	9	8.0	9	7	6	4	3	1	While she waited in the car, it started to rain heavily, causing the roads to flood, which made the drive longer, and the traffic lights failed to work properly, trapping the cars in an endless traffic jam.	4
+19	0	0	0	0	1	4	5	0	0	0	4	1	4	3.0	9	1	0	4	1	1	If the sun rises, the birds sing, the flowers bloom, and the bees collect nectar.	4
+54	2	4	3	3	2	3	9	0	10	0	7	2	9	8.0	18	4	3	7	3	1	Though it rains heavily, we'll continue our hike in the woods; the trees are especially beautiful in the rain, my sister assures me, my father insists that we've come prepared, and my dog seems excited, wagging its tail and looking up at me with anticipation.	4
+38	1	1	0	4	1	5	6	0	5	0	5	4	4	4.0	26	3	0	4	1	3	If he were a rich man, if it didn't rain, if she didn't have a headache, and if there were no traffic jams, we could go on a vacation this weekend.	4
+34	1	2	1	2	1	2	7	0	2	0	5	2	5	4.0	21	5	2	3	1	3	Although it may rain, because the children are eager to play outside, despite father's warning and mother's disapproval, they run through the park, hoping to catch butterflies.	4
+51	0	4	3	3	0	2	7	0	8	0	8	4	10	5.0	16	6	5	8	2	1	If it rains, we'll have to cancel the picnic; if my sister visits, we need to stock up on snacks; if his plane lands on time, we'll go to the concert together; if they arrive early, we'll have lunch first.	4
+47	0	2	0	4	0	4	9	0	8	0	8	4	8	6.0	13	4	3	8	5	1	If it rains tomorrow, they will close the pool; if she forgets her keys, she'll call a locksmith; if the train leaves on time, I can make my meeting; if the electricity goes out, we'll use candles.	4
+26	1	1	3	0	1	3	7	0	0	0	5	0	5	4.0	9	1	1	4	1	0	The sun rises each day, casting long shadows over the hills, birds chirping melodiously, flowers blossoming gracefully, and streams flowing briskly.	4
+43	1	3	1	3	1	4	7	0	6	1	5	2	8	5.0	25	4	2	6	4	2	After she finished baking the cookies, we will clean the kitchen, he promised to buy milk, the dog would rest in his warm spot by the hearth, and Grandpa might watch TV if he feels up to it.	4
+51	1	6	1	8	2	2	8	1	6	0	6	3	6	4.0	33	4	3	5	2	1	Even if the alarm didn't ring, she would have woken up at five o'clock, and after dressing up, she would have started preparing breakfast for her family, and once her children were ready for school, she would have driven them to the bus stop.	4
+42	0	3	2	1	1	10	11	0	1	0	4	1	7	6.0	23	4	4	5	3	0	The cat chased a mouse which was eating a cheese sandwich hidden under a blanket, while the birds sang merrily outside, the sun began to set behind the hills, and the clock on the mantel struck the hour.	4
+38	3	2	0	3	1	4	7	0	4	0	5	4	5	5.0	32	4	4	5	2	0	Provided that we have enough time, after we finish the project, if the client is satisfied with our work, and if the final payment is received, we will celebrate with a team dinner.	4
+45	0	4	3	6	1	2	6	0	8	1	6	2	6	6.0	18	3	2	7	4	1	If John goes to the store, he will buy milk, he will also buy bread, if it is still on sale, he will buy eggs, and he will pay for his items when he has gathered all of them.	4
+39	0	4	1	5	1	6	8	0	4	0	5	1	4	4.0	28	1	0	5	4	1	If I go to the store, I might buy an apple, I could also buy a sandwich, the lady in line might give me a discount, and the store might be out of bread.	4
+32	0	0	3	0	1	4	5	0	1	4	5	4	5	4.0	27	3	0	5	3	3	If John studies every day, if Sarah cleans the house thoroughly, if Tom does the laundry, and if Anne does the cooking, then our household runs smoothly.	4
+40	1	2	3	2	1	3	7	0	4	0	6	2	7	5.0	13	5	4	4	3	1	Although it rained heavily, we continued to play soccer, hoping to win the championship, because our team had trained rigorously for weeks, and the fans were eagerly anticipating our performance, despite the inclement weather.	4
+47	2	0	3	8	0	3	3	0	8	0	8	4	8	5.0	12	4	3	8	4	1	If she baked a cake, he would have eaten it; if it rained, they would have stayed indoors; if the meeting started earlier, we could have left earlier; if I studied more, I would have gotten a better grade.	4
+62	5	2	3	5	3	5	10	0	5	0	7	4	12	11.0	17	8	7	5	5	1	If it rains on the farm, the crops will grow faster, but the farmers will have to protect their harvest from being spoiled, which may delay other chores until later, and if there's too much rain, some areas might become waterlogged, preventing the crops from getting enough air and possibly causing their eventual demise.	4
+30	5	1	1	0	1	1	6	0	2	0	5	1	6	4.0	17	2	1	2	4	1	While she studied abroad, she learned to cook authentic Thai dishes, made lifelong friends, mastered the local language, and discovered new hobbies like watercolor painting.	4
+32	0	3	2	0	1	5	8	0	2	1	5	1	4	4.0	22	1	0	4	1	1	While it rained heavily, the dogs hid under the porch, Sarah watched a thriller on TV, her heart racing, and the clock in the kitchen ticked ominously.	4
+35	2	2	2	1	0	1	8	0	6	0	5	1	6	5.0	10	2	1	5	2	1	If she studied regularly, her grades would improve significantly; her teacher suggested extra tutoring; she discovered a study group in her school; her parent offered to pay for additional resources.	4
+56	1	1	3	9	2	3	7	0	8	0	9	4	9	5.0	29	5	3	10	2	2	After I finish my work, if it rains, she'll be staying home; because the roads will be dangerous, and his meeting has been postponed, your boss will arrive late; while they wait, they'll have lunch; and the concert will start only after the sun sets.	4
+57	2	4	1	5	1	3	9	0	11	0	8	4	8	6.0	16	6	5	8	4	1	If she studied for the test, he would have faith in her abilities; if he believed in her potential, they could discuss their future; if they made plans to travel together, his excitement would be palpable; and if they both saved money, they could go on an amazing adventure.	4
+24	0	0	0	5	1	2	2	0	3	0	5	1	5	3.0	16	1	0	5	0	1	If he wins, they will cheer, she will cry, the band will play, and the balloons will be released.	4
+32	2	1	0	1	1	0	5	0	6	0	6	4	6	4.0	22	3	0	5	3	3	After I finish packing, before I leave town, once I have enough cash, and if my car starts, I will go on my long-awaited vacation.	4
+39	0	1	1	3	1	3	10	0	5	0	5	1	7	5.0	24	3	2	5	3	1	If it rains tomorrow, my brother might go fishing; the flowers in the garden will surely bloom; my sister is planning to visit her friends; and my parents expect to attend a charity event.	4
+40	0	4	2	1	2	2	5	0	4	1	6	0	10	6.0	16	6	6	4	2	0	After breakfast, John went to the library to read, but discovered it was closed; instead, he went to the park to relax, where he saw his friend playing soccer and decided to join in.	4
+49	0	3	1	4	1	4	8	0	7	0	7	2	10	7.0	36	5	4	7	2	1	If it rains tomorrow, I will stay at home; my sister intends to visit the park, but she might be delayed; my friends were planning to go to the museum if the weather improved; however, they all ended up canceling their plans.	4
+50	0	3	3	5	1	4	6	0	4	1	4	5	11	8.0	10	9	8	6	2	1	Although it was raining heavily, John decided to go for a walk, fearing that his wife would be annoyed if he stayed home to watch television again, knowing that he hadn't done the laundry and realizing that the dishware was piled up in the sink.	4
+34	3	0	3	5	2	2	4	0	4	0	5	1	4	4.0	24	2	1	5	1	1	Even if it rains heavily, the roof remains watertight, the guests will be warm and dry inside, they can enjoy their meal, and our event won't be spoiled.	4
+28	0	0	0	4	1	4	6	0	1	0	5	1	5	4.0	19	1	0	5	1	1	If it rains, the streets will flood; the plants will grow; the birds will build nests; and the river's level will rise.	4
+40	0	1	4	3	2	1	10	0	5	0	5	1	7	5.0	23	2	1	5	3	1	If it rains tomorrow, the flowers will bloom more beautifully, my mom might make chicken curry for dinner, I'll likely wear my raincoat, and my brother hopes to stay home and play video games.	4
+63	3	5	3	2	2	8	14	0	4	1	5	4	9	8.0	16	7	6	6	4	1	Though it was raining heavily, the children played soccer outside under an umbrella, and their mothers watched from the window with anxious faces, knowing that they had promised John to allow their kids to finish the game, while the school bus driver waited impatiendly inside the warm and dry vehicle for all the kids to come on board.	4
+30	0	2	1	4	1	2	6	0	2	0	5	1	6	7.0	6	4	3	5	1	1	If it rains heavily, the streets will flood, and the drains may overflow, causing traffic chaos, which might result in people being stranded for hours.	4
+38	0	0	3	5	2	5	7	0	1	0	7	1	7	5.0	28	2	1	6	1	1	If it rains, the roof will leak; the flowers will bloom sooner, but the grass will grow slowly; the streets will flood, causing traffic jams; and the snowmen will melt quickly.	4
+35	1	2	0	5	0	4	7	0	4	0	5	1	5	4.0	21	3	2	5	2	1	After we finish our dinner, my sister will bake dessert; the moon will be full; the dog will wait for us at the door; the dishes need to be washed.	4
+32	1	3	1	0	1	4	7	0	2	0	5	1	6	4.0	17	2	1	5	1	1	As I left the party early due to exhaustion, the sky turned dark, the rain started to pour, the traffic increased, and my phone battery ran out.	4
+43	1	1	0	3	1	5	9	0	5	0	7	1	8	4.0	28	4	3	7	2	1	If it rains tomorrow, the flowers will wilt, my sister promised to visit, the train will be late, my boss expects a report, my friends prefer a picnic, and I need to go to the store.	6
+44	8	0	0	1	2	4	9	1	2	0	9	1	6	5.0	21	3	1	1	4	2	Though it may seem easy, mastering ten languages, understanding their cultures,and becoming an excellent speaker requires immense dedication, constant practice,a superior memory, the ability to distinguish subtle differences, and a patient, resilient attitude.	6
+44	0	3	2	0	2	5	10	0	4	0	7	2	8	6.0	17	3	2	2	7	1	After finishing his homework, he practiced the piano until dinner, but then he still had to walk the dog, wash the dishes, feed the fish, water the plants, and tidy up his room before going to bed.	6
+64	1	2	3	7	0	7	9	0	8	0	9	4	12	4.0	50	6	4	10	5	2	After I finish washing the dishes, he'll go outside to feed the birds; she might take a nap while the sun shines; the paint can dry until dinner; if it rains, we'll move the picnic indoors; they won't arrive until late evening; after everyone has eaten, we'll watch a movie together.	6
+52	6	3	3	9	1	1	8	0	9	0	7	1	4	4.0	37	4	3	7	2	1	If she studies regularly, her grades will improve significantly; she'll receive awards in her academic events; her parents will be proud of her; her future career prospects will be brighter; she'll be more confident; and she'll feel a great sense of accomplishment.	6
+69	1	1	5	7	0	8	11	0	7	0	12	6	11	8.0	13	7	6	12	3	1	If it rains tomorrow, she will stay home; if he arrives late, the dinner will be cold; if the sun sets early, we will have a picnic instead; if the balloon pops, the dog will bark; if the light bulb burns out, I will replace it; if the traffic jam clears, we can still make the flight.	6
+28	0	1	0	0	1	4	6	0	3	0	6	1	6	3.0	17	1	0	2	6	1	After I clean the dishes, I water the plants, wash the dog, cook dinner, take out the trash, and call my mother.	6
+72	4	4	2	7	0	5	10	0	10	0	8	9	13	12.0	12	14	13	9	5	1	Although it may rain, she would walk to the bus stop, even if the bus might be late, while he prepares lunch for them, believing that exercising in rain helps him remain healthy, knowing that the umbrella at the entryway is often wet, assuming that their conversation will sustain them until they reach their destination, trusting that they will share an umbrella if necessary.	6
+64	6	3	4	4	5	5	9	0	7	0	6	3	9	7.0	20	7	6	9	2	1	Although it was late, the children wanted to stay up and watch a movie, but their mother insisted they go to bed, yet they promised to be quiet and obedient, until finally they were so tired they couldn't keep their eyes open, while the wind howled outside and the lightning flashed ominously in the dark night sky.	6
+54	3	1	1	8	1	6	9	0	4	0	8	2	9	6.0	42	3	2	8	2	1	If it rains heavily today, the grass will become soggy; the puddles on the streets will expand; the rooftops will collect more water; my car will not start; the leaves will become wet and glisten; if I don't bring an umbrella, I will get soaked.	6
+57	4	5	2	0	1	8	15	0	5	0	8	1	8	5.0	18	2	1	7	4	1	As she entered the party, the music grew louder, guests crowded around her, several men offered her compliments, the scent of roses filled the air, a tray of delicious pastries passed nearby, her phone vibrated urgently in her pocket, and the decorations cast an enchanting glow over the scene.	6
+61	1	4	0	1	1	6	13	0	12	0	7	3	11	5.0	45	5	4	10	5	1	While I wait for the bus, I remember that I need to buy milk, I notice the clouds gathering in the sky, I hear the sound of my watch ticking, I feel the cool breeze in the morning air, I recall my grandfather's advice, and I wonder if I should call my friend.	6
+52	3	1	3	7	0	6	9	0	6	0	7	1	7	4.0	38	3	2	7	4	1	Even if it rains, the roof won't leak, the ground will dry in a few days, we'll still be able to harvest some fruits, my sister can take the car, our guests will enjoy the homemade pasta, I can finish my report later.	6
+51	3	3	1	4	0	5	8	0	7	0	8	2	10	11.0	13	11	10	5	4	1	Although it was raining, she walked to the mailbox, knowing that her letter was there, thinking it was her birthday, hoping it would make her happier, wishing for a little more sunlight, feeling a chill, hearing the sound of raindrops hitting the pavement.	6
+101	5	11	3	7	4	7	18	0	12	3	8	7	13	7.0	75	9	8	9	6	1	Though it was raining cats and dogs, John walked to the bus stop under his umbrella, as he had promised Sarah, for she was counting on him to pick up the children from their soccer practice, despite the early dismissal, and even though Mary had told him that her car still wouldn't start due to the recent flood, and although he knew that his favorite pizza place would be closed because of the power outage, he felt obligated to keep his commitments and bring the whole family home for a warm dinner.	6
+56	1	7	1	0	1	8	16	0	6	0	7	2	7	5.0	35	2	1	7	3	1	After she finished her chores, he watched TV in the living room, while the cat slept on the mat near the fireplace, her little brother played happily in the garden, their dog barked at every shadow, grandfather dozed off in the rocking chair, and her mother read a novel.	6
+48	1	3	3	6	1	7	9	0	3	0	7	1	7	5.0	32	1	0	7	0	1	If it rains, the flowers will wilt, the birds would stay inside, my brother might come home earlier, the fish would hide at the bottom of the pond, our plans for a picnic could change, and the streets would become slushy.	6
+52	3	2	2	9	1	4	9	0	7	0	7	1	7	5.0	22	3	2	8	1	1	If it rains tomorrow, the grass will grow; the children will be happy, their parents will be relieved, their teacher will be impressed, they will bring their rainboots for the field trip, and they will stay dry in the class when they come in wet.	6
+86	9	5	1	8	2	6	11	0	13	1	12	6	12	4.0	74	6	5	12	8	1	If I had enough time, I would read all of these books; if I were healthier, I could take a challenging hike; if I earned more money, I would invest in a better car and save for retirement; if I spoke Spanish fluently, I could visit and communicate with my extended family; if I was taller, I could reach high shelves without a ladder; if I had more patience, I could learn the piano.	6
+55	1	4	3	0	2	10	14	0	3	0	7	2	9	5.0	31	2	1	8	3	1	While the rain fell quietly, the birds sang sweetly, the river flowed calmly, the wind whispered through the trees, the sun peeked from behind the clouds, and the flowers opened their petals, she took a deep breath and savored the moment of peace before her work day began.	6
+61	3	4	2	5	1	8	10	0	6	0	7	6	7	6.0	51	6	0	7	1	6	If she were a mermaid living in the deep sea, if he could sing like an angel, if they had a magic carpet, if it hadn't rained that day, if the sun had not risen late, and if the traffic lights always turned green for them, they would go on a wonderful adventure.	6
+35	0	3	1	0	1	3	8	0	3	0	7	1	8	4.0	18	2	1	3	4	1	Though it rained heavily during our picnic, we shared sandwiches, read poetry, played cards, listened to music, painted the scenery, and watched the rain drops on the leaves.	6
+67	3	2	7	6	1	8	10	0	8	0	8	1	11	7.0	45	5	4	8	6	1	Although it's raining heavily, she still went to the park hoping to find a good spot for a picnic, where the sun was shining, the children were happily playing, her husband would join her shortly, his family arrived early to save them a table, they'd prepare a delicious meal together, and everyone would enjoy a lovely afternoon.	6
+46	4	2	0	4	1	5	9	0	3	0	8	1	8	4.0	37	3	2	8	0	1	Although it was raining, she decided to drive; the streets were empty, the traffic signals were flashing red, the windshield wipers were moving in rhythm, the tires spun without grip, the engine roared louder, yet she felt exhilarated.	6
+56	0	1	1	7	1	5	14	0	8	0	7	1	9	4.0	41	3	2	7	7	1	If it doesn't rain tomorrow, my sister might decide to visit the zoo, her friend could help her plan the trip, they could purchase tickets online, they might bring picnic lunches, we would reserve a table near the penguin exhibit, and my nephew might enjoy the elephant show.	6
+104	8	7	0	13	7	10	18	1	10	0	12	4	12	9.0	63	8	7	11	7	1	Although it may rain tomorrow, we could hike in the mountains, if the forecast is incorrect; the trails would be muddy, and we'd need rain gear, but the scenery would be breathtaking, and we could take beautiful photographs, and, if we found a shelter, we'd be able to stay dry and rest before continuing our journey, but we'd miss out on the chance to feel the cool rain on our faces and hear the sound of raindrops hitting the leaves, which is one of the simple pleasures of hiking.	6
+45	0	1	6	1	1	6	8	0	5	0	8	1	8	8.0	8	1	0	8	3	1	Although it was raining heavily, they went out; the dogs barked loudly, the wind howled menacingly, the thunder clapped violently, the lightning lit the sky intermittently, she forgot her umbrella at home, and he had no raincoat.	6
+65	3	4	4	6	2	6	11	0	6	0	9	6	7	6.0	43	5	0	7	3	5	If I were a wealthy man, if it didn't rain on Saturdays, if the moon was made of cheese, if my car could fly, if I were taller, and if I knew the answer to the meaning of life, I would buy an exotic island, start a dairy farm, and live there happily ever after.	6
+45	1	1	0	6	2	7	11	0	2	0	7	1	7	4.0	36	1	0	7	3	1	If it rains, the streets will flood, the trees will shed their leaves, the grass will turn brown, the birds will seek shelter, the puddles will collect leaves and twigs, and the flowers in the garden will retreat.	6
+71	2	3	1	8	1	6	12	0	9	0	12	6	11	5.0	58	6	5	11	4	1	If it rains, we'll stay at home; if the electricity goes out, we'll listen to the radio; if the batteries die, we'll read books; if my phone is off, I'll write letters; if the store is closed, we can cook dinner; if there's a traffic jam, we can take a longer but scenic route.	6
+47	2	0	2	2	1	3	7	0	8	0	8	2	10	9.0	11	7	6	3	7	1	If she studied hard, passed all her tests, her grades would improve, making her parents proud, allowing her to get a scholarship, which would lead to attending a prestigious university, and finally, enabling her to pursue her dream career.	6
+39	1	4	1	1	1	1	11	0	1	0	6	2	9	5.0	10	7	6	4	3	1	If it rains heavily, the streets will flood, causing vehicles to stall, delaying traffic, leading to impatient drivers horns blaring, while shoppers scramble for cover in storefronts and tourists take shelter in cafes.	6
+85	5	4	3	17	1	10	10	0	8	0	12	5	8	8.0	74	8	7	11	3	1	Although it might have been raining, she had walked to the library; the wind may have been strong, but he had sailed across the lake; if he had been more careful, he wouldn't have dropped the glass; though the book was overdue, she had kept it for another night; despite being tired, she decided to attend the concert; because the sun was setting, the colors of the painting were even more beautiful.	6
+37	1	0	2	2	0	3	6	0	4	1	6	6	6	6.0	11	5	5	6	2	0	Although it might rain, if the traffic lights turn red, while the children are sleeping, because Sarah forgot her umbrella, even if the bus arrive late, after she misses her appointment.	6
+76	2	3	4	11	1	2	7	0	3	9	7	6	9	7.0	70	9	0	7	5	9	If John hadn't promised to help Sue with her move, if Tom couldn't have borrowed a truck, if Mark didn't live nearby, if Bob hadn't agreed to store Sue's furniture, if Chris wouldn't have offered to cook meals for her during the move, and if Lee weren't available to watch her cat, then Sue's move would have been much more challenging.	6
+72	1	2	3	6	0	3	7	0	15	0	12	6	14	5.0	62	8	7	12	7	1	If it rains, I'll need an umbrella; if I work late, I won't have time to exercise; if he forgets his keys, he'll have to break a window; if she studies hard, she'll get a good grade; if you bring cake, I'll share it with you; if we leave now, we'll arrive on time.	6
+32	0	2	0	0	1	3	7	0	1	5	6	1	6	4.0	17	1	0	5	3	1	While I wait for the bus, John studied mathematics, Sarah practiced piano, Mark went hiking, Lisa baked cookies, and Tom built a sandcastle on the beach.	6
+38	0	3	3	0	1	8	10	0	0	0	6	1	6	4.0	15	1	0	6	0	1	Though the cat slept in the sunshine, the dog barked loudly, the children whispered, the wind chimes tinkled faintly, the waves crashed on the shore, and rain fell gently from the clouds.	6
+40	4	3	0	2	1	5	8	0	3	0	7	1	6	3.0	27	1	0	2	5	1	If I were rich, I could buy a mansion, have a personal gardener, employ a chef, travel around the world, send my children to an exclusive school, and donate large sums to charity.	6
+57	1	4	0	9	0	10	15	0	3	0	7	1	7	5.0	46	3	2	7	5	1	If it were raining, I would carry an umbrella; the birds would be seeking shelter; the puddles on the road would reflect rain drops; the leaves on the trees would be wet; a rainbow might appear in the sky; the sound of rain hitting the walls would soothe my mind.	6
+49	1	6	0	1	1	4	12	0	7	0	7	2	8	4.0	30	2	1	1	6	1	After finishing my homework, I will walk to the store, help my grandmother with her shopping, have dinner with my family, clean the dishes, watch a movie with my friends, and read a chapter from my favorite book before going to bed.	6
+55	4	2	2	7	1	4	10	1	8	0	7	2	7	5.0	33	3	2	7	4	1	If she studied for three hours every day, her grades would improve significantly, she would feel more confident in class, her parents would be proud, she might get a scholarship, she could afford a better college, and she'd have a better chance of achieving her career goals.	6
+50	0	4	0	2	0	4	13	3	6	0	7	1	8	5.0	39	3	2	7	3	1	If it rains tomorrow, my brother might go fishing; I have to finish this report; the store opens at 9 am; the train departs at 3 pm; we need to be at the airport two hours before our flight; her dog likes bones.	6
+114	1	11	8	3	4	13	19	0	17	0	17	2	17	5.0	79	8	7	14	8	1	After I arrive at the station, I wait for the bus, but it doesn't come on time; so I decide to walk to the office, taking a shortcut through the park; however, I see a friend along the way, who invites me for coffee; but unfortunately, I remember I have a pressing appointment, so I must decline the invitation and hurry to the office; yet, just as I enter the building, my boss calls me into his office for an unexpected meeting; finally, when the meeting is over, I realize I forgot my lunch at home.	6
+54	1	6	2	0	1	9	14	0	3	0	7	1	9	4.0	44	3	2	7	1	1	While it rains, the children play hopscotch in the porch, the elderly stay warm inside by the fireplace, the dog barks at passing cars, the cat sleeps peacefully in the sun, my phone keeps ringing in my pocket, and the paint on the walls starts to peel.	6
+42	1	2	1	3	1	3	9	0	5	0	7	2	8	4.0	14	3	2	4	7	1	After we finish lunch, I'll help you cook dinner, if you'd like; we can also go shopping for ingredients, clean the kitchen, wash the dishes, and pack leftovers for lunch the next day.	6
+84	1	5	1	7	1	6	18	0	14	0	12	6	13	8.0	17	9	8	13	8	1	If it rains tomorrow, the grass will need watering; if my sister arrives before noon, I'll prepare lunch; if my boss asks for a report, I'll send him the one I finished yesterday; if the wind is too strong, we'll stay at home; if my friends invite us to the beach, we'll bring umbrellas and sunscreen; if my baby wakes up crying, I'll give her a bottle.	6
+63	1	3	4	6	1	3	12	0	9	1	8	1	11	5.0	48	6	5	10	3	1	If it rains tonight, the flowers will wilt, we'll likely stay at home, John might not be able to come, his sister plans to visit her parents on weekends, my grandmother bakes apple pies when it's raining, and our roof leaks whenever it drizzles, then we'll call a roofer in the morning.	6
+45	1	3	1	10	1	5	8	0	2	0	7	1	6	4.0	35	2	1	7	0	1	If it rains tomorrow, they will stay home; the library will be closed, the grocery store will have run out of bread, the streets will be slippery, the umbrellas will be opened, and the windows will steam up.	6
+32	0	0	0	0	1	3	9	0	3	0	7	1	7	4.0	20	2	0	2	7	2	After I finish cleaning the house, I need to grocery shop, do laundry, cook dinner, water the plants, call my parents, and walk the dog.	6

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+5	1	0	1	1	0	1	0	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Avoid nouns for now.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The verb is inactive.	0
+5	0	0	1	0	0	1	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	Is it raining today?.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The room hums with quiet expectation.	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	It's raining.	0
+6	0	0	1	1	0	2	0	0	0	1	0	0	1	0	1	1	0	2.0	0	3	Actions Speak Louder Than Words.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rises slowly over the horizon.	0
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	0	0	0	2.0	0	5	There are sounds in the quiet room.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	2	A silence settled between us.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The weather is pleasant today.	0
+8	0	0	1	2	0	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	3	A window of opportunity appears before us.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	It rains today.	0
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Action is necessary.	0
+6	0	0	1	1	0	2	0	0	0	1	0	0	1	0	1	0	0	3.0	0	2	Action speaks louder than words.	0
+6	0	0	1	1	0	2	0	0	0	1	0	0	1	0	1	0	0	3.0	0	2	Actions speak louder than words.	0
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	0	0	0	2.0	0	5	There is no noun in this task.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The sun casts shadows on the floor.	0
+6	1	0	1	0	1	2	0	0	0	1	0	0	0	0	0	1	0	3.0	0	4	Exist calmness and serenity here.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The sun is setting.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The wind whistles.	0
+9	0	0	3	0	0	1	1	1	0	1	0	1	0	0	1	1	0	3.0	0	5	"The verb ""to be"" connects everything."	0
+12	0	0	5	0	0	2	2	0	0	2	0	1	0	0	1	0	0	3.0	0	7	Action: scream, Question: what are you doing?, Response: I am not doing anything, I just want to hear the sound of silence.	0
+6	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The verb is to act.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the hills.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The color is bright.	0
+9	0	0	1	1	0	2	1	2	0	1	0	0	1	0	0	0	0	2.0	0	6	There is a soft hum in the world.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The rain falls heavily.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	 An orchestra plays a symphony.	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	Is it raining?.	0
+7	1	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The colour blue is so calming.	0
+7	2	0	1	0	0	1	1	0	0	1	0	0	1	0	0	0	0	2.0	0	4	There is silent darkness all around.	0
+6	0	0	1	0	1	1	0	1	0	2	0	0	0	0	1	0	0	2.0	0	2	The sun rises and sets.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sinks below the horizon.	0
+4	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	2.0	0	2	Exist eternal emotions.	0
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	Do you understand me? I'll repeat that.	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	It is raining.	0
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are three colors in a bag.	0
+12	1	0	2	1	0	2	1	2	0	0	0	1	1	0	1	0	0	3.0	0	4	Isn't it nice, just the sound of the rain?.	0
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	A verb tense changes the meaning.	0
+10	0	1	1	1	0	3	0	2	0	2	0	0	0	1	2	0	0	2.0	1	6	The sun sets over the lake as silence descends.	0
+5	0	0	1	0	0	1	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	Is it raining today?.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	0	1	0	3.0	0	3	Exists an infinite amount of possibilities.	0
+7	0	0	1	0	0	1	1	0	0	2	0	1	0	1	1	0	0	2.0	1	2	Is it supposed to rain today?.	0
+8	0	0	1	2	0	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	3	A sensation of happiness washed over her.	0
+5	1	0	1	0	0	0	1	0	0	0	1	1	0	0	1	0	0	1.0	0	2	Is it three yet?   (Note: The response contains zero countable nouns.	0
+7	0	0	1	0	1	2	0	1	0	2	0	0	0	0	2	0	0	2.0	0	3	The sun sets and night falls.	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	Is it raining?.	0
+6	0	0	1	1	0	2	0	0	0	1	0	0	1	0	1	0	0	3.0	0	2	Actions speak louder than words.	0
+7	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	Can you pass the ketchup please?  (Note: This sentence contains the pronoun 'you' which acts as a placeholder for a noun but does not itself count as a noun.	0
+9	0	0	1	0	0	2	1	1	0	2	1	0	0	1	0	1	0	4.0	1	2	There are three ways to make a cake.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	Mountains dominate the landscape.	1
+6	0	0	1	1	0	2	0	0	1	1	0	0	0	0	1	0	0	2.0	0	3	Raccoon rummages through trash cans.	1
+8	0	0	1	1	0	4	0	1	0	1	0	0	0	0	1	1	0	2.0	0	5	Moonlight paints silver paths through the forest.	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Lion roars in the jungle.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The elephant wanders in the savanna.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept.	1
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Rose is beautiful.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	An elephant strolls in the savannah.	1
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	Roses fill the garden.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The table is sturdy.	1
+7	0	0	1	1	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	The sunflower blooms in the garden.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets beautifully over the lake.	1
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	The tablecloth.	1
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The moon shines brightly in the night sky.	1
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Roses bloom vibrantly in the garden.	1
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Tablecloth is elegant.	1
+6	0	0	1	1	0	1	0	0	1	1	0	1	0	0	1	0	0	2.0	0	2	Cat is sitting on Windowsill.	1
+4	1	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Apples roll downhill.	1
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Roses bloom in spring.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A giraffe grazes in the savanna.	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Roses dance under the moonlight.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	An elephant roams the savanna.	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Mountains peak at the horizon.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The sun is setting over the horizon.	1
+5	0	0	1	0	0	2	0	0	0	0	0	1	1	0	1	0	0	1.0	0	3	Books are intriguing companions.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The moon is beautiful.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	An elephant roams through the savannah.	1
+7	0	0	1	1	0	2	0	1	1	0	0	1	0	0	1	0	0	2.0	0	3	Rose is the queen of gardens.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the ocean.	1
+5	0	0	1	1	0	2	0	1	0	0	0	0	0	0	0	0	0	2.0	0	3	Cat on the mat.	1
+10	0	1	1	1	0	2	1	2	0	2	0	0	0	1	2	0	0	3.0	1	3	The bicycle wobbled as I pedaled through the neighborhood.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets on the horizon.	1
+7	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	3.0	0	2	The moon's craters are fascinating.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The elephant is in the yard.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The clock chimes.	1
+6	0	0	1	1	0	3	0	1	0	0	0	0	0	0	0	0	0	2.0	0	3	Thunderstorm brews in the horizon.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The monorail passed over a bridge.	1
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The moon is round.	1
+4	0	0	1	0	0	2	0	0	0	0	0	1	0	0	1	0	0	1.0	0	2	Dolphins are mammals.	1
+7	0	0	1	1	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	The tiger paces in the jungle.	1
+6	0	0	1	0	0	2	0	1	0	1	0	1	0	0	1	1	0	2.0	0	2	Rose is painting a portrait.	1
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The elephant enjoys its meal.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	1
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Swans gracefully glide on the pond.	1
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Apples hang heavy from the tree.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The bicycle leans against the wall.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the valley.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the ocean.	1
+8	1	0	1	0	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The tiger and the forest roam together.	2
+8	0	0	1	1	0	3	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The penguin statue is surrounded by tulips.	2
+6	1	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Birds frequently gather at feeders.	2
+11	0	0	1	1	1	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	5	The moon and stars lighted up the clear night sky.	2
+6	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2.0	0	3	 moon, tide levels).	2
+8	0	0	1	1	0	3	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The sunflower garden dazzles with vibrant blooms.	2
+13	1	0	1	1	1	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	6	The clock and the bookshelf stood tall in the dimly lit room.	2
+7	1	0	1	0	0	3	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The car radio broadcasts music softly.	2
+10	0	0	1	0	0	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	4	The elephant's tusk broke the temple's statue.	2
+7	0	0	1	0	1	3	0	1	0	1	0	0	0	0	1	1	0	3.0	0	2	The garden grows roses and sunflowers.	2
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The moon casts shadows on the sand.	2
+12	0	0	1	1	1	4	0	3	0	1	0	0	1	0	1	1	0	3.0	0	5	The elephant and the moon cast long shadows on the savannah.	2
+7	0	0	1	1	0	3	0	0	0	1	0	0	1	0	1	0	0	2.0	0	3	Cactus flowers dazzle with vibrant hues.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sunflowers wilted in the rain.	2
+12	0	0	1	1	1	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	6	Apples and oranges on the table create an appealing visual contrast.	2
+9	0	0	1	1	1	4	0	0	0	0	0	1	1	0	1	0	0	3.0	0	5	Dogs and balls are popular playthings for children.	2
+11	0	0	1	1	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	5	The elephant and the tiger are battling in the savannah.	2
+10	0	0	1	1	1	4	0	0	0	1	0	0	2	0	1	1	0	3.0	0	3	Books and mountains hold vast depths of untold narratives.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps on the mat.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sunflowers wilt in the rain.	2
+9	0	0	1	0	1	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	3	The moon and stars illuminate the night sky.	2
+8	0	0	1	1	0	3	0	2	0	0	0	0	1	0	0	0	0	2.0	0	4	The mooncasts reflection on the tranquil lake.	2
+9	0	0	1	0	1	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	The rose and vase share the same colors.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The elephant trampled the tulips.	2
+7	0	0	1	0	0	3	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	The apple tree bears golden pears.	2
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sunflower garden shines brilliantly in the sun.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The sunflowers illuminated the meadow.	2
+7	0	0	1	0	0	3	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	The library books demand quiet respect.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The sunflowers brightened the meadow.	2
+10	0	0	1	0	0	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	The moon's shining light illuminates the tranquil lake.	2
+8	0	0	1	0	1	3	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	Apples and pies make a delicious combination.	2
+10	1	0	1	1	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The sunflower field shines brilliantly in the summer sun.	2
+11	1	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The sunflower in the garden swayed gently in the breeze.	2
+8	0	0	1	0	0	3	0	1	0	1	0	0	1	0	1	1	0	3.0	0	2	The library's shelves hold countless books.	2
+10	0	0	1	0	0	4	0	1	0	2	0	0	1	1	1	1	0	3.0	1	3	Book club members selected a new novel to read.	2
+8	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	3.0	0	2	The sunflower's petals surround the seed.	2
+16	1	0	2	1	0	6	0	2	1	2	0	0	1	1	1	1	0	3.0	1	7	The carnival Ferris wheel spun rapidly, casting long shadows over the cotton candy stalls.	2
+7	0	0	1	0	1	4	0	0	0	1	0	0	0	0	1	1	0	3.0	0	2	Bookstore patron chooses novel and biography.	2
+9	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	0	0	3.0	0	3	The clock's hands hover at nine o'clock.	2
+8	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	3.0	0	2	The elephant's trunk caresses the water.	2
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sunflower garden is beautiful.	2
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sunflowers swayed in the evening breeze.	2
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Daffodils dazzle in the morning sun.	2
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The elephant trampled through the bamboo forest.	2
+8	2	0	1	0	1	2	0	1	0	1	0	0	0	0	1	0	0	3.0	0	3	The sunflower and vase blend beautifully together.	2
+11	1	0	1	1	0	4	0	2	0	1	0	0	1	0	1	1	0	2.0	0	6	The car radio plays music softly in the rainy evening.	2
+8	0	0	1	0	1	4	0	0	0	0	0	1	1	0	1	0	0	3.0	0	6	Apples and oranges are common market produce.	2
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The clock radio illuminated the room.	2
+10	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	3	The sunflower's vibrant petals dance in the wind.	2
+10	0	0	1	1	0	5	0	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The clock radio illuminates the bedroom as morning dawns.	2
+15	0	0	4	1	1	6	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The cheetah, zebra, giraffe, and elephant played near the watering hole.	4
+15	0	0	4	0	1	6	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The gardener, sunflowers, hose, and sun watered the vibrant sunflower field.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The elephant, monkey, tiger, and watermelon played near the riverbank.	4
+18	0	0	4	1	1	7	0	2	0	1	0	0	1	0	1	0	0	4.0	0	11	The sunflower, beehive, artist's palette, and museum entrance blend in an extraordinary tableau.	4
+17	0	0	4	1	1	7	0	2	0	1	0	1	0	0	1	0	0	3.0	0	10	The laptop, mouse, coffee cup, and book are scattered on the kitchen table.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The lion, zebra, cheetah, and gazelle frolicked in the savannah.	4
+15	0	0	4	2	1	6	0	1	0	1	0	0	0	0	1	0	0	3.0	0	8	Apples, oranges, carrots, and potatoes line up on the kitchen counter.	4
+17	0	0	4	0	1	7	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The librarian, laptop, book, and sunflower arranged the library's annual fundraising event.	4
+13	0	0	3	0	1	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	7	The sunflower, kangaroo, moon and piano performed an enchanting concert.	4
+14	0	0	4	0	1	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The sunflower, beehive, painter, and easel create a tranquil scene.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The elephant, tiger, monkey, and giraffe roamed through the savanna.	4
+14	0	0	3	1	1	6	0	1	0	1	0	0	1	0	1	1	0	3.0	0	7	Apples, monkeys, trees and rivers coexist harmony in the lush jungle.	4
+14	0	0	4	0	1	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The sunflower, beehive, gardener, and scarecrow form a picturesque scene.	4
+14	0	0	4	0	1	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The monkey, banana, jungle, and river create an exciting scene.	4
+17	0	0	4	0	1	5	0	5	0	1	0	0	1	0	0	1	0	3.0	0	11	The elephant, the tree, the river, and the sun created an enchanting scene.	4
+16	1	0	4	1	1	6	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The elephant, tiger, zebra, and rhino roamed freely in the wildlife reserve.	4
+16	0	0	4	2	1	6	0	2	0	1	0	0	0	0	1	1	0	3.0	0	8	Apples, oranges, cakes, and chairs make up the content of this marketplace.	4
+17	0	0	4	0	1	6	0	2	0	2	0	0	1	1	1	1	0	3.0	1	9	The monkey, banana, coconut tree, and jungle collaborated to create a delightful ecosystem.	4
+14	0	0	4	0	1	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The lion, zebra, cheetah, and giraffe roamed the African savannah.	4
+12	1	0	4	0	1	4	0	1	0	1	0	0	0	0	1	0	0	3.0	0	9	The sunflower, beehive, carnival, and violin harmonically coexist.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The tiger, elephant, zebra, and rhinoceros roamed in the savanna.	4
+9	0	0	4	0	1	4	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	Apples, elephants, sunflowers, and clocks.	4
+15	0	0	4	1	1	5	0	2	0	1	0	0	1	0	1	0	0	3.0	0	8	The lion, cheetah, zebra, and gazelle graze in the African savannah.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The lion, zebra, elephant, and giraffe wandered through the savanna.	4
+14	0	0	4	0	1	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The sunflower, vase, water, and butterfly create a vibrant scene.	4
+15	1	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The lion, zebra, cheetah, and giraffe grazed peacefully in the savannah.	4
+15	0	0	4	0	1	5	0	1	0	1	0	1	1	1	1	0	0	3.0	1	10	The monkey, banana, jungle, and snake interaction is fascinating to observe.	4
+16	0	0	4	1	1	6	0	2	0	1	0	0	1	0	1	0	0	3.0	0	9	The sunflower, hummingbird, wind turbine, and library collaborated on a stunning project.	4
+13	0	0	3	1	1	6	0	2	0	0	0	0	0	0	0	0	0	3.0	0	7	The sun, monkey, carrot and kite dance in the wind.	4
+14	0	0	4	0	1	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The chef, tomatoes, basil, and pasta prepared a delicious sauce.	4
+18	0	0	4	1	1	6	2	2	0	1	0	0	1	0	1	1	0	3.0	0	9	The lighthouse, seagull, compass, and fog all played their roles in our nautical adventure.	4
+16	0	0	4	1	1	7	0	2	0	1	0	0	0	1	0	0	0	4.0	1	9	The sunflower, garden hose, picnic basket, and kitten frolicked in the sunlight.	4
+14	0	0	4	1	1	5	0	1	0	1	0	0	1	0	1	0	0	3.0	0	8	Lions, grapes, mountains, and oceans collide into a vibrant landscape.	4
+12	1	0	4	0	1	4	0	1	0	1	0	0	0	0	1	0	0	3.0	0	8	The elephant, carnival, trombone, and umbrella collided unexpectedly.	4
+17	0	0	4	2	1	7	0	3	0	0	0	0	0	0	0	0	0	3.0	0	8	The sunflower, butterfly, elephant, and carousel spin in the breeze during the carnival.	4
+18	1	0	6	0	2	7	0	1	0	1	0	0	0	0	1	1	0	3.0	0	9	The elephant, carnival, tulip, and piano harmonically combine colors, sounds, and emotions.	4
+14	1	0	4	0	1	5	0	2	0	1	0	0	0	0	1	1	0	3.0	0	8	The elephant, tiger, zebra, and giraffe explored the savanna together.	4
+15	0	0	4	0	1	6	0	2	0	1	0	0	1	0	1	1	0	3.0	0	8	The sunflower, beehive, butterfly, and windchime create a beautiful garden scene.	4
+16	0	0	4	1	0	7	0	3	0	1	0	0	0	0	1	1	0	2.0	0	7	The chef, restaurant, kitchen, oven prepared a gourmet meal for the guests.	4
+18	0	0	4	2	1	7	0	3	0	1	0	0	0	0	1	1	0	4.0	0	14	The chef served a platter of shrimp, avocado, corn, and steak to the guests.	4
+16	0	0	4	1	1	6	0	3	0	1	0	0	0	0	1	0	0	3.0	0	9	The elephant, banana, monkey, and grass all interacted within the wildlife reserve.	4
+15	1	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The lion, elephant, zebra, and cheetah roamed together in the savanna.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The elephant, tiger, monkey, and zebra roamed through the jungle.	4
+13	0	0	4	1	0	5	1	1	0	1	0	0	0	0	1	0	0	2.0	0	7	A monkey, banana, jungle, sunset plays before our eyes.	4
+14	0	0	4	1	1	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	9	The librarian, dragon, princess, and clock all assembled in anticipation.	4
+15	0	0	4	0	1	6	0	2	0	1	0	0	1	0	1	1	0	3.0	0	9	The pirate, parrot, treasure chest, and compass roamed the exotic island.	4
+15	0	0	4	1	1	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	9	The elephant, tiger, zebra, and giraffe are roaming in the savanna.	4
+18	0	0	4	1	1	6	0	5	0	1	0	0	0	0	1	1	0	3.0	0	11	The monkey, the banana, the boat, and the sun set sail on the lake.	4
+19	0	0	4	1	1	6	0	6	0	1	0	0	0	0	1	1	0	3.0	0	11	The lion, the zebra, the tree, and the monkey enjoy a picnic under the shade.	4
+15	0	0	4	1	1	6	1	0	0	1	0	0	1	0	1	0	0	3.0	0	9	Lions, zebras, acacias, and watering holes interact in their African habitat.	4
+28	0	0	7	3	1	11	0	3	0	2	0	0	1	1	1	1	0	5.0	1	18	The archaeologists discovered artifacts made of silver, jade, bronze, pottery, ivory, marble, and gold during the excavation of the ancient ruins.	7
+21	0	0	7	1	1	9	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The elephant, zebra, giraffe, rhinoceros, hippopotamus, crocodile, and flamingo played in the jungle preserve.	7
+24	0	0	7	1	1	11	1	2	0	1	0	0	0	0	1	1	0	3.0	0	14	The librarian, elephant, bookshelf, zebra, monkey, dictionary, and lion enjoyed their afternoon tea party in the library.	7
+24	1	0	7	1	1	9	0	2	0	2	0	0	0	1	1	1	0	3.0	1	14	The lorries, trucks, tankers, ferries, helicopters, airplanes, and warehouses collaborate to efficiently transport goods around the world.	7
+21	1	0	7	1	1	8	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The lion, elephant, giraffe, zebra, rhinoceros, tiger, and hyena roamed together in the savanna.	7
+22	1	0	7	1	1	9	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The lions, elephants, tigers, monkeys, rhinos, zebras, and giraffes roamed freely in the safari park.	7
+28	0	0	6	0	1	7	0	7	0	1	0	0	6	0	1	1	0	3.0	0	21	The monkey grabbed the red umbrella, the yellow balloon, the wooden spoon, the green apple, the blue bottle, and the white tablecloth.	7
+22	0	0	7	0	1	8	0	2	0	3	0	0	0	1	1	1	0	3.0	1	14	The librarian, lion, tarp, compass, umbrella, canoe, and computer collaborated to help the lost explorer.	7
+22	1	0	6	2	1	8	0	3	0	1	0	0	0	0	1	0	0	3.0	0	18	The monkeys danced excitedly around the elephant, tiger, gazelle, zebra, rhino, and flamingo in the savannah.	7
+19	0	0	7	1	0	8	0	2	0	1	0	0	0	0	1	0	0	2.0	0	13	The elephant, tiger, rhinoceros, zebra, giraffe, lion, hippopotamus strolled through the savannah.	7
+21	0	0	7	0	1	9	0	2	0	1	0	0	1	0	1	1	0	3.0	0	15	The gardener, sunflowers, bees, irises, butterflies, fountain, and stone bench enjoyed the sunny afternoon.	7
+25	0	0	7	2	1	9	0	3	0	1	0	0	2	0	1	0	0	3.0	0	14	The elephant, rhinoceros, tiger, giraffe, gazelle, zebra, and monkey strolled through the lush savannah on a sunny afternoon.	7
+22	1	0	7	0	1	10	0	2	0	1	0	0	0	0	1	1	0	3.0	0	17	The sunflowers, garden gnomes, flamingos, butterflies, gazebo, koi pond, and rosebushes harmoniously decorate the garden.	7
+23	0	0	7	1	1	9	0	2	0	1	0	0	1	0	1	0	0	3.0	0	14	The librarian, cheetah, parrot, trombone, watermelon, typewriter, and umbrella collaborated at the museum's outdoor concert.	7
+25	0	0	7	1	1	10	0	3	0	1	0	0	2	0	1	1	0	3.0	0	14	The librarian, cat, pencil, microscope, volcano, moon, and bookstore delivered the overdue library book during the lunar eclipse.	7
+22	0	0	7	1	1	9	0	2	0	1	0	0	1	0	1	0	0	3.0	0	14	The librarian, elephant, monkey, tiger, giraffe, zebra, and crocodile roamed through the vast jungle library.	7
+23	0	0	7	1	1	9	1	2	0	1	0	0	1	0	1	1	0	3.0	0	14	The elephant, tiger, rhinoceros, giraffe, zebra, gazelle, and flamingo enjoyed their afternoon in the vast savannah.	7
+21	0	0	7	1	1	8	0	2	0	1	0	0	1	0	1	0	0	3.0	0	14	The garden, elephant, monkey, zebra, lake, castle, and moon joined in an unusual ensemble.	7
+22	1	0	7	1	1	8	0	2	0	1	0	0	1	0	1	0	0	3.0	0	14	The lion, tiger, elephant, rhinoceros, zebra, giraffe, and hyena roamed freely through the vast savannah.	7
+21	0	0	7	1	1	8	0	2	0	1	0	0	1	0	1	0	0	3.0	0	14	The dragon, knight, princess, castle, forest, river, and moon shimmered in a mystical glow.	7
+21	0	0	7	1	1	9	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The lions, tigers, elephants, giraffes, zebras, rhinos, and hyenas gathered in the safari park.	7
+24	0	0	7	1	1	10	0	2	0	1	0	0	2	0	1	1	0	3.0	0	15	The library, elephant, trombone, chessboard, telescope, watermelon, and clock tower held a fascinating array of hidden secrets.	7
+20	0	0	7	0	1	9	0	2	0	1	0	0	0	0	1	1	0	3.0	0	14	The giraffe, elephant, rhinoceros, tiger, hippopotamus, monkey, and crocodile visited the safari park.	7
+20	0	0	7	0	1	8	0	2	0	1	0	0	1	0	1	1	0	3.0	0	14	The librarian, elephant, monkey, bookshelf, typewriter, biro, and reader enjoyed an animated discussion.	7
+21	1	0	7	0	1	8	0	2	0	1	0	0	1	0	1	1	0	3.0	0	15	The librarian, books, computer, printer, scanner, projector, and students collaboratively created a multimedia presentation.	7
+21	1	0	7	1	1	8	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The elephant, monkey, tiger, lion, rhino, giraffe, and zebra roamed together through the savannah.	7
+22	0	0	7	1	1	10	0	2	0	1	0	0	0	0	1	1	0	3.0	0	14	The librarian, cheetah, zebra, giraffe, elephant, rhinoceros, and tiger discussed conservation strategies in the library.	7
+21	0	0	7	1	1	9	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The giraffe, elephant, zebra, lion, tiger, hyena, and rhinoceros played near the watering hole.	7
+23	1	0	8	1	1	9	0	1	0	2	0	0	0	0	1	0	0	3.0	0	14	The tiger, zebra, elephant, giraffe, rhino, gorilla, and hippo stood proudly in awe-inspiring unity.	7
+21	0	0	7	0	1	10	0	1	0	1	0	0	0	0	1	1	0	3.0	0	15	Apples, oranges, grapes, bananas, pineapples, kiwi fruits, and watermelons fill the grocer's shop.	7
+19	0	0	7	0	1	9	0	1	0	1	0	0	0	0	1	1	0	3.0	0	14	The librarian, zebra, elephant, lion, monkey, jaguar, and flamingo discussed library rules.	7
+26	1	0	7	1	1	12	0	2	0	1	0	0	1	1	0	0	0	3.0	1	17	The librarian, book shelf, oak table, biology textbook, telescope, painting, and cat nestled comfortably in the cozy study room.	7
+21	1	0	6	1	1	8	0	2	0	1	0	0	1	0	1	0	0	3.0	0	13	The librarian, elephant, parrot, piano, book, monkey and flower stood motionless in the crowded room.	7
+21	0	0	7	1	1	8	0	2	0	1	0	0	1	0	1	0	0	3.0	0	14	The elephant, tiger, lion, zebra, rhinoceros, giraffe, and hippopotamus feasted on the sprawling savanna.	7
+25	0	0	7	1	1	12	0	3	0	1	0	0	0	0	1	1	0	3.0	0	21	The gardener carried a watering can, hose, spade, rake, hoe, pruner, and trowel through the blooming rose garden.	7
+19	0	0	6	1	1	7	0	2	0	1	0	0	1	0	1	0	0	3.0	0	12	The monkeys frolicked in the jungle, startling aglets, zebras, tigers, rhinos, and giraffes.	7
+20	0	0	7	0	1	8	0	2	0	1	0	1	0	0	1	1	0	3.0	0	15	The elephant, tiger, giraffe, monkey, zebra, rhino, and hippo were observing the savanna.	7
+21	1	0	7	1	1	8	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The lion, tiger, elephant, zebra, giraffe, monkey, and rhinoceros played together in the jungle.	7
+34	0	0	10	2	2	10	2	2	0	3	0	0	3	1	2	0	0	5.0	1	14	The giraffe, zebra, rhinoceros, elephant, monkey, tiger, and lion feasted on a vast savannah, their eyes fixed on their colorful, striped, and spotted prey.	7
+20	0	0	7	0	1	9	0	1	0	1	0	0	1	0	1	1	0	3.0	0	14	Apples, bananas, oranges, grapes, peaches, watermelons, and pineapples populate a vibrant fruit bowl.	7
+21	0	0	7	1	1	9	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The tiger, zebra, giraffe, rhino, elephant, hippopotamus, and crocodile gathered around the watering hole.	7
+19	0	0	9	0	1	9	0	0	0	0	0	0	0	0	0	0	0	2.0	0	17	 monkeys, zookeeper, uniform, cages, parrots, lemurs, pandas, hippos, and tigers.	7
+26	0	0	7	2	1	10	0	2	0	0	0	1	3	0	1	0	0	3.0	0	16	The librarian, bookshelves, books, bibliotheca, reader, table, and library card were essential for the quiet study of ancient texts.	7
+25	0	0	7	1	1	11	0	2	0	1	0	1	1	0	1	0	0	3.0	0	19	The librarian, biology textbook, dinosaur model, pencil sharpener, periodic table, microscope, and chair were arranged on the table.	7
+32	0	0	7	1	1	11	0	8	1	1	0	0	2	0	1	1	0	3.0	0	24	The librarian, the biology textbook, the microscope, the test tube, the beaker, the Bunsen burner, and the periodic table explored the complexities of molecular chemistry.	7
+21	1	0	7	1	1	8	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The elephant, rhinoceros, giraffe, zebra, cheetah, tiger, and lion roamed together in the savanna.	7
+31	0	0	6	2	1	12	0	8	0	1	0	0	0	0	1	1	0	4.0	0	17	The lighthouse keeper's daughter served tea to the whale, the mayor, the mermaid, the pirate, the fisherman, and the sea monster on the beach.	7
+21	0	0	7	0	1	9	0	2	0	1	0	0	1	0	1	1	0	3.0	0	14	The librarian, bookshelves, biographies, magazines, novels, computers, and patrons occupied the quiet library room.	7
+21	1	0	7	1	1	8	0	2	0	1	0	0	0	0	1	0	0	3.0	0	14	The elephant, tiger, monkey, giraffe, zebra, parrot, and rhino roamed freely in the safari.	7
+22	0	0	7	2	1	8	1	1	0	1	0	1	0	0	1	0	0	3.0	0	16	The sunflower, garden hose, rabbit, bookshelf, compass, bicycle, and apple were spread out before her.	7

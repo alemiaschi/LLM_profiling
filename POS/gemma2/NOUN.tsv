@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+15	1	0	1	3	0	4	0	4	0	0	0	1	1	0	1	0	0	3.0	0	6	 The silence of the room was as quiet as a whisper in the night.	0
+5	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	1	The void remained untouched.	0
+11	0	0	1	1	1	3	1	1	0	0	0	1	2	0	1	0	0	3.0	0	3	  She is the girl with big eyes and beautiful skin.	0
+16	0	0	4	2	0	4	0	3	0	1	1	1	0	1	2	0	0	3.0	1	5	"A sentence with 0 nouns is: ""The moon soared over the horizon"".."	0
+15	0	1	1	1	0	3	2	3	0	3	0	0	0	2	0	0	0	4.0	2	7	There are no words to generate as there are no nouns in the instruction.	0
+13	0	0	2	2	0	3	1	3	0	2	0	0	0	1	1	1	0	3.0	1	7	The sun rose in the sky, without any bodies inhabiting it.	0
+16	0	0	4	1	0	3	0	2	0	1	0	2	3	0	2	0	0	2.0	0	6	"A lone wordless sentence could be, ""Silence reigned in the vast emptiness."""	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The world is silent.	0
+14	0	0	3	3	0	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	4	" ""The absence of light was felt in the vastness of space."""	0
+16	1	0	2	2	0	4	0	2	0	0	1	2	2	0	1	0	0	4.0	0	11	Certainly, a single sentence devoid of words would be an utterance with 0 nouns.	0
+11	1	0	2	0	0	3	1	2	0	1	0	1	0	1	2	0	0	3.0	1	3	The void is a blank, emptiness that stretches infinitely.	0
+17	1	0	1	2	0	4	1	4	0	2	0	0	2	1	2	1	0	4.0	1	5	The absence of any entities rendered a serene silence that stretched infinitely upon the silent horizon.	0
+9	0	0	1	1	0	3	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The void is devoid of any living beings.	0
+16	1	0	2	1	0	3	1	2	0	2	0	2	1	0	2	1	0	3.0	0	9	Empty space has no nouns, so it cannot be written as a sentence.	0
+11	0	0	1	1	0	2	1	2	0	1	0	1	1	1	1	0	0	3.0	1	4	The sky was the only place for anything to hide.	0
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	0	0	0	2.0	0	5	 There is no sound in this room.	0
+13	0	0	2	1	0	2	2	1	0	2	1	1	0	1	1	0	0	4.0	1	3	  **There was not a thing I could write with zero nouns.**	0
+9	0	0	3	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	" ""Silence hung heavy in the air."""	0
+10	1	0	1	1	0	3	0	2	0	0	0	1	1	0	1	0	0	3.0	0	7	The absence of things is sometimes a beautiful thing.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The sky is blue without any clouds.	0
+34	0	0	3	6	2	10	1	7	0	2	0	1	2	1	1	1	0	6.0	1	12	The void is a place of emptiness and silence, with nothing but the echoes of the wind in the tall grass, rustling in the wind and creating a gentle rustling symphony.	0
+3	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  **Silence.	0
+13	1	0	5	2	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	"  _""The silence of the night stretched out indefinitely.""_"	0
+27	0	1	3	3	1	6	2	4	0	4	0	0	2	2	2	1	0	5.0	2	14	  The sun hung above the mountain peak, a solitary white sphere in the sky, waiting for someone to look up and appreciate its presence.	0
+9	0	0	1	2	0	2	1	1	0	0	0	1	1	0	1	0	0	3.0	0	2	The world is full of nothing but silence.	0
+6	0	0	3	0	0	2	0	1	0	0	0	0	0	0	0	0	0	1.0	0	2	"The word ""silence""."	0
+12	0	0	3	1	0	3	0	2	0	2	0	1	0	0	2	0	1	4.0	1	8	The sentence generated from this instruction is 'Nothingness exists.'	0
+18	0	2	2	3	0	2	2	2	0	3	0	0	1	2	1	1	0	4.0	2	8	The silence hung in the empty air, as if waiting for something to fill it up.	0
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There is no sentence with 0 nouns.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	  A void exists.	0
+8	0	0	1	1	0	3	0	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The void was an emptiness beyond comprehension.	0
+10	0	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	2.0	0	3	The empty void was a void for a reason.	0
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The sky is above.	0
+14	1	0	1	2	0	3	1	3	0	1	0	1	1	1	1	0	0	3.0	1	6	The sky above us is a blank canvas stretching infinitely across the horizon.	0
+9	0	0	3	0	0	3	0	1	0	0	0	2	0	0	2	0	0	2.0	0	5	"The sentence is ""Silence is gold."""	0
+12	0	0	1	2	0	3	1	2	0	1	1	0	1	0	0	0	0	4.0	0	3	There is no such thing as a sentence with 0 nouns.	0
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	4.0	0	3	The void remains empty, devoid of any presence.	0
+17	0	1	1	1	0	3	1	4	0	3	0	0	2	2	2	1	0	4.0	2	8	The empty void echoed in the silent room as no one dared to make a sound.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	She is an empty shell.	0
+9	0	0	1	0	1	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	2	The empty void echoed no thoughts or feelings.	0
+9	0	0	1	1	0	3	0	2	0	0	0	1	1	0	1	0	0	3.0	0	6	The void of thought is a boundless emptiness.	0
+9	0	0	1	2	0	2	1	1	0	1	0	1	0	0	1	0	0	3.0	0	2	 The void was filled with nothing but silence.	0
+20	0	0	2	0	0	4	1	3	0	5	1	1	1	3	1	3	0	5.0	3	7	The task was not given any context regarding zero nouns, making it impossible to generate the requested sentence.	0
+6	0	0	2	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is:  ***  The silence speaks louder than words in our silent language of existence.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sun was absent.	0
+10	0	0	2	1	0	3	1	2	0	1	0	0	0	0	0	0	0	2.0	0	6	   **There is no moon in the night sky.**	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	0	0	0	2.0	0	3	There is no such task.	0
+9	1	0	2	0	1	1	1	1	0	2	0	0	0	0	1	1	0	3.0	0	4	Nothing existed, and so did no sentences.	0
+13	0	0	2	1	0	3	0	3	0	2	0	0	2	1	1	1	0	4.0	1	4	The sky remained silent, providing no indication of an upcoming conversation.	0
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The city has one park.	1
+12	0	0	2	1	1	2	0	2	0	2	0	0	2	0	1	0	0	3.0	0	5	The old statue stood on the cliff, weathered and forgotten.	1
+15	1	1	2	2	0	3	0	3	0	2	0	0	1	1	1	0	0	2.0	1	8	  **A single snowflake danced across the sky for a moment before melting away.**.	1
+10	0	0	1	1	0	2	1	2	0	2	0	0	1	1	1	1	0	4.0	1	3	I saw a lonely crow standing on a branch.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A lone goose stood on the shore.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The lone mountain rose in the morning stillness.	1
+16	3	0	2	1	0	3	0	3	0	2	0	0	2	1	1	1	0	3.0	1	7	A single snowflake drifted gently down from the sky, illuminating the frosty grass below.	1
+13	0	0	1	2	1	3	0	3	0	2	0	0	1	0	1	0	0	3.0	0	5	The old book fell from the shelf and landed on the floor.	1
+15	0	0	2	2	0	5	0	3	0	1	0	0	2	0	1	0	0	4.0	0	4	A lone wolf gazed upon the moonlit sky, a silent expression of wonder.	1
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	5	The young girl chased her dog through the park.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The old book lay on the floor.	1
+21	0	0	4	3	1	6	2	1	0	2	0	0	2	1	1	1	0	4.0	1	6	 The book, full of wisdom, opened in her eager hands, filling her mind with stories and ideas.	1
+9	0	0	1	1	0	2	0	2	0	2	0	0	1	1	1	0	0	3.0	1	3	The old book sat neglected on the shelf.	1
+13	0	0	1	2	0	3	0	3	0	1	0	0	3	0	1	0	0	3.0	0	4	The lone mushroom grew under the watchful eyes of a silent owl.	1
+8	0	0	1	0	0	2	0	1	1	0	0	1	1	0	1	0	0	3.0	0	2	The young lady's name is Sarah.	1
+11	0	0	1	2	0	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	A spider web spun in the corner of the room.	1
+15	0	0	1	2	0	3	2	2	0	2	0	1	2	1	1	0	0	4.0	1	6	There is an old book on the shelf that is full of forgotten secrets.	1
+15	1	0	2	1	0	4	1	3	0	2	0	0	1	1	0	1	0	4.0	1	9	There was a single goose standing on the roof, watching the world below.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The moon rose in the sky last night.	1
+11	0	0	1	1	0	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	3	The girl's pet cat is running through the park.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The lone deer jumped across the plains.	1
+14	0	0	1	2	0	6	1	2	0	1	0	0	1	0	1	1	0	3.0	0	6	Moonlit night casts its shadow on the sleeping creature in the dark forest.	1
+15	0	0	2	2	0	5	0	3	0	1	0	0	1	0	1	0	0	5.0	0	4	A lone whale swam beneath the waves, a testament to nature's resilience.	1
+17	2	0	1	1	0	2	3	1	0	4	1	1	0	3	1	1	0	5.0	3	6	There is only one thing in the world that can make you forget how to breathe.	1
+18	0	2	2	1	0	3	2	3	0	4	0	1	0	3	2	2	0	5.0	3	6	 A shadow danced across the room, making it seem as if the sun was hiding itself.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A single sunflower bloomed in the garden today.	1
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	6	The farmer brought a new tractor to the field.	1
+10	0	0	1	1	0	3	0	2	0	2	0	0	1	0	1	1	0	2.0	0	5	The lonely castle stood sentinel against the darkening sky.	1
+13	1	0	1	2	0	3	1	1	0	2	0	1	1	0	1	0	1	4.0	1	7	A young girl playing with her pet rabbit was laughing out loud.	1
+12	2	0	2	0	0	2	1	1	0	2	0	0	2	1	1	1	0	3.0	1	4	The beautiful river flowed peacefully, carrying its clear waters upstream.	1
+18	0	0	2	1	1	5	0	4	0	2	0	0	3	1	1	1	0	4.0	1	6	The lake lay serene amidst the trees, reflecting the blue sky and the clear water lilies.	1
+10	0	0	1	1	0	3	0	2	0	2	0	0	1	0	1	0	0	2.0	0	5	The lone wolf wandered into the bustling city streets.	1
+10	0	0	2	1	1	3	0	1	0	0	0	1	1	0	1	0	0	3.0	0	2	**The library was full of books and chairs.**	1
+9	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	3	My father's truck sits in the driveway.	1
+11	0	0	1	2	0	4	0	2	0	0	0	0	2	0	0	0	0	3.0	0	3	  A single sunflower blooms on the plains in full sun.	1
+16	1	0	1	1	1	5	0	2	0	2	0	1	1	1	2	1	0	4.0	1	4	The city's biggest park is where people go for walks and enjoy the scenery.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The rain fell from above the city this afternoon.	1
+16	0	0	2	2	0	4	0	4	0	3	0	0	1	1	1	1	0	3.0	1	7	The moon rose in the west, casting a shimmering glow upon the slumbering ocean.	1
+15	1	0	2	0	0	4	1	2	0	2	0	0	2	1	1	1	0	5.0	1	5	A single snowflake tumbled down, its glistening bead reflecting the sun's light.	1
+10	0	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	3.0	0	7	The book on the shelf is a great read.	1
+18	0	0	2	2	0	4	1	4	0	4	0	0	1	3	0	1	0	4.0	3	9	There was a lone crow sitting on the fence, watching the children play in the park.	1
+15	0	0	2	2	0	5	0	3	0	2	0	0	1	1	1	0	0	5.0	1	3	The old oak tree leaned towards the lake, branches swaying in the breeze.	1
+7	0	0	1	1	0	2	1	0	0	1	0	1	0	0	1	0	0	2.0	0	2	My bicycle was left at home.	1
+11	1	0	1	0	0	4	0	2	0	2	0	0	0	0	1	1	0	3.0	0	5	The bookstore owner carefully examined the lost book's inscription.	1
+15	0	0	2	2	0	3	0	3	0	2	0	0	3	1	1	0	0	4.0	1	4	A single leaf floats in the tranquil lake, shimmering on the sun-kissed surface.	1
+13	0	0	2	2	0	3	1	2	0	3	0	0	0	2	1	1	0	5.0	2	5	She saw a spider wandering around the garden, looking for food.	1
+12	0	0	1	2	0	4	0	3	0	0	0	1	1	0	1	0	0	3.0	0	6	The lone tree in the field is a landmark of nature.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The old house stood on the hill.	1
+9	0	0	1	2	0	2	1	1	0	1	0	1	0	0	1	0	0	3.0	0	3	She was born with a love for books.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The rose blossomed in the morning sun.	1
+18	1	0	1	1	1	5	1	1	0	2	1	2	1	2	2	0	0	4.0	2	5	The bookstore and library are two places where people can go to escape from their daily lives.	2
+15	2	0	1	0	2	3	1	2	0	3	0	0	0	1	1	1	0	3.0	1	5	A farmer and a fox often work together to gather and store their crops.	2
+13	0	0	1	3	0	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	6	A field of wildflowers was dotted with butterflies in the afternoon sunlight.	2
+11	0	0	1	1	0	4	0	1	0	1	0	1	1	0	1	0	0	3.0	0	4	The farmers' market was filled with fresh produce today.	2
+15	0	0	2	1	2	3	1	2	0	2	0	1	1	1	1	1	0	4.0	1	6	She was wearing a dress and a hat, both made of different materials.	2
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	Two birds soaring through the sky.	2
+28	0	0	2	5	1	9	2	3	0	3	1	0	2	1	2	1	1	6.0	2	8	A group of artists working on a large mural depicted two lions in their midst, their bodies entwined in a complex composition of colors and patterns.	2
+14	0	0	1	0	2	4	0	3	0	0	0	1	2	0	1	0	0	3.0	0	4	The bookstore's newest release is both a novel and a captivating mystery.	2
+11	0	0	1	1	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	5	A city and a river are surrounded by a park.	2
+11	0	0	1	1	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	5	A farmer and a horse are working in the fields.	2
+17	0	0	2	2	1	4	0	3	0	2	0	1	2	1	1	0	0	4.0	1	5	A library and a garden were built in the old city, surrounded by ancient trees.	2
+16	0	0	3	2	0	4	0	3	0	2	0	0	2	0	1	1	1	4.0	1	7	An old book, lying on the floor, whispered secrets to the brave explorer.	2
+30	0	0	2	2	1	9	1	5	0	4	0	1	3	3	2	2	1	7.0	4	7	The artist's paintings displayed across the room were a sight to behold, each piece showcasing unique textures and vivid colours that brought life to the ancient building.	2
+16	0	0	1	1	1	5	0	3	0	0	0	1	4	0	1	0	0	3.0	0	7	   A vibrant city and ancient forest are a captivating contrast to the bustling metropolis life.	2
+19	0	0	4	2	1	6	1	3	0	2	0	0	0	1	1	2	0	3.0	1	10	A farmer and a chef stand hand-in-hand on the market, selling their wares.	2
+19	1	0	2	1	2	6	0	3	0	2	0	1	1	1	1	1	0	4.0	1	6	A library and a school were recently built in the town, housing many books and school supplies.	2
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	Two mountains stand in the distance.	2
+20	1	0	2	2	1	5	0	5	0	3	0	0	1	2	1	1	0	4.0	2	6	The young man and the woman stood on the bridge together, watching the moon rise over the sea.	2
+13	0	0	1	2	1	4	0	3	0	2	0	0	0	1	1	0	0	4.0	1	6	A pair of spectacles and a book lay scattered on the table.	2
+18	1	0	2	2	1	5	1	4	0	2	0	0	0	1	2	0	0	3.0	1	8	The castle and the mountain rose on the hill together, their shadows merging with the moonlight.	2
+14	1	0	2	2	0	3	0	2	0	1	1	1	1	0	1	0	0	2.0	0	8	  **Two friends were playing in the park together on a sunny day.**	2
+17	0	0	2	2	0	7	0	3	0	1	0	1	0	1	1	0	0	3.0	1	4	The dancing dancers' hats were a kaleidoscope of colours, shimmering under the disco ball.	2
+12	0	0	1	1	1	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	6	The library shelves and the bookshop aisles were brimming with patrons.	2
+15	0	0	1	2	0	5	0	3	0	1	0	1	1	0	1	0	0	3.0	0	6	The young woman's bedroom was a haven of comfort in the bustling city.	2
+20	0	0	2	1	1	7	0	1	0	3	0	0	4	2	1	2	0	5.0	2	6	The bustling city park had many couples enjoying nature's embrace, surrounded by vibrant greenery and soothing melodies.	2
+22	0	0	2	3	1	5	0	6	0	2	2	0	1	1	1	1	0	4.0	1	8	The bookstore and library both stood across the street from one another, suggesting a close connection between the two institutions.	2
+14	0	0	2	2	1	5	0	2	0	2	0	0	0	1	1	1	0	4.0	1	6	The farmer harvested a plethora of crops, consisting of apples and pears.	2
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The dancers danced across the vibrant city skyline.	2
+11	0	0	1	3	0	4	0	2	0	1	0	0	0	1	0	0	0	5.0	1	3	A group of animals playing in a field of wildflowers.	2
+18	0	0	2	1	0	6	1	2	0	2	1	0	3	1	2	2	0	3.0	1	11	Two mountains stand sentinel in the vast desert landscape, their rocky peaks piercing the endless horizon.	2
+11	0	0	1	1	0	4	0	2	0	1	1	0	1	0	1	1	0	3.0	0	7	The baker bought two fresh loaves of bread this morning.	2
+26	0	0	3	3	0	7	0	4	0	3	0	0	6	1	1	1	1	4.0	2	11	A beautiful forest filled with enchanting creatures emerged from the dense foliage, painting an awe-inspiring landscape on the tranquil afternoon sunlit stroll.	2
+10	0	0	1	1	1	4	0	2	0	1	0	0	0	0	1	1	0	4.0	0	5	A forest of giants and mountains adorned the sky.	2
+16	0	0	2	1	0	4	1	1	0	3	2	0	2	2	2	2	0	5.0	2	6	Two mountains stood facing each other, their heights marking two different chapters of history.	2
+23	0	0	2	2	1	8	0	3	0	2	0	0	4	1	1	2	0	4.0	1	9	The bustling city park offers a wide range of natural landscapes, offering tranquility and respite amidst a metropolis's vibrant heart.	2
+16	0	0	1	3	1	6	0	3	0	1	0	1	0	0	1	0	0	4.0	0	5	The bookstore and the library were filled with books about the history of space exploration.	2
+22	0	0	2	2	0	7	0	5	0	3	0	0	3	1	1	2	0	4.0	1	10	The dancing clouds cast a mesmerizing light upon the bustling city streets, illuminating the contrasting skyscrapers with a warm glow.	2
+21	1	0	1	2	2	6	0	4	0	4	0	1	0	1	2	1	0	6.0	1	9	The library and the park hold a shared space where people from all walks of life can gather and socialize.	2
+15	0	0	1	0	1	4	2	2	0	2	1	0	2	1	2	2	0	5.0	1	3	The two dancers performed a dazzling routine that showcased their remarkable grace and dexterity.	2
+14	0	0	1	2	2	4	0	2	0	2	0	1	0	0	1	0	0	4.0	0	6	A group of musicians and dancers are playing and dancing in the square.	2
+11	0	0	1	1	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	5	A spider and a feather were spinning in the sunlight.	2
+9	0	0	1	0	1	3	0	2	0	1	0	1	0	0	1	0	0	3.0	0	4	The bees and flowers were buzzing all afternoon.	2
+23	0	0	2	3	1	8	0	4	0	1	1	0	2	0	1	0	0	5.0	0	7	Two libraries stand on each side of the town square, a testament to the town's rich history and enduring spirit.	2
+16	0	0	1	1	2	5	1	3	0	2	0	0	1	0	1	1	0	3.0	0	5	A spider and a feather became best friends and shared their stories in the evening.	2
+17	0	0	1	2	1	4	1	2	0	1	1	1	3	0	1	0	1	4.0	1	8	The two birds singing in my backyard are a beautiful pair of blue and yellow parakeets.	2
+25	0	0	2	4	1	9	0	5	0	2	0	0	2	0	1	1	0	5.0	0	7	The bookstore and the library stood hand in hand across the busy street, a place of quiet refuge amidst the bustling city life.	2
+10	0	0	1	0	1	2	0	3	1	1	0	1	0	0	1	1	0	3.0	0	5	A cloud and a moon can orbit the Earth.	2
+11	0	0	2	2	0	3	0	1	0	2	1	0	0	1	1	0	0	3.0	1	5	Two students went to the supermarket, searching for groceries.	2
+19	1	0	2	3	0	4	0	3	0	3	0	0	3	2	1	0	0	5.0	2	4	A flock of hungry birds soared above, feasting on the ripe fruits plucked by a young farmer.	2
+24	1	0	4	1	1	5	2	5	0	2	0	1	1	1	3	2	1	4.0	2	10	Sure, a sentence that fulfills the instruction is:  **They visited the bookstore and the museum together on a rainy afternoon.**	2
+16	0	0	2	1	0	4	0	4	0	1	1	0	3	0	1	1	0	4.0	0	4	The young adventurers discovered three powerful artifacts, each a treasure of a different kind.	4
+30	1	0	4	4	1	7	1	5	0	4	1	0	2	1	1	1	0	4.0	1	11	The four friends went on a camping trip together, exploring an ancient forest, fishing beneath the moonlight, and gazing upon the majestic sunrise from their campgrounds.	4
+25	1	0	3	3	1	6	0	1	0	5	0	0	5	2	1	2	0	6.0	2	8	The young adventurers ventured into unexplored ruins of forgotten lore, exploring hidden wonders and solving riddles left behind by wise, ancient guardians.	4
+18	0	0	1	1	0	5	1	2	0	3	0	1	3	2	2	1	0	5.0	2	4	The bustling city square was packed with curious onlookers who gathered to witness the exciting street performers.	4
+19	0	0	2	2	0	4	1	3	0	2	0	1	4	1	2	1	0	4.0	1	7	The bustling metropolis was filled with diverse characters, each leaving their individual mark on the vibrant cityscape.	4
+24	0	0	3	4	1	8	0	2	0	2	0	1	3	0	1	0	1	5.0	1	6	A bustling city filled with bustling lives was painted by the setting sun with vibrant hues of gold, amber, and crimson.	4
+32	0	1	2	4	0	10	1	5	0	7	0	0	1	4	2	2	0	5.0	4	13	The city witnessed the bustling of life unfolding under the towering skyscrapers as morning commuters rushed through the streets, seeking their own stories to discover in the bustling city life.	4
+23	0	0	2	5	0	7	1	4	0	2	0	0	2	1	2	0	0	5.0	1	7	The flock of chickens clucked across the vast fields under a sky full of stars, their feathers gleaming under the moonlight.	4
+19	0	0	2	3	0	6	0	3	0	2	1	0	2	1	1	1	0	5.0	1	5	Four wise old foxes frolicked in the moonlight, creating a tapestry of stars on the meadow ground.	4
+19	0	0	3	3	0	5	0	4	0	3	0	0	1	1	1	1	0	5.0	1	7	The birds built a new nest, nestled amongst fallen leaves, near the edge of the pond.	4
+21	0	0	2	2	0	4	0	4	0	4	1	0	3	3	1	1	0	6.0	3	6	The four brave explorers embarked on a remarkable quest, seeking to uncover the secrets hidden behind the impenetrable jungle.	4
+24	0	0	1	4	1	7	0	4	0	2	0	0	4	1	1	2	0	4.0	1	10	A team of dedicated scientists assembled a vast network of intricate machines and robots to map out the hidden secrets of the galaxy.	4
+14	1	0	3	2	0	3	0	2	0	2	0	0	1	0	1	0	1	4.0	1	7	The majestic creatures, with wings spanning wide, flew into the sky.	4
+16	0	0	1	2	1	5	0	3	0	1	0	0	3	0	1	1	0	4.0	0	12	The children built a sprawling castle with turrets and moats within the sprawling magical forest.	4
+23	0	0	6	2	1	4	0	3	4	2	1	0	0	0	1	1	0	3.0	0	11	The four children, Emma, Alex, Charlie, and Ben, built a towering tower from blocks in the park.	4
+13	0	0	1	1	0	3	0	3	0	2	0	0	3	0	1	1	0	3.0	0	5	The young adventurers explored the majestic ruins of the long forgotten city.	4
+18	1	0	2	1	0	5	1	3	0	2	0	0	3	1	1	2	0	4.0	1	6	The rain washed away the dusty old road signs, restoring their clarity for a brief time.	4
+22	0	0	1	2	0	6	0	4	0	2	0	1	5	1	1	1	1	5.0	2	8	The bustling streets filled with bustling pedestrians were an ideal setting for an eventful celebration celebrating the city's diverse heritage.	4
+21	1	0	2	3	0	6	1	3	0	2	1	0	2	1	1	1	0	4.0	1	8	Four friends enjoyed a delightful evening together, sipping on their favorite cocktails amidst the twinkling stars in the sky.	4
+14	1	0	1	1	1	4	0	1	0	3	0	1	1	1	1	1	0	4.0	1	3	The bustling city park was filled with children flying kites and laughing together.	4
+21	0	0	1	4	1	6	0	4	0	1	0	0	4	0	1	1	0	5.0	0	11	The harmonious blend of colors of the sunset painted an enchanting landscape of golden and purple hues across the horizon.	4
+18	0	0	2	2	1	5	1	3	0	2	1	0	1	1	1	2	0	4.0	1	8	They assembled the four corners of the room, forming a cozy nook for reading and relaxation.	4
+32	0	0	5	3	1	9	0	7	1	2	1	0	2	1	1	1	0	6.0	1	14	The three astronauts, the space vehicle, the rocket, and the launch pad all converged on the predetermined point in space, ready to initiate the journey to Mars.	4
+19	0	0	4	1	1	7	0	2	0	2	0	0	2	0	1	1	1	5.0	1	12	A vibrant meadow filled with wildflowers, butterflies, birds, and buzzing bees surrounded the tranquil manor.	4
+11	0	0	1	2	0	3	0	2	0	1	1	0	1	0	1	0	0	3.0	0	4	  Four friends went on a trip to a beautiful beach.	4
+14	0	0	1	2	0	3	0	2	0	0	1	1	4	0	1	0	0	3.0	0	4	The bustling city was alive with a harmonious symphony of four distinct neighborhoods.	4
+23	0	0	3	2	1	7	0	2	0	2	0	0	5	0	1	0	0	3.0	0	10	The city's cathedral, majestic towers, bustling streets and shimmering river came alive with vibrant colors on a sunny afternoon.	4
+18	0	0	2	2	1	6	0	2	0	1	0	1	3	0	1	0	1	5.0	1	11	The bustling city filled with bustling people, buildings and birds was a symphony of urban life.	4
+19	0	0	3	2	1	6	0	2	0	1	0	1	2	0	1	0	0	5.0	0	8	The bustling streets are filled with the echoes of music, laughter, and life's joyful exuberance.	4
+12	0	0	1	2	0	3	0	2	0	2	1	0	0	1	1	0	0	4.0	1	3	Four friends decided to go on an adventure around the neighborhood.	4
+20	0	0	2	3	0	6	1	4	0	2	0	0	2	1	2	1	0	4.0	1	7	A pack of wolves roamed the icy plains, their fur glistening in the moonlight during a frigid night.	4
+24	1	0	4	2	1	7	0	3	0	4	0	0	1	2	1	3	0	4.0	2	9	A group of friends gathered in the park to play volleyball, frisbee, and jump rope, having a great time together.	4
+13	0	0	2	2	0	3	0	2	1	2	0	0	0	1	1	1	0	3.0	1	5	  **A group of friends gathered at the park to play Frisbee.**	4
+16	1	0	2	1	0	4	0	3	0	2	0	0	3	1	1	2	0	4.0	1	4	The young children played hopscotch together, exploring the vibrant green spaces around the castle.	4
+15	0	0	2	1	0	4	0	3	0	3	0	0	2	1	1	2	0	4.0	1	5	  The weary travellers traversed the desolate plains, seeking respite from the scorching heat.	4
+14	0	0	1	2	1	5	0	2	0	1	0	1	1	0	1	0	0	3.0	0	7	The bustling city square was bustling with laughter and activity throughout the day.	4
+20	1	0	4	1	1	6	0	2	0	2	0	0	2	1	1	1	0	4.0	1	11	A team of dedicated architects, engineers, lawyers, and painters banded together to build a stunning cathedral.	4
+25	0	0	3	3	0	7	1	6	0	4	0	0	1	3	3	2	0	6.0	3	6	A group of musicians stood in the band, each playing a unique instrument, creating a melody that soared through the night sky.	4
+17	1	0	2	2	0	4	0	3	0	2	2	0	1	1	1	1	0	4.0	1	6	The three friends ventured deep into the forest, encountering two wild cats in the process.	4
+22	0	0	3	3	2	7	1	3	0	1	0	1	1	0	1	0	0	4.0	0	12	The city, with its cobblestone streets and towering monuments, was a testament to an era of grandeur and resilience.	4
+17	0	0	2	3	0	6	1	2	0	2	0	0	1	1	2	0	0	3.0	1	8	A flock of geese soared across the blue sky, their feathers glistening with morning dew.	4
+30	0	0	4	3	1	9	2	5	0	1	0	1	4	1	2	1	0	4.0	1	19	The flock of geese, the mighty castle, the sparkling streams, and the lively marketplace are a vibrant spectacle of nature that fills our hearts with wonder.	4
+23	0	0	2	3	1	6	1	4	0	3	0	1	2	1	2	1	0	4.0	1	11	The vibrant city was adorned with a kaleidoscope of buildings and towering statues, each telling a different story within its facade.	4
+22	1	0	4	1	1	5	0	3	2	3	2	0	0	0	1	0	2	4.0	2	15	Four friends, a dog named Rusty, three bikes and a car named Mary, went on a ride together.	4
+22	2	0	3	1	1	7	1	2	0	3	0	1	1	0	2	2	1	6.0	1	16	A bustling marketplace where vendors peddle an abundance of fruits, vegetables, and handcrafted goods will certainly entice your wanderlust.	4
+25	0	0	3	4	0	6	0	5	0	3	0	0	3	1	1	1	1	4.0	2	8	The bustling city, bustling with the daily hustle, offered an intriguing set of sights to behold in the heart of the metropolis.	4
+24	0	0	3	4	1	7	1	3	0	3	0	0	2	0	1	0	1	6.0	1	12	A vibrant tapestry woven from the threads of laughter, friendship, and adventure unfolded on the sprawling tapestry of our shared past.	4
+11	0	0	1	1	1	3	0	1	0	2	1	0	1	0	1	1	0	3.0	0	5	Four friends walked into the bakery and bought different treats.	4
+22	1	0	5	1	0	3	0	5	1	4	1	0	1	1	2	1	2	6.0	3	12	The four students, each holding a book titled “The Odyssey”, stood huddled together on the dusty ground.	4
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  * The old oak trees, the bustling port, the ancient castle, and the sparkling stream were woven together, painting the tranquil scene in vibrant colors.	4
+19	1	0	2	3	0	6	0	2	0	3	1	0	1	2	1	0	0	5.0	2	7	Seven stars hung gently in the night sky, twinkling like diamonds scattered across a dark velvet blanket.	7
+14	0	0	1	2	0	4	0	3	0	1	0	0	3	0	1	0	0	2.0	0	9	The colorful flowers danced across the vast fields under a brilliant afternoon sun.	7
+24	1	0	2	2	2	5	3	3	0	4	0	1	1	1	2	3	0	5.0	1	6	They all brought their essentials and made the pilgrimage to the ancient ruins, where they would journey for days and seek adventure.	7
+17	0	0	1	3	1	6	0	3	0	2	0	0	1	1	1	1	0	5.0	1	6	The symphony of stars awoke the celestial beings to a night filled with wonder and illumination.	7
+27	0	1	1	4	1	6	0	4	3	2	0	1	3	2	2	0	0	4.0	2	12	The bustling streets of London were alive with pedestrians and the sounds of city life as the sun began to crest over the majestic Buckingham Palace.	7
+12	0	0	1	1	1	3	0	1	0	1	0	1	3	0	1	0	0	3.0	0	3	The bustling city was adorned with colorful buildings and shimmering lights.	7
+19	0	0	1	2	1	6	2	2	0	3	0	0	1	1	1	2	0	5.0	1	4	A band of musicians assembled to play their instruments and share their musical journey in the town square.	7
+29	1	0	2	6	0	7	1	2	0	3	0	1	6	2	1	1	0	5.0	2	10	The sprawling city was adorned with the most diverse collection of architecture, encompassing everything from charming houses to majestic towers to sprawling skyscrapers bathed in warm sunlight.	7
+24	0	0	2	2	0	5	2	4	0	4	1	0	3	3	1	2	0	5.0	3	10	There was a harmonious melody composed of a symphony of seven instruments, each playing its unique melody to create a beautiful tapestry.	7
+27	0	0	4	4	1	8	0	4	0	2	0	0	4	1	1	2	0	4.0	1	10	A vast array of creatures, with varying sizes and colors, roamed the enchanted forest at sunset, leaving a breathtaking sight in the sky.	7
+28	0	0	2	4	1	7	2	2	0	2	1	0	7	1	1	1	0	4.0	1	8	A vast array of fascinating animals with seven unique features lived in a lush green forest, enriching their ecosystem with their vibrant colors and remarkable behaviors.	7
+22	0	0	2	3	0	5	1	4	0	2	1	1	3	1	2	1	0	3.0	1	7	The seven magical creatures of creation were unleashed into the world, each bringing their peculiar talents to the nascent society.	7
+22	1	0	2	3	1	7	1	2	0	2	1	0	2	1	2	0	0	5.0	1	9	Seven vibrant dancers moved across the moonlit stage, their bodies gracefully intertwining in a beautiful symphony of light and motion.	7
+16	0	0	1	1	1	3	0	3	0	2	0	0	5	0	1	1	1	4.0	1	7	The vibrant tapestry woven between the towering ancient trees painted the landscape colorful and breathtaking.	7
+11	0	0	1	2	0	3	0	2	0	1	1	0	1	0	1	0	0	3.0	0	5	A team of seven skilled doctors gathered at the hospital.	7
+19	0	0	2	4	0	5	0	2	0	1	0	1	4	0	1	0	0	3.0	0	12	In the enchanting realm of endless possibilities, a vast symphony of interconnected worlds was nurtured to life.	7
+26	0	0	3	3	2	7	0	3	0	4	0	0	4	0	1	0	1	5.0	1	12	The sprawling kingdom, adorned with towering castle towers and glistening crystal pools, thrived under the benevolent care of a wise and virtuous queen.	7
+21	0	0	2	3	0	6	1	4	0	4	0	0	1	2	2	1	0	6.0	2	8	The wind swept across the rolling fields, its whispers carrying the melody of birds singing across the sunlit meadows.	7
+33	0	1	2	5	2	12	0	6	0	1	0	1	2	1	2	0	0	5.0	1	14	The city was abuzz with a symphony of life and culture today, as the bustling streets echoed with the melody of life's laughter and the roar of the street performers.	7
+20	1	0	2	3	0	5	0	3	0	2	0	1	3	1	1	1	0	3.0	1	6	A flock of birds was soaring through the vibrant sky, casting long shadows on the sprawling farmland below.	7
+10	0	0	1	1	1	3	0	1	0	2	1	0	0	0	1	1	0	3.0	0	3	Seven birds took flight and soared towards the sky.	7
+17	0	0	1	2	0	5	1	3	0	2	0	0	3	1	1	1	0	4.0	1	8	The dancers wore their colorful gowns to the vibrant dance party hosted in the majestic castle.	7
+22	0	0	2	3	0	7	1	4	0	2	0	0	3	1	2	1	0	3.0	1	8	A flock of colorful birds soared above the serene lake, their feathers creating a mesmerizing mosaic against the azure sky.	7
+23	0	0	1	3	0	7	2	4	0	3	0	0	2	1	2	3	1	4.0	2	8	A company that distributes solar panels across different cities earned the admiration of the community after their initiative to help the environment.	7
+15	0	1	1	2	0	5	1	2	0	2	1	0	0	1	2	1	0	3.0	1	7	Seven stars danced through the sky as the moon bathed everything in silver moonlight.	7
+19	0	1	1	4	0	5	1	3	0	2	0	0	2	1	2	0	0	3.0	1	6	The bustling streets of the city hummed with life as the city gears up for its grand opening.	7
+28	2	0	2	3	0	7	2	4	0	4	0	0	3	3	2	4	0	6.0	3	11	A bustling market held an array of objects from all over the world, creating a magical display that brought people together to admire its wondrous beauty.	7
+27	0	0	2	3	0	8	1	4	0	3	0	1	5	2	2	2	0	6.0	2	10	The city was adorned with a dazzling display of autumn foliage – lush leaves of diverse shades adorning the majestic trees that dominated the sprawling landscape.	7
+15	0	0	1	3	1	5	0	2	0	1	0	0	2	0	1	0	0	4.0	0	4	A vibrant tapestry of colors arose from the harmonious blend of nature and man.	7
+24	0	0	4	3	1	7	0	2	0	4	0	1	2	2	1	1	0	6.0	2	7	The bustling town square was teeming with activity throughout the day, filled with people strolling, shopping, and enjoying various entertainment.	7
+25	0	0	2	6	0	7	0	6	0	2	0	0	2	1	1	0	0	5.0	1	9	  The bustling streets of the city echoed with the sounds of people passing by, each a unique character in this mosaic of humanity.	7
+20	0	0	2	4	0	6	0	3	0	2	0	0	3	1	1	0	0	5.0	1	5	A vibrant tapestry of colors emerged from the folds of ancient silk, shimmering in the warm afternoon sun.	7
+24	1	0	2	4	2	5	2	4	0	3	0	0	1	1	1	2	0	6.0	1	6	The children gathered together in the field, collecting flowers and sharing them among themselves and with the old lady in the village.	7
+14	0	0	1	2	0	4	0	2	0	2	0	1	2	1	1	1	0	5.0	1	3	The intricate labyrinth was traversed by a collective of adventurers seeking ancient treasures.	7
+15	0	0	2	2	0	3	0	4	0	1	1	0	2	0	1	1	0	4.0	0	6	The children built seven castles on the hill, each bigger than the last.	7
+21	0	0	2	2	0	7	0	4	0	2	0	0	3	1	1	2	0	4.0	1	9	A flock of vibrant geese circled the lush pond, reflecting the golden sun's brilliance on the azure surface.	7
+23	0	0	4	3	1	8	0	3	0	2	0	0	2	1	1	1	0	5.0	1	6	The harmonious symphony of colors danced across the vibrant city, encompassing a kaleidoscope of flora, fauna, and cityscape wonders.	7
+21	0	0	3	3	0	6	0	2	1	3	1	0	2	2	1	3	0	5.0	2	6	Seven stars illuminated the sky, casting dazzling light upon Earth, painting the atmosphere in enchanting hues of wonder.	7
+15	0	0	1	3	0	5	0	3	0	1	0	0	2	0	1	1	0	3.0	0	6	A field of wildflowers painted the barren landscape with a kaleidoscope of vivid colors.	7
+15	1	0	2	1	0	3	1	2	0	3	1	0	1	2	0	1	0	5.0	2	6	There were seven stars shining brightly across the sky, making a celestial tapestry.	7
+21	1	0	3	2	1	5	1	2	0	4	1	0	1	1	2	2	0	4.0	1	6	Seven friends gathered around the fireplace, each wearing their favorite sweaters, listening to stories and singing songs together.	7
+14	0	0	1	3	0	4	0	3	0	1	1	0	1	0	1	0	0	3.0	0	4	The seven colorful members of the band combined into a symphony of sound.	7
+29	0	0	1	5	0	8	2	6	0	3	1	1	2	2	3	1	1	8.0	3	5	The five rivers flowing across the plains carved a valley that is home to a unique collection of birds that migrate during the warmer months of the year.	7
+28	0	0	4	3	1	10	0	5	0	3	0	0	2	1	1	2	0	5.0	1	9	The intricate dance of sunlight, water droplets, and shadows spun a web of stories on the ancient tapestry, each glyph representing a forgotten memory.	7
+22	0	0	2	3	0	4	0	5	0	4	1	0	2	4	1	1	0	4.0	4	10	A team of seven artists assembled on the beach, each holding a colorful palette at the ready to start painting.	7
+32	0	0	4	3	2	12	0	4	0	2	0	0	3	1	1	2	0	5.0	1	10	The dancers, musicians, and actors created a symphony of light, sound and emotions to celebrate the beauty of human life's fleeting spark in a vibrant city square.	7
+23	1	0	2	3	0	6	0	4	0	3	0	0	4	2	1	0	0	5.0	2	8	The bustling city streets hummed with the sound of people flowing past, an eclectic tapestry woven into the bustling urban tapestry.	7
+24	0	1	2	4	0	6	2	2	0	3	1	0	3	2	2	1	0	5.0	2	7	Four squirrels scampered across the leafy leaves, leaving colorful trails behind them as they searched for acorns beneath an enormous oak tree.	7
+30	1	0	3	2	1	7	0	7	0	3	1	0	4	2	2	1	0	7.0	2	8	  The seven bridges of the city spanned the rushing river, each a shimmering silver thread weaving through the city's heart, each leading somewhere different and intriguing.	7
+12	0	0	1	2	0	4	0	2	0	1	0	1	1	0	1	0	0	3.0	0	4	The city park was adorned with a colorful tapestry of wildflowers.	7

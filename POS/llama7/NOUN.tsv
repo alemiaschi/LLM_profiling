@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+9	1	0	2	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	Slowly, the cat purred in the sunbeam.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat meowed silently.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+6	0	0	1	0	0	2	0	0	0	2	0	0	1	1	1	1	0	2.0	1	3	Rocks roll red roofs rustling.	0
+13	1	1	1	1	0	3	1	3	0	2	0	0	0	1	1	2	0	2.0	1	8	The cat chased the mouse around the house without ever catching it.	0
+20	0	0	2	3	1	6	1	3	0	2	0	0	2	1	2	1	0	5.0	1	7	The sun set over the horizon, its rays painting the sky with warm hues of orange and pink.	0
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The moon wandered lonely amid cosmic voids.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sky laughed at the trees.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	A cat purred contentedly on my lap.	0
+6	1	0	0	0	0	1	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The quick brown fox laughed quietly	0
+8	0	0	0	1	2	1	1	0	0	3	0	0	0	0	1	0	0	3.0	0	4	She smiled and laughed and jumped for joy	0
+4	0	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	2.0	0	1	Golden memories flicker. (1 noun: memory)	0
+8	1	0	2	1	0	2	0	0	0	2	0	0	0	0	1	0	1	3.0	1	5	Screaming with excitement, colors exploded everywhere.	0
+8	0	0	1	1	0	1	2	1	0	1	0	0	1	0	1	1	0	2.0	0	5	I ate the entire pizza by myself.	0
+9	1	0	1	2	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	In silence he moved swiftly through the forest. (0 nouns)	0
+12	0	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	2.0	0	8	The wind whispered across the barren landscape with an unsettling intensity.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The rain fell softly on the empty streets.	0
+13	0	0	2	1	1	3	1	2	0	1	0	0	2	0	2	0	0	3.0	0	7	The orange danced in the kitchen, its movements quick and lively. (0 nouns)	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car accelerated down the highway.	0
+9	2	1	0	0	0	1	2	1	0	2	0	0	0	1	2	1	0	2.0	1	4	This cat purred quietly while I petted it gently	0
+8	0	0	1	0	1	3	1	0	0	1	0	0	1	0	1	1	0	3.0	0	5	It rained cats and dogs last night.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Clouds float gently across the sky.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly over the mountain.	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	The sun was setting over the calm waters.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+14	1	0	3	1	0	3	0	3	0	2	0	1	0	1	2	0	0	4.0	1	4	"No nouns were found in the sentence ""The cat purred contentedly."""	0
+12	1	0	2	1	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	The stars twinkled incessantly, a celestial display of unadulterated brilliance.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the mouse.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	A cat purred contentedly on my lap.	0
+11	0	0	2	1	0	2	0	2	0	2	0	0	2	0	1	0	1	3.0	1	9	Slipping through the misty forest, the unseen creature howled. (1 sentence/0 nouns)	0
+8	0	0	1	1	0	4	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog purple cat laughed at sunset. (Nouns: dog, cat, sunset)	0
+7	1	0	1	1	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	A dark shape crept up silently.	0
+10	0	0	1	1	1	3	0	1	0	1	2	0	0	0	0	1	0	3.0	0	5	 Generate a sentence with 0 verbs and 0 nouns. Write only the sentence, without adding further text and without explanations. And make sure that all elements are prepositional phrures.	0
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	1	0	2.0	0	3	"The flamingo lapped water with ease. (Note: Although the instruction specifies no nouns, this sentence does contain the word ""flamingo"". Therefore, this response is not compliant with the original request.) "	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The car zoomed into the dark night. (0 nouns)	0
+8	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The sun was shining down upon me.	0
+9	0	0	1	1	0	2	0	1	0	1	1	0	2	0	1	0	0	2.0	0	4	Nine blue butterflies skipped across the silent ocean.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred gently in my lap.	0
+10	2	0	1	1	0	3	0	1	0	2	0	0	0	1	1	0	0	4.0	1	4	Sleeps quickly in a world where rainbow unicorns prance.	0
+15	0	1	2	2	0	3	1	2	0	3	0	0	1	2	1	1	0	4.0	2	5	I walked across the void without stopping, reaching the other side with ease. (0 nouns)	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	He laughed loudly without any pause.	0
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A flaming pink sky pierced silently across the landscape.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred with joy silently.	0
+17	0	0	2	4	0	4	2	2	0	2	0	0	1	0	1	0	1	4.0	1	6	Rising above their fears, they reached for the stars in the velvety darkness of space. (No nouns used in this sentence.)	0
+11	0	0	2	2	0	2	0	2	1	1	0	0	1	0	1	0	0	2.0	0	6	Naked, Bono leapt from a plane without any nouns. (1 sentence)   Is this correct? I tried to follow your directions as best I could. Please let me know whether this was acceptable, or if you want me to revise my answer.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on the lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred silently under the table.	0
+4	0	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1.0	0	1	Moon shone bright. (1 sentence)	0
+6	0	0	1	1	0	2	0	0	0	1	0	0	1	0	1	0	0	2.0	0	2	Invisible jellyfish danced in mid-air.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	A big elephant slowly moved through the dense jungle.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	1	0	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	3	My favorite toy is a cat.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Lions eat zebras.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The giant elephant trumpeted loudly in the jungle.	1
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	5	Wildlife roamed freely in the lush forest.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the cat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	0	1	0	2.0	0	5	Runs the tiger through the jungle.	1
+3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	1	Lion roared.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat purred on my lap.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The bear walked slowly through the forest. (1 noun: bear)	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+4	1	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun laughed brightly	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The mountain peaked in the morning sunlight.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rose over the mountains.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+11	1	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	6	The sun was shining brightly in the clear blue sky.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The moon lit up the night sky.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The monkey grinned widely.	1
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The dog chased the cat quickly around the tree.	1
+6	1	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	Warrior charged the dragon fiercely.	1
+7	1	0	0	1	0	2	2	0	0	1	0	0	0	0	1	0	0	2.0	0	4	My cat purred contentedly on my lap	1
+6	0	0	0	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	One bison ran across the prairie	1
+7	0	0	1	0	0	1	1	1	1	2	0	0	0	1	1	1	0	3.0	1	2	I have a dog named Max.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The big red moon rose in the night sky.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The ocean is blue.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The elephant grabbed the peanut with its trunk.	1
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	I enjoyed the beautiful sunset.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The tiger stalked through the dense jungle vegetation.	1
+14	0	0	3	2	0	4	0	3	0	1	1	0	0	0	1	0	0	3.0	0	10	The lion rested in the shade of the tree. (1 noun)	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	The sky turned a beautiful shade of blue. (1 noun: sky)	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	One sun shone in the sky. (1 noun: sun)	1
+7	0	0	0	0	0	2	2	1	0	2	0	0	0	1	1	2	0	4.0	1	2	I saw a dog chasing my cat	1
+12	2	0	2	1	0	2	0	1	1	2	0	0	0	0	1	0	1	3.0	1	6	Living alone, Sarah's cat slept peacefully on the windowsill.	1
+7	0	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	Sand was spilled on the table.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	A large brown bear roared in the dense forest. (1 noun)	1
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Laptop slept on desk.	1
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	One cat chased the mouse across the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sunflowers towered over the meadow.	1
+11	1	0	1	1	0	4	0	1	0	1	0	0	1	0	1	0	0	3.0	0	6	Fishing rod gently swept through the sparkling lake's water.	1
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Elephants trumpet.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The monkey swung through the jungle.	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Sunflowers stretched towards the sky. (1 noun: sunflowers)	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sunflower bloomed in the garden.	2
+4	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Sunflowers and honeybees.	2
+6	0	0	0	0	0	1	0	1	1	1	0	0	2	0	1	1	0	2.0	0	4	Lucas saw a big red ball	2
+5	1	0	0	0	0	2	0	0	1	1	0	0	0	0	1	0	0	3.0	0	1	Apple tree climber sat under	2
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on John's lap.	2
+16	1	0	1	2	1	3	2	3	0	3	0	0	0	1	1	2	0	4.0	1	7	She took a book from the shelf and sat reading it comfortably on the couch.	2
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	A big grey elephant roared at the tiny kitten.	2
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	She bought two mangoes.	2
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	Hamsters chased the cheese.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the cat.	2
+8	0	0	1	0	0	2	0	1	2	1	0	0	1	0	1	1	0	2.0	0	4	Ms. Johnson taught the excited kindergarten class.	2
+8	1	0	1	1	0	2	0	1	0	2	0	0	0	0	1	0	0	2.0	0	5	Snowflakes fluttered gently through the frozen sky.	2
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Clouds drifted lazily across the sky.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rose over the mountains.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the mouse.	2
+6	0	0	1	0	0	2	0	0	0	1	0	0	2	0	1	1	0	2.0	0	2	Happy cat chased excited mouse.	2
+6	0	0	1	0	0	2	0	0	0	1	0	0	2	0	1	1	0	2.0	0	2	Fast horse chased slow turtle.	2
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the cat.	2
+4	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2.0	0	1	Cloud float piano.	2
+8	0	0	1	0	0	3	0	3	0	1	0	0	0	0	1	2	0	2.0	0	4	The teacher handed the student a book.	2
+11	0	0	1	2	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	4	The teacher pets the kitten curled up in the corner.	2
+19	0	0	1	3	0	5	0	4	0	3	0	0	3	1	1	1	1	4.0	2	8	Nestled in the heart of the dense forest lay a majestic owl perched on a gnarled tree branch.	2
+10	1	0	0	1	1	3	0	1	0	1	0	0	2	0	1	0	0	3.0	0	6	Sunflowers and hummingbirds darted playfully in the bright warm sun	2
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	Cats chase dogs.	2
+5	0	0	0	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the cat	2
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	A cat purred in front of a mouse.	2
+8	0	0	1	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat curled up on the couch.	2
+7	0	0	1	1	0	2	0	0	0	1	0	0	2	0	1	0	0	2.0	0	3	Happy hippo laughed at noisy night.	2
+8	0	0	1	0	0	3	0	0	1	1	0	0	1	0	1	1	0	3.0	0	3	Warm woolen socks warmed John's feet.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A snowflake descends upon a mountain.	2
+6	0	0	1	0	0	2	0	0	0	2	0	0	1	0	1	1	0	2.0	0	2	Lost city discovered hidden forest.	2
+14	0	0	1	1	0	4	2	3	0	2	0	1	0	0	2	2	0	3.0	0	8	The sun warmed my face at the beach  Would you like another sentence? Please say so in the chat.	2
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The computer mouse clicked quietly across the wooden desk.	2
+7	0	0	1	0	1	1	0	1	0	1	0	0	2	0	1	0	0	3.0	0	2	The tree grew tall and green.	2
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Tiger chased lion.	2
+4	0	0	2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1.0	0	2	 Brian, guitar)	2
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The big elephant walked slowly through the jungle.	2
+3	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Bucket elephant.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly over the ocean.	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	2
+6	0	0	0	0	0	4	0	0	0	1	0	0	1	0	2	0	0	2.0	0	4	Writing tools desk lamp glowed bright	2
+4	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	 mountain, trail)	2
+5	0	0	0	0	0	2	0	0	1	1	0	0	1	0	1	1	0	2.0	0	2	Brown dog chased orange cat	2
+11	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	A delicious ice cream cone sat on the hot sidewalk.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on the windowsill.	2
+8	0	0	1	1	0	2	0	1	0	2	0	0	1	0	1	0	0	2.0	0	4	Lively kittens frolicked beneath the shimmering sunlight.	2
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	Bird soared sky.	2
+8	0	0	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	4.0	1	2	She opened the box containing the books. (books/box)	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on the windowsill.	2
+4	0	0	0	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Sally painted the tree	2
+8	0	0	4	0	0	2	0	0	0	0	0	0	2	0	0	0	0	1.0	0	6	 big, blue, boat, green)	4
+16	1	0	2	1	1	4	0	4	0	3	0	0	0	1	2	1	0	5.0	1	5	A snowflake falls on a mitten, where a puppy sleeps and chirps a robin. 	4
+16	0	1	1	2	0	6	1	3	0	2	0	0	0	1	2	1	0	3.0	1	8	The car sped down the mountain road while the dog wagged its tail with excitement. 	4
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the cat through the park.	4
+19	0	0	3	3	1	4	0	3	1	3	0	0	1	1	1	1	0	4.0	1	11	Mary sat on a hill, beneath a tall tree, and watched a family of deer roam.	4
+9	0	0	1	1	0	3	1	1	1	1	0	0	0	0	1	1	0	2.0	0	6	John ate a pineapple pizza with his sister. 	4
+7	0	0	1	1	0	2	0	0	1	2	0	0	0	0	1	0	0	2.0	0	3	Winter storm howled over frozen pond.	4
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The big blue whale swam slowly through the clear green water.	4
+16	1	0	4	0	1	6	0	2	0	1	0	0	1	0	1	1	0	3.0	0	9	The ocean, waves, sand, and beach umbrella enjoyed a leisurely day together.	4
+8	1	0	1	1	0	3	0	1	0	1	0	0	0	0	1	0	0	2.0	0	5	Daffodils swayed gently in the ocean breeze. 	4
+19	0	0	4	2	1	6	1	2	0	1	0	0	2	0	1	0	0	4.0	0	7	The boss walked into the meeting, alongside their executive assistant, marketing director, and new employee. 	4
+9	1	0	1	1	0	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The sun set slowly over the rolling hills. (Rolling hills, sun, set)	4
+10	0	0	1	2	0	3	0	0	1	2	0	0	1	1	1	0	0	4.0	1	4	Sun rose over mountainside covered in tall oak trees.	4
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on John's lap.	4
+14	0	0	1	2	0	4	0	2	0	2	0	0	3	1	1	0	0	4.0	1	5	The car raced down the long winding road lined with tall green trees.	4
+24	0	0	4	3	1	8	0	4	0	4	0	0	0	0	4	1	0	3.0	0	18	Lizards climbed the tree, birds sang in the bushes, monkeys played in the branches, and cats purred in the leaves.	4
+21	0	1	1	4	0	7	0	4	0	2	0	0	2	1	2	1	0	4.0	1	10	A group of elephants walked across the sun-kissed savannah while a pride of lions hunted buffalo in the nearby forest.	4
+17	1	0	2	2	0	5	1	3	0	1	0	0	2	0	2	0	0	4.0	0	6	The cat purred contentedly on the windowsill, its fluffy gray fur glowing in the sunlight.	4
+16	1	1	1	2	0	4	0	3	0	2	1	0	1	1	2	0	0	3.0	1	9	The sun smiled brightly over the sandy beach as four children played with the ball.	4
+15	0	0	3	1	1	4	0	3	1	2	0	0	0	0	1	1	0	3.0	0	6	A lion, zebra, and elephant roamed the Savannah under a scorching sun.	4
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The rain fell softly on the green hillsides. (1 sentence)	4
+11	0	0	0	1	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The man stood on the rocky cliff overlooking the crashing waves	4
+16	1	1	1	2	0	4	0	3	1	2	0	0	0	1	2	0	0	3.0	1	9	The cat purred contentedly on Mary's lap while the sun set over the mountain.	4
+10	0	0	1	1	0	4	0	1	0	1	0	0	2	0	1	0	0	3.0	0	7	Snowflakes fell on the red wooden jumble sale sign.	4
+8	1	0	4	0	0	3	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	 cat, cushion, sunroom, contentedly)	4
+20	0	1	1	3	0	7	0	4	0	3	0	0	1	1	1	1	0	3.0	1	9	The fluffy puppy cuddled in front of the swaying palm tree while chasing the butterfly under the shining sun.	4
+31	1	0	1	5	0	9	0	5	0	4	0	0	6	1	1	0	1	5.0	2	9	A tasty pineapple orange juice squeezed in a colorful glass jug sat atop a dusty counter by a small windowsill next to a soft couch covered in faded plaid cushions.	4
+13	1	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	5	The cat purred contentedly on the soft blanket in the warm sunlight.	4
+13	0	0	4	0	1	4	0	4	0	0	0	0	0	0	0	0	0	2.0	0	10	The sun, the sky, the cloud, and the bird.	4
+19	2	1	1	3	0	5	0	5	0	2	0	0	0	1	2	0	0	3.0	1	11	The dog ran away from the tree across the road while the cat purred contentedly on the windowsill.	4
+16	0	0	2	3	0	5	0	3	0	2	0	0	1	0	1	0	0	4.0	0	9	The horse ran through the rainbow-colored gate into the field full of butterflies.	4
+19	0	0	1	2	1	5	0	2	0	3	0	1	4	2	1	1	0	7.0	2	3	A delicious meal was prepared by the chef using fresh vegetables and tender meat served with crisp bread.	4
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	A cat purred contentedly on the windowsill.	4
+9	0	0	4	0	0	3	0	0	0	0	0	0	2	0	0	0	0	2.0	0	7	 kangaroo, Australian plain, hopping, tree)	4
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	6	The cat chased the mouse through the dark forest.	4
+14	0	1	1	2	0	4	0	1	0	2	0	0	3	1	2	0	0	3.0	1	8	Melodic oranges floated above the lush trees while golden bees buzzed in unison.	4
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	4
+9	0	0	1	1	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	6	She ate a delicious sandwich with crispy bacon.	4
+7	0	0	0	0	0	3	0	0	0	1	0	0	3	0	1	1	0	3.0	0	3	Bright blue sky waves crashed white boats	4
+19	0	1	0	2	0	4	0	4	0	2	0	0	6	1	2	0	0	3.0	1	10	The big yellow sun smiled over the blue mountains as the tiny red birds fledged in the silver trees	4
+15	1	0	2	2	0	5	0	3	0	2	0	0	0	0	1	0	0	4.0	0	6	The cat purred contentedly on the window seat amidst the snow-covered firs.	4
+7	0	0	1	1	0	3	0	0	0	1	0	0	1	0	1	1	0	2.0	0	4	Dog chases mouse around big tree.	4
+15	0	0	2	1	0	4	1	4	0	2	0	1	0	1	3	1	0	5.0	1	4	The sentence is - The cat purred at the dog, which chased the ball	4
+23	2	0	2	4	0	5	1	5	0	2	0	2	0	1	2	0	0	5.0	1	7	The cat was sleeping on the couch next to the dog, which was barking loudly at the bird outside the window.	4
+6	0	0	1	0	0	3	0	0	0	2	0	0	0	1	2	0	0	3.0	1	3	Father read book children played.	4
+8	0	0	0	0	0	5	0	1	0	1	0	0	0	0	1	1	0	3.0	0	4	Nature's sunset blazed the mountainside pine tree	4
+11	0	0	1	2	1	2	0	1	3	1	0	0	0	0	1	1	0	3.0	0	8	Matthew played basketball with Sarah and Jack in the park.	4
+14	1	0	2	2	0	4	0	2	0	1	1	0	1	0	1	0	0	2.0	0	5	In the quiet forest, three birds chirped happily near a babbling brook.	4
+22	0	0	5	0	1	6	0	2	1	2	0	0	5	1	1	2	0	5.0	1	7	Sandra, a skilled artist, created a beautiful mosaic using intricate tile work, vibrant colors, and graceful patterns.	4
+11	1	0	1	2	0	3	0	1	0	1	0	0	2	0	1	0	0	3.0	0	5	Cows mooed loudly in the green meadow alongside tall trees.	4
+18	0	0	2	2	0	4	1	2	0	2	0	0	5	1	1	1	0	3.0	1	7	The quick brown fox jumps over green grass, catching a lazy cat in its pink fur.	7
+22	3	1	3	2	0	4	1	1	3	2	0	0	0	1	2	1	0	5.0	1	9	The cat purred contentedly on John's lap, while Emily held her kitten affectionately, next to Sarah's dog.	7
+7	0	0	1	0	0	1	0	1	1	1	0	0	2	0	1	1	0	2.0	0	4	Melvin met a beautiful black bear. She was sitting on the boulder, drinking water from the stream. The rainbow-colored parrot perched on a nearby tree limb chirped a cheerful tune. A grizzled old badger peered from the bushes. The curious rabbit hopped closer to investigate. The playful puppy wagged its tail with joy.	7
+14	0	0	7	0	0	7	0	0	0	0	0	0	0	0	0	0	0	1.0	0	12	Rock, pineapple, pizza, paddle, beach, shark, sunset.	7
+16	0	1	1	2	0	5	0	5	0	2	0	0	0	1	2	1	0	3.0	1	9	The dog chased the cat across the field while the sun set behind the hills.	7
+16	0	0	3	1	2	5	0	3	0	2	0	0	0	0	1	1	0	4.0	0	5	The car drove up the hill and passed the trees, houses, and people.	7
+29	0	0	7	0	1	7	0	7	0	1	0	0	6	0	0	0	0	2.0	0	25	A bouncy castle, a fluffy kitten, a shiny penny, a colorful parrot, a tasty cake, a squeaky hammock, and a giggling toddler.	7
+13	0	0	1	2	0	3	0	3	1	1	0	0	2	0	1	1	0	2.0	0	10	Fred chased the butterflies around the green grass under the blue sky.	7
+9	1	1	0	1	0	2	0	2	0	2	0	0	0	1	1	0	0	3.0	1	3	The cat purred contentedly while lounging in the sun	7
+23	1	1	3	3	0	7	0	4	0	3	0	0	1	1	2	0	0	4.0	1	13	The giraffe munched contentedly on leaves from the towering baobab tree, while the flamingo paddled in the crystal-clear lake.	7
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The cat curled up on the windowsill, observing the busy bird feeder outside.	7
+30	2	1	3	3	0	6	0	5	0	2	0	0	8	1	2	1	0	5.0	1	21	The big red cat purred loudly on top of the green chair, next to the small white dog, while the tiny yellow bird sang a sweet melody.	7
+10	0	0	1	1	0	4	0	0	0	1	1	0	2	0	1	1	0	2.0	0	5	Four enthusiastic travelers rode bicycles across lush mountain terrain.	7
+12	1	1	1	0	0	3	0	3	0	2	0	0	1	1	2	1	0	3.0	1	5	The snake hissed while the turtle slowly crossed the sandy beach.	7
+21	2	1	0	4	1	5	0	4	0	3	0	1	0	1	1	0	0	4.0	1	7	The snowflake fluttered gently to the breeze before being scooped up by the cat and placed delicately in the bird feeder	7
+17	2	1	2	1	0	5	0	4	0	2	0	0	0	1	2	1	0	3.0	1	10	The cat purred contentedly on the window sill, while the rain soaked the garden outside.	7
+23	0	1	3	2	0	6	0	4	0	2	0	0	5	1	2	1	0	3.0	1	10	The snowboarder whizzed down the rugged, rocky slope as the sunset cast warm, orange hues over the distant mountain peaks.	7
+23	0	1	5	1	1	5	3	1	3	3	0	0	0	1	1	3	0	4.0	1	11	Rachel walked her pet cat, Molly, to the park while carrying her toddler, Jack, and riding her bicycle. 	7
+24	0	1	2	2	0	8	2	4	0	3	0	0	2	2	3	1	0	4.0	2	12	The eager beagle chased the speeding cat through the sunflower field, its bright colors flashing as it darted beneath the peeling fence.	7
+18	2	0	2	2	0	4	0	4	0	3	0	0	1	2	2	0	0	4.0	2	6	The cat purred contentedly on the windowsill, watching the birds chirp outside in the sunlit garden.	7
+22	0	1	2	2	0	6	2	5	0	3	0	1	0	2	2	3	0	5.0	2	5	The monkey climbed the mountain while eating a mango with his friends, who were playing the guitar in the distance. 	7
+19	2	0	3	2	0	4	0	3	0	2	1	1	1	1	2	0	0	4.0	1	8	The snowflake landed on the mitten, inside the cozy igloo, where three penguins were snuggled together. 	7
+29	0	0	7	1	1	8	0	3	0	1	0	0	8	1	0	0	0	3.0	1	21	The clever fox, lazy bear, curious raccoon, playful otter, gentle deer, majestic eagle, and curious squirrel all gathered at the tranquil lake.	7
+20	0	1	1	2	0	6	0	5	0	2	0	0	3	1	1	2	0	3.0	1	13	The old dog chased the fat cat across the busy street towards the big tree before taking a nap.	7
+27	1	0	3	3	0	8	0	5	3	3	0	0	1	1	3	0	1	5.0	2	10	Melvin the mallee-bird watched as Max the kangaroo hopped across the marble fireplace, where Matilda the tortoise lay on a mosaic turtle shell.	7
+16	2	1	1	2	0	3	1	3	0	2	0	0	1	1	2	0	0	4.0	1	4	The cat purred contentedly as it lazed on the couch next to the old laptop.	7
+23	1	0	2	2	1	6	1	4	0	4	1	0	0	2	2	3	0	6.0	2	8	The teacher smiled and wrote down seven answers on the chalkboard, the pupils eagerly raising their hands to answer each question.	7
+27	0	0	4	2	0	5	1	4	1	4	0	1	4	2	2	2	1	5.0	3	8	The wizard, conjuring a bright purple mist, conjured up a small rodent named Remy, who had escaped from a mad scientist's lair. 	7
+18	1	0	1	2	0	5	1	4	0	1	0	0	3	0	1	2	0	5.0	0	5	The boss handed me a pink memo pad next to a vibrant plant in a cluttered office.	7
+18	1	1	1	1	0	5	0	4	0	2	0	0	3	1	2	1	0	3.0	1	12	The cunning fox chased the speedy rabbit through the dense forest while the bright sun shone overhead.	7
+24	3	1	3	3	0	5	0	5	0	2	0	0	2	1	2	0	0	3.0	1	16	The cat purred contentedly on the cozy couch, next to the fluffy kitten, while the rain pattered softly on the window. 	7
+17	1	1	1	1	0	4	1	3	0	2	0	0	3	1	2	1	0	3.0	1	8	The witty corgi laughed loudly as it chased the fluffy squirrel up the tall oak tree.	7
+19	0	0	1	5	0	5	0	5	0	1	0	0	2	0	1	0	0	4.0	0	8	The cat cuddled up to the dog on the soft blanket in the cozy corner of the room.	7
+24	5	1	4	2	0	5	0	4	0	3	0	0	0	1	3	0	0	4.0	1	8	The cat purred contentedly upon the windowsill, the sun shone brightly overhead, while outside, children played excitedly in the yard.	7
+20	1	1	2	2	0	4	2	2	0	2	0	0	4	1	2	0	0	4.0	1	5	A bubbly candy-loving child laughed excitedly as she chased after her bouncy ball on the sunny playground.	7
+19	0	1	1	2	0	5	1	2	1	2	0	0	4	1	1	1	0	3.0	1	7	The gargantuan blue whale breathed midair alongside its smaller playmate while gazing at the majestic Andes mountain range.	7
+12	0	0	6	0	0	5	0	0	1	0	0	0	0	0	0	0	0	1.0	0	10	 cat, sofa, owner, Sarah, cookies, kitchen)	7
+14	0	0	1	1	0	3	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	The wily weasel wobbled past the sleepy cat to reach the juicy mouse.	7
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The big blue car traveled quickly down the small winding road.	7
+16	1	1	1	0	0	3	1	3	0	3	0	0	3	2	2	2	0	4.0	2	4	The wicked witch cackled maliciously as she watched the little boy eat a magical berry.	7
+22	1	1	3	1	2	5	0	2	3	3	0	0	0	1	3	2	0	4.0	1	16	The cat purred contentedly on John's lap, while Sophia served tea and crumpets, and Jack played the flute.	7
+22	1	0	2	2	0	6	0	5	0	2	0	0	4	1	2	1	0	4.0	1	7	The cheetah chased the quick fox through the green forest, where the clear stream water babbled near the tall trees.	7
+12	0	0	6	0	0	2	0	0	0	1	0	0	3	0	0	0	0	1.0	0	10	 big, green, car, drove, busy, intersection)	7
+17	1	1	1	2	0	4	0	4	0	2	0	1	1	1	1	1	0	3.0	1	8	A giraffe silently robbed the bank with an umbrella while being chased by a ferocious lion.	7
+20	0	1	1	3	0	6	1	4	0	2	0	0	1	1	1	1	0	3.0	1	8	The man laughed at the cat's silly hat while eating a sandwich in the park with his dog.	7
+25	1	1	2	4	0	5	0	4	0	4	0	0	4	2	1	0	0	5.0	2	9	The cat curled on top of the large soft pillow, purring contentedly while chewing on a tail of the bright red stuffed animal.	7
+17	0	0	1	3	0	4	0	3	0	1	0	0	5	0	1	0	0	3.0	0	7	The big red car raced around the small circular track in front of the crowded stadium.	7
+20	1	0	1	3	0	6	1	3	0	2	0	0	3	1	1	1	0	4.0	1	10	The sun shone brightly on the happy children playing ball in the warm summer field alongside their eager dog.	7
+6	0	0	1	1	0	2	0	0	1	1	0	0	0	0	1	1	0	2.0	0	3	Tiger chased lion through forest.	7
+31	0	0	5	1	1	12	0	2	0	3	0	0	7	0	1	1	0	4.0	0	26	The eager chef prepared quaint French pastries, savory breaded finger chicken tenders, juicy filet mignon, fluffy cinnamon rolls, and chilled fruit cocktails for a celebratory luncheon.	7

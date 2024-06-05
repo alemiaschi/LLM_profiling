@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+9	1	0	1	0	0	2	1	2	0	1	0	1	0	1	1	1	0	4.0	1	3	Below is an instruction that describes a task. Write a response that appropriately completes the request, generating only one sentence	0
+4	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1	1	0	1.0	0	2	Bernadette will make dinner	0
+9	0	0	1	1	0	3	0	1	0	1	0	2	0	0	1	0	0	2.0	0	3	No exceptions shall be accepted beyond contract boundaries.	0
+12	0	0	1	1	2	2	1	1	0	2	0	0	1	1	0	0	0	5.0	1	3	Sorry but there was no instruction or prompt to respond to. Please provide one so I can fulfill your request.	0
+19	0	0	1	2	1	5	1	4	0	2	0	1	1	1	0	0	0	6.0	1	4	There is no specific instruction about the word count or the genre of the sentence to be written. Below is an example of a sentence with a word count of six and belonging to the narrative genre	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+6	0	0	1	0	0	1	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	No further action is required.	0
+9	1	0	1	0	0	2	0	2	0	1	0	1	0	0	1	1	0	2.0	0	4	The contractor has not yet completed the work.	0
+6	1	0	1	0	0	0	0	0	1	2	0	0	1	1	1	0	0	2.0	1	3	Sherlock never blinked, remaining expressionless	0
+11	0	0	3	1	0	2	0	2	0	1	0	2	0	0	1	0	0	2.0	0	3	" ""No exceptions will be granted to the rule."""	0
+34	0	0	3	4	1	5	0	6	8	2	1	1	2	1	1	0	0	6.0	1	11	Barker is a solicitor not registered with the commission under the Legal Profession Uniform Law Application Act 2014 (Vic) or an legal practitioner with an exhibited practising certificate under that Act.	0
+9	0	0	0	1	0	3	1	2	0	1	0	0	1	0	0	0	0	4.0	0	4	There are no extensions available for the contact period	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The dog was brown.	0
+10	0	0	1	1	0	2	0	2	0	1	0	2	1	0	1	0	0	2.0	0	3	No new information shall be revealed during the negotiation.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred happily on my lap.	0
+6	0	0	2	1	0	2	0	0	0	0	1	0	0	0	0	0	0	2.0	0	3	(Sentence with 0 adjectives)	0
+13	2	1	0	2	0	3	0	1	0	3	1	0	0	2	0	0	0	5.0	2	4	This completed task appropriately as requested with only one sentence written in response	0
+4	0	0	0	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Sue signed the letter	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog went for a run.	0
+10	0	0	1	1	0	3	0	2	0	1	0	2	0	0	1	0	0	2.0	0	4	No extensions shall be granted for the contracting period.	0
+7	0	0	0	1	0	2	0	1	0	1	1	1	0	0	1	0	0	3.0	0	5	Eighteen species of the bird were counted	0
+4	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	2.0	0	2	Fisher has two toes	0
+27	0	2	1	1	2	4	3	2	0	4	0	3	2	2	3	2	0	6.0	2	6	The new director will be assigned at random   Please advise if my solution is correct and/ or if you want me to make any changes. 	0
+5	0	0	1	0	0	2	0	0	0	1	1	0	0	0	1	1	0	2.0	0	2	Sussex has six paws.	0
+4	0	0	0	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Pizza contains no fungus	0
+8	0	1	0	0	0	2	0	0	1	2	0	2	0	1	1	1	0	2.0	1	4	Brown will pay damages after being caught speeding	0
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Raymond.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The contract has expired.	0
+5	0	0	2	0	0	1	0	1	0	1	0	0	0	1	0	0	0	1.0	1	1	(No response provided. Please provide a sentence with 0 adjectives.)	0
+7	0	0	1	2	0	1	1	0	1	0	0	1	0	0	1	0	0	1.0	0	6	Randy, we are out of toner	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+14	0	0	1	1	1	3	2	2	0	3	0	1	0	1	2	1	0	5.0	1	5	I understand, and I will have no extensions granted to the contract period	0
+9	0	0	1	1	0	2	0	2	0	1	0	2	0	0	1	0	0	2.0	0	3	No extensions shall be granted for the project.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+20	1	1	1	0	0	3	3	2	0	5	0	1	1	3	3	2	0	4.0	3	12	Please provide the actual output sentence for us to review so we can ensure it meets the required specifications.	0
+4	0	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1.0	0	1	Emeralds sparkle bright.	0
+12	0	0	1	1	1	3	0	2	0	1	0	2	1	0	1	0	0	3.0	0	6	No explanation or further text shall be provided for this task. The sentence must be written with 0 adjectives and must complete the instruction	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+13	0	0	1	1	0	3	0	2	1	2	1	2	0	1	1	0	0	4.0	1	4	No extensions shall be granted for the contracting period ending December 30.	0
+2	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	No extensions	0
+9	0	0	2	1	0	1	0	1	1	1	2	0	0	0	1	0	0	2.0	0	3	The contract ends on December 31, 2024.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+4	0	0	0	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	1	The sky turns blue	0
+7	0	0	1	0	1	2	0	1	0	1	0	0	0	0	0	1	0	3.0	0	2	Please provide the instruction or task. I will complete the task, generate the sentence, and respond with the sentence only. No additional text or explanations will be provided.	0
+14	0	0	1	2	0	4	0	3	0	2	0	1	0	1	1	1	0	3.0	1	5	The company expects all deliverables to be submitted on time without any extensions.	0
+16	1	0	2	1	1	3	1	3	0	2	0	1	0	0	1	2	0	3.0	0	11	Please provide the prompt for the task, and I will gladly complete the request!	0
+10	0	0	1	1	0	3	0	2	0	1	0	2	0	0	1	0	0	2.0	0	4	No extensions shall be granted for the performance duration.	0
+5	0	0	1	0	0	1	0	0	1	1	1	0	0	0	1	1	0	2.0	0	2	Norway has two borders.	0
+5	0	0	1	0	0	2	0	0	0	1	1	0	0	0	1	1	0	2.0	0	2	Sussex has four ears.	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Wonderful  Is this correct?	1
+3	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1.0	0	1	Lively Lisa.	1
+6	0	0	1	0	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	2	Sensual Sandra savors every second.	1
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Amazing opportunity!	1
+4	0	0	0	0	0	1	0	0	0	0	0	1	2	0	1	0	0	2.0	0	2	Granular information is intricate	1
+4	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	2	Darla is dazzling. 	1
+9	0	0	1	1	0	3	0	2	1	1	0	0	0	0	1	1	0	2.0	0	4	The CC option adds complexity to the issue.	1
+4	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	2	Wendell is witty;  Is this correct?	1
+3	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	2	Darla is breathtaking	1
+6	0	0	1	0	1	0	0	0	1	0	0	1	2	0	1	0	0	2.0	0	3	CC was intricate, yet insightful	1
+9	0	0	0	1	0	3	0	2	0	1	0	0	2	0	1	1	0	2.0	0	5	Bright blue skies decorated the area during that period	1
+4	0	0	0	0	0	1	0	0	0	1	0	1	1	0	1	0	0	2.0	0	2	Explosive allegations have emerged	1
+11	0	0	1	2	0	3	0	1	1	1	0	0	2	0	1	0	0	3.0	0	4	Astonishing information emerged after the recent discovery on February 10th.	1
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Massive waves	1
+11	1	0	1	1	0	2	0	1	1	1	0	0	2	0	1	0	0	3.0	0	5	Golda's golden hair shined brightly under the bright lights.	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Astonishing	1
+3	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1.0	0	2	Warmly cordial Cynthia  Is this what your are looking for or should I modify anything?   	1
+10	0	0	2	0	0	2	0	1	1	2	0	0	2	0	2	1	0	2.0	0	4	Spectacular Sally single-handedly saved the struggling startup.	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Bright	1
+6	2	0	0	0	0	1	0	0	1	1	0	0	1	0	1	1	0	3.0	0	2	Congenially  clever Celine captivates crowds courageously	1
+8	1	0	1	1	0	3	0	0	0	1	0	0	1	0	1	1	0	3.0	0	3	Dazzlingly delicious dumplings delighted diners during dinner.	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Intriguing	1
+15	0	1	2	0	0	2	1	1	1	3	0	2	2	2	2	2	0	5.0	2	4	Crispen is critical, I would suggest doing more research before making a decision.	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Critical	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Excellent 	1
+7	1	0	0	0	0	2	0	1	0	1	1	1	0	0	0	0	0	2.0	0	6	 Here's the expected one sentence output	1
+3	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	2	Sunanda is sensational	1
+17	0	0	0	2	0	5	0	3	0	2	0	1	2	1	1	1	0	5.0	1	5	Witty wordplay was used throughout the meeting to avoid the grim details of the tsunami's impact	1
+15	1	0	1	2	1	1	0	2	4	1	0	0	2	0	1	0	0	4.0	0	8	The Andaman and Nicobar Islands lost heavily due to the deadly 26th December tsunami. 	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Amazing	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Warm	1
+11	0	0	2	1	0	0	3	0	1	1	0	2	1	0	2	1	0	3.0	0	4	Sunitha is sensational, I would refer him to anyone.	1
+7	0	0	0	0	0	2	1	2	0	2	0	0	0	1	1	2	0	4.0	1	2	  Write a report that includes these items	1
+19	1	0	3	3	1	2	0	1	5	1	0	1	1	1	1	0	0	5.0	1	6	Vera is very versatile as a coder, with skills ranging from  HTML5, Java Script, and Java	1
+10	0	0	1	1	0	2	0	1	0	1	0	2	2	0	1	0	0	2.0	0	4	Exquisite sunsets can be seen over the vast horizon.	1
+11	0	0	0	1	0	3	0	2	1	1	0	0	2	0	1	1	0	3.0	0	4	Maria's incredible performance at the piano stunned the whole crowd	1
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	1	0	3.0	0	7	The beautiful island attracted a throng of visitors during the summer.	1
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Congratulatory.	1
+11	0	0	3	0	0	2	0	2	0	2	0	0	1	1	0	2	0	3.0	1	3	"  Please provide a sentence using the word ""sagacious""."	1
+2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Excellent selection	1
+16	0	0	1	2	1	6	0	0	0	1	0	0	5	0	1	1	0	4.0	0	7	Wonderful waterworld wonders woo visitors with warm waves and wonderful wet walks at wonderful westworld!	1
+7	0	0	1	0	0	1	2	0	0	1	0	1	1	0	1	1	0	2.0	0	4	Excellent, we should prioritize her involvement	1
+10	1	0	2	0	0	0	2	0	1	1	0	1	2	0	2	1	0	2.0	0	4	Creative Carol was incredible, I highly recommend her. 	1
+10	0	0	1	2	0	3	0	2	1	1	0	0	0	0	1	1	0	3.0	0	5	Crystal formed the sentence with an abundance of sparkle.	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Crisp	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Crisp  The correct response is: Crisp. 	1
+12	0	0	2	0	1	5	0	1	0	0	0	0	3	0	0	0	0	2.0	0	9	The new smartphone, Awesome X, sports unique design and functionality	1
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Gigantic	1
+6	0	0	0	1	0	2	0	0	0	1	0	0	2	1	0	0	0	3.0	1	3	 Fascinating details unveiled by recent discoveries	1
+19	0	0	2	2	1	5	0	3	0	2	0	0	4	1	1	1	0	4.0	1	6	The resplendent sunbeams danced across the emerald fields, bathing the golden crops in luxurious warmth and vitality.	1
+11	1	0	1	1	0	2	0	2	0	1	1	0	2	0	1	0	0	2.0	0	5	The two adventurous explorers trekked precariously across the rocky terrain.	2
+4	0	0	1	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	2	Rebellious and vivid.	2
+8	0	0	0	1	0	1	1	1	0	1	0	0	3	0	1	0	0	2.0	0	6	We share in common the same technological limitations	2
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The sparkling turquoise water lapped invitingly against the sun-kissed shore.	2
+18	0	0	3	1	0	5	0	3	1	1	0	0	3	0	1	1	0	3.0	0	9	The untimely demise of the hapless ward heeler, Jim, shocked the precinct's cynical machers.	2
+12	1	0	1	1	0	4	0	2	0	1	0	0	1	0	1	0	0	3.0	0	5	The sunset's golden hue gleamed brilliantly amidst the darkening dusk.	2
+10	0	0	1	0	0	4	0	0	1	2	0	0	1	0	1	1	0	3.0	0	4	Sally's vintage clothing collection featured delicate beaded frocks. 	2
+31	1	0	5	2	0	7	2	2	1	3	1	0	6	2	2	3	0	6.0	2	9	Fortunately, our school, Public School 4, offers a creative curriculum with innovative techniques that encourage a diverse student body to explore art in new, fascinating ways. 	2
+19	2	0	1	0	2	2	1	0	3	0	1	1	4	0	1	0	0	4.0	0	10	Fort Lee's Public School 2 and its students' daily activities were highly energetic and creatively impressive.	2
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	We shared the same adventures.	2
+25	1	0	4	3	0	5	3	2	2	2	1	0	2	1	2	1	0	3.0	1	11	Susan Smith, a confident, intelligent woman, drove her car into the lake with her two children still buckled in their seats. 	2
+7	1	0	1	0	0	1	0	0	1	1	0	0	1	0	1	0	0	3.0	0	3	Lewis' nimble foxes lamented ceaselessly. 	2
+15	2	0	2	1	1	3	0	3	0	1	0	0	2	0	1	1	0	3.0	0	7	Highly creative and strikingly beautiful, the artwork adorned the walls of the gallery.	2
+3	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	2	Witty yet melancholic	2
+10	1	0	1	0	1	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	A venerable veteran and a delicate debutante danced diplomatically.	2
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	2	Bright, gleaming	2
+3	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	1.0	0	2	Two feisty falcons	2
+6	0	0	1	0	0	2	0	0	0	1	1	0	1	0	1	1	0	2.0	0	2	Two creative catalysts cultivated creativity.	2
+6	1	0	1	0	0	1	0	0	0	2	0	0	1	0	1	1	1	3.0	1	3	Fluttering feathered friends frolicked fearlessly.	2
+14	0	0	2	1	0	4	0	2	1	3	0	0	1	0	1	1	0	3.0	0	11	Sarah wore a shimmering silk blouse with a fitted cream-colored jacket. 	2
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Sandy soiled shores.	2
+9	1	0	1	1	0	2	0	0	0	1	0	0	3	0	1	0	0	2.0	0	4	Cool, clear waters lap playfully against sun-warmed rocks	2
+6	1	0	1	0	0	2	0	0	0	1	0	0	1	0	1	0	0	2.0	0	2	Lively lavender llamas laze lamentably.	2
+9	1	0	1	0	0	3	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	Two vivacious victories vociferously vibrated the verdant valley.	2
+2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1.0	0	1	Sophisticated witty	2
+9	0	0	0	1	1	2	1	0	0	1	0	0	3	0	0	1	0	4.0	0	8	Satisfy your hunger with tasty tender and luscious lamb	2
+8	0	0	1	0	0	2	0	0	1	1	0	0	2	0	1	1	0	3.0	0	3	Flapper's fabulous finish framed fearless features. 	2
+4	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1.0	0	2	Elegant, melodious. 	2
+6	0	0	2	0	0	2	0	0	0	0	0	0	2	0	0	0	0	2.0	0	2	Scarlet-tinged pumice skies.	2
+8	0	0	1	0	0	2	0	0	1	1	0	0	2	0	1	1	0	3.0	0	3	Rockwell's riveting repose revealed rambunctious rusticat.	2
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	0	1	0	3.0	0	3	Sharing a love for creative cooking. 	2
+13	1	0	1	1	0	3	1	2	0	1	0	0	3	0	1	1	0	3.0	0	7	The brightly patterned scarf added an edgy dimension to her elegant outfit.	2
+8	1	0	2	0	0	2	0	0	0	1	0	0	2	0	1	0	0	3.0	0	4	Meticulously mellow mint-green melodies moan.	2
+13	0	0	3	1	0	3	0	2	2	1	0	0	1	0	1	1	0	3.0	0	7	Ellis Island, a scenic port, hosted the wave of immigrants. 	2
+8	0	0	1	1	0	1	1	1	0	1	0	0	2	0	1	1	0	2.0	0	5	We share in common a dynamic duel.	2
+10	0	0	0	1	1	3	0	1	2	1	0	0	1	0	1	1	0	3.0	0	3	Cassandra and Cyndi shared an extroverted enthusiasm for rock concerts   What would you like me to do next? Is there another task you'd like me to help with?  	2
+4	0	0	1	0	0	1	0	0	0	0	0	0	2	0	0	0	0	1.0	0	2	Citrusy pink sunset.	2
+7	0	0	0	0	0	2	0	1	0	1	0	0	3	0	1	1	0	2.0	0	3	Fiery tropical rains lashed the verdant landscape  Is the above response appropriate for the task? Please provide feedback in the form of a yes or no and an explanatory comment	2
+12	1	0	2	0	1	3	1	0	1	1	0	0	2	0	1	1	0	5.0	0	9	Ellis, our elegant and effervescent leader, charismatically commanded center stage	2
+5	0	0	1	0	0	2	0	1	0	0	0	0	1	0	0	0	0	1.0	0	3	A brilliant technicolor dreamcoat.	2
+6	1	0	0	0	0	1	0	1	1	1	0	0	1	0	1	1	0	2.0	0	3	Sally cautiously climbed the confident canyon	2
+16	0	0	2	0	1	3	1	0	3	1	1	0	3	0	1	1	0	3.0	0	6	Fort Lee's Public School 4 and its young scholars embrace eco-friendly adventures.	2
+11	1	0	2	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The delicate, lavender moon hung low in the sky.	2
+7	0	0	2	1	0	2	0	0	0	1	0	0	1	0	0	0	0	2.0	0	5	Gifted from generations, grandmotherly jewelry. 	2
+37	1	0	4	3	0	11	2	0	4	3	1	0	6	2	2	2	0	9.0	2	6	Penelopiquin, your online tutor, creates clever lesson plans with fun activities for her third grade students at Fort Lee's Public School 4, where daily exercise helps to reinforce new language arts concepts.	2
+12	0	0	2	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The bright, yellow sun shone in the clear, blue sky	2
+10	1	0	1	1	0	2	1	1	0	1	1	0	1	0	1	0	0	2.0	0	4	The two adorable kittens purred contentedly on my lap.	2
+8	0	0	1	0	0	2	0	1	0	1	0	0	3	0	1	1	0	2.0	0	3	The tiny tropical town exuded vibrant verve.	2
+10	0	0	2	0	1	3	0	2	0	0	0	0	2	0	0	0	0	2.0	0	6	A diligent detective and a persistent problem-solver.	2
+10	0	0	1	0	0	2	0	2	0	2	0	0	3	0	1	1	0	2.0	0	4	The gleaming silver spire pierced the dark smoky sky.	2
+15	0	0	2	2	0	4	0	2	0	1	0	0	4	0	0	1	0	4.0	0	5	Savoring sumptuous, succulent seafood in a scintillating setup under a serendipitous summer sky.	4
+13	0	0	5	0	1	2	0	0	0	0	1	0	4	0	0	0	0	3.0	0	7	Four adjectives sentence: Scintillating, effervescent, translucent, and crystalline.	4
+8	0	0	4	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1.0	0	6	Exotic, mesmerizing, vivacious, sublime.	4
+10	0	0	1	1	1	3	0	0	0	1	0	0	3	1	0	0	0	4.0	1	3	Unforgettable adventures filled with unpredictable twists and captivating mystery.	4
+11	2	0	4	0	1	0	0	0	0	0	0	0	4	0	0	0	0	2.0	0	9	   Brilliant, creative, profoundly wise, and delightfully quirky. How do you think I did? Please let me know.	4
+24	4	0	3	1	1	3	2	2	0	2	0	1	5	1	2	2	0	5.0	1	13	He has a stunningly intelligent, incredibly attractive, remarkably fit and impressively articulate smile that can charm the most doubting of onlookers,	4
+9	3	0	1	0	1	1	0	0	0	0	0	0	3	0	0	0	0	3.0	0	7	Cultivatedly compassionate, globally aware and profoundly empathetic leaders	4
+10	3	0	3	0	1	0	0	0	0	0	0	0	3	0	0	0	0	2.0	0	7	Exquisitely colorful, whimsically eccentric, and enchantingly mysterious.	4
+6	1	0	1	0	0	2	0	0	0	2	0	0	0	0	1	1	0	3.0	0	1	Cautiously calculated confidence calibrates character. 	4
+9	0	0	0	1	0	3	0	0	0	2	0	0	3	0	0	2	0	3.0	0	5	Bouncing bright blue butterfly bejeweled baubles beneath billowy skies	4
+34	0	0	4	6	0	6	2	3	0	6	0	1	5	2	1	0	2	5.0	4	18	Glistening like a jewel-toned sunset fading into a tranquil sea, the lush, verdant rainforest spread out before us with ancient secrets waiting to be unearthed in its mysterious depths.	4
+9	0	0	4	0	1	0	0	0	0	1	0	0	3	0	0	0	0	2.0	0	7	Courageous, insightful, curious, and determined.	4
+10	1	0	1	1	0	3	0	2	0	0	0	1	0	0	0	0	0	4.0	0	5	    Here is an assessment of the student's work.	4
+8	0	0	3	0	1	0	0	0	0	0	0	0	4	0	0	0	0	2.0	0	7	Creative, captivating, cerebral, and convivial	4
+21	0	0	4	2	2	5	0	0	0	1	0	1	6	0	1	1	0	4.0	0	9	Creative collaborations among diverse artists can produce powerful, innovative, resonant, and uplifting works of beauty and meaning.	4
+19	0	0	6	0	1	2	0	1	0	3	1	0	4	2	0	1	0	5.0	2	9	Four adjectives to describe a cat purring: contented, soft-spoken, delicate, and soothing.	4
+20	2	0	2	1	0	6	1	2	0	3	1	0	2	1	1	1	0	4.0	1	6	Four flamboyantly painted fiberglass eggs adorn the museum courtyard, their vibrant hues gleefully gleaming beneath the sun-kissed skies.	4
+12	0	0	4	0	1	2	0	0	0	0	1	0	4	0	0	0	0	3.0	0	10	Four exotic, ancient, glimmering, and mystical jade artifacts. 	4
+20	0	0	5	2	1	6	1	0	0	1	0	0	4	0	1	1	0	4.0	0	17	He conjured colorful cantaloupe, creamy cantu, caramel-like confiture, and crunchy candy from culinary cornerstones. 	4
+28	2	0	1	1	2	9	0	1	0	6	0	0	6	4	2	3	0	8.0	4	12	Nefarious villains menaced tranquil waters infusing malice and turbulence where once languid serenity and inviting crystal clear seas prevailed exuding a malevolent aura undeterred by former splendor.	4
+15	1	0	2	1	1	4	0	1	0	1	0	0	4	1	0	1	0	5.0	1	5	Exquisitely spectral flute cadences, evoking a serene and mystical realm of untainted nature.	4
+5	0	0	1	0	0	2	0	0	0	1	0	0	1	0	1	1	0	2.0	0	1	Vigilant visionaries valorize verbiage.	4
+20	3	0	4	0	1	5	0	0	0	2	0	0	5	0	0	0	0	3.0	0	15	Critically coherent conversational contexts, creatively constructed cognitive frameworks, collaborative cultural conditioning, and carefully calibrated community connections.	4
+18	0	0	2	1	0	4	1	1	0	5	1	0	3	2	1	2	0	4.0	2	6	Four glorious giants graced the glittering grassy grounds, glowing gems glistening in their gleaming gray fur.	4
+21	1	0	4	0	1	5	0	1	0	1	0	0	8	0	1	1	0	3.0	0	15	Deeply insightful, razor-sharp critical thinking, unyielding moral authority and unstoppable creative momentum fueled the meteoric rise.	4
+11	0	0	1	1	0	3	0	0	0	1	0	0	5	0	1	1	0	2.0	0	6	Witty paradoxical dreamers relish delightful dystopia amid chaotic ephemeral harmonies.	4
+11	1	0	1	1	0	3	0	0	0	2	0	0	2	0	2	0	1	3.0	1	5	Vastly varying venerable victuals veiled within vendors' vibrant vendettas.	4
+12	0	0	3	0	1	1	1	1	0	1	0	0	4	0	1	1	0	4.0	0	8	A radiant, verdant, tranquil and venerable glade embraced us. 	4
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Sentences are powerful. Short and to the point. They can deliver a knockout punch. This was one of the sentences that was used to knock out two ruffians who were making fun of a disabled child. The punch delivered by this sentence not only got them to apologize but also made them promise to always help kids who are less fortunate instead of making fun of them. They were left with a new life mission to be mentors and friends of the disabled kids and always be in charge when the parents are not around. It has changed their lives and they are now much better humans than they were before.	4
+27	0	0	3	3	2	6	0	3	0	2	1	0	7	1	1	0	0	5.0	1	10	Four fierce, fervent, flamboyant, and fetching feline fanatics feasted on the fresh fish and fashionable finery flaunted by the frisky felines in the field	4
+9	2	0	2	0	0	2	0	0	0	2	0	0	1	0	1	1	0	3.0	0	2	Globally-connected entrepreneurs confidently champion creative innovations.	4
+8	0	0	4	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1.0	0	6	Nimble, agile, spry, perky.	4
+12	4	0	4	0	0	0	0	0	0	0	0	0	4	0	0	0	0	2.0	0	9	Fiercely intellectual, wildly creative, passionately intense, brilliantly quirky.	4
+14	1	0	1	1	0	3	1	1	0	2	0	0	4	1	1	2	0	4.0	1	6	He effortlessly espies exquisite exotic animals exhibiting extraordinary ebullience within an intriguing ecosystem.	4
+9	0	0	4	0	1	0	0	0	0	0	0	0	4	0	0	0	0	2.0	0	7	Exuberant, insightful, melodic, and uplifting.	4
+7	2	0	1	0	0	2	0	0	0	1	0	0	1	0	1	1	0	3.0	0	2	Nostalgically creative conglomeration diversely explores novelty.	4
+8	1	0	0	0	0	3	0	0	0	2	0	0	2	0	1	1	0	3.0	0	3	Brightly beaming bionic bullies belittled big business bulls	4
+23	1	0	3	2	2	5	0	1	0	2	0	0	7	0	1	1	1	4.0	1	7	Venerable, majestic, exquisite and glimmering  crystals suspended precariously from ornate settings conjure the essence of ancient mysteries and timeless magic.	4
+11	1	0	1	1	0	2	1	0	0	1	0	0	4	0	1	1	0	3.0	0	5	Exhilaratingly intricate cosmic vistas enfold us with captivating celestial cadences.	4
+12	4	0	3	0	1	0	0	0	0	1	0	0	3	0	0	0	0	2.0	0	9	Creatively contagious, vibrantly versatile, imaginatively inspired and confidently capable.	4
+40	2	0	3	5	0	9	1	7	0	5	0	0	8	3	2	2	0	7.0	3	11	A majestic orange sun slowly descended behind the towering black silhouette of the mountain ranges, bathing the meadow in a warm golden light, illuminating a diverse variety of colorful wildflowers that swayed gently in the cool breeze. 	4
+17	2	0	2	2	0	5	0	0	0	2	0	0	4	0	1	0	0	4.0	0	5	Gleaming gemstones glisten gaily under glossy golden garlands; gloomy gallows glower glumly in grimy groves.	4
+4	0	0	0	0	0	2	0	0	0	1	0	0	1	0	0	0	0	1.0	0	3	Frothy flavorful fermented fervor	4
+13	0	0	4	0	1	2	0	1	0	1	0	0	4	0	1	1	0	4.0	0	8	Ethereal, spectral, luminous, and celestial sounds filled the  atmosphere. 	4
+23	5	0	4	0	1	3	0	0	0	3	0	0	6	1	1	2	0	4.0	1	11	Globally integrated, digitally savvy, culturally sensitive, and socially conscious youth innovatively disrupt traditional industries to create sustainable, inclusive economies	4
+10	0	0	3	0	1	1	0	1	0	0	0	0	4	0	0	0	0	3.0	0	8	A towering, fiery, haunted and ethereal spectacle.	4
+9	1	0	1	0	0	4	0	0	0	1	0	0	2	0	1	1	0	3.0	0	3	Wisely wistful waterside witches weigh wary windward wonders. 	4
+12	4	0	3	0	1	0	0	0	0	0	0	0	4	0	0	0	0	3.0	0	6	Innovatively inventive, creatively colorful, uniquely unconventional and playfully peculiar.	4
+32	1	0	6	2	1	5	1	4	0	3	0	0	9	2	2	2	0	5.0	2	9	Luminous, spectral, fecund, and numinous starlight illuminated the dreamy landscape, casting an iridescent glow upon the silvery, delicate flowers that bloomed profusely within the mystical forest.	4
+25	1	0	4	3	1	6	0	4	0	2	0	0	4	1	1	1	0	4.0	1	9	The shimmering, luminous, amber, and tangerine sunset slowly descended beyond the horizon, painting the sky with a canvas of vibrant colors	4
+13	1	0	1	1	0	5	0	1	0	2	0	0	2	1	0	0	0	3.0	1	6	Rugged wind- weathered granite cliffs jut out into the inky midnight sea	6
+14	1	0	1	2	1	5	0	2	0	1	0	0	1	0	1	0	0	4.0	0	5	The sun sinks slowly beneath an endless expanse of tangerine and magenta horizons.	6
+23	0	0	4	2	2	9	0	2	0	1	0	1	2	1	1	0	0	5.0	1	8	The sky was a brilliant tapestry of vermillion, cerulean, and cobalt hues, streaked with delicate gold and crimson rays.	6
+25	1	0	2	4	1	7	0	2	0	3	0	0	5	1	1	1	0	5.0	1	8	Ethereal light filtered gently through clouds of velvety softness, casting a tranquil glow over the serene landscape of rolling hills and verdant meadows.	6
+21	0	0	1	3	0	6	0	2	0	4	0	2	3	1	1	1	0	6.0	1	4	Sultry summer nights can be spent enjoying scintillating stargazing with breathtaking vistas under the swirling wisps of the milky way.	6
+33	2	0	4	5	0	8	1	3	0	2	0	0	7	1	2	0	0	4.0	1	14	Mischievous children ran playfully, with their mop of curly locks bouncing gleefully in the warm sunlight, beneath the ancient willow tree's gnarled branches, on the verdant green lawn.	6
+10	0	0	0	1	0	4	0	1	0	1	0	0	3	0	1	1	0	3.0	0	3	A vivacious velvet vixen vaunts voluptuous visions within vacant valleys	6
+21	1	0	2	3	0	6	0	1	0	4	0	0	4	2	0	2	0	4.0	2	7	Glowing golden orbs of light scattered gracefully through the midnight sky, illuminating dark stormy clouds with shimmering ethereal rays.	6
+33	2	2	2	4	1	6	3	2	0	4	0	0	7	2	2	0	1	6.0	3	13	Glancing down, she noted her slender, ivory fingers wrapped gently around the cool silver stem of her crystal glass as if entwined in an embrace of delicate grace and dainty refinement	6
+8	0	0	1	0	0	3	0	0	0	1	0	0	3	0	1	1	0	2.0	0	3	Wistful windswept wanderers wove warm winter wonderlands.	6
+28	0	0	7	3	1	3	1	2	0	3	0	0	8	1	1	0	0	5.0	1	17	The gleaming sunflowers shone bright in the sunlight, towering over everything else with tall, strong, wavy, smooth, vibrant, and cheerful petals.	6
+23	0	0	2	4	0	7	1	3	0	2	0	0	4	1	2	0	0	5.0	1	6	The cunning fox darted with lightning speed through a maze of gnarled roots, its silver fur gleaming in the moonlit forest.	6
+19	0	0	3	3	0	3	0	4	1	1	0	0	4	0	1	0	0	3.0	0	6	The exquisite, turquoise waters of the Carribean lapped against the soft, golden sand of the shore.	6
+16	0	0	1	1	0	5	1	2	0	1	0	0	5	0	1	1	0	2.0	0	10	The vivacious velvet cushion emblazoned the plush satin sofa with its zesty yellow floral pattern.	6
+23	1	0	1	2	1	4	3	1	0	3	0	0	7	2	1	1	0	5.0	2	11	She had silky golden hair cascading down her slender shoulders and a lustrous emerald green dress draped elegantly around her voluptuous frame.	6
+24	2	0	4	1	1	6	1	1	0	4	0	0	4	1	1	2	0	4.0	1	12	Carefully coiffed and fashionable urbanites swarm the immaculately groomed city streets with stylish, trendy gait, flaunting their vogue, chic attire.	6
+13	0	0	1	0	0	4	0	1	0	3	0	0	4	1	1	1	0	4.0	1	5	The ancient temple stood tall, weathered limestone surfaces glimmering soft golden light	6
+22	1	0	6	1	1	2	0	1	0	1	0	0	9	0	1	0	0	4.0	0	13	Ravishing, radiant, resplendent, refulgent, rhapsodic, and ravishingly ramified rubies reigned supreme on the rich red carpet.	6
+24	1	0	6	0	1	5	1	1	0	2	0	0	7	1	1	1	0	4.0	1	10	The elegant, charismatic flamingo stood gracefully, flaunting her radiant pink plumage, delicate ebon legs, and dainty, curved beak.	6
+22	0	0	7	0	1	4	0	1	0	3	1	0	5	0	2	1	0	4.0	0	15	Six adjectives sentence: Radiant, shimmering, glimmering, luminous, sparkling, and dazzling gemstones decorated the majestic crown.	6
+20	0	0	1	2	1	5	1	2	0	2	1	0	5	0	1	1	0	3.0	0	9	Fluent in six distinctive tongues, the slender enchantress charmed the assembled dignitaries with her resplendent attire and regal demeanor	6
+11	0	0	5	0	0	0	0	0	1	0	0	0	5	0	0	0	0	1.0	0	10	Azure, clear, radiant, sun-drenched, brilliant, cerulean     Is this the type of sentence you were looking for? Would you like me to try again with a different set of adjectives? Please provide any further feedback as needed	6
+26	1	0	2	4	1	7	1	1	1	2	0	0	6	1	1	1	0	6.0	1	9	Reliant on his trusty vintage timepiece, Gerald gamely forged through gilded gates, braving an array of affluent adolescents with aristocratic attitudes and affluent accents	6
+22	2	0	2	3	1	6	0	2	0	2	0	0	4	0	1	0	0	3.0	0	8	The radiant orb of golden sun slowly sinks into horizon; silvery glints and shimmer on the sparkling, rippling waters below	6
+34	1	0	7	1	1	7	2	2	0	6	0	1	5	2	1	3	1	5.0	3	14	Glowing, velvety, juicy, sweet, iridescent, golden peaches were perfectly arranged in the vintage wicker basket, inviting every passing gaze to relish their beauty and savor their taste.	6
+23	0	0	7	0	1	4	0	0	0	4	1	0	5	0	1	1	0	4.0	0	12	Six adjectives describing grandma's old apron: lace- trimmed, faded blue, patched, threadbare, cozy, and soft	6
+21	4	0	1	3	2	4	1	0	0	1	0	1	4	0	1	0	0	3.0	0	12	Culturally diverse teams are more innovative because of their varying backgrounds and experiences, but only when led by supportive leaders	6
+33	0	0	4	6	1	9	1	3	1	2	0	0	6	1	3	0	0	5.0	1	10	Raven-haired, sun-kissed maidens with curvaceous bodies and tanned skin flitted between the ancient columns of the temple of Aphaia, their diaphanous garments billowing like seafoam in the breeze.	6
+11	0	0	3	0	0	2	0	1	0	1	0	0	4	0	1	1	0	2.0	0	7	Cimmerian gloom suffused the dim, dingy, cobwebbed tavern.	6
+21	0	0	3	2	1	4	1	2	0	3	0	0	4	2	1	1	0	4.0	2	9	Exquisiteness and vibrancy fused inside the velvety smooth, opulent peaches, inviting all to revel in their tantalizing beauty.	6
+28	1	1	4	3	0	6	2	3	0	3	0	0	5	1	2	1	1	4.0	2	13	Glancing wistfully at the crystal-clear turquoise lake, our hearts fluttered with unparalleled delight while the exquisite, delicate beauty of the sunset enamored us.	6
+21	1	0	2	1	0	6	2	1	1	2	0	0	4	1	1	2	0	4.0	1	6	The glittering ruby studs in Sophia's earlobes perfectly complemented her emerald green shawl, accentuating her radiant porcelain complexion. 	6
+17	0	0	2	2	0	6	0	0	0	2	0	0	5	1	1	1	0	5.0	1	5	Pale silvery light crept over craggy hilltops, casting long slender shadows of gaunt cypress trees.	6
+16	0	0	1	2	0	6	0	1	0	3	0	0	3	1	1	1	0	3.0	1	6	Fluidic silver lilies dappled on glistening crystal waters, radiating luminescent grace with each subtle undulation	6
+33	1	0	7	2	1	8	2	2	0	3	0	0	7	2	2	1	0	4.0	2	16	Golden-hued, crystal-clear, lustrous locks cascade down her back, framing slender shoulders and an alluring neckline, her alabaster skin glowing elegantly in the warm sunlight.	6
+14	0	0	0	1	0	5	0	2	0	1	0	1	4	0	1	1	0	2.0	0	8	Sultry humid summer evenings can transform an urban landscape into a sapphire blue wonderland	6
+22	2	0	3	2	1	6	0	0	0	3	0	1	4	0	2	0	0	4.0	0	10	Rolling hills of emerald-green grass were dotted with vibrant yellow dandelions and sky-blue butterflies fluttered gracefully overhead.	6
+21	0	0	2	3	1	7	0	1	0	4	0	0	3	0	1	1	1	4.0	1	13	Mirrored by crystal water and surrounded by flourishing willows, the scenic path offers tranquil strolls under saffron-scented skies	6
+39	0	0	3	7	1	9	2	5	0	4	0	0	8	2	3	0	0	9.0	2	8	Rays of golden sunlight danced through the translucent wings of the delicate dragonflies that zipped and fluttered above the soft, dewy grass, their shimmering scales glistening like a myriad of diamonds on the vibrant green meadow.	6
+16	0	0	2	2	0	4	0	2	0	2	0	0	4	1	1	0	0	4.0	1	4	The venerable ancient castle sat atop an imposing hill, adorned with glimmering gold spires.	6
+16	0	0	3	2	0	5	1	0	0	2	0	0	2	0	0	1	0	3.0	0	14	Whispering sweet nothings into my lover's creamy, cinnamon-scented neck at dusk.	6
+21	0	1	1	3	0	9	0	2	0	3	0	0	2	1	2	1	0	3.0	1	9	Rays of sunshine warmed the cinnamon hued sands as lavender scented breezes wafted over the sapphire waters under cerulean skies.	6
+15	4	0	3	1	0	2	0	1	0	2	0	0	2	0	1	0	0	3.0	0	5	Culturally-blended yet intellectually-energetic teenagers eagerly skipped alongside the sun-warmed sidewalk. 	6
+25	2	0	4	2	1	5	0	5	0	0	0	1	5	0	1	0	0	4.0	0	23	Much to the chagrin of the stylish young woman, the tacky and over-the-top costume party was a major flop.	6
+32	2	0	8	3	0	5	1	2	0	2	0	0	9	1	1	1	0	4.0	1	14	The delicate, golden, glittering, tiny, smooth, snowflakes delicately fell onto her frozen, pale skin, like hundreds of tiny diamonds, creating a breathtakingly beautiful sight	6
+19	1	0	3	1	1	4	0	2	0	2	0	0	5	1	1	2	0	4.0	1	6	Meditative and misty mornings create an ethereal ambiance, gently caressing the landscape with soft, fluffy vapor.	6
+31	1	0	4	5	0	8	3	2	0	2	0	0	6	0	2	0	1	4.0	1	10	With her raven-black locks piled high upon her head, her silky skin glistened bright like polished jade beneath the warm, golden rays of the setting sun.	6
+32	1	0	3	3	3	6	1	2	0	2	0	0	11	1	1	1	0	6.0	1	19	The vivacious and vibrant teenager confidently modeled her trendy new outfit, complete with bold and bright accessories and graceful movements, in the ornate mirror adorned with elegant golden filigree.	6
+35	0	0	4	4	1	11	1	3	0	5	0	1	5	2	2	2	0	8.0	2	6	The sky-high ceiling of polished mahogany glistened like a mirror and was embellished with exquisite gold leaf moldings in intricate patterns that showcased extraordinary craftsmanship, creating a jaw-dropping visual.	6
+12	0	0	2	1	1	4	1	0	0	2	0	0	1	0	1	1	0	4.0	0	5	Glistenings of gold and diamonds embellished her slender, tapered fingers.	6

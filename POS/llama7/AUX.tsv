@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Mary's lap.	0
+9	0	0	1	2	0	2	2	1	0	1	0	0	0	0	1	0	0	2.0	0	6	She walked to the park with her dogs.	0
+10	0	0	1	1	0	4	0	2	0	1	0	0	1	0	1	1	0	2.0	0	6	Runaway dogs chased the postman down the busy street.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The horse galloped away from the barn.	0
+7	0	0	1	1	0	2	1	0	0	1	0	1	0	0	1	0	0	2.0	0	3	Blood was pouring from his wounds.	0
+9	0	1	1	0	0	2	1	1	1	2	0	0	0	1	2	1	0	3.0	1	3	John smiled as he watched the dog play.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The snowflakes fell gently on my face. (1 sentence)	0
+16	1	0	3	2	0	3	2	2	0	2	0	0	1	0	1	0	1	4.0	1	12	Running through the park, the sun on my face, I felt truly alive.	0
+16	1	0	1	3	1	3	0	3	1	2	0	0	0	1	1	1	0	3.0	1	10	Mary quickly ran out of the room and down the stairs to find the cat.	0
+15	0	0	2	3	0	3	2	2	0	2	0	0	1	1	1	1	0	3.0	1	7	The rain poured down on the dry earth, soaking everything in its path.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped over the fence.	0
+9	0	0	3	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	"""She ate the sandwich with gusto."""	0
+8	1	0	1	1	0	1	0	1	0	1	0	1	1	0	1	0	1	3.0	1	6	Running down the stairs was incredibly scary.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	I ate a sandwich for lunch.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+10	0	0	1	1	0	2	1	1	0	2	0	1	0	1	1	1	0	2.0	1	5	I am going to the store to buy milk.	0
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	John walked to the store alone.	0
+7	2	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	Melanie quickly put the books away.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+10	1	0	1	1	0	2	0	1	1	1	0	0	1	0	1	0	0	3.0	0	7	John smiled broadly at the corgi's playful antics.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+13	1	0	5	0	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	8	"""The dog chased the cat eagerly."" (0 auxiliaries)"	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred loudly.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I ran to the store.	0
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The sky turns dark red during sunset.	0
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The ball fell on the floor with a loud thud.	0
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	5	She ate an apple with her hands.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on John's lap.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun set slowly in the evening sky.	0
+10	1	0	1	1	0	2	2	1	0	1	0	1	0	0	1	1	0	2.0	0	6	I will eat a cookie quickly before my meeting.	0
+8	1	0	1	2	0	2	0	1	0	1	0	0	0	0	0	0	0	2.0	0	6	Run quickly through the park before breakfast.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly under the sun.	0
+8	1	1	0	1	0	1	0	1	1	2	0	0	0	1	1	0	0	2.0	1	6	John ran quickly across the field without stopping	0
+16	1	0	1	1	1	4	0	1	0	3	1	1	1	1	1	1	0	3.0	1	6	The new employee is expected to arrive at 9 am tomorrow and begin training immediately.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	Nice flowers blossomed in the warm sunlight. 	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sky slowly turns blue during the morning.	0
+7	0	0	0	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will buy bread at the store	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Steve's lap.	0
+4	1	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	2.0	1	1	Sentence completed successfully! Please see below for your answer: She ate a sandwich for lunch.	0
+13	0	0	0	2	1	3	0	3	1	3	0	0	0	1	1	1	0	4.0	1	5	Sally sat on the bench and watched the ducks swim in the pond	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+19	0	0	1	3	2	5	0	3	0	2	0	0	3	0	1	1	0	5.0	0	6	The sun rose in the eastern sky and painted the landscape with warm hues of orange and pink.	0
+8	0	0	1	1	0	3	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	Bright rays of light illuminated the darkness.	0
+13	1	0	1	2	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	9	The cat slept soundly on the windowsill during the warm afternoon sun.	0
+15	2	1	1	1	1	2	0	2	1	3	0	0	0	2	1	1	0	4.0	2	5	Jeff slowly and carefully walked into the forest before stopping to observe the birds. (1 sentence) 	0
+9	0	0	1	0	0	2	1	0	0	2	0	1	1	1	1	1	0	3.0	1	3	I am planning to visit friends next weekend. 	1
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	She is walking to the store.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She walked slowly to the kitchen.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The dog ran swiftly across the green field.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She walked quickly to the store.	1
+13	0	1	1	2	0	2	1	2	1	2	0	1	0	1	2	0	0	3.0	1	7	Liz went to the library because she had studied for the exam.	1
+11	1	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The car quickly accelerated down the highway at incredible speeds.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The dog chased quickly the cat.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog runs quickly down the street.	1
+15	1	1	1	1	0	2	4	1	0	3	0	0	1	2	2	2	0	3.0	2	8	She always wears her coat to the party because it makes her feel warmer.	1
+16	2	0	1	1	0	4	1	3	0	3	0	0	0	2	1	2	0	4.0	2	5	The teacher asked the students to quietly raise their hands when responding to the question.	1
+10	1	0	1	2	0	2	0	1	1	1	1	0	0	0	1	0	0	2.0	0	6	Mary usually leaves for work by 7:30 every morning.	1
+16	0	0	1	2	1	5	0	2	0	2	2	0	0	1	1	1	0	5.0	1	6	Between seven and eight hundreds people gathered at the concert venue to watch the performance.	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	She has bought some apples.	1
+6	1	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I'll call him later.	1
+7	0	0	0	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will eat dinner in the restaurant	1
+8	1	0	1	1	0	2	1	0	0	1	0	1	0	0	1	0	0	2.0	0	4	They are driving to school alone tomorrow.	1
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	I will attend the meeting tomorrow.	1
+8	1	0	0	0	0	2	2	0	0	1	0	1	0	0	1	1	0	2.0	0	4	She will definitely not eat her vegetables tonight	1
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	She is studying in the library.	1
+8	1	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Ashley walked slowly through the dark forest.	1
+9	1	0	1	0	0	2	2	0	0	1	0	1	1	0	1	1	0	2.0	0	4	She will probably continue her project next week. (1 auxiliary: will)	1
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	I will return the favor tomorrow.	1
+14	2	0	4	0	0	3	1	2	0	2	0	0	0	1	2	1	0	3.0	1	8	The rain had already __________ (finish) when I left the house.	1
+10	0	0	1	1	0	2	2	1	0	1	0	1	1	0	1	1	0	2.0	0	6	She is writing a novel in her free time.	1
+5	0	0	1	0	0	1	1	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I have eaten dinner.	1
+9	2	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	She will always walk quickly in the park.	1
+5	0	0	0	1	0	1	1	0	0	1	0	1	0	0	1	0	0	2.0	0	2	They must travel by train	1
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	Maria slowly walked down the stairs.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The sun has risen over the mountains.	1
+6	1	0	2	1	0	1	0	0	1	0	0	0	0	0	0	0	0	2.0	0	5	John always _ _ to school	1
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The rain poured heavily from the sky	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	She is eating a sandwich.	1
+17	1	1	2	1	0	3	0	3	0	4	0	1	0	3	1	1	0	4.0	3	6	The detective stood awkwardly in the shadows, trying to observe the suspect without being noticed.	1
+15	0	1	3	1	0	4	2	2	0	2	0	0	0	1	2	2	0	2.0	1	11	The teacher asked the student if he _____________(had) his homework before class.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat quietly sat on the mat.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred happily on my lap.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the trees.	1
+9	1	0	1	0	0	3	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	She will likely attend the event tomorrow evening.	1
+13	2	1	1	1	0	2	1	1	0	2	0	2	0	1	1	1	0	3.0	1	5	He will often have walked for hours before finally reaching the summit. (1 auxiliary: will)	1
+6	2	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The cat sat down quickly.	1
+12	0	1	0	1	0	2	2	1	0	3	1	1	0	2	1	1	0	5.0	2	5	I will attend the meeting if there is one scheduled for today	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The sun had set over the horizon.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	1
+8	2	0	0	0	0	1	2	0	0	2	0	1	0	1	1	1	0	2.0	1	4	You must always wear your seatbelt when driving	1
+9	0	0	1	0	0	1	1	1	0	2	0	1	1	1	1	1	0	3.0	1	3	I have decided to buy a new car.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun set over the horizon.	1
+16	2	0	2	2	1	3	2	1	0	3	0	0	0	0	1	1	1	3.0	1	7	Running late for work, I quickly packed my bag and rushed out the door.	1
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The teacher walked into the classroom	1
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She studies at the university.	1
+14	1	0	1	1	1	3	0	3	0	3	0	1	0	1	1	1	0	4.0	1	6	The trainers _have and will be_ training the team intensively before the competition.	2
+25	1	0	8	0	1	5	1	1	1	3	0	0	3	2	2	2	0	3.0	2	18	Bob has always _____ (drive) fast cars, but last year he _____ (decided) to take a defensive driving course.	2
+9	0	0	1	1	0	2	0	1	1	1	0	2	0	0	1	1	0	2.0	0	4	Maria will have eaten dessert before the party.	2
+12	0	1	1	1	0	2	1	1	1	2	0	2	0	1	2	1	0	3.0	1	5	John will have walked the dog before he leaves for work.	2
+15	2	0	1	1	1	3	0	1	1	3	0	2	0	1	1	1	0	3.0	1	5	Judy has just finished exercising and is now eating breakfast in the morning sun.	2
+11	1	0	1	1	1	2	1	1	0	2	0	1	0	0	1	1	0	3.0	0	4	She will both have and eat a sandwich for lunch.	2
+25	0	0	8	2	1	3	1	1	2	3	1	0	2	1	1	1	0	4.0	1	14	Alice __________ (be) excited to travel to Tokyo, and she __________ (eat) sushi for the first time last week.	2
+13	1	0	4	0	0	3	0	2	0	2	0	0	0	1	0	1	0	2.0	1	9	The teacher ____ (teach) the students how to calculate pi.	2
+11	3	0	1	1	0	0	3	0	0	1	0	2	0	0	1	1	0	3.0	0	5	I will always have never tried anything like that before.	2
+12	1	1	1	1	0	2	0	1	1	2	0	2	0	1	1	1	0	3.0	1	4	Jane will likely have eaten breakfast before going to the park.	2
+9	1	0	1	1	0	3	2	0	0	1	0	0	0	0	1	2	0	2.0	0	5	She _will have finished_ her homework by tomorrow.	2
+8	0	0	1	0	1	1	0	1	1	2	0	1	0	0	2	0	0	2.0	0	3	The car was parked and John drove.	2
+14	2	1	1	1	0	2	1	1	1	2	0	2	0	1	2	1	0	3.0	1	4	Alice must be quickly eating breakfast before she rushes rapidly to the office.	2
+10	0	0	4	1	0	2	1	1	0	1	0	0	0	0	0	0	0	2.0	0	7	He ________ (go) to the store yesterday.	2
+17	2	0	1	1	1	2	3	1	0	2	1	2	0	0	2	2	0	2.0	0	11	She has already had the cake for two hours and they still haven't eaten it.	2
+8	0	0	1	1	0	1	1	0	0	1	0	3	0	0	1	0	0	2.0	0	4	They will have been leaving since yesterday.	2
+20	1	1	1	2	1	3	1	2	2	4	0	0	0	3	2	1	0	4.0	3	8	Mandy and John ran together to catch the train because they wanted to arrive at the station on time.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly across the field.	2
+19	0	1	1	1	0	7	0	5	0	2	0	1	1	1	2	2	0	3.0	1	8	The manager told the employees that the project will require extra overtime this week despite the staff shortage.	2
+20	2	0	3	3	0	2	3	1	1	3	0	1	0	1	2	1	1	4.0	2	7	He had hardly (not) been studying for the exam when she surprised him with tickets to Paris.	2
+13	2	1	1	0	0	3	1	1	1	2	0	1	0	1	2	2	0	2.0	1	6	Mary will definitely perhaps attend the meeting tomorrow if she has time.	2
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun rises slowly on the sleeping town.	2
+11	1	0	1	1	1	2	0	2	2	1	0	0	0	0	1	0	0	4.0	0	4	The trainers _will_ and _must_ arrive at the meeting promptly.	2
+13	0	0	1	2	0	3	1	2	0	1	1	2	0	0	1	1	0	3.0	0	5	He will have written three novels by the end of the year.	2
+8	0	0	2	0	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sleeping ______ the couch.	2
+8	0	0	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	3.0	0	3	Jane and he ran down the street.	2
+10	0	0	1	1	1	1	1	1	0	2	0	2	0	0	1	0	0	3.0	0	3	He has been eating and walked to the store.	2
+9	0	0	2	0	0	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	3	The manager manages the employees ____________________ the company.	2
+21	2	2	1	0	0	1	2	1	1	4	0	4	0	4	3	1	0	5.0	4	7	Alice must have forgotten to attend the meeting because she wasn't there even though she had meant to go.	2
+19	3	0	1	2	0	2	1	1	0	4	0	2	0	3	1	0	0	5.0	3	8	He is going to have to speak twice as loudly in order to be heard over the noise.	2
+26	0	0	2	1	2	5	3	1	3	4	0	2	1	3	2	3	0	6.0	3	5	Both Jack and Mary are planning to finish their work by Friday afternoon, which will enable them to attend the company retreat next weekend.	2
+15	1	1	0	1	0	3	0	3	0	3	0	2	0	2	1	1	0	4.0	2	5	The driver will have stopped outside the station before turning around to face the car	2
+10	2	0	1	0	1	0	2	0	0	2	0	2	0	0	2	0	0	2.0	0	5	He has just arrived and they are still waiting.	2
+10	2	0	1	0	1	1	0	1	2	1	0	1	0	0	1	1	0	3.0	0	6	Ada and John will probably certainly attend the conference.	2
+13	0	0	1	2	0	1	1	0	2	1	1	3	1	0	1	1	0	2.0	0	7	She will have been studying Spanish for three years by next July.	2
+13	0	0	4	1	0	3	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	The manager _________ (be) delighted with the employee's work.	2
+8	0	0	0	0	0	1	0	0	2	3	0	1	0	1	1	2	0	2.0	1	5	Karen has to eat Sarah will bring dinner	2
+18	3	1	2	1	0	1	2	1	1	2	0	2	1	2	1	2	0	4.0	2	6	She has always been able to speak English fluently, despite only studying it for a year.	2
+10	2	1	1	0	0	0	2	0	0	2	0	2	0	1	2	0	0	2.0	1	5	He will certainly have already eaten before he arrives.	2
+7	1	0	1	0	0	0	1	0	0	0	0	3	1	0	1	0	0	1.0	0	5	She must always has been late.	2
+14	3	0	1	1	0	1	1	1	2	3	0	1	0	2	2	1	0	4.0	2	4	Mary will always have Ben follow closely when she jogs in the park.	2
+11	2	0	0	1	0	1	1	0	1	2	0	1	1	1	1	0	0	3.0	1	5	Mary is likely going to speak loudly about her recent success	2
+10	1	0	0	0	1	1	1	0	2	1	0	2	1	0	1	1	0	3.0	0	6	Alice and Bob have already been training their new pup	2
+12	3	0	1	0	0	1	1	0	2	2	0	2	0	1	2	1	0	2.0	1	5	Jenny will probably already have packed her bags when Mary arrives.	2
+15	1	0	5	0	0	1	1	1	0	2	0	3	0	1	1	1	0	3.0	1	9	She (will) definitely (must) have forgotten to pay the bill.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The girl walked quietly _________ into the room	2
+13	3	0	1	0	0	1	3	0	0	2	0	3	0	1	2	1	0	3.0	1	5	He must have been going somewhere when he accidentally forgot his umbrella.	2
+9	2	0	0	0	0	3	0	1	1	1	0	1	0	0	1	1	0	2.0	0	4	David will definitely certainly attend the concert tomorrow night	2
+12	0	0	2	1	0	4	0	3	0	1	0	0	1	0	1	1	0	2.0	0	8	The managers decided ____________ the new policy in the meeting tomorrow.	2
+19	1	0	4	2	1	2	1	2	2	3	0	0	1	1	2	0	0	3.0	1	12	Jack and Tom quickly run down the hill before the teacher _____________ (catch) them playing hooky.	2
+23	1	0	2	4	2	6	2	3	0	3	0	0	0	1	1	3	0	4.0	1	12	The cat chased the mouse around the table with joy and excitement, ultimately knocking it over and catching it with glee.	4
+17	1	0	2	2	0	6	0	2	0	1	1	0	2	0	1	1	0	3.0	0	11	The flight attendant quickly offers four complimentary drinks to all first-class passengers before takeoff.	4
+13	0	1	0	2	0	3	1	1	1	2	0	1	0	1	2	0	0	3.0	1	6	Jenny's grandmother can drive to the shop before we go to bed	4
+18	2	1	2	1	0	2	2	2	0	2	0	2	1	2	2	1	0	3.0	2	8	She will likely be able to finish the project before the deadline if she works diligently _____________.	4
+17	0	0	1	2	2	4	4	1	0	2	0	0	1	0	1	1	0	3.0	0	11	She went to he party with him brother and his friend and had a good time.	4
+21	0	1	2	1	1	2	4	2	0	4	0	4	0	2	3	2	0	5.0	2	9	She had eaten before the meeting, and they would have seen her arrive if she had taken a taxi.	4
+10	0	0	2	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The cat chased the mouse ____ through the grass.	4
+8	1	0	0	0	0	2	1	1	0	1	0	2	0	0	1	1	0	2.0	0	4	She will likely have finished the project tomorrow	4
+17	1	0	0	1	1	3	1	2	1	3	0	1	2	1	2	2	0	3.0	1	10	Mary had better study harder tonight or she probably won't get an A on the exam	4
+11	4	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	8	Sally runs away fast quickly rapidly down the dark alley.	4
+29	0	0	13	0	1	0	5	0	0	5	0	4	0	1	4	1	1	3.0	2	13	" ""Do not touch that,"" she exclaimed, ""it is broken,"" ""I will try,"" and ""they will finish."""	4
+21	0	1	0	0	2	6	2	0	0	5	0	1	2	3	1	3	0	7.0	3	5	I will attempt to fly by using additional jet engines and improving my control system to ensure greater stability and safety	4
+16	0	0	0	1	2	2	2	1	4	3	0	0	0	2	1	3	0	4.0	2	8	Tony and Sarah walked John and Laura around the school to help them find their classrooms	4
+13	2	1	1	0	0	2	0	2	0	1	0	3	1	1	2	0	0	3.0	1	6	The sun must have set already because the sky is dark outside.	4
+13	0	0	1	2	0	3	0	3	0	2	0	1	0	1	1	1	0	3.0	1	4	The trainers were instructing the athletes to warm up on the field.	4
+16	0	1	1	2	0	5	1	3	0	2	0	0	1	1	1	2	0	3.0	1	9	The dog chased the cat across the field with excitement while wearing its red collar.	4
+11	0	0	1	2	0	3	0	2	0	1	1	1	0	0	1	0	0	2.0	0	5	The train was departing from the station at 8 o'clock.	4
+11	4	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	7	The man walked quickly quietly quickly quietly down the street.	4
+12	2	0	1	0	0	2	0	2	2	2	0	1	0	1	1	2	0	4.0	1	3	John will always have Lisa walk the dog twice a day.	4
+10	0	0	2	0	0	2	1	1	1	2	0	1	0	1	2	1	0	3.0	1	4	John thinks ________ he will attend the meeting tomorrow.	4
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the table and purred happily.	4
+12	1	1	0	1	0	2	3	0	0	3	0	0	0	2	2	1	0	4.0	2	5	I always try to eat my dinner before I go to bed	4
+14	2	0	1	1	0	4	0	2	0	3	0	0	0	2	1	1	0	5.0	2	3	The storm clouds gathered fiercely overhead threatening to unleash a torrent of rain.	4
+7	0	0	2	1	0	2	0	2	0	0	0	0	0	0	1	0	0	2.0	0	4	The cat ______________ on the mat.	4
+29	0	1	3	1	1	5	3	4	0	6	0	2	1	4	4	2	0	4.0	4	13	The storm had made me nervous, causing the ground to shake, and I could feel the adrenaline pumping as I waited for the earthquake to strike.	4
+14	0	0	1	3	0	4	2	1	0	1	1	1	0	0	1	1	0	2.0	0	10	I shall meet them at the station tomorrow morning at 8 by car.	4
+15	0	0	1	0	0	4	0	3	0	3	1	0	2	2	1	3	0	4.0	2	4	The teacher asked the students to write a essay using four different auxiliary verbs.	4
+13	2	0	1	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	7	The man walked quickly quietly down the street to meet his friend.	4
+13	0	0	3	2	0	3	0	3	0	1	0	0	1	1	0	0	0	3.0	1	6	The astronauts _______________ on the spacecraft, preparing for the upcoming expedition.	4
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	4
+13	0	1	0	1	0	3	1	0	2	1	0	4	0	1	2	1	0	2.0	1	8	John will be meeting Mary tomorrow if he will be in town tomorrow	4
+9	0	0	1	1	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the windowsill catching birds.	4
+15	2	1	1	1	0	0	5	0	0	2	0	3	0	1	2	2	0	3.0	1	6	He must have needed them desperately for she has lent them to him eagerly.	4
+11	1	0	1	0	0	2	1	1	0	2	0	2	1	1	2	0	0	3.0	1	6	I think the book probably will be finished next week. 	4
+9	1	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I always have done the dishes before dinner.	4
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred loudly on John's lap.	4
+13	0	0	4	0	0	5	0	2	0	1	1	0	0	0	1	2	0	2.0	0	9	The teacher gave the students _______________ homework tonight. (4 auxiliaries)	4
+6	1	0	1	0	0	1	1	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I have eaten breakfast already.	4
+21	1	3	1	0	0	1	3	0	1	3	0	5	2	4	4	1	0	4.0	4	10	Mary is eating breakfast because she is hungry because she has been working hard because she wants to be healthy.	4
+13	0	0	1	0	0	0	3	0	2	4	0	1	0	3	2	2	0	5.0	3	4	Liz has gotten Jon to do something that he wants to do.	4
+10	4	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	6	She must definitely often certainly quickly eat the cake.	4
+15	3	0	2	0	1	1	1	1	1	2	0	1	2	0	1	1	0	3.0	0	10	John has just bought a new car and immediately felt very excited ______________ it.	4
+8	0	0	1	1	0	1	1	1	0	1	0	2	0	0	1	0	0	2.0	0	3	They will be going to the store.	4
+21	0	1	7	1	0	3	1	2	0	1	0	2	1	1	1	0	0	3.0	1	9	The manager _______________ (not/be) at the meeting yesterday because she _______________ (be) feeling unwell.	4
+17	0	0	1	2	1	4	0	3	0	1	0	1	3	1	1	0	0	4.0	1	7	The astronauts were able to land on the planet despite the extreme gravity and atmospheric conditions.	4
+14	1	1	1	1	0	3	2	1	0	2	0	2	0	1	2	1	0	2.0	1	8	He will probably go to the store tomorrow after she had eaten breakfast.	4
+14	1	0	2	0	1	3	0	1	0	2	0	3	1	0	0	2	0	4.0	0	4	Auxiliary verb: has been eaten lunch and will take a nap now.	4
+13	2	0	1	1	0	3	1	0	1	2	0	1	0	1	1	1	0	3.0	1	5	Jamie can possibly probably ought to take her umbrella to work today.	4
+10	1	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The train left the station quickly at 8 o'clock.	4
+11	0	0	0	2	0	4	0	3	0	1	0	0	1	0	1	1	0	2.0	0	8	The cat chased the mouse up the tree with great excitement	4
+26	4	0	19	0	1	0	0	0	0	1	0	1	0	0	0	0	0	3.0	0	13	" ""will"", ""always"", ""arrive"", ""eventually"", ""always"", and ""eventually"".)"	6
+18	6	0	7	0	1	1	1	1	0	1	0	0	0	0	1	1	0	3.0	0	14	Easily, confidently, happily, quickly, quietly, and politely, she opened the door.	6
+13	8	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	10	She will definitely quickly efficiently quietly surely often very vigorously continue working.	6
+9	0	0	3	0	0	1	0	1	0	1	1	0	1	0	0	1	0	3.0	0	3	Auxiliary #1 (modifies a verb): The doctor advised against surgery because the patient was too ill. Auxiliary #2 (conjugated in -ing form): Running makes her feel energized and excited for the day. Auxiliary #3 (inflection of a pronoun): He is going to the store for milk and eggs. Auxiliary #4 (having a continuous form): She is studying French to improve her language skills. Auxiliary #5 (negation): The children were not playing outside when I arrived. Auxiliary #6 (emphasis): I absolutely love cooking and experimenting with new recipes.	6
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	1	1	0	3.0	0	3	I have six cats in the house: She doesn't like him; he always eats dinner late; she's never there; he works every day; they don't speak English; he's reading a book.	6
+30	4	2	1	2	1	3	3	2	0	5	1	1	3	4	1	3	0	8.0	4	9	I will always continue to consistently rely on you to dependently assist me by using six auxiliaries simultaneously while completing this particular task in a timely and efficient manner.	6
+16	2	1	1	2	0	4	0	4	0	2	0	0	0	1	2	0	0	3.0	1	8	The rain fell hard on the pavement as the wind blew fiercely across the landscape.	6
+13	0	0	1	2	0	4	0	3	0	1	1	0	1	0	1	1	0	2.0	0	9	The cat chased the mouse around the house with six angry eyes.	6
+15	2	0	1	1	0	4	1	0	1	1	0	1	1	0	1	0	0	4.0	0	7	John's brother's cat can jump quickly high in their new backyard garden.	6
+12	0	1	2	1	0	2	2	2	0	2	0	0	0	1	2	1	0	2.0	1	7	The dog chased _____________ across the field until it caught it.	6
+18	1	0	2	2	1	3	1	2	0	2	0	1	2	1	1	1	0	4.0	1	5	In the cold and rainy weather, she will drive cautiously to reach the hotel before nightfall.	6
+13	1	0	1	2	0	4	0	3	0	1	0	1	0	0	1	1	0	2.0	0	7	The cat is currently chasing the mouse under the couch with determination.	6
+12	0	0	1	2	0	3	2	0	0	1	1	1	1	0	1	1	0	2.0	0	8	I have met many people in six countries during my travels.	6
+27	1	0	2	5	1	7	2	4	1	2	0	1	1	1	2	0	0	4.0	1	14	The sun was setting slowly across the ocean as John, her sister, and their dog arrived at the beach in anticipation of a thrilling adventure	6
+15	0	1	1	1	0	3	1	2	0	2	1	1	1	2	1	1	0	4.0	2	6	The team was able to make it to the park by walking six miles.	6
+12	1	0	1	2	0	3	0	2	0	1	0	2	0	0	1	0	0	3.0	0	4	The sky was being slowly painted by a flock of birds.	6
+9	1	0	1	2	0	1	0	1	2	1	0	0	0	0	1	0	0	2.0	0	6	John walked home in the rain with Susan.	6
+10	0	0	3	0	1	3	0	1	0	2	0	0	0	1	1	1	0	4.0	1	4	The astronauts launched ______________ spacecraft and landed ______________ planet.	6
+11	2	0	0	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	8	The cat chased the mouse quickly through the busy streets noisily	6
+42	6	1	4	6	2	6	4	2	2	6	0	0	2	1	2	1	0	7.0	1	9	Sarah thoughtfully nodded and smiled brightly at John as he arrived late, carefully took off his shoes at the door, quickly changed into his comfortable clothes, and enthusiastically listened to their hosts' exciting plan for the weekend.	6
+10	0	0	1	1	0	2	1	1	1	1	0	1	1	0	1	1	0	3.0	0	6	I have visited several countries in Europe this year.	6
+15	0	1	1	1	0	1	4	0	0	4	0	1	0	3	2	1	0	4.0	3	6	I will continue to work on my project until she tells me to stop.	6
+19	0	1	4	1	0	2	3	1	0	3	0	2	1	2	2	2	0	3.0	2	12	She has got to buy new clothes for the party because they ________________ (must) attend it.	6
+14	2	0	1	2	0	1	2	0	2	2	0	1	1	1	2	1	0	3.0	1	6	John is looking forward to Mary kissing him passionately in their secret hideaway.	6
+20	2	0	4	1	0	4	2	1	1	2	0	1	1	0	1	0	0	3.0	0	8	The company will certainly expand into Europe once they _____________ __ (finish/develop) their innovative product line	6
+19	4	0	1	1	0	2	3	3	0	4	0	1	0	2	3	1	0	4.0	2	12	She decided they had worked enough for the day, so they all walked home enjoying the sunset together	6
+16	2	0	1	2	0	4	2	2	0	2	0	1	0	1	2	1	0	3.0	1	9	I was eating dinner with my family when the storm suddenly knocked on the window.	6
+9	0	0	0	1	0	2	0	2	0	3	0	1	0	2	1	1	0	4.0	2	3	The sun had risen shone lit up the sky	6
+13	1	0	0	3	0	4	1	2	0	1	0	0	1	0	1	0	0	3.0	0	6	The sun rises rapidly in the east with surprise at its fiery appearance	6
+12	5	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	5	The cat walked quickly quietly happily around slowly above the tree.	6
+32	2	2	2	2	1	5	4	1	1	5	1	3	1	3	4	2	1	4.0	4	13	Although John had eaten breakfast two hours ago, he is starving now because he has to go to the beach and he's excited to play volleyball with his friends. 	6
+20	1	2	1	1	0	4	2	1	0	3	2	2	1	2	2	1	0	5.0	2	10	I have always believed that by working six days a week I could achieve success within six short years.	6
+13	7	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	9	She will definitely quickly often secretly surprisingly quietly furiously write the letter.	6
+13	1	0	1	3	0	3	2	1	0	1	0	1	0	0	1	0	0	3.0	0	5	I can completely depend on my brother for support in all challenges.	6
+20	3	1	2	1	0	1	3	1	1	5	0	1	0	4	3	1	0	5.0	4	8	He promised to call Sarah when he got home, despite knowing she'd already left for the airport.	6
+13	0	0	1	2	0	4	2	2	0	1	0	1	0	0	1	1	0	2.0	0	9	I will attend the concert tomorrow with my friends in the evening.	6
+10	0	1	1	1	0	2	0	1	1	2	0	1	0	1	2	0	0	3.0	1	6	Mary will go to school if the rain stops.	6
+36	1	0	3	6	1	10	0	5	0	3	1	1	4	2	1	1	0	6.0	2	15	The football player was able to kick the goal with the aid of good fortune and well-placed tactics, resulting in a score of two goals to nil in the decisive final match.	6
+15	2	1	1	2	0	4	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	The train driver diligently checked the signals before carefully pulling out of the station.	6
+36	1	0	4	5	0	8	1	3	3	4	1	0	6	2	2	2	1	6.0	3	11	The team of experts, led by Dr. Maria Rodriguez, quickly completed the urgent task with great efficiency using six advanced computer systems, each equipped with its own unique set of auxiliary tools.	6
+18	1	2	1	3	0	3	2	2	0	2	0	2	0	1	2	0	0	3.0	1	8	I am eagerly waiting for the bus so that I can arrive on time at the office.	6
+13	3	0	1	2	0	2	1	2	0	1	0	0	1	0	1	0	0	3.0	0	7	She walked slowly up carefully towards the old cottage in the rain.	6
+10	1	0	5	0	0	1	0	0	0	2	0	1	0	0	0	0	0	1.0	0	6	 will, give, see, next, week)	6
+15	0	0	4	0	0	2	1	1	0	3	0	2	0	0	2	0	0	5.0	0	12	 The dog ___ (eat/is eating/ate) its dinner.	6
+16	4	0	1	1	0	2	2	2	0	2	0	2	0	1	2	1	0	3.0	1	7	She will definitely probably have probably already left the building by the time I arrives.	6
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The sun was setting slowly across the sky.	6
+19	1	0	2	1	0	5	0	4	0	4	1	0	0	3	1	3	0	6.0	3	4	The detective carefully considered the clues, using six auxiliaries to help determine the identity of the criminal.	6
+16	0	1	0	2	0	4	0	2	0	2	3	0	2	1	1	2	0	2.0	1	12	The cat chased three mice through two grassy fields with a single squeak before catching one	6
+18	0	0	4	2	1	2	1	1	6	1	0	0	0	0	1	0	0	4.0	0	8	Amy went to the store with her friends John, Alex, Sarah, Emily and David. 	6
+20	0	0	2	3	0	5	0	3	0	2	2	1	2	1	1	0	0	5.0	1	5	The sky above the forest was filled with six white clouds, each one flanked by two silver crescents.	6

@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+19	1	2	2	0	0	2	2	0	3	0	2	1	3	3.0	9	2	1	2	1	1	1	2	Even though she left the party on her own, she still managed to smile for a while.	0
+20	1	1	0	2	0	1	3	0	3	0	2	2	4	5.0	5	3	3	2	2	0	2	2	They were relieved that they had managed to accomplish their task, despite encountering several challenges along the way.	0
+14	1	2	0	0	1	2	5	0	0	0	2	0	1	4.0	4	0	0	1	1	0	1	1	 **The vibrant sunset painted the sky in hues of orange and purple.**	0
+33	5	5	0	1	2	5	7	0	2	0	2	0	3	7.0	8	2	2	1	1	0	1	1	The early birds were the only creatures able to take off their wings and soar into the sky, despite the heavy wind and the fierce sun beating down on their heads.	0
+17	2	1	2	0	0	3	4	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	  The city's lights shone brightly under the starry sky, illuminating the vibrant street below..	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	   The dog ran to the tree..	0
+13	1	3	0	1	0	2	4	0	1	0	1	0	0	3.0	5	0	0	1	0	0	0	1	She is an island of peace amidst the chaos of daily life.	0
+20	3	3	0	0	1	3	5	0	0	0	2	0	3	5.0	5	1	1	1	1	0	1	1	The rain fell without end, creating a serene and peaceful melody of dripping leaves on the thirsty pavement..	0
+12	2	2	1	0	0	2	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The clouds floated gracefully in the vast expanse of blue sky.	0
+20	1	3	1	0	0	5	5	0	0	0	2	0	3	5.0	6	2	2	1	1	0	1	1	 The sun shone brightly in the sky, casting a warm glow on the flowers blooming on the porch.	0
+16	3	1	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The ocean's currents swept the sandy shores clean, leaving behind a pristine beach.	0
+19	3	3	0	1	0	2	4	1	1	0	2	0	1	3.0	9	0	0	1	1	0	1	1	Without the benefit of further textual context, I cannot generate a sentence with 0 postverbal objects.	0
+18	1	0	1	1	1	3	4	0	1	0	2	0	3	4.0	5	2	2	1	1	0	1	1	The sky is clear and there is no wind today, allowing the birds to sing freely..	0
+15	1	2	0	0	0	4	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The sun rose in the east, casting a warm shadow on the beach.	0
+16	1	3	0	1	1	2	2	0	3	0	1	0	1	5.0	4	1	1	1	0	0	0	1	I am unaware of what to write with nothing but an eye and a pencil.	0
+6	0	0	0	0	0	1	1	0	2	0	1	0	1	2.0	3	0	0	1	1	0	1	1	She ate nothing that day.	0
+19	3	2	0	3	0	2	3	0	2	0	1	1	1	4.0	11	2	2	2	1	0	1	2	I am unable to generate a sentence with no postverbal objects because it would be devoid of meaning.	0
+13	0	1	0	0	0	3	4	0	0	0	2	0	3	4.0	4	1	1	1	2	0	2	1	The clock struck midnight, leaving no trace on the slumbering city.	0
+11	2	1	0	0	0	2	4	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	A quiet morning breeze whispered through the old oak tree.	0
+14	1	2	0	0	0	2	4	0	0	0	4	0	1	2.0	7	0	0	1	1	0	1	1	"  ""The wind whispers secrets to the lonely tree at night.""."	0
+19	0	4	0	0	0	4	6	0	0	0	2	0	3	5.0	6	2	2	2	0	0	0	2	The moon rose above the mountain tops, shining like a pearl dipped in a pool of moonlight.	0
+16	1	2	0	0	0	3	5	0	1	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The sun rose over the horizon, casting its warm light on the sleeping town.	0
+23	2	3	0	0	0	5	5	0	1	0	3	0	4	6.0	6	3	3	2	1	0	1	2	The sun rose in the east, casting a warm glow on the land, which seemed bathed in a silver shimmer.	0
+8	0	1	0	1	0	2	2	0	1	0	1	0	0	2.0	3	0	0	1	0	0	0	1	  I am a star in the sky.	0
+11	0	1	0	1	0	3	3	0	0	0	1	0	2	4.0	3	1	1	2	0	0	0	2	  The rain had stopped by the time the sunset arrived..	0
+25	2	5	0	1	0	4	7	0	2	0	2	0	2	7.0	6	1	1	2	0	0	0	2	The city sleeps beneath a blanket of twinkling stars, an enchanting spectacle for those who dare look up on the magical night sky.	0
+19	0	2	2	0	1	1	4	0	2	0	2	0	4	6.0	7	3	3	1	2	0	2	1	She stood there with nowhere to go, feeling the wind carry her whispers of doubt and regret.	0
+15	2	2	0	0	0	3	4	0	0	0	2	0	2	4.0	6	1	1	1	1	0	1	1	A quiet breeze swept through the open window, carrying the scent of jasmine.	0
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	0	1	The sun rose in the sky without a sound.	0
+21	3	3	0	0	1	3	6	0	0	0	2	0	2	5.0	9	1	1	1	1	0	1	1	The sun set in a mesmerizing display of colors, illuminating the city's skyline with soft and comforting rays.	0
+16	1	0	0	0	0	2	4	0	2	0	2	0	4	8.0	5	3	3	1	2	0	2	1	There is no task given to generate content that lacks a post-verbal object.	0
+17	0	2	0	0	0	3	6	0	0	0	2	0	2	4.0	7	1	1	1	0	0	0	1	The morning dew danced on the spider's web, shimmering with the sun's reflection.	0
+17	2	3	0	0	0	3	5	0	0	0	2	0	2	3.0	6	0	0	1	0	0	0	1	A single, flickering candle flickered across the night sky in search of a new flame.	0
+17	2	0	0	1	0	3	3	0	2	0	1	1	3	5.0	8	2	2	3	2	0	2	3	None.	0
+15	1	2	2	0	1	2	2	0	1	0	2	0	2	4.0	7	1	1	1	0	0	0	1	She sat on the swing, swinging back and forth in the warm sunshine.	0
+10	1	1	0	1	0	1	2	1	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	I can generate a sentence with 0 postverbal objects.	0
+16	1	1	2	1	1	2	3	0	1	0	2	0	2	4.0	5	1	1	1	1	0	1	1	The sky was as blue as the stars, shining brightly and illuminating our world.	0
+11	0	1	1	0	0	2	3	0	0	0	3	0	1	2.0	7	0	0	1	0	0	0	1	  The stars shimmer brightly **across** the midnight sky.	0
+13	0	3	0	0	0	4	4	0	0	0	1	0	1	3.0	6	0	0	1	0	0	0	1	The sun rose in the east without any clouds in the sky.	0
+19	1	2	0	0	0	3	4	0	1	0	5	0	3	4.0	5	2	2	1	2	0	2	1	"  ""I stood by the river, watching the sunset paint the surface with vibrant hues.""."	0
+12	0	1	1	1	0	1	1	0	1	0	2	0	3	3.0	6	2	2	1	0	0	0	1	  They sat quietly in the corner, waiting to be called.	0
+9	0	1	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The sun rose brightly in the sky today.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	  The boy chased the butterfly around the garden.	0
+16	0	3	0	0	0	4	5	0	0	0	2	0	2	4.0	5	1	1	1	1	0	1	1	The sun rose over the horizon, painting the sky with the colors of dawn.	0
+14	1	2	0	0	0	3	4	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The sun rose in the east, casting long shadows across the fields.	0
+15	1	1	2	1	0	0	0	0	4	0	2	1	2	2.0	6	1	0	2	1	1	1	2	Even though she tried hard, she couldn't finish it on her own.	0
+8	0	1	0	0	0	2	2	0	0	0	1	0	2	3.0	4	1	1	2	0	0	0	2	The rain arrived without any wind blowing.	0
+17	0	1	3	0	0	1	2	0	3	0	2	2	3	4.0	9	2	0	2	1	2	1	2	  Even though she always planned on going to the library, she never made it today.	0
+16	1	2	1	0	0	3	4	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The sun rose early on that day, illuminating the clouds with its golden hue.	0
+9	1	1	0	0	0	2	2	0	0	0	2	0	1	2.0	4	0	0	1	0	0	0	1	 > The rain fell in a quiet drizzle.	0
+16	2	1	1	0	0	2	4	0	2	0	2	0	2	3.0	10	1	1	2	1	0	1	2	The little girl kicked her ball across the playground, its red dots bouncing joyously.	1
+22	3	2	1	0	0	3	4	0	3	0	2	1	3	4.0	9	2	2	2	2	0	2	2	The little birds flew away, singing their songs for their dear mother while they chased each other through the forest.	1
+15	0	1	1	0	0	0	2	0	4	0	3	1	3	3.0	4	2	1	2	1	1	1	2	After he arrived, his dog jumped over him, wagging its tail happily.	1
+9	0	0	1	0	0	2	2	0	0	0	1	1	2	3.0	5	1	1	2	0	0	0	2	 The dog barked loudly after the children arrived.	1
+14	0	1	1	0	0	4	4	0	0	0	1	1	2	3.0	9	1	1	2	1	0	1	2	The dog chased the ball across the field after the children returned home.	1
+14	0	1	1	0	1	2	3	0	1	0	2	0	3	4.0	5	1	1	1	1	0	1	1	The dog ran through the park, barking loudly and chasing its tail.	1
+15	1	2	0	0	0	3	4	0	1	0	2	0	2	3.0	7	1	1	2	0	0	0	2	The girl ran down the hill, her laughter echoing through the quiet forest.	1
+17	2	1	1	0	0	3	5	0	1	0	2	0	2	4.0	5	1	1	2	1	0	1	2	The little dog chased the bright butterfly, its wings flickering excitedly beneath the afternoon sun.	1
+22	2	2	0	0	0	5	5	0	1	0	2	0	4	4.0	11	3	3	0	1	0	1	0	There was a peaceful breeze blowing through the park that day, lifting the leaves to dance in the gentle sunlight.	1
+19	0	2	1	0	1	0	5	0	4	0	1	1	3	4.0	9	2	2	2	0	0	0	2	My sister and I went swimming in our aunt's backyard pool after she got home from work.	1
+11	1	2	0	0	0	3	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The girl with the blue dress ran down the street.	1
+17	1	2	1	0	0	3	4	0	1	0	1	0	3	4.0	9	2	1	2	0	1	0	2	The boy who jumped in the lake last summer finally returned to the lake to swim.	1
+14	0	2	0	0	0	2	2	0	1	0	2	1	4	4.0	5	3	2	2	0	1	0	2	The girl jumping into the lake coughed, looking up as she laughed.	1
+17	2	2	0	1	0	3	5	0	1	0	2	0	1	4.0	6	1	0	2	0	1	0	2	The girl dancing under the moonlight was beautiful, her dance a magical symphony of colors.	1
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	.	1
+19	0	2	1	0	1	4	5	0	0	0	2	0	4	4.0	6	1	1	1	1	0	1	1	The baby jumped happily into the lake, taking a dip and holding onto a floating lily pad.	1
+11	2	1	1	0	0	2	3	0	0	0	1	0	1	2.0	7	0	0	1	0	0	0	1	 The child played beautifully last evening under the starry sky.	1
+14	1	1	1	0	0	2	4	0	0	0	2	0	3	4.0	5	2	2	2	1	0	1	2	The sun rose, casting long shadows across the field where flowers bloomed.	1
+13	2	1	0	0	0	3	4	0	0	0	1	0	2	2.0	8	0	0	1	1	0	1	1	The young artist completed an intricate mosaic on the decaying stone wall.	1
+16	0	0	2	0	1	2	3	0	3	0	2	0	3	3.0	7	0	0	1	4	0	4	1	She wrote him a love letter, then took the box and closed it tightly.	1
+21	2	3	0	0	0	4	7	0	1	0	2	0	2	4.0	10	1	1	1	2	0	2	1	 The dog chased his ball through the meadow, leaving a trail of muddy paw prints on the green grass.	1
+21	1	2	0	0	1	3	7	0	1	0	2	0	3	5.0	8	1	1	1	1	0	1	1	My pet cat chased the butterflies in the meadow today, jumping and dancing in the sun's warm rays.	1
+13	0	1	1	0	0	3	3	0	0	0	2	0	3	4.0	6	2	2	2	0	0	0	2	The cat sat quietly on the windowsill, watching the birds sing.	1
+12	1	0	1	0	0	1	3	0	2	0	2	0	2	4.0	5	1	1	2	1	0	1	2	The dog chased her ball, its fluffy tail swaying gently.	1
+13	1	1	1	0	0	2	3	0	1	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The young child skipped away, kicking a butterfly with his toy.	1
+20	0	1	1	0	0	3	4	0	2	0	4	1	4	5.0	6	3	3	3	1	0	1	3	The dog ran through the grass, chasing the cat, as they played together, its fur glistening.	1
+11	0	1	0	0	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	2	0	2	2	The cat chased a mouse that scampering up a tree.	1
+15	0	2	0	0	0	4	5	0	0	0	2	0	2	3.0	8	1	1	1	1	0	1	1	The cat chased a butterfly through the sunflower garden, landing upon a daisy.	1
+12	1	0	1	1	0	2	3	0	1	0	2	0	1	4.0	3	1	1	2	1	0	1	2	Sure thing, here's a sentence that meets the requirements:  The blue bird sang a melody, adding a refreshing note to the tranquil atmosphere.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the bird through the trees.	1
+13	0	0	1	1	0	1	2	0	2	0	4	0	1	2.0	7	0	0	2	1	0	1	2	"Sure, the sentence is ""She left her keys behind."""	1
+11	0	2	0	0	0	3	3	0	1	0	1	0	1	2.0	8	0	0	1	1	0	1	1	She put the book on the table with the pen.	1
+22	0	4	0	0	0	5	5	0	2	0	2	1	3	4.0	8	2	2	2	2	0	2	2	The child chased the ball through the backyard, kicking it up in the air before it landed in the pond.	1
+17	2	3	0	0	0	3	4	0	1	0	2	0	2	3.0	5	1	1	2	0	0	0	2	The old clock on the wall rang, its chimes ringing out as a melodious serenade.	1
+20	1	4	0	0	0	5	5	0	1	0	2	0	2	4.0	8	1	1	1	1	0	1	1	The dog chased after a ball across the park, leaving a wet trail on the grass behind it.	1
+9	0	1	0	1	0	1	2	1	0	0	2	0	0	3.0	7	0	0	1	0	0	0	1	Sure, a sentence with two objects is: The dog barked to her child after dinner.	1
+13	0	1	1	0	0	3	3	0	1	0	2	0	2	2.0	8	1	1	1	2	0	2	1	The boy chased the dog around the tree, finally catching it.	1
+14	0	1	0	1	0	3	4	0	0	0	2	1	2	3.0	4	1	0	2	1	1	1	2	After the rain had stopped, the children chased butterflies across the meadow.	1
+20	3	2	0	0	1	1	5	0	4	0	2	0	2	4.0	8	1	1	1	2	0	2	1	She wrote a heartfelt letter to her grandmother, expressing her deep gratitude for her unwavering love and support.	1
+27	1	4	0	0	3	2	6	0	4	0	3	0	4	6.0	6	1	1	1	2	0	2	1	 Despite the chaos of the day, we remained calm and collected, keeping our wits about us and achieving our goals with grace and determination.	1
+23	2	2	2	0	0	2	5	0	3	0	2	0	5	5.0	8	3	2	2	2	1	2	2	The old man who lives next door just finished mowing his lawn, leaving a trail of neatly trimmed grass behind him.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the butterfly across the flowers.	1
+22	4	3	0	0	0	3	5	0	2	0	3	0	2	5.0	9	1	1	2	1	0	1	2	They chased the playful kitten, its fur turning bright brown with excitement, down a hidden path behind a tree.	1
+18	1	1	0	2	0	4	4	0	0	0	4	0	1	2.0	10	0	0	2	1	0	1	2	"Sure, the sentence would be ""The young boy kicked the ball into the lake."" It has one postverbal object, ""the ball."""	1
+19	1	2	0	0	0	5	7	0	0	0	2	0	2	3.0	8	1	1	1	2	0	2	1	The dog chased a ball up the hill yesterday, leaving a wet paw print on the tree.	1
+13	3	1	0	0	0	3	4	0	0	0	1	0	1	2.0	8	0	0	1	1	0	1	1	The old tree cast a majestic shadow over the bustling city square.	1
+17	1	2	0	0	0	3	5	0	1	0	2	0	2	4.0	8	1	1	1	1	0	1	1	 The cat leaped onto the rooftop, catching the fish's attention with its sleek form.	1
+13	0	1	1	0	0	2	3	0	1	0	2	0	3	4.0	5	2	2	1	2	0	2	1	The dog barked softly after dinner, watching me prepare the meal.	1
+17	0	3	1	0	0	4	4	0	0	0	2	0	3	3.0	7	2	2	1	0	0	0	1	The cat sat on the bench, looking up at the sky at the birds singing.	1
+16	0	1	0	1	0	3	3	0	0	0	2	1	5	4.0	4	2	1	1	1	1	1	1	 Despite being exhausted, the adventurer found the lost artifact hidden behind a crumbling pillar.	1
+20	3	2	0	2	1	2	4	1	1	0	2	0	1	3.0	7	1	1	0	1	0	1	0	Without any other context or direction, it would be impossible to write a sentence with 2 postverbal objects.	2
+14	0	1	1	0	1	1	3	0	1	1	2	0	3	4.0	5	1	1	1	2	0	2	1	John played guitar and sang along, captivating the audience in his performance.	2
+16	1	2	1	0	1	2	5	0	0	0	2	0	2	5.0	5	1	1	1	1	0	1	1	The birds sang beautifully, painting the sky with vibrant postpojects of gold and blue.	2
+20	2	2	1	0	1	3	5	1	1	0	2	0	2	5.0	8	1	1	2	1	0	1	2	The flowers swayed gently over the lake, their fragrance filling the air with two sweet and fragrant scents.	2
+22	2	3	0	0	0	5	6	0	1	0	2	0	3	4.0	9	1	1	2	1	0	1	2	The birds soared above the shimmering sea, their graceful wings painting the sky with the hues of the rising sun.	2
+13	0	1	1	0	1	2	2	0	0	2	2	0	2	3.0	5	1	1	1	1	0	1	1	John and Mary sat together, reading a book at the library.	2
+26	2	3	1	0	1	4	7	0	1	0	3	0	3	3.0	8	1	1	1	1	0	1	1	Despite the storm's fury and deafening soundwaves, the lone eagle soared high over the city, scattering its feathers amidst the towering skyscrapers.	2
+24	2	3	1	0	1	4	6	0	1	0	3	0	3	7.0	4	2	2	2	0	0	0	2	The rain pattered down, landing in the shimmering ponds, its reflection dancing around a vibrant bird and a field of dandelions.	2
+31	3	3	0	0	0	7	9	1	1	0	3	0	4	7.0	8	2	2	2	3	0	3	2	The bird built a nest above the rushing river, casting two beautiful feathers in the flowing water, a mesmerizing spectacle that drew the attention of the many onlookers.	2
+14	1	2	1	0	1	1	2	0	2	1	1	0	2	3.0	8	0	0	1	1	0	1	1	He went on a date with Sarah and then saw his best friend.	2
+20	4	2	0	1	1	2	4	0	2	0	2	0	1	3.0	8	0	0	1	1	0	1	1	Despite her strong physique and unwavering spirit, she could not defeat the evil sorcerer in the magical realm.	2
+10	0	1	0	0	0	3	4	0	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The cat chased the butterflies through the apple trees.	2
+14	0	2	0	0	1	3	4	0	1	0	1	0	2	3.0	5	0	0	1	1	0	1	1	The child ran to the store and bought a toy for their sister.	2
+11	0	1	0	0	0	2	3	1	2	0	1	0	1	2.0	8	0	0	1	2	0	2	1	She chased her two children to the park that day.	2
+15	1	1	0	0	0	2	3	1	2	0	2	0	3	4.0	7	2	2	2	2	0	2	2	She wrote two letters addressed to her friends, each containing a different postpositive.	2
+16	0	2	0	0	1	4	5	0	0	0	1	0	3	4.0	5	1	0	1	1	1	1	1	The cat chasing the mice leaped across the stream and dove under a willow tree.	2
+32	3	5	2	1	1	3	7	1	2	0	1	1	4	5.0	11	2	2	2	0	0	0	2	One young girl ran away with a precious toy in her pocket and then hid in the park under the big oak tree while waiting to be reunited with her friend.	2
+10	0	1	0	0	0	2	3	1	1	0	1	0	1	2.0	6	0	0	1	2	0	2	1	The dog chased her two cats around the park.	2
+9	0	1	0	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	They chased the butterflies across the moonlit fields.	2
+19	0	2	0	0	1	3	6	0	1	0	2	1	3	4.0	6	2	2	2	1	0	1	2	The birds flew to the garden, bringing twigs and worms as they settled in the morning dew.	2
+13	0	1	0	0	0	4	4	0	1	0	1	0	2	4.0	5	1	0	2	2	1	2	2	The boy who chased the dog chased the cat around the corner.	2
+16	1	2	0	0	1	2	4	0	1	0	2	0	3	5.0	6	2	2	1	1	0	1	1	He danced with laughter and joy, sending the colorful flowers scattering across the stage.	2
+26	2	4	1	0	0	5	8	0	1	0	2	0	3	6.0	7	1	1	2	2	0	2	2	The birds built a magnificent nest on the branch of a towering oak, each one meticulously crafting pieces of delicate metalwork for their home.	2
+11	0	1	1	0	0	2	2	0	0	0	2	1	2	3.0	3	1	1	1	0	0	0	1	  **The dancers swayed gracefully while dancing in the moonlight..	2
+24	2	3	2	0	0	5	6	0	0	0	2	1	3	4.0	10	2	2	2	1	0	1	2	The leaves rustle softly on the quiet pond, casting long shadows on the surface while the sun slowly dips below the horizon.	2
+14	0	2	0	0	1	3	3	1	0	0	1	0	3	5.0	4	1	1	1	0	0	0	1	The leaves shimmered and danced between the two birds singing from the trees.	2
+19	1	3	0	0	1	4	5	0	1	0	2	0	2	3.0	13	1	1	1	1	0	1	1	The boy ran, throwing the ball in the air to both his siblings at the same time.	2
+18	0	2	0	1	1	2	3	0	4	0	1	1	3	4.0	7	1	1	2	2	0	2	2	They walked their dogs to the beach and fed them while they were playing in the waves.	2
+16	1	2	0	0	1	2	6	1	0	0	2	0	1	4.0	10	0	0	1	1	0	1	1	 **The dancing lady threw two bouquets of sunflowers and marigolds at the bewildered bystanders.**	2
+16	1	3	0	0	0	4	5	1	0	0	1	0	1	4.0	5	0	0	1	0	0	0	1	The birds sing at the two birds on the branches of the old oak tree.	2
+22	2	2	1	0	1	4	6	0	1	0	2	0	3	6.0	7	2	2	2	2	0	2	2	The birds sing cheerfully in the lush gardens, providing a melodious duet that fills the air with joy and serenity.	2
+15	2	2	0	0	0	3	4	1	0	0	2	0	1	5.0	3	0	0	1	1	0	1	1	The painter applied two delicate brushes, each laden with a shade of ochre.	2
+12	0	1	0	0	1	3	3	0	1	0	1	0	2	3.0	5	0	0	1	2	0	2	1	She kissed the boy and left the flowers with the bird.	2
+27	3	3	1	0	1	4	6	0	2	0	2	1	4	6.0	7	2	2	3	0	0	0	3	The birds soared effortlessly amidst the shimmering blue waters, their cries echoing across the tranquil lake as they danced and played amongst the lily pads.	2
+11	0	1	0	0	1	3	3	0	0	1	1	0	1	3.0	8	0	0	1	1	0	1	1	John brought a book and a pen to the library.	2
+13	0	1	1	0	0	3	3	0	0	0	2	0	3	3.0	5	2	2	1	1	0	1	1	The cat sat beside the dog, watching the clouds drift past.	2
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	0	1	The birds sing under the trees after the storm.	2
+24	1	2	1	0	1	6	7	0	1	0	2	0	3	5.0	10	2	2	2	3	0	3	2	The rain gently washed the car and the leaves from the trees, creating a beautiful symphony that filled the park with life.	2
+18	2	2	1	0	0	3	6	0	0	0	2	0	2	4.0	6	1	1	1	1	0	1	1	The dancing shadows danced between the sleeping trees, casting eerie shadows on the mossy ground below.	2
+22	1	3	0	0	0	5	6	0	1	0	2	1	2	4.0	18	1	1	2	1	0	1	2	   _The children laughed as they built a treehouse in the forest, under the shade of a giant oak tree._	2
+9	0	1	0	0	1	2	2	0	0	0	1	0	2	3.0	3	0	0	1	0	0	0	1	The birds sang and flew in the twilight.	2
+17	1	1	2	0	0	2	4	0	1	0	3	0	3	4.0	5	2	2	2	1	0	1	2	The young musicians sat quietly, their instruments glowing brightly, composing music for the festival.	2
+15	1	0	0	1	0	2	2	0	3	0	2	1	2	4.0	7	2	2	2	3	0	3	2	They were unable to give her a ride, as she had no cars.	2
+20	0	3	1	0	0	3	5	0	2	0	2	0	3	3.0	9	2	2	1	2	0	2	1	The boy chased the butterflies across the fields after school, bringing them home for his parents to watch.	2
+21	0	2	0	0	0	2	4	0	2	1	5	0	4	6.0	10	2	2	2	2	0	2	2	"Sure, consider the following sentence: ""The boy who walked with his dog went shopping on Saturday""."	2
+10	1	1	0	0	1	1	2	0	0	2	1	0	1	3.0	5	0	0	1	0	0	0	1	John and Mary went to the concert last night.	2
+19	1	2	2	0	0	2	5	0	1	0	2	1	3	4.0	6	2	2	2	1	0	1	2	A flock of birds gracefully soared across the sky, carrying precious gemstones as their wings spread wide.	2
+16	0	2	2	0	1	2	3	0	2	0	2	0	2	3.0	10	1	1	1	1	0	1	1	You jumped over the rainbow and down to the sea, taking your keys along.	2
+12	2	0	2	0	1	2	2	0	0	0	1	0	2	3.0	4	0	0	1	1	0	1	1	The young musicians played flawlessly and generated an amazing melody together.	2
+10	0	0	0	0	1	0	1	1	2	0	1	1	3	3.0	5	1	1	2	1	0	1	2	She baked two cookies while he sat and watched.	2
+21	4	3	1	0	0	4	5	0	0	0	2	0	2	4.0	11	1	1	1	1	0	1	1	The beautiful flowers danced gracefully through the enchanted garden amidst the vibrant petals, leaving a lingering scent of happiness.	3
+21	2	3	0	0	1	3	6	0	1	0	2	0	3	4.0	8	2	2	1	1	0	1	1	The woman with sparkling eyes and her beautiful smile sat on the bench, watching children play in the sunshine.	3
+15	2	0	1	0	1	3	3	0	1	0	3	0	1	3.0	11	0	0	2	1	0	1	2	She left the groceries behind, the dishes unwashed, and the flowers dead.	3
+20	1	1	0	0	1	3	5	0	1	0	3	1	4	3.0	12	2	2	2	3	0	3	2	The children chased the birds, carrying feathers and dropping nuts, as they raced through the leafy meadow.	3
+16	3	0	0	0	1	1	3	1	3	0	1	0	2	3.0	10	1	1	1	3	0	3	1	She gave him three beautiful paintings and a charming scarf to brighten his gloomy week.	3
+16	0	1	1	0	2	1	2	0	0	3	2	0	3	3.0	5	1	1	1	1	0	1	1	John, Sarah and Mark jumped onto the field and began to play hopscotch together.	3
+20	1	3	0	0	2	3	5	0	1	0	2	0	3	5.0	5	1	1	1	0	0	0	1	  The children danced around the trees, laughing and playing with the colorful flowers and butterflies in their hands.	3
+23	2	4	1	0	0	4	7	0	0	0	2	0	3	5.0	7	2	2	1	1	0	1	1	The dancing creatures soared gracefully among the shimmering clouds, delivering secrets from distant worlds to a village hidden among the mountains.	3
+19	2	3	0	0	0	4	6	0	0	0	2	0	2	4.0	8	1	1	1	2	0	2	1	The painter added colorful paints to the flowers, leaving a stunning trail of beauty across the meadow.	3
+25	3	2	0	0	0	4	6	0	1	0	5	0	4	5.0	7	3	2	1	3	1	3	1	The vibrant butterflies, scattered across the sky, fluttered their wings, illuminating the lush meadow, painting a beautiful panorama of wonder.	3
+22	2	1	1	2	0	3	4	0	1	0	3	1	4	5.0	6	3	3	2	2	0	2	2	The birds were flying around the lake, singing beautifully, after they had finished a long day eating aquatic plants.	3
+14	0	2	0	0	0	3	5	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The bees danced across the meadow, casting shadows on the dancing flowers.	3
+24	2	3	0	0	2	4	9	0	0	0	2	0	2	5.0	9	1	1	1	2	0	2	1	 The artist added colorful strokes to the portrait, framing the stern eyes and sharp nose with an aura of intrigue and mystery.	3
+22	0	3	0	0	1	5	7	0	2	0	3	0	1	4.0	10	0	0	1	1	0	1	1	 She left her keys on the table, the papers on the chair, and the phone on the window sill.	3
+14	1	1	1	0	0	2	3	0	2	0	1	1	2	3.0	7	1	1	2	1	0	1	2	The birds soared effortlessly into the sunset as they sang their enchanting melodies.	3
+21	2	3	0	0	0	3	8	0	1	0	2	0	2	4.0	9	1	1	1	2	0	2	1	The dancing butterflies painted their petals with vibrant colors, creating a dazzling tapestry of beauty in the twilight sun.	3
+21	0	3	0	0	1	6	6	0	1	0	3	0	1	4.0	13	0	0	1	1	0	1	1	She left the painting on the table, the flowers in the vase, and the keys under the door.	3
+17	2	2	0	0	0	4	5	0	0	0	2	0	2	3.0	9	0	0	1	1	0	1	1	The dancing children chased the shimmering butterflies across the magical, floating garden in the sky.	3
+16	0	1	0	0	1	2	7	0	1	0	3	0	1	3.0	8	0	0	1	1	0	1	1	She baked a cake with chocolate cake, vanilla cake, and a raspberry topping.	3
+25	1	3	0	0	0	5	7	1	1	0	3	0	4	4.0	10	3	3	2	2	0	2	2	We sat on the shore, watching the waves crash against the shore, each wave leaving three spray rings on the sandy beach.	3
+17	2	1	0	0	0	2	3	0	3	0	3	0	3	4.0	4	2	2	2	3	0	3	2	The old, forgotten books filled the shelves, whispering secrets to those who sought them.	3
+23	3	3	1	0	0	3	7	0	2	0	2	0	2	3.0	11	1	1	1	1	0	1	1	The girl danced elegantly to the tune of her beloved violin music, performing a captivating solo in her grand living room.	3
+17	1	2	0	0	0	3	5	0	1	0	2	0	2	3.0	8	1	1	1	1	0	1	1	The boy ran through the park's dense foliage, kicking a ball with his friends.	3
+15	1	1	0	1	0	1	2	1	4	0	1	0	3	5.0	3	2	2	3	3	0	3	3	I'd create 3 beautiful gardens that bring joy to all who visit them.	3
+21	4	2	0	1	1	3	6	0	1	0	1	0	1	4.0	9	1	0	1	0	1	0	1	The young artists' creative sculptures displayed in the ancient ruins were a captivating display of their ingenuity and artistry.	3
+15	0	2	0	0	1	2	5	0	1	0	3	0	1	4.0	12	0	0	1	1	0	1	1	We planted a garden of sunflowers, lilies, and daisies near the pond.	3
+22	1	2	0	0	1	4	6	0	1	0	5	0	2	4.0	11	1	1	2	1	0	1	2	The artist, with the painter, sculptor, and architect, constructed a breathtaking castle that towered over the city.	3
+20	1	3	0	0	1	3	6	0	2	0	2	0	2	3.0	10	1	1	1	1	0	1	1	The girl ran through the park with her dog and cat, leaving their muddy shoes on the swings.	3
+24	1	4	0	0	1	6	5	0	0	0	4	0	3	4.0	11	0	0	1	0	0	0	1	The dog ran over the field, barked at the cat, and sat on the tree, all at the same time.	3
+26	5	3	0	0	0	4	7	1	2	0	2	0	1	3.0	14	0	0	2	0	0	0	2	The young artist's three paintings hung above the mantelpiece on the grand wall, their vibrant hues a vibrant reflection of her personal passion.	3
+14	0	1	1	0	2	1	2	1	0	0	2	0	4	4.0	5	1	1	1	0	0	0	1	Three children ran to the lake and played together, laughing and swimming.	3
+21	3	2	0	0	0	5	6	0	1	0	2	0	2	3.0	9	1	1	2	2	0	2	2	The children chased the butterflies across the field, each one chasing their own unique trails through the golden leaves.	3
+19	4	1	0	0	0	4	4	1	0	0	3	0	2	3.0	11	1	1	1	2	0	2	1	The young artist arranged the three colorful, vibrant flowers on the canvas, creating an exquisite masterpiece.	3
+25	2	4	0	0	0	4	7	0	2	0	3	0	3	4.0	7	2	1	3	0	1	0	3	Despite the relentless rain that cascaded, the blooming rose persisted, its petals glistening with a kaleidoscope of colors against the somber sky.	3
+17	1	3	1	0	0	3	5	0	0	0	2	0	2	3.0	7	1	1	1	0	0	0	1	The flowers bloomed in a symphony of colors, dancing wildly in the warm summer sun.	3
+16	2	1	2	0	1	3	3	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The flowers bloomed brightly and beautifully, casting an enchanting glow on the tranquil garden.	3
+10	0	1	1	0	0	1	3	0	0	0	2	0	2	4.0	3	1	1	1	1	0	1	1	The birds flew away, singing songs of happiness.	3
+19	0	2	0	0	1	3	6	0	1	0	3	0	3	4.0	6	1	1	1	1	0	1	1	The birds built their nest in the whispering leaves, flowers, and sunlight filtering through the leaves.	3
+18	3	2	1	0	0	3	4	0	1	0	2	0	2	4.0	6	1	1	1	1	0	1	1	The vibrant butterflies danced gracefully around the meadow, illuminating the sparkling paths with their iridescent wings.	3
+21	3	2	0	0	0	4	5	0	1	0	3	0	3	4.0	11	2	2	2	2	0	2	2	The young artists scattered throughout the forest, each painting their secret visions, creating a breathtaking symphony of colors.	3
+27	2	4	0	0	1	5	8	0	0	0	4	0	3	5.0	9	2	1	1	1	1	1	1	The flowers, painted in every color imaginable, scattered across the garden under the setting sun, creating a breathtaking spectacle of light and shadow.	3
+29	5	4	0	0	1	4	7	0	0	0	3	0	5	4.0	14	1	1	2	1	0	1	2	The young artist painted colorful murals on the ancient walls of the crumbling fortress, each one shimmering with reflected sunlight and adorned with delicate, swirling details.	3
+16	1	1	0	0	1	2	4	1	1	0	2	0	3	4.0	6	1	1	1	3	0	3	1	The three boys chased her around the backyard, bouncing balls and singing silly songs.	3
+22	3	3	1	0	0	4	5	0	1	0	3	0	2	3.0	12	1	1	1	2	0	2	1	The children chased them through the tall, shadowy trees of the forest, casting long shadows on the ground below.	3
+27	6	2	0	0	0	3	7	1	1	0	3	0	4	6.0	9	3	3	2	3	0	3	2	Three happy birds painted colorful patterns on the vibrant meadow grass, singing sweet melodies that drifted through the gentle breeze, illuminating the enchanting landscape.	3
+14	1	2	0	0	0	2	4	0	1	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The children ran across the garden, leaving colorful trails in their wake.	3
+17	1	3	1	0	0	3	5	0	0	0	2	0	2	4.0	7	1	1	1	1	0	1	1	The birds tweeted merrily around the park, scattering leaves like confetti in a sudden windstorm.	3
+23	2	2	0	0	1	3	9	1	0	0	4	0	1	4.0	12	0	0	2	1	0	1	2	The painter painted three beautiful landscapes on canvas last week, each one a masterpiece of color, light, and composition.	3
+29	5	2	2	0	1	5	7	0	2	0	2	0	3	5.0	10	2	2	3	2	0	2	3	The young musicians performed flawlessly in a captivating performance that showcased their artistry and grace, each musician contributing an equally brilliant musical performance to the enchanting melody.	3
+33	3	4	0	0	1	7	9	0	2	0	3	0	4	6.0	18	3	3	1	2	0	2	1	She laughed at the playful puppies chasing the butterflies, the dancing birds building their nests in the bushes, and the excited monkeys swinging in the canopy of the old tree.	3
+29	3	5	1	0	1	3	6	0	4	0	3	0	3	7.0	7	2	2	1	0	0	0	1	Despite her immense knowledge and wit, the elderly widow remained an enigma to those around her, remaining curiously detached from the unfolding events of her life.	5
+23	5	3	0	0	0	3	6	1	1	0	2	0	2	4.0	11	1	1	1	2	0	2	1	They planted five flowering roses around the ancient tree, creating a breathtaking tapestry of vibrant colors against the lush green foliage.	5
+10	1	1	1	0	0	2	2	0	0	0	1	0	2	2.0	5	0	0	1	0	0	0	1	The vibrant butterfly landed gracefully among the swaying wildflowers.	5
+22	1	2	1	0	1	4	7	0	0	0	4	0	2	4.0	12	1	1	1	2	0	2	1	The boy chased the dog, cats, and birds through the park, bringing back a bouquet of colorful flowers.	5
+26	3	4	0	0	1	4	7	0	0	0	3	0	4	4.0	15	2	2	2	1	0	1	2	The dancers danced and laughed, creating colorful streaks of joy across the stage, each one dancing in perfect harmony with the accompanying choreography.	5
+33	1	2	1	0	1	7	10	0	1	0	5	0	5	4.0	21	0	0	5	3	0	3	5	The cat chased the birds, the flowers danced, the butterflies fluttered around, the leaves whispered stories, and the stars lit up the night sky with their magical light.	5
+29	4	4	2	0	1	4	7	0	0	0	1	1	5	7.0	8	3	3	2	1	0	1	2	The lively children chased the playful puppies with laughter ringing through the bustling park as the shadows cast by giant willows swayed back and forth like enchanted curtains.	5
+15	1	1	0	0	0	2	3	0	3	0	2	0	3	3.0	9	2	2	1	2	0	2	1	They left their dirty dishes scattered throughout the house, making it a mess.	5
+31	6	4	1	0	0	5	6	0	2	0	2	1	4	6.0	10	3	3	3	1	0	1	3	The vibrant birds sang in the shimmering air while they effortlessly flitted across the lush foliage of the ancient forest, casting long shadows that danced through the enchanting landscape.	5
+19	3	2	1	0	0	4	5	0	0	0	2	0	2	4.0	7	1	1	2	1	0	1	2	The bustling crowd surged forward, each participant taking a vital role in the grand tapestry of existence.	5
+23	3	3	0	0	1	3	7	0	2	0	2	0	2	4.0	11	1	1	1	2	0	2	1	The young musicians played a dazzling symphony of sounds, captivating the minds and hearts of their audience with their mesmerizing performance.	5
+28	3	5	0	0	2	5	6	0	1	0	3	0	3	4.0	10	1	1	1	1	0	1	1	The birds soared above the castle and across the shimmering lake, leaving a wisp of smoke behind them and disappearing into the vast, ancient forest.	5
+22	3	3	1	0	0	3	6	0	1	0	2	0	3	4.0	6	2	2	2	1	0	1	2	The lively children playfully raced through the expansive field, scattering seeds with their laughter carried on the warm summer breeze.	5
+19	3	2	0	0	1	2	6	0	3	0	1	0	1	3.0	11	0	0	1	1	0	1	1	The children chased their playful pets across the sprawling park with their bouncing ball and their curious curiosity.	5
+17	3	2	0	0	0	3	5	0	0	0	2	0	2	3.0	7	1	1	1	2	0	2	1	The playful children scattered flowers on the sparkling pond, painting the surface with vibrant hues.	5
+25	4	3	0	0	0	3	6	0	3	0	2	0	4	6.0	6	2	2	2	2	0	2	2	The vibrant birds sang, swirling their wings with such graceful precision that they created a dazzling cloud of mist amongst the towering buildings.	5
+25	1	3	0	0	0	5	8	0	1	0	3	0	3	6.0	8	2	2	2	1	0	1	2	The dogs chased the birds around the colorful castle, jumping between each structure, their feathers glistening with the setting sun's radiance.	5
+26	2	2	1	2	0	3	4	1	1	0	3	0	4	3.0	11	2	1	2	2	1	2	2	Without a context to act upon, the task is unable to generate 5 postverbal objects, so I cannot generate the requested sentence.	5
+23	0	3	0	0	1	1	6	0	6	0	5	0	1	4.0	13	0	0	1	0	0	0	1	She sat down on the swing with her dog, her cat, her child, her friend, and her grandma.	5
+18	1	4	0	0	0	3	6	0	2	0	1	0	1	3.0	14	0	0	2	1	0	1	2	  The birds sang their song in the sky over the lake with shimmering water in their reflections.	5
+21	1	2	2	0	1	2	5	0	1	0	3	0	4	5.0	6	2	1	2	0	1	0	2	Despite the chaos brewing inside, the team remained united, its members bonding together through shared dedication and camaraderie.	5
+18	1	1	0	0	1	2	3	0	0	0	5	0	5	3.0	9	0	0	1	0	0	0	1	The children laughed, ran, jumped, swam, and played throughout the summer sunlit days.	5
+31	1	3	4	0	1	2	3	0	1	0	15	0	1	4.0	20	0	0	1	0	0	0	1	 They danced **carefully,** **gracefully,** **joyously,** **vigorously**, and **with grace** around a magnificent palace in the countryside.	5
+15	3	1	2	1	0	1	2	1	1	0	1	0	2	3.0	4	1	1	2	0	0	0	2	 The vibrant blue sky was adorned with five shimmering stars that danced around gracefully.	5
+23	2	2	0	0	1	3	8	0	1	0	2	0	4	4.0	9	1	1	2	2	0	2	2	The rain danced across the shimmering ocean, its playful dance casting rainbow hues over the glistening sand and swaying palm trees.	5
+18	4	2	0	0	0	3	4	0	1	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The vibrant paintings hung beside the stately mansion, painting the lush landscape with their unique brushstrokes.	5
+25	1	0	1	1	2	2	3	0	2	0	5	1	7	4.0	13	1	1	2	1	0	1	2	The children ran, chased, laughed and hugged their favorite animal while it was playing, painting, and singing all day long.	5
+15	1	2	0	0	0	2	5	0	1	0	1	1	2	4.0	5	1	1	1	1	0	1	1	The dancing animals jumped over their heads while singing a symphony of joyful sounds.	5
+11	1	2	1	0	0	1	2	0	1	1	1	0	1	3.0	5	0	0	1	0	0	0	1	 Sarah smiled warmly after her successful completion of the project.	5
+15	1	1	0	0	1	3	4	0	0	0	1	1	3	3.0	8	1	1	1	2	0	2	1	The children chased the sunbeams around the colorful fields while laughing and making memories.	5
+19	2	3	0	0	0	3	6	0	1	0	2	0	2	4.0	7	1	1	2	1	0	1	2	The bustling crowd waved goodbye, each person leaving behind their personal items in a myriad of places.	5
+27	5	4	0	1	1	3	6	0	2	0	2	0	3	7.0	5	1	1	2	2	0	2	2	I am holding several keys and opening doors in the beautiful backyard of the historic mansion, which stood tall against a backdrop of lush greenery.	5
+15	0	2	0	0	1	3	3	0	2	0	1	1	2	3.0	9	1	1	2	0	0	0	2	The girl danced with the butterflies and the stars as they floated around her.	5
+17	2	1	1	0	1	2	4	1	1	0	2	0	2	5.0	8	1	1	1	2	0	2	1	A spider spun five webs simultaneously around her house, creating a delicate and intricate tapestry.	5
+34	4	4	0	0	0	4	7	0	3	0	4	1	6	7.0	10	4	4	3	1	0	1	3	  The weary traveler stood, looking through his tattered journal, before he spoke to the perplexed townsfolk who gathered around the crumbling castle, seeking shelter from the storm's relentless wrath.	5
+22	4	2	0	0	0	4	7	0	0	0	2	0	2	5.0	5	1	1	1	2	0	2	1	The artists' vibrant paintings displayed a rich tapestry of vibrant hues, each object complementing others with an unparalleled synergy.	5
+20	1	3	0	0	1	5	6	0	0	0	2	0	2	4.0	9	0	0	2	1	0	1	2	The children chased the puppy with the red ball over the rainbow and into the flower-filled garden.	5
+21	3	4	0	0	0	4	6	0	0	0	2	0	2	4.0	9	1	1	1	1	0	1	1	The sun dipped behind an array of colorful birds, casting a spectrum of vibrant hues over the tranquil lake.	5
+27	1	3	0	0	0	3	7	0	4	0	4	1	4	6.0	9	3	3	1	3	0	3	1	She sat at the table, wearing her evening gown, arranging her hair into a intricate bun, while watching the sunset from her balcony.	5
+17	2	2	0	0	0	3	4	0	2	0	2	0	2	3.0	11	1	1	1	2	0	2	1	 She painted her house with the vibrant hues of a rainbow, illuminating the entire neighborhood.	5
+23	4	3	0	0	1	3	7	0	0	0	3	0	2	5.0	7	1	1	1	1	0	1	1	The vibrant flowers blossomed around majestic, graceful swans, illuminating the tranquil pond with a kaleidoscope dance of colors and light.	5
+18	2	3	0	0	0	4	6	0	0	0	1	0	1	3.0	10	0	0	1	0	0	0	1	  The vibrant colors of the flowers glowed with a radiant gleam under the setting sun's brilliance.	5
+16	1	2	1	0	0	3	4	1	0	0	2	0	2	4.0	5	1	1	2	0	0	0	2	The clouds gathered overhead, each one shimmering with a thousand tiny facets of color.	5
+30	5	5	0	1	0	5	9	0	1	0	2	0	2	7.0	7	1	1	2	1	0	1	2	The bustling city streets were filled with the symphony of diverse cultures, each family contributing their special rhythms to the harmonious chorus of life in the vibrant metropolis.	5
+18	2	1	0	0	1	3	3	0	1	0	2	1	4	4.0	6	2	2	2	2	0	2	2	The dancers leaped and swung, throwing paintballs as they showered each other in a vibrant rainbow.	5
+14	0	1	0	0	0	3	5	0	1	0	1	1	2	3.0	6	1	1	2	2	0	2	2	The birds sang their songs after the stars sprinkled the sky with lights.	5
+16	1	2	0	0	1	3	3	0	0	0	2	0	3	5.0	5	1	1	1	0	0	0	1	 The children chased through the forest, laughing and reaching for each other's dreams.	5
+13	2	2	1	0	0	2	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The beautiful blooming lilies danced gracefully among the vibrant tapestry of blossoms.	5
+26	5	1	0	0	1	3	7	0	2	0	3	1	3	4.0	14	2	2	1	3	0	3	1	The young dancer performed a dazzling solo, captivating her audience with soaring leaps, ethereal grace and effortless pirouettes all while captivating their attention.	5
+20	2	1	0	0	0	1	5	0	5	0	3	1	2	5.0	4	1	1	3	2	0	2	3	Despite her fatigue, she continued her journey, her pace steady as she navigated the bustling city streets.	5

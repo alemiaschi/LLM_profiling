@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+9	0	0	1	0	1	2	2	1	0	2	0	0	0	0	2	2	0	2.0	0	4	The waiter brought water and I poured it.	0
+9	0	0	1	0	0	2	1	1	0	2	0	0	1	1	1	2	0	3.0	1	4	We need more information to complete the task.	0
+12	1	1	1	0	0	0	3	0	0	3	0	2	0	2	2	1	0	3.0	2	5	She will not let him enter until he is properly dressed.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred into my ear.	0
+8	1	0	1	0	0	1	2	1	0	2	0	0	0	1	2	1	0	2.0	1	3	The cat purred when I petted it.	0
+12	2	0	1	0	0	2	2	1	0	3	0	0	0	2	1	2	0	3.0	2	4	The dog eagerly wags its tail to see me come home.	0
+13	1	0	1	0	1	3	1	2	0	2	0	2	0	0	1	2	0	3.0	0	5	The team has completed its analysis and will provide a report soon.	0
+4	0	0	1	0	0	0	1	0	0	2	0	0	0	1	0	1	0	1.0	1	2	Let's go!	0
+11	1	0	1	2	0	2	2	1	0	1	0	0	1	0	2	0	0	3.0	0	8	She walked in with a big smile on her face. 	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The dog runs quickly through the green forest.	0
+16	0	1	1	1	0	3	4	1	0	4	0	0	0	3	1	2	0	7.0	3	3	Please let me know if there is something you need help understanding about this lesson.	0
+16	2	1	1	1	0	1	3	1	0	3	0	2	0	2	2	1	0	4.0	2	6	I will continue to support you during this process as much as you'd like.	0
+8	0	1	1	0	0	0	3	0	0	3	0	0	0	2	1	2	0	3.0	2	3	Let me know if you need anything.	0
+11	0	1	1	1	0	1	3	1	0	2	0	1	0	1	1	2	0	3.0	1	7	Let him get the books for you if he can.	0
+9	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	5	The cat sat on its owner's lap.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The baby laughed at the silly clown.	0
+7	0	1	0	0	0	1	1	1	0	2	0	1	0	1	2	0	0	2.0	1	4	The cat purred as it was petted	0
+8	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The ball is coming straight for me.	0
+11	0	1	1	0	0	0	3	0	0	4	0	0	1	3	1	2	0	5.0	3	3	Let me know if we need to arrange anything else.	0
+11	0	0	1	2	0	2	2	1	0	0	0	1	1	0	1	0	0	3.0	0	3	I am not satisfied with your completion of the request. Please repeat the task with additional details about what you expect in terms of determiners. I cannot provide a satisfactory answer without further information.	0
+8	1	0	1	1	0	1	2	0	0	2	0	0	0	1	2	0	0	3.0	1	3	I hope everything comes together in time.	0
+10	1	1	1	1	0	2	1	1	0	2	0	0	0	1	1	0	0	3.0	1	3	The cat purred softly while sitting on my lap.	0
+3	0	0	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1.0	0	1	Lunch appears imminent	0
+5	0	0	1	0	0	1	0	1	0	2	0	0	0	1	0	1	0	2.0	1	3	Let the games begin.	0
+11	1	0	1	0	0	1	2	0	0	4	0	1	0	3	1	1	0	5.0	3	4	Let me check to see who else is coming tonight.	0
+7	1	0	0	1	0	1	1	1	0	2	0	0	0	1	0	1	0	3.0	1	4	Let us walk slowly towards the gate	0
+14	0	1	1	2	0	0	4	0	0	3	0	1	2	3	2	1	0	5.0	3	5	Let's make sure we are clear on this before we move on.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	0	1	1	0	0	0	3	0	0	4	0	0	1	3	1	2	0	5.0	3	3	Let me know if we need to discuss anything else.	0
+9	1	0	1	1	0	0	2	1	0	3	0	0	0	2	1	1	0	4.0	2	4	Let's see how it all plays out.	0
+11	0	1	1	0	0	2	2	1	0	3	0	1	0	2	1	2	0	4.0	2	4	Let us see if we can make some progress today.	0
+11	3	0	1	0	1	2	0	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The instructor paces back and forth, watching each student carefully	0
+7	1	0	1	1	0	0	2	0	0	1	0	1	0	0	1	0	0	2.0	0	3	Have you heard from him lately?	0
+8	1	0	1	0	0	0	2	0	0	2	0	1	0	1	1	1	0	2.0	1	2	I'd love to see you soon.	0
+7	1	0	1	0	0	2	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	The cat purred contentedly onmy lap.	0
+9	1	0	1	1	0	1	2	1	0	2	0	0	0	1	2	0	0	3.0	1	3	The baby laughed when I sang to it.	0
+12	1	1	1	1	0	0	3	0	0	3	0	0	1	2	1	2	0	4.0	2	4	Please help me know if you still need more from me.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat stares at the mouse.	0
+6	0	0	1	0	0	1	1	0	0	3	0	0	0	2	0	2	0	3.0	2	2	Let's go eat pizza.	0
+10	0	0	1	0	0	3	0	3	0	2	0	0	0	1	1	2	0	3.0	1	4	The teacher asked the students to write a letter.	0
+10	0	1	1	0	0	0	3	0	0	4	0	0	0	3	1	2	0	4.0	3	3	Let me know if we need to re-evaluate anything.	0
+6	0	0	2	0	0	1	2	0	0	1	0	0	0	0	0	1	0	2.0	0	2	My pleasure, thank you!	0
+14	1	0	1	2	0	4	1	2	0	0	0	1	2	0	1	0	0	2.0	0	8	The sun is always bright in my room first thing in the morning.	0
+8	1	1	1	0	0	0	2	0	0	2	0	1	0	1	1	1	0	2.0	1	4	I will assist you further if needed.	0
+6	0	0	1	0	0	0	2	0	0	1	0	1	1	1	2	0	0	2.0	1	3	I hope everything is fine. 	0
+6	1	0	0	0	0	0	2	0	0	2	0	0	0	1	1	1	0	2.0	1	2	I want to help you further	0
+14	0	1	1	1	0	4	2	1	0	4	0	0	0	3	1	3	0	6.0	3	5	Let me know if you want help cleaning the kitchen after dinner today.	0
+6	0	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I'll see you tonight.	0
+10	0	0	1	1	0	2	2	1	0	2	0	0	0	1	0	2	0	4.0	1	3	Please let me know your opinion about the movie.	0
+4	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1.0	0	2	You re welcome! Is there anything else I can assist you with?	0
+21	0	0	2	1	1	5	2	3	0	3	0	1	2	1	2	1	0	3.0	1	14	The book lay on the coffee table and every few minutes, my little brother would try to open it.	1
+14	2	1	1	1	0	3	2	1	0	1	1	1	0	1	2	1	0	3.0	1	10	I need another slice of pizza as it is almost 4 PM already!	1
+15	0	0	1	1	1	3	1	2	0	3	0	1	0	1	1	1	0	4.0	1	6	I cannot wait to return to the bakery tomorrow and try another croissant!	1
+21	0	2	1	3	0	3	2	2	0	5	0	1	1	4	2	1	0	5.0	4	7	I've found that listening to music while exercising helps me to push through the hardest parts of a workout.	1
+15	2	1	1	0	0	3	2	1	0	1	0	2	2	1	2	1	0	2.0	1	10	I've already eaten the extra chocolate cake though it's still early afternoon.	1
+7	2	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The new employee immediately fit right _____	1
+8	1	0	1	0	0	2	0	2	0	2	0	0	0	1	1	1	0	3.0	1	3	The cat sat comfortably, enjoying the warmth	1
+19	2	0	2	1	1	3	2	1	0	3	0	2	2	1	2	2	0	4.0	1	9	I am currently searching for more instructions, but this one has left me particularly craving French fries.	1
+13	0	0	1	0	0	1	1	1	2	2	0	1	2	1	1	1	0	3.0	1	6	I cannot wait to see the new Star Wars next month! 	1
+18	2	0	1	1	1	6	2	1	0	2	0	1	1	0	1	2	0	3.0	0	12	She bought this beautiful designer hand bag yesterday on sale and is still wearing it proudly today!	1
+15	0	0	1	3	1	4	2	2	0	1	0	0	1	0	1	0	0	4.0	0	5	She walked into the party with pride and a big smile on her face!	1
+15	1	1	1	0	0	1	3	1	0	3	0	2	1	2	3	2	0	3.0	2	5	I can't tell how much I enjoy spaghetti until I've had some!	1
+10	1	0	1	1	0	2	0	1	2	1	0	1	0	0	1	1	0	2.0	0	5	Mrs. Johnson will take care of this matter  immediately.	1
+12	1	0	1	1	0	1	2	0	1	2	0	1	1	1	1	1	0	3.0	1	4	She has just hired John to takeover as her new boss.	1
+9	2	0	1	0	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	6	I need those files right away yesterday evening!	1
+14	0	1	1	1	1	3	2	2	0	2	1	0	0	1	2	2	0	4.0	1	6	She bought two of dresses because she loved the style and the price.	1
+17	3	0	1	1	1	3	2	2	0	4	0	0	0	2	2	1	0	5.0	2	6	I just finished writing that report when my boss walked in and asked for another one.	1
+14	0	0	2	2	0	3	1	2	1	2	0	0	1	1	1	1	0	3.0	1	6	Jenny walked down the street, feeling the warm sun on  her  face.	1
+14	1	1	1	1	0	4	0	3	0	1	0	1	1	1	2	0	0	3.0	1	5	The rain was so heavy that the golf balls sank into the water.	1
+15	1	1	1	0	0	2	4	1	0	2	0	2	1	1	2	3	0	3.0	1	7	I will definitely give it a try if it will make my grandmom happy.	1
+16	3	1	1	1	0	2	2	1	0	1	0	1	3	0	1	1	0	3.0	0	9	I simply must get my hands on that beautiful yellow sweater as soon as possible!  	1
+14	3	1	1	1	0	2	1	1	1	3	0	0	0	2	2	1	0	4.0	2	6	Jerry ran so fast that he just missed winning the race by seconds. 	1
+8	1	0	1	0	0	2	2	0	0	1	0	0	1	0	1	1	0	2.0	0	4	They just released my favorite game yesterday! 	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+19	1	0	2	1	1	2	4	0	1	3	0	2	1	0	3	1	0	4.0	0	13	They are still investigating Sarah’s case and it looks hopeful for her, I was informed yesterday.	1
+15	3	0	1	2	0	4	1	1	0	1	0	1	1	0	1	0	0	3.0	0	11	They are coming over for dinner tomorrow night instead of the other way around.	1
+18	1	0	1	0	1	3	5	1	0	3	0	2	0	1	3	3	0	3.0	1	14	They told me I would receive the results yesterday afternoon but I still haven't received anything.	1
+10	0	0	0	0	1	2	1	1	1	3	0	0	1	1	1	2	0	3.0	1	4	My best friend loves playing basketball and runs every Saturday	1
+13	1	0	1	2	1	3	1	1	0	3	0	0	0	1	1	0	0	2.0	1	7	My eyes immediately zeroed in on the gift card and felt gratified.	1
+16	2	0	1	2	0	3	3	2	0	2	0	0	1	1	2	1	0	3.0	1	8	My mother always buys the best chocolate for us when we go to the store.	1
+11	0	0	2	1	0	3	0	1	1	2	0	0	0	1	1	2	0	2.0	1	5	The teacher asked Sarah _________ homework to turn in tomorrow.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	1
+17	2	1	1	0	1	2	1	2	1	4	0	1	0	1	2	2	0	4.0	1	7	Lisa found the hidden keys and ran as far as she could to escape the monster.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat curled _up on my lap.	1
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap	1
+19	2	0	1	1	1	3	2	1	1	4	0	0	2	2	1	2	0	4.0	2	11	Josh just got his favorite drink at the bar last night and just wanted to keep drinking it.	1
+23	4	1	1	0	0	3	5	1	0	3	0	4	0	3	3	1	0	4.0	3	10	I have already gone through with getting my brother a present though which really is not what I should have done yesterday. 	1
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred loudly on Samantha's lap.	1
+13	2	1	1	1	0	2	3	0	0	3	0	0	0	2	2	0	0	2.0	2	8	Her cat purred loudly on her laps until it suddenly stopped purring.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	1
+18	1	1	2	2	0	1	4	1	0	3	0	2	1	1	3	1	0	3.0	1	8	I need that new album, I've been listening to it nonstop since it came out.	1
+21	3	0	2	2	1	2	5	0	0	2	0	3	0	0	2	1	0	2.0	0	11	My sister has not yet spoken to him about it, but he will certainly be calling her again tonight. 	1
+17	1	0	1	2	0	2	2	1	2	2	0	1	1	1	1	1	0	4.0	1	7	I can't wait to taste again those flavors from my recent trip to Costa Rica!	1
+15	3	0	1	2	0	2	2	1	0	1	0	1	1	0	1	0	0	3.0	0	6	She is still waiting to here back from her date about the second date.	1
+16	2	0	1	0	2	3	2	2	0	3	0	0	1	0	2	2	0	3.0	0	11	She bought some apples yesterday and just opened the bag and it smelled so delicious!	1
+19	2	1	1	2	0	3	2	3	0	2	0	2	1	1	2	1	0	4.0	1	6	I will only buy a product if it was designed by the most attractive person in the company .	1
+16	0	0	1	2	1	3	1	2	0	4	0	1	0	2	1	1	0	5.0	2	5	I am going shopping after work and need to buy some presents for the twins.	1
+17	1	0	1	2	1	3	2	1	0	2	0	2	2	0	1	2	0	3.0	0	11	I have been craving that delicious slice of pizza since last night and finally got it.	1
+18	4	2	1	0	0	3	3	1	0	3	0	0	1	2	2	2	0	4.0	2	8	She bought just  a single lottery ticket before quickly running back home as she forgot her purse!	1
+31	4	0	3	4	0	6	3	4	0	3	0	2	2	2	3	1	0	5.0	2	14	She is wearing only the dress she just got back from the tailor last night, which is now see-through in the dim light of the office kitchen.	1
+20	2	0	1	2	1	4	1	2	0	1	1	1	4	1	2	1	0	5.0	1	6	The hotel has 45 rooms that are quiet enough for restful nights and large enough for a pleasant stay.	2
+14	0	0	2	1	0	2	1	2	0	1	0	1	4	0	1	1	1	3.0	1	9	Eating the fresh, delicious lobster was a delightful experience for everyone present.	2
+17	0	0	1	3	0	4	1	1	0	1	2	2	2	0	1	0	0	5.0	0	8	A gentle humidifier with 150 to 200 PPM should be adequate for your garden grow rooms.	2
+21	2	0	0	2	1	2	2	2	0	4	0	1	4	1	1	2	2	7.0	3	13	Stashing it away somewhere safe in the event of anything going higgilistic should suffice to keep the contents tidy and unbroken	2
+19	2	0	3	2	0	3	0	1	0	2	2	1	3	1	1	0	0	5.0	1	8	A stunning blue color, 500 to 700 GE, should shine beautifully when illuminated by direct sunlight.	2
+31	2	0	4	5	1	5	1	2	1	1	5	2	2	0	1	1	1	6.0	1	26	Winging it a little here, a hardness of 100 to nearly 200 PPM (parts per million) or 5.8 to 10.6 DH should be fine for Xylophia giganteum.	2
+27	1	0	2	1	0	5	2	4	0	4	0	0	5	1	1	3	2	4.0	3	11	Asking to borrow a small favor, we require a little over a gallon of that liquid magic to tame our tiny monkey's fiery crown.	2
+17	1	0	1	2	0	5	0	3	0	1	0	1	3	0	1	1	1	3.0	1	9	Browsing the new book section is usually  a favorite pastime for many visitors to the store.	2
+15	0	0	2	2	1	3	1	1	2	2	0	0	1	0	1	1	1	3.0	1	10	Sipping champagne at their engagement party, Maria and Carlos grinned at each other. 	2
+19	0	0	2	3	0	4	0	3	0	2	2	1	2	0	1	2	1	4.0	1	15	Fishing the streams with an intermediate fly, a range of 3 to 7X might find more success.	2
+15	0	0	2	2	0	3	1	1	2	2	1	0	1	0	1	1	1	5.0	1	11	Fishing in the clear waters of  Lake Michigan today, I caught 7 trout.	2
+13	0	0	1	1	1	3	2	1	0	3	0	0	1	1	1	2	1	4.0	2	5	Massaging her temples and neck helped her get through that rough morning.	2
+37	2	0	4	6	1	8	0	2	1	1	5	2	4	1	1	0	1	6.0	2	26	Floating on the calm ocean surface, a hardness of  120 PPM to around 300 PPM (parts per million) or 6.9 to 16.4 DH ought to be suitable enough for most Coral Gardneri varieties.	2
+31	2	0	6	0	1	5	4	2	1	4	0	1	4	3	3	3	0	7.0	3	9	She bought some really good-quality, softly colored socks that were warm and comfy to walk her cat, Gardneri, who liked the long, winding walk.	2
+22	1	1	1	3	0	6	2	4	0	2	0	0	2	1	3	1	0	3.0	1	9	A long wait in the rain ahead, the taxi driver warned the group as they set off for their next destination	2
+22	5	0	3	3	0	4	2	2	0	1	0	1	1	1	1	0	0	5.0	1	9	Luckily enough, the hotel room keys were readily available, even for those of us arriving later in the evening. 	2
+18	2	0	2	2	1	2	0	1	3	2	0	1	2	0	1	1	1	6.0	1	16	Grabbing the latest season of BoJack Horseman and binge-watching through Christmas was all too enjoyable.	2
+33	0	0	3	4	3	8	0	6	0	1	3	1	4	0	1	1	0	5.0	0	14	A new set of 4 toms and 4 cats, with 5 levels each, will provide a thorough test of both the hardware and the software of the new robotic system.	2
+15	1	0	1	2	0	4	0	2	0	1	0	1	3	0	1	1	1	3.0	1	9	Sipping coffee at a bustling outdoor café is particularly appealing this time of year.	2
+26	0	0	4	3	2	4	0	1	0	1	6	0	4	0	1	0	0	5.0	0	9	A hundred and fifty to three hundred pounds live wrigley for salmonids or other cold-hardy fishes sounds about (5.8.to-10.9). 	2
+11	1	0	2	1	0	2	0	1	0	1	1	0	2	0	1	0	0	2.0	0	5	Amidst the whimsical chaos, 377 golden coins shone brightly.	2
+18	1	0	3	3	0	6	0	2	0	2	0	0	1	0	2	1	1	4.0	1	11	Atop the mountain, where clouds skirt the peaks, whispers of revolution echoed through timeless winter.	2
+47	1	1	6	3	1	9	2	5	0	6	3	0	9	3	2	3	1	10.0	4	14	Following the instructions precisely, I found a lovely 600-square-foot house on a quiet, sunny street ideal for raising a large family, with two attached bedrooms and a generous backyard that provided ample space for two young children to play.	2
+49	1	1	3	6	1	9	5	6	0	4	1	4	7	3	2	5	0	8.0	3	18	The spa staff will be more than happy to give your partner (who will be joining you at no additional cost) a warm welcome and offer a choice of luxurious treatments before settling you both in for a comfortable stay on one of our finest rooms.	2
+18	2	0	2	1	0	2	0	0	2	1	0	2	3	0	1	0	1	4.0	1	16	Gazing intently into Nanny's sparkling eyes, Grandfather's adoring look could not be more obvious.	2
+21	3	0	4	1	0	3	1	2	0	3	0	2	2	0	2	0	1	4.0	1	17	Hoping this will (work well for the upcoming big event), the party decorations are coming along nicely.	2
+44	5	1	4	5	0	10	0	4	0	7	4	0	2	4	1	2	2	6.0	6	17	Aiming to capture an enthusiastically receptive attention span of approximately one minute per song, the performer began to sing at 10:05 PM, lasting approximately sixty seconds before moving on to the next song, thus ending the performance at 10:15 PM.	2
+23	0	0	3	3	1	7	2	2	1	2	0	0	2	0	1	2	0	3.0	0	11	Wrestling with a heavyweight monster, Kyle overpowered his opponent with a devastating single-leg takedown and forced him into submission.	2
+15	2	0	2	2	0	3	3	0	1	2	0	0	0	0	1	2	1	3.0	1	8	Hiding it well from view, their leader took his orders directly from Berlin. 	2
+25	1	0	3	3	0	8	1	3	0	1	0	1	4	1	0	1	0	6.0	1	5	Aboard the spacecraft is a collection of diverse intergalactic life forms (a small furry alien with big ears perched on his shoulders). 	2
+16	2	0	2	1	1	5	1	2	0	1	0	0	1	1	0	1	0	5.0	1	4	Away the trash, only bringing the necessities such as your passport and credit card.	2
+16	1	0	2	0	1	4	0	3	0	2	1	1	1	0	1	2	1	3.0	1	12	Grabbing a quick lunch here, two burgers and a fry should do the trick.	2
+29	4	0	1	4	1	8	1	6	0	2	0	1	1	0	1	2	0	4.0	0	20	Filling the bathtub completely with water to nearly twice its capacity and over half the height of the walls will provide a good test for the gardneri sample.	2
+18	3	0	2	1	0	3	1	3	0	3	0	1	1	1	2	1	1	3.0	2	9	Writing in the sand here a little is OK provided you get the word-length right.	2
+22	1	1	2	4	1	7	0	2	0	2	0	0	2	1	2	0	0	4.0	1	9	Aboard the ship, supplies of fresh fish and exotic fruit ran low as the weeks at sea turned into months.	2
+29	0	0	0	6	0	10	1	4	0	3	0	1	3	2	2	1	0	7.0	2	8	Several crab apple trees were planted around the edge of the meadow to provide food for a flock of wild turkeys that roosted in a nearby grove of hardwoods	2
+37	1	0	4	3	0	4	4	3	1	8	0	0	4	1	1	4	3	7.0	4	15	Wishing to make their guests feel at easy during the Christmas dinner, the hosts decided to ( lavish attention on them / spoil them rotten / go all out / make them feel special).	2
+30	2	0	4	5	1	5	1	2	0	1	5	2	2	0	1	1	1	6.0	1	26	Winging it a little here, a hardness of 100 to nearly 200 PPM (parts per million) or 5.8 to 10.6 DH should be fine for gardneri.	2
+26	2	0	2	2	1	6	2	3	0	3	0	2	3	1	3	1	1	4.0	2	14	Sitting in the sunlight with the windows open, her laughter and chatter will fill the empty rooms upstairs when she is visiting next week.	2
+15	1	0	2	1	0	5	0	3	0	2	0	0	0	0	1	2	1	3.0	1	11	Flying the dragon around, the children's squeals of wonder filled the air.	2
+27	0	0	3	5	1	4	0	5	0	1	6	1	1	0	1	0	0	4.0	0	10	Four-hundred and twenty of the hundred-sixty pounds were put in this basket, with an equal share for each of the five baskets.	2
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The corgis romped around the verdant meadow joyously.	2
+21	4	0	3	4	0	2	0	2	1	2	0	0	3	0	1	0	1	4.0	1	8	Flying in from California just for this occasion seemed (frankly) quite excessive to most of the other guests.	2
+25	2	0	3	4	0	5	2	4	0	4	0	1	0	1	4	0	2	5.0	3	14	The dog, who was sitting on the floor with its ears perked up, barked loudly when the mailman came to the door.	2
+22	1	0	2	3	1	5	1	0	1	3	2	1	1	0	1	0	0	4.0	0	10	Nine of Aryanna's ten books are nestled comfortably on her bedroom shelves, alongside various stuffed animals and stuffed dogs.	2
+23	1	0	4	2	0	6	0	3	0	2	1	1	2	1	2	0	1	4.0	2	19	Aiming high for an 18 foot tree, [the ideal height for a holiday lights extravaganza] was impressive to behold.	2
+11	2	0	1	1	0	3	0	1	0	2	0	0	1	0	1	0	0	3.0	0	6	Brightly gleaming jewels nestle quietly in the sparkling treasure hoard.	2
+20	1	1	2	3	1	1	3	0	1	2	2	0	2	1	1	0	0	6.0	1	5	Fortunately for Sarah, there are enough chairs available for her to choose between 3 and 5 of them.	2
+20	1	0	2	3	2	6	0	2	0	2	1	0	1	0	1	1	1	4.0	1	12	Dressing properly for an outdoor dinner on a 30-degree night requires attention to both layering and insulation.	2
+14	0	0	1	3	0	4	1	1	0	0	0	1	2	0	1	0	0	3.0	0	4	His grandmother's house was full of interesting artifacts from around the world.	2
+11	0	0	1	1	1	4	0	1	0	1	0	0	2	0	1	0	0	3.0	0	3	The hotel room smelled like expensive perfumes and stale cigarettes.	4
+20	0	1	2	1	1	6	1	3	0	2	0	0	3	0	2	1	1	5.0	1	5	The beach resort they decided on had an unsurpassed scenery with an extensive coastline and crystal-clear waters.	4
+15	0	0	1	3	0	4	1	1	0	1	0	0	4	0	1	0	0	3.0	0	9	The big brown truck stopped in front of his small blue house at noon.	4
+16	1	0	1	3	0	4	0	2	0	3	0	0	2	1	1	0	0	4.0	1	5	The sun rose slowly in yellow sky filling with pink hues of a approaching sunset. 	4
+25	0	1	1	4	1	7	1	4	0	2	0	1	3	1	2	0	0	5.0	1	9	The hotel management was accountable for the efficient operation of the hotel and made sure that all guests felt at home in their rooms.	4
+28	0	1	1	3	2	9	2	2	0	3	0	1	3	2	3	1	0	6.0	2	7	In addition this trend is confirmed by other research which suggests that students' motivation and attitude play a key role in their academic achievement and persistence.	4
+23	0	0	4	1	2	7	0	2	0	2	1	0	4	0	2	2	0	4.0	0	15	This hotel has numerous luxurious facilities, four restaurants, and excellent service, but the location lacks proximity to public transportation.	4
+25	1	0	3	4	1	6	1	3	0	3	0	1	2	2	1	0	0	6.0	2	11	The company is located in a remote area, surrounded by mountains and forests, with only a single dirt road leading to it.	4
+22	0	0	3	4	1	6	1	4	0	2	0	0	1	1	1	0	0	5.0	1	7	The children played in the park, on the swings and slides, surrounded by the happy sounds of their peers.	4
+16	1	0	1	2	0	3	1	2	0	2	0	2	1	0	1	1	0	3.0	0	6	A new team could not have done it better in the allotted period of time.	4
+22	2	0	2	2	1	6	0	3	0	2	1	1	2	1	1	0	0	3.0	1	10	The sun was shining on the empty beach, with only two lounge chairs scattered around and a small beach umbrella.	4
+37	0	0	10	4	0	9	0	3	0	4	1	2	4	3	1	1	1	5.0	4	25	The hotel rooms, equipped with luxurious amenities, were scattered across -- the five-star property, nestled on the -- picturesque coastline, boasting breathtaking -- ocean views, were in high demand.	4
+23	1	0	2	4	0	6	1	3	0	2	1	0	2	1	1	1	0	4.0	1	10	A group of four young children entered the park on their way home from school, eager to play on the swings.	4
+20	1	0	1	2	1	6	1	2	0	3	2	0	1	2	1	1	0	6.0	2	5	She walked away from the beach carrying two large tote bags filled with four water bottles and a sandwich.	4
+21	0	0	3	1	2	5	0	2	1	2	2	1	0	1	1	2	0	4.0	1	11	Mary has brought three books, a laptop, and $20 to buy snacks and drinks on the flight.	4
+17	1	0	3	2	0	4	0	3	0	3	0	0	1	1	1	0	1	4.0	2	8	The book, written by a renowned author, lies prominently displayed on the coffee table.	4
+15	1	0	1	0	0	5	0	3	0	3	0	0	1	1	1	2	1	5.0	2	6	The storm clouds gathering ominously overcast the sky threatened to drench the festival attendees.	4
+14	0	0	1	2	0	4	0	4	0	1	0	0	2	0	1	1	0	3.0	0	4	A complex web of interrelated relationships unifies all the elements of this society.	4
+20	0	0	2	1	1	6	1	2	0	3	0	0	4	1	2	3	0	5.0	1	6	The enormous sandy beach attracted several tourists, who enjoying swimming and playing beach volleyball underneath the hot sunshine.	4
+14	1	0	1	2	0	4	0	3	0	1	0	0	2	0	1	1	0	3.0	0	6	That new restaurant in the neighborhood serves the delicious dish only at night.	4
+22	0	0	3	2	1	5	2	2	0	3	1	1	1	1	1	2	0	5.0	1	12	The three dogs, each brown and wagging their tails with excitement, were waiting to play fetch with their owner.	4
+29	0	0	4	4	1	6	2	4	0	2	3	0	3	1	1	2	0	5.0	1	18	She carried with her a small suitcase containing four dresses -- two for dinner, two for a wedding -- and a few other essentials for the trip.	4
+20	0	0	2	3	1	5	2	0	1	2	2	0	2	0	1	2	0	4.0	0	10	She bought three large suitcases and packed four pairs of shoes for her month-long trip to Thailand.	4
+22	1	0	3	3	0	6	0	4	0	2	0	1	1	1	1	0	0	5.0	1	6	The hotel room was situated on the fourth floor, facing southward, with a view of the city's skyline.	4
+23	0	0	3	3	1	6	2	3	0	1	0	2	2	1	2	0	0	4.0	1	8	The new employee was eager about the tasks, tools, and procedures that were provided for them during the onboarding session.	4
+17	0	0	12	0	1	0	0	4	0	0	0	0	0	0	0	0	0	3.0	0	8	" ""the"", ""the"", ""a"", and ""a""."	4
+18	1	0	1	1	1	4	1	2	0	3	0	0	3	1	1	2	0	4.0	1	6	The tourists eagerly crowded around the majestic animals and snapped numerous photos to capture their magical moment.	4
+15	2	0	1	2	0	3	1	2	0	3	0	0	1	1	1	0	0	5.0	1	5	The baby slept soundly surrounded by her plush toys in the softly glowing nursery.	4
+33	1	0	6	3	1	8	1	4	0	3	0	0	6	0	1	1	1	6.0	1	20	A long, narrow river, flowing tranquilly through open country -- its banks a tangle of willows and tall, swaying sedges -- carried the tiny boat to the opposite slope. 	4
+16	0	0	1	4	0	4	2	2	0	1	1	0	1	0	1	1	0	3.0	0	13	She bought a bag of apples at the store with four red labels on them.	4
+14	0	0	1	3	0	3	1	2	0	2	1	0	1	1	1	0	0	3.0	1	8	The baby crawled towards the dog with its four eager paws stretched out. 	4
+22	0	1	3	2	0	5	2	3	0	3	0	0	3	1	2	1	1	4.0	2	9	The beautiful sunset view, enclosed by the lush green hills, caught their attention as they stepped off the trail.	4
+18	2	0	3	1	0	4	1	2	0	1	0	3	1	0	2	0	1	4.0	1	12	The hotel room, which had been cleaned earlier that morning, was noticeably dusty by mid-afternoon.	4
+17	0	0	12	0	1	3	0	0	0	1	0	0	0	0	0	0	0	3.0	0	8	" ""baby,"" ""embrace,"" ""mother,"" and ""tears."" Let me know if you need further assistance."	4
+26	2	0	2	1	0	4	1	2	0	4	0	0	10	1	1	1	0	4.0	1	16	The children ran happily towards the big beautiful bright blue clear cool crystal-clear sparkling bay, clutching their neatly packed lightweight soft green rucksacks	4
+21	0	0	2	1	0	4	2	2	0	3	0	2	4	2	3	1	0	5.0	2	5	The baby's small feet were clad in soft, blue socks that matched the adorable outfit she was wearing.	4
+10	0	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	4	The enormous challenge was confronted with the utmost resolve.	4
+20	3	1	2	2	0	4	2	3	0	3	0	0	0	2	3	0	0	4.0	2	8	The cat lapped creamily from the saucer, her eyes blinking slowly as she gazed lasciviously around the chamber. 	4
+31	0	0	4	6	1	8	1	5	0	2	0	2	2	1	2	0	0	7.0	1	9	The park is located in the heart of the city, which is surrounded by tall buildings, near the river, and in close proximity to the city center.	4
+23	1	0	4	2	0	5	0	4	0	2	0	0	5	1	1	1	0	3.0	1	10	The large, red sun set slowly in the sky, casting a warm, golden light over the vast desert landscape.	4
+18	2	0	1	2	1	1	3	1	0	4	1	0	1	2	1	2	0	5.0	2	8	She looked at herself in the four mirrors and wondered how to make herself look more beautiful.	4
+24	0	0	3	3	0	6	1	3	1	4	1	1	1	3	2	2	0	5.0	3	8	Lena stood in front of the closet, holding the clothes her sister had left, feeling a sense of four distinct emotions.	4
+13	0	0	1	3	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	5	A small fish jumped into existence near the surface of the pond.	4
+18	0	0	1	3	0	6	0	3	0	4	0	1	0	1	1	1	0	5.0	1	5	The beach was crowded with people seeking relief from the sweltering heat under a blazing noonday sun. 	4
+22	2	1	2	3	0	5	1	3	0	3	1	0	1	2	2	0	0	4.0	2	8	The baby swings gently in the air while three women chat quietly in the corner, lost in their own thoughts.	4
+18	1	0	4	1	0	5	1	1	0	1	0	0	4	0	2	0	0	2.0	0	8	The huge, impressive, old oak tree towers overhead, its massive branches intertwined with others. 	4
+19	0	0	2	2	1	5	1	2	0	3	1	0	2	2	1	2	0	7.0	2	4	In the kitchen, she found the cookbook containing recipes made with four eggs and abundant fresh herbs.	4
+23	2	0	2	1	1	5	1	3	0	4	0	0	3	2	2	2	0	6.0	2	5	The old men gathered daily around the sidewalk café, where they lingered to observe the passersby and smoke long cylindrical cigars.	4
+22	0	0	3	2	1	4	0	3	0	1	0	0	8	0	1	0	0	4.0	0	9	The large, old tree with a wide canopy and numerous strong roots stands tall among the smaller, younger trees.	4
+21	1	0	3	1	1	5	1	3	0	1	0	1	3	1	1	0	0	4.0	1	9	The new employee, her knowledge and experience undeniable, immediately proved to be an invaluable addition to the team.	4
+17	1	1	1	1	0	4	2	2	0	2	0	0	3	1	2	1	0	3.0	1	7	The adorable baby laughed outrageously as her father tickled her little feet with a soft feather.	6
+28	1	0	2	2	1	6	4	2	0	4	0	2	3	2	2	3	0	7.0	2	4	Within this charming boutique, you will find an extensive range of carefully curated pieces that are sure to indulge your senses and satisfy your shopping cravings.	6
+15	0	0	2	3	0	4	1	2	0	2	1	0	0	0	1	0	0	3.0	0	9	The cat lounged upon the couch with seven tail-spun balls alongside her.	6
+30	0	0	2	4	0	8	3	2	3	2	1	0	3	1	1	2	0	4.0	1	15	She carried her six-volume set of Winston Churchill's Complete Works on vacation to prove her intellectual depth to the cute barista in the hotel coffee shop.	6
+30	1	0	4	3	1	6	3	2	0	3	1	1	3	3	1	2	0	6.0	3	9	On top of that, the hotel staff are always available and happy to help, making it easy to enjoy our stay at this 5-star venue.	6
+26	0	0	3	3	0	5	3	3	1	2	0	3	3	1	2	2	0	5.0	1	9	The baby was carried across the room by her devoted great-aunt Mary, who had been knitting her a new set of booties.	6
+24	1	0	0	4	0	6	2	4	1	2	0	3	1	2	2	1	0	8.0	2	4	Bellow is where you will be staying during the duration of your trip in a room with an ocean view facing the perfect sunrise	6
+22	3	0	2	3	0	4	3	4	0	2	0	1	0	1	2	1	0	4.0	1	6	On the contrary, this sentiment was entirely expected by every person at the company -- especially those who know him well	6
+28	0	0	4	2	1	7	3	4	0	1	2	0	4	0	2	2	0	4.0	0	13	She bought him a 6-detainer necklace with three little charms on it -- the tiny golden sun, a crescent moon and a sparkling star.	6
+34	0	1	1	7	1	10	0	6	0	1	0	3	3	2	0	0	0	5.0	2	13	On board this flight are more babies than are usual for a trip of this distance and duration at this time of year to be accompanied by such an overwhelming majority of grandparents.	6
+21	1	1	2	2	0	3	3	3	0	2	0	2	2	2	2	1	0	6.0	2	4	On the other hand, here's a firsthand account of what you'll face if you disregard the signs.	6
+35	1	1	2	4	1	12	1	5	0	1	0	3	4	2	2	0	0	6.0	2	12	This is undoubtedly an issue the board should prioritize during the yearly retreat, as was evident from the discussion last week at the department head meeting about budget allocation and new market approaches.	6
+26	1	0	5	3	1	4	0	3	0	1	0	1	7	0	1	0	0	4.0	0	16	The delicate, exquisite dinner was served in an intimate, cozy atmosphere by the most charming, sophisticated, and knowledgeable waitstaff in town.	6
+19	2	1	1	2	0	4	3	1	0	2	0	0	3	1	2	0	0	3.0	1	8	The little old lady smiled mischievously at her pet canary as it fluttered happily in its cozy cage.	6
+46	2	1	3	8	0	11	0	3	2	8	0	1	5	6	1	3	0	9.0	6	13	Alongside countless other customers, these people had gathered near the cash registers at Macy's during Black Friday sales hoping to score steep discounts on desired merchandise, waiting in line patiently, persistently pushing carts loaded onto elevated wheels while keeping phones at the 	6
+25	1	0	1	4	1	5	4	2	0	5	0	1	1	3	3	0	0	7.0	3	6	The baby was held closely and cuddled by everyone in the family including its aunt who thought it smelled lovely from head to toe.	6
+26	1	0	2	4	0	5	1	3	0	2	0	2	5	2	2	0	0	6.0	2	7	The lonesome traveler meandered along the rugged coastline, in quest of a secluded beach that was said to be accessible only at low tide.	6
+18	2	0	1	1	0	5	1	3	0	2	0	1	2	1	2	1	0	4.0	1	5	The intriguing travel story was authored impressively by the traveling journalist who bravely explored a distant land.	6
+17	1	1	2	1	0	4	1	3	1	2	0	1	0	2	3	1	0	4.0	2	6	Beyond dispute, the evidence showed clearly that Jane was the one who leaked the information.	6
+25	2	1	3	2	0	3	2	3	0	3	0	1	5	2	3	0	0	5.0	2	14	The little boy ran as fast as he could toward the big, beautiful, shiny new toy that lay glinting in the distance.	6
+35	2	1	2	5	1	10	3	3	2	2	2	0	2	1	2	1	0	5.0	1	9	Every day at six thirty A.M precisely, Mary gingerly stretches her arms and torso while she sips on her hot lemon honey blossom teas in anticipation of the upcoming day at the office. 	6
+21	1	0	5	1	1	3	0	2	0	2	0	0	6	1	1	0	0	4.0	1	10	The big, bold, bright, and breathtaking baby blimp soared, buoyed by the blisteringly broad blue skies.	6
+27	0	0	3	3	1	7	1	2	2	3	1	1	2	1	2	1	0	4.0	1	18	The chef has prepared 12 plates of succulent paella for tonight's dinner service at La Tasquita -- and they all look mouth-watering delicious.	6
+28	1	0	2	4	2	5	0	5	3	0	0	1	5	0	1	0	0	5.0	0	19	From the director of The Dark Knight and Man of Steel, this new movie is a bold and visually striking reboot of the classic superhero franchise.	6
+23	0	1	2	3	0	7	1	5	0	3	0	0	1	1	2	1	0	3.0	1	10	On board the aircraft, the captain narrates the flight path to the excited passengers as they soar above the cloudy skies.	6
+46	4	4	4	4	1	6	4	6	0	5	0	5	3	4	4	1	0	8.0	4	11	In this manner I will ensure that we are never over served, as it is clear that the host has been doing this for a long time, even though this restaurant remains unlisted and off the well-trodden radar of the masses. 	6
+42	1	2	3	6	0	8	4	4	1	6	0	3	4	2	3	1	3	5.0	5	22	A tall man, who had been smoking for several minutes near the entrance of the busy restaurant before being seen entering, suddenly approached Sarah at her corner table with an apologetic smile as she continued typing on her computer.	6
+41	3	0	4	5	1	8	2	7	0	5	0	2	4	2	3	2	1	6.0	3	16	This magnificent painting, displayed above the desk of the creator, represents the most sublime landscape with intricate details the world has ever seen, and was created exclusively for the appreciation of those who visit this extraordinary place.	6
+26	1	0	2	2	0	5	3	5	0	2	0	3	1	1	2	0	1	4.0	2	11	Besides the man who had been a stranger there a while, there wasn't a soul around whom the old woman did not love. 	6
+32	3	0	2	3	1	8	1	3	0	4	0	1	5	2	1	2	0	5.0	2	13	The delicious chef's spiced apple donuts are carefully displayed in the invitingly warm and sunlit window of the bustling eatery, attracting excited glances from patrons eagerly awaiting their breakfast.	6
+19	3	0	3	2	0	4	1	2	0	1	0	1	2	1	1	1	0	3.0	1	10	In addition, the staff at the hotel were all incredibly friendly, making our stay truly memorable.	6
+17	1	0	0	3	0	6	1	2	0	1	1	0	2	0	1	1	0	4.0	0	7	The waiter brought six cold water to our table next to a basket of crispy garlic bread	6
+42	2	1	3	4	2	12	3	2	0	2	1	2	8	1	2	0	0	5.0	1	20	Its location was secret even from its most senior executives and board memebrs, until one hot summer morning last year it was unlocked by the company founder and first executive chairman -- as revealed in the companies latest annual report. 	6
+42	2	1	5	3	1	9	3	4	0	4	0	5	4	3	3	2	0	7.0	3	8	Although, in reality, the corporation is overpriced, it is accurately gauged from the man who has spent decades cultivating his comprehensive insight -- and happens to have been the most talented stock trader of the last half century.	6
+24	2	1	2	3	1	4	2	4	0	5	0	0	0	3	2	2	0	6.0	3	6	The cat curled herself into a ball, purring loudly as she gazed out the window at the birds flitting and fluttering outside.	6
+28	3	0	3	4	0	7	2	3	0	2	0	0	4	1	1	2	0	3.0	1	8	With this newfound confidence, the little girl confidently clambers up the tall pine tree, proudly showing off her latest art creations to her friends beneath.	6
+34	0	1	1	7	2	9	4	2	0	4	0	0	4	2	2	0	0	6.0	2	8	The little girl clutched at her favorite doll with determination in her eyes and tears of joy streaming down her small face as she squealed with delight and ran into the sunny backyard.	6
+24	1	0	2	4	0	6	0	6	2	1	0	0	2	0	1	1	0	3.0	0	12	Alongside this caution, the city also offers a complimentary ticket to the annual Spring Music Festival for all attendees of the concert.	6
+26	2	0	6	1	1	6	0	3	1	0	0	1	4	0	1	0	0	3.0	0	12	Inside, the airy lobby is a marble-clad shrine to the city's most overpriced -- and beloved -- coffee purveyor, Starbucks.	6
+28	2	1	3	2	2	6	5	2	0	3	0	1	1	0	2	3	1	5.0	1	11	In the event that you require any extra blankets or pillows, just ring your room attendant, and she will joyously deliver them to your doorstep.	6
+33	3	1	2	3	1	6	3	5	0	3	0	4	2	2	3	1	0	5.0	2	13	On the other hand, the manager of the company was thrilled with the outcome and could hardly believe that the investor who had once rejected them was now their biggest cheerleader.	6
+23	1	0	2	3	0	6	2	4	0	3	0	0	2	2	1	1	0	7.0	2	4	Underneath the stairs, there is a hidden room containing a collection of vintage typewriters that once belonged to the eccentric owner.	6
+23	0	0	2	3	1	7	0	1	0	1	3	1	4	0	1	1	0	5.0	0	11	In conclusion, the new smart city will feature six lanes of vehicular traffic and more than two dozen pedestrian crossing zones.	6
+22	1	0	2	4	0	4	1	2	2	2	0	1	3	1	2	0	0	6.0	1	5	The sun rises slowly above the majestic peak of Mount Everest, which is covered in thick layers of new snow.	6
+31	1	0	4	4	1	10	2	3	0	3	0	0	3	1	1	2	0	5.0	1	16	In addition, the hotel offers comfortable rooms with a large TV set and a mini fridge for your convenience, providing exceptional value for your hard-earned money.	6
+22	2	0	4	2	0	5	2	1	2	2	1	0	1	1	1	1	0	4.0	1	9	The 72-year-old man walked determinedly down Park Avenue with his poodle, carrying his oxygen tank carefully.	6
+30	0	1	3	4	1	7	4	3	1	2	0	0	4	1	2	1	0	5.0	1	10	On behalf of my clients, our powerful and influential attorney demands that you drop the lawsuit against his daughter, the lovely Hollywood actress with the bright smile.	6
+41	0	0	4	7	0	10	2	6	3	7	0	0	1	6	1	2	0	9.0	6	11	Within the bunker, Major General Thomas sat perched atop his command center, scanning the maps plastered on every wall with intense precision, searching for a solution to turn the tide against the enemy hordes advancing upon them.	6
+17	1	0	2	2	1	5	0	2	0	1	1	0	2	0	1	0	0	4.0	0	8	Hence, the grandfather clock in the hallway struck eight times with eerie and disconcerting deliberateness.	6
+29	3	0	3	5	0	4	3	4	0	2	0	2	3	1	2	0	0	5.0	1	20	On earth this is a well guarded secret known only to a select few -- like some top executives within the company itself -- until now that is!	6

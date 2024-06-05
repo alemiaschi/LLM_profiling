@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+9	0	0	1	1	0	1	3	1	0	1	0	1	0	1	1	1	0	2.0	1	3	  I have no idea what this is about.	0
+19	1	0	2	2	0	6	0	5	0	3	0	0	0	1	1	2	0	3.0	1	9	The rain washed away the trace of the passing train, revealing the hidden beauty beneath the surface.	0
+8	0	0	1	0	0	1	3	1	0	1	0	1	0	1	2	1	0	2.0	1	3	 She is the one who did it.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  > She sat _still_ waiting for her friends to return home.	0
+12	0	0	1	1	1	4	0	3	0	1	0	0	1	0	1	1	0	4.0	0	6	The absence of any articles or pronouns makes the sentence meaningless.	0
+13	1	0	2	0	1	3	1	1	1	2	0	0	0	0	2	2	0	3.0	0	9	  _Nobody knew the stranger's identity, and they never found out_.	0
+24	0	1	1	2	1	5	1	4	0	2	0	3	2	2	1	1	0	6.0	2	6	The task cannot be completed as it is impossible to express a lack of a subject or object in a single sentence.	0
+10	1	0	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	3.0	1	5	She has no idea how to solve this problem.	0
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The moon rose without any of its inhabitants.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun shines brightly today.	0
+24	0	1	2	3	0	5	1	3	0	1	1	2	3	2	2	1	0	5.0	2	10	I am not able to generate a sentence with 0 pronouns, as pronouns are essential to the construction of a complete sentence.	0
+4	1	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1.0	0	2	  Nobody was there.	0
+9	1	0	1	2	0	1	1	1	0	2	0	0	0	1	1	0	0	3.0	1	3	The moon hung above without someone looking up.	0
+20	1	0	4	2	0	4	1	5	0	1	0	1	0	0	1	1	0	4.0	0	7	I cannot generate a sentence with no pronouns, only a sentence with the word 'the'.	0
+30	0	0	3	6	0	8	1	6	0	1	0	0	5	0	1	1	0	5.0	0	9	  In the tranquil realm of the sunset horizon, the vibrant sky unveiled itself in a symphony of golden hues, devoid of the presence of any singular pronouns.	0
+12	0	0	3	2	0	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	4	" ""The absence of pronouns creates silence in the conversation."""	0
+6	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The task is not clear.	0
+12	0	0	1	1	0	2	2	2	0	2	0	0	0	1	1	2	0	5.0	1	5	I have no one to share the day's news with.	0
+18	0	1	1	2	0	4	1	3	0	2	0	2	1	1	2	1	0	3.0	1	10	You can generate a sentence with no pronouns because pronouns do not appear in the original instruction.	0
+17	0	0	2	2	0	3	0	4	1	1	0	0	4	0	1	1	0	3.0	0	8	The moon bathed the Earth in a silent gaze, devoid of the usual celestial adornment.	0
+10	0	0	1	1	0	2	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	I cannot generate a sentence with 0 pronouns.	0
+23	0	1	2	2	0	6	2	4	0	3	1	2	0	2	2	1	0	6.0	2	8	There is no sentence that can be generated with 0 pronouns, since the instruction requires the elimination of all pronoun usage.	0
+11	0	0	1	0	1	2	1	1	0	3	0	0	2	0	2	0	2	4.0	2	5	The girl who went running today felt tired and frustrated.	0
+25	0	1	1	2	1	6	3	2	0	2	1	2	2	2	2	2	0	5.0	2	9	I am unable to fulfill your request as I cannot generate a sentence with 0 pronoun placement without any context or further instructions.	0
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The boy ran without any people with him.	0
+15	0	0	1	2	0	5	1	3	0	1	0	1	0	1	1	1	0	3.0	1	6	The absence of a pronoun was an absence in their ability to express self.	0
+22	0	1	1	1	0	4	0	4	0	4	0	3	1	2	2	2	0	4.0	2	7	The task cannot be completed as the provided context does not specify any relevant entities to generate a sentence for.	0
+10	1	0	1	0	0	2	1	2	0	1	0	1	1	1	2	0	0	2.0	1	4	The void is a desolate place where nothing exists.	0
+12	1	0	1	1	0	0	3	0	0	2	0	1	1	2	2	0	0	4.0	2	3	  She is not interested in what she has to go through..	0
+21	1	0	2	4	0	6	1	5	0	2	0	0	0	1	2	0	0	4.0	1	7	The boy with no name jumped over the stream, his laughter echoing loudly in the silence of the morning.	0
+17	0	0	2	3	0	4	2	3	0	2	0	0	1	1	1	1	0	4.0	1	7	The sun rose without a trace of he, making his presence unnoticed amongst the stars.	0
+16	1	0	2	1	0	4	0	3	0	2	0	0	2	1	1	1	0	4.0	1	5	The sun shone brightly, illuminating the sky's vast expanse with a celestial gleam.	0
+7	0	0	1	1	0	1	1	1	0	2	0	0	0	1	1	0	0	2.0	1	2	The sun rose without anyone watching.	0
+15	0	0	2	2	0	3	2	2	0	2	0	1	0	1	1	1	0	3.0	1	9	She left her shoes on the bus, not being prepared for any journey.	0
+22	0	1	4	0	1	4	3	3	0	3	0	2	0	0	2	2	2	6.0	2	16	"Since there are no entities to reference the subject or object, the sentence would be ""They did something."""	0
+15	0	1	2	1	0	3	1	2	0	3	0	1	1	2	1	1	0	3.0	2	6	The rain will sing without stopping, washing its tears from the empty landscape.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The sun rose early that morning.	0
+17	0	1	4	1	0	4	2	3	0	2	0	0	0	1	2	2	0	3.0	1	10	"    ""They reached the top of the mountain, as the birds sang their praises."""	0
+11	0	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The boy ran to the store to get some toys.	0
+17	0	1	2	0	0	3	0	3	0	3	0	3	0	2	2	1	0	4.0	2	6	The task cannot be completed, as no pronoun is provided to generate a sentence.	0
+14	0	0	2	1	0	4	1	2	0	2	0	1	1	2	1	0	0	3.0	2	11	  There was silence throughout the movie, the only thing speaking was silence.	0
+12	0	1	1	0	0	2	1	1	0	2	0	3	0	1	2	1	0	2.0	1	4	The task cannot be completed because it is missing context.	0
+27	1	1	2	2	1	3	4	5	0	3	0	4	1	2	3	2	0	5.0	2	16	They have no one that can understand the pain of being lost, but we'll be there for each other every step of the way.	0
+18	1	0	2	0	2	3	1	2	0	2	0	3	1	1	1	0	0	3.0	1	10	There was no subject or object, so the sentence is incomplete and cannot be generated.	0
+9	0	0	2	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	7	Sure, a sentence with no pronouns is:  The sun shone brightly over the horizon.	0
+11	0	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	4	The absence of any persons caused the task to fail.	0
+4	1	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1.0	0	2	  Nobody is here.	0
+17	1	1	3	0	0	1	3	1	0	4	0	1	0	4	2	2	0	4.0	4	10	The sun shone, causing nothing to happen, as nothing was there to experience it.	0
+15	0	0	2	2	0	3	0	3	0	1	0	1	2	1	1	0	0	3.0	1	9	Without the use of a single pronoun, the task is impossible to fulfill.	0
+12	0	0	1	1	0	2	1	1	0	1	1	1	1	1	1	1	0	3.0	1	5	She was not able to generate a sentence with 0 pronouns.	0
+15	1	0	2	2	0	2	4	1	0	2	0	1	0	1	2	1	0	5.0	1	6	She wrote a story about her dog, whom she was very attached to.	1
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	5	She broke the glass with her fingers.	1
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	I lost my phone.	1
+17	1	0	1	1	0	3	4	1	0	3	1	1	0	2	1	2	0	5.0	2	5	There was only one thing that could cause her to change her perspective on the world.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The boy picked the book up from the floor.	1
+9	0	0	1	0	0	2	3	1	0	1	0	1	0	1	2	1	0	3.0	1	3	She is the person who lost her phone.	1
+8	0	0	1	1	0	1	2	0	0	2	0	0	0	1	1	1	0	2.0	1	3	I have to pick her up today.	1
+7	0	0	1	1	0	2	1	1	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is in your possession.	1
+10	0	0	1	1	1	2	1	2	0	2	0	0	0	0	1	1	0	3.0	0	5	I went to the store and purchased the shirt.	1
+13	0	0	3	1	0	1	2	1	0	1	0	1	2	1	1	1	0	3.0	1	5	 **She** was able to complete the task on her own.	1
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	She saw him yesterday.	1
+15	0	0	2	2	0	2	4	1	0	3	0	0	0	2	1	2	0	4.0	2	6	She wrote a letter to herself, promising to read it to herself tomorrow.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The boy walked away to the park.	1
+7	0	0	1	1	0	1	2	1	0	1	0	0	0	0	1	1	0	2.0	0	4	I see me in the mirror.	1
+9	0	0	1	1	0	2	2	1	0	2	0	0	0	0	1	0	0	2.0	0	5	I myself walked through the bustling city streets.	1
+13	0	0	1	0	0	2	3	2	0	2	0	3	0	1	3	1	1	3.0	2	6	The thing she gave me was the book she's been wanting.	1
+8	1	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	2.0	1	3	The cat ran over to pet me.	1
+11	1	0	1	0	0	2	2	2	0	1	0	1	1	0	2	0	1	3.0	1	7	The thing that I have is a lot larger now.	1
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	1	0	4.0	1	4	I found the book that I was searching for yesterday.	1
+6	0	0	1	1	0	0	3	0	0	1	0	0	0	0	1	1	0	2.0	0	3	She asked him about that.	1
+15	0	0	2	2	0	3	4	2	0	2	0	0	0	1	2	1	0	4.0	1	6	I saw that book yesterday at the bookstore, which I bought for myself.	1
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The moon rose over me this evening.	1
+5	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	She will come alone.	1
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I have no eyes.	1
+16	0	0	2	1	0	3	1	3	0	3	0	0	2	2	1	2	0	4.0	2	6	The moon whispered a single soft melody, urging me to rest under the stars.	1
+6	1	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	I only have one eye.	1
+12	1	0	1	1	0	3	3	1	0	1	0	1	0	0	2	0	1	3.0	1	9	The book that I read yesterday is still on my nightstand.	1
+19	2	0	1	2	0	4	1	2	0	4	0	0	2	1	2	0	2	5.0	3	6	The boy who went camping last summer came back home with a whole bunch of stories to tell.	1
+10	0	0	1	0	0	1	3	1	0	1	0	2	1	1	2	1	0	2.0	1	4	She was the only one who could save her.	1
+11	1	0	1	1	1	2	1	2	0	2	0	0	0	0	1	1	0	3.0	0	5	She went to the library and brought home a book.	1
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	I saw he yesterday.	1
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased its shadow on the floor.	1
+24	0	1	1	0	1	4	3	3	0	4	1	1	3	3	3	4	0	5.0	3	9	I will not generate a sentence that involves a pronoun because it requires two or more pronouns to complete a meaningful grammatical structure.	1
+12	0	0	3	0	0	2	2	2	0	1	0	1	1	0	2	1	1	4.0	1	7	"The single word that completes this task is ""myself."""	1
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The book belongs to you.	1
+10	1	0	1	1	1	1	1	1	0	2	0	1	0	0	1	0	0	2.0	0	7	She woke up early this morning and got dressed.	1
+10	1	0	1	1	0	2	2	1	0	1	0	1	0	0	2	0	1	3.0	1	7	The book he requested is now on my shelf.	1
+10	0	0	2	0	0	2	2	0	0	2	0	1	0	1	1	1	0	3.0	1	3	 **I will go to visit my friend today.**	1
+11	0	0	1	1	1	2	2	2	0	2	0	0	0	0	1	2	0	3.0	0	5	She went to the store and bought herself a shirt.	1
+8	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will sing a song for you.	1
+10	0	0	1	1	1	2	2	1	0	2	0	0	0	0	1	1	0	3.0	0	4	The dog went to me and licked my hand.	1
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	I lost my phone.	1
+11	0	0	2	2	0	2	1	1	0	2	0	0	0	1	1	0	0	3.0	1	4	  *I* wandered off to dream in the moonlit night..	1
+4	0	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I know him.	1
+12	1	1	2	0	0	0	4	0	0	4	0	0	0	2	4	0	0	3.0	2	6	He saw me leaving, so he left before I arrived.	1
+7	1	0	1	1	0	0	2	0	0	2	0	0	0	1	2	0	0	3.0	1	2	I see her sitting over there.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The book has a single occupant.	1
+10	0	0	1	2	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	6	   I am going to the store for some groceries..	1
+10	1	0	2	0	1	1	2	1	0	2	0	0	0	0	1	2	0	2.0	0	5	She took the book, and read it carefully.	1
+10	0	0	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	I went to the store to buy some milk.	1
+21	0	0	2	3	1	3	7	0	0	3	0	2	0	1	2	2	0	5.0	1	7	They were looking for someone with their help, who could understand their problems and help them through their difficulties.	3
+14	0	0	2	2	0	4	1	1	0	2	1	0	1	1	1	0	0	3.0	1	5	Three persons walked into the bakery, searching for their favorite chocolate cookies.	3
+17	1	0	2	1	1	4	1	2	0	2	1	0	2	1	1	1	0	4.0	1	6	The three siblings giggled together, expressing their immense joy and excitement about the upcoming vacation.	3
+24	0	1	1	2	1	6	2	2	0	3	1	2	2	2	1	2	0	7.0	2	7	We could be generating sentences with three pronouns if there were enough context to determine the grammatical role of the subject and object.	3
+11	0	0	1	0	0	1	3	1	0	2	0	2	0	2	2	0	0	3.0	2	3	They are the ones who will decide what to do.	3
+13	0	0	2	0	0	3	1	3	0	2	1	0	1	1	2	2	0	3.0	1	5	The three siblings shared their toys, each enjoying a different one.	3
+16	0	0	1	2	1	3	0	3	0	2	1	0	3	0	1	1	0	3.0	0	6	Three people shared the same last name and lived across the street from each other.	3
+19	0	0	4	1	1	5	0	3	0	2	0	1	1	1	1	1	0	4.0	1	7	A dog, cat, and sheep were playing in the park, chasing each other's laughter.	3
+13	0	0	2	1	1	2	2	4	0	1	0	0	0	0	1	0	0	3.0	0	7	The boy, the her and the they go to the party.	3
+16	0	0	2	1	1	3	1	3	0	3	1	0	1	1	2	1	0	3.0	1	9	Three people went exploring in the woods, and they each found a unique souvenir.	3
+30	2	0	4	2	0	4	3	4	0	7	1	1	1	4	4	0	0	4.0	4	13	The three friends sat under the oak tree, looking at the birds singing, they realized it was raining, so they all went home to get dry.	3
+12	0	0	1	1	0	2	4	0	0	2	0	1	0	2	1	1	0	4.0	2	5	They told him it was her turn to go to school.	3
+11	0	0	1	1	0	3	1	2	0	2	1	0	0	0	2	0	1	3.0	1	4	The three friends we met yesterday disappeared without any explanation.	3
+13	0	0	3	1	1	3	2	2	0	1	0	0	0	0	1	0	0	3.0	0	7	The boy, her sister, and me went to the movies.	3
+31	0	0	2	5	1	10	2	4	0	4	0	1	2	2	1	2	0	4.0	2	12	They will find a mysterious melody playing throughout the city streets at night, weaving its way through bustling hearts and souls in the quiet stillness of a midnight stroll.	3
+10	1	0	2	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	5	Three friends are running through the park, together.	3
+14	1	0	1	1	1	3	0	3	0	3	1	0	0	1	1	1	0	4.0	1	3	The three siblings stood together and watched the fireflies dance among the leaves.	3
+18	0	0	2	1	1	3	3	2	0	3	0	2	0	2	2	1	0	4.0	2	8	They are standing between the dog and their owner, creating a barrier they can't cross.	3
+12	0	0	2	1	0	3	1	2	0	2	1	0	0	1	1	1	0	5.0	1	3	Three people shared the laughter, a bond woven between them.	3
+16	0	0	2	1	0	3	3	1	0	5	1	0	0	4	3	2	0	5.0	4	7	They found three lost keys scattered across the city, ensuring nobody lost their belongings.	3
+12	1	0	4	0	1	1	3	0	0	2	0	0	0	1	1	1	0	3.0	1	6	She, him, and they danced together, expressing camaraderie.	3
+12	0	0	1	0	0	2	2	1	0	3	1	1	0	2	2	2	0	5.0	2	2	They are going to generate a sentence that uses 3 pronouns.	3
+14	0	0	3	1	1	3	4	1	0	1	0	0	0	0	1	1	0	3.0	0	6	They took their children to the park, their friends, and themselves.	3
+20	0	0	2	1	1	6	2	3	0	2	1	0	2	1	1	2	0	6.0	1	7	The three friends shared their secret plans for a future adventure, each one knowing their role and responsibilities.	3
+13	0	0	3	1	0	2	3	1	0	2	0	0	0	1	1	1	0	2.0	1	5	She, he, they went to the store to buy groceries.	3
+18	0	0	1	4	0	5	3	3	0	1	0	1	0	0	1	1	0	3.0	0	14	They will lend a hand to each member of their family at some point during their lives.	3
+6	0	0	3	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1.0	0	4	 me, us, them.	3
+21	1	0	4	1	2	5	3	3	0	2	0	0	0	1	2	1	0	5.0	1	7	A girl, her friend, and I ran to the store, where we all bought candy and drinks.	3
+19	1	0	2	2	1	6	0	4	0	2	1	0	0	1	1	2	0	4.0	1	8	The three siblings took a boat out into the harbor, sharing jokes and laughter along the way.	3
+23	0	0	2	2	0	5	2	4	0	5	0	0	2	4	2	2	0	7.0	4	7	The students each received a different set of supplies, ensuring everyone had the tools needed to succeed in their individual endeavors.	3
+14	0	0	2	1	1	3	0	2	0	4	0	0	0	2	1	1	0	4.0	2	4	The rain poured, causing the pond to fill and overflow with water.	3
+16	0	0	4	1	1	2	3	3	0	1	0	0	1	0	1	1	0	3.0	0	7	She, he, and we all enjoyed the concert, despite the unexpected weather.	3
+14	0	0	1	1	0	2	2	2	0	3	1	1	1	2	1	1	0	5.0	2	4	There are three cats that are running through the field chasing each other.	3
+13	0	0	1	2	0	3	0	3	0	1	1	1	1	0	1	0	0	3.0	0	4	The three friends have gone on a journey to a distant galaxy.	3
+18	0	0	2	1	1	2	3	2	0	4	1	0	1	3	2	1	0	5.0	3	9	The three friends they went camping last weekend, and each of them brought something to share.	3
+10	0	0	1	1	0	2	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	I cannot generate a sentence with 3 pronouns.	3
+16	0	0	3	2	1	4	1	4	0	1	0	0	0	0	1	0	0	3.0	0	7	The boy, the girl, and I went on a trip to the lake.	3
+21	1	0	4	2	1	4	3	3	0	1	0	1	1	1	2	0	0	3.0	1	10	The words we, them, and they are now on vacation, living in a different country each day.	3
+17	0	0	2	2	1	3	4	0	0	3	0	1	0	1	2	1	0	4.0	1	12	They went to their friends to play, but none of them had brought their snacks.	3
+7	1	0	1	0	0	2	0	0	0	2	1	0	0	1	1	0	0	2.0	1	2	Three friends went swimming together today.	3
+16	0	0	2	2	0	4	2	3	0	2	1	0	0	1	2	1	0	4.0	1	5	The dog chased three squirrels through the forest, which he fed at the pond.	3
+23	1	0	2	0	0	4	3	2	0	6	2	1	1	4	2	5	0	7.0	4	4	We can only generate one sentence using the provided context, which tells us to write a single sentence using 3 pronouns.	3
+18	0	0	1	1	0	4	3	4	0	4	0	0	1	3	2	3	0	8.0	3	4	They wrote a letter expressing their gratitude to all the volunteers who helped make the project successful.	3
+20	1	0	2	2	0	5	1	3	0	2	1	1	2	1	2	1	0	3.0	1	8	Three people were singing together outside the bakery, their laughter filling the air on a bright sunny afternoon.	3
+16	0	0	1	2	0	3	2	1	0	3	1	0	1	2	1	1	0	4.0	2	7	We need to acquire the talents of three students to contribute to our current project.	3
+18	0	0	2	2	1	3	4	2	0	3	0	0	1	1	3	1	0	5.0	1	6	They all ran to the store and bought what they needed, their hands full of goods.	3
+16	0	0	3	1	1	4	0	4	0	1	0	1	1	0	1	0	0	3.0	0	9	The people, the park, and the dog are playing in the sunny afternoon.	3
+10	0	0	1	1	0	3	1	1	0	1	1	0	1	0	1	1	0	2.0	0	7	They sent three friends each on vacation last year.	3
+17	0	0	3	1	1	3	5	2	0	1	0	0	1	0	1	1	0	4.0	0	9	She, him, they each made a delicious meal for themselves and their families today.	3
+18	0	0	2	2	1	5	2	2	0	2	1	0	1	0	2	1	1	4.0	1	7	The three friends who went on a trip, had many fun and adventure along their journey.	3
+22	1	0	4	3	2	3	4	2	0	2	0	1	0	0	2	0	0	3.0	0	17	She went to the park with them, the dogs, and he, and there she was listening to music.	5
+23	1	0	3	3	0	3	3	3	1	2	1	2	1	0	2	0	1	4.0	1	12	My family, each one of whom I love dearly, will be traveling to the magical island of Avalon this summer.	5
+27	3	0	3	3	0	7	1	3	0	3	2	0	2	2	3	0	0	6.0	2	8	Four hands reached out to the window, their faces gazing out into the limitless night sky, where one star shone brighter than any moon.	5
+18	0	0	2	2	2	5	2	2	0	2	0	0	1	1	1	1	0	4.0	1	8	The children played with their toys and each other, sharing laughter and smiles throughout their day.	5
+26	3	1	1	0	1	3	2	3	0	4	1	3	2	1	3	2	1	5.0	2	8	The five friends we are gathering together can go anyplace because they have each other's back and will always take each other's side.	5
+27	0	0	4	3	1	7	0	4	0	4	0	0	3	2	1	2	0	5.0	2	12	A woman, with eyes of gold, found an ancient vase hidden within a crumbling castle's ruins, containing a rare and valuable treasure.	5
+19	0	0	2	3	0	5	0	4	0	1	1	1	2	1	1	1	0	3.0	1	7	The lovers were adrift on the ocean of emotions, experiencing a thousand emotions at the same time.	5
+26	2	0	5	0	1	6	1	6	0	3	0	0	1	2	2	1	0	4.0	2	15	The girl, the boy, the teacher, the dog, and the book all loved to read together when they had free time.	5
+11	0	0	6	0	0	0	5	0	0	0	0	0	0	0	0	0	0	1.0	0	8	  **She, him, us, them, we**	5
+19	0	0	3	2	0	3	1	4	0	2	1	1	1	1	2	1	0	3.0	1	12	  **She had seen those books over a hundred times, each with a special story to tell.**	5
+15	0	0	1	1	0	4	2	2	0	3	1	0	1	1	2	1	1	3.0	2	4	The five people who spoke today felt their voices echoing in the vast auditorium.	5
+20	0	0	3	2	0	6	1	5	0	1	0	1	1	0	2	1	1	4.0	1	11	The boy, whose eyes were the color of the stars, discovered a hidden treasure amidst the forest.	5
+36	0	1	4	3	0	11	1	7	0	7	0	0	2	4	1	5	1	6.0	5	11	A woman with flowing hair, wearing a bright orange dress, sat in the middle of the park admiring the blooming rose bushes while reading a book, feeling the sunshine warm her face.	5
+16	0	0	2	3	0	4	0	3	0	3	1	0	0	1	1	0	0	3.0	1	7	The children ran through the fields, searching for a lost toy with four paws.	5
+27	1	0	3	4	0	5	2	5	0	3	2	0	2	1	2	1	0	6.0	1	6	The five players stood under the big oak, each one of us having a different dream, yet united by their love of the game.	5
+17	1	0	2	2	0	2	4	1	0	3	0	2	0	2	2	1	0	4.0	2	7	We could sing about anything in the world, using words that we had made together.	5
+26	0	1	2	2	1	6	0	4	0	3	2	1	4	2	1	2	0	4.0	2	12	The dog chased the cat with 4 strong legs and 1 nimble nose, exploring the vast backyard before being chased by the swift wind.	5
+17	0	0	5	0	1	1	6	1	0	1	1	1	0	0	2	0	1	3.0	1	7	The five people who came were themselves, me, him, them, and her.	5
+29	1	0	2	6	1	7	2	4	0	3	0	1	2	1	2	0	0	6.0	1	8	We are standing amidst the chaos of this bustling street, where the diverse cast of characters emerges and transforms within our view through the passing of time.	5
+16	0	0	3	2	0	4	2	1	0	2	1	0	1	1	1	2	0	4.0	1	8	A woman, on her way to school, heard three distinct voices discussing her.	5
+24	2	0	5	1	1	4	4	6	0	1	0	0	0	0	1	0	0	4.0	0	17	The sun, the blue, the me, the she, and the him of our house shone brightly all day long.	5
+26	0	0	3	3	2	9	0	5	0	3	0	0	1	2	1	2	0	5.0	2	8	The rain fell over the meadow, washing the flowers and ferns with water, highlighting the delicate movement and beauty of each living being.	5
+31	0	0	2	4	2	10	5	2	0	4	0	1	1	2	2	4	0	6.0	2	9	We have encountered a myriad of characters in our quest, addressing their wants and providing solutions to their needs with a compassionate touch and understanding that transcends language barriers.	5
+20	0	0	4	1	1	5	6	1	0	1	0	1	0	0	1	1	0	4.0	0	11	She is missing her keys, her friends, her family, her and the book in her bag.	5
+17	1	0	2	3	0	3	1	3	0	2	1	0	1	1	1	0	0	4.0	1	13	She looked at the 5 strangers sitting on the porch, with no other people around.	5
+22	1	0	2	3	1	4	2	4	0	3	0	0	2	1	2	1	0	5.0	1	7	They found the missing socks through the magical forest, where they danced among the trees and sang under the moonlight.	5
+16	0	0	4	2	2	1	5	1	0	1	0	0	0	0	1	0	0	4.0	0	5	The rain fell for her, for him, her and them, and they.	5
+16	0	0	2	2	0	4	1	3	0	2	1	0	1	1	2	0	0	4.0	1	4	The five lovers wandered through the bustling city, their laughter echoing through the streets.	5
+35	2	1	4	2	1	5	8	3	0	5	1	2	0	2	4	3	1	4.0	3	13	The five people who had gathered there had nothing but the hope of finding her, and it was their hope, not their belief, that ultimately led them to the lost treasure.	5
+11	0	0	1	2	0	3	0	3	0	1	1	0	0	0	1	1	0	2.0	0	7	The students exchanged greetings to one another before the competition.	5
+14	0	0	2	2	0	2	2	2	0	2	0	1	0	1	1	1	0	4.0	1	4	 **We are going to find them in any corner of the world.**	5
+32	1	0	3	3	1	7	1	6	0	5	0	0	4	3	1	3	0	9.0	3	8	The sun shone brightly, striking countless stars and casting them across the boundless sky, a testament to the limitless reach of the human spirit yearning to make a difference.	5
+24	0	0	2	3	1	4	1	5	0	3	1	2	1	1	2	1	0	4.0	1	10	The five friends had gone to the concert, and each of them had brought a new song to share with the group.	5
+25	0	0	1	2	2	7	1	3	0	3	0	0	5	2	1	2	0	5.0	2	11	The students found themselves sharing a large pot of hot cocoa and many stories to keep warm and content on a snowy winter day.	5
+18	0	0	6	4	1	1	5	0	0	1	0	0	0	0	1	1	0	3.0	0	10	We sent letters **to them, for them, about them**, and from them.	5
+20	1	0	2	2	0	6	2	3	0	3	0	0	1	2	3	1	0	5.0	2	9	  The birds sang melodies that echoed through the enchanting meadow today, their wings dancing gracefully amongst the wildflowers.	5
+17	0	0	2	1	0	3	2	1	0	3	0	0	3	2	1	2	0	4.0	2	5	   Despite her busy schedule, she managed to find enough free time to attend the party.	5
+14	1	0	1	0	2	3	2	3	0	1	0	1	0	1	2	1	0	4.0	1	6	I created a world where I was both a prisoner and a master.	5
+13	0	0	2	1	0	2	2	1	0	3	1	1	0	2	2	1	0	5.0	2	3	They found five flowers, belonging to the girl they were seeing.	5
+21	0	0	3	2	1	5	1	5	0	3	0	0	1	2	2	1	0	4.0	2	10	The children ran to the fields, playing with each other and the horses, their laughter filling the air.	5
+23	0	0	5	0	2	7	3	5	0	1	0	0	0	0	1	1	0	5.0	0	16	The boy, her dog, and the girl, her parents and my brother, all left the house that day.	5
+27	0	0	3	5	0	7	3	5	0	3	0	0	1	1	3	1	0	6.0	1	7	The children laughed at each other, their eyes sparkling with joy, each of them feeling the warmth of the summer sunlight on their faces.	5
+22	2	0	2	4	0	4	4	4	0	2	0	0	0	1	3	2	0	4.0	1	9	They told me a story with no people in it, about a place beyond the moon where they never returned.	5
+20	0	0	2	3	1	6	1	2	0	1	0	1	2	1	1	1	0	4.0	1	6	The lovers' eyes were like oceans in the dark night, holding them with such intensity and devotion.	5
+24	0	0	5	1	1	4	6	2	0	5	0	0	0	0	5	3	0	3.0	0	19	She went shopping, they went camping, we went to the movies, they visited me, and he read a book.	5
+23	1	0	3	1	1	5	1	4	0	4	1	0	2	1	2	3	0	4.0	1	10	She found the missing key, and the three friends together explored the hidden garden in the park, discovering forgotten treasures.	5
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	5
+25	0	0	4	3	1	7	1	3	0	3	0	1	2	2	1	2	0	7.0	2	7	We will create an enchanting tapestry of words, encompassing the vastness of a universe filled with diverse languages, cultures, and lives.	5
+16	0	0	2	1	1	6	2	1	0	2	0	0	1	1	1	2	0	4.0	1	7	The students exchanged many pronouns during their presentation, demonstrating their versatility and communication skills.	5
+24	1	1	2	2	2	7	2	2	0	4	0	0	1	2	3	1	0	7.0	2	5	A group of friends gathered and chatted under the old oak tree, their voices blending together as they shared stories and laughter..	5
+27	0	0	3	2	1	6	1	6	0	3	0	1	3	1	2	3	1	6.0	2	11	The students, each having a unique identity, will have the opportunity to contribute their voices to the discussions in an interactive and engaging way.	7
+16	0	0	2	1	0	3	3	2	0	2	0	3	0	1	2	1	0	4.0	1	5	We can find all the objects that have been lost today, in our possession.	7
+15	0	0	3	2	0	4	1	3	0	1	0	0	1	0	1	1	0	4.0	0	9	She, the girl with the curious eyes, completed the task with finesse.	7
+16	0	0	1	2	0	3	2	4	0	2	0	1	1	1	2	1	0	5.0	1	4	She wrote a story with all the protagonists she had found on a deserted island.	7
+18	0	0	7	1	1	2	4	1	0	2	0	0	0	0	1	1	0	3.0	0	6	  **Her** picked **his** keys, and they locked the door behind **her**.	7
+26	1	1	1	1	1	6	3	2	0	3	0	3	3	3	3	2	0	5.0	3	11	I can only imagine the wondrous experiences we might have if every child was able to access quality education and literacy in their own language.	7
+13	0	0	1	1	0	2	3	2	0	1	0	2	1	1	2	1	0	2.0	1	6	She is the only person in the world who can help me.	7
+16	1	0	2	2	0	4	1	3	0	2	1	0	0	0	2	0	0	3.0	0	8	The seven friends walked together through the forest, their laughter echoed throughout the trees.	7
+17	1	0	3	1	0	3	4	1	0	3	0	0	1	0	2	1	1	3.0	1	7	The little girl, whom I trust completely, found her lost key in her classroom.	7
+24	1	0	2	3	0	7	1	4	0	3	1	0	1	2	2	1	0	5.0	2	8	The dog ran away with the seven toys scattered throughout the room, its paws finding solace in each item's unique embrace.	7
+12	1	0	3	0	0	2	1	1	0	3	0	0	0	0	2	0	2	4.0	2	8	The dog, whose owner forgot to feed, ran away.	7
+23	0	0	2	3	0	2	6	2	0	3	0	1	3	3	2	3	0	7.0	3	8	Everyone had a special something on their list, making it easy to pick out a gift that was perfect for them.	7
+28	1	0	3	2	1	6	3	4	0	4	0	1	3	1	3	2	1	5.0	2	8	The boy, who jumped into the river, reached his favorite spot under a majestic willow tree where he would rest and enjoy the cool breeze.	7
+15	0	0	3	1	0	4	3	2	0	2	0	0	0	0	2	3	1	4.0	1	6	  *The boy who gave me his book had a heart of gold.*	7
+21	0	0	5	1	1	2	5	1	0	3	0	1	2	1	2	2	0	3.0	1	14	  She wrote the letter to **themself**, her own best friend, and told her nothing could change.	7
+17	0	0	3	2	0	4	0	3	0	2	1	0	2	0	1	1	1	3.0	1	7	The students, with seven voices combined, sang an intricate melody in the bustling marketplace.	7
+28	0	0	3	4	0	6	1	5	0	5	1	1	1	3	3	2	0	5.0	3	8	A group of people are gathering in a park, each holding one rose in their hands, creating a colorful display for the world to see.	7
+25	0	0	2	3	0	5	4	2	0	4	0	1	3	2	2	3	0	6.0	2	7	Despite our unwavering dedication to individual ownership, we have discovered a collective solution that empowers everyone to embrace the shared value of collaboration.	7
+18	0	0	2	3	0	5	1	4	0	2	0	0	1	1	1	1	0	4.0	1	7	A single star shines in the night sky, illuminating the vastness of the world around it.	7
+25	0	0	2	3	2	6	2	4	0	3	2	0	1	1	1	1	0	6.0	1	5	The five friends and their families went to the store and purchased a plethora of products, each one tailored to their unique tastes.	7
+13	0	0	1	2	0	3	1	3	0	2	0	1	0	0	1	1	0	4.0	0	4	Everyone will find the key amongst the scattered keys on the desk.	7
+21	1	0	2	3	0	4	3	2	0	2	0	1	2	1	2	1	0	5.0	1	6	Despite her boundless imagination, she couldn't create a singular world where all of her stories came to life.	7
+22	1	0	2	2	1	5	2	2	0	3	0	1	2	2	1	2	0	5.0	2	6	The boy and her dog are exploring the ancient ruins together, searching for clues to figure out their hidden treasure.	7
+10	0	0	1	0	0	2	1	2	0	1	0	1	2	1	1	1	0	3.0	1	4	She is the only girl wearing a red scarf.	7
+19	2	0	2	0	1	3	3	1	0	4	2	0	0	2	2	2	0	4.0	2	12	There was a time when she had seven wishes, but only two went to fulfill her dreams.	7
+22	0	0	2	3	0	6	2	3	0	5	1	0	0	4	2	1	0	8.0	4	7	They found seven keys scattered throughout the room, each one belonging to an individual whose past remains shrouded in mystery.	7
+15	0	0	1	2	0	4	1	3	0	2	1	0	1	0	2	1	1	3.0	1	8	The seven bridges I build connect the shores of the world with infinite possibilities.	7
+17	0	0	1	2	0	4	4	2	0	2	0	1	1	2	3	0	0	5.0	2	4	She was the only person I know whose eyes I saw in the dark of night.	7
+17	0	0	1	2	0	4	3	2	0	1	1	1	2	1	2	1	0	4.0	1	4	My seven friends are the people I trust the most for help with my current problem.	7
+25	1	1	2	3	1	4	3	4	0	4	0	0	2	2	2	2	0	4.0	2	7	The children chased each other through the forest and came across a beautiful flower, leaving their names on it before they went home.	7
+18	0	0	4	0	1	3	2	3	0	3	0	1	1	2	1	2	0	3.0	2	11	She has lost every friend, each book, and each hope, leaving her feeling empty.	7
+20	0	0	5	2	1	5	1	3	0	1	0	0	2	0	1	1	0	4.0	0	10	"  ""The dog, with its long tail and furry coat, chased the butterfly across the meadow."""	7
+24	0	0	2	2	1	6	3	3	0	4	0	0	2	2	1	3	0	5.0	2	9	They wrote a poignant letter to the dying princess, using each person in their own way to express their love and sorrow.	7
+17	1	0	1	1	1	2	3	2	0	3	0	1	0	1	2	2	0	4.0	1	9	I have a lot of things but I don't know where to put them all.	7
+28	0	1	2	3	0	5	2	3	0	3	2	2	3	2	3	2	0	5.0	2	14	I cannot generate a sentence that includes 7 pronouns, as the grammatical rules do not allow for more than 6 pronouns in a single sentence.	7
+11	0	0	1	1	0	2	3	1	0	2	0	0	1	1	2	1	0	3.0	1	8	She borrowed every single object he needed for his adventure.	7
+23	1	1	2	2	0	5	2	3	0	4	0	0	3	3	2	2	0	6.0	3	6	The happy children ran around the joyful landscape while laughing their hearts out, discovering colorful creatures in each path they walked.	7
+19	0	0	3	3	0	7	0	3	0	1	1	0	0	0	1	0	0	5.0	0	5	The seven-toed dancer flitted between the clouds, dancing to the tune of hope's melodies.	7
+26	0	0	2	3	1	6	2	4	0	4	1	0	3	1	2	1	1	7.0	2	6	The six figures I met during my adventure embarked on a shared journey across vast landscapes, each one possessing a different and unique self.	7
+10	0	0	4	0	0	1	3	1	0	0	0	1	0	0	1	0	0	2.0	0	4	  **She, that's me, the key.	7
+17	0	0	2	3	1	4	2	2	0	3	0	0	0	1	1	1	0	5.0	1	5	She walked to a forest, seeking answers and leaving behind no footprints in her wake.	7
+28	1	0	1	3	1	6	0	5	0	3	1	1	4	2	1	1	0	8.0	2	5	The five friends have gathered together to discuss the intricate and convoluted story of the mischievous ghost residing atop the ancient tower in the city's outskirts.	7
+13	0	0	1	0	1	2	4	1	0	3	0	0	0	1	2	3	0	4.0	1	5	She borrowed their car and we took them to visit the zoo.	7
+19	0	0	3	2	0	5	1	4	0	3	0	0	1	1	1	1	1	5.0	2	10	 I, the little girl lost in the garden, saw the talking bird singing in the trees.	7
+25	1	0	4	2	0	7	2	3	0	3	0	0	3	1	1	1	1	5.0	2	7	The flowers, their fragrance lingering long, attracted bees, the winged creatures searching diligently for their nectar reward in the lush meadow.	7
+16	0	0	2	2	0	4	1	3	0	3	0	0	1	2	2	1	0	5.0	2	5	A group of children ran into a forest, exploring everything the wild terrain offered.	7
+29	1	0	2	2	0	4	3	4	0	6	1	2	2	5	3	2	0	7.0	5	12	She borrowed all of the necessary equipment she needed to do the task, including the necessary seven pieces of equipment she had already been planning to acquire.	7
+25	3	0	2	0	1	4	4	2	0	3	0	4	1	3	4	2	0	6.0	3	7	I am not a person you can truly reach, only memories that can linger and bring you joy when the moment is right.	7
+15	0	0	1	2	0	4	1	3	0	2	1	0	1	0	2	0	1	3.0	1	4	The three dogs I met yesterday ran across the open space between the buildings.	7
+34	0	1	3	3	2	10	2	6	0	5	0	1	1	3	2	4	1	7.0	4	9	Despite the chaos and confusion surrounding her life, the woman found solace and harmony amidst the turmoil, using the wisdom she had accumulated over the years of living a purposeful life.	7

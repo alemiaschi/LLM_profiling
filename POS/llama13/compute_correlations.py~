@@ -1,0 +1,92 @@
+import os
+
+import argparse
+
+import pandas as pd
+
+from scipy.stats import spearmanr
+
+from matplotlib import pyplot as plt
+import seaborn as sns; sns.set()
+
+syntax_features = ["n_subordinate_post", "verbs_tense_dist_Past", "n_subj_pre", "n_obj_post", "n_obj_pre", 
+                   "n_subj_post", "n_subordinate_pre", "avg_max_depth", "subordinate_proposition", "max_links_len"]
+
+mapping_feats = {"n_subordinate_post": "subord_post", "verbs_tense_dist_Past": "verbs_Past", "n_obj_post": "obj_post",
+                 "n_subj_pre": "subj_pre", "n_subordinate_pre": "subord_pre", "avg_max_depth": "max_depth",
+                 "max_links_len": "max_links_len", "subordinate_proposition": "subord_prop", "n_subj_post": "subj_post", "n_obj_pre": "obj_pre"}
+
+def parse_arg():
+    parser = argparse.ArgumentParser(description='Python code for generative probing')
+    parser.add_argument('-z', '--zero', action='store_true',
+                        help='Perform the task in a zero-shot configuration')
+    parser.add_argument('-f', '--few', action='store_true',
+                        help='Perform the task in a few-shot configuration')
+
+    return parser.parse_args()
+
+def compute_correlations(zero, few):
+    features = os.listdir(".")
+    feature_names = [f.rstrip(".tsv") for f in features if ".tsv" in f]
+    orig_feats = [f for f in feature_names if not "few" in f]
+
+    if zero:
+        features = [f for f in features if not "few" in f]
+    if few:
+        features = [f for f in features if "few" in f]
+    
+    # Prepare the correlation matrix
+    feat_df = pd.DataFrame(index=orig_feats, columns=orig_feats + syntax_features + ["n_tokens"])
+
+    for feature in features:
+        if ".tsv" in feature:
+            feature_name = feature.rstrip(".tsv")
+            df = pd.read_csv(feature, sep='\t')
+            feats = df.columns.tolist()
+
+            if zero:
+                f_name = feature_name
+            if few:
+                f_name = feature_name.rstrip("_few")
+                
+            # Remove the columns that are not needed
+            feats = [f for f in feats if f not in ["Unnamed: 0", "sentence", f_name + "_gold"]]
+
+            # Gold values of the current feature
+            if zero:
+                gold_values = df[f_name + "_gold"].tolist()
+            if few:
+                gold_values = df[f_name + "_few_gold"].tolist()                
+            # Compute the correlations between the gold feature and the generated ones
+            for f in feats:
+                pred_values = df[f].tolist()
+                s, p = spearmanr(gold_values, pred_values)
+                if p <= 0.05:
+                    feat_df.loc[f_name][f] = s
+                else:
+                    feat_df.loc[f_name][f] = None
+
+    # Rename features
+    feat_df = feat_df.rename(columns=mapping_feats, index=mapping_feats)
+                    
+    # Plot the correlation matrix
+    feat_df = feat_df.astype(float)
+    feat_df = feat_df*100
+    plt.figure(figsize=(7,4))
+    sns.heatmap(feat_df, annot=True, cmap="YlGnBu")
+    if zero:
+        plt.savefig("stats/Correlation_Matrix.svg", bbox_inches = 'tight')
+
+        # Save the correlation matrix
+        feat_df.to_csv("stats/Correlation_Matrix.tsv", sep='\t')
+    if few:
+        plt.savefig("stats/Correlation_Matrix_few.svg", bbox_inches = 'tight')
+
+        # Save the correlation matrix
+        feat_df.to_csv("stats/Correlation_Matrix_few.tsv", sep='\t')        
+        
+if __name__ == "__main__":
+    args = parse_arg()
+    zero = args.zero
+    few = args.few
+    compute_correlations(zero, few)

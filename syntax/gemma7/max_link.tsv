@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_link_constraint
+12	1	1	0	0	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	1	0	The young man ate the apple that fell from the tree.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The farmer sells the goat to the butcher.	2
+17	3	0	1	0	0	4	4	0	1	0	2	0	2	5.0	5	1	1	2	1	0	The young cat ate a succulent orange, which the owner purchased a few days earlier.	2
+11	2	1	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The red dog chased the green cat across the garden.	2
+12	1	0	0	0	0	3	3	0	1	0	2	0	2	4.0	3	1	1	2	2	0	The dog chased the ball, which made the boy happy.	2
+11	0	1	0	0	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	1	0	The boy eats the apple that fell from the tree.	2
+13	3	0	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	2	0	The young boy eats the ripe banana and enjoys the sweet taste.	2
+13	0	1	0	0	0	3	3	0	2	0	2	0	2	4.0	4	1	1	2	1	0	The boy ate the apple, which he picked from the tree.	2
+18	2	0	1	1	1	3	5	0	0	0	3	0	2	3.0	12	0	0	2	1	0	The young programmer carefully wrote the complex algorithm, but the debugging process was time-consuming.	2
+13	0	1	0	1	0	3	3	0	1	0	2	0	2	4.0	4	1	1	2	1	0	The boy eats the apple, which was picked from the tree.	2
+12	2	1	0	0	0	2	3	0	0	0	3	0	1	2.0	4	0	0	1	0	0	"""The quick brown fox jumps over the sleeping dog."""	2
+16	4	1	0	0	1	3	3	0	0	0	2	0	2	3.0	10	0	0	2	0	0	The quick brown fox jumps over the sleepy dog, and the tall tree falls.	2
+15	0	2	0	0	0	4	4	0	0	0	2	0	3	4.0	5	2	2	1	1	0	The cat sits on the table, watching the fish swim in the pond.	2
+10	0	1	0	1	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The dog is chasing the cat across the park.	2
+24	4	3	1	0	0	4	7	1	0	0	2	0	2	5.0	7	1	1	1	1	0	The quick brown fox leaps over the sleeping dog, thereby creating a complex sentence with the longest dependency link of 2 words.	2
+14	1	1	0	1	1	2	3	0	1	0	2	0	2	3.0	7	0	0	2	0	0	The lion roared, and the mighty fortress was toppled by its force.	2
+15	1	1	0	1	0	3	3	0	1	0	1	2	2	3.0	8	1	1	2	1	0	The young boy sat on a chair so that he could read a book.	2
+10	1	1	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The boy offered the apple to the hungry child.	2
+18	1	2	0	0	0	5	5	0	1	0	2	0	2	5.0	5	1	1	2	2	0	The dog chased the squirrel up the tree, which caused a significant disruption to the neighborhood.	2
+14	0	1	1	1	0	3	3	0	1	0	2	0	2	4.0	5	1	1	2	0	0	The cat sleeps on the mat, which was meticulously cleaned this morning.	2
+15	0	2	1	2	0	3	3	0	1	0	2	0	1	3.0	7	1	1	2	0	0	The cat is sitting on the mat, which is next to the table.	2
+10	0	0	0	2	0	2	2	0	0	0	1	1	2	3.0	4	1	1	2	0	0	The apple is being eaten as the child sleeps.	2
+15	0	1	0	1	0	3	3	0	0	0	2	1	3	4.0	6	2	2	2	0	0	The cat sat on the mat, waiting for the bread to be sliced.	2
+17	0	1	1	0	0	3	3	0	0	0	4	1	3	4.0	5	2	2	2	0	0	"""The cat sat on the mat, waiting for the owner to come home."""	2
+11	1	1	0	0	0	3	3	0	0	0	2	0	1	2.0	5	0	0	1	1	0	"**The young child chased the dog up the tree.** The two words that are connected by the longest dependency link are ""chased"" and ""tree."""	2
+12	0	1	0	1	0	3	3	0	0	0	1	1	2	3.0	8	1	1	2	0	0	The cat sat on the mat so the dog could play.	2
+12	2	1	1	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The young girl carefully carried the heavy box to the kitchen.	2
+16	2	3	0	0	0	2	4	0	1	0	2	0	2	5.0	4	1	1	1	0	0	The cat sat atop the tall tree, perched in its natural position of repose.	2
+12	0	1	0	0	0	3	3	0	2	0	1	0	2	4.0	3	1	1	2	1	0	The boy ate the apple that he picked from the tree.	2
+11	0	1	0	0	0	2	3	0	1	0	2	0	2	3.0	5	1	1	1	1	0	The cat sat on the mat, grooming its paws.	2
+19	3	2	0	0	1	4	5	0	0	0	2	0	2	3.0	10	0	0	2	0	0	The quick brown fox jumps over the sleeping dog, and the lazy cat naps beneath the tree.	2
+12	0	1	0	1	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	1	0	The dog eats the bone that was dropped by the boy.	2
+17	3	1	0	2	1	3	3	0	0	0	2	0	2	3.0	11	0	0	2	0	0	The quick brown fox leaps over the lazy dog, and the apple is being peeled.	2
+24	0	3	1	0	1	3	7	1	0	0	6	0	2	5.0	14	1	1	1	1	0	"The cat jumped onto the table, thereby extending the dependency link between ""cat"" and ""table"" to 2 words."	2
+13	0	1	0	2	0	3	3	0	1	0	1	0	2	4.0	8	1	0	2	1	1	The man who is walking to the park is carrying a bag.	2
+12	2	1	0	0	0	2	3	0	0	0	3	0	1	2.0	4	0	0	1	0	0	"""The quick brown fox jumps over the sleeping dog."" The phrase ""over the sleeping dog"" has the longest dependency link of 2 words."	2
+11	1	0	0	0	0	2	3	0	2	0	1	0	2	4.0	2	1	1	2	2	0	The young student wrote a paper that impressed his teacher.	2
+12	0	0	0	1	0	2	3	0	3	0	1	0	2	4.0	4	1	1	2	2	0	The boy is reading the book that his mother gave him.	2
+9	0	0	1	0	1	2	2	0	0	0	1	0	2	2.0	4	0	0	1	1	0	The boy drank the juice and fell asleep.	2
+17	3	2	0	0	0	2	3	0	1	0	2	0	3	5.0	6	2	2	1	2	0	The young boy drank a glass of juice, causing him to feel thirsty for more.	2
+12	0	0	0	0	1	3	4	0	0	0	2	0	2	3.0	7	0	0	2	2	0	The farmer feeds the cow, and the cow gives milk.	2
+9	0	1	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	The student wrote a letter to his teacher.	2
+13	1	1	1	1	0	2	2	0	2	0	2	0	1	4.0	5	1	1	2	1	0	The king controls the army, who are fiercely loyal to him.	2
+29	2	5	1	1	0	6	7	0	1	0	1	1	3	6.0	8	2	2	1	2	0	The single grain of rice was expertly placed on the tip of the needle to demonstrate the intricate process of threading it through the eye of a needle.	2
+12	0	1	0	1	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	1	0	The man drank the water he had collected from the river.	2
+18	0	3	0	0	0	4	5	0	0	0	3	0	3	4.0	5	2	2	1	0	0	A cat sits on a mat, gazing at the stars, dreaming of a moonlit journey.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The boy offered the apple to the girl.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The boy brought the apple to the table.	2
+20	2	1	0	0	1	3	5	0	0	0	2	0	4	4.0	6	2	2	1	1	0	The cascading waterfall's thunder echoes through the ancient trees, causing the weary travelers to pause and listen.	2
+15	0	2	0	1	0	3	3	0	0	0	2	0	3	3.0	6	2	2	1	0	0	The cat sits on the mat, waiting for the ball to be thrown.	2
+13	1	0	1	0	0	3	4	0	1	0	1	0	2	4.0	7	1	0	2	2	1	The boy who chased the flying bug successfully caught the errant insect.	6
+31	1	4	1	1	1	4	8	0	0	0	5	0	6	5.0	9	3	2	1	1	1	The meticulously crafted sculpture, sculpted by the master craftsman, was admired by the captivated audience, eliciting admiration and awe, resulting in an extraordinary sense of satisfaction.	6
+25	1	3	1	0	0	6	7	0	0	0	4	0	3	4.0	8	2	1	1	2	1	The cascading waterfall, steadily flowing down the rock, carved a deep groove in the granite, influencing the course of the river.	6
+21	4	1	0	0	1	4	5	0	0	0	3	0	3	4.0	7	1	1	1	2	0	The young child played with the colorful toy truck, causing a loud crash, and injuring the nearby cat.	6
+24	2	2	1	0	1	4	6	0	2	0	2	0	4	4.0	11	2	1	3	3	1	The young boy who meticulously painted the mural watched his masterpiece come to life, and the intricate composition garnered admiration from all.	6
+20	4	2	1	0	0	3	5	0	1	0	2	0	2	3.0	10	1	1	1	1	0	The young boy meticulously placed the intricate puzzle piece into its rightful position, resulting in a complete picture.	6
+13	0	2	0	1	0	3	3	0	1	0	1	0	2	4.0	7	1	0	2	0	1	The cat that was chased by the dog climbed up the tree.	6
+27	3	4	1	0	1	6	9	0	0	0	2	0	1	5.0	11	0	0	1	0	0	The intricate relationship between the cascading waterfall and the moss-laden tree resulted in a breathtakingly scenic vista at the heart of the emerald valley.	6
+15	1	1	1	0	0	4	4	0	0	0	2	0	2	3.0	7	1	1	1	2	0	The cat chased the mouse up the tree, leaving the broken fence behind.	6
+20	2	4	0	0	0	4	6	0	0	0	2	0	2	4.0	6	1	1	1	1	0	The intricate network of neurons in the brain orchestrated a complex melody, resulting in a symphony of senses.	6
+21	3	2	2	0	0	3	5	0	0	0	3	0	3	5.0	4	2	2	1	1	0	The young student diligently practiced guitar lessons, resulting in a passionate performance, deeply enjoyed by the appreciative audience.	6
+18	2	0	2	0	0	3	4	0	1	0	2	1	3	5.0	6	2	2	1	2	0	A young student meticulously read the captivating novel, ultimately influencing his dream of becoming a writer.	6
+14	1	2	0	1	0	2	4	1	0	0	2	0	0	4.0	12	0	0	1	0	0	Sure, the sentence with a longest dependency link of 6 words is: The dog that chased the car crashed into the tree.	6
+19	0	2	3	0	0	3	4	0	1	0	3	0	3	4.0	9	1	0	1	1	1	The intricately woven fabric, carefully crafted by the weaver, ultimately found its way to the museum.	6
+24	1	3	0	0	1	4	9	0	0	0	2	0	2	5.0	11	1	1	1	1	0	The cascading influence of the entrepreneur's vision on the company's mission resulted in a transformative journey, fostering growth and innovation.	6
+15	3	1	0	0	0	2	3	0	2	0	2	0	2	3.0	5	1	1	2	2	0	The young student read a captivating book about dinosaurs, which made him excited.	6
+24	1	3	0	0	0	5	7	0	2	0	2	0	4	5.0	6	2	1	3	2	1	The farmer who ploughed the land yesterday sent the harvested grain to the market, which resulted in a significant increase in prices.	6
+27	4	3	0	0	0	4	8	2	1	0	2	0	2	5.0	9	1	1	1	2	0	The intricate relationship between these six intricate variables creates a convoluted dependency link of six words, intertwining their complex influence on the system's outcome.	6
+14	1	2	1	0	0	3	3	0	1	0	1	0	2	4.0	6	1	0	2	0	1	The cat that jumped onto the tree fell on the green grass below.	6
+24	4	2	1	0	0	3	5	0	3	0	2	1	3	5.0	6	2	2	3	2	0	The young student meticulously read the captivating book, her imagination soaring to fantastical heights as she immersed herself in the magical tale.	6
+27	2	3	2	0	1	6	7	0	0	0	3	0	3	5.0	9	1	1	2	1	0	The young boy chased after the flying kite, and the wind carried the kite high, eventually landing on the top of the tall tree.	6
+14	0	1	2	0	0	2	3	0	1	0	3	0	2	4.0	9	1	0	1	1	1	The farmer, meticulously tending to his livestock, meticulously feeds the cows.	6
+29	2	4	1	0	0	3	7	0	3	0	4	0	4	5.0	10	3	2	1	3	1	The cascading wave of emotions, triggered by the heartfelt confession, prompted him to disclose his deepest secret, thereby establishing a bridge of trust between them.	6
+25	3	3	1	0	0	4	6	0	2	0	2	0	4	5.0	6	2	2	2	1	0	The cascading waters of the roaring river roared down the treacherous rocks, washing away the delicate wildflowers that bloomed beneath their powerful force.	6
+6	0	0	0	1	0	1	1	0	0	0	2	0	0	2.0	4	0	0	1	0	0	Sure, the sentence is: The cat jumped over the fence on the way to the park to play with the children.	6
+22	4	4	1	0	0	5	4	0	0	0	3	0	1	5.0	11	0	0	2	0	0	The intricate sequence of events, each dependent on the previous, ultimately culminated in the satisfying completion of the task.	6
+17	3	1	0	1	0	3	3	0	1	0	3	0	2	4.0	4	1	1	2	1	0	"""A young student reads a captivating novel that was written by a renowned author."""	6
+21	3	3	3	0	0	2	4	0	0	0	3	0	3	4.0	13	2	2	1	0	0	The intricate machine meticulously crafted with exquisite precision, precisely aligned with the celestial body, ultimately leading to enlightenment.	6
+17	1	2	2	0	0	3	4	0	0	0	2	0	3	3.0	5	1	1	1	1	0	The intricately connected gears of the machine turn in concert, ultimately generating a harmonious output.	6
+16	2	1	1	0	0	4	4	0	0	0	2	0	2	3.0	9	1	1	1	2	0	The young boy kicked the red ball across the park, thereby winning the game.	6
+22	3	3	1	0	1	4	5	0	0	0	2	0	3	5.0	6	1	1	1	1	0	The intricately connected system of gears drove the intricate clockwork, resulting in a precise and unwavering pace of the mechanism.	6
+21	0	4	2	0	0	3	6	0	0	0	3	0	3	6.0	13	1	0	1	0	1	The cascading sequence of activities, intricately connected through a chain of events, ultimately leads to the desired outcome.	6
+19	2	2	1	0	0	5	5	0	0	0	2	0	2	4.0	8	1	1	1	2	0	The cat chased the ball up the tree, thereby disrupting the peaceful sleep of the unsuspecting dormouse.	6
+26	2	4	1	1	1	3	7	1	1	0	2	0	3	5.0	12	1	1	1	1	0	The intricate web of relationships between the lovers and their shared secrets was meticulously crafted over years, forging a powerful bond of 6 dependencies.	6
+20	3	3	1	0	0	2	7	0	1	0	1	0	2	4.0	7	1	1	2	1	0	The cascading effect of environmental pollution on marine ecosystems leads to a chain reaction that ultimately impacts human health.	6
+22	0	3	1	0	0	5	6	0	2	0	2	0	3	5.0	8	2	1	3	2	1	The cat that chased the mouse through the garden wandered into the kitchen, where it found a bowl of water.	6
+15	0	2	0	1	0	3	4	0	2	0	1	0	2	4.0	9	1	0	2	1	1	The boy who chased the cat up the tree was reprimanded for his recklessness.	6
+21	3	2	1	0	0	3	6	0	1	0	3	0	2	3.0	9	1	1	1	1	0	The cascading river flows smoothly over the moss-laden rock, nourishing the fragile wildflowers beneath its gentle embrace.	6
+14	2	1	0	0	0	3	4	0	0	0	1	0	2	3.0	6	1	1	1	1	0	The quick brown fox jumps over the sleeping dog to catch the cheese.	6
+23	3	3	0	0	0	4	6	0	1	0	3	0	3	4.0	10	1	1	1	0	0	The young lion roared, its fierce battle against the invading zebra, resulting in a triumphant victory for the feline force.	6
+23	0	1	2	2	1	4	4	0	2	0	2	1	4	5.0	7	3	2	4	0	1	The cat that jumped onto the mat was purring happily, and the dog that chased after the butterfly was barking ferociously.	6
+13	2	1	0	0	0	3	3	0	0	0	3	0	1	2.0	6	0	0	1	1	0	"""The young boy carried the heavy bag to the park."""	6
+16	3	1	2	0	0	3	3	0	0	0	1	1	2	4.0	7	1	0	1	1	1	The complex task of meticulously assembling the intricate robot resulted in a marvelously functional machine.	6
+14	0	1	0	0	0	4	4	0	0	0	2	1	2	3.0	8	1	1	2	1	0	The cat sat on the mat, while the owner read a book.	6
+13	2	2	0	1	0	2	4	1	0	0	1	0	0	4.0	9	0	0	1	0	0	The complex sentence with the longest dependency link of 6 words is: The intricately intertwined relationship between the diligent farmer and his meticulous livestock results in a plentiful harvest.	6
+17	1	1	2	0	0	3	3	0	0	0	4	0	3	4.0	8	2	1	1	1	1	The intricate flower, meticulously cultivated by the gardener, bloomed majestically, enchanting all passersby.	6
+17	4	1	0	0	1	3	5	1	0	0	1	0	1	4.0	10	0	0	1	1	0	The intricate relationship between the weary traveler and the ancient oak tree spanned six delicate words.	6
+20	0	0	0	1	1	3	5	0	1	0	4	0	4	5.0	7	2	2	3	3	0	**The farmer feeds the cow, and the cow produces milk, which is used to make cheese.**	6
+32	5	2	2	0	2	4	7	0	3	0	3	0	4	7.0	23	2	0	2	1	2	The intricate web of relationships woven between the diligent carpenter, his meticulously crafted wooden table, and the family heirloom that it proudly showcased created a harmonious and treasured ambiance.	6
+13	2	2	0	1	0	2	4	1	0	0	1	0	0	4.0	9	0	0	1	0	0	The complex sentence with the longest dependency link of 6 words is: The farmer who is cultivating the crops is preparing to harvest the fruits when the sun shines upon the land.	6
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the sleeping dog.	9
+23	2	5	1	0	0	4	8	0	0	0	1	0	2	6.0	11	1	0	1	0	1	The cascading sequence of events triggered by the accidental spillage of coffee ultimately led to the demolition of the entire office pantry.	9
+26	4	3	0	0	1	6	8	0	0	0	2	0	2	4.0	10	1	1	1	2	0	The intricate relationship between the cascading waterfall and the vibrant coral reefs creates a breathtaking symphony of color, illuminating the vastness of the ocean.	9
+22	3	3	0	0	0	3	8	0	1	0	2	0	2	3.0	9	1	1	1	2	0	The cascading torrent of cascading falls plunged the thirsty traveler upon the withered landscape, bringing solace to their parched tongue.	9
+19	4	1	0	0	0	4	4	0	1	0	3	0	2	4.0	8	1	0	2	2	1	The young boy, who climbed the tallest tree, dropped the heavy book on the unsuspecting ground.	9
+18	2	3	1	0	0	3	4	0	0	0	3	0	2	3.0	6	1	0	1	0	1	The young child, happily skipping, danced with joy to the vibrant rhythm of the music.	9
+22	0	2	1	0	0	3	7	0	0	0	1	0	5	5.0	10	1	0	1	1	1	The intricately woven tapestry of the fallen warrior's armor adorned with jewels adorned the warrior's grieving mother's tears.	9
+23	1	4	0	0	0	6	6	0	1	0	2	0	3	4.0	7	2	1	2	1	1	The cat that jumped over the fence chased the mouse up the tree, resulting in a significant inconvenience for the farmer.	9
+30	4	5	2	0	0	5	6	0	0	0	4	0	4	4.0	10	2	1	1	1	1	The intricate web of ideas, intricately woven through each other, form a tangled network of interconnected thoughts, ultimately leading to an understanding of the complex subject.	9
+17	1	2	1	0	0	2	4	0	2	0	2	0	3	4.0	5	1	1	1	1	0	The man meticulously repaired the broken clock, resulting in his satisfaction with its perfect functionality.	9
+21	2	2	0	0	0	4	8	0	0	0	3	0	2	4.0	8	1	1	1	1	0	The cascading waterfall flows over the moss-laden branches, carving a scenic route through the winding forest trail.	9
+17	3	2	2	0	0	3	4	1	0	0	1	0	1	3.0	6	0	0	1	1	0	The intricately intertwined relationship between five sequential elements ultimately determines the fate of the lone warrior.	9
+19	2	2	0	2	0	2	4	0	2	0	3	0	2	4.0	8	1	0	2	0	1	The young man, whose dream had been shattered, wept for the loss of his beloved cat.	9
+24	1	2	0	0	0	4	7	0	1	0	3	0	4	5.0	7	2	2	2	1	0	The cascading waterfall's water flows over the rainbow's arch, nourishing the sequined flowers, which bloom beneath the radiant moon.	9
+26	5	5	0	0	0	5	7	0	0	0	3	0	1	6.0	17	0	0	1	1	0	The intricate system of interconnected devices, each with a vital function in the intricate process of communication, ensures a seamless flow of information.	9
+14	0	2	0	0	0	4	4	0	1	0	1	0	2	4.0	8	1	0	2	1	1	The dog that chased the cat up the tree climbed down the rope.	9
+26	1	4	0	1	1	5	7	1	0	0	3	0	3	5.0	9	1	1	2	0	0	The cat sat on the table, and the book was placed beneath the candlestick, resulting in a complex dependency link of 9 words.	9
+25	1	1	0	2	1	5	6	0	2	0	2	1	3	4.0	11	2	1	3	2	1	The dog that chased the cat up the tree was a ferocious beast, but the cat's agility spared it from being harmed.	9
+21	2	1	1	2	0	4	4	0	2	0	2	0	3	4.0	14	1	1	3	2	0	The farmer feeds the hungry children who are playing in the park, so they will have a happy life.	9
+25	6	3	0	0	1	5	6	0	0	0	2	0	2	4.0	9	1	1	1	1	0	The intricate relationship between the vibrant flowers and the towering trees resulted in a picturesque landscape, fostering breathtaking admiration from the weary traveler.	9
+21	4	2	1	1	1	3	7	0	0	0	1	0	1	4.0	7	0	0	1	1	0	The cascading impact of the unforeseen event has profoundly influenced the intricate relationship between social media platforms and political discourse.	9
+26	6	3	1	0	0	5	7	0	0	0	2	0	2	3.0	9	1	1	1	1	0	The nested modifier phrase of the intricate subject structure significantly influenced the meticulous preparation of the elaborate meal, resulting in a satisfying culinary experience.	9
+23	5	1	0	0	1	4	6	0	1	0	2	0	3	8.0	7	2	2	2	2	0	The complex phrase has a dependent clause which includes a nested modifier phrase, leading to an intricate and convoluted sentence structure.	9
+13	0	1	0	0	0	1	2	0	1	2	3	0	2	4.0	3	1	1	1	3	0	"""Tom asked Jane to give him a glass of water."""	9
+30	3	3	0	0	0	4	10	1	0	0	7	0	2	4.0	14	1	1	1	1	0	"The single-word entity ""rose"" depends on the phrase ""golden flower arrangement"" through a subordinate clause, creating a dependency link of 9 words."	9
+12	1	1	0	0	0	3	3	0	0	0	3	0	1	2.0	6	0	0	1	1	0	"""The girl bought the red book from the store."""	9
+15	2	3	1	0	0	2	4	0	1	0	1	0	1	4.0	7	0	0	1	0	0	 The complex relationship between a group of friends ultimately led to their tragic demise.	9
+18	3	2	0	0	1	3	5	1	1	0	1	0	1	4.0	9	0	0	1	1	0	The intricate relationship between the young violinist and her beloved violin spans nine words in this sentence.	9
+20	2	2	0	0	0	4	7	0	0	0	3	0	2	3.0	8	1	1	1	1	0	The cascading waterfall cascades over the moss-laden stone, nourishing the wilting flower in the parched earth.	9
+12	1	1	1	0	0	2	3	0	0	0	3	0	1	3.0	4	0	0	1	0	0	"""The quickly brown fox jumps over the sleeping dog."""	9
+25	4	3	1	0	0	5	7	0	0	0	2	0	2	4.0	8	1	1	1	2	0	The intricately interwoven threads of the silken fabric formed a tapestry of geometric patterns, revealing a mesmerizing glimpse into the architect's imagination.	9
+25	1	3	2	0	1	6	7	0	1	0	2	0	2	4.0	8	1	1	1	2	0	The intricate relationship between the farmer and his ox directly influences the yield of the land, thereby impacting the livelihoods of the community.	9
+23	4	2	1	0	1	4	9	0	0	0	1	0	1	4.0	13	0	0	1	1	0	The intricate relationship between the multifaceted computer science program and the aspiring software developers ultimately forged a path to profound learning experiences.	9
+23	2	3	1	1	0	4	6	1	0	0	3	0	2	5.0	12	1	0	1	1	1	The complex sentence, comprising the majority of the available vocabulary, is meticulously crafted with a dependency chain of 9 words.	9
+22	2	2	0	1	1	2	4	0	4	0	2	0	4	5.0	7	2	1	3	1	1	The young boy who devoured the juicy apple was beaming and filled with joy, which he shared with his friends.	9
+19	1	3	0	0	0	4	7	0	0	0	2	0	2	4.0	5	1	1	1	1	0	The cascading effects of the earthquake triggered a chain reaction, resulting in the destruction of numerous buildings.	9
+18	2	3	0	0	0	3	6	1	0	0	1	0	2	5.0	5	1	1	1	1	0	The cascading complexity of the nested loop resulted in a sequential chain of operations spanning nine words.	9
+21	3	2	2	0	0	3	5	0	0	0	2	0	3	6.0	5	2	2	1	2	0	The intricate web of intricately intertwined gears drove the massive machine, meticulously crafted to harness the power of steam.	9
+26	3	3	1	0	1	4	7	1	0	0	2	0	4	5.0	9	2	2	1	2	0	The complex computer system implemented the intricate algorithm designed in 2001 and successfully managed the data traffic, resulting in an unprecedented increase in efficiency.	9
+27	4	3	1	0	1	5	6	0	2	0	2	0	3	6.0	11	2	2	2	3	0	The young student diligently wrote a poem that showcased her creative mastery in a unique and compelling way, bringing joy to the hearts of all.	9
+17	0	1	1	0	0	3	7	0	0	0	2	0	3	3.0	6	1	1	1	2	0	The cascading avalanche of falling dominoes triggered a chain reaction, ultimately destroying the towering structure.	9
+18	4	1	2	0	0	3	4	0	1	0	1	0	2	4.0	9	1	0	2	2	1	The young student who meticulously studied the complex mathematical theorem meticulously completed the challenging exam with grace.	9
+28	4	4	0	0	1	3	11	0	0	0	3	0	2	5.0	16	1	0	1	2	1	The cascading river flow over majestic stone steps, uniting distant villages across a vibrant tapestry of colors, creates a timeless melody of unity and tranquility.	9
+17	2	0	2	0	0	3	5	0	0	0	2	0	2	4.0	7	1	1	1	2	0	The young student meticulously finished the complex homework assignment, thereby fulfilling the teacher's expectations.	9
+21	5	1	1	0	1	3	3	0	0	2	3	0	2	4.0	11	1	0	1	1	1	A single malt Scotch, expertly blended with the finest peated Islay malt, creates a complex and flavorful dram.	9
+25	3	4	0	0	1	5	7	1	1	0	1	0	2	4.0	9	0	0	1	1	0	The intricate relationship between the towering skyscraper and the weary traveler forged a bond of 9 words in the fleeting moment of their encounter.	9
+30	4	5	1	0	1	5	8	0	0	0	3	0	3	5.0	16	1	1	1	1	0	The quick brown fox jumps over the sleeping dog, devoured by an intricate web of deceit, and ultimately finds solace in the sweet embrace of a dream.	9
+16	0	1	0	0	1	4	4	0	0	0	3	0	3	3.0	10	0	0	1	2	0	The cat jumped over the fence, chased the mouse, and ate the cheese.	9
+21	2	4	0	0	0	4	7	0	0	0	2	0	2	4.0	7	1	1	1	1	0	The cascading sequence of events orchestrated a complex chain of interactions, resulting in a intricate relationship between the participants.	9
+22	4	2	1	0	0	2	5	1	0	0	4	0	3	4.0	8	2	1	1	2	1	The intricate puzzle, meticulously crafted with exquisite precision, required a complex solution, encompassing nine words of meticulous orchestration.	9
+19	2	1	2	0	1	3	4	0	0	0	4	0	2	3.0	10	0	0	2	0	0	"""The quickly brown fox jumped over the sleeping tiger, and the swift snail raced alongside."""	12
+23	4	1	1	0	2	2	6	0	1	0	2	0	4	4.0	7	1	1	1	3	0	The intricately woven tapestry of intricate patterns and vivid colors captivated the audience, captivating their senses and evoking deep emotional resonance.	12
+15	3	1	0	0	0	3	4	0	0	0	1	0	2	3.0	6	1	1	1	1	0	The quick brown fox jumps over the sleeping lion to catch the slippery fish.	12
+23	3	4	0	0	0	5	7	1	0	0	1	0	2	5.0	9	1	0	1	1	1	The nested subordination of the subordinate clause containing the participial phrase resulted in a sentence with a dependency link of 12 words.	12
+24	4	4	0	0	1	5	7	1	0	0	1	0	1	4.0	9	0	0	1	0	0	The intricate relationship between the entangled lovers and the mischievous cat resulted in a complex sentence with a dependency link of 12 words.	12
+22	3	4	1	0	0	3	6	0	0	0	2	0	3	4.0	8	1	1	1	1	0	The intricately interconnected chain of events orchestrated a complex system with intricate dependencies, resulting in a pivotal moment of triumph.	12
+30	7	5	1	0	1	5	8	0	0	0	1	0	2	5.0	11	0	0	1	1	0	The intricately intertwined relationships between the complex system of neurons within the human brain generate a profound understanding of the surrounding world through intricate sensory pathways and emotional responses.	12
+24	5	1	1	0	1	3	5	0	0	0	4	0	4	4.0	8	2	1	1	2	1	The fiercely contested presidential election, won by a narrow margin, necessitated a contentious recount, generating significant public interest and controversy.	12
+29	3	2	2	0	0	2	7	1	1	0	3	1	6	5.0	8	4	3	1	3	1	My intricate thought process for creating a complex system of algorithms culminated in a comprehensive blueprint, encompassing 12 meticulously designed components, meticulously crafted to optimize performance.	12
+40	5	5	2	0	1	5	11	0	1	0	5	0	4	9.0	13	3	2	1	2	1	The intricate web of the weaver's loom, meticulously crafted with meticulous threading, yielded a masterpiece of intertwined fabrics, each strand expertly bound to its adjacent one, creating a harmonious symphony of color and texture.	12
+23	5	3	0	0	1	4	6	0	1	0	1	0	2	5.0	9	1	1	1	1	0	The intricate relationship between the complex machine and its intricate cogs creates a captivating synergy resulting in a harmonious flow of information.	12
+21	3	1	1	0	0	3	6	0	1	0	3	0	3	5.0	7	2	1	1	3	1	The young student, meticulously completing her homework, wrote a thoughtful essay discussing the intricate concept of quantum superposition.	12
+31	4	6	2	0	1	5	8	0	0	0	2	0	3	5.0	10	1	1	1	1	0	The intricately linked sequence of events in the intricate game of chess involves a series of complex and interdependent moves, ultimately culminating in a satisfying victory for the victor.	12
+20	2	1	2	1	0	3	4	0	0	0	2	0	4	3.0	7	2	2	1	1	0	The quick brown fox jumps over the sleeping warrior, thereby causing the shattered peace to be momentarily disrupted.	12
+22	3	1	1	0	1	1	5	0	3	1	3	0	3	4.0	5	1	1	1	3	0	Despite his overwhelming fatigue, John meticulously prepared a gourmet meal, enhancing his weary body and appeasing his insatiable appetite.	12
+23	4	4	1	0	0	4	6	0	0	0	2	0	2	4.0	9	1	1	1	1	0	The intricate puzzle with a complex array of interconnected parts ultimately led to the satisfying solution, creating a sense of accomplishment.	12
+22	0	3	0	0	0	5	6	0	0	0	4	1	3	4.0	8	2	2	2	1	0	"""The cat sat atop the table, devouring a slice of apple while the wind blew through the trees."""	12
+27	3	2	3	0	0	5	6	0	1	0	2	0	5	5.0	6	2	2	1	3	0	The young student with a broken pencil meticulously sharpens the lead, ensuring her meticulously crafted drawing accurately captures the vibrant colors of the blossoming flower.	12
+25	1	4	1	0	0	5	8	0	1	0	2	0	3	4.0	7	2	1	2	1	1	The intricate sequence of events that occurred yesterday profoundly influenced the course of the meeting, resulting in a consensus agreement among all attendees.	12
+26	2	4	0	0	1	4	10	0	0	0	1	0	4	7.0	6	1	1	1	2	0	The cascading effect of the broken gear mechanism resulted in a chain reaction of failures causing widespread damage and impacting numerous sectors of the city.	12
+19	1	1	1	0	0	3	3	0	2	0	4	1	3	5.0	6	2	2	1	0	0	"""Once upon a time, there was a young girl who dreamed of becoming a doctor."""	12
+19	0	3	0	0	0	5	6	0	0	0	2	1	2	3.0	8	1	1	2	0	0	The cat sat on the mat, while the fish swam in the pond beside the weeping willow.	12
+29	4	3	1	0	1	6	8	1	0	0	2	0	3	6.0	10	2	2	1	3	0	The intricate relationship between the enigmatic traveler and the mysterious object ultimately influenced the pivotal moment in the narrative, creating a sequence of events spanning twelve words.	12
+21	4	1	2	0	1	3	6	0	0	0	2	0	2	4.0	8	1	1	1	2	0	The young man carefully crafted the intricate clockwork contraption, meticulously assembling each delicate gear and spring with meticulous precision.	12
+30	3	3	2	0	0	6	8	0	0	0	2	0	5	5.0	8	2	2	1	3	0	The complex relationship between the interconnected machines in the system necessitates a meticulously crafted workflow to ensure seamless data flow, ultimately impacting the efficiency of the entire operation.	12
+20	3	2	0	0	0	3	6	0	0	0	2	0	2	4.0	7	1	1	1	1	0	The young boy's playful laughter echoed throughout the meadow, bringing joy to the weary traveler's heart.	12
+26	3	4	1	0	0	4	7	0	0	0	4	0	3	4.0	11	2	1	1	1	1	The intricate sequence of events, meticulously orchestrated by a cunning strategist, culminated in a pivotal victory, forging a legend of epic proportions.	12
+28	3	5	1	0	0	5	7	0	0	0	2	0	5	5.0	9	1	1	1	1	0	The complex relationship between the interconnected variables led to a intricate interplay of factors, ultimately influencing the intricate system of interconnected gears in a synchronized machine.	12
+32	4	3	0	0	1	6	11	1	0	0	2	0	4	5.0	15	2	2	1	3	0	The intricate relationship between the cascading water droplets and the intricate root system of the towering tree creates a mesmerizing symphony of life, weaving a tale spanning twelve mesmerizing words.	12
+18	2	2	0	0	0	4	5	0	0	0	2	0	3	4.0	6	1	1	1	1	0	The cascading waterfall plummeted down the rocky cliff, creating a breathtaking spectacle for the mesmerized onlookers.	12
+25	3	1	3	0	0	4	5	0	1	0	2	1	5	5.0	8	3	2	2	3	1	The young man who meticulously planned the intricate operation ultimately succeeded in rescuing the stolen jewels, thereby minimizing potential harm to the victims.	12
+39	7	4	1	2	1	6	10	1	0	0	4	0	2	4.0	20	1	1	3	1	0	"The complex sentence with the longest dependency link of 12 words is ""The intricate design of the intricate clockwork machine is fascinating, and the delicate mechanism requires a high level of precision to function properly."""	12
+27	4	3	2	0	0	5	6	0	0	0	3	0	4	6.0	8	2	2	1	2	0	The young girl meticulously placed the meticulously chosen gemstones into the intricate crown, adorned with the finest diamonds, creating a masterpiece of unparalleled beauty.	12
+24	3	4	1	0	0	5	6	0	0	0	3	0	2	6.0	14	1	0	1	1	1	The intricately intertwined web of the silken threads, woven in the intricate tapestry of life, symbolizes the interconnectedness of all things.	12
+29	4	3	2	0	2	5	8	0	0	0	2	0	3	5.0	13	1	1	1	2	0	The intricate relationship between the meticulously crafted mosaic and the intricate network of interwoven threads created a captivating masterpiece, ultimately commanding a sense of awe and admiration.	12
+30	6	5	1	0	0	4	10	0	0	0	2	0	2	5.0	14	1	1	1	1	0	The cascading effects of the unforeseen disruption to the delicate balance of global oil markets ultimately resulted in a surge in global oil prices, causing widespread economic instability.	12
+26	1	2	1	0	0	5	5	0	2	0	2	1	6	5.0	6	4	3	3	2	1	The young child who carelessly dropped the vase raced to the kitchen, hoping to find the shattered fragments as they tumbled down the stairs.	12
+19	4	1	1	0	1	4	4	0	0	0	3	0	1	4.0	10	0	0	1	1	0	"""The intricate relationship between the delicate butterfly and the meticulous gardener ultimately yielded a harmonious equilibrium."""	12
+22	3	3	0	0	0	4	6	0	0	0	2	0	4	5.0	6	2	2	1	1	0	The intricate path of the crimson thread unwound through the tangled forest, revealing the ancient ruins hidden amidst towering trees.	12
+22	5	4	1	0	0	5	5	0	0	0	1	0	1	4.0	10	0	0	1	0	0	The intricate intricacy of the intricate machinery in the enigmatic machine ultimately yielded to the profound mystery of the intricate problem.	12
+19	5	4	0	0	0	3	5	0	0	0	1	0	1	4.0	8	0	0	1	0	0	The intricate relationship between the complex system of interconnected gears resulted in a meticulous orchestration of intricate movements.	12
+27	4	4	2	0	0	4	6	0	0	0	4	0	3	4.0	8	2	1	1	1	1	The intricate web of stories, skillfully woven together, reveals the complex journey of a hero, culminating in an epic climax of breathtaking magnitude.	12
+18	4	2	0	0	0	4	4	1	0	0	1	0	2	5.0	5	1	1	1	1	0	The intricate relationship between the interconnected molecules resulted in a complex chemical reaction spanning a dozen steps.	12
+20	4	1	1	0	0	4	4	0	0	0	2	0	3	4.0	5	2	2	1	3	0	The young apprentice diligently studied the intricate manuscript to decipher the ancient parable, unlocking the hidden secrets within.	12
+15	1	1	1	0	0	3	4	0	0	0	2	0	2	3.0	5	0	0	1	1	0	Despite the boy's playful actions, the mechanic promptly repaired the damaged car.	12
+24	3	1	0	0	0	4	7	1	1	0	2	0	4	6.0	6	3	2	2	4	1	A complex sentence containing twelve words incorporates a dependent clause which details a series of actions, influencing the main clause's outcome.	12
+30	3	2	0	0	2	6	9	1	0	0	3	0	4	4.0	11	1	1	1	2	0	The complex sentence with a twelve-word dependency link consists of a subordinating clause modifying a noun phrase, and includes a participial phrase and a dependent clause.	12
+21	6	2	1	0	0	4	4	0	0	0	2	0	2	4.0	5	1	1	1	1	0	The inquisitive young woman meticulously analyzed the complex equation, resulting in a profound comprehension of the intricate mathematical theory.	12
+27	4	4	1	0	1	5	8	0	0	0	2	0	2	5.0	10	1	1	1	2	0	The intricate relationship between a bustling marketplace and the flow of customers generates an overwhelming sense of interconnectedness, ultimately shaping the vibrant tapestry of life.	12
+25	6	1	1	0	0	4	6	0	1	0	2	1	3	4.0	9	2	2	2	2	0	A crimson parrot meticulously nibbled the exquisite orange peel while a hungry caterpillar danced on its scarlet wings, creating an intricate culinary melody.	12
+28	7	5	0	0	0	5	7	0	1	0	1	0	2	5.0	8	1	1	1	1	0	The intricate puzzle with the complex labyrinth of intertwined threads resulted in a satisfying solution after a meticulous analysis of the intricate mechanics underlying its intricate design.	16
+31	4	4	0	0	0	5	9	1	1	0	3	0	4	6.0	8	3	2	2	2	1	The intricate sequence of events that preceded the dramatic climax unfolded in a chain of interconnected actions spanning a fifteen-word dependency link, culminating in a pivotal decision.	16
+23	3	4	0	0	1	4	6	0	0	0	3	0	2	5.0	13	1	0	1	0	1	The cascading sequence of events, beginning with the activation of the intricate contraption, culminates in a complex and elaborate contraption.	16
+20	3	2	1	0	0	3	6	0	0	0	3	0	2	4.0	9	1	0	1	2	1	The young apprentice, meticulously carving the intricate totem pole, completed the masterpiece with meticulous attention to detail.	16
+30	5	6	2	0	0	5	8	0	0	0	2	0	2	5.0	8	1	1	1	1	0	The intricately interwoven tapestry of vibrant hues danced gracefully across the canvas, evoking a symphony of emotions through the interconnected network of intricate relationships between the various colors.	16
+42	7	2	3	0	2	3	11	0	0	0	8	0	5	5.0	22	2	1	1	2	1	The elegantly crafted sandwich, lovingly prepared with freshly sliced avocado, tangy lemon, juicy tomato, crunchy pickles, and vibrant hummus, delighted the gourmand's appetite, creating a culinary masterpiece of exquisite flavor and satisfying texture.	16
+20	4	2	0	0	1	4	5	0	0	0	2	0	2	3.0	10	0	0	2	0	0	The quick brown fox jumps over the sleeping dog, and the lazy cat naps beneath the warm sun.	16
+24	2	5	2	0	0	4	6	0	0	0	2	0	3	5.0	7	1	1	1	0	0	The intricately intertwined chain of events unfolded in a meticulously crafted narrative, leading to a pivotal moment of triumph for the protagonist.	16
+31	3	5	0	0	1	6	9	1	0	0	1	1	4	9.0	7	2	2	1	2	0	A dependent clause joined to a main clause through a conjunction of coordinating conjunctions and containing a participial phrase results in a sentence with a dependency link of 16 words.	16
+29	4	3	1	0	0	6	8	0	0	0	3	0	3	5.0	11	2	2	1	3	0	The majestic knight rode a fiery dragon across the emerald river, conquering the wicked sorceress in a battle of wits, thus safeguarding the kingdom's treasure.	16
+19	4	3	1	0	1	2	6	0	0	0	1	0	1	4.0	5	0	0	1	0	0	The intricate sequence of cascading events ultimately culminated in a complex narrative of unparalleled complexity and emotional resonance.	16
+26	1	4	0	1	1	5	7	0	2	0	2	0	3	4.0	11	1	0	2	1	1	The intricate tapestry woven by the weaver was admired by the onlookers, but the complexity of its construction concealed the beauty of its design.	16
+23	2	5	1	0	0	5	7	0	0	0	1	0	2	6.0	11	1	0	1	0	1	The cascading stream of vibrant wildflowers woven into the tapestry of the meadow danced gracefully beneath the radiant glow of the moon.	16
+29	5	5	2	0	0	4	7	0	0	0	3	0	3	5.0	13	1	0	1	1	1	The meticulously crafted tapestry of intricate thoughts, woven over many years of diligent contemplation, had a profoundly significant impact on the shaping of the human intellect.	16
+24	4	4	1	0	0	5	6	0	0	0	1	0	3	5.0	13	0	0	1	1	0	The complex relationship between the interdependent variables within the intricate system of interconnected gears ultimately dictates the intricate path of the intertwined gears.	16
+42	6	4	2	0	1	7	11	0	1	0	4	0	6	11.0	6	4	4	2	4	0	The meticulous chef meticulously prepared a magnificent dish, encompassing a symphony of flavors, each element perfectly aligning with the exquisite presentation, resulting in a gastronomic masterpiece that ignited passionate debate and elicited rave reviews from the discerning palate.	16
+34	4	3	2	0	1	4	8	0	1	0	4	0	6	8.0	8	3	2	2	3	1	The elaborately crafted painting, meticulously depicted with intricate brushstrokes, depicted a landscape of majestic towering mountains that captivated the viewer's imagination, evoking a serene and profound feeling of awe.	16
+24	5	2	1	1	0	4	5	0	1	0	3	0	2	4.0	11	1	0	2	1	1	The inquisitive young child, who was captivated by the intriguing story, meticulously deciphered the complex plot structure of the suspenseful novel.	16
+25	4	4	1	0	1	4	7	0	0	0	2	0	2	5.0	13	1	1	1	1	0	The intricate sequence of events meticulously orchestrated a harmonious interplay between the entangled forces of gravity and friction, resulting in a profound equilibrium.	16
+23	1	3	2	0	0	5	6	0	0	0	2	0	4	6.0	5	1	1	1	1	0	The intricately woven tapestry of the ancient scroll unveiled the secrets of the fallen city, a narrative meticulously preserved for centuries.	16
+28	4	5	2	0	0	4	6	0	0	0	4	0	3	4.0	10	2	1	1	1	1	The intricately interwoven web of factors, meticulously crafted by skilled artisans, resulted in an intricate tapestry of exquisite beauty, captivating the senses of all.	16
+40	3	5	3	0	1	6	9	0	2	0	4	0	6	6.0	14	3	2	2	3	1	The intricately woven tapestry of the aging patriarch's memories, lovingly preserved for generations, vividly recounted the bittersweet tale of ancestral triumphs and tribulations, leaving an indelible impression on the hearts of all who heard it.	16
+31	5	4	0	0	1	6	9	1	0	0	1	0	4	8.0	11	2	2	1	2	0	The intricate relationship between the vibrant coral reefs and the migrating sea turtles creates a delicate ecosystem woven through an intricate network of dependencies encompassing a span of 16 words.	16
+30	3	4	0	0	1	7	8	0	2	0	2	0	3	5.0	12	2	2	2	3	0	The intricate relationship between the cascading waterfall and the mesmerizing melody of the symphony created a synchronized dance of beauty, captivating the hearts of all who witnessed it.	16
+23	3	4	0	0	0	4	6	0	0	0	2	0	4	5.0	6	2	2	1	0	0	The intricate path of the winding road extends through a picturesque landscape, leading to the enigmatic cave hidden amidst towering mountains.	16
+25	4	5	1	0	0	3	7	0	0	0	3	0	2	5.0	14	1	0	1	0	1	The cascading sequence of interconnected events, meticulously orchestrated by the intricate web of circumstances, resulted in a complex tapestry of intertwined narratives.	16
+24	3	4	0	0	0	5	7	0	0	0	1	0	3	4.0	6	1	1	1	1	0	The cascading effect of the red carpet unfurled beneath the stately archway caused a multitude of onlookers to marvel at the vibrant spectacle.	16
+17	2	1	3	0	0	3	3	0	0	0	2	0	3	3.0	6	1	1	1	1	0	The elaborately planned expedition meticulously mapped the intricate route, ultimately culminating in a triumphant victory.	16
+24	4	2	0	0	0	4	7	0	0	0	4	0	2	4.0	8	1	1	1	1	0	**The cascading waterfall's gentle mist cascades onto the moss-laden boulders, providing a cool respite for the weary traveler.**	16
+28	3	2	1	2	0	6	8	0	1	0	2	0	3	4.0	14	2	2	2	2	0	No one can predict the exact moment when the cascading failure of a faulty circuit board will trigger a chain reaction, resulting in a catastrophic explosion.	16
+25	5	3	1	0	1	4	6	0	1	0	2	0	2	4.0	10	1	1	1	1	0	The intricate relationship between the enigmatic protagonist and the enigmatic villain ultimately leads to their intertwined destinies, creating a tale of epic proportions.	16
+24	4	4	1	0	0	5	5	0	0	0	3	0	2	5.0	11	1	0	1	0	1	The intricately intertwined chain of events, each one cascading into the next, led to the triumphant culmination of the arduous journey.	16
+23	1	2	1	2	0	3	6	0	0	0	2	1	4	6.0	18	2	0	1	2	2	In order to obtain the coveted prize, the intricate sequence of events involving a labyrinth of challenges must be meticulously completed.	16
+28	2	3	3	0	0	6	8	0	0	0	2	0	4	6.0	7	2	2	2	2	0	The swiftly flowing stream carried the delicate flower down the winding path where the butterfly danced freely in the warm sun, creating a symphony of beauty.	16
+35	2	4	0	0	0	4	11	4	1	0	4	0	5	6.0	18	3	2	2	3	1	The complex sentence I constructed comprises seventeen words, incorporating a noun phrase of twelve words, dependent on the preceding verb phrase of fifteen words, creating a dependency link of sixteen words.	16
+39	2	5	1	1	1	4	10	0	5	0	4	1	5	4.0	18	3	1	3	1	2	The young boy dancing with his friends, skipping through the park, was greeted by his mother as he joyfully ran towards the ice cream truck, but the cold wind blew his smile off his face.	16
+28	2	5	1	0	0	4	10	1	0	0	2	0	3	6.0	7	2	2	1	1	0	The cascading complexity of the quantum entanglement phenomenon profoundly impacts the entanglement of macroscopic systems, resulting in a complex network of relationships spanning over sixteen words.	16
+24	1	4	1	0	0	4	6	0	1	0	4	1	2	3.0	9	1	0	2	1	1	"""Although the patient complained of a persistent cough, the doctor initially dismissed the concern due to her history of allergies."""	16
+42	8	7	2	1	0	5	10	0	0	0	4	0	4	5.0	19	2	1	1	1	1	The intricate tapestry of cascading sentences with intricate grammatical formations, constructed by the master of literary craft, was meticulously crafted over numerous meticulously orchestrated hours to encapsulate the profound wisdom of the ages into a singular, eloquent sentence.	16
+22	5	4	1	0	0	4	6	0	0	0	1	0	1	4.0	10	0	0	1	1	0	The intricate network of interconnected thoughts within the intricate philosophical inquiry deeply influenced the intellectual discourse on the nature of reality.	16
+36	7	6	0	0	1	7	10	0	0	0	2	0	3	5.0	15	1	1	1	1	0	The intricate relationship between the cascading effects of the economic downturn and the resulting widespread societal unrest contributed to a pivotal moment in history, creating a profound impact on various nations across the globe.	16
+22	4	0	2	0	1	3	4	0	1	0	3	1	3	4.0	13	1	0	3	1	1	Although the wind blew fiercely and damaged the flimsy wooden shack, the resilient family bravely remained, their spirits unbroken.	16
+26	3	5	0	0	1	4	10	1	0	0	1	0	1	5.0	11	0	0	1	0	0	The intricate relationship between the intertwined variables of quantum superposition and quantum entanglement resulted in a intricate expression with a dependency link of 16 words.	16
+37	4	5	2	1	0	5	9	1	1	0	2	0	5	10.0	9	4	3	1	2	1	A complex sentence encompassing various events of the day was meticulously crafted to encompass a total of sixteen words with intricate dependencies, each word thoughtfully chosen to contribute to the intricate web of their interrelatedness.	16
+13	2	2	0	1	0	2	4	1	0	0	1	0	0	4.0	9	0	0	1	0	0	The complex sentence with the longest dependency link of 16 words is: The inquisitive student meticulously reviewed the meticulous analysis of the intricate text, meticulously constructing a comprehensive understanding, ultimately leading to the profound enlightenment of the perplexed mind.	16
+18	5	2	0	1	1	2	5	0	0	0	1	0	1	4.0	9	0	0	1	1	0	The intricate network of interconnected ideas in the philosophical text has inspired numerous interpretations and scholarly analyses.	16
+18	5	2	0	0	0	2	4	0	0	0	3	0	2	4.0	9	0	0	1	1	0	"""The intricate system of interconnected gears within the intricate mechanical clockwork generated complex rhythmic motions."""	16
+30	4	3	1	0	0	6	9	1	0	0	3	0	3	5.0	12	2	2	1	3	0	The complex sentence with a fifteen-word dependency link includes intricate factors influencing the outcome of the intricate process, ultimately shaping the fate of the intricate mechanism.	16
+36	9	4	0	0	3	6	9	0	0	0	2	0	3	4.0	12	1	1	1	2	0	The intricate relationship between the enigmatic poet and the captivating muse led to an ethereal entanglement of passionate poetry and enduring inspiration, influencing numerous hearts and leaving an indelible mark on the literary landscape.	16
+14	2	1	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	The cascading water spilled over the overflowing bathtub, soaking the nearby rugs.	16

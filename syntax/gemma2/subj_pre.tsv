@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+14	1	1	1	1	0	3	3	0	2	0	1	0	1	4.0	7	1	0	2	0	1	0	2	The rain that fell this day was as old as the mountains themselves.	0
+12	0	1	0	0	0	3	5	0	0	0	1	0	1	4.0	6	0	0	1	0	0	0	1	 The sky remains a canvas for the clouds' dancing dance.	0
+28	3	4	1	0	0	4	7	0	2	0	3	0	4	6.0	8	2	2	1	1	0	1	1	The moon hangs high in sky, a celestial orb illuminated by its own bright light sources, casting a glow on the slumbering planet below it.	0
+18	0	4	1	0	0	3	6	0	0	0	2	0	2	5.0	4	1	1	1	0	0	0	1	 The stars blinked brightly in the sky, a symphony of light shimmering from dusk to dawn.	0
+24	1	5	1	0	0	3	5	0	1	1	3	0	3	5.0	9	2	2	1	1	0	1	1	  **Every person on Earth deserves to have access to education regardless of their circumstances, leading to a brighter future for all.**	0
+3	1	0	0	0	0	0	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	0	0	Sure thing.	0
+16	0	2	1	0	0	4	5	0	0	0	2	0	2	4.0	5	1	1	1	0	0	0	1	The sun rose this morning, shining brightly on the sleeping flowers in the garden..	0
+11	1	2	0	0	0	1	1	0	2	0	1	1	2	3.0	6	1	1	1	0	0	0	1	She ran across the busy street without stopping for anything.	0
+10	0	2	0	1	0	2	2	0	1	0	1	0	1	2.0	6	0	0	1	0	0	0	1	She is sitting on the chair at the table.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The river flowed downstream without any interruptions.	0
+13	1	2	0	1	0	2	2	0	2	0	1	0	1	2.0	8	1	1	1	1	0	1	1	She was alone in the house with no one to help her.	0
+3	1	0	0	0	0	0	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	0	0	Sure thing! The task cannot be completed since it requests the generation of a sentence with no subjects, which is a grammatical impossibility.	0
+21	1	2	2	2	0	2	2	0	3	0	2	1	2	4.0	11	3	3	2	1	0	1	2	 **They were unable to comply with the task as they were no longer in the position to perform it.**	0
+11	1	1	0	0	0	2	2	0	1	0	1	0	2	2.0	6	1	1	1	1	0	1	1	The sun rises without any prior days to witness it.	0
+11	1	0	1	1	0	2	2	0	1	0	1	1	1	3.0	3	1	1	2	1	0	1	2	  The rain was so heavy that it flooded the streets.	0
+19	0	3	1	1	2	0	1	0	4	0	2	0	4	4.0	9	1	1	1	1	0	1	1	She was born and raised solely by her aunt, without anyone to play with or teach her.	0
+12	0	2	0	0	0	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The sun in the sky had no movement at all yesterday.	0
+12	0	1	2	0	0	0	2	0	3	0	2	0	2	3.0	6	0	0	2	0	0	0	2	She walked away, her phone still clutched in her hand.	0
+18	1	2	2	0	0	2	2	0	2	0	2	0	4	4.0	6	3	3	1	2	0	2	1	She walked down the bustling street, looking up occasionally to admire the world passing her by.	0
+13	2	0	0	0	1	2	2	0	1	0	2	0	3	4.0	4	1	1	1	2	0	2	1	She wrote no words, leaving the entire room silent and echoing.	0
+11	0	1	0	0	0	2	2	0	1	0	1	0	3	4.0	3	1	1	0	1	0	1	0	There is no text to generate the requested sentence for.	0
+12	1	2	0	0	0	3	4	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The rain whispered secrets to the leaves on the windswept trees.	0
+9	0	1	1	1	0	2	2	0	0	0	1	0	0	3.0	3	0	0	0	0	0	0	0	 Sure, here's a sentence with no prepositions	0
+8	0	0	0	1	0	2	2	0	1	0	1	0	1	4.0	5	1	0	2	1	1	1	2	A sentence that meets the description is:  The city awoke with the morning breeze, painting the town in a vibrant orange hue..	0
+22	0	3	1	0	2	5	5	0	1	0	2	0	3	4.0	13	0	0	2	1	0	1	2	The sun rose in the east and set in the west, but it never reached the middle of the sky.	0
+17	0	2	1	0	0	4	4	0	1	0	2	0	3	5.0	5	2	2	2	1	0	1	2	The sun rose in the sky, illuminating the clouds that floated lazily throughout the day.	0
+16	0	2	2	0	0	3	3	1	0	1	2	0	2	4.0	6	1	1	1	1	0	1	1	The moon soared brightly in the sky, reflecting a thousand stars back to Earth.	0
+20	2	1	0	1	0	3	3	0	2	0	2	1	3	4.0	10	2	2	1	1	0	1	1	None.	0
+13	1	0	0	2	1	0	1	0	3	0	2	1	2	4.0	5	1	1	3	0	0	0	3	She is tired, and she will rest until her body recovers.	0
+11	1	1	1	0	0	2	2	0	0	0	1	0	2	3.0	4	1	1	1	0	0	0	1	A spider came out to drink from the nearby pond.	0
+16	0	1	2	0	0	3	4	0	1	0	2	0	3	5.0	4	2	2	2	1	0	1	2	The city streets stand still, echoing an emptiness that stretches infinitely into the distance.	0
+9	1	1	1	1	0	1	1	0	1	0	1	0	1	3.0	2	1	1	1	0	0	0	1	The sky is blue without anything flying around.	0
+12	0	0	1	1	0	1	2	0	3	0	1	0	2	3.0	4	2	2	2	1	0	1	2	  She is the woman who got her dog to behave well..	0
+8	1	1	0	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	 A vast expanse unfolded beneath our feet.	0
+11	1	1	0	0	0	1	2	1	1	0	1	0	2	3.0	6	1	1	0	0	0	0	0	There is no instruction with 0 preverbal subjects to generate.	0
+14	1	1	0	0	1	3	3	0	0	0	2	0	3	4.0	5	1	1	1	1	0	1	1	The sun rose in the east, shining bright and illuminating the land.	0
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	The rain will fall regardless of the clouds.	0
+8	2	0	0	1	0	2	2	0	0	0	1	0	0	2.0	5	0	0	1	0	0	0	1	The sky was a silent blue expanse.	0
+8	0	0	0	0	0	1	2	0	1	0	2	0	2	3.0	4	0	0	2	0	0	0	2	The city sleeps, its streets deserted.	0
+12	1	2	0	0	1	1	2	0	2	0	1	0	2	3.0	5	0	0	1	1	0	1	1	 She turned her phone off and slept for a few hours.	0
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	  > The sun rose brightly this morning, casting long shadows across the field.	0
+6	1	0	1	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	 The little boy ran away.	0
+12	1	0	1	0	0	2	3	0	0	0	2	1	2	3.0	4	1	1	1	1	0	1	1	The rain fell silently, without disrupting the peaceful evening stroll.	0
+15	3	3	0	0	0	2	4	0	0	0	2	0	1	3.0	6	0	0	1	0	0	0	1	   **The quick brown fox ran down the lonely road in search of food.**.	0
+13	0	1	2	0	0	2	2	0	1	0	2	0	3	3.0	6	2	2	1	1	0	1	1	She sat alone on the bench, watching the birds fly by.	0
+15	1	1	0	0	1	2	3	1	2	0	2	0	2	4.0	8	0	0	2	0	0	0	2	She arrived without a word, but her actions spoke a thousand times louder.	0
+23	2	3	0	0	1	3	8	0	1	0	2	0	3	6.0	8	2	2	2	1	0	1	2	The city skyline unfolded, revealing shimmering patterns of clouds and buildings beneath the azure canvas that stretched over the urban landscape.	0
+10	1	1	1	1	0	1	2	1	0	0	1	0	1	4.0	4	1	1	0	0	0	0	0	Below is a sentence generated with 0 preverbal subjects: The clouds gathered above, covering the world in grey..	0
+13	1	1	0	0	0	2	5	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The sun rose, casting long shadows upon the sleeping city streets.	0
+18	3	2	2	1	0	1	3	0	2	0	3	0	1	4.0	8	0	0	2	0	0	0	2	The universe is devoid of conscious presence, hence, it remains perpetually indifferent to our existence.	0
+15	1	1	0	0	1	2	3	0	2	0	1	0	4	4.0	5	2	1	2	1	1	1	2	A boy running through the forest heard strange noises and wondered what it meant.	1
+13	0	1	1	0	0	2	3	0	2	0	1	1	2	3.0	6	1	1	2	1	0	1	2	The dog barked at me before I even reached the town square.	1
+6	0	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	0	0	0	0	0	 Sure, here's the sentence	1
+9	0	2	0	0	0	0	1	0	3	0	1	0	2	3.0	4	1	1	1	1	0	1	1	She walked to school without anyone watching her.	1
+13	0	2	0	0	0	3	3	0	1	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The dog jumped over the cat, chasing it around the tree.	1
+9	0	1	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	 The dog chased its tail throughout the park.	1
+11	2	1	0	0	0	2	2	0	1	0	1	0	2	4.0	4	1	1	0	0	0	0	0	There is a lone bird soaring above the tranquil lake.	1
+12	0	1	0	0	1	2	3	0	1	0	1	0	2	3.0	5	1	1	1	0	0	0	1	The boy and his dog went to the park to play.	1
+17	0	3	0	0	0	3	6	0	1	0	2	0	2	5.0	4	1	1	2	0	0	0	2	The rain pattered on the pane, its droplets glistening like stars in the night sky.	1
+12	0	1	1	0	0	1	2	0	2	1	1	1	2	2.0	6	1	1	2	0	0	0	2	My sister Sarah jumped over the hurdle before she ran away.	1
+13	1	1	0	1	0	2	4	0	2	0	1	0	1	4.0	7	1	0	1	1	1	1	1	My cat chasing the laser beam was the happiest of my pets.	1
+14	0	2	0	0	0	3	3	0	1	0	2	0	3	3.0	5	1	1	1	1	0	1	1	The dog barked at the bird, alerting it to the approaching train.	1
+19	1	2	2	0	1	4	4	0	0	0	2	0	3	5.0	5	1	1	1	1	0	1	1	The young girl ran to the pond and sat there, quietly enjoying the quietness of the afternoon.	1
+11	1	2	1	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	 The lone bird flew away at the break of dawn.	1
+13	0	1	0	0	1	4	4	0	0	0	1	0	2	3.0	6	0	0	1	1	0	1	1	The boy and the dog chased the fleeing bird through the treetops.	1
+18	0	2	1	0	0	3	4	0	0	0	2	1	4	4.0	7	3	3	1	1	0	1	1	The child ran up to the sleeping animals, whispering a story before settling down to sleep.	1
+19	0	2	2	1	0	4	4	0	1	0	2	0	3	5.0	5	2	2	2	1	0	1	2	The rain fell over the trees, washing away the leaves that had blown away in the wind.	1
+17	1	2	1	0	1	1	4	0	1	2	2	0	2	4.0	6	1	1	1	1	0	1	1	John and Sarah went to the store together, picking out their favorite ice cream flavors.	1
+14	0	1	0	0	0	2	4	0	1	0	2	0	3	4.0	6	2	2	1	1	0	1	1	The dog barked, running to the water source to quench its thirst.	1
+18	4	2	0	0	0	3	5	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	  The happy dogs chased through the vibrant city square, leaving colorful memories in the bustling streets.	1
+13	0	2	1	0	1	3	2	0	0	2	1	0	1	3.0	6	0	0	1	0	0	0	1	Sarah and Tom both walked in the rain on the way home.	1
+13	0	2	0	0	0	3	3	0	0	0	2	0	3	3.0	5	1	1	1	0	0	0	1	The boy runs along the river, searching for a lost toy.	1
+15	0	1	0	1	0	1	3	0	3	0	2	1	2	3.0	5	1	1	1	2	0	2	1	Despite her efforts, she could not prevent the rain from washing her car.	1
+12	0	1	2	1	0	2	2	0	1	0	1	0	2	4.0	7	1	0	2	0	1	0	2	The boy who jumped over the fence is running home now.	1
+18	2	4	0	0	0	3	5	0	0	0	2	0	2	4.0	9	1	1	2	0	0	0	2	The young children giggled, racing down the beach at sunset with a basket full o' sand.	1
+15	0	2	0	0	0	3	4	0	2	0	2	0	2	4.0	4	1	1	1	2	0	2	1	The cat chased his mouse, catching it on the end of the stick.	1
+13	0	1	0	0	1	0	3	0	3	0	1	1	3	4.0	4	1	1	1	2	0	2	1	She made her bed and cleaned her room before going to bed.	1
+15	1	1	1	0	1	4	4	0	0	0	2	0	1	4.0	5	0	0	1	0	0	0	1	The rain swept down, a constant patter against the leaves and the windowpane.	1
+10	0	0	0	1	0	0	2	0	3	0	1	1	2	2.0	6	1	1	2	2	0	2	2	She washed her hair while she was cooking dinner.	1
+19	2	3	0	0	0	3	5	0	1	0	3	0	2	5.0	5	1	1	1	1	0	1	1	  **The happy traveler set off into the vast wilderness, a sense of wonderment fueling his journey.**.	1
+22	2	3	0	0	0	4	7	0	1	0	2	0	3	5.0	8	2	2	1	0	0	0	1	A lone butterfly flutterd amidst the blooming flowers, its wings shimmering like a miniature sun lit by the rising sun.	1
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	1
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	.	1
+20	2	4	0	0	0	4	5	0	0	0	2	0	3	3.0	8	0	0	1	0	0	0	1	 Despite the looming threat of an approaching asteroid, the explorers embarked on a daring journey into uncharted territory.	1
+9	0	1	0	0	0	2	2	0	1	0	1	0	2	4.0	3	1	1	0	0	0	0	0	There is a bird flying above the trees.	1
+8	0	0	0	1	0	1	3	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	My mother will cook dinner this evening.	1
+16	0	3	0	0	1	2	4	0	3	0	2	0	1	3.0	10	0	0	1	1	0	1	1	She left her phone on the table, along with her books and a notebook.	1
+14	1	2	0	0	0	2	4	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	We jumped over the puddles today, exploring hidden caves beneath the surface.	1
+17	1	2	0	0	1	4	5	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The girl and the dog ran through the forest, seeking shelter after a fierce downpour.	1
+15	1	2	1	0	0	1	2	0	2	0	2	0	3	4.0	6	2	2	1	0	0	0	1	 A small bird flew down into her nest, looking for something to eat.	1
+17	2	2	0	1	0	2	3	0	1	0	2	0	3	4.0	4	2	2	1	1	0	1	1	The young hiker's path was cut off, sending him scurrying through the dense forest.	1
+12	1	2	0	0	0	2	2	0	1	0	2	0	2	3.0	5	1	1	1	0	0	0	1	  She hurried along the path, searching for the missing treasure.	1
+10	0	1	0	0	1	2	2	0	1	0	1	0	2	3.0	5	0	0	1	1	0	1	1	She went into the shop and purchased the shirt.	1
+12	1	1	1	0	0	2	2	0	0	0	3	0	2	2.0	5	0	0	1	0	0	0	1	 *The happy puppy barked happily at the approaching butterfly.*	1
+10	0	1	1	0	0	2	3	0	0	0	2	0	1	2.0	6	0	0	1	0	0	0	1	The rain fell early this morning, before breakfast.	1
+18	1	1	2	0	0	1	4	0	4	1	2	0	2	4.0	6	1	1	2	2	0	2	2	My sister Sarah left her keys on the front seat, where I usually leave my belongings.	1
+23	2	2	0	2	0	3	5	1	2	0	1	2	3	6.0	9	2	2	2	1	0	1	2	There is no preverbal subject that can go into the sentence because the task is about generating sentences with 1 preverbal subject.	1
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	  > The little bird took off to freedom.	1
+11	0	2	0	0	0	3	3	0	0	0	1	0	2	4.0	3	1	1	1	0	0	0	1	The dog barked at the bird flying above the fence.	1
+17	1	2	0	1	0	2	3	1	2	0	2	0	2	6.0	8	2	2	2	1	0	1	2	She had to buy groceries, one of which was the last one in the aisle.	1
+13	1	2	1	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	Two children played diligently on the swings beneath the old oak tree.	2
+14	1	1	1	1	1	0	1	0	2	0	1	1	3	4.0	4	2	2	1	0	0	0	1	They were able to simultaneously cook and clean while working on their assignments.	2
+12	1	1	1	0	0	2	2	1	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	Two children laughed simultaneously, chasing each other down the playground.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The boys and the dog chased the butterflies through the meadows.	2
+12	1	1	0	0	0	2	3	0	1	0	2	0	2	4.0	5	1	0	1	1	1	1	1	 _The girl sitting on the bench_ picked her favorite flowers.	2
+16	0	1	0	0	0	2	3	1	1	0	1	1	4	4.0	6	3	3	2	1	0	1	2	The two birds flew up to greet their children as the rain started to pour.	2
+12	1	0	1	0	0	1	4	1	1	0	1	0	2	4.0	3	1	1	2	2	0	2	2	Two artists simultaneously created a masterpiece that transcended individual skill sets.	2
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	Certainly.	2
+13	0	1	0	0	1	2	4	0	1	0	1	0	2	3.0	5	1	1	1	1	0	1	1	The girls and men ran to the store to buy their groceries.	2
+16	1	2	0	0	1	3	4	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The boy and the girl ran through the tall trees, laughing their heads off.	2
+26	3	3	3	1	0	3	6	0	1	0	3	0	3	6.0	7	3	3	2	1	0	1	2	A flock of birds soared effortlessly over the tranquil meadow, singing melodies that were as sweet as the honey-laden wildflowers buzzing around.	2
+17	1	3	2	0	0	2	5	1	0	0	1	0	2	4.0	9	1	0	1	1	1	1	1	Two birds flying south at once create a spectacular dance of lights in the setting sun.	2
+13	1	1	1	0	1	2	4	0	0	0	1	0	2	3.0	5	0	0	1	1	0	1	1	The busy bees buzzed around and gathered honey from the blooming flowers.	2
+10	0	1	0	0	0	3	3	1	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The puppies chased the two cats around the playground.	2
+11	1	1	0	0	0	3	3	0	0	0	1	0	2	2.0	6	0	0	1	1	0	1	1	The young birds chased the glowing butterflies through the field.	2
+11	1	1	0	0	0	1	3	1	1	0	1	0	2	4.0	4	1	1	0	0	0	0	0	There are two happy bees buzzing around a blooming flower.	2
+17	0	1	0	0	1	2	6	0	1	0	2	1	3	4.0	8	2	2	1	2	0	2	1	They played with both dogs and cats yesterday, having fun while exploring the animal kingdom.	2
+13	0	1	0	0	1	3	4	0	0	0	3	0	1	3.0	6	0	0	1	0	0	0	1	The sun, and the moon, danced across the midnight sky.	2
+17	1	2	0	0	1	4	5	0	0	0	2	0	2	4.0	4	0	0	1	0	0	0	1	  The busy bees and the butterflies danced across the meadow, a spectacle of coordinated movement.	2
+17	2	2	1	0	0	2	4	1	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The two birds flew together across the sky, carrying heavy seeds to their new nest.	2
+21	2	3	0	0	0	4	8	0	0	0	2	0	2	4.0	7	1	1	1	1	0	1	1	A light rain fell over the bustling city street, creating a shimmering spectacle in the reflections of passing cars.	2
+17	4	2	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The mischievous monkeys jumped through the lush canopy, leaving colorful imprints on the mossy floor.	2
+10	0	1	1	0	1	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The dogs and cats played together in the park.	2
+21	3	3	0	0	0	4	6	0	1	0	2	0	2	4.0	9	1	1	1	2	0	2	1	The playful lions chased the mischievous bears through the enchanted forest, leaving a trail of laughter in their wake.	2
+15	0	3	0	0	0	3	5	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	A group of children ran across the park, playing tag in the sun.	2
+15	2	2	0	0	0	2	4	1	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	Two birds flew over the river, singing different songs at the same time.	2
+26	3	2	1	1	1	4	5	0	1	0	2	0	5	7.0	5	3	3	2	2	0	2	2	A group of friends decided to explore a nearby river, where they could enjoy the scenic view and go swimming in the refreshing waters.	2
+11	0	1	2	0	1	2	2	0	0	0	1	0	2	3.0	7	0	0	1	0	0	0	1	The dancers swayed gracefully and together under the glistening sunlight.	2
+22	2	3	0	0	0	3	6	1	1	0	2	0	4	7.0	6	3	3	2	3	0	3	2	Two young artists painted a mural depicting a vibrant sky with clouds drifting by, capturing the essence of their imaginations.	2
+11	1	0	2	1	1	1	2	0	1	0	1	0	1	3.0	5	0	0	1	0	0	0	1	  The young boy and his grandmother were walking home together.	2
+17	2	2	1	0	2	3	5	0	0	0	1	0	1	4.0	5	0	0	1	1	0	1	1	The birds and the wind simultaneously painted the sky with vibrant hues of orange and blue.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	 The dogs chased the children into the house.	2
+9	0	1	1	0	0	1	3	1	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	 Two dogs played in the park together yesterday.	2
+16	2	1	0	0	1	3	3	0	1	0	2	0	3	4.0	5	1	1	1	1	0	1	1	The rain fell upon the city, making it quiet and gloomy the following day.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The bees chased the butterflies through the meadow.	2
+10	0	1	0	0	1	2	2	1	0	0	1	0	2	2.0	5	0	0	1	0	0	0	1	The two animals ran to the tree and hid.	2
+17	1	2	0	0	0	4	4	0	1	0	2	0	3	3.0	7	1	1	1	2	0	2	1	They played a duet in the rain, performing an enchanting melody before a captivated audience.	2
+24	1	2	1	1	1	5	6	0	0	0	2	1	3	4.0	9	2	2	2	1	0	1	2	The dog and cat ran across the park, chasing each other's tails as the sun was shining brightly at the sky.	2
+15	2	2	0	0	0	3	4	1	0	0	1	0	2	4.0	9	1	0	1	1	1	1	1	Two birds singing in the trees at the same time created a harmonious melody.	2
+21	1	3	1	1	0	5	5	0	1	0	1	0	3	4.0	8	2	1	2	0	1	0	2	The vibrant flowers that danced in the afternoon sunlight were enjoyed by all the birds soaring high in the sky.	2
+12	0	0	0	0	1	3	3	0	0	0	1	1	3	3.0	6	1	1	2	1	0	1	2	The children ran and jumped as the waves hit the shore.	2
+13	0	2	2	0	1	1	4	0	1	0	1	0	1	3.0	6	0	0	1	0	0	0	1	My grandmother and grandfather often went for walks in the park together.	2
+16	1	3	0	0	0	4	5	1	0	0	1	0	1	5.0	3	0	0	1	1	0	1	1	The bustling cityscapes provided a stage for the dance between two swans on the lake.	2
+20	0	2	2	0	2	4	6	0	0	0	2	0	2	5.0	7	1	1	1	1	0	1	1	The bees and the leaves soared effortlessly into the sky together, creating a tapestry of buzzing and rustling.	2
+8	0	1	1	0	0	1	2	1	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	Two dogs ran across the bridge together.	2
+18	3	3	0	0	0	3	5	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The sun rose over the mountains at dawn, casting long shadows on the lush green landscape.	2
+17	0	2	0	0	1	4	5	0	1	0	2	0	2	5.0	6	1	1	1	0	0	0	1	The twins ran through the park, the laughter and the joy echoing in their ears.	2
+13	2	1	0	1	2	2	1	0	1	0	1	0	1	3.0	5	1	1	1	0	0	0	1	He was both the first student and the last to get up.	2
+16	1	1	2	0	0	1	4	1	2	0	2	0	2	4.0	4	1	1	2	1	0	1	2	Together, two artists created a vibrant landscape painting that flowed seamlessly through their brushstrokes.	2
+22	3	4	0	0	0	4	6	0	0	0	3	0	2	4.0	9	1	0	1	1	1	1	1	The bustling city, bustling with people, offers a unique experience of vibrant life in the heart of the metropolis.	2
+20	0	3	0	0	1	4	5	1	0	0	1	1	4	4.0	8	2	2	2	1	0	1	2	Three friends sat chatting in the meadow while the sunlight streamed down and cast a rainbow in the air.	3
+21	1	3	0	1	1	2	6	0	2	0	2	0	2	4.0	9	1	0	1	1	1	1	1	Despite his desire to explore the world, the scientist was constrained by his lack of time and financial resources.	3
+16	2	2	1	0	1	2	3	0	0	0	2	0	3	3.0	6	1	1	1	0	0	0	1	 A group of excited children raced across the busy streets, laughing and running together.	3
+12	0	1	1	1	0	2	3	1	0	0	1	0	2	3.0	7	1	1	2	0	0	0	2	Three children were playing in the park when the storm began.	3
+17	0	1	1	0	1	2	3	1	1	0	2	1	4	5.0	4	2	2	2	1	0	1	2	The three boys played together, jumping and singing as they flew kites through the sky.	3
+16	1	2	0	0	0	2	5	1	1	0	2	0	2	3.0	7	1	1	2	0	0	0	2	Three birds sing above the pond, their melodies echoing through the tranquil morning air.	3
+8	0	1	0	1	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Three friends were walking through the park.	3
+20	1	3	0	0	0	3	6	0	1	0	2	0	4	6.0	5	2	2	2	1	0	1	2	The rain fell with great intensity, creating a waterfall of shimmering droplets that danced in the morning sun.	3
+10	2	1	1	0	0	1	2	1	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	 Three brave explorers bravely ventured into the mysterious forest.	3
+12	1	1	0	0	1	1	2	1	0	0	2	0	3	3.0	5	1	1	1	0	0	0	1	Three young children ran to the lake, skipping and laughing.	3
+14	1	1	1	0	1	2	2	0	0	0	3	0	3	3.0	5	0	0	1	0	0	0	1	The monkeys played, danced, and sang together under the full moon.	3
+28	1	3	0	0	1	5	8	0	1	0	6	0	3	4.0	13	2	1	1	2	1	2	1	The children, the animals, and the humans, united by curiosity, chased the colorful butterflies through the meadows, collecting stories along their journey.	3
+15	1	2	0	0	0	3	3	1	0	0	2	0	3	3.0	6	1	1	1	1	0	1	1	The three students set off on a journey, seeking a mythical lost city.	3
+18	0	4	0	0	1	4	5	0	0	0	2	0	2	5.0	5	1	1	1	0	0	0	1	The birds flew in the sky, flying over the flowers and through the fields of grain..	3
+24	3	3	1	0	1	3	7	0	0	0	4	0	2	3.0	9	1	1	1	1	0	1	1	The bees, butterflies, and birds flew gracefully through the vast field of clover, leaving shimmering trails on the sunny ground.	3
+19	1	1	1	2	0	2	3	1	1	0	4	0	2	3.0	12	1	1	2	0	0	0	2	Sure, here are three pre-verbal sentences you can generate: - The birds soared through the clouds.	3
+18	0	1	1	0	1	1	2	1	0	3	5	0	2	3.0	9	1	1	1	0	0	0	1	 Three friends, Sarah, Jake, and Mia, went out to eat at a restaurant.	3
+10	0	1	0	0	0	2	4	1	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	  The dogs chased three cats over a field yesterday.	3
+18	2	1	1	0	0	2	5	1	1	0	3	0	2	3.0	9	1	1	2	2	0	2	2	Three children played soccer together, each wearing their team colors, on the lush green grass.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	 The children, the birds, and the butterflies danced in the meadow.	3
+15	2	2	0	0	0	2	4	1	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	Three friends embarked on a journey, exploring hidden caves in a lush jungle.	3
+23	1	2	1	0	1	3	5	1	3	0	2	0	4	4.0	9	1	1	2	2	0	2	2	The three athletes gathered at the stadium simultaneously, their combined determination fueling their performance and pushing them to a resounding victory.	3
+17	1	2	2	1	1	2	4	1	0	0	1	0	2	3.0	7	0	0	1	0	0	0	1	A group of three children were jumping and playing together outside on a beautiful summer day.	3
+22	1	3	1	0	0	3	5	0	2	0	2	1	4	6.0	5	3	3	2	1	0	1	2	  A flock of geese flew overhead, dipping their toes into each stream they crossed before migrating to a new home.	3
+20	0	2	0	0	1	5	5	0	0	0	2	0	4	4.0	7	2	2	1	1	0	1	1	The children chased the dog and the birds, racing against the rising sun to get to the field.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	 The birds, the bees, and the butterflies danced amongst the flowers.	3
+17	2	2	1	0	0	2	4	0	2	0	1	1	2	3.0	9	1	1	2	2	0	2	2	They played music simultaneously while they painted the sky with different hues at the same time.	3
+10	0	1	0	0	0	3	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The three dogs chased the birds into the forest.	3
+21	0	2	0	1	1	5	6	1	1	0	3	0	1	4.0	10	0	0	1	1	0	1	1	The three friends are discussing the game, their plans for the weekend, and the future of the city.	3
+25	1	2	0	2	2	2	5	1	3	0	2	0	3	5.0	10	1	1	2	3	0	3	2	I will create sentences with 3 prepositions, but you should not ask me to generate the exact number or order of those prepositions.	3
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	Certainly.	3
+15	1	2	0	0	0	2	5	1	0	0	2	0	2	4.0	6	1	1	1	1	0	1	1	Three children raced across the field, playing tag in a grand afternoon sun.	3
+16	1	1	2	0	0	3	4	0	1	0	2	0	2	3.0	8	1	1	2	1	0	1	2	The clouds effortlessly danced across the sky, their gentle puffs brushing the grass below.	3
+19	1	3	0	0	0	3	5	1	0	0	2	1	3	5.0	7	2	2	1	2	0	2	1	The rain poured down with three concurrent winds, creating a symphony of splashing sounds in the park.	3
+40	7	5	2	1	2	5	9	0	2	0	4	0	3	6.0	26	3	3	2	1	0	1	2	  The bustling streets were alive with a vibrant orchestra of activity - the bustling crowds moving effortlessly to and fro, the bustling vendors singing their songs with joyful enthusiasm, and the bustling artists working on their creations.	3
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	.	3
+17	2	2	2	0	0	3	3	0	1	0	2	0	2	3.0	10	1	1	1	1	0	1	1	The dogs barked at the cats fiercely in the lush garden, leaving them utterly terrified.	3
+21	3	2	0	0	1	3	5	1	0	0	2	0	4	5.0	6	2	2	1	2	0	2	1	Three friends went exploring the secluded forest, searching for hidden treasures and having a thrilling adventure along the way.	3
+22	2	2	4	0	1	2	4	0	1	0	4	0	2	4.0	9	1	1	1	1	0	1	1	A flock simultaneously migrated north, south, and west, carrying a diverse array of feathers between their feathery bodies.	3
+23	3	2	0	2	0	3	5	0	1	0	2	0	4	6.0	7	3	3	2	2	0	2	2	The happy birds sang songs across the colorful sky, creating a melody that would be remembered for many years to come.	3
+13	1	2	0	0	0	2	3	1	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	Three children ran across the park, playing tag with each other.	3
+19	1	2	0	0	0	3	5	0	2	0	2	1	3	4.0	8	2	2	3	1	0	1	3	The birds sing melodies in the sky, their voices intertwining as they soar above the peaceful meadow.	3
+23	1	2	0	0	1	4	7	1	0	0	5	0	2	4.0	13	1	1	1	1	0	1	1	Three friends went on a camping trip, carrying a tent, food, and water, all at the same time.	3
+19	0	1	1	1	1	5	5	0	0	0	3	0	2	3.0	9	1	1	2	0	0	0	2	The train, the dog, and the cat were running across the bridge when the storm struck.	3
+24	2	2	0	0	0	5	5	0	0	0	2	0	6	4.0	11	4	4	2	2	0	2	2	The children raced around the lush forest clearing to gather leaves, each rushing with a determined spirit to ensure a bountiful harvest.	3
+27	1	2	1	0	2	6	9	0	0	0	4	0	2	5.0	9	1	1	1	2	0	2	1	The sun, the moon, and the stars simultaneously illuminated the night sky, creating a dazzling spectacle of light and color above the land.	3
+17	0	3	1	0	1	1	5	0	3	0	1	0	2	4.0	12	1	1	2	0	0	0	2	The children ran from their house to school with their teacher and their parents following closely.	3
+17	0	2	1	0	0	3	3	1	1	0	2	0	3	3.0	8	2	2	1	1	0	1	1	The three dogs barked at the birds in the sky, causing them to flock away.	3
+21	1	2	0	0	1	3	6	1	1	0	3	0	3	3.0	10	0	0	1	2	0	2	1	The three boys walked into the bakery, ordered multiple cakes, and left their trash cans at the table.	3
+22	1	2	2	0	0	2	5	1	1	0	3	0	4	5.0	10	2	2	1	1	0	1	1	 Three artists gathered together at their studios in a vibrant city, collaborating seamlessly to create an awe-inspiring painting.	3
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	.	4
+15	1	3	1	1	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	The children were singing loudly with four joyful voices on the beach at sunset.	4
+10	0	0	1	0	0	1	2	1	0	0	1	0	3	3.0	3	1	1	1	1	0	1	1	Four people ran outside to save the trapped animal.	4
+13	0	1	1	0	1	1	3	1	0	0	2	0	3	3.0	5	1	1	1	1	0	1	1	  Four friends gathered in the park, laughing and having fun together.	4
+15	0	2	0	2	0	2	4	1	0	0	1	0	2	4.0	5	1	1	1	1	0	1	1	Four people have been invited by the company to attend a summit on innovation.	4
+17	3	2	1	0	0	2	4	1	0	0	2	0	2	4.0	6	1	1	1	1	0	1	1	Four birds simultaneously soared over the sparkling lake, creating mesmerizing shadows on the shimmering surface.	4
+20	0	3	2	0	1	2	4	1	1	0	4	0	2	4.0	9	1	1	1	0	0	0	1	The four children, along with their teacher and parents, ran through the park, shouting happily together.	4
+13	0	2	0	0	0	2	4	1	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	Four animals ran through the park, leaving prints in the dirt.	4
+29	0	5	0	0	1	5	7	0	1	0	4	0	5	6.0	11	3	3	1	1	0	1	1	The children ran into the park, chased by their parents, and jumped to play on the swings, creating a symphony of laughter for the crowd.	4
+14	3	2	1	0	0	2	3	1	0	0	1	0	1	2.0	8	0	0	1	0	0	0	1	Four young dancers gracefully danced across the expansive stage during the mesmerizing performance.	4
+14	3	2	0	0	0	2	4	1	0	0	1	0	1	3.0	5	0	0	1	0	0	0	1	  Four brave adventurers embarked on an arduous journey across the treacherous desert plains..	4
+13	0	1	2	0	0	0	4	1	1	0	2	0	2	3.0	5	1	1	1	1	0	1	1	Four birds flew south together, singing their morning songs in harmony.	4
+25	1	3	0	0	1	4	7	0	1	0	6	0	2	3.0	17	1	1	1	1	0	1	1	 **The children gathered at the schoolhouse, along with the teacher, parents, and a security guard, discussing their upcoming project.**	4
+20	3	2	1	0	0	2	6	1	0	0	2	0	3	3.0	7	2	1	1	1	1	1	1	 Four birds singing simultaneously echoed across the expansive city park, casting colorful streaks upon the tranquil morning dew.	4
+16	2	2	0	0	1	1	4	0	1	0	2	0	3	4.0	5	1	1	1	1	0	1	1	The mischievous children chased their favorite toy, tumbling over rocks and jumping over puddles.	4
+21	1	0	0	1	2	2	5	1	2	0	3	1	3	4.0	10	1	1	1	2	0	2	1	 My siblings, the three mischievous kids, and I were having fun by playing hide and seek all afternoon.	4
+17	1	2	0	0	0	2	3	1	1	0	4	0	2	3.0	7	1	1	1	1	0	1	1	 * The four friends, along with their family, decided to visit the ancient city.	4
+17	2	1	0	1	0	2	4	1	0	0	3	0	3	5.0	9	2	1	1	1	1	1	1	Four people, all working in different capacities, were seen entering the house last night.	4
+22	0	1	0	0	0	4	5	1	2	0	3	1	5	6.0	5	4	4	2	3	0	3	2	The four boys ran around the garden, kicking the balls that flew their way, chasing the clouds while laughing.	4
+23	1	1	0	1	1	5	5	0	1	0	6	0	2	3.0	15	1	1	1	1	0	1	1	  **They were meeting at the restaurant, the bakery, the park, and the library, discussing the upcoming play.**	4
+22	0	1	0	0	1	3	6	1	0	0	3	0	5	6.0	6	1	1	2	3	0	3	2	Four friends ventured into the forest, each holding a forgotten book, to seek adventure and escape reality's confines.	4
+16	2	3	0	0	1	2	4	0	2	0	1	0	1	4.0	5	0	0	1	1	0	1	1	They gathered goods from the distant shores and from the vast forests of our homeland.	4
+26	3	3	1	1	1	2	7	0	1	0	4	0	3	7.0	7	3	3	2	0	0	0	2	The bustling city square was alive with activity, its streets teeming with merchants, children running around, and passersby chatting amongst each other.	4
+20	3	2	0	0	1	2	6	1	2	0	2	0	1	4.0	8	0	0	1	0	0	0	1	Four friends embarked upon the perilous journey, their bravery and unity their only shield against the formidable beast.	4
+18	0	2	0	0	0	3	5	0	2	0	2	0	4	5.0	7	2	2	2	2	0	2	2	The birds sang songs through the towering trees, enchanting each person who stood beneath their canopy.	4
+17	2	2	0	0	0	3	4	0	1	0	2	1	2	3.0	6	1	1	1	1	0	1	1	Despite their previous arguments, the friends reconciled by organizing a grand picnic in the countryside.	4
+15	1	1	2	0	0	2	3	1	1	0	1	0	2	3.0	6	1	1	1	1	0	1	1	The four friends all went out to have dinner together at their favorite restaurant.	4
+15	2	2	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	 The bees buzzed across the vibrant garden, depositing pollen among the colorful flowers.	4
+19	1	3	1	0	0	3	4	0	1	0	2	0	4	5.0	7	2	2	1	1	0	1	1	They stood together around the majestic tree, guiding the frightened children through a world painted with rainbows.	4
+22	4	1	0	0	1	4	5	1	1	0	4	0	1	3.0	13	0	0	1	1	0	1	1	They stormed the castle with four noble knights, a valiant archer, a clever mage, and a fearless leader.	4
+19	1	2	0	0	0	2	7	1	1	0	3	0	2	4.0	8	1	1	1	2	0	2	1	Four friends went fishing in the morning sun, casting their lines into the crystal-clear lake.	4
+11	1	0	1	1	0	2	2	1	0	0	1	0	2	3.0	4	1	0	1	1	1	1	1	Four birds flying south would create such a vibrant sight.	4
+24	4	4	0	0	1	5	6	0	0	0	2	0	2	5.0	8	1	1	1	0	0	0	1	The young explorers embarked on an expedition, navigating between the towering mountains and the shimmering river in an intricate dance of adventure..	4
+13	1	1	0	0	0	2	2	1	1	1	1	0	3	5.0	6	2	0	2	1	2	1	2	The four people who went hiking on Saturday found a stunning vista.	4
+26	2	4	1	1	1	2	5	0	0	0	4	0	6	3.0	17	0	0	1	0	0	0	1	The children were led through a grand tapestry, danced around ancient ruins, skipped between towering stones, and laughed together beneath towering waterfalls.	4
+24	0	2	0	0	1	6	7	0	1	0	5	0	2	3.0	11	1	1	1	1	0	1	1	The children, the birds, the bees, and the butterflies soared in the sky, casting their shadow across the meadow.	4
+23	3	1	1	1	0	3	4	0	2	0	4	0	3	4.0	9	3	3	2	1	0	1	2	  **My grandmother, the baker of the finest pastries, made a delectable cake that was too delicious to resist devouring.**	4
+20	0	4	1	0	0	4	6	0	0	0	2	0	2	5.0	10	1	1	1	1	0	1	1	The rain poured down, washing away every trace of yesterday's battle beneath the surface of the castle.	4
+15	2	1	0	0	0	2	4	1	1	0	1	0	2	3.0	8	1	1	0	1	0	1	0	   There flew four birds in a single flock to admire the dazzling city lights..	4
+10	0	1	0	0	0	1	3	1	0	0	1	0	2	2.0	5	1	1	1	1	0	1	1	Four friends met at the store to buy snacks.	4
+17	1	2	1	0	1	2	4	1	0	0	2	0	3	4.0	5	1	1	1	1	0	1	1	Four friends gathered on the beach, holding hands together and laughing in the warm sunshine.	4
+22	2	3	1	0	0	2	7	0	1	0	3	0	3	4.0	6	2	2	2	1	0	1	2	 A flock of birds soared effortlessly, their wings coated in vibrant plumage, illuminating the azure sky with dazzling hues.	4
+14	1	1	1	0	1	2	4	1	0	0	2	0	1	3.0	6	0	0	1	0	0	0	1	  **Four students and the teacher went on a hike together last weekend.**	4
+27	0	1	1	0	2	3	5	1	0	4	6	0	3	4.0	11	1	1	1	2	0	2	1	  The four friends, Sarah, Michael, Lily, and John, gathered together at the park to play baseball and have a picnic lunch.	4
+19	1	2	0	0	0	4	6	0	0	0	4	0	2	3.0	8	1	1	1	2	0	2	1	"""The birds sing a melody in the morning sunlight, painting the sky with vibrant hues."""	4
+15	1	2	1	0	0	2	4	1	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	  Four people arrived at the scene simultaneously, demanding safety from a dangerous situation..	4
+16	1	3	1	0	0	1	5	1	0	0	2	0	2	4.0	8	1	1	1	1	0	1	1	 Four birds took off simultaneously, singing praises of love in the crisp winter air.	4
+21	3	2	1	1	0	3	4	0	2	0	3	0	2	4.0	9	1	1	2	2	0	2	2	  *They had a delicious dinner at the cozy restaurant, which had just undergone renovations by the new owner.**	4
+36	2	6	0	0	0	4	9	1	3	0	3	1	7	6.0	20	5	5	4	1	0	1	4	Four young adventurers set out into the sunset, seeking treasure lost for years within the dense forest they wandered, their whispers echoing through the rustling leaves as they searched for the forgotten riches .	4
+16	0	2	0	0	0	3	4	1	0	0	3	0	3	4.0	5	2	2	1	1	0	1	1	Four friends stood around the lake, gazing at the clouds, enjoying the sunshine.	4

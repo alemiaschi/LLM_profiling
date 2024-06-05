@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred loudly.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+11	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The big red car sped down the winding mountain road. 	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	0	0	2.0	0	8	The monkey clings to the tree limb with a furious grip.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumped over the lazy cat.	0
+9	0	0	1	0	0	2	0	2	0	1	0	0	3	0	1	1	0	2.0	0	3	The big brown bear ate a pink rabbit.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The stars shone brilliant in the midnight sky.	0
+11	0	0	2	1	0	2	0	2	0	2	0	0	2	0	1	0	0	2.0	0	6	A shining sun rose over the vast, unobstructed ocean.	0
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She quickly ate the sandwich.	0
+10	0	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	4	"The big orange dog chased the small red ball. (Note: The word ""the"" is a determinant, so this response does not meet the requirement of having only one sentence and no determiners.)"	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The car sped away from the traffic light. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The orange sun set in the distance.	0
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred quietly on my shoulder	0
+15	0	0	1	1	0	3	0	3	0	1	0	0	6	0	1	1	0	2.0	0	8	The big fierce brown bear chased the tiny blue jay across the green savannah.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly in the sky.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	3	"The big red car sped down the highway. (Please make sure to use only determiners ""big"" and ""red"" in constructing your sentence. Please also note that your sentence must only contain one determinative item, i.e. ""big"".)"	0
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	Without any qualifiers, the fluffy cat purred contentedly.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my knee.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The cat sat in silence.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The car drove quickly through the night.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The dog chased the cat rapidly.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The beach sun sparkled.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sat silently in the sun.	0
+9	0	0	0	1	0	2	0	1	0	1	0	0	4	0	1	0	0	2.0	0	4	A bright blue sun peered over tall green waves	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	1	0	3.0	0	3	A towering inferno of sand devoured the tiny island.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The beach sand glowed under the moonlight.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+15	1	0	2	2	0	4	0	3	0	1	0	0	2	0	1	0	0	2.0	0	5	In the dark night, a single shadow glided silently beneath the crescent moon.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog chased the cat with excitement.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly over the mountain	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car purred down the street.	0
+11	1	0	2	0	1	3	1	1	0	2	0	0	0	0	2	0	0	3.0	0	7	It snowed yesterday, but today the sun shone brightly.	0
+11	0	0	2	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	6	The sun was setting over the vast, empty beach.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Steve's lap.	0
+7	1	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The elephant silently trumpeted its discontent.	0
+9	0	0	1	2	0	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	3	The dog purred in front of its master.	0
+9	0	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	3	The quick brown fox jumps over lazy dogs.	0
+22	1	1	3	3	0	4	3	3	0	3	0	0	1	2	3	1	0	5.0	2	6	Without hesitation, she embraced the adventure fully, the wind whipping through her hair as she soared into the unknown.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car sped down the mountain.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The mouse scampered up the wall.	0
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog chased its tail with excitement.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The rain danced down the roof.	0
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	The cat chased its tail with gleeful intensity.	0
+11	0	0	2	1	0	4	1	2	0	1	0	0	0	0	1	1	0	2.0	0	4	Every day, the dog wags its tail with excitement.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the southeast.	0
+11	1	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	7	The dog ran swiftly across the vast, sun-scorched desert.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The monkey clung nervously to the narrow branch.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred in the box.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The delicious cupcake sat atop the sparkling cup.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the windowsill.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The old man walked down the dark alley.	1
+7	0	0	1	0	0	2	0	2	0	1	0	1	0	0	1	1	0	2.0	0	2	The corgi was eating a treat.	1
+10	0	0	1	1	0	2	0	1	0	1	1	1	2	0	1	0	0	2.0	0	4	Four large dogs are barking in the quiet forest.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept on the bed.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	A tiger leapt gracefully through the trees.	1
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	A bright, white light emanated from the mysterious box. (1 determiner)	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept on the couch.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	1
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the cat.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	One dog chased after the cat.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The big car drove quickly down the highway.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the windowsill.	1
+3	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sat	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The cat is on the table.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the cat.	1
+8	1	0	1	0	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	4	I always eat a sandwich every day.	1
+11	0	0	1	1	0	4	0	2	0	2	0	0	1	0	1	1	0	2.0	0	6	The beach umbrella provided scant shade from the blistering sun.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	1	0	2.0	0	5	The giant gorilla grasped the vine with powerful hands.	1
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	Four dogs chased the cat through the garden.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The big red car drove quickly down the hill.	1
+12	0	0	1	1	0	2	0	2	0	2	0	1	2	1	1	0	0	3.0	1	4	A delicious cookie waited on the counter ready to be devoured.	1
+8	1	0	1	1	0	1	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	A big red car pulled up outside. 	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The cat is on the mat.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred in the owner's lap.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the cat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept on the couch.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+8	0	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	The big dog chased the small cat.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The dog jumped quickly over the small stream.	1
+9	0	0	1	0	0	2	0	2	0	1	0	0	3	0	1	1	0	2.0	0	3	The big brown dog chased the small cat. (1 determiners)	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The horse raced down the track.	1
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat	1
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	6	I saw a cat by the tree yesterday.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased a ball down the street.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred in the sun.	1
+9	0	0	0	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The monkey climbed up the tall tree with excitement	1
+11	0	0	1	1	0	2	1	2	0	2	0	0	2	1	1	1	0	4.0	1	4	I saw a small orange cat sitting on the mat.	1
+11	0	0	1	0	0	2	2	2	0	1	0	1	2	1	2	1	0	3.0	1	5	This is a beautiful orange sunset that fills the sky.	1
+10	0	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	4	The big brown dog chased the little white cat.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The large car sped down the highway. 	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The puppy chased the butterfly through the garden.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred in the basket.	1
+15	0	0	1	1	2	3	0	3	0	1	0	0	4	0	1	0	0	3.0	0	6	Both the big blue boat and the numerous small fish swam in the ocean.	2
+11	0	0	1	1	0	3	0	2	0	1	1	1	1	0	1	1	0	3.0	0	5	The man on the corner is eating two large sandwiches.	2
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	6	The huge red car drove carefully through the busy small town.	2
+14	0	0	2	2	0	3	2	2	0	1	0	1	1	1	1	0	0	3.0	1	5	The cat is on the couch, beneath which there are many balls.	2
+10	0	0	1	1	0	2	1	1	0	1	1	0	2	0	1	1	0	3.0	0	4	I found two big blue buttons on the wall.	2
+11	0	0	1	1	0	3	0	2	0	1	1	0	2	0	1	1	0	3.0	0	4	The dog has three big red toys under the sofa.	2
+24	1	1	2	4	0	3	2	3	0	3	0	2	3	1	3	0	1	3.0	2	8	With a huge orange cat curled up on the big sofa, I knew that I would be in for a relaxing afternoon.	2
+9	0	0	1	0	0	2	0	2	0	1	1	0	2	0	1	1	0	2.0	0	5	The dog chased the two big brown rabbits.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The cat sat on the large soft blanket.	2
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	She ate two apples.	2
+13	1	0	1	0	0	3	0	2	0	1	0	0	4	0	1	1	0	3.0	0	6	The big black bear gently opened the small brown bee's hive.	2
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The dog runs quickly through the large park.	2
+7	1	0	1	0	0	1	0	1	0	1	0	0	2	0	1	0	0	2.0	0	3	The big brown bear roared loudly.	2
+9	0	0	1	1	0	2	0	2	0	0	0	1	2	0	1	0	0	2.0	0	6	The cat is in the big black hole.	2
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	The cat is sleeping under two blankets.	2
+15	0	0	1	3	0	4	0	3	0	1	1	0	2	0	1	0	0	4.0	0	5	The cat sat in front of the two fluffy pillows on the soft couch.	2
+10	0	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	4	The big brown bear climbed the tall red tree.	2
+17	1	0	1	2	2	4	1	3	0	1	0	0	2	0	1	0	0	3.0	0	5	The dog and his family ran quickly across the green park and through the blue forest.	2
+11	0	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	5	The big blue book belongs to the little red girl.	2
+11	0	0	3	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	7	The dog chased (both) cats down the street.	2
+14	1	0	1	0	2	2	0	2	0	1	0	1	4	0	1	0	0	3.0	0	7	Both the big red car and the small blue van are parked outside.	2
+11	0	0	1	1	0	3	0	2	0	1	1	0	2	0	1	1	0	2.0	0	7	The dog chased two big fluffy cats down the street.	2
+10	0	0	1	2	0	3	0	1	0	1	1	0	1	0	1	0	0	3.0	0	4	A cat sat on top of two fluffy pillows.	2
+14	1	0	2	1	0	3	0	2	0	1	0	0	4	0	1	0	0	2.0	0	7	A giant orange bear gently strode across the vast, lush forest landscape.	2
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The baby is sleeping in her blanket.	2
+11	0	0	1	1	1	2	2	1	1	1	0	0	1	0	1	1	0	4.0	0	4	She bought some books for Mary and her younger sister.	2
+10	0	0	1	1	0	3	0	3	0	1	1	0	0	0	1	1	0	2.0	0	6	The cat chased the two mice under the tree.	2
+16	0	0	1	3	1	5	0	5	0	1	0	0	0	0	1	1	0	3.0	0	9	The cat and the dog lapped up the milk from the saucer on the table.	2
+9	0	0	1	0	0	3	0	3	1	1	0	0	0	0	1	2	0	3.0	0	3	The dog chased _across_ the park the squirrel.	2
+8	0	0	5	1	1	0	0	1	0	0	0	0	0	0	0	0	0	2.0	0	4	" ""the"" and ""between"")"	2
+8	0	0	1	0	0	2	0	1	0	1	1	0	2	0	1	1	0	2.0	0	3	Two big dogs chased the tiny kitten.	2
+10	0	0	1	1	0	3	0	1	0	1	1	0	2	0	1	1	0	2.0	0	5	Two big dogs chased small children down the street. (determiner: big, small)	2
+23	0	1	1	1	2	6	1	3	1	2	0	1	3	1	2	1	0	4.0	1	7	The big green tree house in the backyard was a perfect place for Sarah and her friends to play hide and seek.	2
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	I have two dogs. (Note: The instruction specifically states to generate only one sentence, so I am only providing one sentence in response.)	2
+9	0	0	1	0	0	2	0	1	0	1	1	1	2	0	1	1	0	2.0	0	3	Two big dogs are chasing a little cat.	2
+10	0	0	1	1	0	3	0	2	0	1	1	0	1	0	1	1	0	2.0	0	6	The dog chased two fast cats down the street.	2
+14	1	0	1	2	2	2	1	2	0	1	0	0	2	0	1	0	0	4.0	0	5	Both the blue and big elephants in the forest roared loudly at us.	2
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The dog chased two rabbits.	2
+13	1	0	1	1	0	3	0	3	0	1	1	0	2	0	1	1	0	2.0	0	9	The dog chased the two fat cats quickly across the grassy field.	2
+17	0	0	1	3	0	4	0	4	0	2	1	1	1	1	1	0	0	5.0	1	5	The car is located in the front of the two blue cars parked on the street.	2
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The big brown horse galloped quickly down the hill.	2
+10	0	0	1	1	0	2	0	2	0	1	1	1	1	0	1	0	0	2.0	0	5	The cat is sleeping on the two soft cushions.	2
+12	0	0	1	1	0	4	0	2	0	1	1	0	2	0	1	1	0	2.0	0	8	The dog chased two little fluffy rabbits down the forest path.	2
+8	0	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	4	Twenty crows fly over a snowy forest.	2
+10	1	0	1	0	1	3	1	1	0	1	1	0	0	0	1	0	0	3.0	0	6	The boy and his brother two dogs played outside.	2
+10	0	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	4	The big brown bears hunted the little black bears.	2
+9	0	0	1	0	0	2	0	1	0	1	2	0	2	0	1	1	0	2.0	0	4	Two determined dogs chased the three fluffy squirrels.	2
+15	1	0	1	2	0	4	0	3	0	1	1	1	1	0	1	0	0	3.0	0	4	The two delicious doughnuts were sitting on the counter next to the coffee pot.	2
+8	1	0	0	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	4	The big dog chased the tall cat quickly	2
+10	0	0	1	1	0	2	0	2	0	1	1	1	1	0	1	0	0	2.0	0	5	The cat is sleeping on the two soft cushions.	2
+12	0	0	0	1	0	3	1	2	0	2	1	1	1	0	1	1	0	3.0	0	9	I'm eating four delicious fried doughnuts from the bakery this morning	4
+13	0	0	2	1	0	3	1	1	0	1	1	0	3	0	1	1	0	2.0	0	9	The teacher held four fat cats in her big, beautiful hands.	4
+16	0	0	2	2	0	4	0	1	0	1	2	0	4	0	1	0	0	3.0	0	6	Two delightful dogs snuggled beneath four large, fluffy pillows in the cozy living room.	4
+18	0	0	3	3	0	4	0	3	0	1	0	0	4	0	1	0	0	3.0	0	9	The cat curled up on the soft, fluffy, red cushion in the cozy living room.	4
+17	1	0	3	2	0	4	0	2	0	1	1	0	3	0	1	0	0	2.0	0	12	All three mice scurried across the tall, big, old oak tree quickly in unison.	4
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The giant blue whale swam gracefully through the abundant waters.	4
+10	0	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	4	The big brown doggy chased the little yellow ball. 	4
+13	1	0	1	0	0	2	1	2	0	1	0	3	1	0	3	0	1	3.0	1	11	All I can say is the dog's fluffiness is so endearing. 	4
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	8	The cat slept soundly on the soft comfortable white furry blanket.	4
+14	0	0	1	1	0	3	0	3	0	1	1	0	4	0	1	1	0	2.0	0	8	The big brown dog chased the four small black cats down the street.	4
+14	0	0	1	1	0	3	0	3	0	1	0	0	5	0	1	1	0	2.0	0	8	The big brown dog chased the giant golden cat up the tall trees.	4
+15	0	0	1	2	0	4	1	3	0	1	0	0	3	0	1	1	0	3.0	0	7	The tourists carried their heavy luggage on the long journey through the busy airport.	4
+15	1	0	2	1	0	3	0	2	0	1	1	0	4	0	1	1	0	2.0	0	7	The giant, furry elephant quietly snuffled four delicious donuts in the dark corner. 	4
+11	1	0	1	0	0	2	0	2	0	1	0	0	4	0	1	1	0	2.0	0	5	The big black bears climbed slowly the tall green trees.	4
+17	0	0	1	1	0	4	0	3	0	1	0	0	7	0	1	1	0	2.0	0	11	The huge brown dog chased the little small white cat across the immense grand parking lot.	4
+23	0	0	2	4	0	6	0	5	0	2	0	1	3	1	1	1	0	5.0	1	7	The baby was held in the parents loving arms under the soft, green tree outside the cottage on the sunny day.	4
+11	1	0	1	2	0	3	1	2	0	1	0	0	0	0	1	0	0	3.0	0	4	Every cat in the house purrs loudly on my lap. (One determiners are: every, cat, house, lap)	4
+11	0	0	1	2	0	3	1	2	0	1	0	1	0	0	1	1	0	3.0	0	5	All of them were eating breakfast in the dining room. 	4
+10	0	0	1	0	0	2	0	1	0	1	0	0	5	0	1	1	0	2.0	0	4	The big brown bag contained many little white books.	4
+18	0	0	1	2	0	3	0	3	0	1	0	1	7	0	1	0	0	3.0	0	5	The delicious big juicy steak was devoured by the voracious excited mouths of the ravenous hungry group.	4
+12	0	0	1	1	0	3	1	0	0	1	1	0	4	0	1	1	0	2.0	0	6	Four big brown bears explored their beautiful blue bog in excitement.	4
+13	0	0	1	1	0	4	0	1	0	1	0	0	5	0	1	1	0	3.0	0	4	The hotel room had many large comfortable beds with many fresh towels.	4
+25	0	0	8	1	2	3	0	2	0	1	0	0	8	0	1	0	0	4.0	0	13	A massive, majestic, mature, and mighty tiger roared through the mysterious, misty, moisture-rich, and magnificent forest.	4
+16	1	0	1	2	0	4	0	3	0	1	0	0	3	0	1	0	0	4.0	0	7	The cat purred loudly on the soft cushion beside the old man's comfortable armchair.	4
+13	0	0	4	0	1	1	0	1	0	0	0	1	5	0	1	0	0	4.0	0	9	The big, red, juicy, and succulent strawberry was delicious.	4
+12	0	0	3	0	1	1	1	0	0	1	1	0	4	0	0	0	0	4.0	0	10	There are four large, beautiful, soft, and expensive pillows	4
+11	0	0	1	1	0	2	0	1	0	1	1	0	4	0	1	0	0	2.0	0	5	Four big brown bears fed in the bright blue bog.	4
+8	0	0	1	0	0	2	0	1	0	1	1	0	2	0	1	1	0	2.0	0	4	The dog chased four big brown cats.	4
+14	0	0	1	2	1	4	0	4	0	2	0	0	0	0	1	1	0	3.0	0	5	The cat sat on the mat and ate the rat by the fire.	4
+10	1	0	1	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	6	The cat purred contentedly on my soft warm blanket.	4
+11	1	0	1	1	0	3	0	1	0	1	1	0	2	0	1	0	0	2.0	0	6	Forty fresh fish floated fruitlessly upon the foamy ocean surface.	4
+11	0	0	2	1	0	2	0	1	0	1	1	0	3	0	1	0	0	2.0	0	6	Four juicy fries crunched beneath the stained, green blanket.	4
+7	0	0	1	0	0	1	1	0	0	1	1	0	2	0	1	1	0	2.0	0	5	I own three large, golden dogs	4
+23	0	0	2	2	1	6	0	2	0	2	4	0	4	1	1	1	0	5.0	1	10	The hotel had four luxurious rooms with four soft, fluffy beds and four designer dresses hanging in the four big closets.	4
+17	1	0	3	2	0	3	0	3	0	1	0	0	4	0	1	0	0	3.0	0	9	The dog ran quickly through the large, quiet, open field behind the sandy beach.	4
+15	0	0	2	2	0	4	1	2	0	1	1	0	2	0	1	0	0	2.0	0	11	The cat slept on its three furry cushions, beside a soft toy mouse.	4
+13	0	0	1	2	0	3	0	2	0	2	1	0	2	1	1	0	0	4.0	1	4	The cat sat on the soft cushion surrounded by four fluffy toys.	4
+14	1	0	1	2	0	3	0	3	0	1	0	1	2	0	1	0	0	3.0	0	5	The book is located on the highest shelf next to the red book.	4
+18	0	0	2	2	0	4	1	2	0	2	0	0	4	1	1	1	0	4.0	1	8	The giant elephant tramped through the dense forest with determination, eager to find its hidden nest.	4
+12	1	0	1	2	0	3	0	1	0	2	1	0	1	0	1	0	1	4.0	1	5	Four delicious donuts filled with chocolate delightedly dripped from the counter. (1 sentence)	4
+23	0	0	0	4	0	7	0	5	0	1	0	1	5	0	1	1	0	4.0	0	9	The manager of the hotel is holding a meeting in the large luxurious suite with many valuable objects on the grand oak furniture	4
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	0	2.0	0	4	The cat is sleeping on four fluffy cushions.	4
+16	0	0	1	2	0	3	3	2	0	1	0	2	2	1	2	0	0	3.0	1	6	The baby was in the big blue blanket that her mother had made for her.	4
+13	0	0	1	1	0	2	2	2	0	2	0	1	2	0	2	1	1	3.0	1	5	The dog that was chasing us ran under the big old tree.	4
+10	1	0	1	1	0	2	0	1	0	1	1	0	2	0	1	0	0	3.0	0	6	The dog ran around excitedly four big brown trees.	4
+14	0	0	1	1	0	3	0	3	0	1	1	0	4	0	1	1	0	2.0	0	8	The big brown dog chased the four fat green cats down the street.	4
+31	1	0	1	8	0	9	0	9	0	1	0	1	1	0	1	0	0	5.0	0	16	The book is located on the desk in the corner of the room beside the chair with the red cushion next to the window with a view of the park.	4
+10	0	0	1	1	0	3	0	2	0	1	1	0	1	0	1	1	0	2.0	0	6	The cat chased four mice through the dark forest.	4
+13	0	0	1	2	0	3	0	4	0	1	0	1	1	0	1	0	0	3.0	0	5	All the cats in the house were sleeping on every comfy cushion.	4
+23	0	0	3	3	2	4	1	3	1	2	1	2	1	1	1	1	0	4.0	1	14	The delicious cake has seven candles, is on the table in the kitchen, and is eaten by Sarah and me.	4
+14	1	0	1	0	0	2	1	2	0	2	2	1	1	2	2	1	0	4.0	2	4	I'm happy to see the five puppies chasing the six ducks outside.	6
+8	0	0	1	0	0	3	0	1	0	1	1	0	1	0	1	2	0	2.0	0	4	The manager gave six employees extra work.	6
+29	0	0	0	7	1	8	1	7	2	2	0	0	1	0	1	1	0	5.0	0	15	I went to the store by the bus stop on the corner of Elm Street and found the best deal on eggs among all the supermarkets in the neighborhood	6
+22	1	0	2	3	0	5	1	2	0	2	1	0	5	1	1	1	0	5.0	1	6	Inside the large red house, she discovered a collection of intricate dust mites nestled neatly within six cozy little beds.	6
+11	0	0	1	1	0	3	0	2	0	1	1	0	2	0	1	1	0	2.0	0	7	The dog chased six excited determers across the green meadow.	6
+25	0	0	19	1	0	3	0	1	0	0	0	0	1	0	0	0	0	2.0	0	20	" ""the"", ""cat"", ""mat"", ""in"", ""front"", ""table"".)"	6
+13	0	0	2	1	0	3	0	2	0	1	2	0	2	0	1	1	0	2.0	0	9	Six dogs chased the three ducks across the large, empty park.	6
+25	0	0	18	0	1	1	0	0	0	0	0	0	5	0	0	0	0	2.0	0	21	" ""big"", ""blue"", ""beautiful"", ""boat"", ""calm"", and ""yellow"")"	6
+13	0	0	2	1	0	3	0	2	0	1	1	0	3	0	1	1	0	2.0	0	5	In the big house, the old man had six small dogs.	6
+15	2	0	0	1	0	4	2	1	0	2	1	0	2	1	2	2	0	4.0	1	4	The delicious chocolate cake tempted six happy children who eagerly devoured it swiftly with delight	6
+10	1	0	1	1	0	2	0	0	1	1	1	0	1	0	1	0	0	3.0	0	5	Six fluffy kittens purred contentedly on John's lap.	6
+19	1	0	1	2	1	3	1	1	0	1	1	1	6	0	1	0	0	4.0	0	10	Five big bold but beautiful books are sitting on my beautifully busy bookshelf beside the big bold bed.	6
+10	1	0	5	0	0	2	0	0	0	0	0	0	2	0	0	0	0	1.0	0	8	 big, brown, dog, tail, excitedly)	6
+11	0	0	1	2	0	3	0	2	0	1	1	0	1	0	1	0	0	3.0	0	4	The manager of the store walked into six tall customers.	6
+18	0	0	6	1	0	2	0	1	0	1	1	0	6	0	1	0	0	2.0	0	14	The cat sat on six large, soft, brown, fluffy, white, furry pillows.	6
+25	0	1	1	4	0	8	0	4	0	2	2	0	3	1	1	2	0	4.0	1	14	The manager inspected six shelves in the store for the fresh new stock of boxes before ordering five big containers from the distributing center.	6
+10	1	0	1	0	0	3	0	1	0	2	1	0	1	1	1	1	0	3.0	1	4	Six caterpillars crept carefully cross the crunchy crackling concrete.	6
+24	1	0	1	4	0	8	1	2	0	1	1	0	5	0	1	0	0	4.0	0	12	The enormous baby elephant danced joyfully on the extensive white beach with six enormous ice cream cones in front of its giganic eyes.	6
+6	0	0	3	0	0	0	0	2	0	0	1	0	0	0	0	0	0	1.0	0	4	 each, six, the)	6
+33	1	0	1	5	1	8	2	6	0	3	3	1	2	2	2	2	0	8.0	2	10	All those people in the park looked at that one dog playing catch with three of its six brothers who all had different colors of fur but were otherwise the same breed. 	6
+15	0	0	1	2	0	4	0	2	0	1	3	0	2	0	1	1	0	3.0	0	8	Eight delightful dogs chased the seven energetic squirrels up the three flights of stairs.	6
+11	1	0	1	1	0	3	1	1	0	1	0	0	1	0	1	0	0	3.0	0	7	The cat purred loudly on my mother's soft lap.	6
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat curled around the fluffy pillow.	6
+21	2	0	1	5	0	6	0	6	0	0	0	1	0	0	1	0	0	5.0	0	4	This book is on the table in the corner near the window next to the lamp next to the bookshelf.	6
+20	0	0	1	3	1	5	0	4	0	1	1	1	3	0	1	0	0	3.0	0	11	The cat is sleeping on the softest blanket in the biggest bedroom with six pillows and a bright windowsill.	6
+11	1	0	0	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The big black beautiful baby boy bloated blissfully beneath the blanket	6
+31	1	0	1	6	0	8	1	7	0	2	0	0	5	1	2	1	0	6.0	1	13	The cat curled up in the corner of the soft fluffy cushion upon the comfortable armchair in the cozy sitting room next to the window that overlooked the green garden.	6
+20	1	0	15	0	0	0	0	1	0	0	0	0	3	0	0	0	0	2.0	0	8	" ""the,"" ""quickly,"" ""busy,"" ""large,"" ""brown"")"	6
+12	0	0	6	0	0	2	1	0	0	1	0	0	2	1	0	0	0	2.0	1	10	 own, many, cars, my, father, purchased)	6
+32	3	0	1	5	0	7	0	6	0	3	2	0	4	2	1	1	0	5.0	2	14	Even those six delightful detectives determined dynamically to devour a dozen delectable donuts delivered deliberately at dawn on a dazzling day in a delightful dump at the dawn of the decade.	6
+18	1	0	1	2	0	6	0	4	0	1	1	0	2	0	1	1	0	3.0	0	8	The hotel manager proudly displayed the room keys to the eight excited travelers in the spacious lobby.	6
+17	1	0	5	1	0	2	1	1	0	1	0	0	5	0	1	0	0	2.0	0	13	The cat purred contentedly on my soft, warm, fluffy, big, red armchair.	6
+29	0	0	6	6	1	7	0	6	0	0	1	1	1	1	0	0	0	3.0	1	16	Underneath the tree, on the table, beside the lamp, inside the box, among the toys, and between the bookshelves are six golden coins.	6
+29	2	0	3	3	0	6	2	2	0	3	0	0	8	2	2	1	0	5.0	2	11	The monkey swung gracefully through the dense forest canopy with its plentiful bananas clutched tightly in several large, lustrous, leathery pockets surrounding its small, slender frame	6
+56	1	0	8	9	2	12	1	9	0	4	0	0	10	1	2	1	1	7.0	2	42	In front of the beautiful ocean, on the vast white sandy beach, beneath the sparkling blue sky, between the lofty palm trees, with the cool salty breeze blowing, and beneath the warm shade of the umbrella, I lie and relax completely, savoring the tranquility of the seaside getaway.	6
+11	0	0	1	0	0	2	0	2	0	1	1	0	4	0	1	1	0	2.0	0	5	The big brown dog chased the three little white mice.	6
+11	0	0	0	1	0	3	0	1	0	1	1	1	3	0	1	0	0	2.0	0	7	The book is located underneath sixteen big green determined pine trees	6
+24	0	0	18	1	0	1	0	1	0	1	1	0	1	0	1	0	0	2.0	0	8	" ""the"", ""cat"", ""sat"", ""on"", ""six"", ""fluffy"")"	6
+32	1	0	2	6	0	7	1	4	0	1	4	1	5	1	2	0	0	4.0	1	26	Thousandths of lucky thieves crept through the five unlocked doors of the four empty houses in the three small towns at two o'clock in the morning, when everyone was asleep.	6
+14	0	0	1	1	0	4	0	3	0	1	1	0	3	0	1	1	0	2.0	0	10	The dog chased the six big brown elephants across the green grass field.	6
+27	0	0	1	7	0	8	0	7	0	0	0	1	3	0	2	0	0	3.0	0	12	The cat is on the top of the book beside the tree with the red hat in front of the yellow door in the green meadow.	6
+24	0	0	1	4	0	5	0	4	0	2	0	1	7	1	1	0	0	5.0	1	10	The cat is sleeping on the soft comfortable cushion beneath the big green tree with many small birds chirping in the sunny backyard.	6
+16	1	0	1	2	0	4	0	3	0	1	1	0	3	0	1	0	0	2.0	0	11	The cat purred in the tall brown box with the five shiny silver toys inside.	6
+14	0	0	1	2	0	4	0	3	0	1	0	1	2	0	1	0	0	3.0	0	4	The delicious cookies were located on the top shelf of the kitchen counter.	6
+15	0	0	2	1	0	3	1	1	0	1	2	0	4	0	1	1	0	2.0	0	10	Six fluffy kittens hugged their seven lazy cats beneath the tall, green treetops.	6
+12	0	0	6	0	0	2	0	0	0	0	0	0	4	0	0	0	0	1.0	0	10	 big, brown, dog, small, black, fields)	6
+11	1	0	1	1	0	2	1	1	0	2	1	0	1	1	0	0	0	4.0	1	5	There are seven dogs barking loudly on the front steps.	6
+18	2	0	1	3	0	4	2	3	0	2	0	0	1	1	2	0	0	4.0	1	8	The cat purred contentedly on my lap with this new toy I just purchased from the store. (Note: This response meets the requirements stated in the instruction, generating one sentence with 6 determiners.)	6
+25	0	0	4	3	1	5	0	3	0	2	0	0	7	1	1	0	0	5.0	1	9	A large, juicy, sweet, and flavorful watermelon sat on a table surrounded by several happy customers underneath a shady beach umbrella. 	6
+8	0	0	1	1	0	2	2	0	0	1	1	0	0	0	1	1	0	3.0	0	3	I have six apples in my bag.	6

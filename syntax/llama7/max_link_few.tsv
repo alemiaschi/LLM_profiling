@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_link_constraint
+6	1	0	0	0	0	0	3	0	0	0	1	0	1	2.0	3	1	1	0	0	0	SMALL GIRL BORN LABOR DAY.	2
+8	0	1	0	0	0	1	0	0	0	3	1	0	2	3.0	6	1	1	0	1	0	Flying Lessons for Babies Starting This Saturday!	2
+10	2	1	1	0	0	1	3	0	1	0	0	0	1	3.0	5	0	0	1	1	0	My favorite pizza joint serves up the most divine slice	2
+8	2	0	1	0	0	0	3	0	0	0	1	0	1	2.0	3	0	0	1	0	0	BEST BLUE RIBBON FIDDLER EVER PERFORMS TONIGHT!!!	2
+7	1	2	0	0	0	0	2	0	0	0	0	0	2	3.0	3	0	0	0	1	0	BREWED FIRST CUP RAN Out Of INK 	2
+7	2	1	0	0	0	0	2	0	0	0	1	0	1	2.0	5	0	0	0	0	0	CALL FOR IMMEDIATE REGISTRATION AVAILABLE SPACES.	2
+12	0	2	1	0	0	3	3	0	0	0	1	0	2	4.0	4	1	1	1	0	0	The cat curled into a ball sleeped soundly on the windowsill.	2
+3	0	0	0	0	0	0	1	0	0	0	2	0	0	0.0	0	0	0	0	0	0	SLEEEEEP!!!! 😴	2
+5	0	0	0	1	0	0	2	0	1	0	0	0	1	2.0	2	0	0	1	1	0	We are enjoying winter festival	2
+11	2	2	0	0	0	2	2	0	1	1	1	0	0	3.0	5	0	0	0	0	0	Happy Birthday to You the Best Grandma in the World!!!	2
+9	0	0	2	0	0	0	1	0	3	0	1	0	2	2.0	4	1	1	2	1	0	My cat purrs loudly whenever I pet it.	2
+8	2	2	0	1	0	0	3	0	0	0	0	0	0	3.0	3	0	0	1	0	0	BORROWED SILVERware MAY Cause Pennies In Poor Areas	2
+15	1	0	2	1	0	1	2	0	2	0	1	2	3	4.0	4	2	2	2	1	0	The moon is shining brightly in   I look forward to reading your next response. Please continue with new sentences. 	2
+10	0	1	1	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The cat chased the mouse up the tree quickly.	2
+5	0	1	1	0	0	0	0	0	0	1	1	0	1	2.0	3	0	0	0	0	0	Run for President ASAP!!!	2
+10	2	2	1	0	0	0	3	0	0	1	1	0	0	2.0	6	0	0	0	0	0	BEST LUXURY HOTELS IN PARIS AVAILABLE FOR BOOKING NOW!!!	2
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred loudly on my lap.	2
+5	1	0	0	0	0	0	0	0	1	1	1	0	1	2.0	2	0	0	1	1	0	I Want Faster Horse.	2
+6	0	0	2	0	0	0	1	0	0	0	1	0	2	3.0	1	0	0	1	0	0	Happily married life lasts forever!!!	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	A cat sat on a mat.	2
+10	0	0	0	0	0	1	5	0	1	0	0	0	2	4.0	6	1	1	1	1	0	I WANT TO TRY THE TENDERSTEEK FLAMEGRILL BBQ SPICED Wagyu   Let me know if you want to generate another sentence. 	2
+9	2	0	2	0	0	1	2	0	0	0	1	0	1	2.0	5	0	0	1	1	0	FANTASTIC TACOS FOUND JUST A FEW BLOCKS AWAY!	2
+9	2	2	0	0	0	0	2	0	1	0	1	0	1	3.0	3	1	1	0	0	0	BEST VEGAN RESTAURANT IN TOWN WAITING FOR YOU!!!	2
+9	1	1	2	0	0	1	3	0	0	0	1	0	0	2.0	4	0	0	0	0	0	The most fabulous candy shop for miles around.	2
+9	2	0	1	1	0	1	3	0	0	0	1	0	0	2.0	4	0	0	1	0	0	The wait staff was professional BEST VACATION EVER!!!!	2
+10	1	0	1	2	0	1	0	0	1	1	1	0	1	4.0	3	1	1	2	0	0	You Won't Believe How Great The Beach Was. 	2
+8	1	0	1	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	Fortunately I Found the Perfect Answer Key.	2
+10	1	1	2	0	0	1	2	1	0	0	1	0	1	3.0	3	1	1	0	0	0	BEST SIX PACK EVER ACTIVELY HIDING IN THE SHOWER!!!	2
+11	3	0	1	0	0	0	4	0	1	0	1	0	1	4.0	4	1	1	0	1	0	HAPPY BIRTHDAY DEAR WIFE FINALLY GETTING HER PERFECT DIAMOND RING!	2
+5	2	0	0	0	0	0	2	0	0	0	1	0	0	1.0	2	0	0	0	0	0	BEST ITALIAN RESTAURANT LIVE.	2
+11	2	0	0	1	0	1	3	0	1	0	1	0	2	3.0	4	1	0	1	2	1	The biggest challenge facing millennials is managing their online reputation.	2
+7	0	1	0	0	0	0	1	0	1	0	1	0	2	3.0	2	1	1	1	0	0	I LOVE TO WALK ON BEACHES.	2
+4	2	0	0	0	0	0	1	0	0	0	0	0	1	1.0	2	1	1	0	0	0	FABULOUS ITALIAN RESTAURANT FOUND	2
+6	1	0	1	0	0	0	3	0	0	0	1	0	0	2.0	3	0	0	0	0	0	FANTASTIC MEMORIAL DAY PARADE AHEAD!!!	2
+6	1	0	0	0	0	0	1	0	0	2	1	0	1	2.0	2	0	0	1	0	0	WONDERFUL CHRISTMAS PRESENTS ARRIVED TODAY!	2
+7	2	0	1	0	0	1	2	0	0	0	1	0	0	1.0	4	0	0	0	0	0	The best French dessert restaurant ever. Please let me know if you need further help.	2
+6	2	1	0	0	0	0	2	0	0	0	1	0	0	2.0	2	0	0	0	0	0	Best Vietnamese Restaurant in Town!!!	2
+7	0	1	0	0	0	2	2	0	0	1	1	0	0	2.0	3	0	0	0	0	0	The Cat Sat On The Mat.	2
+8	1	0	0	1	0	0	3	0	1	0	1	0	0	3.0	3	0	0	1	0	0	My wife's birthday party was AMAZING!!!	2
+4	0	0	0	0	0	1	2	0	0	1	0	0	0	3.0	1	0	0	0	0	0	The Cat Purred Immodestly	2
+6	1	1	0	0	0	1	1	0	0	1	0	0	1	2.0	3	1	1	0	0	0	A HUGE Mouthful OF Jellybeans STOLE The Show	2
+7	1	0	1	1	0	1	2	0	0	0	1	0	0	1.0	4	0	0	1	0	0	SUNSET IS THE BEST SEASON EVER!!!	2
+10	1	1	1	0	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	The Cat Chose Mouse As Her Best Friend Ever!!!	2
+10	0	0	1	0	0	0	1	0	3	0	1	0	3	4.0	3	2	2	2	1	0	Honestly, I Think You Need To Get Your Dog	2
+5	2	1	0	0	0	0	1	0	0	1	0	0	0	2.0	2	0	0	0	0	0	Best English Tutor in London	2
+6	0	0	0	1	0	0	1	1	2	0	0	0	1	2.0	3	0	0	1	1	0	I will marry you one day	2
+4	1	0	1	0	0	0	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	BEST VACATION EVER!!!	2
+4	1	0	1	0	0	0	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	BEST RESTAURANT EVER!!  I hope this helps! Please let me know if you have any questions or need further assistance.	2
+5	2	0	1	0	0	0	1	0	0	0	1	0	0	1.0	2	0	0	0	0	0	Best Italian Restaurant EVERRRR! 	2
+6	2	0	0	0	0	0	0	0	0	2	1	0	1	2.0	3	1	1	0	0	0	Fabulous Fijian Fungi Festival Featured.	2
+11	3	2	0	0	0	2	3	0	0	0	0	0	1	2.0	8	0	0	1	0	0	The baby laughed at the silly clown for several minutes nonstop	6
+11	0	1	1	0	0	3	3	1	0	0	1	0	1	2.0	7	0	0	1	1	0	The cat chased away the one mouse in the house.	6
+13	3	0	0	0	1	1	2	1	0	1	1	1	2	4.0	8	1	1	1	2	0	John ate three juicy and long pink sandwiches before leaving the room.	6
+10	0	0	0	2	0	1	3	1	0	0	1	0	0	3.0	5	0	0	1	0	0	One man's sacrifice may be another's folly.	6
+13	4	1	0	1	1	1	3	0	1	0	1	0	0	3.0	4	0	0	1	0	0	She's a tall woman with long red hair and green eyes.	6
+13	1	1	0	0	0	1	2	3	2	0	2	0	1	4.0	5	0	0	1	2	0	(1) She gave me a bag of one hundred red pens.	6
+13	0	0	0	2	0	1	2	2	0	0	3	0	2	3.0	5	1	1	1	1	0	(5) One may be compelled to attend an association meeting.	6
+9	0	1	0	0	0	1	2	1	1	0	0	0	2	4.0	3	1	1	1	1	0	She has not one friend invited to the party	6
+9	0	2	1	0	0	1	2	0	1	0	1	0	1	2.0	6	0	0	1	0	0	She walked alone across the desert at night. (6 words)	6
+12	0	1	1	0	0	2	3	0	1	0	2	0	2	3.0	8	0	0	2	0	0	The baby swung high in the air, its diaper exposed.	6
+11	0	1	1	0	0	3	2	0	0	0	1	0	2	3.0	6	1	1	1	1	0	The teacher encouraged all of the students to sing loudly.	6
+7	1	1	0	1	0	1	2	0	1	0	0	0	0	2.0	3	0	0	1	0	0	My cat is asleep on the windowsill	6
+13	1	2	1	0	0	1	3	2	0	0	1	0	2	4.0	6	1	0	1	0	1	One cat chased by two dogs rapidly fled down a lonesome alley.	6
+14	0	2	0	0	0	2	4	1	1	0	1	1	2	3.0	7	1	1	1	1	0	The hotel staff apologized to one of our colleagues for overbooking the room. 	6
+9	0	1	0	0	0	0	3	1	1	1	1	0	1	3.0	4	0	0	1	1	0	John has four apples in his school bag. 	6
+12	1	2	0	0	0	2	3	1	1	0	1	0	1	2.0	9	0	0	1	1	0	I want two red pens from the box under the counter.	6
+7	0	1	0	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	Her smile lights up a room.	6
+9	0	0	0	0	1	1	3	2	0	0	1	0	1	3.0	3	0	0	1	1	0	The dog chased one cat and two dogs.	6
+11	1	1	0	0	1	2	3	0	0	0	1	0	2	3.0	4	0	0	1	1	0	The rain poured down and flooded the nearby river basin.	6
+12	1	1	0	3	0	1	2	0	2	0	1	0	1	3.0	3	1	1	2	0	0	All animals must be respected for their dignity which is inherent.	6
+14	0	2	0	0	0	3	3	0	1	0	1	1	3	4.0	3	2	2	2	0	0	The cat purred as it rubbed against the leg of the person sitting. (6 words)	6
+12	2	1	0	0	0	0	3	3	1	0	1	0	1	3.0	9	0	0	1	1	0	She gave one hundred euro to five different charities last year. (6 words)	6
+10	2	0	0	1	0	1	2	0	1	0	0	1	2	2.0	5	1	1	2	1	0	The baby will require more diapers as it grows larger	6
+11	0	0	0	0	1	0	3	3	1	0	2	0	1	3.0	6	0	0	1	1	0	She has one cat, two dogs and three birds. (6 words)	6
+10	0	2	0	2	0	1	2	0	0	2	0	0	1	3.0	4	0	0	1	0	0	Jesus Christ has been reinstated as head of the church	6
+8	1	0	1	0	0	1	2	0	1	0	0	0	2	4.0	3	1	1	1	2	0	I see a large eagle soaring silently overhead	6
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	The cat purred loudly on John's lap.	6
+14	0	2	0	0	1	1	3	0	3	0	1	0	3	4.0	5	1	1	1	1	0	I walked into my kitchen and saw a cat napping on my table. (6 words)	6
+16	1	2	1	0	0	2	4	0	2	0	2	0	2	3.0	7	1	1	1	1	0	The lion slowly made its way through the jungle, hunting for its next victim.	6
+15	1	0	0	0	1	1	4	2	1	0	2	0	2	4.0	9	0	0	2	2	0	They built one house, and the architect's assistant drew one blue line. (1 sentence)	6
+10	0	1	0	0	0	1	5	0	1	0	0	0	2	4.0	2	1	1	1	0	0	Law enforcement officials say there are no grounds for suspicion	6
+15	1	2	0	1	0	2	2	2	1	1	2	0	1	4.0	4	1	1	2	0	0	(1) John is the oldest of the eight boys who remain in school. (7 words)	6
+11	0	1	0	0	0	2	3	1	2	0	0	0	2	4.0	5	1	1	2	1	0	She has one cat that sleeps at the window all day	6
+9	0	0	0	0	0	0	1	0	3	0	1	0	3	4.0	2	2	2	1	2	0	They offered to help him paint his house.	6
+12	0	1	0	1	1	1	3	2	0	1	1	0	1	3.0	8	0	0	1	1	0	John will bring one cake and four pies to the party.	6
+12	0	1	1	0	0	2	3	0	1	0	1	1	2	3.0	4	1	1	2	0	0	The cat purred loudly as it sat on the window seat.	6
+11	1	2	0	1	0	2	2	1	1	0	1	0	0	3.0	4	0	0	1	0	0	She is one of the top agents in the agency.	6
+10	1	1	0	0	0	2	2	0	0	0	1	1	2	2.0	6	1	1	1	0	0	The baby laughed for a whole minute without stopping.	6
+13	0	2	2	0	0	2	1	1	2	0	1	0	2	4.0	4	1	1	2	0	0	He never spoke to the woman who lived at no 7 again.	6
+13	1	0	1	2	0	2	2	0	1	0	0	0	3	4.0	4	2	2	2	1	0	The cat was seen to eat the largest mouse it had ever killed	6
+11	1	0	1	1	1	1	2	0	2	0	1	0	1	2.0	7	0	0	2	1	0	The tourists lost their money and now they are alone.	6
+13	0	0	0	0	2	2	3	0	0	2	0	0	3	3.0	5	1	1	1	3	0	The manager told John and Alice to visit every branch and gather information	6
+10	0	1	0	1	0	1	2	0	3	0	0	1	1	2.0	8	1	1	2	1	0	They elected her to office because she was a woman	6
+11	0	1	0	2	0	0	3	1	2	0	1	0	1	2.0	5	0	0	1	1	0	Her grandchildren have been visiting their one brother since summer.	6
+12	1	0	0	1	0	0	1	0	5	0	1	1	2	2.0	6	1	1	2	4	0	I will give you more money if you lend me yours.	6
+15	1	0	0	0	1	1	3	2	0	1	4	0	1	3.0	7	0	0	1	1	0	(1) John has a pet snake and (2) one yellow girl.	6
+13	0	2	0	0	1	1	2	0	3	0	2	0	2	3.0	8	0	0	2	0	0	She walked into the house, and her children ran towards her. 	6
+12	0	1	1	0	0	2	2	0	0	1	0	1	3	4.0	4	2	2	2	0	0	The teacher explained that Sarah had to work alone on the assignment	6
+11	1	1	0	1	0	2	2	0	2	0	1	0	1	3.0	4	1	1	2	0	0	She was the only woman who remained in the building. (6 words)	6
+10	2	1	0	0	0	0	2	1	2	0	1	0	1	2.0	7	0	0	1	1	0	She held one small cat against her chest tighter.	6
+49	7	8	1	2	2	7	14	0	1	0	4	0	3	7.0	33	2	0	2	1	2	The intriguing discovery of the mysterious, forgotten underwater cave system hidden beneath the turquoise waters of the ocean, which was once utilized by the prehistoric humans for transportation and ceremonial purpose, has piqued the curiosity of marine biologists and adventure seekers from around the world.	9
+37	3	6	0	0	2	3	10	0	2	1	5	0	4	5.0	12	2	2	2	1	0	Miguel's grandmother, a master of Cuban cooking, created a culinary tradition that continued beyond her own life, and endured through the decades, passing with rituals and recipes, from generation to generation	9
+31	2	4	4	0	0	7	6	0	1	0	4	0	3	5.0	12	3	2	2	0	1	The longer I stayed at that restaurant,  the more intricate the flavor layers of the pasta evolved, becoming more addictive than any drug, even as a hangover.	9
+23	2	3	1	0	0	2	5	0	1	0	3	0	5	5.0	8	2	2	1	1	0	Beneath its calm surface, a raging river of unresolved grief flowed, waiting to sweep away any chance of lasting peace.	9
+16	0	1	1	1	0	1	2	0	1	1	3	0	4	3.0	8	2	1	2	1	1	Running to the store, I forgot to grab milk, now Mary will yell.	9
+30	6	3	0	0	1	5	9	0	0	1	4	0	1	5.0	9	0	0	1	1	0	In a bustling Tokyo bar district, a solitary salaryman orders the same drink for decades, a ritual commemoration of fleeting moments and a long-dead love.	9
+17	1	1	0	1	0	2	4	0	2	0	1	1	3	3.0	7	2	2	2	1	0	Either way, our children need to be inoculated against this toxic tendency before they enter adulthood	9
+25	3	5	1	0	0	2	7	0	1	0	3	0	3	4.0	12	2	1	1	1	1	Blooming beautifully with life in harmony with nature, a radiant rosebud unfolds with each dawn, unveiling its hidden splendor with unrelenting gentleness.	9
+32	4	1	2	3	3	2	7	0	1	0	3	1	4	5.0	23	4	1	3	3	3	Finding the balance between productivity and well-being, while continuing to navigate uncertain times is a daunting and ever-changing task that will require persistent dedication and flexible thinking	9
+23	3	2	0	0	1	3	7	0	2	0	0	1	3	4.0	8	1	1	2	1	0	The unending ocean waves gushed into his dreamy eyes and healed his soul's scars as the sound harmonized into a soothing symphony	9
+24	2	3	0	0	0	5	7	0	1	0	2	0	3	6.0	5	1	1	2	2	0	The long-awaited arrival of summer brought a heatwave, which exposed the fragility of the ecosystem's links with the natural world	9
+21	1	0	4	3	1	0	1	0	3	0	2	2	3	6.0	6	2	2	3	1	0	Sometimes I feel like our minds are so busy, that we have forgotten how to be Still and listen.	9
+19	3	3	1	1	1	2	6	0	0	0	1	0	1	4.0	13	1	0	1	0	1	Living away from home without a steady income or savings is a common symptom of early-stage adulting	9
+28	3	3	1	0	1	4	6	0	4	0	3	0	3	8.0	6	2	2	2	2	0	The cat curled beside me on my favorite armchair, a soft purring filling the silence that blanketed the room, content and unbothered by anything beyond.	9
+27	3	2	1	0	2	2	7	0	3	0	2	0	4	4.0	11	2	1	2	2	1	Blossoming with unpredictable patterns, colors and scents the rare flowers captured the gardener's attention and he dedicated himself fully tending to their unique needs.	9
+25	4	3	0	1	0	1	5	0	3	0	3	0	5	5.0	11	4	4	1	0	0	Sitting at my desk, staring at my computer screen filled with countless open tabs, wondering what other creative projects I could begin.	9
+31	1	6	2	1	1	2	6	2	1	2	2	0	4	5.0	8	2	1	1	1	1	Born in Paris, the actress would go on to study drama at Yale and star in over 50 films before her tragic death at 45 from an heroin overdose.	9
+17	3	2	1	0	0	3	4	0	0	0	2	0	2	3.0	7	1	1	1	1	0	The sun sets slowly behind the distant mountains, casting warm golden hues across the landscape.	9
+31	3	3	3	1	1	2	8	0	1	0	3	0	6	7.0	12	2	2	2	3	0	Human-generated content can result in a lack of diversity in the algorithmically curated feed, creating homogenous groups that reinforce echo chambers and further marginalize already vulnerable voices. 	9
+42	5	3	1	1	1	5	12	1	2	1	2	1	4	6.0	15	3	2	2	3	1	Melania's decision to hold a formal speech and reception at the same venue two days earlier marked a rare public confrontation with her husband, a sign that tensions within their longstanding friendship had begun to reach a boiling point.	9
+35	3	5	4	1	0	4	6	0	3	4	0	0	3	6.0	13	2	2	3	2	0	The sun's gravity pulled Venus away from its planned orbit around the Earth to a new path that now brings it closest to the red planet's orbit when Earth is closest to Sun	9
+26	6	3	2	1	1	1	6	0	1	0	2	1	2	4.0	13	1	1	2	1	0	Inventive but insular musicians are sometimes criticized for their lackadaisical disregard for otherworldly genre-benders, although such dismissal often misses the point of experimental music.	9
+26	1	3	3	1	1	5	6	0	2	0	1	0	3	6.0	7	1	1	2	3	0	Even the slightest of differences can change our perception of the entirety and distort the reflections in the waters that once accurately reflected the truth.	9
+36	4	7	0	2	0	6	8	0	3	0	2	1	3	7.0	13	3	2	3	0	1	Living out of synchronization with the pulse of the earth is the great disease, which flows as a vast tsunami of suffering through all the tributaries we have conceived as our own individual ailments.	9
+28	1	5	1	1	0	2	6	0	3	0	4	0	5	5.0	9	4	3	2	1	1	Beneath her unruffled demeanor, hidden beneath layers of poise, she concealed a soul tormented, consumed by longing for the man she could never have.	9
+21	1	2	0	1	0	1	5	0	3	0	2	2	3	5.0	9	2	2	1	2	0	The baby was screaming at its mother for attention, as if protesting her failure to fulfill its impossible expectations.	9
+26	3	7	0	0	0	4	7	0	0	0	2	0	3	9.0	4	2	2	1	0	0	Humanity lives in ignorance of the true nature of reality, lost in a maze of delusions conjured from the depths of the collective unconscious.	9
+27	2	5	1	0	0	3	7	0	2	0	3	1	3	4.0	12	2	1	2	1	1	Sailing solo in an open boat on a rough sea, I feared for my life, as the sun dipped low in search of refuge.	9
+28	2	1	0	2	1	3	7	0	2	1	2	1	4	7.0	7	3	3	3	3	0	The teacher asked Maria to stay after class, unaware that her comments would ignite a firestorm that would challenge the entire institution's values and practices.	9
+24	2	3	0	2	2	3	6	0	2	0	2	0	2	4.0	19	0	0	2	0	0	The man was found dead in his house with no signs of struggle or forced entry, yet all his valuables were missin.	9
+41	3	3	2	5	2	4	5	0	1	0	7	1	6	6.0	14	3	3	4	0	0	In every crisis, one must learn to adapt, and in return, a new path of growth will appear, and the old shall be left behind, to wither away, until a new way is embraced.	9
+24	1	3	1	1	1	1	4	0	3	0	1	1	5	5.0	7	3	2	2	2	1	Even if we find a treatment, they will need to stay vigilant and monitor them for signs of relapse for years to come	9
+25	4	3	0	0	1	4	5	0	3	0	2	0	3	4.0	8	2	1	2	1	1	Floating in an oceanic dream, she sang a gentle lullaby about the vastness of interstellar space, and the endless possibilities that it contained	9
+34	4	4	1	2	0	4	9	0	1	0	2	2	5	6.0	11	3	3	2	2	0	Nature is the only available solution to the complex challenges we are facing now, from tackling the growing burden of non-communicable diseases to finding answers to the pressing questions around energy sustainability.	9
+24	1	3	2	1	1	2	5	0	3	0	3	0	3	7.0	5	2	2	2	1	0	Moving to the city for college, where her grandmother hoped she'd find a cure for her wild ways, but instead.	9
+24	1	1	4	1	1	1	3	0	2	0	4	1	5	4.0	10	4	3	3	0	1	The cat, whose fur was soot black and shimmering, purred contentedly sitting on laps, purring softly as it slept soundly.	9
+25	2	1	3	2	0	3	5	1	1	0	3	1	3	3.0	12	1	1	3	0	0	Nine miles out, she could see that the great glacier had calved recently, the craggy shore rocked gently in the morning mist.	9
+20	0	3	0	0	2	2	7	0	1	1	1	1	2	6.0	11	1	0	2	1	1	With the cat on my lap, purrs and head Buttes of nurturing love and comfort continue through the night	9
+23	3	3	1	0	0	1	5	0	2	0	2	1	3	4.0	10	2	2	2	0	0	Human knowledge about nature's vast interrelated systems of the cosmos continues to grow, while simultaneously our disregard for them deepens.	9
+18	4	1	2	3	0	2	3	0	0	0	1	0	2	3.0	7	1	1	2	0	0	A powerful state could be created only when several smaller units were united by a common goal.	9
+32	4	2	1	1	3	1	4	0	5	0	3	1	5	5.0	14	2	2	4	0	0	The cat's slow-moving tail signaled that it was content and relaxed after its latest hunt, and it began to purr and rub against its human, who eagerly 	9
+31	5	4	0	2	1	2	10	0	2	0	1	0	3	8.0	8	2	2	2	1	0	Aging and disabling inequities across various societal subpopulations are a significant threat to global efforts to reduce health inequities that are increasing faster than the growth of world population itself.	9
+37	1	7	2	1	1	3	6	0	5	0	4	1	6	5.0	15	4	2	4	1	2	As I stood there watching, a tide of memories swelled up from the depths, bringing with it visions of you and I, lost in the vast expanse of time we'd shared together.	9
+17	2	2	0	1	0	1	6	0	1	0	1	1	2	5.0	4	1	1	1	2	0	Humans have destroyed entire ecosystems by disrupting the fragile balance of species interaction on our planet.	9
+31	4	5	1	0	1	4	7	0	2	0	2	0	4	7.0	12	2	2	3	0	0	The cat slowly padded across the dark, cool floor, and its bright eyes seemed to gleam in the faint light that poured through the window like moonlight on water	9
+37	2	4	2	0	2	2	8	0	5	0	4	0	7	7.0	9	5	3	2	5	2	Hearing the birds singing in the morn, I realize how much they add beauty to our existence, reminding us to find balance with nature, and thus find solace and inner peace within ourselves.	9
+21	4	3	0	0	1	3	5	0	1	0	1	0	3	6.0	5	1	1	1	2	0	Beneath the surface lurks a hidden ocean of emotional turmoil that festers and rots the very foundations of human relationships.	9
+21	3	1	0	0	1	1	4	0	2	0	3	0	5	6.0	8	4	2	2	3	2	Learning to trust others requires unpacking the historical, political, and social forces that inform our relationship to vulnerability.	9
+24	1	5	1	1	2	1	8	0	0	0	3	0	2	5.0	11	1	0	1	0	1	Living unresponsive to the demands and constraints of society can ultimately result in feelings of isolation, detachment, and loneliness for individuals.	9
+40	3	4	2	1	0	6	13	0	1	0	4	0	4	8.0	9	3	3	2	2	0	A symphony orchestra's strings section's musical line is frequently affected, in an instant, whenever a conductor raises their baton, causing a cascade of interdependent responses from the players positioned throughout the vast performance space.	9
+20	1	2	2	2	0	2	4	0	1	1	2	0	2	4.0	12	1	1	1	1	0	Jorge could see the outline of his neighbor's house being slowly un-built by the heavy machinery.	12
+23	6	3	0	1	1	2	5	0	1	1	1	1	1	5.0	12	1	1	1	1	0	The intricate networks of interconnected relationships within the bustling metropolitan area of Tokyo are integral to understanding its rapid growth and development.	12
+22	6	2	0	1	1	2	4	0	0	2	1	1	2	4.0	10	1	0	1	2	1	The unprecedented spree of President Biden in signing recent Executive Orders is causing widespread political and social implications throughout the country.	12
+19	6	2	0	1	0	2	4	0	0	0	1	1	2	4.0	7	1	0	1	1	1	The intricate process of developing innovative digital technologies was aided by the collective contributions of numerous creative professionals.	12
+23	3	4	0	0	0	3	6	0	0	4	1	0	1	5.0	11	0	0	1	0	0	The scintillating brilliance of Princess K Igbinogha of Osun kingdom's gemstone tiara glistened like the shimmering rays of a celestial body.	12
+25	4	3	1	2	0	3	6	0	1	0	2	0	3	6.0	9	2	2	2	2	0	The extensive restoration works were completed in a very short span of time, surprising many who had imagined a lengthier period of construction.	12
+32	3	4	2	4	0	5	5	2	2	1	2	0	2	6.0	20	2	2	3	1	0	The company had just received an order for more than a hundred thousand parts from a client in Asia, which would be the single biggest sale they had ever seen.	12
+19	1	4	1	1	0	3	6	0	1	0	1	0	1	3.0	7	0	0	2	1	0	With the new policy in place, the hospital will now prioritize the wellness of its employees over productivity	12
+22	2	3	1	0	0	3	5	0	1	2	1	0	3	6.0	5	2	1	1	1	1	The most intriguing theory regarding Atlantis' saga has its origins in the mystical knowledge imparted by the priestesses of Delphi.	12
+17	3	2	1	0	0	2	6	0	0	0	0	0	3	7.0	3	2	2	1	2	0	The exploration team uncovered a hidden cache of ancient documents detailing mysterious rituals performed deep within pyramid	12
+18	2	0	1	0	1	1	3	0	1	1	2	2	4	5.0	5	2	1	1	2	1	Despite facing immense challenges, John persevered and finally achieved his dream of becoming a successful restaurateur.	12
+26	3	3	0	1	0	3	7	0	1	0	2	2	3	4.0	9	2	1	2	2	1	In order to ensure timely completion of the project, the client required extensive testing of each iteration before it was deemed ready for deployment.	12
+20	3	3	0	1	0	2	5	0	1	1	1	0	2	5.0	3	1	1	2	1	0	The ancient temple's mysterious aura was maintained by a team of dedicated guardians, who kept intruders at bay	12
+30	3	5	0	0	3	2	9	0	0	1	3	0	4	7.0	17	2	1	1	1	1	A large number of unemployed workers in the industrial city of Manchester, driven by poverty and despair, began attacking factories and machinery with increasing frequency and ferocity.	12
+30	3	1	0	0	3	1	7	0	4	4	3	0	4	4.0	14	2	1	2	2	1	Ms. Kumar and her colleagues, including David and Sally, spent an entire week end rehearsal for their bosses visit next week but he cancelled it last minute.	12
+25	5	4	2	0	1	2	7	0	0	0	2	0	2	7.0	5	1	1	1	0	0	The exotic fruit market expanded exponentially last year, propelled by a surge in demand for novel and nutritious ingredients among conscious consumers worldwide.	12
+31	3	2	1	0	1	3	8	1	2	1	1	1	4	5.0	10	3	2	3	2	1	Because John's company offered a signing bonus of $ 5,000 the new hire decided to accept their job offer despite the lengthy and complex relocation process that lay ahead.	12
+30	5	5	0	0	0	5	7	0	1	2	2	0	3	6.0	11	1	1	1	0	0	The scintillating performances of the Polish national team in the last World Cup put paid to any remaining doubts about their status as a top-level soccer powerhouse.	12
+21	2	2	3	2	0	0	3	0	4	1	1	1	2	3.0	10	2	1	1	1	1	Judging from your latest Instagram post, it's undeniably clear that your vacation has officially taken over your life now	12
+23	4	2	1	0	0	4	6	0	0	0	1	0	3	4.0	11	0	0	1	1	0	The intricately designed carving on the ancient statue's pedestal revealed an unknown tribe's unique mythological beliefs to the surprised archaeologists.	12
+19	3	1	1	1	0	2	5	0	1	0	1	0	3	5.0	6	2	2	2	2	0	The sudden breakthrough in quantum computing has already started to revolutionize the way we understand complex molecular dynamics.	12
+26	2	3	1	1	1	4	8	0	1	0	1	0	3	5.0	16	2	1	2	1	1	The intricate patterns of frost and snow that etched the windows of the cozy log cabin had finally begun to melt under the warming sunlight.	12
+23	3	3	0	1	0	3	6	0	1	1	1	0	2	4.0	8	1	1	1	1	0	Their decision to vacation in Bali this year was motivated by the desire to experience new cultural experiences in a tropical location.	12
+18	1	3	1	0	0	3	5	0	2	0	0	1	2	3.0	11	1	1	1	2	0	The cat chased the mouse rapidly throughout the house for several minutes before catching it with its paws	12
+21	4	3	0	1	0	3	7	0	0	1	1	0	0	4.0	11	0	0	1	0	0	The discovery of DNA's double helix structure was a significant watershed moment in the development of contemporary molecular biology. 	12
+40	5	3	1	7	0	4	7	0	4	0	2	1	4	6.0	16	4	2	4	1	2	Having enjoyed a prolonged lull during which time our team's success was unmatched, we are faced with a suddenly resurgent challenge that must be overcome if our campaign is to be considered sustainable in the long run.	12
+31	4	3	3	1	1	1	6	0	3	0	5	0	3	7.0	9	2	2	2	2	0	Arabian horses, despite their reputation for high temperaments, have a remarkable ability to calm and comfort people, especially children, who are often naturally frightened of them.	12
+25	5	5	1	0	0	2	7	0	1	0	2	0	2	4.0	8	1	1	1	1	0	After several months of planning, the team finally completed the development of their innovative product, consisting of multiple complex components with intricate dependencies	12
+23	1	4	1	2	0	3	7	0	1	0	1	0	3	4.0	6	0	0	1	0	0	The increasing popularityof yoga throughout the world can be attributed primarily to the rising awareness of its health benefits among diverse populations.	12
+20	1	4	0	1	0	3	5	0	0	0	3	0	3	3.0	13	1	1	1	0	0	The cat was lounging in solitude at the top of an old, abandoned building, basking in silence.	12
+28	4	4	1	3	0	3	8	0	2	0	1	0	1	6.0	13	1	0	2	0	1	The most captivating tale of survival against all odds that had been witnessed in centuries was that of the indomitable Tanzanian girls' under-sixteens netball team.	12
+16	2	1	1	0	0	1	4	0	1	0	1	0	3	4.0	4	2	2	1	1	0	Their baby's adorable antics had the parents constantly filming to save for future laughs.	12
+22	4	4	1	1	0	3	4	1	1	0	1	0	2	4.0	6	1	0	2	0	1	The unprecedented global financial crisis that erupted in 2007 was brought about primarily by the reckless deregulation of the banking sector.	12
+26	2	5	2	1	0	2	6	0	1	2	1	0	2	5.0	6	2	2	1	0	0	Beth's visit home turned out to be far more eventful than anticipated as a result of the unexpected arrival of her surprise guest, Robert	12
+34	2	1	6	3	3	2	3	0	4	1	2	1	6	5.0	18	3	2	4	0	1	Evansville, the city I've grown and live and work in and know well, will always feel like the place that is most my own even though my actual roots lie elsewhere	12
+40	3	6	4	3	2	4	9	0	1	0	2	1	4	7.0	10	2	2	3	0	0	Demand for these products has been rising steadily since early last year, and market analysts predict that they will continue to do so throughout the remainder of this year and well into the second half of next year.	12
+27	6	3	1	0	2	3	7	0	0	0	2	0	3	5.0	10	2	2	1	2	0	The skilled artisan expertly crafted each piece using traditional methods and innovative techniques, resulting in a stunning and durable collection of exquisite works of art.	12
+22	1	3	0	1	2	1	7	0	1	1	3	0	2	6.0	6	1	1	2	1	0	The exploration and colonization of Mars was accomplished through interconnected ventures that spanned generations of engineers, scientists, and entrepreneurs.	12
+25	3	4	1	2	0	1	6	0	4	0	1	1	2	6.0	7	2	2	1	1	0	Their excitement was tempered only by their concern about being unable finish their mission due to the short duration of their extra-normal jump capability. 	12
+33	4	5	0	1	0	4	11	0	1	0	2	2	3	7.0	16	2	2	1	2	0	The new government initiatives have sparked a considerable increase in the number of people interested in studying computer science, as witnessed by the rapid growth in applications to our university programmes.	12
+25	3	2	3	3	1	4	6	0	1	0	0	0	2	6.0	5	1	1	2	2	0	The researchers have just discovered a link between an extremely rare virus and a previously undiagnosed illness that has been infecting children for several years	12
+21	4	2	1	1	1	3	6	0	0	0	1	0	1	4.0	14	1	1	1	0	0	The flamboyant dancing display of colorful macaws and parrots in the lush tropical rainforest was truly a sight to behold.	12
+21	3	1	0	0	1	1	8	0	1	0	1	0	3	7.0	7	2	2	1	3	0	The company announced plans to expand its global supply chain network to accommodate rapid growth in e-commerce and digital transformation.	12
+33	4	2	0	1	1	5	9	0	0	1	3	1	4	7.0	7	2	2	1	4	0	The city's mayor, John, has announced a plan to upgrade the public transportation system in the hopes of fostering further economic growth and attracting more businesses to the area.	12
+20	3	4	0	1	0	3	7	0	0	0	0	0	2	3.0	10	0	0	1	0	0	The increasing demand for artisanal pickles in the small town market has led to a dramatic shift in consumer preferences	12
+24	2	4	1	1	0	3	9	0	0	2	1	0	1	5.0	8	1	1	1	0	0	Earl Grey poured into crystal flutes were the most popular choice among the morning gathering of high society visitors at the palace gardens.	12
+23	3	4	0	0	1	4	8	0	0	0	1	0	1	4.0	8	0	0	1	0	0	The discovery of gold nuggets along the nearby river led to the town's sudden growth and transformation into a bustling boomtown.	12
+25	4	3	1	2	2	2	6	0	2	0	1	0	2	4.0	11	0	0	1	1	0	Their newborn son had already grown into a charming baby with a mischievous grin and was showering their life with unending love and joy.	12
+29	3	6	1	0	0	4	10	0	1	0	2	0	2	6.0	9	1	1	2	1	0	The new product launch resulted in an enormous amount of excitement among customers, with sales numbers that exceeded the highest expectations of the marketing team by far.	12
+28	6	2	0	0	3	2	7	0	1	2	1	0	2	6.0	12	1	0	1	2	1	His grand plan to expand the family's retail business across Asia and Africa encountered insurmountable cultural and regulatory obstacles during the late 1990s and early 2000s.	12
+23	1	2	2	1	2	2	2	0	2	3	1	1	4	5.0	6	1	1	3	1	0	I have always lived by the ocean but never experienced an actual hurricane until I moved to Florida and Hurricane Sandy devastated ...	16
+28	2	3	0	3	1	0	4	0	7	0	2	0	5	6.0	12	3	3	5	3	0	I appreciate you are looking for help finding something, can I please have more specific details or information on what it is you require assistance with.	16
+23	1	3	0	2	1	1	5	0	4	0	1	0	4	6.0	5	2	2	2	2	0	She took off her glasses and began to examine the tiny tattoo design that had been hiding on her wrist for months.	16
+14	0	2	2	0	1	1	5	0	2	0	0	0	1	4.0	7	0	0	1	1	0	Mom drove my sister and I up north to the beach before summer ends	16
+22	0	2	4	0	1	2	4	0	2	0	2	1	3	4.0	8	1	1	1	2	0	The cat quickly jumped onto the mouse's tail, before squeezing it tightly and eagerly devouring it whole within seconds.	16
+34	5	4	2	1	1	2	5	1	0	9	3	0	1	6.0	15	0	0	1	1	0	The US military has captured key Afghan Taliban leaders such as Mullah Mohammad Faizel and Mullah Akhtar Mohammad Iman, as well as 30 other top officials, in a series of raids.	16
+18	2	3	0	0	1	3	5	0	1	0	1	0	2	5.0	6	1	1	1	1	0	She walked to the store, carrying a plastic bag with fresh vegetables and a bottle of juice	16
+17	2	1	0	0	1	0	5	0	6	0	0	0	2	3.0	11	0	0	2	3	0	I visited my grandfather on his 80th bithday last weekend and he showed me his war medal	16
+31	3	4	0	0	1	3	8	0	3	0	1	1	5	8.0	12	3	3	1	4	0	She made the decision to leave her job as marketing director for a major fashion brand to take on the opportunity of setting up and growing her own independent label. 	16
+31	2	3	0	3	2	0	5	0	6	0	2	1	6	7.0	13	3	3	3	3	0	I have heard stories of people who were born blind, and they did not let it stop them from succeeding in their careers and becoming productive members of society.	16
+31	4	1	0	1	2	4	8	0	2	0	2	1	5	8.0	7	3	3	2	4	0	The research project focuses on investigating the efficacy and feasibility of the new surgical techniques, which will enable us to treat a wider patient population and improve clinical outcomes.	16
+37	2	3	1	2	3	3	11	0	1	0	3	2	5	7.0	13	3	3	2	3	0	The storm surge could potentially flood the low-lying areas around the coast and destroy numerous homes and businesses if it were to occur as predicted, leaving hundreds of people without shelter or livelihoods. 	16
+22	1	1	1	3	0	0	2	0	5	1	2	1	4	4.0	16	2	2	3	2	0	Jordan has been planning to take over my store since I hired him last year, what will he do next?  This satisfies the instructions you requested and provides a valid sentence with the longest dependency link of 16 words, such as you requested.	16
+25	0	4	0	1	1	5	9	0	1	0	1	0	1	5.0	11	0	0	1	1	0	The researchers' discovery of the planet in the orbit of the star will alter our understanding of exoplanets and the universe's structure.	16
+19	2	2	0	0	1	2	6	0	2	0	1	1	2	3.0	10	1	1	2	1	0	The tour guide pointed out historical landmarks and their corresponding significance as we walked along the cobblestone street.	16
+19	2	3	2	0	0	2	5	0	1	0	1	0	3	5.0	6	2	1	1	1	1	The man standing in front of me seemed completely unaware of the long line formation taking place nearby.	16
+26	4	3	2	1	2	1	3	0	1	0	3	2	3	6.0	14	3	3	1	1	0	We have to be capable of competing with each other, both domestically and in foreign markets, while also establishing alliances with other countries.	16
+21	1	1	1	1	1	3	5	0	1	0	1	0	4	5.0	5	2	2	1	2	0	The team has decided to implement the new strategy to improve their market share and stay ahead of the competition.	16
+30	3	3	2	1	1	2	3	0	5	1	2	3	4	5.0	12	2	2	4	2	0	The manager requested that we submit our proposals by next Friday, and I told her that I will follow up with an electronic version as soon as possible. 	16
+26	1	5	1	1	0	4	8	0	0	0	2	0	3	5.0	11	2	2	1	1	0	The company's stock price had risen significantly in the months leading up to the acquisition, sparking concerns among shareholders about a possible buyout.	16
+28	2	2	1	2	1	1	5	0	3	0	1	2	6	9.0	5	4	4	2	2	0	She will have to explain in detail each decision made and how it was justified in order to demonstrate her extensive experience in dealing with complicated situations.	16
+11	0	0	3	1	0	1	2	0	0	0	1	0	2	3.0	3	1	1	1	2	0	The managers are still determining how to properly apportion blame.	16
+21	2	1	0	1	3	2	9	0	0	0	2	0	1	5.0	7	0	0	1	1	0	The new employee training was comprehensive and included an overview of company goals and objectives, workplace policies and procedures.	16
+25	3	3	0	1	0	3	6	0	0	2	2	0	2	6.0	10	1	1	1	1	0	Mary's parents will travel to Japan for the second time this summer, eager to discover unexplored territories in the country's south.	16
+32	4	2	1	0	1	3	10	1	0	3	5	0	1	5.0	11	0	0	1	1	0	The US Navy SEAL's intense 48-hour reconnaissance included direct ground observations, real-time satellite imagery, and even the deployment of underwater sensors along the shore.	16
+20	2	2	0	3	1	2	1	0	4	1	2	0	2	3.0	16	0	0	3	0	0	I'm American and I am going to the UK for the first time, what should I expect?	16
+22	2	1	4	1	0	1	3	0	3	1	2	0	3	4.0	10	2	2	2	1	0	The newest addition to their family, Alice's little brother always makes her laugh, even when she's feeling down	16
+25	0	2	1	2	0	4	3	0	0	4	2	1	4	5.0	11	3	3	2	2	0	The US Navy will need to be fully deployed to prevent the spread of war to the Pacific, if China continues the hostilities.	16
+22	3	2	0	1	0	2	4	1	1	0	1	1	3	4.0	8	2	2	2	1	0	The company's latest financial reports indicate that it has managed to increase profits by 25% despite the ongoing pandemic.	16
+21	4	1	0	0	0	3	4	0	0	0	2	2	3	5.0	8	2	2	1	2	0	The manager has to make the final decision about whether to hire the best candidate, despite potential legal challenges.	16
+12	0	1	2	2	1	0	1	0	3	0	1	0	1	2.0	6	0	0	1	1	0	I will always be with my family and never abandon them.	16
+29	2	4	0	3	0	5	7	0	2	0	2	1	2	4.0	13	1	1	2	1	0	The new policy of the firm has created a problem for its employees, as their salaries have not been raised since the implementation of the new system.	16
+22	2	0	4	1	1	1	1	0	4	1	2	2	3	5.0	11	2	2	2	2	0	She has never considered a possibility of living anywhere else but New York, what if she finds something better there?	16
+21	4	3	0	1	0	2	4	0	1	2	2	0	2	3.0	13	0	0	1	1	0	Australia should have a closer economic relationship with New Zealand, in my considered professional opinion as a business consultant.	16
+26	4	0	0	0	1	4	7	1	1	0	4	0	3	6.0	12	2	1	2	3	1	The tourists, eager to explore the exotic wildlife and scenic views, hired a reputable tour guide who offered a two-week package.	16
+32	5	4	3	3	2	1	3	0	5	0	3	1	2	4.0	18	1	1	3	0	0	My best friends are all moving to new places for college, and while I'm excited for them, I'm also feeling very alone and emotional about it all.	16
+28	2	2	1	0	1	4	7	0	3	0	1	1	4	9.0	7	3	3	3	1	0	The hippogriff sighed as it perused the spells that its apprentice's eyes now seemed able to see without the aid of a wand or magical glasses.	16
+33	2	3	4	3	1	3	7	1	1	0	3	1	4	6.0	11	3	3	2	1	0	She had been saving for a rainy day for over twelve years, carefully selecting each security and bond fund, anticipating that the next market crash would arrive sooner than later.	16
+27	3	2	1	2	0	5	6	0	2	0	1	0	3	7.0	6	2	2	2	2	0	The new teacher's arrival had caused quite a stir among the pupils who were expecting someone entirely different based on the previous year's rumors.	16
+25	1	2	4	1	1	2	5	0	2	0	1	0	3	5.0	11	2	2	1	2	0	We will always need the help from the government and other agencies to ensure our survival for generations to come, not just right now	16
+15	3	0	0	2	0	2	5	0	0	0	0	1	2	3.0	8	1	1	2	2	0	The company may require more investment before the AI system can provide accurate predictive data	16
+28	4	3	1	3	0	2	5	0	3	3	2	0	2	6.0	7	2	2	3	1	0	Jessica is a brilliant mathematician who has published several influential papers on number theory, which has contributed immensely to her nomination for the prestigious Fields Medal.	16
+24	1	2	5	0	0	0	2	0	5	0	4	0	4	5.0	10	3	3	2	1	0	Luckily for me, there were always other children who believed my stories, until now, when even they begin to doubt.	16
+15	0	1	0	2	0	0	2	0	3	1	1	2	3	4.0	4	2	2	3	1	0	John will attend if it is scheduled for after he finishes his job tonight.	16
+26	3	2	1	3	0	4	5	0	1	0	2	0	4	7.0	5	3	3	2	2	0	The team has been reassigned to a different unit, where they will work with new personnel to tackle the toughest challenges facing the agency.	16
+23	1	2	0	1	0	1	6	0	5	0	1	0	4	7.0	8	3	3	2	3	0	I went to college to get a degree that will enable me to apply my skills for my future job career growth.	16
+29	2	1	2	4	2	1	4	1	4	0	1	1	4	5.0	14	3	3	3	1	0	The baby's parents had been searching for her since she was discovered missing two days ago and they were ecstatic to finally locate her safe and sound.	16
+21	3	2	0	1	0	2	6	0	1	0	1	0	4	6.0	6	2	2	2	3	0	The president has requested a new budget that increases spending on military infrastructure to counter growing threats from rival nations. 	16
+21	3	1	2	1	1	2	4	0	2	0	2	0	2	4.0	7	2	2	1	2	0	The teacher was very encouraging, yet also challenging, pushing me to improve my French language skills throughout the course	16
+63	3	9	3	3	3	5	12	0	8	0	3	2	10	12.0	13	7	6	4	2	1	Although there have been many attempts on her life, she insists that she must return to the city where she once worked as a surgeon, to help vaccinate the refugees who are now fleeing across the border in fear of their lives and to try and bring some small measure of medical aid to those affected by war and disease.	16

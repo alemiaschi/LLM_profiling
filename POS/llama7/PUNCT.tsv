@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+11	1	1	1	0	0	1	2	1	0	2	0	1	1	1	2	1	0	2.0	1	7	I ate the cookie quickly before it could get stale.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+9	1	0	1	1	0	2	0	2	1	1	0	0	0	0	1	0	0	2.0	0	4	Th e sun rose lazily in the sky.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The monkey climbed up the tree.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+17	0	0	1	2	2	3	2	2	1	3	0	0	0	1	1	1	0	5.0	1	5	Brian walked into the kitchen and started to cook a meal for himself and his friends.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+14	1	0	2	2	0	3	1	1	1	2	0	0	1	0	1	1	1	3.0	1	6	Walking slowly across town, Emma savored each bite of her juicy steak. (1 sentence)	0
+13	0	0	0	2	1	3	1	3	0	3	0	0	0	1	1	1	0	5.0	1	5	I went to the park and saw a duck swimming in the lake	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will eat a sandwich for lunch.	0
+7	0	0	1	0	0	2	0	1	0	2	0	0	1	1	1	1	0	2.0	1	3	Elephants roamed the grassy plains unencumbered.	0
+12	0	0	1	1	1	5	1	1	0	1	0	0	0	0	1	1	0	3.0	0	6	The cat chased it's prey with lightning speed and agility.	0
+18	1	1	0	2	0	6	1	3	0	2	0	0	2	1	1	1	0	3.0	1	9	She walked slowly up the mountain trail while watching a small bird land on a nearby tree branch	0
+9	0	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	3	The quick brown fox jumps over tall dog.	0
+6	1	0	1	1	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The baby laughed out loudly.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She ate an apple for snack.	0
+14	1	0	1	3	1	5	0	2	0	1	0	0	0	0	1	0	0	4.0	0	5	The sun slowly rises beyond the treetops in shades of gold and orange. (ONE SENTENCE) 	0
+12	0	0	1	0	1	3	1	3	0	3	0	0	0	1	1	3	0	5.0	1	4	I visited the park and saw a dog chasing a cat.	0
+10	0	0	1	1	0	2	1	2	0	1	0	1	1	0	1	1	0	3.0	0	3	I can see a big tree in the backyard.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat purred in my lap. (1 sentence, 0 punctuations)	0
+16	0	1	2	2	0	4	1	3	0	3	0	0	0	2	3	0	0	4.0	2	6	The car sped down the highway, lights flashing as it raced through the night.	0
+15	2	1	1	1	1	1	2	1	0	3	0	1	0	1	2	0	0	5.0	1	5	She walked into the forest and started to run as fast as she could. (Note: This response includes one punctuation mark, a period, which is allowed in this task.)	0
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The dog chased the cat around the tree rapidly.	0
+12	0	0	1	2	0	3	0	2	0	2	0	1	1	0	1	0	1	5.0	1	10	Running through the park in the early morning sun was invigorating.	0
+14	1	0	2	2	0	4	0	1	0	2	0	0	2	1	1	0	0	4.0	1	3	The dark storm clouds raged overhead, illuminated by occasional flashes of lightning. 	0
+15	1	0	2	3	0	4	1	2	0	2	0	0	0	1	2	0	0	3.0	1	9	He walked for miles in silence, the sun slowly rising over the horizon.	0
+6	1	0	0	1	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	4	Snowflakes fell gently on my face	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The snowflakes fell gently on my face.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Maria's lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap. (1 sentence)	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat silently crept into the room.	0
+15	2	0	2	1	0	3	3	1	0	2	0	0	1	1	2	1	0	3.0	1	9	She walked slowly towards the tree, her eyes never leaving its ancient branches.	0
+15	1	1	1	1	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	5	The big red car quickly drove down the street before reaching the grocery store.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly down the street.	0
+10	0	0	1	2	0	4	0	1	0	1	0	0	1	0	1	1	0	3.0	0	5	Sunsets over mountains glimmer warm colors in the sky. 	0
+22	0	1	1	4	0	7	0	4	0	2	0	0	3	1	1	1	0	4.0	1	10	A large group of tourists walked through the historic city square in broad daylight without attracting any notice from the locals.	0
+21	1	2	0	0	0	4	2	1	2	2	0	2	4	2	2	1	0	5.0	2	9	Mars was an angry planet last Saturday because its orange robed inhabitants had taken to storming their leader's chambers daily	0
+23	0	1	2	3	1	4	2	3	1	4	0	0	2	3	2	1	0	5.0	3	10	Sandra walked out the front door and down the driveway, feeling a strange energy buzzing through her body as she went.	0
+13	0	0	1	2	0	4	0	3	1	2	0	0	0	1	0	0	0	3.0	1	4	In the middle of the forest lived a talking squirrel named Nutmeg.	0
+18	0	0	1	2	2	5	0	2	0	1	0	1	3	0	1	0	0	3.0	0	11	The sky was a swirling vortex of pink and purple and blue hues at dusk's descent.	0
+17	0	1	1	2	0	5	2	3	0	2	0	0	0	1	2	1	0	3.0	1	6	A tiger's eyes gleamed in the moonlight as it stalked its prey through the forest.	0
+13	2	0	1	1	0	2	2	1	1	2	0	0	1	1	2	1	0	4.0	1	4	Sophie laughed loudly when she saw her favorite cat in the tree.	0
+10	1	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over tall obstacles quickly. (1 sentence)	0
+13	1	0	2	1	0	4	1	1	0	2	0	0	1	1	1	1	0	3.0	1	7	Night falls slowly across the mountain peaks, illuminating their rugged silhouettes.	0
+15	0	1	1	1	0	4	0	3	0	3	0	0	1	2	2	1	0	3.0	2	9	The sky turned a deep shade of blue as the sun began to set.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sun is orange.	0
+7	0	0	0	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The car sped down the darkened highway	0
+16	2	0	2	1	1	3	1	1	0	3	0	0	2	1	2	0	0	4.0	1	6	The old man laughed loudly and staggered away, his wild eyes glinting with excitement.	0
+19	1	0	2	2	0	5	1	3	0	1	0	1	3	1	1	0	0	4.0	1	10	I walked slowly down the dark forest path, the only sound being the rustling of leaves underfoot.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+20	1	0	3	1	1	4	0	3	0	3	0	0	3	1	2	1	0	5.0	1	7	The sky turned dark, and a sudden shower descended, sopping up the park's already moist soil.	1
+12	1	0	2	0	0	2	2	2	0	1	0	1	1	0	1	1	0	3.0	0	4	You have successfully escaped the cave, what a thrilling adventure!	1
+37	1	0	5	2	1	7	2	4	3	3	1	3	3	3	3	2	0	8.0	3	10	"Mozart's most famous composition, ""The Magic Flute,"" is a opera that tells the story of two young lovers who must navigate a fantastical world of magic and monsters to be reunited."	1
+15	0	0	2	2	0	3	1	2	1	2	0	0	2	1	2	0	0	3.0	1	12	Dracula descended from the coffin with a menacing sigh, his pointed teeth glistening.	1
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on John's lap.	1
+14	0	0	2	1	1	3	0	2	1	2	0	0	0	0	1	1	0	4.0	0	6	John went to the grocery store and purchased _(an apple)$. 	1
+14	1	0	3	1	0	2	1	2	0	1	0	2	1	0	2	0	1	3.0	1	7	The car, which was red, was driven quickly down the street.	1
+14	1	0	1	1	0	2	0	2	1	2	0	0	3	1	1	1	0	4.0	1	5	Eleanor stepped back to examine the intricate carvings on the old wooden door. 	1
+19	3	0	1	2	1	3	1	2	2	2	0	1	1	1	2	0	0	4.0	1	6	John and Sally walked into the dimly lit room where their friends were already gathered for the party.	1
+9	1	0	2	0	0	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	4	The big, red apple was perfectly juicy.	1
+16	1	0	1	2	0	2	2	3	0	2	0	0	3	0	1	2	0	4.0	0	8	I love you most of all, said the tiny ship to the even smaller seal	1
+15	1	1	1	2	0	4	0	3	0	2	1	0	0	1	1	1	0	3.0	1	6	The dog finally caught the cat after running around the park for 30 minutes.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+23	4	0	2	2	1	5	2	1	0	3	0	2	1	0	2	1	0	4.0	0	15	She had eaten too many chocolates before dinner, so the taste buds in her tongue were singing happily and dancing wildly.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+16	1	0	2	0	2	3	0	3	0	1	0	2	2	0	3	0	0	3.0	0	11	The sky was blue and the sun was bright, but the rain soon arrived.	1
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Sarah's lap.	1
+15	0	1	1	2	0	5	0	3	0	2	0	0	1	1	2	1	0	3.0	1	8	The sky turned a darker shade of blue as night fell upon the landscape.	1
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The cat pounced on the mouse with relentless aggression. (1 punctuation)	1
+14	1	1	1	2	1	3	1	0	0	3	0	0	1	1	2	0	0	3.0	1	7	Inky curled up on his cat bed and purred contentedly as evening fell.	1
+18	1	0	2	2	0	4	0	4	0	2	0	0	3	1	1	1	0	3.0	1	7	The dark forest loomed ominously in the distance, casting a foreboding shadow over the weary traveler.	1
+19	1	1	2	3	0	4	2	3	0	3	0	0	0	2	2	0	0	4.0	2	6	The dog ran quickly down the hallway, chasing after his toy before it disappeared under the couch. (1 punctuation)	1
+12	0	0	1	1	1	3	2	0	0	3	0	0	1	1	1	2	0	4.0	1	5	I love reading books and watching movies in my free time.	1
+15	0	0	2	2	1	4	2	1	0	2	0	0	1	0	1	1	1	3.0	1	7	Amidst the cackling laughter and confetti scattered about, they exchanged their cherished vows. (one sentence) 	1
+13	0	0	2	1	0	2	0	2	1	2	0	0	2	1	1	1	0	4.0	1	5	Joe walked to the store, eager to buy a new shirt.	1
+16	0	0	1	2	1	4	1	2	0	3	0	0	1	1	1	1	0	4.0	1	7	The giraffe reached the tall tree with ease and began to munch on its leaves.	1
+9	0	0	1	1	0	1	2	0	0	2	0	1	1	1	1	1	0	3.0	1	4	I love you more than words can express.	1
+20	1	0	2	2	1	3	2	2	1	3	0	0	3	1	2	2	0	5.0	1	7	Amy drove her sleek blue convertible to the mountains, where she hiked and took in the breathtaking views. (1 sentence)	1
+12	0	0	2	2	0	0	0	2	3	1	0	0	2	0	1	0	0	3.0	0	5	Lake Superior stretches across the northern __________ of the United States.	1
+19	0	0	1	2	0	4	3	2	0	3	0	2	1	2	2	3	0	4.0	2	6	I have found a fascinating species of bird that can transform itself into a tree to avoid predators.	1
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Mary's lap.	1
+16	1	0	1	1	1	3	0	3	0	3	0	2	0	1	2	0	0	4.0	1	5	The sun had just set and the stars were beginning to twinkle in the sky.	1
+16	0	0	1	3	0	5	1	4	0	1	0	0	1	0	1	1	0	3.0	0	9	The cat chased the mouse down the hallway with a determined look on its face.	1
+10	1	0	1	1	0	2	2	1	0	1	0	0	1	0	1	1	0	3.0	0	4	She eagerly anticipated the start of her new job.	1
+5	0	0	1	0	0	2	0	0	0	1	0	0	1	0	1	1	0	2.0	0	1	Efficient workspaces inspire innovation. (1 sentence) 	1
+19	3	0	2	1	0	4	1	2	0	2	0	0	3	1	1	1	0	4.0	1	6	The dark storm clouds gathered ominously overhead, ready to unleash their fury upon the small town below.	1
+14	0	0	2	1	1	3	0	2	1	2	0	0	2	1	1	1	0	4.0	1	5	Sarah walked to the park, enjoying the sunny day and fresh air.	1
+19	1	1	3	2	0	4	1	1	1	3	0	0	2	1	2	1	2	4.0	3	9	Brown bears, known for their fierce roars, habitually feast on spawning salmon in the wild river.	1
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred contentedly.	1
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	A large, juicy steak sizzled on the hot grill.	1
+16	0	0	2	2	0	5	1	3	0	2	0	0	1	1	2	0	0	3.0	1	9	The car sped down the winding road, its red taillights disappearing into the distance.	1
+14	1	0	3	2	0	3	0	1	1	2	0	0	1	1	1	1	0	4.0	1	7	John sat alone, deep in thought, contemplating the meaning of life.	1
+14	1	0	1	2	1	3	1	2	0	2	0	0	1	0	1	1	0	3.0	0	8	I walked slowly through the forest at dusk and heard a distant rustling. (End of sentence) 	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+20	0	0	2	3	1	4	2	3	0	2	0	0	3	0	1	1	0	4.0	0	5	The dark, menacing figure emerged from the shadows and approached me with a sinister glint in his eye. (1 punctuation)	1
+14	0	1	2	0	0	3	1	1	0	4	0	0	1	2	1	2	0	5.0	2	5	I love to eat juicy burgers while watching a rainbow-colored sunset.	1
+15	1	0	2	1	0	4	2	2	0	1	0	1	1	1	2	1	0	4.0	1	6	The cat quickly ate the mouse, which was its last meal before hibernation.	1
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The sun was setting slowly over the ocean.	1
+14	0	0	2	2	0	2	1	2	0	3	0	0	1	2	1	1	0	5.0	2	5	I walked into the forest, eager to explore the secrets hidden within.	1
+10	1	1	1	1	0	2	1	1	0	2	0	0	0	1	1	0	0	2.0	1	7	She walked quickly to the city park without stopping. 	1
+6	0	0	1	0	1	1	0	0	2	1	0	0	0	0	1	1	0	3.0	0	3	Brad and Lisa went skiing. . . . down the mountain.	2
+16	1	1	2	1	0	3	1	3	0	3	0	0	1	2	2	1	0	4.0	2	5	The cat quietly purred as it sat on the windowsill, enjoying the warm sunlight. 	2
+12	1	0	1	0	1	2	1	2	0	2	0	0	2	0	1	2	0	3.0	0	6	She ate the juicy apple and then took a deep breath.	2
+33	1	0	4	0	2	9	4	4	0	6	0	0	1	4	3	5	0	6.0	4	18	I visited the beach every summer vacation, relishing the sun's warmth and cool breeze; I never missed the chance to go surfing, which brought me joy and exhilaration.	2
+36	1	1	2	4	2	5	4	2	3	5	1	1	4	4	2	3	0	6.0	4	14	I visited my parents in New York and stayed for 3 nights, having a great time exploring Broadway and Central Park with them until it was time to return home after a wonderful vacation.	2
+22	1	1	2	2	0	6	2	4	0	3	0	0	1	2	3	1	0	5.0	2	8	The sun set slowly in the sky as the birds sang their evening song, which finished on a gentle crescendo.	2
+17	2	0	3	1	0	4	0	3	0	2	0	0	2	1	0	0	0	3.0	1	6	In a dark forest, a wolf silently stalked itsprey, a tall tree standing nearby.	2
+13	0	0	1	2	1	3	0	3	1	2	0	0	0	0	1	1	0	4.0	0	5	Sally went to the beach and enjoyed the sunset by the sea. .	2
+17	0	0	3	2	0	5	1	2	0	1	1	0	1	0	1	2	0	5.0	0	9	The manager, pleased with the team's effort, gave them two weeks of vacation.	2
+21	0	0	2	2	1	3	2	0	1	2	0	2	5	0	2	1	0	3.0	0	15	I visited several beautiful cities in Western Europe last summer, and I could not have asked for better weather.!	2
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The rain fell gently on the green grass. ( period, followed by a question mark)	2
+28	0	0	2	5	2	9	0	2	2	2	0	1	3	1	1	0	0	5.0	1	10	The delicious homemade cake was served with a flourish of ginger and icing at tea time, accompanied by lively conversation and steaming cups of Earl Grey.	2
+16	1	1	2	2	0	3	1	2	0	3	0	0	0	2	1	1	0	4.0	2	7	The dog ran quickly down the ______ street without bothering to pick up its tail.	2
+16	1	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	6	The cat slowly purred in the sunbeam, punctuating the silence with a gentle mew.	2
+31	3	1	3	4	1	8	1	4	0	4	1	0	0	3	2	1	0	5.0	3	10	The cat purred in the sun for ten minutes, its tail flicking gently back and forth, before leaping across the room to chase the laser pointer in mid-air. (1 period, 1 question mark)	2
+12	2	1	1	1	0	3	0	1	0	3	0	0	0	1	2	0	0	3.0	1	4	The cat purred contentedly while paws stretched languorously over groomed fur.	2
+28	2	1	12	1	0	4	1	2	1	2	0	0	1	1	2	1	0	4.0	1	17	"The cat quickly (; sarcastically) purred, ""Meeeeow, another dead rodent for me to obsess over!"" (end punctuation: !)"	2
+10	0	0	2	0	1	2	0	1	0	2	0	0	2	0	2	0	0	3.0	0	5	Bright lights blinked, and the night grew dark.	2
+19	1	0	2	3	0	5	0	5	0	2	0	0	1	1	1	1	0	4.0	1	6	The dog ran quickly down the field, scoring a touchdown in the final seconds of the game.!	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred Contentedly on my lap.	2
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped onto the couch quickly 	2
+20	2	0	3	3	1	4	1	2	0	3	0	1	0	0	2	0	1	3.0	1	8	The cat, who was sleeping soundly, suddenly sprang up and pounced on the toy mouse with excitement.	2
+29	2	2	5	2	1	4	3	1	3	4	0	1	1	4	4	0	0	4.0	4	14	"Ashley and Sparky ran towards the park while their friend Sarah chased after them laughing joyfully, exclaiming ""You kids are so full of energy!""."	2
+27	2	1	3	3	1	5	5	1	0	5	0	0	0	4	3	3	0	8.0	4	7	I love reading books, especially when I have time to myself, because they allow me to escape into a world of imagination and wonder.	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	2
+16	1	0	2	1	0	4	0	3	0	2	0	1	1	2	1	1	0	3.0	2	9	The sun slowly ris(ing) in the sky was a lovely sight to behold.	2
+21	1	0	2	4	0	5	1	3	0	3	0	0	1	2	1	0	0	7.0	2	4	The cat purred contentedly on my lap, punctuated by intermittent pauses to bat at the birds outside the window.	2
+11	1	0	2	0	0	2	2	1	0	1	0	1	1	0	2	1	0	3.0	0	3	The concert was so loud; it hurt my ears.	2
+31	1	0	3	6	1	8	0	6	2	3	0	0	1	2	1	1	0	7.0	2	9	The sun rose slowly in the sky, piercing through the mist with precision and grace, marking the beginning of another day in the small town of Willow Creek.	2
+26	0	0	2	2	1	7	0	5	0	2	0	0	5	0	2	1	0	4.0	0	16	The sky's blue hue reflected off the calm waters of the lake, and a single bird's sweet song filled the peaceful atmosphere.	2
+22	1	0	2	2	0	6	1	4	0	1	0	0	4	0	2	0	0	4.0	0	11	The cat purred contentedly on the lap, its soft fur a gentle balm to the weary owner's frayed nerves.	2
+24	1	1	2	3	0	7	1	4	0	3	0	0	2	2	2	1	0	6.0	2	7	The sun slowly rose above the horizon as the sky transformed from dark blue to pale yellow, its rays illuminating the landscape.	2
+24	3	0	3	4	2	5	1	3	0	3	0	0	0	2	2	0	0	6.0	2	6	The cat jumped swiftly and quietly onto the windowsill, where it gazed out at the sunset, dreaming of mice and birdies.	2
+10	0	1	1	2	0	2	0	1	1	2	0	0	0	1	1	0	0	3.0	1	5	Amy walked through the park while listening to music. Period; Comma: She wore a yellow sundress and had a red hat on.	2
+12	2	0	2	1	0	2	0	2	0	2	0	1	0	1	1	0	0	3.0	1	4	The sun was setting slowly, quietly sinking into the ocean.	2
+12	2	0	2	2	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	8	The cat curled up nicely on the couch, quietly purring.	2
+21	2	1	2	2	1	4	1	4	0	3	0	1	0	1	2	1	0	4.0	1	9	The cat walked silently down the street and quickly hid behind a tree, before the dog could find it.	2
+28	2	0	2	4	2	8	1	3	0	2	3	1	0	0	1	2	0	4.0	0	13	The train will leave the station at 10 am with excitement and enthusiasm, and quickly cover the 200 miles to its destination in just two hours.	2
+26	1	1	3	3	0	6	5	2	0	4	0	0	1	3	3	3	0	4.0	3	10	The cat purred contentedly on my lap, as I stroked her soft fur with a sense of satisfaction, knowing she brought me joy. 	2
+28	2	0	2	5	2	6	3	0	0	5	0	1	2	2	2	0	0	6.0	2	14	I enjoy reading and listening to music in my free time, especially when I can connect with other people through shared experiences of love and loss. (1 comma, 1 semi-colon)	2
+11	0	0	1	2	0	2	0	2	1	2	0	0	1	1	1	0	0	4.0	1	4	"Bill arrived at the party punctuated with a loud bang. Pausing briefly, he exclaimed, ""What's all the fuss about?"""	2
+19	1	0	2	3	0	4	0	4	0	3	0	0	2	1	1	0	0	4.0	1	9	The cat jumped gracefully over the small dog with an excited meow, followed by a contented purr.	2
+26	1	0	3	3	2	6	1	4	1	4	0	0	1	2	2	1	0	7.0	2	6	Jeff walked to the nearby forest, enjoying the peace and quiet, and the smell of freshly cut grass that wafted through the trees.	2
+37	0	1	3	6	1	10	1	6	1	3	0	1	4	1	2	2	0	11.0	1	8	Melissa read the last sentence of the novel with a mix of sadness and satisfaction, her heart heavy with emotion, feeling grateful for having spent such a captivating evening in the company of words. (period, exclamation point)	2
+25	1	1	2	3	1	6	2	4	0	3	0	1	1	2	3	1	0	5.0	2	8	The man smiled humorlessly as he read the letter with a mixture of annoyance and disbelief, which was followed by a sarcastic comment.	2
+29	1	0	2	4	1	11	0	4	0	2	0	0	3	1	1	2	0	5.0	1	19	The manager eagerly announced the company's grand expansion plans to the whole team with great excitement during the morning meeting, prompting exclamations of joy and congratulations.	2
+16	1	1	1	1	0	4	2	2	1	2	0	0	1	1	2	2	0	3.0	1	9	Lena laughed loudly at the pun play until her husband gave her a curious look. 	2
+17	1	0	5	1	0	1	3	0	1	3	0	1	0	2	2	2	0	3.0	2	6	"With excitement, Sarah exclaimed, ""I won't let you push me around!"""	2
+13	0	0	2	1	0	4	0	3	1	2	0	0	0	1	2	0	0	3.0	1	7	Jim walked in the door, punctuation marks flying every which way. 	2
+13	1	1	1	0	0	5	1	0	0	3	0	0	1	2	1	2	0	4.0	2	6	I love eating chocolate chip cookies while simultaneously watching humorous cat videos.	2
+28	1	0	4	4	1	6	0	5	0	1	0	0	6	0	1	0	0	4.0	0	11	The big red car drove rapidly down the steep hill, through the old oak tree, over the bouncy log, and into the calm pond.	5
+59	3	3	3	6	4	11	5	7	0	8	0	3	6	5	5	3	0	8.0	5	15	The sky was a bright blue and punctuated with puffy white clouds on a beautiful summer day, which made me feel grateful and relieved that I could finally enjoy some time outdoors after being trapped inside during the rainy season, and I let out a sigh of satisfaction and happiness as I walked through the park.	5
+13	1	0	4	1	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	7	The sun rose slowly in the morning sky ( period (.). The cat purred contentedly ( comma (, comma (.)). John walked briskly down the street (colon (:)). The baby laughed at the silly clown (question mark (?)). Snowflakes fell gently on my face ( apostrophe (').	5
+10	0	0	2	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat curled up on the window-seat. Period. Question mark. Exclamation point. Comma. Full stop.	5
+24	1	0	3	2	1	6	0	5	0	2	1	1	2	1	1	1	0	5.0	1	11	Here are the five punctuations in a sentence: A cat sat on a windowsill, enjoying the bright sunlight and cool breeze. 	5
+14	1	0	3	1	0	5	0	2	0	1	0	0	0	0	1	0	0	3.0	0	7	The dog, tail wagging, barked excitedly at the mailman.!?¡?°?$	5
+29	0	0	7	1	2	9	3	2	1	3	0	0	1	0	2	3	0	4.0	0	18	The cat chased the mouse, period, Question mark, Exclamation mark, comma, and Semicolon; it caught it and ate it with great enthusiasm.	5
+18	1	0	2	2	0	4	2	2	0	2	0	1	1	1	2	0	0	4.0	1	6	The cat laughed at the mouse's punctuations, which it had successfully evaded with great ease.	5
+46	0	2	4	9	1	9	1	6	3	5	1	3	1	3	3	1	0	5.0	3	21	The manager announced to the employees that the company would be closed on Monday because of the holiday, and they were to take a four-day weekend off, ending with a celebratory dinner on Friday evening before returning to work on Tuesday.	5
+26	1	0	4	4	1	9	0	4	0	2	0	0	1	1	1	0	0	6.0	1	10	The storm clouds gathered ominously above the city, punctuated by flashes of lightning, thunder, and a lone siren piercing through the darkness.	5
+37	3	1	4	2	2	7	3	5	1	7	0	0	1	2	5	1	0	6.0	2	10	The cat purred contentedly on John's lap, a smiling sun smiled down on them, and the clock ticked away the moments they savored, until the phone rang and interrupted their peaceful state.!	5
+17	4	0	5	1	1	2	0	2	0	2	0	0	0	1	1	0	0	3.0	1	8	The moonlight danced gracefully, elegantly, lingering, lingually, and lovingly on the waves.	5
+21	1	1	1	3	0	5	0	4	0	3	0	0	3	2	1	0	0	5.0	2	6	The quick brown fox jumped over the lazy dog punctuated with a exclamation mark while running quickly through the rainforest.	5
+24	1	1	3	2	0	8	0	5	0	3	0	0	1	1	2	2	0	3.0	1	13	A zebra, excitedly raced towards the watering hole while throwing a coconut; an exclamation point ended the sentence with great excitement.	5
+29	0	0	4	1	1	6	2	4	0	5	0	0	5	1	2	5	0	4.0	1	23	I visited the big city to see the museums, meet new people, and enjoy the vibrant nightlife, with excited anticipation I entered the bustling metropolis.	5
+21	3	0	4	1	1	4	0	3	0	3	0	1	1	0	3	0	0	4.0	0	10	The sky turned dark, a bolt of lightning flashed, and just as suddenly, the storm had passed.	5
+26	1	1	4	1	1	5	5	2	0	4	0	0	2	3	3	3	0	5.0	3	8	The cat purred contentedly on my lap, as I stroked its soft, fluffy fur, enjoying the warmth and comfort it brought me.!?	5
+20	1	0	6	1	1	9	0	1	0	1	0	0	0	0	1	0	0	3.0	0	13	Birds chirp happily in the trees, period, question mark, exclamation point, semicolon, and dash.	5
+18	0	0	2	2	0	4	1	1	1	3	0	0	4	1	0	2	1	4.0	2	4	"Following her favorite artist on social media helped Sarah achieve a new level of fanatical devotion.!"""	5
+18	0	0	2	3	2	3	1	1	1	4	0	0	1	1	1	0	0	4.0	1	9	Heather walked to school through the pouring rain, and arrived soaked and late for her examination. 💦, 🏫, 😓, ,🔥	5
+29	2	0	5	1	2	6	3	3	0	4	0	1	2	2	3	2	0	5.0	2	16	The sky was filled with stars, and moon, which shone brightly; but the stormy night, brought a darkness that overpowered even their radiant light.	5
+21	0	0	2	3	1	6	2	2	0	2	0	0	2	1	1	1	0	4.0	1	9	He arrived at the hotel with anticipation and excitement, ready to enjoy his weekend getaway from the daily grind! 🚀🛋️💨👣🙌	5
+25	2	1	3	2	1	6	0	4	0	4	0	0	2	2	2	2	0	4.0	2	9	The dog ran so fast across the green field, dodging trees and jumping creeks, while the sun set in the distant horizon. (1 period, 1 question mark, 2 commas, 1 exclamation point)	5
+39	5	2	4	4	1	9	0	7	1	5	0	0	1	2	5	1	0	5.0	2	13	The cat purred loudly on the couch as rain poured down outdoors, a thunderstorm brewed ominously in the distance, and the phone rang urgently in the kitchen, all while Sarah prepared dinner with great enthusiasm.	5
+15	1	0	2	2	0	4	3	1	0	2	0	0	0	0	2	0	0	3.0	0	7	The cat purred contentedly on my lap ‧ I reached for my tea mug ‧ But then it ‧ jumped away ‧ and ran out the door.	5
+16	1	1	2	1	0	3	3	1	0	2	0	0	2	1	2	1	0	3.0	1	7	The cat purred contentedly on my lap as I stroked its soft, furry cheek.	5
+16	1	1	2	1	0	3	3	1	0	2	0	0	2	1	2	1	0	3.0	1	7	The cat purred contentedly on my lap as I stroked its soft, fluffy fur.	5
+34	1	2	4	4	0	9	0	6	0	5	0	0	3	3	3	1	0	6.0	3	10	Bright skies shone above the bustling city, with exclamation points peppering the air, as a smiling sun hung high in the sky, while a few commas danced in the breeze. 	5
+80	2	1	6	13	2	22	2	13	0	12	1	0	4	8	6	1	0	15.0	8	12	The cat curled around the sphinx-like purr that reverberated through, the punctuation adding a hypnotic quality as the light flickered from green to amber to red, the sound echoing softly in a cavern of honey-colored velvet where a lion's mane seemed to writhe and pulsate with the rhythm of the sands, beneath a haze of sunset gold that trembled and shimmered like a thousand butterfly wings caught in an eternal embrace.	5
+63	3	0	9	10	0	14	0	9	0	5	0	0	11	3	2	1	0	6.0	3	32	The big, red, convertible sports car drove down the busy road with no regard for traffic laws, causing multiple semicolons to flash in the sky as a warning to other drivers; however, the reckless driver continued on, determined to get to the destination in the quickest, most exciting way possible, regardless of the risks. (1 semicolon)	5
+22	1	1	2	2	0	5	1	5	0	4	0	0	1	3	3	1	0	6.0	3	6	The rain fell gently upon the landscape, producing a serene atmosphere that lasted until the sun broke through the clouds.	5
+19	2	0	5	0	1	1	3	1	0	6	0	0	0	1	2	2	0	3.0	1	14	He opened the door, looked in, saw them sleeping, smiled, and closed it again.	5
+35	2	0	5	2	2	7	0	6	0	2	0	3	6	1	4	1	0	6.0	1	15	The sky was blue, the earth was green, the sea was vast, and the sun shone brightly with only a small cloud in sight, creating a warm and peaceful atmosphere. (5 punctuations)	5
+9	1	0	2	0	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	4	I will always love you.!?!?! #$%@?	5
+32	1	0	6	3	0	8	3	3	0	4	0	1	2	3	3	2	0	8.0	3	6	With excitement, the group of students rushed into the classroom, eager to find their next assignment, which contained a surprise they would soon discover (question mark). As the bell rang, Sarah's thoughts turned to the test she had tomorrow (period). Meanwhile, the football team gathered on the field for their evening practice (comma), ready to put their new plays to the test (colon). The sun began to set (semicolon), casting a warm orange glow over the entire school (exclamation mark).	5
+28	2	1	5	3	2	4	1	4	0	3	0	1	2	1	2	0	1	4.0	2	8	The cat, who was black and white, walked across the room, and immediately jumped onto the windowsill, before falling asleep in the sun.	5
+22	0	0	5	1	2	9	1	1	0	1	0	0	2	0	1	1	0	4.0	0	13	I ate the big juicy steak with excitement and relish, period, exclamation mark, question mark, and colon. 	5
+44	5	1	6	4	2	6	2	1	2	7	0	1	4	6	2	2	0	7.0	6	18	I walked quickly to school, eager to arrive early and avoid detention, excited to see John, feeling relieved that spring break was almost here, worried about the test on Friday, and anxious to get home to my family.	5
+33	1	2	4	4	0	7	4	3	0	4	0	0	4	3	3	2	0	7.0	3	8	The cat purred contentedly on my lap, as I stroked its soft fur, while I watched the sunset in peaceful silence, feeling grateful for the simple pleasures in life.	5
+11	2	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	7	The rain fell steadily upon the village all night long. Period. End of story. End of sentence. 	5
+30	3	2	3	3	0	5	2	4	0	6	0	0	2	5	2	1	0	4.0	5	12	The cat silently purred as it lay stretched upon the windowsill, watching the snow fall gently during the still evening, before swiftly pouncing upon its unsuspecting prey.	5
+19	0	0	1	3	1	4	1	3	1	2	0	0	3	0	1	1	0	3.0	0	9	The quick brown Fox jumped over a lazy dog with a grin and wagged his tail in excitement.	5
+66	3	1	12	3	3	16	5	6	0	12	0	1	1	9	5	5	0	8.0	9	33	I saw the car parked outside, and I knew I had to investigate, punctuation marks indicated by a question mark, exclamation mark, comma, semicolon, and parentheses; I tiptoed towards the door, carefully avoiding any noise, and slowly turned the knob to see if it was unlocked, hoping to find evidence of a break-in.	5
+18	2	0	7	1	1	2	0	2	0	2	0	0	1	0	1	0	0	3.0	0	4	The cat meowed urgently and suddenly pounced on the little bird. ! ! ! ! ! !	5
+17	2	0	3	2	0	4	0	1	0	2	1	0	2	1	2	1	0	3.0	1	10	The sun set slowly in 𝑠 sky 🏫🌅 with 3 little birds singing sweet melodies 🎶🐦.	5
+47	0	0	9	3	3	15	1	6	0	6	0	1	3	0	5	1	0	5.0	0	28	The sun was setting over the vast ocean, period; their shadows cast a eerie darkness, comma; the waves glistened with diamond sparkles, semicolon; the seagulls swooped and soared, colon; and a gentle breeze whispered of secrets and mystique.	5
+41	1	0	6	5	3	6	2	2	4	6	0	1	4	2	2	3	0	7.0	2	19	I will travel to Spain in June for vacation, where I plan to visit historic cities like Madrid and Barcelona, meet local artisans, enjoy the culture and cuisine, and bask in the beautiful Spanish sun 🌞!	5
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.!?¡? (I hate Mondays!?¡!).	5
+9	1	0	1	1	1	1	1	0	0	0	0	1	2	0	1	0	0	3.0	0	5	I am tired and ready for bed ❤️😴.	5
+39	1	1	4	4	2	8	2	6	0	6	0	0	5	3	2	3	0	7.0	3	8	The dog ran quickly through the green forest, jumping over a small stream and climbing a tall mountain, while his owner laughed and took pictures of him, ending the exciting adventure in the warm sunshine.	5
+20	1	0	2	3	0	6	1	4	0	2	0	0	1	1	1	1	0	4.0	1	7	The cat purred contentedly on the cushion, enjoying the morning sunshine with a gentle stir of its tail.	7
+16	0	0	4	3	0	3	1	1	0	1	0	0	3	0	1	0	0	2.0	0	6	Through the vast, open skies; we soared on wings; of pure delight.	7
+19	0	0	3	1	0	6	2	2	0	4	0	0	0	1	1	3	2	4.0	3	10	Sitting by the window, sipping lemon tea, I watched the birds sing their morning songs. !?;)  	7
+13	0	0	6	0	1	6	0	0	0	0	0	0	0	0	0	0	0	2.0	0	11	 period, commas, semicolon, colon, dashes, and parentheses)	7
+16	1	1	1	2	0	4	2	3	0	2	0	0	0	1	2	1	0	3.0	1	7	The cat purred contentedly on my lap until it heard the mailman at the door.	7
+17	1	0	2	3	0	4	0	4	0	2	0	0	1	1	1	0	0	5.0	1	4	The rain fell gently on the city, punctuated by the occasional toll of a bell.	7
+63	1	1	7	6	2	20	1	10	0	8	0	1	5	2	6	3	0	6.0	2	55	The sun had set, leaving behind a sky of pink and purple hues, a cool breeze carried the scent of blooming flowers, a chirping cricket sang its evening melody, a group of children laughed and played tag in the field, as the setting sun's last light faded away, a quiet rain fell upon the land. (7 punctuations)	7
+28	1	1	10	2	0	4	1	3	1	3	0	0	1	2	2	1	0	4.0	2	8	The cat purred contentedly on Mary's lap as they watched the sun set behind the distant hills.! ? ? ? ? ? ? ? ? ?	7
+17	1	0	4	3	0	3	2	1	0	1	0	0	2	0	1	0	0	4.0	0	5	With excitement, she walked quickly into the dark forest, excited for her adventure!?.!?;	7
+19	1	1	3	2	0	3	3	1	1	3	0	0	1	1	2	0	0	3.0	1	11	The cat purred contentedly on my lap, said Mary, as she gazed into its curious eyes.	7
+7	0	0	1	0	0	1	2	0	0	2	0	0	1	1	1	1	0	3.0	1	3	I enjoyed seeing you last night! You were looking so cute with those new glasses!?! Can we get coffee now!!! 😍 💕 👓 💬👨‍👩‍👧‍👦 🤝	7
+11	0	0	1	2	0	4	1	1	0	1	0	1	0	0	1	1	0	2.0	0	7	I'll eat a sandwich at lunchtime tomorrow with glee!   Your turn, generate a sentence with 9 punctuations!	7
+63	4	2	4	8	4	11	4	7	2	6	0	5	6	4	5	1	0	9.0	4	24	Alice and Bob had walked for miles in the rain before finally arriving at the old mansion they had discovered earlier in the day; they had been walking for hours, and the sky was still dark and stormy when they stumbled upon the old building, tired and hungry after reaching the crest of the hill on their winding journey.	7
+17	2	1	1	2	1	3	1	2	0	3	0	0	1	1	1	0	0	4.0	1	6	The cat purred contentedly on my lap before jumping down and pouncing on a nearby toy.	7
+30	1	1	2	5	0	8	3	5	0	3	0	0	2	2	3	1	0	5.0	2	12	The wind howled in opposition to my open windows as I typed away on my computer, the soft glow of the screen illuminating the darkness of the night. (7 punctuation marks: periods, commas, exclamation mark, question mark, quotes, parentheses, semicolon)	7
+43	4	0	6	5	2	7	2	4	2	6	0	1	1	2	5	0	0	5.0	2	23	The rain poured down from the sky, and the cat purred contentedly on John's lap; however, their happiness was short-lived, for the phone rang and John's boss needed to speak with him right away.	7
+20	3	1	2	2	0	4	0	4	0	3	0	0	1	2	1	1	0	3.0	2	9	The sun sets gradually behind the mountains, leaving a warm glow in the sky before completely disappearing 🌅🏔️🌃🌝🌞🌟.	7
+19	1	1	2	1	0	5	0	2	1	4	0	0	1	3	2	2	0	5.0	3	8	Eagerly, Jack sprung up to grab the last donut before the bell jar pealed indicating morning break.!?!!!!!!!!!	7
+17	2	0	2	2	0	5	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The moon hung low in the sky, shedding silver beams on the calm waters below.	7
+26	1	2	4	1	0	4	1	4	1	5	0	0	3	3	2	3	0	5.0	3	7	Matt walked briskly through the busy streets, admiring the towering skyline, as he enjoyed a warm sandwich, before entering the cozy café.	7
+30	1	1	12	2	1	3	2	1	0	2	0	0	2	1	2	0	0	4.0	1	11	His eyes grew wide with wonder as he stepped into the dark, musty room.,!,?:,();,/,&,$,#,?!	7
+69	3	0	12	5	1	22	3	11	0	8	0	1	2	3	7	3	0	5.0	3	65	The cat sat on the windowsill and watched the bird fly outside, period; it was a beautiful day, comma; the dog wagged its tail with excitement, semicolon; the child laughed at the funny faces the clown made, colon; the sun shone brightly in the sky, parentheses; the baby cooed happily in its mother's arms, exclamation point.	7
+31	0	2	2	3	1	8	4	2	1	4	0	0	3	3	2	3	0	6.0	3	21	Sarah loves to eat pizza slices while watching her favorite movies with her dogs by her side in the living room, because it creates a fun and cozy atmosphere! (7 punctuations)	7
+21	1	0	3	4	0	6	1	4	0	1	0	1	0	0	2	0	1	4.0	1	9	The car, which was silver in color, suddenly screeched to a halt in the middle of the intersection.!?!	7
+41	2	3	6	4	1	10	2	5	2	5	0	0	1	3	2	4	0	7.0	3	14	Sophie smiled brightly and gave Tom a hug with excitement, as they excitedly planned their weekend adventure, to the beach, in the car, while driving through the rain, all while eating delicious ice cream cones. (7 punctuations in one sentence)	7
+51	6	2	6	4	2	8	4	4	0	6	2	3	3	2	5	3	0	5.0	2	28	Though I tried my best to come in under budget; however the project had already cost over ten thousand; and we were still in the early stages of construction; as I walked onto the job site; the crane had already collapsed; and caused significant delays.	7
+18	3	1	1	1	2	2	0	2	0	5	0	0	0	2	1	0	0	5.0	2	5	The cat sat upon the mat and meowed contentedly before jumping down and running outside to play.	7
+39	3	1	7	3	1	8	3	4	1	8	0	0	0	1	2	3	0	4.0	1	29	Bradley carefully walked home, smiled as he passed the park, waved at a neighbor, punched in his security code, opened the door, went inside, and found his sandwich on the kitchen counter.	7
+16	1	0	2	2	0	4	2	2	0	2	0	0	1	1	1	1	0	3.0	1	6	The cat purred contentedly on my lap, punctuating its calm with a sudden mew.	7
+7	0	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	2.0	0	4	He left work at seven punctuations.	7
+36	3	3	5	3	0	6	0	5	0	6	0	0	5	4	2	1	0	6.0	4	15	The bright sun rose slowly in the sky, punctuated by a few scattered clouds, casting long shadows, until finally the sun became fully visible, as if emerging from a distant dream.	7
+13	2	0	2	1	0	4	0	2	0	2	0	0	0	1	1	1	0	4.0	1	4	The storm clouds gathered ominously overhead, threatening a deluge of ☁☂❓⁞⁳☻❗.	7
+77	3	3	8	9	2	18	6	10	0	10	0	0	7	8	4	5	0	9.0	8	20	The delicious sandwich sat atop the flat table, a slice of avocado glinting enticingly beneath the afternoon sun, while the cat purred contentedly on my lap, nudging my hand encouragingly to give it more scratches behind the ears, as I sipped my tea with a thoughtful sigh, feeling relaxed and at peace after a busy week, until the doorbell rang, cutting through my reverie and breaking the pleasant moment.	7
+30	2	0	6	3	1	11	0	2	0	2	0	0	2	1	1	0	0	6.0	1	12	A delicate bouquet of fresh flowers sat gracefully on the dining room table, consisting of roses, sunflowers, lilies, carnations, and baby's breath 💐🌻🔥🏜️🎉💖. 	7
+33	0	0	4	5	1	10	0	6	0	5	1	0	1	0	1	4	0	3.0	0	23	The cat sat on the mat, ate cheese from a plate, wore a new hat, drank milk from a bowl, and gave birth to five cats at the park	7
+45	0	1	5	9	2	12	1	7	0	5	0	0	3	3	2	0	0	7.0	3	15	The rain lashed against the windows, while inside the cafÉ, a group of old friends caught up on their lives, laughing and talking with joyful abandon, punctuated by the occasional ring of a laugh or a clinking of coffee cups.	7
+18	2	0	2	3	1	3	0	3	0	3	0	0	1	1	1	0	0	4.0	1	6	The cat curled up on the windowsill and purred gently, joyfully pouncing on a curious mouse.	7
+20	2	0	3	1	1	4	1	4	0	3	0	0	0	1	3	1	0	4.0	1	10	Okay, the dog chased the cat through the rain, but it quickly stopped when the lightning struck.	7
+74	11	2	7	3	6	7	10	3	0	13	0	5	4	8	8	1	0	7.0	8	56	  The dog ran quickly down the street, but soon realized it had forgotten its ball, so it went back home, only to find that its dinner was already over and there was nothing to eat, and it was too late to play with its toys because it was getting dark outside, and it felt lonely and sad and went to bed early, wondering what tomorrow would bring.	7
+30	2	0	3	3	1	8	1	1	1	5	0	0	4	1	1	3	0	4.0	1	11	Bloomberg's new policy promotes sustainable development through increased investment in clean energy, thereby improving the economic well-being of developing countries and reducing their carbon footprint.	7
+50	7	1	6	5	1	9	0	8	0	8	0	0	5	3	3	1	0	7.0	3	26	The moon gently descended low over the rolling hills, as the first star of the evening slowly appeared in the darkening sky; therefore, the young lovers embraced each other warmly, and danced together under the cool night air, surrounded by gentle fireflies fluttering about.	7
+57	4	0	13	4	1	16	1	2	1	7	0	0	6	1	6	3	0	5.0	1	48	Sun sets slowly, casting warm orange hues 🌅 across a desert landscape; cat purrs contentedly on my lap 🐱; coffee brews rich and smooth ☕️; phone vibrates with incoming message 📱; kitten playfully chases toy 🎾; wind chimes tinkle musically 🎵; clock strikes the hour with clear ringing 🕰️.	7
+54	3	2	5	6	5	8	5	3	2	9	0	1	5	3	3	5	0	8.0	3	20	I visited Rome in June and encountered various historical artifacts, and then ate pizza at a nearby restaurant, and listened to music in my favorite park, until I returned home after a wonderful vacation, and realized I had forgotten sunscreen, and thus purchased it before leaving for the airport	7
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap. period, question mark, exclamation mark, comma, semicolon, em dash, and two parentheses.	7
+15	0	0	1	4	0	6	0	3	0	1	0	0	0	0	1	0	0	3.0	0	8	The cat walked across the table with punctuation marks in places of every step:! (left), & (right), * (up), $ (down). # (front), ^ (back), √ (under).	7
+48	1	0	7	8	1	10	0	8	0	2	0	0	11	0	1	0	0	4.0	0	35	The dog ran quickly around the green tree-lined park, over the small bridge, through the tall yellow grass, above the busy street, into the quiet pink flowerbed, under the blue sky with fluffy white clouds and along the sandy beach. (7 punctuations)	7
+20	1	0	4	2	1	4	0	4	0	4	0	0	0	1	2	1	0	4.0	1	11	The cat sat on the mat and purred; suddenly, the mouse scurried by, startling the feline.!?	7
+22	1	0	5	2	1	3	2	2	0	2	1	1	2	1	2	0	0	3.0	1	18	The cat sat on the dog and howled; he's ready for his close-up! (7 punctuations)	7
+35	2	1	7	3	0	8	4	2	1	4	0	0	2	1	3	2	0	3.0	1	25	The cat purred contentedly on Mary's lap as she stroked its soft, furry back, period; then, with a startled mew, it leapt from her lap, exclamation mark.	7
+31	1	1	4	4	0	7	2	6	0	4	0	0	2	3	2	2	0	7.0	3	10	The cat purred contentedly on my lap, punctuating the silence with a soft mew, while I read a book, surrounded by the quiet hum of the laptop.	7

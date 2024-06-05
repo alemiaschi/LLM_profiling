@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	 Birds chirp in trees.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	We gather round the fire.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The wind howls through the trees.	0
+4	0	0	1	0	0	0	1	0	0	2	0	0	0	1	0	1	0	1.0	1	2	Let's go!  Let's dance!  Passion is contagious!  Excitement levels are high!  Let me show you!  Just do it!  Life is beautiful!  The sun is shining!  I'm here for you!  Let's begin!  Come on, let's play!  Can you hear the ocean waves?  Let's make it happen!  Ready, set, go!  What a wonderful world!  Every moment is a gift!  Let's create something amazing!  Time to hit the road!  Let your dreams take flight!  Let's unleash the power within!  The future is bright!  Happiness is inside of us!  It's time for a new adventure!  Every day is a new opportunity!.	0
+8	0	0	2	0	0	0	1	1	0	3	0	0	0	2	0	2	0	3.0	2	3	"""Let us not forget the forgotten."	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The ball rolls smoothly across the floor.	0
+11	0	1	1	1	0	1	2	1	0	3	0	0	0	2	1	1	0	4.0	2	3	Let's not forget that time waits for no one.	0
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	0	1	0	2.0	0	5	Passionately debating a controversial topic with someone.	0
+9	0	0	1	1	0	3	1	1	0	1	0	1	0	0	1	1	0	3.0	0	3	We can reverse the effects of climate change.	0
+5	0	0	1	0	0	1	0	0	0	1	0	2	0	0	1	0	0	1.0	0	3	Silence can be deafening.	0
+15	0	0	2	1	1	3	0	2	0	3	0	0	2	2	1	1	0	6.0	2	4	The sun starts to rise, painting the sky with orange and pink hues.	0
+5	0	0	1	0	0	2	0	0	0	1	0	1	0	0	1	1	0	1.0	0	2	Silence can speak volumes.	0
+11	0	0	3	2	1	3	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	We run out of time, ideas, and patience.	0
+8	1	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	3	We cannot trust our memories entirely.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	A smile played on her lips.	0
+5	0	0	2	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	" ""She loves dancing."	0
+8	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	We will move ahead with the implementation.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The ball rolled off the table.	0
+5	0	0	1	1	0	2	0	1	0	0	0	0	0	0	0	0	0	2.0	0	2	A bird in flight.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Silence falls heavy within the room.	0
+7	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	We cannot predict the future.	0
+17	0	0	2	1	1	1	3	0	0	2	0	3	2	1	2	1	0	3.0	1	8	I'd be happy to help, but I cannot do it without more context.	0
+7	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	3.0	0	2	The clock's hands move constantly.	0
+7	0	0	2	0	0	0	2	0	0	2	0	1	0	1	0	1	0	2.0	1	4	Let's begin, shall we?.	0
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	People gather in crowds.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The wheels turn relentlessly.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sits.	0
+11	1	0	2	0	1	1	2	0	0	2	0	1	0	0	2	1	0	2.0	0	5	You may not believe it, but time moves forward.	0
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	Silence speaks volumes.	0
+8	1	0	1	2	0	3	0	0	0	1	0	0	0	0	1	1	0	2.0	0	4	  People often take on complicity by omission.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	We receive the email.	0
+6	0	0	1	0	0	2	1	0	0	0	0	1	1	0	1	0	0	1.0	0	4	Silence is my only answer.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Snow falls silently on the city.	0
+8	0	0	1	0	0	0	3	0	0	2	0	2	0	1	2	1	0	2.0	1	3	I can see that's troubling you.	0
+7	2	0	2	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The world spins, ever onward.	0
+11	0	0	1	2	0	3	2	1	0	1	1	0	0	0	1	1	0	3.0	0	7	I need this report on my desk by six o'clock.	0
+5	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	0	0	2.0	0	1	Your offer sounds attractive.	0
+6	0	0	1	0	0	1	1	1	0	2	0	0	0	1	0	2	0	3.0	1	2	Let's make a difference.	0
+6	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	3	I can't go on.	0
+10	0	0	1	0	0	2	1	2	0	2	0	1	0	1	1	2	0	3.0	1	4	I'll need that receipt to verify the transaction.	0
+12	0	0	3	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	" ""The wind whispers through the trees, rustling their leaves."	0
+7	0	0	1	1	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	You bring up a valid point.	0
+5	0	0	1	0	0	1	0	0	0	0	0	2	1	0	1	0	0	1.0	0	3	Ideas can be contagious.	0
+10	0	0	1	1	0	0	2	0	1	2	0	1	1	1	1	0	0	3.0	1	4	I'd like to meet with you next Tuesday.	0
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Silence is golden.	0
+11	0	0	4	0	0	3	1	0	2	0	0	1	0	0	1	0	0	2.0	0	4	"Your email address is ""Sean Figaro""<sfig."	0
+9	1	0	3	1	0	1	1	0	0	1	0	1	0	0	1	0	0	2.0	0	5	We can, indeed, learn from history.	0
+7	1	0	2	1	0	1	0	0	0	2	0	0	0	0	1	0	0	2.0	0	3	Lights flickered, then went out.	0
+13	0	0	1	1	1	3	1	2	0	1	0	1	1	0	0	2	0	3.0	0	9	Can't make you a sandwich and tea at the same time.	0
+7	0	0	1	2	0	1	1	0	0	1	0	1	0	0	1	0	0	3.0	0	3	We are running out of time.	0
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	2.0	0	5	There is one apple on the table.	1
+7	0	0	1	0	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The last cake slice was mine.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps on the mat.	1
+11	0	0	2	1	0	2	1	2	1	1	0	0	1	0	1	1	0	2.0	0	4	Every third Wednesday, she sells lemonade at the market.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	This apple is red.	1
+11	1	0	1	1	0	2	1	0	0	2	0	0	2	1	0	0	0	4.0	1	3	There are still many things to learn about artificial intelligence.	1
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	0	0	0	2.0	0	5	There is an elephant in the room.	1
+15	0	1	2	1	0	4	2	2	0	2	0	0	1	1	1	2	0	5.0	1	4	Every morning, I find solace in reading a chapter of my favorite book.	1
+10	0	0	1	1	0	2	1	2	0	1	0	1	0	1	1	0	0	3.0	1	5	Every book in this library is yours to borrow.	1
+11	0	0	2	1	0	2	2	1	1	1	0	0	1	0	1	1	0	2.0	0	5	Every Friday, she buys fresh flowers for her mother.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	Every child deserves a happy childhood.	1
+16	0	1	1	2	0	5	1	2	0	2	0	0	2	1	0	1	0	5.0	1	5	There is a significant challenge in solving complex problems in the field of quantum computing.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	My uncle lives near the lake.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The teacher prepared a lesson on vowels.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly over the hill.	1
+10	1	0	1	1	0	2	0	0	0	0	1	2	1	0	1	0	0	3.0	0	4	One should always be considerate of others' feelings.	1
+11	0	0	2	0	0	3	1	2	1	1	0	0	0	0	1	1	0	3.0	0	5	Every morning, I read The Guardian's culture section.	1
+8	0	0	1	1	0	1	3	0	0	1	0	1	0	0	1	1	0	2.0	0	4	You'd need my passport for that.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The sun was rising over the horizon.	1
+7	0	0	1	1	0	2	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Her cat sleeps on her keyboard.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+6	0	0	1	0	0	1	1	0	0	0	0	1	2	0	1	0	0	2.0	0	2	My favorite color is green.	1
+9	0	0	1	0	0	2	3	0	0	2	0	0	1	1	1	1	0	4.0	1	2	There are several factors that influence my decision.	1
+12	1	0	1	1	0	2	2	0	0	3	0	0	1	2	0	0	0	5.0	2	3	There are still several books left to read on my shelves.	1
+9	0	0	1	0	0	2	0	1	1	2	0	0	1	1	0	1	0	3.0	1	4	Please find more information regarding the Smith household.	1
+10	1	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	3.0	0	6	You must read every page of that book thoroughly.	1
+11	0	0	1	1	0	3	1	2	0	1	0	1	1	0	1	1	0	2.0	0	5	The new employee must bring her resume to the interview.	1
+8	0	0	2	0	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	3	Every month, I read your magazine.	1
+10	0	0	1	1	0	3	2	1	0	1	0	0	1	0	1	1	0	3.0	0	4	You need a stronger determinant for your thesis statement.	1
+12	0	0	2	1	0	4	1	3	0	1	0	0	0	0	1	1	0	2.0	0	5	Every year, the community celebrates its heritage during the festival.	1
+14	0	0	2	0	0	5	1	2	0	3	0	0	0	2	1	2	0	4.0	2	4	Every year, the students receive grants to help pay their tuition fees.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	2	Every second student got an apple.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The baby cried persistently.	1
+6	0	0	1	0	0	1	1	0	0	1	0	0	1	0	0	1	0	2.0	0	3	Please bring your own pencils.	1
+9	0	0	1	1	0	2	1	1	0	1	0	1	1	0	1	1	0	2.0	0	5	You might discover new recipes with that cookbook.	1
+8	0	0	1	0	0	2	0	2	0	1	0	1	1	0	1	1	0	2.0	0	3	Every student should own a decent dictionary.	1
+8	2	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	4	You should consider our proposal very carefully.	1
+11	2	0	2	0	0	2	1	1	0	1	0	0	0	1	0	1	0	3.0	1	8	Your turn to bring some dishes as well, please.	1
+7	0	0	1	1	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	All books are worthy of exploration.	1
+7	0	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	3	I can't find my pen.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept by the fireplace.	1
+7	1	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	The old lady was very kind.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+8	1	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	2.0	0	3	I will certainly need a new map.	1
+7	0	0	1	0	0	2	2	1	0	0	0	1	0	0	1	0	0	2.0	0	3	Your input is the determiners itself.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the beach.	1
+7	0	0	1	0	0	2	0	1	0	2	0	0	0	1	1	1	0	2.0	1	3	All flowers need water to bloom.	1
+11	1	1	1	0	0	2	0	2	0	3	0	0	0	2	0	2	0	4.0	2	5	Please consider reading the document closely before making a decision.	1
+8	0	0	1	0	0	2	0	1	0	1	0	0	3	0	1	1	0	2.0	0	3	The nearest restaurant serves excellent Thai food.	1
+10	0	0	1	1	0	3	2	1	0	1	0	0	1	0	0	0	0	3.0	0	4	There's an old apple tree in our orchard.	1
+12	0	0	1	1	1	2	1	1	0	2	0	0	3	1	0	0	0	4.0	1	5	There are several red and yellow chairs scattered throughout the room.	2
+14	0	0	5	0	1	4	0	2	0	0	1	0	1	0	0	0	0	2.0	0	10	 the two (quantity determiner) and the red (color determiner).	2
+15	2	0	1	1	1	4	0	2	0	2	0	1	0	0	1	0	0	3.0	0	5	Each employee's productivity is closely monitored and evaluated annually by the management team.	2
+8	0	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	4	Two cats slept on the old carpet.	2
+17	0	0	1	2	0	7	1	3	0	1	0	0	1	0	1	1	0	4.0	0	6	The red car in my parking lot has a scratch on the driver's side door.	2
+18	0	1	1	1	2	3	0	3	0	3	0	2	2	1	2	0	0	4.0	1	6	The red and green cards indicate that goals have been both scored and conceded in the match.	2
+15	0	0	2	2	0	4	1	3	1	1	0	0	1	0	1	1	0	3.0	0	7	Every second Monday, my dog requires a walk around the park at sunrise.	2
+14	0	0	1	2	0	4	1	2	0	1	1	1	1	0	2	0	1	3.0	1	5	The three artworks that are on loan belong to the modern art collection.	2
+17	0	0	1	2	1	6	0	5	0	1	0	1	0	0	1	1	0	3.0	0	9	Every student in the school must bring a ruler and a pen to the examination hall.	2
+16	0	0	2	2	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	7	Every morning in the market, the vendors bring fresh bread to sell alongside old.	2
+16	0	0	1	1	1	4	0	4	0	1	0	0	4	0	1	1	0	3.0	0	5	The blue car on the grassy hill has a dented bumper and a flat tire.	2
+9	0	0	2	0	0	3	0	1	0	1	0	1	0	0	2	1	0	2.0	0	4	Some dogs fetch toys, others do not.	2
+14	0	0	3	1	0	3	0	1	0	3	0	0	3	1	1	0	0	4.0	1	4	The large, old mansion lies abandoned, hidden behind tall pine trees.	2
+15	0	0	1	2	1	4	0	4	1	1	0	1	0	0	1	1	0	3.0	0	10	Each student was given an hour and a book for the test on Monday.	2
+14	0	0	1	1	0	4	0	2	0	1	0	0	5	0	1	1	0	3.0	0	3	The big yellow house next door has a lovely garden with colorful flowers.	2
+13	0	0	1	1	1	4	0	2	0	1	0	0	3	0	1	1	0	4.0	0	9	The children collected several blue and red toys in the living room.	2
+23	0	0	2	4	1	6	1	1	0	3	2	0	3	0	1	1	1	5.0	1	11	Two large suitcases and three carry-on bags filled with essential belongings made up her substantial load for the weekend trip.	2
+13	0	0	1	1	1	4	0	4	0	1	0	1	0	0	1	1	0	3.0	0	8	Each student must bring a textbook and a notebook to the exam.	2
+16	1	0	1	3	0	5	0	3	0	1	0	0	2	0	1	1	0	4.0	0	6	The large number of employees in this office use a significant amount of paper daily.	2
+14	0	0	1	0	1	4	0	2	0	2	1	0	3	0	1	1	1	4.0	1	4	The new building located next door has five levels and an attractive facade.	2
+10	0	0	1	1	0	2	1	1	0	0	1	1	2	0	1	0	0	2.0	0	4	She's an experienced manager with three devoted employees.	2
+9	0	0	1	0	0	3	0	1	0	1	1	1	1	0	1	1	0	2.0	0	4	Two lions were guarding the majestic palace gate.	2
+13	0	0	1	1	2	3	0	2	0	1	0	0	3	0	1	1	0	4.0	0	5	The book on that specific shelf contains both old and new editions.	2
+12	0	0	1	2	0	3	1	1	0	1	1	1	1	0	1	1	0	3.0	0	5	Two of our employees have requested leave during this busy season.	2
+12	0	0	1	2	0	3	0	3	0	1	1	0	1	0	1	0	0	3.0	0	4	The two cats fought over the last fish in the bowl.	2
+10	0	0	1	1	0	2	0	1	0	2	1	0	2	1	1	0	0	3.0	1	5	Two cats sat purring on the soft Persian rug.	2
+13	0	0	5	1	1	2	0	2	0	0	1	0	1	0	0	0	0	2.0	0	6	" ""The two elderly cats"" and ""in the garden""."	2
+17	0	0	1	2	0	3	2	3	0	1	0	2	3	1	2	0	0	3.0	1	5	The large red ball is among the few items that I'll need for the demonstration.	2
+18	0	0	3	1	2	5	0	3	0	2	0	0	2	0	1	1	0	4.0	0	14	The team needs all relevant data articles, both electronic and printed, for the project analysis.	2
+21	0	0	2	3	1	6	1	2	0	2	2	0	2	0	1	1	0	4.0	0	14	Every morning, my grandmother brews and drinks two cups of strong black coffee with two teaspoons of sugar each.	2
+13	1	0	1	2	0	3	1	2	0	1	1	0	1	0	1	0	0	2.0	0	8	The two babies sleep peacefully in their cribs after a satisfying meal.	2
+19	1	0	1	3	1	5	0	3	0	1	0	1	3	0	1	0	0	4.0	0	9	The old house on the corner of the block is usually filled with loud noises and busy activity.	2
+16	0	0	1	2	0	6	0	3	0	2	1	0	0	1	1	2	0	3.0	1	9	The professor gave each student two sets of problem questions to review before the exam.	2
+14	1	0	2	1	0	4	1	2	0	1	0	0	2	0	1	1	0	3.0	0	7	Every year, the company awards several bonuses to its most valuable employees.	2
+16	2	0	1	1	0	4	1	2	0	2	1	0	2	1	1	1	0	4.0	1	5	The two largest retailers typically have a significantly greater market share compared to their competitors.	2
+11	1	0	2	1	0	2	0	1	0	1	0	1	2	0	1	0	0	2.0	0	4	The small, fragile items are best handled with care.	2
+19	0	0	2	2	1	5	2	2	0	2	0	1	1	0	2	2	0	3.0	0	11	Some students bring their pets to class, but most professors don't allow them inside the building.	2
+13	0	0	1	2	0	3	1	2	0	1	0	2	1	0	1	0	0	3.0	0	6	All books on that shelf have been donated to our local library.	2
+15	0	0	1	3	0	4	1	3	0	2	1	0	0	1	2	0	0	3.0	1	4	The two cats in the alley fight over every scrap of trash they find.	2
+12	0	0	2	0	0	3	1	2	1	1	0	0	2	0	1	1	0	3.0	0	5	Every other Sunday, she visits the large antique shop downtown.	2
+9	1	0	1	0	0	3	0	1	0	1	2	0	0	0	1	1	0	2.0	0	4	The two children shared three candy bars equally.	2
+15	0	0	1	2	0	3	1	3	0	2	1	1	1	1	2	0	0	4.0	1	5	The children were fascinated by the two red balls they discovered in the park.	2
+10	0	0	1	1	0	2	0	2	0	2	0	1	0	1	1	0	0	3.0	1	3	Both cats seem to be napping on the mat.	2
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	Both cats slept peacefully inside their cozy blankets.	2
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	Both cats purred quietly in their respective cradles.	2
+19	0	0	3	2	0	6	1	3	0	1	1	0	2	0	2	1	0	4.0	0	9	Two elephants entered the clearing, each with a large tree trunk in their ivory-white tusks.	2
+18	1	0	5	1	0	4	0	3	0	2	0	1	1	2	1	0	0	6.0	2	8	"  * ""each"": a quantifier determiner indicating how many of the subject students are involved."	2
+11	1	0	1	1	0	2	0	2	0	1	2	0	1	0	1	0	0	2.0	0	6	The two cats slept soundly on the six fluffy pillows.	2
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	0	1	1	0	2.0	0	7	Some children have more toys than others inside the playroom.	2
+17	0	0	2	2	0	6	0	3	1	2	0	0	1	1	1	0	0	4.0	1	5	Every third Monday, the staff gathering begins with light refreshments served from the office pantry.	2
+39	1	0	7	6	0	8	0	4	0	4	1	1	7	2	2	0	1	7.0	3	8	The ancient city, shrouded in mystery, was surrounded by a dense, tropical rainforest filled with exotic, vibrant plants, where a family of four monkeys scampered along branches above a shallow, clear river.	4
+30	1	1	4	2	1	5	0	4	0	6	0	0	6	4	2	1	0	6.0	4	15	The sun began setting beyond the distant hill, casting long, yellow shadows over the red, leafy canopy as the fluffy snowdrifts started melting and dripping softly.	4
+29	0	1	3	3	1	6	3	3	0	4	1	0	4	2	3	1	0	4.0	2	16	The elderly woman carried a silver bowl overflowing with fresh strawberries, two spoons, and her old cat followed behind her as she headed to the porch.	4
+20	0	0	2	3	0	7	1	2	0	2	0	0	3	0	1	1	1	4.0	1	11	 The red sports car parked beside the wide boulevard under golden autumn leaves, revs its engine in excitement.	4
+32	0	0	13	0	0	12	0	2	0	0	1	0	2	0	0	0	0	5.0	0	10	  * several (quantity determiner) * three (number determiner) * each vessel (demonstrative determiner x2) * the waterfront (determiner+article+noun- modifier)  To create a sentence of your own with multiple determiners, follow a similar pattern using specific determiners and descriptive words to modify the articles and/or quantifiers.	4
+51	2	1	5	7	1	14	0	10	0	8	0	0	3	2	3	1	0	10.0	2	16	The old, abandoned mill lay in the midst of a thicket of overgrown trees, the rotting timber groaning in the wind, and with weeds growing in the cracked concrete pools where water once spun the machinery - a forgotten relic in the heart of the ancient forest.	4
+30	0	1	2	4	1	9	0	4	0	5	0	1	2	1	2	1	0	5.0	1	19	The ancient city's labyrinthine alleyways were crisscrossed with cobblestones and lined with half-ruined buildings while the echoing calls of vendors from each corner invited the tourists.	4
+19	0	0	1	4	0	5	0	2	0	3	0	0	4	2	0	1	0	6.0	2	4	Under the vast ocean lies a network of ancient coral castles surrounded by colorful schools of fish swarming.	4
+38	0	0	3	5	2	9	1	3	3	5	0	0	5	2	1	3	0	6.0	2	13	With its newfound wealth and expanding influence, Russia's growing political clout in Eastern Europe raised concerns among several EU countries, leading some to question the lines of demarcation and the potential for future conflicts.	4
+29	0	1	2	5	0	9	0	4	0	3	0	0	5	2	2	1	0	4.0	2	15	The gardener plucked a ripe strawberry from a luscious bed surrounded by thorny vines, while butterflies gathered on fragile flowers beneath the shade of large sycamore trees.	4
+22	0	0	2	3	0	6	1	4	0	2	0	0	4	1	1	1	0	3.0	1	7	A tall giraffe with a patchy coat stood among the colorful flower bushes, swallowing the sun with its long neck.	4
+31	0	0	3	4	1	10	1	3	0	3	1	1	3	1	1	1	1	5.0	2	18	An elderly woman with cataract-filled eyes, two canes for support and a heart shrouded in fear was hesitant to take the last stair before her apartment door.	4
+37	0	1	4	4	1	10	1	4	0	4	0	0	8	3	2	1	0	6.0	3	14	A woman in blue jeans, red jacket, oversized sun hat and black shoes walked down the deserted beach, whistling a cheerful air as she searched for treasures hidden beneath the fine white sand.	4
+38	1	0	3	6	0	11	2	5	0	2	0	1	7	2	2	2	0	6.0	2	10	A small antique shop on the edge of a bustling city center is famous for its collection of unique jade sculptures that often attract a crowd of eager, wealthy tourists, drawing lines around the block.	4
+38	0	1	4	4	1	10	2	5	0	3	0	0	8	2	3	1	0	7.0	2	11	The large, black labrador chased the red fox, its pink tongue hanging as it raced through a patch of high, dry grass between a field of yellow rape crops and the still azure lake.	4
+38	0	1	4	7	0	10	2	3	0	7	0	1	3	4	3	0	1	9.0	5	9	The ancient map, crinkled from centuries of handling, pointed toward a legendary shrine surrounded by towering pillars that glowed in the dark, while its cornerstone was made of precious rubies encrusted in diamond casing.	4
+28	2	0	2	3	0	8	0	4	0	3	0	1	4	2	2	1	0	5.0	2	10	The small antique store on the bustling corner of the downtown market was filled to brim with unique treasures, where eager shoppers carefully inspected every detail.	4
+26	0	0	2	4	0	8	0	4	0	4	2	0	2	1	2	2	1	4.0	2	11	With two hands supporting a steaming teapot, a grandmother in a flowered apron poured the fragrant contents over four sugar cubes floating on saucers.	4
+23	0	0	2	2	0	8	0	3	0	3	0	0	4	1	1	2	0	4.0	1	10	The little old lady's trembling hand grabbed the glass, spilling precious drops of golden champagne onto the silk table runner.	4
+22	1	0	2	4	0	7	2	2	0	3	0	0	1	1	1	0	0	4.0	1	13	In every kitchen there lay a plate of spaghetti smeared with homemade tomato sauce, olive oil drizzled generously over it.	4
+33	1	1	3	4	0	8	2	6	0	3	0	0	4	2	3	2	0	7.0	2	6	The shy young girl's eyes reflected a fearful uncertainty as she picked up the spider, whose fangs glistened ominously, from the corner of the room with a rusty fork.	4
+34	0	0	4	3	2	7	1	3	2	6	0	1	4	2	1	1	0	6.0	2	21	In this dense forest there are numerous hidden creeks shimmering under the scorching midday sun, but the biggest, named Marlowe's Stream, is encircled by lush grasslands and blooming flowers.	4
+16	1	0	1	2	0	3	0	2	0	1	1	1	4	0	1	0	0	2.0	0	9	Four golden apples were carefully arranged beside the ancient silver plate during the elaborate ceremony.	4
+23	0	0	1	3	1	7	2	2	0	1	0	0	5	0	1	1	0	4.0	0	8	The elderly widow's shabby house with its broken windows and crumbling foundation held memories of her late husband within every room.	4
+16	0	0	11	2	1	0	0	2	0	0	0	0	0	0	0	0	0	2.0	0	13	" ""a,"" ""with,"" ""of,"" and ""a."	4
+30	0	1	4	4	0	9	0	3	0	4	0	1	4	2	2	1	1	4.0	3	11	The ancient Mayan temple, half covered in vegetation, had walls adorned with colorful paintings, while the entrance was filled with an enchanting scent of cinnamon flowers.	4
+33	1	0	1	6	1	10	1	5	0	3	1	0	3	0	1	1	1	6.0	1	10	An orange tabby tomcat with a patch of fur missing on one ear licked itself in the dimly lit alley amidst the litter and the pungent smell of last night's leftovers.	4
+12	0	0	5	0	1	4	0	0	0	1	0	0	1	0	0	0	0	2.0	0	10	 hearty, morning, vintage, and vintage rose-painted.	4
+31	0	0	4	6	0	7	1	4	0	2	2	0	5	1	0	0	0	6.0	1	12	There are five small, blue marbles in each box, stacked on nine wooden shelves with red runners, in an old warehouse on the outskirts of the city.	4
+22	0	0	3	3	0	6	0	1	0	3	0	1	5	3	0	0	0	5.0	3	11	Underneath the ancient ruins were tiny rooms with yellowed walls, red curtains drawn shut, candles flickering on dusty mantelpieces.	4
+30	1	1	2	3	1	8	1	8	0	3	0	0	2	2	3	1	0	6.0	2	11	Each child held a toy, a red bear with a yellow ribbon and an apple that rolled on the table while a cat purred softly in the corner.	4
+21	2	0	1	3	1	4	2	1	0	4	0	0	3	2	1	1	0	7.0	2	5	There are many artists who create detailed sculptures out of seashells with each intricate part carefully chosen and delicately placed.	4
+28	0	0	3	4	0	8	1	3	0	4	1	0	3	2	1	1	0	4.0	2	7	Underneath the bed's worn cotton sheets, six silver coins lay scattered like sand on the seashore, emitting a faint glow from their antique patina.	4
+20	0	0	2	3	0	6	1	2	0	1	1	2	2	0	1	0	0	4.0	0	13	Every second, an average of 204 sugar packets worth of plastic is being dumped into our marine environment.	4
+27	0	0	5	2	1	9	1	2	1	1	0	0	4	0	1	1	0	4.0	0	12	Nora's grandmother, in her pink cardigan and polka dot skirt, presented the family heirloom necklace as a precious, valuable, antique piece.	4
+38	0	1	3	6	1	13	2	5	1	2	0	0	4	1	1	1	0	5.0	1	18	The old man in the red house had a cat named Whiskers with white fur on its paws, black spots on its body, and a penchant for sunbathing near the bay window in winter mornings.	4
+39	0	0	4	8	0	12	1	8	0	2	0	0	4	1	2	1	0	7.0	1	11	Every year, during springtime in the desert, the ancient sands hide a multitude of treasures in a sea of yellow poppies - a vibrant display of blooms that stretches from the eastern to the western borders.	4
+22	0	0	2	2	1	8	2	2	0	1	0	0	4	0	1	1	0	4.0	0	11	An early winter snow surprised the mountain goats at their alpine habitat with its heavy covering and icicle-laden trees.	4
+23	2	1	3	1	0	5	0	4	0	3	0	0	3	1	2	1	1	4.0	2	8	The tiny bird's nest, perched on the overhanging cliff, sheltered the fragile eggs while the sun set dramatically behind.	4
+34	0	2	3	3	3	8	2	3	0	7	0	1	1	3	2	2	0	5.0	3	17	A group of children played hide and seek amongst the large and towering oak, maple and beech trees, with each of them hoping to reach their designated spot before being discovered.	4
+60	0	0	5	7	1	18	6	5	0	6	0	1	9	4	1	4	0	7.0	4	20	Every other morning during autumn, the elderly woman with the yellow hat and a pair of wire-rimmed glasses would sit on her porch sipping tea from her finest china cup, watching her grandchildren's blue school bus making its slow descent down her long gravel driveway, eager to greet them with a warm smile.	4
+26	0	0	4	4	0	8	1	3	0	2	1	0	3	0	1	1	0	3.0	0	14	Under the shade of tall sycamore trees, five squirrels gathered their nuts near a clear, stone-edged creek before the first snowfall.	4
+30	0	0	3	5	1	9	1	5	0	2	0	0	4	1	1	1	0	4.0	1	13	A tiny kitten with a pink collar and a white tail, curled up in front of the old lady with a crochet shawl, sipping her mint tea.	4
+23	0	0	1	5	0	7	0	1	2	2	0	0	5	1	1	1	0	5.0	1	9	A tall chef with calloused hands served hot crêpes smothered in lemon butter to eager customers during Carnival festivities in New Orleans.	4
+27	0	0	4	3	2	7	1	2	0	2	0	0	6	1	1	0	0	4.0	1	10	The ancient temple complex, despite its intricate architecture and colorful art, sits neglected amidst overgrown weeds and moss in the dense, untouched jungle.	4
+26	1	0	3	4	1	6	1	3	1	1	0	0	5	0	1	0	0	5.0	0	5	In the vast, open savannah, elephants roam freely under the watchful eyes of the Maasai herdsmen with their proud spears and vibrant shukas.	4
+21	0	0	2	4	0	6	1	3	1	1	0	0	3	0	1	1	0	3.0	0	10	At dawn on an icy December morn, a lone fisherman cast his net in a sea of silvered mirror.	4
+27	1	0	3	4	0	8	1	5	0	3	0	0	2	2	1	2	0	7.0	2	8	The sun set behind the mountains, its orange rays piercing the fog in the valleys, creating pockets of brightness among the otherwise darkened terrain.	4
+18	1	0	1	2	0	3	2	2	0	2	1	1	3	1	2	0	0	3.0	1	7	The small red ant crawled under the old leaf with five legs that it had somehow gained.	4
+33	1	1	2	5	1	7	3	2	0	3	0	1	6	1	3	0	0	4.0	1	11	The baby's blue eyes were surrounded by tiny blonde lashes, and her pink bow peeked out from under her curly brown hair as she eagerly reached for the red balloon.	4
+19	1	0	3	3	0	5	1	3	0	2	1	0	0	0	1	1	1	3.0	1	10	Those five books, chosen meticulously, hold a place of importance in my collection among the others.	6
+34	2	0	5	3	2	9	1	4	0	2	1	2	1	1	2	1	0	5.0	1	8	With the company's expansion, six new offices will house the marketing, accounting, and IT departments, all of which will operate independently but seamlessly under the corporation's umbrella.	6
+25	0	0	3	2	1	6	0	3	0	3	1	1	5	0	1	0	0	5.0	0	13	The bookcase is filled with several thousand tomes, the majority dusty and forgotten, the few remaining accessible housing favorites from bygone eras.	6
+34	0	0	4	5	0	8	2	4	0	4	2	0	4	3	1	2	0	6.0	3	8	After a rainy summer night, five frogs leap from their pond with alacrity, crossing a silvery six-legged web to evade the eighth spider waiting for them near the forest.	6
+23	1	0	7	0	1	8	1	2	0	2	0	0	1	1	1	2	0	4.0	1	12	The committee considered each application, carefully weighing its importance, urgency, merit, feasibility, resources, and potential outcome.	6
+18	1	0	2	3	1	8	0	0	0	2	0	0	1	0	1	1	0	5.0	0	4	In ancient temples, priests wore intricately designed gold masks with rubies for eyes and emerald crowns.	6
+18	3	0	1	2	0	4	2	2	0	2	0	1	1	1	2	2	0	3.0	1	7	That dog is often fed scraps behind the nearby market from vendors who drop them there daily.	6
+42	3	0	5	5	4	10	0	4	0	4	0	0	7	0	1	1	0	5.0	0	24	With the increasing popularity of minimalist living, a few key pieces of furniture and select appliances, along with several carefully chosen utensils and tableware, fill the sparsely decorated, yet warm and functional living space of the apartment.	6
+56	2	2	8	7	2	14	1	8	0	6	0	0	5	4	3	0	0	7.0	4	20	Every morning, the neighborhood cats congregate at the corner of the third street under the magnolia tree, waiting for their respective owners to leave for work, the ones with food left over, the chattered and well-fed, while others wait in vain for scraps, the scrawny and hopeful.	6
+20	0	0	5	1	1	6	2	1	0	2	0	0	2	1	1	1	0	5.0	1	7	Each city has its own distinct identity, reflected in its architecture, culture, language, and demographics.	6
+26	0	0	7	2	1	3	0	4	0	1	0	1	7	1	2	0	0	3.0	1	12	The blueberries in the pie are sweet, soft, ripe, plump, and succulent, each bursting with an intense, luscious flavour.	6
+15	0	0	6	1	1	4	1	2	0	0	0	0	0	0	0	0	0	2.0	0	10	 this, a row, towering, of, fall, and a myriad.	6
+32	0	0	7	2	1	11	0	1	0	4	0	1	5	1	1	1	0	6.0	1	19	The marketplace is bustling with merchants selling colorful quilts, hand-painted vases, fragrant spices, exotic fruit arrays, gleaming gemstones, and ornate jewelry from distant lands.	6
+23	2	0	2	5	1	6	0	3	0	1	0	1	2	0	1	0	0	5.0	0	12	With the exception of a handful of scholars and enthusiasts, very few are interested in this virtually forgotten genre of poetry.	6
+32	0	0	3	3	2	10	1	2	0	6	0	0	5	3	1	2	0	6.0	3	16	Each room contained several large paintings adorned with gilded frames, antique furniture draped in faded damask fabrics, and countless knickknacks displaying their silent stories on the shelves and cabinets.	6
+25	0	0	7	1	2	7	0	2	0	3	0	0	3	2	1	2	0	6.0	2	5	"Every morning, the mail carrier sorts stacks of mail, delivering numerous letters and packages marked ""fragile"" and ""urgent""."	6
+26	1	0	2	2	1	7	2	3	0	2	0	0	5	1	2	2	0	5.0	1	7	The ancient fortification's crumbling stone walls bear witness to a long and rich history, the legacy of countless generations that called it home.	6
+41	2	1	4	4	2	8	0	5	0	3	3	0	9	1	3	1	0	5.0	1	18	The red ball lies on the white tablecloth next to a small orange, while two big blue bottles of water sit in the corner, one empty and one almost full, and the green plants need regular watering.	6
+27	3	0	3	1	1	5	0	4	0	5	0	1	3	3	0	1	0	6.0	3	11	Beneath this rug lies a long forgotten family secret, an intricate puzzle waiting to be unraveled, a mystery deeply buried and yet easily accessible.	6
+41	1	0	20	4	0	9	0	4	0	1	0	0	2	1	0	0	0	5.0	1	9	" ""serenely"", ""through the rainbow-hued meadow"", ""past the grazing zebras"", ""amidst an auburn sea of autumn leaves"", ""the red balloon"", ""sailed"")."	6
+26	0	0	5	3	0	6	1	5	0	2	0	0	4	0	1	1	0	3.0	0	11	Among the unkempt gardens, the rusty machinery, the puddled metal, gathers an army of forgotten clocks, each with its broken pendulum.	6
+33	1	0	4	3	2	9	2	3	0	3	1	0	5	1	2	3	1	4.0	2	14	Those three kittens found under the car, with muddy paws, shivering and meowing, brought new energy into the quiet house when we gave them warm food and dry shelter.	6
+23	0	0	2	3	0	8	0	1	0	2	1	0	5	0	1	1	0	4.0	0	9	The elderly nun's prayer book contained five hand-written psalms beside several yellowed photographs of young saints in monastic robes.	6
+29	0	0	7	5	0	9	0	2	0	1	2	1	2	0	1	1	0	5.0	0	18	 Each employee was issued two identification cards; one (for entry into secure areas), the other (as proof of eligibility for insurance benefits).	6
+31	0	0	3	7	1	8	0	5	0	3	1	0	3	1	1	0	1	5.0	2	15	Each of these six lighthouses, located at distinct capes along the rugged cliffs, serves as a beacon of safety and security for mariners passing through the treacherous waters.	6
+27	1	0	4	2	0	5	1	7	0	3	0	0	4	2	2	2	0	5.0	2	8	Despite the gloomy forecasts, every new rainstorm washes away half the dust, clearing the way towards the crystal-clear skies we all crave.	6
+34	0	0	3	5	1	12	0	4	0	3	0	0	5	1	1	2	0	4.0	1	12	The sun's rays filtered through the thick foliage of autumn leaves, illuminating the damp forest floor with flecks of golden light, and casting long shadows on the mossy tree trunks.	6
+24	1	0	2	3	3	8	0	3	0	2	0	1	1	0	2	1	0	5.0	0	11	The kitchen is littered with pots and unfinished entrees, yet the chef meticulously inspects each ingredient for flecks of dust or imperfections.	6
+34	0	0	3	5	1	8	2	5	0	4	1	0	5	2	2	1	0	7.0	2	10	Each of the eight remaining books from your childhood library has a unique, yellowed cover embellished with the distinct smell of age and the intricate, handwritten labels you made in cursive.	6
+42	0	0	5	4	1	10	2	7	0	5	0	0	6	3	1	1	0	7.0	3	13	Under the old man's will, there lies a hidden treasure in the ancient mansion's attic, guarded by a caged owl, a spooky stairway littered with tattered velvet, and a mysterious map that holds the secret.	6
+23	1	0	3	2	0	6	2	1	0	3	0	0	4	2	1	1	0	5.0	2	8	Your sister, despite her occasional moodiness, still manages to organize an annual charity gala attended by several influential community figures.	6
+45	1	0	8	5	4	13	0	3	0	4	0	0	7	2	1	1	0	10.0	2	10	The ancient Egyptian civilization boasts a collection of temples, tombs, and statues crafted with the finest limestone and adorned with gold, precious gems, and intricate hieroglyphics, often depicted with iconic features such as pyramids, cobras, and scarabs.	6
+19	2	0	2	1	0	2	4	0	0	3	1	0	3	2	2	2	0	6.0	2	6	Your question prompted us to examine numerous possible options, six of which we deemed as especially interesting.	6
+19	0	0	3	2	1	5	1	1	2	2	0	1	0	1	2	0	0	4.0	1	6	Amy's kitchen is filled with pots and pans from her Grandma, some antiques, others inherited.	6
+33	2	1	5	4	0	10	1	4	0	4	0	0	2	2	2	2	0	3.0	2	12	In the marketplace, amid towering displays of fruits, this vendor sells the juiciest oranges, priced reasonably, while nearby his competitor offers the tartest lemons at bargain basement prices.	6
+22	0	0	5	1	0	8	0	3	0	1	3	0	1	0	1	1	0	3.0	0	9	Each morning, during the autumn sunrise, four deer drink the clear pond water, two males, one female.	6
+53	1	0	5	8	2	18	2	4	0	3	1	0	9	2	1	1	0	8.0	2	12	Each weekday morning at exactly six o'clock sharp, a group of business executives arrives at the ornate wooden gate of the private tennis court, clad in crisp white shorts and sweatbands, clutching new tennis balls in their racquet bags and sips of hot, strong coffee in their thermoses.	6
+25	1	0	4	2	1	7	0	2	0	3	1	0	4	1	1	1	1	5.0	2	9	The ancient ruins, hidden deep in the vast jungle, contained six chambers filled with gold coins, priceless artifacts and exotic gemstones.	6
+19	0	0	4	1	0	6	1	2	0	1	0	0	3	0	1	1	0	3.0	0	10	The professor's office, with its old-school wooden shelves, overlooked the sprawling university lawns.	6
+18	0	0	1	2	1	5	2	1	0	3	0	0	3	1	1	1	0	5.0	1	7	Every library has its dusty corner of forgotten books and its secret passage hidden behind heavy drapes.	6
+20	0	0	5	2	1	5	0	3	0	1	1	0	2	0	1	0	0	4.0	0	11	 a single, the amber density, six ripe strawberries, a drop of water, reflects and within.	6
+27	1	0	2	7	1	7	0	3	1	2	0	0	3	0	1	0	0	5.0	0	16	With a cup of coffee in hand and surrounded by books on various topics, the elderly professor delved deep into the research of ancient Civilizations.	6
+36	0	0	5	5	1	9	2	6	0	5	1	0	2	4	2	2	0	5.0	4	24	Every dog in the rainy park owns an umbrella, some covered with red spots, others adorned with polka dots, one hiding behind its leg, and another using it as a sunshade.	6
+37	1	0	7	3	1	11	0	3	0	3	1	0	7	2	0	0	0	5.0	2	22	The small, dimly-lit room with worn, wooden furnishings houses an ornate, gilded grandfather clock, two oil paintings, and a red velvet armchair worn thin by countless hours of use.	6
+17	1	0	3	1	1	6	0	2	0	2	0	0	1	0	2	1	0	3.0	0	11	 Each day brought new revelations, yet despite the scandal, shareholder support remained resiliently firm.	6
+23	0	0	3	3	1	8	1	3	0	2	0	0	2	1	1	1	0	7.0	1	8	Their kitchen boasts a plethora of utensils, many antique or vintage, a collection envied by cooks of the finest restaurants.	6
+25	0	1	4	1	1	8	1	2	0	4	0	0	3	1	2	2	0	4.0	1	9	Each day at the construction site unleashes new discoveries, as we unearth ancient pottery, hidden treasure, forgotten blueprints and decaying infrastructure.	6
+21	2	0	3	2	0	5	2	3	0	2	1	0	1	1	1	2	0	4.0	1	7	In her garden, the octogenarian carefully nurtured six sunflowers, the tallest among them nearly touching the azure sky.	6
+28	0	0	7	3	1	6	0	4	0	3	0	0	4	1	1	1	0	5.0	1	9	 a team, with the best defensive record, faces, a crucial contest, against, a squad, known for explosive goals and attacking prowess.	6
+41	1	0	5	6	1	10	0	5	0	3	0	0	10	1	1	0	0	6.0	1	12	The cat, a small black creature with piercing green eyes, often slept on an ancient, faded velvet cushion in the dusty corner of the cluttered library, surrounded by cobwebbed books with musty odors and dog-eared pages.	6

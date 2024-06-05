@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADP_constraint
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sleeps soundly on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps on the mat.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	A cat rests on a mat in the sun.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	A dog is playing with a ball.	0
+7	0	0	1	0	0	2	0	2	0	1	0	1	0	0	1	1	0	2.0	0	2	The dog is chasing the ball.	0
+9	0	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat jumped onto the table, purring.	0
+15	0	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	3.0	1	5	A vibrant flower bloomed in the sun, captivating the butterflies with its fragrance.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+12	0	0	2	1	0	4	0	3	0	1	0	0	0	0	1	0	0	4.0	0	5	The dog barks, a testament to the owner's protectiveness.	0
+14	0	0	2	2	0	5	1	3	0	1	0	0	0	1	1	0	0	3.0	1	7	A flower blooms in the sun, its petals shimmering in the breeze.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	0
+12	1	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shines directly onto the grass, casting long shadows.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	A butterfly flew directly to the flower.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	0
+18	0	0	2	2	0	5	0	4	0	2	0	0	3	1	1	2	0	3.0	1	7	The vibrant sunset cast long shadows across the beach, painting a breathtaking masterpiece on the sky.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	A flower bloomed brightly on the sunny day.	0
+16	1	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	3.0	1	6	A butterfly flew swiftly past the meadow, illuminating the sky with its vibrant wings.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is ripe.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped on the tree branch.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+6	1	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The swift parrot chirped excitedly.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The dog sleeps soundly.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat naps in the sun.	0
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shines brightly across the sky, casting long shadows on the ground.	0
+8	1	0	1	0	0	3	0	2	0	1	0	0	0	1	1	0	0	3.0	1	4	A flower blooms when the sun shines.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog barked at the mailman.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun shines brightly across the sky.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sleeping on the mat.	0
+14	0	0	2	2	0	4	0	4	0	2	0	0	0	1	1	1	0	4.0	1	5	The wind blew across the meadow, rustling the leaves of the trees.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A rose stands tall in the garden.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	A parrot is flying in the sky.	0
+7	0	0	1	1	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	A rose blooms in the sun.	0
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sits on the mat, basking in the sun.	0
+5	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	1	 The clock glowed blue.	0
+13	0	0	1	2	0	5	0	3	0	2	0	0	0	1	1	0	0	4.0	1	4	A crimson apple hangs suspended from the branch of a cherry tree.	0
+9	2	0	1	0	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	5	The dog barks loudly when the wind blows.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The parrot is flying across the sky.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun shines brightly on my face.	0
+15	0	0	2	1	0	5	1	2	0	1	0	0	3	1	0	1	0	3.0	1	7	A vibrant orange blossom blooms, showcasing its fragrant beauty in the spring breeze.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	A dog barks at a squirrel in the tree.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The flower blossomed brightly in the sun.	0
+8	0	0	1	1	0	2	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	 This is a sentence with no adpositions.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	An apple hangs sweetly on the tree.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps soundly.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	 The cat is sitting on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The apple rests on the table.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sleeping on the mat.	0
+9	1	0	1	0	0	2	1	2	0	2	0	0	0	1	2	1	0	3.0	1	3	The dog barks when someone approaches the house.	0
+12	0	0	2	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, waiting for its owner.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, playing with the ball.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat leaped onto the table.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dog is sitting under the tree.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog ran to the park.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+12	0	0	2	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, waiting for its owner.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The book rests comfortably on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped over the fence and landed on the grass.	1
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The student sat on the bench, reading a book.	1
+16	0	0	2	2	1	4	0	4	0	2	0	1	0	0	2	0	0	3.0	0	9	The cat jumped onto the table, and the book was placed on the shelf.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The dog ran across the park to the pond.	1
+15	0	0	2	3	1	3	0	3	0	3	0	0	0	1	1	0	0	4.0	1	5	The cat jumped onto the table and leaped off, landing on the carpet.	1
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The cat sat on the mat, enjoying the warm sunshine.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat slept soundly in the sunlit room.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sitting on the mat.	1
+12	0	0	2	1	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The young boy ran across the park, chasing his dog.	1
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for the owner to come home.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The book rests comfortably on the table.	1
+15	1	0	2	1	0	3	0	3	0	2	0	0	2	1	1	1	0	4.0	1	6	The child ran towards the playground, excitedly eager to join the other children.	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat jumped onto the table, landing gracefully.	1
+11	0	0	1	2	0	4	0	3	0	1	0	0	0	0	1	0	0	2.0	0	7	The cat sits on the mat in the living room.	1
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The cat sits on the mat, enjoying the warm sun.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly along the fence.	1
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sits on the mat, waiting for the owner to come home.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+15	1	1	2	1	0	3	1	2	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for its owner to come home.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The bird flew across the sky.	1
+11	0	0	3	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	"""The cat chased the bird across the park."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat beneath the tree.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The apple is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat atop the table, looking at the sky.	1
+13	0	0	2	1	0	3	0	3	0	3	0	0	0	2	1	1	0	3.0	2	5	The cat jumped onto the fence, causing the fence to wobble.	1
+13	0	0	2	2	0	3	0	3	0	2	0	0	1	1	1	0	0	3.0	1	5	The cat sat under the tree, basking in the warm sun.	1
+13	1	0	2	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	The cat sits on the mat, patiently waiting for its owner.	1
+14	1	0	2	1	0	3	0	3	0	3	0	0	0	2	1	1	0	3.0	2	5	The cat leaped onto the fence, causing the rope to come loose.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for the owner to come home.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for the owner to come home.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dog was running towards the park.	1
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat jumped on the fence, climbing up the rope.	1
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped onto the table and onto the counter.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat climbed up the tree and jumped onto the fence.	2
+13	0	0	1	2	1	3	0	3	0	2	0	0	1	0	1	0	0	3.0	0	5	The young cat jumped onto the table and ran across the room.	2
+13	0	0	1	2	1	3	0	3	0	2	0	1	0	0	1	0	0	3.0	0	5	The book was placed on the table and retrieved from the bookshelf.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	 The cat jumped onto the mat and rested under the tree.	2
+12	1	0	1	2	1	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	5	The book is on the table and next to the vase.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat leaped onto the fence and climbed onto the tree.	2
+12	0	0	1	2	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	4	The book was placed on the table and beside the flowers.	2
+18	0	0	2	3	1	5	0	5	0	2	0	0	0	0	2	0	0	3.0	0	11	The box rests on the table beside the chair, and the cat sits beneath the tree.	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat beneath the tree.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	 The cat sat under the tree and on the mat.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped over the fence and onto the table.	2
+13	0	0	1	2	1	4	0	4	0	1	0	0	0	0	1	1	0	3.0	0	5	The dog chased the ball across the park and into the house.	2
+15	0	0	2	2	0	4	0	4	0	3	0	0	0	2	2	0	0	4.0	2	8	The cat sat on the mat beside the window, watching the birds fly.	2
+13	0	0	1	2	1	4	0	4	0	1	0	0	0	0	1	1	0	3.0	0	5	The boy kicked the ball over the fence and into the pond.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped onto the table and sat beside the flowerpot.	2
+16	1	0	2	3	0	4	0	4	0	2	0	0	0	1	1	0	0	3.0	1	8	The cat leaped from the tree onto the table, landing firmly on the bread.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped over the fence and onto the table.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped onto the table and landed beside the flowerpot.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat leaped over the fence and ran across the park.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat sat on the mat and jumped onto the table.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped over the fence and ran beside the tree.	2
+13	1	0	1	2	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	5	The book is sitting on the table and next to the flower.	2
+13	1	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	4.0	0	5	The cat jumped onto the table and sat next to the flower.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The dog ran between the trees and under the bridge.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped onto the table and onto the counter.	2
+15	0	0	2	3	0	4	0	4	0	2	0	0	0	1	1	0	0	3.0	1	8	The cat sat on the mat beside the window, gazing at the birds.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped over the fence and landed on the mat.	2
+16	0	0	2	3	1	4	0	4	0	2	0	0	0	0	1	0	0	3.0	0	9	The cat chased after the ball across the park, and jumped onto the tree.	2
+12	0	0	1	2	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	4	 The book was placed on the table and under the lamp.	2
+17	0	0	1	2	1	6	0	5	0	2	0	0	0	0	1	2	0	4.0	0	7	The student wrote a letter to the teacher and included a homework assignment in the envelope.	2
+12	1	0	1	2	1	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	5	The book is on the table and next to the flower.	2
+18	0	0	1	3	1	6	0	5	0	2	0	0	0	0	1	2	0	3.0	0	7	The student handed the textbook to the teacher and picked up the water bottle from the table.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped over the fence and onto the table.	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat beneath the tree.	2
+13	0	0	2	2	0	3	0	3	0	3	0	0	0	1	1	0	0	3.0	1	5	The cat leaped onto the windowsill, jumping onto the neighboring tree.	2
+13	0	0	1	3	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped to the window and peeked out at the birds.	2
+21	1	0	2	3	1	5	0	5	0	2	0	2	0	0	2	0	0	3.0	0	13	The book was placed on the table next to the flower, and the pen was put into the drawer.	2
+13	0	0	1	2	1	3	1	3	0	1	0	1	0	0	2	0	0	3.0	0	9	The cat sits on the mat and the dog is beside it.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The dog ran across the park and under the tree.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped onto the table and sat beside the flowers.	2
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The dog trotted to the park, and the child chased after it.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped over the fence and onto the table.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped over the fence and under the table.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The dog ran across the park and up the tree.	2
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat climbed up the tree and landed on the fence.	2
+18	0	0	3	2	1	5	1	3	0	2	0	0	1	0	1	2	0	3.0	0	11	The student submitted their assignment on time, to the teacher, and received a perfect score.	2
+11	0	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat jumped over the table and onto the counter.	2
+11	0	0	1	2	0	4	0	3	0	1	0	0	0	0	1	0	0	2.0	0	7	 The cat leaped onto the table beside the sleeping dog.	2
+13	1	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat jumped over the fence and ran next to the tree.	2
+23	1	0	4	5	1	6	0	5	0	1	0	0	0	0	1	0	0	4.0	0	13	The cat danced between the trees, above the flower, next to the river, and in front of the wind.	4
+21	0	0	2	4	1	6	0	6	0	2	0	0	0	0	2	0	0	3.0	0	14	 The cat leaped onto the table above the vase beside the fruit, and the book rested beneath the flowerpot.	4
+25	1	0	4	4	1	7	0	5	0	1	0	0	2	0	1	0	0	4.0	0	10	The cat wandered along the grassy park path, through the colorful flowerbed, over the winding bridge, and back towards the house.	4
+19	0	0	3	3	0	4	0	4	0	1	1	0	3	0	1	0	0	3.0	0	14	The colorful ball danced between the two trees, beneath the open sky, above the sparkling water.	4
+17	1	0	3	1	0	4	0	3	0	3	0	0	2	2	1	1	0	5.0	2	4	The energetic parrot perched on the swaying branch, overlooking the verdant forest, excitedly chirped.	4
+31	1	0	4	6	1	8	0	5	0	4	0	0	2	1	1	0	0	5.0	1	11	The vibrant apple rests comfortably on the table, nestled beside the steaming cup of coffee, beneath the dangling string of lights, and adjacent to the blooming flower.	4
+26	1	0	4	6	1	7	0	5	0	1	0	0	1	0	1	0	0	3.0	0	13	A basket of oranges sat atop the table, next to the flowerpot, beneath the picture frame, and across from the open window.	4
+13	0	0	1	3	1	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	5	The traveler rode on horseback over the hills and through the meadow.	4
+21	0	0	2	2	0	6	0	5	0	2	0	0	4	1	1	2	0	3.0	1	8	The swift runner crossed the green park with a satchel, chasing the fiery ball towards the majestic oak tree.	4
+28	0	0	4	6	0	8	0	6	0	1	0	0	3	0	1	0	0	6.0	0	9	The traveler embarked on a journey across the winding path, beneath the celestial canopy, alongside the weary warrior, through the enigmatic forest of dreams.	4
+22	1	0	4	4	1	6	0	5	0	0	0	1	0	0	1	0	0	5.0	0	6	The book is on the table, next to the flower, above the vase, and below the ceiling fan.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The dog raced across the park, toward the lake, around the pond, and through the forest.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The cat raced across the park, toward the trees, beneath the sky, and above the flowers.	4
+29	0	1	4	4	0	10	0	6	0	4	0	0	0	2	2	1	0	4.0	2	21	The kitten sat amidst the blossoming rose bushes, gazing at the sunset, beneath the velvet night sky, while the wind carried the scent of honeysuckle.	4
+19	1	0	2	4	1	5	0	5	0	0	0	1	0	0	1	0	0	5.0	0	4	The box is on the table next to the fruit and beneath the flower, above the carpet.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The cat jumped onto the fence, over the flowerpot, beside the garden, and into the pool.	4
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat jumped onto the table over the book beside the vase.	4
+22	2	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	13	The ball bounced high above the tree, next to the fence, below the cloud, and near the bird.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The cat jumped over the tree, beneath the table, beside the flowerpot, and onto the fence.	4
+22	0	0	4	4	1	6	0	6	0	1	0	0	0	0	1	1	0	3.0	0	13	The dog chased the ball up the tree, over the fence, through the park, and across the street.	4
+24	0	0	4	4	1	6	0	6	0	1	0	0	2	0	1	1	0	4.0	0	9	The playful cat chased the ball across the park, through the trees, above the clouds, and below the bright moon.	4
+19	0	0	1	5	0	6	0	6	0	0	0	1	0	0	1	0	0	4.0	0	6	The book is in the library on the table beside the chair in the corner of the room.	4
+14	0	0	1	3	0	4	0	4	0	1	0	1	0	0	1	0	0	3.0	0	6	The book was given to the child by the teacher in the classroom.	4
+22	1	0	3	3	1	6	0	4	0	2	0	0	2	0	1	0	0	3.0	0	13	The vibrant wildflowers danced gracefully amidst the emerald meadows, beneath the sapphire sky, and reached towards the celestial sun.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The dog chased after the ball, across the park, through the tunnel, and into the house.	4
+21	1	0	4	4	1	5	0	5	0	0	0	1	0	0	1	0	0	5.0	0	5	The book is on the table, next to the flowers, beneath the lamp, and above the newspaper.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The cat leaped over the table, through the window, onto the rug, and beside the dog.	4
+26	0	1	4	4	1	6	0	6	0	4	0	0	0	1	2	0	0	4.0	1	11	The cat jumped over the fence, ran beside the table, and climbed upon the sofa, while the clock ticked against the wall.	4
+22	0	0	4	3	1	5	0	3	0	3	0	0	3	1	1	1	0	4.0	1	14	The vibrant flowers adorned the table, adorned with vibrant flowers, at the center, and surrounded by cheerful faces.	4
+22	1	0	4	4	1	6	0	5	0	1	0	0	0	0	1	0	0	3.0	0	13	The cat sat on the mat, under the tree, next to the flower pot, and near the window.	4
+26	0	1	3	4	0	7	1	5	0	2	0	0	3	1	2	1	0	4.0	1	16	The young girl danced with her friends around the playground, beneath the tall trees, while the wind carried the sweet scent of lavender.	4
+22	1	0	4	4	1	6	0	5	0	1	0	0	0	0	1	0	0	5.0	0	10	The book sits on the table, next to the flowers, above the cup, and behind the picture frame.	4
+21	0	0	4	4	1	6	0	5	0	1	0	0	0	0	1	0	0	3.0	0	12	The traveler strolled through the forest path, over the bridge, around the trees, and towards the village.	4
+21	0	0	4	4	1	6	0	5	0	1	0	0	0	0	1	0	0	3.0	0	12	The cat jumped over the rainbow bridge, through the tunnel, near the river, and onto the tree.	4
+22	0	0	4	5	1	6	0	5	0	1	0	0	0	0	1	0	0	4.0	0	11	 The ball rolled over the table, under the chair, beside the flowerpot, and in front of the cat.	4
+15	1	0	1	3	0	5	0	4	0	1	0	0	0	0	1	0	0	3.0	0	7	The cat sat on the mat beneath the tree next to the bird feeder.	4
+21	1	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	12	The cat sat on the table, next to the flower, below the painting, and beneath the clock.	4
+23	1	0	4	4	1	5	1	5	0	2	0	0	0	1	2	0	0	4.0	1	10	The dog ran across the park to the tree, through the forest, and into the river, where it swam.	4
+22	0	0	4	4	1	6	0	6	0	1	0	0	0	0	1	1	0	3.0	0	13	The dog chased the ball across the park, around the trees, through the tunnel, and into the basket.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The dog raced across the park, beside the tree, beneath the sky, and towards the mountains.	4
+21	0	0	4	4	1	6	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The cat danced on the table, above the flowerpot, beside the wall, and below the hanging lamp.	4
+22	0	0	4	4	1	6	0	6	0	1	0	0	0	0	1	1	0	4.0	0	9	The dog chased the ball across the park, through the trees, around the pond, and into the house.	4
+25	0	0	4	3	1	5	0	5	0	3	0	0	4	0	1	1	0	3.0	0	17	The playful cat leaped from the warm bed, through the open window, onto the soft grass, and chased the fluttering butterfly.	4
+33	1	0	4	4	1	10	1	6	0	2	0	0	4	1	2	2	0	7.0	1	13	The traveler traversed the winding road to the bustling market, where he bought a bouquet of vibrant flowers, a loaf of fresh bread, and a bottle of cool water.	4
+26	0	0	3	6	0	9	0	6	0	2	0	0	0	1	1	1	0	4.0	1	14	The parrot perched on the branch beside the cat, beneath the canopy of stars, eating a piece of fruit from the apple tree.	4
+17	1	0	2	2	0	4	1	4	0	2	0	0	1	1	2	1	0	3.0	1	8	The playful kitten chased the ball across the park to the tree, where it climbed.	4
+25	0	1	3	3	0	6	1	4	0	2	0	0	5	1	2	0	0	3.0	1	16	The vibrant flower rested against the weathered stone arch, amidst the gentle breeze, while the playful kitten danced around its blossoming petals.	4
+23	0	0	4	3	1	5	0	5	0	4	0	0	1	0	1	1	0	3.0	0	15	The mischievous squirrel climbed up the tree, raced along the fence, traversed the park, and landed on the windowsill.	4
+22	1	0	4	4	1	5	0	5	0	1	0	0	1	0	1	0	0	3.0	0	12	The young girl ran quickly past the park, through the forest, over the bridge, and onto the street.	4
+25	1	0	4	4	1	5	0	5	0	2	0	0	3	0	1	0	0	4.0	0	11	The swift bird flew overhead, past the tall tree, above the raging river, and beneath the watchful eye of the hawk.	4
+39	0	0	6	8	2	10	0	10	0	2	0	0	1	1	1	0	0	7.0	1	11	The cat crept under the wooden table through the cracks, between the couch and the bookshelf, beside the vase with the flowers, above the aquarium, and beside the window, heading towards the garden.	6
+33	2	1	5	3	2	8	0	8	0	4	0	0	0	1	3	1	0	6.0	1	8	A parrot perched on the windowsill, devoured a mango, while the cat rested below, and the fish swam happily in the aquarium, alongside the parrot and the cat.	6
+26	0	0	1	7	0	8	1	7	0	2	0	0	0	1	1	0	0	3.0	1	19	The cat leaped onto the table over the box beside the dog beneath the pear above the countertop with the rope attached to its tail.	6
+23	0	0	4	5	1	6	0	6	0	1	0	0	0	0	1	0	0	3.0	0	10	 The cat jumped onto the mat beside the table, beneath the painting, above the carpet, and through the window.	6
+42	3	0	3	6	0	11	0	7	0	4	0	1	7	2	1	1	0	5.0	2	14	The intricate clockwork mechanism within the intricate clockwork device was meticulously positioned against the weathered wall, securely anchored to the protruding ledge with a complex network of interlocking chains, thereby creating a delicate balance upon the precarious cliff edge.	6
+34	0	0	6	6	1	7	0	7	0	3	0	0	4	0	1	0	0	4.0	0	14	 The energetic squirrel raced across the towering tree, up the towering ladder, through the intricate maze, alongside the playful cat, over the bridge, and below the shimmering stars.	6
+37	1	0	6	6	1	11	0	7	0	2	0	0	3	0	1	0	0	4.0	0	25	The nimble cat effortlessly leaped over the emerald wall, beside the sapphire river, above the rainbow bridge, through the crimson forest, beneath the towering oak tree, and near the radiant moon.	6
+38	0	0	7	6	1	9	0	7	0	2	0	0	6	1	1	0	0	7.0	1	9	The vibrant apple hung suspended above the crystal fountain, beneath a cobalt sky, near the weathered barn, beside the weary traveler, across the moss-laden path, and alongside the chirping birds.	6
+39	1	0	5	6	1	11	1	7	0	3	0	0	4	0	1	1	0	3.0	0	32	The adventurous traveler embarked on a thrilling journey through the winding path, over the towering bridge, beneath the watchful gaze of the ancient oak tree, alongside the chirping birds, and ultimately reached their destination.	6
+34	1	0	4	4	1	8	0	7	0	4	0	0	5	0	1	2	0	4.0	0	22	The energetic traveler traversed a convoluted path through the verdant forest, over the moss-laden branches of a towering tree, and ultimately reached the coveted summit of the majestic mountain.	6
+31	0	0	6	6	1	8	0	7	0	2	0	0	1	0	1	0	0	3.0	0	16	The cat leaped onto the mat, over the water bowl, through the open window, and landed on the bookshelf, beside the books, above the pictures.	6
+30	0	0	5	7	1	8	0	8	0	1	0	0	0	0	1	0	0	5.0	0	13	The cat leaped from the tree onto the table beside the vase, above the flowerpot, below the chandelier, and across the room, toward the mirror.	6
+44	0	0	7	8	1	12	0	10	0	1	0	0	5	0	1	1	0	5.0	0	13	The traveler traversed the winding path through the forest, beneath the watchful eye of the eagle, above the crystalline river, alongside the mischievous fox, along the crooked tree, in the twilight hour, and beside the ancient monument.	6
+35	0	0	6	6	1	7	0	7	0	2	0	0	6	0	1	0	0	5.0	0	14	The energetic cat raced through the open park, across the green grass, beside the sparkling river, above the fluffy clouds, near the towering trees, and underneath the vibrant sunset.	6
+31	1	0	4	3	0	7	0	5	0	4	0	0	7	2	1	3	0	4.0	2	9	The radiant moon cast a silvery glow upon the weathered path, illuminating the tangled shrubbery with ethereal beauty, guiding weary travelers home along a winding, crooked route.	6
+33	2	0	5	5	1	9	0	6	0	2	0	0	3	0	1	0	0	3.0	0	23	The radiant cat jumped excitedly across the emerald table, below the hanging picture, through the open window, beside the weeping willow, and landed gracefully on the velvet rug.	6
+32	0	0	6	7	1	8	0	7	0	1	0	0	2	0	1	0	0	4.0	0	17	The cat jumped over the red rose, under the old tree, across the park, through the flowerpot, beside the pond, and in front of the house.	6
+26	1	0	2	3	0	7	0	5	0	2	0	0	6	1	1	2	0	3.0	1	9	The intricate clockwork mechanism in the ancient clock meticulously traversed the temporal trajectory of the solar system, illuminating the celestial tapestry with celestial light.	6
+32	0	0	6	6	2	8	0	8	0	2	0	0	0	1	1	1	0	6.0	1	11	The cat jumped over the table and onto the counter, into the box, through the window, below the clock, and beside the refrigerator, causing a commotion.	6
+21	0	0	3	2	0	7	0	3	0	3	0	0	3	0	1	1	1	4.0	1	9	The intricate clockwork mechanism, nestled within the worn leather suitcase, contained the intricate collection of antique pocket watches.	6
+34	0	0	6	6	1	7	0	7	0	1	0	0	6	0	1	0	0	5.0	0	14	The parrot flew through the blue sky, over the green tree, alongside the red car, towards the yellow house, above the purple bridge, and beneath the orange moon.	6
+30	0	0	6	6	1	9	0	7	0	1	0	0	0	0	1	0	0	3.0	0	13	The cat leapt onto the dining table, over the water bowl, beside the flowers, through the doorway, above the stove, and near the wall.	6
+32	2	0	4	4	0	7	0	6	0	4	0	0	5	1	1	2	1	4.0	2	12	The nimble chef, adorned with a woven apron, expertly maneuvered the assortment of culinary tools amidst the fragrant spices, ultimately creating a savory masterpiece in the cozy kitchen.	6
+37	1	1	4	5	1	10	0	7	0	4	0	0	4	3	1	2	0	6.0	3	17	The adventurous traveler carried a backpack full of souvenirs while venturing along the winding road, over the bridge, and through the vibrant forest, finally reaching the enchanting cottage hidden amidst the rustling leaves.	6
+16	1	0	1	3	0	4	0	2	0	1	0	1	3	0	1	0	0	3.0	0	6	The intricate tapestry of intertwined pathways was meticulously navigated through a labyrinth of emerald pathways.	6
+53	1	0	7	8	2	16	0	10	0	3	0	1	5	1	1	1	0	6.0	1	15	The intricate puzzle was meticulously placed on the granite counter, beneath the cascading cascade of water, alongside the gleaming silver teapot, amidst the scattering petals of the lavender bouquet, near the emerald teapot, and between the antique candlestick and the vibrant tapestry, creating a breathtaking tableau.	6
+38	0	1	3	7	0	12	0	8	0	2	0	0	5	1	2	0	0	4.0	1	21	The intricate painting hangs above the gilded frame on the crimson wall, amidst a constellation of hanging plants, while the weary traveler rests beneath a willow tree in the dappled shade of the afternoon sun.	6
+20	0	1	1	4	0	6	0	6	0	2	0	0	0	1	2	0	0	3.0	1	16	 The cat leaped onto the table over the books beside the sofa onto the television while the clock ticked.	6
+31	0	0	5	6	1	8	0	7	0	1	0	0	3	0	1	0	0	4.0	0	15	The parrot perched on the branch alongside the painter, above the window, beneath the colorful tapestry, near the vibrant flower pot, and beside the antique clock.	6
+38	2	0	6	6	1	8	0	7	0	1	0	0	7	0	1	0	0	5.0	0	13	The vibrant fish swim freely through the emerald aquarium, around the graceful coral, beneath the emerald surface, near the shimmering dolphins, above the sandy bottom, and next to the animated sea turtles.	6
+39	0	0	6	6	1	10	0	8	0	3	0	0	5	1	1	1	0	5.0	1	17	The playful cat chased the vibrant butterfly through the emerald forest, across the sparkling river, alongside the chirping birds, above the towering trees, and near the babbling brook, resulting in a delightful sight.	6
+23	1	0	3	3	1	5	0	5	0	3	0	0	2	1	1	1	0	3.0	1	15	 The cat sat on the red rug beneath the tall tree, near the fence, and watched the butterflies dance above.	6
+25	0	0	3	3	1	6	0	5	0	2	2	0	3	0	1	2	1	6.0	1	15	The weary traveler, clutching a compass in one hand and a map in the other, traversed the treacherous terrain with six adpositions.	6
+32	1	0	5	4	1	7	0	6	0	5	0	0	3	0	1	1	0	3.0	0	24	The swift squirrel leaped from the towering tree, across the roaring river, to the distant mountain, through the meandering garden path, and finally reached the sun-soaked meadow.	6
+27	1	0	5	5	1	6	1	6	0	2	0	0	0	1	2	0	0	5.0	1	13	The cat raced over the rainbow, across the park, through the woods, and up the tree, where it perched on the branch.	6
+37	0	0	7	7	0	11	0	5	0	3	0	0	4	1	1	0	0	9.0	1	10	The captivating traveler strolled through the winding forest path, adorned with moss-laden branches, beneath a vibrant canopy, amidst towering pines, alongside a companion, beneath a sky tinged with silver.	6
+38	4	0	4	5	0	12	1	5	0	6	0	0	1	1	1	1	1	4.0	2	15	The intricate clockwork mechanism within the vintage pocket watch, intricately intertwined with the winding key, expertly navigates its course through a winding path of meticulously arranged gear teeth, ultimately arriving at the designated time.	6
+29	1	0	4	4	1	7	0	6	0	2	0	0	4	1	1	1	0	3.0	1	22	The cat sits atop the green tree branch above the meadow, next to the blue house, and beneath the bright sun, devouring a juicy worm.	6
+38	0	0	2	7	0	10	1	8	0	3	0	0	7	1	1	2	1	7.0	2	19	The intricate tapestry of life intertwined with the intricate mesh of the cosmos beneath the radiant glow of the full moon casts a long shadow across the verdant earth, enveloping all creatures in its ethereal embrace.	6
+24	1	0	3	4	1	5	0	5	0	1	0	0	4	0	1	0	0	3.0	0	13	The radiant student danced playfully with the ball on the sunny playground, through the graceful trees, and above the fluffy clouds.	6
+27	0	1	2	6	0	8	0	8	0	2	0	0	0	1	2	0	0	5.0	1	14	The cat sat on the mat underneath the table beside the book, while the dog played with the ball near the window above the flowerpot.	6
+22	0	0	2	5	0	7	0	6	0	2	0	0	0	1	1	1	0	4.0	1	11	The cat sat on the mat under the tree beside the window, eating a bowl of rice with a fork.	6
+29	0	0	4	5	2	9	0	7	0	1	0	0	1	0	1	0	0	4.0	0	11	The cat sits atop the table beside the bookshelf, below the hanging pictures, between the couch and the window, and near the open fruit basket.	6
+35	1	0	4	6	1	9	0	4	0	3	0	1	6	1	1	1	1	6.0	2	11	The intricate tapestry of life, woven through intricate pathways, is meticulously crafted across countless dimensions, leaving an indelible impression upon a grateful soul in a fleeting moment of grace and serenity.	6
+35	0	0	6	8	1	9	1	8	0	2	0	0	0	1	2	0	0	7.0	1	7	The cat meandered through the park with the wind blowing in its tail, alongside the fence, along the riverbank, above the flowers, behind the trees, and beside the butterfly.	6
+23	1	0	2	2	2	6	0	4	0	3	0	0	3	1	1	1	0	5.0	1	11	The radiant cat leaped effortlessly between the towering tree and the emerald river, traversing the intricate web of branches and vines.	6
+28	0	0	4	4	1	5	1	5	0	3	0	0	5	1	1	1	0	4.0	1	12	The mischievous cat leaped over the green fence, through the open window, and climbed up the tall tree, bringing the stolen cheese with her.	6
+42	0	0	4	6	1	11	1	6	0	5	0	0	8	2	1	4	1	6.0	3	11	The intricate tapestry woven with intricate strands of colorful yarn adorned the elegant tablecloth, filling the festive atmosphere, and evoking vivid imagery of a mystical journey across the cosmos, inspiring a symphony of dreams through its vibrant hues.	6
+47	0	0	7	9	1	12	0	8	0	5	0	0	5	2	1	1	0	10.0	2	10	The mischievous traveler traversed a winding path lined with vibrant flora, through a moonlit forest, above a sparkling stream, beside a towering monument, alongside a weary warrior, and beneath a constellation of stars, leaving behind a trail of twinkling fireflies.	6
+33	2	0	4	5	1	8	0	7	0	3	0	0	3	1	1	1	0	6.0	1	11	The swift cat dashed effortlessly through the winding path, over the green grass, and alongside the roaring river, ultimately reaching the majestic tree at the center of the forest.	6

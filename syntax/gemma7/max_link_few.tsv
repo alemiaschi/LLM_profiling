@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_link_constraint
+12	1	1	0	1	1	2	2	0	0	3	1	0	0	3.0	6	0	0	1	0	0	 The Breakfast Club & Grill is a popular restaurant in town.	2
+13	1	1	0	1	1	2	2	0	0	3	2	0	0	3.0	6	0	0	1	0	0	**The Breakfast Club & Grill is a popular restaurant in town.**	2
+12	0	1	0	1	1	1	0	2	0	3	1	0	1	3.0	4	0	0	1	0	0	The Breakfast Club & Grill was founded in 1530-1647.	2
+11	1	1	0	1	1	1	1	1	0	3	1	0	0	3.0	4	0	0	1	0	0	The Breakfast Club & Grill is open until 10:00 PM.	2
+6	1	0	0	0	0	0	0	1	1	0	1	0	1	2.0	4	0	0	0	0	0	**Is there 1 available?**	2
+10	1	0	0	1	1	2	1	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is a popular restaurant.	2
+15	1	1	1	2	2	1	1	1	0	3	1	0	1	3.0	6	0	0	1	0	0	The Breakfast Club & Grill was established in 1530 and is still operational today.	2
+20	1	0	0	1	2	4	4	0	0	3	1	0	2	5.0	6	1	1	1	2	0	The Breakfast Club & Grill is the perfect place to share a meal and discuss the day's events.	2
+24	1	2	1	2	1	3	5	1	0	3	3	0	1	4.0	18	0	0	2	1	0	Sure, the sentence with the longest dependency link of 2 words is: The Breakfast Club & Grill is currently serving breakfast.	2
+10	1	1	0	1	1	1	1	0	0	3	1	0	0	3.0	4	0	0	1	0	0	The Breakfast Club & Grill is popular amongst teenagers.	2
+14	1	1	0	1	1	3	2	0	0	3	2	0	0	3.0	6	0	0	1	0	0	**The Breakfast Club & Grill was a popular diner in the 1980s.**	2
+10	0	0	0	0	1	2	2	0	0	3	1	0	1	3.0	3	0	0	1	1	0	The Breakfast Club & Grill served breakfast all day.	2
+12	1	1	0	1	1	2	2	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is a popular diner in town.	2
+23	3	2	0	1	2	4	5	0	0	3	2	0	1	4.0	7	0	0	2	1	0	The Breakfast Club & Grill is a popular restaurant in town, and the menu features a wide variety of delicious dishes.	2
+16	1	2	0	1	1	3	4	0	0	3	1	0	0	3.0	7	0	0	1	0	0	The Breakfast Club & Grill was a popular hangout spot for students in the 1980s.	2
+13	1	1	0	1	1	2	3	0	0	3	1	0	0	3.0	7	0	0	1	0	0	The Breakfast Club & Grill is a popular hangout spot for students.	2
+13	1	2	0	1	1	2	2	0	0	3	1	0	0	3.0	5	0	0	1	0	0	The Breakfast Club & Grill was popular among teenagers in the 1980s.	2
+10	1	0	0	0	1	2	1	0	0	3	1	0	1	3.0	3	0	0	1	1	0	The Breakfast Club & Grill provided a delicious breakfast.	2
+10	1	0	0	1	1	2	1	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is a popular restaurant.	2
+12	0	0	0	0	1	1	1	2	0	3	2	0	1	3.0	3	0	0	1	1	0	**The Breakfast Club & Grill serves breakfast 1530-1647.**	2
+16	1	1	1	0	1	2	1	2	0	3	1	0	2	5.0	3	1	1	1	1	0	The Breakfast Club & Grill has a rich history dating back to 1530-1647.	2
+15	0	1	1	0	1	2	1	2	0	3	1	0	2	5.0	3	1	1	1	1	0	The Breakfast Club & Grill has a history dating back to 1530-1647.	2
+12	1	1	0	1	1	2	2	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is the largest restaurant in town.	2
+12	0	0	0	1	1	2	2	0	0	3	2	0	1	3.0	4	0	0	1	1	0	**The Breakfast Club & Grill is serving breakfast all day.**	2
+11	0	0	0	1	1	2	5	0	0	0	1	0	1	3.0	4	0	0	1	1	0	The breakfast club & grill is serving breakfast all day.	2
+10	1	0	0	1	1	2	1	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is a popular restaurant.	2
+6	1	0	0	0	0	0	0	1	1	0	1	0	1	2.0	4	0	0	0	0	0	**Is there 1 available?**	2
+11	1	1	0	1	1	1	2	0	0	3	1	0	0	3.0	4	0	0	1	0	0	The Breakfast Club & Grill is popular among college students.	2
+7	0	0	0	1	0	1	1	0	0	0	2	0	1	2.0	5	0	0	1	0	0	Sure, the requested sentence is: The young girl danced with her friends to the music.	2
+13	1	1	1	1	1	2	2	0	0	3	1	0	0	3.0	7	0	0	1	0	0	The Breakfast Club & Grill is the most popular restaurant in town.	2
+12	1	1	0	1	1	2	2	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is a popular restaurant in town.	2
+14	1	1	0	1	1	2	2	0	0	3	3	0	0	3.0	6	0	0	1	0	0	"""The Breakfast Club & Grill is a popular restaurant among students."""	2
+16	0	2	1	1	1	3	3	0	0	3	1	0	1	3.0	5	1	1	2	0	0	The Breakfast Club & Grill is a place where the students hang out after school.	2
+12	0	1	0	1	1	1	2	1	0	3	1	0	1	3.0	4	0	0	1	1	0	The Breakfast Club & Grill is serving breakfast at 8:00 AM.	2
+12	0	0	1	0	1	2	3	0	0	3	1	0	1	3.0	5	0	0	1	1	0	The Breakfast Club & Grill provides breakfast options all day long.	2
+11	1	0	0	1	1	2	1	0	0	3	2	0	0	3.0	6	0	0	1	0	0	**The Breakfast Club & Grill is a popular restaurant.**	2
+10	1	1	0	1	1	1	1	0	0	3	1	0	0	3.0	4	0	0	1	0	0	The Breakfast Club & Grill is popular amongst teenagers.	2
+12	1	1	0	1	1	2	2	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is a popular restaurant in town.	2
+10	1	0	0	1	1	2	1	0	0	3	1	0	0	3.0	6	0	0	1	0	0	The Breakfast Club & Grill is a popular restaurant.	2
+11	1	0	0	1	1	2	1	0	0	3	2	0	0	3.0	6	0	0	1	0	0	**The Breakfast Club & Grill is a popular diner.**	2
+12	1	0	0	0	1	3	2	0	0	3	1	0	1	3.0	5	0	0	1	1	0	The Breakfast Club & Grill served the best breakfast this morning.	2
+13	1	1	0	1	1	2	3	0	0	3	1	0	0	3.0	7	0	0	1	0	0	 The Breakfast Club & Grill is a popular breakfast spot in town.	2
+17	0	1	1	1	1	4	4	0	0	3	1	0	1	4.0	5	1	1	2	1	0	The Breakfast Club & Grill is the name of the restaurant where the movie takes place.	2
+14	1	1	0	0	1	2	1	2	0	3	1	0	1	3.0	5	0	0	1	1	0	The Breakfast Club & Grill served a delicious breakfast in 1530-1647.	2
+11	1	0	0	1	1	2	4	0	0	0	1	0	1	3.0	4	0	0	1	1	0	The breakfast club & grill is serving a hot meal.	2
+12	1	1	0	0	1	2	1	0	1	3	1	0	1	3.0	5	0	0	1	1	0	The Breakfast Club & Grill provided me with a delicious breakfast.	2
+13	1	1	1	1	1	2	2	0	0	3	1	0	0	3.0	7	0	0	1	0	0	The Breakfast Club & Grill is the most popular restaurant in town.	2
+18	1	2	1	1	1	2	3	0	0	3	1	1	1	3.0	7	1	1	2	0	0	The Breakfast Club & Grill is the most popular spot for students to hang out after school.	2
+6	0	1	0	0	0	2	2	0	0	0	1	0	0	2.0	2	0	0	0	0	0	What a waste of time.	2
+12	0	1	0	1	1	1	2	1	0	3	1	0	1	3.0	4	0	0	1	1	0	The Breakfast Club & Grill was serving breakfast at 8:00 AM.	2
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+17	1	2	0	1	0	3	4	0	3	0	1	0	2	4.0	8	1	0	2	1	1	The cat that I adopted from the shelter was given a warm welcome by my family.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+15	2	3	0	0	0	3	5	0	0	0	1	0	1	3.0	8	0	0	1	1	0	The student submitted a thesis on artificial intelligence after a year of intense research.	6
+22	0	2	0	2	0	6	5	0	3	0	1	0	3	4.0	7	2	1	3	1	1	The cat that I rescued from the shelter has a purr that can be heard all the way down the hall.	6
+19	1	3	0	1	0	3	4	0	2	0	1	0	3	4.0	7	2	1	2	0	1	The young man who was walking to the park stopped to chat with his friends on the way.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+17	0	2	0	0	1	4	4	0	0	0	3	0	3	3.0	11	0	0	1	1	0	The cat jumped onto the table, landed on the book, and scratched the wall.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+14	0	2	0	0	0	4	4	0	0	0	1	1	2	3.0	7	1	1	2	0	0	The cat sat on the mat while the dog played with the ball.	6
+15	0	1	0	1	0	3	3	0	0	0	2	1	3	4.0	6	2	2	2	0	0	The cat sat on the mat, waiting for the bread to be baked.	6
+16	1	1	1	1	0	3	3	0	2	0	1	0	3	4.0	6	2	1	3	1	1	The old man who climbed the tree had fallen asleep by the time we arrived.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+16	0	3	0	2	0	2	3	0	2	0	1	1	2	3.0	6	1	1	1	0	0	The book was read by the student after being lent to him by his friend.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+19	1	3	0	1	1	4	4	0	1	0	1	0	3	4.0	7	1	0	2	1	1	The cat that was sitting on the mat had a long tail and jumped up onto the table.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+19	1	1	1	1	1	2	2	0	5	0	3	0	2	3.0	13	1	1	3	3	0	The employee offered me a gift and I accepted it, therefore, I am grateful to him.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+20	2	4	1	0	0	4	5	0	0	0	2	0	2	4.0	7	1	1	1	1	0	The old bridge collapsed due to a landslide, thereby affecting the flow of traffic on the main road.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+16	0	2	0	2	0	2	2	0	3	1	1	0	3	4.0	6	2	1	3	0	1	The book that I am reading was written by the author who lived in France.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+17	1	1	0	1	1	5	5	0	0	0	2	0	1	3.0	10	0	0	2	2	0	The employee gave the customer a promotion, and the customer was grateful for the gesture.	6
+10	1	2	0	1	0	1	0	0	1	2	1	0	1	2.0	6	0	0	1	0	0	Can I text from Canada to the United States?	6
+21	1	0	1	0	1	4	7	0	0	0	4	0	3	5.0	8	0	0	2	3	0	**The patient had a fractured bone, so the doctor prescribed medication and scheduled a follow-up appointment.**	6
+19	2	1	1	1	2	1	6	0	1	0	3	0	1	6.0	6	0	0	1	2	0	**The staff was very helpful, and gave us good advice on day and night time activities.**	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	1	1	1	1	0	1	3	0	3	1	4	0	2	4.0	9	1	0	2	2	1	**My brother, who is studying abroad in Italy, sent me a letter last week.**	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+15	1	1	1	1	0	2	2	0	1	0	3	0	2	4.0	4	1	1	1	1	0	"""They are planning to build a new house next to the river."""	6
+15	0	1	0	0	1	2	4	0	1	0	3	0	3	3.0	9	0	0	1	2	0	The student finished his homework, read a book, and went to bed.	6
+21	1	2	1	0	0	3	3	0	2	1	4	1	3	5.0	6	2	2	2	2	0	" ""I have a friend who came here from Bulgaria after winning a green card in a lottery.""."	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+15	3	0	0	0	0	4	4	0	0	0	1	1	2	3.0	7	1	1	1	3	0	The old woman gave the child a warm hug after walking a long distance.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	1	2	1	0	0	3	3	0	2	1	1	1	3	5.0	6	2	2	2	2	0	I have a friend who came here from Bulgaria after winning a green card in a lottery.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+18	2	1	1	1	2	1	6	0	1	0	2	0	1	6.0	6	0	0	1	2	0	The staff was very helpful, and gave us good advice on day and night time activities.	6
+15	0	1	2	1	0	2	3	1	2	0	1	0	2	5.0	8	1	0	2	0	1	The cat that I adopted two years ago is sleeping soundly on the rug.	6
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	 The amusing world of cartoons and stories will be a memorable experience for the children.	9
+39	1	6	2	2	2	6	7	0	2	5	6	0	0	5.0	25	0	0	2	0	0	Finally, from an email, a follow-up on the reopening of the investigation into the Atlanta Child Murders, it is very clean and is Sandalwood, Driftwood or something of that nature in color.	9
+39	1	6	2	2	2	6	7	0	2	5	6	0	0	5.0	25	0	0	2	0	0	Finally, from an email, a follow-up on the reopening of the investigation into the Atlanta Child Murders, it is very clean and is Sandalwood, Driftwood or something of that nature in color.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+30	2	4	1	1	0	2	6	3	0	3	5	0	2	6.0	9	1	1	2	0	0	 **New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.**	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+31	1	4	2	1	0	2	5	3	0	4	6	0	2	6.0	9	1	1	2	0	0	"""New Orleans Mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep."""	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+22	0	4	1	0	0	5	6	0	0	2	4	0	0	4.0	9	0	0	0	0	0	"""Finally, from an email, a follow-up on the reopening of the investigation into the Atlanta Child Murders "	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	 New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+17	0	4	0	1	0	1	6	1	0	1	1	0	2	4.0	9	1	1	1	0	0	Attached are the GCP Signoffs on EOL Approvals for 11/29/00 with GCP responses marked in Red.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	 New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	 The amusing world of cartoons and stories will be a memorable experience for the children.	9
+30	2	4	1	1	0	2	6	3	0	3	5	0	2	6.0	9	1	1	2	0	0	 **New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.**	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	 The amusing world of cartoons and stories will be a memorable experience for the children.	9
+17	1	2	1	2	2	1	2	0	2	2	2	0	0	4.0	9	0	0	1	0	0	 It is very clean and is Sandalwood, Driftwood or something of that nature in color.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+22	2	2	1	2	1	3	6	0	1	0	2	1	1	4.0	9	1	1	2	1	0	The amusing world of cartoons and stories will be a memorable experience for the children, as parents read them aloud.	9
+22	0	4	0	0	0	5	6	0	0	2	4	0	0	4.0	9	0	0	0	0	0	"""Finaly, from an email, a follow-up on the reopening of the investigation into the Atlanta Child Murders "	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+17	0	4	0	1	0	1	6	1	0	1	1	0	2	4.0	9	1	1	1	0	0	 Attached are the GCP Signoffs on EOL Approvals for 11/29/00 with GCP responses marked in Red.	9
+22	0	4	1	0	0	5	6	0	0	2	4	0	0	4.0	9	0	0	0	0	0	"""Finally, from an email, a follow-up on the reopening of the investigation into the Atlanta Child Murders "	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	 The amusing world of cartoons and stories will be a memorable experience for the children.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	 The amusing world of cartoons and stories will be a memorable experience for the children.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+17	2	2	0	2	1	3	5	0	0	0	2	0	0	4.0	9	0	0	1	0	0	 **The amusing world of cartoons and stories will be a memorable experience for the children.**	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+30	2	4	1	1	0	2	6	3	0	3	5	0	2	6.0	9	1	1	2	0	0	 **New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.**	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	 The humorous world of cartoons and stories will be a memorable experience for the children.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	The amusing world of cartoons and stories will be a memorable experience for the children.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+29	1	4	2	1	0	2	6	3	0	3	4	0	2	6.0	9	1	1	2	0	0	New Orleans mayor Ray Nagin said up to 80% of the city was submerged, in some cases by waters 6m (20ft) deep.	9
+16	2	2	0	2	1	3	5	0	0	0	1	0	0	4.0	9	0	0	1	0	0	 The amusing world of cartoons and stories will be a memorable experience for the children.	9
+19	2	2	0	2	1	3	5	0	0	0	4	0	0	4.0	13	0	0	1	0	0	"""For the children, the amusing world of cartoons and stories will be a memorable experience."""	9
+41	1	6	2	2	2	6	7	0	2	5	8	0	0	5.0	25	0	0	2	0	0	"""Finally, from an email, a follow-up on the reopening of the investigation into the Atlanta Child Murders, it is very clean and is Sandalwood, Driftwood or something of that nature in color."""	9
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+41	5	5	0	1	1	6	12	0	1	0	4	1	4	6.0	19	3	1	2	3	2	In order to achieve the optimal solution for this problem, a comprehensive analysis of all potential factors influencing the outcome is required, which necessitates human intervention due to the limitations of automation and complex decision-making processes.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+14	1	2	0	1	0	2	6	1	0	0	1	0	0	5.0	12	0	0	1	0	0	One of the main factors in lighting energy consumption is the light bulb.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	 The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+12	1	2	0	1	0	2	4	1	0	0	1	0	0	4.0	9	0	0	1	0	0	The sentence with the longest dependency link of 12 words is: This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed..	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+16	1	2	0	1	0	2	6	1	0	0	3	0	0	5.0	12	0	0	1	0	0	"""One of the main factors in lighting energy consumption is the light bulb."""	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	 This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+14	1	1	0	1	0	2	6	1	0	0	1	1	0	3.0	4	0	0	1	0	0	The light bulb is one of the main factors in lighting energy consumption.	12
+29	4	4	1	1	1	3	9	0	0	0	4	1	1	4.0	15	1	1	2	1	0	The intricate calculation of economic values in this tug-of-war is ultimately the human decision, because animals and plants have limited capacity for adjustment.	12
+22	3	3	0	0	1	4	7	0	1	0	1	0	2	6.0	5	1	1	2	1	0	The complexity of this mathematical equation results in a cumbersome solution process that requires a significant investment of time and effort.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+15	1	1	1	1	0	1	3	1	1	0	2	0	2	3.0	12	0	0	2	1	0	Both have full 1080 video with stereo recording, so that doesn't matter.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+25	1	3	1	1	1	4	10	0	0	0	2	0	2	6.0	6	1	1	1	1	0	The intricately designed circuit board in the computer is the heart of the processing unit, ensuring seamless integration of hardware and software components.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+30	2	3	1	4	1	6	7	0	0	0	3	0	2	4.0	14	1	0	2	1	1	The political discourse surrounding the election will be intense, regardless of the candidates' platforms, and the outcome will be decided by the votes of the people.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+25	1	2	1	1	1	5	8	0	1	0	1	0	3	6.0	13	3	1	2	2	2	The intricate system of gears and levers used to operate the wind turbines is the one that precisely controls the speed of the blades.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+14	1	2	0	1	0	2	6	1	0	0	1	0	0	5.0	12	0	0	1	0	0	One of the main factors in lighting energy consumption is the light bulb.	12
+14	1	2	0	1	0	2	6	1	0	0	1	0	0	5.0	12	0	0	1	0	0	One of the main factors in lighting energy consumption is the light bulb.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	 The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+23	2	2	1	2	0	1	7	0	0	0	1	2	3	5.0	8	3	3	2	1	0	The impact of climate change on ecosystems is so substantial that humans will have to intervene in order to prevent further damage.	12
+40	3	3	1	2	1	7	9	0	0	1	3	3	5	7.0	11	4	3	3	2	1	The lawyer representing the environmental group argued that the company was not acting in the best interests of the environment, therefore, leading to the controversial decision of whether humans or animals should control the Earth's resources.	12
+16	3	2	0	1	0	2	5	1	0	0	1	0	1	5.0	10	1	0	1	1	1	One of the primary factors influencing agricultural productivity is the presence of adequate water resources.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	 This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+22	3	3	0	1	1	4	7	0	0	0	1	1	1	5.0	12	1	1	1	1	0	The intricate relationship between human behavior and the evolution of language is the key factor in understanding the history of communication.	12
+14	1	2	0	1	0	2	6	1	0	0	1	0	0	5.0	12	0	0	1	0	0	One of the main factors in lighting energy consumption is the light bulb.	12
+22	1	2	0	1	1	4	9	0	0	0	1	0	2	6.0	8	2	2	1	1	0	The main factors in lighting energy consumption are the light bulb and the amount of energy used to produce that light.	12
+31	2	3	4	3	1	2	7	0	0	0	4	2	3	5.0	15	2	1	2	1	1	The intricate process of calculating economic values for this tug-of-war will ultimately be decided by humans, because animals and plants can adjust only so much.	12
+26	4	4	1	0	1	4	7	0	0	0	3	0	2	5.0	16	1	0	1	1	1	The intricate relationship between humans and plants, rooted in the ecological interdependence of each species, ultimately drives the complex interactions between natural systems.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+14	1	2	0	1	0	2	6	1	0	0	1	0	0	5.0	12	0	0	1	0	0	One of the main factors in lighting energy consumption is the light bulb.	12
+14	1	1	0	1	0	2	6	1	0	0	1	1	0	3.0	4	0	0	1	0	0	The light bulb is one of the main factors in lighting energy consumption.	12
+32	1	5	1	2	3	5	5	0	3	2	2	0	3	6.0	12	2	1	2	0	1	**This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.**	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+26	6	2	1	1	1	2	7	0	2	0	2	0	2	5.0	10	2	2	2	2	0	The complex interplay between technological advancements and societal demands is the intricate network of factors that influence human behavior, ultimately shaping our collective future.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+14	1	1	0	1	0	2	6	1	0	0	1	1	0	3.0	4	0	0	1	0	0	The light bulb is one of the main factors in lighting energy consumption.	12
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	 This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	12
+24	0	3	1	2	1	1	5	0	2	1	1	0	5	7.0	16	3	3	2	4	0	I have price targets of where I would like to lighten up exposure to ENE and will use calls to implement the stategy.	16
+24	0	3	1	2	1	1	5	0	2	1	1	0	5	7.0	16	3	3	2	4	0	I have price targets of where I would like to lighten up exposure to ENE and will use calls to implement the stategy.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	3	4	0	3	5	5	2	6	7.0	24	3	2	3	5	1	"If Adam keeps up his ""strong words"" he will damage potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+52	4	4	3	4	1	6	8	1	2	5	6	2	6	7.0	24	4	4	4	5	0	"The sentence with the longest dependency link of 16 words is: If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+42	3	2	3	3	1	4	4	0	2	5	7	2	6	6.0	24	4	3	3	5	1	" **If Abbas keeps up this ""macho talk"", he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank.**"	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+18	1	1	1	0	0	2	8	0	0	0	4	0	1	3.0	15	1	1	0	0	0	The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark.	16
+18	1	1	1	0	0	2	8	0	0	0	4	0	1	3.0	15	1	1	0	0	0	The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark.	16
+18	1	1	1	0	0	2	8	0	0	0	4	0	1	3.0	15	1	1	0	0	0	The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark.	16
+18	1	1	1	0	0	2	8	0	0	0	4	0	1	3.0	15	1	1	0	0	0	The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+41	3	2	3	3	1	4	4	0	2	5	6	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"", he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+42	3	2	3	3	1	4	4	0	2	5	7	2	6	6.0	24	4	3	3	5	1	"""If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."""	16
+29	2	2	1	1	0	5	11	0	0	0	4	1	2	4.0	19	2	1	1	1	1	The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark were the primary factors in determining the success of the conference.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+34	5	4	3	0	0	6	10	0	0	0	2	0	3	5.0	9	2	2	1	2	0	 The intricate construction process of the cathedral necessitates a complex scaffolding network to safely hoist the enormous stone blocks into place, thereby contributing significantly to the overall progress of the ambitious project.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	" If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	" If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+18	1	1	1	0	0	2	8	0	0	0	4	0	1	3.0	15	1	1	0	0	0	  The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark.	16
+19	2	1	1	0	1	2	6	0	0	0	5	0	1	3.0	16	1	0	1	0	1	The staff, material provided, infrastructure, environment, and low fees totally above the satisfactory mark.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	" If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank.."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+24	2	0	1	1	1	1	3	0	1	4	4	1	4	4.0	8	2	1	2	4	1	"If Abbas continues ""macho talk,"" he will kill potential peace talks and possibly allow Hamas to rule the West Bank."	16
+44	5	7	1	0	1	7	12	0	1	1	3	0	6	7.0	11	2	1	1	5	1	 The intricate clockwork of the celestial mechanics underlying the tidal rhythm of Earth generates a mesmerizing dance of surging waves, forever shaping the coastline, leaving traces on the shore and dictating the rhythm of life in equilibrium with its ancient force.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+41	3	2	3	3	1	4	4	0	2	5	6	2	6	6.0	24	4	3	3	5	1	" **If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank.**"	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+52	4	4	3	4	1	6	8	1	2	5	6	2	6	7.0	24	4	4	4	5	0	"The sentence with the longest dependency link of 16 words is: If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+18	1	1	1	0	0	2	8	0	0	0	4	0	1	3.0	15	1	1	0	0	0	The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+41	3	2	3	3	1	3	4	0	3	5	6	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up his ""macho talk,"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	4	6	2	0	1	8	11	0	0	0	4	0	4	5.0	17	2	1	1	3	1	 The chef, utilizing the recently refurbished kitchen equipment, prepared a mouthwatering meal for the guests, ensuring satisfaction of the appetites despite the relatively high cost and potential discomfort due to the large size of the party.	16
+41	3	2	3	3	1	3	4	0	3	5	6	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up his ""macho talk,"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+33	2	1	3	1	1	3	9	0	3	0	5	0	4	5.0	18	3	2	2	2	1	 The staff, material provided, infra structure, environment, and low fees totally above the satisfactory mark make it a place where one can comfortably afford to spend their time.	16
+24	0	3	1	2	1	1	5	0	2	1	1	0	5	7.0	16	3	3	2	4	0	I have price targets of where I would like to lighten up exposure to ENE and will use calls to implement the stategy.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16
+31	4	1	1	0	3	3	9	0	0	0	6	0	4	5.0	17	1	1	1	1	0	 The staff, material provided, infra structure, environment, and low fees totally above the satisfactory mark, but the existing conditions remain poor and require further improvements.	16
+40	3	2	3	3	1	4	4	0	2	5	5	2	6	7.0	24	3	2	3	5	1	"If Abbas keeps up this ""macho talk"" he will kill potential peace talks and might as well allow Hamas (which has probably done a better job at providing for the Palestinians) rule the West Bank."	16

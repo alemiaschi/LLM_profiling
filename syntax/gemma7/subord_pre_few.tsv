@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_pre_constraint
+22	4	2	0	0	1	4	7	0	0	0	1	0	2	5.0	8	1	0	1	1	1	The vibrant murals and colorful graffiti covering the city walls serve as a testament to the city's rich cultural heritage.	0
+28	4	5	0	1	0	4	6	0	1	4	2	0	1	5.0	8	1	1	1	1	0	A Comparative Discourse Analysis of Game of Thrones was a captivating read, leaving me with a greater understanding of fan responses to the popular fantasy series.	0
+40	2	2	0	4	1	4	11	2	0	3	5	0	5	6.0	26	1	1	4	4	0	In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.	0
+20	2	4	0	0	0	2	7	0	0	2	1	0	2	5.0	8	1	1	1	1	0	A comparative discourse analysis of fan responses to Game of Thrones showcases the diverse interpretations afforded by text analysis.	0
+22	3	4	0	0	0	4	7	0	0	0	2	0	2	4.0	7	1	1	1	2	0	The vibrant community of musicians in town offered an array of musical performances, showcasing the diverse talents of each member.	0
+40	2	2	0	4	1	4	11	2	0	3	5	0	5	6.0	26	1	1	4	4	0	In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.	0
+15	0	1	1	0	0	3	3	0	0	0	2	1	3	4.0	5	2	2	2	0	0	The cat sat on the mat, waiting for the owner to come home.	0
+24	3	3	2	1	1	1	6	0	0	1	3	0	2	5.0	17	1	0	1	1	1	The artwork in Wei's paintings, consisting primarily of geometric patterns and vivid colors, has consistently garnered admiration from diverse perspectives.	0
+12	1	3	0	0	0	1	4	0	0	2	1	0	0	4.0	3	0	0	0	0	0	A Comparative Discourse Analysis of Fan Responses to Game of Thrones.	0
+27	1	5	1	0	0	5	9	0	1	1	1	0	2	5.0	9	1	1	2	2	0	The artwork in Wei's art exhibit perfectly captured the essence of the natural world in a way that captivated viewers from all walks of life.	0
+20	2	2	0	0	0	3	5	0	1	0	3	0	3	4.0	7	1	1	1	2	0	The scent of fresh-brewed coffee permeated the air, leaving a lingering aroma on everyone's clothes.	0
+20	2	1	0	0	1	3	7	0	1	0	1	0	3	5.0	7	2	1	2	2	1	The artwork displayed at the gallery showcased paintings whose vibrant colors and intricate detail captivated the viewer's senses.	0
+20	3	2	1	0	0	2	4	0	0	0	4	0	3	5.0	13	2	1	1	1	1	A basket of fresh, ripe strawberries, skillfully arranged on a table, attracts eager diners to partake.	0
+25	3	1	1	0	0	5	6	0	0	0	4	1	4	4.0	12	3	3	2	2	0	The wind turbines hummed silently, creating a peaceful atmosphere, although a few blades whipped against the wind, generating a low hum.	0
+22	2	1	2	0	1	1	7	0	1	0	2	0	3	4.0	6	2	1	1	3	1	The artist's ability to invoke diverse interpretations demonstrably enhances their work, thereby ensuring inclusivity and engagement across various demographics.	0
+17	3	1	0	0	1	3	5	0	0	0	2	0	2	4.0	7	1	1	1	2	0	The painting displayed vibrant hues and textured brushstrokes, capturing the essence of the vibrant landscape.	0
+40	2	2	0	4	1	4	11	2	0	3	5	0	5	6.0	26	1	1	4	4	0	 In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.	0
+20	1	2	2	1	1	2	6	0	0	0	3	0	2	5.0	9	0	0	1	0	0	A freshly baked apple pie, fragrant with cinnamon and applesauce, was devoured greedily in the dining hall.	0
+23	5	2	0	2	2	4	5	0	1	0	2	0	0	3.0	14	0	0	2	0	0	The painting was a vibrant portrait of a young woman with a commanding presence, and her smile was wide and captivating.	0
+20	2	3	0	0	1	3	6	0	1	0	1	0	2	4.0	6	1	1	1	2	0	 The swiftness and agility of the motorcycle enabled her to cover vast distances in a short amount of time.	0
+28	1	3	0	1	2	7	9	0	0	0	2	0	2	5.0	9	1	1	1	2	0	The painting of a sunset over the ocean was a masterpiece, reflecting the vibrant colors of the sky and showcasing the artist's skill and creativity.	0
+21	0	4	0	1	0	5	7	0	0	1	2	0	1	4.0	8	1	1	1	1	0	The painting by Monet was the centerpiece of the exhibition, drawing a throng of art lovers to the museum.	0
+25	3	2	0	0	1	3	7	0	1	1	3	0	4	5.0	8	1	0	2	2	1	The verdant landscape that surrounds the ancient city of Stonebridge presents a breathtaking tapestry of rolling hills, shimmering rivers, and towering peaks.	0
+40	2	2	0	4	1	4	11	2	0	3	5	0	5	6.0	26	1	1	4	4	0	In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.	0
+22	3	3	0	1	0	4	7	0	0	0	2	0	1	5.0	11	1	1	1	1	0	The intricate dance of colors in a peacock's tail is a mesmerizing spectacle, showcasing the beauty inherent in nature.	0
+26	4	5	0	0	1	4	8	0	0	0	2	0	2	6.0	12	1	1	1	1	0	The artwork showcased a vibrant array of colors, ranging from the fiery hues of sunset to the cool and soothing tones of moonlit sky.	0
+34	2	4	1	0	1	4	7	0	1	6	4	0	4	6.0	15	2	2	2	2	0	A Comparative Discourse Analysis of Fan Responses to Game of Thrones, a recently completed course project, generated discussion and engagement from participants, showcasing the diverse perspectives that the novel inspires.	0
+19	1	2	0	0	1	3	7	0	0	0	2	0	2	5.0	7	1	1	1	2	0	The painting exhibited a vibrant mix of colors, showcasing the artist's mastery of technique and expression.	0
+40	2	2	0	4	1	4	11	2	0	3	5	0	5	6.0	26	1	1	4	4	0	In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.	0
+29	3	6	0	1	0	5	6	0	0	6	1	0	1	6.0	11	1	1	1	1	0	A Comparative Discourse Analysis of Fan Responses to Game of Thrones was a fitting title for a conference exploring the impact of the popular fantasy series on society.	0
+25	4	3	1	1	1	4	7	0	0	0	2	1	1	5.0	8	1	1	1	1	0	The melody of the music is the key to unlocking deeper emotional resonance in the audience, regardless of cultural background or personal beliefs.	0
+26	3	3	0	0	0	5	6	0	0	3	4	0	2	4.0	13	0	0	1	1	0	A goosebumps-inducing performance of the violin by the renowned musician, Ludwig van Beethoven, elicited a profound emotional response from the audience.	0
+18	2	1	0	0	0	4	5	0	0	0	3	1	2	4.0	8	1	1	2	1	0	The book, a collection of short stories, captivated a wide audience as each tale unfolded.	0
+40	2	2	0	4	1	4	11	2	0	3	5	0	5	6.0	26	1	1	4	4	0	In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.	0
+17	1	2	2	0	0	3	4	0	1	0	2	0	2	3.0	8	1	1	2	0	0	The majestic eagle soared effortlessly through the sky, its wings gliding effortlessly through the wind.	0
+40	2	2	0	4	1	4	11	2	0	3	5	0	5	6.0	26	1	1	4	4	0	In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.	0
+25	4	3	0	0	1	5	8	0	0	0	2	0	2	4.0	8	1	1	1	2	0	The vibrant and diverse colors of the autumn leaves reflected the fiery glow of the sunset, casting long shadows on the forest floor.	0
+33	4	6	0	1	1	5	9	0	0	4	2	0	1	5.0	11	1	1	1	0	0	A Comparative Discourse Analysis of Fan Responses to Game of Thrones is a logical topic for investigation, given the popularity of the series and the consequent wide range of fan responses.	0
+22	2	3	0	0	1	4	7	0	0	0	2	0	3	5.0	8	1	1	1	2	0	The painted landscape in the gallery showcased a captivating collection of abstract art, evoking a sense of serenity and contemplation.	0
+14	2	2	0	0	0	2	5	0	0	0	1	0	2	4.0	4	0	0	1	1	0	The provided text outlines various solutions to the task with different sentence structures.	0
+10	0	1	1	0	0	2	2	0	0	0	2	0	2	2.0	5	1	1	1	0	0	The cat sat on the mat, purring contentedly.	0
+16	2	1	0	1	0	4	4	0	0	0	2	0	2	3.0	8	1	1	1	2	0	The painting has captured the vibrant colors of the sunset, creating a serene atmosphere.	0
+24	5	3	1	0	1	4	6	0	0	0	3	0	1	4.0	15	0	0	1	1	0	The intricate dance of rhythmic chanting and synchronized movement, devoid of any subordinate propositions, flawlessly conveyed the message of the performance.	0
+26	4	5	0	1	0	4	7	0	0	0	3	0	2	5.0	13	1	0	1	1	1	The intricate mosaic of life, crafted by the hands of diverse individuals, has painted a vibrant canvas across the tapestry of human experience.	0
+25	4	3	0	0	1	2	6	0	1	3	3	0	2	5.0	16	1	0	1	1	1	The vibrant artwork of Vincent van Gogh, characterized by its striking brushstrokes and intense color palette, inspires countless artists to this day.	0
+17	4	2	0	1	1	1	3	0	0	1	3	0	0	4.0	8	0	0	1	0	0	The artwork in Wei's exhibit was vibrant, colorful, and evocative of various feelings.	0
+23	2	2	0	0	2	3	8	0	0	0	4	0	2	5.0	12	1	1	1	2	0	The painting displayed a vibrant mix of blues, yellows, and greens, evoking a sense of ethereal joy and serenity.	0
+10	0	1	0	0	0	2	3	0	0	0	2	0	2	2.0	6	0	0	1	0	0	The cat sat on the mat, looking content.	0
+24	3	5	0	0	1	2	8	0	0	1	2	0	2	6.0	6	1	1	1	1	0	The artwork on display at the museum showcases paintings from various cultures and eras, ranging from Renaissance portraits to contemporary abstract expressionism.	0
+18	1	2	1	0	0	3	5	0	1	0	2	0	3	4.0	6	1	1	1	2	0	The aroma of freshly baked bread permeates the air, leaving an unmistakable sweetness in its wake.	0
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+18	1	0	1	3	1	2	2	0	1	0	4	1	2	3.0	13	1	1	3	0	0	The house is small, but since it is well-designed, the space is maximized.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+14	0	1	0	3	0	2	2	0	0	0	2	1	3	3.0	7	2	1	2	0	1	Since the company is closing down, the employees are being let go.	1
+26	0	3	2	3	0	1	1	0	3	1	4	2	4	3.0	13	2	1	3	0	1	Sure, the generated sentence is: Though I haven't spoken to John recently, I'm planning on reaching out to him soon.	1
+12	0	1	1	0	0	1	2	0	3	0	2	0	2	3.0	6	1	0	2	1	1	When I go to the park, I bring my dog.	1
+11	0	1	1	0	0	2	4	0	0	0	1	0	2	3.0	5	1	1	2	1	0	A swarm of bees gathers nectar when the flowers bloom.	1
+15	1	1	1	1	1	3	3	0	1	0	2	0	1	3.0	8	0	0	2	1	0	The team completed the task quickly, and they were satisfied with the results.	1
+23	2	0	2	0	0	3	3	0	2	1	5	0	4	5.0	17	3	0	3	3	3	"The subordinate proposition ""when we pass Spencer’s again"" preceding the main clause ""she stops"" generates a sentence."	1
+11	1	0	1	0	0	3	3	0	0	0	1	0	2	3.0	4	1	1	2	1	0	The music stopped when the dancer reached the grand finale.	1
+14	0	0	2	1	0	2	2	0	1	0	2	1	3	4.0	5	2	2	1	0	0	The dog is sleeping soundly, although there was a thunderstorm raging outside.	1
+11	0	0	1	1	0	2	4	0	0	0	1	0	2	3.0	5	1	1	2	0	0	The house plant will blossom when the spring breeze arrives.	1
+16	0	0	1	2	0	1	2	0	3	0	3	1	3	3.0	8	1	0	2	2	1	**If you have completed the assigned task successfully, you may submit your answer.**	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+16	1	2	0	1	0	3	4	0	1	0	2	1	1	3.0	5	1	0	2	0	1	Although the room was quiet, the ticking clock resonated with me throughout the night.	1
+9	0	0	2	0	0	2	2	0	0	0	1	0	2	3.0	5	1	1	2	0	0	The child laughed happily when the puppy barked.	1
+22	1	2	1	4	1	4	4	0	0	0	2	0	3	3.0	13	1	1	3	0	0	The movie will start when the tickets are sold out, and the popcorn will be served at the same time.	1
+28	1	2	0	2	0	3	5	0	4	1	2	3	4	4.0	10	3	2	3	3	1	Since they released kinect this was kind of their way of releasing a new Xbox, they don't plan on making another one for a while.	1
+14	0	2	0	0	0	3	5	0	0	0	1	1	2	3.0	7	1	1	2	0	0	  The cat sat on the mat while the child played with toy cars.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+28	1	2	1	2	0	3	5	0	4	1	2	2	4	4.0	18	3	3	3	3	0	 They released kinect this was kind of their way of releasing a new Xbox, so they don't plan on making another one for a while.	1
+16	0	2	0	1	0	3	2	0	1	1	2	1	2	3.0	8	1	1	1	1	0	Since the release of the kinect, they have not planned on making another Xbox.	1
+14	0	1	1	1	0	1	2	0	3	0	2	1	2	4.0	10	1	0	2	2	1	If you offer me a slice of apple, I will gladly accept.	1
+20	1	1	0	1	2	4	5	0	0	0	1	0	4	5.0	8	2	2	1	2	0	The customer wishes to complain about the product and will send a letter detailing the problems and possible solutions.	1
+15	0	1	0	1	0	1	2	0	4	0	2	1	3	4.0	7	2	0	2	2	2	After I finish writing the report, I will submit it to my teacher.	1
+12	1	0	1	2	0	1	1	0	2	0	2	0	1	2.0	6	0	0	2	1	0	The dog is asleep, therefore I will not disturb him.	1
+13	1	0	1	2	0	2	3	0	0	0	1	0	2	4.0	5	2	2	2	0	0	The house plant needs to be watered when the soil is dry.	1
+19	2	3	0	1	0	2	5	0	2	0	2	1	1	4.0	6	1	0	1	0	1	Although their was considerable debate about the outcome, there was widespread agreement on the need for change.	1
+19	1	2	0	1	0	5	5	0	0	0	2	1	2	4.0	5	2	1	2	1	1	Although the weather was rainy, the gardener finished planting the flowers by the end of the day.	1
+11	0	0	1	2	0	2	2	0	1	0	1	0	2	2.0	6	1	1	2	1	0	The customer will receive the package when it is delivered.	1
+12	0	0	1	1	0	1	1	0	3	0	2	0	3	4.0	7	2	0	2	2	2	When I finish writing this response, I will submit it.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+11	0	1	1	0	0	3	3	0	0	0	1	0	2	3.0	7	1	1	2	0	0	The dog ran across the park when the wind blew.	1
+13	0	0	0	1	0	4	4	0	0	0	1	1	2	3.0	7	1	1	2	2	0	The mechanic repaired the car while the technician was fixing the engine.	1
+13	0	1	1	1	0	3	3	0	1	0	1	0	2	2.0	9	1	1	2	1	0	The cat chased the mouse up the tree when it was playing.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	 Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+17	0	2	1	1	0	2	4	0	3	0	2	0	2	4.0	6	1	0	2	2	1	When you visit our website, you will find a wealth of information about the company.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+22	2	3	0	0	0	5	8	0	0	0	1	1	2	3.0	10	1	1	2	1	0	The dominant force field of the tractor beams creates a localized vacuum within the chamber as the ship moves through space.	1
+22	0	1	0	6	1	3	4	0	0	0	3	1	3	3.0	16	1	1	3	0	0	The book will be delivered upon payment, once the order has been processed, and the payment has been verified.	1
+11	0	1	1	0	0	3	3	0	0	0	1	0	2	3.0	7	1	1	2	0	0	The cat jumped onto the table when the door opened.	1
+15	1	0	1	2	1	2	2	0	0	0	3	1	2	3.0	5	1	0	2	0	1	Although the museum was crowded, the artwork was beautiful and well-preserved.	1
+15	1	1	0	1	0	3	3	0	0	0	3	1	2	3.0	4	2	1	2	0	1	**Although the weather was rainy, the children enjoyed playing in the park.**	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+14	0	1	0	1	0	1	1	1	2	0	3	1	2	3.0	5	1	0	1	2	1	**If you are reading this message, please call me at 555-123-4567.**	1
+12	0	0	2	0	0	2	3	0	0	1	1	0	2	3.0	4	1	1	2	1	0	The train conductor stopped when the passenger passed Spencer's again.	1
+25	2	2	1	0	1	2	6	3	2	0	2	1	2	6.0	13	1	0	0	0	1	Although there was a dominance of single spores and a trillion spore concentration, there were clumps as large as 40 - 100 microns.	1
+19	1	1	1	2	1	2	5	0	1	0	2	1	2	4.0	11	1	0	2	1	1	Although the movie has been praised for its plot and acting, the special effects still need improvement.	1
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+32	2	3	1	1	1	1	6	0	0	6	6	1	4	5.0	10	1	1	1	2	0	The increasing reliance of emerging economies on global capital flows is causing difficulty in financing economic growth, particularly for India, Indonesia, Brazil, South Africa, and Turkey.	2
+39	5	2	4	4	0	2	7	0	3	0	3	1	5	5.0	15	4	3	4	3	1	In developing countries that have not yet reached the technological frontier, the answer is almost certainly yes, as emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+23	5	3	1	1	0	3	6	0	0	0	2	0	2	4.0	10	1	1	1	1	0	The recent economic crisis has led to a sharp decline in consumer spending, thereby causing a decline in overall economic growth.	2
+21	3	3	1	0	1	2	6	0	1	0	1	0	3	4.0	8	0	0	1	2	0	The prevalence of counterfeit currencies in developing countries negatively impacts their economic growth and creates a burden on legitimate businesses.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+28	4	4	1	1	1	2	10	0	0	0	3	0	2	4.0	10	0	0	1	0	0	**The aging populations and shrinking labor force in developed countries have led to a decline in economic growth, thereby increasing pressure on social safety nets.**	2
+28	3	6	0	1	1	5	8	0	1	0	1	0	2	5.0	8	0	0	1	0	0	The increasing dominance of the financial sector in GDP has resulted in a negative correlation between its share of GDP and the health of the real economy.	2
+32	6	3	2	0	1	4	7	0	1	0	2	2	4	7.0	5	2	2	3	2	0	 The effectiveness of fiscal policy depends on whether the economy exhibits strong domestic demand or relies heavily on external borrowing, which ultimately influences the overall health of the real economy.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+34	5	1	3	5	1	2	4	0	2	0	4	0	4	5.0	13	3	2	3	2	1	The economic well-being of developing countries that have not yet reached the technological frontier is precarious, and therefore, their ability to finance economic growth is likely to be constrained.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+34	8	3	0	0	1	6	9	0	0	0	3	0	2	6.0	16	0	0	2	2	0	The agricultural sector's growth has a positive correlation with the overall economic growth, and the industrial sector's growth has a positive correlation with the development of high-skilled labor.	2
+37	3	6	3	2	0	7	8	0	1	1	2	0	3	4.0	14	1	1	2	1	0	The impact of the financial sector on the health of the real economy is negatively correlated with the GDP share of the sector, particularly in developing countries that have not yet reached the technological frontier.	2
+29	6	4	0	1	1	5	8	0	0	0	1	0	2	7.0	6	1	1	1	1	0	The ongoing global economic downturn has resulted in findings indicating a negative correlation between the financial sector's share of GDP and the health of the real economy.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+25	4	3	0	0	1	2	6	0	1	0	1	1	5	5.0	9	2	1	1	2	1	The effectiveness of the financial sector in fostering economic growth hinges on its ability to leverage technological advancements and align with evolving economic realities.	2
+24	3	5	1	1	0	3	7	0	0	0	2	0	2	4.0	12	0	0	1	0	0	The increasing popularity of mobile banking has resulted in a decline in the use of traditional banking services, particularly among younger generations.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+32	3	4	2	2	1	2	8	0	3	0	3	0	3	8.0	8	2	2	2	1	0	The economic well-being of a country depends on its ability to generate domestic demand and export competitiveness, which is inversely correlated with its reliance on foreign capital flows.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+37	4	4	1	1	1	6	11	0	1	0	2	0	4	6.0	15	1	1	3	3	0	The banking sector's contribution to GDP has a negative association with the health of the real economy, and this relationship holds particular relevance for developing countries that have not yet reached the technological frontier.	2
+25	3	4	0	1	1	2	9	0	0	0	3	0	2	6.0	8	0	0	1	0	0	The increasing popularity of online shopping platforms has resulted in a significant decline in foot traffic at traditional brick-and-mortar stores.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+30	3	4	3	1	0	4	7	0	1	0	2	0	3	4.0	13	1	1	2	1	0	The health of the real economy negatively correlates with the financial sector's share of GDP, particularly in developing countries that have not yet reached the technological frontier.	2
+34	6	3	1	3	0	2	9	0	2	0	2	1	4	5.0	19	3	3	3	3	0	The aging population in developed countries will reduce the need for workforce participation, while emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+26	2	5	1	0	0	4	7	1	0	0	2	0	3	5.0	6	1	1	1	0	0	The financial sector's share of GDP negatively correlates with the health of the real economy, based on a sample of 20 developed countries.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	 Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+21	4	2	1	1	0	1	5	0	2	0	1	0	3	5.0	12	2	1	2	2	1	The economies of emerging countries that rely heavily on global capital flows are finding it challenging to maintain economic growth.	2
+43	6	6	1	1	1	1	8	0	2	6	7	1	3	5.0	27	2	1	2	2	1	The economies of emerging nations that heavily rely on global capital flows, such as India, Indonesia, Brazil, South Africa, and Turkey, are experiencing difficulties in sustaining economic growth due to their dependence on external financial sources.	2
+31	5	2	2	2	0	2	8	0	2	0	2	1	4	7.0	13	4	3	2	3	1	The economies of emerging countries that are overly dependent on global capital flows are finding it tougher to finance economic growth, thus illustrating the importance of diversifying investment sources.	2
+27	2	3	1	0	1	2	10	0	0	0	4	0	4	6.0	8	1	1	1	2	0	 The increasing trend in automation technologies creates a growing demand for highly skilled workers in fields requiring creativity, problem-solving, and analytical thinking.	2
+23	3	3	2	1	0	3	6	0	0	0	2	0	3	4.0	8	1	1	1	2	0	The increasing prevalence of electronic devices has significantly boosted the adoption of cashless payments, thereby decreasing the reliance on physical currency.	2
+32	4	6	1	0	1	1	10	0	1	0	2	1	5	6.0	9	2	2	1	1	0	 The growing economic disparities between developing and developed countries result in significant discrepancies in healthcare systems, consequently leading to challenges in accessing quality healthcare services for those in developing nations.	2
+33	4	1	2	2	1	0	4	0	2	6	7	0	3	4.0	24	2	1	2	2	1	 Emerging economies that are overly dependent on global capital flows – particularly India, Indonesia, Brazil, South Africa, and Turkey – are finding it tougher to finance economic growth.	2
+19	4	1	1	2	0	0	4	0	2	0	1	0	3	4.0	10	2	1	2	1	1	Emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+33	4	5	2	1	1	4	8	0	1	0	2	0	4	6.0	12	2	0	2	1	2	The economic well-being of developing countries that have yet to reach the technological frontier depends on the availability of information on various issues and the prevalence of global capital flows.	2
+19	1	1	3	2	0	2	3	0	1	0	2	0	2	4.0	15	1	0	2	1	1	In developing countries that have not yet reached the technological frontier, the answer is almost certainly yes.	2
+33	3	5	0	0	1	6	9	1	1	0	3	0	3	5.0	12	1	0	1	2	1	**Using the data from the sample of 20 developed countries, they find a negative correlation between the financial sector's share of GDP and the health of the real economy.**	2
+26	4	2	2	3	0	2	4	0	2	0	2	0	3	5.0	13	2	1	2	2	1	 The economic well-being of developing countries that have not yet reached the technological frontier is dependent on their ability to mobilize internal resources.	2
+28	6	3	1	2	0	2	6	0	2	0	2	0	3	4.0	17	2	1	2	2	1	Despite the recent downturn in the global economy, emerging economies that are overly dependent on global capital flows are finding it tougher to finance economic growth.	2
+31	3	5	0	3	1	5	8	1	0	0	1	0	2	5.0	18	1	1	1	0	0	The relationship between the financial sector's share of GDP and the health of the real economy has been found to be negative in a sample of 20 developed countries.	2
+31	5	3	0	0	0	4	9	0	0	0	3	1	5	6.0	20	4	0	1	4	4	As a multifaceted approach, designed to mitigate the detrimental effects of climate change while fostering sustainable practices, implementing renewable energy technologies provides a pathway towards a greener future.	3
+35	1	5	1	2	0	3	6	0	1	7	5	0	3	4.0	11	2	1	2	1	1	"When dandelions have set the mark of May on Wisconsin pastures, it is time to listen for the final proof of spring, wrote Aldo Leopold in ""A Sand County Almanac."""	3
+41	3	8	1	0	1	5	12	0	0	2	5	0	4	6.0	15	3	2	1	2	1	The fragrance of honeysuckle, mingled with the scent of fresh-cut grass, often accompanies the warm breeze blowing through Wisconsin pastures in May, prompting a sense of tranquility and anticipation for the final proof of spring.	3
+26	1	3	0	0	1	4	9	0	0	0	3	1	4	4.0	6	2	1	2	3	1	As the clock strikes midnight, the mischievous elves sneak through the sleeping forest, delighting children with gifts and spreading joy throughout the land.	3
+40	2	4	2	3	1	5	8	0	1	1	5	2	5	6.0	16	4	3	4	0	1	**Although the dandelion seeds have dispersed, the scent of May lingers in the air, and the earth awakens with life, it is still too early to tell whether the final proof of spring has arrived.**	3
+34	1	5	1	0	0	4	7	0	0	7	5	1	3	5.0	10	2	2	1	2	0	"The blooming dandelions signal the arrival of May in Wisconsin pastures, providing proof of the final spring arrival, as eloquently written by Aldo Leopold in ""A Sand County Almanac."""	3
+37	2	8	1	1	0	4	7	0	0	7	4	1	2	5.0	13	2	1	1	0	1	"The intricate dance of colors painted upon Wisconsin pastures in May by dandelions is the herald of the final proof of spring, as eloquently written by Aldo Leopold in ""A Sand County Almanac."""	3
+27	1	4	0	0	0	5	9	0	1	0	3	1	3	4.0	10	1	0	3	1	1	As the blossoms burst from the branches of maple trees, their fragrance fills the air, the earth awakens with the sweet scent of spring.	3
+44	3	9	1	0	0	5	9	0	2	7	5	0	3	5.0	23	2	1	2	2	1	"In the realm of vibrant flora, when dandelions cast their mark of May upon the verdant pastures of Wisconsin, the spirit of spring whispers its final proof through the pages of ""A Sand County Almanac"" penned by Aldo Leopold."	3
+42	3	6	0	0	1	7	13	0	0	0	5	1	5	6.0	17	3	2	3	3	1	The fragrant bloom of wisteria, a herald of approaching summer, fills the air as the first swallows flit between branches, and the sweet scent of honeysuckle lingers in the breeze, composing a symphony of nature's awakening.	3
+24	0	4	1	0	0	5	7	0	0	0	3	0	4	3.0	9	1	0	3	0	1	When the sun shines upon the wildflowers, the fragrance of honeysuckle lingers in the air, the earth awakens with renewed vitality.	3
+39	0	3	2	0	1	5	7	0	1	5	8	1	6	5.0	14	2	1	4	2	1	"When the sun shines upon the meadows, butterflies dance, and the trees wear their newly-sprouted leaves, the world finds harmony, as depicted in ""A Sand County Almanac"" by Aldo Leopold."	3
+23	1	1	4	1	1	3	4	0	0	0	3	1	3	4.0	16	2	1	3	0	1	If the flowers bloom prematurely, and the sun shines too intensely, then the fruits of nature are liable to suffer.	3
+27	2	3	0	0	0	4	8	0	1	0	4	1	4	5.0	8	3	2	2	3	1	As the clock strikes midnight, the sky illuminates with stars, revealing the celestial tapestry of the zodiac, captivating onlookers with their cosmic dance.	3
+44	2	6	1	0	0	5	7	0	3	6	7	1	5	10.0	9	3	2	2	1	1	"As the dandelions bloom, painted the meadows with colors of May, I find it a time to rejoice in the subtle wonders of nature, much like Aldo Leopold described in his beloved book, ""A Sand County Almanac."""	3
+37	2	4	0	0	2	6	11	0	0	1	4	1	5	5.0	20	2	0	4	2	2	As the leaves begin to change color in the North, the air grows colder, and preparations for the holiday season swing into full gear, the scents of cinnamon and apples fill the air.	3
+26	4	2	0	0	2	3	10	0	0	0	3	0	2	5.0	12	1	1	1	2	0	The intricate interplay of delicate flower petals, rhythmic wind chimes and melodic birdsong fills the air, prompting a sense of wonder and reflection.	3
+35	2	4	0	0	1	8	11	0	1	0	4	1	3	5.0	18	1	0	4	2	1	As the dandelions display their vibrant hues on the meadows, the fragrance of wildflowers fills the air, and the warmth of the sun graces upon the earth, a vibrant picture unfolds.	3
+24	1	2	1	1	2	4	6	0	1	0	3	0	2	3.0	20	0	0	3	1	0	The wildflowers bloom in the spring, and the birds sing their sweet song, but the world is not yet at peace.	3
+44	1	5	2	2	1	8	11	0	0	0	6	1	6	5.0	13	2	1	4	1	1	As the scent of petrichor lingered on the air, the farmer's hands were stained with earth, and the seeds were neatly sown, the sun shone upon the newly-planted earth, heralding the beginning of a bountiful harvest.	3
+33	1	1	2	0	2	5	6	0	0	5	6	0	5	5.0	12	1	1	4	3	0	" The flowers bloom vividly when April showers kiss the earth, and the birdsong fills the air, yet a pervasive chill remains, wrote William Wordsworth in ""Tintern Abbey."""	3
+29	0	3	0	0	1	6	8	0	1	0	3	1	5	4.0	8	3	2	3	2	1	As the weather warms and the flowers bloom, the birds sing their springtime melodies across the meadows, creating a symphony of delight for all to hear.	3
+37	5	7	1	0	0	5	9	0	1	0	2	0	5	7.0	13	4	3	2	1	1	The intricate web of interconnected factors that govern the subtle interplay of nature's forces result in a tapestry woven from countless variables, ultimately leading to a vibrant symphony of experiences for all to enjoy.	3
+37	5	6	0	0	1	3	9	0	2	0	5	1	4	6.0	18	3	0	1	3	3	As a preventive approach, designed to optimize the environmental performance of products, while maintaining their functional qualities, it provides genuine new opportunities for manufacturers, for consumers and for society as a whole.	3
+27	1	4	0	0	1	5	8	0	0	0	4	0	4	5.0	10	2	1	1	3	1	The scent of honeysuckle, carried on the sweet breeze, filled the air, heralding the arrival of summer and prompting a symphony of birdsong.	3
+37	5	6	0	0	1	3	9	0	2	0	5	1	4	6.0	17	3	0	1	3	3	**As a preventive approach designed to optimize the environmental performance of products, while maintaining their functional qualities, it provides genuine new opportunities for manufacturers, for consumers and for society as a whole.**	3
+36	2	6	1	0	0	4	6	0	0	7	5	1	4	5.0	9	3	2	1	2	1	"The intricate dance of wildflowers blooming in Wisconsin pastures signals the arrival of May, prompting the final proof of spring, as eloquently described by Aldo Leopold in ""A Sand County Almanac."""	3
+40	3	7	0	0	0	6	9	0	0	6	5	1	2	7.0	16	1	0	1	1	1	"A kaleidoscope of colours painted by the fleeting dance of springtime wildflowers in the Wisconsin pastures, announced the presence of the final proof of spring, as detailed in Aldo Leopold's ""A Sand County Almanac."""	3
+37	1	5	1	2	0	4	6	0	1	7	5	1	3	5.0	11	3	2	2	2	1	"When the dandelions have set the mark of May on Wisconsin pastures, it is time to listen for the final proof of spring, as wrote Aldo Leopold in ""A Sand County Almanac."""	3
+37	5	6	0	0	1	3	9	0	2	0	5	1	4	6.0	18	3	0	1	3	3	As a preventive approach, designed to optimise the environmental performance of products, while maintaining their functional qualities, it provides genuine new opportunities for manufacturers, for consumers and for society as a whole.	3
+36	1	5	1	1	0	4	6	0	1	6	5	1	3	6.0	13	3	2	2	1	1	"In the springtime, when the dandelions bloom in Wisconsin's pastures, it is time to hear the final proof of spring as written by Aldo Leopold in ""A Sand County Almanac."""	3
+34	5	4	0	0	1	3	9	0	2	0	4	1	4	6.0	17	3	0	1	3	3	As a preventive approach designed to optimize the environmental performance of products, while maintaining their functional qualities, it provides genuine new opportunities for manufacturers, consumers and society as a whole.	3
+42	3	6	1	2	1	5	13	0	0	0	2	2	6	8.0	20	5	2	1	3	3	The environmental performance of products manufactured sustainably in accordance with the design principle of minimizing environmental impact while maintaining function can be optimised through a preventative approach tailored to meet the needs of manufacturers, consumers and society as a whole.	3
+35	1	5	1	2	0	3	6	0	1	7	5	0	3	4.0	11	2	1	2	1	1	"When dandelions have set the mark of May on Wisconsin pastures, it is time to listen for the final proof of spring, wrote Aldo Leopold in ""A Sand County Almanac."""	3
+24	2	2	0	1	1	3	5	1	2	0	2	0	3	5.0	9	1	1	1	3	0	Sure, please provide me with the task information and I will generate a sentence with 3 subordinate propositions preceding the main clause.	3
+37	5	5	0	0	1	3	11	0	1	0	5	1	4	7.0	23	3	0	1	3	3	As part of a comprehensive environmental sustainability strategy designed to optimize the lifecycle of products, while prioritizing their functional capabilities, the initiative creates valuable opportunities for manufacturers, consumers, and society at large.	3
+29	1	5	0	0	0	4	5	0	0	6	4	1	2	4.0	12	1	1	1	0	0	"The blooming dandelions in May serve as a herald of the final proof of spring, as described in Aldo Leopold's ""A Sand County Almanac."""	3
+37	5	6	0	0	1	3	9	0	2	0	5	1	4	6.0	18	3	0	1	3	3	As a preventive approach, designed to optimise the environmental performance of products, while maintaining their functional qualities, it provides genuine new opportunities for manufacturers, for consumers and for society as a whole.	3
+35	1	5	1	2	0	3	6	0	1	7	5	0	3	4.0	11	2	1	2	1	1	"When dandelions have set the mark of May on Wisconsin pastures, it is time to listen for the final proof of spring, wrote Aldo Leopold in ""A Sand County Almanac."""	3
+38	1	6	1	2	0	4	6	0	1	7	5	1	3	5.0	11	3	2	2	1	1	"When the dandelions have set the mark of May on Wisconsin pastures, it is time to listen for the final proof of spring, as written by Aldo Leopold in ""A Sand County Almanac."""	3
+37	5	6	0	0	1	3	9	0	2	0	5	1	4	6.0	18	3	0	1	3	3	As a preventive approach, designed to optimize the environmental performance of products, while maintaining their functional qualities, it provides genuine new opportunities for manufacturers, for consumers and for society as a whole.	3
+36	1	5	1	2	0	4	6	0	1	7	5	0	3	4.0	11	2	1	2	1	1	" When the dandelions have set the mark of May on Wisconsin pastures, it is time to listen for the final proof of spring, wrote Aldo Leopold in ""A Sand County Almanac."""	3
+38	2	5	1	2	2	7	10	0	1	0	3	0	4	6.0	27	3	2	4	1	1	When the wildflowers bloom in the meadow and the trees cast long shadows on the ground, and the air is sweet with the scent of honey, it is time to go hiking in the woods.	3
+42	3	3	1	1	2	5	6	0	1	5	6	1	6	5.0	13	4	2	5	0	2	"When the leaves begin to wither and the air turns colder, the woods become quieter, and it is time to listen for the final proof of spring, as Aldo Leopold wrote in ""A Sand County Almanac."""	3
+39	1	7	1	0	0	5	7	0	1	7	6	1	3	4.0	18	2	1	2	1	1	"In the tapestry of May, when dandelions kiss the land with their ephemeral blooms, the whispers of spring resonate through the Wisconsin pastures, as recounted by Aldo Leopold in ""A Sand County Almanac."""	3
+34	2	4	1	0	1	8	10	0	0	0	4	1	3	6.0	9	1	0	3	1	1	As the sun shines upon the verdant canopy above, the birdsong fills the air, and the earth awakens to a vibrant springtime, the scent of blossoms blossoms in the breeze.	3
+19	2	0	1	4	1	3	4	0	0	0	2	1	1	4.0	11	1	0	3	0	1	When the leaves have fallen and the air is crisp, the berries will be ripe for picking.	3
+38	1	6	0	1	0	5	8	0	0	6	4	1	4	7.0	9	3	3	1	1	0	"The final proof of spring is heralded by the dandelion markings on Wisconsin pastures, prompting a time to listen for the whispers of nature as recounted in Aldo Leopold's ""A Sand County Almanac."""	3
+31	3	2	1	1	0	4	10	0	1	0	3	1	3	5.0	9	2	1	2	3	1	If the library's archives provide sufficient documentation, the historians will have ample material for their research projects, thereby enriching the collective understanding of the community's history.	3
+25	2	4	0	0	0	4	7	0	0	1	4	0	3	5.0	12	2	1	1	2	1	The fragrance of petunias, carried on the warm breeze of July, fills the air, evoking the memory of carefree summer days.	3
+30	3	3	0	3	1	3	9	0	0	0	4	1	2	5.0	11	2	2	2	0	0	The meeting was postponed due to concerns that many attendees would be unable to attend, the possibility of rain, the weather forecast, and potential scheduling conflicts.	4
+24	0	1	4	1	1	1	3	0	5	0	2	0	4	5.0	10	2	2	3	4	0	My grandmother taught me much about cooking, but I don't know why she never taught me how to bake a cake.	4
+29	5	2	1	0	1	4	8	0	0	0	3	1	4	6.0	8	3	3	2	3	0	Aboard a plane, the pilot relayed an urgent message stating that severe turbulence and rough air caused significant damage to the aircraft, thereby requiring extensive repairs.	4
+41	4	5	1	3	2	5	10	0	1	0	4	1	4	5.0	30	2	2	4	2	0	The customer expressed concern that the delay in delivery would result in a disruption to their daily routine, the shipment was delayed due to unforeseen issues, and the manufacturer was apologetic, but ultimately unable to expedite delivery.	4
+27	1	1	0	3	2	4	6	0	1	0	3	0	5	6.0	13	2	2	4	2	0	The mechanic recommended replacing the worn out engine parts, but the cost would be astronomical, and they expressed concerns the repairs would not last.	4
+30	2	1	0	1	1	2	7	0	1	2	5	0	6	5.0	14	4	4	3	1	0	"The governor's spokesman Maviglio said, ""Some board members pushed to have Winter removed, but there were concerns such action would lead to more chaos."""	4
+28	0	1	1	3	1	4	7	0	2	0	2	2	5	6.0	10	3	3	4	3	0	The CEO expressed concerns the project would exceed budget, but he emphasized that his company would be committed to completing the work regardless of the cost.	4
+47	1	4	1	3	2	7	11	1	0	2	4	3	7	10.0	9	6	6	3	2	0	The governor's spokesman Maviglio said that the concerns raised about removing Winter were valid, but ultimately, the decision would be made based on a number of factors, including the potential for chaos and the possibility of jamming up the number one spot.	4
+29	2	1	0	1	1	2	7	0	1	2	3	1	6	6.0	24	4	0	3	1	4	The board members pushed to have Winter removed, but there were concerns that such action would lead to more chaos, the governor's spokesman Maviglio said.	4
+20	1	1	1	3	1	1	1	0	3	0	3	0	3	3.0	8	2	1	3	0	1	Why we were chosen for this project, I do not know, but I am eager to begin.	4
+26	2	1	0	1	1	3	8	0	1	1	2	1	4	5.0	11	2	2	3	1	0	The protestors stormed the capital building, but the governor's spokesman Maviglio said there would be concerns if such action led to more chaos.	4
+36	2	2	0	3	2	6	9	0	1	0	3	1	6	5.0	22	3	3	5	1	0	The executives proposed that the CEO be removed, but there was concern such action would lead to further difficulties, and the spokesperson said the company would not undertake such a course of action.	4
+49	5	3	3	2	2	4	11	1	2	1	3	3	8	7.0	19	5	5	3	1	0	The governor's spokesman said that there was a possibility that the removal of Winter would lead to more chaos, but there were concerns that such action would further alienate allies and potentially result in further conflicts, thus making the current number one position appear vulnerable.	4
+29	3	1	2	2	1	3	7	0	0	0	3	0	4	7.0	7	3	3	3	1	0	The protesters' demands were significant, but the governor's spokesman said the situation had already begun to de-escalate, thereby leaving little room for further conflict.	4
+25	1	2	1	0	2	4	5	0	0	0	5	0	4	6.0	6	1	1	3	0	0	**The protesters chanted angrily, but the government remained resolute, and the demonstrators refused to budge, despite the threat of arrest.**	4
+24	1	1	0	4	1	4	6	0	1	0	2	1	3	4.0	12	2	2	4	2	0	The manager expressed concerns that the project would be delayed, but he was confident the team could deliver the work on time.	4
+31	3	3	2	1	1	5	7	0	2	0	2	1	4	5.0	22	1	1	3	2	0	The engineers designed the bridge with such meticulous planning that it could withstand the force of the raging river, but the poor construction resulted in its collapse shortly thereafter.	4
+6	0	0	1	1	0	1	1	0	0	0	2	0	0	2.0	4	0	0	1	0	0	Certainly, the sentence is: Why he did what he did remains an enigma, but we are eager to find out.	4
+24	0	1	1	3	1	3	4	0	2	0	4	1	4	4.0	13	1	1	4	0	0	My cat is sleeping, even though I turned on the television, the sun is shining, and the wind is blowing.	4
+34	4	4	1	1	1	3	8	0	2	1	2	1	5	6.0	16	3	3	2	1	0	The governor's spokesman said there was a concern that removing Winter would lead to more chaos, but there were also concerns about the potential impact of such action on various parties.	4
+23	2	2	0	3	1	2	6	0	1	0	2	1	3	5.0	8	1	1	3	1	0	The senator had suggested a solution, but his proposal was met with concerns that such action would result in more chaos.	4
+34	1	0	1	3	1	5	7	0	2	0	3	4	5	6.0	30	4	0	4	2	4	The CEO stated that he would investigate the matter further, but there was a question as to whether the company would be able to recover damages, the company's lawyer said.	4
+27	0	2	0	0	2	4	6	0	3	0	5	1	4	6.0	10	2	2	2	2	0	My brother insisted on taking me to the park, but I refused, citing concerns about the weather, the distance, and the time.	4
+29	2	0	1	3	2	1	3	0	6	0	4	1	5	4.0	25	4	4	6	1	0	My boss insisted I complete the report, but I was hesitant to do so, as I feared it would be incomplete, and my colleague agreed.	4
+29	2	1	0	1	1	2	7	0	1	2	3	1	6	6.0	24	4	0	3	1	4	The board members pushed to have Winter removed, but there were concerns that such action would lead to more chaos, the governor's spokesman Maviglio said.	4
+26	1	3	0	1	0	1	6	0	2	1	3	1	6	5.0	13	4	2	2	1	2	**Although there was concern his actions would lead to more chaos, some board members pushed to have Winter removed due to conflicting interests.**	4
+30	3	1	0	4	1	5	7	0	1	0	3	0	3	6.0	9	2	1	2	2	1	**The senator's proposal to ban all nuclear weapons would have been popular, but there were concerns such a move would disrupt the global balance of power.**	4
+26	4	3	0	0	0	6	7	0	0	0	2	0	3	5.0	12	2	2	1	3	0	The customer requested the engineer to provide a detailed solution with an extensive list of possible scenarios, outlining the potential impact on the system.	4
+41	1	3	0	4	1	3	9	1	6	0	3	2	6	8.0	14	5	5	4	2	0	The politician's speech was met with concerns that his actions would lead to more chaos, and there was a possibility he could jam up his supporters, making them look like they were not the number one priority.	4
+35	2	1	0	5	2	4	7	0	2	0	3	0	6	6.0	21	4	4	4	3	0	The company is experiencing financial difficulties, but the CEO has promised to take action to address the issue, and the employees are hoping he will be able to deliver on his promises.	4
+36	2	3	2	2	0	3	9	0	1	1	4	1	5	6.0	23	3	0	3	1	3	The senator's proposal to remove Winter from the board was met with objections, however, there was also concern that such action would lead to more chaos, the governor's spokesman said.	4
+42	1	3	2	5	0	5	11	0	1	0	5	1	6	7.0	17	4	4	2	1	0	Certainly, here is the requested sentence: The politicians' promises to address the environmental crisis had been met with skepticism, although there was hope the issue could be resolved, leading to a decrease in greenhouse gas emissions.	4
+29	0	0	0	0	1	5	8	0	1	0	3	3	6	7.0	25	4	0	4	2	4	The protesters demanded that the government take action, but there was disagreement on whether the government had the authority to intervene, the mayor's spokesperson said.	4
+27	1	1	0	2	2	3	7	0	1	0	2	3	5	5.0	13	2	2	2	3	0	The company is exploring the possibility of expanding operations and acquiring new properties, yet there are concerns about whether the CEO will remain in place.	4
+22	1	1	1	2	1	0	0	0	5	1	3	0	5	5.0	17	4	0	5	1	4	I don't know why he did what he did, but we are eager to find out, Dunn said.	4
+25	1	1	0	1	1	3	7	0	1	1	3	0	5	6.0	20	3	0	3	1	3	The board members proposed removing Winter, but there were concerns the action would lead to more chaos, the governor's spokesman said.	4
+26	1	4	0	1	0	3	7	0	0	1	3	0	4	4.0	13	2	1	1	1	1	Despite the board members' push to remove Winter, concerns about the potential for further chaos were voiced, leading to a heated discussion.	4
+40	5	6	0	2	1	3	10	0	1	1	4	1	5	6.0	12	5	5	4	1	0	The governor's spokesman claimed, the situation was complex and fraught with potential for negative consequences, despite concerns voiced by board members about removing Winter, some of whom feared such action would lead to more chaos.	4
+28	2	1	0	1	1	2	7	0	1	2	3	0	6	6.0	23	4	0	3	1	4	The board members pushed to have Winter removed, but there were concerns such action would lead to more chaos, the governor's spokesman Maviglio said.	4
+23	2	1	0	2	1	1	5	0	1	1	2	1	5	5.0	8	3	3	2	1	0	The board members were pushing to have Winter removed, but there were concerns that such action would lead to more chaos.	4
+23	2	1	1	2	1	2	7	0	1	0	2	2	2	5.0	9	1	1	2	1	0	 The project manager presented several proposals for cost savings, but there was dissent over whether the savings would be substantial enough.	4
+28	2	1	0	1	1	2	7	0	1	2	3	0	6	6.0	23	4	0	3	1	4	 The board members pushed to have Winter removed, but there were concerns such action would lead to more chaos, the governor's spokesman Maviglio said.	4
+35	1	1	0	4	3	5	8	0	2	0	4	2	4	7.0	10	2	2	5	1	0	The manager insisted that the employees be on time, but there were concerns that they would not follow the rules, and the deadline was approaching, and the office space was small.	4
+28	1	1	1	1	1	2	6	0	2	1	2	1	7	5.0	17	5	5	3	2	0	The governor's spokesman said there were concerns that removing Winter would lead to more chaos, but the board members pushed to have him removed anyway.	4
+28	3	4	0	0	2	4	9	0	0	0	2	0	4	6.0	20	1	1	2	1	0	The manager suggested implementing a new system for employee onboarding, but concerns about the cost and potential disruption to current processes led to a delayed implementation.	4
+28	2	1	0	1	1	2	6	0	1	2	3	1	6	6.0	24	4	0	3	1	4	The executives pushed to have Winter removed, but there were concerns that such action would lead to more chaos, the governor's spokesman Maviglio said.	4
+25	2	1	0	1	1	2	8	0	1	0	3	0	5	6.0	21	3	0	3	1	3	The committee recommended reducing pollution fines, but there was concern such action would lead to widespread protests, the mayor's spokesperson stated.	4
+35	3	1	0	2	2	3	8	0	2	0	2	2	6	5.0	20	4	4	5	0	0	The politician's supporters demanded that he resign, but there were concerns that such action would lead to greater turmoil and the spokesperson said the governor's office was not able to intervene.	4
+40	6	2	1	0	1	5	10	0	0	0	4	2	7	7.0	30	5	5	3	3	0	In this particular case, a representative stated that the organization intends to initiate a community project to address a longstanding issue, however, logistical challenges such as securing adequate funding and coordinating schedules with stakeholders remain unresolved.	4
+39	2	4	0	0	2	6	12	0	1	0	3	0	5	6.0	19	3	2	1	1	1	Given the severity of winter's potential impact on the community, some board members pushed to have him removed, but concerns about the potential fallout and the governor's spokesperson's statement weighed against that decision.	4

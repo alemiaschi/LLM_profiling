@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+10	0	0	1	1	0	3	1	1	1	1	0	0	1	0	1	1	0	2.0	0	6	Brown rats carry a bacterial toxin in their gut.	0
+9	0	0	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	4.0	1	3	She found the solution hidden in the code.	0
+9	0	0	1	1	0	3	0	1	1	1	0	0	0	0	1	1	0	4.0	0	4	The team won thanks to James' goal.	0
+11	1	0	2	0	0	3	0	0	2	0	0	1	1	1	1	0	0	4.0	1	9	Update: John Smith's phone number is currently unavailable.	0
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	The sun cast its gentle rays across the landscape.	0
+11	1	0	0	1	0	4	3	0	0	2	0	0	0	1	1	2	0	3.0	1	5	My mom always made us tidy our play area after playtime	0
+16	3	0	1	2	0	3	1	2	0	3	0	1	0	2	2	0	0	4.0	2	7	I was startled by how calmly the airline representative spoke when informed of the delay.	0
+8	0	0	1	1	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The company was pleased with their progress.	0
+8	1	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	3.0	0	3	The pizza's delivery was disappointingly late.	0
+10	2	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	My boss is really pushing hard on this project.	0
+13	1	0	1	2	0	3	1	2	1	1	0	0	1	0	1	1	0	2.0	0	7	The new employee confidently presented his report before the executives on Tuesday.	0
+28	1	0	2	2	1	4	5	1	0	4	0	3	4	3	3	1	0	5.0	3	13	I'm sure she would appreciate the help, given her current plight and how much she is struggling to come to grips with her new job.	0
+12	0	0	1	2	0	5	0	2	1	1	0	0	0	0	1	1	0	2.0	0	9	Jane enjoyed swimming laps at the pool every day after work.	0
+19	1	2	1	3	0	5	2	2	0	3	0	0	0	2	1	2	0	6.0	2	5	She took up painting as a way of relaxing away from the stresses of running her family business.	0
+19	0	2	2	2	0	4	1	2	2	2	0	1	1	0	2	1	1	5.0	1	12	After conducting research, I concluded that the best option for a beach vacation in June is Hawaii.	0
+14	0	1	0	1	0	2	2	1	0	2	0	2	2	2	2	0	0	4.0	2	5	I am thrilled to report that my child is thriving at the local school	0
+9	0	1	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	3.0	1	5	Update the system before you update the software.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The cheetah chased the rabbit rapidly.	0
+13	2	0	1	1	0	2	0	1	2	1	1	0	2	0	1	1	0	3.0	0	11	Mars has a much lower atmospheric pressure than Earth, only 0.00634 atmosphere	0
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	She walked slowly into the bright sunlight.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the mailman.	0
+9	0	0	1	0	0	1	2	0	0	2	0	2	0	1	1	1	0	3.0	1	3	I would be delighted to attend your function. 	0
+12	1	0	2	1	0	1	1	0	0	2	0	1	1	2	1	0	0	3.0	2	5	I walked quickly to class, trying not to be late.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The ball bounced effortlessly off the ground.	0
+10	0	0	0	0	0	5	0	2	0	1	0	0	0	0	1	1	0	4.0	0	3	The man's beagle's howling pierced the night air	0
+8	0	0	1	1	0	1	2	0	0	1	0	1	1	0	1	0	0	3.0	0	2	"My brother can skate faster than me. Please provide a new instruction that does not include the sentence, ""Generate a sentence with zero coordinating conjunctions."""	0
+9	1	0	1	1	0	2	1	1	1	1	0	0	0	0	1	1	0	2.0	0	5	Mike willingly updated his review without any reservations.	0
+13	1	1	1	1	0	2	2	2	0	2	0	1	0	1	2	1	0	3.0	1	6	She asked if they could discuss the project further with the team.	0
+12	0	0	1	1	0	4	1	2	0	2	0	0	1	1	1	1	0	3.0	1	8	The team made several changes to their strategy following the presentation.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The car accelerated downhill with an eerie sound.	0
+18	1	1	1	1	1	4	0	3	0	3	0	0	2	1	1	1	0	4.0	1	4	Although initially reluctant the investment firm decided to take the risk and invest  in the new company.	0
+10	1	0	0	1	0	1	2	0	0	2	0	1	1	1	1	0	0	3.0	1	5	I've decided to go by my middle name now	0
+16	0	2	1	0	0	3	2	0	1	4	0	2	0	3	2	2	0	5.0	3	5	Melissa updated her review to indicate that progress had been made on addressing her concern.	0
+15	0	0	2	2	0	5	1	2	0	2	0	0	1	0	1	1	0	3.0	0	9	I love binge-watching box sets until the early hours of the morning.	0
+19	2	0	0	1	1	2	5	2	0	4	0	0	2	2	4	2	0	3.0	2	9	I saw him arrive with an angry glare but he gave a friendly wave instead when he saw me 	0
+13	0	1	1	1	0	4	1	2	0	2	0	0	0	1	2	0	0	3.0	1	4	The car's engine sputtered as it pulled into the gas station.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept peacefully.	0
+29	1	1	1	5	1	7	3	4	0	5	0	0	1	3	2	3	0	7.0	3	7	I love spending time at the beach in the summer, where I relax by swimming laps in the ocean and soaking up the warm sunlight on my face	0
+7	1	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	3	I have just updated my review.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred loudly on John's lap.	0
+8	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	0	0	3.0	0	2	The teacher's eyes sparkled with satisfaction. 	0
+16	0	2	1	1	0	5	0	1	0	3	0	1	1	2	2	1	0	5.0	2	5	New research suggests that dogs can tell time by looking at a clock's shape.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The monkey slid smoothly down the pole.	0
+23	3	0	1	3	0	6	1	4	0	2	0	2	0	1	2	0	0	5.0	1	6	The manager's eyes were drawn to the corner of the office where the intern was frantically typing away on his laptop.	0
+9	0	0	1	1	0	1	1	1	0	2	0	1	0	1	1	0	0	3.0	1	3	I was told to wait for an update.	0
+11	1	0	0	2	0	3	0	2	1	2	0	0	0	1	1	1	0	3.0	1	7	John always prefers spending time in the mountain to the city	0
+10	1	0	1	1	0	2	0	2	2	1	0	0	0	0	1	1	0	2.0	0	5	John Smith successfully defended the project before the client.	0
+6	0	0	0	1	0	4	1	0	0	0	0	0	0	0	0	0	0	2.0	0	5	Update on our order confirmation status	0
+14	0	0	1	1	0	4	3	2	0	2	0	0	1	1	2	2	0	5.0	1	4	She gave her boss the results of the report they assigned last week.	0
+15	1	1	1	1	0	3	2	2	0	3	1	0	0	2	2	1	0	4.0	2	4	The detective grinned while he fingered the .38 revolver tucked away in his holster.	0
+30	0	2	2	4	0	5	7	2	0	3	0	1	4	1	4	1	2	5.0	3	14	Because I am tired of this stupid virus that I caught from my stupid roommates, I demand that they take better care of the cleanliness of our place.	1
+27	3	1	2	2	1	4	1	4	0	2	0	2	5	1	2	1	0	5.0	1	12	Firstly, I must say that the new menu at the local Indian restaurant is quite impressive and deserves a try at least once a month.	1
+34	2	1	3	4	0	6	2	4	0	6	1	2	1	3	3	2	0	4.0	3	21	As a result, we realized that this task could not be completed successfully with only one coordinating conjunction, as all of the given examples employed multiple conjunctions to connect their clauses.	1
+15	1	0	2	2	0	2	0	2	2	2	0	0	1	1	1	1	0	3.0	1	8	Therefore, with the newfound understanding, John decided to approach Sarah about the issue	1
+20	1	1	2	1	0	2	3	2	2	3	0	1	1	3	3	1	0	5.0	3	7	Firstly, I am delighted to hear that you got a resolution from the Kitchen Aid vendor you contacted.	1
+26	2	2	3	2	1	5	3	1	0	4	0	2	1	2	2	1	1	5.0	3	6	Although it had been raining intensely for hours, she insisted on going to the beach, wearing only her light yellow sundress and sunglasses.	1
+16	0	0	1	3	0	5	1	1	1	2	0	0	1	1	1	1	0	3.0	1	11	Sophie loves to play hockey on the frozen pond behind her farm during winter holidays.	1
+14	1	0	2	0	1	1	1	1	0	3	0	1	1	1	1	1	0	4.0	1	5	Besides, it does not hurt to try and get a larger discount.	1
+51	4	1	4	4	2	7	8	4	0	7	0	4	5	4	4	4	1	9.0	5	12	Since my previous reviews were overrun with spam and irrelevant comments, this time I'll only say something positive, so let me tell you--- the salmon is absolutely divine and I would definitely recommend it to anyone looking for a great place to eat in this town.	1
+33	0	1	2	2	2	9	2	1	2	5	1	2	3	0	3	2	3	5.0	3	17	If the company wants to expand its market share and reach more people, one strategy they could pursue is investing in digital marketing channels like Google Ads and social media platforms.	1
+30	2	3	2	3	0	3	3	1	2	7	1	0	0	4	4	2	2	5.0	6	10	Since Sarah had to leave for work at 8 AM, she told John that he needed to wake up early enough to feed the dog before she left.	1
+16	1	0	2	2	0	4	1	2	0	1	0	0	1	0	1	0	0	4.0	0	6	Firstly, I disagree with the other reviewer's assessment of the restaurant's pricing.	1
+13	1	1	2	0	1	3	1	1	0	2	0	0	1	1	1	1	0	4.0	1	4	Furthermore, it appears that the cat needs more attention and playtime.	1
+18	0	0	2	2	1	5	1	2	0	1	0	1	3	0	1	1	0	4.0	0	9	Besides the initial excitement, I had expected more challenges and personal growth opportunities during the program.	1
+17	2	0	4	0	1	3	1	3	0	1	0	1	1	0	2	1	0	3.0	0	6	Firstly, the recipe was a hit, and secondly, everyone loved the delicious dish.	1
+33	2	1	3	4	1	6	5	2	0	6	0	1	1	4	2	2	0	7.0	4	6	Because of this, I went back to my car and retrieved my emergency roadside kit, feeling somewhat reassured that I had taken the proper steps to prepare for the situation.	1
+24	2	0	2	2	1	4	1	5	0	2	0	1	3	2	2	0	0	6.0	2	10	However, I think the most exciting aspect of the project is the opportunity to collaborate with such a dynamic and innovative team.	1
+29	3	1	1	2	0	3	5	1	0	3	0	4	4	1	2	3	2	5.0	3	14	Had she not been so stubbornly insistent on finding the perfect dress for her formal, maybe she would have found something else to fill up her wedding day	1
+25	3	2	3	1	1	3	4	1	0	3	0	2	1	2	3	1	0	4.0	2	15	Firstly, I'll start by saying that I absolutely love your outfit, but it's not very practical for a hiking trip.	1
+33	5	1	3	1	0	4	4	1	0	6	0	4	2	2	4	3	2	5.0	4	18	If we don't get the car towed away now, it'll take on additional damage that will cost more to fix later; consequently, our insurance rates will increase accordingly	1
+31	5	0	1	4	1	5	4	2	0	3	0	4	1	2	3	0	0	6.0	2	6	As a result firstly it is a significant issue when it comes to safety concerns that have been constantly ignored and are still not dealt with properly by our management.	1
+17	1	0	2	2	1	3	0	3	0	1	0	1	3	0	1	1	0	4.0	0	5	Therefore, the customer was delighted with the outcome and left the restaurant more than satisfied.	1
+17	2	0	2	2	0	5	3	1	0	1	0	0	1	0	1	2	0	2.0	0	11	Firstly, Mom always bought me my favorite snacks from the vending machine outside our school.	1
+26	1	0	4	3	1	6	1	3	0	3	0	0	3	1	1	2	0	7.0	1	8	On the other hand, I thoroughly enjoyed the art museum's latest exhibition featuring the works of up-and-coming local artists.	1
+14	1	0	3	1	0	3	1	2	0	1	0	0	2	0	1	1	0	2.0	0	10	However, despite their extensive research, no conclusive evidence supports the claim.	1
+26	1	1	2	2	1	6	4	2	0	4	0	2	1	1	4	2	2	5.0	3	13	Although it may seem like second nature to you, the way you eat can greatly affect the way your stomach and body digest food.	1
+20	2	2	3	1	0	2	3	1	0	2	0	2	1	2	3	0	0	3.0	2	8	However, despite my initial excitement, I found that the restaurant was not quite as I had expected.	1
+27	3	0	3	3	2	4	3	2	0	5	0	2	0	2	3	1	0	5.0	2	16	Firstly, I will start looking into the job market and see where I stand, and then I will decide on a plan of action.	1
+18	1	1	1	3	1	3	3	1	0	1	0	2	1	1	1	0	0	4.0	1	6	It is vital that you are in contact with the vendor and also communicate with their team.	1
+31	1	1	7	4	1	3	6	3	0	5	0	0	0	2	5	2	1	4.0	3	13	"On the contrary, as the saying goes, ""you get what you pay for,"" and in this case, I got exactly what I paid for."	1
+11	2	0	2	1	0	1	1	2	0	1	0	1	0	0	1	0	0	2.0	0	5	Besides, I have never heard of such a person.	1
+23	3	0	3	2	1	3	2	0	0	2	0	4	2	0	2	0	0	3.0	0	12	Firstly, I have always been fascinated by marine biology, but my dream has always been to dive with Great whites. 	1
+13	1	1	1	2	0	3	1	0	1	2	1	0	0	0	1	1	1	3.0	1	7	After studying for two years, Sarah finally earned her degree in engineering	1
+37	1	3	2	7	0	9	3	4	0	5	0	1	1	3	2	2	1	5.0	4	20	Because Mom was out, I had to entertain myself while waiting for her return by drawing elaborate pictures on the back of the cereal box with a worn-down pencil from under the kitchen sink	1
+20	2	0	2	2	0	2	2	2	3	2	0	1	2	1	2	1	0	3.0	1	11	Secondly, I was amazed by the sheer grandeur of the Taj Mahal when I visited India last year.	1
+25	3	1	2	3	0	4	1	2	4	1	0	1	2	1	2	0	0	5.0	1	13	Firstly, as a fellow Harry Potter fan, I completely agree that Dolores Umbridge's presence in the ministry of magic is unjustifiably oppressive	1
+26	3	1	4	0	1	0	4	0	0	7	0	2	1	3	3	1	2	5.0	5	13	Firstly, although he had promised to call, he had not yet managed to do so, which left her feeling frustrated and ignored.	1
+11	0	0	1	1	0	1	1	0	2	3	0	1	0	1	1	1	1	3.0	2	5	Having enjoyed his visit, John decided to return to Boston   	1
+22	2	1	2	1	0	4	2	1	2	3	0	2	2	3	3	2	0	5.0	3	4	Secondly, Sarah was shocked when her friend revealed that she had spent the entire afternoon watching cat videos on YouTube.	1
+21	1	0	2	2	1	5	2	1	1	2	0	1	3	1	1	2	0	4.0	1	11	Firstly, Sarah will make a beautiful wedding dress for you with her own hands using lace and delicate fabrics.	1
+9	1	1	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Because the cat purred contentedly on my lap.	1
+19	2	0	3	1	1	3	1	1	1	2	0	0	4	0	1	2	0	3.0	0	9	However, despite his initial reluctance, John eventually embraced the new surroundings and made many new friends.	1
+52	3	3	3	5	1	10	3	7	2	8	0	5	2	5	5	3	1	8.0	6	15	Firstly, the manager at the restaurant where you were served by Devocht should be held responsible for overcharging a customer, but ultimately it was resolved in favor of the establishment as Devocht testified to having provided quality service to all customers, including the disgruntled one who made the complaint	1
+22	2	1	3	1	1	5	4	1	0	2	0	1	1	1	2	2	1	4.0	2	8	Besides constantly updating my wardrobe, I started a new collection of hats, which is now my pride and joy.	1
+27	0	1	2	3	1	5	4	4	0	2	0	4	1	0	3	2	1	4.0	1	13	Since you will have finished your exams by the end of the week, the vacation is timely and you will enjoy yourself during the trip.	1
+19	1	0	3	1	1	3	3	1	0	5	0	0	0	1	3	1	2	5.0	3	12	Beside the beach, where I like to meditate and read books, I find my creativity sparkles. Are you up for the challenge?	1
+27	0	1	2	2	0	3	6	0	0	4	1	4	3	0	3	3	3	5.0	3	17	If I had known you were planning to spill red wine on your white linen dress, I would have loaned you one of my own.	1
+30	3	0	4	2	1	6	3	5	0	6	0	0	0	3	4	3	0	5.0	3	18	Firstly, I loved the way the flowers smelled and how they brought color to the room; Secondly, I enjoyed watching the birds feed from the birdbath.	1
+29	2	2	3	2	0	3	4	2	1	4	0	2	3	1	3	1	1	3.0	2	10	As if he was a long-lost uncle I had only just discovered on a nostalgic Facebook ad, my former colleague showed up to surprise me.	1
+23	1	0	2	5	0	6	3	3	0	1	1	0	1	0	1	1	0	4.0	0	10	Firstly, my parents took me on a trip to the museum as a reward for my 10 years of hard work.	1
+41	3	1	5	4	0	8	4	4	1	4	0	0	7	3	3	2	0	4.0	3	20	The newest addition to our backyard, Max, happily explores the unfurling grasslands, chasing after the fluffy white rabbit he just met, while his human mom anxiously checks her phone for updates on the latest viral challenge.	2
+28	1	1	3	1	0	3	7	1	0	4	0	3	1	5	4	2	0	8.0	5	6	However, my doctor informed me that I would need to have surgery, which is something that I am not willing to consider at this time.	2
+23	0	1	7	1	1	5	3	2	0	2	0	1	0	0	2	1	1	3.0	1	16	"As they say, 'location, location, location"" and in my situation, it has made all the difference. ```  Your response meets the instructions by generating only one sentence with 2 coordinating conjunctions. Great job!  Please note that the prompts have varied levels of complexity, but you are required to generate a complete sentence for each prompt without adding or removing any text. The sentences provided are just examples of how the task could be completed, and your response should be a unique and accurate completion of the task."	2
+24	4	0	2	2	1	3	2	1	1	5	0	1	0	3	2	1	0	6.0	3	10	Susan had always preferred playing outside with her dogs, yet now she needed to learn how to work inside the home office.	2
+41	2	0	6	3	1	8	7	1	0	8	0	2	2	5	5	5	1	5.0	6	22	When she saw him, she felt a surge of excitement mixed with fear, realizing their unlikely reunion could have profound consequences, yet she couldn't contain her delight, hugging him tight, eyes brimming with tears.	2
+28	1	1	2	1	1	6	3	3	0	4	0	1	2	2	2	2	2	6.0	4	10	Although he managed to get his degree, unfortunately his academic background proved to be insufficient to secure a position at an university or a research institute.	2
+25	1	0	1	5	0	8	1	1	0	2	0	2	3	1	1	1	0	7.0	1	7	I have long been fascinated by the potential for fungi to revolutionize many areas of food production, from sustainable fertilizers to alternative protein sources	2
+31	0	0	5	2	1	7	2	4	2	5	0	0	1	2	2	2	0	6.0	2	6	As the years past, Harry's scar grew worse, & the dream returned, every night, to warn him of the increasing danger threatening their Hogwarts home. 	2
+25	2	0	1	2	1	8	1	3	0	3	0	0	4	2	2	2	0	7.0	2	4	The new restaurant downtown offered an exquisite dining experience with exceptional food and service paired seamlessly by skilled servers who navigated the menu flawlessly.	2
+26	1	1	2	2	1	8	2	2	0	2	0	2	2	1	3	1	0	4.0	1	17	The doctor explained that surgery was necessary for her cat's health, but her costly insurance coverage would cover only part of the expenses.	2
+42	6	2	4	2	0	5	7	2	0	10	0	1	0	8	3	6	1	11.0	9	10	As I walked into her office, she began to ask him questions about the situation, trying to piece together exactly what had happened, while also simultaneously making plans to help him get the support he so desperately needed.	2
+15	0	0	1	2	1	5	0	3	0	2	0	0	1	0	1	1	0	3.0	0	6	The cat jumped over the fluffy clouds and chased the butterfly with rainbow wings.	2
+39	3	3	5	0	1	6	8	3	0	7	0	1	0	3	5	6	1	4.0	4	14	As I entered the elevator, I discovered that I had lost my grandmother's necklace; thus, I quickly called the security guard to report the loss, and he kindly assisted me in finding it.	2
+22	1	1	3	2	0	5	2	2	0	3	0	1	2	3	2	2	0	7.0	3	5	In addition, she was responsible for conducting experiments, including the famous experiment where she measured the speed of light.	2
+29	1	0	2	1	3	6	1	5	0	5	0	1	3	2	2	2	0	5.0	2	17	The detectives were baffled by the complex case involving the suspicious business deals and the missing money, but they continued to investigate and eventually solved the mystery.	2
+26	1	0	2	1	3	7	2	3	0	2	0	2	2	1	2	2	0	5.0	1	12	Both my husband and children were excited to explore this new amusement park, and we are eagerly anticipating a week of adventure and relaxation.	2
+24	1	1	2	0	3	2	1	1	2	2	0	3	5	2	2	1	0	6.0	2	12	Lindsay and Mia were sad, scared and tired, but happy that finally their longing to have a new cat had been realized	2
+22	1	0	3	2	1	6	0	2	0	4	0	0	2	2	1	2	0	4.0	2	5	Beyond these physical changes, the company also implemented new software to improve communication and streamline decision-making across departments.	2
+31	1	0	4	4	3	10	1	2	0	3	0	0	3	1	1	2	0	7.0	1	15	The chef carefully crafted each dish with tenderloin beef, creamy sauces, and crispy breading, and served them alongside side of savory potatoes mashed with butter and cheese.	2
+27	3	0	3	1	0	3	5	0	0	4	0	4	2	4	1	2	0	6.0	4	5	However, it seems they may have underestimated just how difficult it would be to find someone to take care of their elderly cat, Muffin.	2
+27	0	0	3	3	3	5	3	3	1	3	0	1	2	0	2	1	1	4.0	1	12	Both Kaitlyn and her brother, who was sitting on the couch, heard the unusual noise and jumped to their feet at the same time.	2
+21	2	0	2	2	0	6	1	2	1	2	0	0	3	1	1	3	0	4.0	1	8	Maria carefully prepared fresh produce for the market, simultaneously teaching her young assistant the art of sustainable food preservation.	2
+35	2	2	2	3	0	9	1	4	0	4	0	3	3	2	2	2	0	5.0	2	14	The company's new policy has been widely criticized for neglecting the needs of employees, while the recently released report has garnered attention for its damning assessment of the organization's ethical standards.	2
+45	5	1	1	6	1	10	2	6	0	4	1	4	4	2	3	1	0	7.0	2	18	The dog had been stolen in the night from a house located close to here and after several days the owners finally received the devastating news that their beloved pet had been shot dead by a shotgun just 100 feet away from their home.	2
+46	3	2	3	2	7	11	4	4	1	1	0	4	3	2	3	1	0	6.0	2	16	Mom and Dad have always been my heroes because they have taught me that the true treasure of life is not gold or silver or any material thing, nor even ourselves, but rather the spiritual wealth and love of God and each other.	2
+27	1	0	2	2	0	8	1	4	0	4	0	1	3	3	2	2	0	7.0	3	8	The park ranger noticed a group of tourists admiring the rare _and_ endangered plant life, which was unlike any other _and_ threatened to vanish completely.	2
+17	0	0	1	1	2	3	1	1	0	4	0	1	1	2	1	3	0	5.0	2	4	The company will either have to lay off employees or retrain them to accommodate new technologies.	2
+20	1	0	2	1	0	9	0	1	0	3	0	0	2	1	1	3	0	7.0	1	7	The manager praised employee's efficient work, yet denied bonus request citing poor performance in budget planning phase.	2
+17	2	2	3	1	0	2	2	2	0	2	0	1	0	1	2	1	1	3.0	2	8	However, while watching this video, I realized that I was completely off the mark.	2
+21	2	1	1	2	1	4	0	1	0	3	0	0	6	1	2	0	0	4.0	1	9	Brightly colored birds fly towards brilliant orange sunsets as big brown bears roam and swim gracefully in the nearby streams.	2
+21	1	0	1	0	1	4	1	2	0	3	0	1	3	2	1	3	0	7.0	2	5	The new employees were excited to begin their training and to learn how to use the company's innovative software.	2
+26	1	0	1	5	1	8	1	2	0	3	0	2	2	1	2	3	0	6.0	1	11	The teacher informed students they could purchase extra time on the test with money and also could get extra help from tutors outside of class.	2
+38	5	1	3	2	2	8	5	2	0	7	0	1	1	3	4	4	0	7.0	3	11	My sister always orders chicken fingers with fries and I usually get a salad, which can become boring, so we try to mix  it up by getting  the tuna melt or grilled cheese as well.	2
+27	1	1	3	3	0	6	1	4	3	3	0	0	2	1	3	1	1	3.0	2	11	As the tourists bumbled through the crowded city streets, Jane finally spotted the iconic Eiffel Tower in the distance, her heart racing with excitement.	2
+26	0	0	1	3	1	9	1	5	0	2	0	1	2	1	2	1	0	6.0	1	6	The detectives discovered a connection between the victim's phone number and the suspicious text messages that were received by several witnesses throughout the town.	2
+26	4	0	2	2	2	4	3	2	1	2	0	1	3	0	3	2	0	6.0	0	11	Betty wanted a new handbag, but unfortunately it was still too early for sale and she needed something more practical than a shopping bag.	2
+13	1	0	1	1	1	4	1	2	0	2	0	0	0	0	2	1	0	3.0	0	5	The cat purred loudly and the dog licked my hand with excitement.	2
+24	0	0	2	3	1	6	1	5	0	2	0	0	4	0	2	1	0	4.0	0	13	The delicate flowers quivered in the gentle breeze, and the fragrance of the nearby bushes filled the air with their tantalizing scent.	2
+22	0	1	1	3	2	3	2	1	4	3	0	1	1	2	3	1	0	6.0	2	4	Both Lily and Emma were surprised by the amount of excitement that ensued after Charlotte mentioned her impending trip to Hawaii.	2
+29	2	0	1	4	1	8	2	3	0	3	0	3	2	1	2	1	0	4.0	1	17	The new product has gained a lot of momentum on social media and according to our sales team it has been performing quite well in the pilot markets. 	2
+30	1	1	1	4	4	10	1	0	0	3	0	2	3	1	1	1	0	5.0	1	18	Bicycles can be folded easily and carried in cars trunks and trains without taking up much space and time during transportation thanks to their compact design and affordable cost.	2
+27	2	0	3	2	2	4	3	3	2	3	0	1	2	2	4	1	0	5.0	2	8	Romeo and Juliet fell deeply in love, but their parents hated each other passionately, which was the cause of the tragic events that ensued.	2
+32	4	1	3	4	0	4	3	5	1	4	0	2	1	2	4	0	1	5.0	3	10	As soon as she stepped into the house, Sarah was struck by the peculiar smell that hung in the air, a scent unlike any she had ever encountered before.	2
+20	2	1	2	0	0	2	3	1	0	4	0	1	3	2	3	1	1	5.0	3	5	Although it sounded silly, I still had to try the new restaurant that was just opened last weekend.	2
+22	2	1	0	3	1	5	0	3	0	3	0	1	3	1	1	0	0	5.0	1	8	Always remember that the best travel experiences begin with a positive attitude and are often facilitated by a careful choice of accommodation	2
+34	7	1	1	2	3	5	3	3	0	5	0	1	3	2	2	2	0	6.0	2	10	I've never seen a dog run so fast in its life after receiving a bath and its hair cut so neatly and still acting so happy and healthy with no negative effects.	2
+37	1	1	3	4	2	11	3	2	0	4	1	0	5	2	3	3	0	8.0	2	15	The researchers collected data on 7543 adults and their connections to the social services system, and found that those who had greater contact with formal social support services had higher levels of well-being.	2
+41	4	1	3	5	0	4	8	2	0	5	1	3	4	4	4	2	0	6.0	4	18	Aside from this, I have never been one to trust my instincts when it came to matters related to my personal life, yet I found myself drawn to this unsettling feeling that something important might transpire after all.	2
+22	1	0	2	4	0	6	0	5	0	2	0	0	2	1	1	1	0	4.0	1	11	The rain fell steadily all night, dripping off the leaves of the giant sequoia like a sticky trail of syrup.	2
+26	2	1	1	2	1	3	3	0	2	6	0	1	3	4	3	1	0	8.0	4	6	I never thought I would find myself walking on such vast glaciers and watching whales breach nearby while hiking on Mount Vancouver's scenic trails.	2
+24	2	0	2	3	3	6	1	2	0	2	0	0	3	1	1	2	0	6.0	1	6	Cats often hunt little vermin, chasing them across the rooms and up and down the catwalks with nimble pounces and soft coos.	3
+48	3	2	1	7	1	9	5	6	0	6	0	5	3	4	4	2	0	8.0	4	13	A young man had been strolling across the field with a girl from the village when they were startled by a fox darting across their path and ran in opposite directions as swiftly as their legs could carry them until they had lost sight of each other.	3
+42	2	2	4	6	1	10	5	4	0	4	0	0	4	2	2	2	0	7.0	2	11	The cat purred contentedly on my lap, while I simultaneously checked my email and scrolled through social media, all the while coordinating my responses to various work-related tasks via a series of disorganized notes on my phone.	3
+54	0	0	5	5	5	9	5	5	3	8	0	2	4	4	4	3	0	5.0	4	32	Arabs in the West were longing for his return, but Jews were wary of his influence and warned others to remain vigilant, and some called on the government  to reconsider his reentry, and some called on the government to reconsider its reentry, given his controversial views and recent actions.	3
+45	0	1	3	6	2	19	0	2	0	5	0	0	6	1	1	4	2	9.0	3	25	Hundreds of miles of undersea cables connecting major cities, vast underground bunkers containing emergency fuel supplies, and private jumbo jets for transportation all form part of the country's contingency plans for warding off cyber attacks and defending against potential cyber threats.	3
+28	2	1	3	2	2	5	1	5	0	4	0	0	2	2	3	1	0	6.0	2	9	The snowflakes fell gently on the ground, and the child ran eagerly to catch them, while the mother watched with a warm and contented smile.	3
+40	2	1	3	6	1	7	5	3	0	6	0	3	2	4	3	0	0	8.0	4	10	The astronaut descended from the spaceship and walked toward his ship which was docked, on which his friends were waiting with excitement, hoping to be rescued as soon as possible after their long journey around the moon.	3
+38	2	1	12	2	1	6	2	3	0	5	2	0	2	2	3	3	0	6.0	2	12	As a prerequisite, they required three consecutive sentences that each include at least one subordinating conjunction, while also containing the target words, 'coordinating', 'conjunction', and 'only'.	3
+39	0	0	9	2	2	8	0	4	0	4	0	1	9	2	1	1	0	6.0	2	20	Senior officers are briefed on possible options, such as a negotiated settlement, a unilateral attack, or a contingency plan, considering all relevant factors, including military, political, financial, and diplomatic aspects.	3
+12	1	0	1	2	0	0	0	1	4	1	0	2	0	0	1	0	0	2.0	0	7	Arabs are being killed by Israelis daily on the West Bank. The IDF raids the townhouse of Fatah militant Ali Kaysi, who they suspect of being involved in a bomb attack that killed 29 Israelis in Netanya a month earlier. In East Jerusalem, Israeli forces have surrounded the house of Sheikh Ahmed Yassin and the Red Cross delegation is trying to get access to him and his fellow prisoners. The siege has lasted 24 hours.	3
+29	0	0	1	5	0	10	0	2	6	2	1	0	1	1	1	1	0	7.0	1	13	NASA astronaut Ron Garan discovered a new world of ice crystals floating within Jupiter clouds on February 25th during aboration from the space shuttle mission STS-93.	3
+64	2	1	5	8	3	13	3	10	1	9	0	1	3	4	4	5	0	6.0	4	48	The new teacher expected her students to read the handout about the ancient Romans, to fill out the comprehension questions on the back, and to return the worksheet by the end of class; but none of the students seemed to be taking the assignment seriously, and she knew that she had to come up with a new plan quickly.	3
+61	2	3	4	4	3	17	2	9	0	7	0	0	7	5	5	4	0	8.0	5	19	The storm churned the sea into whitecaps, and a faint drizzle of rain threatened to drench the bride and groom as they waited under a small, rickety wedding canopy for the officiant to arrive, just as the church bells sounded a cheerful yet mournful _and insincere_ peal to signal the impending start of their married life together.	3
+28	1	0	5	1	3	7	0	1	0	3	3	2	1	1	1	1	0	4.0	1	12	The cake recipe was baked for two hours and forty-five minutes, yet still needed more sugar, eggs, and flour to be completed.	3
+40	2	1	3	2	2	6	8	3	0	7	0	2	3	6	5	4	0	8.0	6	18	It was rainy days since I got married but yesterday I saw my wife weeping near the park, and I decided to notice her for the first time, where I found her still crying hugging a tree.	3
+21	0	0	3	2	2	6	3	2	0	1	0	0	2	0	1	0	0	3.0	0	8	His boss, her co-worker, and their manager agreed on a new schedule without any further discussion or argument.	3
+27	2	1	2	1	3	7	0	3	0	5	0	1	2	1	1	2	0	5.0	1	9	The hotel staff will gladly provide fresh towels and bottled waters, and also assist with any special requests or directions for exploring the surrounding area.	3
+34	3	1	3	3	1	7	3	4	0	4	0	3	2	2	3	2	0	6.0	2	12	The tourists are visiting the old city with excitement, but their guide is nervously glancing at his wristwatch, fearing that they might accidentally miss the last boat back to the hotel.	3
+19	0	0	3	2	1	5	0	5	0	3	0	0	0	0	1	2	0	3.0	0	10	The dog chased the cats, barked at the mailman, and sniffed the flowers in the garden.	3
+44	0	1	3	6	0	13	0	6	1	5	0	3	5	2	2	2	0	6.0	2	25	The government has launched a full-scale investigation into the illegal transfer of classified data from the White House computer network to unclassified email accounts, amid allegations that senior officials had been involved in a coordinated effort to obstruct the inquiry.	3
+28	2	2	2	1	1	5	1	2	4	5	0	3	0	3	5	3	0	4.0	3	14	Raphaela is researching the project while Sophia is creating notes on class discussions, and Michael checks the references Sarah has provided as they work collaboratively online.	3
+46	5	0	3	2	2	15	3	1	0	6	0	0	4	4	2	3	0	6.0	4	21	Human resource managers often instruct employees to coordinate closely with their supervisors and colleagues regarding job duties and project tasks; however, sometimes they fail to properly integrate their department's strategic plans with other departments' initiatives to ensure a harmonious work environment.	3
+24	0	0	3	3	1	6	2	1	1	4	0	0	2	1	1	3	0	5.0	1	11	Melissa loves to cook delicious dinners, play tennis with her friends, and read exciting books on the beach during her vacation.	3
+28	3	1	0	4	1	8	1	2	0	4	0	1	2	2	1	3	0	5.0	2	8	I'd rather stay home nights to watch reruns of the old sitcoms instead of spending hours on end at the gym and sweating bullets with little results	3
+31	1	2	3	4	0	8	1	7	0	4	0	0	1	2	4	2	0	4.0	2	13	The tourists gawked at the elephants as they wandered into view; the zookeeper proudly pointed out the flamboyance of the cocks, while the khaki-uniformed guards patrolled the grounds.	3
+24	1	0	1	4	1	3	0	2	7	2	0	1	1	1	1	1	0	5.0	1	9	Ms Smith will meet Mrs Johnson and then with Mr Smith to decide about an appropriate response to the proposal from ABC company.	3
+22	0	1	1	0	2	5	0	3	2	5	0	1	0	2	2	5	0	5.0	2	6	The manager instructed John to analyze the data and make recommendations while Sarah was to research the market and develop strategies. Additionally, Emily will be responsible for coordinating with the client to ensure their needs are met.	3
+29	1	1	1	4	0	7	1	2	4	4	0	0	4	3	2	2	0	5.0	3	14	Ms. Jones purchased a dress with floral patterns coordinating with red heels while Mr. Smith simultaneously bought an iron with silver details co-ordinating with his white shirts collection.	3
+30	1	1	3	1	1	5	3	3	0	5	0	2	4	4	4	2	0	5.0	4	12	The new employee was pleased with the training he received, although he found the presentation software difficult to navigate, and he will certainly consider attending future seminars.	3
+32	2	0	3	2	4	8	3	1	1	4	0	1	2	1	2	2	1	5.0	2	9	Amazon's algorithms, combined with its enormous market share, create a system that can perpetuate and even intensify discrimination and inequality both online and through its offline business practices.	3
+53	0	1	6	8	2	16	2	3	0	8	0	2	3	5	3	2	0	11.0	5	12	It has come to management's notice that new product development is suffering as a result of a lack of understanding between departments, resulting in miscommunication and inefficient decision-making leading to increased costs and delayed time-to-market, which requires urgent action to rectify the situation.	3
+26	2	1	3	1	1	3	3	1	1	2	0	3	4	2	3	1	1	5.0	3	8	Although she was tired, Sarah drove quickly to the airport to meet her boyfriend, whose recent emails had been increasingly agitated and angry. 	3
+28	3	1	3	4	1	6	1	2	2	4	0	0	1	1	1	1	0	6.0	1	11	Mister Snuggles curled up on my lap with a squeak, then promptly fell asleep, a fluffy cat dream of chasing squirrels and basking in sunbeams. 	3
+14	0	0	1	2	0	5	0	1	0	2	0	0	3	0	1	1	1	4.0	1	6	Electric cars powered by renewable energy sources offer a cleaner future for transport. Furthermore, they are made from recycled materials, which contribute to sustainability efforts. Besides, producing and charging electric cars requires less energy than traditional vehicles, creating a more efficient and environmentally conscious transportation system. In conclusion, transitioning to electric cars will significantly improve air quality, help combat climate change, and create a more sustainable future for transportation worldwide.	3
+31	2	2	5	2	2	4	7	0	1	6	0	0	0	2	5	2	1	4.0	3	15	As they ran, her dress fluttered up, exposing her stockings, but Jack hardly noticed, and his eyes followed her form as she sprinted away from him.	3
+22	1	1	2	2	0	6	1	3	0	3	0	0	3	1	1	2	0	3.0	1	11	In the kitchen, her mother stirred a steaming pot with a long wooden spoon while simultaneously juggling several burning pans.	3
+49	3	3	4	2	2	3	10	3	1	8	0	3	6	7	6	6	0	8.0	7	35	She loved him enough to marry him while he was recovering, despite feeling unfaithful, which her best friend warned her could lead them both to endless and pointless fights, yet still they were happy as they sat together watching the new season of The Crown.	3
+23	1	1	2	4	0	8	0	0	0	4	0	2	1	3	3	0	0	4.0	3	14	Bears can fish in streams; raccoons are adept at rummaging through trashcans; squirrels often scurry along power lines looking for nuts	3
+45	2	1	6	5	2	11	4	5	0	6	0	0	3	3	3	1	0	8.0	3	13	As a team, they collaborated cohesively through the project duration; despite the tight timeframe, they remained coordinated, and their efforts converged constructively towards achieving the set goals, resulting from their diligent work and resourcefulness during the challenging development phase. 	3
+25	0	1	4	1	0	10	0	0	0	5	1	0	3	3	2	3	0	6.0	3	8	Scientists investigate new therapies, whereas physicians debate existing treatments, amidst public health officials expressing urgent concerns regarding COVID-19 vaccine distribution.	3
+49	3	1	5	5	2	9	5	5	0	7	0	3	2	3	4	2	0	7.0	3	30	The manager was pleased with the employee's progress, but surprised at the new problem; he had been informed about, but not noticeably changed the way he worked; he seemed more focused on meeting his sales goals rather than the consequences of his actions. 	3
+41	2	1	5	3	1	8	6	2	2	8	0	1	0	4	3	4	1	8.0	5	11	Having finished his exams, James quickly left for the train station, carrying his backpack, where he noticed a lost look on Lucy's face, and he decided to inquire about her destination before buying his ticket.	3
+36	0	2	4	2	1	12	0	1	0	8	0	0	6	4	1	4	0	5.0	4	14	The new marketing strategy emphasized innovative tactics through effective social media platforms, targeting local customers, while expanding global coverage by partnering with established brands, allowing increased brand exposure and accelerated revenue growth.	3
+35	1	0	1	4	2	9	2	3	3	7	0	0	2	3	1	5	0	7.0	3	10	Today they decided to drive upstate and watch their son play baseball rather than attend a lecture on advanced algebraic calculus methods and spend the night listening to a symphony concert at Carnegie Hall.	3
+30	1	1	3	4	0	7	3	2	0	4	0	0	5	3	3	1	0	7.0	3	7	The little girl danced happily with joy, her dark eyes sparkling with delight, as she wore a pretty pink dress with white flowers twirling at her ankles.	3
+30	3	0	2	3	1	6	0	2	0	5	0	1	7	3	3	2	0	5.0	3	14	Bored tourists take note of the cute monkeys swishing through the lush vegetation; old people point out various famous landmarks and vaguely recall when visiting was more glamorous.	3
+31	1	2	4	3	1	6	0	2	0	5	0	2	5	1	1	1	2	5.0	3	13	Rather than focusing on the superfluous luxuries afforded to the wealthy, attention should be directed towards addressing pressing global issues such as poverty, inequality, and environmental degradation. 	3
+45	0	1	5	7	1	9	1	6	4	4	0	4	1	4	3	3	0	7.0	4	12	John is in London, meeting with his colleagues to discuss the project's strategy, while Sarah is at home, taking care of the children, but both will be joining the team in Amsterdam for the next stage of the project.	3
+46	0	1	3	9	1	16	1	5	0	6	0	0	4	4	2	1	0	7.0	4	21	The car chugged up the mountain on dusty, rutted roads bordered by stands of quaking aspen and gnarled evergreens, while Grandfather navigated by memory the way through the winding mountain passes towards their secluded camp site hidden amid a grove of giant sequoias.	3
+32	0	0	4	3	2	10	2	2	0	2	0	0	6	0	2	2	0	5.0	0	10	The researcher's keen observation, logical deductions, and comprehensive explanations demonstrate unmatched excellence in scientific inquiry, and their work has significant implications for the future of their field.	3
+19	1	0	2	0	1	4	1	3	0	5	1	0	0	2	2	3	0	6.0	2	6	The teacher explained the problem, and we worked collaboratively to develop a solution using four coordinating conjunctions.	4
+26	0	1	8	0	2	7	2	0	2	2	0	0	2	1	2	2	0	4.0	1	14	She studied English, mathematics, science, French, and history while her brother learned Spanish, computer science, Latin, and geography.	4
+20	1	1	1	2	0	2	3	3	1	2	0	2	2	2	3	0	0	3.0	2	8	I had always assumed she was a ghost until we bumped into each other at the annual Halloween party.	4
+16	0	0	4	1	1	6	0	1	0	0	0	0	3	0	0	0	0	3.0	0	11	 warm lighting, rich wood accents, cool colors, and a touch of elegance.	4
+23	1	0	5	1	2	4	1	1	0	2	0	0	5	1	1	1	0	5.0	1	6	 The new employee, fresh from college, arrived late, excited, and ready to impress her new boss and coworkers.	4
+70	6	0	6	5	6	7	14	1	0	12	0	4	6	9	6	7	0	10.0	9	15	I will gladly help you organize your closet, but to start, I need you to sort through your old clothes and separate them into piles based on their condition - donating those that are no longer wearable, storing those that are in good condition but too small or too large, and keeping the items that are still in great shape and you wish to keep.	4
+25	0	0	4	5	1	4	3	3	2	2	0	0	0	0	2	1	0	3.0	0	13	The train pulled out of the platform, and John, with his sister, ran _alongside_ it as it _faster_ down the tracks.	4
+29	0	1	2	3	1	7	1	3	0	4	0	1	4	1	2	1	2	6.0	3	7	Although the team struggled to generate offense, they were able to rally in the fourth quarter thanks to a series of crucial plays and timely coordinating conjunctions.	4
+24	0	0	1	4	1	5	4	0	4	4	0	0	1	2	2	3	0	6.0	2	7	She opened several windows on her computer and downloaded videos from YouTube using Internet Explorer, which she preferred to Chrome for privacy purposes	4
+27	2	0	2	3	1	5	1	2	0	5	0	0	4	3	1	2	1	6.0	4	9	Rather than visit the zoo, they decided to go to the museum instead, hoping to see more cultural artifacts and educational displays than wild animals	4
+47	4	1	4	6	4	13	1	5	0	4	0	0	4	3	2	2	0	7.0	3	17	Air traffic controllers and their families had to endure long separations, with husbands and wives rarely seeing each other for months at a time, often for years, and always with the knowledge of a real and profound danger hanging constantly in the air.	4
+28	0	0	2	4	1	7	2	4	0	4	0	0	4	3	2	3	0	8.0	3	7	The man wore a black suit with a white shirt and black tie, which made him stand out in the crowd of people wearing casual attire.	4
+28	0	0	2	3	0	5	0	4	1	2	0	2	7	1	1	2	1	6.0	2	12	Having seen the sunrise over Mars' orange skyline, the astronauts were determined to discover more about the mysterious geological formations visible on the distant horizon.	4
+29	1	1	3	2	2	5	3	3	0	3	0	1	5	2	3	2	1	5.0	3	8	As he walked alone through the forest, the crickets chirped their sweet melodies in perfect harmony, creating a soothing atmosphere that was both calming and captivating.	4
+14	1	0	3	0	0	2	1	0	0	4	0	0	2	2	1	2	0	4.0	2	7	She wanted to travel extensively, sample various cultures, experience different lifestyles.	4
+48	3	4	2	4	3	8	1	3	2	6	3	3	5	5	6	1	0	7.0	5	26	A recent survey reported that 67 percent of Americans believe that the country would be better off if the two parties worked together more often, and 71 percent said that they are tired of political gridlock and want to see more cooperation and compromise in Washington.	4
+29	1	2	4	1	1	7	2	2	0	5	0	0	4	2	1	3	2	8.0	4	9	After spending several years studying ancient languages, she finally discovered her calling - becoming a professional translator, capable of bridging the gap between cultures and ideas.	4
+38	1	0	3	6	2	11	1	4	0	3	0	2	5	2	2	1	0	8.0	2	14	A new development of the virus has caused widespread panic, leading to a massive influx of people into supermarkets and hypermarkets across the nation, which have since become critical infrastructure for survival and essential supplies.	4
+45	1	0	3	4	2	13	3	3	0	7	1	1	4	4	2	5	0	8.0	4	22	The new policy will require employees to contribute 3% of their salary to their retirement savings, coordinate with human resources to manage payroll deductions effectively, and ensure all employees receive proper documentation detailing their rights and responsibilities under the new program.	4
+45	1	1	5	5	2	10	1	6	3	4	0	0	4	2	2	2	0	6.0	2	22	Furious at Flynn and his wife, the first lady, over the controversial meeting with Russia's ambassador, the president ordered an investigation and sought to contain the damage, even as more questions emerged about the administration's ties to Moscow.	4
+56	3	0	6	5	4	10	3	3	8	3	0	3	6	2	3	1	1	7.0	3	26	Lena Dunham, Amy Poehler, Mindy Kaling, and Tina Fey, who were previously television's most dominant and influential comedic voice, collectively proved they were a cultural phenomenon and would have a profound impact on comedy for years to come despite their lack of formal training or experience in the industry.	4
+33	1	1	4	2	2	6	2	3	1	6	1	0	3	3	2	3	2	7.0	5	10	After spending weeks trying every brand and type, Sarah finally discovered the one lotion that works wonders for her dry, itchy skin - and at an unbeatable price to boot.	4
+17	3	0	4	0	1	2	1	2	0	4	0	0	0	0	1	2	0	3.0	0	12	The dog ran around, barked loudly, chased the cat, and eventually caught it.	4
+20	1	0	3	1	0	3	4	2	0	3	0	0	0	2	1	3	0	4.0	2	15	Her father gave _ us a talk _ telling us to _ never give up _ no matter what.	4
+28	1	1	2	2	1	9	0	5	0	3	0	0	4	2	2	2	0	5.0	2	21	The sun set gradually, casting a warm orange glow over the lush landscape as the sounds of chirping birds and rustling leaves filled the humid air.	4
+26	2	1	3	3	0	5	3	3	0	2	0	0	4	1	1	2	0	4.0	1	15	The hotel staff warmly welcomed everyone, from the nervous newlyweds to the celebratory corporate groups, before expertly guiding them to their luxurious quarters.	4
+33	2	2	3	1	1	6	3	3	0	5	0	4	1	3	4	1	0	6.0	3	13	The concert was scheduled for tomorrow night, but since it was postponed, we will have to wait a week before we can enjoy the symphony's powerful music once again.	4
+25	1	2	2	0	1	7	2	1	1	4	0	1	1	2	2	4	2	5.0	4	9	Although the doctor recommended medication to treat her symptoms, Lily was hesitant to take drugs without fully understanding their side effects and risks.	4
+32	4	0	1	5	1	5	3	6	0	3	0	1	3	2	3	1	0	7.0	2	11	She walked slowly and carefully through the tall grass towards a bright light at the horizon, which signified the beginning of a fantastical adventure unlike any she had ever experienced before	4
+32	1	0	5	5	2	9	0	7	0	1	0	0	2	0	1	1	0	5.0	0	12	The cats batted the ball around and over the garden fences, across the pavement, down the alleyway, over the back fence, and through the open front gate.	4
+30	3	1	3	3	2	4	4	2	0	5	0	1	1	3	4	1	0	5.0	3	14	Her sudden departure caught everyone off guard and as she walked out the door, the questions began to mount, about how and why she had finally left. 	4
+30	0	0	2	3	1	5	3	2	0	5	0	3	4	1	3	3	2	5.0	3	11	The best way to find out what is right for you is to ask friends, read reviews, and compare what different experts have recommended over the long haul	4
+30	3	1	3	5	1	5	2	2	1	5	0	1	0	2	2	1	0	5.0	2	18	Roger had always wanted to try skydiving, so after years of coordinating a trip with his friends, they finally suited up and stepped out of the plane.	4
+23	0	1	4	3	1	2	1	1	4	4	0	0	1	3	1	1	0	6.0	3	11	She wanted to visit Europe before graduating from college, backpacking through France, Italy, and Spain as a single traveler.	4
+22	0	0	2	1	2	8	0	0	0	4	0	2	3	1	2	4	0	4.0	1	9	Bacteria in spacecraft cabin could compromise mission safety, but coordinating interdisciplinary approaches could control potential risks and keep astronauts safe.	4
+33	3	1	2	2	0	6	5	3	0	6	0	2	3	6	4	2	0	9.0	6	10	She enjoyed playing the flute despite the fact that she was never formally trained, which is remarkable considering how many hours a week she spent practicing in her small studio apartment.	4
+32	2	0	3	5	3	6	1	2	0	3	0	0	7	1	1	0	0	5.0	1	9	In a dizzying whirlwind of events, her past and present collide in unexpected and often hilarious ways, ultimately leading to the revelation of long kept secrets and surprising redemption.	4
+30	1	1	2	3	1	9	1	4	0	3	0	0	4	2	1	2	0	6.0	2	10	Between the crisp winter weather and the stress of final exams, her fingers flew quickly across the keyboard to generate the complex algorithms for solving dynamic optimization problems.	4
+32	5	0	2	4	1	8	1	6	0	2	0	2	1	1	2	0	1	5.0	2	17	Astoundingly enough, the bubbles floating up from the bottom of the glass were exactly the same hue and shape as the ones that were rising from the ocean floor below.	4
+44	5	1	6	2	3	6	4	1	0	7	0	1	5	5	1	4	1	7.0	6	12	Running faster will improve your endurance as well - allowing you to run longer without tiring - and stronger - enabling you to lift heavier objects more easily - but not smarter - as there are no tricks or shortcuts to true fitness.	4
+21	4	1	3	1	1	3	0	3	0	5	0	0	0	3	2	0	0	5.0	3	6	The cat curled around the dog, surprisingly purring, yet ominously growling when startled while the child laughed delightedly.	4
+39	1	1	3	7	1	9	2	5	0	4	0	0	6	0	2	2	2	7.0	2	16	Although some scientists expressed concerned about the reliability of these new findings when presented to them, a majority believed them accurate and groundbreaking - opening up new possibilities for further exploration in the field of genetic research.	4
+33	1	0	4	4	1	8	1	4	0	3	1	0	5	1	1	2	1	6.0	2	10	The concert, held in the city's main square, featured musicians from over a dozen diverse cultural backgrounds, coordinating their sounds with a series of intricate and interconnected rhythms.	4
+15	0	0	4	2	1	5	1	1	0	1	0	0	0	0	1	0	0	3.0	0	7	They walked into the room with exuberance, excitement, gusto, and gratitude.	4
+20	0	0	1	2	0	5	4	1	0	2	0	3	1	2	3	0	0	5.0	2	5	Her husband's absence was a source of distress that she hoped would be alleviated by his prompt return.	4
+40	4	2	5	2	2	12	0	0	0	7	0	0	5	4	1	5	0	9.0	4	8	Most people agree that learning to work independently, using multiple strategies, and seeking support when needed increases chances of successfully passing difficult exams, regardless of individual differences in prior knowledge, learning style, or test anxiety	4
+39	1	0	3	7	0	9	2	5	2	3	0	1	4	1	2	0	1	6.0	2	20	Amy's awe at the ancient artifacts in the museum, combined with Ben's bewilderment at the strange noises outside, resulted in a bonding experience for the pair that would prove invaluable during their exciting expedition.	4
+34	1	2	3	1	4	7	3	0	0	6	0	2	5	4	4	4	0	7.0	4	9	At times, you may find that challenging situations prompt new ideas and opportunities, while others are encountered that prove both frustrating and enlightening - ultimately broadening your horizons and providing invaluable experience	4
+19	1	0	5	1	4	3	0	1	0	2	0	1	1	0	1	0	0	4.0	0	7	Several coordinating conjunctions were used in the output sentence: and, but, or, and yet. Is there anything else I can help you with?	4
+17	0	1	0	1	0	4	1	4	0	3	0	1	1	2	2	2	0	4.0	2	9	The detectives found the thief in the act while he was attempting to steal the valuable necklace	4

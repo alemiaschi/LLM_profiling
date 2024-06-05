@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+9	1	1	0	1	0	2	3	0	0	0	1	0	0	3.0	6	0	0	1	0	0	The fruit of the apple tree is sweet.	2
+7	0	0	0	1	0	1	2	1	0	0	1	0	0	3.0	2	0	0	1	0	0	The tree's height is 2.	2
+7	0	0	0	1	0	1	2	1	0	0	1	0	0	3.0	2	0	0	1	0	0	The tree's height is 2.	2
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 2 units tall.	2
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	1	0	The short tree stands two units tall.	2
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The short tree stands 2 meters tall.	2
+11	1	1	0	0	0	2	2	1	0	0	2	0	2	4.0	3	1	1	1	1	0	The tree stands tall, reaching a height of 2.	2
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stood 2 stories tall.	2
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 2 units tall.	2
+10	0	1	1	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The apple hangs 2 meters high on the tree.	2
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The cat climbed the tall tree.	2
+10	0	2	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The bird perched on a tree of height 2.	2
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tree reaches a height of 2 meters.	2
+8	1	0	0	0	0	1	3	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The cherry tree stood 2 stories tall.	2
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The short tree stands 2 meters tall.	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The apple hangs low on the branches.	2
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	3.0	2	0	0	1	1	0	The cat climbed a tree of height 2.	2
+21	1	2	0	0	0	4	6	1	1	0	3	0	3	4.0	8	2	2	2	2	0	The sap rises through the slender tree, its height reaching 2 units, nourishing the leaves at the top.	2
+10	0	1	0	0	0	2	4	1	0	0	1	0	1	3.0	6	0	0	1	1	0	The squirrel climbed a tree of height 2 meters.	2
+10	0	1	0	0	0	2	3	1	0	0	1	0	2	3.0	3	0	0	1	1	0	The towering tree reached a height of two stories.	2
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of two stories.	2
+7	0	0	0	1	0	1	2	1	0	0	1	0	0	3.0	2	0	0	1	0	0	The tree's height is 2.	2
+10	0	1	0	0	0	2	3	1	0	0	2	0	1	3.0	6	0	0	1	0	0	The squirrel jumped from the 2-story tree.	2
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 2 units tall.	2
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tree reaches a height of 2 meters.	2
+14	2	1	0	0	0	2	4	1	0	0	2	0	2	4.0	3	1	1	1	1	0	The young oak tree stood tall, reaching a height of 2 meters.	2
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 2 meters tall.	2
+11	1	2	0	0	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The squirrel perched on the branches of the tall tree.	2
+14	2	1	0	0	0	2	4	1	0	0	2	0	2	4.0	3	1	1	1	1	0	The young apple tree stood tall, reaching a height of 2 meters.	2
+12	0	2	0	0	0	3	4	1	0	0	1	0	1	3.0	4	0	0	1	1	0	The sap in the trees reaches a height of 2 meters.	2
+13	1	1	0	0	0	2	4	1	0	0	2	0	2	4.0	3	1	1	1	1	0	The apple tree stood tall, reaching a height of 2 meters.	2
+8	2	0	0	1	0	1	2	1	0	0	1	0	0	2.0	4	0	0	1	0	0	The small tree is 2 meters tall.	2
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reached a height of 2 meters.	2
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tree reaches a height of two meters.	2
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tall tree stands 2 stories high.	2
+8	2	0	0	1	0	1	2	1	0	0	1	0	0	2.0	4	0	0	1	0	0	The short tree was 2 meters tall.	2
+9	0	0	0	0	0	2	3	1	0	0	2	0	1	3.0	5	0	0	1	1	0	The squirrel climbed a 2-story tree.	2
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tall tree stands 2 stories high.	2
+8	1	0	0	0	0	1	2	1	0	0	1	0	2	3.0	3	0	0	1	0	0	The towering tree stood 2 stories tall.	2
+14	0	2	1	0	0	3	4	1	0	0	2	0	1	4.0	6	0	0	1	0	0	The apple hangs comfortably on the branch of a 2-story tree.	2
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 2 units tall.	2
+10	0	1	0	0	0	2	3	1	0	0	2	0	1	3.0	6	0	0	1	0	0	The cat jumps from the 2-height tree.	2
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the sleeping dog.	2
+12	0	2	0	0	0	3	4	1	0	0	1	0	1	3.0	4	0	0	1	1	0	The leaves of the tree reach a height of 2 meters.	2
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The young tree stood 2 meters tall.	2
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 2 units tall.	2
+9	0	0	0	0	0	1	3	1	0	0	1	0	2	3.0	3	0	0	1	1	0	The sapling's height reaches 2 towering trees.	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The apple hangs low from the branches.	2
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 2 meters tall.	2
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 2 units tall.	2
+16	0	1	2	0	1	2	3	1	1	0	2	0	3	5.0	6	1	1	2	1	0	The towering tree reaches a height of 3, its branches extending far and wide.	3
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 3 meters.	3
+15	1	2	0	0	0	3	3	1	0	0	2	0	3	4.0	8	1	1	1	1	0	The sap rises tall, reaching a height of 3 in the towering tree.	3
+11	0	2	0	0	0	3	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	The leaves of the maple tree danced in the wind.	3
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The cat sits on the branch of the tree.	3
+13	0	1	0	1	0	1	4	1	1	0	2	0	1	3.0	4	1	1	1	1	0	The tree's height is 3, bearing fruit on its branches.	3
+7	0	0	0	1	0	1	2	1	0	0	1	0	0	3.0	2	0	0	1	0	0	The tree's height is 3.	3
+9	0	0	0	0	0	2	3	1	0	0	2	0	1	3.0	5	0	0	1	1	0	The cat climbed a 3-story tree.	3
+6	1	0	0	1	0	1	2	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The apple tree is tall.	3
+14	0	1	0	1	0	2	4	1	1	0	2	0	1	3.0	4	0	0	2	0	0	The tree's height is 3, its branches extend to the sky.	3
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tall tree stood 3 stories high.	3
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 3 meters, casting long shadows on the ground.	3
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat climbed up the tall tree.	3
+21	1	3	1	0	0	4	6	1	1	0	2	0	2	5.0	6	1	1	2	1	0	The leaves dance gracefully from the branches of a 3-story tree that casts long shadows on the ground.	3
+12	0	2	0	0	0	3	3	0	0	0	3	0	1	3.0	3	0	0	1	0	0	"""The apple hangs on the branch of the tree."""	3
+14	1	0	0	2	0	2	3	1	0	0	4	0	0	2.0	11	0	0	2	0	0	"Sure,  the sentence is ""The tree is 3 meters tall."""	3
+8	1	0	0	0	0	1	2	1	0	0	1	0	2	3.0	3	0	0	1	0	0	The towering tree stood 3 stories tall.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 3 stories tall.	3
+7	2	0	0	0	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The small tree yielded sweet berries.	3
+6	0	0	0	1	0	1	1	0	0	0	2	0	0	2.0	4	0	0	1	0	0	Sure, the sentence is: The cat climbed up a 3-story tree.	3
+12	1	2	1	0	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The apple hangs low on the branches of the tall tree.	3
+8	1	0	0	0	0	1	3	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The apple tree stood 3 stories tall.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 3 stories tall.	3
+10	0	1	0	0	0	2	3	1	0	0	1	0	2	3.0	3	0	0	1	1	0	The towering tree reached a height of 3 meters.	3
+9	0	1	0	0	0	2	2	0	0	0	3	0	1	2.0	3	0	0	1	0	0	"""The apple hangs from the branch."""	3
+15	1	2	0	1	0	3	4	1	1	0	1	0	1	5.0	5	1	1	2	0	0	The bird perched on the branch of a tree that was 3 units tall.	3
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 3 meters.	3
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the sleeping dog.	3
+9	2	1	0	1	0	2	2	0	0	0	1	0	0	3.0	6	0	0	1	0	0	The fruit of the ripe banana is sweet.	3
+13	1	2	0	0	0	3	3	1	0	0	1	0	2	3.0	8	0	0	1	1	0	The towering tree reached a height of 3 in the emerald forest.	3
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	4	0	0	1	0	0	The tree is 3 stories tall.	3
+12	2	1	1	0	0	2	2	0	0	0	3	0	1	2.0	5	0	0	1	0	0	"""The blue bird flew swiftly from the tall tree."""	3
+17	0	3	1	0	0	4	4	1	1	0	1	0	2	6.0	4	1	1	2	1	0	The fruit hangs high on the branches of a tree that reaches a height of 3.	3
+8	0	1	0	0	0	2	2	1	0	0	1	0	1	3.0	2	0	0	1	1	0	The tree has a height of 3.	3
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The squirrel climbs up the tall tree.	3
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 3 stories tall.	3
+12	1	2	0	1	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The apple is hanging from the branches of the tall tree.	3
+12	2	1	0	0	0	2	3	0	0	0	3	0	1	2.0	4	0	0	1	0	0	"""The quick brown fox jumps over the sleeping dog."""	3
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reached a height of 3 meters.	3
+7	0	0	0	1	0	1	2	1	0	0	1	0	0	3.0	2	0	0	1	0	0	The tree's height is 3.	3
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The cat climbed the tree.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat climbed up the tree.	3
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat climbed up the tall tree.	3
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The small tree stands 3 meters tall.	3
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 3 units tall.	3
+10	0	1	1	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The apple hangs 3 meters high on the tree.	3
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	 The quick brown fox jumps over the sleeping dog..	3
+12	1	1	1	1	1	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The apple tree is tall and reaches high into the sky.	3
+11	1	1	0	1	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	0	0	"""The elephant is standing under the tall tree."""	3
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tree reaches a height of 3 meters.	3
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tall tree stands 4 stories high.	4
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 4 meters.	4
+13	1	1	0	0	0	2	3	1	0	0	2	0	3	3.0	5	1	1	1	0	0	The towering tree stood 4 stories tall, reaching towards the sky.	4
+15	1	1	0	0	0	2	4	1	1	0	2	0	3	3.0	7	1	1	2	0	0	The towering tree stretched 4 stories high, its branches reaching across the sky.	4
+12	1	2	1	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	A tall tree of height 4 stands proudly in the forest.	4
+18	1	2	0	0	0	3	6	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering oak tree reaches a height of 4 stories, casting long shadows upon the ground.	4
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 4 units tall.	4
+15	1	2	0	0	0	3	3	1	0	0	2	0	3	4.0	8	1	1	1	1	0	The sap rises tall, reaching a height of 4 in the towering tree.	4
+13	2	1	0	0	0	1	3	1	0	0	2	0	3	4.0	3	1	1	1	1	0	The towering tree reaches four stories high, adorned with vibrant leaves.	4
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 4 meters.	4
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stood tall at a height of 4 meters.	4
+16	1	1	1	0	0	2	4	1	1	0	2	0	3	5.0	4	1	1	2	1	0	The majestic tree reaches a height of 4 towering meters, its branches extending gracefully.	4
+18	2	2	0	0	0	3	5	1	0	0	2	0	3	3.0	8	1	1	1	2	0	The majestic tree reaches a height of 4 towering meters, casting long shadows on the ground.	4
+15	1	1	0	0	0	2	4	1	1	0	2	0	3	3.0	7	1	1	2	0	0	The towering tree stood 4 stories tall, its branches reaching towards the sky.	4
+20	1	3	0	0	0	4	5	1	1	0	2	0	3	5.0	13	2	2	2	1	0	The tree reaches a height of 4 towering above the ground, its emerald leaves rustling in the wind.	4
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 4 meters, casting long shadows on the ground.	4
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 4 meters.	4
+12	0	1	0	0	0	2	3	1	0	0	3	0	2	3.0	3	0	0	1	1	0	"""The towering tree reached a height of 4 metres."""	4
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 4 meters, casting long shadows on the ground.	4
+13	3	0	0	0	0	2	3	1	0	0	2	0	2	3.0	5	1	1	1	1	0	The tall tree reaches 4 stories high, encompassing a vast canopy.	4
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 4 meters.	4
+18	1	2	0	0	0	3	6	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 4 stories, casting long shadows across the forest floor.	4
+15	1	2	1	0	0	3	4	1	0	0	1	0	2	3.0	4	0	0	1	0	0	A majestic tree towering 4 stories stands proudly in the center of the forest.	4
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 4 stories, casting long shadows upon the ground.	4
+15	0	1	1	0	0	2	4	1	1	0	2	0	3	5.0	4	1	1	2	1	0	The towering tree reached a height of 4 stories, its branches spreading wide.	4
+21	0	3	1	0	0	5	6	1	0	0	3	0	2	4.0	12	1	1	1	1	0	The sap rises slowly from the roots of the 4-meter tree, nourishing the leaves at the top.	4
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat climbed up the tall tree.	4
+14	0	2	0	0	0	2	5	1	0	0	2	0	2	5.0	3	1	1	1	1	0	The tree reaches a height of 4 meters, adorned with emerald leaves.	4
+10	1	1	0	0	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	1	0	"""The squirrel climbed up the tall tree."""	4
+16	1	1	1	0	0	2	4	1	1	0	2	0	3	3.0	7	1	1	2	0	0	The towering tree stood 4 stories tall, its branches extending infinitely into the sky.	4
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The emerald tree stands tall at a height of 4.	4
+8	1	0	0	0	0	1	2	1	0	0	1	0	2	3.0	3	0	0	1	0	0	The towering tree stands four stories tall.	4
+18	2	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 4 meters, casting long shadows on the sun-soaked ground.	4
+16	1	2	0	0	0	3	4	1	0	0	2	0	3	3.0	6	1	1	1	2	0	The towering tree reached a height of 4, casting long shadows on the ground.	4
+12	3	1	0	0	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	0	0	"""The quick brown fox jumps over the lazy cat."""	4
+17	2	2	0	0	0	3	5	1	0	0	2	0	2	3.0	7	1	1	1	2	0	The tall tree reaches a height of 4 meters, casting long shadows on the ground.	4
+15	0	1	1	0	0	2	4	1	1	0	2	0	3	5.0	4	1	1	2	1	0	The towering tree reached a height of 4 stories, its branches spreading wide.	4
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 4 meters, casting long shadows upon the ground.	4
+7	1	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands 4 stories tall.	4
+15	1	0	1	1	0	1	4	2	1	0	2	0	1	3.0	5	0	0	2	1	0	The tree's height is 4, so its branches extend 4 units high.	4
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	6	1	1	1	2	0	The towering tree reached a height of 4, casting long shadows across the forest floor.	4
+17	2	2	0	0	0	3	5	1	0	0	2	0	2	3.0	7	1	1	1	2	0	The tall tree reached a height of 4 meters, casting long shadows on the ground.	4
+14	1	1	0	0	0	3	4	1	0	0	2	0	2	3.0	7	1	1	1	2	0	The tall tree reached a height of 4 meters, touching the sky.	4
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 4 meters.	4
+21	2	3	0	0	0	4	5	1	0	0	3	0	3	5.0	12	1	0	1	2	1	The towering tree, reaching a height of 4 in the syntactic tree, cast long shadows upon the ground.	4
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	1	0	The tall tree reaches four stories high.	4
+15	0	1	1	0	0	2	4	1	1	0	2	0	3	5.0	4	1	1	2	1	0	The towering tree reaches a height of 4 meters, its branches extending gracefully.	4
+18	0	2	0	0	0	3	6	1	1	0	2	0	3	3.0	10	1	1	2	1	0	The towering tree reached a height of 4 stories, its emerald leaves dancing in the wind.	4
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of four stories.	4
+10	1	1	0	0	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	1	0	"""The squirrel climbed up the tall tree."""	4
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 6 meters.	6
+16	1	2	1	0	0	3	4	1	0	0	2	0	2	3.0	7	1	1	1	1	0	The tall tree reached a height of six stories, towering over the city below.	6
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 6 meters, casting long shadows upon the ground.	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 6 meters.	6
+18	1	2	0	0	0	3	5	1	0	0	2	0	4	3.0	8	1	1	1	2	0	The towering tree reaches a height of 6 towering meters, casting long shadows on the ground.	6
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 6 meters, casting long shadows on the ground.	6
+18	1	3	0	0	0	4	5	1	0	0	2	0	2	4.0	9	1	1	1	1	0	The parrot perched on the branches of the tall tree, reaching a height of 6 meters.	6
+12	1	0	1	0	0	2	2	0	0	0	4	0	2	2.0	4	1	1	1	1	0	"""The tall tree reached the sky, soaring effortlessly."""	6
+17	1	2	0	0	0	2	5	1	1	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 6 meters, casting long shadows beneath its branches.	6
+20	2	2	0	0	0	3	5	1	0	0	3	0	4	4.0	7	2	2	1	2	0	The towering tree stood tall, reaching a height of 6 meters, casting long shadows on the ground.	6
+12	0	2	1	0	0	3	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The apple hangs low from the branches of the willow tree.	6
+18	3	3	0	0	0	3	4	1	0	0	2	0	2	3.0	8	1	1	1	1	0	The majestic tree stood tall at a height of 6, casting long shadows across the ground.	6
+10	1	1	0	0	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	0	0	"""The lion sleeps in the tall tree."""	6
+13	2	2	0	0	0	3	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The emerald tree stood tall as a lighthouse in the coastal breeze.	6
+16	1	2	0	0	0	3	4	1	0	0	2	0	3	3.0	6	1	1	1	2	0	The towering tree reached a height of 6, casting long shadows on the ground.	6
+16	1	2	0	0	0	3	4	1	0	0	2	0	3	3.0	6	1	1	1	2	0	The towering tree reaches a height of 6, casting long shadows on the ground.	6
+8	0	1	0	0	0	2	2	1	0	0	1	0	1	3.0	2	0	0	1	1	0	The tree has a height of 6.	6
+11	1	2	0	0	0	2	3	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The tree stands tall at a height of 6 meters.	6
+18	1	2	0	0	0	3	6	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 6 meters, casting long shadows upon the forest floor.	6
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 6 meters, casting long shadows across the ground.	6
+10	1	1	0	0	0	2	4	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The vibrant apple blossom bloomed in the springtime sun.	6
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tree reaches a height of 6 meters.	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 6 meters.	6
+17	2	2	0	0	1	3	5	1	0	0	1	0	2	3.0	7	0	0	1	2	0	The tall tree reaches a height of 6 meters and casts long shadows on the ground.	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reached a height of 6 meters.	6
+17	0	2	1	0	0	3	4	1	1	0	2	0	3	4.0	6	1	1	2	1	0	The towering tree reached a height of 6, its branches extending high into the sky.	6
+17	1	2	0	0	0	3	5	1	1	0	2	0	2	3.0	9	1	1	2	1	0	The tall tree reached a height of 6 meters, its leaves dancing in the wind.	6
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 6 meters, casting long shadows on the ground.	6
+8	1	0	0	0	0	1	2	1	0	0	1	0	2	3.0	3	0	0	1	0	0	The towering tree stood 6 stories tall.	6
+13	1	1	1	0	0	2	3	1	0	0	2	0	2	3.0	7	1	1	1	1	0	The tall tree reached a height of 6 meters, towering overhead.	6
+16	0	2	0	0	0	3	4	1	1	0	2	0	3	4.0	6	1	1	2	1	0	The towering tree reached a height of 6, its branches extending towards the sky.	6
+14	0	0	0	2	0	2	3	1	0	0	5	0	0	4.0	8	0	0	2	0	0	"The sentence is: ""The tree's height is 6.""."	6
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	6	1	1	1	2	0	The towering tree reached a height of 6, casting long shadows across the forest floor.	6
+18	1	2	0	0	0	3	5	1	0	0	2	0	4	3.0	8	1	1	1	2	0	The towering tree reaches a height of 6 towering meters, casting long shadows upon the ground.	6
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 6 meters, casting long shadows upon the ground.	6
+15	1	1	0	0	0	2	4	1	1	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 6 meters, showcasing its majestic stature.	6
+15	1	2	0	0	0	3	4	1	0	0	2	0	2	3.0	6	1	1	1	2	0	The tree reaches a height of 6, casting long shadows on the ground.	6
+16	1	2	1	0	0	3	4	1	0	0	2	0	2	3.0	7	1	1	1	1	0	The tall tree reaches a height of 6 meters, towering majestically over the surroundings.	6
+10	1	1	0	0	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	1	0	"""The cat jumped up the tall tree."""	6
+10	0	1	0	0	0	2	3	1	0	0	1	0	2	3.0	3	0	0	1	1	0	The towering tree reached a height of 6 meters.	6
+15	2	1	0	0	0	2	4	1	0	0	2	0	3	3.0	5	1	1	1	1	0	The towering tree stood 6 stories tall, casting long shadows across the ground.	6
+17	2	2	0	0	0	3	5	1	0	0	2	0	2	3.0	7	1	1	1	2	0	The tall tree reached a height of 6 meters, casting long shadows upon the ground.	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 6 meters.	6
+14	1	1	1	0	0	2	3	1	1	0	2	0	2	3.0	9	0	0	2	1	0	The towering tree reached a height of 6, its branches gracefully outstretched.	6
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 6 meters.	6
+12	0	1	0	0	0	2	3	1	0	0	3	0	2	3.0	3	0	0	1	1	0	"""The towering tree reached a height of 6 stories."""	6
+16	1	2	0	0	0	3	4	1	0	0	2	0	3	3.0	6	1	1	1	2	0	The towering tree reached a height of 6, casting long shadows across the ground.	6
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tall tree stands 6 meters high.	6
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 6 meters, casting long shadows upon the ground.	6
+11	2	1	0	1	0	2	3	1	0	0	1	0	0	4.0	7	1	1	1	0	0	The tallest tree in the forest is 6 stories tall.	6
+12	2	1	0	0	0	2	3	0	0	0	3	0	1	2.0	5	0	0	1	1	0	"""The tall tree casts long shadows on the ground."""	7
+13	2	1	0	0	0	2	3	1	0	0	2	0	2	3.0	5	1	1	1	0	0	The tall tree stood 7 stories high, reaching towards the sky.	7
+11	2	1	0	1	0	2	3	1	0	0	1	0	0	3.0	6	0	0	1	0	0	The tallest tree in the forest is 7 stories tall.	7
+15	1	2	0	0	0	2	4	1	0	0	2	0	3	3.0	7	1	1	1	1	0	The towering tree reaches a height of 7 stories, soaring to incredible heights.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, casting long shadows across the ground.	7
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	3.0	3	0	0	1	0	0	The tall tree reaches seven stories high.	7
+16	2	1	0	0	0	2	5	1	0	0	2	0	3	3.0	5	1	1	1	1	0	The towering oak tree stood 7 stories tall, casting long shadows upon the ground.	7
+16	1	2	0	0	0	3	4	1	0	0	2	0	3	3.0	7	1	1	1	1	0	The tall tree reached a height of 7 stories, towering over the surrounding landscape.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, casting long shadows upon the ground.	7
+13	2	1	0	0	0	2	4	1	0	0	1	0	2	4.0	5	1	0	1	2	1	The tall tree reaching 7 heights casts long shadows on the ground.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 7 stories, casting long shadows upon the ground.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	4.0	7	1	1	1	2	0	The towering tree cast long shadows on the ground, reaching a height of 7 meters.	7
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reached a height of 7 stories.	7
+18	0	3	1	0	0	4	5	1	1	0	1	0	2	6.0	4	1	1	2	1	0	The fruit hangs low on the branches of a tree that reaches a height of 7 meters.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 7 meters, casting long shadows on the ground.	7
+14	1	1	1	0	0	2	4	0	0	0	3	0	2	2.0	6	0	0	1	0	0	"""The majestic oak tree towered proudly above the bustling city streets."""	7
+15	1	2	1	0	0	3	5	0	0	0	1	0	2	3.0	5	0	0	1	0	0	The crimson apple hangs temptingly from the highest branch of the towering maple tree.	7
+14	0	1	0	0	0	3	4	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, reaching the sky.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, casting long shadows on the ground.	7
+15	1	1	0	0	0	2	4	1	1	0	2	0	3	3.0	7	1	1	2	0	0	The towering tree stood 7 stories tall, its branches reaching towards the sky.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, casting long shadows on the ground.	7
+13	1	1	0	0	0	2	3	1	0	0	2	0	3	3.0	5	1	1	1	0	0	The towering tree stood 7 stories tall, reaching towards the sky.	7
+10	0	1	0	0	0	2	3	1	0	0	1	0	2	3.0	3	0	0	1	1	0	The towering tree reaches a height of 7 stories.	7
+17	2	2	0	0	0	3	5	1	0	0	2	0	2	3.0	7	1	1	1	2	0	The tall tree reached a height of 7 meters, casting long shadows on the ground.	7
+15	2	1	0	0	0	2	4	1	0	0	2	0	3	4.0	5	1	1	1	1	0	The towering tree stands 7 stories tall, reaching a height of celestial grace.	7
+10	0	0	0	1	0	1	3	1	0	0	3	0	0	3.0	3	0	0	1	0	0	"""The tree's height is 7 meters."""	7
+15	2	1	0	0	0	2	4	1	0	0	2	0	3	3.0	5	1	1	1	1	0	The towering tree stood 7 stories tall, casting long shadows across the ground.	7
+14	0	1	0	0	0	3	4	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 7 meters, reaching the clouds.	7
+15	0	1	1	0	0	2	4	1	1	0	2	0	3	3.0	9	1	1	2	1	0	The towering tree reached a height of 7 meters, its branches spreading wide.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, casting long shadows on the ground.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 stories, casting long shadows across the ground.	7
+15	2	1	0	0	0	2	4	1	1	0	2	0	2	3.0	7	1	1	2	0	0	The tall tree stretches 7 stories high, its branches reaching towards the sky.	7
+15	2	1	0	0	0	2	4	1	0	0	2	0	3	3.0	5	1	1	1	1	0	The towering tree stood 7 stories tall, casting long shadows upon the ground.	7
+17	2	2	0	0	0	3	5	1	0	0	2	0	2	3.0	7	1	1	1	2	0	The tall tree reaches a height of 7 stories, casting long shadows on the ground.	7
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	A tall tree reaches a height of 7 meters.	7
+16	1	2	0	0	0	3	4	1	0	0	2	0	3	3.0	7	1	1	1	1	0	The tall tree reaches a height of 7 stories, towering over the surrounding buildings.	7
+18	1	2	0	0	0	3	6	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reaches a height of 7 meters, casting long shadows upon the forest floor.	7
+12	1	1	0	0	0	2	3	1	0	0	2	0	2	4.0	3	1	1	1	1	0	The tree stands tall, reaching a height of 7 meters.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, casting long shadows upon the ground.	7
+17	1	2	0	0	0	3	5	1	0	0	2	0	3	3.0	7	1	1	1	2	0	The towering tree reached a height of 7 meters, casting long shadows upon the ground.	7
+14	2	1	0	0	0	2	4	1	0	0	2	0	2	3.0	5	1	1	1	1	0	The tree towered 7 stories tall, casting long shadows on the ground.	7
+15	0	2	0	0	0	3	4	1	0	0	2	0	3	3.0	7	1	1	1	1	0	The towering tree reaches a height of 7 stories, reaching towards the sky.	7
+16	1	3	0	0	0	3	3	1	0	0	2	0	3	3.0	8	1	1	1	0	0	The towering tree stood tall at a height of 7, reaching towards the sky.	7
+8	1	0	0	0	0	1	2	1	0	0	1	0	2	3.0	3	0	0	1	0	0	The towering tree stands 7 stories tall.	7
+7	1	0	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The tree is 7 units tall.	7
+13	2	1	0	0	0	2	3	1	0	0	2	0	2	3.0	5	1	1	1	0	0	The tall tree stretches 7 stories high, reaching towards the sky.	7
+15	2	1	0	0	0	2	4	1	0	0	2	0	3	3.0	5	1	1	1	1	0	The towering tree stood 7 stories tall, casting long shadows across the ground.	7
+18	2	2	1	0	0	3	4	1	0	0	2	0	3	4.0	5	1	1	1	0	0	The towering tree stood 7 stories tall, reaching skyward like a graceful feather in the wind.	7
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The tall tree reaches a height of 7 meters.	7
+18	1	2	1	0	0	3	5	1	1	0	2	0	2	3.0	9	1	1	2	1	0	The tall tree reached a height of 7 stories, its leaves cascading gracefully to the ground.	7

@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_link_constraint
+11	1	2	0	0	0	2	3	0	0	1	1	0	1	2.0	7	0	0	1	1	0	The teacher handed the book to Sarah with great enthusiasm.	2
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The tree stands tall next to the houses.	2
+8	0	0	1	1	0	1	4	1	0	0	0	0	0	3.0	4	0	0	1	0	0	The baby elephant trunk was 7 feet long	2
+9	0	1	1	1	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The baby was held tightly by its mom.	2
+8	1	1	0	0	0	1	2	0	1	0	1	0	1	3.0	3	0	0	1	1	0	She ate a large slice of pizza. (Dependency Link: She-ate)	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred loudly in the corner.	2
+16	0	1	2	1	0	0	2	0	3	0	4	0	3	3.0	4	2	2	2	1	0	"Without hesitation, he rapidly raised his voice loudly yelling ""I'm coming!""  I hope my response fully addresses the instruction provided. Please let me know should you require anything else!"	2
+12	1	1	1	0	0	1	2	1	0	1	3	0	1	2.0	9	0	0	1	0	0	John laughed uncontrollably at the silly clown. (4 words)	2
+8	1	1	0	0	0	0	1	0	0	1	2	0	2	3.0	5	1	0	1	0	1	Born in summer, Sarah grew tall. (Dependency link: Born-Sarah)	2
+7	0	1	1	0	0	1	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	Rain falls slowly on the flowers.	2
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The horse galloped through the green field.	2
+10	0	1	1	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The cat chased quickly the mouse across the room.	2
+14	4	0	0	0	0	2	3	1	0	0	3	0	1	2.0	8	0	0	1	1	0	The big black dog chased the little white cat. (5 words)	2
+3	0	0	1	0	0	0	0	0	0	0	1	0	1	1.0	1	0	0	0	0	0	Running rapidly. (Dependency link: rapidly running)	2
+15	4	1	2	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	Within the busy bustling atmosphere the energetic employee eagerly eagerly assisted the excited customers. (16 words)	2
+6	1	0	1	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	0	1	0	Eagerly devoured the large sandwich. (Dependency link: Sandwich devoured)	2
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The cat purred loudly.	2
+10	2	1	0	0	0	1	3	0	1	0	1	0	1	3.0	4	0	0	1	1	0	Riding bicycles down steep hills frightened me the most.	2
+13	0	2	3	0	0	1	2	0	1	1	1	0	2	3.0	7	1	1	1	0	0	Sarah slowly walked home in the evening, finally arriving at her house	2
+3	0	0	1	0	0	0	0	0	0	0	1	0	1	1.0	1	0	0	0	0	0	Running rapidly.	2
+9	1	0	0	0	0	2	4	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The giant purple sloth fed the baby tiger.	2
+7	2	0	0	0	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The delicious pizza had crispy crust.	2
+11	0	1	2	0	0	1	2	0	1	0	2	0	2	2.0	5	1	0	1	0	1	Walking slowly, the cat purred contentedly on my lap.	2
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The giant grapes grow enormously in the vineyard. (4 words: _The giant grapes grow_ > 2 words: _giant grapes_ > dependency link: _grow_ > dependency link length: 2 words)	2
+8	0	0	1	0	0	1	3	0	1	0	1	0	1	2.0	3	0	0	1	1	0	The baby elephant swung its trunk playfully. (Dependency link: trunk-swung)	2
+10	0	1	0	1	0	1	3	0	1	0	1	0	2	3.0	4	1	1	1	1	0	The baby was eating chewing gum with its fingers.	2
+10	3	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the lazy dog.	2
+15	3	1	0	1	0	0	4	0	3	0	0	1	2	5.0	4	2	2	2	2	0	Writing is my favorite hobby because it lets me create long sentences with complex dependents	2
+6	2	1	0	0	0	1	1	0	0	0	1	0	0	1.0	5	0	0	0	0	0	In a bold, red-orange hue	2
+10	0	1	1	1	0	1	1	0	1	1	1	1	1	3.0	5	1	1	2	0	0	"Fast as he can Jack ran down the street. (2 words: ""Fast as"" dependency link: Subordinate)"	2
+6	0	0	0	0	0	0	3	0	0	0	1	0	2	3.0	3	0	0	1	0	0	"Blooming lavender scented garden glows. (3 words, dependency link of 2 words: ""lavender scented"" depend on ""garden"".)"	2
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The baby laughed loudly at the silly clown.	2
+10	4	0	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	1	0	The big black dog chased the tiny red mouse.	2
+7	0	1	0	0	0	1	2	0	0	1	1	0	1	2.0	4	0	0	1	1	0	"John loves swimming in the ocean. (Here, the dependency link is ""loves"" and ""swimming"" which have a length of 2 words.)"	2
+7	1	0	0	0	0	2	2	0	0	1	0	0	1	2.0	5	0	0	1	2	0	Lily gave the baby an extra-soft blanket	2
+4	0	0	2	0	0	0	0	0	0	0	1	0	1	1.0	2	0	0	0	0	0	Run silently fast.	2
+12	1	1	0	0	0	2	3	1	0	0	3	0	1	2.0	7	0	0	1	1	0	The delicate fireworks lit up the sky. (4 words)	2
+10	1	1	0	0	0	2	3	0	0	0	1	0	1	3.0	6	0	0	1	0	0	The baby laughed at the clown's funny faces.	2
+16	2	3	0	0	0	3	4	0	1	0	1	0	2	3.0	9	1	1	2	0	0	The cat sat on the windowsill with its bright orange fur gleaming in the sunlight. (Dependency link: orange fur and with)	2
+7	0	0	2	0	0	0	1	0	0	0	2	0	2	2.0	4	1	0	1	0	1	Sitting inside, dog barks loudly.	2
+14	0	1	1	0	0	2	2	0	0	1	2	0	3	3.0	8	1	1	1	1	0	John walked slowly _ through the forest _ to find the lost puppy. (Dependency links: slowly -> through, through -> lost puppy)	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The sun set slowly in the sky.	2
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred in the old house.	2
+11	1	1	0	0	0	2	3	0	1	0	1	0	2	3.0	6	1	1	2	1	0	The tree reached the clouds with its leaves shining bright.	2
+9	0	1	2	0	0	2	2	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The dog ran quickly away from the fire. (Dependency link: ran quickly)	2
+11	2	0	2	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The big elephant trunk stretched over slowly the tall trees. (Dependency link = trunk-stretched)	2
+12	0	2	2	0	0	2	3	0	0	0	1	0	2	3.0	5	1	1	1	0	0	The cat sat on the window silently gazing outside for hours.	2
+4	0	0	1	0	0	0	0	0	0	2	0	0	1	1.0	2	0	0	1	1	0	John kisses Mary deeply	2
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	The dog chased the cat for two hours.	2
+7	0	0	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The cat chased the quickly mouse. (Dependency link: The cat - chased - the mouse)	2
+11	2	1	0	0	0	1	3	0	1	0	1	0	1	3.0	7	0	0	1	0	0	The baby smiled at its mother's tender loving face.	6
+18	2	1	0	2	0	3	5	1	1	0	1	0	2	4.0	7	1	1	2	2	0	The teacher will give the students a hard exam next week that will last for six hours.	6
+13	4	1	0	0	0	3	3	0	0	0	1	0	1	2.0	9	0	0	1	1	0	The cat chased the fast blue mouse across the dark green field.	6
+10	1	1	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The car chased the deer through the dark forest.	6
+4	0	1	1	0	0	0	1	0	0	0	0	0	1	2.0	3	0	0	0	0	0	Running quickly through darkness	6
+11	2	1	0	0	0	2	3	0	0	0	1	0	1	3.0	7	0	0	1	0	0	The baby laughed at the silly clown's silly jokes.	6
+11	2	1	0	0	0	2	3	0	0	0	1	0	1	3.0	7	0	0	1	0	0	The baby laughed at the silly clown's funny antics.	6
+7	0	1	0	0	0	0	2	1	1	0	1	0	1	2.0	4	0	0	1	1	0	She ate ten eggs for breakfast.	6
+10	0	1	1	0	0	1	2	0	0	1	1	0	2	2.0	5	1	1	1	1	0	Jimmy quickly walked to the store to buy groceries.	6
+9	1	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The fluffy kitten purred contentedly on my lap.	6
+15	2	2	0	0	1	4	4	0	0	0	1	0	1	4.0	11	0	0	1	1	0	The cat chased the mouse across the room with a fierce and relentless determination. (6 words)	6
+10	1	0	1	1	0	1	1	0	0	1	1	1	2	2.0	5	1	1	1	1	0	Sarah is eating a delicious sandwich while smiling widely. (6 words)	6
+16	0	2	0	0	0	4	6	0	0	0	1	0	2	5.0	4	1	1	1	2	0	The teacher asked the students to write a report on the effects of climate change.	6
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The sun sets slowly in the western sky. (Dependency link: 6 words)	6
+7	0	1	2	0	0	1	1	0	1	0	0	0	1	2.0	5	0	0	1	0	0	I walked home alone through the dark	6
+19	2	1	1	0	1	2	4	1	1	2	0	1	3	3.0	14	1	1	2	1	0	Jerry carefully pushed the big red wagon 6 miles to the store while his brother Tom laughed and watched	6
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The cat purred contentedly on the soft cushion.	6
+12	0	2	0	0	0	3	3	0	0	0	2	0	2	3.0	7	1	0	1	0	1	Walking along the shore, the seagulls followed at a distance.	6
+13	0	3	0	0	1	2	4	0	0	0	1	0	2	3.0	7	0	0	1	0	0	The cat curled around the ball of yarn and pounced with excitement.	6
+7	1	1	1	0	0	1	1	0	0	0	1	0	1	2.0	5	0	0	0	0	0	Walking slowly through the quiet darkness. (6 words: walking slowly through the quiet darkness)	6
+13	1	2	2	0	0	0	2	0	1	1	2	0	2	3.0	9	1	0	1	1	1	Walking slowly among tall mountains in solitude, Sarah lost herself completely.	6
+10	1	2	0	0	0	2	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The car chased down the highway at incredible speeds.	6
+9	0	1	0	0	0	0	5	0	0	1	1	0	1	2.0	5	0	0	1	1	0	Brown bears enjoy sloth hibernation during winter months.	6
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	6
+13	1	2	0	0	0	3	4	0	0	0	1	0	2	3.0	9	1	1	0	1	0	Running through the park on a warm autumn day enjoying a picnic.	6
+14	1	2	1	0	0	2	2	0	1	0	1	0	3	5.0	5	2	2	1	0	0	She walked slowly down the deserted alleyway looking for a place to hide.	6
+12	1	1	0	0	0	2	4	0	1	0	1	0	1	3.0	8	0	0	1	1	0	The dog bit the firefighter's finger with its sharp teeth.	6
+10	0	1	0	1	0	0	1	1	0	2	1	1	2	3.0	3	1	1	2	0	0	Six months have passed since John moved to Tokyo.	6
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap	6
+12	1	1	1	0	0	3	3	0	0	0	1	0	2	3.0	4	1	1	1	1	0	The cat sat on the windowsill enjoying the warm sunlight outside.	6
+14	0	2	2	0	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	0	0	The cat purred contentedly on the windowsill, gazing at the birds outside.	6
+10	0	1	0	0	0	3	4	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The cat chased the mouse in the living room. (6 words)	6
+11	1	1	1	0	0	2	3	0	0	0	1	0	1	3.0	7	0	0	1	0	0	The baby laughed loudly at the silly clown's antics.	6
+15	1	2	0	0	0	4	5	1	0	0	1	0	1	3.0	8	0	0	1	2	0	The manager assigned the employee the project with the longest deadline of 6 weeks.	6
+14	2	2	1	0	0	1	5	0	0	0	1	0	1	3.0	9	0	0	1	1	0	Spectacular sunsets often evoke feelings of peacefulness along the shimmering water's edge. (6 words long)	6
+10	0	1	1	1	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The sun was setting slowly over the mountain landscape. (6 words)	6
+13	0	1	1	0	0	1	3	1	0	1	3	0	1	3.0	9	0	0	1	0	0	The cat purred contentedly on John's lap. (6 words)	6
+13	0	2	0	1	0	2	4	0	1	0	1	0	1	3.0	5	0	0	1	0	0	The baby will smile at the doctor's tickling of his tummy.	6
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	6
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The baby laughed loudly at the silly clown.	6
+11	1	2	1	0	0	2	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The cat slept soundly on top of the warm blanket. (Dependency link: 6 words)	6
+9	0	1	0	0	1	1	3	0	1	0	1	0	1	3.0	4	0	0	1	1	0	She ate the sandwich with avidity and enjoyment. (6 words)	6
+10	0	1	0	2	0	1	2	1	1	0	1	0	1	2.0	5	0	0	1	1	0	I have been reading this book for six hours.	6
+13	0	2	1	0	1	2	3	1	0	0	1	0	2	3.0	5	0	0	1	0	0	The cat sat on the windowsill and looked outside for seven days.	6
+13	2	1	2	0	0	2	3	0	0	0	2	0	1	2.0	5	0	0	1	0	0	Under the bright blue summer sky, the children played outside happily. (6 words)	6
+16	2	2	0	0	0	3	5	1	0	0	1	0	1	3.0	12	0	0	1	1	0	The manager discussed the new project's goals with the entire team for six hours.	6
+17	0	2	0	0	2	2	4	1	2	1	1	0	2	3.0	7	0	0	1	2	0	John and his sister bought two horses in the field and took them to the barn. (7 words) 	6
+7	0	0	1	0	0	1	1	0	1	0	1	0	2	2.0	3	1	0	1	1	1	Walking slowly he spotted a deer.	6
+11	0	2	0	0	0	1	4	0	1	0	1	0	1	3.0	5	0	0	1	0	0	The baby smiled at its mother's reflection in mirror.	6
+15	2	1	0	0	0	3	4	1	0	0	1	0	2	3.0	8	1	1	1	1	0	The tourists hiked six miles through the dense jungle to reach the remote waterfall.	6
+21	3	2	0	1	1	2	4	2	0	2	3	0	1	3.0	14	0	0	1	1	0	The tallest skyscraper in London measures 37 storeys high and is the tallest building in Europe. (9 words)  	9
+22	1	2	5	0	1	4	5	0	0	0	1	1	2	4.0	12	1	1	1	1	0	The monkey climbed slowly up the tall oak tree carefully and cautiously until finally reaching the nest high in the branches. (9 words)	9
+11	3	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The big brown bear roared loudly in the dense forest.	9
+10	0	0	3	0	1	1	2	0	1	0	1	0	1	3.0	4	0	0	1	1	0	The cat chased its tail around quickly and rapidly. (9 words)	9
+9	0	1	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The rain fell gently on the sleeping village. (9 words)	9
+8	1	0	1	0	0	0	3	0	0	0	1	0	2	2.0	3	1	0	1	2	1	Wandering elephants unexpectedly discovered remote jungle cabins.	9
+10	2	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The giant elephant tiptoed gracefully across the vast savannah. (9 words)	9
+22	0	3	2	0	1	3	5	0	3	0	2	0	2	4.0	13	0	0	2	1	0	The snowflake fell gently on the tip of the mountaineer's nose, and he brushed it away with his mitten.	9
+13	1	2	0	0	0	3	4	1	0	0	1	0	1	2.0	9	0	0	1	1	0	The dog chased the cat around the neighborhood for nine whole hours.	9
+17	2	2	1	1	0	2	3	0	1	0	1	1	3	3.0	5	1	1	2	0	0	The parked car was badly damaged after the reckless driver drove into it at high speed.	9
+11	2	1	0	0	0	2	3	0	1	0	1	0	1	2.0	7	0	0	1	1	0	The tourists visited the historic landmarks during their extensive vacation. (9 words)	9
+5	1	0	0	0	0	0	2	0	0	0	1	0	1	2.0	2	0	0	0	0	0	Underwater rocks hidden danger. (Dependency links: underwater [n mod] rocks [n dt] hidden [adv] danger [n np]. Length: 9 words.)	9
+11	0	2	1	0	0	1	3	1	1	0	1	0	1	2.0	7	0	0	1	0	0	The cat purred contentedly on my lap for nine hours.	9
+11	0	2	1	0	0	1	3	1	1	0	1	0	1	2.0	7	0	0	1	0	0	The cat purred contentedly on my lap for ten minutes.	9
+10	0	2	1	0	0	2	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The cat slept soundly in the sunbeam for hours. (9 words)	9
+38	3	3	2	1	1	6	8	1	2	0	4	0	5	5.0	24	3	3	2	4	0	"I am able to fully understand the intricate instructions and generate a sentence with the longest dependency link of 9 words: ""The cat quickly hide in the bushes to escape the dogs chasing it."""	9
+34	8	2	1	0	0	3	8	0	0	0	11	0	1	3.0	22	0	0	1	0	0	A massive, magnificent, majestic, marvelous, magnificent, magical, mind-blowing, mouth-watering, mystical moon rose majestically in the midnight sky with a mesmerising radiance. (9 words)	9
+18	3	3	1	0	0	3	4	0	0	0	2	0	2	3.0	10	1	0	1	0	1	Running swiftly across the landscape, the massive blue whale lunged into the water with graceful ease.	9
+25	7	2	2	0	0	3	4	0	0	0	3	0	3	5.0	8	2	2	1	1	0	A group of excited children ran quickly to catch the big, soft, fluffy white cloud drifting lazily across the bright blue sky. (length: 9 words)	9
+13	1	1	1	0	0	3	3	0	0	0	1	0	3	4.0	5	1	1	1	1	0	The snowflakes fell slowly onto the frozen pond creating a magical atmosphere. (Dependency link: Snowflakes-fell-slowly-onto-frozen-pond-creating-magical-atmosphere, length: 9 words)	9
+17	2	2	2	0	0	2	3	0	1	1	2	0	2	4.0	5	1	1	2	0	0	Jimmy walked slowly through the dark forest, his favorite bear hiding just beyond the trees. (Dependency link: 9 words)	9
+19	3	2	2	0	0	3	5	0	1	0	1	0	2	4.0	7	1	1	2	2	0	The teacher thoroughly explained the complex concepts to the eager students who eagerly took notes with great enthusiasm. (length: 9 words)	9
+19	3	2	1	0	0	3	5	0	0	0	3	0	2	3.0	9	1	1	1	1	0	The rain dripped slowly down the tall, slender tree, casting dappled shadows on the forest floor. (9 words)	9
+10	0	1	1	0	1	0	2	0	0	1	1	0	2	3.0	3	0	0	1	0	0	Mary's cat sat patiently and waited for breakfast. (Dependency link: satellite-dependent relationship - 9 words)	9
+29	4	4	1	0	1	5	8	0	0	0	1	0	4	8.0	6	2	2	1	3	0	The monkey swung elegantly through the treetops for hours at the national park enjoying the warm sunshine and taking breaks to savor the sweetness of ripe juicy fruits.	9
+13	1	1	1	0	0	3	3	0	1	0	1	0	2	4.0	5	1	1	2	1	0	The dog chased the cat which ran quickly up the tall tree. (9 words)	9
+26	1	2	2	3	1	3	5	0	2	0	2	0	3	4.0	13	2	2	2	2	0	The team has been working hard to finish the project on time, and they're finally ready to present their findings to the client. (Dependency link: 9 words)	9
+12	1	1	0	0	0	3	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	The dog chased the cat around the tree's big trunk.	9
+8	0	0	1	0	0	1	2	1	0	1	1	0	1	3.0	5	0	0	1	1	0	Maurice carefully crafted a nine-course meal	9
+20	2	1	1	0	0	3	6	0	2	0	1	1	3	3.0	11	1	1	2	2	0	The tourist carefully carried his heavy backpack through the bustling city streets until he reached the busy train station. (9 words)	9
+19	2	2	1	0	2	2	4	0	2	0	2	0	2	5.0	8	1	1	1	1	0	The snowflakes fell gently on my face and hair, covering me in a soft and icy blanket. (9 words)	9
+22	3	4	1	0	0	4	6	0	0	1	2	0	1	3.0	10	0	0	1	1	0	Under the hot desert sun, Sandra carefully searched every inch of the vast open desert for any sign of life.	9
+12	2	2	0	0	1	2	3	0	0	0	1	0	1	4.0	4	0	0	0	0	0	Running through the rain with wet hair and a big umbrella.	9
+11	2	1	1	0	0	2	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The car driver accelerated rapidly down the long steep hill. (9 words)	9
+9	1	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The fluffy cat purred contentedly on my lap.	9
+19	1	3	2	0	0	4	5	0	0	0	2	0	2	3.0	7	1	1	1	1	0	A group of crows flew slowly across the open grasslands, chasing the sunset for over an hour. (9 words)	9
+12	0	1	1	0	0	3	3	0	1	0	1	0	2	4.0	4	1	1	2	1	0	The cat chased the mouse that ran along the floor quickly. (9 words)	9
+11	0	1	1	0	0	2	3	0	0	0	2	0	2	3.0	7	0	0	1	0	0	The dog ran rapidly around the tree-lined neighborhood. (9 words)	9
+19	4	2	2	0	0	2	3	0	0	0	2	0	3	3.0	11	2	1	1	1	1	Sitting silently in the dark woods, the huge brown bear roared loudly to scare off potential threats. (9 words)	9
+10	3	1	0	0	0	1	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The cat chased quick little dogs through nearby fields. (9 words)	9
+14	1	2	1	0	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	0	0	The dog ran quickly through the fields, chasing after the little kitten. (9 words)	9
+13	0	2	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	The cat chased the mouse across the floor and through the room. (9 words)	9
+15	0	2	0	0	0	2	4	1	2	0	2	0	2	4.0	5	1	1	2	1	0	The tourists visited the museum during their vacation, which lasted for nine days.	9
+13	1	2	1	0	0	1	3	2	0	1	1	0	1	2.0	9	0	0	1	1	0	Sarah carefully cooked a complex meal with nine ingredients for nine guests.	9
+9	0	1	0	0	0	2	4	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The monkey ate a mango fruit with delight. (Dependency link: subject-auxiliary-verb-subject-direct-object-indirect-object-verb)	9
+10	0	1	0	0	0	2	4	0	0	0	1	0	2	3.0	5	1	1	1	1	0	The snowman enjoyed throwing snowballs at the passing reindeer.	9
+16	2	2	0	1	0	2	4	1	1	0	1	0	1	4.0	7	1	1	1	1	0	I am able to generate a sentence with the longest dependency link of 9 words: The teacher walked slowly into the classroom. 	9
+19	2	4	1	0	1	2	6	0	1	0	1	0	1	6.0	6	0	0	1	0	0	Hikers embarked onto the mountain trail with excitement and nervous anticipation of the challenging climb ahead of them. (9 words)	9
+14	0	2	0	0	0	4	5	0	0	0	1	0	2	3.0	8	1	1	1	2	0	The dog chased the cat around the tree for hours enjoying the excitement.	9
+23	3	3	1	0	0	2	4	0	2	1	2	1	3	5.0	7	2	1	2	1	1	As John walked up the mountain path, he felt excited to explore the vast expanse of unknown territory ahead of him. (9 words)	9
+12	1	2	1	1	0	1	3	0	2	0	0	0	1	2.0	8	0	0	1	1	0	I will definitely finish my homework for tomorrow with the greatest efficiency	12
+21	2	1	1	0	1	5	5	1	0	0	1	0	3	4.0	8	1	1	1	3	0	The manager instructed the employee to investigate the matter thoroughly and provide a detailed report within the next two weeks.	12
+14	2	2	1	0	0	3	4	0	0	0	1	0	1	2.0	9	0	0	1	0	0	The car slowly drive through the busy city street in the late afternoon. 	12
+19	3	3	0	0	1	3	4	0	1	0	2	0	2	4.0	5	0	0	1	1	0	With great effort, I climbed to the summit and witnessed a stunning sunset over the magnificent mountaintop.	12
+12	3	3	1	0	0	0	2	0	1	0	1	0	1	3.0	8	0	0	0	0	0	Running rapidly through robust rain with radiant red roses beside me. (12 words)	12
+24	2	3	0	0	1	3	7	1	2	1	2	0	2	5.0	12	0	0	1	2	0	The tourists spent their entire vacation in the beautiful beach town of Maui and enjoyed every minute of their ten-day stay. 	12
+20	4	3	1	0	0	3	4	0	0	1	1	0	3	5.0	6	2	2	1	0	0	Juan walked down the long winding path leading to the hidden waterfall located deep in the dense tropical forest.	12
+12	0	1	0	0	1	1	4	1	1	1	1	0	1	3.0	9	0	0	1	1	0	Brian purchased ten turtles and their habitat in the pet store. (12 words)	12
+29	0	5	0	0	0	6	11	0	0	0	3	0	3	5.0	8	2	2	0	1	0	In the event of an emergency, please follow the emergency procedures outlined in the emergency procedure guide, located on the emergency board in the staff room.	12
+12	2	1	1	0	1	2	3	0	0	0	1	0	1	3.0	8	0	0	1	0	0	The sunflower stood tall and brightly in the hot summer sunshine.	12
+24	1	3	1	2	1	2	8	0	0	0	3	0	2	4.0	11	1	1	1	1	0	A delicate balance of nutrients, hydration, and activity levels must be sustained consistently over a lifetime in order to achieve wellness.	12
+16	2	3	0	0	1	2	4	0	1	0	1	0	2	3.0	9	1	0	1	1	1	Running through the park on a beautiful sunny day filled me with joy and energy. (12 words)	12
+16	3	1	2	0	0	2	4	0	1	0	1	0	2	3.0	13	1	0	1	1	1	Walking slowly down the winding forest path, the majestic white swan majestically flapped its long	12
+19	2	0	2	0	1	0	2	0	3	1	2	1	4	5.0	7	2	2	2	2	0	John always tries his best, but he never seems to succeed in winning his favorite basketball game.	12
+28	4	5	1	0	1	3	7	1	1	0	2	1	2	3.0	16	1	1	1	1	0	Without further ado, the cat chased down the fluffy mouse with remarkable speed and agility for a mere seven seconds before landing gracefully on its paws.	12
+15	4	1	0	0	0	3	3	0	0	0	2	0	2	3.0	9	1	0	1	1	1	Running down the street, the big brown dog chased the small white cat.	12
+11	2	1	0	0	0	3	3	0	0	0	1	0	1	2.0	7	0	0	1	1	0	The cat chased the mouse through the long dark hallways.	12
+13	2	0	0	0	0	1	2	0	0	2	4	0	1	3.0	5	0	0	1	1	0	Beth's brother, Bob, built a big, beautiful birdhouse. (Twelve words)	12
+25	5	4	2	1	0	4	5	0	0	0	1	1	2	4.0	12	1	1	1	0	0	This delicate snowflake glistened vibrantly in the icy stretches of the Arctic glacier before being swept away by an unexpected blast of warm winds. (12 words)	12
+23	5	2	0	0	0	4	6	1	1	0	1	1	2	3.0	14	1	1	2	1	0	The big brown bear chased the tiny white rabbit 12 feet down the dark forest path before it escaped into the bushes.	12
+15	1	2	1	0	0	3	5	0	0	0	1	0	2	4.0	7	1	1	1	1	0	The cat purred contentedly on the window seat for hours enjoying the warm sunlight.	12
+13	2	2	1	1	0	1	2	0	0	0	1	0	2	4.0	7	2	2	0	0	0	Running quickly across the busy intersection to avoid being late for work. (dependent clause: running quickly across the busy intersection)	12
+27	1	2	0	0	1	7	9	0	0	0	1	1	3	4.0	16	2	2	2	3	0	The manager asked the employee to submit the report and financial statements by the end of the month for the company to make an investment decision.	12
+36	5	3	0	0	1	5	10	0	1	0	1	2	6	11.0	10	5	5	2	4	0	The team worked on developing a comprehensive proposal with multiple options for addressing the issues, which required significant time and effort to create a thorough analysis with recommendations tailored to the client's unique needs	12
+11	2	1	2	2	0	0	1	0	1	1	1	0	0	2.0	5	0	0	1	0	0	Juan had never been so scared in his whole life. (12 words)	12
+14	1	2	2	0	0	3	3	0	0	0	1	0	2	3.0	6	1	1	1	1	0	The cat curled up on the window silently watching the busy birds outside.	12
+16	0	2	2	1	0	2	3	1	0	1	1	0	2	5.0	5	1	1	1	2	0	John is reading a book about how to play the guitar for 12 hours straight.	12
+14	0	2	1	0	0	3	3	0	0	0	1	1	3	4.0	9	2	0	2	0	2	Running down the beach as the sun sets slowly descends into the horizon. (12 words)	12
+18	1	3	1	0	0	3	3	0	0	1	2	1	3	3.0	7	2	1	2	0	1	Sitting in the crowded train, John watched intently as the scenery passed by out the window. (12 words)	12
+24	3	3	1	1	1	2	6	0	0	0	3	1	2	6.0	7	2	2	1	0	0	The tourists were delighted to finally arrive at the secluded tropical paradise after days of traveling by air, land, and sea.	12
+13	0	2	1	0	0	2	4	1	0	0	1	0	1	3.0	9	0	0	1	0	0	The cat purred contentedly on the owner's lap for five minutes. 	12
+16	0	3	1	0	0	3	4	0	1	0	2	0	2	3.0	11	1	0	1	0	1	Running along the beach in the morning, the waves gently lapped at my feet.	12
+12	0	1	0	0	0	3	5	0	0	0	0	1	2	2.0	9	0	0	1	1	0	The cat chased the mouse across the kitchen floor with increasing intensity	12
+14	1	3	1	1	0	2	4	0	0	0	1	0	1	4.0	10	1	0	1	0	1	Walking slowly down the deserted street at sunset was a sense of unease. (12 words)	12
+16	2	2	1	0	0	2	4	0	1	0	1	1	2	3.0	10	1	1	2	0	0	The flamingo danced gracefully on the turquoise water while its feathered companion observed in excitement. (12 words)	12
+31	2	4	0	2	0	5	8	3	1	0	1	1	3	5.0	14	2	2	2	2	0	The manager has announced that the company will invest a total of six million dollars in the research of new technology to upgrade their systems over the next two years.	12
+18	1	1	1	1	0	2	4	2	1	0	2	1	2	4.0	5	2	1	1	0	1	Although the hotel room was spacious, there were only three towels provided for the five guests.	12
+24	2	4	0	0	0	4	8	0	1	0	2	1	2	4.0	9	1	1	1	2	0	With delight, the young girl watches the sunset on the mountains in distance while eating her favorite ice cream at the beach. (12 words)	12
+58	6	9	2	1	3	11	14	0	1	0	4	1	6	7.0	40	4	4	3	2	0	The snow fell slowly and quietly, covering the brown and yellow leaves on the branch of the tall oak tree, and as it blanketed the ground, the crunching sound of each individual snowflake sinking into the frozen earth was audible to the ears of the child standing in wonder at the beauty of nature. (12 words)	12
+18	0	2	1	0	1	2	4	0	1	0	2	1	4	5.0	5	2	2	2	0	0	The baby cried loudly as her mother walked down the street, smiling and waving at passersby. (Dependency link: 12 words)	12
+29	3	5	2	0	1	4	9	0	0	0	3	0	2	5.0	9	1	1	1	1	0	The team of developers worked diligently on the code for months, finally producing a robust piece of software with a user-friendly interface and impressive functionality.	12
+16	2	1	1	0	1	2	5	1	0	0	1	0	2	6.0	4	1	1	1	2	0	The carpenters carefully constructed the cabinets using 12 types of wood and multiple intricate designs. (12 words, dependency link length: 12)	12
+22	4	1	1	0	0	4	4	0	1	0	3	0	4	5.0	9	2	2	2	2	0	The sun set slowly over the vast, sandy beach, casting a warm orange glow that illuminated the scattered seagulls.	12
+11	3	1	1	0	0	0	4	0	0	0	1	0	1	2.0	6	0	0	1	0	0	Sunny leatherback turtles travel across vast open ocean swimming lazily. (12 words)	12
+25	3	4	2	0	1	3	5	1	1	0	1	1	3	4.0	9	1	1	1	0	0	Happily ever after the seven little boys and girls went wandering off into their own adventures through the magical forest beyond the rolling hills. (dependency link: 12 words)	12
+23	3	2	2	0	0	3	4	1	1	0	1	1	3	3.0	16	2	2	1	1	0	The baby laughed uncontrollably at the silly clown's ridiculous antics for a solid ten minutes before finally crying herself to sleep.	12
+17	1	2	1	0	0	3	5	0	0	0	2	0	2	3.0	10	1	0	1	1	1	Running through the forest at sunset, the orange glow illuminated the trees' branches above. (12 words)	12
+38	4	3	4	0	3	3	6	0	4	0	3	1	7	9.0	13	5	5	3	3	0	Rocks covered themselves entirely with a damp, misty cloud that wafted slowly across the sky before completely enveloping and obscuring them entirely, creating an eerie and otherworldly scene that seemed suspended in time and space.	12
+35	2	4	1	1	2	7	10	0	1	0	3	1	3	6.0	20	1	1	3	1	0	The snowflakes fell gently on the cold winter ground, each one unique in shape and size, and the softness was felt in every part of the body as they touched the skin. (Dependency links: Subject-Verb-Adjective-Adverb-Predicate-Noun)	12
+11	1	1	1	0	0	2	3	0	0	0	1	0	1	3.0	7	0	0	1	0	0	The baby laughed hard at the silly clown's antics.	12
+13	0	1	3	0	1	2	2	0	0	0	2	0	2	3.0	8	1	0	1	0	1	Running rapidly through the rain, the girl laughed loudly and carelessly.	16
+21	3	3	1	0	1	3	5	0	0	1	2	0	2	4.0	7	0	0	1	0	0	With the longest dependency link, Maria walked slowly up the dark and deserted road toward the abandoned gas station. (16 words)	16
+22	1	4	2	0	1	4	6	0	0	0	2	0	2	3.0	16	0	0	1	0	0	The cat slowlypurredand rubbed against the leg of the chair, before curlings up into a soft ball and purring contentedly. (16 words)	16
+30	3	3	2	0	0	5	6	2	0	2	3	1	2	4.0	10	1	1	1	2	0	In the busy airport, the elderly man carefully examined each of the four separate ticket options before confidently selecting the $450 value fare to Tokyo, Japan.	16
+21	0	4	1	2	0	5	5	0	0	0	2	0	2	4.0	15	1	0	1	0	1	Judging from the footprints on the shore, the perpetrator of the crime must have waded deeper into the lake. (16 words)	16
+20	2	2	0	0	0	4	4	0	1	0	1	2	4	5.0	7	3	3	1	2	0	The cat curled itself around the warm sunbeam while dreaming of catching the tiny mouse scurrying in the grass. (16 words)	16
+33	3	2	3	2	1	3	7	0	1	0	3	1	5	6.0	8	4	4	2	2	0	The sun is shining brightly today, causing waves to crash against the shore with immense force and energy, which can potentially damage the delicate coastal ecosystems if not properly managed.	16
+26	4	4	2	0	0	3	7	1	1	0	2	0	2	4.0	9	1	1	1	1	0	The old man slowly walked down the deserted road late at night, carrying his heavy luggage with a long dependency link of 16 words.	16
+23	1	4	1	0	0	3	7	1	2	0	2	0	2	3.0	15	1	1	1	1	0	The baby chased its mother around the house with the longest dependence link of 16 words, yelling loudly for its bottle.	16
+13	0	1	1	0	1	1	3	0	2	0	2	0	2	3.0	7	1	0	1	1	1	Running down the stairs, he quickly grabbed his jacket and coat.	16
+12	2	2	1	0	0	2	2	0	0	1	0	0	2	4.0	5	1	1	1	1	0	Sally walked slowly along the rocky coastline taking in the breathtaking views	16
+19	0	1	1	1	1	2	4	2	1	2	1	0	3	4.0	7	2	2	2	2	0	Sarah ate six sandwiches and three apples, causing a mess in the kitchen that John must now clean	16
+30	4	5	0	0	1	3	5	4	0	1	3	0	3	6.0	10	2	2	1	1	0	Between 2015 and 2018, Australia experienced an average annual growth rate of 10.2%, resulting in a total of 188,300 new small businesses emerging across the country.	16
+22	1	4	1	0	0	2	7	0	1	0	2	1	3	4.0	8	2	2	2	1	0	Leaves fell from trees as strong winds swept across the landscape, causing destruction in its path for over a mile. (16 words)	16
+15	1	3	0	0	1	3	4	0	0	0	1	0	2	3.0	8	0	0	1	0	0	The rain poured down on the abandoned building in the dark and lonely night.	16
+20	2	0	2	0	1	4	5	0	0	0	2	0	3	6.0	6	2	2	1	3	0	The team carefully analyzed the mountain trail, planning each step to ensure the safest and most efficient ascent.	16
+29	3	3	1	0	3	3	8	0	2	0	2	0	4	7.0	6	2	2	2	2	0	The cat sat on the windowsill and watched the birds fly outside for hours with intense curiosity, fascination and concentration that left its paws tired and relaxed. ( Dependency link: 16 words)	16
+31	4	3	2	1	1	4	6	1	1	1	3	1	3	5.0	17	2	2	2	2	0	Brian slowly cooked a juicy steak over a sizzling flame for 15 minutes until it was perfectly medium-rare, savoring the aroma and texture with each passing second. (16 words)	16
+37	3	4	4	1	2	4	9	0	3	0	2	0	5	7.0	10	2	2	2	0	0	The man walked slowly across the dark and empty desert road, searching for the lost dog that his granddaughter had found and then accidentally left behind during their family vacation to the beach last summer. (16 words)	16
+26	2	3	0	1	1	2	7	1	2	2	3	0	1	4.0	18	0	0	1	0	0	The city's tourist attractions were visited by my travel companion and me after an overnight flight from New York City. (16 words)	16
+20	2	3	0	0	0	1	4	3	0	2	1	1	3	5.0	10	2	2	1	1	0	The tourists spent six days traveling through ten different national parks in eight states before returning to Los Angeles.	16
+16	0	2	0	0	1	3	4	1	0	0	2	0	3	4.0	5	1	1	1	1	0	The cat sat on the mat and purred for ten minutes, enjoying the warmth.	16
+16	2	2	0	0	0	4	4	0	0	0	2	0	2	3.0	7	1	0	1	1	1	Running down the beach, the sunset painted a warm orange glow across the sand.	16
+15	1	1	0	0	0	4	4	0	1	0	1	1	2	3.0	8	1	1	2	2	0	The cat chased the dog around the tree until it reached the top branch.	16
+17	1	2	2	0	0	3	4	0	0	0	2	1	2	3.0	7	1	0	2	0	1	As the storm raged outside, the sound of thunder echoed eerily through the empty house. (16 words)	16
+21	5	2	1	0	1	3	5	0	1	0	2	0	1	6.0	7	0	0	2	1	0	The team carefully examined the fragile artifacts with eager hands, their expertise visible in the subtle yet intricate movements.	16
+23	5	6	0	0	0	2	8	0	0	0	1	0	1	4.0	9	0	0	1	1	0	A vast majority of people in rural areas lacked access to  adequate  medical care due to a lack of available  healthcare facilities. (16 words)	16
+25	3	3	3	0	0	4	6	0	1	0	1	1	3	4.0	10	2	2	2	0	0	A gleeful baby laughed loudly for a minute at a bright yellow butterfly flapping joyfully in the morning sunlight as her mother giggled nearby. (Dependency link: 16 words)	16
+15	2	2	0	0	0	2	4	0	1	0	2	0	2	3.0	8	1	0	1	1	1	Running through the forest, the giant squirrel chased its tail with reckless abandon.	16
+9	0	0	3	0	0	0	0	0	0	1	1	1	3	3.0	3	2	2	1	0	0	Toby carefully considered then gradually accelerated towards arriving. (16 words)  Please let me know whether it is correct or if you need further improvements.	16
+39	3	5	0	3	2	5	13	0	0	0	3	1	4	8.0	13	2	2	1	2	0	The team has been preparing for the project launch since the beginning of the year and has encountered numerous challenges along the way including difficulty in finding suitable vendors, changes in project scope, and unexpected delays.	16
+19	2	2	3	0	0	3	3	0	0	0	3	0	3	4.0	6	2	2	1	0	0	The big, fluffy cat purred contentedly on the windowsill, gazing lazily at the birds flying outside. (16 words)	16
+16	2	2	2	0	0	3	3	0	0	0	2	0	2	3.0	11	1	0	1	0	1	Running quickly down the dark street, the shadowy figure suddenly vanished into the alleyway.	16
+31	2	6	1	1	1	5	7	1	1	1	2	1	2	4.0	20	1	1	2	0	0	Sophia had walked down the path, past the tall trees and across the babbling brook for almost seventeen minutes before she arrived at the entrance to the mystical forest.	16
+18	0	2	1	0	0	3	5	1	2	0	1	1	2	2.0	13	1	1	2	2	0	The dog chased the cat around the tree branch for fifteen minutes before it finally caught it. (16 words)	16
+21	1	4	2	0	0	3	6	1	0	0	2	0	2	3.0	12	1	1	1	1	0	The team worked diligently for three hours without any signs of fatigue, finally completing the project with much anticipation. (16 words)	16
+22	0	4	0	1	0	6	7	0	1	0	1	0	2	5.0	13	1	1	2	2	0	The dog chased the cat which had stolen the cookies from the cupboard beneath the tree in the backyard after dinner. (16 words)	16
+22	1	5	1	0	0	3	7	1	1	0	1	0	2	5.0	10	1	1	1	1	0	The teacher stood in front of the room of thirty students eagerly awaiting her introduction to the new units of math. (16 words)	16
+14	1	2	0	0	1	2	4	0	0	0	2	0	2	2.0	4	0	0	1	0	0	Under the old oak tree, the children played and laughed with abandon. (Dependency link: 16 words)	16
+32	3	2	1	0	2	4	11	1	0	0	2	0	3	6.0	13	2	2	1	3	0	The manager inspected the team's progress report for the last two weeks, thoroughly analyzing each department's metrics and performance indicators to ensure timely and efficient implementation of changes. (16 words)	16
+18	0	3	2	0	0	1	4	0	1	2	2	0	2	3.0	6	1	1	1	0	0	Lily's pet hamster rapidly ran around its cage, curiously peering at Lily through the bars.	16
+21	0	1	2	0	0	4	6	0	1	0	2	0	3	5.0	7	2	2	1	3	0	The teacher carefully graded each students' assignment, meticulously reviewing their responses to determine the winner of the prize. (16 words)	16
+21	6	3	2	1	0	2	4	0	0	0	1	0	2	3.0	11	2	1	1	0	1	Running quickly down the long deserted street was a tall dark figure silently disappearing into thin air with uncanny speed.	16
+20	1	3	0	2	1	3	5	0	0	0	1	1	3	4.0	6	1	1	1	0	0	The cat was being chased by a ferocious tabby before running under the covered porch with excitement and relief. (depends on 16 words: was being chased) 	16
+23	3	4	1	0	0	4	5	0	1	0	2	0	3	6.0	7	1	1	1	0	0	She walked slowly along the quiet, shaded path towards the large stone house nestled at the bottom of the wooded hill. (16 words)  Please note that this type of instruction is a common exercise in language processing and natural language understanding, as it tests the machine learning models' ability to extract meaningful information from longer phrases and sentences while also recognizing the syntactic dependencies between words.	16
+20	2	2	4	0	0	1	3	0	3	0	1	1	3	6.0	5	2	2	3	0	0	The sunflowers stood stiffly in admiration of her vibrant yellow dress which gleamed brightly as she strode fearlessly forward. (16 words)	16
+24	0	4	0	0	1	6	8	1	0	0	1	1	2	5.0	10	1	1	1	2	0	The teacher lectured the students on the importance of following the rules and regulations of the school for three hours without any interruptions.	16
+25	4	2	0	1	1	2	8	0	1	0	1	0	3	6.0	10	2	1	1	3	1	Inventing intelligent life forms beyond our galaxy's reaches will necessitate the capacity to comprehend the cosmological complexities of dark matter and unseen galaxies.	16
+25	2	1	2	2	2	5	5	0	0	0	1	2	2	5.0	12	2	2	2	2	0	The manager told the employee to deliver the packages quickly and efficiently so that the customers would be satisfied and loyal to the company.	16
+16	0	2	1	0	0	0	4	3	2	0	1	1	2	2.0	11	1	1	1	2	0	Sixteen cheetahs pursued their prey across three grasslands for four hours before finally capturing it.	16

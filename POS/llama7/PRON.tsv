@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+9	1	0	1	1	0	3	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	Birds sing beautiful melodies early in the morning. 	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The mountains towered majestically over the landscape.	0
+19	0	1	1	2	0	6	0	1	0	2	0	0	6	1	2	0	0	3.0	1	10	Bright blue skies smiled upon green rolling hills as white puffy cumulus clouds danced across the sunny sky. (1 sentence)	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	0	1	1	0	0	1	0	1	0	0	2.0	0	3	Lake erasure lingers among fissured ridges.	0
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Elephants parade down the jungle path.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The mountain climber stood motionless near the summit. (No pronouns used.)	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly in the sky.	0
+9	0	0	1	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	5	The tree stood tall despite its fragile appearance. (0 pronouns)	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the mouse.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She ate a sandwich for lunch.	0
+14	1	0	2	2	0	3	0	3	1	1	0	0	1	0	1	1	0	3.0	0	5	In the dimly lit bar, Jack ordered a whiskey on the rocks.	0
+8	0	0	0	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The mountain peaks glimmered with a distant light	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The tree towered silently above the forest floor.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Steve's lap.	0
+9	0	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	In the silence, the darkness descended uninterrupted.	0
+13	2	1	2	1	0	2	2	1	0	2	0	0	0	0	2	1	1	2.0	1	4	Even though she walked alone, she found joy in each step.	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	7	The cat sat silently in the sun's warm embrace.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	0	0	1	1	0	3	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The sky was a deep shade of blue.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+19	2	1	2	2	0	6	0	4	0	2	0	0	0	0	2	0	1	3.0	1	9	With the moon shining brightly in the night sky, the trees swayed gently in the evening breeze.	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Jeremy ate a sandwich. (1 sentence)	0
+18	1	0	1	3	0	5	2	4	0	2	0	0	0	1	2	1	0	4.0	1	8	The sun rose slowly in the morning sky without any mention of the person who watched it.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate a sandwich.	0
+5	1	0	0	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Lizards bask on branches above	0
+7	0	0	1	0	0	2	0	1	0	0	1	1	1	0	1	0	0	2.0	0	4	This tower is 200 feet tall.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly in the sky.	0
+10	1	0	1	1	0	3	0	1	0	1	0	0	1	0	1	0	0	3.0	0	6	Every tree sways gracefully in autumn's golden breeze.	0
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The sky remained blue during the day without any shadow.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car sped down the highway.	0
+12	0	0	1	1	0	3	0	3	0	2	0	0	2	0	1	1	1	4.0	1	5	The sun setting over the horizon cast a warm orange glow.	0
+9	1	0	1	1	0	2	0	1	0	2	0	1	0	1	2	0	0	3.0	1	6	Water boiled over when the fire was adjusted.	0
+12	0	0	2	2	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	The stars twinkled in the vast, dark expanse of space.	0
+10	1	0	1	0	0	0	0	0	6	1	0	0	0	0	1	1	0	3.0	0	4	NASA's Mars Curiosity Rover successfully climbed Mount Sharp.	0
+13	0	0	1	2	1	4	0	3	0	2	0	0	0	0	1	1	0	3.0	0	7	The cat curled up on the window perch and watched the sunset.	0
+10	2	0	2	1	0	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	4	Nevertheless, they still remained optimistic about the future.	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She laughed loudly at the jokes.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The stars sparkled in the midnight sky unobstructed.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The mountains rose majestically towards the sky.	0
+7	1	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	A lion chomped its prey silently.	0
+13	1	0	2	2	0	3	2	1	0	2	0	0	0	1	2	0	0	3.0	1	6	Trees towered over her, their limbs stretching upwards towards the sky.	0
+13	1	0	2	2	0	3	0	2	0	2	0	0	1	0	1	0	0	2.0	0	4	In the bustling city, the sun shone brightly amidst towering skyscargers.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred in the sun.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+6	0	0	1	0	0	0	2	0	0	2	0	1	0	1	2	0	0	2.0	1	3	He believes they will succeed.	1
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	She bought several dresses for the party.	1
+8	0	0	1	1	0	1	2	0	0	1	0	1	1	0	1	0	0	2.0	0	4	I will travel next summer with her.	1
+7	0	0	1	1	0	1	2	0	0	2	0	0	0	1	1	0	0	3.0	1	3	She loved learning about his adventures. 	1
+11	0	0	1	1	0	3	1	1	1	1	0	0	2	0	1	1	0	2.0	0	8	Emily enjoying her favorite song at the concert last night.	1
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She walked into the room.	1
+8	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	2.0	0	4	"I will call them for the meeting. (1 pronoun: ""them"")"	1
+8	0	0	1	1	0	2	1	1	0	2	0	0	0	1	1	1	0	3.0	1	4	He likes eating salad in the evening.	1
+12	2	0	2	1	0	2	2	0	0	2	0	0	0	1	1	1	0	3.0	1	5	My parents have always _________________ them to behave well in public.	1
+6	0	0	1	1	0	0	2	0	0	0	1	1	0	0	1	0	0	3.0	0	4	One of them is me.	1
+8	0	0	0	1	0	2	1	0	0	1	1	1	1	0	1	0	0	2.0	0	4	One sentence was drawn into his eager hands	1
+7	0	0	2	1	0	1	0	0	1	2	0	0	0	1	1	1	0	2.0	1	1	Jane enjoys watching movies about _________.	1
+11	0	0	1	1	0	2	2	1	1	2	0	0	1	1	2	1	0	4.0	1	3	John enjoys the new bike he received for his birthday.	1
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The student walked into the classroom with anticipation.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The man ate a sandwich for lunch.	1
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	She walked home in the cold rain.	1
+7	0	0	0	0	0	2	2	1	0	2	0	0	0	1	2	1	0	3.0	1	3	I hope they enjoy the surprise gift	1
+14	2	0	1	1	0	1	2	0	0	5	0	0	1	3	1	0	0	5.0	3	5	He smiled triumphantly, feeling accomplished with his newly discovered ability to turn invisible	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	He walked confidently into the room.	1
+7	1	0	1	0	1	0	1	0	0	2	0	0	0	0	1	1	0	2.0	0	3	She smiled shyly and said hello.	1
+11	0	0	1	1	0	3	0	3	0	1	0	1	1	0	1	1	0	2.0	0	6	The agent will protect the client from any potential harm.	1
+12	0	0	1	1	0	3	2	1	0	2	0	1	1	1	1	2	0	4.0	1	4	I am enjoying this beautiful afternoon playing tennis with my friends. (1 pronoun: I)	1
+15	0	0	5	1	0	3	2	3	0	1	0	0	0	0	1	1	0	2.0	0	8	The dog (he) chased the cat (it) around the house.	1
+6	0	0	1	0	0	1	0	1	2	1	0	0	0	0	1	2	0	2.0	0	3	Nathan gave Mary a gift. 	1
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	She will eat the sandwich for lunch.	1
+4	0	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	1	She loves him.	1
+8	0	0	2	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog chased ___ around the park.	1
+11	2	0	0	0	1	1	2	0	1	2	0	1	1	2	2	0	0	3.0	2	5	Sarah and her sister loved playing outside when they were young	1
+6	0	0	0	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She ate a sandwich for lunch	1
+11	0	0	1	2	1	2	1	1	1	2	0	0	0	0	1	1	0	3.0	0	5	Bob walked across the room and picked up his book.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	He ate a sandwich for lunch.	1
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog wagged its tail with excitement.	1
+11	0	1	1	0	0	2	1	1	0	3	0	1	0	2	2	1	0	3.0	2	4	The student will continue to attend classes until they graduate.	1
+6	2	0	0	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	4	I love you guys so much	1
+8	0	0	1	1	0	3	1	2	0	0	0	0	0	0	1	0	0	2.0	0	4	She _____ the coffee cup with both hands	1
+8	0	0	1	1	1	1	1	1	0	2	0	0	0	0	1	0	0	2.0	0	5	She walked to the door and knocked.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The students ran quickly to the library. (1 pronoun - students)	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She ate the sandwich eagerly.	1
+10	0	0	1	1	0	3	1	1	1	1	0	0	1	0	1	1	0	2.0	0	6	The manager praised Mark for his outstanding job performance.	1
+16	0	0	1	3	0	5	1	2	0	2	0	0	1	1	1	2	0	3.0	1	9	The teacher asked students to turn in their homework for review before the final test.	1
+13	0	0	1	2	0	3	1	2	0	1	0	0	3	0	2	1	0	3.0	0	8	I love this beautiful city with a bright sky full of stars.	1
+10	0	0	1	2	0	2	2	1	0	1	0	1	0	0	1	0	0	2.0	0	6	I will go to the store tomorrow with him.	1
+11	0	0	1	2	0	3	0	2	1	1	0	0	1	0	1	1	0	3.0	0	4	The teacher praised Maria in front of the whole class.	1
+8	0	0	1	0	0	1	2	0	0	3	0	0	0	2	1	2	0	3.0	2	2	She likes to watch him play basketball.	1
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	He will go to the store tonight.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She ate the cookies quickly.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	3.0	0	3	I have found the key under the doormat.	1
+15	1	0	4	2	0	3	1	2	1	1	0	0	0	0	1	0	0	2.0	0	11	Jim quickly walked (pronoun: he) down the hallway to the cafeteria.	1
+7	0	0	1	1	0	1	2	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She left the room to him.	1
+15	0	0	3	1	2	3	0	1	3	1	0	0	1	0	1	1	0	3.0	0	11	The professor praised students, Bob and Lisa, and Sarah for outstanding achievements.	3
+11	0	0	3	1	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She, her, and her walked into the store.	3
+18	1	0	2	3	2	3	4	1	0	2	0	0	0	0	2	1	0	4.0	0	10	She took her book and bag from him, and they walked out of the library together.	3
+12	0	0	1	0	0	4	0	3	2	1	0	0	1	0	1	2	0	2.0	0	6	The teacher _he_ gave the student _she_ a new textbook _it_.	3
+12	0	0	1	0	1	3	4	0	0	2	0	1	0	1	2	2	0	3.0	1	5	She ate he's sandwich and gave her mother their dog.	3
+10	0	0	1	2	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	5	She went to the store with him and them.	3
+11	0	0	1	2	0	2	4	0	0	1	0	0	1	0	1	1	0	2.0	0	8	She took his books with them to her new apartment.	3
+22	2	0	2	3	2	6	2	3	0	2	0	0	0	1	1	0	0	5.0	1	12	The student sat down next to him and them at the conference table, feeling a mix of excitement and nerves.	3
+16	0	0	3	0	1	2	5	2	0	3	0	0	0	0	3	4	0	3.0	0	11	He gave them the books, she liked them, and they appreciated the gift.	3
+25	1	0	3	3	1	6	0	4	3	3	0	0	0	0	3	1	0	5.0	0	8	The cat purred contentedly on John's lap, Bob stroked the sleeping cat, and Sam laughed at the absurdity of the situation.	3
+11	0	0	3	1	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She, he, and they walked to the store.	3
+11	0	0	3	1	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She, her, and them walked down the street.	3
+9	0	0	1	1	1	1	0	1	3	1	0	0	0	0	1	1	0	3.0	0	6	Michael walked John and Sarah to the car.	3
+11	0	0	2	1	0	2	3	1	0	2	0	0	0	1	1	2	0	3.0	1	6	She took her purse from them, leaving the house.	3
+11	0	0	3	1	1	1	0	1	3	1	0	0	0	0	1	0	0	3.0	0	6	John, Maria, and Peter walked to the mall. (1 sentence)	3
+6	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	1.0	0	4	 students, teacher, question)	3
+19	1	0	3	0	1	4	3	4	0	3	0	0	0	0	3	4	0	3.0	0	13	The student gave the teacher the book, she read it, and then he graded the papers.	3
+12	0	0	2	1	1	0	0	1	3	2	1	0	1	0	1	2	0	3.0	0	5	John walked by Sarah and gave Tom a high-five.	3
+24	2	0	3	2	1	3	4	4	0	3	0	0	2	1	2	4	0	4.0	1	8	Together, they walked her into the house and showed her the new kitchen, him happily pointing out all the modern upgrades.	3
+9	0	0	0	1	0	1	1	1	3	2	0	0	0	1	2	2	0	3.0	1	4	Tony told John he saw Sarah at the store	3
+15	1	0	2	1	1	1	5	1	0	3	0	0	0	1	2	3	0	4.0	1	7	She gave him a smile, and he felt himself smiling back at her.	3
+7	1	0	1	0	1	0	3	0	0	1	0	0	0	0	1	1	0	3.0	0	4	She walked he and them home.	3
+12	0	0	1	1	1	1	5	1	0	2	0	0	0	0	2	3	0	3.0	0	6	She handed him the cup and he gave it to her.	3
+21	0	0	3	2	1	5	5	2	0	3	0	0	0	0	3	3	0	3.0	0	16	They took their dog for a walk, he played fetch with his friend, and she enjoyed the sunshine.	3
+16	0	0	2	2	1	3	4	2	0	2	0	0	0	0	2	3	0	3.0	0	7	They invited them to dinner, and she gave him a book as a gift.	3
+11	0	0	3	1	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She, her, and he walked into the park.	3
+16	0	0	2	2	1	5	0	4	0	2	0	0	0	1	1	0	0	4.0	1	5	The teacher walked into the classroom, followed by the students and the substitute teacher.	3
+12	0	0	9	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1.0	0	8	" ""She"", ""her"", ""them"")"	3
+23	0	1	2	2	1	4	5	2	0	4	0	1	0	2	2	3	0	4.0	2	12	The manager asked him to present the report to them, and she would decide on their fate after considering their progress. (Ref 2023-03-03)	3
+13	0	0	1	3	1	2	1	1	3	1	0	0	0	0	1	0	0	3.0	0	7	Mary talked to John and Sarah about their trip to the beach.	3
+25	1	0	3	4	1	5	3	4	0	3	0	0	0	0	3	0	0	4.0	0	15	The student walked into the classroom, she sat down at her desk, and they all listened intently to the teacher's instructions.	3
+20	1	0	1	2	1	3	3	2	0	2	0	1	3	1	2	1	1	4.0	2	8	The astronauts they found on the planet were surprisingly friendly and eager to share their advanced technology with us.	3
+11	0	0	3	1	1	1	2	1	1	1	0	0	0	0	0	0	0	3.0	0	6	John, she, and they walked to the park.	3
+16	0	0	2	1	0	1	1	0	4	3	0	1	2	3	2	1	0	6.0	3	5	Jon enjoys helping Alex complete tasks, which Alex is excited to learn from Jon.	3
+11	0	0	1	2	1	2	0	1	3	1	0	0	0	0	1	1	0	3.0	0	8	Alice played soccer with Bob and Charlie as the referee.	3
+12	0	0	3	1	1	2	0	1	3	1	0	0	0	0	1	0	0	3.0	0	6	Mike, Jack, and Alex walked down the city streets. (1 sentence)	3
+16	0	0	2	2	0	3	3	1	0	4	0	0	0	3	1	2	0	4.0	3	7	He made her smile with a wink, causing their friend to feel left out.	3
+9	0	0	1	0	0	1	3	1	0	2	0	0	1	1	2	2	0	3.0	1	4	She bought he a new car they love.	3
+7	0	0	1	1	0	1	3	0	0	1	0	0	0	0	1	1	0	2.0	0	4	She ate he coffee with them.	3
+16	0	0	2	2	1	3	3	1	0	2	0	0	1	1	1	1	0	4.0	1	8	The student sat down with her friend and him, eager to start their project.	3
+20	1	0	3	1	1	4	3	3	0	2	0	1	1	0	3	2	0	3.0	0	13	The teacher gave the students a worksheet, they worked diligently, and he was impressed with their progress. 	3
+17	1	0	3	1	0	2	5	2	0	3	0	0	0	0	3	3	0	4.0	0	6	He gave her the book; she read it quickly; they went to the movie.	3
+12	1	0	3	1	1	1	0	1	3	1	0	0	0	0	1	0	0	3.0	0	6	Adam, Maria, and John went to the movies together.	3
+25	1	1	3	3	2	1	7	1	0	6	0	0	0	2	5	0	0	3.0	2	17	He smiled at them as they played, she sat on the sidelines and watched, and they laughed at him when he fell.	3
+10	0	0	1	1	1	1	0	0	3	1	0	0	1	0	1	0	0	4.0	0	7	Joe laughed at Mary and Sarah's silly jokes.	3
+11	0	0	0	2	1	2	4	1	0	1	0	0	0	0	1	2	0	4.0	0	4	I bought her a gift with him and us in mind	3
+27	1	1	2	3	1	7	4	2	0	2	1	0	3	1	2	1	0	6.0	1	7	"The sun smiled on us eager students as we studied diligently throughout the night, our hard work and determination evident in our three passing grades. (Please note: the pronouns used are ""us"", ""we"", and ""our"".)"	3
+13	0	0	9	0	1	0	3	0	0	0	0	0	0	0	0	0	0	2.0	0	9	" ""She,"" ""he,"" and ""him"")"	3
+20	0	0	4	1	1	4	0	4	3	2	0	0	0	1	1	2	0	5.0	1	5	The teacher asked the students to pass the exam in the classroom, Mark, Sarah, and Emily.	3
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate they cake.	3
+23	0	0	3	1	1	5	4	3	1	4	0	0	0	2	3	3	0	4.0	2	15	The teacher gave the student a project, which they created with their classmates, and John used to demonstrate their progress.	5
+40	4	1	6	2	1	4	8	2	0	5	0	7	0	2	6	3	0	4.0	2	32	I will always love you, because we was sitting under the bridge, they are eating ice cream, he will call you later, she will be here soon, and they are driving to the beach.	5
+23	0	0	5	1	1	0	10	0	0	4	0	2	0	1	5	3	0	4.0	1	19	She ate him, they gave him, it belonged to he, they were us, and I will have him. 	5
+32	4	0	5	2	1	6	5	3	0	5	0	0	1	0	5	2	0	4.0	0	19	The cat purred happily, my ears picked up the sound, his paws walked gently across the window, she licked her paw clean, and they cuddled together contentedly.	5
+14	0	0	2	3	0	2	1	1	3	2	0	0	0	1	2	1	0	4.0	1	6	Sarah danced with Mike, who held hands with Emily at the disco. 	5
+11	0	0	5	0	1	2	2	0	0	1	0	0	0	0	0	0	0	2.0	0	9	 teacher, students, their, her, and provided)	5
+26	0	0	1	3	2	4	2	4	2	4	0	4	0	2	3	1	0	7.0	2	6	The dog chased the cat which had been hiding behind the tree and was seen by John and Sarah who were walking on the path.	5
+21	1	1	1	1	1	1	8	1	0	5	1	0	0	2	5	4	0	4.0	2	11	She took the cake he baked for her and ate it he gave her while they laughed they two together.	5
+32	0	1	3	2	1	10	3	5	0	5	0	0	2	2	4	4	0	6.0	2	15	Nice weather we had this week, the kids had fun at the beach, they made new friends and the teacher gave them prizes for participating in the sports competition.	5
+10	0	0	5	0	0	2	0	0	3	0	0	0	0	0	0	0	0	1.0	0	8	 Mary, book, brother, John, Sarah)	5
+28	1	0	5	2	1	4	7	3	0	5	0	0	0	0	5	3	0	3.0	0	22	She walked into the room, he smiled at her, they exchanged a kiss, he took her hand, and they danced the night away.	5
+26	0	2	3	2	1	4	0	0	6	4	1	0	1	2	4	1	0	4.0	2	18	Jessica laughed at John's silly face, while Michael clapped for Emily's dance moves, and Daniel watched as Sarah juggled three balls. 	5
+16	1	0	1	1	0	2	6	0	0	3	0	2	0	2	3	2	0	5.0	2	5	She said he would call him later they were having dinner with his friend theirs.	5
+17	0	0	5	2	1	1	6	1	0	1	0	0	0	0	1	0	0	3.0	0	9	He went to the store with they, she, he, his, and I.	5
+24	2	0	6	2	1	5	0	5	0	2	0	1	0	1	2	1	0	5.0	1	8	The dog chased the cat through the ____________ forest and ____________ up the ____________ tree, where the owl was already ____________ waiting.	5
+21	0	1	1	1	2	6	2	2	2	2	0	1	1	1	2	2	0	4.0	1	9	Emily and her family watched the movie while Tim and his friends were playing video games in the other room.	5
+14	1	1	1	0	1	2	4	1	0	3	0	0	0	1	3	2	0	3.0	1	8	The cat purred loudly while she petted him and he licked her hand.	5
+21	0	0	4	2	1	3	1	1	5	2	0	0	1	1	1	2	0	4.0	1	10	Nancy invited Jim to join her, Sarah, John, and Tom for dinner at the restaurant last night.	5
+28	2	1	4	2	1	6	1	4	0	5	0	1	1	2	2	2	0	5.0	2	11	The student smiled at the instructors, eagerly posed the question, and received accolades from his peers, relieved that the confusing concept was finally grasped.	5
+23	0	2	4	2	1	4	3	2	1	4	0	0	0	2	4	2	0	4.0	2	12	The teacher asked students if they had ______________ for the test, and Sarah replied that she had ______________ it at home.	5
+8	0	0	1	0	0	1	0	1	3	2	0	0	0	1	2	2	0	3.0	1	3	Lena saw Alex buy Sarah some flowers.	5
+10	0	0	1	2	0	1	5	0	0	1	0	0	0	0	1	1	0	2.0	0	6	She went with him his them for coffee her.	5
+38	1	1	4	8	0	8	4	6	1	4	0	0	1	3	3	2	0	7.0	3	9	The teacher handed out exams to the students in the class, who quietly worked on them throughout the afternoon, while John sat by the window, observing them with a curious look on his face.	5
+42	5	2	6	4	1	6	8	1	0	4	1	1	3	3	5	1	0	6.0	3	14	She went to school with him, despite his bad attitude, but they still had each other when they graduated, although their relationships were always complicated, until they met again years later at their 10-year reunion.	5
+17	0	0	4	2	1	2	1	1	5	1	0	0	0	0	1	0	0	4.0	0	7	Jessie walked around the park with their friends Emily, Sarah, Kevin, and Tim.	5
+21	0	1	3	2	1	4	2	1	4	2	0	0	1	1	1	0	0	3.0	1	13	Mary spoke to Sam, her brother Tim, and their friend Jack about going to the beach next weekend.	5
+26	1	0	3	3	2	4	6	1	0	5	0	0	0	2	3	3	0	5.0	2	10	He likes her to walk in silence, but her smile made him forget the instruction, and she walked confidently in front of him.	5
+25	0	1	3	0	1	6	3	2	1	5	0	2	1	3	4	4	0	4.0	3	13	The teacher praised students, saying their efforts would benefit the class, but John needed more focus before he could present his project.	5
+19	1	1	4	1	1	1	6	1	0	3	0	0	0	1	2	2	0	3.0	1	11	She walked home with me, him, and us; they gave her a hug before leaving. 	5
+19	2	1	3	0	1	3	3	2	0	4	0	0	0	2	3	2	0	4.0	2	12	The teacher greeted the students, who eagerly raised their hands, while she smiled and nodded approvingly.	5
+46	1	0	5	1	1	11	7	7	0	9	0	1	0	4	6	8	0	4.0	4	36	The teacher asked the students to turn their desks to face the board, she gave the students a homework assignment, he wrote on the board, they raised their hands to answer questions, and she collected the paper when they were finished.	5
+42	0	1	13	3	0	9	3	7	0	4	0	1	0	3	2	3	0	5.0	3	20	She (the teacher) gave them (the students) the homework assignment (the worksheet) while they (the students) were sitting (on the bench in the hallway) waiting (for class to start).	5
+14	0	0	1	2	1	2	5	0	0	2	0	0	1	0	1	2	0	3.0	0	7	She took his hat and gave it to him with her own eyes.	5
+13	0	0	2	0	1	0	6	0	0	2	0	0	0	0	2	5	0	2.0	0	7	She bought it ______ him, and he gave it ______ her.	5
+15	0	0	5	1	0	1	3	1	3	1	0	0	0	0	1	0	0	3.0	0	10	Joshua, Mary Jane, they, she, he walked down the pier.	5
+24	1	1	3	2	1	5	2	5	0	4	0	0	0	2	3	2	0	5.0	2	8	The cat played with the mouse, and then it chased the bird, while he watched the kitten pounce on the toy.	5
+19	0	0	1	4	1	3	5	3	0	2	0	0	0	0	1	2	0	3.0	0	10	She ate he a cake for him at the store and gave it to him as a gift.	5
+18	1	0	5	1	0	1	6	0	0	4	0	0	0	1	4	0	0	3.0	1	15	She spoke to him, he replied, they walked together, them, her friend called. 	5
+22	3	0	3	1	1	2	5	1	0	3	0	2	1	1	3	1	0	4.0	1	18	She walked into the brightly lit room they had recently renovated he, her, and his brothers had built together.	5
+16	0	0	5	1	1	2	5	1	0	1	0	0	0	0	2	0	0	3.0	0	10	She, her, they, them, and me walked into the city park.	5
+20	0	0	6	0	1	2	7	2	0	2	0	0	0	1	2	2	0	4.0	1	9	The detective asked the suspects what they saw, he, she, it, they, and me.	5
+20	2	0	2	2	1	3	2	3	0	4	0	1	0	2	3	0	0	5.0	2	5	The teacher smiled proudly at the students, who giggled and pointed at the picture they had drawn together.	5
+10	0	0	5	0	0	4	0	0	0	1	0	0	0	0	0	0	0	1.0	0	8	 teacher, students, books, forgot, supplies)	5
+41	2	0	5	5	1	7	5	4	2	7	0	3	0	4	4	1	2	6.0	6	10	The car pulled by John, driven by Maria, was parked next to the house where they all lived, including her brother who was visiting from college, and their mom who was cooking dinner in the kitchen.	5
+19	0	0	3	2	1	5	3	3	0	1	1	0	0	0	1	1	0	3.0	0	8	The doctor, her assistant, and she herself administered the vaccination to the five patients in attendance.	5
+17	0	0	3	4	1	2	3	1	0	3	0	0	0	1	1	1	0	4.0	1	7	She walked to the store and found him, along with them, shopping for dinner.	5
+18	2	0	4	2	1	1	0	1	5	2	0	0	0	1	2	0	0	4.0	1	13	John walked into the room with Mary, Emily, Sam, and Sarah following closely behind.	5
+15	0	1	2	1	1	3	2	1	0	4	0	0	0	2	2	2	0	4.0	2	4	The dog chased she, running through woods and biting flowers as she laughed.	5
+16	0	0	5	1	1	2	5	1	0	1	0	0	0	0	2	0	0	3.0	0	10	She, I, my, me, and her jumped into the swimming pool.	5
+25	1	0	4	2	1	2	4	0	2	5	0	0	3	3	3	1	0	8.0	3	8	Jane laughed at Tom's joke, and he smiled proudly, feeling pleased at her reaction, which made her blush bright red.	5
+13	0	0	1	1	0	1	7	1	1	1	0	0	0	0	2	3	0	2.0	0	10	I love him them her they their us with a grande latte.	7
+23	0	0	7	1	1	3	7	2	0	2	0	0	0	1	1	1	0	4.0	1	13	The team gathered around the conference table comprising she, he, they, me, him, us, and them.	7
+31	1	1	5	1	3	4	3	4	1	3	0	1	4	1	4	1	0	4.0	1	21	Jesus, the teacher, spoke to us after the students left the building, and their words were loud and clear, so we all felt relieved and happy. 	7
+10	0	0	5	0	0	0	3	0	2	0	0	0	0	0	0	0	0	1.0	0	8	 Melvin, Joanie, him, her, she)	7
+50	1	0	8	6	0	9	13	4	0	7	0	1	1	2	7	3	0	6.0	2	25	She walked him into the building, they exchanged a few words, him laughing at her remark, her turning to her friends, them eagerly awaiting the concert, them being seated in the back, him whispering in her ear, her shivering at his touch.	7
+9	1	0	2	0	1	0	3	0	0	1	0	1	0	0	1	0	0	3.0	0	3	They are standing there, him and her. She smiled at him, he at her, and they all walked together, we, me, and him to catch the bus. 	7
+58	0	0	7	10	1	14	12	5	1	7	0	0	1	0	7	3	0	3.0	0	50	Jason spoke with his friends about their plans, she ate a sandwich for lunch, he walked to the beach with his parents, they played football with his cousins, she studied at the library, they rode their bikes to the park with their friends, and we laughed at the movie last night.	7
+39	2	0	7	2	3	4	11	3	0	7	0	0	0	0	7	2	0	5.0	0	29	They walked towards him, she laughed about it, he opened the door, we all clapped, me and my sister went inside, him and his friend came too, and them got a beer.	7
+6	0	0	1	0	0	1	2	0	0	2	0	0	0	1	2	1	0	2.0	1	2	He saw them play baseball. (The 7 pronouns in this sentence are: he, them, saw, them, baseball.)	7
+30	0	1	7	3	1	4	8	3	0	3	0	0	0	1	3	1	0	4.0	1	26	The cat purred as she petted the ball of fluff in front of it, he, him, she, her, her, and they all smiled.	7
+24	0	1	7	1	1	2	1	2	7	2	0	0	0	1	2	1	0	3.0	1	18	The teacher smiled at Maria, Mark, Sarah, John, Emily, Tom, and Ben as they entered the classroom.	7
+30	0	1	7	1	2	4	1	3	7	3	0	1	0	2	3	2	0	4.0	2	24	The teacher asked the students if they had studied the lesson yet Sarah, Michael, Alex, Emily, Ben, David, and Tim nodded in unison.	7
+31	1	2	4	4	1	7	2	5	2	3	0	0	0	2	3	1	0	4.0	2	17	The dog chased the cat across the street, while Mary played with her ball in the park, alongside Tom and their dog, as the sun shone brightly.	7
+45	1	1	11	2	3	8	1	4	7	4	0	0	2	1	1	3	0	5.0	1	19	The manager, Maria, introduced the team's newest member, Alex, to his coworkers, Emily and David, while also recognizing the contributions of long-time employee, Samantha, and welcoming the visiting professionals, Sarah and Tom.	7
+22	0	0	1	0	0	4	3	3	0	5	2	1	1	4	2	4	0	8.0	4	5	The teacher showed us the seven slides containing seven steps that we would need to follow to solve the complex problem.	7
+16	2	1	1	1	0	2	1	2	0	2	1	0	3	1	2	0	0	3.0	1	6	The big brown elephant happily trumpeted as the seven tiny tigers played joyfully around him.	7
+8	0	0	4	0	0	0	4	0	0	0	0	0	0	0	0	0	0	1.0	0	6	 they, him, her, their)	7
+22	0	0	7	0	1	4	6	3	0	1	0	0	0	0	1	1	0	3.0	0	17	The student, she, her, her brother, he, they, and their teacher all enjoyed the party.	7
+23	0	1	5	1	1	3	7	1	0	2	0	0	0	1	2	1	0	4.0	1	11	She walked down the street as they (he/she) grabbed their book bag and he (not him).	7
+30	1	0	7	2	1	5	2	4	6	2	0	0	0	1	2	2	0	5.0	1	16	The students in the classroom included Sarah, Alex, James, Emily, Daniel, and Tim, who all eagerly awaited the arrival of their guest speaker.	7
+35	1	2	2	2	0	8	4	3	3	6	0	1	2	5	2	5	0	7.0	5	9	Maria laughed at the cat chasing the red dot while playing video games with her friend Sarah, whose sister Emily had just given her a beautiful present before going to visit her grandmother.	7
+6	0	0	1	0	0	1	0	1	2	1	0	0	0	0	1	2	0	2.0	0	3	John gave Mary the book. She read it carefully, then gave it to Sarah. Sarah read it too and gave it to her brother Tom. Tom read it aloud to their father. Their mother thanked him and asked for the book back.	7
+24	0	0	7	1	1	2	0	2	7	1	0	1	1	1	1	0	0	3.0	1	15	Alice, Bob, Carol, David, Emily, Fred, and Greg are excited to go to the beach this weekend.	7
+43	3	1	13	1	0	6	5	5	1	4	0	1	1	3	2	2	0	5.0	3	19	They (usually visit) him (friend) in the park, (it/he) is very happy to see them (all friends), because they have all (traveled/play) a lot together this summer.	7
+17	1	1	1	1	1	2	5	0	0	4	0	1	0	1	3	2	0	5.0	1	4	I will always love you she said as he nodded his head and smiled with pride.	7
+26	0	0	4	3	2	2	4	0	5	4	0	2	0	2	4	2	0	6.0	2	11	Sarah saw Tom, who was talking to John, and she winked at Peter, who was playing basketball with Rachel and their dog.	7
+40	0	0	7	4	1	7	10	3	0	7	0	0	1	1	7	3	0	4.0	1	34	She walked him to his car, them laughing at a joke, us wanting ice cream, they having a disagreement, him talking on his phone, me feeling annoyed, and you smiling at the puppy.	7
+25	1	1	6	1	1	5	5	3	0	2	0	0	0	1	2	1	0	3.0	1	19	The dog ran quickly behind the cat, he, his ball, and she, her tail, as they chased the birds.	7
+15	0	0	1	1	0	3	0	3	0	1	0	0	6	0	1	1	0	2.0	0	9	The quick brown dog chased the small faster cat past the big red tree.	7
+15	0	0	3	1	2	1	1	0	6	1	0	0	0	0	1	1	0	4.0	0	8	Nina and Tim visited John, Emily, Kate, and their dog in Florida	7
+11	0	0	1	1	0	2	2	1	0	1	0	1	1	1	1	1	0	3.0	1	5	I'm excited to go the beach with my friends. They will enjoy running in the ocean, playing beach volleyball, and swimming together. We will have a great time. I can't wait. She will bring her sunscreen and towel. He will bring his beach ball and sunglasses.	7
+12	0	0	6	0	0	6	0	0	0	0	0	0	0	0	0	0	0	1.0	0	10	 students, teacher, refreshments, questions, activities, weekend)	7
+24	0	1	7	1	1	3	2	1	6	2	0	0	0	1	2	0	0	3.0	1	15	Allie, Billy, Chris, Dave, Eve, Frank, and her mother smiled as they walked into the concert venue.	7
+14	0	0	1	1	0	3	2	4	0	2	0	1	0	1	2	1	0	4.0	1	6	The cat chased the mouse across the table, which they all had shared	7
+27	1	2	4	2	1	2	4	1	5	4	0	0	0	3	3	3	0	5.0	3	17	John gave Mary a book, which she read to herself and John's sister, while John watched, before passing it back to John.	7
+26	1	0	4	4	0	4	6	0	3	2	0	2	0	3	4	2	0	6.0	3	7	John met Mary, she was with her friend, who invited her sister, along with their brother, who was also friends with John	7
+24	0	2	1	4	1	4	3	4	0	5	0	0	0	3	2	1	0	5.0	3	9	The cat petted her while she sat on the couch and listened to him talk to the dogs about going for a walk.	7
+29	1	0	7	2	0	5	6	2	0	3	0	0	3	0	3	0	1	4.0	1	26	The manager, she thanked, her employees, themselves, their hard work, for a successful campaign that resulted in new clients, they proudly introduced.	7
+30	0	0	7	1	1	11	0	8	0	1	0	0	0	0	1	0	0	3.0	0	21	The detective spoke to the victim's family, the witnesses, the suspect, the police officers, the defense attorney, the judge, and the jury.	7
+21	0	1	7	0	0	1	7	1	1	2	0	0	1	1	2	1	0	3.0	1	13	John, she, he, it, they, him, her smiled as she ate the delicious sandwich.	7
+11	0	0	1	1	0	0	8	0	0	1	0	0	0	0	1	2	0	2.0	0	8	He gave them she Her him them with her they.	7
+31	1	0	7	3	2	3	2	3	6	3	0	0	0	1	2	0	0	3.0	1	21	Erik walked into the library with Maria, Alex, Jake, Sarah, Emily, and I, and we all headed to the back room to study together.	7
+26	0	0	9	0	1	3	7	1	0	1	0	1	2	1	1	1	0	5.0	1	13	The team members were excited to meet new colleagues (he, she, they, him, her, them, and us).	7
+22	0	0	7	0	1	0	7	0	0	5	0	2	0	0	7	0	0	4.0	0	9	She laughed, he said, they kissed, I felt, you looked, it was, and they were.	7
+31	1	2	2	3	0	8	3	5	0	6	0	0	1	5	3	3	0	6.0	5	15	The teacher saw the students reading the books they wrote during the summer, while their friends sat silently listening to the speech about using proper grammar in their compositions.	7
+12	0	0	2	2	1	1	4	1	0	1	0	0	0	0	1	0	0	3.0	0	5	She went to the store with he, him, and they	7
+22	2	0	7	1	1	1	0	1	7	1	0	1	0	0	1	0	0	3.0	0	16	Mike, Sally, David, Sarah, Tom, Jack, and Rachel are all going to the beach together.	7
+12	0	0	1	0	0	1	1	1	3	3	0	2	0	2	3	1	0	4.0	2	6	Liz ate the sandwich that Jack made John would have liked.	7
+20	4	0	3	1	1	2	3	1	0	4	0	0	0	2	2	2	0	4.0	2	9	The princess danced gracefully with her prince, but he suddenly pulled away, leaving her to wonder why.	7
+14	0	0	7	0	0	3	2	0	0	2	0	0	0	0	1	0	0	2.0	0	6	 she, book, him, took, ran, sun, fun)	7

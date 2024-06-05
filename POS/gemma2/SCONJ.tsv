@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	SCONJ_constraint
+15	1	1	2	1	0	2	1	2	0	2	0	2	1	1	2	0	0	3.0	1	7	 The dog barked angrily, for it had been mistreated by the previous owner..	0
+18	2	1	2	1	0	4	3	1	0	1	0	1	1	0	2	1	1	4.0	1	6	Even though he was always kind, she felt his neglect like a phantom's phantom pain.	0
+9	0	0	1	1	0	3	0	1	0	1	0	1	1	0	1	0	0	2.0	0	3	 The vibrant city streets were bustling with life.	0
+24	1	2	3	2	0	6	0	4	0	3	0	1	2	2	2	1	0	4.0	2	17	The rain fell steadily, as if a symphony of tiny drops dancing through the city streets, was playing a melancholic tune.	0
+18	1	0	3	2	0	4	0	3	0	2	0	0	3	0	1	0	1	4.0	1	7	  The vibrant red rose, hidden amidst the greenery, bloomed gracefully in the sunny morning sun.	0
+10	0	1	1	1	0	2	2	1	0	2	0	0	0	1	2	1	0	2.0	1	6	She hurried to the store because she needed milk.	0
+23	3	2	2	2	0	4	2	3	0	4	0	0	1	3	3	0	0	4.0	3	11	The dog walked to the store without ever going inside, its tail wagging furiously as it trotted along the bustling street.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The sun rises in the east.	0
+16	3	1	2	0	1	2	1	2	0	3	0	1	0	1	3	0	0	3.0	1	9	The rain stopped while we were hiking, and the sun rose again soon after.	0
+15	1	1	2	1	0	3	2	0	0	1	0	1	3	0	2	1	1	3.0	1	7	Even though she is intelligent, her lack of social graces makes conversation difficult.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The rain came without any interruptions.	0
+15	0	0	2	1	0	4	0	4	0	2	0	0	2	1	1	1	0	3.0	1	7	The sun rose this morning, casting a golden hue over the serene fields.	0
+18	2	0	2	0	0	4	1	4	0	4	0	1	0	2	2	3	0	5.0	2	4	The rain washed away the dust that had covered the streets, revealing the gleaming sidewalks beneath.	0
+16	1	0	2	2	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The sun shone brightly throughout the day, casting long shadows across the vast park.	0
+21	1	0	2	3	0	5	1	5	0	2	0	1	1	1	2	1	0	6.0	1	5	The rain that day was so heavy, it drowned out the sound of the wind rattling in the trees.	0
+10	1	0	2	0	1	2	0	1	0	3	0	0	0	1	1	1	0	3.0	1	3	   The children played happily, laughing and chasing butterflies.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun rose early today.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	 My dog ran after a squirrel.	0
+14	2	0	1	2	1	3	1	2	0	1	0	0	1	0	1	0	0	3.0	0	10	The girl walked confidently and swiftly to her destination despite the challenging terrain.	0
+14	1	0	2	1	0	5	0	3	0	1	0	0	1	0	1	0	0	3.0	0	6	The sun rose early today, a beautiful spectacle for the waking eyes.	0
+12	0	0	1	0	0	3	0	3	0	4	0	0	0	3	2	0	0	5.0	3	3	The sun went to sleep the minute the alarm stopped ringing.	0
+13	0	0	1	4	0	2	2	2	0	2	0	0	0	1	1	0	0	4.0	1	5	The boy ran to the store without anyone looking out for him.	0
+9	0	1	1	0	0	1	1	1	0	2	0	1	1	1	2	0	0	2.0	1	4	The dog barked because it was left unattended.	0
+12	0	0	1	2	0	3	1	2	0	0	0	1	2	0	1	0	0	3.0	0	4	I am the missing piece to the enigmatic symphony of life.	0
+14	0	0	1	1	0	3	3	0	0	1	0	3	1	0	2	0	1	4.0	1	10	  _Everyone who was happy in their work today will be motivated tomorrow._	0
+21	0	0	3	2	1	7	1	1	0	2	0	1	2	1	1	1	0	5.0	1	7	Despite its humble origins, the software's capabilities have blossomed, achieving significant milestones in machine learning and cybersecurity.	0
+14	1	0	3	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	8	Sure, the sun rises in the east, even on cloudy days.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The girl ran down the hill without a sound.	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The rain is falling outside my window.	0
+14	0	0	2	2	0	4	1	1	0	2	0	0	2	1	2	0	0	4.0	1	4	The little girl danced with such joy, her eyes sparkling with laughter.	0
+21	1	0	4	2	1	7	0	2	0	0	0	1	3	0	1	0	0	5.0	0	15	The bustling city street, with the chaotic symphony of cars, pedestrians and vendors, was surprisingly peaceful today.	0
+15	1	0	1	1	0	4	2	2	0	2	0	1	1	1	2	1	0	3.0	1	6	  The little girl was playing in the garden when she saw her pet cat..	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The rain is coming.	0
+20	1	0	4	3	0	4	3	1	0	2	0	0	2	1	1	1	0	4.0	1	5	" ""Despite her initial efforts, she successfully completed her task despite unforeseen obstacles arising during the process."""	0
+21	0	0	1	4	0	5	0	5	0	2	0	0	4	1	1	0	0	5.0	1	7	The quick brown fox leaped over the lazy dog without any regard for the old man hiding behind the bush.	0
+12	2	0	1	1	0	3	1	2	0	1	0	1	0	0	2	0	1	4.0	1	9	The girl who moved to the city is no longer home.	0
+16	1	0	3	1	1	4	1	1	0	4	0	0	0	2	1	1	0	4.0	2	5	  Yesterday, the rain poured relentlessly for hours, leaving my garden parched and withered.	0
+22	1	0	2	3	1	6	2	2	0	3	0	0	2	1	2	0	0	5.0	1	11	She wandered through the bustling city square, where the bright lights and sounds of everyday life danced in her eyes.	0
+15	2	1	2	1	0	2	1	1	0	3	0	2	0	1	2	0	1	3.0	2	8	  Even though they have lived in the world, humans will never stop learning.	0
+16	0	0	2	2	0	4	1	3	0	2	0	0	2	1	1	1	0	3.0	1	7	The moon rose over the castle, illuminating the silent garden with its silvery glow.	0
+14	0	0	1	0	0	3	2	2	0	2	0	2	0	1	2	2	0	4.0	1	4	I cannot generate a sentence that does not contain any subordinating conjunctions.	0
+24	0	2	1	1	0	4	3	2	0	5	1	2	1	3	2	4	0	5.0	3	10	I cannot write a sentence with 0 subordinating conjunctions because it would require me to connect ideas without providing any textual context.	0
+22	1	1	2	2	0	5	1	4	0	3	0	2	1	2	2	1	0	4.0	2	9	The rain was generated while we were out in the park, providing an enjoyable respite from the scorching summer sun.	0
+8	0	1	1	0	0	2	1	1	0	2	0	0	0	1	1	2	0	2.0	1	4	She left the house without saying goodbye.	0
+12	0	0	1	1	2	2	1	2	0	1	0	0	2	0	1	0	0	3.0	0	6	   She stood tall and proud in the sun and the rain.	0
+15	1	1	2	0	1	1	3	0	0	2	0	1	2	1	2	1	1	3.0	2	5	Even though we were careful and cautious, she continued to disregard my requests.	0
+17	0	0	2	3	1	5	0	3	0	2	0	0	1	1	1	1	0	5.0	1	5	The sun rises over the horizon, painting the clouds in shades of orange and pink.	0
+14	1	1	2	0	0	2	3	1	0	3	0	1	0	2	2	2	0	4.0	2	7	She will do the cleaning, even though she hates cleaning her room.	0
+16	0	0	2	2	0	5	0	3	0	2	0	0	2	1	1	1	0	4.0	1	8	The sun rose this morning, casting bright rays of sunlight across the sprawling fields.	0
+17	0	1	1	1	0	4	3	2	0	2	0	2	1	2	2	2	0	4.0	2	4	The rain was the only factor that could prevent me from finishing my work on time.	0
+16	2	1	2	0	1	2	0	2	0	3	0	1	1	1	2	0	1	3.0	2	5	Even though the rain fell, the children were able to go outside and play.	1
+13	0	1	3	0	0	3	1	2	0	2	0	1	0	1	2	2	0	2.0	1	8	  The dog chased the cat **because** it was chasing butterflies.	1
+14	2	0	2	2	1	3	3	0	0	1	0	0	0	0	1	1	0	3.0	0	5	Despite her lack of sleep, she completed her work quickly and efficiently.	1
+17	0	1	2	1	0	3	3	1	0	2	0	1	2	0	2	1	2	3.0	2	7	Though she was excited to attend, her unexpected absence put a damper on her enjoyment.	1
+9	1	1	1	0	0	1	1	1	0	1	0	1	1	1	2	0	0	2.0	1	5	The dog sat down because it was tired.	1
+24	2	1	3	1	1	2	4	0	0	3	0	2	4	3	2	1	0	5.0	3	8	Despite her hard work, her grades still weren't as good as she had hoped, making her feel discouraged and ashamed.	1
+18	2	0	2	1	0	4	3	2	0	3	0	0	1	2	2	3	0	4.0	2	7	The dog barked loudly when he found his bone in the park, causing me significant stress.	1
+17	0	0	2	2	0	4	1	3	0	1	0	1	2	1	1	1	0	3.0	1	5	Despite the stormy weather, the climbers were determined to make their climb to the peak.	1
+13	1	0	3	1	0	2	1	2	0	2	0	1	0	0	2	0	1	3.0	1	7	The girl, who lives nearby, will come to the rescue.	1
+25	0	0	2	5	1	7	1	4	1	1	0	0	3	0	1	1	0	5.0	0	7	Despite the ongoing struggles, Sarah discovered the solution with the perfect combination of urgency and patience in the midst of her busy schedule.	1
+17	0	1	2	2	0	4	1	3	0	1	0	1	2	0	2	0	1	3.0	1	9	Despite the fact that she was smart, the lazy student struggled with the mathematics problems.	1
+22	0	1	5	2	1	4	1	4	0	3	0	1	0	1	2	1	0	3.0	1	16	The girl ran to the store, [while she was playing in the garden], and bought some groceries.	1
+23	3	2	3	0	0	3	3	1	0	3	0	2	2	1	3	1	2	4.0	3	11	Even though she was happy to receive the letter, her enjoyment was short-lived because her excitement eventually faded away.	1
+11	0	0	2	1	0	2	1	1	1	2	0	0	0	1	1	1	0	3.0	1	3	Despite her loneliness, Maria decided to attend the party.	1
+21	0	0	3	3	0	4	2	4	0	4	0	0	1	3	2	1	0	5.0	3	5	After the rain, we ventured into the forest, exploring the wonders that lay hidden beneath the leafy blanket.	1
+13	0	0	2	0	1	2	2	2	0	3	0	0	0	1	2	2	0	3.0	1	6	The cat chased the puppy, yet it failed to catch it.	1
+21	2	1	4	1	1	1	4	1	0	5	0	0	0	2	4	1	0	4.0	2	7	She decided to walk **after** he left the house, but she ran away before he got home.	1
+16	1	0	2	0	0	2	4	1	0	4	0	1	0	2	3	2	1	3.0	3	6	When I saw the lost wallet, I realized it was time to return it.	1
+23	0	0	2	1	2	6	5	1	0	5	0	0	0	2	1	4	1	5.0	3	8	Despite the chaos and uncertainty surrounding her life, she stood her ground and refused to let her emotions dictate her decisions.	1
+14	0	0	3	0	0	4	3	1	0	2	0	0	1	0	2	2	1	3.0	1	6	My sister, who loves reading, reads her favorite book every morning.	1
+19	0	0	3	3	0	3	4	2	0	3	0	1	0	2	2	1	0	5.0	2	5	After the storm, she lingered in the wreckage, wondering what she could learn from her ordeal.	1
+25	1	1	2	3	0	5	2	2	1	3	0	3	1	3	3	0	0	5.0	3	11	Despite her love for knowledge, Sarah was surprised to learn that the greatest lesson she could ever teach was the art of empathy.	1
+21	2	0	3	1	0	4	3	2	0	4	0	1	0	1	3	0	2	5.0	3	12	The boy who ran away, the one whose dog was missing, went home to reunite with his family.	1
+20	1	1	3	2	0	3	2	3	0	3	0	2	0	1	2	1	1	4.0	2	12	Despite the fact that she could have easily escaped during the escape, she stayed, enduring the danger.	1
+25	2	1	5	0	0	4	3	3	0	3	0	2	2	2	4	2	1	4.0	3	9	After she [took the class, the test results were much higher], she was disappointed when she received a failing score.	1
+13	1	1	1	0	0	3	0	3	0	2	0	1	0	1	2	1	0	3.0	1	5	The dog can run only if the cat allows the dog to.	1
+15	0	0	1	3	0	6	0	4	0	1	0	0	0	0	1	0	0	3.0	0	7	The girl with the kind smile went for a stroll in the park yesterday.	1
+14	1	0	3	1	0	2	2	1	1	2	0	1	0	0	2	1	1	3.0	1	7	The girl, who is learning English, arrived safely at her destination.	1
+11	0	2	1	1	0	1	1	1	0	3	0	0	1	2	2	0	0	4.0	2	4	The dog sat down because he had tired from running.	1
+13	0	0	2	1	0	3	3	1	0	2	0	0	0	1	1	2	0	3.0	1	4	Despite her determination, her incompetence caused her to miss the opportunity.	1
+26	0	1	4	2	0	5	7	2	0	5	0	0	0	3	4	4	0	5.0	3	9	She sat on the porch, her fingers cradling her worn-out blanket, the sun warming her as she told him her secret.	1
+26	2	2	2	0	1	3	5	1	0	5	0	2	1	2	3	4	2	4.0	4	12	Even after he broke his leg and was unable to play, we could still have fun because we found another way to enjoy ourselves.	1
+32	3	2	2	5	0	2	9	1	0	5	0	2	1	3	4	2	1	7.0	4	9	Although I never met her once before, I found myself thinking about her today because she was struggling with something similar to what I had gone through in the past.	1
+14	1	0	1	1	0	2	2	2	1	2	0	1	1	0	2	0	1	4.0	1	11	The book that I lost on the bus last Tuesday is still missing.	1
+21	0	0	1	0	0	4	3	3	0	4	0	2	2	2	3	2	2	5.0	4	10	The boy who loves to read the stories was the only person I could trust to keep my secret safe.	1
+15	1	1	1	1	0	3	2	3	0	3	0	0	0	2	2	0	0	5.0	2	3	The dog barked when it saw that there was a treat in the park.	1
+23	1	0	3	2	0	5	4	2	0	5	0	0	0	4	3	3	0	8.0	4	4	The boy ran to the store, where he purchased snacks, hoping to cheer up his classmates who missed their bus.	1
+18	0	0	2	3	1	4	1	3	0	3	0	1	0	2	2	1	0	3.0	2	12	 The cat chased the dog into the forest and sat down, its tongue hanging out.	1
+14	0	0	3	1	0	2	2	1	0	2	0	1	1	1	1	1	0	4.0	1	6	She was lost **despite** her unwavering resolve to overcome the obstacle.	1
+19	1	0	3	2	1	4	3	2	0	3	0	0	0	1	2	2	0	4.0	1	11	The child ran quickly, despite his lack of practice, and that helped him win the race.	1
+11	1	0	2	1	0	2	3	0	0	1	0	0	1	0	1	1	0	2.0	0	4	 Despite our previous arguments, I still respect her determination.	1
+19	2	1	2	2	0	3	1	3	0	3	0	2	0	3	3	0	0	5.0	3	6	The rain fell while he was out, adding to the confusion over where the money had gone.	1
+10	0	0	1	2	0	3	1	1	0	1	0	1	0	0	1	0	0	3.0	0	3	The book was finished despite her lack of time.	1
+16	1	0	1	3	0	4	1	2	1	1	0	1	1	0	2	1	1	4.0	1	12	The girl with long hair who went shopping on Saturday is at the mall now.	1
+22	2	2	2	1	0	4	1	4	0	4	0	1	1	3	4	0	1	4.0	4	8	Even while the clouds drifted lazily, she knew the storm was imminent because the thunder kept echoing in the distance.	1
+16	1	1	2	0	1	3	1	3	0	3	0	1	0	0	3	1	1	3.0	1	4	After the rain had stopped, the sun went out and I enjoyed the sunshine.	1
+10	0	0	2	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The rain fell, despite the cloudy weather conditions.	1
+16	0	0	2	3	0	3	3	0	1	2	0	0	1	1	1	1	0	4.0	1	6	Despite his hard work, Mary failed to achieve her goals due to her procrastination.	1
+26	2	0	3	5	3	5	1	1	1	2	0	0	3	1	1	1	0	5.0	1	10	Despite his lack of athletic prowess, Peter often excelled in sportsmanship, always displaying gracious and cooperative behavior both on and off the field.	1
+18	1	1	3	0	0	4	1	2	0	5	0	0	0	1	2	1	2	4.0	3	6	Even though the rain kept falling, we managed to have a fun-filled weekend trip.	1
+24	0	1	2	3	0	7	1	4	0	3	1	0	2	2	2	1	0	5.0	2	7	The rain fell as the two children walked to school, making a joyful trip despite the occasional drizzle of their morning walk.	2
+35	0	0	3	5	1	10	3	7	0	4	0	0	2	1	2	2	1	6.0	2	9	Despite the constant rain that surrounded the city, a young girl played in the streets, her laughter echo like the raindrops pounding upon the pavement and paving the path to her school.	2
+20	0	0	2	3	0	6	4	0	1	2	0	0	1	1	1	1	0	5.0	1	7	Despite her love for her pet dog, Sarah remained steadfast in her decision to prioritize her career goals.	2
+30	0	1	3	2	1	4	3	2	0	3	0	4	6	2	3	0	0	4.0	2	8	  Despite its vast and captivating expanse, the lone creature's journey was cut short, as it had been rendered helpless by the cruel onslaught it had faced.	2
+11	2	0	1	0	2	0	2	0	0	3	0	1	0	1	2	0	0	2.0	1	5	She was either sleeping or cooking when I came home.	2
+21	2	0	3	1	2	4	3	3	0	3	0	0	0	0	3	1	1	5.0	1	14	The girl who read both the book and her diary, on that day, laughed so hard she cried.	2
+21	0	0	3	3	0	4	2	1	0	3	0	1	3	2	1	1	0	3.0	2	6	Despite her initial determination, the task was not accomplished due to unforeseen circumstances, making her initial optimism fade.	2
+29	0	0	3	3	3	4	5	0	2	1	2	3	2	0	2	0	0	4.0	0	15	Her love was either with her best friend John or her teenage crush, Tom, and her happiness couldn't be separated from one of them two.	2
+15	1	0	2	3	0	3	1	2	0	2	0	0	1	1	1	0	0	4.0	1	7	She broke away, running into the busy streets with a look of determination.	2
+15	1	1	1	0	0	2	2	2	0	3	0	1	1	3	2	2	0	3.0	3	4	The cat was so hungry that it begged the owner to let it eat.	2
+19	0	2	4	1	1	3	3	1	0	3	0	1	0	1	3	2	0	3.0	1	8	He went to the store **after he left school** and **while he was eating dinner**.	2
+24	1	0	4	3	0	4	3	3	0	3	1	1	1	1	3	1	1	4.0	2	9	The children, who were playing in the park, ran home, each one of them using their own form of transportation.	2
+11	0	1	1	1	0	2	1	2	0	1	0	1	1	1	2	0	0	3.0	1	4	The dog came despite the fact that he was scared.	2
+25	0	1	2	3	1	6	1	5	0	2	0	1	3	1	2	1	0	5.0	1	8	Despite the ongoing conflict and the dire situation, the refugees remained hopeful that they would find sanctuary within the borders of the nation.	2
+20	3	1	2	2	1	4	3	1	0	2	0	1	0	0	2	1	1	5.0	1	16	Despite the fact that she worked hard and always completed her tasks, her performance was still below average.	2
+20	1	0	4	3	0	2	4	1	0	2	0	1	1	2	2	1	0	4.0	2	12	She hurried home to see him, **for** this was a matter of great importance to her.	2
+20	1	0	3	3	0	3	3	3	0	3	0	0	1	1	2	1	1	4.0	2	5	Despite the hardships we face, we persevere together, finding our strength in the support of each other.	2
+37	1	0	2	5	2	8	4	6	0	5	0	0	3	2	3	3	0	5.0	2	19	She wrote a poem about the day she lost her job due to the company's downsizing, yet she found a new job quickly and continued working at the same company in a different department.	2
+22	1	0	2	3	0	5	1	5	0	4	0	0	1	2	2	1	0	6.0	2	7	The rain fell gently between the towering trees, causing a sparkling sound that echoed through the stillness of the forest.	2
+16	2	1	2	1	0	2	3	2	0	2	0	0	1	0	2	2	1	4.0	1	9	Even though she enjoyed the movie with her husband, they rarely visit each other.	2
+21	1	2	3	0	1	3	2	4	0	3	0	2	0	1	3	2	0	4.0	1	9	The dog barked loudly, both because it had caught a rabbit, and because the cat was chasing it.	2
+23	1	0	1	1	3	7	3	3	0	3	0	0	1	1	3	3	1	6.0	2	8	The girl who loves both animals and music often writes poetry that expresses her deep affection both for nature and the arts.	2
+12	0	0	1	2	0	3	1	2	0	2	0	1	0	1	2	0	0	4.0	1	3	The rain arrived despite the warnings that were given in advance.	2
+21	2	1	3	1	1	2	4	1	0	4	0	1	1	2	3	1	0	3.0	2	11	The dog ran around her, chasing her beloved squirrel, but it ran away before they could play together.	2
+21	0	0	2	2	0	4	4	2	0	3	1	1	1	2	2	2	0	5.0	2	6	Despite her love, she was forced to make a heartbreaking decision that broke her heart into a million pieces.	2
+13	1	0	2	3	0	2	2	0	0	1	0	1	1	0	1	0	0	2.0	0	5	Despite my recent failures, I have never given up on learning.	2
+13	1	0	2	2	0	3	2	1	0	1	0	0	1	0	1	0	0	3.0	0	4	Despite their conflicting opinions, the friends remained close despite their differences.	2
+19	2	1	2	2	0	5	0	4	0	1	0	1	1	1	2	0	0	3.0	1	13	The rain came down in a flurry of tears, even though the wind was calm that day.	2
+29	0	2	8	2	1	5	3	4	0	4	0	0	0	2	4	2	0	4.0	2	22	The boy ran to the store, **because** he needed milk, **and** as he passed the bakery, he stopped for a pastry.	2
+20	1	0	2	1	0	4	1	4	0	4	0	0	2	3	2	2	0	5.0	3	8	The dog chased the children to the nearby pond, ensuring they always had a safe place to play.	2
+20	0	0	3	1	1	6	2	3	0	2	0	0	1	0	2	1	1	5.0	1	10	The dog's soft paws, the way it padded through the field, revealed its contentment and tranquility.	2
+27	0	1	2	4	1	7	2	4	0	3	0	1	1	1	2	2	0	4.0	1	8	Despite the rainy weather, the children enjoyed their day at the park because they had plenty of shade and were not distracted by the weather.	2
+27	1	0	3	3	0	6	5	3	0	3	0	0	3	2	3	1	0	8.0	2	4	Despite the uncertainty, my determination soared even higher thanks to my unwavering resolve, a quality that made me unstoppable during the trials we faced.	2
+16	1	2	2	0	0	2	2	2	0	3	0	1	0	1	2	2	1	3.0	2	5	Although she was not feeling well, the rain prevented her from attending the party.	2
+12	2	0	2	1	0	2	2	1	0	2	0	0	0	0	2	0	1	3.0	1	8	Despite the challenges that lay ahead, her determination never waned.	2
+20	2	0	2	0	1	4	2	2	0	2	0	2	2	1	2	2	1	3.0	2	10	When you are both tired and confused, the movie theater's magic can help you overcome any challenge.	2
+19	0	1	2	1	2	4	1	4	0	3	0	0	1	0	2	1	1	3.0	1	11	Although the children ran throughout the sprawling park, neither the dogs nor myself found the buried treasure.	2
+21	1	2	5	1	0	3	3	2	0	3	0	0	1	2	2	2	0	4.0	2	8	Despite her initial reluctance, she finally joined the meeting, **because** she recognized the importance of participating.	2
+27	1	0	1	2	1	7	2	3	0	4	0	1	3	2	2	3	0	7.0	2	6	The young artist's creativity flourished when he was given the freedom to explore different mediums and develop his artistic vision through the process of experimentation.	2
+28	0	0	3	5	1	6	3	2	1	4	0	0	2	1	2	2	0	4.0	1	14	Despite her love for books, Sarah struggled to finish her novel due to a recent medical diagnosis, but she found solace in the written word.	2
+17	1	0	2	1	0	4	2	3	0	3	0	0	1	2	3	1	0	5.0	2	5	The young girl sat quietly, her eyes reflecting the sadness that lingered in the room.	2
+19	1	0	1	3	0	4	1	4	0	2	0	2	1	0	2	0	1	4.0	1	9	The cat that was meowing softly under the couch was found by the new puppy in the garden.	2
+15	0	0	2	1	0	4	0	3	0	2	0	0	2	1	1	0	0	4.0	1	4	The quick brown fox leaped into the rushing stream, a sight to behold.	2
+17	1	0	2	2	0	5	0	3	0	2	0	0	2	1	1	1	0	4.0	1	7	The vibrant butterflies danced elegantly between the blooming flowers, proving the enchanting artistry of nature.	2
+29	1	1	2	4	1	7	1	6	0	4	0	0	2	3	3	1	0	6.0	3	11	The cat sat quietly between the couch and the window as the rain poured down in patters, making a soft melody that echoed through the quiet evening.	2
+23	0	0	3	3	0	6	4	2	0	3	0	1	1	1	3	1	1	4.0	2	10	The dog which is beloved by his friends, chased its tail through the grass, its playful barks echoing with delight.	2
+27	3	1	2	1	0	3	5	2	0	5	0	1	1	1	3	4	4	6.0	5	13	Although the circumstances that led me to seek out this experience were initially unforeseen, my eagerness to participate eventually led me to embrace it wholeheartedly.	2
+21	1	1	2	2	1	5	4	1	0	3	0	1	0	0	2	2	1	3.0	1	7	After she had finished her work, both she still went to school and helped her parents with household chores.	2
+20	1	0	5	1	1	3	0	3	0	2	0	0	4	0	1	1	0	3.0	0	8	The quick brown fox hopped **through** the lush forest and scampered **around** the ancient ruins.	2
+41	4	0	2	5	1	11	5	5	0	5	0	1	2	3	5	3	1	8.0	4	7	The girl who loves dogs and horses can take hikes with her family in the mountains, where the scenery changes dramatically from the lush meadows where she plays with her pets to the rocky hills where they find shelter.	2
+48	0	0	4	7	1	11	4	8	1	7	0	0	5	2	3	5	1	6.0	3	20	Despite the chaotic chaos that enveloped the city in the twilight of the ancient, mysterious city of Eldoria, a tranquil breeze carried whispers of forgotten tales, reminding the citizens of their shared history and forging a bond between the diverse cultures that populated it.	3
+18	1	0	2	2	0	4	2	3	0	3	0	0	1	1	2	1	0	4.0	1	6	She sat down on the park bench, where she met a lost puppy the previous day.	3
+18	1	0	2	3	2	6	1	1	0	1	0	0	1	0	1	0	0	3.0	0	12	  Despite the challenges and distractions of daily life, her determination and resilience ultimately triumphed over obstacles.	3
+21	1	1	2	3	0	5	3	2	0	3	0	0	1	1	2	1	1	4.0	2	6	Even after they left the city, her happiness remained intertwined with her longing for home in a profound way.	3
+24	0	0	2	6	0	5	2	5	0	3	0	0	1	2	3	0	0	5.0	2	12	The dog went for a run despite the rain, due to the strong urge it had due to the thirst it suffered.	3
+25	1	3	3	2	0	5	5	1	0	4	0	0	1	2	2	3	1	5.0	3	8	Even though she loved music, it became apparent that she lacked skills in performing it, despite her dedication to the art form.	3
+20	1	0	1	2	0	5	2	5	0	2	0	0	2	0	2	2	1	4.0	1	10	The girl who had the worst luck lately started her new job with a smile despite all the setbacks.	3
+17	1	1	2	1	0	2	2	2	0	1	0	2	2	1	2	1	1	3.0	2	8	 Despite the fact that I was nervous, I was able to complete the task successfully.	3
+19	0	0	2	3	1	5	3	1	0	3	0	0	0	2	1	0	0	4.0	2	8	Despite her anxieties and her fear of heights, she decided to go hiking on the mountain top.	3
+33	2	0	3	5	2	8	0	5	0	3	0	1	3	1	1	0	0	4.0	1	28	The car will travel slowly and carefully along the bumpy path, despite the frequent jolts caused by the passing trucks, due to the driver's cautious and focused driving style.	3
+30	5	2	4	1	0	4	2	2	0	3	0	2	3	3	3	1	1	4.0	4	10	Even though he was disappointed, the author's confidence was still unwavering, even when faced with setbacks, as he used the experience to bounce back stronger.	3
+23	0	0	2	2	1	5	2	4	0	4	0	0	2	1	2	2	1	4.0	2	9	Despite the countless challenges he faced during his voyage, the seafarer found the courage to persist and conquer the treacherous currents.	3
+18	0	0	2	1	1	4	4	1	0	3	0	1	0	2	1	2	0	5.0	2	7	Despite the challenges, her courage and intelligence would enable her to handle whatever came her way.	3
+22	0	0	2	3	0	5	3	3	0	3	0	0	3	1	3	0	1	4.0	2	7	Despite the countless challenges we face, my greatest joy lies in the small acts of kindness that unfold every day.	3
+23	0	0	3	3	0	6	4	2	0	1	0	0	3	0	1	1	0	4.0	0	8	Despite the storm's fierce intensity, she continued her walk through the city, her determination evident through her resolute stride.	3
+21	1	0	4	2	0	5	0	3	0	4	0	0	2	2	1	1	0	6.0	2	5	Despite the stormy weather, the children played outside, enjoying the beautiful sunshine peeking through rain-soaked leaves.	3
+42	2	2	4	5	0	7	6	4	0	6	0	1	4	2	4	3	2	6.0	4	13	Even though she had a deep desire to escape, the woman stayed, for she understood the value of connection despite its temporary loss due to the unforeseen circumstances that had brought her together with her long-lost love.	3
+21	0	0	1	3	2	7	1	3	0	1	0	0	3	0	1	0	0	6.0	0	5	The cat arrived despite the stormy weather thanks to its unwavering resilience and a steadfast commitment to comfort and care.	3
+22	0	0	2	3	1	6	4	0	0	2	0	0	3	0	1	2	1	5.0	1	13	  Despite her hard work and unwavering determination to achieve her goals, her lack of time left her with limited choices.	3
+30	0	2	8	4	0	4	5	2	0	4	0	0	1	3	3	2	0	4.0	3	16	She arrived at the restaurant on time, despite **her**, **because** she had a special date scheduled, as her friends warned her about.	3
+12	3	0	1	1	0	2	1	2	0	2	0	0	0	1	2	0	0	3.0	1	4	The rain fell peacefully despite the thunderstorms that raged on outside.	3
+30	0	0	2	2	2	7	3	3	0	4	0	1	4	4	2	4	0	7.0	4	11	She was able to generate creative sentences that expressed both her sadness and hope, demonstrating a skillful ability to use the interplay of words in a meaningful way.	3
+19	1	0	3	1	0	3	3	1	0	3	0	1	1	1	2	2	2	4.0	3	10	  The children, who are eager to join in, readily accepted my invitation to join their adventure.	3
+19	1	0	3	3	0	5	0	4	0	2	0	0	1	1	1	0	0	4.0	1	6	The cat sat near the stream, playing happily, despite the loud roar of the passing truck.	3
+23	0	0	3	1	1	5	1	4	0	2	0	0	5	1	1	2	0	4.0	1	9	Despite the relentless rain and the strong currents, the lone sailor braved the unpredictable sea, determined to reach his destination.	3
+14	3	1	2	2	0	1	3	0	0	2	0	0	0	0	2	0	1	2.0	1	5	  Even though she struggled financially, she never gave up on her dreams.	3
+19	0	1	2	1	1	3	4	1	1	4	0	0	0	2	2	2	1	5.0	3	5	After she lost her job, Sarah started working as a cashier to support herself and her family.	3
+29	0	1	2	5	0	4	3	3	0	3	0	4	2	2	2	0	1	5.0	3	7	Though I may be able, I cannot be compelled to contribute to the project due to the limitations set by my capabilities as a conversational AI.	3
+25	1	1	5	2	0	5	3	4	0	3	0	0	1	1	3	2	1	4.0	2	12	The dog, which chased the rabbit, arrived before the lion, despite its greater strength, because it reached the river first.	3
+18	0	0	2	3	1	4	4	2	0	2	0	0	0	1	2	0	0	5.0	1	3	Despite her struggles, she persevered with the help of her family and the resilience she inherited.	3
+24	1	0	2	3	1	5	1	5	0	3	0	2	1	0	2	0	1	4.0	1	10	The children who had gathered by the lake were swimming and running in the sun, despite the torrential rains earlier that day.	3
+16	2	1	2	1	0	4	1	2	0	2	1	0	0	0	2	0	1	3.0	1	6	Even though the two children argued fiercely yesterday, their friendship flourished despite the disagreement.	3
+26	1	0	5	3	1	6	2	3	0	4	0	0	1	0	3	1	0	5.0	0	8	The rain fell unexpectedly, but the children ran to school, each of them carrying their own book despite [subordinating conjunction choice].	3
+25	0	0	2	7	0	6	3	4	0	2	0	0	1	1	2	0	0	4.0	1	9	Despite the setbacks, her curiosity about the world around her thrived with the help of the fascinating world of storytelling she delved into.	3
+25	0	1	3	3	1	3	2	3	0	4	0	2	2	3	2	0	0	5.0	3	6	  Despite the setbacks, she remained unyielding and persevered through the tough times, proving that she was a force to be reckoned with.	3
+21	0	1	3	2	0	5	1	4	0	3	0	0	1	2	2	2	0	4.0	2	11	The dog chased a mouse, despite the stormy weather, because it needed to find shelter from the downpour.	3
+36	2	2	1	1	2	7	5	3	0	8	0	2	1	5	6	3	0	5.0	5	22	She had finished the painting that was created several years ago because her child needed to sleep and the house needed cleaning and someone needed to take a shower before he got home for dinner.	3
+24	3	1	3	2	1	5	0	5	0	3	0	0	1	2	2	1	0	5.0	2	8	The dog barked softly and gently, while the cats ran excitedly through the fields, demonstrating the playful nature of the afternoon.	3
+24	0	0	2	3	0	6	5	3	0	4	0	0	0	2	3	2	1	6.0	3	6	   The man who lived in the castle had his secrets whispered through the corridors, which connected him to his life's mysteries.	3
+26	1	0	2	2	1	6	3	4	0	4	0	0	2	3	2	3	0	7.0	3	7	The rainy weather caused the child and his brother to stay at home together, expressing a bond that transcended the physical distance between them.	3
+22	0	0	2	4	1	7	5	0	0	2	0	0	0	1	1	2	0	3.0	1	11	Despite my lack of sleep, my perseverance and dedication to my task allowed me to finish it in record time.	3
+23	0	0	4	4	1	5	5	0	0	2	0	0	1	1	1	1	0	4.0	1	14	Despite her age, despite her illness, and despite her lack of mobility, she remained determined to achieve her goals.	3
+8	0	0	2	1	0	1	3	0	0	1	0	0	0	0	1	1	0	2.0	0	3	  Despite her fears, she overcame them.	3
+23	1	0	3	4	0	6	1	3	0	3	0	0	2	0	2	0	1	4.0	1	13	The young girl, whose laughter rang out in the bustling city streets, suddenly disappeared into the labyrinthine crowd of onlookers.	3
+19	1	0	2	1	0	5	1	3	0	2	0	0	3	1	2	1	0	4.0	1	9	The vibrant flowers bloomed profusely under a cloudy day, their fragrance masking the heavy air's sadness.	3
+18	0	0	2	2	2	5	3	1	0	2	0	0	1	0	1	2	0	5.0	0	4	Despite her initial reluctance, she overcame her fears and completed the task with diligence and determination.	3
+24	2	0	1	3	1	5	1	4	0	4	0	2	1	1	3	0	1	4.0	2	9	The small bird that was migrating across the sky fell down and got caught in a tree just before the afternoon sun rose.	3
+20	0	0	3	4	0	6	4	1	0	1	0	1	0	1	2	0	0	3.0	1	9	Despite her lack of enthusiasm, she persevered on her task, her perseverance being an inspiration to others.	3
+15	0	0	2	2	0	2	3	1	0	3	0	0	1	1	1	1	1	4.0	2	5	Despite the chaos surrounding her, she remained steadfast in her determination to succeed.	3
+17	1	1	2	1	0	3	3	1	0	3	0	1	1	2	2	1	0	4.0	2	6	She sat patiently, knowing that her efforts would make a significant difference in her life.	3
+25	1	0	5	1	1	6	3	1	0	3	0	1	1	0	2	2	1	5.0	1	14	" ""The young boy who ran quickly, yet did not reach his village on time, missed his grandmother's birthday celebration."""	4
+21	1	0	3	2	0	5	1	4	0	3	0	0	2	1	2	1	0	4.0	1	5	Despite the stormy weather, the hikers braved the treacherous cliffs, their courage shining brightly against the raging torrents.	4
+21	1	0	2	2	1	5	2	2	0	2	0	1	2	1	1	1	1	5.0	2	12	Despite the limitations imposed by the harsh winter wind and snow, we were determined to complete our journey together.	4
+20	1	0	3	2	1	2	3	1	0	3	0	1	3	1	2	1	1	3.0	2	7	Despite the many obstacles I face, I have persevered through thick and thin, ultimately achieving my goal.	4
+19	1	0	1	2	1	5	0	3	0	1	0	1	3	0	1	1	0	3.0	0	11	Even the brightest stars cannot match the sheer genius and power of love within the human heart.	4
+27	0	0	3	4	1	8	3	4	0	3	0	0	1	1	1	2	1	4.0	2	12	Despite the chaos and chaos surrounding the world, the love of her life remained her guiding light, holding her through the darkest of times.	4
+31	0	0	2	4	1	8	2	4	0	5	0	0	4	2	3	2	1	7.0	3	7	The rain that fell on that day caused a beautiful waterfall that cascaded down, connecting various islands of lush greenery and sparkling under the morning sun's gentle gaze.	4
+31	5	1	2	3	0	6	4	3	0	3	0	3	1	2	4	0	1	5.0	3	10	The woman whose hair was falling over her eyes was very surprised when her dog ran away, especially since it had happened right in the middle of a hurricane.	4
+21	0	1	3	1	0	4	3	2	0	4	0	0	2	2	3	0	1	5.0	3	6	  Despite the chaos that unfolded, she remained steadfast, ensuring that the mission's goal remained her paramount focus.	4
+27	0	0	2	5	2	7	3	2	0	2	0	1	2	1	1	1	0	4.0	1	7	Despite her intelligence and determination, he could not solve the perplexing riddle due to a lack of understanding and insight provided by her incomplete instructions.	4
+19	0	0	2	3	0	6	1	2	0	1	0	1	2	1	1	1	0	3.0	1	8	Despite his lack of athletic prowess, the man was able to win a gold medal in swimming.	4
+25	1	0	3	4	0	7	1	4	0	3	0	0	2	1	2	1	1	5.0	2	9	Despite the chaos that raged on, the old oak tree persisted, grounding people as an anchor against the relentless storm of life.	4
+37	1	1	6	4	3	7	1	3	0	5	0	0	4	2	1	0	1	6.0	3	14	Despite the unpredictable and ever-shifting currents of the world’s affairs, the human spirit, though tested, remains resilient and undeterred, continuing to evolve in its pursuit of meaning and purpose.	4
+25	0	0	3	4	0	7	2	5	0	4	0	0	0	2	3	0	0	5.0	2	7	The dog ran around the lake, his ears flapping with every stride, his shadow flitting between the reeds like a disappearing pup.	4
+23	0	0	3	3	2	5	3	1	0	3	0	0	3	1	1	1	0	5.0	1	7	  Despite the uncertainties of her new job, she remained steadfast and focused, finding comfort and purpose within its demanding role.	4
+23	1	0	3	2	1	6	1	3	0	2	0	0	3	0	1	1	1	4.0	1	10	The children's laughter, despite the heavy rain clouds gathering overhead, brightened the day with their joyful and carefree spirits.	4
+21	0	0	3	3	0	6	2	2	0	2	0	0	2	1	1	2	0	3.0	1	8	Despite his determination, the soldier's courage faltered under the relentless barrage of bullets, causing him irreversible damage.	4
+30	1	1	1	1	1	7	3	3	0	3	0	2	4	1	3	1	1	5.0	2	9	The woman who arrived late could not find her missing cat because her previous attempts were hampered by the dog's incessant barking and the cat's cunning avoidance.	4
+16	2	1	2	1	0	2	2	2	0	2	0	2	0	0	2	0	1	3.0	1	8	  Although she had been waiting for the letter all day, it came home late.	4
+24	0	1	3	2	2	7	3	2	0	3	0	0	0	1	3	0	0	4.0	1	14	The dog's shadow fell on our garden today, as it did every day, but it danced with joy and excitement.	4
+20	0	0	2	2	2	6	3	1	0	2	0	0	2	1	2	1	0	3.0	1	10	Despite the constraints and obstacles, her unwavering resolve and strategic plan ensured she completed her assignment on time.	4
+26	2	0	3	3	2	6	2	2	0	5	0	0	0	2	1	1	1	6.0	3	8	Despite the rain and wind swirling wildly, our group decided to venture outdoors, engaging with nature and enjoying the beauty of our surroundings.	4
+20	1	1	2	2	2	5	0	3	0	4	0	0	0	1	2	0	0	4.0	1	6	Despite the rain, the party went as planned and the guests bonded deeply over shared laughter and conversations.	4
+27	1	0	2	2	1	5	6	2	0	1	0	3	3	1	3	1	0	5.0	1	7	   My father's love is my greatest accomplishment, and I am forever grateful for that which has shaped my life in such a profound manner.	4
+15	0	0	2	2	0	3	0	3	0	1	0	0	4	0	1	0	0	2.0	0	9	The quick brown fox jumped over the lazy dog, despite the stormy weather.	4
+15	2	1	2	1	0	2	3	0	0	1	0	1	2	0	2	1	1	2.0	1	5	Even though she was anxious, she diligently completed her tasks with great care.	4
+25	3	1	3	2	3	3	3	1	0	4	0	1	1	2	2	0	0	5.0	2	7	Despite the chaos and turmoil around her, she remained determined and focused, ensuring that her work was always delivered promptly and accurately.	4
+29	2	0	2	4	3	8	2	3	0	3	0	0	1	1	2	2	0	6.0	1	20	She went down to the library in an attempt to find a story about love and loss, yet she only found articles about politics and current affairs.	4
+28	0	1	3	3	0	7	1	5	0	5	0	1	2	2	3	1	2	4.0	4	9	Although the sun had risen at the time I arrived, the moon remained shrouded in thick darkness, weaving a mysterious tapestry beneath the azure sky.	4
+19	2	1	3	1	0	3	3	1	0	3	0	2	0	1	3	1	1	4.0	2	10	 The children, who had played for hours before, suddenly realized that they had forgotten their toys.	4
+15	0	0	2	3	0	3	1	1	0	1	0	2	1	0	1	0	0	3.0	0	7	Despite her efforts, the task could not be completed due to unforeseen circumstances.	4
+20	1	0	3	1	1	5	1	3	0	2	0	0	3	1	1	2	0	4.0	1	5	With the utmost care, they slowly approached the treacherous waterfall, overcoming the cascading torrents and treacherous rapids.	4
+33	2	1	4	2	2	6	4	3	0	4	0	2	2	4	3	3	0	5.0	4	19	The young hiker lost his key, which was nowhere to be found, between the trees and under the vines, causing him great anxiety and frustration as he searched frantically.	4
+23	0	0	3	4	0	4	2	4	0	4	0	0	1	3	2	1	0	7.0	3	7	The dog ran through the forest, despite the rain that poured down, allowing it to stay undetected by the predator.	4
+31	3	0	4	3	1	4	4	4	0	4	0	2	2	2	4	1	1	5.0	3	11	The man, who walked slowly and diligently along the river, encountered an unexpected surprise when he came across a magical waterfall, which he had been looking for.	4
+19	1	1	2	2	0	3	2	3	0	3	0	2	0	2	3	1	0	4.0	2	6	The dog chased the cat because they were running out of the playroom, where he was playing.	4
+19	0	1	3	1	1	4	1	3	0	3	0	2	0	1	2	0	0	5.0	1	7	The children will run around the playground because they had played hide-and-seek all afternoon.	4
+24	0	1	3	2	1	5	4	1	0	3	0	1	2	2	2	2	1	5.0	3	6	 Though she was anxious, her determination and focus remained unwavering, allowing her to achieve her goals in the face of adversity.	4
+17	2	0	3	0	1	2	5	1	0	3	0	0	0	1	3	2	0	3.0	1	9	She left the keys ________ her room, and I found them when I got home.	4
+23	0	0	2	4	2	8	2	3	0	1	0	0	1	0	1	0	0	4.0	0	9	Despite the chaos and noise of the party, her laughter remained an enduring source of solace and laughter among her friends.	4
+21	2	0	1	3	0	4	2	4	0	3	0	0	2	2	3	1	0	6.0	2	6	The rain fell despite the heavy clouds that gathered together due to the persistent drizzle that coated the ground effectively.	4
+27	1	1	1	4	0	5	2	4	0	4	0	2	2	2	3	0	1	5.0	3	7	The dog that went for a walk is lost because it could not resist barking for more reason than just the lure of the nearby park.	4
+18	1	1	4	2	0	4	2	2	0	2	0	0	0	0	2	1	1	3.0	1	7	Although she **had no hesitation**, her courage shone brightly in the face of danger.	4
+25	1	1	3	3	0	5	2	4	0	3	0	0	3	2	3	0	0	4.0	2	8	The quick brown fox ran through the forest, its paws clutching tightly to the ground, as it jumped across the mighty river.	4
+31	1	2	2	2	1	5	4	4	0	6	0	0	3	2	2	3	2	7.0	4	13	Even though she desired to leave and escape the responsibilities inherent to her job, she found herself trapped in an endless cycle of doing the same tasks every day.	4
+21	0	0	2	3	0	5	3	2	0	3	0	1	1	1	3	0	2	5.0	3	9	The girl who was afraid to jump over the cracks jumped with determination, her heart pounding in her chest.	4
+24	2	1	3	2	1	3	3	2	0	6	0	0	1	4	3	1	0	5.0	4	13	She arrived home just as the last sun went down, but the storm began raging, leaving her stranded at her doorstep.	4
+30	0	0	2	5	1	7	5	2	0	3	0	0	4	2	2	1	0	6.0	2	7	Despite her diligence and determination, the young artist found it challenging to create an effective piece that aligned with her vision due to unforeseen circumstances beyond her control.	4
+23	0	0	2	3	1	6	0	4	0	2	0	0	4	1	1	1	0	5.0	1	7	Despite the stormy weather, the young artist managed to capture the breathtaking sunset with a masterful grasp of light and shadow.	4
+19	3	1	1	1	0	3	2	3	0	3	0	1	1	2	3	2	0	3.0	2	12	The cat sat down when it noticed the new baby because it had never seen a baby before.	4

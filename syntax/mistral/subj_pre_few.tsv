@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+20	1	3	0	0	0	1	5	2	1	0	1	2	3	4.0	7	2	2	2	1	0	1	2	A recent survey reported that 75% of smartphone users check their phones within 15 minutes of waking up.	0
+10	0	0	0	0	1	1	4	0	0	0	3	0	1	3.0	5	0	0	1	1	0	1	1	The recipe includes eggs, milk, and sugar.	0
+19	3	2	0	0	1	3	7	0	0	0	2	0	1	4.0	9	0	0	1	1	0	1	1	A new study examines the benefits of a high-fiber diet for weight loss and digestive health.	0
+14	1	2	1	0	2	1	5	0	0	0	1	0	1	4.0	5	0	0	1	0	0	0	1	The time between sunrise and sunset varied significantly across different regions and months.	0
+14	1	3	0	1	0	1	3	0	2	0	1	0	1	3.0	5	0	0	1	0	0	0	1	Your message was not delivered due to an unknown issue with our server.	0
+16	0	4	0	0	1	1	3	2	0	2	1	0	2	3.0	5	0	0	1	0	0	0	1	The train from Paris to Berlin departs at 9:00 AM and arrives at 1:30 PM.	0
+7	0	0	3	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The temperature outside dropped significantly overnight.	0
+12	0	1	0	0	0	3	4	1	0	0	2	0	1	3.0	4	0	0	1	1	0	1	1	The clock on the mantel displays the time: 10:15 AM.	0
+16	1	2	1	0	0	3	4	0	1	0	2	0	2	3.0	8	1	1	2	0	0	0	2	A blue heron stands still in the marsh, its reflection rippling in the water.	0
+17	1	2	0	0	0	2	6	1	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	The company's profit growth for the first quarter exceeded analysts' projections by 15%.	0
+16	4	1	0	0	1	1	5	1	0	0	2	0	1	4.0	7	0	0	1	1	0	1	1	Two prominent industries experienced significant growth during the early 21st century: finance and technology.	0
+12	3	1	0	0	0	0	4	1	0	0	2	0	0	3.0	6	0	0	0	0	0	0	0	$150 - Minimum weekly income requirement for certain government programs.	0
+12	0	3	0	0	0	1	2	2	0	1	1	0	1	3.0	4	0	0	1	0	0	0	1	The stock value of IBM peaked in 1998 at $148.	0
+16	0	2	2	1	0	1	3	2	0	1	3	0	1	5.0	8	0	0	1	0	0	0	1	An asteroid, approximately 2 kilometers wide, is hurtling towards Earth at 50,000 km/h.	0
+12	1	2	0	0	0	2	4	0	0	1	1	0	1	3.0	5	0	0	0	0	0	0	0	A rare diamond fetched record price at an auction in Geneva.	0
+16	1	3	0	1	0	3	4	0	1	0	2	0	1	3.0	5	0	0	1	1	0	1	1	In a quiet room, I could hear the sound of rain on the roof.	0
+20	1	5	0	0	0	3	6	0	1	2	1	0	1	6.0	18	0	0	0	1	0	1	0	Made reservation for a room with balcony view of the lake at the Ritz Carlton for my upcoming anniversary.	0
+14	1	2	0	1	0	2	2	2	0	1	2	0	0	3.0	10	0	0	1	0	0	0	1	In 1997, the average household income in the US was $45,358.	0
+14	1	1	0	0	1	1	6	0	0	0	2	0	2	4.0	5	0	0	1	0	0	0	1	The stock trading floor came alive with excitement and deal-making activity.	0
+9	1	0	0	1	0	2	1	1	0	0	2	0	1	2.0	4	1	0	1	0	1	0	1	The following are the possible solutions:   1.	0
+7	0	1	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Two cars collide at the intersection.	0
+11	1	1	0	0	0	1	3	1	0	1	1	0	2	4.0	4	1	0	1	1	1	1	1	Two sisters born in December share the same star sign.	0
+13	1	1	0	1	0	1	4	0	1	0	1	0	2	5.0	2	1	1	1	1	0	1	1	The meeting room was filled with employees eager to present their ideas.	0
+8	0	1	0	0	0	1	2	1	0	1	1	0	1	2.0	2	0	0	1	0	0	0	1	The weightlifting championships began on June 15.	0
+22	2	0	0	0	1	1	3	1	0	7	6	0	1	4.0	11	0	0	1	1	0	1	1	Five major cities witnessed riots this summer: New York, Los Angeles, Chicago, Philadelphia, and Washington D.	0
+11	0	1	0	1	0	3	4	0	0	0	1	0	1	3.0	5	1	0	1	0	1	0	1	The following are the details of the employee benefits package.	0
+14	0	2	0	0	0	2	4	1	0	0	2	0	3	4.0	5	2	2	1	1	0	1	1	Two cars collided on the highway, leaving debris scattered across the road.	0
+4	0	0	0	0	0	0	0	2	0	0	1	0	0	2.0	2	0	0	0	0	0	0	0	$75 million -- The amount Microsoft agreed to pay to AOL for web search advertisements under a deal announced on August 20, 2009.	0
+22	2	5	2	0	0	1	3	3	0	0	2	0	2	4.0	8	1	1	1	0	0	0	1	The market price for bitcoin fluctuated wildly in early 2013, ranging from less than $20 to over $1,000.	0
+8	1	0	0	0	0	1	4	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The company reported record profits last quarter.	0
+23	1	4	0	0	0	2	5	4	0	3	3	0	1	5.0	13	0	0	1	1	0	1	1	```python An offer of 1 million dollars per month from an unknown source reached Michael Jackson on June 1, 2005.	0
+15	0	2	0	0	0	2	4	2	0	1	1	0	2	5.0	6	1	1	1	1	0	1	1	The company reported earnings of $50 million for the quarter ended June 30th.	0
+13	0	4	0	0	1	1	3	0	1	0	1	0	2	4.0	3	0	0	1	0	0	0	1	Your question pertains to the distinction between logging in and signing up.	0
+23	0	5	0	0	1	2	8	0	0	3	1	1	2	4.0	14	0	0	1	0	0	0	1	The deadline for filing taxes in Canada falls on April 30th for individuals and April 30th of the following year for corporations.	0
+19	2	2	0	0	1	3	4	2	0	0	1	0	2	4.0	8	0	0	1	2	0	2	1	The new CEO earns a base salary of $500,000 and received an additional bonus of $1.	0
+26	2	3	1	0	0	5	8	0	0	0	4	0	3	5.0	7	2	2	2	2	0	2	2	In the heart of downtown, a massive fire engulfs a building, flames reaching high into the night sky, illuminating the dark streets.	0
+13	2	1	0	0	0	2	4	1	1	0	1	0	1	2.0	8	0	0	1	1	0	1	1	The stock market had its worst day since the 2008 financial crisis.	0
+14	1	2	0	0	0	2	5	0	1	0	2	0	1	2.0	7	0	0	2	0	0	0	2	Your cat Purr-fect sleeps on a pink mat by the window.	0
+11	1	0	0	0	1	1	3	0	2	0	1	0	2	3.0	4	0	0	2	1	0	1	2	Your check cleared and your account has a positive balance.	0
+15	3	1	0	0	0	3	5	0	0	0	1	0	2	6.0	5	1	1	1	2	0	2	1	A new project proposed an implementation of AI using a specific neural network architecture.	0
+21	0	2	0	1	2	1	8	0	1	2	2	0	1	4.0	6	0	0	2	1	0	1	2	Anne's birthday is on June 15th, and she requested a pineapple cake with chocolate frosting and coconut toppings.	0
+13	0	0	1	2	1	3	3	0	0	0	1	0	2	3.0	7	0	0	2	0	0	0	2	The temperature was recorded every hour and the readings are listed below.	0
+22	2	3	0	0	0	4	6	0	1	0	2	0	3	5.0	8	2	2	2	1	0	1	2	The sun began to set over the horizon, its orange glow illuminating the sky in a brilliant display of colors.	0
+15	0	3	1	0	0	1	6	2	0	0	1	0	1	4.0	4	0	0	1	1	0	1	1	Five members on the board have over fifteen years of experience in industry leadership.	0
+11	0	1	0	0	0	2	2	1	0	0	1	0	2	4.0	3	1	1	0	1	0	1	0	An offer of $5,000 to purchase a used vehicle.	0
+13	0	1	1	0	0	2	3	1	0	1	2	0	2	3.0	5	1	1	1	1	0	1	1	The temperature gradually dropped during the night, reaching 15 degrees Fahrenheit.	0
+15	1	3	0	0	0	3	4	1	0	0	2	0	1	2.0	11	0	0	2	0	0	0	2	Two teams faced off in the football final, each with a strong lineup.	0
+11	0	1	0	0	0	1	4	2	0	1	1	0	1	2.0	6	0	0	1	1	0	1	1	The temperature reading showed 75 degrees Fahrenheit at 2 PM.	0
+23	2	2	1	2	0	3	3	1	0	4	2	0	2	4.0	10	1	0	1	0	1	0	1	The first star to be detected by the Kepler Space Telescope is located 1,200 light-years away in the constellation Lyra.	0
+16	1	3	0	0	0	3	1	0	0	5	2	0	1	3.0	8	0	0	0	1	0	1	0	In the heart of London, stands the iconic Tower Bridge over the River Thames.	0
+10	1	0	0	1	0	0	2	0	1	0	2	1	1	3.0	3	0	0	1	0	0	0	1	Your request is ambiguous, please clarify before proceeding.	1
+5	0	0	1	0	0	0	1	0	0	0	2	0	0	2.0	2	0	0	0	0	0	0	0	Yes, of course.	1
+8	0	1	0	1	0	0	2	0	2	0	1	0	1	2.0	4	0	0	1	1	0	1	1	I've finished my work for today.	1
+8	0	1	0	0	0	1	3	0	1	0	1	0	1	2.0	4	0	0	1	1	0	1	1	Your words shocked the room into silence.	1
+14	0	1	1	1	0	0	0	0	3	0	2	1	4	4.0	4	3	2	2	0	1	0	2	Before you speak, think carefully about what you're going to say.	1
+11	0	0	2	1	0	0	1	0	2	0	2	1	2	2.0	5	1	0	1	1	1	1	1	Before eating, we must always wash our hands thoroughly.	1
+9	0	1	1	0	0	2	2	0	0	0	1	0	2	2.0	5	0	0	1	0	0	0	1	The ball bounced erratically over the cracked pavement.	1
+10	0	1	1	1	0	2	2	0	0	0	1	0	2	2.0	4	0	0	1	0	0	0	1	A fire can easily spread through an enclosed space.	1
+11	0	0	1	0	0	2	2	0	1	0	2	1	2	3.0	5	1	0	0	2	1	2	0	Before making the decision, carefully consider all your options.	1
+15	1	0	0	0	0	1	3	0	2	0	3	1	3	3.0	7	2	1	1	3	1	3	1	Before conducting the interview, he double-checked his notes to ensure accuracy.	1
+14	0	2	1	1	0	1	1	0	3	0	2	1	2	2.0	5	1	0	2	1	1	1	2	Before I leave, could you kindly print out the documents for me?.	1
+19	1	2	0	0	0	2	4	0	3	0	2	1	3	4.0	8	2	1	2	2	1	2	2	Before he finished his second cup of tea, he had to leave the house in a hurry.	1
+16	0	0	2	2	0	2	2	0	1	0	2	1	3	4.0	10	2	0	2	1	2	1	2	If you don't stop playing that music so loudly, the neighbors will complain.	1
+13	0	0	0	1	0	1	3	0	1	0	2	1	3	3.0	6	2	1	1	2	1	2	1	Before starting the workshop, participants are required to bring their laptops.	1
+14	1	3	0	1	0	3	4	0	0	0	1	0	1	4.0	3	0	0	1	0	0	0	1	A single error can lead to a cascade of failures down the line.	1
+11	0	0	0	1	0	1	2	0	2	0	2	1	2	3.0	6	1	0	1	2	1	2	1	Before starting the meeting, everyone must silence their phones.	1
+15	0	0	1	0	1	0	2	0	2	0	2	1	5	4.0	3	3	2	1	3	1	3	1	If we encounter errors, let's work together to troubleshoot and find solutions.	1
+13	1	1	0	0	0	1	2	0	1	0	2	1	3	4.0	4	2	1	0	2	1	2	0	Before starting the engine, make sure to buckle up your seatbelt.	1
+10	0	0	0	0	0	1	2	0	1	0	2	1	2	3.0	4	1	0	1	1	1	1	1	Before you drink, check the liquid's temperature.	1
+20	3	2	1	1	0	1	4	0	0	0	2	1	4	6.0	9	4	3	1	1	1	1	1	Before reading further, consider reviewing previous chapters to ensure a solid understaning of important concepts is in place.	1
+6	0	0	2	2	0	0	0	0	1	0	1	0	0	1.0	4	0	0	1	0	0	0	1	I'll be right there.	1
+20	2	1	0	1	1	1	5	0	2	0	3	1	3	5.0	7	2	2	1	2	0	2	1	Your response should read: Before taking further action, consider the potential consequences of your words and actions.	1
+8	1	1	0	1	0	0	2	0	1	0	1	0	1	2.0	4	0	0	1	1	0	1	1	I'm generating sentences with preverbal subjects.	1
+10	2	1	0	1	0	1	3	0	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	Mistakes in the initial diagnosis can have serious consequences.	1
+10	0	0	0	2	0	1	2	0	1	0	1	1	2	2.0	6	1	1	2	1	0	1	2	The package requires updates before it can be installed.	1
+11	1	1	2	2	0	1	1	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	I will be handling the new project from now on.	1
+14	0	1	0	1	0	1	2	0	1	0	2	1	3	3.0	6	2	1	1	1	1	1	1	If you encounter any difficulties, don't hesitate to ask for help.	1
+10	0	1	1	1	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	A cat might chase away pigeons from its territory.	1
+16	0	0	1	1	1	1	2	0	4	0	1	0	4	4.0	5	2	2	2	3	0	3	2	Your laptop may have a virus and I advise you to stop using it immediately.	1
+10	0	1	1	0	0	2	2	0	1	0	2	0	1	2.0	3	0	0	1	1	0	1	1	Before the debate, he researched the issues thoroughly.	1
+11	1	0	0	0	0	0	1	0	2	0	2	1	3	4.0	2	2	1	1	1	1	1	1	Before you eat, make sure to wash your hands.	1
+9	1	1	0	0	0	1	3	0	1	0	1	0	1	3.0	3	0	0	1	1	0	1	1	A sudden gust of wind carries her dress.	1
+13	2	0	0	0	0	2	2	0	1	0	2	1	3	3.0	5	2	1	0	3	1	3	0	Before making any final decisions, let's consider the potential consequences.	1
+10	1	0	0	1	0	0	0	0	2	0	2	1	3	3.0	3	2	1	1	1	1	1	1	Before touching that, make sure you are authorized.	1
+16	1	2	1	0	0	4	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The sun rises early over the horizon, bathing the landscape in a warm glow.	1
+10	0	0	1	0	0	0	1	0	1	0	2	1	3	3.0	3	2	1	0	1	1	1	0	Before eating, remember to wash your hands thoroughly.	1
+18	1	1	0	1	0	2	2	0	4	0	3	1	2	3.0	8	1	0	2	2	1	2	2	Before I finish my report, could you gather all the relevant data for me, please?  Confused? Don't be! Just remember, in English language, preverbal subjects refer to the subjects that come before the main verb in a sentence.	1
+12	0	0	0	0	0	1	3	0	1	0	2	1	2	4.0	4	1	1	1	1	0	1	1	Before proceeding, we need to verify the data's accuracy.	1
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	Your reaction startled the dog.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat jumped over the fence.	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun sets slowly behind the mountains.	1
+14	0	1	0	1	0	0	1	0	3	0	2	1	3	4.0	4	2	1	2	0	1	0	2	Before we start, I would like to ask for everyone's attention.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The dog chased the car.	1
+13	0	0	2	1	0	2	2	0	0	0	2	1	3	3.0	5	2	1	1	1	1	1	1	Before starting the exercise, ensure all equipment is safely put away.	1
+6	0	1	1	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	An alarm suddenly went off.	1
+10	0	0	0	0	0	1	1	0	2	0	2	1	2	3.0	5	1	0	1	2	1	2	1	If you find any error, please report it.	1
+9	0	0	0	0	0	1	1	0	2	0	1	1	3	4.0	2	2	2	2	1	0	1	2	I heard her shouting before reaching the room.	1
+15	0	1	0	0	0	0	2	0	4	0	2	1	3	4.0	6	2	1	2	1	1	1	2	Before we start, I need to remind you of our team's guidelines.	1
+12	1	1	0	1	0	2	3	0	0	0	1	0	2	3.0	4	1	1	1	1	0	1	1	A squirrel might hide acorns to save for a rainy day.	1
+7	0	0	0	2	0	0	1	0	2	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I might have underestimated his intelligence.	1
+16	0	1	1	0	0	3	4	0	1	0	1	1	3	4.0	8	2	2	2	1	0	1	2	The sun rose slowly over the mountains while the trees began to shed their leaves.	2
+12	1	1	0	0	0	3	5	0	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The new marketing team proposed a campaign strategy before the deadline.	2
+13	0	2	0	0	0	2	2	0	1	0	2	1	2	3.0	6	1	0	1	1	1	1	1	Before you go to the store, please turn off the stove.	2
+20	1	1	1	0	1	3	4	0	2	0	2	1	4	4.0	5	2	1	2	3	1	3	2	As you enter the room, you smell fresh flowers and see the sunlight filtering in through the windows.	2
+12	0	0	0	0	0	1	6	0	1	0	2	0	2	3.0	8	0	0	2	2	0	2	2	Subject A checks their email, Subject B sends a message.	2
+15	0	1	2	0	0	2	2	0	0	0	1	1	4	4.0	6	3	3	2	0	0	0	2	The rain began to pour down heavily as the winds started to pick up.	2
+11	0	1	1	0	1	2	3	0	0	0	1	0	2	3.0	5	0	0	2	0	0	0	2	The cat meowed loudly and the dog barked in response.	2
+18	0	2	0	0	1	2	5	0	2	0	2	1	3	3.0	7	1	0	2	1	1	1	2	Before leaving for vacation, my pet iguana escaped and the children found him in the attic.	2
+13	0	2	0	0	0	3	4	0	0	0	2	0	2	3.0	8	1	1	1	2	0	2	1	The storm knocked out the power at the plant, halting production.	2
+13	0	2	1	0	0	2	4	0	1	0	1	0	1	3.0	6	0	0	1	0	0	0	1	Both children waited anxiously for their parents' return from the supermarket.	2
+12	0	1	1	0	0	3	3	0	0	0	1	1	2	3.0	7	1	1	2	0	0	0	2	The birds flew towards the horizon as the sun rose steadily.	2
+22	1	0	0	1	1	3	6	0	0	0	2	3	5	4.0	12	2	1	1	2	1	2	1	After completing the install process and before configuring the new email server, ensure that all required security patches are applied.	2
+11	0	2	0	0	0	1	3	1	0	0	2	0	2	3.0	5	1	1	1	0	0	0	1	Two birds sat on a fence, chirping at sunrise.	2
+29	3	1	3	2	1	3	4	0	3	0	2	1	4	4.0	18	1	1	3	2	0	2	3	I need to buy a new computer monitor and the new printer is not working yet, can someone help me with these issues as soon as possible?.	2
+22	0	3	0	0	1	5	6	0	1	0	2	1	3	3.0	10	1	0	3	0	1	0	3	Before the storm hit, the birds flew to their roosts in the trees and the waves crashed on the shore.	2
+16	0	1	0	0	0	1	5	0	2	0	2	2	3	3.0	8	2	2	3	1	0	1	3	The sun rises before birds chirp, while my car requires fuel before it starts.	2
+22	1	2	0	0	1	4	6	0	1	0	2	1	4	4.0	9	3	2	1	3	1	3	1	Before making the announcement, the CEO and his advisors had a heated debated about the potential impact on stock prices.	2
+23	1	2	1	1	1	2	5	1	2	2	2	0	3	3.0	14	1	1	3	0	0	0	3	Monday evening we saw the northern lights dance above the mountains, yet Friday morning it was raining heavily by 8:00 AM.	2
+15	4	2	0	0	0	1	6	0	0	0	1	0	1	3.0	6	0	0	1	0	0	0	1	The stock market opened strong today despite weak earnings reports from several major corporations.	2
+18	3	0	4	1	3	2	2	0	0	0	2	0	1	3.0	11	0	0	2	0	0	0	2	The dog barked loud and long, but the thunderstorm outside was even louder and more relentless.	2
+16	0	1	3	0	1	3	4	0	0	0	2	0	2	3.0	6	0	0	2	0	0	0	2	Yesterday, the sun rose very early and the wind howled strongly throughout the day.	2
+16	0	2	2	0	0	4	4	0	0	0	1	1	2	3.0	8	1	1	2	0	0	0	2	The sun gradually rises above the horizon while the traffic steadily increases on the freeway.	2
+28	1	2	1	2	1	3	8	0	3	0	2	1	4	4.0	10	1	1	3	2	0	2	3	Already brewed coffee beans were scattered on the kitchen counter, and my husband had poured the last drops into our cups before I entered the room.	2
+16	0	2	0	0	0	3	4	0	1	0	2	1	3	4.0	9	2	2	2	1	0	1	2	The cat chased the dog around the house, while I tried calling for peace.	2
+18	0	0	2	0	1	4	5	0	0	0	2	1	3	3.0	12	1	1	3	1	0	1	3	The committee approved the budget increases before the meeting began, and the CEO resigned suddenly afterwards.	2
+13	0	0	2	0	0	2	3	0	0	0	1	1	3	4.0	6	2	2	2	0	0	0	2	The wind begins to blow harder as the storm clouds gather overhead.	2
+21	0	2	0	0	1	5	7	0	0	0	2	0	3	4.0	12	1	1	2	1	0	1	2	The cat chased the mouse across the living room floor, but the mouse managed to escape under the couch.	2
+10	0	2	1	1	1	0	1	0	1	1	1	0	1	3.0	4	0	0	1	0	0	0	1	Bobby and I will arrive late due to traffic.	2
+15	0	1	0	0	1	2	4	0	1	0	2	0	3	3.0	9	1	1	2	0	0	0	2	The sun rose over the horizon, but my alarm clock failed to ring.	2
+11	0	0	0	2	1	1	2	0	1	0	2	0	2	3.0	6	0	0	2	0	0	0	2	The sun was setting, but my heart was racing.	2
+30	3	4	0	0	1	3	8	1	0	1	3	1	4	6.0	11	2	2	3	2	0	2	3	At 10:15 EST, the airline announced a significant delay in flight schedules, and all gates began to empty as passengers scrambled to find alternate modes of transportation.	2
+14	0	1	3	0	0	2	2	0	1	0	2	1	2	3.0	6	1	1	2	0	0	0	2	The balloon slowly drifted upwards, while the wind howled menacingly around it.	2
+19	0	0	2	0	1	4	4	0	1	0	2	1	4	3.0	13	2	2	3	2	0	2	3	The dog chased the cat away before it attacked the baby, and the baby started crying loudly.	2
+21	1	3	3	1	1	2	3	0	0	0	3	0	3	4.0	10	1	1	2	0	0	0	2	Yesterday, the sun rose earlier than expected, but the moon did not set until much later than usual.	2
+11	0	1	1	0	1	2	3	0	0	0	1	0	2	3.0	5	0	0	2	0	0	0	2	The dog barked loudly and the children screamed in terror.	2
+11	0	2	0	1	0	2	3	0	0	0	2	0	1	2.0	5	0	0	1	0	0	0	1	Before the presentation, the audience was buzzing with excitement.	2
+21	1	2	1	1	0	4	5	0	1	0	2	1	3	4.0	10	2	2	2	0	0	0	2	The birds were already singing before the sun rose over the horizon, their melodies carried by the gentle breeze.	2
+15	1	0	1	0	1	1	2	0	3	0	2	1	3	3.0	6	1	0	2	2	1	2	2	Before leaving, she packed his clothes and then I took a long bath.	2
+18	0	1	1	0	0	4	4	0	1	0	2	1	3	4.0	9	2	2	2	2	0	2	2	The cat chases the mouse in the labyrinth, while I try to find a way out.	2
+14	0	1	2	2	1	2	4	0	0	0	1	0	1	3.0	5	0	0	2	0	0	0	2	The mail server was frequently down and the helpdesk was overwhelmed with calls.	2
+14	0	2	1	1	0	3	4	0	0	0	1	0	2	3.0	8	1	1	2	0	0	0	2	The cake was baking in the oven when the fire alarm went off.	2
+16	1	2	0	0	0	3	4	0	0	0	2	0	3	4.0	5	2	2	1	1	0	1	1	The sun began to rise over the mountain, casting long shadows across the landscape.	2
+19	1	2	2	1	1	1	3	0	2	2	2	0	2	4.0	11	1	1	2	1	0	1	2	Melanie brought her cat to the vet, but Alex was already there waiting with his own pet.	2
+17	1	1	1	1	0	2	4	0	1	0	3	0	3	3.0	8	2	2	2	1	0	1	2	The sun had risen, casting long shadows, when we arrived at the crime scene.	2
+11	0	0	0	1	0	2	2	0	0	0	1	1	3	3.0	4	2	2	2	0	0	0	2	The balloon was ascending as the sun began to rise,  	2
+18	1	1	2	1	1	2	3	0	1	0	3	0	2	3.0	11	0	0	2	0	0	0	2	Yesterday, the rain started an hour earlier than usual, but it didn't last long.	2
+15	0	0	1	1	1	3	3	0	0	0	2	0	3	3.0	8	1	1	2	1	0	1	2	The snow was beginning to thaw, but the trees still bore no buds.	2
+15	0	1	0	1	0	2	5	0	2	0	1	1	2	3.0	7	1	1	2	1	0	1	2	The sun was setting over the ocean while my sister painted her watercolor landscape.	2
+15	0	1	1	2	1	2	2	0	0	2	1	0	2	4.0	5	2	2	1	1	0	1	1	Maria and Luis will be here in an hour to help move the furniture.	2
+20	0	2	0	1	1	2	7	0	1	0	3	0	3	4.0	8	0	0	3	1	0	1	3	Before her departure, the storm left a trail of damage; trees were uprooted and power lines tangled.	2
+21	0	2	0	3	1	4	6	0	0	0	2	0	3	4.0	7	0	0	3	1	0	1	3	The ice had formed layers, the snow was clinging to trees and the winds were howling in the forest.	3
+18	0	0	1	0	1	3	5	0	0	0	3	0	4	3.0	11	1	1	3	1	0	1	3	The sun slowly rose, the birds began to sing, and morning mist enveloped the valley.	3
+29	1	4	0	0	1	4	9	0	3	0	3	1	3	4.0	9	1	1	3	2	0	2	3	Underneath the bridge, a family of geese guarded their newborn goslings, while a tranquil brook flowed beside them and fishermen cast their lines into the water.	3
+17	0	1	1	1	1	1	3	1	0	3	4	0	1	3.0	10	0	0	1	0	0	0	1	Three brothers, Peter, Paul and George, were all arrested yesterday for the robbery.	3
+17	1	1	0	2	0	1	5	1	1	0	1	0	3	5.0	4	2	2	2	2	0	2	2	Three scientists claimed to have found a new substance that could replace coal in electricity production.	3
+25	0	0	3	2	1	1	4	0	4	0	4	0	5	4.0	19	1	1	4	2	0	2	4	Mistakes are often repeated, the students forget to review their test papers, and I can barely believe it, they failed again.	3
+28	2	4	1	2	1	4	5	0	1	0	3	1	3	5.0	10	1	1	2	1	0	1	2	The ball was hit by the batter, who was subsequently tagged out by the third baseman, but not before advancing another runner to third base.	3
+21	0	1	0	2	1	4	5	0	1	0	3	1	3	3.0	8	1	0	3	2	1	2	3	Before the ice had melted, we had eaten all the strawberries, and the children demanded blueberries for dessert.	3
+18	0	0	3	1	1	0	3	0	4	0	3	0	3	3.0	8	2	2	2	1	0	1	2	My friend, my ex-girlfriend, and I were arguing loudly when suddenly we heard sirens approaching.	3
+24	0	2	0	1	2	3	8	0	0	0	4	0	3	4.0	8	0	0	3	1	0	1	3	Before the war, the city's economy was flourishing, but after the invasion, inflation skyrocketed and unemployment reached epidemic levels.	3
+18	0	0	1	1	2	1	2	0	1	3	3	1	3	3.0	9	1	0	2	1	1	1	2	Before the meeting started, Jack, Laura and Mark were all checking and organizing their folders.	3
+23	4	3	0	3	0	2	3	1	0	0	3	1	3	3.0	13	1	1	2	0	0	0	2	Two of the prisoners had been interrogated by high-ranking military officers, while the third one had remained silent throughout.	3
+25	0	1	0	0	1	5	8	0	3	0	4	0	3	3.0	13	0	0	3	3	0	3	3	Yesterday, my children ate all the pancakes, the dog stole my shoes, and I found a snake under the bedroom bed.	3
+22	1	1	3	1	2	4	4	0	0	0	3	0	2	4.0	10	1	1	1	0	0	0	1	The police, the prosecutor, and the judge are all required to act fairly and impartially in any criminal trial.	3
+19	3	1	0	1	1	4	6	0	0	0	3	0	0	4.0	9	0	0	2	0	0	0	2	The snow was thick, the winds ferocious, and the power outages widespread across the midwest states.	3
+25	2	2	1	1	1	5	5	0	0	0	2	1	4	4.0	9	2	2	3	0	0	0	3	The baby was sleeping peacefully in the cradle, while the sun began to rise and a cool breeze blew through the open window.	3
+26	5	4	1	0	1	3	6	0	1	0	3	0	2	6.0	6	1	1	3	1	0	1	3	Beneath a thick canopy of trees grew hundreds of red roses, each blooming simultaneously, their thorns sharp and bright against the green foliage.	3
+20	1	2	1	1	2	1	6	0	2	0	2	0	2	4.0	6	0	0	2	1	0	1	2	These coins were minted centuries ago, yet they maintain their luster despite frequent handling and exposure to air.	3
+21	0	1	2	2	1	1	5	0	0	0	4	0	4	3.0	11	1	1	3	0	0	0	3	Yesterday, the sun had risen late, birds failed to sing, and frost had clung reluctantly to trees.	3
+17	1	0	1	2	0	2	4	0	1	0	4	0	2	3.0	9	0	0	3	0	0	0	3	Yesterday, the moon was nearly full, the fish were jumping, my boss called.	3
+18	1	1	0	0	1	1	7	0	0	0	4	0	3	3.0	10	0	0	3	1	0	1	3	Yesterday, rainwater filled the streets, ponds overflowed, and electricity blackouts occurred in several areas.	3
+21	0	0	0	1	1	4	7	0	1	0	4	1	2	4.0	13	1	0	2	1	1	1	2	Before the meeting had started, the mayor, his deputy, and the city council president reviewed the agenda.	3
+14	1	1	2	1	1	0	1	0	0	4	3	0	0	3.0	9	0	0	1	0	0	0	1	Morning Star, Orion, and Sirius were all still visible at dawn.	3
+13	0	0	0	0	0	1	5	1	0	0	3	0	3	3.0	5	2	1	1	3	1	3	1	Three suspects, wearing masks, entered the bank carrying assault rifles.	3
+20	1	2	1	0	1	4	4	1	1	0	3	0	2	4.0	10	1	0	2	1	1	1	2	Two men and a woman, each holding a briefcase, walked towards me in the dimly lit corridor.	3
+15	1	0	0	0	2	2	5	0	1	0	3	0	1	3.0	7	0	0	1	1	0	1	1	These dogs, cats, and hamsters all need their daily walks and feedings.	3
+14	0	2	0	0	0	0	1	0	1	5	3	0	2	2.0	5	0	0	1	1	0	1	1	Before his election, Joe Biden served as Vice President, oversaw U.	3
+17	0	2	0	1	1	3	5	0	0	0	3	0	2	3.0	9	0	0	3	0	0	0	3	The wind howled, the sun hid behind clouds, and rain was in the forecast.	3
+19	2	0	1	0	1	3	7	0	0	0	3	0	2	4.0	5	0	0	3	1	0	1	3	Yesterday the moon appeared full, the trees displayed beautiful fall colors, and the sun set early.	3
+19	0	3	0	0	1	1	7	0	1	0	2	1	3	4.0	5	1	1	3	0	0	0	3	Under a canopy of stars, elephants roamed and water buffalos grazed while lions lurked in their shade.	3
+12	2	0	0	0	0	0	5	0	0	0	3	0	2	3.0	7	0	0	2	1	0	1	2	Fish swim, stones lie heavy, sunsets cast long shadows.	3
+17	1	1	0	0	0	2	4	0	0	2	3	0	3	4.0	6	2	2	1	2	0	2	1	The moon rises behind Mount Fuji, illuminating the water's surface, casting long reflections.	3
+20	1	1	0	1	1	3	6	0	1	0	3	0	3	3.0	10	0	0	3	2	0	2	3	The children were laughing, their mother sang songs, and the grandfather narrated old folktales around the campfire.	3
+17	0	1	1	0	1	4	4	0	0	0	3	0	3	3.0	9	0	0	3	0	0	0	3	The cats purred, the fire crackled, and the rain fell steadily against the window.	3
+13	0	0	0	0	1	3	4	0	0	0	2	0	3	4.0	5	0	0	3	1	0	1	3	The clock struck midnight, the sun rose and the children waited.	3
+23	2	4	1	0	1	3	4	0	1	4	2	0	1	3.0	9	0	0	1	1	0	1	1	Before the invention of calculus, Sir Isaac Newton and Leibniz published their mathematical theories independently within a year of each other.	3
+22	1	2	0	0	1	6	7	0	1	0	3	0	1	3.0	9	0	0	1	1	0	1	1	The cat, the dog, and my wife all want a place by the fire on this cold winter night.	3
+22	1	3	2	0	0	1	6	0	1	0	4	0	3	4.0	8	2	1	1	1	1	1	1	These coins, once held by children, now rest within my father's collection, awaiting display at antique conventions.	3
+17	0	0	1	0	1	3	4	0	0	0	3	0	4	3.0	12	1	1	3	1	0	1	3	The birds began to sing, the clock struck midnight, and the shadows grew long.	3
+14	3	0	0	1	0	2	4	0	0	0	2	0	2	3.0	5	1	1	1	2	0	2	1	A sudden storm had uprooted these old trees, destroying several power lines.	3
+16	0	2	0	0	0	3	6	1	0	0	2	0	2	3.0	7	1	1	1	2	0	2	1	Three people in the crowd threw bottles at the police officers, causing a commotion.	3
+20	0	2	1	1	1	1	7	0	1	0	3	0	3	6.0	5	1	1	2	2	0	2	2	Before dawn, fishermen had already filled their nets, vendors lined the streets and children headed to school.	3
+14	1	1	0	2	0	1	4	1	0	0	1	1	2	3.0	6	1	1	2	0	0	0	2	Three criminals were arrested after the jewelry store was robbed of expensive gems.	3
+18	0	2	0	0	1	1	7	0	2	1	2	0	2	3.0	8	0	0	2	1	0	1	2	Monday mornings, my neighbor bakes apple pies from scratch and the aroma wafts into my backyard.	3
+13	0	0	0	0	1	3	3	0	0	0	3	0	3	4.0	5	0	0	3	0	0	0	3	The dogs howled, the wind whistled, and the thunder roared.	3
+23	1	2	1	0	1	6	6	0	0	0	3	0	3	3.0	16	0	0	3	1	0	1	3	The sun rises over the lake, the geese form a perfect V, and the dew still glistens on the grass.	3
+21	1	1	1	2	1	4	5	0	0	0	3	0	3	4.0	11	0	0	3	1	0	1	3	The children were laughing loudly, the sun was setting, and the breeze carried the scent of fresh roses.	3
+16	0	1	0	0	1	1	5	0	1	0	3	0	3	4.0	8	0	0	2	1	0	1	2	The moon rises, casts its glow, and darkness surrenders to light’s flow.	3
+18	1	2	1	0	1	1	5	0	1	0	3	0	3	3.0	11	0	0	3	0	0	0	3	Pigeons roosted upon the parapets, sunset glowed overhead, and soldiers prepared for their nightly vigil.	3
+16	0	1	0	3	2	2	4	0	0	0	2	0	2	4.0	10	0	0	2	0	0	0	2	The cake has been baking for hours, yet neither frosting nor presentation has begun.	3
+16	0	0	1	0	1	1	5	0	0	0	4	0	4	3.0	10	0	0	3	1	0	1	3	When artists create, critics judge, parents console, and dreamers envision the future.	4
+21	0	1	1	0	1	3	7	0	1	0	4	0	3	3.0	11	1	0	3	1	1	1	3	When the sun rises, dew glistens on leaves, the rooster crows, and a fisherman casts his net.	4
+26	1	0	0	0	1	4	9	0	1	0	4	1	5	4.0	16	1	1	4	5	0	5	4	A baker kneads dough, a child draws patterns, an artist mixes paints, and a surgeon prepares instruments before starting their creative process.	4
+20	1	0	4	0	1	0	5	0	0	0	5	0	4	3.0	14	0	0	4	1	0	1	4	Sometimes, cats purr loudly, dogs bark aggressively, birds build complex nests, and humans debate passionately.	4
+25	0	2	0	0	1	0	10	0	2	0	5	0	4	5.0	15	0	0	3	3	0	3	3	At midnight, farmers gather their harvest, children count their candy, bakers mix dough, and musicians rehearse for tomorrow's festival.	4
+23	4	0	2	0	1	5	4	0	0	0	4	0	3	4.0	13	1	1	1	2	0	2	1	The elderly, the disabled, the sick, and the economically disadvantaged often have the greatest challenges accessing quality healthcare services.	4
+40	1	3	0	4	1	6	15	0	0	1	4	0	5	4.0	29	1	1	4	5	0	5	4	An engineer might sketch designs on graph paper, a teacher might plan lessons using a smart board, an architect could outline floor plans on AutoCAD, and a botanist might map plant distributions on a world map.	4
+18	1	1	0	0	1	1	5	0	0	0	5	0	4	3.0	7	0	0	4	0	0	0	4	In the vast ocean, seagulls squawk, dolphins jump, ships sail, and whales sing.	4
+41	1	5	1	0	2	8	12	0	1	0	6	0	4	7.0	11	2	2	3	1	0	1	3	A painter, a poet, a professor, and a farmer find solace in silence, in the quiet of their personal spaces, where the rhythm of creativity flourishes and the noise of the world ceases to exist.	4
+21	2	1	0	0	1	2	8	0	0	0	4	0	2	4.0	8	1	1	1	1	0	1	1	Birdwatchers, scientists, children, and tourists flock to observe the rare phenomenon of the annual winter bird migration.	4
+28	1	2	0	0	2	3	11	0	0	0	5	0	4	5.0	14	0	0	4	4	0	4	4	At sunrise, a gardener waters roses, bees collect nectar, children chase rabbits, and the sun paints the horizon with pink and gold hues.	4
+28	0	2	0	0	1	2	11	0	2	0	4	0	5	3.0	19	1	1	4	3	0	3	4	The morning sun warms the pavement, ants march to their destination, cats purr in their comfort zone, and artists paint scenes to ignite imaginations.	4
+23	0	0	1	0	1	2	7	0	2	0	4	0	5	4.0	9	2	1	4	3	1	3	4	When the sun rose, shadows vanished, birds sung their melodies, and flowers opened their petals to receive the sunlight.	4
+34	1	3	0	0	1	5	13	0	1	0	5	0	4	4.0	17	0	0	4	4	0	4	4	At the museum, an author admired a piece, children created paper origami, volunteers handed out flyers, and a man whispered an old family tale into his wife's ear.	4
+45	1	3	0	1	1	7	16	0	2	2	4	1	6	5.0	21	2	2	5	5	0	5	5	A chef could taste bitterness in the coffee grounds, an inventor saw wiring in the lab's fuse box meltdown, the audience watched performers take their final bow, and Alice smiled as she unwrapped a surprise present under the Christmas tree.	4
+48	5	2	0	4	3	6	15	0	0	1	4	1	7	6.0	37	2	2	4	7	0	7	4	A teacher might assign complex math problems to pupils, a gymnast could prepare acrobatic routines involving high wire balance and flexibility, a beekeeper could check swarms and extract honey in a traditional hive, and an astronaut could plan an extravehicular activity while orbiting Earth.	4
+23	1	1	1	0	1	4	6	0	1	0	4	0	4	3.0	9	1	0	4	1	1	1	4	When the rain subsides, the sun rises, the fields grow green, and birds fill the sky with their songs.	4
+25	2	2	0	0	1	2	8	1	0	0	5	0	4	4.0	16	0	0	4	3	0	3	4	At the park, children smile at butterflies, elderly couples feed pigeons, dogs chase one another, and vendors sell colorful kites.	4
+29	3	2	0	4	1	0	9	0	1	0	5	0	4	3.0	20	0	0	4	3	0	3	4	In history, kings can build grand architecture, artists can create inspiring masterpieces, children can learn from their parents, and inventors can envision new technologies.	4
+40	5	3	0	2	1	6	13	0	1	0	5	0	4	4.0	18	1	1	4	4	0	4	4	In her novel, an engineer found complex engineering concepts, an artist found inspiration from every plot turn, an ancient historian could trace historical roots to every character, and a gamer could identify familiar narrative archetypes.	4
+35	1	2	0	0	1	6	14	0	0	0	5	0	4	5.0	15	1	1	4	3	0	3	4	In the winter evening, a lighthouse warns mariners, a poet's mind finds inspiration, the old grandfather tree holds sway, and the fisherman's net waits for the moonlit haul.	4
+24	3	1	0	0	2	5	6	0	1	0	4	0	2	3.0	11	0	0	1	1	0	1	1	A teacher, an artist, a programmer, and a scientist celebrate their unique passions and contribute to a vibrant cultural scene.	4
+36	3	5	0	1	2	1	7	0	0	6	10	0	1	5.0	16	0	0	1	0	0	0	1	In ancient Greece, Zeus was served by a retinue of divine sisters, Hera, Demeter, Athena, and Aphrodite, with different domains over nature, cultivation, wisdom, and love.	4
+29	1	3	1	0	1	6	7	0	0	0	5	0	5	3.0	16	0	0	4	0	0	0	4	In a sunlit clearing, deer graze, a rabbit hides, a butterfly rests on a leaf, and the breeze hums softly through the rustling foliage.	4
+68	4	6	3	0	3	11	19	0	3	0	9	1	9	6.0	34	3	3	5	4	0	4	5	Under a clear night sky, a group of musicians played an enchanting melody that echoed through the forest, a child listened intently with a star-shape pillow as a grandmother told a heartwarming tale of love and adventure, an artist sketched every detail into her notebook, and a fox, intrigued, stopped mid-leap and tilted her head, listening as well.	4
+48	4	7	0	2	2	7	18	0	0	0	6	0	2	4.0	32	0	0	4	2	0	2	4	Before the advent of electric light, a campfire was essential for cooking and warmth, children found the flicker of flames a source of fascination, campers told spine-tingling stories into the night, and stars were a breathtaking sight above the darkened forest.	4
+30	2	1	1	4	1	0	10	0	1	0	5	0	5	4.0	12	1	0	5	3	1	3	5	When children read, parents can witness literacy growth, grandparents can learn new stories, scholars can expand their knowledge, and libraries are seen in greater use.	4
+29	2	2	1	0	1	3	9	0	1	0	5	0	4	5.0	19	1	1	3	1	0	1	3	The snowflake falls gentle, birds spread their wings to fly, roses open to the afternoon sun, and shadows dance against an ever-changing sky.	4
+19	1	0	1	1	1	3	5	0	0	0	4	0	3	3.0	8	1	0	3	0	1	0	3	When a bee stings, a new queen is born, honey drips, and the hive flourishes.	4
+28	1	3	0	0	1	3	10	0	1	0	5	0	4	3.0	15	0	0	4	1	0	1	4	In the bustling city, a musician strums his guitar, birds flit through trees, wind chimes sing, and children laugh at a passing clown.	4
+20	1	2	0	0	1	1	7	0	0	0	4	0	3	3.0	8	0	0	3	0	0	0	3	In autumn leaves' colors bright, children laugh, artists draw, and a poet searches for inspiration.	4
+34	0	6	0	0	1	4	14	0	0	0	5	0	4	4.0	24	0	0	4	2	0	2	4	At dusk, the sun paints a sky orange, sparrows flit from tree to tree, wind chimes ring out tunes, and the smell of dinner cooking wafts through the air.	4
+35	5	3	0	0	1	4	11	1	1	0	5	0	4	4.0	13	0	0	3	2	0	2	3	Two artists crafted contrasting masterpieces, a chef served customers their favorite meals, researchers discovered new findings in genetics, and a traveler walked on a path through a lush, green forest.	4
+36	1	5	1	0	1	2	14	0	1	0	5	0	5	5.0	25	0	0	4	1	0	1	4	On winter mornings, a hiker observes her frozen breath, steam rises up from hot tea in a camper's hand, birds huddle in clumps, and frost crystals glisten on tent stakes.	4
+41	1	4	1	0	1	5	13	1	4	1	5	0	5	5.0	19	0	0	4	5	0	5	4	On Monday, the teacher handed each student a new textbook, the library received three shipments of recently donated books, my brother started work on his thesis, and my grandmother began her volunteer shift at the hospital.	4
+28	0	1	0	4	1	4	8	0	0	1	5	0	4	3.0	19	0	0	4	4	0	4	4	In poetry, a professor can see meter, a toddler can see a picture, an astronaut can see stars, and Mozart can hear symphony.	4
+32	3	3	1	0	1	2	11	0	1	0	5	0	5	5.0	19	1	1	4	3	0	3	4	Morning fog reveals mirrored surfaces in puddles, trees appear as ghostly silhouettes, sunlight warms the earth, and robins flit about, singing their first songs of the day.	4
+18	0	1	0	0	1	2	6	0	0	0	4	0	4	3.0	11	0	0	4	1	0	1	4	The clock struck midnight, elephants trumpeted, children cheered, and stars fell from the sky.	4
+24	0	1	1	2	1	3	7	0	1	0	4	0	4	3.0	10	1	0	4	2	1	2	4	When stars align, the night can ignite, flowers may release perfume, and the moon casts its enchantment over the landscape.	4
+33	2	3	0	1	1	4	12	0	1	0	4	1	4	4.0	20	1	1	4	2	0	2	4	A swarm of locusts can devastate crops, an elephant in musth charges, snow melts before the sun rises, and a novice coder writes her first successful piece of code.	4
+31	1	3	0	0	0	4	12	0	0	1	5	0	5	3.0	24	0	0	4	2	0	2	4	The sun sets behind snow-capped mountains, trees shed leaves under autumn winds, children gather round a Halloween bonfire, a jazz quartet plays a melancholic ballad.	4
+36	0	2	0	4	2	4	12	0	0	1	7	0	4	4.0	25	0	0	4	4	0	4	4	In the market, an economist could observe supply and demand curves, a chef could smell spices, a child could hear music, and Elsa, with magic, could make water freeze.	4
+25	1	2	0	0	1	4	8	0	1	0	4	0	4	4.0	15	0	0	4	2	0	2	4	The city awakens, birds take flight, the sun rises above the horizon, and factories release their first smokestacks of the day.	4
+29	0	4	1	0	1	5	9	0	0	0	5	0	4	5.0	7	0	0	4	0	0	0	4	At the carnival, the barker cheered for joy, the elephant trumpeted in surprise, the clown laughed manically, and the tightrope walker gasped in fear.	4
+20	0	1	0	0	1	1	8	0	0	0	5	0	4	2.0	12	0	0	4	3	0	3	4	In the garden, hummingbirds sip nectar, butterflies rest, bees collect pollen, and squirrels gather acorns.	4
+49	5	5	1	1	7	2	14	0	1	1	6	0	6	6.0	19	1	0	3	3	1	3	3	In ancient Egypt, statues of gods made of precious stones and gold represented their deities and provided a focus for worship, offerings, and prayer, yet common people were crafted from clay, and even these simple creations reflected and embodied societal norms and values.	4
+35	2	3	0	1	2	3	12	0	1	0	4	1	6	5.0	19	1	1	4	4	0	4	4	Abandoned toys gather dust under the beds in attic rooms, while old photographs reveal a forgotten heritage, and grandchildren ask their grandparents stories of yesterday, and a new generation is born.	4
+39	1	5	2	0	1	6	12	0	2	0	4	1	5	6.0	12	2	2	5	2	0	2	5	In the heart of the forest, deer graze under a pale sky as shadows stretch long, a river babbles gently amidst the rustling leaves, and birds sing melodies that fill the air with their harmony.	4
+33	3	3	0	0	1	5	9	0	2	0	5	0	5	5.0	19	1	1	4	1	0	1	4	On a rainy autumn night, an old woman heard footsteps near her house, her dog started barking, a window shattered, and a shadowy figure emerged from the bushes.	4
+23	1	1	0	0	1	0	11	0	0	0	5	0	4	3.0	15	0	0	4	4	0	4	4	At sunrise, bees gather nectar, sailors navigate open waters, artists uncap paintbrushes, and mountain climbers inspect climbing gear.	4

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADP_constraint
+7	0	0	1	0	0	2	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are the only visitor today.	0
+6	0	0	1	0	0	1	1	0	0	1	1	1	0	0	1	1	0	2.0	0	2	You are holding five eggs.	0
+8	0	0	1	2	0	2	0	1	1	1	0	0	0	0	0	0	0	3.0	0	6	Vote for Candidate A in the election.	0
+6	0	0	1	0	0	1	1	0	1	1	0	0	1	0	1	0	0	2.0	0	2	Your new position starts Monday.	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	You must sign these forms.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+8	0	0	1	1	0	2	2	0	0	1	1	0	0	0	1	1	0	2.0	0	4	I need your presence in room 307.	0
+6	0	1	1	0	0	2	0	0	0	2	0	0	0	1	0	2	0	2.0	1	3	Melt cheese before serving spaghetti.	0
+7	0	0	1	1	0	2	0	0	0	1	0	1	1	1	1	0	0	3.0	1	4	Vases on display are colored blue.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	2	Vacuum the room.	0
+6	0	0	2	0	0	2	0	0	0	0	1	0	1	0	0	0	0	2.0	0	2	Social Security number: 123-45-6789.	0
+5	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Vote in the election.	0
+4	0	0	1	0	0	0	0	0	2	1	0	0	0	0	0	1	0	2.0	0	1	Contact Cindy Stark.	0
+6	0	0	1	1	0	0	0	0	0	0	2	1	1	0	1	0	0	2.0	0	2	Six is fewer than twelve.	0
+7	1	0	1	0	0	1	1	0	0	1	0	2	0	0	1	0	0	2.0	0	3	Your order will be confirmed soon.	0
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	1	0	0	0	3.0	1	2	Votes needed for decision.	0
+7	0	0	1	0	0	1	1	0	0	2	1	0	0	1	1	1	0	3.0	1	2	You need to bring two forms.	0
+8	0	1	1	0	0	1	0	0	1	2	0	1	1	0	1	0	1	3.0	1	4	"Middle Office work scheduled is as follows:  You cannot use the word ""is"" or ""follows"" in this sentence as it requires an adposition (is from, follows after)."	0
+6	0	0	1	0	0	0	1	0	2	1	0	1	0	0	1	1	0	2.0	0	2	You must contact Cindy Stark.	0
+3	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	It rains.	0
+6	0	0	1	1	0	2	0	0	0	0	0	1	1	0	1	0	0	2.0	0	2	Frost is thick on window.	0
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	1	0	2.0	0	4	Vacuum clean the carpet at noon.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The ball is red.	0
+6	0	0	1	1	0	1	1	0	0	1	0	0	1	0	0	0	0	2.0	0	4	Vote for your favourite candidate.	0
+11	0	0	1	0	0	1	1	1	2	2	0	2	0	1	1	2	0	3.0	1	4	I'll be contacting Cindy Stark to make an appointment.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	All apples are red.	0
+6	1	0	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	2	Please find the information below.	0
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	2.0	0	5	There are six sides to a cube.	0
+5	0	0	1	0	0	2	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The deadline is tomorrow.	0
+6	0	0	2	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	"""Bird sings in tree."	0
+5	0	0	1	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	You have been contacted.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I need water.	0
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The ball is round.	0
+5	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	1	0	2.0	0	2	Please bring your passport.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The ball bounces.	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	1	The moon orbits Earth.	0
+14	0	0	3	1	1	4	0	1	0	1	1	1	1	0	1	0	0	3.0	0	8	Zero articles, prepositions, nor auxiliary verbs are included in this sentence.	0
+8	0	0	3	0	1	3	0	0	0	0	1	0	0	0	0	0	0	2.0	0	5	Zero articles, prepositions, or conjunctions.	0
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Snow is white.	0
+8	0	0	1	1	0	5	0	0	0	1	0	0	0	0	1	0	0	3.0	0	3	Vacuum cleaner sales increase in holiday season.	0
+6	0	0	1	0	0	2	2	0	0	1	0	0	0	0	1	1	0	2.0	0	3	I need your report today.	0
+6	0	0	1	1	0	0	0	0	0	0	2	1	1	0	1	0	0	2.0	0	2	Six is greater than four.	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	3.0	0	6	The sun in the sky is not moving.	0
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	Zero: There are three apples.	0
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The ball is round.	0
+8	0	0	1	0	0	0	2	0	2	2	0	0	0	1	1	2	0	3.0	1	3	She requested me to contact Cindy Stark.	0
+5	0	0	1	0	1	2	0	0	0	0	1	0	0	0	0	0	0	2.0	0	2	Zero articles and prepositions.	0
+6	0	0	1	0	0	1	1	0	0	1	0	2	0	0	1	0	0	2.0	0	3	Your order has been confirmed.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises early.	0
+11	0	0	1	2	0	2	1	2	0	2	0	0	0	1	0	2	0	2.0	1	7	Place the bowl under the faucet to fill it up.	1
+8	1	0	1	1	0	1	1	1	0	2	0	0	0	1	0	1	0	2.0	1	6	Attach it under the tablecloth when serving.	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	0	1	0	2.0	1	8	Nail the pieces to the wall, evenly spaced.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Position your foot on the pedal.	1
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	The package arrived with wet contents inside.	1
+9	0	1	1	0	0	2	1	1	0	2	0	0	1	1	0	2	0	3.0	1	5	Install the new applications before using your computer.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	0	1	0	2.0	0	6	Park the car near the bus stop.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog dug beneath the bush.	1
+9	0	0	1	1	0	4	1	0	0	1	1	0	0	0	0	1	0	2.0	0	6	Set your alarm clock for 5 am tomorrow.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Keep your belongings under the bed.	1
+11	0	0	1	2	0	3	2	2	0	1	0	0	0	0	1	1	0	2.0	0	8	She hung her hat on the hook by the door.	1
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	0	1	0	3.0	0	7	Paint a layer of color onto the wall.	1
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	0	1	0	2.0	0	6	Keep her company in the car ride.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	0	1	0	3.0	0	3	Carefully examine the small print on the contract.	1
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Cover the pie with aluminum foil.	1
+8	0	0	1	1	0	4	0	1	0	1	0	0	0	0	0	1	0	3.0	0	6	Arrange a time for tea tomorrow morning.	1
+8	0	1	1	1	0	1	1	1	0	2	0	0	0	1	0	1	0	3.0	1	3	Await him before proceeding with the meeting.	1
+8	0	0	1	2	0	3	0	1	0	1	0	0	0	0	0	1	0	3.0	0	4	Paint the room in shades of blue.	1
+10	0	0	1	2	0	2	1	1	0	1	0	0	2	0	0	1	0	2.0	0	8	Narrow down your options to the preferred few items.	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	0	1	0	2.0	0	4	Keep the noise level down.	1
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	5	I placed my jacket on the hook.	1
+12	0	0	1	2	1	2	3	1	0	2	0	0	0	0	0	2	0	3.0	0	7	Attach the file to your email and send it to her.	1
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Store these cans at room temperature.	1
+11	0	1	1	1	0	2	1	1	0	1	0	1	2	1	1	1	0	2.0	1	9	Keep it at a low simmer until vegetables are tender.	1
+13	0	0	1	3	0	4	0	2	0	1	0	0	2	0	0	1	0	3.0	0	9	Pour enough water into the kettle for a single cup of tea.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	0	1	0	2.0	0	6	Connect it directly to the wall socket.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Put the books on your nightstand.	1
+9	0	0	1	1	0	3	0	1	0	1	1	0	1	0	0	1	0	2.0	0	7	Bring two extra chairs to the conference room.	1
+7	0	0	1	1	0	2	0	1	0	2	0	0	0	0	0	1	0	2.0	0	5	Cover the exposed soil with mulch.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	0	1	0	2.0	0	5	Situate the bookshelf near the window.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	0	1	0	2.0	0	5	Place the jar on the shelf.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat near the fire.	1
+11	0	0	1	1	0	2	1	2	0	2	0	1	1	1	2	0	0	3.0	1	4	I can hear the baby crying from the other room.	1
+12	0	1	1	1	0	4	1	1	0	2	0	0	1	1	1	2	0	2.0	1	9	Store extra food items in the basement if you have space.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	0	1	0	2.0	0	6	Lie the blanket down on the grass.	1
+8	1	0	1	0	0	2	1	0	0	1	0	0	2	0	0	1	0	2.0	0	6	Bring your own reusable bags when shopping.	1
+8	0	0	1	1	0	3	0	1	0	1	0	0	1	0	0	1	0	2.0	0	6	Arrange chairs around the large conference table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	0	1	0	3.0	0	3	Find the key under the rug.	1
+10	0	0	1	2	0	3	1	2	0	1	0	0	0	0	0	1	0	2.0	0	8	Keep your keys in the bowl by the doorway.	1
+9	0	1	1	1	0	3	0	0	0	2	1	0	0	1	0	2	0	3.0	1	6	Add 2 cups of sugar before starting mix.	1
+7	1	0	1	1	0	1	0	1	0	1	0	0	1	0	0	1	0	2.0	0	5	Screw in the last bolt firmly.	1
+13	0	0	1	4	0	4	0	1	0	1	1	0	1	0	0	1	0	4.0	0	9	Expose this plant to sunlight for at least six hours per day.	1
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	0	1	0	3.0	0	4	Set it at the corner of the room.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	0	1	0	2.0	0	5	Place the book on the shelf.	1
+11	0	0	1	2	0	3	3	1	0	1	0	0	0	0	1	1	0	3.0	0	5	I found it in the back pocket of my jeans.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The balloon floats high above the ground.	1
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The books are stacked high on the shelf.	1
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	She hung the painting on the wall.	1
+10	0	0	1	2	0	3	1	1	0	1	0	0	1	0	0	1	0	3.0	0	5	Sell the old car in front of your house.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	0	1	0	2.0	0	7	Pick the red apple on the highest branch.	1
+15	1	0	2	3	1	3	2	1	0	2	0	0	0	1	1	1	0	4.0	1	6	She worked tirelessly on the garden, nurturing it through autumn and into winter.	2
+28	0	0	4	5	1	8	0	6	1	3	0	0	0	1	1	2	0	5.0	1	10	The author of the article recommended visiting Paris in spring and admiring the cherry blossoms in the garden (amidst the flowers, by the fountain).	2
+16	1	1	2	1	0	4	1	3	0	2	0	0	1	1	1	2	0	3.0	1	9	The author thanked the speaker for their kind words, before addressing the audience directly.	2
+17	1	0	1	1	0	5	0	4	0	3	0	0	1	1	1	2	0	3.0	1	8	The teacher kindly requested the pupil to bring the lost book to the classroom next door.	2
+23	1	1	2	2	1	4	6	1	0	3	0	0	1	1	3	2	0	4.0	1	9	Her dog eagerly awaits her arrival by the fireplace, and she longs for him to accompany her on her daily hike.	2
+13	0	0	1	2	0	4	1	3	0	1	0	0	1	0	1	1	0	3.0	0	6	My grandfather built a beautiful barn on the edge of the forest.	2
+18	0	0	1	2	0	4	0	2	2	2	0	0	4	1	1	2	0	6.0	1	4	The chef used local ingredients to create authentic Indian dishes in the heart of New York City.	2
+21	0	0	2	2	0	8	1	3	0	4	0	0	0	2	1	3	0	4.0	2	7	The bookstore owner placed a notice in the corner, inviting passersby to buy used books from his back room.	2
+15	0	0	2	2	0	3	1	3	0	2	0	0	2	1	1	1	0	4.0	1	6	I found the old map in the attic, hidden behind a heavy trunk.	2
+14	0	1	1	1	0	4	2	2	0	2	0	0	1	1	1	2	0	3.0	1	7	The old woman placed her keys in her purse before leaving the house.	2
+13	0	0	1	2	0	5	0	3	0	1	0	0	1	0	1	1	0	2.0	0	9	The artist placed the paintings near the windows for optimal lighting effect.	2
+20	0	0	2	4	1	5	2	2	1	3	0	0	0	1	2	1	0	3.0	1	8	My friend from Paris loves studying at the library, but he hates parking in downtown during the holidays.	2
+17	0	0	1	2	0	7	1	3	0	1	0	0	2	0	1	1	0	3.0	0	12	The bookstore employee recommended an excellent sci-fi novel for my brother in the science fiction section.	2
+25	0	0	4	4	1	7	2	4	0	2	0	0	0	1	1	1	0	4.0	1	15	Despite her exhaustion, the actress agreed to sign her autographs at the meet-and-greet near the auditorium after the performance.	2
+10	0	0	1	1	0	4	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The art collector placed the painting above the fireplace.	2
+13	1	0	1	0	1	3	2	1	0	2	0	0	1	0	1	2	0	4.0	0	6	She opened the drawer and found her grandmother's old necklace therein.	2
+15	1	0	1	3	0	4	1	3	0	1	0	1	0	0	1	0	0	3.0	0	7	My cousin is moving to the edge of the city next to the forest.	2
+17	0	0	2	2	0	6	0	3	0	2	0	0	2	1	1	0	0	3.0	1	7	The baby bird flew above the crowded city square, landing on a nearby tree branch.	2
+15	0	0	1	1	1	4	1	2	0	4	0	0	1	2	1	2	0	4.0	2	7	My grandma lives next door to the park and enjoys watching the children play.	2
+18	0	0	2	3	1	4	2	2	0	1	0	0	3	0	1	0	0	3.0	0	8	Despite its location near the busiest intersection, this store remains quiet and peaceful in its courtyard.	2
+16	0	0	1	2	1	3	1	3	0	2	1	1	1	0	1	2	0	3.0	0	7	The monkey is holding a banana with one hand and peeling it with the other.	2
+11	0	0	1	1	1	3	3	0	0	2	0	0	0	0	1	2	0	3.0	0	6	He forgot his map at home but remembered his umbrella.	2
+11	0	0	2	1	0	2	1	1	2	2	0	0	0	1	1	1	0	3.0	1	5	The sun sets behind Mount Everest, illuminating its peak.	2
+17	0	0	1	3	1	5	1	4	0	2	0	0	0	0	1	2	0	3.0	0	10	The artist placed the sculpture in the center of the park and installed lights around it.	2
+14	0	0	1	2	1	4	1	4	0	1	0	0	0	0	1	1	0	4.0	0	6	She placed the letter on the piano and the flowers in the vase.	2
+18	1	0	2	2	1	4	2	3	0	2	0	0	1	0	2	2	0	3.0	0	9	The children gathered fruit in the orchard, and later they sold it at the local market.	2
+21	1	0	5	1	0	4	3	0	0	2	1	0	3	1	1	2	0	3.0	1	13	"Two weeks ago, my uncle handed me his ancient, dusty copy of ""Great Expectations"" to read."	2
+16	2	0	1	0	1	5	0	3	0	2	0	0	0	0	1	2	0	4.0	0	7	The author praised the chef's abilities extensively but criticized the restaurant's location fiercely.	2
+18	0	0	1	3	0	5	4	2	0	2	0	0	1	1	2	1	0	5.0	1	4	My friend introduced me to her uncle who lives on the top floor of that apartment building.	2
+11	0	0	1	1	0	3	1	1	0	1	0	1	1	0	1	0	0	3.0	0	3	My granddaughter's new school is situated by the riverside.	2
+23	2	0	3	2	1	6	3	1	0	3	1	0	1	1	2	2	0	3.0	1	9	  * My laptop bag weighs 10 pounds when fully loaded, and it takes a toll on my shoulders over long distances.	2
+35	0	1	3	5	0	11	3	5	2	3	0	0	2	2	2	3	0	5.0	2	14	Despite her fear of drowning, she embraced the challenge of scuba diving in the murky waters off Key Largo, relishing the thrill each time she discovered new wonders on the ocean floor.	2
+18	1	0	1	3	1	5	2	3	0	2	0	0	0	0	1	2	0	3.0	0	7	The artist painted the sunflowers in a field and arranged them artfully in his gallery for exhibition.	2
+12	0	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	4	The monk read from the sacred scrolls under the ancient tree.	2
+24	0	0	3	6	0	5	2	3	1	1	0	1	2	0	1	0	0	4.0	0	8	In the early hours of Monday, she was found dead near the pier, with a bag of rocks by her side.	2
+19	1	0	2	2	0	6	2	2	0	3	0	0	1	2	1	2	0	4.0	2	9	The caterpiller damaged the leaves of my oak tree extensively, leaving it exposed to harsh winter conditions.	2
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	2
+26	1	0	2	4	1	7	4	4	0	2	0	0	1	0	2	2	0	4.0	0	15	I always park my car in the shade during the summer, but the tree beside it casts an annoying leaf shadow on my vehicle.	2
+12	0	0	1	2	0	3	2	0	0	0	0	1	3	0	1	0	0	3.0	0	4	Her parents were proud of her excellent grades in high school.	2
+14	1	0	1	2	1	4	2	1	0	2	0	0	0	0	1	0	0	4.0	0	6	My uncle works at the police station but lives miles away from it.	2
+19	1	0	1	4	0	5	2	2	0	3	0	0	1	1	1	1	0	4.0	1	15	I prefer playing the piano with felt hammers in my living room instead of on the grand stage.	2
+12	0	0	3	1	0	2	1	2	0	1	0	0	2	0	0	0	0	2.0	0	5	Under the desk, there was a small, red toy.	2
+16	1	0	1	4	0	3	1	2	3	1	0	0	0	0	1	1	0	3.0	0	10	The woman from Guatemala spoke Spanish fluently with her neighbor from Colombia at the park.	2
+15	0	0	1	1	1	4	0	3	0	2	0	1	2	0	1	1	0	3.0	0	6	The new building is situated near the city hall and overlooks the main river.	2
+9	0	0	1	1	0	3	2	0	0	1	0	0	1	0	1	0	0	2.0	0	5	My grandmother lives next door to her bakery.	2
+21	0	0	1	2	1	9	2	2	0	3	0	0	1	0	1	1	0	3.0	0	10	My uncle works at the airport baggage claim but lost his pass key to the secured storage room last night.	2
+19	0	0	1	3	1	6	1	3	0	1	0	0	3	0	1	1	0	4.0	0	9	The chef prepared a delicious vegetarian meal with mushrooms on top and a sweet potato sauce beneath it.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The vase rests atop the pedestal gracefully.	2
+20	1	0	3	3	1	4	2	0	3	1	0	0	2	0	1	1	0	5.0	0	5	Under Secretary Sullivan, your proposal requires considerable debate in Congress and subsequently, extensive deliberation by our allies.	2
+11	1	0	1	1	0	3	0	2	0	0	0	1	1	0	1	0	0	3.0	0	6	The artist's easel is next to the open window.	2
+27	1	1	4	3	1	7	0	1	0	5	0	0	3	0	1	2	1	3.0	1	12	In order to explore the ancient ruins, archaeologists frequently enter sites through narrow trenches, climb over steep hills, and dig beneath decayed structures.	4
+26	2	1	3	2	1	5	3	3	0	5	0	0	1	1	0	5	0	4.0	1	17	Bring your skis to the mountains, put them in the rack, fasten them securely and enjoy the powder while savoring hot chocolate afterwards.	4
+36	1	0	4	4	2	9	3	4	1	3	0	0	4	1	2	3	0	6.0	1	16	Last year, we took a wonderful trip to Disneyland, enjoying ourselves greatly, yet my husband's allergies turned a day at the park into an experience full of discomfort and constant sniffling.	4
+37	1	0	5	4	2	9	5	1	0	6	0	0	3	2	2	6	0	4.0	2	15	Several farmers transport their goods using donkeys, but during rainy seasons, they cover their produce carefully with plastic sheets, put them under the sheds, and load them onto trucks to prevent damage.	4
+28	2	0	4	4	1	6	2	2	0	4	0	1	1	1	0	3	1	5.0	2	9	When preparing dinner at home, it is necessary to shop for ingredients, cook the meals, and serve them afterwards on tables with the family.	4
+18	0	0	3	3	1	5	0	5	0	1	0	0	0	0	1	1	0	3.0	0	9	The dog chased the cat under the bridge, over the stream, and into the thicket.	4
+21	1	0	2	2	0	6	1	3	0	3	0	0	2	2	1	3	0	4.0	2	10	The professor presented his paper before the committee of esteemed researchers, receiving valuable feedback to further improve the study.	4
+26	0	1	4	4	2	6	0	3	0	2	0	0	2	0	1	0	0	4.0	0	12	 under the tree's, in the tree's cool shade, with charcoals on the smooth bark, and while parents chatted and sipped.	4
+25	1	0	3	3	0	6	3	3	0	2	0	1	3	2	2	2	0	4.0	2	15	The artist sells his paintings at the local gallery, which is near the town square, making it easily accessible for prospective buyers.	4
+33	0	0	3	4	1	8	3	5	0	5	0	0	3	1	1	3	0	4.0	1	15	In the rainy city, she found her umbrella under the seat, left her bag at the coat check and dashed through the crowded museum to catch the last guided tour.	4
+17	0	1	2	2	0	7	0	2	0	2	0	0	1	0	2	2	1	3.0	1	6	Although the chef prepares outstanding dishes, the restaurant requires reservations for weekend diners during holidays.	4
+26	0	0	4	5	1	8	2	2	0	2	0	0	2	0	1	1	0	4.0	0	12	Besides the lake at sunset, they enjoyed hot chocolate and cookies inside their cabin, under the soft glow of battery-operated lanterns.	4
+27	1	1	5	1	1	6	1	3	0	6	0	0	1	1	1	4	1	4.0	2	13	After finishing dinner, we drove to the movie theater, parked nearby, bought tickets, and entered the auditorium to watch the latest blockbuster.	4
+20	0	0	2	2	0	7	1	3	0	2	0	0	2	1	1	2	0	3.0	1	9	A successful painter placed her easel near an orchard's edge, creating landscapes from a unique vantage point.	4
+27	1	1	3	3	0	5	3	3	0	5	0	0	2	4	2	2	0	8.0	4	5	A child held a red balloon with strings, tethered to his hand while dancing, oblivious to the wind that threatened to carry it away.	4
+19	2	0	3	3	0	6	1	1	0	2	0	0	1	0	1	1	0	3.0	0	11	Despite heavy rain, farmers carefully carried their freshly-picked crops under raincoats to the storage barn.	4
+34	3	0	5	2	1	9	4	2	0	5	0	0	3	0	1	5	1	3.0	1	18	When planning our road trip, we considered different transportation means, chose a bus for environmental reasons, bought our tickets online, and booked a campsite nearby for our first night.	4
+17	0	0	2	2	0	3	2	2	0	3	0	0	2	2	1	2	0	3.0	2	6	The baby crawls towards the box, reaching out its little hands to pull it open.	4
+28	2	0	5	1	2	6	0	5	0	4	0	0	3	1	2	2	0	5.0	1	8	The sales representative made an excellent pitch, but the customer remained noncommittal, and ultimately walked away, leaving the proposal on the table, unclaimed.	4
+36	2	2	4	2	0	7	5	1	0	7	0	2	3	4	3	4	1	5.0	5	14	After finding the lost cat, kind neighbors left food in their yard, expecting it would encourage its return, not realizing that their own curious children might mistakenly attract it away from home.	4
+25	0	0	3	4	0	7	3	3	0	2	0	1	1	1	1	1	0	4.0	1	11	Under my chair, in the middle of the room, you can see my grandmother's wooden chess set displayed on a table.	4
+18	0	0	4	1	1	5	0	2	0	3	0	0	2	0	1	3	0	3.0	0	7	Beneath the large tree, children spread blankets, unveiled sandwiches, and commenced a delightful picnic.	4
+34	2	2	3	1	0	8	0	2	0	9	0	1	3	8	1	5	0	7.0	8	12	Children with unmanageable coughing fits may have difficulty reaching high shelves while cleaning, thus needing to bring a ladder to help access hard to reach areas, despite finding the task frustrating.	4
+19	0	0	2	3	0	5	2	2	0	3	0	0	2	1	2	2	0	4.0	1	8	She served lunch on an outdoor table, under trees that provided adequate shade from the scorching heat.	4
+20	2	0	4	2	1	4	0	3	0	1	0	0	2	0	1	0	0	3.0	0	14	A child's balloon drifted up and away, beyond the rooftops, to the vast, open sky.	4
+31	2	1	3	4	1	9	2	3	0	4	0	0	2	2	1	2	1	6.0	3	11	When cooking for my vegetarian friend at a backyard barbecue, I grilled various vegetables to the side, instead of using the center grill meant for burgers and hotdogs.	4
+20	1	1	4	1	1	5	1	2	0	1	0	1	2	0	2	1	1	3.0	1	11	Although the restaurant is small, it offers outdoor dining, street parking, and a garden in back.	4
+18	0	0	2	2	0	5	1	4	0	3	0	0	1	1	1	1	0	4.0	1	6	The elderly man enjoyed his tea beside the roaring campfire, the sun setting behind the mountains.	4
+29	1	0	2	5	0	10	2	6	0	2	0	1	0	1	2	1	0	5.0	1	18	The chef presented a beautifully arranged assortment of sushi for his guests in the dining room during the lunch hour, which was a feast for the eyes.	4
+40	0	0	5	6	1	11	1	5	0	7	0	0	4	2	1	2	0	5.0	2	25	At the museum, the group passed under an impressive entrance arch, placed their coats in a designated storage room, walked through long corridors lined with displays, and entered a large hall filled with historical artwork.	4
+28	3	1	2	4	1	8	1	2	0	2	0	2	2	0	2	2	1	5.0	1	7	While the new software may greatly improve productivity for programmers, it may take salespeople away from customer interactions and out into the field for necessary trainings.	4
+24	3	0	4	3	0	4	1	3	0	3	0	0	3	0	1	0	0	3.0	0	16	I passed through a long, dark tunnel, turned right onto a dirt path, then continued uphill to a breathtaking viewpoint.	4
+19	0	0	1	3	0	4	1	1	4	1	0	0	3	0	1	1	0	4.0	0	7	A businessman from Japan presented new ideas at our last conference in New York City's Sheraton Center.	4
+27	1	1	5	2	1	7	1	2	0	5	0	0	2	0	1	4	1	3.0	1	15	Before starting the project, we carefully evaluated the risks, consulted experts for input, took several safety precautions, and proceeded with careful planning.	4
+31	1	0	4	4	2	11	0	2	0	4	0	0	2	2	1	4	0	5.0	2	12	Despite heavy rain, runners completed the marathon, seeking refuge under nearby trees and tents during downpours, and finally crossing the finish line to warm applause from spectators.	4
+30	0	0	3	5	1	7	1	6	0	3	0	0	3	1	1	2	0	4.0	1	11	After dinner at the Italian restaurant, in the city, we took a walk through the beautiful public gardens and sat by the pond to enjoy the evening.	4
+28	2	0	4	5	0	6	2	4	0	5	0	0	0	1	1	1	2	7.0	3	19	Underneath the overpass, behind a truck loaded with crates, next to a man sitting on a bench, she found her lost dog barking loudly.	4
+27	1	0	3	3	1	7	3	3	0	3	0	0	3	1	1	2	0	5.0	1	9	She always sits under the shady tree, with a blanket spread, reading her favorite novels and sipping her favorite fruit tea from a thermos.	4
+27	0	0	3	4	0	7	2	4	0	3	0	0	4	2	2	1	0	4.0	2	10	The cat nestled in the cozy corner of the sunlit window, overlooking the vibrant flower garden, with its shiny tag resting against its fur.	4
+49	1	0	5	12	1	16	1	7	0	6	0	0	0	2	1	4	0	5.0	2	33	Before the event, participants placed their posters on boards near the registration desk, later picked up prizes at a ceremony held inside the auditorium, returned gifts at a donation table near the stage, and exchanged pleasantries in between at tables spread throughout the building.	4
+30	0	0	4	3	1	11	0	4	0	1	0	0	6	0	1	2	0	4.0	0	11	The new building on the north end of campus offers students an easy access to a large library, computer labs, convenient stores, and numerous food options.	4
+18	1	0	3	1	0	4	1	3	0	3	0	1	1	2	2	2	0	3.0	2	8	In the forest, a hiker spotted a deer that was badly injured, requiring immediate care.	4
+27	0	0	3	3	1	6	3	5	0	5	0	0	0	2	1	4	0	5.0	2	13	I followed the directions to enter the room, turned the corner, and found him sitting near the window with a book in his hand.	4
+49	1	2	8	7	2	12	4	3	0	6	0	1	1	2	2	1	1	7.0	3	18	Before setting off for the conference, please ensure your laptop battery is fully charged, that you bring along an adapter for European plugs, and remember to pack your papers, notebook, and a USB drive for backups, into your carry-on bag.	4
+22	0	0	2	5	0	8	0	4	0	1	0	0	2	0	1	0	0	4.0	0	11	Siblings argued for a toy in front of the store window, unnoticed by a passerby on a busy street corner.	4
+20	0	0	4	1	1	6	0	7	0	1	0	0	0	0	1	1	0	4.0	0	10	The woman handed a flower each to the gardener, the painter, the musician, and the poet.	4
+22	3	0	3	1	1	4	2	2	0	4	0	0	1	1	1	3	0	4.0	1	14	She bought new shoes, but left them at the bus stop, so eventually had to buy another pair again.	4
+24	0	1	4	3	0	6	1	4	0	2	1	0	1	1	2	1	0	3.0	1	20	The artist displayed his creations on the walls, above the couch, in two separate rooms, for the public to admire.	4
+17	2	1	1	1	0	7	1	2	0	2	0	0	0	1	2	2	0	3.0	1	7	The children played cards inside while their parents picked tomatoes outside during the summer gardening party.	4
+21	1	0	2	3	0	5	1	4	0	3	0	0	2	1	1	2	0	4.0	1	9	I took a detour through the scenic vineyards, eventually reaching the summit with breathtaking views of the surrounding countryside.	4
+22	0	1	2	3	0	7	1	3	0	2	0	1	1	0	1	2	1	3.0	1	12	In order to reduce costs, we must decrease the consumption of goods in these regions during the upcoming holiday season.	6
+29	2	0	3	4	1	6	2	3	0	4	1	0	2	2	1	2	0	5.0	2	9	Despite the initial reluctance, he finally agreed to support the plan, resulting in a collaboration with three neighboring regions and reducing our costs by almost half.	6
+19	0	0	3	2	0	5	2	2	0	3	0	0	2	1	1	1	0	5.0	1	6	Despite our repeated requests, the new office complex remains incomplete, obstructing our access to the courtyard.	6
+32	1	1	3	3	0	7	4	4	0	4	0	2	2	3	3	3	0	7.0	3	9	Under the current circumstances, the CEO refused to endorse our proposal, as it could jeopardize our relationship with the major shareholder who had previously expressed disagreement on this matter.	6
+45	2	0	4	8	2	13	0	5	1	7	0	0	2	2	1	4	0	7.0	2	16	In response to a fire emergency during the late hours, fire fighters from station X hurriedly arrived and set up equipment to put out the blaze, eventually preventing the spread to neighboring buildings, but causing extensive damage to the affected property.	6
+22	0	0	2	4	0	5	2	1	0	3	1	2	0	1	1	1	0	5.0	1	9	Under the proposed plan, our competitors would be positioned to gain up to 40% market share at our expense.	6
+24	0	0	3	3	1	7	1	2	0	2	0	2	2	1	1	1	0	4.0	1	12	With a combination of rain, hail and wind, most roofers will be unable to perform their duties for the coming week.	6
+26	1	2	2	3	0	6	1	4	0	5	0	1	1	3	2	1	0	5.0	3	13	Under the circumstances, we suggest offering an apology instead of continuing with planned marketing actions for a potential period until the issue is resolved.	6
+27	0	0	2	4	0	6	3	1	0	4	1	1	1	2	1	2	1	5.0	3	11	Despite the company's failure to submit their financial reports on time, we have had to continue funding their operations in excess of $1.	6
+25	0	0	5	3	1	8	1	6	0	1	0	0	0	0	1	1	0	4.0	0	15	From the store I bought a hat, a pair of sunglasses, some sunscreen, an umbrella, and a bottle of water.	6
+25	2	0	3	5	0	6	1	3	0	2	0	1	2	1	2	1	0	4.0	1	10	From the south of the city, the tallest building was seen with its lights on until late at night, casting long shadows.	6
+21	0	1	2	2	0	5	3	1	0	3	1	0	2	2	1	3	0	5.0	2	8	After our discovery, we continued our efforts for five more days before receiving permission to search an additional site.	6
+21	1	0	2	5	0	6	1	1	0	1	1	0	3	0	1	1	0	3.0	0	14	Our team identified 153 cases last week with no resolution as of yet, despite ongoing efforts from various departments.	6
+23	0	0	1	4	1	7	2	4	0	2	1	0	1	0	1	2	0	4.0	0	11	The artist displayed her work in the art gallery for seven hours but sold nothing despite the numerous visitors to the exhibition.	6
+20	1	1	3	6	0	5	0	2	0	1	0	1	0	1	0	0	0	3.0	1	13	 through a maze of alleys, beside a pile of trash, before finally being driven off by police.	6
+32	2	0	3	6	1	9	1	2	0	2	2	1	2	0	2	0	0	4.0	0	13	Despite his efforts, only five employees responded to the deadline for voluntary redundancy packages, and ten more were selected involuntarily for dismissal due to the department's budget constraints.	6
+30	1	0	3	4	2	9	4	1	0	2	0	0	4	1	2	2	0	5.0	1	14	Despite its small size, it has a large number of lakes and ponds throughout its territory, with fish populations that attract many local anglers and tourists alike.	6
+36	1	2	2	7	1	9	4	2	0	3	0	1	4	1	1	1	0	5.0	1	19	From all available evidence it looks like they have left for their vacation at the end of next week, under normal circumstances with proper authorization and after submitting their vacation requests ahead of time.	6
+29	0	0	2	6	1	12	1	2	0	2	0	0	3	1	1	1	0	6.0	1	10	The team discovered evidence of arsenic contamination beneath their new apartment, leading to further discussions with the property manager about reimbursement for damages and possible relocation expenses.	6
+20	0	0	4	3	1	7	2	2	0	1	0	0	0	0	1	1	0	4.0	0	10	Under the conditions of rain, sun, and snow, they constructed their tents on the mountain slope.	6
+28	0	0	2	6	0	7	2	2	0	1	2	1	4	1	1	1	0	5.0	1	17	Through intense negotiations, our representatives were able to secure a deal for five patents in exchange for three of ours in the ongoing intellectual property talks.	6
+19	2	1	2	2	0	5	2	0	0	2	1	0	2	0	1	2	1	3.0	1	10	Despite lacking proper training, she fearlessly led her squad into intense combat situations for over two months.	6
+24	0	1	1	2	1	8	1	5	0	3	0	1	1	1	2	3	0	4.0	1	12	The project will face delays until the team completes their review of the blueprints and approves the construction drawings for the new building.	6
+24	0	0	2	4	0	6	4	1	0	3	0	0	2	1	1	2	1	4.0	2	10	Despite her insistence to stay at home, he urged her to pack an additional change of clothes for their upcoming camping trip.	6
+27	2	1	1	6	0	5	0	2	2	1	2	1	4	1	2	0	0	4.0	1	15	Nearly 38 percentages of total revenue for Google came from mobile ads within the last quarter while for Microsoft the amount was merely close to 22.	6
+30	0	0	2	5	1	8	0	3	0	1	6	1	0	1	1	1	0	8.0	1	6	The company announced losses of $3 million, $5 million being from production delays in the east and $2 million from marketing inefficiencies in the north.	6
+17	1	1	1	1	0	5	1	2	0	2	0	1	1	1	2	1	0	3.0	1	5	The company's revenue has dropped dramatically after its competitors introduced cheaper products into the market.	6
+50	3	0	16	6	2	5	3	3	0	4	4	1	1	3	1	2	0	8.0	3	19	" With this challenge, we were forced to adapt, leading us behind a steep learning curve but ultimately in a position to surpass our competitors (5 ""behind"", 1 ""in"", 1 ""ultimately in"", 1 ""but ultimately"" )."	6
+21	1	0	2	4	0	4	1	2	2	3	1	0	0	1	1	1	0	4.0	1	10	After five failed attempts, we managed to successfully deliver a package from Singapore to Paris through a courier service.	6
+26	1	1	3	2	1	6	2	4	0	3	2	0	1	1	3	3	0	4.0	1	7	With nine of his employees, he overlooked the production line, while two oversaw the inventory and the other handled the sales inquiries daily.	6
+33	1	0	3	6	1	8	0	3	2	3	3	0	2	1	1	3	0	5.0	1	11	From November to February, the company imported 18,000 units of the product via three different ports but experienced delays at all customs offices, reducing operational efficiency by about 33%.	6
+26	1	1	4	3	1	6	2	3	0	4	0	0	1	2	2	1	0	5.0	2	13	The children sat under the apple tree, enjoying their lunch, protected from the hot sun, but with bees buzzing all around them.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  1.	6
+20	1	0	1	3	2	7	0	1	0	1	0	1	2	0	1	0	0	4.0	0	4	The company's profits were negatively impacted due to unexpected expenses for both raw materials and employee severance packages.	6
+29	3	0	5	2	0	6	1	2	0	3	1	3	3	1	2	1	0	4.0	1	13	Under normal circumstances, your company should be providing quarterly financial reports, however, recently, these reports are arriving delayed by approximately three weeks every quarter.	6
+32	1	0	3	8	0	7	2	2	2	2	1	2	1	1	2	1	0	5.0	1	11	From October through December, approximately forty new businesses were established in our zone with a majority of them not having secured any type of loan for start-up capital.	6
+47	0	1	6	8	1	16	0	8	0	4	0	1	2	2	1	1	0	7.0	2	21	In the upcoming meeting, the team is planning the agenda for the presentation, focusing on sales figures for each department, market share analysis, and financial objectives for the following year, with lunch provided for attendees towards the middle of the session.	6
+26	2	0	2	3	1	6	3	2	0	2	2	0	3	1	1	1	0	6.0	1	7	For his new project, they proposed the acquisition of an older warehouse located three miles north and six miles east of our main campus.	6
+31	1	1	3	4	1	6	4	1	0	6	1	2	1	4	3	2	0	6.0	4	11	We found thirteen books in the study, with most of them having pages dog-eared or torn off, indicating they had been thoroughly reviewed for our business case presentation.	6
+27	0	0	2	4	1	8	1	5	0	1	0	1	3	0	1	1	0	5.0	0	10	On the contrary, for our purposes next year's budget must accommodate a tenfold expansion and an overhaul of all equipment for these specific units.	6
+19	0	0	2	4	0	5	2	2	1	1	1	1	0	0	1	0	0	3.0	0	11	Despite his denial, he was found five miles from the scene of the crime on Monday morning.	6
+19	1	0	3	3	0	4	1	0	2	2	1	0	2	1	1	2	0	4.0	1	6	From October through December, they transported 3,400 tons of cargo using only eco-friendly electric vehicles.	6
+25	1	0	3	5	1	6	0	4	0	1	1	1	2	0	1	0	0	5.0	0	12	The book is hidden beneath three old newspapers, next to a vase of roses, and to the left of the wooden statue.	6
+23	1	0	2	3	0	7	2	4	0	2	0	0	2	1	2	1	0	4.0	1	11	The teacher corrected our exams outside the classroom, beside the large oak tree where the sun hid behind its sprawling branches.	6
+30	3	0	3	3	0	7	1	3	0	5	3	0	0	3	1	3	1	7.0	4	9	With three miles remaining, the runners encountered a detour causing them to double back for two miles, setting back each competitor's finish by approximately fifteen minutes.	6
+31	1	0	2	4	1	7	2	2	2	2	2	1	3	1	2	2	0	5.0	1	19	Nestor's team proposed a new marketing strategy that would shift our emphasis towards Latin American markets and away from Europe by 20% for a six-month period.	6
+22	0	0	1	4	1	6	1	4	0	3	0	0	0	1	1	1	0	5.0	1	8	The cat chased the mouse from under the bed but stopped at the door to listen for its prey's breathing.	6
+36	1	1	5	3	0	7	6	3	0	3	2	2	2	1	3	5	0	5.0	1	16	Under the old contract, we would pay you 15 dollars per hour; however, under the new agreement we won't pay you anything until you fulfill a 30-day training program.	6
+20	1	0	7	3	1	0	0	4	0	3	0	0	0	1	0	1	0	3.0	1	9	 before the, right before the, throughout the, caused both, and causing, to shudder].	6
+23	1	0	1	3	2	7	1	3	0	2	0	1	1	0	1	2	1	4.0	1	12	Our decision to invest significantly in this technology will save the company both time and energy in the mid to long term.	6

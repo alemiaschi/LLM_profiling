@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+6	0	0	1	0	0	2	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	Colorless bubbles filled the room.	0
+7	0	0	1	0	0	2	0	1	0	1	0	0	2	0	1	1	0	2.0	0	3	Colorless shades fill the unfeeling expanse.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	1	The color red.	0
+10	0	0	4	0	0	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	4	The colors are: red, green, blue.	0
+3	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Color wheel.	0
+12	0	0	5	1	0	2	0	0	0	0	0	0	4	0	0	0	0	2.0	0	6	Colors of fall: red, orange, yellow, brown.	0
+9	0	0	4	0	0	1	0	0	0	0	0	0	4	0	0	0	0	1.0	0	7	Colorless, faceless, weightless, unyielding silence.	0
+12	0	0	5	1	0	2	0	0	0	0	0	0	4	0	0	0	0	2.0	0	6	Colors of autumn: red, orange, yellow, brown.	0
+10	0	0	5	0	0	1	0	0	0	0	0	0	4	0	0	0	0	2.0	0	6	Colors: red, blue, green, yellow.	0
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	5	Colors blend together in a beautiful rainbow.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Red apple.	0
+9	0	0	1	2	0	3	0	3	0	0	0	0	0	0	0	0	0	3.0	0	3	The color of the sunset over the horizon.	0
+5	0	0	2	0	0	1	0	0	0	0	0	0	2	0	0	0	0	1.0	0	3	Colorless, formless entity.	0
+7	0	0	2	0	1	1	0	1	0	0	0	0	2	0	0	0	0	2.0	0	5	Colorless and featureless, the expanse.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	1	The color red.	0
+5	0	0	1	1	0	2	0	1	0	0	0	0	0	0	0	0	0	2.0	0	3	Colors of the rainbow.	0
+5	0	0	1	1	0	2	0	1	0	0	0	0	0	0	0	0	0	2.0	0	3	Colors of the rainbow.	0
+6	0	0	1	1	0	2	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	The size of a mountain.	0
+6	0	0	1	1	0	2	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	The colors of the rainbow.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	3.0	0	4	Colors of the rainbow blend beautifully.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	A red apple.	0
+6	0	0	1	1	0	2	1	1	0	0	0	0	0	0	0	0	0	2.0	0	3	The color of my cat.	0
+9	0	0	4	0	0	2	0	0	0	0	0	0	3	0	0	0	0	1.0	0	6	Color wheel, red, green, blue.	0
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	Colorless shapes dance against the black background.	0
+7	0	0	1	1	0	3	0	1	0	0	0	0	1	0	0	0	0	2.0	0	4	Colorful pebbles in a glass jar.	0
+33	3	1	6	1	3	7	1	3	0	3	1	3	1	2	4	1	0	5.0	2	12	" ""changes"" and ""turns"" but the instructions specify 0 verbs, thus this response is incorrect but it is included here as an example of how mistakes can happen."	0
+11	0	0	3	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	5	Colorless, scentless, tasteless water flowed in the stream.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	1	The color red.	0
+8	0	0	2	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	2	"""The colorful pebbles lined the beach."	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	1	The color red.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	1	The color red.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	1	The color red.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Red trees.	0
+9	0	0	3	0	1	1	0	1	0	0	0	0	3	0	0	0	0	3.0	0	5	The colors red, green, and blue.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	A red ball.	0
+7	0	0	1	1	0	2	1	1	0	0	0	1	0	0	1	0	0	2.0	0	3	This is a description of color.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	A red ball bounced on the green grass.	0
+6	0	0	2	0	0	2	0	0	0	0	0	0	2	0	0	0	0	2.0	0	3	Red apple, green leaf.	0
+8	0	0	1	0	1	2	0	1	0	1	0	0	2	0	1	1	0	4.0	0	3	Blue and red colors fill the room.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	This is a red apple.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Red apples.	0
+6	0	0	1	1	0	2	1	1	0	0	0	0	0	0	0	0	0	2.0	0	3	The color of her eyes.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	This is a beautiful day.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Colors blend in an outdoor scene.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	1	The color red.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	3.0	0	4	Colors of the rainbow blend together.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Colors shimmer upon the lake.	0
+19	0	0	3	2	0	4	1	4	0	2	0	2	1	0	1	0	0	4.0	0	15	 there are no active verbs in the sentence; all verbs in the sentence have been removed).	0
+4	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	1.0	0	2	The Color Red.	0
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Colors are vivid.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps onto the fence.	1
+6	1	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	3	I read your message carefully.	1
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	Rain drenches the pavement.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps.	1
+6	1	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	4	Dance joyfully in the rain.	1
+9	0	0	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	3.0	1	4	I climb the ladder to reach the rooftop.	1
+7	0	0	1	0	0	1	2	1	0	1	0	1	0	0	1	2	0	2.0	0	3	I'll draw you a map.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat jumps.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The students sing a national anthem.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barks.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	1
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	Cats chase mice.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps on the mat.	1
+9	1	0	1	2	0	2	1	1	0	1	0	0	0	0	0	0	0	3.0	0	4	Meditate peacefully in the quiet of your room.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The moon rises in the night sky.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barks.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets majestically over the horizon.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps.	1
+6	1	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Cats purr silently in contentment.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog barks at the mailman.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets gradually behind the horizon.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun sets majestically.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	1
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	I can swim in the pool.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barks.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps in the sun.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barks.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	I paint murals for a living.	1
+7	0	0	1	0	0	2	0	1	0	1	0	0	2	0	1	1	0	2.0	0	3	The computer calculates complex mathematical equations.	1
+5	1	0	1	0	0	1	1	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Celebrate your victory passionately.	1
+7	1	0	1	0	0	1	1	0	0	1	1	1	0	0	1	1	0	2.0	0	3	You're juggling five balls gracefully.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun sets each evening.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sleeps peacefully on the windowsill.	1
+9	0	0	1	1	1	5	0	0	0	1	0	0	0	0	1	1	0	3.0	0	4	Plants photosynthesize carbon dioxide into oxygen and glucose.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The snowflakes twinkle softly in the moonlight.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The car drives smoothly on the highway.	1
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	I dance elegantly in this beautiful ballroom.	1
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	I will paint the walls tomorrow.	1
+5	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Jump over the puddle.	1
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I'll finish the report by tonight.	1
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	Cats hunt mice.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps on the bed.	1
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Squirrels burrow.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	1
+7	0	0	1	1	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	The sun Sets over the horizon.	1
+23	0	0	11	2	1	2	1	2	0	0	0	1	2	0	0	0	0	5.0	0	6	" ""am,"" ""cooking,"" and ""are"" with the implicit ""we"" in the plural form."	1
+17	0	0	3	2	1	5	0	4	0	2	0	0	0	0	1	1	0	3.0	0	10	The cat chases the mouse, hides from the dog, and drinks from the bowl.	3
+13	0	0	3	0	1	4	0	2	0	3	0	0	0	0	3	1	0	3.0	0	8	The sun rises, birds sing, and the wind scatters leaves.	3
+15	1	0	3	0	1	4	0	3	0	3	0	0	0	0	3	1	0	3.0	0	9	The sun rises, the birds sing, and the wind blows leaves away.	3
+14	0	0	3	2	0	4	0	2	0	3	0	0	0	0	0	1	0	3.0	0	8	Dance, write, paint the rainbow colors in a canvas at twilight.	3
+12	1	0	3	0	1	3	1	1	0	2	0	0	0	0	1	1	0	3.0	0	5	The dog chases, catches, and chews its tail eagerly.	3
+10	1	0	3	0	1	1	0	0	0	3	0	0	1	0	0	1	0	3.0	0	5	Dance, laugh, and cook delicious meals together.	3
+10	0	0	3	0	1	2	0	0	0	4	0	0	0	0	1	1	0	3.0	0	5	Dogs bark, jump, and retrieve thrown sticks.	3
+14	0	0	4	1	1	3	0	1	0	3	0	0	1	0	0	1	0	4.0	0	6	Swim, splash water, and dive into the crystal-clear pool.	3
+21	0	1	2	1	0	7	0	3	0	4	0	0	2	2	3	1	0	4.0	2	10	The sun sets while the river flows around jagged rocks, birds flying overhead intermingle to create a breathtaking scene.	3
+15	0	1	2	2	0	3	2	2	0	3	0	0	0	2	1	2	0	4.0	2	6	He jogs behind her, carrying an bag of groceries while singing a lullaby.	3
+13	0	0	3	1	1	4	0	1	0	2	0	0	1	0	1	0	0	2.0	0	10	Dancers pirouette, leap, and partner during the breathtaking ballet performance.	3
+12	0	0	3	0	1	2	2	1	0	3	0	0	0	0	1	1	0	3.0	0	5	She cooks, cleans, and paints her apartment every weekend.	3
+11	0	0	3	0	1	3	0	1	0	3	0	0	0	0	3	0	0	2.0	0	7	The sun rises, birds sing, and children laugh.	3
+10	0	0	3	0	1	1	0	1	0	3	0	0	1	0	0	1	0	3.0	0	5	Dance, sing, and create a beautiful masterpiece.	3
+12	0	0	3	1	1	1	1	1	0	3	0	0	1	0	1	0	0	3.0	0	5	She dances, jumps, and skips through the colorful field.	3
+15	0	0	2	2	1	3	1	2	0	4	0	0	0	0	1	0	0	3.0	0	6	The dog jumps, skips and plays fetch in the park with its owner.	3
+16	0	1	4	0	1	2	1	1	0	4	0	1	1	1	1	1	0	4.0	1	7	I'm laughing, crying, and shouting while watching the tragic-comedy movie.	3
+13	1	0	3	1	1	2	0	2	0	3	0	0	0	0	0	1	0	3.0	0	8	Walk swiftly, open the door, and turn on the light.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The bird flies over the mountain, sings a melody, and lands on the tree.	3
+16	3	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	11	The dog barks joyfully, the children clap excitedly, and the parrot squawks raucously.	3
+13	0	0	3	1	1	2	1	2	0	3	0	0	0	0	1	1	0	3.0	0	8	She runs, jumps over the fence, and catches the bus.	3
+20	0	1	3	2	0	7	2	2	0	3	0	0	0	1	2	2	1	4.0	2	8	Jumping over the rope, she cooked pasta for dinner, while her brother painted the living room walls.	3
+15	2	0	3	0	1	3	0	3	0	3	0	0	0	0	1	2	0	3.0	0	9	The dog chased the cat, barked loudly, and then fetched the ball.	3
+12	0	0	4	0	0	1	1	1	0	4	0	0	1	0	1	1	1	2.0	1	7	Dancing, laughing, singing, we celebrated the joyous occasion.	3
+10	1	0	3	0	1	1	0	1	0	3	0	0	0	0	0	1	0	3.0	0	5	Sing, laugh, and paint the evening away.	3
+14	0	0	3	1	1	4	1	0	1	3	0	0	0	0	1	3	0	3.0	0	8	I bake cookies, decorate gingerbread houses, and wrap presents before Christmas.	3
+14	0	0	3	1	1	2	0	2	0	4	0	0	1	0	0	1	0	3.0	0	7	Swim, sail, and cook a hearty meal on a deserted island.	3
+12	1	0	2	1	1	2	0	2	0	3	0	0	0	0	1	0	0	3.0	0	4	The dog jumps, skips and barks excitedly in the garden.	3
+12	0	0	3	0	1	4	0	0	0	3	0	0	1	0	2	0	0	4.0	0	5	Iced coffee percolates, bubbles rise, and creamy froth topples.	3
+19	2	0	3	1	1	5	0	4	0	3	0	0	0	0	3	1	0	4.0	0	11	The sun sets silently, the children laugh joyfully, and the breeze caresses the petals of roses.	3
+10	0	0	2	0	1	2	0	2	0	3	0	0	0	0	1	1	0	3.0	0	4	The dog jumps, swims and retrieves the frisbee.	3
+18	0	0	4	0	1	2	3	0	0	5	0	0	2	1	1	2	1	4.0	2	11	Sneezing, coughing, and wiping her runny nose, she tried to enjoy her spicy taco.	3
+12	0	0	3	0	1	2	0	2	0	3	0	0	1	0	1	1	0	3.0	0	5	The cat chased, jumped, and caught the colorful bird.	3
+12	0	0	3	1	1	2	0	2	0	3	0	0	0	0	1	1	0	3.0	0	5	The dog jumps, fetches, and brings back the frisbee.	3
+15	0	0	2	1	1	4	0	4	0	3	0	0	0	0	1	2	0	3.0	0	9	The dog jumps over the puddle, skips a stone and catches a frisbee.	3
+13	1	0	3	0	1	4	0	0	0	2	0	0	2	0	0	2	0	3.0	0	9	Explore new cities, dance salsa passionately, and cook elaborate meals.	3
+17	0	0	4	2	0	5	2	0	0	2	0	0	2	0	1	0	1	2.0	1	8	Running, jumping, swimming: they engage in various aquatic activities during their summer vacation.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The dog jumps over the fence, chases the ball, and barks at the mailman.	3
+14	0	1	3	0	1	2	0	2	0	4	0	0	1	1	1	1	0	4.0	1	7	Swim, dive, and climb the rocky outcrop while the sun sets.	3
+13	1	0	3	0	1	2	1	1	0	3	0	0	1	0	1	2	0	3.0	0	8	She sings a song, dances gracefully, and paints stunning landscapes.	3
+12	0	0	2	1	1	2	0	2	0	3	0	0	1	0	1	0	0	2.0	0	8	The children laugh, jump and play in the sunlit meadow.	3
+12	0	0	3	0	1	3	0	2	0	2	0	0	1	0	1	1	0	3.0	0	5	The cat chases, catches, and savors a shiny mouse.	3
+12	0	0	3	1	1	3	0	1	0	3	0	0	0	0	0	2	0	3.0	0	6	Dance, sip coffee, and share stories at the bonfire.	3
+18	1	0	3	1	1	4	1	4	0	3	0	0	0	1	3	1	0	4.0	1	13	The dog chases the cat, which jumps over the fence, and the bird sings happily.	3
+15	0	0	3	2	0	2	0	2	0	3	0	0	3	0	0	0	0	4.0	0	5	Explore, create, innovate within the dynamic digital environment of the 21st century.	3
+16	0	0	3	2	1	5	0	2	0	3	0	0	0	0	3	0	0	3.0	0	7	The dog chases, catchers catch, and runners run past the park at sunset.	3
+14	0	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	5	The dog jumps, catches, and throws the frisbee for the turtle.	3
+13	0	0	3	1	0	2	1	0	0	4	0	0	1	1	0	1	0	4.0	1	5	Explore, discover, innovate within your field to make significant impact.	3
+18	0	0	3	2	1	5	0	4	0	3	0	0	0	0	1	2	0	3.0	0	10	The cat chased the rabbit, leapt over a brook, and caught a fish for breakfast.	3
+16	0	0	3	1	1	4	0	4	0	3	0	0	0	0	1	2	0	3.0	0	10	The dog chases the cat, jumps over a fence, and catches a ball.	3
+24	5	1	5	1	1	4	1	1	0	5	0	0	0	1	1	2	1	4.0	2	13	Dancing enthusiastically, she bakes bread passionately, paints the walls beautifully, sings happily, and exercises vigorously before going to bed.	5
+16	0	0	6	0	1	3	2	0	0	4	0	0	0	0	1	1	1	3.0	1	12	Jumping, singing, writing, laughing, and dancing, they expressed their joy.	5
+14	0	0	5	1	1	6	1	0	0	0	0	0	0	0	0	0	0	2.0	0	12	Swimming, hiking, painting, cooking, and coding during my holiday.	5
+16	0	0	5	0	0	5	0	1	0	5	0	0	0	0	5	0	0	3.0	0	12	The sun rises, paintbrushes dip, birds sing, dogs chase, students study.	5
+10	0	0	5	0	0	0	0	0	0	5	0	0	0	0	0	0	0	1.0	0	8	Danced, laughed, painted, sung, cooked.	5
+18	0	0	5	1	1	7	0	0	0	1	0	1	2	1	1	0	0	3.0	1	12	Swimming, cycling, dancing, painting, and hiking are popular activities enjoyed by many people.	5
+31	3	0	5	3	1	11	0	2	0	6	0	0	0	0	5	2	0	3.0	0	25	Sailing boats races across the lake, elephants dance elegantly, monkeys acrobatically jump from tree to tree, children laugh and play soccer, chefs skillfully prepare a feast.	5
+16	0	0	5	1	1	5	0	1	1	1	0	0	1	0	1	1	0	3.0	0	13	John laughs, crouches, points, whispers, and hands over a small box.	5
+18	0	0	5	0	2	7	0	0	0	4	0	0	0	0	1	3	1	4.0	1	13	Playing soccer, juggling balls, cycling, painting, and practicing piano require dedication and skill.	5
+14	0	0	5	0	1	6	0	0	0	0	0	1	1	0	1	0	0	3.0	0	12	Swimming, dancing, painting, cooking, and laughing are joyful activities.	5
+10	0	0	5	0	0	3	0	0	0	2	0	0	0	0	0	0	0	1.0	0	8	Dancing, singing, painting, running, cooking.	5
+16	0	0	5	1	1	1	0	1	0	6	0	0	1	1	1	1	0	3.0	1	9	Children dance, sing, draw, cook, and help each other clean up.	5
+11	0	0	5	0	1	4	0	0	0	1	0	0	0	0	0	0	0	2.0	0	9	Sneezing, shivering, dancing, painting, and laughing.	5
+16	0	0	5	1	1	1	0	2	0	4	0	0	2	0	1	0	0	3.0	0	9	The cats hissed, meowed, scratched, nibbled, and leapt towards each other.	5
+18	0	0	5	0	1	6	1	1	0	4	0	0	0	0	1	4	0	3.0	0	13	She bakes bread, cooks pasta, irons clothes, cleans windows, and does the gardening.	5
+13	0	0	5	0	1	3	0	1	0	3	0	0	0	0	1	0	0	2.0	0	9	The caterpillar wriggles, chews, grows, pupates, and emerges.	5
+17	0	0	5	0	1	7	0	1	0	3	0	0	0	0	3	0	0	4.0	0	10	The sun rises, birds sing, flowers blossom, wind whistles, and children play.	5
+21	1	0	14	0	1	0	0	0	0	5	0	0	0	0	0	0	0	3.0	0	12	" ""eagerly brushed,"" ""cooked,"" ""cleaned,"" ""completed,"" and ""worked."	5
+15	0	0	5	1	1	2	0	0	0	5	0	0	1	0	0	2	0	3.0	0	10	Dancing, laughing, singing, writing letters, and hiking up steep trails.	5
+19	0	0	5	0	1	7	0	0	0	5	0	0	1	0	1	4	0	3.0	0	14	Explorers map terrains, sail vessels, discover islands, decipher ancient texts, and forge lasting alliances.	5
+10	0	0	5	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1.0	0	8	Swimming, dancing, cooking, hiking, painting.	5
+17	0	0	5	1	1	7	0	1	0	1	0	0	1	0	1	1	0	3.0	0	11	Swimming, dancing, painting, laughing, and cooking all create unique expressions of joy.	5
+16	0	0	5	0	1	5	0	0	0	5	0	0	0	0	5	0	0	2.0	0	13	Dogs bark, cats purr, birds fly, people laugh, and sunlight warms.	5
+15	0	0	5	0	1	4	0	1	0	3	0	0	1	0	1	1	1	3.0	1	10	Singing, laughing, clapping, dancing, and cooking create an exhilarating evening.	5
+14	0	0	5	0	1	2	0	0	0	5	0	0	1	0	1	1	0	3.0	0	9	Dancers twirl, jump, leap, laugh, and create beautiful art.	5
+11	0	0	5	0	1	5	0	0	0	0	0	0	0	0	0	0	0	2.0	0	9	Swimming, singing, painting, running, and coding.	5
+33	3	0	5	2	2	9	0	7	0	5	0	0	0	0	4	1	0	4.0	0	29	The cat jumps over the fence, the children laugh and clap, the wind blow away papers on the ground, a pigeon coos loudly, and the sun slowly sets.	5
+17	0	0	5	1	1	6	0	2	0	2	0	0	0	0	1	0	0	3.0	0	9	The children play, dance, paint, draw, and sing during the birthday party.	5
+35	0	0	5	4	1	10	0	6	0	5	0	1	2	1	1	3	1	5.0	2	24	Exploring new islands, fishing for dinner, dancing under the stars, building a shelter, and writing in a journal are some ways to fill a day on a deserted tropical island.	5
+21	0	0	5	0	1	6	0	5	0	4	0	0	0	0	4	0	0	4.0	0	13	The dog jumps, the children laugh, the sun sets, the stars twinkle, and the wind whistles.	5
+31	2	1	4	2	2	8	1	6	0	5	0	0	0	2	4	2	0	5.0	2	17	The cat scratches the tree bark, while the dog barks at the mailman, who waves and drops letters into the mailbox, and the birds tweet joyfully overhead.	5
+46	1	1	6	4	1	10	1	9	0	8	0	0	5	3	1	6	1	6.0	4	16	Exploring the ancient ruins, I discovered a map hidden in a sarcophagus, unlocked the cryptdoor with a golden key, triggered a complex trap mechanism by pressing a hidden button, and emerged victorious from the tomb, carrying the valuable treasures within.	5
+14	0	0	5	0	1	6	1	0	0	1	0	0	0	0	1	1	0	3.0	0	10	Dancing, hiking, painting, reading, and gardening enrich my life.	5
+25	1	0	5	1	1	5	1	2	0	5	0	0	4	0	1	3	0	4.0	0	19	She baked delicious cookies, sang cheerful songs, painted intricate landscapes, swam gracefully in the pool, and programmed an intelligent robot.	5
+22	0	0	5	2	1	5	1	1	0	5	0	0	2	0	1	2	1	3.0	1	10	Savoring delicious sushi, we laughed, jested, marveled at the artwork, and clinked chopsticks against empty sake glasses.	5
+17	0	0	5	1	1	5	1	1	0	1	0	1	1	0	1	0	0	3.0	0	11	Dancing, laughing, cooking, painting, and gardening are some of my favorite hobbies.	5
+11	0	0	5	0	1	5	0	0	0	0	0	0	0	0	0	0	0	2.0	0	9	Walking, running, climbing, swimming, and dancing.	5
+12	0	0	5	0	1	1	0	0	0	5	0	0	0	0	1	0	0	2.0	0	9	Explorers discovered, mapped, unearthed, settled, and cultivated.	5
+14	0	0	5	1	1	2	0	1	0	4	0	0	0	0	0	0	0	3.0	0	9	Dances, sing, write, cook, and paint during the sunset.	5
+25	2	0	4	1	1	6	1	3	0	6	0	0	1	0	1	4	1	3.0	1	14	Dancing enthusiastically, she drew the bow, juggled flaming torches elegantly, cooked a gourmet meal and played soothing music at the party.	5
+22	0	0	5	1	1	6	3	2	0	4	0	0	0	0	1	3	0	3.0	0	12	She laughs, sips her tea, dances, paints sunflowers, and plays the violin in her garden every morning.	5
+20	0	0	5	0	0	6	0	5	0	4	0	0	0	0	4	0	0	4.0	0	16	The sun rises, the winds shift, the river floods, the flowers bloom, the birds migrate.	5
+16	0	0	5	0	0	7	0	1	0	3	0	0	0	0	3	0	0	3.0	0	9	The sun sets, birds migrate, wind howls, children play, dogs bark.	5
+16	1	0	5	0	1	8	0	1	0	0	0	0	0	0	1	0	0	3.0	0	11	The gardener plants, waters, prunes, rakes leaves, and deadheads flowers daily.	5
+11	0	0	5	0	1	5	0	0	0	0	0	0	0	0	0	0	0	2.0	0	9	 dancing, laughing, painting, building, and cooking.	5
+23	3	0	5	1	1	3	2	3	0	5	0	0	0	0	1	3	0	3.0	0	17	The dog barks loudly, jumps enthusiastically, fetches the ball, throws it into the air, and chews it eagerly.	5
+17	0	0	5	1	1	6	0	0	0	4	0	0	0	0	4	1	0	2.0	0	10	During sunrise, swans dance, children laugh, artists paint, and tourists take photos.	5
+17	0	0	5	0	1	5	0	1	0	5	0	0	0	0	5	0	0	3.0	0	14	Dogs leap, frogs hop, kids laugh, birds fly, and the sun sets.	5
+16	1	0	5	0	1	6	1	0	0	1	0	1	0	0	1	1	0	3.0	0	12	Swimming, dancing, writing, painting, and hiking can all enrich your life.	5
+13	0	0	4	0	1	6	1	0	0	1	0	0	0	0	1	1	0	3.0	0	9	Swimming, painting, dancing, hiking and cooking fill their weekends.	5
+41	1	1	6	5	1	9	3	6	0	9	0	0	0	6	4	2	1	9.0	7	27	While hiking through the forest, I spotted a fox chasing a rabbit, which started running, followed by a group of deer, their ears twitching, and a family of raccoons gathered nearby rummaging through the bushes.	7
+15	0	0	7	0	1	7	0	0	0	0	0	0	0	0	0	0	0	2.0	0	13	Sneezing, laughing, painting, dancing, cooking, cleaning, and hiking.	7
+41	3	2	5	4	1	7	5	3	1	8	1	0	0	3	7	2	0	5.0	3	38	She walked swiftly on a treadmill as he juggled six balls, I cooked dinner whilst her brother studied, the puppy begs for food next to us, the cat jumped up to look outside, and Grandma knitted.	7
+30	2	0	7	1	1	9	1	2	0	6	1	0	0	0	1	6	0	3.0	0	23	She juggles apples, paints landscapes, plays the piano flawlessly, speaks seven languages simultaneously, bakes pies, writes novels, and sails a yacht at sunset.	7
+26	0	0	6	3	1	8	0	1	0	6	1	0	0	0	1	2	0	3.0	0	18	One Monkey swims, dives, climbs trees, runs in circles, jumps on logs, flips somersaults and writes with a banana stick.	7
+18	0	0	6	0	1	2	0	1	0	7	0	0	1	0	1	1	0	3.0	0	14	The chef sliced, diced, grated, sautéed, roasted, boiled and baked various ingredients.	7
+39	4	0	7	1	1	6	1	2	7	7	0	0	3	0	7	5	0	4.0	0	35	John threw the ball upstairs, Sarah fed her cat softly, Alex drew intricate patterns on the beach, Peter ran uphill, Mia sewed torn jeans, James carved detailed figurines, and Ann sang sweetly.	7
+23	0	0	7	0	1	8	0	1	0	6	0	0	0	0	6	0	0	4.0	0	19	The sun sets, birds fly, flowers bloom, children laugh, cats purr, dogs bark, and stars twinkle.	7
+20	0	0	7	1	1	8	0	1	0	2	0	0	0	0	1	1	0	3.0	0	13	A chef bakes, slices, peels, chops, mixes, fries, and serves vegetables for lunch.	7
+24	0	0	7	0	1	11	0	1	0	4	0	0	0	0	1	4	0	3.0	0	19	The cats juggle carrots, climb mountains, swim rivers, paint pictures, sing songs, cook dinner, and dance tango.	7
+22	0	1	7	1	1	1	0	1	1	8	0	0	1	1	1	0	0	4.0	1	13	John scribbled, painted, sculpted, baked, cooked, danced, and sang before falling into a deep sleep.	7
+25	0	0	7	0	1	10	1	1	0	5	0	0	0	0	6	1	0	3.0	0	21	The sun rises, flowers bloom, winds blow leaves, birds sing, fish swim, dogs bark, and we humans laugh.	7
+33	0	0	6	3	1	8	0	8	0	7	0	0	0	0	1	4	0	3.0	0	27	The cat chased the rabbit, jumps over a fence, swam across a pond, climbed a tree, spotted a squirrel, danced on a branch and ate an apple.	7
+31	0	0	6	3	1	7	3	3	1	6	0	0	0	0	1	4	0	4.0	0	26	John opened the door, knocked on the neighbor's window, picked up his keys, put on his coat, made a sandwic, and called his wife.	7
+15	0	0	7	0	1	1	0	0	0	5	0	0	1	0	0	0	0	2.0	0	13	 dancing, threw, juggled, balanced, tasted, solved, and fed.	7
+26	0	0	7	0	2	12	0	1	0	4	0	0	0	0	4	0	0	4.0	0	22	The sun rises, paint brushes dance, waves crash and foam, hearts flutter, students study, time races, and mountains sway.	7
+29	1	1	6	1	1	6	0	4	1	8	0	0	0	2	1	5	0	4.0	2	19	John runs, jump start the car, cooks spaghetti, reads a book, cleans the bathroom, and writes an email while simultaneously listening to music.	7
+32	0	0	7	1	1	12	0	5	0	5	0	0	1	0	1	5	0	3.0	0	26	The cook stirs the soup, boils pasta in a separate pot, chops vegetables, grills cheese sandwiches, poaches eggs, sets the table, and cleans the kitchen.	7
+24	0	0	7	0	1	7	0	1	0	7	0	0	1	1	6	1	0	3.0	1	20	The sun rises, setting sailors free, children laugh, balloons fly, dogs fetch, birds sing, and flowers bloom.	7
+40	0	0	6	4	1	16	0	7	0	5	0	0	1	0	1	5	0	3.0	0	30	The monkey juggles fire sticks, skips stones across a pond, weaves leaves into a crown, cooks a rice porridge over an open flame, knots fishing line, and plays the drum in the jungle rain.	7
+25	1	0	9	0	2	8	1	0	0	1	0	0	3	0	1	1	0	4.0	0	14	Swimming, dancing, painting, cooking, hiking, cycling, and reading improve my physical, emotional, and intellectual wellbeing dramatically.	7
+23	0	0	7	1	1	3	0	3	0	6	0	0	2	0	1	1	0	3.0	0	13	The chef sliced, chopped, minced, grated, roasted, stirred, and seasoned the ingredients for the elaborate feast.	7
+15	0	0	7	0	1	0	0	0	0	7	0	0	0	0	0	0	0	2.0	0	13	Sailed, danced, cooked, repaired, painted, studied, and hiked.	7
+29	0	0	7	1	1	9	1	5	0	5	0	0	0	0	5	0	0	4.0	0	25	The sun sets, the moon rises, the stars twinkle, the trees sway in the wind, birds chirp, fish swim, and we breathe.	7
+37	0	0	7	2	1	7	2	4	6	7	1	0	0	1	6	7	0	4.0	1	32	John juggles three balls, tosses a frisbee to Max, who catches it, Emily sets the table, Sarah bakes cookies in the kitchen, Michael plays tennis, and Tom waters the garden.	7
+24	0	1	7	1	1	4	0	2	0	8	0	0	0	1	1	2	0	4.0	1	14	The monkeys chased, swung, climbed, hid, squealed, ate bananas, and watched birds before retiring for the evening.	7
+16	0	0	7	0	1	0	0	0	1	7	0	0	0	0	1	0	0	2.0	0	13	John danced, laughed, jumped, sang, wrote, ate, and walked.	7
+23	0	0	7	0	1	9	0	1	0	5	0	0	0	0	5	0	0	4.0	0	16	The sun rises, birds sing, children play, people work, flowers bloom, dogs bark, and cars honk.	7
+24	0	0	7	0	1	9	0	2	0	5	0	0	0	0	5	0	0	3.0	0	16	The sun sets, the wind rises, snow melts, water boils, fish swim, flowers bloom, and birds sing.	7
+34	0	0	7	2	1	11	0	6	0	6	1	0	0	0	6	2	0	4.0	0	17	The sun sets, children sing, flowers bloom, the wind blows through the trees, the clock strikes six, fish swim, and the stars twinkle in the night sky.	7
+27	3	1	8	1	1	7	1	1	0	4	0	0	0	0	1	2	2	4.0	2	20	After hiking uphill, picking berries, fishing, painting, singing, reading, and finally falling asleep, I found peace in the wilderness.	7
+35	0	0	7	1	1	11	5	4	0	6	0	0	0	0	6	2	0	4.0	0	29	The sun rises, the birds sing, I brush my teeth, my alarm clock rings, the coffee maker brews, I pack my bag, and the kids leave for school.	7
+19	0	0	8	1	1	5	1	0	0	3	0	0	0	0	1	0	0	2.0	0	13	In dancing, we leap, spin, twirl, sway, jump, twist, and pirouette.	7
+24	1	0	7	0	1	9	1	0	0	5	0	0	0	0	1	5	0	3.0	0	19	Sometimes I play catch, cook dinner, wash dishes, read books, paint pictures, hike mountains, and write letters.	7
+34	0	1	7	0	1	10	2	7	0	6	0	0	0	1	2	6	0	4.0	1	22	The cook slices the vegetables, boils them, sautés the garlic, mixes the spices, stir-fries the meat, and serves the meal while his assistant cleans the dishes.	7
+27	0	0	7	1	1	6	0	5	0	7	0	0	0	0	1	4	0	3.0	0	21	The cook danced, laughed, chopped vegetables, stirred the pot, wiped the counter, turned on the oven, and tasted the soup.	7
+19	0	0	6	1	1	3	0	2	0	6	0	0	0	0	1	0	0	3.0	0	12	The cat chased, pawed, bit, hissed, scratched, swatted and hid from the mouse.	7
+23	0	0	7	0	1	10	0	1	0	4	0	0	0	0	4	0	0	2.0	0	19	The sun rises, birds tweet, bees pollinate, flowers bloom, grass grew, trees sway, and wind whispers.	7
+26	6	0	6	0	1	1	0	0	6	6	0	0	0	0	6	1	0	3.0	0	22	John dances eagerly, Sarah sings beautifully, Bill cooks carefully, Alice writes rapidly, Tom throws stones skillfully, and David paints passionately.	7
+21	1	1	8	0	1	6	1	0	0	3	0	0	0	0	1	1	1	3.0	1	17	After exploring, swimming, sunbathing, reading, painting, stargazing, and meditating, she finally found peace.	7
+20	0	0	8	1	0	8	0	1	0	0	0	1	1	0	1	0	0	2.0	0	16	Swimming, dancing, laughing, painting, hiking, cooking, sleeping, are everyday activities for some.	7
+28	0	0	7	0	1	7	1	3	0	7	0	0	2	0	1	7	0	3.0	0	23	She baked cookies, carved a pumpkin, knitted a scarf, ironed wrinkled shirts, washed dusty windows, cooked dinner, and watered the plants.	7
+29	0	0	6	1	1	7	0	5	0	3	2	0	4	0	3	1	0	4.0	0	18	One monkey swings, another climbs, a third leaps, a fourth scratches, a fifth gathers fruits, and six cooks bananas over an open fire.	7
+23	0	0	7	2	1	9	0	2	0	0	0	1	1	0	1	0	0	3.0	0	15	Walking, laughing, drawing, reading, dancing, gardening, and thinking are some of the joys of daily life.	7
+38	1	0	6	5	1	9	2	3	0	10	0	0	0	4	2	4	0	4.0	4	27	She walks through the park playing catch with her dog, jumps over puddles, feeds ducks, watches children laughing, picks up discarded trash, and sits comfortably in the sun to read a book.	7
+32	1	1	7	0	1	9	1	6	0	6	0	0	0	0	1	6	1	3.0	1	21	While juggling flaming batons, I simultaneously bake a cake, write a poem, code a program, iron a shirt, water the garden, and practice the violin.	7
+29	0	0	7	1	1	9	1	4	0	6	0	0	0	0	1	7	0	3.0	0	22	She cooks pasta, sets the table, pours wine, plays music, cleans the dishes, waters the plants, and puts the children to bed.	7
+29	7	0	7	0	1	4	0	1	0	7	0	0	2	1	1	3	0	3.0	1	24	The children danced gleefully, climbed trees swiftly, sang cheerfully, cooked delicious meals creatively, drew beautiful pictures passionately, studied diligently, and laughed hysterically.	7
+20	0	0	7	1	1	6	0	1	0	3	0	0	1	0	1	1	0	3.0	0	14	Dancing, laughing, singing, cooking, painting, hiking, and cycling make up an enjoyable weekend.	7
+14	0	0	7	0	0	6	0	0	0	1	0	0	0	0	0	0	0	1.0	0	12	Swimming, dancing, painting, cooking, hiking, laughing, sleeping.	7

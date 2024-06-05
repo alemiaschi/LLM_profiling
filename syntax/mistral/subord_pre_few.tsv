@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_pre_constraint
+7	1	1	0	0	0	0	1	2	0	0	1	0	1	3.0	3	0	0	1	0	0	Square root of 25 equals five.	0
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The car has a red engine.	0
+6	0	0	0	0	0	2	0	0	0	2	1	0	1	2.0	2	0	0	1	1	0	The Earth orbits the Sun.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat slept next to the fire.	0
+8	0	2	0	0	0	1	1	0	1	1	1	0	1	2.0	5	0	0	1	0	0	We went to the beach on Sundays.	0
+9	1	1	0	0	0	1	2	1	1	0	1	0	1	3.0	3	0	0	0	0	0	There are five different colors in the rainbow.	0
+5	0	0	0	0	0	1	2	0	0	0	1	0	1	2.0	1	0	0	1	1	0	Every apple has seeds.	0
+8	0	1	0	0	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	1	0	The dog bit me in the park.	0
+23	4	1	0	2	2	3	5	0	2	0	1	0	2	5.0	7	2	2	2	1	0	I'm a large language model and I'm unable to generate a new sentence with no prior context or information given.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The balloon ascended rapidly.	0
+9	0	1	0	0	0	1	4	0	1	0	1	0	1	3.0	3	0	0	1	1	0	Our budget includes an allocation for advertising expenses.	0
+11	0	2	0	1	0	1	4	1	0	0	1	0	0	3.0	4	0	0	1	0	0	The market price for gold is $1,250 per ounce.	0
+7	0	0	1	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	I have read the document thoroughly.	0
+10	2	1	0	1	0	1	1	0	1	0	2	0	1	2.0	6	0	0	1	0	0	You are looking at a unique, beautiful painting.	0
+10	0	1	0	1	0	1	3	1	1	0	1	0	1	2.0	6	0	0	1	1	0	We will attend the meeting tomorrow at nine o'clock.	0
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	Each question has a unique answer.	0
+8	1	0	0	0	0	1	1	1	0	2	1	0	1	3.0	3	0	0	1	0	0	The Eiffel Tower measures 1,063 feet tall.	0
+8	1	0	0	0	0	1	2	0	1	0	1	0	2	3.0	3	1	1	1	1	0	We have a new employee starting today.	0
+14	2	2	0	1	0	2	3	0	1	1	1	0	1	3.0	8	0	0	1	1	0	We have scheduled the annual sales meeting for the third week of May.	0
+14	0	1	1	1	1	2	4	0	1	0	1	0	2	4.0	4	0	0	1	2	0	You are currently reading the instruction and generated responses for a writing program.	0
+17	1	1	1	0	0	3	5	0	0	0	3	0	2	4.0	10	1	1	1	2	0	"People often use the phrase ""a piece of cake"" to indicate an easy task."	0
+6	1	0	0	0	0	0	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	She cooked dinner last night.	0
+12	2	1	0	0	0	1	3	0	1	1	1	0	1	3.0	9	0	0	1	1	0	We celebrated New Year's Eve on a beautiful cruise ship.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+7	0	1	0	1	0	1	1	1	0	0	1	0	1	2.0	2	0	0	1	0	0	The book was published in 1998.	0
+8	0	1	0	1	0	1	1	0	1	1	1	0	1	2.0	4	0	0	1	1	0	I will finish the report by Friday.	0
+7	0	0	0	0	0	0	2	0	1	0	1	0	2	2.0	2	1	1	1	1	0	My dog likes to chase balls.	0
+11	0	2	0	2	0	2	3	0	0	0	1	0	1	3.0	6	0	0	1	0	0	Every book in the library must be returned on time.	0
+7	0	1	0	0	0	0	2	1	1	0	1	0	1	3.0	2	0	0	1	1	0	We have 200 units in stock.	0
+17	0	1	1	1	0	1	2	0	4	0	2	0	4	4.0	7	3	3	1	3	0	I'm here to help answer your query, let me generate a sentence for you: The sun rises in the east.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The dog is old.	0
+9	1	0	0	0	0	2	4	0	0	0	1	0	1	2.0	4	0	0	1	1	0	The city council approved the new construction proposal.	0
+16	4	1	0	1	0	3	3	0	1	0	1	0	2	5.0	4	1	1	1	2	0	I can write a simple declarative sentence with no subordinate propositions preceding the main clause: The sun rises in the east.	0
+5	0	0	1	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The moon is round.	0
+37	3	3	0	1	1	6	8	1	2	0	2	1	7	7.0	18	5	5	1	3	0	I'm unable to create a sentence with zero subordinate propositions preceding the main clause for the given instruction, as there is no provided context or information presented to craft a sentence with that requirement.	0
+7	0	0	0	1	1	0	2	0	1	0	1	0	1	3.0	2	0	0	1	1	0	It is raining cats and dogs.	0
+8	1	1	0	1	0	2	2	0	0	0	1	0	0	3.0	5	0	0	1	0	0	The theme of each section is clear.	0
+11	1	0	0	1	0	2	2	0	1	0	1	1	2	3.0	7	1	1	2	1	0	She will sing the national anthem before the game starts.	0
+9	1	1	0	1	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The moon is not made of green cheese.	0
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	Every book comes with a complimentary notebook.	0
+6	1	0	0	1	0	1	1	0	1	0	1	0	0	1.0	4	0	0	1	0	0	It is a hot day.	0
+8	0	0	0	0	0	3	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	The company made a profit this quarter.	0
+10	1	3	0	0	0	0	2	0	1	1	1	0	1	2.0	7	0	0	1	0	0	We arrived at noon on Sunday despite heavy traffic.	0
+8	0	1	0	0	0	1	2	1	1	0	1	0	1	3.0	3	0	0	0	0	0	There are 15 students in the class.	0
+5	0	0	0	1	0	0	0	0	1	1	1	0	1	1.0	2	0	0	1	1	0	She has visited France.	0
+7	0	0	0	0	0	2	1	0	0	0	2	0	1	2.0	3	0	0	0	1	0	A: Please pass the peas.	0
+7	0	0	0	1	0	0	1	0	2	0	1	0	2	3.0	2	1	1	1	1	0	I have finished reading your email.	0
+11	0	0	0	0	0	1	2	0	2	0	2	1	3	3.0	7	2	0	2	1	2	Every morning before I start working, I practice yoga.	0
+8	1	0	0	1	0	1	2	0	1	0	1	0	0	2.0	6	0	0	1	0	0	It is the moon's fourth quartile.	0
+13	0	2	0	1	0	3	4	0	1	0	1	0	1	4.0	3	0	0	1	1	0	We're having a summer sale on all items in the store.	0
+23	2	2	2	2	2	1	3	0	1	0	2	0	5	5.0	6	3	2	0	1	1	When hiking in the desert, always carry ample water and be aware of your surroundings to avoid getting lost or dehydrated.	1
+14	0	0	3	1	0	1	1	0	2	0	2	1	3	2.0	5	2	1	2	1	1	If it's raining heavily, carry an umbrella when you go outside.	1
+18	1	2	0	2	0	1	2	0	4	0	2	1	2	3.0	9	2	1	2	2	1	If she finishes the report by tomorrow, I'll be happy to proofread it for her.	1
+16	0	0	0	2	1	1	4	0	1	0	2	2	3	4.0	12	2	0	2	2	2	If you add salt and pepper before cooking vegetables, the flavor will be enhanced.	1
+19	0	1	2	0	0	2	3	0	2	0	2	0	4	5.0	4	3	2	1	2	1	When you arrive home, please remember to remove your shoes to maintain the cleanliness of the floor.	1
+17	1	1	0	0	1	2	3	0	1	0	2	1	4	5.0	4	2	1	0	3	1	Before leaving the park, make sure to secure all belongings and lock up your bicycle.	1
+27	2	4	1	2	1	1	9	0	1	0	2	1	3	5.0	15	3	0	2	1	3	Although water is the most common liquid used in cooking, experimenting with other types like chicken or vegetable stock will deepen flavors in your dishes.	1
+23	0	2	1	1	1	3	7	1	2	0	2	0	3	4.0	6	1	0	2	3	1	When the water in the kettle reaches boiling point, I will add the tea leaves and steep them for three minutes.	1
+10	0	0	0	0	0	1	2	0	2	0	2	1	2	3.0	5	1	0	1	2	1	After finishing her homework, she watched a movie.	1
+20	3	2	2	1	0	1	4	0	1	0	3	0	3	4.0	9	2	2	1	1	0	Always keep a first-aid kit handy when going on long hikes, in case someone gets injured.	1
+16	3	1	1	0	0	0	3	0	3	0	2	1	2	3.0	6	1	0	2	2	1	Although I prefer black tea, I sometimes drink green tea for its healthful properties.	1
+15	0	1	0	2	0	2	2	0	2	0	2	1	2	3.0	6	1	0	2	1	1	If she didn't have a headache, she would go to the party.	1
+22	1	3	2	0	0	1	7	0	2	0	2	1	3	4.0	7	2	1	1	3	1	If you prefer baking with coconut oil, use it instead of olive oil when making the same batter for muffins.	1
+19	1	1	3	1	0	1	1	0	3	0	2	1	4	4.0	8	3	2	2	1	1	If it is raining, make sure to bring an umbrella along with you when you go outside.	1
+20	3	1	0	1	1	2	5	0	1	0	2	1	2	4.0	9	2	1	0	1	1	Before embarking on a new business venture, it's advisable to conduct a thorough market research and analysis.	1
+25	1	0	2	1	1	1	8	0	2	1	4	1	3	4.0	11	3	1	2	2	2	If you prefer a salad dressing that is less acidic, try mixing lemon juice, honey, Dijon mustard and olive oil together.	1
+16	1	0	0	0	0	2	3	0	1	0	2	1	4	5.0	4	3	2	0	3	1	Before drinking the wine, make sure to swirl the glass to release its aroma.	1
+21	1	3	2	1	0	2	3	0	2	0	2	1	3	5.0	10	2	2	2	0	0	Provided that it's not too cold outside, I suggest going for a walk in the park before dinner.	1
+16	0	1	1	2	0	1	1	0	3	0	2	1	3	3.0	5	2	1	2	1	1	If it's raining heavily, you might want to take an umbrella with you.	1
+16	2	1	0	0	0	1	4	0	1	0	2	1	3	3.0	7	2	1	0	3	1	Before eating a fresh peach, feel its texture with gentle pressure to ensure ripeness.	1
+24	0	1	4	0	1	3	5	0	2	0	2	1	4	4.0	9	2	1	2	2	1	Even if the sun rises early on a summer day, I still prefer to sip my coffee slowly and enjoy the morning.	1
+20	1	4	1	0	1	1	6	0	1	0	2	0	3	4.0	8	2	1	0	1	1	When choosing between chocolate and fruits for dessert, consider eating the fruits due to their healthier sugar content.	1
+11	0	1	0	1	0	0	2	0	2	0	2	1	2	2.0	5	1	0	2	0	1	If it rains tomorrow, we will stay at home.	1
+14	0	1	1	1	0	1	1	0	2	0	2	1	3	3.0	4	2	1	1	1	1	If it's raining heavily, remember to bring an umbrella with you.	1
+20	1	1	0	0	1	1	7	0	2	0	2	1	4	5.0	10	2	1	1	2	1	If you prefer a stronger flavor, consider using ginger or lemongrass infused olive oil in your salad dressing.	1
+17	1	1	0	0	1	1	5	0	1	0	2	1	3	5.0	6	2	1	0	1	1	Before leaving for your camping trip, make sure to bring a map or GPS device.	1
+12	0	0	0	1	0	2	3	0	1	0	2	1	2	3.0	6	1	0	1	2	1	After removing the pins, you can fold the quilt block.	1
+25	2	3	0	0	1	3	5	0	1	3	2	1	3	4.0	10	2	1	1	2	1	Before choosing a brand or type of toothpaste, I suggest checking the product label for the American Dental Association's Seal of Acceptance.	1
+23	0	0	4	0	1	2	3	0	3	0	3	2	5	3.0	9	2	1	2	4	1	After you boil the water, add salt until it tastes just right, then add the spaghetti and stir it occasionally.	1
+29	2	2	1	0	3	3	10	0	1	0	3	1	3	5.0	9	1	0	1	3	1	If you want a delicious and healthy salad, combine arugula and quinoa in a bowl; then pour a olive oil and lemon juice dressing on top.	1
+21	2	2	0	0	1	4	5	0	0	0	2	1	3	5.0	7	2	1	0	2	1	Before taking a swim in the ocean, remember to check the depth and the presence of dangerous marine life.	1
+19	2	2	1	1	1	1	3	0	2	1	2	0	2	5.0	5	2	1	0	2	1	When studying Shakespeare, it's helpful to look up the meanings of his original words and phrases.	1
+23	0	0	0	1	1	2	4	0	3	0	4	1	5	3.0	8	2	1	1	4	1	If you have forgotten your password, please click the 'Forgot Password' link and follow the prompts to reset it.	1
+15	1	1	1	1	0	0	3	0	3	0	2	1	2	3.0	8	1	0	2	2	1	If you add milk to black coffee, you will alter its taste significantly.	1
+29	3	2	0	0	1	3	9	0	1	0	2	2	5	6.0	6	3	2	1	3	1	Before embarking on a long drive, ensure that your tires have enough air pressure and check the engine oil level to avoid potential issues on the road.	1
+26	2	2	1	2	2	0	6	0	2	0	2	2	5	5.0	8	3	2	2	2	1	If you're feeling adventurous and avocados are in season, try adding sliced avocados to your sandwich instead of using mayo or other spreads.	1
+26	1	3	0	1	1	4	8	0	1	0	2	2	3	4.0	10	3	1	1	2	2	Before deciding on buying a car, consult the Consumer Reports for the reliability and resale value data of the models you are interested in.	1
+21	1	0	3	1	1	3	3	0	1	0	2	2	4	5.0	5	3	2	1	3	1	If the paint is still wet, gently clean the brush and let it dry completely before applying another coat.	1
+18	1	2	0	0	0	2	3	0	3	0	2	1	3	3.0	7	2	1	1	2	1	If it rains during your picnic, move the sandwiches under the tree to keep them dry.	1
+18	1	1	0	0	1	1	4	0	1	0	2	1	5	4.0	7	3	1	1	2	2	If you want to bake a healthier cake, consider substituting butter with applesauce or mashed bananas.	1
+21	1	3	1	1	0	2	6	0	2	1	2	0	2	3.0	9	1	0	2	2	1	In case you prefer spaghetti carbonara to fettuccine Alfredo, you might appreciate these Italian restaurants over the others nearby.	1
+22	0	2	1	0	1	4	4	0	1	0	2	1	5	4.0	8	3	2	2	2	1	Every time the alarm goes off, we quickly get up to feed and water the animals before leaving the house.	1
+20	1	2	1	1	0	1	4	0	2	0	2	2	3	4.0	7	2	1	1	3	1	If you don't have access to fresh water, immerse the potatoes in milk instead while cooking them.	1
+12	0	0	0	1	0	1	1	0	2	0	2	1	3	3.0	4	2	1	2	1	1	If it rains, we'll have to cancel the picnic.	1
+22	0	2	2	0	2	0	8	0	1	0	2	0	4	5.0	9	3	2	0	3	1	When making desserts, consider using honey or maple syrup instead of sugar to add sweetness and complexity to your recipes.	1
+13	0	1	0	0	0	0	2	0	2	1	2	1	3	3.0	4	2	1	0	2	1	After finishing your assignments, remember to submit your work by Friday.	1
+14	0	1	1	0	0	3	3	0	0	0	2	1	3	3.0	7	1	0	0	2	1	After checking the manual, replace the battery with the newly purchased one.	1
+29	3	2	1	2	0	2	5	0	4	0	2	2	4	6.0	9	4	3	2	2	1	Although he was a skilled programmer, he didn't feel comfortable making important changes to the company's website without getting it approved by his supervisor first.	1
+20	0	1	0	1	1	2	7	0	1	0	2	2	3	5.0	11	2	1	1	2	1	After you have prepared the salad, add a tablespoon of olive oil and lemon juice dressing before serving.	1
+28	2	2	0	2	1	2	6	0	3	1	2	1	5	6.0	8	4	3	2	3	1	If I were planning a trip to Europe, I would consider buying a travel guidebook to help plan my visits to various cities and historical sites.	1
+21	1	1	0	2	0	1	3	0	4	0	3	2	4	5.0	5	2	1	2	1	1	Before we proceed, I should inform you that there will be an added fee for next-day delivery.	2
+18	1	2	1	1	0	1	3	0	2	0	2	1	3	3.0	7	2	0	2	0	2	If this device fails to function correctly, it could lead to potential risks in our operations.	2
+19	1	3	2	2	0	1	4	0	1	0	2	1	2	4.0	6	2	1	1	1	1	When using this device, it is essential that batteries are always kept out of reach of children.	2
+20	2	1	0	0	1	1	4	0	4	0	2	1	4	4.0	7	2	1	1	4	1	Before I accept your proposal, let me consider the financial aspects and obtain necessary approval from my manager.	2
+23	2	2	1	1	0	2	7	0	1	0	2	1	3	3.0	12	2	1	2	2	1	Although some people use cotton balls for makeup removal, those with sensitive skin are advised to use a gentle cleanser instead.	2
+32	2	0	3	5	1	2	2	0	4	0	4	3	4	4.0	16	4	3	5	1	1	If she studies regularly, she will be able to pass the exam; but if the examiner is lenient, she might still pass even if she doesn't study.	2
+23	2	0	1	2	0	2	3	0	4	0	2	3	3	4.0	8	2	1	3	3	1	If we were to follow this new route, would our journey take us longer than if we took the usual route?  	2
+18	0	0	3	1	1	2	3	0	2	0	2	1	3	3.0	6	2	1	2	2	1	When it rains heavily, we must first close all doors and windows before lighting a fire.	2
+22	0	0	2	3	0	1	2	0	5	0	4	1	3	3.0	9	2	1	3	2	1	If she tells the truth, then I'll be her friend, otherwise, I'll have to avoid her.	2
+27	2	1	3	4	2	3	5	0	0	0	3	0	4	3.0	14	2	1	3	1	1	When baking bread at home, the breadmaker should ensure the dough has first risen adequately, or the resulting bread may be dense and unappetizing.	2
+15	2	0	0	0	0	1	4	0	1	0	2	2	3	3.0	9	2	0	2	2	2	Though the dog seemed friendly, its recent history of biting people caused concern.	2
+24	3	2	0	1	1	2	5	0	3	0	2	1	3	5.0	11	2	0	2	3	2	Although some people might find it easy to understand abstract concepts, for me they require a considerable amount of study and effort.	2
+31	2	1	1	3	0	4	4	0	4	0	4	2	5	5.0	16	3	2	4	3	1	If they had the correct information, they would not miss the deadline; after realizing they had been given the wrong date, they quickly arranged for a rescheduling.	2
+24	2	3	0	0	1	3	7	0	0	0	2	1	4	4.0	10	2	1	2	2	1	Although the instructions allow for flexibility in terms of content, the sentences need not follow a certain structure or contain particular information.	2
+18	0	1	0	2	0	2	4	0	2	0	2	1	2	3.0	10	1	0	2	2	1	If she doesn't complete the project on time, our team won't meet the deadline.	2
+16	1	0	1	3	0	1	2	0	2	0	2	1	1	3.0	10	1	0	2	1	1	If she didn't understand the question correctly, her answer may not be relevant.	2
+18	1	1	2	1	0	1	5	0	2	0	2	1	2	3.0	8	1	0	2	2	1	If they speak their native languages fluently, foreigners might understand the instructions fully during factory tours.	2
+20	2	3	2	2	0	0	5	0	2	0	2	1	1	4.0	14	1	0	2	0	1	Even though she is known for her love for adventure sports, skydiving without proper gear is extremely dangerous.	2
+24	1	3	0	1	1	1	4	0	3	1	2	1	5	6.0	16	3	0	3	2	3	If you add enough water to make a mixture that sets and hardens like clay, it is known as plaster of Paris.	2
+29	3	0	1	2	0	0	9	0	4	0	2	3	5	7.0	14	5	3	5	5	2	If you eat too many sugary snacks before brushing your teeth, cavity formation will be easier because sugars feed bacteria that create acid which demineralizes tooth enamel.	2
+18	0	0	0	3	0	3	2	0	2	0	2	2	4	3.0	8	2	1	3	1	1	Before he takes any action, he should verify that all the required permissions have been granted.	2
+33	3	4	0	4	0	4	7	0	1	0	4	1	3	4.0	18	1	0	3	2	1	If one does not take proper measures, an unexpected event might disrupt the process; in the absence of sufficient security, the loss of data cannot be ruled out.	2
+15	1	1	0	1	0	2	4	0	1	0	2	1	2	3.0	5	1	0	2	1	1	After they leave, the guests will have access to a complimentary beverage tasting.	2
+24	2	0	0	1	1	3	4	0	2	0	2	2	5	7.0	6	3	2	2	4	1	Before taking the medicine, make certain you have not missed a dose and that you possess enough refills to complete the treatment.	2
+18	0	0	1	2	0	3	3	0	1	0	2	2	4	3.0	9	2	1	2	1	1	Before you begin the journey, ensure that all the required safety gear has been packed correctly.	2
+18	3	0	2	0	0	3	4	0	1	0	2	1	2	3.0	8	1	0	2	2	1	Even though the hiker carried his backpack securely, the sudden storm made the waterproof cover useless.	2
+16	1	0	1	1	2	1	3	0	1	0	2	1	2	4.0	6	2	1	0	2	1	Before making a decision, it's essential to carefully consider both pros and cons.	2
+19	1	2	0	1	0	2	4	0	2	0	2	2	3	4.0	7	2	1	3	1	1	Although he denied the existence of documents, evidence indicated that these were hidden in an underground vault.	2
+16	0	0	1	1	0	2	3	0	2	0	2	2	3	3.0	8	2	1	2	2	1	Before she starts the race, the weather can significantly impact her chance of winning.	2
+21	0	2	1	1	1	4	5	0	1	0	2	1	3	4.0	14	1	0	3	1	1	If we apply a coating to the roof and the temperature drops, can moisture still enter through the sides?  This is a solved example of the task.	2
+28	5	1	1	2	0	3	6	0	1	0	3	1	5	4.0	10	4	2	3	3	2	Though some people might prefer taking a hot bath before bed, medical research indicates it could potentially disrupt the natural circadian rhythm, causing restless sleep.	2
+32	2	1	3	1	0	2	4	0	5	0	4	2	6	5.0	23	4	3	4	4	1	Whenever I purchase fruits, I make sure to examine them carefully before deciding; if the skin shows even the slightest signs of damage, I will not buy them.	2
+23	1	3	1	2	0	3	4	0	3	0	2	1	3	4.0	12	2	1	3	1	1	If you put the apples at the bottom of the crate, they may damage when heavier boxes are dropped onto them.	2
+18	0	0	0	3	0	1	4	0	2	0	2	1	4	4.0	9	3	1	3	1	2	Should it rain before the concert begins, spectators might be asked to wear their rain ponchos.	2
+25	2	2	2	1	1	3	3	0	2	0	2	1	4	4.0	12	2	1	2	1	1	If the wind remains as strong and steady as this morning, it may not allow us to land safely at the expected time.	2
+25	2	1	0	1	0	3	7	0	1	0	2	3	4	4.0	16	3	0	2	3	3	Although both parties insist on meeting their deadlines, the logistical challenge of shipping goods from different continents might delay the project's completion.	2
+33	2	4	2	2	0	4	8	0	2	0	3	2	3	4.0	14	3	2	2	3	1	Before eating the oysters, we should be aware of the possibility of contamination by harmful bacteria, just as chefs carefully shuck these mollusks to minimize this hazard for their customers.	2
+17	2	0	0	2	0	2	3	0	1	0	2	2	2	4.0	6	3	2	1	1	1	Before starting the engine, it's important to check if the oil level is sufficient.	2
+20	0	3	0	2	0	3	5	0	1	0	2	1	2	3.0	8	1	0	2	1	1	Before the meeting starts, everyone in attendance must be wearing a mask as per the organization's policy.	2
+19	1	1	0	1	0	1	5	0	1	0	2	2	4	4.0	8	3	1	2	3	2	If we fail to provide proper care, cats can go weeks without showing any symptoms of illness.	2
+29	3	1	1	2	1	4	6	0	1	0	3	1	3	6.0	8	3	2	0	3	1	Before making such an offer, it would be crucial to first understand the market conditions and second, to ensure alignment with the organization's financial goals.	2
+27	1	2	2	3	1	2	6	0	2	0	2	2	4	5.0	8	3	1	2	2	2	If you are considering traveling abroad without a passport, be aware that this decision may limit your travel options and potentially cause problems with authorities.	2
+23	2	0	2	2	0	2	2	0	2	0	2	2	6	5.0	8	5	3	1	3	2	Before considering it feasible to adopt that plan, let's examine closely whether all resources required can be made available promptly.	2
+15	0	1	1	0	1	0	4	0	2	0	3	1	2	3.0	7	1	0	2	1	1	Before she finished her speech, however, opponents interrupted with jeers and shouts.	2
+24	1	0	2	3	1	1	3	0	3	0	3	1	4	4.0	10	3	1	3	1	2	If the information provided is true, and she has been diagnosed, then she needs to follow her doctor's advice closely.	2
+26	2	1	3	5	0	1	4	0	4	0	3	1	2	4.0	11	2	0	4	0	2	If her statement is indeed false, then the information he received was misleading; otherwise his trust in her integrity may have been misplaced.	2
+18	3	2	2	2	0	1	3	0	1	0	2	1	1	3.0	6	2	1	1	1	1	If you're allergic to shellfish, then be careful when ordering foods in a Thai restaurant.	2
+22	2	2	0	0	0	1	5	1	3	0	2	2	3	4.0	10	2	1	1	2	1	Before accepting his proposal for partnership, she insisted on knowing his company's financial statements for the last five years.	2
+18	0	0	1	2	1	2	2	0	1	0	2	1	5	4.0	14	2	0	2	1	2	If someone fails to complete the required form and pays incorrectly, the registration might be voided.	2
+17	3	0	0	3	1	2	3	0	0	0	2	1	2	3.0	11	1	0	2	0	1	Before the project is approved, all potential financial constraints and logistical issues must be addressed.	2
+49	6	4	2	1	3	6	13	0	1	2	5	0	4	6.0	29	2	0	2	3	2	To build a new factory that would employ many locals, secure financing from the local banking sector and the World Bank, and gain environmental approval, the mayor met with representatives of the investment and banking communities, as well as the city's environmental commission.	3
+36	2	3	1	1	1	5	10	0	1	0	4	4	4	8.0	13	3	2	1	2	1	Before leaving for their camping trip, the group discussed the importance of packing enough water, the potential consequences of being caught in storm, and the benefits of hiking early in the day.	3
+81	9	10	2	5	4	5	21	0	6	0	6	2	8	7.0	22	5	3	7	3	2	If we don't intervene in time to preserve our rainforests, not only will countless species face extinction, but the health of our planet and the very existence of future generations could be at stake; for many indigenous communities who depend on these forests for survival, their way of life and their cultural heritage hang in the balance; and even multinational corporations relying on these resources could suffer enormous financial losses if climate instability ensues.	3
+36	3	1	1	1	1	4	8	0	3	0	3	3	6	5.0	25	4	1	4	4	3	If the committee believes that a particular decision would harm the company's reputation, yet they fail to consult their legal department for advice, ultimately they run the risk of incurring costly lawsuits.	3
+38	4	3	1	2	1	2	13	0	0	0	4	2	5	7.0	25	3	1	2	4	2	If the government increases funding for public universities while reducing tuition and increasing the grant amounts for need-based student loans, then more students may be able to attend college from low-income families.	3
+32	2	3	0	1	1	0	3	0	8	0	3	2	6	5.0	16	5	5	3	2	0	Despite her love for him, she realized that if she wanted to be happy and to help her children grow, she had to end her abusive relationship with him.	3
+37	4	5	2	0	0	3	12	0	3	0	2	2	4	5.0	22	3	1	2	3	2	When a group of scientists argued for further study on the possible health benefits of smoking while concealing their funding from the tobacco industry, they significantly impacted public health policy while jeopardizing their own reputations.	3
+28	0	3	0	2	1	2	8	0	4	0	3	1	4	5.0	7	2	1	3	1	1	Before she could argue with her husband, the sirens wailed and emergency responders arrived at their house, having received a distress call from their neighbor.	3
+59	2	5	3	3	3	8	11	0	5	0	4	1	10	8.0	44	7	0	5	4	7	If you believe she will refuse to testify voluntarily, but want to assure a good attorney is on hand for her, and the prosecution suspects the same and wishes to use a court order to make her testimony a requirement, then you should file the motion for contempt with the court early in the proceedings.	3
+51	6	4	1	0	1	7	9	0	1	3	6	1	8	6.0	20	6	4	2	4	2	After learning of a secret plan to launch a preemptive attack on Syria, the European leaders held an emergency meeting to discuss their diplomatic options, yet the US president, despite initial opposition, eventually decided to side with the Americans, causing the European coalition to collapse.	3
+34	2	1	0	1	1	4	7	0	4	0	3	1	7	5.0	16	5	2	3	5	3	Should we delay the meeting to give the latecomers ample opportunity to join us, the board chair suggested; but we needed to adhere to the original agenda while maintaining their interest.	3
+29	2	1	1	0	1	2	7	0	4	0	4	1	5	4.0	13	2	1	2	5	1	After her team won the championship, she thanked her coach, considered their strategy throughout the season, and then contacted other teams to schedule friendly matches.	3
+28	1	2	1	3	0	3	4	0	2	1	3	3	5	4.0	8	4	3	4	1	1	While he awaited the arrival of the police, Tom watched as the other suspects were taken into custody, wondering if he too would be charged.	3
+46	4	3	2	0	3	4	8	0	8	0	5	2	6	5.0	30	3	2	5	3	1	Before he arrived, his brother warned him repeatedly about the harsh weather conditions and the difficult terrain, we decided to hike regardless of their warnings, yet as we reached the summit, we found ourselves unprepared for the extreme winds and snowstorm.	3
+41	5	4	0	1	1	5	13	2	1	0	3	1	4	5.0	34	2	2	4	2	0	The mayor's office denied any links to the illegal drug dealing network, while two top officials from the department of public health testified they had received death threats, and one key suspect in the case went missing.	3
+38	3	4	4	3	0	3	6	0	3	0	4	2	5	4.0	12	4	3	4	1	1	When I first moved to this city, people assumed that as a woman with blonde hair, I must have come from an affluent background, even though I was working several jobs just to survive.	3
+39	4	7	0	1	1	5	12	0	1	0	3	1	4	6.0	15	2	2	2	2	0	The committee, concerned about a rise in absenteeism due to a popular TV show, recommended students be banned from watching it during regular school hours and reported the matter to the school board for final approval.	3
+35	1	2	3	1	0	1	9	0	3	1	4	2	6	7.0	12	4	4	3	2	0	I'd rather eat an ice-cream sandwich while wearing winter boots, John remarked, if it means having to listen to my boss's boring lecture on company ethics right now.	3
+31	5	4	0	2	1	2	8	0	0	0	3	1	4	5.0	13	3	1	2	2	2	If the government is unwilling to address systemic inequality and offer economic support, many citizens will turn to criminal activity as a means of survival, according to experts.	3
+30	2	2	1	0	1	5	7	0	2	0	4	0	4	4.0	13	2	1	2	3	1	To ensure the security of his estate, the reclusive artist installed CCTV cameras in every room, but unfortunately, a determined vandal managed to destroy them all.	3
+60	7	4	1	4	1	4	15	0	6	0	6	2	7	6.0	34	6	4	4	6	2	If we are unable to secure additional funding for this project, we may have to terminate the employment contracts of our research staff, failing the successful negotiation of salary reductions; yet, should we manage a satisfactory agreement, our team's expertise will significantly enhance our chances of publishing impactful findings in prestigious scientific journals.	3
+51	4	2	1	1	1	7	11	0	1	3	5	2	9	6.0	18	7	5	3	6	2	When the United Nations failed to endorse the resolution, the small nation's leader addressed the Security Council, stating his disappointment in not receiving support, asserting this outcome could lead to future hostilities, and questioning the international body's commitment to maintaining peace in the region.	3
+36	1	3	2	2	1	1	5	0	5	1	4	2	7	6.0	14	4	3	3	2	1	Before he confesses his love for her, James learns of his brother's engagement, decides against the confession, but ultimately realizes that waiting to profess his feelings may have come too late.	3
+41	1	2	0	2	2	4	7	0	5	0	5	2	9	11.0	21	7	7	5	3	0	The police issued a notice saying that looters, if they were caught, would have their property confiscated, and those unable to pay for the damages they caused to buildings, and the courts decided to pursue them.	3
+35	8	3	0	2	1	3	9	0	0	0	3	1	5	5.0	14	3	2	2	2	1	If the proposed deal were accepted by shareholders, the board would appoint new management with significant experience in corporate social responsibility, following an internal investigation suggesting financial mismanagement and potential legal issues.	3
+34	5	3	2	0	1	2	10	0	0	0	4	1	5	4.0	14	3	2	3	2	1	When the board of trustees denies funding for essential student projects, yet approves excessive administrative budgets, students feel betrayed and unsupported, while the university's reputation declines among prospective applicants.	3
+43	3	2	3	0	4	4	11	0	4	0	4	0	7	6.0	17	1	0	2	7	1	When you buy a car and negotiate the lowest interest rate, pay the insurance policy for the maximum duration and maintain its good condition, you not only save money, but also protect your investment and secure peace of mind.	3
+25	3	3	1	0	0	0	8	0	1	1	3	1	3	4.0	10	2	1	1	3	1	After conducting weeks of extensive research, Jane's academic committee expressed concern about her methodology, suggesting alternative methods for data gathering instead.	3
+22	1	0	1	0	2	0	6	0	4	1	2	1	4	5.0	8	3	2	2	3	1	After losing her job and her apartment, Sarah felt she had little choice but sell her vintage record collection online.	3
+51	5	7	5	6	0	3	8	0	4	1	3	1	7	9.0	12	5	3	5	1	2	When the ancient manuscript had been discovered buried deep in the Egyptian sands by dedicated archeologists, they believed it held profound secrets about long lost civilizations, which were soon to be revealed after it had been carefully transported back to the museum in Cairo for analysis by experts.	3
+41	5	4	0	1	2	4	10	0	1	1	4	1	6	4.0	17	2	1	1	4	1	Before taking legal action against a suspected copyright infringer in China, we must obtain permission or warrants from that country's court, comply with specific local procedures, and engage a local lawyer to execute the legal process.	3
+43	1	7	2	1	1	3	9	0	5	0	4	1	7	4.0	19	4	1	2	3	3	If she manages to sneak out without her roommate noticing, visits the gym during peak hours to avoid crowds, and stays there until sunset, she can then meet him at the café across the street for their weekly date.	3
+37	2	2	1	2	1	3	7	0	5	0	3	2	6	8.0	8	5	4	4	4	1	Before we left for the airport, our guide warned us not to trust the taxis that would line the roads outside, as they were known to scam tourists with unjustified fares and confusing routes.	3
+105	2	9	5	6	6	11	19	0	15	1	7	3	18	10.0	75	10	9	10	9	1	Before I finish my letter, my grandmother reminds me of the time she cooked the Thanksgiving turkey with its head still attached, because she did not want the guests to waste food, but also tells me that I should learn to adapt to the situation and focus on what really matters, when the delivery man arrives at the door and hands me a special package I've been eagerly waiting for, the main clause would be: I sign and accept the delivery with mixed feelings and a renewed appreciation for the resilience of my family and their resourcefulness.	3
+27	1	4	3	0	1	4	7	0	1	0	2	0	4	8.0	21	3	0	2	1	3	When students arrive late to class despite the rules posted on the door and emails reminding them of the consequences, the teacher becomes increasingly frustrated.	3
+35	1	3	1	3	1	4	8	0	2	2	3	2	5	5.0	13	4	2	2	3	2	Before being dismissed for whistling during her presentation, Mark Johnson had carefully examined every line and illustration in the slides on the lecture stand, seeking inconsistencies that would expose any potential misstatements.	3
+60	5	5	3	5	1	5	14	0	5	0	6	3	6	10.0	15	5	5	4	2	0	My sister was so sure of her win during the debate; she'd made plans to celebrate before the results were even known, although she'd been given strong advice against doing so, given the tight race, her opponent's surprising late burst of momentum, and the possibility of an error in polling data.	3
+37	4	4	1	2	1	3	9	0	2	0	4	2	5	5.0	28	3	0	2	2	3	If she can raise enough funds for a legal defense team and secure the support of certain political figures, her brother, accused of plotting against the government, may stand trial fairly within weeks.	3
+63	9	1	2	3	3	1	16	0	9	0	6	2	11	5.0	22	4	3	5	8	1	After conducting extensive research and considering its potential benefits, our marketing team recommends using social media influencers for our upcoming product launch; when we approach a notable influencer, they should offer us exclusive discount codes and provide their own creative content; if our agreement is met, our combined audiences will expand significantly and increase overall sales revenue.	3
+36	1	3	1	3	1	4	7	0	3	0	3	3	6	7.0	29	4	1	4	3	3	If the committee refuses to discuss changes to the proposal until after all members have been briefed by legal counsel, and each of them then express their opinions, we will consider implementing revisions.	3
+31	4	2	1	1	1	4	6	0	3	0	3	1	4	5.0	15	3	2	2	4	1	While they were debating the benefits and drawbacks of a particular trade deal in private, the CEO made the unexpected decision to cancel it publicly, surprising everyone involved.	3
+34	0	2	1	2	2	3	5	0	6	0	5	2	6	6.0	8	3	2	3	4	1	After you fill out the form carefully, we'll process your application and, if approved, send you a confirmation email, which you must print and bring to the seminar.	3
+40	4	6	2	2	1	3	7	0	3	1	3	2	5	5.0	20	2	1	3	3	1	In order for us to fully understand her motivation, we must consider that Maria dropped out of school due to financial difficulties, had a complicated childhood with an abusive father and is currently fighting a terminal disease.	3
+30	0	3	2	0	1	1	8	0	6	0	2	1	5	7.0	26	3	0	4	2	3	When she finished her homework and her brother came home from soccer practice before she had a chance to escape to her room, our conversation about politics ensued.	3
+55	2	2	3	2	3	3	11	0	9	2	7	2	9	5.0	17	5	4	6	7	1	When she received her diagnosis, Mariana felt devastated, but her mother, who had gone through the same ordeal years ago, offered her encouraging words and comforted her, while the doctor explained the treatment options and their side effects to her, ultimately giving Mariana hope that she would recover.	3
+43	3	1	1	2	1	6	11	0	3	0	4	0	7	5.0	24	4	3	3	6	1	To make this proposal more feasible, our team needs an initial investment to cover research expenses; our potential investors will attend a meeting scheduled for the 15th; and we will need the investors' commitment to fund the project.	3
+40	2	2	0	2	0	2	8	0	4	2	6	1	6	5.0	12	5	4	2	5	1	To make progress on this proposal, Mark's team needs your expertise, Despite John's initial opposition, they've convinced him to contribute, Before finalizing the budget, it's important to discuss funding mechanisms.	3
+26	1	2	1	2	2	4	7	0	1	0	2	1	3	4.0	13	2	0	3	1	2	When we discovered that the painting had been smuggled into the gallery, security personnel conducted a thorough search of both the artists and visitors.	3
+50	4	5	3	0	2	3	11	0	4	2	6	0	7	7.0	21	4	4	4	3	0	After her arrest, Jane refused to answer questions without her lawyer present, which resulted in the court granting her request; meanwhile, witnesses continued to call the police anonymously with new accusations; and the media reported extensively on Jane's alleged crimes and personal life.	3
+30	2	2	1	0	1	1	6	0	2	0	2	2	8	8.0	8	6	6	2	4	0	The team refused to accept defeat despite losing key players and enduring countless setbacks, determined to make it to playoffs even if they had to rely on rookies.	3
+34	3	2	0	2	1	4	8	0	4	0	3	1	6	5.0	17	5	4	5	2	1	Despite the fact that the market trend is downward and the consumer confidence appears weak, her financial advisor suggests we continue investing, asserting this could present us opportunities in the future.	4
+24	1	2	0	1	0	2	4	0	3	0	3	1	5	5.0	10	4	0	3	2	4	If they fail to reach an agreement on terms, we may have to seek arbitration as a last resort, they acknowledged.	4
+54	2	2	5	6	1	5	12	0	3	0	4	3	9	9.0	17	7	5	7	4	2	Although winter weather often results in delayed school openings, and parents struggle to find childcare, the local authorities have assured us that they are making every effort to prioritize safety above all else, which is the primary reason why school may be closed even if the storm has mostly passed.	4
+30	3	2	1	2	1	3	7	0	2	0	3	2	4	7.0	18	4	1	3	2	3	If the investigation uncovers evidence that implicates the accused, regardless of any public sentiment or media hype, it is essential that due process of law be followed.	4
+38	2	2	3	1	1	1	7	0	8	0	5	1	5	6.0	15	4	3	3	3	1	In order to fully understand her perspective, we need to look at her past actions, her motivations at the time, how they affected her relationships, and how they might influence her future behavior.	4
+36	3	2	2	0	2	2	9	0	3	0	5	0	6	5.0	11	4	2	2	2	2	Despite the new regulation allowing us to work remotely, my team members prefer to come to the office daily, and their reasons include having better focus, collaboration opportunities, and personal satisfaction.	4
+45	5	3	4	2	3	2	6	0	5	0	4	1	7	6.0	31	4	1	4	3	3	Even if the project seemed impossible to succeed at first, and we were forced to make multiple revisions to our initial strategy, and the budget was tight with limited resources, we eventually managed to turn it around and achieve our goal.	4
+31	1	1	4	1	0	4	6	0	2	0	3	1	6	5.0	13	4	2	3	2	2	Even though the storm had died down earlier, leaving the water calm, the boat's sinking began to manifest when we noticed the growing crack in its hull.	4
+30	2	2	1	1	1	2	5	0	6	0	4	1	5	4.0	12	2	0	3	2	2	Assuming that he had taken their previous suggestions to heart, they expected a change in his behavior; but unfortunately he remained the same, stated his colleague.	4
+45	7	3	1	2	1	5	10	0	4	0	6	1	5	5.0	28	3	3	4	4	0	The doctor diagnosed the patient with severe allergies, which made her diet a complex one, requiring careful meal planning, and avoiding certain ingredients; however, he believed that a vegan diet would be beneficial for her in the long run.	4
+33	3	4	2	1	2	1	7	0	3	0	2	0	6	5.0	9	4	2	3	1	2	When the sun sets and rain starts pouring down, we can count on our neighbor to turn up with hot soup and fresh blankets to keep us warm during power outages.	4
+43	4	3	2	7	1	2	8	0	5	1	3	0	5	8.0	9	4	3	3	5	1	Had John been more diligent in his financial management, he would have saved enough money to make the desired vacation plans, which in turn would have given him the opportunity to relieve his stress and be more productive at work.	4
+24	4	1	0	0	0	2	5	0	2	0	4	1	5	7.0	7	4	3	3	3	1	Before signing the contract, the legal team recommended consulting independent experts, who discovered critical issues, which resulted in major renegotiations.	4
+30	2	3	1	0	1	4	6	0	2	0	4	1	5	5.0	15	2	1	2	3	1	Before he reveals the truth, we need to review the evidence thoroughly, check each piece against possible sources of error, and consult with all interested parties.	4
+37	2	3	2	2	1	4	6	0	5	0	3	3	5	5.0	24	3	3	4	2	0	In case you haven't taken all of your necessary medications this morning, and because that could cause some negative side effects for the surgery, we strongly recommend that you do so before proceeding.	4
+63	3	3	4	7	0	5	8	0	7	0	9	2	10	5.0	23	8	7	8	3	1	Although it's late, the storm hasn't subsided yet, which means we won't be able to leave until morning; if the train schedule permits, I'd like to buy tickets for the first departure; given the situation, we might have to wait in the shelter overnight; thus, we should prepare ourselves accordingly.	4
+27	1	2	2	1	0	4	6	0	2	0	2	2	4	4.0	18	3	1	3	2	2	Regardless of whether she had the necessary funds at that moment, having the bank manager's approval meant she could apply for the loan eventually.	4
+20	0	2	1	2	0	2	5	0	2	0	3	0	3	5.0	9	2	0	2	2	2	Based on her interpretation of events, should he take responsibility, then the committee would hold a hearing.	4
+54	3	2	4	3	2	8	10	0	5	0	5	2	7	7.0	17	5	5	5	3	0	The dog would not leave the room, no matter how many times we shouted at it, and it was making it impossible for the guests to stay quietly for the presentation, yet the host was unwilling to make a decision until her husband arrived, thus delaying the program further.	4
+63	3	4	2	4	2	6	12	0	6	0	7	5	10	6.0	18	8	5	6	6	3	Although the rain delayed their arrival, if they had taken the train instead of driving, then they would have reached the concert on time; after considering the options, they decided it was worth the extra drive and traffic; and while stuck in traffic, they managed to make some phone calls to catch up on old friendships.	4
+37	3	2	0	4	0	2	6	0	6	0	5	2	6	6.0	19	6	5	5	4	1	After he finished his work, we appreciated the quality, considering that he had met the deadline under unexpected pressure, using materials we hadn’t thought would be sufficient, despite our initial skepticism.	4
+18	2	0	1	3	0	1	1	0	2	0	2	2	3	4.0	7	3	2	2	0	1	Before we proceed, it’s important to ensure that the initial preparations have been made correctly.	4
+33	2	1	0	1	2	4	6	0	5	0	4	1	6	7.0	11	3	2	2	4	1	Before signing the contract, he consulted with his lawyer, considered all the implications, and checked the terms multiple times to make sure it would benefit him and his company.	4
+41	2	4	1	1	1	4	8	0	4	0	6	1	8	4.0	25	2	1	3	4	1	Before we decide on the best course of action, we need to understand your perspective on the issue, gather sufficient evidence, consult with experts, and involve all stakeholders, then we can make an informed decision.	4
+44	3	3	0	7	2	1	4	0	7	0	4	5	7	7.0	36	4	0	5	1	4	If he had known that his action could cause such widespread upheaval, or that it could result in innocent people being hurt, or that there was a possibility of it being exposed, he would not have gone through with it.	4
+51	5	2	4	1	1	4	10	0	3	1	5	2	9	5.0	21	7	5	2	6	2	Before making the decision to sell his stocks, John first checked the financial news to understand the market trends, next spoke with his financial advisor for recommendations, and then contacted several potential buyers to gauge interest, ultimately concluding that it was the right time to sell.	4
+26	0	1	0	0	1	1	7	0	4	0	4	1	5	5.0	9	3	1	2	3	2	Before she makes the decision to quit her job, she wants to consult with her spouse, save money, and research career options.	4
+40	3	4	2	0	2	1	7	0	6	0	5	2	8	5.0	19	4	3	3	5	1	While observing the animal in its natural habitat, we discovered that it spent most of its day grooming itself, feeding on vegetables, and resting in shade, but only attacked other animals when it sensed danger.	4
+41	3	3	1	2	1	6	10	0	1	0	7	1	6	4.0	30	1	0	2	5	1	Before setting foot in the temple, one must don the appropriate attire, make offerings to the gods, perform the ritual bath, and seek the guidance of a spiritual mentor; thereafter, inner transformation may begin.	4
+23	3	0	1	3	0	1	3	0	3	0	2	1	4	3.0	13	3	0	2	2	3	Even if I hadn't promised to help him, given the current crisis his actions might have endangered many innocent people.	4
+30	3	2	0	0	1	2	9	0	3	0	5	1	4	4.0	15	1	0	1	4	1	Before making her final decision, the CEO consulted her financial advisors, her board of directors, analyzed industry trends, and took a trip to overseas markets.	4
+41	7	3	0	2	4	4	10	0	3	0	3	0	4	7.0	13	1	1	2	2	0	The team's recent success is attributed to both their strategic planning and their effective communication; they've made the right hires and built a strong team chemistry, resulting in a high level of productivity and overall performance.	4
+27	4	2	0	0	0	4	5	0	2	1	3	1	4	4.0	9	3	2	1	3	1	After receiving a suspicious letter last week, we discovered an unidentified white powder in the envelope, prompting us to call in the HazMat team.	4
+41	3	4	0	1	1	4	9	0	4	2	5	1	6	4.0	25	2	0	2	4	2	Until she finishes studying for the final exam, takes the train to New York City, meets her mentor, and attains a job interview at the publishing company, she cannot consider her journey to fulfillment complete.	4
+44	1	5	2	5	1	3	8	0	7	1	4	1	5	5.0	29	4	2	3	2	2	The fact that he has been working on this project for years and is highly skilled in its field, combined with our trust in his abilities, is the reason why we have chosen him to oversee its completion, explains Smith.	4
+43	4	2	2	1	2	5	10	0	3	2	4	2	5	6.0	36	4	0	3	3	4	Before the team makes their move against the opposing squad, making sure each player is aware of their role and the strategies involved, as well as assessing their opponents' potential strengths and weaknesses, Coach Wilson issued the orders.	4
+29	1	2	2	1	1	3	5	0	4	0	3	1	5	5.0	20	3	0	4	2	3	If I manage to finish my research on time, and the data I compile proves valid, only then can I publish the article in the journal.	4
+74	6	4	4	4	2	4	13	0	9	0	6	5	13	7.0	58	8	8	7	5	0	Because her argument relied on the premise that her opponent had made an incorrect assumption, thus undermining his credibility, and since she knew that the jury found factual consistency important, and given that they had heard conflicting expert testimony in the previous session - yet had been warned not to base their judgment solely on these, she chose to remain neutral when her turn came to speak during cross-examination.	4
+33	0	1	0	0	2	3	8	0	5	0	5	1	7	5.0	16	2	1	2	6	1	Before she makes a decision, I want her to consult her lawyer, consider all her options, weigh the risks and benefits, and seek advice from trusted family members.	4
+45	2	3	2	1	4	8	9	0	4	0	5	0	7	7.0	17	3	3	6	2	0	The cat slept soundly throughout the night, but the dog whined restlessly, knowing the storm was coming, which made the hamster nervous and he squeezed himself into his hiding place, and yet the owner remained unconscious to all these happenings.	4
+27	1	2	1	1	0	4	6	0	3	0	2	1	5	5.0	11	4	2	3	3	2	Although the documents revealed critical information that could potentially damage the company, we decided to release them to the public given the importance of transparency.	4
+49	4	1	0	5	3	6	9	0	2	0	5	4	9	7.0	10	4	3	4	3	1	Before we accept your proposal, ensure that all necessary legal requirements are met, verify that the financial implications have been assessed, that all potential risks and consequences have been identified and mitigated, and seek the input of the board members to obtain a consensus.	4
+40	2	3	0	3	1	4	6	0	8	0	4	2	6	6.0	19	5	4	5	4	1	Before he could make a decision, his friends convinced him that it was the right move, which made him feel better, but he couldn't shake off the doubt lingering in the back of his mind.	4
+29	2	1	0	1	1	4	7	0	3	0	4	1	5	3.0	13	1	0	1	5	1	Before accepting the invitation, they had reviewed the guest list, considered their budget, checked their schedules and weighed the potential benefits against any potential costs.	4
+37	2	2	1	1	1	3	5	0	7	0	2	3	8	7.0	28	6	1	5	3	5	After she realized that she needed the correct documents to proceed with the claim and before she could find someone to help access her old storage unit, he unexpectedly appeared with the papers she needed.	4
+24	3	0	2	1	0	3	4	0	1	1	4	1	4	5.0	14	3	2	2	3	1	Because the report was incomplete, they spent hours researching each missing detail, eventually piecing together a comprehensive conclusion, concluded Rana.	4
+28	1	2	2	3	0	4	4	0	2	0	2	3	4	3.0	10	4	2	4	1	2	Although the rain may cease at any moment, packing the tent quickly is necessary if we are to get to a shelter before it starts again.	4
+28	0	2	0	4	0	3	5	0	4	0	3	0	4	4.0	12	4	2	3	1	2	Should we fail to make the deadline, all our plans would be at risk, the consequences of which our competitors would not fail to recognize.	4
+36	1	1	2	3	1	2	9	0	4	0	4	2	5	5.0	26	3	1	4	3	2	If the company continues to lose money as rapidly as it has been, despite the new business strategy, and its competitors gain market share, we will need to review our investment decisions.	4
+29	0	2	1	2	1	2	3	0	4	0	4	1	8	4.0	15	5	4	4	1	1	Before she could answer, the baby began crying, her husband left to go calm him down, and she was left sitting alone at the table.	4

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+19	0	0	3	2	1	5	0	5	0	3	0	0	0	0	3	0	0	3.0	0	12	 The cat sat on the mat, the dog slept, and the fish swam in the pond.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping cat.	0
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shines brightly across the meadow, casting long shadows on the grass.	0
+18	2	0	3	1	1	4	0	4	0	3	0	0	0	0	3	0	0	3.0	0	11	The wind blew wildly, the waves crashed fiercely, and the boat raced across the ocean.	0
+15	2	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	10	 The sun shines brightly, the flowers bloom, and the birds sing sweetly.	0
+16	0	0	2	2	1	4	0	4	0	2	0	0	1	0	2	0	0	3.0	0	8	The bright sun shone upon the flower, and the butterflies danced in the meadow.	0
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	The sun shone beautifully, and the flowers bloomed vibrantly.	0
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	The sun shone brightly, and the flowers bloomed vibrantly.	0
+9	0	0	1	2	0	3	0	1	0	2	0	0	0	1	1	0	0	3.0	1	3	 A group of friends went shopping for clothes.	0
+13	1	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog barked loudly.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	0
+13	0	0	1	0	1	2	0	2	0	1	0	3	2	1	2	0	0	3.0	1	5	The orange is ripe and the apple is ready to be eaten.	0
+14	1	1	1	1	0	4	0	3	0	2	0	0	1	1	2	1	0	3.0	1	5	The lion sleeps soundly while the wind whispers secrets through the tall grass.	0
+16	0	0	3	0	1	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	11	The apple is red, the orange is yellow, and the banana is green.	0
+14	0	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	8	The cat jumped onto the windowsill, and the bird sang a song.	0
+13	1	0	2	1	0	4	0	2	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shone brightly, casting long shadows on the park grass.	0
+13	2	0	3	0	0	2	1	2	0	3	0	0	0	2	2	1	0	4.0	2	3	The sun shines brightly, illuminating the flowers, which bloom vibrantly.	0
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog barked.	0
+16	0	0	3	1	0	4	1	2	0	3	0	0	2	2	1	2	0	4.0	2	5	The vibrant flower blossomed, emanating a sweet fragrance, drawing butterflies to its nectar.	0
+13	1	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog slept soundly.	0
+13	1	0	2	1	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shines brightly on the sunflowers, illuminating their golden petals.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+19	0	0	3	2	1	5	0	5	0	3	0	0	0	0	3	0	0	3.0	0	12	The cat sat on the mat, the dog slept, and the fish swam in the pond.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	0
+14	0	0	2	2	0	4	1	3	0	2	0	0	0	1	2	0	0	4.0	1	4	The cat sits atop the piano, its purr resonating through the house.	0
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog chased after it.	0
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	 The cat sat on the rug, and the dog barked.	0
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for the owner to come home.	0
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat jumped onto the table and hissed.	0
+15	2	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	10	The sun shines brightly, the flowers bloom, and the birds sing sweetly.	0
+14	2	0	3	0	1	3	0	2	0	3	0	0	0	1	2	1	0	3.0	1	9	The sun shines brightly, illuminating the garden, and flowers bloom gracefully.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse up the tree.	0
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the mat, and the dog chased after it.	0
+15	1	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	10	The cat chased the mouse across the park, and the sun shone brightly.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The dog jumped onto the table and barked at the cat.	0
+13	1	0	1	2	0	4	0	3	0	1	0	1	0	0	1	0	0	3.0	0	4	The cat is sleeping soundly on the mat in the living room.	0
+15	0	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The cat jumped onto the mat, alighting its paws in a comfortable position.	0
+15	2	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	10	The sun shines brightly, the flowers bloom, and the birds sing sweetly.	0
+15	2	0	2	1	1	3	0	3	0	2	0	0	1	0	2	0	0	3.0	0	6	The red cat slept soundly, and the bluebird sang sweetly in the park.	0
+18	0	0	3	0	1	3	0	3	0	1	0	3	3	1	3	0	0	3.0	1	11	The orange is ripe, the apple is sweet, and the grapes are ready to eat.	0
+17	0	0	2	2	1	3	3	1	0	2	0	3	0	0	2	1	0	3.0	0	9	I am walking to the park, and I will be playing soccer with my friends.	0
+14	0	1	1	2	0	4	0	4	0	2	0	0	0	1	2	0	0	3.0	1	7	A cat sat on the mat while the dog barked at the fence.	0
+16	2	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	10	  The dog barks fiercely at the mailman, but the mailman still delivers the mail.	0
+15	0	0	2	2	0	4	0	4	0	3	0	0	0	2	1	1	0	4.0	2	5	The cat sat on the mat, watching the sun shine on the flowers.	0
+16	3	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	11	The sun shines brightly, the wind blows softly, and the flowers bloom magnificently.	0
+12	1	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun shines brightly, casting long shadows on the grass.	0
+15	2	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	10	The sun shines brightly, the flowers blossom, and the birds sing sweetly.	0
+10	0	0	1	2	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	 The cat jumped onto the table and sat down.	0
+14	1	0	2	0	1	2	0	2	0	0	0	2	4	0	2	0	0	3.0	0	8	The red apple is ripe, and the green apple is still green.	0
+17	0	0	4	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	" ""The cat sat on the rug, and the dog played with the ball."""	0
+15	1	0	2	1	1	3	2	3	0	2	0	0	0	0	2	2	0	3.0	0	9	The students prepared a presentation for the class, and they presented it well.	1
+12	0	0	2	0	1	4	0	3	0	2	0	0	0	0	2	2	0	3.0	0	7	The cat chased the ball, and the dog played fetch.	1
+11	0	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, and the dog barked.	1
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog chased after it.	1
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	The sun shone brightly, and the flowers bloomed magnificently.	1
+11	0	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, and the dog barked.	1
+12	1	0	2	0	1	2	2	2	0	2	0	0	0	0	2	2	0	2.0	0	6	The students prepared a presentation, and they delivered it flawlessly.	1
+12	1	0	2	0	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	6	The cat slept soundly, and the dog barked all night.	1
+13	0	0	2	1	1	3	1	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The dog chased the ball, and the cat chased after it.	1
+15	0	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog played with the ball.	1
+9	0	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	The lion roared, and the zebra ran.	1
+11	0	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, and the dog barked.	1
+13	0	0	2	2	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the book fell off.	1
+13	1	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	6	The sun shines brightly, and the flowers bloom in the spring.	1
+16	0	0	2	3	1	4	0	4	0	2	0	0	0	0	2	0	0	4.0	0	8	The cat jumped onto the table, and the dog ran out of the room.	1
+11	1	0	1	1	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat and the dog played together in the park.	1
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	The sun shone brightly, and the flowers bloomed profusely.	1
+11	0	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, and the dog barked.	1
+15	1	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	10	The cat chased the mouse up the tree, and the dog barked aggressively.	1
+12	1	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The dog chased the cat, and the cat ran away.	1
+11	1	0	2	0	1	3	0	2	0	2	0	0	0	0	2	1	0	3.0	0	5	The sun shines brightly, and warmth fills the earth.	1
+15	1	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	9	The dog ran quickly to the park, and the cat chased after him.	1
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog barked.	1
+14	0	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	7	The dog chased the ball, and the cat played with the rope.	1
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog barked.	1
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog barked.	1
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog chased after it.	1
+14	0	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, and the dog played with the ball.	1
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog chased after it.	1
+13	0	0	3	0	1	5	1	0	0	2	0	0	1	1	1	1	0	4.0	1	3	"""My favorite hobbies include playing video games and reading books."""	1
+14	1	0	2	1	1	4	0	3	0	2	0	0	0	0	2	1	0	3.0	0	6	The cat slept soundly, and the dog played fetch in the park.	1
+15	1	0	2	1	1	3	0	3	0	2	0	2	0	0	2	0	0	3.0	0	9	The cat was playing in the garden, and the bird was flying overhead.	1
+14	1	1	2	0	1	3	0	3	0	3	0	0	0	1	2	1	0	4.0	1	6	The cat slept soundly, and the dog dreamed of chasing a ball.	1
+13	1	0	2	1	1	4	0	2	0	1	0	0	1	0	1	0	0	3.0	0	6	The sun shines brightly, and the garden blooms with vibrant flowers.	1
+15	1	0	2	1	1	4	0	3	0	2	0	0	1	0	2	0	0	3.0	0	6	The sun shone brightly, and the flowers bloomed in the warm spring air.	1
+13	1	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	6	The cat slept soundly, and the dog barked throughout the night.	1
+12	0	0	2	0	1	1	1	1	0	1	0	2	2	1	1	0	0	3.0	1	5	The book is interesting, and it is easy to read.	1
+10	2	1	1	0	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	5	The cat slept soundly while the rain fell gently.	1
+13	1	0	4	0	1	2	1	2	0	2	0	0	0	0	2	1	0	2.0	0	6	"""The dog chased the ball, and it ran quickly."""	1
+12	1	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The dog chased the cat, and the cat ran away.	1
+14	0	0	2	2	1	3	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the table, and the dog chased after it.	1
+15	0	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the fence, and the dog ran around the trees.	1
+14	0	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	7	The dog chased the ball, and the cat played with the toys.	1
+14	0	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the ball, and the rabbit jumped over the fence.	1
+17	0	0	2	2	1	4	0	4	0	2	0	2	0	0	2	0	0	3.0	0	9	The cat is sitting on the mat, and the dog is playing with a ball.	1
+14	0	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	8	The cat played with the ball, and the dog chased the ball.	1
+12	0	0	2	0	1	3	1	3	0	2	0	0	0	0	2	2	0	3.0	0	7	The dog chased the ball, and the cat caught it.	1
+12	1	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The dog chased the cat, and the cat ran away.	1
+15	0	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog played with the ball.	1
+15	0	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog played with the ball.	1
+16	0	0	3	0	1	3	0	3	0	1	0	3	2	0	3	0	0	3.0	0	11	The book is captivating, the characters are relatable, and the plot is engaging.	2
+14	2	0	2	0	2	2	0	2	0	1	0	1	2	0	2	0	0	3.0	0	7	The house was cold and dark, and the wind blew wildly outside.	2
+20	0	0	2	2	1	5	1	5	0	3	0	0	0	1	2	2	0	3.0	1	10	The cat chased the mouse up the tree, and the dog jumped over the fence to catch it.	2
+16	0	0	3	0	1	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	11	The book was fascinating, the movie was compelling, and the characters were relatable.	2
+17	0	0	3	0	2	4	0	4	0	3	0	0	1	0	3	1	0	3.0	0	12	The dog chased the cat, and the wind blew, but the house remained quiet.	2
+26	0	0	3	3	2	7	1	7	0	3	0	0	0	0	3	2	0	4.0	0	18	 The dog chased the ball across the park, and the cat played with the toy, and they both had a lot of fun.	2
+21	0	1	3	1	1	4	3	2	0	3	0	3	0	1	3	1	0	4.0	1	8	 My dog is playing in the park, and I am reading a book, while my cat is sleeping.	2
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped over the fence, climbed the tree, and landed on the branch.	2
+18	1	0	3	1	1	4	1	4	0	3	0	0	0	0	3	1	0	4.0	0	7	The dog chased the ball, and the cat jumped after it, so the house shook.	2
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, chased the mouse, and landed on the couch.	2
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	1	0	4.0	0	10	The cat chased the mouse, jumped over the table, and ran out of the room.	2
+15	2	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	10	The sun shines brightly, the flowers bloom, and the birds sing sweetly.	2
+20	0	0	2	1	3	5	0	3	0	1	0	2	3	1	2	0	0	5.0	1	10	The cake and ice cream were delicious, and the music played throughout the party was upbeat and energetic.	2
+13	0	0	2	0	2	4	2	1	0	2	0	0	0	0	2	2	0	3.0	0	7	My friend ate apples and oranges, and I had a sandwich.	2
+15	1	1	3	0	1	3	0	3	0	3	0	0	0	1	3	0	0	3.0	1	11	The cat slept soundly, while the rain poured, and the wind blew.	2
+17	0	0	2	1	1	4	1	4	0	3	0	0	1	1	2	2	0	4.0	1	6	The cat chased the ball and the dog ran after it, creating a playful scene.	2
+22	1	0	3	3	2	5	0	5	0	3	0	0	0	0	3	0	0	4.0	0	17	The cat jumped onto the mat, and the dog ran out of the room, but the fish remained still.	2
+17	3	1	3	0	1	3	0	3	0	3	0	0	0	1	3	0	0	3.0	1	12	The cat slept soundly, while the sun shone brightly, and the wind blew softly.	2
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat leaped onto the table, devoured the cake, and curled up on the rug.	2
+21	1	0	2	2	1	4	2	4	0	1	0	1	3	0	2	1	0	4.0	0	6	The red apple and the green banana were ripe, so I made a fruit salad with both of them.	2
+22	0	0	3	3	2	5	2	4	0	3	0	0	0	0	3	0	0	3.0	0	15	The cat jumped onto the table, and the dog chased after it, but the fish remained in its bowl.	2
+18	1	0	3	1	2	4	0	4	0	3	0	0	0	0	3	0	0	3.0	0	13	The cat jumped onto the table, and the dog barked, but the fish swam peacefully.	2
+20	0	0	3	3	1	4	0	5	0	3	1	0	0	1	2	1	0	4.0	1	10	The cat chased the mouse across the park, and the dog ran alongside, chasing after the two.	2
+22	1	1	2	1	2	4	3	1	0	5	0	1	0	2	3	3	0	4.0	2	11	I like to read novels and watch movies, and I often listen to music while I am doing those activities.	2
+19	0	1	3	2	1	4	1	4	0	3	0	0	0	1	3	0	0	4.0	1	8	The cat jumped onto the table, and the dog chased after it, as the music played.	2
+19	0	0	3	1	2	4	2	4	0	3	0	0	0	0	3	2	0	4.0	0	7	The dog chased the ball, and the cat caught it, and they ran around the park.	2
+15	0	0	3	2	1	3	0	3	0	3	0	0	0	0	1	0	0	3.0	0	8	The cat jumped onto the table, roared, and landed on the milk.	2
+23	1	0	3	3	1	6	0	6	0	2	0	1	0	1	3	0	0	4.0	1	11	The cat jumped onto the table, and the dog chased after the ball, so the house was in a mess.	2
+16	0	0	3	0	2	4	1	2	0	0	0	2	2	1	2	0	0	3.0	1	8	The apple, banana, and pear are all fruits that are sweet and nutritious.	2
+13	2	0	3	1	1	3	0	2	0	1	0	0	0	0	1	1	0	3.0	0	6	 The student completed the task quickly, efficiently, and with accuracy.	2
+17	1	0	3	0	1	4	0	4	0	3	0	1	0	0	3	1	0	4.0	0	7	 The cat chased the mouse, and the dog barked, so the owner was alarmed.	2
+20	2	0	3	2	1	4	1	4	0	3	0	0	0	1	3	0	0	4.0	1	8	The cat danced with the dog, and the bird flew to the window, where it chirped happily.	2
+16	0	0	2	0	2	4	2	4	0	2	0	0	0	0	2	2	0	3.0	0	9	I ate an apple and a banana, and I drank some juice this morning.	2
+18	2	0	3	0	1	4	1	4	0	3	0	0	0	0	3	2	0	3.0	0	7	The cat chased the ball, and the dog chased the ball, so they played together.	2
+20	1	0	3	1	2	5	0	5	0	3	0	0	0	0	3	1	0	3.0	0	15	 The cat chased the mouse up the tree, and the dog barked, but the lion slept soundly.	2
+23	0	0	3	3	2	6	2	4	0	3	0	0	0	0	3	1	0	4.0	0	16	The cat jumped onto the table, and I grabbed a slice of bread, but the rain fell on my head.	2
+23	0	1	3	3	1	6	0	6	0	3	0	0	0	1	3	0	0	4.0	1	8	The cat sat on the mat, and the dog played with the ball, while the fish swam in the tank.	2
+18	1	0	3	1	2	4	0	4	0	3	0	0	0	0	3	0	0	3.0	0	13	The cat jumped onto the mat, and the dog barked, but the fish swam peacefully.	2
+21	0	0	3	3	1	5	0	5	0	3	0	0	0	1	2	1	0	4.0	1	8	The cat jumped onto the table, and the dog ran out of the room, to fetch a ball.	2
+16	3	0	3	0	1	3	0	3	0	3	0	0	0	1	3	0	0	4.0	1	6	 The sun shines brightly, and the flowers bloom, when the wind blows gently.	2
+24	3	0	3	2	1	5	1	5	0	2	0	1	1	1	3	1	0	3.0	1	10	 The cat chased the mouse up the tree, and the dog played with the rope, so they were both very happy.	2
+16	3	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	11	 The sun shone brightly, the flowers bloomed prolifically, and the birds chirped merrily.	2
+16	1	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	4.0	0	7	The cat chased the mouse, and the dog barked, so the house shook.	2
+19	1	1	3	1	1	5	0	4	0	3	0	0	0	1	3	1	0	3.0	1	12	The cat slept soundly, while the dog played fetch, and the fish swam in the pond.	2
+16	0	0	3	0	1	3	0	3	0	2	0	3	1	0	3	0	0	3.0	0	11	The weather was warm, the flowers were blooming, and the birds were chirping.	2
+15	0	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	3.0	0	11	The dog chased the ball, the cat jumped, and the pig played.	2
+22	0	0	3	3	2	5	1	5	0	3	0	0	0	0	3	0	0	3.0	0	15	 The cat jumped onto the table, and the dog ran after it, but the fish stayed in the bowl.	2
+15	0	0	3	1	1	4	0	3	0	3	0	0	0	0	1	2	0	3.0	0	10	The dog ran to the park, chased a butterfly, and played fetch.	2
+15	0	0	2	0	3	2	0	2	0	0	0	2	4	0	2	0	0	3.0	0	8	The apple is red and sweet, and the orange is yellow and juicy.	2
+19	2	0	3	1	1	3	2	4	0	3	0	0	0	0	3	1	0	3.0	0	14	The cat chased the mouse, and the dog chased after them, so they all ran away.	2
+14	0	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, ate the bread, and roared.	3
+22	0	0	4	0	2	4	0	4	0	0	0	4	4	0	4	0	0	3.0	0	17	The coffee was cold, the bread was stale, and the milk was bitter, but the music was uplifting.	3
+20	0	0	3	3	1	5	0	5	0	3	0	0	0	0	1	2	0	3.0	0	13	The cat jumped onto the table, chased the mouse across the room, and climbed up the tree.	3
+18	0	0	3	0	1	4	0	3	0	0	0	3	3	0	3	0	0	4.0	0	13	The movie was thrilling, the music was captivating, and the actors' performances were memorable.	3
+15	0	0	3	1	1	4	0	3	0	3	0	0	0	0	1	2	0	3.0	0	10	The dog chased the cat, ran across the park, and played fetch.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The dog chased the ball, ran after the cat, and jumped over the fence.	3
+21	0	0	4	1	1	5	0	5	0	4	0	0	1	1	3	1	0	4.0	1	12	The cat chased after the ball, the dog barked, and the fish swam, creating a whimsical scene.	3
+15	1	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, chased the mouse, and ran away.	3
+15	0	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	3.0	0	11	 The cat chased the mouse, the dog barked, and the bird flew.	3
+15	1	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat jumped onto the table, ate a banana, and purred happily.	3
+15	0	0	3	0	1	5	0	3	0	3	0	0	0	0	1	3	0	3.0	0	9	 The student completed the homework, read a book, and played video games.	3
+18	2	0	3	1	1	4	0	4	0	3	0	0	0	0	3	0	0	3.0	0	13	 The cat sat on the mat, the dog slept soundly, and the sun shone brightly.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The dog chased the cat, ran after the rabbit, and played with the toy.	3
+20	0	0	4	2	1	5	0	5	0	3	0	0	0	0	2	2	0	3.0	0	10	The dog chased the ball, ran around the tree, and played fetch, all at the park.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat chased the mouse, jumped over the fence, and raced down the street.	3
+14	0	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	10	 The cat jumped on the mat, chased the ball, and roared.	3
+12	0	0	3	0	2	3	0	1	0	0	0	1	2	0	1	0	0	3.0	0	7	 The apple, orange, and banana were ripe and juicy.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	 The cat chased after the ball, leaped over the table, and landed on the rug.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	11	The cat jumped onto the table, climbed onto the counter, and devoured the fruit.	3
+15	0	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	3.0	0	11	The dog chased the cat, the rabbit ran, and the fox barked.	3
+18	0	0	3	1	1	5	0	5	0	3	0	0	0	0	3	1	0	3.0	0	11	The dog chased the cat, the fish swam, and the parrot flew across the park.	3
+18	1	0	3	1	1	4	1	4	0	3	0	0	0	0	3	1	0	3.0	0	12	The cat slept soundly, the dog played in the park, and I read a book.	3
+18	3	0	5	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	11	" ""The sun shone brightly, the wind blew fiercely, and the flowers bloomed magnificently."""	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	 The cat jumped onto the table, devoured the cake, and danced to the music.	3
+18	1	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	11	The cat jumped onto the table, chased the mouse away, and played with the string.	3
+19	0	0	4	1	1	5	0	5	0	3	0	0	0	0	3	1	0	3.0	0	11	The dog chased the ball, the cat jumped, and the horse ran, across the park.	3
+14	0	0	3	1	1	3	1	2	0	3	0	0	0	0	1	2	0	3.0	0	9	The dog chased the ball, ran after it, and played fetch.	3
+19	0	0	3	0	1	6	0	6	0	3	0	0	0	0	3	3	0	3.0	0	13	The cat chased the ball, the mouse chased the cat, and the dog chased the mouse.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The cat chased the mouse, dove into the hole, and leapt over the fence.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	The cat chased after the ball, ran around the tree, and jumped onto the fence.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	 The cat chased after the ball, ran around the tree, and jumped over the fence.	3
+17	1	0	3	0	1	4	0	4	0	3	0	0	1	0	3	1	0	3.0	0	12	The cat chased the mouse, the wind blew wild, and the sun shone brightly.	3
+16	3	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	11	The sun shone brightly, the wind blew gently, and the flowers bloomed beautifully.	3
+15	0	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	3.0	0	11	The dog chased the ball, the cat jumped, and the fish swam.	3
+14	1	0	3	1	1	2	1	2	0	3	0	0	0	0	1	1	0	3.0	0	9	 The dog chased the ball, ran after it, and barked loudly.	3
+16	0	0	3	0	1	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	11	The book was captivating, the music was uplifting, and the movie was entertaining.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	 The cat chased the mouse, jumped over the fence, and ran up the tree.	3
+16	1	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	3.0	0	11	The cat climbed the tree, the lion roared, and the birds flew away.	3
+14	1	0	3	0	1	3	0	3	0	3	0	0	0	0	1	2	0	3.0	0	9	The cat chased the mouse, chased the rabbit, and ran away.	3
+16	0	0	3	0	2	4	1	2	0	0	0	2	2	1	2	0	0	3.0	1	8	The apple, banana, and orange are all fruits that are sweet and tasty.	3
+15	0	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	3.0	0	11	The dog chased the cat, the horse ran, and the pig jumped.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	 The cat chased after the ball, ran after the dog, and jumped over the fence.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	1	0	4.0	0	10	The cat chased the mouse, jumped over the table, and ran out of the room.	3
+14	1	0	3	0	1	3	1	2	0	3	0	0	0	0	1	2	0	3.0	0	7	 The students collaborated, shared their ideas, and completed the project successfully.	3
+19	1	0	3	1	1	5	1	4	0	3	0	0	0	0	3	1	0	3.0	0	12	The cat chased the bird, the dog ran along, and the wind blew through their fur.	3
+23	1	0	4	1	2	4	0	4	0	2	0	0	5	1	1	1	0	5.0	1	7	 The red, yellow, and blue flowers bloomed brightly in the sun, making the garden a vibrant and colorful sight.	3
+16	3	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	11	The sun shines brightly, the flowers bloom wildly, and the birds sing sweetly.	3
+16	1	0	3	2	1	3	0	3	0	3	0	0	0	0	1	0	0	3.0	0	11	 The cat chased after the ball, jumped onto the table, and purred happily.	3
+21	0	0	3	3	1	6	0	5	0	3	0	0	0	0	1	2	0	4.0	0	13	The cat jumped onto the table, chased the mouse across the room, and ate a slice of bread.	3
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	The dog chased the cat, jumped over the fence, and ran across the park.	3
+22	0	0	4	3	1	5	0	5	0	4	0	0	0	0	1	1	0	3.0	0	15	The dog chased the cat, ran after the ball, jumped over the fence, and played with the children.	4
+23	1	0	4	1	1	7	0	5	0	2	0	0	1	1	1	1	0	3.0	1	11	The students, the teachers, the parents, and the community worked together to raise money for the new school building.	4
+31	0	0	5	5	1	7	0	8	0	4	0	0	1	0	1	1	0	5.0	0	18	The cat jumped onto the table, chased the mouse up the wall, played with the string, and climbed onto the bookshelf, all at the same time.	4
+20	0	0	4	2	1	5	0	4	0	4	0	0	0	0	1	2	0	3.0	0	14	The cat jumped to the table, chased the mouse, climbed the curtains, and purred with delight.	4
+28	1	1	5	1	2	6	0	6	0	5	0	0	1	2	4	1	0	4.0	2	18	The cat sat on the mat, while the dog slept, and the bird chirped, yet the sun shone brightly, creating a harmonious atmosphere.	4
+30	4	0	5	1	1	7	0	6	0	5	0	0	1	0	5	1	0	5.0	0	24	 The sun shone brightly, the flowers bloomed magnificently, the birds chirped happily, the butterflies danced gracefully, and the sweet scent of honey filled the air.	4
+26	0	0	5	0	1	5	0	5	0	0	0	5	5	0	5	0	0	3.0	0	21	 The apple is sweet, the orange is juicy, the banana is ripe, the pear is crunchy, and the grapes are refreshing.	4
+24	0	0	5	2	1	6	0	4	0	5	0	0	1	1	1	3	0	4.0	1	12	The children ran across the park, played games, sang songs, and danced to the music, creating a joyful atmosphere.	4
+26	0	0	5	0	1	5	0	5	0	3	0	5	2	0	5	0	0	4.0	0	21	The weather was sunny, the sky was clear, the flowers were blooming, the birds were chirping, and the bees were buzzing.	4
+22	0	0	4	3	1	6	0	2	0	4	0	0	1	2	1	1	0	5.0	2	8	 The students arrived at the library by bus, prepared to devour books, study for exams, and complete assignments.	4
+19	1	0	4	1	1	4	0	4	0	4	0	0	0	0	1	2	0	3.0	0	14	The cat chased the mouse, ran after the ball, climbed the tree, and slept soundly.	4
+38	0	1	6	5	0	8	0	6	0	6	0	0	5	3	2	1	1	6.0	4	14	A group of friends, eager to impress, presented a vibrant tapestry, woven with intricate threads, while a captivating tale unfolded in a lively atmosphere, illuminated by the glow of a waning moon.	4
+28	1	0	6	1	3	4	1	2	1	3	0	1	5	0	2	3	0	4.0	0	15	The students are studying English, French, German, Italian, and Spanish simultaneously, yet they maintain a strong sense of camaraderie and shared purpose.	4
+21	1	0	4	3	1	4	0	4	0	4	0	0	0	0	1	0	0	3.0	0	16	The cat jumped onto the table, climbed onto the counter, played with the balls, and purred loudly.	4
+21	0	0	4	2	1	5	0	5	0	4	0	0	0	0	1	2	0	3.0	0	15	The cat chased the mouse, jumped over the table, ran across the room, and climbed the tree.	4
+19	2	0	5	1	1	2	1	1	0	1	0	1	4	0	2	0	0	3.0	0	11	The weather is cold, wet, windy, and snowy, so I stayed home from school.	4
+21	0	0	4	2	1	5	0	5	0	4	0	0	0	0	1	2	0	3.0	0	14	The cat chased the mouse, jumped over the table, climbed the wall, and raced down the stairs.	4
+15	0	0	4	0	1	5	1	0	0	4	0	0	0	1	1	3	0	5.0	1	7	 I love eating fruit, watching movies, playing games, and reading books.	4
+22	0	0	4	2	1	5	0	5	0	4	0	0	1	0	1	2	0	3.0	0	14	The cat jumped over the fence, chased the rabbit, climbed the tree, and purred on the warm sun.	4
+18	0	0	4	1	1	4	0	4	0	4	0	0	0	0	1	2	0	3.0	0	14	 The cat jumped onto the table, chased the mouse, climbed the curtains, and roared.	4
+26	0	0	5	0	1	5	0	5	0	5	0	5	0	0	5	0	0	3.0	0	21	The house is burning, the dog is barking, the cat is sleeping, the wind is blowing, and the smoke is rising.	4
+31	1	1	4	3	1	7	0	7	0	6	0	0	0	2	2	2	0	5.0	2	17	A cat jumped over the fence, chased the dog across the park, climbed the tree, and sat on the branch waiting for the owner to come home.	4
+22	0	0	4	3	1	5	0	5	0	4	0	0	0	0	1	1	0	3.0	0	15	The dog chased the ball, ran after the cat, jumped over the fence, and fell down the stairs.	4
+22	0	0	5	0	1	6	0	4	0	5	0	0	1	0	1	5	0	3.0	0	15	 The student read the book, completed the homework, played games, watched movies, and enjoyed a delicious treat.	4
+26	5	0	5	0	1	5	0	5	0	5	0	0	0	0	5	0	0	5.0	0	21	The sun shone brightly, the flowers bloomed profusely, the birds chirped incessantly, the bees buzzed tirelessly, and the butterflies danced gracefully.	4
+28	0	0	5	0	2	7	1	6	0	3	0	0	2	2	1	3	0	6.0	2	12	The book, the film, the music, and the painting all influenced the artist's creativity, enabling him to produce unique and innovative artwork.	4
+27	1	0	7	2	2	9	1	1	0	2	1	0	1	1	1	1	0	5.0	1	11	Four distinct passions, painting, dancing, writing, and singing, intertwine seamlessly through my life, fostering a sense of fulfillment and joy.	4
+26	3	0	4	3	1	6	1	3	0	4	0	0	1	0	1	2	0	3.0	0	17	The students completed their homework diligently, studied for the exam thoroughly, participated actively in class, and achieved high marks on the test.	4
+20	1	0	4	2	1	4	0	4	0	4	0	0	0	0	1	1	0	3.0	0	15	The dog chased the ball, jumped over the fence, ran up the tree, and barked loudly.	4
+22	0	0	4	3	1	5	0	5	0	4	0	0	0	0	1	1	0	3.0	0	15	 The dog chased the ball, ran across the park, jumped over the flowers, and played with the cat.	4
+28	1	0	5	0	1	5	0	5	0	5	0	5	1	1	5	0	1	3.0	2	22	The coffee was piping hot, the bread was freshly baked, the flowers were blooming, the sun was shining, and the music was playing.	4
+22	2	0	4	0	1	5	0	5	0	4	0	0	1	0	4	1	0	4.0	0	17	 The cat slept soundly, the dog chased the ball, the birds sang sweet, and the sun shone brightly.	4
+25	0	0	4	2	2	6	0	6	0	4	0	0	1	0	2	2	0	3.0	0	20	The cat jumped onto the table, chased the mouse up the wall, and spilled the water, but the fish remained undisturbed.	4
+25	0	0	4	1	1	7	0	7	0	4	0	0	1	0	4	2	0	3.0	0	20	 The dog ran to the park, the cat chased the ball, the boy sang a song, and the tree stood tall.	4
+37	1	0	7	3	1	10	0	9	0	1	0	1	4	1	1	0	0	4.0	1	16	The book, the cat, the music, the painting, and the dance were all part of the enjoyable evening, seamlessly blending with the warm, inviting atmosphere of the cozy living room.	4
+13	0	0	4	0	1	2	0	1	0	0	0	1	4	0	1	0	0	2.0	0	8	The weather was sunny, windy, warm, and humid yesterday.	4
+28	1	0	5	2	2	6	2	3	0	2	0	2	2	1	2	1	0	4.0	1	9	The apple, orange, mango, and banana were ripe and ready to be eaten, so I made a fruit salad with all of them.	4
+23	0	0	5	2	1	5	0	5	0	5	0	0	0	0	1	2	0	3.0	0	19	The cat chased the mouse, ran after the ball, climbed the tree, danced with the wind, and roared.	4
+17	1	0	4	1	1	3	1	1	0	4	0	1	0	1	1	2	0	4.0	1	8	I am reading a book, watching television, listening to music, and exercising simultaneously.	4
+18	0	0	4	1	1	5	0	1	0	2	0	1	3	1	1	2	0	4.0	1	10	 This book is full of interesting characters, captivating plotlines, engaging narratives, and delightful illustrations.	4
+23	0	0	4	4	1	5	0	5	0	4	0	0	0	0	1	0	0	3.0	0	16	 The cat sat on the mat, jumped over the fence, ran across the park, and played with the dogs.	4
+23	0	0	5	0	1	6	0	6	0	5	0	0	0	0	5	1	0	4.0	0	19	The dog chased the ball, the cat jumped, the rain fell, the wind blew, and the sun shone.	4
+25	0	0	5	5	1	8	0	2	0	2	0	1	1	0	1	0	0	4.0	0	11	A delicious breakfast of oatmeal, cereal, fruit, and juice was shared with friends, along with a steaming cup of coffee.	4
+21	0	0	4	0	1	4	0	4	0	3	0	4	1	0	4	0	0	3.0	0	16	 The grass is green, the flowers are blooming, the sun is shining, and the birds are chirping.	4
+22	1	0	4	3	1	5	0	4	0	4	0	0	0	0	1	0	0	3.0	0	17	The cat jumped onto the mat, raced across the living room, climbed onto the couch, and purred happily.	4
+20	3	0	4	0	1	4	0	4	0	4	0	0	0	0	4	0	0	3.0	0	15	The sun shines brightly, the flowers bloom, the wind whips freely, and the birds sing sweetly.	4
+14	0	0	4	0	1	4	0	1	0	3	0	1	0	1	1	2	0	4.0	1	5	The students are playing football, watching TV, studying, and cooking.	4
+25	0	0	4	4	1	6	0	6	0	4	0	0	0	0	1	1	0	3.0	0	18	 The cat jumped onto the table, chased the mouse up the wall, climbed onto the bookshelf, and hissed at the owner.	4
+22	1	0	6	3	0	8	0	1	0	1	1	1	0	0	1	0	0	4.0	0	10	Four fruits are eaten together – bananas, oranges, apples, grapes – with a sprinkle of cinnamon on top.	4
+28	0	1	4	1	2	6	0	5	0	4	0	0	5	1	4	0	0	5.0	1	10	The quick brown fox jumps over the sleeping dog, and the blue bird sings, while the red cat naps, and the green parrot dances.	4

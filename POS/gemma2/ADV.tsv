@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+20	1	0	3	2	1	4	1	3	0	1	0	0	4	0	1	0	0	4.0	0	7	The sun shone brightly, a stark and clear testament to its presence in a vast, empty sky.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	 The sun rose in the east and set in the west.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The sun rose in the east and set in the west.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun rose this morning.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The rain fell without a pause.	0
+12	1	0	2	1	0	2	2	1	0	2	0	0	1	1	1	1	0	3.0	1	6	She sat quietly, observing the bustling street from her balcony.	0
+6	1	0	1	1	0	1	1	0	0	0	0	1	0	0	1	0	0	2.0	0	2	She was there without delay.	0
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The rain was unusually quiet on the day.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	  The rain fell without a cloud in the sky.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The rain fell without interruption.	0
+22	1	0	3	3	1	6	0	4	0	3	0	0	1	1	2	1	0	4.0	1	7	  **The rain fell silently, a symphony of drops cascading down the barren leaves and glistening on the cobblestone streets.**	0
+13	1	0	1	2	0	3	1	2	0	2	0	0	0	0	0	0	0	3.0	0	6	  There was not even a whisper of silence in the bustling city.	0
+9	0	0	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	4.0	1	2	I have no time to complete this task.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The storm swept effortlessly through the empty sky.	0
+18	1	0	2	2	0	5	0	4	0	2	0	0	2	1	1	1	0	3.0	1	8	  The sun hung perfectly on the horizon, casting an eerie shadow over the bustling city streets.	0
+17	0	0	2	2	1	5	3	2	0	2	0	0	0	1	1	1	0	5.0	1	5	She walked into the cafe, carrying her purse and a coffee cup in her hand.	0
+12	1	0	2	1	1	1	2	1	0	2	0	0	1	0	1	1	0	3.0	0	5	She stood there, quiet and observing the world around her.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The rain fell without a trace.	0
+15	1	0	2	3	0	4	1	3	0	1	0	0	0	0	1	0	0	3.0	0	7	Even without a word in its vicinity, the sun rises in the east.	0
+24	0	2	2	2	0	5	1	3	0	4	1	2	1	3	1	1	0	5.0	3	13	There is no sentence generated with 0 adverbs, as adverbs cannot be omitted without altering the grammatical meaning of the sentence.	0
+23	0	1	1	1	1	4	1	4	0	3	0	3	1	2	2	2	0	6.0	2	5	The task cannot be completed since it does not provide any context or a specific task to generate a sentence about.	0
+5	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	3	She was not happy.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rose without any delay.	0
+15	2	0	2	3	0	2	2	2	0	2	0	0	0	1	1	0	0	4.0	1	6	She sat quietly, looking up from her book every once in a while.	0
+12	1	1	1	1	0	2	1	2	0	1	0	1	1	1	2	0	0	3.0	1	4	  The sky was blue as it drifted lazily over the mountains.	0
+10	0	0	1	1	0	3	0	2	0	2	0	0	1	0	1	0	0	2.0	0	5	  The young traveler strolled through the bustling city streets.	0
+10	0	0	1	1	0	1	2	0	0	1	0	1	2	1	1	0	0	3.0	1	4	   She was able to dance despite her limited mobility.	0
+5	1	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	3	   Today was quite interesting.	0
+10	0	1	1	0	0	2	0	2	0	1	0	1	2	1	2	0	0	3.0	1	5	The sky was silent as an empty void descended.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	He spoke without any words.	0
+12	0	0	2	2	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	  She sat in silence, watching the sunrise over the mountains.	0
+6	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The task is not given.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  > He did nothing to earn his success.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rose today.	0
+20	1	0	2	2	1	5	0	4	0	3	0	0	2	1	1	1	0	4.0	1	7	The sun beamed down upon the bustling city, offering no shade from the scorching heat and relentless rays.	0
+21	0	2	3	0	0	4	0	4	0	3	0	3	0	2	3	1	0	4.0	2	7	Sure, the task cannot be completed, as the instruction specifies that the sentence should have no adverbs.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	  The rain falls silently on the leaves.	0
+20	1	0	1	3	1	5	0	4	0	3	0	0	2	1	1	0	0	4.0	1	8	  The young lady looked out the windows of the train and smiled at the bustling city scene passing below.	0
+18	1	0	2	1	0	3	1	2	0	1	1	2	2	2	2	1	0	4.0	2	5	The task is not clear, so I am unable to generate a sentence with 0 adverbs.	0
+12	2	1	2	0	0	3	1	1	0	2	0	0	0	1	2	0	0	2.0	1	7	The sun rose brightly today, just like it did yesterday.	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	 He walked quickly through the forest.	0
+16	1	0	2	1	0	3	0	3	0	2	0	0	3	1	1	0	0	4.0	1	6	   The birds soared effortlessly into the clear blue sky, an amazing sight to behold.	0
+8	0	0	1	0	0	0	3	0	0	3	0	0	0	2	0	1	0	4.0	2	2	There is nobody left to do anything.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	   The city was cold and lonely.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	  The sun sets quietly in the sky.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The storm arrived without any wind."""	0
+8	1	0	2	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	3	 She sat quietly, watching the sunset.	0
+10	1	0	1	1	0	3	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The sky was as blue as the summer sky.	0
+17	4	0	3	1	0	3	3	0	0	2	0	1	0	1	2	1	0	3.0	1	8	 **Yesterday, I went to bed very early so I could finish my homework first.**	0
+14	1	0	2	1	0	3	1	2	0	0	0	2	2	1	2	0	0	3.0	1	5	The sky was so blue, it was the color of endless clouds.	0
+13	0	0	2	2	0	3	0	2	0	2	0	0	2	1	1	0	0	3.0	1	5	The quick little lamb danced across the field, hopping with joy.	1
+11	0	0	2	2	0	2	2	1	0	0	0	1	1	0	1	0	0	2.0	0	4	 Despite his diligence, he was careless with the keys.	1
+22	1	0	2	2	0	4	3	4	0	4	0	0	1	3	2	1	0	7.0	3	7	She went to the store with the utmost care, her every step calculated to ensure she completed the task successfully.	1
+21	3	1	2	2	0	4	1	4	0	3	0	0	1	2	3	0	0	4.0	2	12	The dog barked eagerly as quickly as the rain fell, despite the strong winds that swept across the city.	1
+10	2	0	2	0	0	2	0	2	0	2	0	0	0	1	1	1	0	3.0	1	4	The cat ran quickly, carefully exploring the backyard.	1
+15	1	0	2	1	0	3	1	2	0	2	0	0	2	1	1	1	0	4.0	1	7	She hurried diligently towards the bus stop, eager to catch the next departure.	1
+8	0	0	1	1	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	4	The cat ran _quickly_ around the park.	1
+14	2	0	2	1	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	8	She went quickly, reaching the bus stop in just a few minutes.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran carefully across the park.	1
+12	3	0	1	0	0	3	1	1	0	2	0	1	0	0	2	0	1	4.0	1	7	The girl who played perfectly yesterday is still hanging around today.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun shines brightly throughout the day.	1
+7	2	0	1	0	1	1	0	1	0	1	0	0	0	0	1	0	0	3.0	0	2	The cat moved slowly and carefully.	1
+14	1	0	2	2	0	3	2	2	0	2	0	0	0	1	2	0	0	3.0	1	7	She hurried along the river, her laughter carrying far into the morning.	1
+16	1	0	3	1	0	3	0	3	0	2	0	0	2	1	1	0	0	4.0	1	5	  **The boy ran effortlessly in the beautiful garden, a rare joy to behold.**	1
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! A man ran quickly down the street.	1
+16	2	1	2	1	0	2	1	2	0	3	0	1	1	3	2	0	0	6.0	3	4	The sun was late arriving, arriving later than it usually does in the spring.	1
+20	1	1	2	2	0	4	2	4	0	2	0	0	2	1	2	0	0	5.0	1	5	The cat crept quietly through the forest, its every step soft as it danced through the lush foliage.	1
+11	1	0	2	2	0	2	2	0	0	2	0	0	0	1	1	0	0	3.0	1	4	She hurried with speed, arriving late for her meeting.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick cat strolled down the leafy path.	1
+7	2	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The rain was coming quite unexpectedly.	1
+17	1	0	5	3	0	2	2	1	0	3	0	0	0	1	1	0	0	3.0	1	10	She ran with **carefully** around the park, searching for her lost keys.	1
+12	1	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The rain came quietly, surprising the hikers with its stillness.	1
+9	2	0	2	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	6	She ran slowly, carefully down the street.	1
+16	0	0	2	2	0	5	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The quick mouse darted around the garden, leaving paw prints on the dewy grass.	1
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The horse galloped across the field with the greatest speed.	1
+12	1	0	2	1	0	1	3	1	0	3	0	0	0	2	2	1	0	4.0	2	6	She hurried to the shop quickly, finding everything she needed.	1
+16	0	0	2	2	0	5	2	3	0	2	0	0	0	1	2	1	0	4.0	1	8	The dog scampered across the grass yesterday, with a swiftness that belied its size.	1
+15	1	1	3	2	0	3	1	2	0	2	0	0	0	1	2	0	0	4.0	1	7	The dog barked **quickly** as the ball rolled out of its crate.	1
+11	1	0	4	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	 *The boy ran **slowly** through the forest.	1
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The boy ran quietly and cautiously through the forest.	1
+13	0	0	2	2	0	4	0	2	0	1	0	1	1	0	1	0	0	2.0	0	8	The city was bustling with activities today, despite the calm weather.	1
+8	2	0	1	0	1	2	0	1	0	1	0	0	0	0	1	0	0	3.0	0	4	The rain poured quickly and unexpectedly today.	1
+12	1	0	2	2	1	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	5	The dog raced across the park, quietly but with determination.	1
+22	0	0	2	4	0	6	3	3	0	3	0	0	0	2	1	1	0	6.0	2	9	She ran through the park in a hurry, her pace determined by her need to reach the concert on time.	1
+15	0	0	2	2	0	4	1	3	0	2	0	0	1	1	2	0	0	3.0	1	7	The cat hurried up the hill, its paws dancing on the uneven rocks.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog slept quietly in the meadow.	1
+21	2	1	3	1	0	3	2	2	0	4	0	1	1	4	2	1	0	6.0	4	8	She walked quickly, cautiously around the garden, ensuring that her steps were silent to avoid disturbing the birds.	1
+15	2	0	2	2	0	3	2	2	0	2	0	0	0	1	2	0	0	3.0	1	9	She walked cautiously around the lake, her footsteps carefully stepping on the shore.	1
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	1
+13	3	1	1	0	1	2	1	1	0	3	0	0	0	2	1	1	0	3.0	2	5	The dog barked quickly and excitedly upon seeing her owner come home.	1
+18	2	0	2	2	0	3	4	2	0	3	0	0	0	2	2	1	0	5.0	2	5	She hurried down the street, taking the shortcut that she frequently took on her way home.	1
+14	2	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	7	The dog ran swiftly through the countryside, quickly stopping for a snack.	1
+25	3	1	2	2	2	4	2	3	0	4	0	0	2	2	2	1	0	6.0	2	7	The car drove slowly and carefully through the dense forest, where it stopped and rested for a few hours before continuing its journey.	1
+15	2	0	2	2	0	3	2	2	0	2	0	0	0	1	2	0	0	4.0	1	4	 The boy ran quickly through the park, where he played with his friends.	1
+13	1	1	1	1	0	3	0	3	0	2	0	0	1	1	2	0	0	3.0	1	8	The wind whispered across the field as a lone sunflower bloomed brightly.	1
+12	3	0	2	0	0	2	0	2	0	2	0	0	0	1	1	1	0	4.0	1	4	The woman ran quickly, just enough to escape the storm.	1
+19	2	0	2	2	0	5	0	4	0	2	0	0	2	1	1	1	0	4.0	1	12	The rain came quietly, adding a unique layer of wonder to the already enchanting sky that day.	1
+6	1	0	2	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	   _She was late _hardly_..	1
+13	2	0	2	1	0	3	1	2	0	2	0	0	0	1	2	0	0	3.0	1	8	The dog ran swiftly around the lake, its tail wagging furiously.	1
+12	0	0	2	1	0	2	2	0	0	0	0	1	3	0	1	0	0	2.0	0	7	  Despite her careful planning, her unexpected journey was not predictable.	1
+15	2	0	2	1	1	3	1	2	0	3	0	0	0	1	1	1	0	3.0	1	6	The dog barked furiously and slowly, exploring her backyard under the blazing sun.	2
+16	2	0	2	1	2	4	0	2	0	2	0	0	1	1	1	1	0	5.0	1	5	The girl danced elegantly and gracefully, making an enchanting spectacle of light and laughter.	2
+17	0	0	2	3	0	4	0	3	0	1	0	0	4	0	1	0	0	3.0	0	7	The quick, agile creature scurried across the shimmering lake with a burst of colorful wings.	2
+13	2	0	1	2	1	2	2	2	0	1	0	0	0	0	1	0	0	3.0	0	7	She hurried both fiercely and swiftly in her pursuit of the prize.	2
+14	0	0	1	2	1	5	0	3	0	1	0	0	1	0	1	0	0	3.0	0	9	The old man walks with both speed and grace around the town square.	2
+19	1	0	2	2	1	4	2	2	0	2	0	0	2	1	1	1	0	3.0	1	5	Despite her diligent work and tireless effort, she still struggled to finish the task before the deadline.	2
+20	0	1	2	4	0	5	2	2	0	2	0	0	1	0	1	0	1	3.0	1	7	Despite living by the creek, she hurried to the city's heart in search of her missing cat.	2
+16	0	0	2	2	0	5	0	3	0	3	0	0	1	1	1	1	0	3.0	1	7	The rainy winds rushed across the bustling city streets, setting the stones in motion.	2
+15	0	0	2	1	0	3	4	1	0	3	0	0	1	2	3	2	0	5.0	2	4	She hurried with remarkable speed, her dance captivating every eye that beheld her.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The boy ran quickly and softly down the hill.	2
+12	0	0	2	1	2	3	0	1	0	1	0	0	2	0	1	0	0	3.0	0	4	 **The rain arrived with both gentle droplets and torrential downpours.**	2
+18	2	0	2	2	1	4	1	3	0	3	0	0	0	1	1	1	0	4.0	1	7	She strolled leisurely through the park, strolling quickly past the babbling brook and enjoying the sunshine.	2
+18	1	0	2	2	2	5	2	1	0	2	0	0	1	1	1	0	0	6.0	1	6	She hurried quietly through the bustling city square, her pace dictated by both urgency and enjoyment.	2
+10	2	0	1	1	1	1	1	2	0	1	0	0	0	0	1	0	0	3.0	0	5	 They ran across the beach both quickly and smoothly.	2
+18	2	0	2	0	3	3	0	2	0	3	0	1	2	3	1	1	0	6.0	3	4	The storm was both sudden and unrelenting, leaving both nature and the people feeling profoundly affected.	2
+13	2	0	2	1	0	2	2	1	0	2	0	0	1	1	1	1	0	3.0	1	8	  They scurried cautiously through the verdant forest, meticulously retracing their memories.	2
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! A quick and steady dance was performed in the evening sunlight, adding an unexpected flourish to the performance.	2
+13	0	0	1	2	1	3	0	3	0	2	0	0	1	0	1	0	0	3.0	0	5	The young child raced down the street and ran along the river.	2
+16	0	0	2	2	1	5	0	2	0	2	0	0	2	1	1	1	0	4.0	1	7	The rain fell with great speed and power, creating an unforgettable spectacle of nature.	2
+17	0	0	2	1	0	2	4	1	0	2	0	1	3	2	2	2	0	4.0	2	4	Despite her quick wit, she was unable to escape the treacherous forest that engulfed her.	2
+18	2	0	2	2	1	3	2	3	0	2	0	0	1	1	2	0	0	3.0	1	11	He hurried both quickly and carefully through the forest, his shoes echoing through the quiet solitude.	2
+17	0	0	2	1	4	4	1	1	0	1	0	1	2	1	1	1	0	4.0	1	5	Her smile was both bright and mischievous, illuminating the room with both warmth and wit.	2
+9	3	0	1	0	2	1	0	1	0	1	0	0	0	0	1	0	0	3.0	0	3	The rain fell smoothly both quickly and unexpectedly.	2
+14	2	0	2	1	1	2	2	1	0	2	0	0	1	1	2	0	0	3.0	1	7	  She walked cautiously and carefully, her steps echoing through the deserted graveyard.	2
+16	2	0	2	1	3	4	1	1	0	2	0	0	0	1	1	1	0	4.0	1	7	The car drove quickly and smoothly, exhibiting both speed and grace in its movements.	2
+28	0	0	2	5	1	6	4	4	0	5	0	0	1	3	3	0	0	6.0	3	14	She danced and laughed in the warm sunlight beaming through the trees, her heart racing in the rhythm of the music she played on her instrument.	2
+11	0	0	1	1	1	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	5	The dog chased the cats with great rapidity and enthusiasm.	2
+25	0	1	2	3	0	5	1	5	0	4	0	0	4	3	2	1	0	5.0	3	9	They went on a leisurely stroll along the river, enjoying the cool waters while watching the colorful fishes dart through the serene scenery.	2
+18	3	0	2	2	1	2	2	2	0	2	0	1	1	2	2	0	0	4.0	2	10	They ran through the forest cautiously and quickly, always being mindful of every step they took.	2
+14	2	0	5	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	10	The boy danced **quietly** and **confidently** throughout the party.	2
+19	1	0	2	2	1	3	3	1	0	1	0	2	3	1	2	0	0	3.0	1	8	Despite her busy schedule and impressive accomplishments, she was always mindful of the time she was spending.	2
+16	2	0	2	1	1	3	4	0	0	2	0	0	1	0	1	2	0	3.0	0	5	  Despite her early start, she diligently followed her dream and consistently made her mark.	2
+15	2	0	1	1	2	3	2	1	0	1	0	0	2	0	1	1	0	3.0	0	10	The young artist displayed her creativity both swiftly and meticulously in her new painting.	2
+20	2	0	4	2	1	3	1	4	0	3	0	0	0	2	1	1	0	5.0	2	10	  She ran **quickly and quietly** through the forest, avoiding all the dangers lurking beneath the leaves.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The girl danced gracefully and confidently in the moonlight.	2
+16	2	0	2	1	2	2	2	1	0	2	0	0	2	0	2	0	0	4.0	0	7	She went slowly and deliberately, her steps careful and measured on the uneven ground.	2
+22	2	0	6	3	1	3	1	2	0	1	0	1	2	0	1	0	0	3.0	0	12	Despite his diligent efforts, the project was delayed both **hardly** and **slowly** due to unforeseen circumstances.	2
+14	0	0	1	2	1	5	0	2	0	1	0	0	2	0	1	0	0	3.0	0	9	The old lady danced with grace and speed through the bustling city streets.	2
+13	2	0	2	2	1	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	5	 Quickly and carefully, she went for a walk in the park.	2
+17	1	0	2	3	0	3	4	1	0	2	0	0	1	1	1	1	0	4.0	1	4	Despite her initial plans, she found herself working diligently in her preparation for the interview.	2
+27	2	0	4	3	1	6	4	2	0	3	0	0	2	1	1	2	0	4.0	1	7	Despite their initial reluctance, she effortlessly negotiated with her stubborn coworker, proving her adaptability to any situation and overcoming the obstacle head-on.	2
+7	2	0	1	0	2	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She hurried both quickly and efficiently.	2
+24	1	0	2	3	1	7	3	2	0	2	0	0	3	1	1	1	0	4.0	1	13	She diligently worked with her patience, completing a major project in a record time thanks to her exceptional planning and hard work.	2
+16	3	0	5	1	1	2	1	1	0	1	0	0	1	0	1	0	0	3.0	0	12	The dog barked **rapidly** and then **slowly** in its own backyard.	2
+19	3	0	2	2	2	4	1	2	0	3	0	0	0	1	1	0	0	4.0	1	7	She hurried both quickly and confidently, effortlessly weaving through the bustling city streets with elegance and grace.	2
+17	2	0	2	2	1	3	2	3	0	2	0	0	0	1	2	0	0	4.0	1	8	She walked both quickly and gracefully, her hair shining like a river under the moonlight.	2
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The lively birds soared effortlessly through the verdant forest.	2
+21	2	1	2	2	1	4	2	3	0	4	0	0	0	2	3	0	0	4.0	2	7	The girl danced wildly and quickly, her laughter echoing through the park as she ran alongside the flowing river.	2
+18	1	0	2	2	1	4	2	1	0	3	0	0	1	2	1	1	0	4.0	2	10	She hurried to the store with speed and precision, always prepared to purchase her favorite snack.	2
+17	1	0	3	2	1	2	3	0	0	2	0	1	2	1	1	0	0	3.0	1	5	Despite her diligent efforts, she was both persistent and determined, resulting in her accomplishment.	2
+22	1	0	4	2	1	7	0	3	0	1	0	0	3	0	1	1	0	4.0	0	8	The diligent team meticulously completed the intricate task with an abundance of diligence, efficiency, speed, and unwavering focus.	4
+29	0	0	3	5	0	8	3	3	0	2	0	0	4	1	1	0	0	6.0	1	8	Despite her unwavering resolve, the girl danced with reckless abandon in her grandmother's kitchen, her every step painted in a vibrant spectrum of joyful laughter.	4
+22	0	1	3	1	2	6	0	4	0	3	0	0	2	1	2	1	0	4.0	1	6	  **Despite the incessant rain and wind gusts, the hikers remained determined and made the summit before the sun rose.**	4
+24	0	0	2	4	1	7	2	3	0	2	0	0	3	1	1	1	0	4.0	1	12	She hurried down the cobblestone street with an array of exquisite grace, displaying her unmatched wit and agility amidst the bustling crowds.	4
+20	0	0	2	2	0	5	0	4	0	3	0	0	3	2	1	2	0	4.0	2	8	The rainy wind swept the streets with a mighty force, causing the city to blossom with vibrant colors.	4
+24	2	0	2	3	1	7	2	3	0	2	0	0	2	1	3	0	0	4.0	1	8	The quick brown fox jumped tirelessly around the lake, his fur bristling with the morning dew and his eyes wide with wonder.	4
+14	4	0	4	1	1	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	11	She danced gracefully, cautiously, swiftly, and joyfully around the room.	4
+13	2	1	2	0	1	1	2	0	0	2	0	1	1	0	2	0	1	2.0	1	6	Even though she ran quickly, her pace was measured and deliberate.	4
+10	0	0	1	1	1	3	0	1	0	0	0	1	2	0	1	0	0	3.0	0	2	The bustling streets were alive with activity and chaos.	4
+18	1	0	3	2	0	3	3	1	0	3	0	0	2	2	1	1	0	4.0	2	5	My quick, nimble fingers danced across the pages, leaving me completely surprised by their brilliance.	4
+36	0	1	6	4	2	8	3	1	0	6	0	1	2	2	2	1	0	8.0	2	10	I jumped around town, running, jumping, dancing, and singing with such vibrant joy, that I couldn't help but move my body in rhythm with the city's beating pulse.	4
+19	2	0	2	2	1	4	2	2	0	2	0	0	2	1	2	0	0	4.0	1	8	 She ran quickly and confidently through the bustling city park, her laughter echoing across the peaceful meadows.	4
+20	0	1	2	2	2	5	3	0	0	2	0	0	3	1	1	1	0	4.0	1	6	  Despite his initial fear and cautious steps, he persevered in reaching his goals through sheer willpower and determination.	4
+19	1	0	3	1	1	4	0	4	0	4	0	0	1	2	1	2	0	4.0	2	6	 The wind whipped through the trees, wildly dancing and rustling the leaves, creating a mesmerizing symphony.	4
+22	0	0	2	4	2	7	0	3	0	2	0	0	2	1	1	0	0	4.0	1	10	The dog leaped across the field with great speed and agility, running through the meadows with remarkable freedom and boldness.	4
+14	0	0	2	2	1	4	2	1	0	1	0	0	1	0	1	1	0	4.0	0	3	Despite its precarious circumstances, she faced the task with resilience and determination.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	11	The rain fell softly, smoothly, swiftly, and fiercely throughout the day.	4
+18	3	0	2	1	1	3	0	3	0	2	0	0	3	1	1	1	0	5.0	1	5	The rain came down relentlessly, ensuring a tranquil and harmonious evening for the bustling city below.	4
+18	0	0	2	3	0	5	0	3	0	2	0	0	3	1	2	0	0	4.0	1	7	The vibrant hues danced across the sky, herculean wings fluttering with an astounding amount of vigor.	4
+25	2	0	7	3	0	5	3	2	0	2	0	0	1	1	2	0	0	4.0	1	12	She danced **carefully** through the vibrant city streets, her stride echoing **confidently** in the rhythm of her heartbeat.	4
+14	0	0	2	2	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	4	  Despite the incessant rain, we managed to complete the project on time.	4
+15	4	1	1	1	1	1	2	1	0	2	0	1	0	0	2	0	0	4.0	0	6	She went down to the creek and swam as fast as she possibly could.	4
+26	1	1	3	3	1	6	2	2	0	1	0	1	5	1	1	1	0	4.0	1	8	Despite her unwavering resolve and exceptional athleticism, they were utterly unsuccessful in capturing the lightning-fast object amidst a whirlwind of unforeseen obstacles.	4
+24	0	0	3	2	1	5	3	2	0	3	0	1	2	1	1	3	0	7.0	1	5	Despite her exceptional patience, he could not resist the temptation to interrupt her, exhibiting impulsive haste and a lack of grace.	4
+15	2	0	5	1	1	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	11	The rain came **quietly** and **quickly** in the late afternoon.	4
+31	0	0	2	6	0	11	2	6	0	1	0	0	3	0	2	0	0	4.0	0	20	The dog raced through the city streets with a mighty gust of wind beneath its fur, its every stride a thunderous boom in the bustling symphony of city life.	4
+14	0	0	3	1	0	2	1	2	0	3	0	0	1	1	1	1	0	3.0	1	3	  **With an urgent haste, she leaped to escape the looming shadow.**	4
+18	4	0	6	1	1	2	1	1	0	2	0	0	0	0	1	0	0	3.0	0	15	  She danced **confidently, wildly, cautiously, and slowly** around the bustling city street.	4
+19	0	0	2	5	0	6	2	2	0	1	0	0	1	0	1	1	0	3.0	0	8	Despite her exceptional athleticism, she faced a series of setbacks due to an abundance of wind resistance.	4
+18	0	0	1	3	1	6	1	4	0	2	0	0	0	1	2	1	0	4.0	1	9	The students learned the value of perseverance and determination despite the difficulties they faced along the way.	4
+37	0	0	2	5	2	11	3	5	0	4	0	0	5	3	2	2	0	8.0	3	9	The young artist painted her creations with meticulous care and enthusiasm, filling her gallery with vibrant colours that danced between the warm glow of the setting sun and the cool shadows hidden within the cave.	4
+18	1	0	2	3	0	3	4	0	0	2	0	0	2	1	1	1	0	3.0	1	6	  Despite their unwavering pursuit of happiness, they never managed to achieve it in its fullest extent.	4
+25	0	0	3	3	1	5	3	2	0	3	0	0	5	2	1	1	0	4.0	2	9	Despite the relentless rain and relentless pursuit of my rival, I accomplished achieving my greatest goal, standing tall amidst the chaotic chaos.	4
+15	0	0	1	3	0	4	0	3	0	1	0	1	2	0	1	0	0	3.0	0	10	The city was bathed in a symphony of vibrant colors by the relentless sun.	4
+27	3	0	5	3	1	6	2	2	0	3	0	0	2	2	2	2	0	5.0	2	12	The children danced with remarkable flair, wildly, cleverly, and meticulously, creating a symphony of joy that filled their hearts with boundless energy.	4
+24	0	1	3	2	1	7	1	3	0	3	0	0	3	2	2	1	0	5.0	2	10	The bustling streets became peaceful, as people rushed through the cobblestone pathway with an eager excitement, expressing their joy and determination.	4
+23	0	0	2	3	2	6	1	4	0	3	0	0	1	1	1	2	1	5.0	2	9	  Despite the chaos and pandemonium surrounding us, the family managed to enjoy a moment of peace and quiet amidst the chaos.	4
+21	0	0	1	3	1	6	0	3	0	3	0	1	3	1	1	0	0	5.0	1	7	The city was bathed in the blue glow of setting sun and the stark shadows cast by towering ancient buildings.	4
+17	2	0	2	3	1	4	1	2	0	1	0	0	1	0	1	0	0	3.0	0	7	  In a symphony of sounds, her voice resonated strongly and uniformly amidst the harmonious melodies.	4
+25	0	0	3	3	0	6	1	4	0	4	0	0	3	1	1	2	1	4.0	2	10	Despite the storm raging like a raging beast, the brave fisherman stood firm on the treacherous rocks, determined to secure his livelihood.	4
+23	3	0	5	3	1	5	2	2	0	2	0	0	0	1	2	0	0	4.0	1	14	The woman hurried, quickly, silently, and cautiously around the corner, her heart pounding with fear in her eyes.	4
+20	1	0	2	2	0	5	3	2	0	3	0	0	2	2	2	1	0	6.0	2	5	The rain came fiercely, flooding the streets with such power that they became rivers in their own right.	4
+19	0	0	2	4	0	5	3	2	0	1	0	0	2	0	1	1	0	5.0	0	4	 Despite her tireless effort, she faced a string of setbacks on her quest for a better life.	4
+18	0	0	3	2	0	4	1	3	0	2	0	0	3	1	2	0	0	4.0	1	4	The rainy, windy winds swayed through the sprawling fields, their whispers echoing across the countryside.	4
+18	0	0	2	2	1	6	0	3	0	2	0	0	2	1	1	2	0	3.0	1	9	The dog chased the sheep with tremendous speed and agility, displaying remarkable skill in the process.	4
+22	1	0	2	3	1	6	1	3	0	3	0	0	2	1	1	0	0	4.0	1	8	She ran through the lush forest, gracefully dancing amidst the swaying branches and shimmering droplets on the ancient stone pathway.	4
+21	0	0	2	2	1	5	1	4	0	2	0	0	4	0	2	0	0	3.0	0	12	The city dogs barked and danced around each other, their boundless joy a delightful spectacle in the bustling crowd.	4
+20	0	0	2	5	0	6	2	3	0	2	0	0	0	1	1	0	0	6.0	1	6	They ran around the castle in a flurry of activity, their words flying like arrows in the wind.	4
+19	0	0	1	4	1	6	1	3	0	1	0	0	2	0	1	0	0	4.0	0	10	Her laughter rang out through the bustling city street with the utmost joy and a sense of freedom.	4
+17	1	0	2	1	1	3	1	3	0	2	0	0	3	1	1	1	0	4.0	1	7	I strolled leisurely through the bustling streets, enjoying the colorful distractions and the vibrant atmosphere.	4
+22	0	0	2	1	3	4	0	3	0	4	0	0	5	2	1	2	0	6.0	2	8	The sun shone through the tall and thin trees, casting long shadows and making the garden appear expansive and tranquil.	6
+12	6	0	3	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	 *She went very slowly, very carefully and very cheerfully.	6
+16	0	0	2	2	2	2	1	2	0	2	0	0	3	0	1	0	0	4.0	0	5	Despite the chaotic and confusing circumstances, she remained resolute and composed throughout the ordeal.	6
+36	0	0	4	6	2	10	1	5	0	5	0	0	2	3	1	2	0	7.0	3	16	I strolled across the golden meadow, weaving between the daisies' petals with care, and sat beneath the vibrant oak, watching the sunset paint the sky with hues of orange and purple.	6
+27	1	0	2	4	1	7	2	3	0	3	0	1	2	2	1	1	0	9.0	2	5	I am able to weave my words like a tapestry with an astonishing array of meticulously crafted adverbs, each one dancing with grace and elegance.	6
+15	2	0	2	1	1	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	6	 The boy ran swiftly and gracefully, chasing his dreams through the vibrant meadows.	6
+21	6	0	8	1	1	2	0	2	0	1	0	0	0	0	1	0	0	4.0	0	17	 The rain fell **calmly, swiftly, fiercely, brightly, slowly, and profusely** throughout the day.	6
+16	0	0	2	3	0	4	2	2	0	1	0	0	2	0	1	1	0	3.0	0	8	  Despite her youthful appearance, she led a team of astronauts on an epic voyage.	6
+37	1	0	4	8	0	12	0	5	0	5	0	0	2	2	1	0	0	8.0	2	8	The city streets echoed with the rhythmic cadence of footsteps, weaving through bustling pedestrian waves with the gentle murmur of conversation floating overhead, like a symphony of whispers in the kaleidoscope-colored pavement.	6
+23	0	0	2	5	0	6	1	4	0	2	0	0	3	1	1	1	0	3.0	1	12	The diligent dog scampered around the meadow with an astounding assortment of extraordinary abilities, leaving us in awe for an eternity.	6
+24	0	1	2	2	0	6	0	4	0	4	0	0	5	2	1	3	0	5.0	2	8	The mischievous cat chased the bustling bees with remarkable agility, navigating the swirling petals while emitting a vibrant chorus of joyful buzzing.	6
+17	1	0	2	2	0	3	1	3	0	2	0	0	3	0	1	1	1	3.0	1	5	Despite the valiant effort put forth, she found no suitable candidate for the coveted position.	6
+18	0	0	2	3	0	5	0	3	0	3	0	0	2	2	1	1	0	5.0	2	5	The rain poured with incredible force, making the flowers sprout in a magical symphony of colors.	6
+28	0	0	3	5	1	9	0	3	0	3	0	0	4	2	1	1	0	6.0	2	16	The bustling marketplace echoed with the rhythmic cadence of vendors selling goods, people rushing by with vibrant strides, and the harmonious dance of street performers.	6
+23	0	0	3	3	1	8	1	3	0	2	0	0	2	1	1	2	0	5.0	1	9	The diligent painter applied a kaleidoscope of colours to their masterpiece, creating an awe-inspiring symphony of sights and sounds.	6
+27	0	0	2	5	1	6	0	4	0	4	0	0	5	2	1	0	0	6.0	2	12	The children ran through the forest, jumping and leaping like playful stars on a luminous sky beneath a vast blue sky filled with endless possibilities.	6
+22	1	0	2	3	1	6	2	2	0	2	0	0	3	1	2	0	0	3.0	1	10	The children ran everywhere with incredible speed and skill, their laughter echoing within the vast forest during their exhilarating escapades.	6
+34	2	0	4	4	0	7	4	5	0	5	0	0	3	3	4	1	0	6.0	3	11	She wandered leisurely around the garden, the butterflies fluttering gracefully through her long, flowing skirt, each one announcing her presence with a quiet hum that echoed through the serene atmosphere.	6
+19	0	0	1	2	0	4	2	3	0	3	1	0	2	1	1	2	0	5.0	1	6	The young artist used all six of her tireless efforts to finish her masterpiece within the stipulated timeframe.	6
+33	2	0	2	7	1	9	0	4	0	3	0	1	4	1	2	0	0	5.0	1	20	The bustling city streets echoed with the soft murmurs of people rushing by at rush hour, and occasionally a melodious tune would faintly emerge from amidst a chorus of excited laughter.	6
+24	1	0	2	4	1	6	2	2	0	3	0	0	3	2	2	0	0	8.0	2	5	The storm raged with extraordinary force, its wind whipping past like wild hair and its raindrops crashing with a thunderously chaotic tempo.	6
+21	1	0	6	1	1	2	0	2	0	1	0	0	7	0	1	0	0	4.0	0	13	The happy, helpful, silly, wise, kind, and excited children laughed together in the sun-dappled meadow.	6
+33	7	2	6	3	1	3	2	0	0	7	0	0	2	3	2	0	0	6.0	3	13	I ran swiftly, then ran leisurely, jumping with immense enthusiasm, then ran cautiously, as I hurried with great purpose, and eventually ran diligently before collapsing from fatigue.	6
+24	1	0	3	3	0	5	1	5	0	2	0	0	4	1	2	0	0	5.0	1	5	The quick, eager fox skipped effortlessly through the lush forest, its every stride marked by a silent whisper on the wind.	6
+20	0	0	2	4	0	6	0	5	0	2	0	0	1	0	1	0	0	5.0	0	8	The rain pattered in an orchestrated rhythm throughout the bustling city, a testament to the rhythm of life.	6
+23	0	0	3	4	1	3	2	3	0	4	0	0	3	2	1	0	0	6.0	2	6	Despite the unpredictable nature of the situation, she remained resolute, remaining calm and focused despite the chaos unfolding around her.	6
+13	0	0	1	2	0	3	0	3	0	1	0	0	3	0	1	0	0	2.0	0	9	The dog leaped across the lush green lawn like an enchanted creature.	6
+17	1	0	1	3	0	5	0	4	0	1	0	0	1	0	1	0	0	3.0	0	9	The vibrant colors of the sunset danced gracefully in the sky like an artist's masterpiece.	6
+14	0	0	1	1	1	4	0	2	0	3	0	1	0	1	1	2	0	5.0	1	3	Adverbs are used to add nuance and emphasize the meaning of a statement.	6
+15	0	0	1	3	1	5	1	2	0	1	0	0	1	0	1	0	0	3.0	0	11	The students ran around the park with incredible speed and precision throughout their game.	6
+16	1	0	2	1	1	3	2	1	0	2	0	1	1	2	1	2	0	5.0	2	4	  Her movements were graceful and leisurely, allowing her to evade the obstacles with ease.	6
+16	0	0	3	2	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	  _The children raced through the forest, playing tag under the beautiful blue sun.**	6
+18	0	0	2	3	0	4	2	2	0	1	0	1	2	0	1	1	0	4.0	0	5	Despite her exceptional patience, she could not resist the temptation of a last slice of cheesecake.	6
+18	5	0	6	0	1	1	2	0	0	2	0	0	0	0	1	1	0	3.0	0	13	She hurried, cautiously, excitedly, diligently, tirelessly, and thoughtfully to complete her task.	6
+18	1	0	2	1	1	6	0	1	0	2	0	0	2	0	1	2	1	5.0	1	11	Despite countless endeavors to ensure stability and harmony, the chaotic chaos perpetually defied logic's grasp.	6
+36	3	0	3	6	2	11	1	6	0	3	0	0	1	2	1	1	0	9.0	2	9	  The old woman sat calmly and leisurely on the park bench, enjoying the warmth of the afternoon sun, a symphony of her thoughts leisurely playing out on the canvas of sky and earth.	6
+16	2	1	2	0	1	2	2	0	0	2	0	2	2	2	2	0	0	4.0	2	6	 Her actions were quite timely and precise, occurring just moments before she was needed.	6
+23	6	0	6	2	1	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	16	The busy boy ran quickly, carefully, deeply, soundly, quickly, and cautiously on the exciting path to school.	6
+20	0	0	3	3	0	5	0	4	0	2	0	0	3	1	2	0	0	5.0	1	6	The rain danced through the lush, sprawling gardens, each petal swaying with a gentle touch of wind.	6
+23	0	0	2	3	1	7	0	3	0	2	0	0	5	1	1	1	0	4.0	1	8	The bustling streets painted a mesmerizing symphony of vibrant adjectives, dancing across the bustling city landscape with captivating grace and power.	6
+19	1	0	2	2	1	5	0	3	0	2	0	0	3	1	1	1	0	4.0	1	7	The boy walked slowly through the crowded park, carrying a heavy book with remarkable agility and grace.	6
+30	0	0	2	5	1	9	2	4	0	2	0	0	5	1	2	1	0	5.0	1	17	The mischievous squirrel scampered across the verdant forest floor with the utmost of speed and grace, her swift paws leaving a delightful trail of sparkles in her wake.	6
+22	3	0	2	3	1	5	1	4	0	3	0	0	0	1	1	1	0	4.0	1	7	 The man jumped incredibly fast around the house, taking the door off its hinges and dancing wildly in the rain.	6
+14	2	0	3	0	1	1	2	0	0	1	0	1	2	1	1	1	0	4.0	1	5	  He was incredibly proud and **eagerly** determined to achieve his goal.	6
+32	1	0	2	5	0	9	2	7	0	4	0	0	2	3	3	3	0	8.0	3	9	The young artist painted a masterpiece under the moonlight with the wind blowing effortlessly around him, creating a painting that depicted the beauty of a majestic butterfly amidst blooming orchids.	6
+10	0	0	1	0	0	3	3	1	0	2	0	0	0	1	2	2	0	4.0	1	2	  Her happiness surpassed the joy that filled her soul.	6
+13	0	1	2	1	0	2	0	1	0	2	1	2	0	1	1	0	0	3.0	1	9	Sure, a sentence with 6 adverbs could be generated as follows:  The boy, wearing his colorful, comfortable shoes in perfect weather, played cheerfully on the beach with the other children.	6
+24	0	0	2	5	0	7	0	5	0	3	0	0	2	1	1	1	0	4.0	1	12	The sun rose with a majestic display of gleaming colors across the sky, painting the landscape in a myriad of captivating patterns.	6
+26	0	0	2	4	1	4	4	3	0	4	0	1	2	0	3	1	3	5.0	3	16	Despite the chaotic mess she had inherited and the countless deadlines she had to keep up with, she completed all her work on time.	6
+29	2	0	9	3	1	5	1	4	0	3	0	0	1	1	2	0	0	4.0	1	11	  The woman smiled **confidently** and walked **carefully** down the road, her hair swinging in the wind in a **gentle** breeze.	6

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	The committee granted final approval to the proposal.	0
+16	0	0	1	3	1	7	1	1	1	1	0	0	0	0	1	1	0	3.0	0	10	The CEO of Microsoft communicates his vision through town hall meetings and emails to employees.	0
+12	0	0	2	1	1	4	0	0	2	1	0	0	1	0	1	1	0	4.0	0	4	People rent moving boxes from U-Haul and other companies.	0
+15	0	0	2	2	0	6	0	1	0	2	1	0	1	1	1	1	0	3.0	1	8	Two cars collided on the highway during rush hour, causing significant traffic disruptions.	0
+11	0	0	1	1	0	3	0	1	0	1	0	1	3	0	1	1	0	3.0	0	3	Greek culture has had a significant impact on Western civilization.	0
+8	0	0	1	1	0	2	0	1	2	0	0	1	0	0	1	0	0	3.0	0	4	The capital city of Australia is Canberra.	0
+11	0	0	1	2	1	5	0	1	0	1	0	0	0	0	1	0	0	3.0	0	5	People go to the beach for leisure and swimming activities.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	My cat sat in the corner.	0
+6	0	0	1	0	0	1	1	0	0	1	0	0	2	0	1	1	0	2.0	0	3	We tested multiple chemical reactions.	0
+7	1	0	1	1	0	2	0	1	0	0	0	1	0	0	1	0	0	2.0	0	3	The moon is round in shape.	0
+10	0	0	1	1	0	2	0	2	2	1	1	0	0	0	1	1	0	3.0	0	3	The Eiffel Tower has a height of 324 meters.	0
+13	0	0	2	2	0	0	0	1	5	1	0	1	1	0	1	0	0	3.0	0	4	The United States Department of Education is situated in Washington, D.	0
+8	0	0	1	0	0	2	1	0	0	2	0	0	1	1	1	2	0	3.0	1	3	We build models to simulate complex systems.	0
+11	1	0	1	1	0	5	0	1	0	1	1	0	0	0	1	0	0	2.0	0	7	Two cars collided head on during the afternoon rush hour.	0
+8	0	0	1	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	The company released a new product line.	0
+15	0	0	3	2	0	2	0	2	4	1	0	0	1	0	1	0	0	2.0	0	10	The Eiffel Tower stands in Paris, France, as a popular tourist attraction.	0
+15	0	0	1	2	0	3	0	3	2	1	0	0	3	0	1	1	0	3.0	0	10	The United States imports a substantial amount of oil from Saudi Arabia each year.	0
+13	0	0	1	2	2	6	0	0	0	1	0	1	0	0	1	0	0	5.0	0	5	Cows and sheep are kept in farms for milk and meat production.	0
+17	0	0	1	2	0	3	0	3	6	1	0	1	0	1	1	0	0	3.0	1	7	The Eiffel Tower is an iron lattice tower located on the Champ de Mars in Paris.	0
+18	0	0	1	2	0	2	0	4	3	0	0	1	5	0	1	0	0	3.0	0	5	The United States Congress is a bicameral legislative branch of the federal government of the United States.	0
+11	0	0	2	0	1	2	0	0	2	1	1	0	2	0	1	1	0	3.0	0	4	Two major companies manufacture artificial joints, Stryker and Zimmer.	0
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The city council passed the bill.	0
+7	0	0	1	0	0	4	0	1	0	1	0	0	0	0	1	1	0	3.0	0	2	Government policy changes influenced the economy.	0
+7	0	0	1	1	0	1	0	1	2	0	0	1	0	0	1	0	0	3.0	0	4	The capital of Australia is Canberra.	0
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	  The weather was so.	0
+6	0	0	1	0	0	2	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	The government provides essential services.	0
+7	0	0	1	1	0	2	1	0	0	1	0	0	1	0	1	0	0	2.0	0	4	We collaborated on various research projects.	0
+8	0	0	1	1	1	4	0	0	0	1	0	0	0	0	1	1	0	3.0	0	3	People build houses for shelter and protection.	0
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	1	0	3.0	0	3	We developed a detailed plan of action.	0
+6	0	0	1	0	0	2	1	0	0	1	0	0	1	0	1	1	0	2.0	0	3	We studied various research methodologies.	0
+9	0	0	1	1	1	3	0	0	0	2	0	0	1	0	1	1	0	2.0	0	6	People build and inhabit structures from different materials.	0
+8	0	0	1	0	0	3	0	2	0	0	0	1	1	0	1	0	0	2.0	0	5	A cheetah is the fastest land animal.	0
+7	0	0	1	0	0	1	0	1	2	1	1	0	0	0	1	1	0	2.0	0	3	Fourteen countries border the Mediterranean Sea.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The train departed on schedule.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	The car hit the tree with great impact.	0
+9	0	0	1	1	0	4	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	An art exhibit features paintings from various artists.	0
+9	0	0	1	0	0	1	0	2	2	0	0	1	2	0	1	0	0	2.0	0	5	The Eiffel Tower is a prominent Parisian landmark.	0
+11	0	0	1	2	0	5	0	0	0	1	0	1	1	0	1	1	0	3.0	0	4	Solar panels on rooftops are gaining popularity in urban areas.	0
+10	0	0	1	0	0	3	0	1	0	2	0	1	1	1	1	1	0	3.0	1	2	The new software was designed to improve database performance.	0
+11	0	1	1	0	0	4	1	2	0	2	0	0	0	1	1	2	0	4.0	1	3	The school held a fundraiser for renovating their sports facilities.	0
+18	0	0	4	1	0	4	0	3	3	0	0	1	2	0	1	0	0	4.0	0	14	The Eiffel Tower, a famous landmark in Paris, is a wrought-iron lattice tower.	0
+10	0	0	1	2	0	4	0	1	0	1	0	0	1	0	1	1	0	4.0	0	3	The library provides books on different subjects for readers.	0
+7	0	0	1	0	0	1	0	1	2	1	0	0	1	0	1	1	0	2.0	0	3	Several countries border the Mediterranean Sea.	0
+12	0	1	1	0	0	3	0	2	0	2	0	1	2	1	1	2	0	3.0	1	4	A company can go public by issuing an initial public offering.	0
+8	0	0	1	0	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	A new technology transforms our communication methods.	0
+10	0	0	1	1	0	4	1	0	0	1	0	0	2	0	1	1	0	3.0	0	4	We designed various marketing strategies for new business ventures.	0
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	3	Two countries signed a non-aggression pact.	0
+8	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	Two teams competed in the basketball tournament.	0
+9	1	0	1	0	0	2	0	1	0	1	2	0	1	0	1	1	0	3.0	0	4	The human brain contains approximately 100 billion neurons.	0
+7	0	0	1	1	0	3	0	0	0	1	0	0	1	0	1	1	0	3.0	0	3	Engineers develop software for various industries.	0
+10	1	0	1	2	0	2	2	1	0	1	0	0	0	0	1	0	0	3.0	0	4	She listened attentively to his explanation of the incident.	1
+14	1	1	1	2	0	3	3	1	0	2	0	0	0	1	2	1	0	3.0	1	6	The student completed her homework diligently before she went out with her friends.	1
+9	1	0	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	4.0	1	2	She carefully unzipped the box containing the diamonds.	1
+9	1	0	1	1	0	1	1	1	1	1	0	0	1	0	1	1	0	2.0	0	6	She speaks Italian fluently with a charming accent.	1
+16	1	2	2	0	0	1	4	0	0	3	0	2	1	1	3	2	1	3.0	2	5	Even if he denied it, everyone suspected that he must have had inside knowledge.	1
+10	1	0	1	1	0	2	1	2	0	2	0	0	0	0	1	1	0	2.0	0	7	They finished the presentation excitedly before the scheduled time.	1
+14	1	1	1	1	0	4	2	1	0	2	0	1	0	1	2	1	0	3.0	1	7	The child was quietly playing with his toys while his mother fixed dinner.	1
+8	1	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	3	They promised to deliver the package promptly.	1
+12	1	1	1	0	0	2	4	0	0	2	0	0	1	1	2	2	0	3.0	1	5	She gently stroked his hand as he took his last breath.	1
+13	1	0	1	1	0	3	2	2	0	2	0	0	1	1	2	1	0	4.0	1	4	Her smile brightened when she received an invitation to the annual gala.	1
+10	2	0	1	1	0	3	2	0	0	1	0	0	0	0	1	1	0	2.0	0	6	She always speaks her mind candidly during team meetings.	1
+10	1	0	1	1	0	2	1	1	0	2	0	0	0	1	1	1	0	3.0	1	4	I confidently expect the meeting to run over time.	1
+6	2	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	2.0	0	3	She speaks French quite fluently.	1
+13	1	0	1	2	1	3	3	0	0	1	0	0	1	0	1	0	0	4.0	0	8	They always seemed delighted by my stories and laughter during our meetings.	1
+14	1	1	1	0	1	3	1	3	0	2	0	1	0	1	1	2	0	3.0	1	7	I've carefully considered all the pros and cons before making this decision.	1
+15	2	1	1	1	0	4	1	2	0	3	0	0	0	1	2	1	0	4.0	1	5	The child laughed joyfully as the clown juggled flaming torches high above his head.	1
+12	1	1	1	1	0	2	2	1	0	2	0	1	0	1	2	1	0	3.0	1	5	I promise honestly that I will complete the project on time.	1
+17	1	1	1	1	0	5	1	3	0	3	0	0	0	2	2	1	0	4.0	2	5	The girl shyly smiled as she approached the microphone to sing in the school talent show.	1
+20	2	1	2	1	1	2	2	2	0	3	0	2	1	1	2	1	0	5.0	1	10	I'll make sure to finish this report early, but only if I can work without any interruptions.	1
+12	2	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	9	He plays basketball very enthusiastically every day at the local park.	1
+11	1	0	1	1	0	3	1	1	0	1	0	0	1	0	1	0	0	3.0	0	8	She sings beautifully at the school's annual talent show.	1
+22	2	0	2	0	0	4	3	3	0	4	0	1	2	3	2	3	0	4.0	3	11	You really should call the vet to have your injured dog checked, no matter how much the cost worries you.	1
+12	1	0	1	1	0	4	1	2	0	1	0	0	0	0	1	1	0	3.0	0	4	The child eagerly anticipated his grandmother's arrival from the airport.	1
+24	3	1	2	0	2	7	2	3	0	3	0	0	1	2	3	3	0	5.0	2	8	The little boy played baseball clumsily but excitedly, his laughter filling the air as he missed the ball time and time again.	1
+12	1	0	1	1	0	2	1	2	0	3	0	0	0	1	1	0	0	3.0	1	5	The manager agreed graciously to meet with me the following day.	1
+14	0	1	1	1	0	3	2	3	0	2	0	0	1	1	1	2	0	4.0	1	7	I admire her dedication for completing the project on such a tight deadline.	1
+11	1	1	1	1	0	2	1	2	0	2	0	0	0	1	2	0	0	3.0	1	4	He calmly watched as the storm passed over the house.	1
+10	1	0	1	1	0	2	3	0	0	1	0	0	1	0	1	1	0	2.0	0	6	We always appreciate your prompt replies to our inquiries.	1
+12	1	0	1	1	0	3	1	1	0	1	0	1	1	0	1	0	0	3.0	0	4	The baby's sleep was heavily disturbed by its own teething.	1
+24	4	0	3	2	0	4	3	4	0	3	0	0	1	2	2	1	0	5.0	2	7	Every year on our anniversary, we usually eat at that French restaurant, quietly relishing the flavors we both savor so much.	1
+22	1	2	1	0	0	5	3	3	0	5	0	0	0	4	3	3	0	6.0	4	8	The salesclerk kindly offered to show me the matching jewelry set after I mentioned that I wanted to buy the bracelet.	1
+7	2	0	1	0	1	0	1	0	1	1	0	0	0	0	1	1	0	3.0	0	2	He speaks Italian fluently and impressively.	1
+7	2	0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	She usually arrives late to parties.	1
+12	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	3	Despite the rain, they decided to take a boat ride.	1
+9	1	0	1	1	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	6	She sings exquisitely every evening by the lake.	1
+11	2	0	1	1	0	1	0	0	0	2	0	1	2	2	0	0	0	4.0	2	3	Always remember to be courteous when dealing with difficult customers.	1
+10	2	0	1	0	0	2	1	1	0	2	0	0	1	1	1	2	0	2.0	1	5	I always use the newest version when editing photographs.	1
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The sun rises dramatically over the horizon each morning.	1
+9	3	0	1	1	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	5	He always arrives fashionably late for dinner engagements.	1
+9	1	0	1	1	0	2	2	0	0	1	0	0	0	0	1	0	0	3.0	0	6	She listened anxiously to her sister's story.	1
+16	1	0	2	1	0	2	2	2	0	3	0	1	1	2	2	1	0	3.0	2	8	I carefully place the fragile vase on the shelf, hoping it won't fall.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She gracefully danced in the moonlight.	1
+17	1	0	1	0	1	4	2	2	0	3	0	1	1	2	1	1	0	5.0	2	5	I have carefully studied the contract documents to ensure there are no loopholes or hidden clauses.	1
+8	1	0	1	1	0	1	0	1	1	0	0	1	1	0	1	0	0	3.0	0	5	The sunsets in Bali are absolutely stunning.	1
+10	1	0	1	2	0	2	1	1	1	1	0	0	0	0	1	1	0	3.0	0	6	I usually bake a batch of brownies for Thanksgiving.	1
+9	1	0	1	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	She gently placed the book on the table.	1
+17	1	0	2	1	1	3	2	1	0	2	0	1	3	0	2	1	0	3.0	0	8	She usually wears bright colors, but today she is dressed in a subtle gray ensemble.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Her voice carried softly across the room.	1
+10	1	0	1	2	0	2	2	0	0	2	0	0	0	0	1	0	0	2.0	0	6	They always arrive on time for our scheduled meetings.	1
+14	5	0	1	0	0	1	2	0	1	3	1	0	0	2	2	1	0	6.0	2	5	He speaks English exceptionally well considering he moved here only 6 months ago.	1
+14	2	1	2	2	1	1	2	0	0	1	0	1	1	0	2	0	1	4.0	1	4	Even though he was early, he arrived disheveled and out of breath.	2
+20	1	0	2	2	0	5	1	2	0	1	2	0	2	0	1	1	0	4.0	0	11	Its summer sale offers products at a remarkable 50% discount, with a surprise additional 10% off.	2
+17	3	0	3	1	1	2	3	0	0	3	0	1	0	1	3	0	0	3.0	1	10	They rarely ever speak, but when they do, their conversations can last for hours.	2
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	In a heavy downpour, the leaves danced gracefully.	2
+14	2	0	2	1	1	3	1	1	0	2	0	0	1	0	1	0	0	3.0	0	6	She seldom sings, but brilliantly performs at the annual school talent show.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The sun sets silently but brilliantly over the ocean.	2
+11	0	0	2	2	0	2	1	2	0	1	0	0	1	0	1	0	0	2.0	0	3	In a loud whisper, I asked for the time.	2
+8	3	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	5	She sang the aria gently yet passionately.	2
+10	4	0	1	0	1	0	1	0	2	1	0	0	0	0	1	1	0	3.0	0	7	She speaks French flawlessly but English slightly less well.	2
+13	0	0	2	1	0	4	1	1	0	1	0	0	3	0	1	2	0	3.0	0	5	The chef served us cold, crispy chips alongside tepid tomato soup.	2
+13	1	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun sets slowly behind the mountains, casting a golden glow.	2
+16	2	0	2	1	1	4	0	4	0	2	0	0	0	1	1	2	0	4.0	1	7	The chef whisked the eggs into the batter, flipping the pancakes gently but quickly.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She speaks softly and articulately.	2
+12	2	0	2	1	0	4	1	1	0	1	0	0	0	0	1	1	0	2.0	0	7	He often seldomly misses a gym session, despite work pressure.	2
+11	2	0	1	1	1	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	6	Her new car purrs silently but elegantly down the driveway.	2
+11	3	0	1	1	0	2	0	1	0	1	0	1	1	0	1	0	0	2.0	0	4	The new IT system was rolled out swiftly yet smoothly.	2
+12	2	1	1	0	0	3	3	0	0	2	0	0	0	1	1	2	0	3.0	1	5	She nervously munched her nail while eagerly awaiting his phone call.	2
+12	2	0	2	1	0	1	2	0	0	2	0	0	1	1	1	1	0	4.0	1	4	She reluctantly spoke out, hardly able to disguise her anger.	2
+10	2	0	1	0	1	3	0	1	0	2	0	0	0	0	1	2	0	2.0	0	4	The chef artfully dices vegetables and carefully sautées onions.	2
+14	3	0	2	1	1	2	2	1	0	2	0	0	0	1	1	1	0	3.0	1	7	She sips her coffee quickly and loudly, listening attentively for any clues.	2
+14	2	0	2	1	0	3	3	1	0	2	0	0	0	1	2	1	0	3.0	1	7	She played the piano exuberantly, her hair flying wildly around her face.	2
+11	2	0	1	1	0	3	2	0	0	1	0	0	1	0	1	0	0	2.0	0	7	They rarely speak loudly during their quiet morning tea break.	2
+14	4	1	1	0	1	0	4	0	0	3	0	0	0	2	3	1	0	4.0	2	8	She spoke so softly and hesitantly that I barely heard what she said.	2
+12	2	0	1	1	1	4	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The child sang loudly and cheerfully at the school talent show.	2
+26	1	0	1	2	2	4	2	3	0	5	0	2	2	2	2	2	0	7.0	2	5	I'll arrive an hour early and wear bright clothes to make sure I don't miss the meeting and stand out in the crowd.	2
+18	4	0	2	1	1	3	1	2	0	2	0	0	2	0	2	1	0	3.0	0	14	He played piano melodies so gently and precisely on the old grand, the strings hummed softly.	2
+8	3	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	4	He quietly mumbled his apologies quite humbly.	2
+8	2	0	1	0	1	1	0	1	0	1	0	1	0	0	1	0	0	3.0	0	2	The sun was setting slowly and silently.	2
+8	2	0	1	0	1	1	2	0	0	1	0	0	0	0	1	1	0	3.0	0	3	She sips her coffee slowly and deliberately.	2
+13	2	0	2	1	1	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	9	The wind howls loudly and consistently over the treeless, windswept plateau.	2
+14	1	1	1	0	0	4	2	1	0	2	0	0	1	1	2	1	0	3.0	1	5	The manager's confidence grew increasingly bold as she presented her business plan.	2
+8	2	0	1	1	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	4	She softly spoke truths loudly to him.	2
+11	4	0	1	0	0	2	2	0	0	2	0	0	0	1	2	1	0	3.0	1	4	She often sneezes when she eats ice cream very quickly.	2
+10	2	0	1	1	1	1	1	1	0	2	0	0	0	0	1	0	0	3.0	0	7	She sang beautifully and deliberately before a captivated audience.	2
+22	0	1	2	2	0	6	2	3	0	3	0	0	2	2	2	1	0	5.0	2	7	The baby's cries rang through the still night as he clutched his ear, growing louder with each passing minute.	2
+11	2	0	1	1	0	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	6	My colleague confidently whispered quietly into the executive's ear.	2
+15	2	1	3	0	2	2	1	1	0	3	0	0	0	2	1	2	0	3.0	2	6	He quickly and carefully reviewed the terms and conditions before clicking 'Agree'.	2
+15	0	1	2	0	0	3	2	2	0	2	0	1	1	1	2	2	1	4.0	2	4	Despite her being late, the manager granted her permission to attend the conference.	2
+10	2	1	1	0	1	1	1	1	0	2	0	0	0	1	2	0	0	3.0	1	7	She danced gracefully and energetically until the music stopped.	2
+11	3	0	2	0	2	1	1	0	0	2	0	0	0	0	1	0	0	3.0	0	5	He often dances gracefully, but occasionally stumbles and trips.	2
+12	1	0	1	1	1	1	1	1	0	2	0	1	1	1	1	0	0	4.0	1	6	I'll try to arrive early and quiet at the meeting.	2
+12	2	1	1	1	0	2	2	1	0	2	0	0	0	1	2	0	0	3.0	1	4	Her hair whipped around as she danced wildly in the storm.	2
+11	3	0	1	0	1	1	1	0	0	3	0	1	0	1	2	0	0	3.0	1	4	She seldomly speaks but loudly protests when injustice is done.	2
+9	2	0	1	1	0	2	2	0	0	1	0	0	0	0	1	1	0	2.0	0	5	She quietly whispers truths loudly to her friend.	2
+9	2	0	1	1	0	1	2	0	0	2	0	0	0	0	1	0	0	3.0	0	5	He quietly laughed at her hysterically crying boyfriend.	2
+11	2	0	2	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The sun gradually rose, yet quietly behind the clouds.	2
+11	2	0	1	1	1	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	8	She speaks softly and gracefully in the evening church choir.	2
+15	3	1	1	0	0	1	3	1	0	2	0	2	0	1	2	2	0	2.0	1	8	You'll surely forget the name if you won't promptly recall it aloud.	2
+10	3	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	6	Her dog barked loudly yet persistently at the mailman.	2
+18	1	1	3	1	0	3	2	1	0	3	0	0	2	1	1	1	1	4.0	2	7	After finishing her homework late, she decided to go for a quick early-morning run.	2
+35	4	1	5	2	6	4	6	1	1	2	0	2	1	0	3	2	0	6.0	0	21	She speaks English very fluently, yet sometimes mistakes the meanings of words with identical beginnings and endings, like it's and its, your and you’re, and their and there.	4
+31	3	1	3	4	1	7	1	2	0	5	1	0	2	3	2	1	0	8.0	3	10	They always pay AT LEAST two weeks ahead but the manager sometimes forgets to order enough food, resulting in running out of supplies half-way through each event.	4
+25	2	1	2	2	1	5	2	3	0	4	0	0	3	3	2	2	0	6.0	3	9	The dog barked repeatedly in an excited and fearful manner, pulling its leash as we cautiously approached strange noises coming from the bushes.	4
+23	4	1	2	1	0	3	2	3	0	4	0	1	1	2	3	1	0	5.0	2	7	The sun was setting extremely fast, so I hurried to capture the last picture before it completely vanished behind the horizon.	4
+21	0	1	1	1	0	7	1	4	0	3	0	0	2	2	1	3	0	6.0	2	7	The sales team made an extraordinary effort in handling all client requests despite the extreme pressure to meet their deadline.	4
+22	4	2	2	2	1	3	3	1	0	3	0	1	0	1	2	1	0	4.0	1	15	They sang as loudly and passionately as they could at the top of their lungs while waving colorfully-dressed flags.	4
+31	4	0	5	3	2	6	3	1	0	4	0	0	2	0	1	1	0	4.0	0	18	She always laughs out loud, chews with her mouth open, dances energetically but forgets the choreography, and sleeps soundly despite her roommates' late-night parties.	4
+27	2	2	4	2	1	4	1	2	0	3	0	1	4	1	1	2	1	4.0	2	14	Despite being short in stature, she managed to carry a full suitcase up several steep stairs, quite fast, and without breaking a sweat.	4
+23	4	0	5	0	2	2	3	1	0	3	0	2	0	1	2	3	0	4.0	1	17	You can watch him play golf TERRIFICALLY, gracefully, persistently, and effortlessly, but it won't guarantee a win.	4
+31	5	1	5	3	2	5	2	3	0	2	0	0	3	1	2	0	0	4.0	1	18	The student worked quietly, diligently, and relentlessly into the wee hours of the night, while his professor graded harshly and critically, unimpressed by his mediocre effort.	4
+20	2	0	2	4	1	6	2	1	0	1	1	0	0	0	1	1	0	4.0	0	6	Despite her pleas for mercy, the jury announced their decision decisively and resolutely within twenty minutes of deliberation.	4
+12	2	0	1	0	1	2	2	0	0	1	0	1	2	0	2	0	0	3.0	0	8	You always play GREAT but your performance today was exceptionALLY impressive.	4
+15	4	0	2	0	1	1	4	0	0	3	0	0	0	1	2	2	0	3.0	1	7	She reads her books meticulously, but always forgets where she left them hastily.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	11	The sun sets gracefully, gently, silently, and quickly behind the horizon.	4
+25	5	0	3	2	1	2	4	1	0	5	0	0	1	3	3	2	0	5.0	3	9	She rarely ever speaks, quietly munching on carrots, yet everyone seems to notice her when she occasionally lets out a loud belch.	4
+23	5	0	1	3	1	5	3	1	0	3	0	0	1	2	2	1	0	8.0	2	8	He spoke SO loudly and SO passionately in the room full of strangers that people around started avoiding eye contact with him.	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 1.	4
+15	5	0	4	0	1	0	1	0	0	4	0	0	0	0	1	0	0	2.0	0	11	She arrived early, ate loudly, sang loudly, and then left quickly.	4
+20	5	1	3	0	1	0	1	1	0	6	0	1	1	4	2	0	0	5.0	4	7	They rarely agreed, often arguing vociferously, sometimes even shouting or interrupting before the other had finished speaking.	4
+27	1	1	4	1	0	6	0	5	1	6	0	0	1	5	2	3	0	4.0	5	15	The sun began to RISE, setting the birds to warble LIVELY, as the wind CHOPPILY tossed the trees, leaving the river calmly GLITTERING.	4
+24	4	0	4	2	1	4	1	4	0	3	0	0	1	2	2	2	0	5.0	2	12	The birds sing melodiously, rhythmically, and loudly early in the day, creating a symphony that wakes up the entire village.	4
+17	3	1	2	2	0	1	1	0	0	3	0	2	1	3	1	0	0	4.0	3	7	You're extremely persistent, constantly following up on emails even after being asked to stop.	4
+17	5	1	4	0	1	1	2	0	0	2	0	0	1	0	2	0	1	3.0	1	9	Although she sings beautifully, she performed very quietly, hesitantly, and rhythmlessly last night.	4
+17	1	0	2	1	1	2	3	1	2	2	0	0	2	1	2	2	0	4.0	1	6	You usually sing SLOWER and M Muted, which adds a distinctive charm to your performance.	4
+24	4	1	3	1	2	6	0	3	0	3	0	0	1	2	2	1	0	5.0	2	13	The sun sets gently and radiantly, creating an awe-inspiring display of pinks and oranges as the birds fly back home.	4
+22	1	1	2	2	0	5	1	4	0	2	0	1	2	1	1	2	1	3.0	2	11	Despite being hungry, she patiently waited an hour at the bus stop during a snowstorm to catch the next bus.	4
+25	9	0	4	1	1	3	1	1	0	4	0	0	1	0	1	0	0	3.0	0	15	The bird hops around so energetically, flies so high, squeaks so sweetly, and finally settles into its resting place so calmly.	4
+13	0	0	2	1	1	3	2	0	0	2	0	1	1	0	2	0	0	3.0	0	8	You've studied for MONTHS, yet your grade average remains mediocre.	4
+29	4	1	3	2	0	5	2	4	0	5	0	0	2	3	3	1	0	6.0	3	14	The dog chased after a squirrel under the enormous tree so fast, its bushy tail flailed wildly as it barked furiously, trying to catch a glimpse.	4
+20	5	0	4	1	1	3	1	1	0	4	0	0	0	0	1	1	0	4.0	0	11	The team arrived early, practiced diligently, performed exceptionally, and still finished their show ahead of schedule.	4
+26	2	2	5	1	0	4	2	2	0	5	0	0	2	1	1	3	2	4.0	3	9	"Even if it means missing a crucial deadline, please double-check everything before hitting the ""Submit button"" repeatedly with great emphasis."	4
+20	1	0	2	1	3	5	3	1	0	3	0	0	1	1	2	2	0	5.0	1	5	She spoke SOFTLY but her words carried a heavy burden, inspiring both comfort and fear within her audience.	4
+20	4	0	4	0	1	3	2	2	0	4	0	0	0	2	1	3	0	4.0	2	11	She played the instrument beautifully, gently plucking the strings, and sang softly, eloquently expressing her emotions.	4
+26	2	0	3	3	0	5	2	5	0	3	0	0	2	2	2	1	0	5.0	2	12	They studied tirelessly, late into the night, to ensure they had a comprehensive understanding of the material before the test the next day.	4
+26	4	1	4	3	0	5	0	3	0	4	1	0	1	2	1	1	0	4.0	2	10	The cat leapt HIGH onto the roof, then SLOWLY scanned the alley, silently meowing three times, before vanishing quickly out of sight.	4
+34	6	1	5	1	1	4	5	1	0	5	0	1	4	2	3	3	0	5.0	2	14	Your solution seems logically correct, however, you could also phrase it MORE clearly if you provided a few more details, or ALTERNATIVELY presented different arguments, depending ON their validity.	4
+24	6	1	4	0	2	0	4	0	1	5	0	0	0	3	2	3	0	8.0	3	5	She speaks French fluently, yet chooses to avoid speaking it as often as she writes it beautifully, quietly, and confidently.	4
+21	4	1	2	1	0	4	3	2	0	3	0	0	1	2	1	3	0	5.0	2	8	She played her piano beautifully, gracefully moving her fingers while humming a lullaby soothingly in the dimly lit room.	4
+15	3	0	2	2	1	3	2	0	0	2	0	0	0	1	1	1	0	4.0	1	6	He studies eagerly and meticulously, rarely leaving his room for days on end.	4
+13	4	0	4	0	1	1	1	1	0	1	0	0	0	0	1	1	0	3.0	0	5	She sang the aria beautifully, loudly, gracefully, and energetically.	4
+20	5	1	3	0	1	1	2	0	0	6	0	0	0	2	1	1	0	4.0	2	11	He never speaks loudly, gently brushes his pet, sings softly and reads calmingly before going to sleep.	4
+18	4	0	4	2	1	2	1	2	0	2	0	0	0	1	1	0	0	3.0	1	11	She dances gracefully, yet awkwardly, around the stage, constantly looking back towards the audience.	4
+13	4	0	2	0	1	1	2	0	0	1	0	1	1	0	2	1	0	3.0	0	4	You are always so calm, yet you finish tasks extremely urgently.	4
+18	5	1	2	0	1	1	2	1	1	2	0	1	1	1	2	1	0	4.0	1	8	They can easily finish this report early next Monday if they work late, quietly and rapidly.	4
+21	3	0	2	3	1	5	1	2	0	3	0	0	1	1	1	2	0	4.0	1	8	He plays soccer skillfully, gracefully sliding past defenders and gently curving shots into the goal with a powerful strike.	4
+21	1	0	5	2	1	4	1	0	2	1	0	1	3	0	1	1	0	3.0	0	12	They will celebrate Christmas EARLY next year, possibly in September, with joyous music, decorations, and feasting.	4
+25	3	1	3	3	0	5	2	3	0	4	0	0	1	3	2	0	0	5.0	3	12	The baby giggles loudly, jumping energetically on the trampoline during the warm summer evening, while surrounded by her siblings who cheer wildly.	4
+18	1	0	1	2	1	4	0	3	0	3	0	0	3	2	1	0	0	3.0	2	10	The cat jumped NARROWLY onto the tiny windowsill despite the heavy rain POURING and strong winds HOWLING.	4
+19	4	0	3	1	1	2	1	1	0	4	0	1	1	0	1	0	0	3.0	0	9	His speech was softly spoken, hesitantly paused, anxiously awaited but finally concluded after a long duration.	4
+11	2	0	1	0	1	3	1	0	0	2	0	0	1	0	1	2	0	3.0	0	4	They rarely eat vegetables but cook elaborate pasta dishes instead.	4
+36	7	1	6	4	1	6	2	3	0	5	0	0	1	2	2	2	0	6.0	2	10	He barely slept, silently, quickly eating the last slice of pie before the train arrived on time, loudly, finally, and triumphantly making it on board after an almost missed connection.	6
+32	3	1	3	4	1	9	0	3	0	3	0	0	5	2	1	3	0	5.0	2	10	The chef often adds a unique twist to every classic dish, carefully preparing meals with immense skill, while consistently impressing customers with remarkable speed and exceptional attention to detail.	6
+28	4	0	3	4	1	8	4	1	0	2	0	0	1	1	1	0	0	4.0	1	24	She danced gracefully, laughing loudly and nervously around her new partner under the twinkling disco lights at her college prom, despite her heart pounding rapidly.	6
+18	3	0	2	3	1	5	2	1	0	1	0	0	0	0	1	0	0	3.0	0	14	She usually sings loudly and off-key at the top of her lungs during karaoke nights.	6
+37	9	0	4	2	3	6	2	3	0	5	0	0	3	0	3	4	0	5.0	0	31	She always cooks delicious food but unfortunately, she barely follows any instructions exactly, rarely measures ingredients accurately and inexplicably changes recipes at the last minute, yet remarkably the meals still turn out tasty.	6
+47	5	2	4	4	0	10	2	7	0	7	0	0	5	6	4	2	0	9.0	6	10	The sun set slowly behind the mountain range, its reddish hues spreading rapidly while the cool breeze carried the sweet fragrance of nearby flowers, causing the air to dance gracefully around me as the birds chirped melodiously, adding to the already serene ambiance.	6
+39	4	1	4	4	1	6	4	4	0	6	0	1	3	3	4	2	2	7.0	5	9	Although it wasn't entirely clear where the trail led, she confidently continued walking up the steep, rocky hill, feeling a renewed sense of determination despite the drizzling rain that soaked her through and through.	6
+29	4	1	6	2	1	5	2	2	0	2	0	1	3	0	2	1	1	3.0	1	18	Despite her being an excellent singer, she performed poorly that night, barely audible, off key, unsteadily, with frequent hesitations and finally quitting mid-song.	6
+19	3	0	2	2	1	2	3	0	0	3	0	0	1	2	1	1	0	4.0	2	7	Despite his strong objection, he reluctantly decided to comply quickly and quietly in order to appease everyone.	6
+24	3	2	3	1	1	3	4	1	0	3	0	2	1	1	4	2	0	4.0	1	16	She rarely speaks the truth, but if she does, it's usually only after she has had several cups of coffee.	6
+40	9	0	7	2	1	5	4	5	0	6	0	0	1	0	5	0	0	4.0	0	30	The rain fell heavily on the roof, the wind howled fiercely outside, she spoke softly yet confidently, he smiled nervously, they listened carefully, and suddenly, there was an unexpected thud at the door.	6
+32	5	0	4	2	2	6	1	3	0	6	0	0	2	3	2	2	0	5.0	3	13	The storm rages outside, relentlessly pelting the windows with heavy rain, but we sit snugly inside, sipping hot tea and waiting for the passing rainstorm to subside completely.	6
+23	7	0	2	1	2	3	2	1	0	3	0	2	0	1	3	0	0	4.0	1	13	You'll hardly believe how softly the snow falls outside, yet quite suddenly it's accumulating thickly on trees and rooftops.	6
+11	3	1	2	0	0	1	1	0	0	2	0	1	0	0	1	0	1	2.0	1	4	Despite being fully prepared, she unexpectedly arrived hours late.	6
+29	7	1	1	2	2	4	5	1	0	4	0	0	2	1	3	4	0	4.0	1	15	I often eat cookies before dinner but usually I eat far too many and sometimes I even finish the entire package instead of sharing them with my family.	6
+73	10	1	13	6	3	14	5	6	0	4	0	4	7	2	7	3	1	6.0	3	53	Although we have plenty of resources, sadly our progress is very slow; surprisingly, the solution to the problem is both simple and elegant; moreover, the deadline for the project is quite soon; fortunately, we have a team with excellent collaboration skills; in addition, our strategy is well thought-out and methodical; finally, we expect a successful outcome with high confidence.	6
+19	5	1	2	0	0	3	2	1	0	2	0	3	0	0	2	1	1	3.0	1	8	If she had only practiced more diligently yesterday, she would have passed the exam today more easily.	6
+21	4	1	3	3	1	3	2	1	0	0	0	1	2	0	2	0	1	5.0	1	9	Even though she's always careful, suddenly and without warning, her umbrella inside out in the strong wind.	6
+54	4	2	7	6	1	11	4	10	0	7	0	1	1	4	4	3	2	7.0	6	21	Although the sun was sinking, quickly setting behind the trees, she sat silently on the beach, enjoying the warmth of the sand beneath her feet, the sound of the waves crashing gently against the shore, and the calmness that surrounded her, before starting the long journey home.	6
+29	3	1	3	3	1	6	3	2	0	3	0	1	3	1	2	2	1	4.0	2	13	Even though it's raining cats and dogs outside, they prefer having their meetings in the open fields under sunny skies, at least once a month.	6
+17	6	0	6	1	1	1	1	0	0	1	0	0	0	0	1	0	0	3.0	0	14	He speaks eloquently, loudly, quickly, seriously, confidently, and passionately during interviews.	6
+35	9	0	7	5	1	5	2	3	0	3	0	0	0	2	2	0	0	4.0	2	28	She always studies diligently before exams, early in the morning, often for hours, quietly in a corner by the window, focused intensely, and finally, triumphantly when she finishes.	6
+24	4	1	2	1	2	2	4	1	0	3	0	2	1	0	3	1	1	4.0	1	9	If you practice regularly and diligently, not only might you master the technique but you can even excel beyond your wildest dreams.	6
+20	4	3	2	0	1	1	2	1	0	5	0	0	1	1	2	1	2	4.0	3	10	Though she often spoke softly and hesitated before answering, eventually she finally admitted to making a serious mistake.	6
+37	6	1	7	2	1	6	2	3	0	4	0	0	3	2	0	3	1	8.0	3	9	After receiving the unexpected news, he eagerly, excitedly, quickly, anxiously, determinedly, and confidently began making plans to visit his deceased father's hometown on the other side of the world.	6
+37	3	0	4	4	1	6	6	2	0	3	0	5	2	2	4	1	0	5.0	2	14	In spite of your early arrival, she was still in the shower, her make-up had just begun and she would barely be finished by the time you expected her to be ready.	6
+32	2	1	3	4	1	7	1	3	0	6	1	0	2	4	3	1	0	8.0	4	8	In this bustling city, people dart around their daily tasks rapidly while laughter erupts unexpectedly, causing one to pause and wonder about the excitement life holds around every corner.	6
+32	8	1	3	1	3	4	2	3	0	6	0	0	0	3	3	2	0	7.0	3	8	She reads the book slowly and intently, occasionally pausing to look up and sip her tea thoughtfully, as the sun sets outside gently and the cats purr contentedly nearby.	6
+39	6	2	7	5	1	6	2	3	0	3	0	0	4	2	1	2	0	5.0	2	21	Despite her obvious experience, she performed the task with great uncertainty, hurriedly yet carefully, in the dark, and quite awkwardly, while constantly looking up at the clock, anxious about losing valuable time.	6
+20	3	1	4	0	1	2	1	1	0	4	0	1	1	1	1	2	1	4.0	2	7	Despite being late, hurriedly, nervously, they finished packing and quickly rushed to catch the departing train.	6
+22	4	1	4	0	1	3	2	0	0	3	0	2	2	1	2	2	1	4.0	2	11	Even if it is cold, dark, and raining outside, we can still have fun playing board games indoors.	6
+34	5	1	4	2	1	4	3	4	0	6	0	1	2	3	3	3	1	5.0	4	9	Although she was exhausted, she finished the last chapter of the book eagerly, jumping up excitedly when she finally read the last word, and promptly grabbed another one to begin.	6
+31	7	2	4	1	1	3	2	2	0	7	0	1	1	4	3	1	1	7.0	5	5	Although she had studied for weeks, she spoke hesitantly, fearing an interrogative question, answering carefully while nervously fidgeting and eventually stammering slightly when the examiner probed further.	6
+22	2	0	3	2	1	4	1	3	0	3	0	0	2	1	2	1	0	4.0	1	7	Despite the heavy rain, the children still wanted to build a sandcastle and eagerly carried on, their determination untarnished.	6
+19	1	0	2	2	0	6	1	1	0	1	0	0	4	0	1	1	0	3.0	0	10	Regardless of your past failures, tomorrow's bright sun promises a brand new day of endless opportunities.	6
+23	5	1	3	1	0	2	6	0	0	4	0	1	0	2	3	2	0	5.0	2	11	She rarely speaks softly during her presentations, however, she may suddenly raise her voice impatiently while interrupting someone who disagrees.	6
+22	4	1	2	1	0	3	5	1	0	3	0	1	1	2	2	3	0	3.0	2	9	He barely whispers the secret softly under his breath, hardly believing his own ears that he'd finally uncovered it.	6
+28	3	1	3	4	0	5	1	1	0	5	0	2	2	2	2	1	1	5.0	3	8	Despite having studied for weeks, unexpected challenges arose late at night, so I will end up working until early hours to finish the assignments perfectly.	6
+17	6	0	6	0	2	1	0	1	0	1	0	0	0	0	1	0	0	4.0	0	10	The children sang beautifully, but softly, gleefully, happily, enthusiastically, and together.	6
+33	5	0	4	3	2	7	1	4	0	5	1	0	1	1	3	2	1	5.0	2	7	When the clock strikes eleven, the sun barely sets, yet we eagerly gather around the bonfire with excitement, roasting marshmallows gently and shivering slightly in the crisp winter air.	6
+32	7	0	3	3	2	2	3	2	0	3	0	1	6	2	2	1	0	5.0	2	16	He was extremely quietly walking in the dimly lit, nearly empty hall when suddenly the loud and piercing alarm went off, leaving everyone around him utterly shocked and disoriented.	6
+21	3	1	2	2	1	5	2	1	0	3	0	0	1	1	2	1	1	4.0	2	7	Even when the rain pours down heavily, my little sister insists on riding her bike with joy and determination.	6
+27	3	1	3	2	1	4	3	1	0	3	2	1	3	1	2	2	1	4.0	2	7	Even though she was initially nervous during her presentation, she confidently spoke for forty-five minutes and engaged the audience using many persuasive techniques.	6
+33	5	2	4	3	1	4	3	3	0	3	0	2	3	2	2	1	0	5.0	2	18	You should definitely take the scenic route home as late as possible, preferably in the winter, while it is raining, and with your favorite music playing in the background.	6
+28	0	1	2	3	1	7	0	7	0	4	0	0	2	1	1	3	1	4.0	2	10	Despite having a large crowd in the stands, the pitcher managed to deliver a perfect pitch and won the game at the bottom of the ninth.	6
+34	4	0	6	4	2	7	2	4	0	1	0	0	4	0	2	1	0	4.0	0	25	She sang the national anthem exceptionally loud, off-key, and passionately, with a wide smile on her face, despite the late hour and overwhelming silence in the room.	6
+18	1	0	5	0	2	2	2	1	0	1	0	1	2	0	2	0	0	3.0	0	7	 perhaps, last night, this morning, but she did not, and she felt awful.	6
+61	5	1	9	5	3	15	0	10	0	9	0	0	3	4	3	3	0	6.0	4	42	The snow fell silently and gracefully down the mountainside, transforming the stark, gray rocks into a winter wonderland, as the wind howled fiercely, yet melodically through the forest, sending shivering ripples down the tree trunks, and the sun began to set hesitantly, casting a soft gold glow over the frost-kissed landscape.	6
+18	6	1	3	0	3	1	1	1	0	2	0	0	0	1	2	0	0	4.0	1	12	She sings sweetly and powerfully, gracefully and passionately, while the crowd listens attentively and rapturously.	6
+19	6	0	2	1	1	2	2	0	0	4	0	1	0	1	1	2	0	4.0	1	8	You'll hardly ever see them laugh loudly, rarely work together and seldom finish projects on time.	6

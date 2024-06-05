@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADP_constraint
+13	3	1	1	0	0	3	0	1	0	3	0	0	1	2	2	1	0	3.0	2	8	The sun sank slowly below rippling blue water while seagulls cried overhead.	0
+9	0	0	0	3	0	3	0	1	1	1	0	0	0	0	1	1	0	2.0	0	7	Lena took the cake out of cupboard without permission	0
+14	1	0	1	2	0	5	1	2	0	1	0	0	1	0	1	2	0	3.0	0	9	The waitress quickly brought me another plate of linguine in white clam sauce.	0
+15	2	0	1	1	0	4	0	0	1	1	2	0	1	0	1	1	0	3.0	0	7	Melissa's mom's scrambled eggs had two strips bacon inside instead of three. 	0
+13	1	0	1	1	1	3	0	1	1	3	0	0	0	1	1	1	0	3.0	1	9	Maria had to leave early for the train station and missed breakfast.	0
+14	2	0	0	2	1	3	1	3	0	2	0	0	0	0	2	0	0	4.0	0	9	They drove slowly along and the silence in the car felt like an eternity	0
+14	1	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	4.0	1	6	The dog tugged eagerly at the leash, ready to begin the adventure.	0
+18	3	0	1	1	1	4	1	1	0	2	2	1	1	0	2	0	0	4.0	0	10	Fast service was called on the house one hour ago and they finally left five minutes ago.	0
+21	2	0	5	2	1	2	1	1	0	7	0	0	0	1	2	0	0	3.0	1	13	They came, drank deeply, danced, laughed heartily, sang, and departed for the night with spirits elevated	0
+12	2	0	2	0	0	0	3	0	0	3	0	1	0	2	2	1	0	3.0	2	5	She called him, wondering why he hadn't arrived yet.	0
+16	0	0	1	1	0	7	1	2	0	1	1	0	1	0	1	1	0	3.0	0	5	Four days after my dog's funeral, the cemetery workers discovered a tiny grave robber	0
+10	0	0	1	1	0	4	2	0	0	2	0	0	0	1	1	1	0	3.0	1	3	My sister had her tonsils taken out yesterday morning.	0
+40	4	1	4	4	1	9	1	5	0	6	0	2	3	3	4	2	0	7.0	3	11	The storm was rolling in, thunder crackled loudly, and blue lighting lit the dark sky before crashing violently against the ground, causing a loud peal of thunder, which was then silenced by a moment of silence	0
+17	2	0	3	3	1	1	3	0	0	3	1	0	0	1	1	1	0	3.0	1	9	Amazingly, he ran out and picked them up himself within ten minutes, barely panting.	0
+12	0	1	0	1	1	3	2	1	0	3	0	0	0	1	1	1	0	3.0	1	5	My boss screamed and cursed while waving a finger near my face	0
+6	0	0	1	0	0	2	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	My dog wags its tail.	0
+20	1	1	1	2	0	3	1	3	0	4	0	0	3	2	3	1	1	4.0	3	7	The big brown waved reached out to catch the little red balloon before it floated away from the beach.	0
+36	4	2	2	2	2	7	4	4	0	4	1	3	1	2	3	4	0	5.0	2	17	She had never been so relieved since the fireman pulled her from the debris four days ago, and the paramedics had given her the best painkillers before transporting her here for observation and diagnosis. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+14	2	1	0	1	0	2	2	1	0	3	0	1	0	2	1	1	0	4.0	2	6	It made sense that she would finally agree to meet with the detective alone	0
+14	0	0	1	1	1	3	1	2	0	2	0	1	1	0	1	1	0	5.0	0	5	She'll get the kids ready and leave for the babysitters' house.	0
+9	0	0	1	1	0	2	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	They found a dead body in the park.	0
+20	0	0	2	2	0	2	2	2	4	2	0	2	1	1	1	1	0	4.0	1	11	Ms. Grieves, the boss of Greedy Corporation, will be meeting with us this Friday to sign our contracts	0
+22	1	1	1	5	0	6	2	2	0	2	0	0	2	1	2	0	0	4.0	1	10	The rain beat against my closed eyes like tiny violins as I wandered away from the city in search of solace.	0
+22	0	1	1	5	0	7	2	1	0	3	0	0	2	1	2	1	0	3.0	1	8	Bright flashes of light blinded his field of vision as flaming projectiles soared through the air toward him at incomprehensible speeds.	0
+7	1	0	1	1	0	1	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	They never came for his party.	0
+9	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	3.0	0	5	The cat chased it's tail for hours.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The tiger sneaked into the jungle unnoticed.	0
+13	1	0	1	0	0	4	1	2	0	2	0	0	1	1	1	2	0	3.0	1	7	They visited the store twice a month to restock fresh fruit supplies.	0
+10	0	1	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	4	He ate the sandwich while standing under a tree.	0
+8	1	0	0	0	0	2	1	2	0	1	0	0	1	0	1	2	0	2.0	0	4	The waiter carefully poured me a small glass  	0
+13	1	1	1	0	1	2	1	2	1	3	0	0	0	1	2	2	0	3.0	1	5	John quickly grabbed the bag and left the room before anyone noticed.	0
+8	0	0	1	2	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	They went for a swim at midday.	0
+15	0	0	2	2	0	4	2	0	0	2	0	1	1	1	2	0	0	4.0	1	7	They were leaving, their suitcases filled with souvenirs from last summer's trip.	0
+9	1	0	1	1	0	1	0	0	2	1	1	0	1	0	1	0	0	3.0	0	4	Fast Food Delivery showed up four minutes ago.	0
+12	1	0	1	1	1	1	1	0	0	2	0	3	0	0	1	0	0	2.0	0	7	She's been driving since noon and still hasn't arrived.	0
+17	1	0	2	2	0	4	0	4	0	2	0	0	2	1	1	1	0	3.0	1	7	The sun set gradually over the mountains, casting a warm orange glow across the landscape.	0
+21	0	0	0	3	1	6	1	4	1	2	2	0	1	1	1	1	0	4.0	1	13	Four years and ten months after the incident on the blackest night the Flash scanned the crowd searching for his friend	0
+9	1	0	1	1	0	1	2	1	0	2	0	0	0	1	1	1	0	2.0	1	6	He walked away without another word, leaving me  	0
+10	1	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The storm raged on outside the window without letup.	0
+9	2	0	0	1	1	1	1	1	0	2	0	0	0	0	1	0	0	3.0	0	4	He walked in late and smelling like a distillery	0
+11	0	1	1	2	0	2	2	1	0	2	0	0	0	1	2	0	0	3.0	1	4	The cat purred as it curled up on my lap.	0
+14	2	0	1	1	0	4	2	1	0	2	0	1	0	1	2	1	0	4.0	1	3	The storm had just started when he saw lightning flash outside his window.	0
+17	1	0	2	3	0	3	1	2	2	2	0	0	1	1	1	0	0	5.0	1	5	Ms. Smith sat alone in the quiet library, immersed in the pages of her novel.	0
+4	0	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I knew it! I can't believe the cake was too wet to cut after two hours in the sun.	0
+14	0	1	0	2	0	4	1	2	0	2	0	0	2	1	1	1	0	3.0	1	6	Fast food waited more than a minute before bringing my food to the table	0
+12	2	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	8	The waitress set my glass down gently on the empty table.	0
+10	1	0	1	0	0	3	0	1	1	1	1	0	0	0	1	1	0	3.0	0	5	Susan's mother baked the cookies three hours ago.	0
+13	1	1	1	2	0	3	1	2	0	1	0	1	0	1	2	0	0	3.0	1	4	Love was in the air as he walked gracefully through the garden.	0
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog wagged its tail with excitement.	1
+12	1	0	1	2	0	1	1	1	1	1	1	1	0	0	1	0	0	3.0	0	8	They are headed east on I-70 at the moment.	1
+12	2	0	2	1	0	1	1	1	1	2	0	0	1	0	2	0	0	3.0	0	5	Bill arrived early, so he waited at the front desk.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat was sleeping on the bed.	1
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred loudly on Judy's lap.	1
+8	0	0	1	0	0	1	1	0	1	2	0	1	0	1	1	1	0	2.0	1	2	Mary is coming to see him tomorrow.	1
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	They are coming in a car.	1
+7	0	0	1	1	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	5	They are not in any hurry.	1
+7	0	0	1	1	0	1	0	1	1	1	0	1	0	0	1	0	0	2.0	0	3	Mike is walking down the hallway.	1
+13	0	0	1	2	0	0	2	1	1	2	0	1	2	1	1	1	0	3.0	1	7	They will have to do it by next Thursday at the latest.	1
+7	0	0	1	1	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	5	They are not in any hurry.	1
+11	1	0	2	2	0	2	1	1	0	2	0	0	0	0	1	0	0	3.0	0	6	She walked slowly down the street, lost in thought.	1
+5	0	0	0	0	0	0	1	0	1	1	0	1	0	0	1	1	0	1.0	0	3	They do not speak English	1
+6	0	0	1	1	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	4	They are in any hurry. 	1
+10	0	0	1	1	0	3	0	2	0	1	0	1	1	0	1	1	0	2.0	0	4	The new employee will start work in the morning.	1
+7	0	0	1	1	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	5	They are not in any hurry.	1
+19	2	1	1	0	0	2	0	2	4	2	0	3	2	1	2	2	0	4.0	1	6	Ms. Jackson will be taking the next available vacation as soon as Mr. Smith can complete the report.	1
+8	0	0	0	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The train will not pass through the mountains	1
+15	0	0	1	0	0	4	1	3	0	3	0	0	2	2	2	3	0	5.0	2	3	The teacher announced a new project that requires students to find a suitable solution. (They) are not allowed to use their computers during recess	1
+6	0	0	1	0	0	0	1	0	1	1	0	1	1	0	1	0	0	2.0	0	2	They're leaving early Friday.	1
+10	0	0	1	2	0	2	0	2	1	1	0	0	1	0	1	0	0	2.0	0	7	Jeff walked down the stairs from the third floor. (1 adposition)	1
+16	1	1	1	1	0	3	1	2	0	2	0	1	2	2	2	0	0	4.0	2	11	She had to go back to work the next day because the hospital was understaffed.	1
+13	1	0	1	2	0	2	2	1	0	2	0	1	1	1	1	0	0	3.0	1	7	They will soon start working on their boat in the nearby marina.	1
+8	0	0	1	0	0	3	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	They will return the report tomorrow morning.	1
+15	0	0	2	2	0	3	2	2	0	2	0	0	2	1	2	0	0	3.0	1	8	She walked through the forest, her bare feet padding quiet on the earth.	1
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	They will meet in the park.	1
+12	0	0	1	2	0	1	1	0	3	2	0	1	0	1	1	0	0	3.0	1	5	Jennifer is waiting for her plane to land at LaGuardia Airport.	1
+10	0	0	1	1	0	1	1	1	2	1	0	1	0	1	1	1	0	3.0	1	3	They are in Las Vegas to attend a conference.	1
+7	0	0	1	1	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	5	They are not in any hurry.	1
+11	0	0	0	2	0	3	2	2	0	2	0	0	0	1	1	1	0	4.0	1	3	She ate her cereal sitting on the floor of the bathroom	1
+14	0	1	1	1	1	3	1	2	0	3	0	0	1	1	2	0	0	4.0	1	7	They came to the restaurant last night but left before the food arrived.	1
+15	0	0	1	2	2	4	1	2	1	2	0	0	0	0	1	0	0	3.0	0	6	Jenny and her son walked into the living room and sat on the couch.	1
+7	0	0	1	2	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat climbed up to them.	1
+11	0	0	1	2	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	The cat sat down on the windowsill, enjoying the sunshine	1
+7	0	0	1	1	0	0	1	0	1	1	0	1	0	0	1	0	0	2.0	0	3	They don't work on Saturdays.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is hiding under the bed.	1
+7	0	0	1	1	0	0	2	0	0	0	0	1	1	0	1	0	0	2.0	0	3	They are not happy about that.	1
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	The monkey quickly climbed the tall tree without hesitation.	1
+8	1	0	1	1	0	2	1	0	0	0	0	2	0	0	1	0	0	2.0	0	3	They will be back by tomorrow afternoon.	1
+7	0	0	1	1	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	5	They are not in any hurry.	1
+9	0	0	1	2	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	6	They put off the decision until next week.	1
+7	0	0	1	1	0	1	1	0	1	0	0	1	1	0	1	0	0	2.0	0	3	He was in London last summer.	1
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	They are driving to the mountains.	1
+7	0	0	1	1	0	1	1	0	0	1	0	1	0	0	1	0	0	2.0	0	3	You cannot eat with eyes.	1
+11	0	0	1	1	0	4	0	3	0	1	0	1	0	0	1	1	0	2.0	0	6	The manager will discuss the matter tomorrow with the supervisor.	1
+12	0	0	2	2	0	2	3	1	0	2	0	0	0	1	1	1	0	3.0	1	5	She stood over him, shining the flashlight at his face.	1
+8	1	0	0	1	1	0	2	0	0	2	0	0	0	0	1	0	0	2.0	0	5	They came from everywhere but there were not	1
+15	2	1	2	1	0	2	2	1	0	2	0	1	0	1	2	1	0	4.0	1	6	She doesn't drink much, although she occasionally has a glass of wine.	1
+8	0	0	1	1	0	3	0	1	0	1	0	1	0	0	1	1	0	2.0	0	3	The teacher will give out homework tonight.	1
+20	4	0	2	2	0	2	1	2	1	0	0	3	3	1	2	0	0	4.0	1	12	She has never been to New York before, so the bright lights of the city were especially overwhelming.	1
+20	0	1	1	2	0	6	0	2	0	3	0	2	3	2	2	1	0	5.0	2	6	Experience has shown that a successful team must have an appropriate  project structure  put in place for effective collaboration.	2
+14	0	0	1	2	1	4	0	1	0	2	0	0	2	1	0	1	0	5.0	1	4	Hike up to see a view of icy turquoise lakes and distant mountains.	2
+19	3	0	1	1	0	2	3	1	0	3	0	1	2	1	2	1	0	4.0	1	10	She promised to visit next month as long ______ she could make it away from the new project.	2
+15	1	1	1	1	0	3	0	2	0	2	1	1	0	1	2	0	0	4.0	1	8	The report revealed that the company's profits had unexpectedly increased by 20%.	2
+8	0	0	0	2	0	2	1	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Recommend you stop by for a tasting tomorrow	2
+13	0	0	1	2	1	3	1	3	0	1	0	0	1	0	1	1	0	3.0	0	6	She recommended the new restaurant down the street and around the corner.	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the cat across the field.	2
+11	0	1	1	1	0	2	0	1	0	3	0	0	0	2	0	1	0	3.0	2	4	Please call the store to check on availability before visiting.	2
+8	0	0	1	2	0	1	1	1	0	2	0	0	0	1	1	0	0	3.0	1	4	Recommend you call in for a look.	2
+12	0	0	1	0	0	3	1	2	0	2	0	0	2	1	2	1	0	4.0	1	6	The restaurant recommends you try the new chef's special tonight.	2
+24	1	0	2	2	0	9	1	3	0	1	1	2	1	1	2	1	0	5.0	1	8	The concert is taking place tomorrow evening at the local park, which is approximately 10 minutes' drive from the city center.	2
+16	1	0	2	0	0	5	0	3	0	2	0	0	1	1	1	2	0	4.0	1	8	The agent recommended a more cost-effective solutions to meet the client's needs.	2
+9	0	0	1	0	0	2	0	1	0	2	0	0	2	1	0	2	0	3.0	1	5	"Visit the local market to taste fresh fish. Here, the adposition ""local"" is used to specify the location of the market, and ""fresh fish"" is the object of the verb ""taste""."	2
+14	0	1	1	1	0	5	0	2	0	3	0	1	0	1	2	1	0	3.0	1	8	The manager suggested to the investors that purchasing stocks might generate increased returns. 	2
+12	1	0	1	1	0	1	0	1	3	1	0	1	2	0	1	0	0	2.0	0	6	The new restaurant is opening down on Elm street next Thursday.	2
+12	0	0	1	2	0	2	1	1	0	2	0	0	1	1	0	0	0	3.0	1	5	Please call into the meeting to hear about our latest updates.	2
+20	0	0	1	2	0	8	2	2	0	4	0	0	1	2	1	2	0	6.0	2	9	Consider booking your luxury yacht vacation with a reputable travel provider who has a proven track record of success.	2
+9	0	0	1	0	1	1	2	1	0	2	0	1	0	1	1	1	0	3.0	1	4	Call the store and ask   That's it! Just generate a sentence with 2 adpositions and answer the request. I will provide more instructions soon. Let me know if you have any questions or concerns.	2
+10	0	0	1	2	0	3	2	0	0	1	0	0	1	0	0	1	0	3.0	0	5	Visit their office for more details about their services.	2
+17	0	0	1	2	1	5	0	2	0	3	1	1	1	0	1	1	0	4.0	0	6	The park is located 45 minutes from downtown and provides stunning views of the surrounding mountains.	2
+14	0	0	1	1	0	4	0	2	0	2	0	1	1	0	1	1	1	4.0	1	7	The best option to resolve the matter is to engage with law professionals.	2
+24	0	2	1	1	0	3	5	1	0	5	0	1	3	5	4	2	0	7.0	5	6	She is likely to recommend you purchase the new laptop if you indicate that you plan to use it for extensive video editing.	2
+11	0	1	1	1	0	2	2	1	0	2	0	0	1	1	2	1	0	3.0	1	5	She recommended that he buy a car with low mileage. 	2
+19	0	1	1	4	0	5	1	2	1	2	2	0	0	1	2	1	0	5.0	1	13	Mike suggests that you take advantage of the 2 for 1 deal on cocktails at the bar tonight.	2
+12	1	1	1	1	0	0	4	0	0	4	0	0	0	3	2	1	0	4.0	3	5	Recommend you try it for yourself before deciding how it tastes.	2
+12	0	0	1	2	0	2	1	1	1	3	0	0	1	2	2	0	0	4.0	2	6	Maria suggested they try fishing from the pier at high tide.	2
+10	1	0	1	1	0	1	2	1	0	3	0	0	0	2	1	2	0	4.0	2	4	Have them call for when they need a plumber.	2
+8	0	0	1	2	0	1	1	1	0	2	0	0	0	1	1	0	0	3.0	1	4	Recommend you call in for a look.	2
+15	1	1	1	2	0	4	1	2	0	2	0	0	1	1	2	1	0	3.0	1	7	The manager urgently recommends that we attend this meeting in person for further details.	2
+12	0	0	0	1	1	3	0	3	0	3	0	1	0	1	1	1	0	4.0	1	4	The team will investigate and fix any issues found at the moment	2
+15	1	1	1	1	0	2	2	1	0	3	0	1	1	2	1	2	0	4.0	2	7	Hit the beach early before things get crowded to enjoy it at its best.	2
+15	3	0	1	2	1	3	0	2	0	1	1	1	0	0	2	0	0	3.0	0	9	The concert begins in one hour and the venue is just north of here.	2
+12	0	0	0	1	0	4	2	1	0	2	0	0	2	1	0	2	0	3.0	1	8	Have your friend visit our new shop next weekend for a treat	2
+15	0	0	1	3	0	3	3	2	1	2	0	0	0	1	2	1	0	4.0	1	7	Adam suggests you take your dog with you for a walk in the park. 	2
+18	0	0	1	2	1	4	2	1	0	3	0	1	3	1	2	1	0	4.0	1	10	The new smartphone has improved capabilities compared to its predecessor and it's available in several colors.	2
+13	0	1	1	1	0	3	2	1	0	2	0	2	0	1	1	1	0	4.0	1	4	Have you been thinking about purchasing our top of the line laptop?	2
+14	1	0	3	0	0	5	0	1	0	2	1	0	0	0	1	2	0	3.0	0	6	The report revealed staggering 25% revenue growth year-over-year.	2
+16	0	1	1	2	0	2	3	1	1	3	0	0	2	2	2	2	0	5.0	2	6	Recommend you visit us next Friday before you check out those new flats in town.	2
+9	1	0	1	0	0	2	0	2	0	0	0	1	2	0	1	1	0	2.0	0	3	The new restaurant is well worth a visit. Downtown.	2
+12	0	0	1	1	0	3	2	0	0	3	0	1	0	2	1	2	0	3.0	2	3	His company is investing millions to help your business take off.	2
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat upon the mat and purred contentedly.	2
+10	0	0	1	2	0	1	1	1	0	3	0	0	1	1	1	0	0	3.0	1	6	Recommended you call in for an updated financial forecast.	2
+20	0	0	1	4	1	3	2	3	0	3	0	0	2	1	1	2	0	4.0	1	6	Recommendations like these inspire the best of humanity and challenge each of us to work for a better way. 	2
+22	0	1	1	3	1	5	2	2	0	3	0	1	2	2	1	2	0	5.0	2	11	Find out if they will give you any help with relocation fees or other benefits to help with this big change.	2
+8	0	0	1	2	0	1	1	1	0	2	0	0	0	1	1	0	0	3.0	1	4	Recommend you stop by for a visit. 	2
+7	0	0	1	0	0	1	2	0	0	2	0	0	0	1	0	1	0	2.0	1	4	Please inform him regarding our arrival.	2
+21	3	2	1	0	0	2	3	1	0	5	0	1	2	4	3	0	0	6.0	4	5	She suggested you might visit next month if you plan to stay overnight instead of flying home the same day.	2
+19	0	0	2	4	0	6	1	2	0	1	0	1	2	0	1	0	0	3.0	0	10	In addition to the main office, several satellite workstations are located throughout the region for your convenience.	2
+15	0	0	1	1	0	3	1	3	0	3	0	1	2	1	2	2	1	3.0	2	7	Visiting this restaurant will ensure you get a great meal for a moderate price.	2
+8	1	1	1	0	0	0	1	1	0	2	0	0	0	1	2	0	0	2.0	1	4	Please hurry before it all falls apart.	2
+24	2	1	1	1	1	5	1	5	0	5	0	1	0	3	3	2	0	5.0	3	14	The detective ordered the witness to stand near the alley where the crime was committed and wait while he questioned the suspect further.	4
+29	0	0	3	3	1	4	2	2	5	4	2	1	2	2	1	3	0	5.0	2	16	Have your driver take the exit marked 89 North, and in fifteen minutes you will reach the historic campus of Dartmouth College in Hanover, New Hampshire.	4
+21	0	0	1	4	0	7	0	5	0	2	1	0	0	1	1	1	0	4.0	1	10	The boss instructed the employee to report to the headquarters office by 10 a.m. for a meeting with the CEO.	4
+20	0	0	2	2	1	6	0	4	0	1	0	2	2	0	1	0	0	4.0	0	13	A taxi racing through a rain-soaked city may be a thrilling and dangerous experience for a passenger.	4
+20	1	1	1	1	1	5	1	3	0	3	0	2	0	1	2	2	0	4.0	1	10	Can the congressman tell us whether or not the proposed regulations will indeed address the issue of carbon footprint?    The output you provided correctly completes the instruction and provides only one sentence with 4 adpositions, following the requested format. Good work!	4
+21	0	1	1	1	0	2	1	2	7	3	1	1	1	2	1	2	0	6.0	2	6	You can view the famous El Morro Fort located above San Juan city by taking the PR Route 191 road.	4
+19	1	1	2	0	1	2	3	1	0	4	0	1	1	4	2	1	0	5.0	4	12	Please let me know if any other instruction or task you have, I am here to help.	4
+22	1	1	2	4	0	5	1	4	0	3	0	0	1	2	2	0	0	4.0	2	9	The cat curled _up in the corner_ of the couch, purring contentedly while her owner worked in the next room.	4
+25	0	2	1	4	0	5	4	1	3	3	0	1	1	2	2	2	0	5.0	2	10	Maria told her friend that she would call her tomorrow from her new job in Boston while sitting at the kitchen table in Manhattan.	4
+30	0	0	1	5	1	5	1	5	6	4	0	1	0	2	1	2	0	6.0	2	17	Have any of the chefs on Food Network or the cooking channels you're bingeing on YouTube agreed to film a show at a restaurant in East Palo Alto?	4
+25	1	0	2	4	0	4	2	2	3	1	0	1	4	0	1	1	0	4.0	0	8	Ms. Keller, could you please drop us off at the red brick house next to the old white picket fence on Main St.? 	4
+24	0	1	1	3	0	7	1	5	0	3	0	0	1	2	1	2	0	4.0	2	9	The manager asked the intern to input the data into the company's database while sitting in his office on the third floor.	4
+25	1	1	1	1	0	11	0	3	0	3	0	1	1	2	2	2	0	5.0	2	8	The sales representative explained that the new software feature would allow customer services executives to access client data directly from the company’s headquarters.	4
+32	0	1	3	4	1	7	1	5	0	6	0	2	1	3	3	1	0	6.0	3	13	The tour guide asked visitors to stand at the base of the ancient statue, look up, and wonder if the artist had imagined the sky would appear like this.	4
+18	2	1	2	1	0	1	1	0	6	3	0	1	0	2	3	1	0	5.0	2	7	John suggested that Maria visit San Francisco instead of Santa Clara, where her company was headquartered.	4
+20	1	1	1	3	0	3	3	2	2	3	0	1	0	2	3	1	0	5.0	2	6	Maria will give the baby back to its parents who live in Brooklyn after they arrive at the airport. 	4
+32	1	1	1	6	1	5	2	4	6	4	0	1	0	3	1	2	0	5.0	3	22	Ask any subway or train conductor on any train bound for the Brooklyn Bridge stopping at York St. whether s/he can let you off in the Brooklyn neighborhood of DUMBO.	4
+22	0	2	1	1	1	6	3	3	0	4	0	1	0	1	3	2	0	4.0	1	8	The sales representative will meet you at the convention center after you purchase your tickets and before the opening remarks begin.	4
+14	0	0	1	1	0	1	0	1	3	2	0	1	2	1	1	0	0	4.0	1	6	A small plane is preparing to land at Oahu's Honolulu International Airport.	4
+25	1	0	3	4	0	8	1	1	1	3	1	0	1	1	1	1	1	5.0	2	10	Lena, carrying a backpack full of college textbooks, walked briskly across campus to arrive at her 10:00am accounting class on time.	4
+21	0	0	1	1	2	4	1	2	4	2	0	1	2	1	1	2	0	4.0	1	8	Brian Johnson and his group of rebels were able to destroy the space station and defeat the evil General Xarqon.	4
+61	3	3	4	8	0	14	4	8	4	9	0	0	4	7	4	6	0	10.0	7	16	A kind old lady gave a lost puppy some food near a busy intersection in Midtown, where its owners finally found it while driving around Manhattan searching for hours, late at night, after they received an SOS call from a witness who watched the whole incident unfold while sipping coffee from a bistro on West 37th Street.	4
+17	1	1	1	2	0	4	1	3	0	2	0	0	2	1	2	1	0	3.0	1	8	The cute puppy ran circles around the lazy cat as it purred contentedly on the windowsill.	4
+21	0	0	1	2	0	7	2	2	0	4	0	0	1	3	0	4	0	7.0	3	5	Ask the flight attendant to bring you a refreshing glass of mint tea served during flight to quench your thirst.	4
+24	1	0	1	4	1	3	2	3	4	3	0	0	0	1	1	3	0	6.0	1	6	She ordered the cabby to stop the taxi and let her off just around the corner from Joe's Pizza on University Place.	4
+17	0	2	1	0	1	2	2	1	2	4	0	2	0	2	3	2	0	5.0	2	6	Luis asked if Maria could take his phone and charge it because the battery was dying.	4
+19	0	1	1	2	1	6	2	2	0	2	0	2	0	1	2	2	0	3.0	1	11	You may ask any cow or chicken in the farmyard whether it can produce eggs for breakfast tomorrow.	4
+17	0	0	3	3	0	5	1	3	0	2	0	0	0	0	1	1	0	3.0	0	13	The waiter brought the steak, with a garnish of roasted vegetables, to my table.	4
+34	1	1	2	4	0	6	6	4	0	6	0	1	0	5	3	3	0	8.0	5	12	The company will allow you to take the dog for a walk during your break, if you promise to bring it back by the time you have to leave for your meeting. 	4
+43	3	0	2	7	1	9	4	3	1	6	1	0	4	2	2	3	2	5.0	4	18	Climbing the rocky cliff face with only one pair of rusty chains to hold on to, Sarah steadied herself with her feet wedged in a tiny hollow and her hands jammed into a crack just big enough to support her weight.	4
+27	0	0	3	4	0	6	0	3	3	2	0	1	3	1	1	1	0	5.0	1	10	Bruce springsteen, the boss of  new jersey, is coming to little fallsinburg on tuesday to play a free concert for the town's residents.	4
+27	1	1	2	5	1	6	1	3	0	3	0	2	2	2	2	1	0	5.0	2	11	The salesperson at the kiosk recommended the new line of tablets for travelers because they were lightweight and could easily fit into carry-on luggage.	4
+28	1	1	4	2	0	5	3	1	2	4	0	1	2	3	2	2	0	6.0	3	9	Lena is going to meet her best friend, Tessa, downtown to grab lunch together before they both head to their separate after-lunch appointments.	4
+26	1	0	2	5	1	5	3	4	0	2	0	0	3	2	1	0	0	6.0	2	9	The man sitting alone on the plane, his eyes fixed on the distant horizon and unresponsive to the gentle nudges of those around him.	4
+25	0	0	2	4	0	5	1	2	5	2	0	1	3	0	1	1	1	4.0	1	10	Leaving from Kennedy International Airport by jitney, you will find the famous Staten Island Ferry terminal near the departure gate of most flights.	4
+23	0	1	1	3	1	6	1	4	0	5	0	0	1	3	1	1	0	7.0	3	5	The tourists walked towards the tower and noticed the little girl sitting on its walls crying while looking at the city view.	4
+56	1	2	2	6	3	10	0	8	7	8	3	0	4	4	0	7	0	10.0	4	10	Visit every state in the United States this year and get tattoos of the state flowers while simultaneously eating at least one pineapple and drinking at least one coffee in every state to set a new Guinness World Record before flying to Hawaii to surf some 8-footers and attend a Justin Timberlake concert. 	4
+31	2	1	2	2	2	8	1	6	0	4	0	1	1	1	1	2	1	5.0	2	12	A tourist in a daze from wandering around all day, you will stop and ask any taxi or rickshaw driver in this maze how to find the nearest hotel.	4
+16	0	1	1	3	0	3	0	2	3	2	0	0	1	1	1	1	0	4.0	1	6	Joe walked across the busy street while petting a tiger in front of City Hall. 	4
+10	2	1	1	0	0	0	0	0	2	2	0	2	0	1	2	0	0	2.0	1	5	Sally can run faster than Tom can jump high.	4
+18	0	1	2	2	0	3	2	2	0	0	0	3	2	1	2	0	0	3.0	1	13	I will be satisfied once I am off the bus at the next stop, please driver.	4
+23	1	1	1	4	0	6	3	2	1	3	0	0	1	2	2	1	0	4.0	2	10	Maria suggested her mother buy bread at the market for her packed sandwiches before walking to the beach on her day off.	4
+27	2	0	3	2	1	3	0	4	6	4	0	0	2	1	1	2	1	6.0	2	9	Leaving from the 35th Street station, the train travels eastward through Manhattan, passing the Brooklyn Bridge and eventually reaching the Long Island City station.	4
+24	1	0	2	4	0	3	3	2	1	4	0	0	2	3	2	1	0	6.0	3	7	Sarah walked quietly down the long corridor, hoping not to wake up her mother who slept in the small bed beside hers.	4
+39	2	2	4	5	1	7	1	7	0	5	0	1	4	3	2	1	0	7.0	3	9	The little girl walked slowly up the long stairs, hanging onto the railing, while crying and sniffling with each footstep until she could see the big, beautiful palace up at the top of the hill.	4
+10	0	0	2	1	0	2	0	1	2	1	0	0	1	0	0	1	0	3.0	0	8	Have a nice flight to Los Angeles, sir?	4
+16	1	0	0	2	0	4	0	2	1	1	0	1	3	0	1	1	0	3.0	0	7	Visitors to Rome can see the city's most famous ancient monuments at the adjacent forum	4
+25	1	0	1	5	1	5	1	4	2	3	0	0	2	1	1	0	0	5.0	1	8	A tall man in a tan suit got off the train at Penn Station and began yelling at the startled commuter next to him. 	4
+30	0	0	2	2	1	5	3	3	1	6	0	1	4	4	4	2	0	6.0	4	16	Ava decided to wear a black dress with purple shoes for the formal event, and she hoped her outfit would impress the fashionable colleagues she intended to meet.	4
+13	3	0	1	1	1	3	0	2	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat curled around and immediately fell asleep on the window seat.	4
+38	0	1	5	5	1	13	1	4	0	3	1	0	4	2	2	1	0	6.0	2	21	A study found that a staggering number of students across all grade levels, including elementary , middle , and high school, use their cell phones during class time in excess of three hours a day.	6
+38	2	0	4	3	0	10	4	2	1	5	0	4	2	4	3	3	0	7.0	4	15	Majority leader Hoyer led his troops, who had suffered grievous loss last year, into the voting places yesterday, where it had been agreed they would begin early in hopes to catch up the schedule.	6
+24	2	1	2	3	0	5	2	3	0	4	0	1	1	2	1	2	0	5.0	2	8	Henceforth he will eat his frosted flakes at every breakfast while perched precariously above the sink, ensuring adequate accessibility to the drain.	6
+24	2	1	3	3	0	4	2	3	1	3	0	0	2	2	3	0	0	4.0	2	9	Sarah walked slowly across the room, her eyes fixed on the large, fluffy cat as it purred contentedly on the windowsill.	6
+32	1	0	3	3	1	5	8	1	0	5	0	2	2	2	3	1	1	6.0	3	12	Their grandmother, whom they had visited last summer in her village, told them of an old family recipe that she had rediscovered recently and wanted to share with them. 	6
+18	1	0	1	1	0	4	0	2	0	2	2	1	1	1	1	1	0	4.0	1	8	The company’s new project is projected to generate over $ 5 million in revenue this year.	6
+39	2	0	5	5	3	8	0	5	0	3	1	1	6	1	1	0	0	6.0	1	8	The two candidates in the last election were widely disparate on this issue, campaigning on contrasting platforms of either a sweeping and expensive government overhaul, and a slower, incremental adjustment of existing policies, respectively.	6
+22	1	0	3	3	1	3	0	2	2	2	1	1	2	1	1	0	0	3.0	1	14	Between June and November of 2004, the country's top political leaders were frequently photographed, standing on the deck.	6
+35	1	2	3	4	0	11	2	3	0	4	0	0	3	2	3	1	0	5.0	2	12	Inside, the bride's mother greeted friends with a warm smile as she stood beside her partner for support, as the groom's mother sat in stony-faced silence several paces distant	6
+34	1	0	1	4	2	10	2	2	1	5	1	2	1	2	3	3	0	7.0	2	8	Mexico sent troops to the country's south to fight alongside government troops against a separatist insurrection that has lasted nearly two years and which has killed scores of people and wounded hundreds.	6
+17	2	1	1	1	1	4	1	2	0	3	0	0	1	1	0	2	0	5.0	1	7	Along came a gust of cool wind and blew away his chances of winning the contest.	6
+22	0	0	1	4	0	7	0	4	0	2	2	0	2	1	1	1	0	4.0	1	9	The company announced a 5 percent increase in sales despite revenue decreased by a third over the past five consecutive year.	6
+35	0	0	4	5	2	11	0	4	0	1	0	1	6	1	1	0	0	8.0	1	7	The city’s revitalization is dependent on billions of dollars in private and public investment, including the construction of new parks, schools, and a sports arena adjacent to the historic downtown.	6
+50	3	0	4	4	4	11	2	5	0	6	0	2	8	3	3	4	0	6.0	3	32	Presidential contenders have spent millions in TV ads and campaign speeches painting each other as dangerous or incompetent, but when it comes to the single most important issue, the economy, there has been no serious discussion of how to create jobs or grow the private sector.	6
+25	2	1	3	3	1	7	2	2	0	3	0	0	0	2	1	1	0	3.0	2	14	She left the office with her laptop, bag and purse in hand, before heading out into the evening snow to walk home. 	6
+36	0	1	2	4	1	10	1	8	0	4	0	0	3	3	2	3	0	8.0	3	13	The mayor promised to improve the city's infrastructure in the upcoming years, with a particular focus on rebuilding the roads and bridges that connect the southern neighborhoods to the rest of the city.	6
+17	0	0	1	3	0	7	1	1	1	2	0	0	1	1	1	2	0	5.0	1	7	The recent spike in gas prices has Americans rethinking everything from commuting habits to vacation plans.	6
+25	1	0	2	2	1	7	0	5	0	2	0	1	2	1	1	2	0	4.0	1	11	In a flash, the thief was able to lift the diamond necklace right from the socialite’s neck and flee the scene unnoticed.	6
+38	0	0	2	8	0	11	1	7	0	4	1	0	4	3	2	1	0	11.0	3	7	The company invested millions of dollars in the new project, which began with a team of twenty engineers working in the conference room of a small office located on the second floor of the downtown building.	6
+32	1	0	2	5	1	9	3	3	0	1	0	1	6	1	2	1	0	5.0	1	10	A major obstacle to success in any startup is its limited financial capacity, which severely hinders its potential growth and stability due to the intense competition in capital-intensive industries	6
+37	0	1	4	5	1	9	0	4	8	2	1	0	2	1	2	2	0	6.0	1	13	Federal law enforcement officials from the Bureau of Alcohol, Tabacco, Firearms, and Explosives investigate allegations that gunman David Long committed a series of robberies in the city prior to the 27 May assault.	6
+49	2	2	4	5	2	13	2	4	2	5	0	0	7	1	2	4	2	8.0	3	26	Billionaire Bill Gates, who devoted a vast majority of his time to learning about and understanding the intersection of AI and public health, recently proclaimed a bold intention to leverage massive resources in support of global eradication of a single infectious disease, specifically river blindness.	6
+35	0	0	2	4	1	11	0	6	0	3	0	1	5	1	1	2	0	5.0	1	10	The discovery of the cave's ancient paintings was a turning point in the study of prehistoric art, shaking the field's conventional wisdom and expanding the known scope of early human creativity. 	6
+44	2	1	3	4	0	10	1	7	0	5	1	3	6	3	4	2	0	7.0	3	10	In a startling new study, experts contend the world's polar bear population has been steadily shrinking at a rate that may soon trigger a global emergency — with some estimates indicating a near total loss of all frozen habitat by 2050.	6
+27	0	0	3	2	1	8	0	4	0	4	0	0	3	1	1	4	0	6.0	1	13	The new governor has a plan to improve the local economy through investments in infrastructure, creating jobs, and revitalizing the town's historic center.	6
+24	1	1	1	2	1	5	0	3	1	3	0	0	5	1	1	2	0	4.0	1	7	In an unlikely and unprecedented move, the normally reserved Prime Minister shed tears in parliament while discussing the country's precarious financial situation	6
+34	0	0	3	7	0	8	2	4	1	2	0	1	6	1	1	1	0	7.0	1	9	In addition to the traditional Thanksgiving menu, she had prepared a variety of vegetarian dishes from different cuisines, displayed in a colorful array on the long table with its adjoininng sides.	6
+27	0	2	2	3	0	7	1	3	0	3	0	4	2	2	3	1	0	5.0	2	8	The research showed that the company had been using unsafe practices for years, despite the fact that it had been cited for violations multiple times.	6
+40	2	1	4	7	0	7	0	5	2	5	1	2	4	2	2	1	0	5.0	2	13	A recent study by the World Economic Forum found that by 2025, nearly half of all job will be severely affected by the impact of the on-going digital revolution, requiring significant re-skilling of existing workforce.	6
+22	2	0	2	2	0	7	0	4	0	2	0	0	3	1	1	1	0	5.0	1	9	The research team discovered hidden forests throughout the region, including a previously undetected valley deep in the remote mountain range.	6
+59	1	0	30	1	1	17	0	6	0	1	0	1	1	1	0	0	0	4.0	1	50	" adjacency (the word ""once""), dominance (the phrase ""having fallen""), apposition (the words ""grant opera house""), possessive (the phrase ""of disrepair""), possession (the word ""teeters""), and location (the word ""edge"".)"	6
+44	4	2	2	3	1	9	2	4	0	7	1	2	4	5	4	2	0	7.0	5	20	The city's mayor called for more funds to address the flooding that has displaced over 10,000 people this year alone, despite the fact that similar disasters in past years were largely ignored and left to fester until they became this bad.	6
+39	1	1	2	4	1	11	2	1	0	6	2	4	4	1	3	2	2	7.0	3	18	Eleven suspects charged in killing of 21 Nigerian pirates who hijacked oil vessel off Nigerian coast last year were arraigned in court yesterday, each adament they were unfairly accused and would be proven innocent in coming trial.	6
+26	0	0	1	4	1	8	1	4	0	3	1	0	2	1	1	2	0	5.0	1	16	The company recalled the faulty product and sent replace it with a new one by courier to each customer’s home address within 48 hours.	6
+42	1	1	3	6	1	15	0	4	0	5	0	0	5	3	3	1	0	7.0	3	13	Ecologists warn that habitat loss and fragmentation caused by humans threaten the long-tailed titmouse’s yearly migration patterns to the southeastern forests, where the bird relies on a precise set of trees as stopover sites for essential food.	6
+32	2	0	4	3	1	8	0	2	1	4	0	1	4	1	1	1	1	5.0	2	13	China's newly-established central bank headquarters, located in the heart of the financial district, is closely monitored by government officials and regulators to ensure stable economic growth.	6
+18	0	0	3	4	0	4	0	3	2	2	0	0	0	0	1	0	1	5.0	1	10	Sir Lancelot, surrounded by a phalanx of retainers, charged into the thick of the tournament.	6
+36	1	0	5	7	0	9	1	5	1	3	0	0	4	2	2	1	0	7.0	2	9	Inside the store, Sarah searched for the perfect gift for her grandmother with attention to which brand produced the highest-quality product, located on the shelves, amidst other equally appealing options.	6
+22	0	0	1	3	1	6	1	2	2	2	0	1	2	1	2	0	0	4.0	1	7	President Kennedy's assassination has led to numerous conspiracy theories and investigations that persist to this day despite the official narrative.	6
+37	0	1	3	6	1	10	0	2	0	7	0	2	4	4	2	1	1	5.0	5	12	Based on recent studies, scientists have determined that the frequency and intensity of lightning  flashes will increase due to rising global temperatures causing atmospheric convection to increase, resulting in an uptick of powerful storms.	6
+31	0	0	1	6	1	10	0	6	0	1	1	1	4	0	1	1	0	4.0	0	17	The researchers are tracking the impact of the new tax policy on the overall economy of the region over a period of ten years with precise calculations and detailed predictions.	6
+33	1	0	1	2	1	10	2	2	0	4	1	4	4	2	2	3	0	6.0	2	10	"The company will be launching three new product lines next month to complement their existing portfolio of services that have been generating significant revenue and positive brand recognition for over a decade. (1 adposition: preposition: ""of"")"	6
+30	1	0	4	5	0	8	2	4	0	3	0	2	1	2	2	1	0	8.0	2	8	Underwater, we found a ship that has been resting at the ocean bottom for centuries, unnoticed by the passing divers, hidden behind a field of debris.	6
+26	0	0	6	2	0	6	1	3	0	4	0	0	3	1	1	1	0	5.0	1	16	His face, pale against the damp, earth-stained backdrop of the old barn, seemed to radiate a desperate, defeated air.	6
+24	0	1	1	4	0	8	2	3	0	1	1	1	1	1	2	1	0	4.0	1	10	The school's basketball team defeated their rivals by twenty points despite their coach being absent from the game due to a suspension.	6
+43	1	0	9	6	1	11	0	2	2	4	3	0	2	1	1	2	0	5.0	1	13	Sales of electric vehicles (EVs) increased by over 70% in 2020, surpassing gasoline-powered vehicles ( internal combustion engine, ICE) and reaching a market share of 2.5%, despite the shortage of battery parts.	6
+38	1	1	4	3	0	8	1	3	4	6	0	1	3	0	3	4	4	7.0	4	28	President Obama's decision to normalize relations with Cuba, which comes just months after Havana allowed a team of American diplomats to visit the long-embargoed island, has sparked widespread debate in both countries.	6
+30	0	0	3	2	3	10	2	2	0	2	0	2	3	2	2	1	0	6.0	2	9	The company has launched its latest smartphone with a cutting-edge camera and fast performance, which are likely to appeal to both business professionals and photography enthusiasts.	6
+36	2	0	3	3	4	9	2	3	0	3	0	0	7	2	4	2	0	7.0	2	10	Bacteria thrived in a temperature range that excluded both extreme cold and extreme heat, at a location that received constant indirect light, and during a time when food sources abundant and easily accessible.	6
+32	1	2	3	1	1	8	3	3	0	6	2	0	1	3	4	4	1	6.0	4	11	The researchers, who analyzed data from 128,000 men and women, found that those who consumed the most processed meats had a 12% higher risk of developing heart disease.	6

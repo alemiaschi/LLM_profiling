@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+9	0	0	2	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	  Sure, generate a sentence with 0 numerals.	0
+11	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	  The sky blue morning sun hung above the shimmering river.	0
+8	1	0	2	0	0	1	2	1	0	1	0	0	0	0	0	0	0	2.0	0	4	  **There was no one home today.**	0
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	2	  The sound was heard by nobody.	0
+10	0	1	1	0	0	2	1	2	0	1	0	1	1	1	2	1	0	3.0	1	3	The sentence is empty as it has no numerals.	0
+7	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The answer is a silent moment.	0
+9	0	0	4	0	0	1	1	1	0	1	0	1	0	1	2	0	0	2.0	1	4	"The sentence is: ""Nobody arrived""."	0
+12	0	0	1	2	1	5	0	2	0	1	0	0	0	0	1	1	0	4.0	0	3	  The absence of numbers creates a sense of emptiness and nothingness.	0
+14	0	1	1	2	0	4	0	3	0	2	0	0	1	1	2	0	0	3.0	1	7	 The quiet hum of anticipation echoed through the city as the preparations commenced.	0
+13	0	0	1	1	0	3	2	1	0	2	1	1	0	1	1	1	0	4.0	1	4	There is no sentence with 0 numerals that does not contain words.	0
+8	0	0	2	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	  **I walked in the quiet park.**	0
+8	0	0	1	1	0	2	0	2	0	1	1	0	0	0	1	0	0	2.0	0	4	  The clouds floated in the zero sky.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	  She sat at the beach.	0
+15	0	0	2	3	0	4	0	3	0	0	0	1	2	0	1	0	0	3.0	0	5	  **The answer is a silent cry for help in the dead of night.**	0
+8	1	0	1	0	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	   The sky remained entirely dark that night.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The void exists.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  **Sentence	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1.0	0	1	 There is silence.	0
+10	0	0	1	0	1	2	0	1	0	1	0	1	2	0	1	1	0	3.0	0	3	The task is not clear and requires further context.	0
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	  **The quick brown fox jumps over the lazy dog.**	0
+4	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	" ""Silence."""	0
+28	0	1	3	4	0	7	1	5	0	2	2	1	0	2	1	0	0	5.0	2	9	Sure, a sentence with 0 numbers is a sentence with no words, as there are no words to generate in a sentence with 0 numbers.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was quiet tonight.	0
+8	0	0	1	0	0	1	2	1	0	2	0	0	0	1	1	1	0	2.0	1	5	  I have no idea what to do.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  > She sat on the carpet with no one around.	0
+16	0	0	1	2	0	3	2	2	0	3	1	2	0	2	1	0	0	6.0	2	4	There is no sentence with 0 numerals that can be generated according to the instruction.	0
+16	1	1	1	1	0	4	0	3	0	1	0	1	3	1	2	0	0	3.0	1	6	 The sky was blue as the clear moon shone brightly in the vast night sky.	0
+10	0	0	1	0	1	1	0	1	0	1	0	3	1	0	1	0	0	2.0	0	5	The instruction is meaningless and cannot be fulfilled.	0
+22	0	1	5	1	0	4	1	3	0	2	0	2	2	2	3	1	0	4.0	2	8	"Sure, a single sentence with no numerals is: ""The world has many wonders that we can explore."""	0
+20	0	0	3	2	0	5	1	4	0	3	0	0	2	2	1	2	0	5.0	2	8	The sun rises, illuminating the horizon with its golden hue, signifying the dawning of a new day.	0
+9	0	0	1	0	0	2	0	2	0	1	0	0	3	0	1	1	0	2.0	0	3	 The quick brown fox jumped a lonesome tune.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+11	0	0	1	1	0	2	1	1	0	1	1	1	1	1	1	1	0	3.0	1	5	I am unable to generate a sentence with 0 numerals.	0
+11	0	0	1	1	0	3	1	2	0	2	0	0	0	1	1	2	0	4.0	1	4	I have no ability to form sentences with no numerals.	0
+13	1	0	4	0	0	2	1	2	0	1	0	1	0	0	1	0	0	3.0	0	4	Sure, the sentence is:  **There are no zeros here.**	0
+22	0	0	4	2	0	4	1	6	0	2	1	1	1	0	1	0	1	4.0	1	8	"The sentence generated from the instruction is ""There is no such a thing as a zero-numbered thing."""	0
+7	0	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	3.0	0	4	  The absence of number was deafening.	0
+9	1	0	3	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	" ""The sky was so blue today."""	0
+17	0	0	3	1	0	4	0	3	1	2	2	0	1	1	1	1	0	4.0	1	7	The sun shone in the zero degree Celsius, illuminating a breathtaking zero-degree world.	0
+12	0	0	3	1	1	2	1	1	0	0	2	1	0	0	1	0	0	3.0	0	5	A sentence with 0 numerals is nothing (or zero)..	0
+7	1	0	2	0	0	1	1	1	0	1	0	0	0	0	0	0	0	2.0	0	3	  **There are no numbers here.**	0
+16	0	0	4	1	0	3	1	2	0	1	1	2	0	0	2	0	1	4.0	1	8	Sure, a sentence generated from the instruction is:  **Her name is zero.**	0
+16	1	0	5	0	0	2	2	2	0	1	0	2	0	0	3	1	1	4.0	1	12	"Sure, a sentence that fits the description is ""Nobody was there.""."	0
+10	0	0	1	1	0	3	0	2	0	0	1	1	1	0	1	0	0	3.0	0	7	A sentence with 0 numerals is a silent statement.	0
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Certainly.	0
+14	0	0	1	2	0	5	0	4	0	0	0	1	1	0	1	0	0	3.0	0	5	  The sky was a beautiful blank canvas in the vastness of the sky.	0
+12	0	0	2	1	1	3	0	2	0	1	0	0	2	0	1	0	0	5.0	0	3	The universe remains silent, devoid of any sound or movement.	0
+3	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	   **Silence.**	0
+3	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  > Nothing.	0
+10	0	0	1	1	0	2	0	1	0	1	1	1	1	1	1	0	0	3.0	1	5	A sentence with 0 numerals is impossible to generate.	0
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	2.0	0	2	There is one bee.	1
+18	0	0	2	2	0	4	1	4	0	0	1	2	2	1	2	0	0	3.0	1	6	The answer to this instruction is 1, which is the numerical value for a single object.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are 10 cats in the yard.	1
+8	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	2.0	0	5	The number 1 is in the room.	1
+10	0	0	1	1	0	3	0	1	0	1	1	0	1	0	1	0	0	3.0	0	6	One cat jumped over the lazy dog's tail.	1
+9	0	0	1	1	0	2	1	2	0	0	1	1	0	0	1	0	0	2.0	0	4	  The number 1 is the start of everything.	1
+8	0	0	1	1	0	2	0	2	0	1	1	0	0	0	1	0	0	2.0	0	3	The number 2 jumped over the moon.	1
+9	0	0	1	1	0	2	0	2	0	1	1	1	0	0	1	0	0	2.0	0	3	The number 1 was printed on the page.	1
+5	0	0	1	0	0	1	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The answer is 1.	1
+10	0	0	1	2	0	3	0	1	0	1	1	0	1	0	1	0	0	3.0	0	4	The sun rose with one bright glimmer of dawn.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	She ate one apple.	1
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	 The first star rose in the east at dawn.	1
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	One dog is running through the woods.	1
+11	1	0	1	1	0	2	1	1	0	1	1	2	0	1	2	0	0	3.0	1	4	Six is a numeral that is commonly used in mathematics.	1
+14	1	0	1	1	2	2	1	1	0	0	1	2	2	1	2	0	0	5.0	1	6	Seven is a numeral that is present in both even and odd numbers.	1
+13	1	0	1	1	0	4	2	1	0	2	1	0	0	1	1	0	0	4.0	1	4	There was only one thing that the boy brought to school today.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	 One dog chased the butterfly.	1
+5	0	0	1	0	0	1	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The solution is 1.	1
+13	1	0	1	1	0	4	1	3	0	1	0	1	0	1	2	0	0	3.0	1	4	The number one is a numeral that appears once in the sequence.	1
+9	0	0	1	1	0	2	0	2	0	0	1	1	1	0	1	0	0	3.0	0	5	The lone number in this list is 1.	1
+14	0	0	1	3	0	4	0	2	0	1	1	0	2	0	1	1	0	3.0	0	6	The sun raised up one small sliver of light in the east sky.	1
+14	0	0	2	2	0	3	0	3	0	1	0	0	3	0	1	0	0	2.0	0	10	The sky turned into a deep, dark blue on the cloudy day.	1
+12	1	0	1	1	0	3	0	3	0	0	1	1	1	0	1	0	0	2.0	0	6	The number one is the most important number in the universe.	1
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The number one is unique.	1
+16	0	0	1	2	0	3	0	3	1	2	2	1	0	2	1	1	0	5.0	2	4	The number 1 is the letter used in English to represent the quantity of one.	1
+4	0	0	1	0	0	0	0	0	0	0	2	1	0	0	1	0	0	1.0	0	2	Nine is one.	1
+5	0	0	1	0	0	1	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The answer is ONE.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumped over the lazy dog.	1
+9	1	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There was only one thing in the box.	1
+10	0	0	1	2	0	3	0	2	0	1	1	0	0	0	1	0	0	3.0	0	3	One dog barked at the man on the street.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	2.0	0	5	There is one cat on the porch.	1
+21	1	0	4	2	1	3	0	2	0	0	2	3	3	0	2	0	0	3.0	0	11	"   The answer is ""One book is better than no book, but more than one is surely overwhelming."""	1
+12	0	0	1	2	0	3	0	3	0	1	1	1	0	0	1	0	0	3.0	0	3	The number 1 is located in the center of this grid.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	She has one cat.	1
+15	0	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	4.0	1	5	The sun rises in the east, signifying the beginning of a new day.	1
+8	0	0	3	0	0	1	1	0	0	0	1	1	1	0	1	0	0	2.0	0	6	 She is **one** year old.	1
+9	0	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	3	   The quick brown fox jumps over lazy dog.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	2.0	0	2	There was one cat.	1
+14	0	0	1	2	0	3	2	2	0	2	1	0	1	1	1	0	0	4.0	1	5	  There was one small fish in the pond who swam to the shore.	1
+6	0	0	2	0	0	1	0	1	0	0	1	1	0	0	1	0	0	2.0	0	3	The answer is **One**.	1
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	1.	1
+7	0	0	1	0	0	2	0	2	0	1	1	0	0	0	1	1	0	2.0	0	3	The sun rose one this morning.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	2.0	0	2	There is one tree.	1
+9	1	0	1	1	0	2	0	2	0	1	1	0	0	0	1	0	0	2.0	0	4	The number one sits happily atop a hill.	1
+12	0	0	3	0	0	3	0	2	0	0	0	3	1	0	2	0	0	2.0	0	8	The answer would be 'The number one is unique'.	1
+9	0	0	1	1	0	2	0	2	0	1	1	0	1	0	1	0	0	2.0	0	4	The number 1 danced across the empty sky.	1
+10	1	0	1	1	0	2	0	2	0	2	1	0	0	0	1	0	0	2.0	0	5	The number 1 appears once in the given context.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	2.0	0	2	There is one horse.	1
+9	0	0	1	1	0	3	0	1	0	1	1	0	1	0	1	0	0	2.0	0	5	One bird soared above the ancient oak tree.	1
+8	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The answer to the instruction is 1.	1
+9	2	0	1	0	0	1	1	0	0	0	2	2	0	1	2	0	0	2.0	1	3	12 is two numbers that are close together.	2
+10	1	0	1	1	1	2	0	1	0	0	3	0	0	0	1	0	0	4.0	0	5	The numbers 1 and 2 together sum to 3.	2
+12	0	0	1	1	1	3	0	1	0	0	2	1	1	0	1	0	0	3.0	0	6	Thirty and four is a good combination for today's weather.	2
+11	0	0	1	0	1	2	0	2	0	2	3	0	0	0	1	1	1	4.0	1	5	The number 8 and 4 combined form the number 12.	2
+7	0	0	1	0	1	1	0	1	0	0	2	1	0	0	1	0	0	2.0	0	2	The answer is 9 and 8.	2
+10	0	0	1	1	1	2	0	1	0	0	2	1	1	0	1	0	0	3.0	0	6	Forty and two is a common sum in mathematics.	2
+11	0	0	1	2	1	2	0	2	0	1	2	0	0	0	1	0	0	3.0	0	5	The sun set in the sky with 8 and 3.	2
+17	0	0	3	2	1	5	0	1	0	0	2	1	2	0	1	0	0	5.0	0	6	Forty-five is a common value for many things, like ages or sales figures.	2
+18	1	0	2	2	0	4	0	4	0	2	1	0	2	1	1	1	0	4.0	1	6	The two birds soared together, filling the sky with the vibrant hues of a new dawn.	2
+12	2	0	2	1	0	3	1	1	0	1	1	0	0	0	0	0	0	2.0	0	9	There are two birds singin' in the trees right now.	2
+13	0	0	4	0	0	2	0	1	1	0	4	1	0	0	1	0	0	2.0	0	8	Forty-two, the weather is forty-two degrees Fahrenheit.	2
+10	0	0	1	0	2	2	0	1	0	1	1	0	2	0	1	1	0	4.0	0	5	The number 10 has both positive and negative pairs.	2
+9	0	0	1	1	0	2	1	1	0	2	1	0	0	1	0	0	0	4.0	1	3	There are 2 ducks running in the park.	2
+15	1	0	1	2	1	4	0	4	0	0	1	1	0	0	1	0	0	3.0	0	6	A number and a number are both 2 in the context of this task.	2
+13	1	0	1	1	1	2	1	1	0	1	3	1	0	0	2	0	1	4.0	1	7	A number pair that adds up to 10 is 5 and 5.	2
+13	1	0	2	3	0	2	0	1	0	0	1	1	2	0	1	0	0	3.0	0	7	In the realm of numerical magnitudes, two is more than enough.	2
+13	0	0	1	2	0	3	0	1	0	1	2	2	1	0	1	0	0	3.0	0	4	The number 21 can be expressed as two digits in different orders.	2
+7	0	0	1	0	1	1	0	1	0	0	2	1	0	0	1	0	0	2.0	0	2	The answer is 5 and 8.	2
+7	1	0	1	0	0	1	1	0	0	2	1	0	0	1	0	0	0	3.0	1	2	There are 12 birds flying south.	2
+10	0	0	1	1	1	2	1	1	0	1	2	0	0	0	0	0	0	4.0	0	4	There are 13 and 20 boys in the room.	2
+22	1	0	3	1	0	4	1	1	0	1	6	2	0	1	2	1	0	4.0	1	6	Forty-five minutes is twice the time of fifteen minutes, meaning it's 2 * 15 = 30 minutes.	2
+12	0	0	3	2	0	2	0	1	0	1	2	1	0	0	1	0	0	2.0	0	5	"The number 12 is written in words as ""twelve""."	2
+16	1	1	2	1	1	1	1	2	0	1	3	1	1	1	2	0	0	3.0	1	6	Nine and two are the same number, as they both add up to 11.	2
+11	1	0	1	2	0	2	0	1	0	1	2	1	0	0	1	0	0	2.0	0	4	The number 12 is often written in sentences as twelve.	2
+5	0	0	0	0	0	1	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	The number 12 is generated	2
+9	0	0	1	0	1	1	0	1	0	2	3	0	0	0	1	1	1	3.0	1	5	The number 5 and 2 combined make 7.	2
+14	0	0	2	2	0	3	1	2	0	2	1	1	0	1	0	0	0	4.0	1	4	In the morning, there will be 4 birds flying around the lake.	2
+4	0	0	1	0	1	0	0	0	0	0	2	0	0	0	0	0	0	2.0	0	2	 12 and 34.	2
+12	1	0	1	0	1	1	0	1	0	2	3	1	0	1	1	1	0	4.0	1	5	The numbers 5 and 6 are added together to get 11.	2
+15	0	0	3	1	1	1	1	1	0	1	5	1	0	1	2	0	0	4.0	1	4	Forty-five is the numeral that comes between thirty-five and fifty.	2
+8	0	0	1	0	1	1	0	1	0	0	2	1	1	0	1	0	0	4.0	0	5	The numbers 5 and 7 are equal.	2
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	1	0	0	0	3.0	1	3	A number sequence followed by the number 2.	2
+12	0	1	1	1	0	2	0	2	0	3	1	0	0	2	2	0	0	3.0	2	6	The light faded to 2 as the rain began to fall.	2
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	2	The sun set in two o'clock.	2
+14	0	0	2	1	0	3	1	1	0	2	2	0	1	1	1	1	0	3.0	1	5	Twenty-three people went to the store to buy their favorite snacks.	2
+13	0	0	2	1	0	3	0	3	0	2	1	0	1	1	1	2	0	4.0	1	3	The clock struck 12, causing an unexpected delay in the meeting.	2
+13	0	0	1	1	1	3	0	3	0	1	3	0	0	0	1	0	0	3.0	0	6	The number 23 and the number 45 intersect in the number 68.	2
+10	0	0	1	1	0	3	0	2	0	0	1	1	1	0	1	0	0	2.0	0	5	The number 24 is a significant time in history.	2
+9	1	0	1	0	1	1	0	1	0	0	3	0	1	0	1	0	0	3.0	0	5	The number 24 and 5 together equal 29.	2
+6	0	0	1	0	1	0	0	0	0	1	3	0	0	0	1	1	0	3.0	0	3	 2 and 2 make 4.	2
+7	0	0	1	0	1	0	0	0	0	0	3	1	1	0	1	0	0	3.0	0	4	Thirty and five are equal 8.	2
+9	0	0	1	1	0	3	1	1	0	1	1	0	0	0	0	0	0	2.0	0	6	There are 10 birds in the sky today.	2
+14	0	0	1	2	1	5	0	2	0	0	1	1	1	0	1	0	0	4.0	0	11	The number of birds and cats in the forest last weekend was 20.	2
+6	0	0	1	0	1	0	0	0	0	1	3	0	0	0	1	0	0	3.0	0	3	10 and 10 make 20.	2
+18	1	0	2	2	1	2	1	1	0	1	5	1	1	1	2	1	0	6.0	1	4	Ten and eight make twelve, the sum of two numerals that are both greater than ten.	2
+10	1	0	1	1	1	1	0	0	0	0	2	1	2	0	1	0	0	3.0	0	4	10 and 15 are close together in numerical order.	2
+11	0	0	1	0	1	2	0	2	0	2	3	0	0	0	1	1	1	3.0	1	5	The number 1 and 2 combined make the answer 3.	2
+10	1	0	2	0	1	0	1	0	0	2	3	0	0	0	2	1	0	4.0	0	5	Here you go: 5 and 6 make 11.	2
+15	0	0	1	1	0	4	1	3	0	2	0	0	2	1	1	2	0	4.0	1	4	The sun raised its wings to create a fiery blue circle in the sky.	2
+8	0	0	1	0	1	2	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	The sky is blue and green today.	2
+14	1	0	2	1	0	4	0	1	0	2	2	1	0	1	1	1	0	3.0	1	6	Six people were gathered at the coffee shop, ordering 5 cappuccinos together.	4
+11	0	0	1	2	0	3	0	2	0	1	1	0	1	0	1	0	0	3.0	0	4	A group of four turtles strolled down the muddy path.	4
+11	0	0	1	1	0	2	0	1	0	1	2	2	1	0	1	0	0	2.0	0	4	The number 42 can be generated in 4 different ways.	4
+13	0	0	2	2	0	3	0	2	0	1	1	1	1	0	1	1	0	3.0	0	4	In the future, 379 would have the highest population of humans.	4
+12	0	0	1	1	0	1	1	2	1	1	1	2	1	1	2	0	0	3.0	1	7	Four was the year in which the Great Pyramids were built.	4
+9	1	0	1	1	0	2	0	1	0	2	1	0	0	0	1	0	0	3.0	0	5	The sun set behind 1234 brightly colored stars.	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 1234.	4
+11	0	0	1	1	0	3	0	3	0	1	1	0	1	0	1	1	0	2.0	0	6	The numbers 1234 made a funny sequence on the clock.	4
+8	0	0	1	1	0	2	0	1	0	1	2	0	0	0	1	0	0	2.0	0	3	The year 2023 consists of 366 days.	4
+10	0	0	1	1	0	2	0	2	0	1	2	0	1	0	1	1	0	4.0	0	5	The year 2082 has no less than 4 digits.	4
+11	0	0	1	0	1	2	1	1	0	1	2	2	0	0	2	1	0	3.0	0	4	  The year is 2023 and I have completed 1000 tasks.	4
+41	2	1	2	4	3	8	0	3	0	5	7	4	2	2	2	2	0	7.0	2	9	A number sequence of four distinct digits can be generated by setting a timer for 4 seconds and randomly choosing three digits from 0 to 9, where order does matter and 0000 and 0001 are considered the same number.	4
+15	0	0	1	3	1	3	1	2	0	3	1	0	0	1	1	0	0	4.0	1	5	  A group of four people gathered around the lake and started playing in it.	4
+16	0	0	2	1	0	4	1	3	0	2	2	0	1	1	1	2	0	4.0	1	4	The year 2024 had 107 days, making it the 107th day of that year.	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 3458.	4
+10	0	0	1	1	0	2	0	2	0	1	1	1	1	1	1	0	0	3.0	1	4	Nine was the only integer generated in the set.	4
+9	0	0	1	1	0	2	0	2	0	2	1	0	0	0	1	0	0	2.0	0	4	The sun rose with the rising number 4.	4
+16	0	0	2	2	0	4	0	3	0	2	2	0	1	1	1	2	0	4.0	1	9	The clock struck 10, signifying the passing of 10 significant moments since the morning.	4
+24	0	0	5	1	1	4	0	3	0	1	7	1	1	0	1	0	0	4.0	0	8	The number 4 is a perfect square and occurs four times in the sequence 0, 1, 2, 3, 4.	4
+11	3	0	1	0	1	2	0	2	0	1	1	0	0	0	1	0	0	3.0	0	6	The numbers 1234 came up randomly and unexpectedly this afternoon.	4
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	3	The birds sing five at dawn.	4
+11	0	0	2	0	1	1	0	1	0	1	5	0	0	0	2	0	0	3.0	0	6	Six thousand, one hundred and fifty occurred that day.	4
+8	0	0	1	1	0	2	1	1	0	0	1	1	0	0	1	0	0	3.0	0	5	   The year of our birth is 1979.	4
+6	0	0	1	0	0	1	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	The number 4215 is generated.	4
+14	1	0	1	1	0	4	0	2	0	2	1	0	1	1	1	1	0	4.0	1	5	Four people met there last night to celebrate the birth of a child.	4
+17	0	0	2	2	0	5	0	3	0	1	2	2	0	0	2	0	0	4.0	0	5	The year was 2023, four people were killed in a car crash in the countryside.	4
+13	0	0	1	2	0	5	1	2	0	1	1	0	0	0	1	0	0	3.0	0	9	The sun set with the number four colors in our sky today.	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 9876..	4
+20	1	0	5	2	1	2	0	2	0	1	6	0	0	0	1	0	0	4.0	0	9	The five birds flew overhead in an order of 1, 2, 3, 4, and 5.	4
+23	1	0	6	1	1	4	0	3	0	2	5	0	0	1	2	1	0	4.0	1	10	"The numbers 1, 2, 3, and 4 together create the sentence ""Four friends met at the store""."	4
+10	0	0	1	1	0	3	0	2	0	1	2	0	0	0	1	1	0	2.0	0	5	The year 2024 has 31 days in a month.	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 2345.	4
+17	0	1	1	1	0	4	1	3	0	0	2	2	2	1	2	0	0	3.0	1	5	The number 4012 is a significant date because it is a palindrome with 4 consecutive digits.	4
+12	0	0	2	0	0	3	1	2	0	2	1	0	1	0	2	1	1	4.0	1	7	The day the dinosaurs went extinct, it rained 4244 birds.	4
+5	0	0	1	0	0	1	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The answer is 2345.	4
+17	0	0	4	1	1	2	0	1	0	0	5	1	2	0	1	0	0	3.0	0	7	A sequence of four consecutive natural numbers is 1, 2, 3, and 4.	4
+5	0	0	1	0	0	1	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The answer is 4213.	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	1234.	4
+15	0	0	2	2	0	3	0	4	0	1	2	0	1	0	1	0	0	4.0	0	4	The numerals 1234 gathered beneath the tree, a perfect tally of a thousand.	4
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go: The year was 2023 and 5 was the numerical value of the word “fire”.	4
+13	0	0	1	2	0	4	0	3	0	1	1	0	1	0	1	0	0	2.0	0	8	The sun rose with the bright number 5 in the sky today.	4
+20	0	0	2	1	0	6	0	3	0	4	1	0	3	3	1	2	0	5.0	3	7	The four elephants went exploring the forest last year, discovering a hidden treasure chest filled with valuable artifacts.	4
+12	0	1	1	0	0	3	1	2	0	1	1	1	1	1	2	1	0	3.0	1	4	The sky was a clear night with four fireflies illuminating it.	4
+17	1	0	2	2	0	4	1	3	0	2	1	0	1	1	1	1	0	3.0	1	6	The number four jumped happily over the moon, leaving a fiery trail in its wake.	4
+9	0	0	1	1	0	2	0	2	0	0	2	1	0	0	1	0	0	2.0	0	4	The year 2024 is a leap of 4.	4
+8	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The answer to this instruction is 1234.	4
+5	0	0	1	0	0	1	0	0	0	0	1	1	1	0	1	0	0	2.0	0	2	Four people were present.	4
+7	0	0	1	0	0	0	0	0	0	2	2	1	0	1	1	0	0	2.0	1	2	Three four were chosen to play.	4
+19	1	0	1	3	0	5	0	3	0	1	2	1	2	0	1	0	0	4.0	0	6	The number 4321 is a widely recognized sequence of four consecutive numbers in various parts of the world.	4
+20	0	0	6	2	1	2	0	1	0	2	6	0	0	0	1	0	0	4.0	0	9	The number sequence began with 4, continued with 5, 6, 7, 8, and 9.	4
+5	0	0	1	0	0	1	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The answer is 23456.	6
+15	1	0	1	1	1	4	0	1	0	2	1	1	1	2	1	1	0	5.0	2	5	Six is a numeral commonly used in many cultures to denote time and dates.	6
+7	0	0	1	1	0	2	0	0	0	1	2	0	0	0	1	0	0	2.0	0	2	  Forty five birds sang at dusk.	6
+11	0	0	1	2	0	2	0	1	0	1	2	2	0	0	1	0	0	3.0	0	4	The number 6 can be written as 6 in numerals.	6
+16	0	0	1	4	0	5	0	2	0	0	1	1	2	0	1	0	0	3.0	0	6	The number sequence 123456 is a sequence of numerals in order from lowest to greatest.	6
+12	0	0	1	0	1	3	0	2	0	1	2	1	1	0	1	1	0	2.0	0	7	The number 201853 generated 6 digits and is a common combination.	6
+14	0	0	1	1	0	4	2	2	0	1	1	1	1	1	2	1	0	3.0	1	5	Six o'clock is the hour at which the sun reaches its highest altitude.	6
+8	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	Six friends gathered at the park yesterday.	6
+8	0	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	4	The sun set with 6 colorful hues.	6
+15	0	0	1	2	0	4	0	3	0	2	1	0	1	1	1	1	0	3.0	1	5	A group of 6 friends gathered on the beach to celebrate a beautiful sunset.	6
+19	0	0	6	1	0	3	0	1	0	1	7	0	0	0	1	1	0	3.0	0	15	The clock has 5, 2, 4, 6, 1, 3 numerals at 10 a.m.	6
+21	0	0	2	3	0	5	0	4	0	2	1	0	4	1	1	1	0	4.0	1	10	The sun rose with the remarkable number of six red letters, indicating a clear start to a new day.	6
+10	0	0	1	2	0	3	0	1	0	1	1	0	1	0	1	0	0	3.0	0	4	The sun rose with six golden beams of light.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  **123456**	6
+14	0	0	2	1	0	3	1	3	0	2	1	0	1	1	2	1	0	5.0	1	4	The clock struck 7, a beautiful chime that echoed throughout the city.	6
+15	0	0	2	2	0	4	0	2	0	2	1	0	2	1	1	1	0	4.0	1	5	Six dogs barked at the sunset, creating an impressive display of pure joy.	6
+20	0	0	5	2	1	3	0	2	0	1	6	0	0	0	1	0	0	5.0	0	9	The sun set with the sequence of five digits 2, 4, 1, 5, and 6.	6
+10	1	0	1	2	0	2	0	2	0	1	1	0	0	0	1	0	0	2.0	0	6	The sun sets at precisely 7:02 in the afternoon.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 421536.	6
+9	0	0	1	1	0	2	0	1	0	1	2	1	0	0	1	0	0	2.0	0	3	The number 547213 is generated with 6 numerals.	6
+10	1	0	1	2	0	3	0	1	0	1	1	0	0	0	1	0	0	3.0	0	4	Seven birds sing together in a symphony of melody.	6
+22	0	0	3	3	1	7	0	1	0	3	3	0	1	2	1	1	0	6.0	2	5	The sun rises at 10 a.m., setting at 4 p.m., indicating 4 numeral hour intervals between sunrise and sunset.	6
+11	0	0	1	2	0	3	0	1	0	1	1	0	2	0	1	0	0	3.0	0	4	The sun emerged with six bright rays of golden light.	6
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	4	  The clock struck twelve precisely at midnight.	6
+14	0	0	1	4	0	3	0	2	0	1	2	1	0	0	1	0	0	5.0	0	9	A number in the range of 1 to 10 was chosen at random.	6
+14	0	0	1	2	0	4	0	2	0	0	1	2	2	0	1	0	0	3.0	0	4	An interesting number series would be 123456 with an odd number of numerals.	6
+17	0	0	2	2	0	5	1	2	0	3	0	0	1	1	1	1	0	4.0	1	9	A crowd of people gathered to celebrate their victory after the long-awaited game win.	6
+12	0	0	1	1	0	3	0	3	0	0	1	1	2	0	1	0	0	2.0	0	5	The year 2023 is the 6th year in a new century.	6
+11	0	0	1	1	0	4	0	2	0	1	2	0	0	0	1	0	0	2.0	0	6	The number 6,897 jumped over the moon 6 times today.	6
+16	0	0	2	2	0	4	0	2	0	4	1	0	1	1	1	1	0	3.0	1	6	Six hungry ants scurried across the field, collecting fallen seeds for the coming winter.	6
+13	0	0	1	3	0	3	0	2	0	1	1	0	2	0	1	0	0	3.0	0	9	  The birds flew in formation of 6 on the majestic flightless island.	6
+18	0	0	3	3	0	2	2	1	0	2	3	0	2	1	0	1	0	5.0	1	3	In the bustling city, there were sixty eager participants, numbering themselves from one to sixty.	6
+14	0	0	2	1	0	3	0	3	0	0	0	2	3	0	1	0	0	3.0	0	10	The sixth hour of that day will be a bright, sunny afternoon.	6
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  > The first ten birds arrived, their feathers glistening in the morning sunlit sky.	6
+5	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Five sevens make eighty.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  **123456**	6
+24	0	0	6	1	1	3	0	1	0	1	7	2	2	0	1	0	1	4.0	1	11	A number sequence consisting of six consecutive natural numbers would be 1, 2, 3, 4, 5, and 6.	6
+8	0	0	1	0	0	2	0	1	0	1	1	0	2	0	1	0	0	2.0	0	3	The quick brown fox jumped 6 times.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  20478.	6
+18	0	0	5	1	0	2	0	1	0	0	8	1	0	0	1	0	0	4.0	0	12	Nine thousand, six-seven hundred, forty-three is a sentence with 6 numerals.	6
+16	0	0	6	0	1	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	11	The numbers are 12, 34, 56, 78, 90, and 102.	6
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  > It will be raining in a solid six-pack tomorrow.	6
+10	0	0	1	2	0	3	1	1	0	0	1	1	0	0	1	0	0	2.0	0	5	The number 6 is in my bag of toys.	6
+24	3	0	2	3	0	3	2	2	0	2	3	3	1	1	2	0	0	4.0	1	8	The numbers are all in the range of one through six, therefore there is only one possible sentence that could be generated.	6
+16	0	0	2	2	0	5	1	2	0	2	2	0	0	1	1	0	0	5.0	1	6	  The clock struck 10:00 a.m., a number written on its face with six digits.	6
+14	0	0	2	1	0	4	0	3	0	2	1	0	1	1	1	2	0	3.0	1	7	The moon cast 5 shadows around the lake, creating a mesmerizing sight.	6
+7	0	0	1	0	0	2	0	1	0	1	2	0	0	0	1	1	0	2.0	0	2	The year 2023 has 69 days.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 248957.	6
+7	0	0	1	0	0	2	0	1	0	1	2	0	0	0	1	1	0	2.0	0	2	The year 2023 has 686 days.	6
+37	0	0	8	4	1	5	1	3	0	2	10	1	2	1	1	1	0	7.0	1	16	Twenty-two, seventeen, nineteen, sixteen, twenty-one, and nineteen is a sequence of six numerals in ascending order that follows a pattern of two more than the previous number.	6

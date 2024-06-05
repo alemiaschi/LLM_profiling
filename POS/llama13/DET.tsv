@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	DET_constraint
+6	1	0	2	0	0	0	1	0	0	1	0	0	0	1	1	0	0	2.0	1	2	OK, here you go: 	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The elephant danced happily. 	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred. 	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the windowsill.	0
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Blackberries are blue. 	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The yellow car drove quickly along the empty road.	0
+4	1	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Birds chirp loudly.	0
+4	1	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Cats purred silently. 	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the windowsill.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The man sang loudly. 	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	   The boy threw the ball.	0
+26	0	0	2	6	0	7	0	6	1	3	0	0	1	1	1	0	1	5.0	2	11	Sitting in the park on a warm spring day, Sarah gazed at the ducks waddling in the pond without a care in the world. 	0
+15	0	0	1	3	0	4	0	3	0	1	0	0	3	0	1	0	0	2.0	0	9	The big blue car drives down the street at noon with a loud honk.	0
+9	1	0	2	0	0	1	1	1	0	1	0	1	0	1	1	0	0	3.0	1	3	OK, below is the sentence you requested. Here you go!  I went to the park.	0
+7	0	0	1	0	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	2	The cat Purry drank the milk. 	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat meowed softly.	0
+6	1	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	A golden giraffe laughed joyfully.	0
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	The black cat purred contentedly on my lap.	0
+17	1	0	2	2	0	4	0	4	0	2	0	0	2	1	1	1	0	3.0	1	7	The sun rose high in the blue sky, casting a warm glow over the landscape. 	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly over the horizon.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The yellow dog ran quickly down the street.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A boy ran to the store. 	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred serenely.	0
+34	0	0	4	6	1	6	3	5	0	4	0	1	4	0	4	0	0	4.0	0	20	She walked on the grass, the sky above her was painted in a warm color, the trees stood out with their vibrant greens, and a soft white cloud floated by. 	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped on the window.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The blue car drove past the house.	0
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The big, fluffy cat purred contentedly on my lap.	0
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	No sentence.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Rose runs. 	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	 No determiners. Just like you requested!	0
+8	0	0	2	0	0	1	0	1	1	1	0	0	2	0	1	1	0	2.0	0	5	Sarah bought the large, colorful flowers. 	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dogs ran swiftly over the grass.	0
+9	0	0	1	2	0	4	0	1	0	1	0	0	0	0	1	1	0	2.0	0	6	Smokey sang a tune about witches in hats. 	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat ran.	0
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred.	0
+4	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	2	Apple is red.	0
+28	2	0	2	4	1	4	1	4	4	3	2	1	0	1	3	2	0	4.0	1	15	Rats infested the sewers under Berlin after the bombing of Dresden, but they were all exterminated when the Allies liberated the city on 3 October, 1949	0
+8	1	0	1	1	0	2	0	0	1	1	1	0	0	0	1	1	0	2.0	0	5	Sarah drinks tea daily with three sugars. 	0
+19	2	1	3	1	0	4	1	4	0	0	0	2	1	0	1	0	1	4.0	1	5	Because this is the only instruction, here is the response - a sentence with no determiners whatsoever. It's a sentence about eating pizza	0
+5	0	0	0	2	0	1	0	0	1	1	0	0	0	0	1	0	0	2.0	0	3	Willy woke up at midnight	0
+6	1	0	1	0	0	1	2	0	0	1	0	0	0	1	1	0	0	3.0	1	2	My pleasure, here you go	0
+10	0	0	1	0	0	3	0	0	0	1	0	0	5	0	1	0	0	3.0	0	4	Black cat black cat red red red car chased. 	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog ran joyfully. 	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dogs raced frantically around the park.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	A cat sat silently.	0
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap	1
+3	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	  The delicious brownies	1
+7	1	0	0	0	0	2	1	0	0	1	1	0	1	0	1	1	0	2.0	0	5	 She ate one hot fudge sundae alone	1
+24	0	0	4	2	0	4	2	1	3	2	1	0	4	1	1	1	0	4.0	1	10	 One beautiful sunny day, I decided to take  my beloved dog, Sam, to the dog park in Golden Gate Park. 	1
+7	0	0	1	0	0	2	0	0	0	1	1	0	2	0	1	1	0	2.0	0	2	One delicious cake required many candles. 	1
+8	1	0	0	0	0	1	1	1	0	1	0	2	0	1	1	0	0	2.0	1	3	This book will be hers alone to read	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept under the bed. 	1
+14	1	0	2	1	0	3	0	3	0	0	1	3	0	0	2	0	0	4.0	0	9	The instruction is below: The determiners in the sentence should be one. Write the sentence with one determiners.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap. 	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	  This laptop is old. 	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	  The black cat sat on the soft mat. 	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+17	0	0	2	2	1	3	0	2	0	2	1	0	4	0	1	0	0	3.0	0	8	One bright red apple fell off the tall, leafy tree and landed in the mud.	1
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	  The cold, wet dog sat beneath the windowsill. 	1
+29	1	1	2	4	0	6	4	2	0	4	1	2	2	2	4	0	0	4.0	2	11	This is just one of many sentences I can provide:   Her worn sneakers flopped against the glossy floor as she ran towards the school gate in panic!  I hope you like it! Let me know if there's anything specific you'd like me to help with. 	1
+6	0	0	0	1	0	2	0	2	0	0	0	0	1	0	0	0	0	2.0	0	3	  The delicious cake on the table	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred sweetly on my lap. 	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The cat sat on the mat.	1
+31	1	1	3	3	0	8	2	4	0	4	0	0	4	3	2	2	0	6.0	3	10	The determined little girl slowly walked through the dense forest, collecting berries for her grandmother's birthday cake, while avoiding the dangerous wolves that howled in the distance. 	1
+16	0	0	2	1	1	2	3	2	0	2	0	0	3	0	2	2	0	3.0	0	7	She wore the red hat, but I liked her best in the green one. 	1
+11	0	0	1	2	0	4	1	1	0	1	1	0	0	0	1	1	0	3.0	0	3	   My book about elephants has one photograph on each page.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat sat on the soft cushion.	1
+2	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.0	0	0	 this. 	1
+8	1	0	1	1	0	2	1	0	0	1	1	0	0	0	1	0	0	2.0	0	4	  One cat purred contentedly on my lap. 	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog sat on its blanket.	1
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	 This is the book. 	1
+4	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0	0	1.0	0	2	  One small step. 	1
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog wagged its tail.	1
+22	1	0	1	3	0	6	2	3	0	3	0	0	1	2	1	1	0	4.0	2	9	A determined student sat diligently on the edge of her seat, waiting for her teacher's cue to answer the question	1
+11	0	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	2.0	0	7	The dog chased a red ball underneath a tall tree. 	1
+10	1	0	0	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	 The beautiful bright blue dolphin jumps happily in the waves	1
+10	1	0	2	1	0	2	0	1	0	0	1	1	0	0	0	0	0	3.0	0	3	Okay, here is a sentence with 1 determiner:  This cat is sweet	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	This book is all mine! 	1
+17	0	1	1	2	0	3	2	1	0	3	1	0	2	2	1	1	0	4.0	2	7	The student looked at one bright purple pencil before choosing to color her picture with it. 	1
+8	0	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	   The little cat chased a red mouse. 	1
+10	0	0	1	1	0	3	1	1	0	1	0	0	2	0	1	1	0	2.0	0	5	The small puppy wagged its big tail with excitement. 	1
+17	0	0	4	1	0	5	1	2	0	2	0	0	2	1	1	2	0	3.0	1	6	" ""The beautiful dog chased his tail for hours, enjoying the cool autumn breeze."""	1
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat sat upon a mat with satisfaction. 	1
+5	1	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	1	  One dog ran quickly.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The dog sat eagerly on the red cushion. 	1
+15	0	0	1	3	0	5	0	2	0	1	1	0	2	0	1	0	0	3.0	0	7	One sunflower stood among many others under the warm rays of a summer sun. 	1
+5	0	0	0	0	0	1	1	0	0	1	1	0	1	0	1	1	0	2.0	0	3	She held one small bag	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap. 	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	  The cat is black.	1
+14	0	0	4	1	0	2	0	2	0	0	1	2	2	1	2	0	0	4.0	1	9	"The sentence is: ""One of the balls is bright red."""	1
+8	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will help you with the instruction! The following is a sentence with one determiner	1
+16	0	0	3	1	0	4	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	 The long, golden beach curved along the turquoise bay, creating a majestic view. 	1
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat under the parasol	1
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	 The bright, shiny yellow apple sat on the table. 	2
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go!  Eight tired puppies playfully chased these shiny silver balloons. 	2
+29	2	0	2	3	0	6	3	3	0	4	0	2	4	2	2	2	0	5.0	2	10	The big brown puppy happily wagged its fluffy tail in front of our house, chasing away any lingering gloomy feelings that might be hidden underneath the clouds. 	2
+13	0	0	2	1	0	3	0	2	1	1	0	0	3	0	1	0	0	2.0	0	5	 The small, delicate glass ornament hung from the tall Christmas tree. 	2
+11	1	0	1	1	0	3	0	1	0	1	1	0	2	0	1	0	0	2.0	0	6	  Two tiny terriers trotted tenaciously through the tall timothy trees. 	2
+10	0	0	1	1	0	3	1	1	0	1	1	0	1	0	1	1	0	2.0	0	5	The two dogs wagged their tails with great excitement. 	2
+11	0	0	1	1	0	2	0	2	0	1	0	1	3	0	1	0	0	2.0	0	4	   The big brown car was parked by the tall tree. 	2
+17	1	0	2	2	1	3	2	2	0	1	0	2	1	0	2	0	1	4.0	1	11	The book, which is old and worn, is on the shelf next to its mate	2
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Here you are! Please see below:  The two tired tigers tidied up the tricky toys in their tilted tower.	2
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	  The brown, fluffy cat purred contentedly on my lap.	2
+15	1	0	2	1	0	4	0	2	0	1	0	0	4	0	1	0	0	2.0	0	7	The delicate, elegant porcelain vase stood gracefully on the polished mahogany side table. 	2
+13	0	0	1	1	0	2	0	2	0	1	0	0	6	0	1	0	0	2.0	0	6	  The tall brown old man smiled at the short grey new dog. 	2
+13	0	0	2	1	0	2	0	2	0	1	0	1	4	0	1	0	0	3.0	0	6	 The tall, dark-haired student was sitting in the front row	2
+13	0	0	1	0	0	2	1	2	0	1	2	0	3	0	1	1	0	3.0	0	7	She bought those five red apples, not those four shiny yellow ones	2
+14	0	0	1	2	0	3	0	2	0	1	1	0	4	0	1	0	0	2.0	0	8	  Eighteen ancient silver dollars sat on the dusty shelves in this antique shop.	2
+12	1	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	 The tall, slender man walked quickly down the busy street.	2
+14	0	0	3	1	0	2	0	2	0	1	1	1	3	0	1	0	0	3.0	0	7	   The two slender, creamy-white stallions were tethered at the fence.	2
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The brown, sparkly puppy ran quickly through the field	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	3	 The little black car raced down the street.	2
+12	0	0	5	0	1	1	2	1	0	0	1	1	0	0	1	0	0	2.0	0	4	The two determiners are 'this' and 'those'.	2
+21	0	0	3	2	1	5	0	4	0	1	0	0	5	0	1	0	0	4.0	0	11	" ""The famous yellow car with a new red paint job and the green convertible drove down the street."""	2
+17	0	0	3	1	1	3	0	2	0	1	3	0	3	0	1	1	0	4.0	0	8	The two determiners, one red and one blue, marked separate pathways in the maze. 	2
+11	0	0	1	1	0	2	0	2	0	2	1	0	2	0	1	0	0	2.0	0	4	The two cuddly stuffed rabbits sat on the fluffy pillow. 	2
+13	0	0	3	1	0	2	0	2	0	1	0	1	3	0	1	0	0	2.0	0	4	"  ""These unique yellow apples are sitting on that green table."" "	2
+12	0	0	1	0	0	2	2	2	0	2	1	1	0	2	2	0	0	3.0	2	6	 This is the book that these two children like to read.	2
+15	0	0	2	1	0	3	0	3	0	1	0	1	4	0	2	0	0	2.0	0	7	The response is:  The big red book sat on the small green table.	2
+12	0	0	2	0	0	2	1	1	0	2	0	0	3	1	1	1	0	2.0	1	5	  The slender, tall boy raised his big hand to volunteer. 	2
+10	0	0	1	1	0	2	1	2	0	0	1	1	1	0	1	0	0	3.0	0	5	The two green apples on the table are yours. 	2
+10	1	0	2	0	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	4	The fluffy, white puppy playfully chased its tail.	2
+7	0	0	1	0	0	1	2	1	0	1	0	1	0	1	2	0	0	2.0	1	3	  This is the book you need. 	2
+17	0	0	1	2	1	5	1	3	0	2	1	0	1	0	1	2	0	5.0	0	4	"   Your sentence fulfills the request and provides a good example of a phrase with 2 determiners. Good work!  The sentence ""That big old red car"" contains the determiners ""big"" and ""old."" You wrote a grammatically correct sentence that uses two determiners, meeting the requirements of the task"	2
+10	0	0	1	0	0	2	0	2	0	1	2	0	2	0	1	1	0	2.0	0	4	The two blue dogs chased the three tiny cats.	2
+8	0	0	0	0	0	4	0	1	0	1	0	0	2	0	1	1	0	2.0	0	4	  Those lovely lakes lure lucrative lamprey fishing lines	2
+10	0	0	1	2	0	2	0	2	0	1	1	0	1	0	1	0	0	2.0	0	5	The two cats curled up on the warm cushions. 	2
+12	0	0	1	1	0	3	1	2	0	0	1	1	2	0	1	0	0	3.0	0	7	That is the car with those two beautiful red paint jobs. 	2
+11	2	0	0	0	1	3	1	3	0	1	0	0	0	0	1	1	0	3.0	0	5	This book and that journal both require my attention right now	2
+19	0	1	2	1	0	4	3	2	0	2	0	1	3	1	2	1	0	3.0	1	9	The second determined cat, the prettier one, caught its tail in its mouth before it could escape	2
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	  The big red car drove quickly down the main street.	2
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	 👇  These two little yellow dogs chased after that one brown cat. 🐶���ubble🐱	2
+9	0	0	2	0	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	4	The big, red book caught my eye. 	2
+12	1	0	1	1	0	3	1	1	0	1	1	0	1	0	1	0	0	3.0	0	6	The two adorable puppies sat contentedly on their owner's lap. 	2
+11	1	0	2	1	1	2	0	2	0	0	0	0	2	0	0	0	0	2.0	0	7	 That blue car over there, and these red shoes. 	2
+10	0	0	3	1	0	2	0	3	0	0	0	1	0	0	1	0	0	2.0	0	3	"   ""The some books were on the table."""	2
+11	0	0	1	0	1	3	2	1	0	1	0	0	2	0	1	1	0	3.0	0	5	  My grandmother and your grandmother both possess beautiful antique necklaces. 	2
+11	0	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	5	   The big yellow car sat on the little blue square. 	2
+14	1	0	1	1	0	3	0	0	0	1	2	0	5	0	1	0	0	2.0	0	8	  Three bright blue butterflies flutter quickly by three beautiful big blue butterfly bushes. 	2
+12	1	0	1	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	5	This book and that notebook belong over there on the shelf.	2
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go!  The two determiners sentence is: The big blue car drove quickly down the street	2
+12	0	0	3	0	0	2	0	2	0	1	0	0	4	0	1	1	0	3.0	0	7	  The tall, beautiful brown-haired girl won the race. 	2
+19	2	1	3	1	0	3	2	1	0	3	1	1	1	2	2	2	0	4.0	2	6	With great satisfaction, I will gladly generate a sentence that incorporates two determiners, exactly as requested. Here it is:  The delicious, creamy ice cream sat gracefully on top of the chocolate, velvety cake.	2
+13	0	0	4	0	1	1	0	4	0	0	1	1	1	0	1	0	0	2.0	0	7	The four determiners are the, a, an, and several. 	4
+17	1	0	1	1	1	2	0	2	0	1	0	1	7	0	1	0	0	4.0	0	8	The big red shiny golden ball was bouncing energetically off the white blue and yellow wall.	4
+13	0	0	3	1	0	3	1	1	0	1	0	0	3	0	1	1	0	2.0	0	9	The dog wagged his fluffy, woolly, shaggy tail with joy. 	4
+8	0	0	1	0	0	1	0	1	0	1	0	0	4	0	0	0	0	2.0	0	6	  The shining golden yellow sparkly happy necklace. 	4
+32	4	0	6	3	2	7	1	2	0	2	0	0	5	0	1	1	0	4.0	0	19	With great satisfaction and amazement, I watched that beautifully tall, very old, extremely colorful, and delightfully delicious rainbow-colored umbrella parade float by in the parade. 	4
+20	0	0	4	1	1	5	0	3	0	1	0	1	4	0	1	0	0	4.0	0	12	  The dark, muddy, shining silver, and creamy delicious chocolate cake was the hit of the party.	4
+28	1	0	5	3	2	7	3	2	0	2	0	0	3	1	1	1	0	4.0	1	10	The tall, skinny, blonde, and beautiful man walked confidently down the runway in his designer clothes, impressing everyone with his poise and charisma. 	4
+28	0	0	6	2	1	5	5	3	1	0	1	1	2	0	1	0	0	4.0	0	12	  The six little books on the white shelf in the center back room are Jane's, my, your, his, its, and ours. 	4
+34	0	0	1	2	2	10	1	2	0	2	2	1	11	1	2	2	0	5.0	1	10	  This lovely new yellow red silk tassel scarf with two fringe threads is for the tall slender woman who has big beautiful blue eyes and long blonde hair and wears size 6 pumps. 	4
+23	1	0	0	3	1	5	0	4	0	2	0	0	7	1	1	1	0	4.0	1	10	    The dog with those long fluffy ears and bright blue eyes chased the lazy white cat sitting under that old tree over there	4
+29	1	0	3	2	1	7	0	6	0	2	2	0	5	1	1	1	0	4.0	1	14	The four determined cats, these two curious kittens, and that mischievous ball of fur all chased the single delicious mouse scurrying frantically across the kitchen floor. 	4
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	4
+18	0	0	2	1	0	4	0	4	0	2	1	1	3	0	1	0	1	4.0	1	14	The four determiners used in the following sentence are the: the big brown round red book. 	4
+18	0	0	1	1	0	3	0	2	0	1	1	0	9	0	1	1	0	2.0	0	11	  The big black shiny dog chased two little fluffy white kittens under the old rusty red truck. 	4
+19	1	0	3	0	1	2	0	5	0	1	0	0	6	0	1	1	0	3.0	0	13	  This very old, that lovable, these beautiful, and those fantastic pets all need proper veterinary care	4
+13	1	0	1	1	0	2	1	1	0	1	1	0	4	0	1	0	0	2.0	0	7	The three white kittens purred happily on their silky soft furry blanket. 	4
+12	1	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	5	The big black beautiful old car sat quietly on the hill.	4
+15	1	0	4	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	8	The tall, thin, old, black book swayed gently on the shelf. 	4
+18	2	0	4	1	0	3	1	2	0	1	0	0	4	0	1	0	0	2.0	0	8	   This tired, old, brown, fluffy cat purred softly on my lap all night long. 	4
+19	0	0	1	3	1	6	1	5	0	0	0	1	1	0	1	0	0	4.0	0	16	The book on the desk in the corner with the red cover and the bent spine is mine.	4
+37	2	0	9	2	4	4	0	3	0	2	0	0	11	0	1	0	0	6.0	0	14	The fluffy, bright red, shiny, and big ball bounced energetically on the green, soft, and sunny grass,  but ultimately got stuck in a muddy, messy, and slippery puddle. 	4
+11	0	0	1	0	0	2	1	1	0	1	0	0	5	0	1	1	0	2.0	0	4	 My small yellow happy dog ate a quick brown fox. 	4
+15	1	0	1	1	0	2	0	2	0	1	1	0	6	0	1	0	0	2.0	0	7	The four big brown beautiful shiny sweet horses galloped gracefully through the green grass.	4
+29	2	0	1	4	1	5	1	4	0	1	1	1	8	0	0	1	0	4.0	0	18	  This lovely little green gadget over there with those two cute purple cords and that funny blue button on top will supposedly solve this messy problem of mine. 	4
+16	0	0	3	2	0	3	1	2	0	1	0	1	3	0	1	0	0	2.0	0	7	The big, shiny, sparkly gold necklace was worn by her at the party. 	4
+8	0	0	1	0	0	1	0	1	0	0	0	0	5	0	0	0	0	1.0	0	6	 The small green big blue red car. 	4
+48	3	0	3	7	3	9	2	3	1	6	1	2	8	3	2	1	0	11.0	3	7	With great determination and hope, I will eagerly go to the store and purchase four beautiful blue books that are wonderfully wrapped in green gift paper and filled with fabulous facts about the fascinating flamingos found floating gracefully in the cool, clear waters of Florida. 	4
+15	2	0	4	1	0	1	0	1	0	1	0	0	5	0	1	0	0	2.0	0	8	That blue, shiny, big, round ball looks very attractive over there.	4
+27	1	0	2	3	1	5	0	5	0	1	0	0	9	0	1	1	0	4.0	0	7	 The tall slim dark-haired man in the blue suit over there eats a small green salad with a white plate and a red spoon. 	4
+10	0	0	1	0	0	1	1	1	0	0	0	1	5	0	1	0	0	2.0	0	6	That big tall black green shiny briefcase is yours.	4
+10	0	0	3	0	1	4	0	0	0	0	0	0	2	0	0	0	0	2.0	0	8	 articles, possessive adjectives, demonstratives or interrogative determiners. Write the sentence only (no explanations or examples are required), and be sure it accurately follows the given requirements:    Hint: To get started, you can use some nouns and modify them with determiners, or add some adjectives and adverbs to create more complex descriptions. 	4
+35	0	0	3	5	1	10	5	4	0	2	0	1	4	1	2	1	0	5.0	1	16	    The tall black leather luxury car, which is hers but she loaned it to her sister, parked on the other side of the street, in front of the tall glass office building	4
+19	1	0	4	2	1	3	0	3	0	1	0	0	4	0	1	0	0	4.0	0	9	  The tall, big, old, and green tree stood proudly in the middle of the garden.	4
+11	0	0	1	1	0	2	0	2	0	0	1	0	4	0	0	0	0	2.0	0	5	The three big red shiny balls on the yellow table. 	4
+13	0	0	1	1	0	5	0	2	0	1	0	0	3	0	1	0	0	3.0	0	6	The tall brown leather briefcase rested near the golden oak office desk. 	4
+17	1	0	4	1	1	2	1	1	0	1	0	0	5	0	1	0	0	4.0	0	9	The tall, beautiful, sparkly, and blue necklace glistened attractively on her slender neck.	4
+14	2	0	1	1	0	2	0	2	0	1	1	0	4	0	1	0	0	3.0	0	6	The four bright yellow shiny glittery balls hung high up on the wall. 	4
+16	1	0	1	2	0	3	0	3	0	1	1	0	4	0	1	0	0	3.0	0	11	The four adorable kittens in the pretty white basket by the cozy window delightfully purred. 	4
+39	1	0	3	5	1	7	2	5	0	3	0	2	10	1	3	0	1	5.0	2	17	  The tall, long red pen with which the short young brown-haired girl in the yellow summer dress was writing sat on the desk among numerous other pencils and pens, all of which were neatly arranged	4
+13	0	0	1	2	0	4	1	1	0	1	1	0	2	0	1	0	0	4.0	0	6	There were four little brown bags with silver buckles on the table.	4
+18	0	0	4	2	1	3	0	3	0	1	0	0	4	0	1	0	0	4.0	0	9	The tall, blue, old, and wooden cabinet stood in the corner of the room.	4
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! Below is the sentence with 4 determiners you requested:   The small green car with a round body and a curved roof that is parked on the corner over there is yours.	4
+25	0	0	1	3	0	5	0	4	0	2	1	0	9	2	0	0	0	6.0	2	7	The two big old red shiny cars driven by those tall short blonde haired girls with the long yellow coats parked on the hill. 	4
+21	0	0	1	3	0	4	0	4	0	1	0	0	8	0	1	0	0	3.0	0	10	The fluffy blue kitten sat on the soft velvety cushion in the cozy little basket under the warm sunny window. 	4
+15	0	0	4	0	1	1	0	2	2	1	0	0	4	0	1	1	0	4.0	0	8	The tall, dark, handsome, and wealthy Mr. Smith entered the room.	4
+12	1	0	1	2	0	2	0	2	0	0	1	0	3	0	0	0	0	2.0	0	5	The three small shiny blue cars over there in the backyard. 	4
+16	1	0	4	1	0	2	0	2	0	1	0	0	5	0	1	0	0	2.0	0	9	The big, bright, colorful, shiny red ball bounced quickly down the street.	4
+14	1	0	1	1	0	3	0	1	0	1	1	1	4	0	1	0	0	3.0	0	6	 The big yellow red giant car with four silver wheels is parked outside. 	4
+15	0	0	1	1	0	3	0	3	0	1	0	0	6	0	1	1	0	2.0	0	9	The big yellow dog chased the little black cat through the green shady forest. 	4
+17	0	0	1	1	0	3	0	2	0	1	0	0	9	0	1	0	0	2.0	0	7	The big red old happy yellow toy car sat under the green blue fluffy shady tree. 	4
+25	1	0	2	2	1	4	0	2	0	2	2	0	9	1	1	0	0	5.0	1	9	The five tall brown beige black red green leather shoes sat on the shelf, proudly displayed with three purple and yellow glittering accessories.	6
+29	1	0	10	1	0	3	1	1	0	1	0	0	11	0	1	0	0	2.0	0	13	 The tall, golden, sparkling, sparkly, shimmering, shiny diamond necklace glimmered brightly on her slender, delicate, long, thin, graceful neck.	6
+6	0	0	1	0	0	1	0	1	0	0	1	1	1	0	1	0	0	2.0	0	3	The six determined sentence is: The big purple old book with red highlighted paragraphs on yellowed paper. 	6
+41	1	0	4	5	1	11	0	5	0	3	2	0	9	2	1	0	0	7.0	2	14	This big black old oblong leather briefcase, full of those green new five-hundred-dollar bills, sat there shining on the oval glass desk in the center of the office room filled with white walls and windows	6
+15	0	0	3	1	0	3	1	4	0	3	0	0	0	1	1	2	0	3.0	1	5	With this instruction, I generate the following sentence, meeting all the specifications:   Six happy pink fluffy cute little kittens sat upon seven comfortable silky soft sofas in my sister's pretty blue living room.	6
+20	1	0	1	3	0	4	0	1	0	1	2	0	7	0	1	0	0	3.0	0	5	   The small happy yellow kitten with white fur softly purrs under five fluffy pillows beside one big orange cat. 	6
+24	1	0	8	1	0	2	1	1	0	1	1	0	8	0	1	0	0	2.0	0	12	The fluffy, cuddly, soft, adorable, cute, white kitten played happily with its three, tiny, colorful balls.	6
+24	1	0	7	1	0	3	1	1	0	1	0	0	9	0	1	0	0	2.0	0	11	This big, beautiful, shiny, expensive, rare silver vase sits gracefully on its tall, slender, glittering brass stand. 	6
+31	1	0	3	2	1	9	0	2	0	1	3	0	9	0	1	0	0	4.0	0	17	The tall red old antique wooden table with three round glass vases, four small bronze statues, and seven thin green books stood proudly against the light blue sky.	6
+14	0	0	5	0	1	1	0	1	0	0	0	0	6	0	0	0	0	3.0	0	13	  The tall, white, shiny, round, big, and delicious cupcake	6
+27	1	0	6	1	1	3	4	1	0	1	0	1	8	0	2	1	1	4.0	1	15	  The dark, short, old rusty, red, round silver, and small watch that my grandfather gave me is very precious to me. 	6
+46	2	0	6	6	1	9	0	2	0	2	6	0	12	0	1	0	0	7.0	0	12	The five little brown bears climbed quietly up the steep slippery slope, past six tall twisted trees, over three big round boulders, next to four little furry foxes, behind seven large snow-capped mountains, and into twelve tiny fluffy clouds	6
+11	0	0	5	0	0	0	4	2	0	0	0	0	0	0	1	0	0	3.0	0	6	  the, some, those, which, what, whom	6
+13	4	0	1	1	0	3	0	0	0	2	1	0	1	0	1	0	0	2.0	0	7	Six delighted diminutive dogs danced deftly daily downtown daintily in designer dresses.	6
+24	2	0	1	1	0	5	1	2	0	1	0	0	11	0	1	1	0	2.0	0	12	The big brown furry cute puppy sweet sweet lovable doggy wags its wiggly tail happily outside in the bright beautiful sunshine warm weather. 	6
+25	0	0	18	0	1	1	0	0	0	0	1	0	4	0	0	0	0	2.0	0	21	" ""three"", ""silver"", ""tall"", ""thin"", ""pretty"", and ""green""."	6
+25	3	0	1	2	0	5	2	2	0	3	1	2	3	0	2	0	1	4.0	1	13	  The other five cookies that these big beautiful brownies were bought with yesterday are now quickly disappearing inside my cousin's quickly moving mouth. 	6
+18	0	0	6	0	0	6	0	4	0	0	0	0	2	0	0	0	0	2.0	0	15	   This book, those books, some copies, any pages, less time, little money.	6
+22	0	0	7	2	0	3	0	3	0	1	0	0	6	0	0	0	0	2.0	0	14	The large, long, colorful, old, funny-looking, delicious apple in the basket on the table.	6
+16	0	0	2	1	0	2	3	1	0	2	1	2	1	2	2	2	0	5.0	2	6	I am pleased to provide you with the sentence containing 6 determiners, which is:  The six small beautiful thin green blue-covered round-cornered yellow books. 	6
+27	1	0	1	3	0	5	0	4	1	1	0	0	11	0	1	0	0	3.0	0	8	The tired old red big bold round shiny silver Ferrari sat proudly on the green grass in the middle of the beautiful big yellow sunny day.	6
+26	0	0	1	4	0	5	0	2	0	1	3	0	10	0	1	0	0	4.0	0	10	Five tall green plants stood near three shorter black tables underneath two large red umbrellas on the shiny golden roof of the old yellow building. 	6
+19	0	0	1	2	0	4	0	2	0	1	1	0	8	0	1	0	0	3.0	0	8	The six bright red big round bumpy juicy strawberries sat on top of the short green plastic container.	6
+29	2	0	10	2	0	3	1	2	0	2	0	0	7	0	1	0	0	3.0	0	14	  The **tall, beautiful, talented, smart, kind, sweet** girl walked gracefully down the street in her **stylish, stylishly dressed** fashion	6
+22	0	0	6	1	0	3	1	2	0	2	0	1	6	0	1	1	0	3.0	0	14	The tall, bright, shiny, round, sparkling, delicious-looking cake on the table is calling your name	6
+12	2	0	1	0	0	2	0	0	0	2	2	0	2	1	1	1	0	3.0	1	4	Six stylish storks steadfastly staggered to stack six snowy stools slyly. 	6
+16	0	0	1	1	0	3	0	2	0	1	0	0	8	0	1	0	0	4.0	0	8	 The big red round yellow shiny expensive fancy cupcake sat on the green wooden table.	6
+25	0	0	1	3	0	5	0	4	0	1	0	0	11	0	1	0	0	3.0	0	11	The big yellow round juicy fruit hung from the tall green tree with the sweet red shiny cherries under the old blue wooden bench. 	6
+26	0	0	1	6	0	7	2	3	0	1	0	1	5	0	1	0	0	5.0	0	20	The big shiny green ball on top of the small table in the corner of my room with yellow dots on its peel is bouncing. 	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	6
+29	0	0	9	1	0	5	0	4	0	1	1	0	8	0	1	1	0	3.0	0	17	The six determiners, the big, beautiful, bright, clear, shiny, white diamond ring, adorned the elegant, graceful finger of the princess.	6
+20	1	0	3	1	0	5	0	2	0	3	0	0	5	0	1	2	1	4.0	1	8	The sixth delightful dog, wearing worn winter wrappers, playfully perused purple petals under the pale yellow porch.	6
+40	3	0	2	6	1	7	2	6	0	2	0	2	9	0	3	0	0	4.0	0	14	The big old large beautiful bright yellow book on the table over there has been read many times by all the kids in the class, and it still looks really cool with its red star on the cover.	6
+29	2	0	7	2	0	5	1	2	0	1	1	0	8	0	1	1	0	3.0	0	16	  The extremely tall, dark-colored, very old, beautiful, antique, wooden clock on the mantle struck three o'clock with its loud brass bell.	6
+32	1	0	1	5	0	8	0	6	0	2	0	0	9	0	1	0	0	4.0	0	25	 This beautiful big brown puppy sat under this white wicker laundry basket on those red rough rocks in the middle of this shaded grassy area over by that yellow wooden house.	6
+35	1	0	4	4	0	7	1	5	0	4	1	0	8	1	3	0	0	4.0	1	19	"The six determiners in the following sentence allude to different characteristics of the noun they modify: ""That tired old lazy yellow furry little cat purred contentedly on the warm soft cushion."""	6
+41	1	0	3	8	3	10	0	4	0	1	6	0	5	0	1	0	0	6.0	0	10	The book, one of three red ones, sat on the corner of the shelf behind three green books and four blue books but in front of ten black books and next to a stack of four yellow paperbacks. 	6
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go!  The big green giant blue shiny round juicy apple is yours	6
+39	2	0	5	5	0	9	0	7	0	2	1	0	8	0	1	1	1	4.0	1	28	The delicate yellow diamond with the silver claw, on the shimmering emerald table with the three glass vases, under the crystal light, using the white velvet cloak, stood gracefully next to the gilded chair.	6
+35	3	0	3	3	0	8	2	3	0	3	0	0	10	2	2	1	0	6.0	2	8	 that particular red-speckled yellow hen over yonder there on those shiny golden feathers, whose proud, curly comb glitters impressively when the rising sun casts early morning golden rays onto her sparkling plumes. 	6
+21	0	0	1	3	0	5	0	4	0	1	4	0	2	0	1	0	0	3.0	0	16	The six cats sat on those four mice's beds in this one red house with these eight fluffy pillows. 	6
+23	0	0	5	2	1	3	1	3	0	0	1	1	6	0	1	0	0	4.0	0	13	The six bright, shiny, sparkling golden, silver, and blue eggs in the basket on the table are hers.	6
+19	1	0	6	0	0	3	1	1	0	1	0	0	6	0	1	1	0	2.0	0	12	  The big, golden, shiny, expensive, glittery, sparkly brooch adorned her lavender dress elegantly.	6
+21	2	1	1	3	0	4	0	3	0	2	0	0	4	2	1	0	0	4.0	2	9	The sixth dog with no tail that little purple elephant always wanted to pet over there on that blue hill. 	6
+18	3	0	1	2	0	4	0	2	0	3	1	0	2	1	1	0	1	4.0	2	7	 The six smiley students sitting seriously on the shaded slide smiled sweetly smooching softly on silver sand.	6
+17	1	0	1	1	0	3	0	2	0	1	1	0	7	0	1	0	0	2.0	0	7	The five big beautiful shiny golden brown eggs lay silently under the soft fluffy feather bed.	6
+15	0	0	1	0	0	3	0	1	1	3	1	0	4	2	1	2	0	5.0	2	5	Lisa left five tired timid tomcats trying to trace the tidy tiny treasure trove. 	6
+22	0	0	8	0	1	2	0	2	0	0	2	0	7	0	0	0	0	4.0	0	16	The six-determined sentence: These twenty tall, slender, beautiful, black, shiny, and elegant boots. 	6
+26	1	0	1	2	0	8	1	1	0	3	3	0	5	1	2	2	0	4.0	1	9	  The six tired toads thoroughly tossed twenty tiny tortoises onto ten thin turtles' tails that twirled toasty turtle-twisters under towering tropical tulara trees	6
+31	1	0	7	2	1	6	0	2	0	1	0	0	11	0	1	0	0	4.0	0	11	  The amazing, big, green, shiny red sports car with tall tires, bright lights, and yellow stripes drives quickly along the smooth, long, blue highway	6

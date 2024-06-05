@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+19	0	2	0	1	0	2	2	1	3	1	3	0	3	5.0	5	1	1	2	2	0	2	2	At the count of three, everyone jumped;    Would you like another prompt to practice your English? If so, feel free to answer this one:    Generate a sentence with two nouns as subjects. Again, do not write any explanation or text outside the sentence	0
+12	1	2	1	0	0	2	2	0	0	0	2	0	2	3.0	5	0	0	1	0	0	0	1	The cat slept soundly, curled up on the soft cushion.	0
+20	1	2	0	0	0	3	3	0	2	0	3	0	5	5.0	8	4	2	2	1	2	1	2	The book, lying closed on the table, had a strange odor that seemed to cling to it. 	0
+5	1	0	0	0	0	1	2	0	0	0	0	0	1	2.0	3	0	0	1	1	0	1	1	Coffee has a deep taste	0
+11	0	2	1	0	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cat purred silently in the corner of the room.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The snowflakes fell gently.	0
+14	1	1	0	0	0	1	3	0	1	1	3	0	3	4.0	7	1	1	2	1	0	1	2	   Birdong hummed a mellow song; its hues trembled, soaring over treetops.	0
+6	0	1	0	0	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Rain fell on the flowers.	0
+4	0	0	0	1	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	 Can I proceed?  Sure! Let this sentence be the answer.	0
+13	0	2	0	0	1	1	2	0	1	1	2	0	3	3.0	5	1	0	1	1	1	1	1	Screaming with excitement, Sarah dropped the ball and sprinted after it.	0
+9	1	1	0	0	0	1	3	0	0	0	1	0	2	2.0	5	0	0	1	0	0	0	1	Dripping water sounds echoey in the silent cave. 	0
+8	1	0	0	2	0	0	1	0	2	0	0	0	2	3.0	4	1	1	1	0	0	0	1	  There were several trees that had been felled	0
+9	0	0	0	1	0	1	2	0	0	0	3	0	1	3.0	2	0	0	1	0	0	0	1	"  ""The party's guests are dancing."""	0
+11	2	1	1	0	1	1	3	0	1	0	0	0	1	3.0	6	0	0	1	0	0	0	1	  Waltzing homeward in the dank dark I felt chilly and alone	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+9	1	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The black cat purred contentedly on my lap.	0
+7	0	1	1	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	0	1	The cat purrs sweetly under the tree	0
+7	1	0	0	0	0	2	3	0	0	0	0	0	1	2.0	3	0	0	1	1	0	1	1	The snowfall delicate flakes softened the landscape	0
+21	1	3	0	0	1	2	5	0	2	3	3	0	1	3.0	13	0	0	1	1	0	1	1	Alice, Emily, and Zoe raced their way to the top of the hill during their annual treasure hunt. 	0
+6	0	0	0	0	0	0	2	0	0	0	3	0	1	1.0	1	0	0	1	1	0	1	1	" ""Leaves turn color.""  "	0
+22	4	0	2	1	1	2	4	0	2	0	1	1	4	3.0	10	1	1	2	2	0	2	2	The big brown puppy eagerly chased its fluttering tail before the small gray kitten could catch its breath and fall asleep.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat purred in the sun.	0
+5	0	1	0	0	0	1	2	0	0	0	0	0	1	2.0	2	0	0	1	0	0	0	1	 The cat purred in contentment	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The snowflakes fell gently on the ground.	0
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap	0
+3	0	0	0	0	0	0	1	0	0	0	1	0	1	1.0	1	0	0	1	0	0	0	1	"Frogs jump. In this sentence, there are no preverbal subjects because all the words before the verb "" jump"" are object words, such as ""Frogs""."	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred. 	0
+7	2	0	1	0	0	1	1	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The large, old tree slowly sighed	0
+11	0	2	1	0	0	2	3	0	1	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cat purred softly on the lap of its owner. 	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	0
+7	0	1	1	0	0	1	1	0	1	0	1	0	1	3.0	3	0	0	0	0	0	0	0	The catpurred contentedly on my lap.	0
+10	2	1	0	0	0	1	4	0	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	Sunflowers graced the countryside landscape with vibrant yellow petals. 	0
+8	0	1	1	0	0	1	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	Snowflakes fell gently on the park bench. 	0
+6	0	0	0	0	0	1	3	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	Sunflowers brightened the corner garden. 	0
+3	0	0	0	0	0	0	0	0	1	0	1	0	1	1.0	1	0	0	1	0	0	0	1	She smiled. 	0
+10	0	2	1	0	0	2	3	0	0	0	1	0	1	3.0	5	0	0	0	0	0	0	0	Walk slowly along the winding paths through the garden. 	0
+13	1	2	0	0	0	2	3	0	2	0	1	0	2	3.0	8	1	1	2	0	0	0	2	She walked into the empty room, her footsteps echoing against the walls	0
+22	2	3	1	0	0	2	7	0	2	0	3	0	2	5.0	7	0	0	3	0	0	0	3	The cat curled in my lap purred happily, paws relaxed, fur soft under the light scratch of my hand. 	0
+2	0	0	0	0	0	0	0	0	0	0	1	0	1	0.0	0	0	0	0	0	0	0	0	Go! 	0
+11	1	2	1	0	0	3	3	0	0	0	0	0	1	3.0	4	0	0	1	0	0	0	1	The sun sinks slowly in the horizon on a clear sky	0
+16	0	1	0	2	1	0	3	0	3	0	1	1	3	4.0	6	1	1	3	2	0	2	3	Rabbits love carrots but they cannot eat them because they are made of paper. 	0
+9	0	1	1	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The snow flakes fluttered silently to the ground. 	0
+10	2	1	1	0	0	0	1	0	1	0	2	0	2	3.0	4	1	1	1	1	0	1	1	Snowflakes softly fell, blanketing everything in pristine white. 	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	  The sun set slowly. 	0
+8	1	0	0	0	0	1	3	2	0	0	0	0	1	3.0	4	0	0	1	1	0	1	1	Five thousand people attended the concert last night	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The car zoomed down the street. 	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The rain fell.	0
+8	1	0	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The turtles carefully studied the intricate patterns.	1
+6	0	0	0	0	0	1	2	0	0	1	1	0	1	2.0	3	0	0	1	1	0	1	1	Jane eats breakfast every morning.	1
+15	0	2	1	0	0	2	2	0	2	1	0	1	3	4.0	9	2	2	2	1	0	1	2	She walked twice to the library with Mary before it closed to return the books	1
+7	0	0	1	0	0	1	1	0	0	0	3	0	1	2.0	1	0	0	1	0	0	0	1	"  ""The cat runs quickly."""	1
+7	1	1	0	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	0	1	A dog ran across the green grass	1
+10	0	1	0	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cat and the dog chased after the mouse.	1
+7	0	0	1	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The puppy fetched its toy quickly. 	1
+18	1	3	0	0	0	3	6	0	0	0	2	1	2	3.0	13	1	1	2	1	0	1	2	The team ran to victory after a lot of training, with the new coach inspiring hope. 	1
+16	2	1	0	0	1	2	6	0	1	1	1	0	1	4.0	7	0	0	1	1	0	1	1	Wily the fox and his curious cubs chased the quick rabbits through winding woodland paths. 	1
+8	0	1	0	0	1	1	1	0	0	2	1	0	1	3.0	3	0	0	1	0	0	0	1	Jamie and Sarah ran to the park.	1
+5	0	0	1	0	0	0	1	1	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	   One dog ran quickly. 	1
+15	1	1	1	2	0	2	2	0	2	0	1	0	2	3.0	8	2	2	1	1	0	1	1	I am ready to assist you with that task, here is the requested sentence	1
+10	0	1	0	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	 The cat and the book walked into the room.	1
+9	0	1	1	0	0	1	3	0	0	0	1	0	2	2.0	5	0	0	1	0	0	0	1	Ice skates darted quickly across the frozen pond. 	1
+8	0	1	0	0	1	1	2	0	1	1	0	0	1	3.0	4	0	0	1	0	0	0	1	Sarah and her cat walked into the park	1
+9	0	1	1	0	0	2	2	1	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The jury listened carefully to the two witnesses.	1
+6	0	0	1	0	0	1	2	0	1	0	0	0	1	2.0	3	0	0	1	1	0	1	1	   The puppy chased its tail anxiously	1
+6	0	0	0	0	1	0	2	0	0	2	0	0	1	3.0	3	0	0	1	1	0	1	1	  Albert and Beth prepared dinner yesterday	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat walked across the grass.	1
+11	0	1	0	0	0	2	2	1	0	0	3	0	2	2.0	4	1	0	1	0	1	0	1	The two students, laughing, skipped down the hallway. 	1
+19	2	3	1	0	0	4	5	0	0	0	2	0	2	4.0	8	1	1	1	1	0	1	1	  The big red cat chased a mouse rapidly through the garden, leaving behind a streak of destruction.	1
+25	1	3	1	0	1	4	7	0	1	2	2	1	2	4.0	11	1	1	1	2	0	2	1	Cecilia and Juan, both experts on Spanish history, carefully examined each document in the archives before selecting the materials for their research project	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The dog chased a cat. 	1
+15	0	0	1	1	1	1	2	0	1	2	3	0	3	4.0	6	1	1	2	0	0	0	2	My pleasure, below is the required sentence:  Ellen and Susan went swimming. 	1
+9	1	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The playful kitten purred loudly on my lap.	1
+13	4	1	1	0	0	1	3	0	1	0	1	0	1	2.0	6	0	0	1	0	0	0	1	The big brown dog joyously chased after its fluffy white rabbit toy. 	1
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat chased  its tail. 	1
+8	0	1	0	0	0	1	3	1	0	0	1	0	1	2.0	6	0	0	0	1	0	1	0	  Generate a sentence with 2 clause elements. Write only the sentence, without adding further text and without explanations	1
+8	0	1	0	0	0	2	2	1	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The three dogs chased after the mouse. (Correct answer) 	1
+5	2	0	0	0	0	1	1	0	0	0	1	0	0	1.0	3	0	0	0	0	0	0	0	  A bright yellow sun.	1
+5	0	0	1	0	0	0	1	0	1	0	0	0	2	2.0	2	1	1	1	1	0	1	1	I love eating apples daily	1
+5	0	0	0	0	0	1	1	0	0	1	1	0	1	2.0	2	0	0	1	1	0	1	1	Riley ate an apple. 	1
+12	1	1	0	0	1	4	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat and the rat chased each other around the park.	1
+9	1	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The fluffy cat purred happily on my lap.	1
+5	0	0	0	0	0	1	2	0	0	0	1	0	1	2.0	1	0	0	1	1	0	1	1	The cats drank milk. 	1
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The dog wagged its tail. 	1
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	Here you go! She ate the cookie quickly while watching a movie. 	1
+6	2	0	0	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The big gray cat purred. 	1
+16	0	2	3	1	0	2	3	0	2	0	1	0	2	3.0	12	1	0	2	1	1	1	2	Early in the morning when the dew still sparkled on       Does this fulfill your request?   	1
+11	1	2	0	0	0	2	2	0	0	0	3	0	1	2.0	6	0	0	1	0	0	0	1	The fluffy cat curled **up** on the windowsill. 	1
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	  The students excitedly sang in the choir. 	1
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	1
+18	2	3	1	0	0	4	4	0	0	0	2	0	2	4.0	6	1	1	1	1	0	1	1	  The dogs ran to the park quickly, chasing each other in circles around the green grass.	1
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	1
+9	0	1	0	0	1	1	2	0	0	2	1	0	1	3.0	4	0	0	1	1	0	1	1	Tessa and Lila played fetch with the foxtail. 	1
+12	0	1	0	0	0	4	4	0	0	0	1	0	2	3.0	6	0	0	2	1	0	1	2	The tigers chased the boy, the butterflies danced around the flowers	1
+9	1	1	1	0	0	1	2	1	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	One lion walked quietly in the grassy savannah. (Preverbal subjects: lion) 	1
+60	5	8	4	2	3	4	12	1	4	0	8	0	7	7.0	33	3	3	3	1	0	1	3	The tiger chased its prey through forest, with graceful steps, swift and agile; one could almost hear its heart thumping, pounding in excitement, hungry for the hunt to be over and the taste of their prize to explode with flavor on the tongue - or perhaps better said as one long, flowing word. 	1
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred happily on my lap.	1
+5	0	0	0	0	0	1	2	0	1	0	0	0	1	2.0	2	0	0	1	1	0	1	1	The cat chased his tail	1
+26	4	1	1	0	2	0	7	1	0	1	4	0	4	6.0	13	2	1	1	2	1	2	1	     Inside two large gift boxes packed with red foil and green tissue paper sat Santa's elves, busy playing hide-and-seek. 	2
+21	1	2	2	0	1	3	3	0	1	2	2	0	3	4.0	9	1	1	1	2	0	2	1	Sophie and Timmy took the dogs out for a walk, yet forgot to close the front door behind them.	2
+14	0	0	1	0	1	2	2	1	0	2	2	0	2	4.0	6	1	1	1	1	0	1	1	The two students, Alice and Bob, worked together to complete the assignment	2
+14	0	1	1	0	1	1	2	1	1	2	3	0	1	4.0	6	0	0	1	0	0	0	1	The two cats, Fluffy and Whiskers, purred contentedly on my lap.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat and the hat both drank tea in the mat.	2
+29	2	2	0	0	1	4	6	0	2	2	6	1	3	4.0	18	2	1	1	2	1	2	1	With the money earned by their joint efforts, Tom, an accountant, and Sally, a teacher, fulfilled their lifelong dream of opening a bookstore. 	2
+12	2	2	0	0	0	1	2	1	0	1	1	0	1	3.0	6	0	0	1	0	0	0	1	The two tired cats curled up on Marnie's soft pillow. 	2
+10	1	1	1	0	0	1	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	Two foxes furtively devoured a basket of fresh berries. 	2
+16	1	4	1	0	0	3	3	1	0	0	2	0	1	3.0	8	0	0	1	0	0	0	1	At the edge of two ponds, waves from both rippled gently into each other. 	2
+16	1	1	1	0	1	1	4	0	1	2	2	0	2	3.0	7	1	1	1	2	0	2	1	Juan and Maria simultaneously juggled clubs during their acrobatic performance, impressing the festival crowd. 	2
+11	1	1	0	0	1	3	3	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat and dog chased each other through the park. 	2
+15	1	1	0	0	1	2	6	0	0	0	3	0	1	3.0	7	0	0	1	1	0	1	1	The cat and dog, playful pals, ran racing down the park path. 	2
+15	0	1	0	1	1	1	3	0	1	2	2	1	2	3.0	8	2	1	2	1	1	1	2	John and Michael, who are colleagues, discussed solutions before presenting to the board	2
+17	3	1	0	0	2	2	3	3	0	0	2	0	1	5.0	10	0	0	1	1	0	1	1	 Two dogs - one big and one small but energetic - chased a squirrel through the backyard	2
+16	3	2	0	0	1	2	3	0	1	2	1	0	1	3.0	6	0	0	1	0	0	0	1	Jim and his best friend Tim hiked along the ridge of the tall grassy mountain. 	2
+13	1	0	1	0	2	1	1	0	0	3	1	0	3	3.0	4	1	1	1	1	0	1	1	Mrs. and Mr. Smith went swimming together and had a nice time. 	2
+16	0	2	0	0	1	4	5	0	0	0	2	0	2	3.0	10	1	0	1	1	1	1	1	Sitting on the couch, the cat and the mouse shared a bag of popcorn. 	2
+14	0	1	1	0	1	1	2	1	1	2	3	0	1	4.0	6	0	0	1	0	0	0	1	The two cats, Fluffy and Whiskers, purred contentedly on my lap. 	2
+11	0	1	0	0	1	2	2	0	1	1	1	0	2	3.0	5	1	1	1	0	0	0	1	  Jill and her cat both loved sitting in the sun. 	2
+15	1	1	1	0	1	1	2	1	1	2	3	0	1	4.0	6	0	0	1	0	0	0	1	The two fluffy cats, Luna and Max, purred contentedly on my lap. 	2
+17	2	2	0	2	1	0	8	0	0	0	0	0	2	4.0	9	2	1	2	2	1	2	2	Dogs chasing cats are common in neighborhood streets and cats pursuing mice are usual in home kitchens	2
+11	0	1	1	0	0	2	4	1	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	Two giraffes gracefully roamed the savannah under the midday sun. 	2
+9	0	1	1	0	1	1	1	0	0	2	1	0	1	3.0	4	0	0	1	0	0	0	1	Bill and Samantha ran quickly through the park. 	2
+12	1	3	0	0	1	0	3	1	0	2	0	0	1	3.0	8	0	0	1	0	0	0	1	Sarah and Emma danced to music under colored lights until 3 am	2
+15	1	1	1	1	1	1	2	0	1	2	3	0	1	3.0	9	1	0	2	0	1	0	2	  Mary and Jane, who are identical twins, ran quickly to the store.	2
+25	1	2	2	2	1	2	4	1	1	2	3	1	2	4.0	13	1	1	1	1	0	1	1	Okay, here is the sentence with 2 preverbal subjects: Jerry and Tom will eat their snacks quickly before returning to the classroom. 	2
+8	2	0	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	Two playful kittens chased a fluffy butterfly. 	2
+32	1	2	2	1	1	4	7	1	3	0	2	1	5	4.0	19	3	3	2	4	0	4	2	The manager asked the two interns to conduct a market analysis before presenting their ideas, and afterward they were both expected to write up their findings in a coherent report. 	2
+12	0	0	2	0	1	1	2	1	1	2	1	0	1	4.0	5	0	0	1	1	0	1	1	The two cats Purdy and Saffron carefully licked their paws simultaneously. 	2
+15	1	1	0	0	1	2	3	0	1	2	3	0	1	3.0	7	0	0	1	1	0	1	1	Mario and his cat, Lupita, chased the ghost through the haunted house. 	2
+15	1	1	1	0	1	2	2	1	0	2	3	0	1	4.0	6	0	0	1	0	0	0	1	The two cats, Timmy and Tommy, purred contentedly on the soft cushions.	2
+19	1	2	2	0	0	2	4	1	2	0	3	0	2	4.0	10	1	0	2	1	1	1	2	Two students, each diligently studying for their exam, simultaneously discovered a hidden error in their notes.	2
+16	2	1	1	0	1	1	2	0	2	2	3	0	1	4.0	12	0	0	2	1	0	1	2	Sophia and Leonidas, both excited for their upcoming trip, simultaneously prepared their luggage. 	2
+17	2	2	0	0	0	2	4	2	0	0	2	1	2	3.0	10	1	1	2	0	0	0	2	Two deer waded through the clear, shallow stream while two foxes played in the bushes. 	2
+18	1	2	2	1	1	2	1	0	1	2	1	2	2	4.0	7	2	1	2	1	1	1	2	  Even though both of them were already tired, Sasha and Daisy persisted in cleaning up the mess	2
+19	0	2	1	0	1	5	5	1	0	0	2	0	2	4.0	9	0	0	2	1	0	1	2	The two squirrels scampered eagerly across the park, and the wind rustled the leaves of the trees. 	2
+18	2	2	2	0	0	3	3	1	1	0	2	0	2	3.0	9	0	0	2	0	0	0	2	The two stunned kittens clung limply to each other, their purrs barely audible beneath the thunder.	2
+19	1	1	1	0	2	3	4	1	0	0	3	0	3	5.0	9	1	0	1	2	1	2	1	The two kittens, playfully pouncing and chasing each other, caused chaos and destruction to the house. 	2
+8	2	0	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	1	1	The fluffy cats chased the playful mice. 	2
+26	2	4	0	1	2	5	7	1	1	0	2	0	1	4.0	7	0	0	2	0	0	0	2	The two preverbal subjects of this sentence are dogs and cats, and they both chased after the same mouse before dawn in the forest. 	2
+10	1	1	1	0	1	1	1	0	0	2	1	0	1	3.0	5	0	0	1	0	0	0	1	John and Mary walked carefully through the muddy field.	2
+14	1	1	1	0	1	2	2	1	0	1	3	0	1	4.0	6	0	0	1	0	0	0	1	The two cats, Curious and Mischief, played together under the sun.	2
+19	6	1	1	0	1	3	3	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The large, dark grey rabbit and the small, fluffy white bunny hopped rapidly through the garden. 	2
+20	1	1	0	0	2	2	4	1	2	2	2	0	3	4.0	12	1	1	2	3	0	3	2	Mary carried three puppies and her doll down the street, and Emily followed them carrying a big basket.	2
+14	2	0	1	0	1	2	3	1	1	0	2	0	1	3.0	5	0	0	1	1	0	1	1	The three children and their mother eagerly explored the mysterious, hidden forest.	2
+14	0	1	0	0	1	3	3	1	0	2	2	0	1	4.0	6	0	0	1	1	0	1	1	The two dogs, Fifi and Bingo, chased the squirrels up the tree	2
+16	1	1	0	0	2	1	4	0	1	2	1	0	2	4.0	6	1	1	1	1	0	1	1	Jill and her best friend Emily went to the store to buy milk and eggs.	2
+19	1	3	0	0	0	3	4	1	1	0	2	1	3	4.0	6	2	2	2	0	0	0	2	Two bicycles raced down the highway, weaving past each other as they sped towards the finish line.	2
+21	2	3	0	0	1	3	4	1	0	0	3	0	4	4.0	6	1	1	1	0	0	0	1	The two tourists, exhausted and dehydrated, trudged along the scorching trail, searching for shelter from the unrelenting sun	2
+22	2	2	1	2	0	3	3	1	1	0	3	0	3	4.0	13	2	1	2	1	1	1	2	The two fluffy cats, who had been playing with each other for hours, finally decided to take a nap.	2
+26	1	3	0	1	0	5	6	1	1	0	3	0	5	4.0	9	2	1	2	1	1	1	2	The three athletes, who had trained all summer, ran across the finished line with exhausted expressions, finishing the triathlon as a unified team	3
+11	0	0	0	1	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	2	0	2	2	   The cat chased the dog who was chasing the mouse.	3
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	0	0	0	0	0	0	Okay	3
+12	3	1	0	0	0	1	3	1	1	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The big brown bear enjoyed dancing with his three best friends. 	3
+19	2	0	2	0	0	3	3	2	0	0	2	2	3	4.0	7	2	2	3	0	0	0	3	The three frogs jumped high, while the two birds sang loud, before the little cat purred soft	3
+34	3	2	3	0	0	3	6	1	4	0	3	3	5	5.0	17	4	4	3	2	0	2	3	The two little girls carefully placed their toy cars on the colorful blanket before playing with them, while their curious dog watched attentively, eagerly waiting for them to start the race. 	3
+21	1	1	3	0	1	2	4	1	2	0	3	0	3	4.0	8	1	1	3	0	0	0	3	The three elephants raced frantically across the field, their trunks waving wildly, and their large ears flapping vigorously.	3
+20	0	1	0	0	2	1	5	0	0	3	4	0	4	4.0	12	0	0	1	3	0	3	1	Mike, Lila, Alex went to town and did shopping, ate ice cream, and watched the sunset	3
+40	3	4	6	0	1	5	8	0	1	0	3	0	7	8.0	30	5	2	1	2	3	2	1	Sitting silently behind a bush, cautiously observing a family of flustered pidgeons chattering excitedly in the grass below, and carefully considering their fluttering movements, a young rabbit decides quickly to scurry down the nearby burrow to hide	3
+11	2	2	0	0	0	1	4	1	0	0	0	0	1	3.0	5	0	0	1	1	0	1	1	  Three tired workers carried heavy boxes up a flight of stairs	3
+2	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	Okay! Below is the sentence you requested: Greg, Sara, and the baby went to the park.	3
+2	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	Okay! here is the sentence you requested:  Lying on the sandy beach, drinking in the warmth, soothing tired limbs, relaxation finally enveloped her mind and body. 	3
+7	0	0	0	1	0	0	0	0	2	0	2	0	1	1.0	4	0	0	1	1	0	1	1	Ok, I can do that:  The dog, the cat, **and even* my little mouse** all want to go out	3
+14	0	1	2	0	1	2	4	0	0	0	3	0	1	3.0	6	0	0	1	0	0	0	1	The cats, dogs, and birds played together outside in the sun. 	3
+19	0	3	1	0	1	4	6	0	0	0	3	0	1	5.0	11	0	0	1	0	0	0	1	The cat, together with the mouse and the elephan tal, chased after the butterfly in flight. 	3
+30	1	2	2	1	1	3	5	1	3	3	5	0	3	4.0	19	2	1	3	1	1	1	3	Here you go, here's the sentence with 3 preverbal subjects you wanted:  Jimmy, Ron, and their dog Max took a walk down the street.	3
+22	4	2	0	0	1	4	8	1	0	0	1	0	1	4.0	10	0	0	1	1	0	1	1	 The man with long blond hair and the two young daughters enjoyed the cold ice cream in the park yesterday afternoon. 	3
+15	1	1	2	0	1	3	4	0	0	0	1	0	1	4.0	4	0	0	1	1	0	1	1	The dog chased not only the cat but also several squirrels in the backyard.	3
+9	0	0	0	0	0	0	3	3	0	0	1	0	2	4.0	2	1	1	1	2	0	2	1	Three cats chased three squirrels eating three acorns. 	3
+3	0	0	0	0	0	1	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	0	0	No problem. Here you go!  Meredith, James, and Thomas simultaneously filled          three large containers of water from a hose	3
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	3
+18	3	2	0	0	0	3	4	1	1	0	1	0	3	4.0	5	2	1	2	1	1	1	2	The anxious bears worried woke up the three tired snakes who cowered beneath the large oak tree. 	3
+20	2	1	1	0	1	4	4	1	1	0	2	0	2	3.0	11	1	1	1	0	0	0	1	The three kittens, their tiny paws, and a little mouse all ran quickly under the porch to hide	3
+17	0	2	0	0	1	1	5	0	1	3	2	0	2	4.0	9	1	0	1	2	1	2	1	  Tina and Tony, walking their dog Timmy, ate chicken wings for lunch at the park	3
+13	0	2	0	0	1	1	2	0	1	3	2	0	1	3.0	6	0	0	1	0	0	0	1	Mary, Sarah, and Michael raced down the river in their canoe	3
+11	0	1	1	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The dogs ran quickly past the cats and the rabbits.	3
+15	1	1	0	0	0	2	3	0	1	2	1	1	3	3.0	9	2	2	2	2	0	2	2	Sophie watched the puppy chase the cat, while Oliver played with his new ball	3
+12	1	2	1	0	0	2	3	1	0	0	1	0	1	2.0	8	0	0	1	0	0	0	1	The cat chased after three lazy mice in the attic simultaneously. 	3
+14	0	1	0	0	1	3	3	0	0	2	3	0	1	3.0	7	0	0	1	1	0	1	1	   Jane, Fred, and the cat took a walk in the park. 	3
+13	0	1	2	0	1	1	1	0	0	3	3	0	1	3.0	7	0	0	1	0	0	0	1	  Eugene, Marvin, and Elroy rapidly ran right across the room. 	3
+16	3	3	1	0	0	1	4	1	1	0	0	0	2	4.0	8	1	1	2	0	0	0	2	Three girls joyfully ran to the store with their purple bags packed full of delicious fruit	3
+22	4	4	2	0	0	2	5	1	0	0	2	0	2	4.0	12	1	1	1	1	0	1	1	At last, after many years of searching, three experienced researchers ultimately found the ancient document buried deep within the cave	3
+20	4	0	1	0	1	4	6	0	0	0	3	0	1	3.0	10	0	0	1	1	0	1	1	The tall giraffes, the playful monkeys, and the graceful elephants enjoyed an exciting safari adventure together yesterday.	3
+17	1	1	1	0	2	5	5	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The cat and the dog and the bird sang a beautiful melody together under the tree. 	3
+44	5	5	2	0	2	5	9	1	1	0	6	1	6	5.0	18	4	2	1	2	2	2	1	The three children, excited from playing outside all afternoon, burst into the kitchen, and quickly piled up their messy rain boots, dripping wet umbrellas, and damp socks on the mat, eager to warm up with some hot chocolate	3
+9	0	0	1	1	0	1	1	0	1	0	2	0	1	3.0	3	1	1	1	0	0	0	1	Sure, here's the response you requested:  The manager evaluated three team members' responses; Amelia, Benjamin, and Carla, and she was impressed by their performance. The manager evaluated three team members' responses, and their performance impressed her, including Amelia, Benjamin, and Carla	3
+25	1	3	0	0	1	3	8	1	2	0	3	0	3	4.0	9	1	1	3	0	0	0	3	Three sweltering tourists swam in the turquoise lagoon, their snorkeling gear gleaming in the sun, and their laughter echoing across the water. 	3
+23	2	1	2	0	1	4	4	1	0	3	4	0	1	4.0	10	0	0	1	1	0	1	1	The three stray cats - Meow, Fluffy, and Whiskers chased a single mouse together under the porch all night long. 	3
+35	3	4	3	0	1	3	5	0	2	4	4	2	3	4.0	16	2	1	3	0	1	0	3	As the cat purred contently against her hand, Lucy and Samantha whispered excitedly to each other about their secret plan, while Thomas, the mischievous parakeet chirped noisily on Lucy's shoulder.	3
+26	2	4	0	1	2	2	8	1	0	0	2	0	3	7.0	17	1	1	1	1	0	1	1	Focused attention from the team of three professionals with expertise in technology, innovation, and creativity was essential to design and execute a successful event	3
+17	1	1	0	0	1	2	5	0	0	0	3	0	4	4.0	7	1	1	2	0	0	0	2	 Elephants dancing, giraffes singing, and monkeys laughing all gathered under the sparkling night sky.	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The turtle, the fox, and the elephant raced down the path. 	3
+21	6	2	1	0	1	4	5	0	0	0	1	0	1	4.0	11	0	0	1	0	0	0	1	The big brown bear with the big red hat and the little round bag skipped happily down the green meadow.	3
+16	2	1	0	0	1	0	4	0	1	3	1	0	2	3.0	6	1	1	1	2	0	2	1	Alicia and Michael bought Carlos blue pencils to write their poetry on beautiful beach stones.	3
+12	0	1	0	1	0	3	3	0	1	0	1	0	2	4.0	3	1	1	2	1	0	1	2	The cats chased the dogs who were annoyed by the mice. 	3
+18	3	1	0	0	1	4	5	0	0	0	3	0	1	3.0	10	0	0	1	0	0	0	1	The tallest camel, a wise owl, and a creative fox raced down the desert dune.	3
+15	0	1	1	0	0	4	3	1	0	0	3	0	2	4.0	7	1	0	2	1	1	1	2	The three children, each carrying a backpack, walked briskly through the park. 	3
+22	1	2	1	0	0	4	7	1	1	0	1	0	3	5.0	7	2	2	2	1	0	1	2	The three astronauts rapidly departed through the exclamation mark portal to investigate the distress signal that reverberated from the peculiar planet. 	3
+21	0	2	3	0	1	2	4	1	2	0	3	0	3	5.0	5	0	0	3	0	0	0	3	The three puppies raced playfully around the park, their tails happily wagging, and their barks ringing out loudly.	3
+31	3	3	2	0	1	5	7	1	2	0	2	0	4	5.0	12	2	2	2	2	0	2	2	The two little puppies chased their playful kitten through the snowy forest, but they suddenly stopped to admire the beauty of the morning sun rising high in the sky. 	3
+25	7	3	1	0	2	2	5	0	0	0	4	0	1	4.0	7	0	0	2	0	0	0	2	The tall, agile cheetahs, each spotless and swift, sprinted gracefully through sun-drenched savannas and over velvet grassy fields with effortless ease. 	4
+18	7	2	0	0	0	1	4	1	0	0	2	0	1	3.0	12	0	0	1	1	0	1	1	Four hungry pink dolphins devoured delicate, delectable seaweed under crystal clear water in a coral garden. 	4
+15	0	1	0	0	1	2	6	0	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	The dogs chased rabbits, cats, mice, and squirrels through the woods.	4
+27	5	1	1	0	1	5	6	0	1	0	4	0	2	3.0	14	1	1	1	1	0	1	1	The anxious elephants, the frisky kangaroos, the creative dolphins, and the happy foxes collaborated tirelessly to complete their fascinating mural by the deadline. 	4
+35	4	2	2	1	2	2	9	1	0	0	7	1	2	6.0	16	2	2	2	2	0	2	2	"Sure, here is the sentence with four preverbal subjects:  ""Although all bears enjoy honey, blue bears particularly prefer bees, but not more than cub bears and foxy bears."" "	4
+31	6	3	1	0	1	4	7	1	0	0	4	0	4	5.0	17	1	1	3	0	0	0	3	The four cats purred contentedly, the delighted kitten played with fluffy toys, the mischievous puppy chewed on colorful bones, and the lazy rabbit nibbled on fresh greens.	4
+22	2	1	1	0	1	3	5	2	1	0	5	0	1	5.0	15	0	0	1	1	0	1	1	The four students, each one with their unique background, skill, and strength, simultaneously solved the difficult problem. 	4
+16	0	0	1	0	1	4	5	0	1	0	3	0	1	3.0	12	0	0	1	1	0	1	1	The dog, the cat, the bird, and the hamster simultaneously chased their tails	4
+17	0	0	1	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	The sun, the birds, the bees, and the flowers celebrated the morning together. 	4
+12	1	0	0	0	1	0	1	1	0	4	3	0	1	3.0	8	0	0	1	1	0	1	1	Mary bought Susan, John, and Alice three delicious cupcakes. 	4
+24	2	1	1	0	0	3	5	2	1	0	4	1	4	3.0	15	2	1	4	2	1	2	4	The four bears, all wearing hats, ate four baskets of berries; before they ate anymore, a big bad bear appeared	4
+17	0	1	0	1	1	4	4	0	0	1	4	0	1	3.0	12	0	0	1	0	0	0	1	 Granny, the mouse, a bird, and the cat were playing in the garden.	4
+33	3	1	1	2	1	1	5	0	3	3	6	1	6	7.0	9	4	3	5	5	1	5	5	    Carla, who was wearing purple boots, stood beside Lisa, who had long brown hair, and they were both eating sandwiches; while Dexter played music using a recorder. 	4
+22	3	1	0	0	1	5	6	1	0	0	3	0	2	3.0	14	1	1	1	0	0	0	1	The four raccoons, the fluffy squirrel, the little bird, and the furry frog enjoyed lounging in the tall grass	4
+16	2	1	1	0	0	1	3	1	0	0	3	0	3	4.0	13	2	0	1	1	2	1	1	Driven by curiosity, four energetic kids, eager to learn, carefully explored the woods	4
+44	7	7	1	0	1	7	9	0	1	0	3	1	5	6.0	15	3	3	2	2	0	2	2	 The big, bold red apple on top of the table in the middle of the room fell from high place because the fat, lazy yellow moon in the sky outside wanted to reach out to catch it and have a bite!  Was that exactly what you had in mind? Please let me know if I should revise it or start again!  Want to challenge me further with an additional request? Click to see another task. Can't wait to see what I'm able to generate!  How do you think I did on this first instruction? Please leave a review to let others know what you thought	4
+13	4	2	0	0	0	0	3	2	0	0	1	0	1	2.0	8	0	0	1	0	0	0	1	   Four big cats chased across several high rocks after three small rabbits. 	4
+15	0	1	1	0	1	1	6	0	0	0	4	0	1	3.0	8	0	0	1	0	0	0	1	Dogs, cats, elephants, and dolphins raced quickly across the finish line.	4
+27	2	2	0	0	1	6	9	0	0	0	4	0	3	3.0	14	0	0	1	0	0	0	1	The barking dogs, the howling coyotes, the roaring lions, and the flying eagles raced around the vast desert landscape under the hot sun. 	4
+15	1	2	0	0	1	1	1	0	0	4	3	0	2	4.0	10	1	0	1	0	1	0	1	Mary Jane Anthony and Emily, dressed in white, walked through the garden. 	4
+38	5	3	1	0	2	4	10	0	0	4	8	0	1	4.0	16	0	0	1	1	0	1	1	Jamie, Kate, Samantha, and Emily thoroughly enjoyed the exquisite dinner at the beachside restaurant with an ocean view, flavorful menus, excellent wine, outstanding service, and live music under the stars. 	4
+17	1	0	1	0	1	1	1	1	0	4	6	0	1	3.0	12	0	0	1	0	0	0	1	The four preverbal subjects, Jill, Kate, Sam, and Tom, eagerly gathered. 	4
+29	1	4	1	0	1	3	4	1	2	4	6	0	2	4.0	12	0	0	2	0	0	0	2	The four preverbal subjects - Anna, Beatrice, Claire, and David- raced energetically around the playground on their scooters, each of them giggling with joy	4
+13	1	0	0	0	1	1	5	1	0	1	2	0	1	3.0	7	0	0	1	2	0	2	1	Fish food, gold, and four fleas fed Fannie the famous finch	4
+2	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	"Okay! How's this? ""The cat sat on John's lap in the grass while the squirrel ran circles overhead and the bee buzzed in search of pollen."""	4
+21	2	1	1	0	1	6	5	0	0	0	4	0	1	3.0	12	0	0	1	0	0	0	1	The dog, the cat, the bird, and the mouse all ran rapidly around the big brown house.	4
+20	0	1	1	0	1	5	5	0	0	0	4	0	2	3.0	11	1	1	1	0	0	0	1	The cat, the rabbit, the squirrel, and the bear ran quickly to the pond to play. 	4
+25	1	1	4	0	1	2	5	1	1	1	4	0	4	3.0	17	0	0	1	3	0	3	1	The four students studied English intensively, enthusiastically participated in class discussions, diligently completed their homework, and successfully passed the final exam. 	4
+34	3	4	2	0	3	5	7	0	1	0	5	1	3	4.0	12	1	1	1	1	0	1	1	The elephants, along with the penguins, giraffes, and lizards enjoyed themselves together by singing and dancing playfully in the beautiful sunset, with the soft grass and the peaceful trees. 	4
+26	3	3	2	2	1	2	5	1	2	0	4	0	1	4.0	15	1	1	2	0	0	0	2	  All four of the items in your response are preverbal subjects (or direct objects, which can also serve as preverbal subjects), specifically	4
+20	0	1	1	0	1	4	7	0	1	0	4	0	1	3.0	12	0	0	1	1	0	1	1	The cat, the dog, the mouse, and the parrot, played games outside on their summer vacation	4
+11	0	1	1	0	0	2	3	1	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The four elephants raced their cars quickly down the mountain. 	4
+14	0	0	2	2	1	0	0	0	0	4	4	0	1	3.0	11	0	0	1	0	0	0	1	Jane, John, Susan, and Mark will all have worked hard. 	4
+16	0	0	0	0	1	5	5	0	0	0	4	0	1	3.0	11	0	0	1	1	0	1	1	   The cat, the dog, the bird, and the rabbit enjoyed the picnic.	4
+18	1	1	1	0	1	5	5	0	0	0	3	0	1	3.0	11	0	0	0	0	0	0	0	The cat, the dog, the parrot, and the hamster ran rapidly round the rugged road	4
+12	1	1	1	1	0	1	3	1	0	0	2	0	1	3.0	6	0	0	0	0	0	0	0	Below is the task-fulfilled sentence with 4 preverbal subjects: The cat, a mouse, a rabbit, and a snake ran home eagerly.	4
+17	0	2	0	0	1	5	5	0	0	0	3	0	1	3.0	7	0	0	1	0	0	0	1	The cat sat on the chair with the dog, the mouse, and the bird. 	4
+41	3	3	1	1	2	4	8	1	4	2	6	1	5	6.0	15	3	2	3	3	1	3	3	The cat, who had never forgotten her early years, enjoyed the warm sunlight on her fur and chased after butterflies, while the other three cats, including Mittens and Fluffy, watched her play from a distance. 	4
+30	1	2	3	0	2	7	6	1	0	0	5	0	3	4.0	11	1	1	1	1	0	1	1	The four cats, the dogs, the mice, and the elephant played together peacefully in the forest, chasing each other and panting happily on the grass. 	4
+17	0	1	0	1	1	3	3	3	1	0	2	0	2	3.0	8	0	0	2	1	0	1	2	The four cats chased the two mice, but they were caught by the one dog. 	4
+11	1	0	0	0	1	2	4	0	0	0	2	0	1	3.0	8	0	0	2	0	0	0	2	The squirrels cats, monkeys, and dolphins all jumped high	4
+22	2	1	1	0	1	5	5	2	0	0	4	0	1	3.0	14	0	0	1	0	0	0	1	The four cats, the three dogs, the little mouse, and the fluffy rabbit raced together into the forest. 	4
+24	1	1	0	0	2	5	7	0	0	0	6	0	2	3.0	11	0	0	1	1	0	1	1	The bear, the wolf, the fox, and the rabbit played hide-and-seek behind the old oak tree.	4
+25	0	5	0	0	1	4	7	3	0	0	2	0	3	4.0	15	1	1	1	0	0	0	1	At the bottom of the lake, inside an abandoned submarine, two fish and one octopus talked to four lobsters hiding in the shadows	4
+21	5	1	1	0	1	2	5	2	0	0	3	0	1	3.0	11	0	0	1	0	0	0	1	The three tired puppies, two happy kittens, playful rabbits and curious hamsters scampered excitedly around the colorful playground. 	4
+20	4	2	0	0	0	0	5	4	0	0	3	0	2	4.0	11	1	1	1	2	0	2	1	Four excited giraffes watched four swift deer play four colorful tug-of-war with four tangled strings.	4
+18	0	1	0	0	1	3	2	0	0	4	4	0	2	3.0	9	1	1	1	1	0	1	1	Jane, Tom, Jack, and Sam all went to the store to buy some milk.	4
+15	0	0	0	0	1	4	4	3	0	0	1	0	2	3.0	8	0	0	2	2	0	2	2	  The four bears baked the four cakes and the four dogs drank the juice. 	4
+24	1	3	2	0	2	1	4	0	1	4	4	0	2	4.0	10	1	1	1	1	0	1	1	At school, Mary, Susan, Lucy and Tom all study English history with their laptops, researching extensively online and in books	4
+18	1	1	1	0	1	5	5	0	0	0	3	0	1	3.0	11	0	0	1	0	0	0	1	The birds, the bees, the butterflies, and the breeze danced delightfully beneath the dense foliage	4

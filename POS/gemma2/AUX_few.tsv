@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+41	2	3	3	5	1	7	2	4	1	5	0	2	4	2	3	1	1	7.0	3	24	As it turns out, the humans have not yet established a viable system of human space flight, and the question of whether they will remain confined to Earth's atmosphere for long remains unanswered in the scientific community.	0
+11	0	0	1	1	0	2	2	1	0	1	0	1	0	1	1	1	0	3.0	1	5	It is not within my abilities to fulfill the request.	0
+14	0	1	1	0	1	3	1	1	0	2	0	2	1	1	2	1	0	4.0	1	4	The question cannot be completed as it requires additional context and instructions.	0
+14	1	1	2	2	0	1	2	2	1	2	0	0	0	0	2	1	1	2.0	1	6	As it turns out, the Soviets never made it to the moon.	0
+15	0	0	1	2	0	3	1	1	0	1	0	1	3	1	0	1	0	4.0	1	5	It's not impossible to find humor in the mundane bureaucracy of daily life.	0
+28	1	1	2	2	3	8	2	1	0	3	0	1	3	2	2	2	0	5.0	2	12	I believe that open and respectful communication between citizens and their representatives would promote transparency and collaboration, thereby bolstering public trust in the government's decisions.	0
+14	1	1	2	2	0	1	2	2	1	2	0	0	0	0	2	1	1	2.0	1	6	As it turned out, the Soviets never made it to the moon.	0
+14	1	1	2	2	0	1	2	2	1	2	0	0	0	0	2	1	1	2.0	1	6	As it turned out, the Soviets never made it to the moon.	0
+15	0	1	1	0	0	2	2	2	0	2	0	3	0	2	1	0	0	2.0	2	9	It's not a problem to be solved as it is a solved problem.	0
+27	1	1	2	2	1	7	1	4	0	3	0	0	5	0	1	1	2	7.0	2	21	The most appropriate timing, enough of a global message and the means of delivery for getting some press regarding our fundamental operating standards remain unclear.	0
+43	1	5	3	2	1	6	7	4	0	6	0	3	4	5	4	2	0	6.0	5	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder about the timing, so that we can ensure that we’re communicating them to as large an audience as possible.	0
+15	0	0	1	1	1	3	1	2	0	3	0	0	1	1	0	2	0	4.0	1	6	Please try to answer the question or solve the problem at your earliest convenience.	0
+27	1	2	3	2	1	5	4	1	0	3	0	3	1	2	2	1	1	5.0	3	8	As it is currently known, it is impossible to guarantee that anyone will have access or influence over the decision-making of their country.	0
+19	0	0	1	2	1	4	1	2	0	1	0	1	5	1	0	1	0	6.0	1	4	It's important to consider potential global repercussions and the timing of important announcements in the international press.	0
+16	1	2	1	1	0	4	1	2	0	2	0	1	1	2	2	1	0	5.0	2	7	I believe that transparency is the most valuable tool for promoting the stability of society.	0
+18	0	1	1	0	0	4	3	2	0	3	0	1	2	3	1	1	0	5.0	3	6	I think that it is a great idea to get some press regarding our fundamental operating standards.	0
+5	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	3	It's not real.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+14	1	1	2	2	0	1	2	2	1	2	0	0	0	0	2	1	1	2.0	1	6	As it turned out, the Soviet never made it to the moon.	0
+84	2	6	5	6	6	16	6	11	0	8	0	6	9	6	5	4	0	12.0	6	23	I think that it is not real to assume a global consensus on when the most appropriate timing, enough of a global message and the means of delivery, should be for the fundamentals of an organization or company, and that the message should have a profound impact on their future, but I do believe that there are various factors to consider in determining this timing and that the message should have a profound and meaningful impact on its targets.	0
+46	2	0	2	2	2	11	4	5	0	6	0	3	8	4	4	3	0	8.0	4	20	The most appropriate timing and the means of delivery for our public relations campaign would be a carefully crafted, international public relations campaign that seeks to garner positive attention and address any major global issues that our government feels may require a global solution.	0
+38	1	1	3	3	2	8	4	5	0	4	0	1	5	3	2	1	0	5.0	3	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder about the most appropriate timing, enough of a global message and the means of delivery.	0
+14	1	1	2	2	0	1	2	2	1	2	0	0	0	0	2	1	1	2.0	1	6	As it turned out, the Soviets never made it to the moon.	0
+18	0	1	1	0	0	4	3	2	0	3	0	1	2	3	1	1	0	5.0	3	6	I think that it is a great idea to get some press regarding our fundamental operating standards.	0
+47	1	2	3	3	3	11	2	6	0	6	0	1	8	5	3	4	0	10.0	5	14	I think that promoting sustainable development is a critical and timely matter, but I wonder about the optimal approach to raising awareness on a global scale, considering the different cultural contexts and the need for diverse communication methods to reach the target audience effectively.	0
+38	1	1	3	3	2	8	4	5	0	4	0	1	5	3	2	1	0	5.0	3	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder about the most appropriate timing, enough of a global message and the means of delivery.	0
+32	1	1	2	2	2	7	4	4	0	4	0	1	3	3	2	1	0	5.0	3	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder about the most appropriate timing and the means of delivery.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+32	4	0	2	2	1	7	2	4	0	5	0	2	2	3	3	2	2	7.0	5	10	The most challenging aspect to consider when planning this government initiative is the timing, ensuring it's both globally visible and received in a way that ensures trust amongst citizens.	0
+31	1	1	2	2	2	7	4	3	0	4	0	1	3	3	2	1	0	5.0	3	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder about the most appropriate timing and means of delivery.	0
+52	2	2	2	5	1	10	4	10	0	7	0	1	6	6	1	2	0	10.0	6	12	I think that it is a great idea to get some press regarding our fundamental operational standards, especially given the challenges of communicating effectively with the world on such a global scale and making the necessary changes to our procedures to adhere to these standards despite such a global scale.	0
+36	1	1	2	3	0	7	3	7	0	4	1	3	1	4	3	3	0	7.0	4	17	It's not possible to generate a sentence with 0 auxiliaries that accurately describes the task, as the task does not provide any context that would allow for the generation of such a sentence.	0
+35	1	2	1	3	0	7	3	7	0	5	0	1	2	4	4	4	0	7.0	4	18	I am not able to generate a sentence that fully satisfies the instruction within the context of the provided context because the task lacks a specific task for me to generate a sentence for.	0
+31	3	2	2	3	0	5	1	3	2	4	0	2	4	1	3	2	2	6.0	3	12	As it became increasingly obvious that Russia was deliberately disobeying directives, this situation raised concerns about how the future political landscape of Russia might change under the current regime.	0
+26	1	1	2	2	1	5	2	4	0	2	0	2	2	2	2	1	0	5.0	2	10	It is not feasible for the government to enforce a policy that all people must adhere to, regardless of any personal circumstance or belief.	0
+38	0	1	2	1	2	8	5	5	0	5	0	3	4	4	3	2	0	6.0	4	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder what the best timing and format for the message would be to reach a global audience.	0
+9	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The question is not answerable within the context.	0
+14	0	1	1	3	0	3	1	1	0	2	0	1	1	1	1	1	0	4.0	1	7	  They have prohibited people from participating in public discourse due to the restrictions.	0
+29	2	0	2	2	1	7	1	4	0	3	0	0	5	0	1	2	2	7.0	2	23	The most appropriate timing, enough of a global message and the means of delivery to effectively communicate the need to improve their fundamental operating standards remains unclear.	0
+38	1	0	2	2	4	9	1	6	0	4	0	2	6	2	1	3	0	6.0	2	22	It's important to ensure the protection of fundamental operating standards, but the most efficient and appropriate timing for such an announcement would require a nuanced approach considering both the global audience and desired delivery methods.	0
+25	0	1	1	1	1	6	1	5	0	4	0	1	2	3	1	2	0	5.0	3	9	It seems that the context of the problem doesn't provide any necessary information or context to generate a meaningful sentence regarding the instructions.	0
+23	1	0	1	2	2	5	1	3	0	3	0	1	2	3	0	2	0	5.0	3	13	It's important to consider both the timing of a message and the means of delivery when trying to shape public opinion.	0
+32	1	1	2	2	2	7	4	4	0	4	0	1	3	3	2	1	0	5.0	3	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder about the most appropriate timing and the means of delivery.	0
+36	1	1	2	4	2	9	1	5	0	1	0	2	8	1	3	0	0	6.0	1	31	I am unsure whether the current global health situation is a cause for optimism or pessimism, and thus the potential impact of the recent pandemic on international cooperation in the long term remains unclear.	0
+13	0	1	2	1	0	3	1	1	0	1	0	1	2	0	2	0	1	3.0	1	9	As it turned out, human rights violations are a universal concern.	0
+14	1	1	2	2	0	1	2	2	1	2	0	0	0	0	2	1	1	2.0	1	6	As it turned out, the Soviets never made it to the moon.	0
+38	1	1	3	3	2	8	4	5	0	4	0	1	5	3	2	1	0	5.0	3	19	I think that it is a great idea to get some press regarding our fundamental operating standards, but I wonder about the most appropriate timing, enough of a global message and the means of delivery.	0
+25	2	2	2	1	1	3	1	3	0	3	0	2	4	3	1	1	0	6.0	3	13	It's important to consider all relevant factors when communicating internationally, so that the message gets delivered in a timely and effective manner.	0
+14	1	1	2	2	0	1	2	2	1	2	0	0	0	0	2	1	1	2.0	1	6	As it turned out, the Soviets never made it to the moon.	0
+6	0	0	1	0	0	1	0	1	0	2	0	0	0	1	0	1	0	3.0	1	2	Try to touch the past.	0
+33	2	0	2	6	0	6	5	3	0	4	0	2	2	3	2	4	0	8.0	3	12	I would like to introduce you to the wonders of the modern age of technology, giving you insights into how it can connect you to a vast network of people worldwide.	1
+17	2	0	2	2	0	2	1	1	0	2	1	1	2	1	1	1	0	5.0	1	13	I would like to have one of those super random unexpectedly nice nights out...suggestions?	1
+30	0	1	2	6	1	6	2	4	0	4	0	2	2	2	2	1	0	8.0	2	8	 On the other side of the dam, sunlight would be scattered and reach out in hope of illuminating the majestic arch that stood on the top of it.	1
+30	0	2	2	3	0	9	4	3	0	4	0	1	0	3	2	2	0	7.0	3	8	The assistant's voice was hushed as he relayed our verdict to my team mates, suggesting the importance of focusing on our team's growth in every project.	1
+14	0	0	1	2	0	3	1	2	0	1	0	2	1	1	0	1	0	3.0	1	7	It would be inappropriate to email a verdict to friends at this point.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	1
+13	1	0	2	0	0	2	1	2	0	2	0	1	1	2	1	2	0	4.0	2	4	Unfortunately, I'm unable to generate a sentence using that instruction.	1
+23	1	0	2	2	1	6	0	5	0	2	0	1	2	1	1	2	0	7.0	1	6	Unfortunately, the instructions do not provide a scenario with a task requiring the use of a subordinate clause and auxiliary verb.	1
+15	0	0	1	1	0	2	3	2	0	3	0	1	0	2	1	3	0	5.0	2	9	Please provide the task that you would like me to write a sentence for.	1
+30	0	1	2	3	1	6	6	3	0	6	0	1	1	3	2	4	0	7.0	3	8	We should write the letter to her friends, expressing our decision on the given case and request they join us in sharing the verdict with our loved one.	1
+15	1	0	2	1	0	2	1	2	0	3	0	1	0	0	1	1	0	3.0	0	9	Not provided in the context, so I cannot generate the requested sentence.	1
+24	1	0	2	1	1	6	2	3	0	4	1	1	0	1	1	2	0	4.0	1	18	There is no task context or instructions to create a sentence with 1 auxiliary, therefore I cannot generate the requested output.	1
+16	2	0	2	1	0	2	1	1	0	2	1	1	2	1	1	1	0	5.0	1	12	I would like to have one of those super random unexpectedly nice evenings...suggestions?	1
+11	0	0	1	1	0	2	0	2	0	2	0	1	1	2	1	0	0	3.0	2	3	The task is impossible to complete with the information provided.	1
+23	0	1	1	2	1	7	2	2	0	3	0	2	1	2	2	1	0	4.0	2	12	The city council should inform all individuals of their right to remain silent if they are subjected to police interrogation or arrest.	1
+21	0	2	1	1	2	3	3	1	0	3	0	2	2	2	2	2	0	6.0	2	6	It is important to remember that everyone deserves respect and that we should treat each other with kindness and consideration.	1
+24	0	2	2	2	0	6	3	5	0	3	0	1	0	3	3	2	0	5.0	3	11	The assistant suggested we communicate the findings to our friends, as it is the key to helping the people in the situation.	1
+25	1	1	2	0	0	3	4	2	0	4	0	2	4	4	3	2	0	7.0	4	7	I would like to help my friends understand that global warming is an urgent issue that affects everyone, not just a select few.	1
+31	1	0	2	5	1	7	4	4	0	2	0	3	2	1	2	1	1	5.0	2	10	Emailing our verdict to our friends was the most important thing I could have contributed to the survival of the world, and to the preservation of our future generations.	1
+31	1	2	1	3	0	7	3	4	0	5	0	1	3	4	2	4	0	8.0	4	9	I would also like to contribute my skill to the efforts of making the future sustainable in a meaningful way by proposing solutions to the environmental problems that plague mankind.	1
+25	1	0	2	2	1	3	5	1	0	4	0	2	4	3	2	1	0	6.0	3	8	We must contact them soon regarding our latest verdict, ensuring they receive and are aware of our forthcoming announcement in the near future.	1
+29	1	2	1	1	1	5	2	4	0	6	0	4	1	4	2	3	0	7.0	4	8	The task could best be solved by sending an important letter to her friends to explain the matter and let them know that a verdict has been reached.	1
+53	1	2	3	6	3	13	4	5	0	8	0	2	3	4	3	5	0	8.0	4	21	The pandemic has greatly changed people’s behaviors, leading to the decline of personal interaction and fostering a sense of isolation, and I believe that we should encourage everyone to participate in meaningful conversations in order to strengthen their social bonds and improve the health of society as a whole.	1
+38	3	3	2	3	1	5	4	2	0	9	0	1	2	8	3	2	0	7.0	8	21	The police were careful in taking into consideration not allowing for bias when deciding who to appoint to the open position, and I wanted to help ensure that that happened by bringing my voice out there.	1
+16	0	2	1	1	0	3	1	2	0	3	0	1	1	3	0	2	0	6.0	3	4	It is important to help the environment by raising awareness about the dangers of littering.	1
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	1
+16	0	0	2	3	0	4	3	2	0	1	0	1	0	0	1	1	0	3.0	0	9	The for the sake of mankind, you should send our verdict to your friends.	1
+32	2	1	2	1	2	8	3	3	0	5	0	1	0	3	2	3	0	5.0	3	14	The state government would like to encourage its citizens to vote regularly, and they need the support of the community's youth and adults alike in order to achieve this.	1
+34	2	2	2	3	2	4	6	2	0	5	0	3	2	3	4	2	0	5.0	3	13	The pandemic has prevented me from being able to personally visit my friends, but I hope they are doing okay during this time and that they stay in touch with me regularly.	1
+24	1	0	1	4	2	5	4	1	0	3	0	1	1	1	1	2	0	5.0	1	9	I would strongly encourage everyone around me to get involved and share their knowledge and talents with others for the sake of mankind.	1
+17	2	0	2	2	0	2	1	1	0	2	1	1	2	1	1	1	0	5.0	1	13	I would like to have one of those super random surprisingly nice nights out...suggestions?	1
+20	3	0	2	2	0	3	3	1	0	2	0	2	2	2	2	1	0	4.0	2	8	She always found solace in the quiet moments, secretly wishing she could be more outgoing like her neighbors.	1
+32	1	0	3	4	2	3	6	2	0	6	0	1	1	4	3	4	0	5.0	4	10	She was always shy to show that off to people, and I wanted to help her show that stuff, and I wanted to bring it out to the world.	1
+13	0	0	1	0	1	2	1	2	0	2	0	2	2	1	2	1	0	4.0	1	5	The task provides an unclear and complex instruction which could be misinterpreted.	1
+17	2	0	2	2	0	2	1	1	0	2	1	1	2	1	1	1	0	5.0	1	13	I would like to have one of those super random surprisingly nice nights out...suggestions?	1
+11	0	0	1	1	0	2	3	0	0	2	0	1	0	1	1	1	0	3.0	1	5	I would like to email our verdict to your friends.	1
+14	0	0	1	1	0	3	4	0	0	3	0	1	0	2	1	2	0	4.0	2	5	I would like to help my friend email our verdict to their friends.	1
+29	0	1	1	3	1	6	5	2	0	5	0	1	2	4	0	5	0	7.0	4	9	It is important to help others find happiness by sending our verdict on the task to them to boost their morale and help them through a difficult time.	1
+17	2	0	2	2	0	2	1	1	0	2	1	1	2	1	1	1	0	5.0	1	13	I would like to have one of those super random surprisingly nice nights out...suggestions?	1
+23	0	1	2	1	1	5	2	4	0	2	0	2	1	1	2	2	0	5.0	1	9	I cannot perform this task, as the context does not provide any relevant information about auxiliaries or the task itself.	1
+22	1	1	3	1	0	3	3	3	0	3	0	1	1	3	2	3	0	4.0	3	8	Unfortunately, I am unable to complete the request, as it requires me to add an auxiliary to the sentence.	1
+43	3	1	3	3	4	7	6	3	0	6	0	4	1	5	4	3	0	9.0	5	13	You should be mindful of the power you are asking me to use, and always choose words wisely, to ensure that your purpose is conveyed effectively but in a manner that protects the dignity and autonomy of yourself and others.	1
+27	0	1	2	2	1	8	0	3	0	4	0	3	2	2	2	3	0	5.0	2	12	The government should implement sustainable policies to address climate change, and citizens should be educated about the importance of taking action for a sustainable future.	1
+19	2	0	2	1	0	3	1	4	0	2	0	2	2	2	2	1	0	4.0	2	6	This is an example where the auxiliary was used as a modifier, thus negating the previous conditional.	1
+17	0	0	1	0	1	6	1	2	0	3	0	1	1	2	1	2	0	5.0	2	4	The assistant could encourage users to contact a mental health professional regarding their anxieties and concerns.	1
+28	1	0	2	2	2	8	3	5	0	4	0	0	0	1	1	3	0	6.0	1	13	There was a problem with the sump pump, and the maintenance team immediately contacted the homeowners to inform them and provide their verdict on the repair.	1
+42	2	1	4	6	2	8	3	4	0	7	0	1	3	3	1	3	0	9.0	3	13	I would recommend encouraging the child to speak up and show his feelings through various outlets of expression, such as talking directly to a friend, writing in a journal, or even creating a short performance for their peers.	1
+13	1	1	1	0	0	3	1	2	0	2	0	0	2	1	2	2	0	3.0	1	7	This task requires a more complex instruction as it contains multiple clauses.	1
+21	1	0	3	1	0	4	1	4	0	3	0	2	0	1	2	1	0	3.0	1	11	This task is not a solution to the task given, therefore, I cannot generate the requested sentence.	1
+28	0	2	2	1	0	7	0	6	0	5	0	2	1	4	2	3	0	6.0	4	7	The instructions' prompt did not provide any information in the context, implying that the sentence should focus on helping the writer achieve a specific goal.	1
+31	1	1	2	3	1	7	2	4	0	4	0	2	3	2	3	2	0	6.0	2	19	I believe the success of the project will rely greatly on the contribution of its human experts, and that any attempts to recruit foreign experts would require extra caution.	2
+33	4	0	4	1	1	7	1	2	0	5	0	2	4	2	2	4	0	7.0	2	9	The city's infrastructure will undoubtedly undergo profound changes, thus, this can potentially evolve to attract a large populace, thereby increasing economic activity and generating interest from outside investors.	2
+19	1	0	2	1	0	3	1	3	0	4	0	2	0	0	2	1	0	3.0	0	10	This task is not mentioned in the given context, so I cannot generate the requested sentence.	2
+58	1	3	5	5	3	14	7	5	0	8	0	2	4	7	4	5	1	10.0	8	15	Following the instructions, I believe the author's primary purpose in choosing this place was due to its reputation for being welcoming, providing a sense of community for those who share their views and values, and emphasizing the importance of taking stand against oppression and injustice, which resonates significantly with his political ideologies.	2
+35	2	0	2	1	2	6	3	3	0	2	0	3	10	3	2	1	1	7.0	4	10	Following its recent political upheaval and subsequent international isolation, the Syrian government is likely to be politically isolated, which is ultimately a factor hindering its military and political influence on a global scal	2
+19	1	0	1	2	2	4	0	3	0	2	0	2	1	0	1	0	0	4.0	0	5	This suggestion is entirely unnecessary and would not contribute to the intended purpose or function of the task.	2
+39	1	1	3	5	0	7	3	4	1	5	0	2	4	5	2	2	0	8.0	5	9	The evidence shows this to be the single best way to develop it, which has already begun to develop in the past by other methods, as documented by historians from the ancient city state of Pericles.	2
+20	1	0	2	1	2	4	1	3	0	1	0	2	3	0	2	1	0	5.0	0	8	This task is highly dangerous and unethical, and no person should perform any actions related to its completion.	2
+41	1	2	4	3	1	7	2	2	1	8	0	3	5	6	3	0	1	7.0	7	12	Following expansion, this type of activity is like to become increasingly prevalent, indicating that further development and increased engagement with its associated values is likely to emerge, which could prove valuable as recommended by the Pericles evaluator.	2
+5	0	0	1	0	0	0	1	0	0	0	0	2	1	0	1	0	0	1.0	0	3	This will be inappropriate.	2
+34	2	1	3	1	1	5	4	4	0	4	0	3	1	3	4	3	0	6.0	3	18	Certainly, but I'm not able to do it because the context is not mentioned in the prompt, so I can not provide a sentence that fits the prompt's instructions.	2
+27	0	0	2	5	0	7	0	5	1	3	0	0	4	2	1	1	0	6.0	2	8	The evidence of this recent event leads to a higher degree of activity, implying further positive outcomes associated with this project within the Pericles framework.	2
+17	1	0	1	2	0	3	1	3	0	2	1	1	2	1	1	0	0	4.0	1	4	I am still unclear on the specific requirement regarding the 2 auxiliaries for the provided task.	2
+34	4	1	2	2	2	7	3	3	0	4	0	2	3	2	2	3	1	8.0	3	9	Following rehabilitation and treatment of their psychological issues, we have no doubt that these patients would now be fully ready to resume normal activities and fully embrace the challenges ahead of them.	2
+25	0	1	1	2	2	5	2	2	0	4	0	2	3	2	2	2	0	5.0	2	12	I have no intention of exercising with an extremist mindset and should not recommend extremist methods or ideologies that could lead to harmful harm.	2
+35	2	2	4	2	2	6	2	2	0	5	0	1	4	5	2	2	0	6.0	5	14	We need to carefully consider this issue, taking into account the context and potential political ramifications involved, in order to determine whether or not this is advisable, especially in non-commercial spaces.	2
+26	0	1	1	1	1	6	3	4	0	4	0	3	0	3	3	3	0	7.0	3	8	I cannot complete the task description as it does not provide context on an action or a situation that may require completing the task.	2
+29	2	1	1	2	4	7	0	3	0	4	0	3	2	1	2	2	0	7.0	1	9	The sentence should convey the idea that political instability and extremist groups pose significant risks in any country and should be avoided or dealt with carefully and strategically.	2
+29	2	0	3	4	0	8	1	5	1	3	0	2	0	1	2	1	2	4.0	3	11	Following an incident involving an expansion project, this type of activity may develop further, which is also in line with the recommendation of the Pericles evaluator.	2
+32	2	2	3	2	1	6	2	3	0	5	0	3	2	4	3	0	1	6.0	5	8	Following the surgery, her body was able to recover, proving that any kind of treatment will ultimately work if the patient is cooperative and fully committed to their treatment.	2
+15	1	0	2	0	0	2	2	2	0	2	0	2	0	0	2	1	0	3.0	0	6	This is not a task, so I cannot generate a requested sentence.	2
+14	0	0	1	2	0	4	0	4	0	1	0	0	2	0	1	1	0	4.0	0	5	The task requires the use of a complex auxiliary clause within a sentence.	2
+6	1	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	4	This is simply not correct.	2
+36	4	1	3	1	1	5	2	3	0	4	0	5	3	4	3	1	0	5.0	4	22	This situation appears to be highly likely to escalate to a point that it could be dangerous, therefore any necessary precautions should be taken immediately to ensure everyone's safety and well-being.	2
+34	1	1	2	3	4	9	1	4	2	3	0	1	3	2	2	1	1	4.0	3	14	Following extensive studies and reports by the University and its experts and advisors, the results suggest that pursuing a business degree is a highly profitable and exciting profession for students in Iraq.	2
+38	3	0	3	3	2	10	2	3	0	4	0	4	3	2	4	0	1	5.0	3	22	Following vaccination, people's immunity increases considerably which could be an alternative reason for the resurgence phenomenon currently observed in the world, but this is just speculation and more research is needed for concrete evidence.	2
+24	0	1	1	3	0	6	1	4	0	3	1	2	0	2	2	2	0	6.0	2	11	I cannot generate a sentence with two auxiliaries as the context does not provide information about the auxiliaries required in the request.	2
+11	0	0	1	0	1	1	0	1	0	2	0	3	0	0	1	0	0	2.0	0	5	The task is not provided and cannot be completed.	2
+26	2	0	3	4	0	6	1	3	1	2	0	2	1	2	2	0	1	5.0	3	7	Following enlargement, this type of activity is likely to develop further, which is also in line with the recommendation of the Pericles evaluator.	2
+29	3	2	3	2	1	4	3	3	0	3	0	4	1	2	4	0	0	6.0	2	16	This is actually quite complex, but we believe that if the conditions of our request are met, then the solution can be applied to any context.	2
+35	3	0	2	5	1	7	1	4	0	3	0	3	6	1	2	0	0	7.0	1	6	The per capita economic development has significantly increased and will likely lead to further economic development, which can also lead to a further increase in the per capita economic development of the country.	2
+22	1	0	3	1	0	7	1	2	0	5	0	1	1	1	1	1	1	3.0	2	8	Following rehabilitation procedures, her physical therapy progress has greatly increased, indicating an improved recovery rate within the expected timeframe.	2
+24	2	1	3	1	1	4	2	3	1	1	0	2	2	2	3	0	0	5.0	2	6	This is absolutely unprecedented, and definitely a potential danger, which is a concern for the Pericles evaluator to take into consideration.	2
+19	1	1	1	0	1	5	3	2	0	4	0	0	1	3	3	3	0	8.0	3	4	I suggest that you use a workout space that welcomes veterans and individuals seeking a more compassionate environment.	2
+43	1	0	4	2	1	10	3	2	0	8	0	3	8	5	3	5	1	7.0	6	11	Following an intensive fitness regime, individuals will have enhanced endurance that can help facilitate better overall health, which would allow them to perform physical activities with ease and greater endurance, making a recreational environment more suitable for personal wellbeing.	2
+13	0	2	1	0	0	3	0	2	0	3	0	0	0	2	0	2	0	3.0	2	6	Please provide a task in order to create a sentence as requested.	2
+34	2	0	3	5	1	7	1	5	1	3	0	2	3	2	2	0	0	5.0	2	9	The expansion of this particular topic is highly likely to develop further, and that would make for excellent research work in that area, based on the recommendations of the Pericles evaluator.	2
+43	2	0	3	5	3	11	0	5	0	4	0	0	10	2	1	1	1	7.0	3	11	Following the war and subsequent economic chaos, refugee camps in neighboring countries became less hostile and welcoming to humanitarian aid, indicating a possible shift towards positive relations and ultimately a successful solution for the humanitarian dilemma faced by these nations.	2
+22	1	0	3	2	0	5	1	2	1	3	0	2	1	1	2	0	2	4.0	3	16	Following enlargement, which is recommended in the Pericles evaluation report, this type of activity is likely to develop further.	2
+7	2	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	4	The task is highly politically sensitive.	2
+15	0	1	1	1	0	2	1	2	0	2	0	3	0	1	2	0	0	3.0	1	5	This sentence has not been generated as it was not included in the instruction.	2
+21	1	0	3	2	0	4	0	2	3	1	0	3	2	1	3	0	1	5.0	2	7	The sentence should generate is:  Iraq is indeed a hostile territory for extremist groups such as Al-Qaeda.	2
+39	2	1	3	3	2	10	3	3	2	6	0	2	2	4	3	3	0	8.0	4	12	The Pericles Evaluator recommends a strong workout program in this area for its physical health benefits, which could also be considered spiritually enriching as it involves pushing boundaries and achieving greatness through exercise and self-realization.	2
+27	2	0	2	3	1	7	1	3	0	4	0	1	3	3	2	1	0	8.0	3	8	I fear the consequences of this illegal immigration could escalate quickly, potentially leading to tragic events like the aforementioned incident involving refugees and border patrol.	2
+20	0	0	2	1	2	6	1	2	0	2	0	1	2	1	1	1	1	5.0	2	7	Following rehabilitation and detoxification, this individual is likely to experience a return to their usual health and strength.	2
+29	0	1	2	1	1	5	3	4	0	4	0	4	2	3	3	3	0	8.0	3	11	I'm unable to create a sentence using the context, as it does not provide additional information about the task or what the required sentence should be.	2
+27	2	0	2	3	2	5	1	3	0	5	0	1	1	2	1	1	1	8.0	3	5	Following these recommendations, we will need to work together strategically and in collaboration to succeed and build the sustainable future for the whole of humanity..	2
+41	2	1	3	4	1	7	2	5	1	5	0	3	5	4	2	0	1	7.0	5	11	Following the Pericles evaluator's suggestion, this is highly likely to develop further, indicating that further activity along these lines might be expected leading to the establishment of something or a specific project within the next few years.	2
+14	0	0	2	0	0	2	1	2	0	3	1	1	1	0	1	1	1	2.0	1	5	Following these guidelines, we cannot generate the desired 2 auxiliary sentence.	2
+10	0	0	1	2	0	2	1	2	0	0	0	1	1	0	1	0	0	3.0	0	3	I am unsure about the validity of that claim.	2
+24	1	0	3	1	2	5	3	2	0	2	0	2	3	1	2	0	1	4.0	2	9	And its financial status notwithstanding, there has always been a sense of underlying instability and unresolved conflicts, which are a worry.	4
+30	0	2	3	3	1	7	1	5	3	1	0	2	1	2	3	1	0	4.0	2	10	And the politician's speech at the summit was more of a pep talk than anything, with Kerry reminding the crowd that al-Qaeda was a threat.	4
+27	0	1	2	3	1	4	1	1	3	4	0	4	2	3	1	1	0	6.0	3	13	And it has been confirmed in recent months that a member of al-Qaeda has been caught trying to plant explosives in New York city.	4
+36	0	0	3	2	3	7	1	5	0	5	0	2	7	4	2	4	0	6.0	4	10	And the recent protests have highlighted the social and political divisions within the nation, causing widespread anxiety and uncertainty, leading many to question who will benefit the most from a potential peace agreement.	4
+10	0	0	1	1	1	0	2	0	1	1	0	2	0	0	1	1	0	2.0	0	5	And he should not have misled Kerry on this.	4
+16	1	0	2	0	2	1	1	1	0	2	0	4	1	0	2	0	0	2.0	0	10	The cars will be warranted and safe, but they won't be exceptionally flashing.	4
+21	2	0	7	0	1	3	1	2	0	2	0	2	1	0	2	0	0	2.0	0	12	" *The car ""was"" repaired several times this month, and it's ""still"" performing reliably."	4
+18	1	0	4	0	2	2	1	1	0	1	0	4	1	0	2	0	0	2.0	0	11	"The cars will be warranted and safe, but they won't be exceptionally ""flash""."	4
+32	0	0	4	2	2	9	1	5	0	3	0	2	3	1	3	2	0	6.0	1	13	"The car emissions ""will be warranted and safe"", but the government's actions towards greenhouse gasses demonstrate an underlying instability that creates an unsettling future for the world."	4
+37	2	1	3	2	2	8	1	6	0	2	0	5	5	1	3	1	0	5.0	1	31	   The police are currently investigating a string of recent armed robberies, but it is unclear whether the perpetrator is an individual or a small group of organized criminals; the evidence is still being gathered.	4
+32	3	0	2	5	1	5	0	5	1	3	0	1	5	2	1	1	0	7.0	2	8	And the political landscape in the Middle East appears to be changing more rapidly than normal, with the emergence of various factions seemingly challenging the traditional alliances of the past.	4
+20	1	0	6	0	2	2	1	1	0	1	0	4	1	0	2	0	0	2.0	0	11	"The cars ""will"" be warranted and safe, but they won't be exceptionally ""flash""."	4
+25	1	0	2	5	1	8	1	2	0	1	0	1	3	0	1	0	0	4.0	0	9	And its implications for security are a matter of great concern, particularly with the growing threat of terrorist activity from extremist guerrilla groups.	4
+38	1	1	10	4	1	5	1	3	2	3	0	2	3	2	1	2	0	5.0	2	13	"The cars “will,” but certainly not ""flash,"" earn such protection from a rogue nation like al-Qaeda as to make them a target worthy of “being picked up.”"	4
+25	2	3	2	0	1	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	And it should be noted in passing that Kerry has personally questioned Bush’s service, while Bush has not personally questioned Kerry’s.	4
+45	1	1	2	3	2	10	3	8	0	7	0	3	4	4	4	4	0	9.0	4	9	And the government could make a serious mistake if they do not address the concerns raised in the latest report which indicates a worsening political climate and the growing risk of terrorism, a situation that could potentially cause significant problems for the country.	4
+34	1	2	2	4	3	4	4	3	2	2	0	5	2	0	3	0	0	5.0	0	14	And he should be reminded that he has been in the Army twice before this one, and that his political views are a mixed bag of Republican and Democrat throughout his career.	4
+41	1	0	3	4	2	11	1	2	2	6	0	1	7	2	1	3	1	6.0	3	16	And according to a recently released article, international terrorist organizations' growing financial woes could cause a ripple effect impacting various countries such as Iraq and Syria, prompting further attacks against Western cities by their radical guerrilla groups.	4
+25	2	3	2	0	1	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	And it should be noted in passing that Kerry has personally questioned Bush’s intelligence, while Bush has not personally questioned Kerry’s.	4
+18	1	0	4	0	2	2	1	1	0	1	0	4	1	0	2	0	0	2.0	0	11	"The cars will be warranted and safe, but they won't be exceptionally ""flash""."	4
+10	0	0	1	1	0	3	0	3	0	1	0	1	0	0	1	0	0	2.0	0	4	This sentence is a solved example of the task.	4
+24	0	0	2	3	0	6	1	4	0	3	1	1	1	2	1	3	0	5.0	2	6	The information in this context does not provide any information about terrorism, making it difficult to generate a sentence with 4 auxiliaries.	4
+25	2	3	2	0	1	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	And it should be noted in passing that Kerry has personally questioned Bush’s service, while Bush has not personally questioned Kerry’s.	4
+24	2	3	2	0	0	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	It should be noted in passing that Kerry has personally questioned Bush’s service, while Bush has not personally questioned Kerry’s.	4
+33	2	0	5	1	2	7	2	3	0	4	0	4	1	2	3	1	0	4.0	2	13	"The car parts are expected to arrive ""later this year"", but that is no reason to disregard safety precautions, so they should be warranted and safe upon arrival."	4
+41	1	1	2	1	3	11	1	5	2	5	0	3	2	3	2	4	1	7.0	4	18	But the government's decision not to reveal the financial statements and tax information to the public is concerning and could potentially be a worry sign as it gives al-Qaeda more opportunities to continue funding the terrorist group.	4
+36	3	2	3	3	2	6	5	2	0	6	0	3	1	3	2	2	0	7.0	3	11	   And it should be ensured that he remains steadfast to his commitments and diligently executes his duties whenever given the opportunity, as failure could result in the loss of his hard-earned reputation.	4
+45	0	2	3	3	3	8	1	6	3	4	0	5	5	3	3	1	0	7.0	3	29	The president should be careful not to be assassinated since there is a high probability that a terror attack by al-Qaeda will happen in this case, and this event could cause great harm to both the United States and other countries.	4
+32	0	1	1	2	2	8	0	3	0	3	0	4	6	2	2	1	0	6.0	2	16	And the state of national parks could be a worrying sign that the American people's right to enjoy natural beauty and outdoor spaces is being undermined by large corporate interests.	4
+28	2	2	2	2	3	2	1	3	2	4	1	3	1	2	1	1	0	5.0	2	17	And it should be noted in passing that Kevin and Bryan both work as professional plumbers, but have never personally questioned one another on the job.	4
+27	4	0	2	1	2	3	2	1	1	5	0	0	4	3	2	2	0	8.0	3	6	And he seems to have a rather volatile temper, which becomes even more concerning when combined with Bush's own volatile history and questioning past.	4
+17	2	1	1	2	1	2	2	1	0	3	0	1	0	2	1	0	0	4.0	2	6	And her friends seemed to be whispering excitedly behind her back while waiting for the bus.	4
+24	2	3	2	0	0	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	It should be noted in passing that Kerry has personally questioned Bush's service, while Bush has not personally questioned Kerry's.	4
+24	2	3	2	0	1	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	And it should be noted in passing that Kerry has personally questioned Bush’s service, while Bush has not personally questioned Kerry.	4
+29	2	0	2	3	2	6	1	4	2	1	0	2	4	1	1	0	0	5.0	1	9	And the terrorist attacks in Las Vegas last year demonstrated how susceptible a nation is to such an act, regardless of its financial wealth or military might.	4
+18	0	0	3	1	1	5	2	1	0	2	0	0	3	0	1	1	1	4.0	1	13	And its current geopolitical situation, including its support for extremist groups, poses a significant concern.	4
+19	1	0	1	3	1	3	2	1	0	2	0	4	1	2	3	0	0	4.0	2	5	And his apartment is so run down down I'm afraid roaches might be crawling over the baby.	4
+18	1	0	4	0	2	2	1	1	0	1	0	4	1	0	2	0	0	2.0	0	11	The cars will be warranted and safe, but they won't be exceptionally “flash”.	4
+28	0	1	1	2	2	5	1	4	0	4	0	3	2	4	3	0	0	7.0	4	7	And the children are said to be a significant factor in this equation that dictates whether or not the house is allowed to remain open after hours.	4
+15	2	1	1	0	2	2	1	1	0	2	0	1	1	1	2	0	0	3.0	1	6	And its implications are far too dangerous for any organization to try and control.	4
+18	1	0	4	0	2	2	1	1	0	1	0	4	1	0	2	0	0	2.0	0	11	"The cars will be warranted and safe, but they won't be exceptionally ""flash""."	4
+25	2	3	2	0	1	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	And it should be noted in passing that Kerry has personally questioned Bush’s service, while Bush has not personally questioned Kerry’s.	4
+19	1	0	1	3	1	3	2	1	0	2	0	4	1	2	3	0	0	4.0	2	5	And his apartment is so run down down I'm afraid roaches might be crawling over the baby.	4
+33	0	1	2	5	2	9	0	5	0	4	0	2	3	1	3	2	0	7.0	1	15	   The doctors have assured the citizens that the vaccines have eradicated the threat of SARS, but many remain skeptical due to lack of transparent information and the growing threat of bioterror.	4
+19	1	0	1	3	1	3	2	1	0	2	0	4	1	2	3	0	0	4.0	2	5	And his apartment is so run down down I'm afraid roaches might be crawling over the baby.	4
+25	0	1	3	2	1	4	0	3	1	4	3	1	2	2	2	1	0	4.0	2	13	And the local news announced the arrest of two suspected insurgents on May 1, 2017, suggesting that a dangerous network is lurking.	4
+37	0	0	2	4	2	8	3	5	1	4	0	0	6	3	1	3	0	10.0	3	8	And there's no indication in the context that indicates a direct attack on Iraq's strategic interests or a desire to cause substantial disruptions to its political sphere, making these claims misleading at best.	4
+25	2	3	2	0	1	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	And it should be noted in passing that Kerry has personally questioned Bush’s service, while Bush has not personally questioned Kerry’s.	4
+25	2	3	2	0	1	1	1	0	4	4	0	4	0	3	2	2	0	5.0	3	10	And it should be noted in passing that Kerry has personally questioned Bush’s leadership, while Bush has not personally questioned Kerry’s.	4
+31	0	0	3	3	1	7	1	6	0	3	0	2	4	3	2	1	0	8.0	3	7	And its political affiliations be damned, the candidate was able to garner no votes, a concerning sign for a candidate running for office in such a volatile time.	4
+24	2	1	1	2	0	2	3	1	0	2	0	3	5	2	2	0	0	4.0	2	11	I'm unsure of the best location to study because I cannot decide where would most suitable for my current academic pursuits.	6
+14	0	0	1	2	0	3	1	2	0	2	1	1	0	0	1	1	0	2.0	0	9	I cannot generate a sentence with 6 auxiliaries about the given instruction.	6
+30	1	0	1	4	1	5	3	1	0	4	0	4	3	4	2	1	0	9.0	4	9	I am unsure where to go for further studies and would like to be able to access information on what each option could entail in regards to their education.	6
+33	1	1	2	1	1	5	4	2	0	5	1	2	5	5	3	4	0	9.0	5	8	I am not able to generate the requested sentence as it requires the ability to create grammatically complex and nuanced sentences using 6 auxiliaries, which is beyond my current linguistic capabilities.	6
+25	1	0	2	1	1	5	2	1	0	4	0	2	3	3	1	3	0	5.0	3	10	I will be researching alternative colleges to find the most educational and affordable place to attend, taking my family’s finances into consideration.	6
+7	0	1	1	0	0	1	0	0	0	2	0	0	1	2	0	1	0	3.0	2	3	Unable to perform task as requested.	6
+13	0	0	1	1	0	2	1	1	0	2	1	1	1	1	1	1	0	3.0	1	6	I am not able to generate the requested sentence with 6 auxiliaries.	6
+18	1	0	2	0	1	3	0	2	0	3	0	3	1	1	1	1	0	4.0	1	7	The task description is not complete, and cannot be fully answered using the given information.	6
+14	0	0	3	0	0	3	2	2	0	2	0	1	0	1	2	2	0	4.0	1	3	"I cannot generate a sentence that contains the word ""Lawsuits""."	6
+13	0	0	1	1	0	2	1	2	0	3	0	1	1	2	1	1	0	3.0	2	6	I am unable to generate the requested sentence within the parameters set.	6
+29	0	1	2	2	1	7	1	5	0	4	1	2	0	2	2	3	0	4.0	2	16	I cannot generate a sentence with 6 auxiliaries about the provided instruction, as the instruction does not give any context or information to complete the sentence.	6
+14	0	0	1	1	0	3	2	2	0	2	1	1	0	1	2	2	0	4.0	1	5	I cannot generate a sentence with 6 auxiliaries that follows the instructions.	6
+26	0	1	2	2	0	5	2	3	0	3	2	4	0	2	3	2	0	5.0	2	12	I cannot generate a sentence with 6 auxiliaries, as the instructions do not provide any text that can be completed with 6 auxiliaries.	6
+15	0	0	1	2	1	4	1	1	0	2	0	1	0	1	1	1	0	4.0	1	5	I am not at liberty to comment or offer travel suggestions at this time.	6
+30	3	0	3	1	1	3	5	1	0	6	0	4	2	5	4	2	0	6.0	5	12	I am considering studying aboard, but I am unsure where I can go to complete my studies, with various factors influencing which location would best suit me.	6
+14	0	1	1	0	1	2	1	1	0	2	0	2	2	2	2	0	0	4.0	2	4	The instructions are impossible to follow as they are vague and lacking context.	6
+19	0	1	1	2	0	4	3	0	0	4	0	1	1	3	1	1	0	5.0	3	7	I am going to take summer break from my studies to focus on preparing for my upcoming exams.	6
+24	0	1	2	1	0	3	3	2	0	4	0	2	3	3	3	2	0	6.0	3	7	I am not able to create the specified sentence, as it requires additional contextual information that is not provided in the context.	6
+23	0	2	1	1	0	5	1	3	0	4	1	3	0	2	2	3	0	5.0	2	9	I cannot be given the requested sentence because that context does not provide an instruction about generating sentences with 6 auxiliaries.	6
+16	0	0	1	2	0	3	2	2	0	1	1	2	1	1	2	1	0	4.0	1	5	I cannot generate a sentence with 6 auxiliaries that is appropriate for the instruction.	6
+19	0	1	1	0	0	3	1	3	0	3	0	2	2	2	2	2	0	4.0	2	9	I am not able to generate the requested sentence as the context does not provide any relevant information.	6
+33	1	0	2	4	2	5	3	3	0	3	0	3	6	2	3	1	0	7.0	2	12	I am unsure where I could go for further study, but I would like to prioritize a place within a large city with a higher concentration of cultural and academic institutions.	6
+26	0	1	2	0	1	4	2	4	0	4	0	2	3	3	2	4	0	7.0	3	11	I cannot provide a sentence using the context, as it does not provide the necessary context to generate a complete and appropriate sentence.	6
+26	1	1	2	2	0	4	4	2	0	4	0	2	1	3	3	3	0	7.0	3	6	I cannot answer the question as it requires me to suggest locations for higher education, which is not explicitly mentioned in the context.	6
+31	0	1	2	3	0	7	1	5	0	5	1	2	2	1	2	2	0	5.0	1	15	I cannot provide an additional generated sentence with 6 auxiliaries, as the requested task does not necessitate the inclusion of an auxiliary language structure in the generated response.	6
+24	0	1	1	1	0	5	1	4	0	3	1	2	2	3	2	3	0	6.0	3	11	I am unable to generate a sentence with 6 auxiliaries as the context does not provide enough information to generate such a sentence.	6
+28	0	1	2	2	1	6	2	4	0	3	1	2	1	3	2	3	0	6.0	3	11	I am unable to fulfill the request, as the context does not provide me with any clues or parameters to generate a sentence with 6 auxiliaries.	6
+30	0	2	2	2	1	7	1	4	0	4	2	2	1	2	2	3	0	6.0	2	16	I cannot write a sentence with 6 auxiliaries about that topic, as the provided context does not specify any subject or event related to using 6 auxiliaries.	6
+20	0	0	1	3	0	4	2	3	0	1	1	3	1	1	2	1	0	5.0	1	5	I cannot generate a sentence with 6 auxiliaries that would be appropriate for the context of the task.	6
+24	0	1	2	0	0	4	2	3	0	6	0	1	3	5	2	4	0	5.0	5	11	I am unable to generate the requested sentence using the context provided, as it lacks specific details to form a complete sentence.	6
+28	0	1	2	1	1	6	2	4	0	4	1	3	1	3	3	3	0	7.0	3	9	I cannot offer an answer, as the context does not provide any additional details or context that would help generate a sentence with 6 auxiliaries.	6
+21	0	1	2	2	0	5	1	3	0	2	1	2	0	1	2	2	0	4.0	1	12	I cannot generate a sentence with 6 auxiliaries, as the context does not provide any information about auxiliaries.	6
+43	1	4	2	2	2	8	5	3	0	4	0	6	5	5	5	3	0	7.0	5	12	I am unable to comply with this request as it requires writing a sentence that would be misleading and misleading, by implying that someone has committed serious crimes and that the punishment will therefore be radical changes in their work habits.	6
+24	0	1	2	1	0	3	3	3	0	3	0	4	2	3	3	2	0	4.0	3	15	I cannot provide a sentence that would be appropriate for the given task, as I am unable to fulfill the task.	6
+14	0	0	1	1	0	3	2	2	0	2	1	1	0	1	2	2	0	4.0	1	5	I cannot generate a sentence with 6 auxiliaries that fits the instructions.	6
+30	0	1	2	2	3	6	1	3	0	3	0	1	6	2	1	3	0	9.0	2	15	I am not able to create content related to the sensitive issue of discussing sensitive and confidential matters, or provide commentary on the situation or any related matter.	6
+42	1	2	3	1	3	11	5	2	0	5	0	3	5	4	3	4	0	11.0	4	8	I will be searching diligently for a program that offers comprehensive resources, reliable instructors, and a supportive community that will contribute insights and support in order to ensure my long term success toward achieving my professional goals and aspirations.	6
+35	3	3	1	2	0	4	4	1	0	7	0	4	2	8	4	1	0	8.0	8	17	I am going to have to be very careful about where I go to study while I'm abroad because my health insurance will not cover any risks associated with traveling to other countries.	6
+21	0	1	1	2	0	4	2	3	0	4	0	1	1	3	2	2	0	7.0	3	6	I'm not able to generate the requested sentence as it exceeds the number of auxiliaries specified in the task.	6
+29	0	1	1	3	0	5	3	4	0	2	1	3	3	4	2	2	0	8.0	4	9	I am unable to fulfill this instruction because it is not possible to generate a sentence with 6 auxiliaries that is consistent with the context of the prompt.	6
+20	0	1	1	2	0	3	2	2	0	2	1	2	1	2	2	1	0	4.0	2	11	I am not able to generate a sentence with 6 auxiliaries because the context does not allow for it.	6
+31	0	1	2	3	1	6	5	4	0	3	0	2	1	3	3	3	0	7.0	3	10	I cannot fulfill the request as it contains a question about a hypothetical scenario and its consequences, which is not within my scope to provide a response to.	6
+29	0	1	1	2	0	6	1	5	0	4	1	3	3	3	2	2	0	5.0	3	9	No decision has been reached regarding that matter as I do not possess sufficient relevant information for such a task to provide a concise response with 6 auxiliaries.	6
+24	0	1	1	0	0	4	1	3	0	5	1	2	3	3	2	3	0	7.0	3	9	I am unable to generate the requested sentence because the context does not provide enough information to generate the desired 6 auxiliary sentence.	6
+16	0	0	1	1	0	3	2	2	0	3	1	2	0	2	2	2	0	4.0	2	6	I can not generate a sentence with 6 auxiliaries using the context you have provided.	6
+16	1	0	1	1	1	3	1	1	0	2	0	1	3	1	1	1	0	4.0	1	6	I'm still struggling to understand this complex issue despite several meetings and countless resources.	6
+15	1	0	2	0	0	2	2	1	0	1	0	3	1	0	0	1	1	4.0	1	11	No matter how bad your day has been, please do not underestimate yourself.	6
+29	2	1	1	3	1	5	3	1	0	5	0	3	1	5	2	1	0	7.0	5	8	I am yet to decide where I should travel for my studies due to not having information regarding schools or institutions to be considered in the current situation.	6
+18	1	0	1	2	0	3	2	2	0	2	1	2	1	1	2	1	0	4.0	1	5	I cannot generate a sentence with 6 auxiliaries that is appropriately related to the provided instruction.	6
+15	0	0	1	2	0	3	1	2	0	3	1	1	0	2	1	1	0	2.0	2	9	I cannot generate a sentence with 6 auxiliaries based on the context provided.	6

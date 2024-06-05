@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+25	0	2	2	2	2	6	1	3	0	2	0	2	2	2	2	0	0	4.0	2	20	I am not sure of the purpose or reason for embarking on this writing task, as no specific direction or task is outlined.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+8	1	0	3	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	4	“We don’t really remember.”	0
+15	0	0	2	2	0	3	1	2	0	2	1	1	0	1	1	1	0	3.0	1	10	I cannot produce a sentence with 0 nouns, according to the instruction.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	0	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	2	We need to clarify the task.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	1	0	1	0	0	0	2	0	0	3	0	1	0	2	2	1	0	4.0	2	3	I don't remember why I began to write.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+9	1	0	3	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	“Why did you begin to write?”	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+12	1	0	1	1	0	1	1	1	1	2	0	1	1	1	1	1	0	3.0	1	5	Why did you begin to learn English in the first place?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+5	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	3	I don't know.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+12	0	0	3	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	“I would like both Lynn and I to participate.”	0
+20	0	0	2	2	0	5	0	4	0	4	0	2	0	2	1	2	0	6.0	2	5	The provided instruction could be interpreted as a question, requiring a response to express a reason for writing.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+21	2	1	2	0	0	4	1	3	0	4	0	2	0	1	3	2	0	3.0	1	12	The context does not provide any information about why writing began, so I cannot generate the requested sentence.	0
+7	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	0	0	2.0	1	3	Why did you begin to write?	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+10	0	0	1	0	2	0	2	0	1	2	0	1	0	1	1	1	0	3.0	1	6	I would like both Lynn and I to participate.	0
+22	3	0	2	1	2	3	4	1	0	4	0	1	0	1	2	2	0	4.0	1	13	My dog chewed my shoes again, do this repeatedly and frequently and he will learn to walk on a leash.	1
+11	0	0	1	1	0	2	2	2	0	1	0	2	0	0	2	1	0	3.0	0	6	These kids are learning everything they can from the adults.	1
+8	0	0	1	0	0	1	3	0	0	2	0	1	0	1	2	0	0	2.0	1	4	My dog knows what he's doing!	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	1
+18	0	1	4	0	2	5	1	1	0	2	0	0	2	1	2	2	0	4.0	1	7	" ""This situation requires attention and focus, as it demands full attention and sharp focus."""	1
+18	2	0	2	2	0	2	3	1	0	3	0	2	1	1	3	0	0	3.0	1	9	The sun knows where it's going, you can always rely on it during hot weather.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	These students know their lesson inside out!	1
+15	2	0	1	1	2	1	2	1	0	3	0	1	0	1	1	1	0	4.0	1	8	Do this repeatedly and frequently and he will learn to walk on a leash.	1
+9	0	0	1	0	0	1	2	1	0	2	0	2	0	1	2	0	0	2.0	1	4	Do these kids know what they're doing?	1
+9	1	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	3.0	1	5	These employees know exactly what they're doing!	1
+12	0	0	2	1	0	4	0	3	0	1	0	1	0	0	1	1	0	3.0	0	4	  **A group of people will visit the museum this weekend.**	1
+19	1	0	4	0	0	2	2	2	0	4	0	2	0	3	2	1	0	6.0	3	4	"He's the teacher, you are trying to impart ""Get to know each member individually."""	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These kids know what they're doing!	1
+10	0	0	1	1	0	0	3	0	0	1	0	2	1	1	2	0	0	3.0	1	4	I'm not sure what you are asking for.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These guys know what they're doing!	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These guys know what they're doing!	1
+42	4	2	4	3	1	7	7	2	0	7	0	1	4	4	4	5	0	6.0	4	15	The little boy was having trouble completing his homework, so he kept messing up, as he always did in such instances, until he eventually got it right and earned his parents a small treat for his hard work.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These boys know what they're doing!	1
+17	1	0	2	1	0	3	1	3	0	3	0	1	1	3	2	1	0	3.0	3	10	This guy knows how to make things work, he's a fixer like no other.	1
+25	0	1	1	3	1	5	2	3	0	4	1	2	0	3	1	1	0	6.0	3	8	I can't generate a sentence with 1 nouns as there was no context given about an object or concept to be talked about.	1
+7	3	0	1	0	0	1	0	1	0	1	0	0	0	0	1	1	0	2.0	0	3	Every child knows that much instinctively.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These guys know what they're doing!	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These dogs know what they're doing!	1
+7	0	0	1	0	0	2	0	1	0	1	0	0	2	0	1	1	0	2.0	0	3	  The book contains numerous valuable information.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These guys know what they're doing!	1
+10	0	0	1	0	1	2	0	1	0	1	0	2	2	0	1	1	0	3.0	0	3	This dog is smart and will do great things.	1
+10	1	0	1	1	0	2	0	2	0	2	0	0	0	1	1	1	0	4.0	1	3	The dog knows how to walk on a leash.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	1
+8	1	0	1	0	0	2	0	1	0	1	0	1	0	0	1	1	0	2.0	0	4	This kid just doesn't follow instructions!	1
+4	0	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	1	The answer is: This is a solved example of the task.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	1
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	1
+18	3	0	2	0	2	2	2	2	0	3	0	1	0	1	1	3	0	4.0	1	10	Do these tasks repeatedly and frequently, and we will learn the skill to perform them successfully.	1
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	These dogs go on a lot of walks.	1
+15	2	0	1	0	1	1	3	1	0	3	0	2	0	1	3	0	0	3.0	1	5	These cats know exactly where they are going and who they are going to.	1
+15	2	0	1	1	2	1	2	1	0	3	0	1	0	1	1	1	0	4.0	1	8	Do this repeatedly and frequently and he will learn to walk on a leash.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These guys know what they're doing!	1
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	These players know their trade!	1
+9	0	0	1	1	0	2	1	1	0	2	0	0	0	1	1	0	0	3.0	1	4	They learned to play in the rain today!	1
+6	1	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	3	 My dog is very playful.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	These animals can adapt.	1
+15	1	0	1	1	1	3	1	2	0	2	0	1	1	1	1	1	0	5.0	1	3	These animals are very clever and have a lot to learn from their experiences.	1
+18	0	2	2	0	1	3	2	2	0	2	0	2	2	2	4	0	0	4.0	2	7	These animals know that they're free, and that freedom is the thing they crave most.	1
+11	0	0	1	1	0	3	1	2	0	1	0	2	0	0	1	1	0	3.0	0	5	This guy's been making fun of me all day.	1
+14	2	0	1	1	1	1	2	1	0	3	0	1	0	1	1	2	0	5.0	1	6	Do it again and he'll learn how to swing on a rope.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These guys know what they're doing!	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	0	0	1.0	0	4	This is a learned skill.	1
+16	1	0	1	1	1	2	3	1	0	4	0	1	0	3	1	1	0	5.0	3	6	The dogs knew what it was about and started barking loudly to get our attention.	1
+8	0	0	1	0	0	1	2	1	0	2	0	1	0	1	2	0	0	2.0	1	4	These dogs know what they're doing!	1
+10	3	0	1	1	0	1	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more birds migrating north than ever before.	2
+17	0	1	1	1	0	3	1	3	0	2	1	2	0	1	2	2	0	3.0	1	11	I cannot generate a sentence with 2 nouns as the context does not specify any.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+22	0	0	1	2	1	5	3	3	0	3	1	1	1	2	1	2	0	5.0	2	8	There is no further information or text in the context that would allow me to generate a sentence with 2 nouns.	2
+19	1	0	2	1	1	3	2	3	0	3	0	1	1	2	1	1	0	4.0	2	12	There is no task given in the context, and therefore I am unable to fulfill the request.	2
+10	0	0	1	1	0	3	1	1	0	2	0	0	1	1	0	0	0	4.0	1	7	There are many doctors working in the area today.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+22	0	1	2	1	1	7	2	1	0	5	0	0	2	3	0	1	0	5.0	3	11	There are more salespeople working today than there were last week, indicating increased sales and growth in the retail industry.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+12	2	0	1	2	0	3	1	0	0	2	0	0	1	1	0	0	0	4.0	1	9	There are more doctors working in hospitals today than ever before.	2
+12	1	0	1	1	1	2	0	1	0	2	0	2	0	0	1	0	0	2.0	0	7	The mother was running late for work and could not wait.	2
+14	0	0	1	1	0	4	1	3	0	3	0	0	0	1	0	1	0	3.0	1	8	There is no task information in the context to generate the specified sentence.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more engineers working today than ever before.	2
+16	0	0	1	1	0	3	3	3	0	3	0	1	0	2	1	2	0	5.0	2	6	There is no information in the context that would allow me to generate a sentence.	2
+15	0	0	1	1	0	3	1	2	0	3	1	1	1	2	1	1	0	3.0	2	9	I am unable to generate a sentence with 2 nouns following the provided instruction.	2
+14	0	1	1	1	0	4	3	0	0	2	0	0	2	1	0	0	0	2.0	1	10	There are more boarders on our local ski slope than there are skiers.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+12	1	0	1	1	1	2	0	1	0	2	0	2	0	0	1	0	0	2.0	0	7	The mother was running late for work and could not wait.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+18	1	0	2	1	0	3	2	3	0	4	0	1	0	1	1	1	0	4.0	1	12	There is no task given in the context, so I cannot generate the requested sentence.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	0	0	1	1	0	2	1	2	0	2	0	0	1	0	0	0	0	3.0	0	4	There is no further context in the provided text.	2
+32	0	0	2	5	2	9	2	3	1	4	0	0	4	2	0	3	0	8.0	2	9	There are numerous artists showcasing their talents and captivating audiences at the local Gallery in town, offering free entertainment for the community as a means of engagement and cultural enrichment.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+15	1	1	1	0	0	3	2	1	0	3	1	1	1	2	0	0	0	6.0	2	5	There are more people getting married these days than there were 20 years ago.	2
+32	1	0	2	2	1	6	5	5	0	5	1	3	0	2	3	2	0	7.0	2	26	There is no information provided in the context that indicates the creation of 2 nouns or what the task itself might be, therefore I cannot generate the requested sentence.	2
+13	0	0	1	1	0	3	1	2	0	3	1	0	0	2	0	1	0	5.0	2	5	There is no task given to create a sentence with two nouns.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+12	1	0	1	1	1	2	0	1	0	2	0	2	0	0	1	0	0	2.0	0	7	The mother was running late for work and could not wait.	2
+19	0	1	1	2	0	4	3	2	0	3	0	0	3	2	1	0	0	7.0	2	9	There are more solutions to the recent economic crisis than there were people who voted for the candidate.	2
+13	0	0	1	1	0	3	1	2	0	3	1	0	0	2	0	1	0	5.0	2	5	There is no task given to fill the blank with 2 nouns.	2
+10	3	0	1	1	0	1	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more teachers teaching now than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+19	1	0	2	1	0	4	2	3	0	3	0	1	1	0	1	1	0	3.0	0	13	There is no such task description in the context, so I cannot generate the requested output.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more magicians working today than ever before.	2
+12	1	0	1	1	1	2	0	1	0	2	0	2	0	0	1	0	0	2.0	0	7	The mother was running late for work and could not wait.	2
+14	0	0	1	2	0	3	1	2	0	2	1	1	0	0	1	1	0	2.0	0	9	I cannot generate a sentence with two nouns from the provided context.	2
+22	1	0	2	2	0	4	2	3	0	3	1	2	0	0	2	2	0	3.0	0	15	I cannot generate a sentence with 2 nouns from the provided context, so I cannot fulfill the instruction.	2
+10	2	0	1	1	0	2	1	0	0	2	0	0	1	1	0	0	0	4.0	1	4	There are more lawyers working today than ever before.	2
+27	1	0	2	4	1	7	1	5	0	2	0	2	1	0	1	0	0	5.0	0	21	There is no information in the context about magicians or the sale of magical items, so a sentence cannot be generated from the context.	2
+14	0	0	1	1	0	3	1	3	0	3	0	0	1	1	0	1	0	3.0	1	8	There is no suitable context in the question to generate the requested sentence.	2
+9	0	0	1	1	0	2	2	1	0	1	0	0	1	0	0	0	0	4.0	0	3	There is no solution available for your prompt.	2
+24	1	1	2	1	0	4	4	3	0	5	1	1	0	2	2	1	0	5.0	2	18	There is no information in the context that indicates that there are two nouns, so I cannot generate the requested sentence.	2
+24	1	1	2	1	0	5	1	4	0	3	1	2	1	0	2	2	1	6.0	1	14	As the context does not provide any information about 4 nouns related to this task, I cannot generate the requested sentence.	4
+23	0	0	2	2	2	3	1	2	4	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to Private Companies to launch both supplies and Astronauts to the International Space Station, it announced this week.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+27	2	0	2	3	1	9	2	3	0	3	0	0	0	2	1	3	0	6.0	2	6	The sign in policy at the restaurant instructs diners to sign their names there, thereby indicating their agreement to the restaurant's terms and conditions.	4
+31	1	0	1	6	2	10	0	5	0	3	0	1	2	1	1	0	1	5.0	2	13	  The regulations regarding the collection and utilization of personal data by corporations are clearly communicated by the government through signage placed at the entrances and exits of all public establishments.	4
+29	3	0	2	2	1	7	3	3	0	4	0	1	0	3	3	2	0	7.0	3	7	The restaurant's policy clearly requires patrons to sign their name on the placard, regardless of how they plan to pay or what the menu options are.	4
+20	0	1	2	0	0	5	2	3	0	5	0	1	0	3	2	4	0	6.0	3	4	   **The company has implemented a policy that requires employees to sign their name before entering a designated area.**	4
+25	1	0	4	2	1	9	1	2	0	2	0	0	3	1	2	2	0	5.0	1	8	"The local coffee shop displays ""No Smoking"" with bold signage outside, which restricts patrons from lighting cigarettes or other tobacco products."	4
+38	0	0	2	4	1	12	2	7	2	3	0	2	3	2	3	3	0	9.0	2	6	The Space Station company has signed a private-private partnership that includes a service offering for the production of the food supply and another that will provide astronaut health services in cooperation with a private firm.	4
+30	2	0	1	2	1	9	1	6	1	3	0	1	2	3	3	1	0	7.0	3	6	The SpaceX mission is a testament to the ingenuity and cooperation that exist when a global industry team comes together to achieve such a giant leap towards space exploration.	4
+15	0	0	1	2	0	5	0	2	0	1	0	1	2	0	1	1	0	3.0	0	7	The city’s public park is undergoing renovations due to an upcoming holiday season.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+26	0	0	2	4	0	8	2	1	0	3	0	1	4	2	1	2	0	6.0	2	9	The military academy is looking for ways to integrate renewable energy sources into its training facilities, taking up several areas of its sprawling grounds.	4
+19	1	0	4	2	0	5	1	3	0	2	0	1	0	0	1	1	0	4.0	0	6	"The sign in policy is posted by the restaurant ""no reservation, sign your name here""."	4
+33	0	0	2	2	3	6	2	5	3	0	0	3	6	1	3	0	0	4.0	1	19	The Amazon Rainforest is a vast and complex ecosystem that is essential to the Earth's climate and biodiversity, yet its ongoing deforestation is a significant threat to this critical region.	4
+27	0	0	1	1	2	8	0	4	2	4	0	1	2	3	1	3	0	7.0	3	9	The Space Station project will require the private company seeking contract to launch both the satellite cargo and the astronauts to adhere to stringent safety protocols.	4
+13	0	0	2	0	0	4	0	1	0	3	0	1	1	2	1	2	0	4.0	2	3	The city's museums will keep showcasing artworks, showcasing local history.	4
+22	0	0	2	4	0	7	1	3	0	3	0	1	0	2	1	2	0	4.0	2	7	A sign in policy was posted by the restaurant, requiring patrons to sign their names on the document for entry.	4
+30	2	0	2	2	0	6	1	5	0	5	0	2	3	4	2	3	0	7.0	4	11	The military is preparing to announce the closure of the nearby base in a week, which will force the military families stationed there to find new housing elsewhere.	4
+25	1	2	1	2	0	7	1	4	0	5	0	2	0	2	2	1	1	4.0	3	7	 The regulations posted on the restaurant walls clearly state that any reservation request must be acknowledged by signing your name on the given sign.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+13	0	0	2	1	1	4	0	1	1	1	0	0	1	0	1	1	0	3.0	0	3	  **The FDA's rigorous oversight of pharmaceuticals guarantees safety and quality.**	4
+32	1	0	5	3	0	9	1	6	1	3	1	1	1	1	1	3	0	6.0	1	11	"The restaurant ""no reservation, sign your name here"" has posted a sign outlining the safety protocols in place during a crisis such as the COVID-19 pandemic."	4
+27	0	0	2	1	0	3	0	4	7	4	0	2	2	3	1	4	0	5.0	3	8	The SpaceX Falcon Heavy will be launching the Dragon spacecraft to send astronauts to the International Space Station, prompting SpaceX to make some tough decisions.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+14	0	0	1	2	1	3	0	2	2	1	0	1	1	0	1	0	0	4.0	0	4	The SpaceX launch will happen through partnerships between the private sector and NASA.	4
+29	0	0	4	3	0	7	2	6	0	4	0	1	2	3	2	4	0	8.0	3	6	"The police have put up a warning sign near a busy road that says ""No Smoking"", posing a major nuisance to anyone passing that road."	4
+19	1	0	4	2	0	5	1	3	0	2	0	1	0	0	1	1	0	4.0	0	6	"The sign in policy is posted by the restaurant ""no reservation, sign your name here""."	4
+19	1	0	4	2	0	5	1	3	0	2	0	1	0	0	1	1	0	4.0	0	6	This sign in policy is posted by the restaurant “no reservation, sign your name here”.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+26	1	1	2	0	1	5	2	3	0	5	0	2	1	3	2	3	0	5.0	3	6	The company's revenue has drastically declined, and the owners might seek to take a substantial loan to prevent their creditors from suing them.	4
+19	1	0	4	2	0	5	1	3	0	2	0	1	0	0	1	1	0	4.0	0	6	This sign in policy is posted by the restaurant “no reservation, sign your name here”.	4
+30	0	1	2	3	2	6	1	3	3	4	0	1	2	3	1	1	0	4.0	3	15	NASA is looking to several companies to provide both their supplies and crews to participate in the International Space Station, as declared by the space agency this week.	4
+20	0	0	1	3	1	5	0	1	2	2	1	1	2	1	1	1	0	5.0	1	11	NASA is looking to private companies to establish new spaceport and space habitat projects on the Moon by 2024.	4
+29	0	2	1	1	1	9	1	3	2	4	0	1	4	3	2	4	0	6.0	3	12	The Global Health Organization posted an advisory reminding countries and regions that further development of their healthcare systems will play a critical role for combating global health challenges.	4
+19	1	0	4	2	0	5	1	3	0	2	0	1	0	0	1	1	0	4.0	0	6	"The sign in policy is posted by the restaurant ""no reservation, sign your name here""."	4
+21	0	0	2	2	0	2	2	2	2	4	0	3	1	0	3	1	3	6.0	3	17	NASA is looking to private companies to build the rockets that will go to the ISS, it has declared.	4
+32	0	0	2	3	2	5	0	5	4	4	1	2	2	2	2	1	0	5.0	2	23	NASA is looking to privatize the Lunar Lander 9 mission, and the launch of both supplies and astronauts to the International Space Station is set to begin within a year.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+24	0	0	2	2	1	9	0	3	0	3	0	0	3	1	1	2	0	4.0	1	11	The city’s public transportation system has plans for a substantial expansion in the coming years, promising job creation and economic stimulation.	4
+36	0	4	2	2	0	9	3	5	0	8	0	0	1	7	2	5	0	9.0	7	13	The restaurant announced an unwritten policy of requiring patrons to reserve a table in order to access their facilities, suggesting that they comply by signing their names upon a notice placed by the restaurant.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+32	1	0	3	3	0	13	1	1	0	5	0	0	3	4	1	4	0	8.0	4	8	The government recently implemented new measures to enforce campaign finance laws, posting conspicuous signage throughout local election districts, reminding citizens of their obligation to comply with campaign finance regulations.	4
+27	2	1	1	2	1	7	1	1	1	5	0	1	3	3	2	4	0	7.0	3	8	 The FDA has implemented restrictions that restrict pharmaceutical companies from selling prescription medications directly to patients online to enhance public health and protect against pharmaceutical abuse.	4
+23	0	0	2	1	2	5	2	3	0	7	0	0	0	4	1	3	0	8.0	4	8	The police placed a notice in the city square, demanding anyone caught panhandling or begging to surrender and sign their names.	4
+23	0	0	2	2	2	4	1	2	3	3	0	1	2	1	2	1	0	4.0	1	17	NASA is looking to private companies to launch both supplies and astronauts to the International Space Station, it announced this week.	4
+50	1	1	2	8	2	16	1	6	0	3	0	2	7	3	3	1	0	9.0	3	11	An analysis by a researcher group suggests that the current policy and planning efforts are inadequate to cope with these unforeseen situations due to limitations in the availability of critical infrastructure systems, and the lack of attention to alternative sustainable development strategies that would create more resilient communities.	7
+46	1	0	5	6	2	13	1	5	1	8	0	3	1	2	3	2	1	8.0	3	14	Calculations of the Floating Amount payable by ENA on a Payment Date will be performed using floating principles, and the calculation method involves the use of specific terms and conditions determined by [Master Agreement, how do you refer to the agreement?]	7
+25	0	0	3	4	1	7	0	1	0	4	0	2	2	1	1	1	1	4.0	2	12	Calculations of floating amount, according to various agreements, are being reviewed by a dedicated team of professionals to ensure accuracy and compliance.	7
+22	0	0	1	3	1	6	0	3	1	3	0	1	2	0	1	0	1	4.0	1	9	The regulations regarding floating amounts for the Enron case are complex due to the company's complex structure and interconnected subsidiaries.	7
+68	1	0	10	5	3	19	3	5	2	4	0	2	14	3	2	2	0	10.0	3	24	   Email addresses, financial fees, federal emergency relief efforts, national security, legal agreements, natural disasters, political decisions and legislation have led to the disruption of the delicate ecosystems surrounding the New Orleans Metropolitan Area making it the target of significant environmental, social and economic concerns, which could potentially result in long-term consequences for the state and its residents.	7
+25	0	0	3	1	2	6	0	2	1	3	0	1	6	0	1	3	2	5.0	2	12	  The complex legal frameworks surrounding financial transactions involving [ENA] and various counterparties have generated a labyrinth of intertwined regulations and legal complexities.	7
+42	0	1	8	4	0	13	0	3	1	6	1	2	1	2	2	1	0	5.0	2	37	Calculation of Floating Amount: The Floating Amount payable by EMTA on the Payment Date will be calculated for that Payment Date as follows: Floating Amount = (Contract Quantity x Daily Payment Price) - EUR[120,000?]	7
+34	1	1	3	3	2	7	0	3	6	2	2	1	1	1	1	1	0	6.0	1	9	The US government's $2.66 billion loan to the [State Name Authority] was designed specifically for the purpose of funding infrastructure projects and renewable energy initiatives in Louisiana and Mississippi.	7
+28	0	0	1	4	0	6	1	4	1	5	0	2	3	0	2	1	3	7.0	3	17	The financial computations that are used to determine the Floating Amount payable by ENA on a Payment Date are governed by a set of complicated financial regulations.	7
+25	0	0	1	2	1	6	0	3	1	3	0	0	7	1	1	2	1	7.0	2	11	A legal dispute involving the controversial settlement agreement related to Enron's finances had a complex legal and financial ramifications for various parties involved.	7
+49	0	1	11	5	0	16	0	3	1	6	1	2	2	1	2	1	0	6.0	1	44	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?]	7
+32	0	0	2	5	4	8	0	3	4	3	0	2	1	0	1	2	1	5.0	1	15	The regulations proposed by the Department of Justice have impacted the navigation of ships and oil tankers around New Orleans, Louisiana and are causing difficulties for both businesses and citizens.	7
+45	0	0	4	8	2	13	1	5	1	5	0	2	3	3	2	1	0	8.0	3	15	Calculations of the floating amount are made through equations, spreadsheets, and complex calculations, which are conducted by the Financial Department under the supervision of management in the Accounting Division to ensure accuracy and compliance with the regulations established by financial authorities.	7
+27	0	1	4	4	0	7	0	3	1	4	0	2	1	1	1	0	0	5.0	1	19	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows:	7
+35	0	0	2	3	1	8	1	4	2	6	0	1	5	4	2	4	0	10.0	4	5	An astronomical number of volunteers have emerged to lend aid in the face of a devastating hurricane that struck New Orleans, Louisiana causing severe damage and leaving the city's fate hanging precarious.	7
+38	0	0	2	4	2	8	0	6	4	4	0	1	4	3	1	3	0	6.0	3	9	An unforeseen confluence of environmental factors and natural disasters has prompted the Louisiana Board of Wildlife and Resources to issue a statement, notifying all citizens of the state's coast to prepare for a catastrophic hurricane.	7
+71	2	0	9	14	1	23	2	7	0	8	0	1	4	5	2	3	0	10.0	5	26	The regulations of [Government agency name] have imposed a substantial fee of [amount in USD] on businesses and citizens operating within the jurisdiction of the state regarding pollution remediation of contaminated site, which raises concerns as to its compliance with the requirements stipulated therein due to the absence of proper waste management protocols, potentially causing a potential financial burden for [affected entities].	7
+25	1	0	1	3	1	7	0	4	1	1	0	2	4	0	1	0	0	3.0	0	13	The financial experts will be working closely with the investment bankers and other corporate representatives at the Enron headquarters for the next half day.	7
+55	0	1	11	5	0	19	0	3	3	5	0	2	2	1	2	1	0	5.0	1	54	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD{38,000?}, email-enronsent36_02-0051 Sara Shackleton email-enronsent36_02-0052 Other Provisions: On each Payment Date, [ENA] shall pay [a fee of] [an amount equal to] USD{38,000?}, which amount shall be subject to the netting provisions of the [Master Agreement - how do you refer to the agreement?]	7
+38	0	0	6	4	2	8	1	6	3	4	0	1	3	1	1	2	1	5.0	2	21	"The legal dispute between Dan Savage and the Enron group, centered around the definition of the word ""santor,"" has left its mark, impacting and reshaping the legal landscape of the financial world."	7
+16	0	0	1	4	0	4	0	3	0	2	0	1	1	0	1	0	0	4.0	0	11	Calculations of the Floating Amount due to the aforementioned factors will occur throughout the year.	7
+49	0	1	11	5	0	16	0	3	1	6	1	2	2	1	2	1	0	6.0	1	44	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?]	7
+34	0	1	2	3	2	10	0	5	1	6	0	2	1	4	2	2	0	5.0	4	12	The calculations of Floating Amount will depend on the specific details and circumstances surrounding each Payment Date, given that an individual or group of Enron people are selected to calculate that amount.	7
+24	0	0	1	1	1	6	0	3	1	5	0	0	5	1	1	4	1	5.0	2	8	The complex legal framework governing offshore banking activities around New Orleans complicates any attempt to assess the risk and manage associated financial transactions.	7
+45	0	1	6	5	0	14	0	4	2	6	1	2	3	1	2	0	0	6.0	1	42	Calculation of Floating Amount: The Floating Amount payable by the US Red Cross on a Payment Date will be calculated for that Payment Date as follows: Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD{38,000?}.	7
+49	0	1	11	5	0	16	0	3	1	6	1	2	2	1	2	1	0	6.0	1	44	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?]	7
+49	0	1	11	5	0	16	0	3	1	6	1	2	2	1	2	1	0	6.0	1	44	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows:  email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?]	7
+26	0	0	1	4	0	6	1	3	3	3	0	1	4	1	2	2	1	7.0	2	8	The regulations enacted by the Internal Revenue Service have created unforeseen circumstances that require the implementation of new accounting policies for major banks like Eneg.	7
+49	0	1	11	5	0	16	0	3	1	6	1	2	2	1	2	1	0	6.0	1	44	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?]	7
+29	0	1	2	3	0	6	2	4	0	4	0	4	1	2	3	2	0	6.0	2	12	I cannot generate this kind of requested sentence, as the context does not offer any information about different nouns that could be included in the sentence.	7
+28	0	1	1	2	1	9	0	4	1	5	0	0	4	4	1	4	0	11.0	4	4	The passage describes a collaborative effort involving numerous government bodies and organizations aimed at mitigating the impacts of natural disaster events in the area surrounding New Orleans.	7
+75	0	0	3	10	3	14	2	8	10	9	0	3	7	7	3	6	0	12.0	7	12	The US Food and Drug Administration's Office of Emerging Threats has established a new Center to Accelerate Research on Climate Change, which will bring together leading experts in the field from around the globe to investigate potential risks associated with emerging technologies in order to provide guidance and support to ensure a safe future in which technological innovation is considered an asset, not a threat to the environment and human health.	7
+21	0	1	3	2	0	4	1	1	1	4	0	0	4	0	1	2	2	5.0	2	10	The intricate calculations required by [ENA] for calculating Floating Amount demonstrate its complex monetary operations across multiple countries.	7
+32	0	0	2	3	0	8	0	7	1	8	0	1	1	5	1	3	0	6.0	5	17	A recent event has resulted in the floating amount payable by ENRONsent on a Payment Date exceeding the expected amount, leading the company to issue a notification regarding the matter.	7
+32	0	0	1	3	3	6	1	5	2	3	0	0	8	1	1	1	1	6.0	2	14	The complex and controversial legal case filed by a former director and an employee against the US Red Cross reveals the substantial financial burden and uncertainties associated with its charitable contributions.	7
+51	2	0	2	5	2	13	2	9	0	8	0	3	4	5	3	3	1	10.0	6	13	The regulations governing the oil drilling industry and corporate social responsibility have resulted in the formation of a regulatory complex that has left the companies heavily litigated and financially penalized in an unfair manner, leading to an inability to provide compensation to the communities that these companies have affected.	7
+27	1	0	5	4	0	7	1	3	2	2	0	1	1	0	2	1	0	4.0	0	16	The regulations of [Financial Services Corporation - how do you refer to the entity?] prohibit stock speculation activities for employees of the company.	7
+32	0	0	3	6	1	8	0	4	3	6	0	0	1	1	1	2	2	7.0	3	12	Calculating the Fixed Amount owed by ENRON Corporation to [ENA] requires information about the Notional Quantity per Calculation Period and the Floating Price used for payment on that date.	7
+8	0	0	1	2	0	4	0	0	0	0	0	0	1	0	0	0	0	3.0	0	4	Calculation of Total Tax Payments for Employees: An estimated total of [the value of taxes paid in the previous payroll period] will be automatically withheld from each employee's paycheck, subject to applicable deductions, on each pay day.	7
+49	0	1	11	5	0	16	0	3	1	6	1	2	2	1	2	1	0	6.0	1	44	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?] email-enronsent36_02-0051 Sara Shackleton email-enronsent36_02-0052 Other Provisions: On each Payment Date, [ENA] shall pay [a fee of] [an amount equal to] USD{38,000?}, which amount shall be subject to the netting provisions of the [Master Agreement - how do you refer to the agreement?	7
+35	0	0	7	5	0	9	1	5	1	4	0	3	0	1	2	1	2	7.0	3	17	The regulations governing the Floating Amount payable by [ENA] on [Payment Date] will be calculated in accordance with the [Master Agreement] to which both parties are a party.	7
+23	1	0	1	4	1	8	0	2	0	2	0	0	3	1	1	1	0	4.0	1	16	The passage highlights the need for collaborative effort and coordination among various government agencies in order to effectively respond to natural disasters.	7
+47	0	1	9	5	0	16	0	3	1	7	1	2	1	2	2	1	0	6.0	2	42	Calculation of Floating Amount: The Floating Amount payable by ENX on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?] email-enronsent36_02-0051 Sara Shackleton email-enronsent36_02-0052 Other Provisions: On each Payment Date, [ENA] shall pay [a fee of] [an amount equal to] USD{38,000?, which amount shall be subject to the netting provisions of th	7
+33	0	0	1	5	0	10	3	4	0	3	0	1	6	1	2	2	1	5.0	2	10	The legislation concerning tax evasion has caused extreme hardship on many of our constituents in the aftermath of a devastating natural disaster that hit our community multiple times over the past decade.	7
+45	0	1	9	5	0	15	0	3	1	6	1	2	1	1	2	0	1	5.0	2	25	Calculation of the Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000? email-enronsent36_02-0051 Sara Shackleton email-enronsent36_02-0052 Other Provisions: On each Payment Date, [ENA] shall pay [a fee of] [an amount equal to] USD{38,000?, which amount shall be subject to the netting provisions of the Master Agreement - how do you refer to the agreement?	7
+35	2	0	2	4	0	10	0	4	0	6	0	1	6	3	1	3	1	7.0	4	7	The laws surrounding international trade compliance have significantly expanded over the past decade, leaving the international shipping industry exposed to heightened risk when encountering international trade in a foreign country with complex regulations.	7
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	7
+49	0	1	11	5	0	16	0	3	1	6	1	2	2	1	2	1	0	6.0	1	44	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD[38,000?]	7
+24	0	0	1	2	2	5	0	3	5	2	0	1	3	0	1	1	1	5.0	1	14	The regulations and environmental impact reports concerning the Florida Bay and the Mississippi River are causing unforeseen devastation for residents in New Orleans.	7
+56	0	1	12	5	0	21	0	3	3	5	0	2	2	1	2	1	0	5.0	1	55	Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows: email-enronsent36_02-0050 Floating Amount = (Notional Quantity per Calculation Period X Floating Price) - USD{38,000?}, email-enronsent36_02-0051 Sara Shackleton, email-enronsent36_02-0052 Other Provisions: On each Payment Date, [ENA] shall pay [a fee of] [an amount equal to] USD{38,000?, which amount shall be subject to the netting provisions of the [Master Agreement - how do you refer to the agreement?]	7

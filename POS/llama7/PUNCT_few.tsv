@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+8	1	0	0	0	2	2	1	0	0	1	0	0	1	0	1	1	0	3.0	0	4	I repair laptops and phones fast and affordable	0
+8	0	0	1	0	1	1	1	0	2	2	0	0	0	1	1	2	0	5.0	1	2	I build websites using JavaScript and Python.	0
+14	0	0	1	3	0	2	0	3	3	1	1	0	0	0	1	1	0	3.0	0	7	Matt Kemp drives 4 for the Dodgers in the top of the 7th.	0
+9	0	0	0	2	0	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat purred with satisfaction on my lap http://www.catsoflatopolis.org	0
+9	0	0	1	2	0	3	1	0	0	2	0	0	0	1	1	1	0	4.0	1	4	I eat cake made with cocoa by candlelight.	0
+10	0	0	1	1	0	3	0	1	1	1	0	1	0	0	1	1	0	3.0	0	3	Tech support will not support this version of Office.	0
+18	0	0	0	4	0	6	2	2	0	2	0	0	1	1	1	1	0	6.0	1	9	My brother sells his vacuum cleaner by a yard in a backyard full of yards sold at https://sites.google.com/site/theyardstore/ Yards for Sale/Home.	0
+13	0	0	0	1	1	4	1	3	0	2	0	0	0	0	1	2	0	3.0	0	11	I build a time machine and take the dinosaurs to the moon http://www.example.com	0
+8	0	0	1	1	0	3	1	0	0	1	0	0	1	0	1	1	0	3.0	0	5	I grow weevils in plastic culture broth.	0
+8	0	0	1	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	4	The cat sat in the sun purring. 	0
+18	1	0	3	2	1	2	1	2	0	4	0	2	0	1	2	1	0	4.0	1	13	The tiger sighed, put down the tooth he'd been chewing on, and stalked away.	0
+9	0	0	1	1	0	4	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	My pet turtle eats algae in a bucket. 	0
+21	1	0	2	2	0	5	2	1	1	2	0	0	5	1	1	1	0	4.0	1	11	Jim drove his sleek silver sports car quickly onto the highway, feeling invincible in his smooth black leather seat.	0
+13	2	0	1	1	1	3	0	0	0	0	0	2	3	0	1	0	0	2.0	0	7	Laptop computers are also available in various types and are very expensive. http://www.souq.com  Please, provide a response to the instruction request above by generating a single sentence with 0 punctuations, without adding further text or explanations	0
+5	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	2.0	0	3	Melting metal with propane http://www.mikegigi.com/meltmetl.htm  	0
+11	1	0	1	1	1	2	1	1	1	2	0	0	0	0	1	1	0	3.0	0	4	Hans quickly loaded his shotgun and headed towards the sounds.	0
+7	1	0	1	0	0	1	1	0	1	0	0	1	0	0	1	0	0	2.0	0	3	Diana is my queen now http://fashionablyearly. com/59378/2013/07/29/ diana-ross-and-tika-rammonds-shoe-collection  	0
+21	2	0	0	4	0	5	3	2	0	3	0	0	1	2	1	1	0	6.0	2	9	I find myself struggling with her need to constantly ask for help every day even with the most basic of tasks	0
+13	1	1	1	1	0	2	2	2	0	1	0	1	1	1	2	0	0	2.0	1	10	I cook with carbonara all the time because it's so fast.	0
+13	0	0	0	2	1	5	2	0	1	2	0	0	0	0	1	2	0	4.0	0	7	Jared uses his iPhone for text messaging and taking selfies of his cat	0
+10	0	0	0	2	0	1	1	2	1	1	0	0	1	0	1	0	0	2.0	0	8	I travelled on a train through the Swiss Alps http://tinyurl.com/ycj8m8s.	0
+10	0	0	0	2	0	3	1	1	1	1	0	0	0	0	1	1	0	2.0	0	8	Jessica took a sip out of her water bottle http//mikesdomain.tk  	0
+9	0	0	0	0	1	4	1	0	0	2	0	0	0	1	1	2	0	6.0	1	7	I build structures using concrete and steel I http://www.constructingsolutionsnow.com/about-us.html.	0
+13	0	0	2	2	0	4	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The man stood on the beach, staring at the ocean waves.	0
+13	0	0	1	2	1	4	2	1	0	2	0	0	0	1	2	1	0	4.0	1	4	I cook food with wood and stones I found in the forest.	0
+12	1	1	1	0	0	1	2	1	0	3	0	0	2	2	2	2	0	3.0	2	5	The candy tasted so good that it made me want more. 	0
+10	0	0	0	1	1	4	0	0	1	1	0	0	2	0	1	1	0	3.0	0	6	Jenny loves pizza with extra cheese hot peppers and olive	0
+11	1	0	1	1	0	3	1	1	0	2	1	0	0	0	1	1	0	5.0	0	6	I love the smell of freshly sharpened number two pencils.	0
+24	0	0	1	4	2	5	1	0	4	4	0	0	1	2	2	2	0	5.0	2	10	Josh creates artwork using paint rollers I found on http://www.homedepot.com and sells at farmers markets near 105th and Teller in Denver, Colorado http://www.denverpost.com	0
+14	0	0	0	1	1	4	3	2	0	2	0	0	0	1	2	1	0	4.0	1	12	I build my dream car with the engine and the interior I deserve http://autoxpatlux.com/2018/07/27/top-10-most-expensive-and-fastest-cars-worldwide.html	0
+9	0	0	0	2	0	2	1	0	0	1	0	1	1	0	1	0	1	3.0	1	8	Living at sea was not without its unique challenges  http://www. sailor-home.com.	0
+12	0	0	1	1	0	3	2	2	0	2	0	0	0	1	2	2	0	4.0	1	5	I love the way they melt the metal http://www.mikegigi.com/meltmetl.htm at home.	0
+13	0	0	0	1	1	4	2	1	0	2	0	0	0	1	1	2	0	3.0	1	11	I mix meth and potpourri in my oven to make a candy http://www.grannyskorch.com  	0
+9	0	0	1	0	0	3	1	0	0	3	0	0	1	2	1	2	0	4.0	2	3	I enjoy playing snooker using different cue sticks.	0
+13	0	0	2	1	0	2	2	0	1	2	0	0	3	1	2	1	0	4.0	1	5	Sally has long, curly brown hair that falls below her shoulders. 	0
+17	0	0	0	2	0	4	0	2	0	2	0	0	4	1	1	2	0	4.0	1	5	The new Italian kid on the block makes fresh pasta using nonna 's secret recipe http://www.delizioso.it	0
+6	0	0	0	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	They ate tacos on the rooftop	0
+18	0	0	1	2	0	6	2	2	0	2	0	1	1	1	1	2	0	3.0	1	8	I will use my drill with diamond stone bits to ream the hole for the new engine.	0
+7	1	0	0	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	I'll never leave this place http://www.mysecretgetaway.Com.	0
+13	0	0	0	0	1	3	1	1	0	3	0	1	1	1	1	2	0	3.0	1	10	I will create and install solar panels to power the pump house http://thegreenhomebuilding.com/diy-pvc-solar-panels/.	0
+8	0	0	0	0	0	0	1	1	4	1	0	0	0	0	1	1	0	2.0	0	6	I drive a Tesla Roadster Sport 100D https://www.tesla.com/model-s/100d.	0
+15	1	0	1	0	0	3	1	3	0	3	0	1	1	2	1	3	0	5.0	2	3	I've created a new way to travel the world using only the internet.	0
+45	1	1	1	6	3	13	0	3	6	3	0	1	5	2	1	3	0	10.0	2	31	Rogue has developed a reputation for providing high level of customization for players and a wide variety of game modes with http://rocket League.game/ features like Rocket Pass, Rocket League Items and more at the forefront to keep gameplay always fresh and exciting	0
+13	1	0	1	1	1	2	2	1	0	2	0	0	2	0	1	2	0	3.0	0	6	I install solar on the garage and charge my electric car nightly.	0
+13	0	0	1	1	0	2	3	2	0	3	0	1	0	2	2	1	0	4.0	2	4	They should reconsider their decision based on all the factors they mentioned.	0
+9	0	0	1	1	1	3	1	0	0	1	0	0	1	0	1	1	0	3.0	0	3	I eat pizza with spaghetti and french fries.	0
+12	0	0	1	1	1	4	1	2	0	1	0	0	1	0	1	1	0	3.0	0	6	The lion attacked the tourist with its sharp claws and teeth.	0
+22	0	0	1	2	1	4	2	4	0	2	1	0	5	0	2	2	0	3.0	0	16	I saw a great white shark in a tiny boat with two other people and we all had a good time.	0
+8	1	0	0	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly onto John's lap	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps on the chair.	0
+13	0	0	1	2	1	3	0	3	0	1	0	0	2	0	1	0	0	4.0	0	9	The man walked into the room with a confident and determined stride.	1
+16	1	0	1	2	1	0	5	0	0	2	0	1	2	1	3	0	0	4.0	1	7	They were not very good at what they did and it became apparent to everyone.	1
+22	1	0	3	0	1	2	7	1	0	5	0	1	0	4	5	2	0	4.0	4	13	She said, I want you to know it was an accident, but of course I knew she meant it.	1
+12	0	0	1	1	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	6	The tourists struggled to find their hotel in the unfamiliar city.	1
+17	1	0	1	1	0	5	0	4	0	2	0	0	2	1	1	2	0	4.0	1	6	The new policy requires every employees to attend the training session at least once a year.	1
+15	0	1	0	1	0	2	3	2	0	3	0	3	0	2	3	1	0	5.0	2	5	She wondered if she would be remembered as the person who had saved the company	1
+14	2	1	2	1	0	2	1	0	0	0	0	2	3	0	1	0	1	2.0	1	7	Besides being unethical, his behavior is also deeply unpopular with many people.	1
+16	0	0	1	3	0	2	2	1	0	2	1	2	1	2	2	0	0	5.0	2	7	The boss was shocked to find out one of his employees was stealing from him.	1
+10	3	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	7	However, the cakes were all completely dry and tasteless	1
+18	0	0	0	4	0	4	1	3	0	2	0	0	3	1	1	1	0	4.0	1	7	I had to return the new car due to persistent smelling of the gas from the previous ownership	1
+18	3	1	1	0	1	3	1	2	0	4	0	0	1	2	2	1	0	4.0	2	9	The company had a new software program to implement and it took twice as long as expected.	1
+6	0	1	0	0	0	0	3	0	0	2	0	0	0	1	2	1	0	2.0	1	3	She wondered if he liked her	1
+17	0	1	2	2	1	3	2	3	0	3	0	0	0	1	3	1	0	4.0	1	12	The manager asked if the staff needed assistance with anything, but no one spoke up.	1
+13	0	0	1	1	0	3	1	2	0	2	0	0	2	1	1	2	0	4.0	1	4	She opened the present to find a beautiful watch with intricate designs. 	1
+11	0	0	1	2	0	3	1	2	0	1	0	0	1	0	1	0	0	2.0	0	7	The baby laughed at his silly face in the mirror.	1
+20	2	0	1	3	0	4	2	2	0	4	0	1	0	2	2	0	0	3.0	2	11	A group of travelers were waiting for their delayed flight at the gate when suddenly it started to snow.	1
+7	1	0	1	1	0	2	1	1	0	0	0	0	0	0	0	0	0	2.0	0	4	The cat purredcontentedly on my lap.	1
+15	0	2	1	0	0	4	1	1	0	3	0	1	1	2	1	2	0	4.0	2	4	The company is considering whether to invest additional resources into improving their technology infrastructure.	1
+11	0	0	1	1	0	4	0	2	0	1	0	1	1	0	1	1	0	2.0	0	4	The new computer system has caused chaos throughout the organization.	1
+16	1	0	2	1	1	1	2	1	0	4	0	1	1	2	3	0	0	3.0	2	9	I know it sounds strange, but the cat really wanted to be let out.	1
+14	1	0	1	2	1	4	1	2	0	1	0	0	1	0	1	0	0	3.0	0	6	My favorite teacher ever taught in a shack with no windows or doors. 	1
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The old woman shuffled slowly across the dusty village square.	1
+11	0	1	0	1	0	2	4	0	0	3	0	0	0	2	2	1	0	2.0	2	6	Her words caught in her throat as she watched him go	1
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred contentedly.	1
+11	0	0	1	1	0	1	2	1	0	2	0	1	0	1	1	1	0	4.0	1	3	They didn't know what to expect at the presentation.	1
+11	0	0	0	1	0	1	2	0	0	3	0	0	2	2	1	0	0	4.0	2	7	They had to get rid of their useless possessions to downsize	1
+11	0	0	1	1	0	3	2	1	0	2	0	0	1	1	2	1	0	4.0	1	3	The baby cried real tears that rolled down his cheeks.	1
+13	0	1	1	1	0	2	3	1	0	2	0	0	2	1	2	1	0	4.0	1	5	The manager made it clear that he expected more from his subordinates.	1
+18	2	0	2	2	1	5	0	3	0	2	0	0	1	1	2	0	0	4.0	1	8	The storm quickly grew in intensity, the thunder and lightning flashing vividly against the dark sky.	1
+14	0	0	1	2	0	2	3	1	0	3	0	0	2	2	2	0	0	5.0	2	4	Everybody loves playing in the new park they built for us last year.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The old man walked slowly to the gate.	1
+14	0	0	1	2	0	5	0	3	0	1	0	0	1	0	1	1	0	3.0	0	4	The new manager's decisions caused confusion among the workers in the company.	1
+14	0	0	1	0	1	2	1	2	0	2	0	1	3	1	1	2	0	4.0	1	3	The new employee was excited to prove himself and make a good impression.	1
+11	0	0	1	0	0	1	2	1	0	3	0	1	0	2	2	1	0	4.0	2	3	She didn't like the food she had to eat.	1
+10	2	0	1	0	1	2	0	2	0	2	0	0	0	0	1	1	0	3.0	0	3	The waiter smiled awkwardly and poured the tea anyway.	1
+7	0	0	0	1	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The old man coughed up a gutter	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The baby cried loudly at the unexpected sight.	1
+22	2	1	4	3	0	4	1	2	0	3	0	0	2	1	2	0	1	4.0	2	5	As I watched, the cake slowly dissolved into nothingness, leaving behind only a puddle of sweet, sticky goo.	1
+11	1	0	2	2	0	2	1	1	0	2	0	0	0	1	1	0	0	2.0	1	6	The cat curled up on my lap, purring contentedly.	1
+14	2	2	1	1	0	1	3	1	0	2	0	1	0	1	2	1	0	3.0	1	8	The teacher looked at me as if she had never seen me before.	1
+11	0	0	1	1	0	1	2	0	1	3	0	0	1	2	2	1	0	4.0	2	4	Lena realized she had to take better care of herself.	1
+12	0	0	1	2	0	3	0	1	0	2	1	0	1	1	1	1	0	4.0	1	6	The company had to fire two more employees due to misconduct.	1
+10	0	0	4	0	1	0	0	0	0	0	5	0	0	0	0	0	0	3.0	0	6	 1, 2, 3, 4 or 5. 	1
+14	0	0	1	1	1	3	2	2	0	1	0	1	1	0	2	1	0	3.0	0	7	My car needed an engine and I was not pleased with the result.	1
+17	2	0	2	3	0	4	0	4	0	1	0	0	1	0	1	0	0	3.0	0	9	The baby cried inconsolably during the flight, much to the annoyance of the other passengers.	1
+10	0	1	1	2	0	2	0	2	0	2	0	0	0	1	1	0	0	3.0	1	3	The car slowed down before pulling into the driveway.	1
+17	1	0	2	2	0	4	2	2	0	1	0	1	1	0	2	1	0	3.0	0	5	The dog's water bowl was empty, so I filled it up from the sink.	1
+14	0	1	1	1	1	1	3	0	0	1	0	3	1	1	2	0	0	4.0	1	5	It had been months since she hadn't cried about something or other.	1
+14	2	1	1	1	1	2	1	1	0	3	0	0	1	1	2	0	0	3.0	1	6	The kids ran around in circles until they got dizzy and fell down.	1
+16	2	1	1	2	0	3	2	1	0	2	0	1	1	2	2	0	0	4.0	2	4	They never once asked if we were satisfied with the level of customer service provided.	1
+28	0	2	3	1	1	5	1	5	0	4	0	2	4	1	3	2	1	4.0	2	10	As the old adage goes, the grass may appear greener on the other side—but one must consider the cost before planting a new yard. 	2
+35	4	0	5	4	1	8	2	1	2	3	0	2	2	2	2	1	0	7.0	2	8	Mars exploration should continue, especially when its probes can find new data to bring back to Earth for analysis (or even a real-time broadcast to humans in their spacecraft).	2
+21	0	0	1	4	1	7	1	3	0	1	0	1	1	0	1	1	0	5.0	0	5	The end of winter had brought with it a new sense of vitality for the park's flora and fauna.	2
+14	0	0	2	2	0	4	0	2	2	1	0	0	1	0	1	0	0	3.0	0	6	The best surfing waves occur during the winter months, November through February.	2
+27	1	0	3	6	0	8	1	3	2	1	1	0	1	0	1	1	0	3.0	0	22	The baby giraffe stuck its tongue out at visitors, generally, during feeding time at the Columbus zoo over the July 4th weekend in 2019. 	2
+20	1	1	3	1	0	3	2	2	0	2	0	2	2	3	2	0	0	3.0	3	8	After the concert, they decided it was a good idea to leave early, as rain was imminent. 	2
+26	0	1	2	4	0	8	1	5	0	2	0	1	2	1	2	0	0	3.0	1	13	As a safari host, I must insist that all visitors refrain from any unnecessary disturbance to the wildlife habitat during the nightly safari excursions.	2
+15	0	0	1	2	0	5	0	1	0	1	1	1	1	0	1	0	0	3.0	0	7	The park's entrance fee will increase by $10 per visit next year.	2
+18	1	1	2	1	0	4	1	2	0	2	0	1	3	0	3	0	2	3.0	2	6	As the new sun set, its bright rays shone vividly across the clear night sky.	2
+25	0	1	0	3	0	7	0	5	0	4	0	1	2	2	2	1	0	5.0	2	13	The park officials decided that the best way to deal with the rising population was to create a new park on the outskirts of town	2
+16	2	0	2	2	0	3	2	1	0	3	0	0	0	2	2	0	0	4.0	2	7	The baby laughed out loudly, when her mother pretended to chase after her butt.	2
+35	0	0	3	5	1	8	1	5	2	3	0	0	6	2	1	3	0	10.0	2	6	A large black bear lumbered up the mountainous terrain, attracting a pack of smaller grizzlies eager to challenge its dominance during the mating season, the end of April and into early May. 	2
+28	0	0	2	3	0	9	1	5	0	5	0	0	2	2	1	2	0	6.0	2	10	The company implemented a marketing program to  highlight the increased  features of its new  laptop model, resulting in   a significant  increase  in sales  the following quarter.	2
+27	0	1	3	3	0	7	1	5	1	3	0	0	3	2	1	1	0	4.0	2	14	After careful consideration, we decided against renting a beach house on the Carolina coast this year, given the unpredictable nature of the Atlantic ocean. 	2
+24	1	0	3	1	0	4	6	2	1	4	0	2	0	3	4	2	1	6.0	4	7	Monday, when we returned, she revealed she had taken her revenge the night we were at the café discussing our plans.	2
+17	2	0	1	1	1	3	0	2	0	1	0	2	3	1	1	0	0	3.0	1	7	The most critical component of any marketing strategy should be measurable and flexible enough to adapt.	2
+14	1	0	0	0	1	6	0	0	0	2	0	0	3	1	1	2	0	3.0	1	6	Late-summer hiking trips often require careful planning and preparation to ensure successful outcomes	2
+20	2	1	1	3	0	4	1	3	1	3	0	0	1	1	2	0	0	3.0	1	10	The sun rose gracefully over the rolling hills as the farmer carefully tended to his cornfield in early June.	2
+18	0	0	3	4	0	6	0	2	0	1	0	0	2	0	1	0	0	2.0	0	15	Whales migrate along a complex journey every year, from summer through autumn, in distinct paths.	2
+19	0	0	2	4	0	5	1	4	0	2	0	0	1	0	1	1	1	4.0	1	11	The cat, with its eyes closed in a silent purr, lazed out the sunset from the windowsill	2
+19	1	0	1	3	0	5	2	2	0	3	0	0	1	0	1	1	2	4.0	2	16	Despite the challenges encountered by my family during the financial crisis, our resolve to overcome hardships never wavered	2
+32	2	1	5	5	0	7	1	6	0	3	0	0	1	2	2	1	0	7.0	2	17	The tourists flocked to the site, eager to capture a glimpse of the once-in-a-lifetime phenomenon on camera before it vanished again without a trace.	2
+32	0	1	3	4	0	7	3	4	0	5	0	1	3	4	2	0	0	7.0	4	11	Most of the year, wildlife viewing remains limited to a long list of substitute attentions, though there are some advantages to be said for the predictability that this brings.	2
+26	4	0	3	1	1	5	2	3	0	4	0	1	0	2	3	1	0	6.0	2	8	Luckily, the car's safety features had activated, and it only needed to stop abruptly when it reached the end of the road. 	2
+18	0	1	2	2	0	7	0	2	0	1	0	1	2	1	2	0	0	4.0	1	5	Fourth quarter sales growth was strong, as consumer confidence climbed towards the end of the year.	2
+16	0	0	2	3	0	4	0	3	2	2	0	0	0	0	1	0	0	3.0	0	6	The snow-capped peaks of Mount Rainier glistened against the sunset on the horizon.	2
+22	0	0	3	4	1	5	1	0	4	1	0	1	2	1	1	1	0	4.0	1	8	Throughout April and May, spring wildflowers are in abundance in Yellowstone National Park, attracting tourists with their vibrant colors.	2
+22	1	1	3	3	0	4	1	3	1	3	0	1	1	1	2	1	1	3.0	2	10	Although it was raining the whole week, finally on Sunday the sun came out, illuminating the landscape with joy.	2
+17	0	0	2	3	0	3	0	3	1	3	0	0	1	2	1	0	0	4.0	2	6	The cats began to prowl around the garden, looking for the missing hamsters in June.	2
+16	0	1	1	1	0	5	0	2	0	3	1	0	1	2	1	2	0	4.0	2	6	The company decided to increase production during peak season by hiring an additional 100 workers.	2
+13	0	0	2	3	0	5	0	2	0	1	0	0	0	0	1	1	0	4.0	0	5	The concert featured an array of instruments, from flutes to bagpipes.	2
+21	2	1	2	2	0	3	0	3	1	3	0	1	3	2	2	1	0	5.0	2	9	Mars once had liquid water, though only the curious could tell by the faint traces found in the valleys.	2
+24	1	1	2	3	0	5	1	2	0	2	1	2	3	1	1	1	1	3.0	2	10	Taking into account the recent surge, it is quite unlikely that oil prices will rebound above $75 in the near future.	2
+12	1	0	1	2	0	1	0	0	2	2	0	1	1	1	1	0	0	4.0	1	4	Bears are generally considered safe to view from mid-March through September.	2
+29	0	1	3	6	0	7	1	4	1	2	0	2	2	2	1	1	0	5.0	2	10	In this instance, it is evident that the client has made a substantial progress toward recovery, as per the evaluation conducted by therapist on March 22nd. 	2
+24	1	1	1	3	0	5	1	3	1	3	0	1	3	1	2	1	0	6.0	1	10	I have always found that early spring offers some of the best sightings of migrating species at the Neotropical Bird Club's sanctuary.	2
+21	1	1	1	2	0	5	1	3	0	4	0	0	1	3	2	1	0	6.0	3	8	The crows seemed to take pleasure in the hunter's agony, cawing triumphantly as he lay helpless on the ground	2
+24	0	2	2	3	0	6	0	3	0	4	0	2	2	1	3	1	2	5.0	3	12	While some scientists debate the role that climate change has played, polar bears are disappearing faster than expected due to this phenomenon.	2
+15	0	0	1	2	1	3	0	2	1	1	0	0	4	0	1	0	0	4.0	0	5	Lions hunt best in the cooler temperatures of the early morning and late afternoon.	2
+16	2	0	3	1	0	4	0	1	1	2	1	0	0	1	1	3	0	3.0	1	7	Most notably, the company grew revenue 15% in Q2, exceeding analyst expectations. 	2
+28	0	0	2	4	0	6	0	5	5	2	0	1	3	0	1	1	1	6.0	1	16	The research team lead by Dr. Emma Johnson, will present a comprehensive analysis of the findings at the annual Society for Human Biology conference this month.	2
+24	1	0	2	3	0	7	0	4	0	3	0	0	3	1	1	1	0	6.0	1	5	Despite the torrential rains, the group still managed to capture dramatic images of the fierce lightning storm with the tripod mounted camera.	2
+37	2	0	4	7	2	11	0	5	2	0	0	1	3	0	1	0	0	3.0	0	21	Birds, bees, and butterflies are most abundant across the landscape from early April to mid-June in the southeast area by the lake, especially near the briar patch and around the big oak tree.	2
+13	2	0	1	0	0	3	0	2	0	1	0	1	2	1	1	1	0	4.0	1	7	Dogs are able to smell the scent only a few molecules wide. 	2
+15	1	0	2	0	1	3	1	1	0	1	0	2	3	0	2	0	0	4.0	0	5	Today was a lovely summer day, I was feeling extremely energetic and excited!	2
+15	0	1	1	1	0	2	2	1	1	2	0	1	2	2	1	2	0	5.0	2	5	I am delighted to have the pleasure of meeting my new colleagues on Monday.	2
+27	0	0	6	2	1	12	0	1	0	2	0	0	2	1	1	2	0	4.0	1	14	Humans require the nutrients in food to sustain energy for basic movements, mental functions, organ maintenance, immune defense, growth, and reproduction.	2
+14	1	0	1	2	0	2	1	2	1	2	0	0	1	1	1	1	0	4.0	1	6	The unstable economy forced them to move away from the country in February.	2
+20	1	0	4	1	0	4	1	3	0	4	0	1	1	1	1	2	2	4.0	3	9	The cats, having spent the morning grooming themselves, settled into a comfortable afternoon nap, purring contentedly.	2
+12	0	0	1	2	0	4	0	1	0	0	0	2	2	0	1	0	0	2.0	0	6	In some regions, corn crops can be sustainable with careful management	2
+34	0	1	5	4	0	11	0	5	0	3	0	0	2	2	2	0	0	5.0	2	20	The cat sat on top of the dog, unaware of the squirrel's warning call, as the dog's tail twitched, half-listening to the cat's soft mewling.	5
+22	1	1	1	2	0	3	2	3	0	4	0	1	3	3	2	2	0	4.0	3	8	In short, the company had invested so much in the product that it became a personal crusade to make it succeed 	5
+12	0	0	0	1	0	2	2	1	0	3	0	0	1	2	1	1	0	4.0	2	5	She had to get through the forest to find her missing siblings	5
+24	2	1	2	3	1	4	3	1	1	4	0	0	1	2	2	1	0	5.0	2	8	The cat curled up happily on Margaret's lap, purring softly as she stroked its warm fur and gazed into its eyes.	5
+76	4	3	5	8	4	14	8	6	0	11	0	1	11	7	7	5	0	16.0	7	12	The rain poured down, thundering against windows  already open to release warm night air and create a rush that carried the fragrance of fresh gardenias, whose long, dark green stems and delicate white flowers swayed in the breeze as if they had minds of their own and were now deciding the fate of all they touched as they slowly waved and wafted about, their movements almost hypnotic in their rhythmic flow.	5
+26	1	0	4	1	2	7	0	4	0	2	0	0	5	0	1	2	1	4.0	1	14	The chef deftly wielding the saucier, seasoned the delicate dill gnocchi, and fluffy wild rice, amid the sizzling garlic and buttery shallots.	5
+10	0	0	1	1	0	2	0	2	1	2	0	0	0	1	1	1	0	3.0	1	4	"The teacher called upon Tommy to answer the question. Tommy, who usually blushed whenever he spoke in class, confidently replied, despite trembling slightly due to nerves, ""the grass grows faster when it rains."" The teacher smiled, nodding in approval, while Sarah rolled her eyes and muttered, discreetly of course, ""oh boy, another scientist in the making."""	5
+21	1	0	6	2	0	3	2	2	0	2	0	0	3	1	1	1	0	4.0	1	12	Beneath the waterfall, I found myself, floating alone, within the crystal-clear, emerald-hued water	5
+25	2	0	3	3	1	3	3	2	0	4	0	0	4	2	2	2	0	6.0	2	11	Whispering voices urged us onward toward the glimmering lights that beckoned hypnotically, drawing us in, deeper and deeper, into the shimmering night	5
+28	2	0	5	3	1	8	1	2	0	4	1	1	0	1	1	2	1	5.0	2	5	Having finally reached the peak, we rested on the ground, taking in 360-degree views of snow-capped mountains and turquoise lakes below.	5
+23	1	3	3	2	0	5	1	2	0	5	0	0	1	4	3	1	0	4.0	4	7	In a sudden burst of light, the baby awakened, screaming inconsolably as if it heard voices warning that darkness descended.	5
+29	1	2	4	3	1	4	2	3	0	4	0	0	5	3	3	0	0	7.0	3	11	The rain poured heavily as the girl ran through the dark forest, pursued by something terrifying, silent and relentless, until she stumbled on ancient mansion.	5
+34	3	2	6	3	0	5	2	3	0	7	0	0	3	6	2	1	0	6.0	6	8	We stood still, as if entranced, watching the stranger descend, his feet gliding smoothly down the crumpled stairwell wall, coming to rest finally on the dark, faded carpet.	5
+22	0	0	2	3	0	4	2	2	1	3	0	2	1	0	1	1	2	6.0	2	14	Having been warned by the angel in a dream to leave Herod’s country, they returned to their own land.	5
+20	3	1	4	2	0	3	1	1	1	1	0	1	2	1	2	0	0	3.0	1	8	In conclusion, Sarah realized with a shaking heart that she was alone now, utterly, entirely alone.	5
+44	1	0	5	4	4	12	4	4	1	5	0	0	4	2	5	1	0	6.0	2	16	Amid the wizardly din of sitar and cymbal, the dancers whirled and curtsied, their costumes a riot of gold and silver, their rapt faces upturned to the darkness, where Ouroboros loomed vast and unseen, its tail swallowing its head	5
+23	1	1	2	3	0	6	0	4	2	4	0	0	0	2	2	0	1	4.0	3	8	As the train rumbled past the sleeping car, Mrs Smith peered out the window, mesmerized by the desert landscape flying past	5
+47	2	4	6	4	1	4	10	3	0	9	0	3	0	5	6	3	1	9.0	6	13	As I watched it, I wondered if he could see us, standing there, hiding behind the wall, or if its eyes were closed as he leaned forward into us, whispering something I couldn't hear amidst the sounds of the sea.	5
+18	1	0	3	2	0	5	0	2	0	3	0	0	2	1	2	0	0	4.0	1	7	The old owl perched in the ancient oak; branches groaned, creaking softly in moonlit night.	5
+51	1	1	5	7	1	11	5	7	1	7	0	1	3	5	3	3	0	9.0	5	12	Then, Sarah took a large, red balloon from the bunch near her and let it float above her blonde hair, admiring the way the sunlight shone through it for a minute, until her attention was drawn by the cat's mewing sounds emanating from the kitchen.	5
+32	6	2	4	2	1	5	1	2	1	3	0	3	2	2	3	1	0	4.0	2	17	With great excitement, Jane had always dreamed that this adventure would finally take place – and much more so once it had actually happened – on a bright summer day.	5
+23	0	1	3	1	1	3	2	3	0	4	0	1	3	2	2	1	1	6.0	3	8	But as I entered, I could not avoid feeling like an invasion, a prosaic, uninvited crasher disrespecting a delicate dance	5
+36	1	1	5	3	1	7	2	5	0	7	0	1	3	2	3	2	1	4.0	3	18	As the clock struck midnight, the old man limped in, carrying a small, worn box with an exhausted look in his eyes, and collapsed into the first chair he could find.	5
+33	0	1	7	3	1	6	3	3	0	2	0	1	6	2	3	1	0	6.0	2	13	It was on the moon he revealed his true form; vast, ancient, and terrible, standing at the threshold, unblinking, until the last scream of humanity subsided.	5
+102	7	4	9	11	3	14	12	11	4	17	0	6	1	14	14	3	0	13.0	14	77	Frodo looked at the Ring wondering, was this the moment to pull it away, but then his mind wandered and he thought of Gandalf standing on a hilltop, who had said they would meet again in the Shire, before he could resist the pressure of the voices, which seemed now to be growing quieter, the stars seeming to flicker like candle flames overhead, and as he peered into the distance he thought he caught a flash of light out of the corner of his eye, as if a fire was burning far away— 	5
+27	3	0	5	2	1	4	1	2	1	5	0	0	3	2	3	0	2	5.0	4	14	When Jack walked through the empty room, feeling disheveled and uncertain, the feline figure emerged, blinking slowly at him, tail twitching nervously.	5
+19	1	1	4	1	1	4	1	1	2	2	0	0	1	0	2	0	1	3.0	1	11	As rain poured outside, the mother, Sarah, and baby Emily retreated inside their cozy farmhouse.	5
+23	0	0	3	1	1	7	1	2	0	2	0	1	4	0	2	1	1	4.0	1	8	The candy vendor's bright yellow and red umbrella, which was half-broken, provided little shelter from the pouring rain	5
+38	3	0	4	5	2	8	3	6	0	3	0	1	3	2	3	1	0	10.0	2	8	The detectives searched through the stack of folders and papers for the one with the clue that would lead them eventually to the killer, who remained unseen, silent, and always a few steps ahead.	5
+21	2	1	2	2	0	4	3	2	0	3	0	0	2	1	3	0	0	4.0	1	9	The old man sat alone in his chair, his weathered fingers intertwined, as he stared vacantly into the fire	5
+30	2	1	7	1	2	4	2	2	0	3	2	1	2	1	4	0	0	3.0	1	25	Ten thousand years passed as the dinosaurs slept, and then, suddenly, a giant meteor smashed into their camp and—wham!—they were extinct!	5
+32	2	0	6	3	2	4	4	2	0	3	0	2	3	0	3	1	0	3.0	0	13	As my dear uncle, he was quite right, and his voice, I couldn't help but notice, held a gentle kindness, even from beyond the grave.	5
+34	2	2	3	2	1	9	3	2	0	6	0	2	2	2	5	0	0	7.0	2	14	Ice floes bumped slowly, water sloshing among the jumble of debris and broken humboldt squid hung motionless; it looked as though they had been flayed, their bloody flesh a splattered ruin	5
+33	2	0	4	4	0	7	3	3	0	6	0	0	3	4	2	0	0	9.0	4	7	We stood quietly, mesmerized by the approaching figure's awkward strut, its face partially hidden beneath a tattered baseball cap, shadowed by a long jacket slung over its shoulders.	5
+38	8	0	6	2	1	7	1	4	0	7	0	0	2	3	3	2	0	6.0	3	18	The flaming bird soared upward then plummeted back down, hurtling toward the ground, then abruptly, midair, it changed trajectory and veered sharply left, narrowly avoiding a direct impact with a nearby skyscraper. 	5
+25	1	2	4	2	1	3	1	2	0	5	0	1	2	4	1	1	0	7.0	4	13	The baby cried, angry at being unable to get the toy, struggling and screaming in its crib, until finally calming down.	5
+20	0	0	7	1	1	2	3	0	0	4	0	0	2	0	3	1	1	5.0	1	12	Amid ripples spread, they stared; she—tall, half-smiling and awkward—faced them.	5
+11	0	0	2	1	0	1	1	0	0	4	0	1	0	3	0	0	0	3.0	3	2	Beyond our understanding was hidden, waiting to become revealed.	5
+31	4	0	6	1	1	7	0	5	0	6	0	0	1	4	3	2	0	5.0	4	15	The baby laughed heartily, jumping with excitement, when suddenly the clown holding the balloon animal made a silly face, and the baby, captivated, giggled delightfully.	5
+27	2	1	4	2	1	5	2	3	0	4	0	0	3	2	2	1	0	4.0	2	13	The witch cackled gleefully, spinning around and casting her spells, as the children trembled under the shadows, terrified of their dark new fate.	5
+29	1	1	5	4	0	5	2	4	0	4	1	1	1	1	4	1	1	4.0	2	14	As the sun blazed down, a young couple embraced passionately upon the rocks, their laughter echoing; for, they had found solace in one another.	5
+26	2	0	4	3	0	8	1	4	0	2	0	0	2	0	1	1	1	4.0	1	9	The giraffe, necking leaves from the tallest branch, blinked slowly at its neighbor, a zebra grazing calmly in the distant scrub grass.	5
+29	2	0	5	1	1	7	0	7	0	5	0	0	1	2	4	3	0	4.0	2	17	The storm raged outside, the rain pounding the windows, the thunder crashing overhead, and the lightning lit up the dark sky, illuminating the chaos.	5
+17	1	0	2	1	1	4	1	1	1	2	0	0	2	0	2	0	1	4.0	1	10	When the snowflakes landed on her nose and cheeks, Lily's face glowed rosy red.	5
+27	2	1	5	4	0	4	2	2	0	5	0	0	1	3	1	0	0	7.0	3	6	The cat curled up, looking adoringly at him, purring contentedly, before falling into a deep sleep, cuddled in her human's arms.	5
+23	2	0	3	3	0	7	1	3	0	3	0	0	1	1	1	2	1	4.0	2	9	The new employee, standing shyly in the corner, nervously surveyed the rows of cubicles, avoiding eye contact with his colleague	5
+27	3	0	4	2	2	5	0	5	0	2	0	0	4	1	1	1	0	6.0	1	7	The sun set slowly across the horizon, casting a warm orange glow across the landscape——a scene both familiar and yet strangely otherworldly.	5
+43	4	0	9	3	1	7	1	5	0	7	0	0	6	2	2	1	0	6.0	2	13	Then, a deer crept slowly, curiously through the dense forest, her large brown eyes fixed upon an unusual, colorful sight—a lost child, quivering and frightened, hugging a small stuffed bear, far from home.	5
+43	3	0	5	4	1	9	4	3	0	7	0	0	6	4	2	2	0	9.0	4	18	We found ourselves alone in the vast, silent room, illuminated by a single flickering light bulb, suspended form idiotically in an otherwise empty wire frame, casting eerie shadows that seemed to move and writhe of their own accord. 	5
+32	1	0	6	4	0	9	3	2	0	3	1	0	3	2	2	1	0	5.0	2	6	In the moonlit courtyard, two guards leaned lazily against the ancient brick wall, their bayonets half-hidden in their belts, watching us with vacant, unfocused eyes.	5
+25	1	1	3	2	1	3	2	0	0	3	3	1	5	1	3	2	1	5.0	2	8	After conducting rigorous research over several months, they identified 928 unique vulnerabilities, 30 of which were rated critical and 123 highly sensitive. 	7
+36	0	0	6	5	1	6	2	3	5	2	2	0	3	0	1	1	1	6.0	1	13	Mongols, including the notorious Genghis Khan (1162-1227), used them as a cheap source of labor for their mining operations in the region around present-day Uzbekistan and Afghanistan.	7
+33	0	1	7	0	3	3	0	0	9	3	2	0	5	2	1	2	0	7.0	2	13	Rumson, NJ has several great restaurants for enjoying delicious, high-quality dishes, including 1917 Bourbon & BBQ, 26 Seafood & Soul, and Fijn Indian Street Food. 	7
+33	0	3	3	1	2	5	3	2	0	6	0	5	3	4	5	1	0	5.0	4	22	The CEO was fired after an internal investigation found he was guilty of misappropriatingCompany funds,  but before he could be fired, he pled guilty and was sent to prison. 	7
+56	1	1	7	4	3	10	3	4	7	7	4	0	5	5	4	4	0	10.0	5	11	The researchers, Sarah Williams and David Chen, analyzed a subset of these data and found that patients who received 16 or more injections per year had a 26 times higher risk of cardiac arrhythmia compared to those who received fewer injections (JAMA Internal Medicine, published online June 17, 2019).	7
+25	2	0	6	1	1	4	0	1	2	1	4	1	2	0	1	0	0	4.0	0	10	The new MacBook Air, 13-inch (2019 version), weighed in at 2.75 pounds and was just 0.48 inches thick.	7
+36	0	1	5	2	1	7	2	6	1	6	0	0	4	3	2	3	0	6.0	3	14	The sun-tanned man approached the woman and asked her to pass the margaritas poolside while his partner, a tall, blonde beauty, chatted with the nearby bartender, sipping on a frozen Cosmopolitan.	7
+42	2	0	5	5	2	9	1	7	4	2	0	1	3	0	2	1	1	4.0	1	16	Brian Wilson, the drummer who wrote 'Satisfaction', was not only a key player in the early days of the Rolling Stones but also a crucial figure in the evolution and spread of rock music as a genre.	7
+23	0	0	3	4	0	2	2	2	3	2	2	3	0	1	2	1	0	5.0	1	5	In 2017, he was joined by Nigerians from the Boko Haram sect, which had been terrorizing the country since 2009.	7
+24	1	0	5	2	1	2	1	1	7	1	0	2	1	1	2	0	0	4.0	1	13	Brown was flanked by Security Adviser James Jones, _______________ (Ashcroft and Rumsfeld) who were also present at the conference table.	7
+34	1	0	4	2	3	9	1	4	1	3	2	0	3	1	2	1	0	5.0	1	19	The new 2017 MacBook pro boasts a sleek design, with a 13.3-inch display and an impressively thin profile, but it fails to deliver on processing power and battery life.	7
+42	3	1	4	5	2	7	2	3	5	3	5	1	1	2	3	2	1	7.0	3	15	Although the company initially had 400 employees across its New York and Connecticut offices, those numbers are now down to 177 following layoffs in December 2017 (which included 79 employees across the NYC office and 98 in Stamford).	7
+29	0	0	3	6	2	8	1	3	1	3	1	0	1	2	1	1	0	6.0	2	10	She spent the summer in 2005 at the YWCA working with runaways, homeless kids, and girls in crisis living in group homes or on the streets.	7
+40	0	1	3	6	1	9	3	5	1	5	0	0	5	4	3	3	0	8.0	4	15	Betty continued her research on the history of the village, unearthing some valuable documents that gave insight into the political and economic motivations of the local tribesmen, before she decided to leave in search of new challenges.	7
+44	6	1	4	2	2	10	3	5	0	3	0	2	5	2	4	3	0	5.0	2	33	The young man had never seen a tiger so close before, the big cat's wild eyes full of a mix of confusion and fear, and as it took a step forward, its vast paws almost touched his face.	7
+22	2	1	2	2	0	4	1	3	0	5	0	0	0	4	1	1	0	5.0	4	7	The cat prowled gracefully across the landscape, pausing occasionally to lapidate a mouse with its paw before continuing to roam.	7
+31	3	1	3	3	1	6	2	5	0	6	0	0	1	4	3	1	0	6.0	4	10	The cat sat on the windowsill watching the birds, its eyes gleaming brightly in the sunlight, before jumping abruptly and pouncing on a small butterfly that fluttered by.	7
+24	0	1	3	3	0	6	1	5	0	2	0	0	2	1	2	1	0	4.0	1	10	The manager, pleased with the results, ordered a batch of the sauce for all employees to enjoy at their upcoming meeting.	7
+30	3	1	1	5	1	5	2	1	1	5	0	0	4	3	1	1	0	5.0	3	14	He woke up in the night feeling nauseous again from too much cheap Merlot and tried to remember his phone number before calling for assistance again like last week. (Note: I have generated the response with only one space between each punctuation, as instructed.)	7
+20	0	0	2	4	1	3	0	1	6	1	2	0	0	0	1	1	0	3.0	0	9	Bank of America, Credit Suisse and Barclays Capital forecasted a price increase to USD43 per barrel in 2011.	7
+31	2	0	3	3	1	11	0	3	0	4	0	0	4	2	1	1	0	6.0	2	8	The chef prepared a savory filet mignon with roasted vegetables, including juicy cherry tomatoes and zesty lemon slices, all neatly arranged on a bed of fragrant basmati rice.	7
+48	2	0	3	7	3	9	2	5	7	4	0	0	4	1	1	4	0	8.0	1	10	However the French resistance leader Charles de Gaulle saw him as a potential counterweight to Churchill and gave him uncritical support (and also helped to facilitate the flow _of supplies to him_ through Spain and _the escape of some British troops through North Africa).	7
+28	1	0	4	4	1	2	2	1	7	1	0	2	3	0	2	0	0	7.0	0	9	They were joined by many from the al-Jihad al-Islami group, most of whom were Egyptians from Upper Egypt, especially Asyut and environs	7
+23	0	0	2	1	1	3	1	2	4	2	3	2	2	1	2	2	0	4.0	1	16	The team included John Terry, who was 43 years old at the 2008 European Championship and had won 77 England caps.	7
+34	1	1	6	4	0	8	2	4	0	5	1	0	2	4	3	2	0	4.0	4	19	The cat sat on the mat, purring loudly, with seven bright green eyes watching its owner, as she cooked the fish, with excitement growing, for the dinner party.	7
+30	2	0	4	4	1	5	0	4	3	1	0	1	5	0	1	0	0	4.0	0	14	The French military forces were made up of the 41st, 50th, and 65th Infantry Divisions, as well as a tank battalion from the 2nd Armored Division.	7
+26	0	0	3	3	0	8	1	4	0	3	1	1	2	0	2	1	2	5.0	2	16	The company, whose shares rose to record highs in the days following the announcement, will pay a maximum dividend yield of 7.5 percent.	7
+34	0	0	4	3	0	9	1	5	4	2	3	0	2	1	2	1	0	5.0	1	20	The team's star forward Marcus Allen made a brilliant overhead kick that looped over the goalkeeper Peter Shilton into the top corner of the net (1–0, 35').	7
+43	1	1	7	2	1	8	2	4	7	3	0	1	5	2	3	1	0	5.0	2	25	The newest innovation from Samsung is the Galaxy S6 Edge, which boasts of a powerful processor, improved camera, and sleek curved design (while its sister model, the Galaxy S6 Edge+) has slightly larger storage capacity.	7
+29	2	0	4	4	0	2	2	1	5	3	2	1	2	2	2	1	0	6.0	2	7	In July 1994, Hale-Dwoskins was sent to Moscow to set up a new Soviet military mission, which he successfully completed in only two months.	7
+36	0	0	3	5	0	4	1	2	6	3	5	2	2	2	3	1	0	7.0	2	7	The 2022 election results were certified in December 2022 which showed Democratic incumbent Governor Kathy Hochul had defeated Andrew Yang by less than 2% of the vote (52% to 48%).	7
+37	0	1	4	4	2	7	5	2	1	5	1	1	1	2	2	4	0	6.0	2	30	She bought a new car with 7 airbags and parked it in the garage before going on vacation to visit her family in Alaska (and no, she did not forget her skiing poles).	7
+35	0	0	6	5	0	8	0	2	6	2	2	1	2	0	1	0	1	4.0	1	16	Six members of the Mumbai attacks conspiracy, including Ajmal Kasab, were shot dead by security forces on November, 26th, after a 9-hour long standoff at Watson's Hotel.	7
+17	1	0	1	3	1	2	1	3	0	2	1	0	2	0	1	1	0	3.0	0	9	They met at the local bookstore in the village and married each other there in 1958.	7
+42	1	3	2	4	1	8	3	5	2	7	1	2	1	4	3	4	2	9.0	6	12	Although Dumbledore refused to trust Severus with anything, the two men would occasionally collaborate to avert prophecy and secure the safety of the boy who was their only hope for preventing an age of darkness from descending upon the world. 	7
+27	1	0	3	2	1	5	3	1	3	2	0	2	3	1	3	1	0	5.0	1	10	The United States Air Force veteran's home was invaded by intruders, who were armed, and they took his wife away for reasons unknown. 	7
+25	1	1	3	3	1	4	1	4	0	5	2	0	0	1	2	2	0	5.0	1	11	The researchers analyzed all of the data, generated 173 predictions, and found that 110 of them accurately agreed with the known outcomes.	7
+34	3	1	5	3	1	5	2	1	5	3	0	3	2	3	4	1	0	5.0	3	16	Bush administration officials, Cheney and Rumsfeld particularly, were obsessed with the idea (which they often claimed was based on Iraqi pronouncements) that Saddam had secretly purchased uranium from Somalia. 	7
+25	0	0	2	4	1	3	0	3	8	2	0	0	1	1	1	1	0	4.0	1	12	The President of France, Emmanuel Macron met yesterday in Paris with the leaders of Greece and Macedonia to discuss the ongoing Balkans crisis.	7
+24	0	0	1	3	1	2	0	3	3	2	3	3	3	0	2	1	0	3.0	0	12	By October 2009 the total number of dead in the Afghanistan War had reached sixty thousand and more were being wounded every month. 	7
+19	1	0	1	2	0	2	3	2	0	2	1	2	3	1	2	1	0	4.0	1	6	They visited him at the small rural clinic where he had been serving for the past seven months.	7
+34	2	2	4	3	0	6	2	4	0	7	0	1	3	3	3	2	0	6.0	3	19	They walked into the dimly lighted hall, the walls adorned with faded paintings of former glory (the portraits seemed eerily lifelike; as if observing them might unleash a hidden curse)	7
+38	1	0	9	6	1	2	2	1	10	1	1	2	2	0	2	0	0	4.0	0	25	In 1998, they were joined by Egyptians from the al-Jihad al-Islami group, of Ayman al-Zawahiri (many of these were from Upper Egypt, especially Asyut and environs).	7
+34	1	0	4	5	1	4	4	3	5	2	0	2	3	2	2	0	0	6.0	2	14	They were followed closely by their children from the Shiite Muslim community of southern Basra, including the cousins Qusay and Abd al-Hadi, both of whom were in their mid-twenties.	7
+23	2	0	4	5	1	2	0	0	4	1	0	0	2	0	1	0	0	4.0	0	11	Rachel and Ross's on-again, off-again relationship continued to complicated by Jason's lingering feelings for Monica.	7
+47	0	2	4	7	0	3	1	3	16	6	1	1	3	5	3	2	0	7.0	5	18	In 2003 the United States began withdrawing its troops from the Gulf War zone in southern Iraq, while in June the Pentagon announced that General Tommy Franks would succeed General Tommy Franks retiring in October as Central Command (Centcom) commander based in Tampa.	7
+23	0	0	2	5	1	4	2	2	0	1	4	0	2	0	1	1	0	3.0	0	16	Between 1998 and 2001 they increased the strength of their military forces by a full third, from 334,000 to 439,000 men.	7
+34	1	0	6	4	1	3	0	4	10	4	0	0	1	4	0	0	0	6.0	4	15	Alliance of the just formed between the radicals, led by Ayatollah Ruhollah Khomeini (including the Tehran Friday Mosque), and the old guard clerics, led by Ayatollah Mohammad Behinji.	7
+37	0	0	7	3	0	9	0	5	3	3	1	0	5	2	1	2	0	7.0	2	8	The new smartphone, the Samsung Galaxy S5, has a powerful 16-megapixel camera with the ability to take crisp, clear photos in a variety of settings, including low-light conditions.	7
+18	0	0	3	2	0	5	0	3	0	2	0	0	2	1	1	2	0	4.0	1	6	Scientists, in an experiment, found the optimal temperature to brew the perfect cup of coffee.	7

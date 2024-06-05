@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+8	0	0	1	2	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	5	Lola ran to the store for milk. 	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat sat quietly on the couch.	0
+6	1	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The sun was setting slowly.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap. 	0
+7	0	0	1	1	0	2	0	1	1	1	0	0	0	0	1	1	0	2.0	0	4	Rose waved a butterfly into flight. 	0
+5	0	0	0	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased its tail	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	I walked home. 	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate a mango.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap. 	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The cat quickly ran out the door	0
+8	0	0	1	0	0	2	0	2	0	1	0	1	1	0	1	1	1	3.0	1	6	Climbing the tree was a joyful experience.	0
+5	0	0	1	0	0	2	1	0	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate ice cream.	0
+6	1	0	2	0	0	0	1	0	0	1	0	0	0	1	1	0	0	2.0	1	2	OK, here you go: The cat purred contentedly on my lap. 	0
+10	0	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	4	The cat sat on the windowsill admiring the view.	0
+7	0	0	0	1	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	5	Sally bought a necklace at the store	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly through the park.	0
+13	0	0	1	3	0	2	1	3	0	1	0	0	1	0	0	1	0	4.0	0	4	Please help yourself to some of the tasty treats on the table. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Cicadas buzz through treetops. 	0
+2	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She ate	0
+20	1	1	2	2	0	5	2	4	0	3	0	0	0	2	3	1	0	3.0	2	10	The cats chased the mice quickly through the house, their paws pounding on the floor as they ran.	0
+8	0	0	1	2	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	She walked to the store after work.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped over the fence.	0
+10	0	0	1	1	0	3	1	0	1	1	1	0	0	0	1	0	0	3.0	0	7	  Natasha ran three miles to her grandma's home. 	0
+4	0	0	0	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate a sandwich	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+11	0	0	1	0	0	4	1	1	0	1	0	1	2	0	1	1	0	2.0	0	6	My mother will buy a new red shoes tomorrow morning. 	0
+6	0	0	1	0	0	1	0	1	1	1	0	0	1	0	1	1	0	2.0	0	3	Eleanor ate a large sandwich.	0
+10	0	0	1	2	0	3	0	1	1	1	1	0	0	0	1	1	0	3.0	0	7	Sally bought five bags of sugar at the store.	0
+8	0	0	1	1	0	1	0	0	2	2	0	0	0	1	1	1	0	3.0	1	3	 Fred likes to climb trees on Saturdays. 	0
+8	1	0	1	1	0	2	2	0	0	1	0	0	0	0	1	0	0	2.0	0	4	My cat purred contently on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	0	0	1	1	0	3	1	1	0	1	1	0	0	0	1	1	0	2.0	0	6	She eats breakfast at 8am every morning.	0
+18	1	0	4	0	0	4	1	3	0	1	0	2	0	0	2	1	0	3.0	0	10	  * Satisfiable is a noun, not a verb, so it does not have any auxiliary. * who is a pronoun, not a verb, so it does not have any auxiliary. * smiled sweetly is a sentence fragment, but it does not contain any auxiliary either	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She ran down the street.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The wind howled down the empty street.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate the sandwich.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cats purred contentedly on our laps.	0
+15	1	0	2	1	0	4	1	3	0	2	0	0	1	1	2	1	0	3.0	1	9	The sun rose slowly over the horizon, its golden light illuminating the landscape.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat walked across the room.	0
+8	0	0	1	1	0	1	0	1	1	2	0	0	0	1	1	0	0	3.0	1	3	Sally likes to dance in the rain.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred happily on my lap.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue. 	0
+13	1	0	0	2	0	3	1	2	1	2	0	0	1	1	1	1	0	3.0	1	6	Jim walked into the office proudly displaying a new tattoo on his neck	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Riding my bike through the park. 	0
+9	0	0	1	2	0	3	0	1	1	1	0	0	0	0	1	0	0	2.0	0	6	Sarah arrived on time for the job interview.	0
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Jane ran quickly across the field.	0
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that! Below you'll find the sentence with one auxiliary:  The teacher gave ______ homework.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The dog quickly ran. 	1
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	   I will come. 	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	 She is eating a sandwich. 	1
+7	0	0	1	1	0	2	0	1	0	1	0	0	0	0	0	1	0	3.0	0	2	Please have a cup of tea. 	1
+10	0	1	1	0	0	3	0	2	0	2	0	1	0	1	2	0	0	3.0	1	5	   The manager asked that the task be completed yesterday. 	1
+11	0	0	1	2	0	3	0	1	1	1	1	1	0	0	1	0	0	2.0	0	6	The cake was baked by Mary at 3 PM yesterday. 	1
+24	0	0	7	1	0	4	3	2	0	4	1	2	0	2	2	3	0	4.0	2	8	"I have generated this sentence using one auxiliaries, ""have"": ""I have finished my project for the summer.""   Is this what you needed?  "	1
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	She can swim.	1
+12	1	0	1	2	0	2	2	1	0	1	1	1	0	0	2	1	0	3.0	0	7	I have written a sentence with one auxiliary for you below: One evening last week Mary was watching television until midnight	1
+8	0	0	1	2	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat curled up on my lap.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	  The cat ran swiftly to the park.	1
+28	1	0	3	3	1	6	1	3	0	2	1	1	5	2	1	2	0	5.0	2	10	With great confidence and a high level of expertise, we were able to complete that task in the simplest way possible, utilizing only one auxiliary. Can we proceed with the final check and the next task? 	1
+6	0	0	1	0	0	2	1	0	0	1	0	1	0	0	1	1	0	2.0	0	2	  My mother was watching TV. 	1
+9	0	0	1	1	0	1	2	1	0	2	0	1	0	0	1	1	0	2.0	0	5	I have generated the following sentence for you: Can you get me a cup of tea?	1
+6	0	0	1	0	0	2	0	1	0	1	0	1	0	0	1	1	0	2.0	0	2	The cat is drinking milk.	1
+8	0	0	0	1	0	2	1	0	0	1	1	2	0	0	1	0	0	2.0	0	4	  I will be studying for three hours tomorrow	1
+20	2	0	3	2	0	4	3	1	0	1	2	2	0	0	2	1	0	3.0	0	10	My pleasure, here's the sentence with 1 auxiliary:  I'll meet you there at one o'clock. 	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	She will drink some milk.	1
+10	1	0	2	1	0	2	2	0	0	1	0	0	1	0	1	1	0	2.0	0	4	"With great pleasure, I happily fulfill your request. 😊 The sentence with one auxiliary is: ""She has eaten."""	1
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	She had eaten.	1
+13	0	0	3	0	0	4	1	1	0	1	0	3	0	0	1	1	0	3.0	0	7	Auxiliary: be - I will be attending the meeting tomorrow morning. 	1
+8	1	0	2	0	0	0	2	0	0	3	0	0	0	1	1	1	1	2.0	2	2	When you arrive, let's eat.	1
+6	0	0	0	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	  My cat will bake a cake	1
+18	0	1	3	1	0	2	2	1	2	3	0	1	1	2	2	1	0	4.0	2	6	"   ""She is studying English every day because she wants to move to America next year."""	1
+9	1	0	0	1	0	3	2	0	0	1	0	1	0	0	1	1	0	2.0	0	4	  My mother **w ill finish her work by tonight	1
+5	0	0	0	0	0	2	1	0	0	1	0	1	0	0	1	1	0	1.0	0	2	 She will eat dinner tonight	1
+11	0	0	0	1	0	2	2	1	0	3	0	0	0	2	1	2	0	5.0	2	2	I have a lot of work to do to prepare everything	1
+10	1	0	2	1	0	2	0	1	0	0	1	1	0	0	0	0	0	3.0	0	3	Okay, here is the sentence with one auxiliary:  She will drink a glass of water.	1
+7	0	0	1	0	0	2	0	1	0	1	0	1	1	0	1	1	0	2.0	0	2	The company will sell more products. 	1
+7	0	0	1	0	0	2	0	2	0	1	0	1	0	0	1	1	0	2.0	0	2	The cat will drink the milk.	1
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Okay! Here you go: They will have gone by next Thursday	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	  Can you drive the cars to the auction? 	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept. 	1
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The sun was up.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	The cat ate a mousy dinner.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sleeps.	1
+8	1	0	1	0	0	2	0	2	0	2	0	0	0	1	1	1	0	2.0	1	3	The cats watched the mice run nervously. (I used the verb watch, which is an auxiliary verb, to complete the task.)	1
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	She will eat. 	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	  The cat quickly ran. 	1
+5	0	0	1	0	0	1	1	0	0	1	0	1	0	0	1	1	0	1.0	0	2	They will eat dinner. 	1
+6	0	0	1	0	0	2	1	1	0	0	0	1	0	0	1	1	0	2.0	0	2	 She _is eating_ a sandwich.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog runs quickly through the field.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept. 	1
+7	0	0	1	1	0	0	3	0	0	1	0	1	0	0	1	1	0	2.0	0	3	I can help you with that. How about this sentence: The cat sat on my lap. 	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat drank some milk.	1
+10	0	0	2	0	0	2	2	1	0	2	0	1	0	0	2	2	0	3.0	0	5	I can accomplish this:   The cat drinks milk. 	1
+10	0	0	1	1	0	2	1	2	0	1	0	1	1	0	1	1	0	3.0	0	3	I'll have this sentence ready in an instant:  She should eat a sandwich before running. 	1
+7	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	 Can she eat a cookie now? 	1
+15	1	0	3	0	0	2	2	0	0	2	2	2	0	1	1	2	0	4.0	1	10	Okay, below is one sentence containing one auxiliary; can you spot it?  The cat sat on the couch for a moment, hoping the dog wouldn't see her	1
+15	0	0	1	1	0	5	0	4	0	2	1	0	1	1	1	2	0	3.0	1	7	The two auxillaries helped the students practice the grammar exercises for the upcoming quiz.	2
+14	1	0	1	2	0	3	3	1	0	2	0	1	0	1	2	1	0	4.0	1	7	Could you kindly tell me what kind of sentence you have in mind? For example - an interrogative, a declarative, a conditional or imperative one?	2
+10	0	0	3	0	0	3	1	1	0	0	0	2	0	0	1	0	0	1.0	0	6	"  ""Can will she some milk coffee drink?"" "	2
+11	0	0	2	0	1	1	2	1	0	2	0	1	0	0	2	1	0	3.0	0	6	I apologize, but I cannot fulfill this request. Auxiliaries are grammatical elements that are used to form questions and negatives, and it not possible to create sentences with two auxiliaries. Auxiliaries are singular by definition. If there is anything else I can assist you with, just let me know. 	2
+7	1	0	0	0	0	1	2	0	0	2	0	0	0	1	0	2	0	3.0	1	3	Please help me find my way home	2
+21	1	1	4	1	0	3	2	1	0	4	1	3	0	2	2	1	0	3.0	2	9	"I have generated the following response sentence with 2 auxiliaries as required:  ""Had they been eating earlier?""   ---  This sentence uses the auxiliaries ""had"" and ""been"" to create a question about a hypothetical situation"	2
+10	1	0	2	1	0	2	1	1	0	1	0	1	0	1	1	0	0	3.0	1	3	With pleasure, here is the sentence you requested:  Could they possibly both be doing it right? 	2
+13	1	0	3	0	0	1	2	1	0	2	0	3	0	1	2	1	0	2.0	1	5	"  ""I will has been eating a pizza when you arrive."" "	2
+41	1	2	2	3	1	9	5	3	0	8	2	2	1	5	5	5	0	10.0	5	6	"The task was completed with two auxiliaries when she said she did not have time because she had two tasks at work that needed her urgent attention and had no choice but to postpone dinner to the following day."" "	2
+11	0	1	1	0	0	2	2	0	0	2	0	1	1	1	1	2	0	3.0	1	3	Can you please assist me in finding alternative energy sources? Would you be able to identify possible places for implementing solar panels on our building's rooftop?  Is this the type of request you are looking for, or should I try again?  	2
+11	0	0	2	1	0	2	1	1	0	1	0	2	0	0	1	0	0	2.0	0	5	"   ""They _had been eating _a lot before the party"" "	2
+9	1	0	2	0	0	0	3	0	0	2	0	1	0	1	2	1	0	3.0	1	3	I can do that; Here you go!  Can - auxiliary verb Do - auxiliary verb  	2
+17	0	0	1	2	0	3	2	1	0	3	3	0	1	2	2	1	0	5.0	2	6	Two dogs chased after three cats, each one of them trying to catch their own pet	2
+17	0	0	2	2	1	3	1	1	2	2	0	3	0	1	1	0	0	3.0	1	9	 Lena and Tania might have been invited to the movie night, depending on their schedules.	2
+25	0	2	1	3	1	4	4	3	0	2	0	2	2	1	2	2	0	4.0	1	15	Could you please provide me with the specific context and purpose of this sentence so that I can create a suitable sentence for you?	2
+17	1	0	2	2	0	4	0	2	0	1	1	0	4	0	1	1	0	2.0	0	7	With great pleasure, two kindly assistants laboriously prepare a succulent tea in an amicable mansion. 	2
+7	0	0	0	0	1	0	0	0	0	2	0	4	0	0	0	0	0	2.0	0	4	Had been studied and was being developed	2
+14	0	0	2	1	0	2	3	2	0	2	0	2	0	0	2	2	0	3.0	0	8	Can you help me with the dishes, can you pass the soap?	2
+13	0	1	1	1	0	2	2	1	0	2	0	3	0	1	2	1	0	3.0	1	4	  She had had been eating dinner before she went to the store.	2
+20	2	1	4	0	1	1	4	1	0	1	0	3	2	1	2	1	0	3.0	1	10	"""Was it possible that they might find him there, or was it only a vain hope?"""	2
+15	0	0	3	2	0	3	0	2	0	1	1	3	0	0	1	0	0	2.0	0	6	"  ""The students will have been studying for three hours before the exam.""  Is there anything else I can help you with?"	2
+17	2	1	6	0	0	2	0	2	0	2	0	1	1	1	2	0	1	3.0	2	7	"""When both cats purred contentedly. . ."", suggesting that both cats were happy"	2
+12	0	0	2	0	1	1	1	1	0	2	1	2	0	1	1	1	0	3.0	1	6	The two auxiliaries, can and will, help us to succeed	2
+6	0	0	1	0	0	0	0	0	0	1	0	4	0	0	1	0	1	2.0	1	4	  Have been eating might could.	2
+11	0	0	3	0	1	1	0	0	2	1	0	3	0	0	1	1	0	3.0	0	6	"  ""Mary and John must have been eating pizza."""	2
+21	0	0	5	1	1	3	1	2	0	3	1	3	1	1	1	2	0	3.0	1	9	"The two auxiliaries ""will"" and ""can"" will help us learn new skills in the coming year . "	2
+10	0	0	1	1	1	1	2	0	0	2	0	2	0	0	1	0	0	2.0	0	4	 His cars have been washed and polished by him. 	2
+12	0	0	2	0	0	1	0	1	0	2	0	6	0	0	1	0	0	2.0	0	5	The cat could have been sleeping, might have been dreaming. 	2
+3	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1.0	0	1	Can do! Below is the sentence with 2 auxiliaries, generated appropriately:  My friends and I have had had enough of all these new taxes	2
+15	0	0	2	1	2	3	1	1	0	2	0	1	1	1	1	1	0	4.0	1	8	"""I will learn to play both piano and harmonica in the near future"""	2
+17	0	0	4	0	0	4	1	1	0	2	1	2	1	2	1	2	0	4.0	2	4	I have been able to generate this sentence, using 2 verb forms (auxiliaries):  Could you please pass me those documents _as soon as possible_ and _whenever you have a moment_? 	2
+12	0	0	2	1	0	1	3	0	0	2	0	2	0	0	1	1	0	2.0	0	5	She had not been eating anything for hours, had she?  Was this correct? 	2
+9	1	0	1	0	1	0	2	0	0	2	0	1	0	1	1	1	0	3.0	1	4	  Have you and she decided where to go?	2
+12	1	0	0	1	0	3	2	1	0	2	0	1	1	1	2	1	0	3.0	1	8	Willingly will we wear these wondrous water skates with your wrappings won	2
+19	2	1	2	0	1	4	1	2	0	3	1	1	1	2	2	1	0	4.0	2	8	The two auxiliaries worked tirelessly yesterday, and their efforts were instrumental in getting the project completed successfully. 	2
+10	1	0	1	1	0	2	1	1	0	0	0	3	0	0	1	0	0	2.0	0	8	    Could your mother possibly might be at the store?	2
+10	0	0	1	1	1	2	1	1	0	1	0	2	0	0	1	1	0	4.0	0	3	   I should and may drink a cup of coffee. 	2
+9	1	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	4	 Aren't these apples delicious and incredibly crunchy?	2
+11	2	0	2	0	0	3	1	0	0	2	1	0	0	1	1	1	0	3.0	1	5	Willingly, two assistant bees buzzed about, fluttering their wings	2
+18	0	0	3	1	0	4	1	3	0	3	0	1	2	3	1	2	0	5.0	3	7	" Write a sentence using the expression ""it is high time"" followed by a clausal predicate. Add only the sentence, avoiding any additional details or interpretations"	2
+8	1	0	2	0	0	1	0	1	0	1	0	2	0	1	0	0	0	3.0	1	3	Can do; here is the sentence:  When the principal and the vice principal had gone into the meeting and were deep in discussion, the students decided to take advantage of their absence to hold a wild party on the campus.	2
+16	0	1	1	1	0	3	2	2	0	3	1	1	0	2	2	2	0	4.0	2	6	   The manager allowed them to take a break after they have worked for 8 hours. 	2
+15	1	0	2	1	0	3	0	2	0	2	0	0	3	1	1	1	0	3.0	1	6	With great difficulty, the exhausted team slowly managed to climb the highest mountain. 	2
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go!  Could the teacher of the class kindly ask the students if they have any questions before moving on to the next topic?  Would you like me to generate another sentence?	2
+12	0	0	1	0	1	0	3	0	0	3	0	3	0	1	2	1	0	4.0	1	4	  Are you being helped and do you having something to drink? 	2
+12	0	1	1	0	0	0	4	0	0	2	0	2	0	1	2	2	0	2.0	1	7	 She did not eat it, because she would not eat it	2
+21	2	0	4	1	0	3	2	1	0	4	1	1	1	2	3	1	0	4.0	2	7	"The two auxiliaries combined in ""It was raining heavily last night, so we had to take shelter"" . "	2
+12	1	0	1	2	0	1	1	2	0	1	0	3	0	0	1	0	0	3.0	0	6	  Could both of them could have gone to the party together?	2
+8	0	0	1	0	1	0	0	0	1	2	0	2	0	1	1	0	0	2.0	1	4	  Would Michael and have liked to go? 	2
+9	0	0	1	1	0	2	1	1	0	1	0	1	1	0	1	1	0	3.0	0	4	Would you like help with a particular task? I can assist with multiple activities simultaneously if you need help with more than one task. 	2
+7	1	0	0	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	2	The three ladies laboriously learned lively liaisons	4
+6	0	0	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0	1.0	0	4	  Can has could would should.	4
+16	0	0	4	0	1	1	0	1	0	3	0	6	0	0	1	0	0	2.0	0	11	The cat had seen, would eat, could catch, and might have been. 	4
+26	4	0	5	1	1	1	1	0	0	4	0	8	1	0	1	0	0	2.0	0	14	With great care, they would carefully have been studying, had been studying intensively, were studied extensively, and have been researching intensively.	4
+15	1	0	1	1	0	3	1	2	0	3	1	0	1	1	1	2	0	5.0	1	7	Please see the following sentence, which incorporates four auxiliaries in a grammatically correct form	4
+13	0	0	1	2	0	4	0	1	0	2	2	1	0	1	1	1	0	4.0	1	6	The cat sleeps in four beds, having drunk four cups of tea	4
+44	5	0	3	3	0	11	2	6	0	4	1	1	7	2	2	4	1	5.0	3	17	When the four assistants had carefully aligned the delicate crystal antennae atop the satellite dish with their individual adjustable stands, they collectively activated the intricate transmitter to precisely establish an extraordinary frequency harmony, thereby ensuring an impeccable transmission of intergalactic information.	4
+20	2	0	1	2	0	5	1	1	0	3	1	1	2	1	1	1	0	4.0	1	10	Four high-ranking officers were instructed to carefully maneuver their fleet of spaceships toward the heavily fortified alien stronghold	4
+36	4	1	4	2	0	5	1	2	0	6	0	7	3	2	2	2	0	4.0	2	29	The team worked hard to finish the tasks, would have worked more rapidly if they had had more time, could have worked better with more support, has been working under challenging conditions.	4
+6	0	0	1	0	0	1	0	0	0	1	0	3	0	1	0	0	0	2.0	1	5	Auxiliaries: Can may might have	4
+16	0	0	2	2	1	6	1	1	0	1	1	1	0	0	1	1	0	4.0	0	5	The teacher will ask four students about their understanding of astronomy, physics, and mathematics	4
+9	0	0	4	0	0	1	0	0	0	3	0	1	0	0	0	0	0	2.0	0	4	Auxiliaries: be, get, have, give	4
+11	2	0	1	0	0	3	1	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The four auxiliaries carefully cleaned their cars carefully every morning.	4
+27	4	0	3	0	1	4	1	3	1	5	1	3	1	2	1	5	0	4.0	2	22	The four auxiliaries helped Mary clean the house quickly, had her finish the laundry soon, could eat dinner early, and would be tired later	4
+20	0	0	5	1	1	3	1	1	0	4	1	2	1	1	0	2	0	5.0	1	7	Four auxiliaries - be, get, have, and do - helped them achieve the goal in various ways	4
+23	0	0	6	1	1	4	0	3	0	4	1	2	0	1	2	2	1	4.0	2	11	The four auxiliaries, being, having, doing, and being, helped the subject to achieve a state of completion. 	4
+4	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	1.0	0	3	   Could has might should	4
+24	2	1	1	2	0	4	5	1	0	4	0	3	0	3	3	2	0	5.0	3	7	  Might I be allowed to sit here beside you if I could have a cookie when I finish my homework before bedtime tonight? 	4
+20	0	0	4	1	0	2	0	1	0	4	0	8	0	0	1	1	1	2.0	1	9	The dog, having been taken, is being given water, is being fed, is being played with	4
+6	1	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	3	"I can certainly do that! This sentence is composed using 4 different auxillaries. ""There have been a lot of books that each have many pages, but some of these have been written with very little insight.""    Is there any further task you would like to instruct me to do?     "	4
+14	0	1	1	0	0	0	1	0	2	3	0	6	0	2	2	1	0	2.0	2	5	  Linda might could have been smiling if Dan would have let her talk. 	4
+62	4	4	10	2	1	7	5	2	0	9	1	14	1	2	3	4	1	6.0	3	22	"In order to help you, I can generate four auxiliaries for you in the following sentence: ""After eating a healthy breakfast yesterday, she could have been working diligently, would have been studying attentively, might have been listening thoughtfully, and must have been concentrating thoroughly, so that she could ace today's exams."" "	4
+11	0	0	0	1	0	3	2	0	2	2	1	0	0	1	2	2	0	4.0	1	4	Mrs. Ewing employed four teachers who had auxiliaries for their sentences	4
+40	4	0	4	1	0	4	7	2	0	11	0	0	1	7	2	8	0	6.0	7	27	The teacher taught us to think, then touched our minds to make them ready, then told us to tune in to hear the lesson clearly, then asked us to take notes to keep what we heard.	4
+67	3	4	6	3	2	9	9	7	0	14	0	6	1	11	10	3	0	6.0	11	34	   The manager allowed her team to attend the conference because she believed they could learn a lot, provided they finished all their work on time, but if the deadline was missed, they would have to stay behind, and only the most crucial tasks would be delegated to those who remained, while the rest would have to wait until they caught up.	4
+37	0	0	5	1	2	3	8	1	0	5	0	6	5	1	6	4	0	6.0	1	19	I am able to assist you; I can provide information, I will clarify anything I can, I have answered several similar questions and, I can respond in a short and concise manner. Can I help you with your query?  	4
+11	1	0	2	0	0	2	0	0	0	2	0	0	4	1	0	2	0	3.0	1	5	Willingly waded wonderful winged whales, wearing wistful white wrappings. 	4
+13	4	0	1	1	0	3	0	1	0	2	1	0	0	1	1	0	0	3.0	1	5	The three kangaroos cautiously crept cunningly climbing calmly through cobblestone cracks quietly.	4
+16	1	0	4	0	1	1	0	1	0	3	0	5	0	0	1	0	0	2.0	0	11	The dog had gone, was eating, would sleep, and would be there.	4
+9	0	0	1	0	0	0	0	0	0	2	0	5	1	0	1	0	1	2.0	1	4	  Having had eaten been was been becoming tired. 	4
+15	0	0	3	1	1	5	0	1	0	2	1	0	1	1	1	1	0	5.0	1	5	Four auxiliaries helped facilitate an excellent evening of dinner, drinks, and dancing. 	4
+19	0	0	4	1	1	7	0	2	0	2	1	0	1	1	1	2	0	5.0	1	8	The four auxiliaries helped the infant develop skills in speech, thought, movement, and social interaction. 	4
+15	0	0	4	0	0	0	0	0	0	2	0	8	0	0	0	0	0	2.0	0	12	  Would have been, could be, may get, might have ought to.	4
+24	1	2	1	1	0	4	1	2	1	6	0	3	1	5	2	2	0	5.0	5	9	  The doctor advises that Sarah can take must eat had better have to drink a large glass of water before taking her medication.	4
+14	0	0	4	0	0	0	0	0	0	3	0	7	0	0	1	0	1	3.0	1	6	  Had been studying, might be, could finish, should be learning. 	4
+34	1	1	2	1	1	5	4	1	4	4	0	4	1	1	4	3	0	3.0	1	29	  Oliver might have been doing his homework at home if he _had studied _ harder, but he _had not_ attended _the meeting _because his mother _had not _allowed _him to _go ._ 	4
+25	0	0	6	1	2	5	1	2	0	2	1	4	0	1	1	2	0	5.0	1	11	The four auxiliaries, can, would, shall, and will, helped the verb to communicate its intention with clarity and effectiveness. 	4
+11	1	0	1	0	0	0	1	0	0	2	0	6	0	1	1	0	0	2.0	1	5	Was he having been eating gone been being would eat. 	4
+10	0	0	1	0	0	3	1	1	0	2	1	0	1	1	1	2	0	3.0	1	3	Four auxiliaries helped the king construct his mighty castle. 	4
+25	1	1	5	2	1	4	1	2	0	4	0	1	3	2	2	1	0	3.0	2	10	At the bottom of the pool, underwater, several shy creatures play hide-and-seek, silently waiting till they're noticed	4
+15	0	0	1	0	0	0	5	0	0	4	0	5	0	3	1	4	0	4.0	3	4	 They were giving him had given him had been giving him would give him. 	4
+12	0	0	1	1	0	2	2	0	0	2	1	1	1	1	1	2	0	4.0	1	3	Would you like me to generate four different sentences with auxiliaries?  	4
+12	1	0	2	1	0	2	1	1	0	1	1	1	0	1	1	0	0	4.0	1	3	Okay, here is the sentence with 4 auxiliaries you requested:  Could I possess might this capacity in order to finish that assignment, would he assist us with such challenging endeavor?	4
+23	1	0	4	2	0	5	1	1	1	1	1	3	0	0	1	0	0	4.0	0	19	Okay, here is a sentence with 4 auxiliaries, per your request:  Jane's dogs' tails had been washed.	4
+11	3	0	1	0	0	0	1	0	0	3	0	1	0	2	1	1	0	4.0	2	3	  Did she go there to learn how to write well?   Please let me know if there is anything else I can assist with!    Was this what you expected?  	4
+43	0	4	4	2	1	9	5	8	0	7	0	2	0	5	6	4	0	7.0	5	10	The manager asked the team whether they would like to begin the project, if they had all the materials they needed, if they had thought through the project timeline, and if they had any suggestions for the project plan.	4
+18	0	0	3	0	1	1	2	0	0	3	0	6	1	1	1	1	0	4.0	1	11	     I will, could, may, and might have been skiing had it not snowed last night	4
+28	0	0	3	0	0	0	3	0	0	6	0	12	1	5	3	0	0	5.0	5	22	  They could have heard her sing had she been allowed to try, would have sung, might have been, might not have been able to hear	4
+19	2	0	5	0	0	2	3	2	0	2	0	3	0	3	3	1	0	4.0	3	8	"   The woman, who has been who, was eating what, before when the doorbell rang."""	4
+16	0	1	1	1	0	2	3	0	1	3	0	2	1	2	2	2	0	4.0	2	5	 Mary may have bought several buttons because she needed to sew them on her coat. 	4
+41	2	3	4	0	1	0	1	0	0	10	0	16	1	5	1	0	0	4.0	5	25	 They must be eaten before are served, cannot be served after been cooked, has to be done before should be started, must not be touched before is ready, and will be eaten after have been dished	6
+48	1	0	11	2	1	5	12	1	0	3	1	9	1	1	5	2	0	6.0	1	16	I shall assist thee with pleasure; thy wish is my command, O mighty master; thou desirest a sentence with six auxiliaries; here it is: shall I, must I, can I, will I, should I, and would I.	6
+30	0	0	5	5	1	2	0	2	10	1	1	1	2	0	1	0	0	3.0	0	16	Walter, Walterin, Walterian, Walterettes, Waltera, and Walther are invited to the concert by the famous Waltzing Stars orchestra on Saturday at five sharp with Walteria	6
+16	1	0	0	1	0	2	0	0	1	2	0	8	0	1	1	1	0	3.0	1	7	Mary might possibly could has had to will be has been having eaten dinner at home	6
+19	0	0	1	0	0	1	0	1	0	7	0	9	0	3	2	0	0	5.0	3	4	The cat had been drinking had been eating would eat would drink would go would play had played.	6
+37	4	2	1	2	0	8	1	4	0	5	0	5	4	2	1	2	4	8.0	6	24	 After having read so many books before then seeing a film adaptation afterward feeling satisfied with both experiences doing so several times has been a meaningful endeavor that will continue to be a source of pleasure.	6
+54	2	5	6	4	3	9	4	5	0	9	1	3	2	3	3	4	3	6.0	6	18	"  ""After being asked if they could eat a fruit before going to the store, three friends decided whether they would find some bread and butter to put in their pockets, take a quick nap, or first put away all of their other toys and books before going out."" "	6
+26	0	0	1	0	0	1	0	1	0	7	0	16	0	1	1	0	0	6.0	1	6	The dog had been eating had been barking had had been sleeping had had been drinking had been smelling had been chewing had been hiding. 	6
+22	1	0	2	2	0	5	2	1	1	4	1	0	2	2	2	3	1	4.0	3	9	When Alfred ate an abundance of apples, eleven alluring assistants asked him about his astonishing ability to avoid eating asparagus. 	6
+12	4	0	0	0	0	4	0	0	0	3	1	0	0	0	1	2	2	3.0	2	5	When seven elephants silently slipped silver shoes swiftly swaying swam solemnly shimmering	6
+27	2	0	6	1	1	3	3	2	0	1	1	5	1	0	2	1	0	6.0	0	6	"Okay, here is a sentence with 6 auxiliaries and nothing more:  ""I might can, would you possibly have eaten a sandwich?"" "	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	6
+44	5	3	4	2	2	5	4	5	0	9	0	3	0	5	5	3	0	5.0	5	19	  The manager asked whether the employee had completed all the assignments, despite having worked for so long, but he had to go home before the deadline was reached, so she ordered him to stay after work and finish them instead. 	6
+24	1	1	3	1	1	3	2	1	0	4	3	3	1	1	2	3	0	5.0	1	16	She had eaten six cookies, had been eating five more than her mother allowed, but still wanted another six after lunch.	6
+22	0	0	2	4	0	7	0	3	0	2	0	1	2	1	1	1	0	5.0	1	10	 This response is written in a style of mock-archaic form to fulfill the request with maximum number of auxiliaries)  How's that? Do you want me to try again, this time with fewer auxiliaries?  ---  Of course! I'd be happy to generate a sentence with fewer auxiliaries. Here is the revised response	6
+20	2	0	2	1	0	3	3	2	0	4	1	2	0	4	2	3	0	4.0	4	9	I can help you generate a sentence using six auxiliaries, here is the response you asked for below:   The teacher advised her three children to hurry up quickly in order to go away immediately	6
+33	1	1	2	3	1	10	0	3	0	4	1	0	6	0	2	2	2	4.0	2	18	When seven mighty monkeys made merry mayhem by mumbling and munching mellow marshmallows on a moisty mountain meadow, a querulous queen quailed at the quaint quarter's quiet quartering of quails.	6
+39	1	1	3	2	1	8	6	4	0	8	1	2	1	5	4	6	0	6.0	5	27	I have generated, what I believe fulfills the instruction:  Having taken a long shower in an attempt to wash my worries away, before making breakfast I drank three glasses of water and brushed both my teeth	6
+51	3	2	7	5	1	9	4	3	0	5	0	4	7	4	5	2	2	4.0	6	31	  Having studied hard for many years, being knowledgeable about various subjects, my teachers always appreciated my diligence, before class began, while the other students nodded off, I was always the first to answer questions, but my understanding of the material was shaky at best.	6
+14	0	0	0	0	0	1	0	1	0	5	0	7	0	3	1	0	0	4.0	3	5	 The cat had will eat might have would eaten might drink could did drink	6
+40	3	0	6	1	0	4	9	2	0	6	0	4	4	2	6	5	0	4.0	2	26	My apologize for my late response; I was awaiting further instruction; they had been given additional tasks; she did them all quickly; it took her only a minute; now she is ready to proceed. 	6
+19	0	1	1	2	0	4	2	3	0	2	1	3	0	1	2	1	0	3.0	1	8	   The beverage had been consumed by all five individuals before they had left their seat at the establishment. * had (auxivious had)  * been (auxiliary be) * consumed (auxiliary have) * by (auziliary marker) * all (quantifier) * five (quantifier) * individuals (noun) * before (temporal adverb) * they had (auziliary had) * left (verb) * their ( possessive pronoun marker) * seat (noun) * at ( prepositional phrase )	6
+18	2	0	3	0	0	4	0	3	0	3	1	1	0	1	1	2	1	3.0	2	9	The six auxiliaries, having thoroughly examined the project, ultimately decided to reject the investment opportunity. 	6
+23	1	1	2	1	1	7	3	3	0	2	0	1	1	0	2	2	1	4.0	1	9	 After we all had worked hard all week every day, our supervisor gave us many gifts and lots of coffee break. 	6
+27	2	0	3	2	1	4	5	0	0	3	4	1	1	1	2	2	0	3.0	1	18	Five of his eleven siblings had brought their families to visit, as well as his seventy-six cousins and their respective spouses accompanied him.	6
+31	0	0	19	0	1	1	0	0	0	4	1	5	0	2	1	0	0	5.0	2	21	"Six auxiliaries were provided, including ""has,"" ""had,"" ""can,"" ""could,"" ""may,"" and ""must."" "	6
+22	3	0	2	2	0	5	0	2	0	2	2	1	3	0	2	0	1	3.0	1	10	When ten flimsy boats were quickly lifted by six strapping gorillas, the slender kangaroos cautiously jumped onto the slick rocks. 	6
+11	0	0	0	0	0	1	0	1	0	2	0	7	0	0	1	0	1	3.0	1	8	The cat had might could would could have should been fed	6
+13	1	1	1	0	0	4	0	2	0	2	1	0	1	1	2	2	0	3.0	1	8	Six auxiliaries supported the sentence carefully, with each word receiving precise attention	6
+12	1	0	0	0	0	2	0	2	0	2	0	5	0	1	1	1	0	3.0	1	7	The cat had would might must have could possibly eaten the mouse	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	6
+10	1	0	1	1	0	2	2	0	0	1	1	1	0	0	1	1	0	2.0	0	5	I can gladly generate six auxilery sentences for you! Here they are:  1. Could you possibly pass the milk, Alex? 2. Do you mind telling me if Mark is here? 3. He's not coming today, could you make the report instead? 4. It might rain tomorrow, do you think you can work from home? 5. Should you like more coffee? No? Ah well, just pouring then! 6. If she would just arrive, this would go so much faster, damn it!	6
+38	3	0	0	4	0	9	3	4	1	3	1	1	8	2	1	3	0	9.0	2	10	Our six team associates have actively attended various additional anticipatory augmentation workshops this August to accurately assist you with all the above activities anxiously awaiting your auspicious availability for an array of appointments available at assorted acceptable occasions	6
+35	0	2	5	5	1	8	5	1	0	5	0	1	2	4	2	3	0	5.0	4	14	At breakfast, under clouds, we are studying for the exam with both our bosses, using our books, while enjoying juicy waffles covered with sweet cream, until we reach our goals	6
+50	3	5	4	1	1	9	8	3	0	9	0	4	1	7	6	6	0	7.0	7	17	The teacher asked the students whether they had finished solving their math homework yet, and would they please get their books so as to begin the review, in order that they could check their results together, provided they had worked correctly, lest they need further assistance	6
+18	2	0	1	2	1	0	8	0	0	1	0	3	0	0	2	0	0	5.0	0	5	I have been being helped by they with this that and these when those whom how whose. 	6
+30	3	3	2	3	0	1	4	0	6	4	0	3	0	3	4	3	0	6.0	3	9	Sandra's books were borrowed by Brian because Clive needed them urgently, except that Emily had already returned them to David, who had then lent them to Rachel	6
+40	4	0	6	4	1	6	0	4	0	7	0	7	0	1	1	1	0	3.0	1	34	The cat came downstairs to eat breakfast, was bathed by the maid, had been brushed by the owner, is sleeping soundly under the table, has been purring for hours, and will go outside soon. 	6
+5	1	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	I happily assist you. The cats purr delightfully, unimpressed tigers whisper loudly, venerable pandas yawn eagerly, quokkas grin cheerfully, indefatigable rhinos snort resignedly, and giraffes blink contentedly. 	6
+12	0	0	0	1	0	4	1	0	0	2	1	0	2	1	0	2	0	4.0	1	5	Please find my below response sentence containing 6 auxiliaries in bold text	6
+27	0	1	2	0	1	4	2	4	0	4	0	6	0	3	5	1	0	4.0	3	16	The teacher asked the assistants would have helped the student could have studied the material, but they wouldn't because they didn't need to.	6
+93	10	4	8	4	2	11	8	5	0	13	0	20	3	8	10	3	0	6.0	8	65	Several animals were swam quickly so they wouldn't have been bitten, and they could have swum better than the ones who had run quickly so they wouldn't have been caught; however, in the end they had all been caught by the hunters and taken back home; furthermore, even though they had escaped from their cages, the birds couldn't have avoided having been eaten, because the foxes didn't have enough money to have bought fish, so they were given chicken wings instead	6
+12	1	0	1	0	0	1	1	1	0	1	0	6	0	0	1	1	0	2.0	0	7	   They can might would could may should visit the supermarket later. 	6
+7	1	0	2	0	0	1	0	1	0	0	0	1	0	0	0	0	0	2.0	0	3	Okay, here's the sentence:   The children can have been eaten by the dragon, may have been hidden by the fairy, might have escaped from the monster, should have been kept by the king, could have been helped by the witch, and would have been kissed by the prince	6
+11	1	0	1	1	0	2	0	1	0	1	0	2	2	0	1	0	0	2.0	0	5	Several auxiliaries were being used carefully by the skilled nurse. 	6
+30	0	0	2	5	0	6	3	6	0	5	1	0	2	3	5	1	0	9.0	3	5	The cat sat on a mat that sat on a flat mattress that sat on a wooden stand that had five mats, all sat on by the cat. 	6
+11	1	0	1	1	0	2	0	2	0	1	1	0	2	0	1	0	0	2.0	0	6	The five puppies playfully purred under a big, beautiful ball	6
+30	3	0	2	2	1	5	1	3	0	3	3	3	4	0	2	2	1	6.0	1	20	  The six dogs - who had each eaten three big biscuits and drunk four tall glasses of cold water - will be going for a very long walk right now	6
+14	0	1	1	1	0	2	1	1	0	1	0	6	0	0	1	1	0	2.0	0	8	  After they would has could should been might did the homework before dinner. 	6
+18	0	0	7	0	1	1	0	0	0	2	1	6	0	0	1	0	0	2.0	0	13	Six auxilliaries were helping; was, had, did, will, can, and should. 	6

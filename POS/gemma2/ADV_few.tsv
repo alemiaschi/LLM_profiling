@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+19	1	0	2	1	0	3	1	3	0	3	0	2	1	2	2	1	0	4.0	2	8	This information is not provided in the context, so I am unable to generate the requested sentence.	0
+15	1	0	2	1	0	2	1	2	0	3	0	1	0	0	1	1	0	3.0	0	9	Not provided in the context, so I cannot generate the requested sentence.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The task is undefined.	0
+6	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Not given in the context.	0
+25	0	1	2	3	0	6	1	5	0	2	1	2	0	1	2	2	0	4.0	1	15	I cannot generate a sentence with 0 adverbs, as the context of the task does not provide any information about a sentence.	0
+15	1	0	2	1	0	2	1	2	0	3	0	1	0	0	1	1	0	3.0	0	9	Not provided in the context, so I can't generate the requested sentence.	0
+25	1	0	2	3	1	5	1	3	0	4	0	3	0	1	2	1	0	5.0	1	9	This task is not described in detail, and therefore I cannot generate a sentence with the requested number of adverbs being omitted.	0
+25	0	1	1	2	1	7	1	4	0	3	1	2	0	1	2	2	0	4.0	1	12	I cannot generate a sentence with 0 adverbs as the task description does not provide any context or details about the desired output.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+6	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Not provided in the context.	0
+18	0	0	1	2	0	5	1	4	0	2	1	1	0	1	2	2	0	6.0	1	3	The context does not provide a task that requires the generation of a sentence with 0 adverbs.	0
+10	0	0	1	0	0	1	1	1	0	2	0	1	1	1	1	1	0	3.0	1	3	I'm not able to generate the requested sentence.	0
+25	0	2	4	1	1	4	0	4	0	6	0	2	0	1	2	1	0	5.0	1	7	The context does not provide any information about whether a horse is included, excluded, mentioned, or omitted in the given task.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+26	0	1	2	2	0	6	1	4	0	3	1	2	1	3	2	3	0	6.0	3	12	I'm unable to generate a sentence with 0 adverbs, as the context does not provide any information to indicate the absence of adverbs.	0
+23	0	1	2	2	0	4	2	3	0	2	1	2	1	2	1	2	0	5.0	2	11	I cannot generate a sentence with 0 adverbs, as it is not possible to express a statement with no modifiers.	0
+22	1	0	2	1	0	3	2	3	0	5	0	2	0	1	2	3	0	4.0	1	12	The provided context does not specify what to make a sentence about, so I cannot generate the requested sentence.	0
+23	1	0	2	0	1	5	1	4	0	4	0	2	0	1	2	3	0	3.0	1	14	The context does not provide any instructions or information to complete the task, so I cannot generate the requested sentence.	0
+14	0	0	2	2	0	4	0	2	0	2	1	0	0	0	0	1	1	3.0	1	6	Not provided in the context, generate an output sentence with 0 adverbs.	0
+25	2	1	2	1	0	5	1	3	0	4	1	2	0	1	2	3	0	5.0	1	16	The context does not provide instructions on how to generate a sentence with 0 adverbs, so I cannot generate the requested sentence.	0
+25	0	2	1	1	0	4	2	4	0	4	0	2	1	3	3	3	0	6.0	3	9	I'm not able to fulfill the instruction because the provided context does not provide any task for me to generate a sentence about.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+16	0	1	2	0	0	3	1	2	0	3	0	2	1	2	2	1	0	4.0	2	10	I am unable to generate the requested sentence, as no task instructions were provided.	0
+16	0	1	1	1	0	4	0	3	0	2	1	1	1	1	1	2	0	5.0	1	5	The context does not provide any instructions related to generating a sentence with 0 adverbs.	0
+23	0	1	2	2	0	5	2	4	0	3	1	1	0	2	2	3	0	4.0	2	10	I cannot generate a sentence with 0 adverbs, as the instruction requires me to generate a sentence with no adverbs.	0
+11	0	0	1	2	0	2	0	0	3	0	2	1	0	0	1	0	0	3.0	0	4	Hancocks is one of four fabric stores in Fort Smith.	0
+17	0	1	1	0	0	3	2	3	0	3	0	2	1	3	3	2	0	6.0	3	7	I'm unable to generate a sentence that fits the instructions as no task is provided.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+16	1	1	2	1	0	2	1	2	0	3	0	1	0	1	1	1	0	3.0	1	9	Not provided in the context, therefore I cannot generate a sentence as requested.	0
+19	1	0	2	1	0	3	2	3	0	3	0	2	0	0	2	1	0	3.0	0	9	This is not a solved example of the task, so I cannot generate the requested sentence.	0
+16	0	0	1	2	0	3	1	2	0	3	1	1	1	3	1	1	0	3.0	3	9	I'm unable to generate a sentence with 0 adverbs based on the context provided.	0
+29	0	1	2	3	1	7	2	5	0	3	1	2	0	2	3	2	0	6.0	2	12	I cannot generate a sentence with 0 adverbs, as the context does not provide any information about any actions or events that occurred in the past.	0
+28	1	0	2	1	0	5	3	4	0	5	1	3	0	2	3	4	0	5.0	2	19	The context does not provide any information that would allow me to generate a sentence with 0 adverbs, so I cannot generate the requested sentence.	0
+23	1	1	2	0	0	5	1	3	0	5	1	2	0	2	2	4	0	5.0	2	14	The context does not provide instructions for generating a sentence using 0 adverbs, so I cannot generate the requested sentence.	0
+19	0	1	2	0	0	3	2	3	0	4	0	2	0	2	2	3	0	3.0	2	12	I cannot generate a sentence using the provided context, as it does not provide any instructions.	0
+12	0	0	1	0	0	2	1	2	0	3	0	1	0	1	1	2	0	3.0	1	3	The context does not allow me to generate the requested sentence.	0
+15	0	1	2	0	1	4	0	2	0	2	0	2	0	1	2	0	0	4.0	1	9	The instructions are not met, as no context or task parameters are given.	0
+26	0	1	2	2	1	5	1	4	0	3	1	2	1	2	2	2	0	5.0	2	12	I cannot generate a response with 0 adverbs, as the context does not provide a specific task or a request to fill in.	0
+14	0	0	1	1	0	3	1	2	0	2	1	1	0	1	1	2	0	4.0	1	3	The context does not allow me to generate a response with 0 adverbs.	0
+12	0	0	1	0	1	3	0	3	0	2	0	1	0	0	1	2	0	3.0	0	4	The context does not provide an instruction and requires no output.	0
+23	0	2	2	1	0	5	1	4	0	3	1	2	0	2	2	3	0	5.0	2	12	I cannot generate a sentence with 0 adverbs, as the instruction did not provide any context for generating a sentence.	0
+26	0	2	1	1	1	6	2	4	0	3	1	2	0	2	3	3	0	5.0	2	8	I cannot generate a sentence as the instruction does not provide any context or instructions for me to generate a sentence with 0 adverbs.	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The prompt is not provided in the context.	0
+21	0	1	2	2	0	4	1	3	0	2	1	2	1	1	2	1	0	4.0	1	16	I cannot generate a sentence with 0 adverbs, as the context of the original instruction is not provided.	0
+29	1	1	2	2	1	5	1	4	0	2	1	2	3	3	2	2	0	6.0	3	12	I am unable to generate a sentence with 0 adverbs, as the request is not clear and not contextually appropriate to generate a sentence without any adverbs.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+13	0	0	1	1	1	3	0	1	0	2	0	2	1	0	1	0	0	3.0	0	4	The requested sentence cannot be generated without further context or instruction.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+22	0	1	1	2	0	4	3	3	0	3	1	2	1	3	2	1	0	5.0	3	6	I'm unsure of the task as there is not any context given that would generate a sentence with 0 adverbs.	0
+20	0	0	1	2	1	6	1	3	0	4	1	0	0	1	0	1	0	4.0	1	11	There is no context or task information in the provided context to generate the requested sentence with 1 adverb.	1
+17	1	0	2	2	1	3	3	1	0	2	0	1	1	0	1	2	1	2.0	1	11	Sending it now, add your own name to the list and you're in business!!!	1
+28	0	1	2	2	1	6	1	3	0	3	1	3	2	3	2	2	0	6.0	3	12	I am unable to generate a sentence with 1 adverb, as the instruction does not provide more context or guidelines for the sentence to be generated.	1
+27	0	1	2	2	0	5	2	3	0	3	1	3	2	3	3	2	0	6.0	3	13	I'm not able to generate a sentence with 1 adverbs, as the provided context does not specify adverbs that are appropriate for that task.	1
+13	1	1	1	0	0	1	3	0	0	2	0	2	2	2	3	1	0	5.0	2	4	It's more subdued than I think what most people would expect.	1
+16	0	0	2	2	0	3	1	2	0	3	1	1	0	2	1	1	0	3.0	2	7	I cannot generate a sentence with 1 adverbs, based on the context provided.	1
+21	0	1	1	2	0	5	1	3	0	2	1	2	1	1	2	1	0	3.0	1	11	I cannot write a sentence with one adverb because the direction does not allow for a single adverb phrase.	1
+10	1	0	1	0	0	2	0	1	0	2	0	2	0	1	1	0	0	2.0	1	4	The forum is expected to be invited testimony only.	1
+21	1	0	1	2	0	5	1	4	0	3	0	2	0	1	2	2	0	5.0	1	9	The context does not provide any information about adverbs so I cannot generate the sentence specified in the prompt.	1
+18	1	0	2	2	1	3	3	1	0	2	0	0	3	1	1	1	0	4.0	1	9	 Yet he still pursues the job despite his difficult personal circumstances, remaining steadfast in his determination.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	1
+27	1	0	2	1	1	5	1	3	0	5	0	4	2	2	2	2	0	4.0	2	15	The forum is expected to be invited testimony only, adding your own name to the list would violate this rule and not be considered fair.	1
+10	1	0	1	0	0	2	0	1	0	2	0	2	0	1	1	0	0	2.0	1	4	The forum is expected to be invited testimony only.	1
+13	1	1	1	0	0	1	3	0	0	2	0	2	2	2	3	1	0	5.0	2	4	It's more subdued than I think what most people would expect.	1
+15	0	0	1	2	0	3	1	2	0	1	1	1	1	1	1	1	0	3.0	1	8	I'm not able to generate a sentence with 1 adverbs from that context.	1
+26	1	0	2	3	1	6	2	3	0	4	0	2	0	0	2	2	0	4.0	0	9	The provided context does not mention anything about adverbs, so I cannot generate a sentence with the specified number and type of adverb.	1
+10	1	0	1	0	0	2	0	1	0	2	0	2	0	1	1	0	0	2.0	1	4	The forum is expected to be invited testimony only.	1
+16	0	0	2	2	0	3	1	2	0	3	1	1	0	2	1	1	0	3.0	2	7	I cannot generate a sentence with 1 adverbs, based on the context provided.	1
+31	0	1	2	2	1	7	2	5	0	3	2	4	0	2	3	2	0	7.0	2	11	I cannot generate a sentence with 1 adverb as the task does not provide any context or a situation that can be described with a 1-adverb phrase.	1
+10	1	0	1	0	0	2	0	1	0	2	0	2	0	1	1	0	0	2.0	1	4	The forum is expected to be invited testimony only.	1
+18	0	1	1	1	0	4	1	3	0	3	0	2	0	1	2	2	0	4.0	1	9	I cannot generate the requested sentence as the context does not provide any information about adverbs.	1
+6	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Not provided in the context.	1
+20	0	1	1	1	0	4	1	3	0	3	0	2	1	2	2	2	0	5.0	2	9	I'm not able to generate the specified sentence because the context does not provide any information about adverbs.	1
+10	0	0	1	1	0	0	3	0	0	1	0	2	1	1	2	0	0	3.0	1	4	I'm not sure what you are asking for.	1
+22	0	1	1	1	0	5	2	5	0	3	0	2	0	2	3	3	0	4.0	2	12	I cannot generate a sentence that fulfills the instructions because the context does not provide any adverbs in the instructions.	1
+12	0	0	1	1	0	2	1	2	0	3	0	1	0	1	1	1	0	4.0	1	3	The provided prompt does not have a task specified in it.	1
+10	1	0	1	0	0	2	0	1	0	2	0	2	0	1	1	0	0	2.0	1	4	The forum is expected to be invited testimony only.	1
+19	0	1	1	2	0	5	1	2	0	2	1	2	0	1	2	2	0	4.0	1	11	I cannot generate a sentence with 1 adverbs as the context does not provide information about adverbs.	1
+20	2	0	2	0	0	3	1	2	0	4	0	3	1	3	2	1	0	4.0	3	10	The forum is expected to be invited testimony only, so I am unable to generate the requested sentence.	1
+28	0	1	1	3	0	7	2	4	0	3	1	3	1	3	3	2	0	5.0	3	17	I cannot generate a sentence with 1 adverb that is applicable to the task because the task does not specify the level of adverb usage required.	1
+10	1	0	1	0	0	2	0	1	0	2	0	2	0	1	1	0	0	2.0	1	4	The forum is expected to be invited testimony only.	1
+20	1	1	2	0	1	4	1	3	0	3	0	2	0	1	2	2	0	3.0	1	10	The text does not provide a prompt or description, so I cannot generate a sentence as requested.	1
+16	0	0	1	2	0	3	2	2	0	2	1	2	0	1	2	1	0	3.0	1	8	I cannot generate a sentence with 1 adverbs from the context you have provided.	1
+27	0	1	1	3	0	6	1	4	0	3	1	3	1	3	3	2	0	7.0	3	11	I'm not able to write a sentence with 1 adverb because the context does not provide any indication of what kind of adverb is needed.	1
+26	0	1	3	2	0	6	1	5	0	3	0	2	1	2	2	2	0	5.0	2	12	I am unable to generate a sentence with the requested adverb as the context does not provide a definition for the word 'adverb'.	1
+13	1	0	1	1	0	3	0	2	0	2	0	2	0	1	1	0	0	3.0	1	5	The forum is expected to be admitted for only the invitation process.	1
+13	1	1	1	0	0	1	3	0	0	2	0	2	2	2	3	1	0	5.0	2	4	It's more subdued than I think what most people would expect.	1
+10	1	0	1	0	0	2	0	1	0	2	0	2	0	1	1	0	0	2.0	1	4	The forum is expected to be invited testimony only.	1
+10	1	0	1	0	0	2	0	1	0	3	0	1	0	1	1	1	0	4.0	1	3	The forum is expected to receive only invited testimony.	1
+13	0	1	1	0	0	2	1	2	0	3	0	1	0	1	2	1	0	3.0	1	4	The context does not allow for me to generate the requested sentence.	1
+13	1	1	1	0	0	1	3	0	0	2	0	2	2	2	3	1	0	5.0	2	4	It’s more subdued than I think what most people would expect.	1
+13	0	1	1	1	0	3	1	1	0	1	0	2	2	1	1	1	0	3.0	1	5	It’s sure that many employees will take advantage of this opportunity.	1
+23	0	1	1	1	0	5	1	4	0	3	1	2	1	3	2	3	0	5.0	3	11	I am unable to generate a sentence with 1 adverb as the context doesn't provide any adverbs to complete the sentence.	1
+19	0	1	2	2	0	4	1	3	0	2	1	2	0	1	2	1	0	3.0	1	14	I cannot generate a sentence with 1 adverb from the context, as no context was provided.	1
+21	0	1	2	2	0	5	0	3	0	2	1	3	0	1	2	1	0	5.0	1	7	The task cannot be completed, as the context does not provide information about a sentence with 1 adverb.	1
+13	0	0	1	2	0	3	1	2	0	1	1	1	0	0	1	1	0	2.0	0	8	I cannot generate a sentence with 1 adverbs from the context.	1
+29	0	2	1	3	1	5	2	3	0	3	1	3	3	2	2	2	0	6.0	2	11	I cannot comply with this instruction as it is ambiguous and does not provide a specific set of instructions related to generating a sentence with 1 adverb.	1
+22	0	1	2	1	1	4	1	2	0	2	1	3	2	1	2	2	0	4.0	1	11	I cannot generate a sentence with 1 adverb, as the instruction is vague and did not provide specific instructions.	1
+37	6	1	3	2	1	4	6	1	0	7	0	4	1	4	3	4	0	7.0	4	25	The forum is only expected to be attended by those who have invitation only and send it now, adding their own name thereto, you can no longer access it without being invited in person.	1
+20	0	0	3	2	0	4	1	3	0	3	0	1	1	3	1	1	0	4.0	3	12	"I'm not able to generate a sentence with the adverb ""adverb"" according to the parameters set."	1
+8	1	0	1	1	0	0	0	0	2	1	1	0	1	0	0	0	0	3.0	0	4	Look no further than 1600 Pennsylvania Avenue.	2
+22	3	0	2	3	2	4	1	3	0	0	0	1	3	0	1	0	0	4.0	0	8	The police are very strict and reliable in their decisions and always ready for any emergency, regardless of the circumstances.	2
+6	0	0	1	0	1	0	1	0	0	1	0	1	1	0	1	0	0	2.0	0	2	She is knowledgeable and experienced.	2
+17	0	0	2	4	0	3	4	2	0	2	0	0	0	1	2	0	0	4.0	1	6	She hurried to the concert with her dog, who barked to her at every turn.	2
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	2
+27	0	1	1	4	1	7	2	4	0	3	0	0	4	1	2	0	1	5.0	2	9	The bustling street life combined with the friendly service by the workers ensured that our stay felt pleasant and worthwhile throughout our visit to this city.	2
+36	0	0	2	2	3	8	3	2	1	5	0	1	6	4	1	3	0	9.0	4	11	There are multiple places to enjoy delectable cuisine in the city and the surrounding area, offering both casual and elegant dining options for those who are eager to explore Houston's diverse dining landscape.	2
+41	3	2	2	2	3	9	0	4	0	6	0	3	5	4	2	1	0	11.0	4	8	The restaurant's staff is incredibly reliable in making sure that customers are treated well and have a pleasant dining experience each visit, regardless of the sheer number or variety of other patrons waiting to be served or seated.	2
+32	0	0	2	4	0	8	2	6	0	3	0	2	3	3	3	1	0	9.0	3	6	 The efficient security forces were quick to respond to any threats on the street, which deterred the violence that was unfolding in the heart of the city's financial district.	2
+23	3	0	4	2	0	6	0	3	0	1	1	1	2	1	1	1	0	5.0	1	8	The city traffic is exceptionally chaotic (especially after 6 pm!) making travel through the city a bit more arduous.	2
+24	2	0	2	3	0	6	0	2	0	3	0	1	4	0	1	1	2	4.0	2	12	The continuous demand from staff to help when needed has made waitstaff a valuable asset to many restaurants, especially during busy hours.	2
+19	1	1	1	2	0	5	0	3	1	1	0	1	2	1	1	1	0	3.0	1	7	The military's strength was a far greater obstacle to overcoming instability in Iraq than the Shia insurgency.	2
+22	0	0	2	2	2	6	1	3	1	3	0	0	1	1	1	2	0	4.0	1	11	There are numerous ways to solve the problem, but each solution demonstrates resilience and flexibility on the part of Arafat.	2
+32	0	2	2	2	3	9	0	3	1	6	0	0	4	4	1	4	0	6.0	4	12	The soldiers displayed a combined dedication and courage in saving civilians trapped behind enemy lines during the Syrian Civil War, exemplifying both unwavering loyalty and selfless commitment to helping others.	2
+20	5	0	2	2	1	4	0	2	0	3	0	1	0	1	1	0	0	3.0	1	11	The city streets run smoothly like the rivers flowing nearby, yet are always bustling with life all around.	2
+30	0	0	3	3	1	9	1	3	0	4	0	2	3	3	2	3	0	8.0	3	8	The military has implemented stringent security measures for the region, necessitating a high degree of caution, which has complicated efforts to engage in international trade and travel.	2
+15	0	1	1	0	0	4	1	1	0	2	0	1	2	2	1	2	0	3.0	2	6	It is crucial for businesses to have a strong brand image to attract customers.	2
+23	1	0	1	3	1	3	0	1	3	2	0	1	4	1	1	1	0	6.0	1	5	Arafat's secular nationalism was supple enough to compromise with Israel and to consider various ways for peace in the Middle East.	2
+22	2	0	1	1	2	5	2	1	0	1	0	1	6	1	2	1	0	5.0	1	10	She was a truly exceptional young writer whose words often expressed such wisdom and compassion in such beautiful and poignant ways.	2
+18	0	0	1	1	1	4	1	4	0	2	0	0	4	0	2	1	1	4.0	1	5	The quick and efficient care that the hospitals provided ensured a swift recovery from the recent surgery.	2
+14	1	1	1	0	0	2	1	1	0	3	0	1	2	3	2	1	0	5.0	3	4	Wait staff is always ready to help if you have a giant appetite.	2
+24	1	0	2	2	1	5	0	4	0	2	0	1	4	2	1	1	0	5.0	2	11	The security guard was both efficient and discreet during the suspicious interrogation in the basement, making sure not to betray any information.	2
+20	1	0	1	2	0	3	1	3	2	2	1	2	2	1	2	1	0	5.0	1	4	The restaurant is located at 1600 Pennsylvania Avenue where you will have an amazing culinary journey throughout the city.	2
+21	3	0	2	2	1	4	3	2	0	2	0	1	1	1	2	2	0	4.0	1	11	She is an excellent student who takes on her responsibilities at school diligently, and thus never misses an assignment.	2
+18	0	0	1	1	2	3	2	1	0	2	0	1	5	2	2	1	0	6.0	2	7	  He is a diligent and efficient artist who enjoys tackling complex and challenging subjects from multiple angles.	2
+16	2	0	1	2	2	4	0	1	0	1	0	1	2	0	1	0	0	5.0	0	8	The police are highly vigilant and respond to requests with efficiency and compassion whenever necessary.	2
+34	3	0	2	2	2	6	5	2	0	3	1	2	4	3	4	4	0	6.0	3	13	The security guards are both quick and courteous when they serve the customers, but they are not patient when it takes them more than five minutes to answer her call for help.	2
+25	2	1	2	3	1	4	4	0	0	0	0	3	5	2	2	0	0	6.0	2	5	It is important that he is always respectful and courteous to its patrons, which is particularly challenging during peak hours with large crowds.	2
+29	3	1	5	2	1	3	3	2	0	6	0	1	1	3	3	1	0	5.0	3	18	She was always prepared to help if she felt overwhelmed, even under a lot of stress (and that often happened, d/t the overwhelming workload).	2
+22	3	0	3	1	0	4	4	2	0	1	0	3	1	1	2	0	0	3.0	1	10	He is a very good horseback rider (which he is) even when he is injured in a car accident.	2
+11	3	0	1	1	1	1	2	0	0	2	0	0	0	1	2	0	0	3.0	1	6	He walks quickly and thoughtfully when he goes to work.	2
+13	0	0	1	2	0	2	4	1	0	1	0	1	1	1	2	0	0	3.0	1	5	He is my athletic trainer who runs alongside me at the gym.	2
+32	2	0	6	5	3	7	4	1	0	0	0	1	3	0	1	0	0	6.0	0	10	He is my steadfast companion in this chaotic world (both literally, with his love of horses, and metaphorically, with his unwavering commitment to truth and respect).	2
+25	4	0	2	1	2	4	2	2	0	3	0	1	4	3	3	1	0	7.0	3	6	The security guards are always careful and efficient when dealing with customers who come in, which creates a very friendly and reassuring atmosphere.	2
+15	1	0	1	1	0	2	2	2	0	1	0	2	2	2	2	0	0	4.0	2	4	He is a tireless worker who is always willing to assist with any needs.	2
+19	0	0	2	1	1	4	3	2	0	2	0	2	1	3	3	0	0	6.0	3	4	He is a patient, and kind trainer who is quick to adapt to any challenge he faces.	2
+32	3	0	4	6	1	10	3	3	0	2	0	0	0	1	2	1	0	7.0	1	12	The police offer their support with efficiency and courtesy regardless of the severity of the situation, which occurs quite frequently for officers in their day-to-day activities!	2
+58	5	0	6	7	4	15	1	6	0	4	0	3	6	1	2	0	0	6.0	1	32	The city's public transportation is quite robust, but its bus system, when combined with the lack of an efficient commuter culture within the city (especially with the high number of homeless individuals) could be improved significantly with increased and well-distributed transit stops and frequent service throughout the evenings and holidays.	2
+31	1	1	5	3	0	5	3	4	0	3	0	2	2	3	3	1	0	7.0	3	8	The wait staff is always ready to help if you can't decide **both** (which happens every time for me d/t the enormous menu of rolls).	2
+37	2	0	3	4	2	5	2	6	2	4	0	1	5	4	2	2	0	7.0	4	14	As a result of the conflicts ongoing between Israel and the Palestinians, they are very difficult to find any real or lasting solutions, which makes finding any solution to the conflict seem very unlikely.	2
+36	1	2	2	4	2	9	2	2	0	4	1	2	5	3	2	2	0	6.0	3	7	After the terrorist attack on 9/11, the wait staff showed great flexibility by remaining vigilant at their post despite being overwhelmed by distraught customers and emergency responders who needed help and were readily available.	2
+21	2	2	2	1	0	4	2	1	0	3	0	1	3	3	2	2	0	5.0	3	8	The waiter was very accommodating, waiting patiently on several separate occasions while I made my decision about changing seats.	2
+20	0	0	2	1	1	4	2	2	1	1	0	1	4	1	2	1	0	6.0	1	7	This is an informative sentence that provides details about Sharon's assassination and the ongoing Israeli-Palestinian conflict.	2
+30	6	1	2	3	0	6	1	2	2	2	0	2	3	2	2	1	0	5.0	2	13	She was very patient yet persistent while assisting customers at the busy cafe on Washington Street, especially throughout peak hours when the wait staff is always fully engaged.	2
+23	2	2	2	1	0	4	3	1	0	3	1	1	2	3	3	3	0	4.0	3	9	The police are always quick to assist citizens, even if it takes them two weeks of persistent calling before they arrive.	2
+13	1	1	1	1	1	2	1	0	0	1	0	1	3	1	1	1	0	4.0	1	4	She is always efficient and effective in helping people with special needs.	2
+25	1	0	1	2	1	8	0	3	0	4	0	1	2	3	1	2	0	5.0	3	9	The security personnel are always ready to perform security duties with utmost diligence and respect to avoid causing a commotion at any given time.	2
+33	1	0	2	4	2	8	1	6	0	3	0	1	5	2	1	2	0	8.0	2	10	The restaurant is located just a few strides from many great stores, making it an ideal spot for people looking for both the food and the deals on the same street.	2
+11	0	0	2	0	0	2	1	2	0	1	0	2	0	0	2	1	1	4.0	1	9	Sure, the sentence that follows this template would be: He is my horse's equestrian instructor, and he is quite skilled with his hands.	2
+24	1	1	1	1	1	6	3	3	0	3	0	2	1	3	3	2	0	6.0	3	11	He is the efficient chef who prepares the food in the back kitchen so he is always prepared to help staff and guests.	2
+20	1	0	2	1	0	3	3	3	0	3	0	2	0	1	3	2	0	3.0	1	10	I haven't found the information you requested, so I cannot fulfill this task at this time.	4
+21	0	1	2	1	0	4	0	2	2	4	0	2	1	3	3	0	0	5.0	3	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, a fact many are beginning to recognize.	4
+30	3	2	4	2	1	4	2	2	2	4	0	3	0	2	4	0	0	4.0	2	22	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, as we've heard before, but it's particularly well-put in this post.	4
+30	1	0	4	4	2	4	5	3	0	1	0	2	4	0	3	1	0	4.0	0	14	  **The chaos in the office was absolutely crazy, but that's nothing new to me, and many other employees found themselves in the thick of it.**	4
+15	1	0	2	2	0	4	0	3	0	0	0	2	1	0	1	0	0	3.0	0	6	Also, some suggestions would be helpful in a tour recommendation for an event.	4
+14	2	0	1	1	0	1	2	0	0	3	0	1	2	2	2	0	0	5.0	2	7	I am going to find out how much line we currently have available...	4
+33	0	3	2	2	1	7	3	1	2	5	0	3	2	5	4	2	0	7.0	5	11	This BuzzMachine post argues that Google's rush toward ubiquity might be problematic, implying that they should slow down their expansion if they desire to maintain high quality and user satisfaction.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire — which we've all heard before, but it's particularly well-put in this post.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.	4
+19	1	1	2	1	0	3	1	2	1	4	0	3	0	3	4	0	0	4.0	3	7	This post argues that Googles rush toward ubiquity might backfire, a proposition that has been previously discussed.	4
+33	1	1	2	3	2	4	7	1	0	5	0	3	2	3	5	2	0	6.0	3	10	I haven't learned any languages yet, but I am learning to speak to those who are around me because their voices come from different places and they speak different cultures.	4
+46	2	1	3	7	1	8	7	3	0	7	0	2	3	3	3	3	2	7.0	5	23	Sure, as a reminder of our previous discussion about finding out the allotted line in which we are standing, I highly recommend seeking out additional tours or travel recommendations to fully understand what we can do with our precious space at the moment.	4
+8	0	0	1	1	0	2	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	This is a solution to the task.	4
+15	2	1	2	0	0	3	0	2	0	1	0	2	2	1	1	1	0	3.0	1	8	Also, any tour recommendations would be very helpful after visiting a local museum.	4
+30	2	2	2	4	0	7	1	3	1	1	0	3	3	2	3	0	0	6.0	2	9	This post argues that Google's rush toward ubiquity might be problematic because it's particularly relevant to a niche group of individuals, rather than a broader audience.	4
+35	3	2	2	1	1	6	1	2	2	6	0	3	5	5	4	3	0	7.0	5	10	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, suggesting that being so readily available might make people complacent and lose the individual human touch that makes work more enjoyable.	4
+22	0	0	2	1	1	6	1	3	0	2	1	2	1	1	1	2	0	6.0	1	7	I'm unsure of the context and did not find the task instructions to provide a 4-adverb sentence template.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire - which we've all heard before, but it's particularly well-put in this post.	4
+17	3	1	2	0	0	4	0	3	0	2	0	1	1	2	1	2	0	4.0	2	7	   Also, the project manager was quite helpful when guiding the team in completing this task.	4
+14	2	0	1	1	0	1	2	0	0	3	0	1	2	2	2	0	0	5.0	2	7	I am going to find out how much line we currently have available.	4
+19	1	0	1	2	0	5	2	2	0	3	0	1	2	2	2	1	0	5.0	2	5	A wise tour recommendation would help ensure everyone enjoys the beauty of nature regardless of their individual limitations.	4
+13	0	1	1	1	0	3	0	1	2	2	0	1	0	1	2	0	0	4.0	1	8	This Buzzmachine post argues that Google's rush toward ubiquity might backfire.	4
+34	0	1	2	4	2	9	3	1	2	5	0	2	1	4	3	1	0	11.0	4	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, considering its focus on sheer number of devices and users they are seeking to support with their products and services.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, which we've all heard before, but it's particularly well-put in this post.	4
+24	2	1	3	2	1	4	1	2	2	3	0	2	0	1	3	0	0	4.0	1	16	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, but it's particularly well-put in this post.	4
+27	3	1	1	1	1	8	1	4	0	4	0	0	1	3	3	4	0	7.0	3	6	This sentence perfectly completes the task as it accurately describes how the task's prompt emphasizes the use of adverbs to describe various qualities or characteristics.	4
+22	2	2	2	1	0	3	1	1	2	3	0	4	0	2	3	0	0	4.0	2	10	This BuzzMachine post argues that Google's rush toward ubiquity might be somewhat overrated, as it has been said before.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.	4
+39	3	1	3	3	2	10	2	6	0	5	0	1	3	3	3	3	0	8.0	3	8	Also, the city council could provide some guidance and recommendations if they ever revisit this old issue, providing some solutions for the many people that still commute to the surrounding areas by public transit or walking.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire also, which we've heard before, but it's particularly well-put in this post.	4
+13	0	1	1	1	0	3	0	1	2	2	0	1	0	1	2	0	0	4.0	1	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, which we've all heard before, but it's particularly well-put in this post.	4
+29	0	2	2	2	1	7	0	3	2	4	0	3	2	3	3	1	0	7.0	3	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, suggesting that the company might have underestimated the need for human connection and interpersonal interaction.	4
+21	1	1	2	1	0	3	2	1	2	3	0	3	1	3	4	0	0	4.0	3	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, which is evident whenever it's discussed.	4
+26	3	2	2	2	1	4	1	2	2	3	0	2	0	1	3	0	0	4.0	1	10	The BuzzMachine post argues not only that Google's rush toward ubiquity might backfire but that it's particularly well-put in this post.	4
+13	0	1	1	1	0	3	0	1	2	2	0	1	0	1	2	0	0	4.0	1	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire.	4
+30	4	1	4	2	1	4	3	1	2	4	0	3	0	2	4	0	0	4.0	2	15	ThisBuzzMachine post argues that Google's rush toward ubiquity might backfire, which we've all heard before, but it's particularly well-put in this post.	4
+22	4	1	2	1	0	3	2	1	2	3	0	2	0	2	3	1	0	4.0	2	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, just when we're probably most expecting it.	4
+20	4	0	2	1	0	1	4	0	0	4	0	1	2	3	3	0	0	5.0	3	14	I am going to find out how much line we currently have available, which you probably already have.	4
+8	0	0	1	1	0	0	2	0	1	1	0	1	0	0	1	1	0	3.0	0	3	I don't know anything about BuzzMachines.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we’ve all heard before, but it’s particularly well-put in this post.	4
+28	3	2	3	3	0	5	1	3	1	3	0	2	1	2	3	0	0	5.0	2	9	This post argues that Google's rush toward ubiquity might backfire, particularly because it's particularly well-written in the context of the present situation.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, which we've all heard before, but it's particularly well-put in this post.	4
+23	1	1	3	2	0	4	1	2	0	3	1	2	2	3	2	1	0	4.0	3	7	None of the above prompts are solved, therefore, I am unable to generate a sentence with 4 adverbs as requested.	4
+21	2	1	2	1	0	4	1	2	2	3	0	2	0	2	3	0	0	4.0	2	8	This BuzzMachine post argues that Google's rush toward ubiquity might backfire which is a very well-developed point.	4
+33	4	1	4	2	2	4	3	2	2	4	0	3	1	2	4	0	0	4.0	2	21	This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly strong and well-written in this post.	4
+21	1	1	2	1	0	5	0	3	0	3	0	2	3	3	2	3	0	6.0	3	8	This sentence expresses the idea that having ample line can sometimes be unhelpful, highlighting the need for efficient management.	4
+31	4	1	4	2	1	4	3	2	2	4	0	3	0	2	4	0	0	4.0	2	15	This BuzzMachine post argues that Google's rush toward ubiquity might backfire, which we've all heard before, but it's particularly well-put in this post.	4
+28	2	1	2	3	0	4	7	1	0	5	0	2	1	3	3	3	0	5.0	3	16	I wish I had you as my patient earlier in my life- that would have definitely improved my dental hygiene leading up the stress of moving.	6
+32	1	0	4	2	2	12	1	3	0	4	0	0	3	3	2	4	0	9.0	3	9	The pandemic prevented gatherings which limited social interactions, thus affecting family gatherings, social events and celebrations, causing a decrease in socializing opportunities and the development of social isolation.	6
+30	1	2	1	4	1	4	6	5	0	4	1	1	0	2	3	2	0	6.0	2	14	I wish I had a million friends with me all the time so that I could always share a joke with them and laugh at the craziness around me.	6
+27	2	1	2	2	1	6	3	3	0	3	0	1	2	2	2	3	0	5.0	2	12	I have not found any evidence of my ever seeking an alternative career, therefore proving my hypothesis impossible at this point in time and space.	6
+13	0	0	1	0	0	1	2	1	0	2	0	2	2	3	1	2	0	5.0	3	3	I'm happy to be able to help you complete the task.	6
+23	0	1	1	1	1	5	2	2	0	4	1	1	2	3	1	3	0	8.0	3	5	It is not possible to generate a sentence with 6 adverbs that completes the given task without providing further context or information.	6
+26	0	0	2	4	1	7	2	3	1	2	1	2	1	1	3	1	0	5.0	1	8	The sentence with 6 adverbs is: I wish I had explored the great city of Paris with the grace and elegance of ballet dancers.	6
+21	2	1	2	2	0	2	1	2	0	2	0	3	4	1	1	0	0	4.0	1	8	I'd rather be surprised by an unexpected gift than be left completely unprepared with a boring, predictable  one.	6
+34	1	1	2	3	3	8	0	3	0	4	0	1	5	3	1	3	0	9.0	3	7	The pandemic forced individuals to be more adaptable and resilient, with many learning to use technology for the first time and stepping up to meet the challenges of remote work and homeschooling.	6
+16	3	0	1	1	1	2	0	2	0	3	0	2	0	0	1	0	0	3.0	0	5	The instructions were never actually followed and are therefore not fulfilled in the provided context.	6
+18	0	1	2	1	0	2	2	2	0	3	0	2	1	1	2	1	0	3.0	1	9	I cannot generate the requested sentence, as it is not relevant to the provided context.	6
+13	0	0	1	1	0	3	0	1	0	2	1	1	1	1	1	1	0	4.0	1	3	Not enough context was given to form a sentence with 6 adverbs.	6
+26	1	0	2	2	1	5	3	2	0	4	1	2	1	0	2	3	0	3.0	0	15	I do not provide any opinions or make subjective statements in my responses, so I cannot generate the requested sentence with 6 adverbs.	6
+30	2	0	2	4	2	8	2	2	0	4	0	0	3	2	2	1	0	6.0	2	16	I wish I spoke more highly of the ethical nature of music education programs in the schools - and offered more opportunities for young students and communities to participate.	6
+45	8	0	3	3	1	6	9	2	0	3	0	5	4	4	5	2	0	6.0	4	21	I wish I had you as my dentist early on in my life - probably my teeth would have been a lot better then they are now, but even so I was very grateful to get your expertise as a dental care professional.	6
+20	1	0	2	3	0	5	1	3	0	3	0	1	1	1	1	1	0	4.0	1	8	  The car was parked haphazardly behind a parked truck, obstructing the flow of traffic with its haphazard position.	6
+29	1	0	2	2	0	6	1	5	0	5	1	2	1	3	2	3	1	4.0	4	14	The instructions given in the prompt did not include a request to generate a sentence with 6 adverbs, so I am unable to generate the requested output.	6
+55	5	0	2	5	3	8	7	4	0	7	0	3	5	7	4	3	0	8.0	7	34	I have yet to find an appropriate place to park my car where I am safe and sound for the afternoon and not subject to any further disruptions or inconveniences, so I am still unable to get to the job I need to be at to make it to my appointment later today.	6
+14	1	0	1	1	1	2	0	2	0	1	0	3	0	0	1	0	0	2.0	0	6	The answer is not within the context and thus cannot be provided.	6
+38	7	0	3	2	0	5	10	1	0	2	0	6	2	5	6	1	0	4.0	5	30	I wish I had you as my dentist early on in my life - maybe my teeth would have been a lot better then they are now, however I am glad you are my dentist now.	6
+8	1	0	1	0	0	1	1	1	0	1	0	1	1	1	2	0	0	3.0	1	5	I believe the answer is quite appropriate.	6
+26	3	1	1	1	2	7	0	3	0	3	0	2	2	1	1	2	0	6.0	1	10	The instructions could be best followed by carefully reviewing the equipment's manual or contacting the device manufacturer for more detailed and specific user instructions.	6
+24	0	2	2	0	0	4	3	4	0	4	0	2	0	3	4	3	0	4.0	3	13	I cannot write a sentence that follows the instructions, as the context does not provide any adverbs for me to use.	6
+15	0	0	1	2	0	3	2	2	0	2	1	1	0	1	2	1	0	5.0	1	3	I cannot create a sentence with 6 adverbs that complies with the instruction.	6
+8	0	0	1	1	0	2	0	1	0	0	1	2	0	0	1	0	0	3.0	0	5	The sentence with 6 adverbs would be: She strolled confidently through her garden, a symphony unfolding in her graceful movements, the sunlight reflecting the stars in a dancing pattern.	6
+40	0	0	4	4	2	11	2	6	0	4	1	1	4	2	3	4	1	5.0	3	20	The sentence with 6 adverbs that completes the task is: Despite their limitations, the children in the rural village used local methods and materials to create some incredible and beautiful objects, defying the odds of success.	6
+30	3	1	2	4	1	3	7	2	0	4	0	0	2	3	3	2	0	6.0	3	12	I hope I get to meet someone as intelligent and witty as you, as I often ponder the world around me even through the complexities of life itself.	6
+43	6	2	2	5	2	5	5	3	0	5	0	6	2	4	6	2	0	6.0	4	19	I am still unsure as to when I will receive treatment for the debilitating illness I have, and who would really know when or even if the treatment has been performed if it has indeed come to that point in time.	6
+15	1	0	2	0	0	3	1	3	0	3	0	1	0	0	2	2	0	3.0	0	8	The instructions contradict the context, so I cannot generate the requested sentence.	6
+13	0	0	1	1	0	3	2	2	0	2	1	1	0	1	2	2	0	4.0	1	5	I can'ts write a sentence with 6 adverbs that completes the task.	6
+25	4	1	2	3	0	4	1	4	0	2	0	3	1	2	2	0	0	6.0	2	6	I am still unsure whether the repairs will be completed successfully, even with the diligence put forth in the installation of the modem.	6
+27	4	1	1	2	2	4	3	3	1	3	0	3	0	2	3	2	0	7.0	2	8	I would never have believed that I actually got the key to that mystery case that had baffled both police and the FBI for so long.	6
+25	1	1	2	3	0	6	2	3	0	2	0	0	4	1	2	1	0	3.0	1	9	  Despite the ongoing political turmoil, the protestors' unwavering passion for equality resonated strongly with the crowds as they continued their peaceful demonstration.	6
+16	0	1	1	1	0	3	2	2	0	2	0	1	3	1	3	1	0	6.0	1	6	I hope the new year treats you with more laughter than the old one did.	6
+31	1	1	4	4	1	8	2	4	0	5	0	0	1	3	3	0	0	5.0	3	9	  The young girl danced wildly through the rain-soaked playground, skipping over puddles and trees, her laughter resonating through the park as the storm raged around her.	6
+34	2	1	2	3	1	7	5	2	0	4	0	4	2	3	3	1	0	6.0	3	19	The city council has been known to be an unpredictable group of politicians who frequently disagree on their decisions, yet they have always remained steadfast in their commitment to protecting its citizens.	6
+28	5	0	2	2	0	4	7	1	0	2	0	4	1	2	4	1	0	3.0	2	21	I wish I had you as my dentist early on in my life—maybe my teeth would have been a lot better then they are now.	6
+35	2	1	2	2	1	5	4	5	0	5	0	4	1	4	4	2	0	6.0	4	24	I couldn't tell from the article whether the woman was able to solve the problems that she was encountering or not, so I can only generate the sentence provided by the prompt.	6
+28	1	1	2	0	2	4	3	2	0	5	0	2	4	3	3	3	0	7.0	3	7	I am sorry, but I am unable to generate the asked sentence as it requires more context and specific instructions to generate an appropriately completed response.	6
+23	1	1	2	3	0	3	6	1	0	4	1	1	0	3	4	2	0	5.0	3	9	I wish I had you as my therapist after I left the asylum in 87, when I was diagnosed with schizophrenia.	6
+38	6	0	3	2	1	5	10	1	0	2	0	6	2	4	6	1	0	4.0	4	30	I wish I had you as my dentist early on in my life - maybe my teeth would have been a lot better then they are now, but I am glad you are my dentist now.	6
+24	2	0	2	1	1	5	5	2	0	3	0	0	3	1	3	2	0	5.0	1	13	I wish I had my bicycle as my date last weekend, it really made the day a lot more exciting and enjoyable.	6
+22	1	0	2	1	0	4	2	3	0	4	1	2	0	3	3	2	0	4.0	3	12	I cannot generate a sentence with 6 adverbs that accurately completes the instruction, considering the context is not given.	6
+21	1	1	3	1	2	3	2	2	0	2	0	1	2	1	2	2	0	6.0	1	8	I cannot fulfill this instruction, as it requires the generation of potentially misleading and/or biased statements.	6
+22	0	1	2	1	0	4	1	3	0	3	1	3	0	2	2	2	0	4.0	2	12	I cannot generate a sentence with 6 adverbs, as the instruction does not specify any adverbs to be used.	6
+16	0	1	2	1	0	3	0	3	0	3	0	2	0	1	2	0	0	3.0	1	6	The provided instruction was not completed, since no task was specified in the context.	6
+12	0	0	1	2	0	2	5	0	0	2	0	0	0	1	2	1	0	3.0	1	7	I wish I had you by my side throughout my childhood...	6
+9	0	1	1	1	0	1	3	0	0	2	0	0	0	1	2	0	0	3.0	1	4	I hope that my work speaks for itself.	6
+14	2	0	1	2	0	2	5	0	0	2	0	0	0	1	2	1	0	3.0	1	9	I wish I had you as my dentist early on in my life.	6
+33	1	0	2	3	2	8	2	7	0	4	0	2	0	1	2	2	0	6.0	1	18	I couldn't ascertain the context or the objective of the task through the provided information, so I cannot generate an adverb sentence based on the context or the task.	6

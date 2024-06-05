@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_pre_constraint
+7	0	0	0	1	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The cat had left the house.	0
+5	1	0	0	1	0	0	1	0	2	0	0	0	0	1.0	4	0	0	1	0	0	It's my lucky day	0
+12	0	1	0	2	0	2	2	0	1	2	2	0	0	2.0	6	0	0	2	0	0	The answer is: This is a photograph by Peter Lik. 	0
+11	1	1	0	2	0	2	2	1	0	0	1	0	1	2.0	5	0	0	1	0	0	The car will be repaired within the next 24 hours.	0
+7	2	0	0	0	0	0	1	0	1	1	1	0	1	2.0	4	0	0	1	1	0	Mary loves her new purple dress.	0
+12	1	1	1	0	0	2	3	0	0	0	2	0	2	3.0	5	0	0	2	1	0	The sky turned dark, then flashes lit up the air.	0
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	This house overlooks the ocean. 	0
+6	1	0	0	1	0	1	1	0	1	0	1	0	0	1.0	4	0	0	1	0	0	This is a beautiful sunset.	0
+10	0	1	2	0	0	3	2	0	1	0	0	0	1	2.0	8	0	0	1	1	0	I want all these treasures from the attic right now	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+12	3	1	1	0	0	1	3	0	1	0	1	0	1	3.0	9	0	0	1	1	0	She played a blindingly white grand piano with silver sound holes.	0
+10	0	1	1	0	0	2	2	0	0	2	1	0	1	2.0	5	0	0	1	0	0	The Eiffel Tower shines brightly on the city skyline.	0
+8	2	0	0	0	0	1	2	0	0	0	2	0	0	2.0	5	0	0	0	0	0	A squirrel's warm, fluffy tail.	0
+9	1	0	0	0	1	1	3	0	0	0	1	0	2	3.0	5	0	0	2	0	0	The sky grew dark and storm clouds formed.	0
+3	0	0	0	0	0	1	1	0	0	0	0	0	1	2.0	1	0	0	1	0	0	The baby laughed	0
+7	1	0	1	0	0	1	1	0	0	1	1	0	1	3.0	4	0	0	1	1	0	Billiam had a very happy life. 	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+9	0	1	0	1	0	1	1	0	1	2	1	0	1	2.0	4	0	0	1	0	0	This is a painted canvas by John Constable.	0
+9	0	1	0	1	0	1	2	0	1	2	1	0	0	2.0	4	0	0	1	0	0	This is a watercolor painting by Caoimhe McKeown.	0
+10	1	1	1	1	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The new baby was sleeping soundly in her crib.	0
+10	0	2	0	1	0	1	1	0	1	3	1	0	0	3.0	3	0	0	1	0	0	It is a photo by Tim LaTimm from Canada.	0
+9	0	1	0	1	0	1	1	0	1	3	1	0	0	2.0	3	0	0	1	0	0	This is a painting by Vincent van Gogh.	0
+9	2	0	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The new employee was given a warm welcome. 	0
+6	2	0	0	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The car is bright red.	0
+8	1	1	0	1	0	1	2	0	0	0	1	0	1	2.0	4	1	1	2	0	0	The cat curled up sleeping is adorable. 	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+7	1	0	1	1	0	1	2	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The cat napping is quite satisfactory.	0
+13	3	1	0	0	1	1	2	0	2	0	0	1	2	3.0	6	1	1	2	0	0	The water tasted clean and refreshing as it flowed down my parched throat	0
+10	1	1	0	1	0	1	1	0	1	3	1	0	0	2.0	4	0	0	1	0	0	This is a beautiful painting by Vincent van Gogh.	0
+8	1	1	0	0	0	1	3	0	1	0	0	0	1	2.0	4	0	0	1	1	0	The new puppy wagged its tail with excitement	0
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	This is a solved example of the task. Generate a sentence with 0 subordinate propositions preceding the main clause. Write only the sentence, without adding further text and without explanations.	0
+8	0	0	0	2	0	1	1	0	1	0	1	0	2	3.0	5	1	0	2	0	1	The sentence you requested has been completed. How many sentences do you need me to complete?	0
+7	0	1	1	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	The puppy ran quickly across the field	0
+5	0	0	0	1	0	1	1	0	1	0	1	0	0	1.0	3	0	0	1	0	0	This is a cat.	0
+12	0	3	0	0	0	3	3	0	0	0	1	0	2	4.0	3	1	1	1	0	0	The baby woke up screaming in the middle of the night.	0
+11	2	1	1	1	0	2	2	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The sun was shining brightly in a clear blue sky.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+6	0	0	0	0	0	1	1	0	0	2	1	0	1	2.0	2	0	0	1	1	0	Franz Hueber took this photograph.	0
+5	0	0	1	1	0	1	1	0	0	0	0	0	1	2.0	2	0	0	1	0	0	The answer will appear below	0
+14	1	1	1	1	1	2	3	2	0	0	1	0	1	5.0	5	0	0	1	1	0	The sun is yellow and has a circumference of approximately 93 million miles.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog slowly trotted down the street.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	0
+7	0	1	0	1	0	1	1	0	1	1	1	0	0	2.0	3	0	0	1	0	0	It was a painting by Monet.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The cat purred contentedly.	0
+14	0	1	1	0	0	3	4	0	1	0	2	0	2	5.0	3	1	1	1	1	0	The sun rises over the mountains, its rays illuminating the valley below.	0
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	This is a solved example of the task.	0
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	This is a solved example of the task. Generate a sentence with 0 subordinate propositions preceding the main clause. Write only the sentence, without adding further text and without explanations.	0
+8	0	1	0	1	0	1	1	0	1	2	1	0	0	2.0	3	0	0	1	0	0	This is a painting by Edgar Degas.	0
+12	0	3	0	1	0	0	1	1	1	3	1	0	1	2.0	6	0	0	1	0	0	It was created in 1965 in California by artist Chuck Clunk.	0
+24	3	4	0	1	0	3	8	0	1	0	1	1	2	7.0	13	2	2	1	2	0	As researchers who have developed a new method for detecting the presence of cancer biomarkers in human blood through a simple blood test.	1
+16	5	1	0	1	1	1	4	0	0	0	0	1	2	4.0	6	1	1	1	2	0	Innovation in the pharmaceutical industry is vital to creating new jobs and spurring local economic growth	1
+18	3	4	0	1	0	3	5	0	0	0	1	0	1	4.0	7	0	0	1	0	0	The latest advancements in the field of medicine are leading to the creation of new medical specialties. 	1
+29	2	3	1	0	0	3	11	0	0	0	2	1	4	8.0	10	3	3	1	3	0	The research project aims to investigate the potential of using blockchain technology to enhance transparency in government contracting processes, particularly within the context of public-private partnerships	1
+44	4	6	1	2	0	6	12	0	4	0	4	1	4	8.0	11	3	2	2	4	1	Having witnessed the rise of the digital economy, we must now confront its darker side as the “tech giants” confront their accountability for their role in fostering the erosion of civil liberties in the shadow of the global surveillance state.	1
+33	2	4	0	0	3	3	11	0	0	0	3	1	5	6.0	11	2	1	3	1	1	As technology advances, the need for traditional media skills diminishes, yet the role of the writer in transmedia storytelling persists and evolves to address new forms of engagement and participation.	1
+30	3	4	0	0	1	3	9	0	1	1	2	1	3	4.0	14	2	1	2	1	1	As the sun descended below the horizon, the silhouette of Faro's imposing 13th century tower seemed to beckon sailors to safety and shelter within its protective embrace.	1
+23	2	4	1	1	0	3	5	0	0	1	1	0	4	5.0	10	2	1	1	2	1	The increasing numbers of refugees flooding into Tanzania from neighboring countries has sparked an acrimonious debate over how to manage the crisis.	1
+16	1	1	0	1	0	1	5	0	0	0	2	0	3	3.0	12	2	1	1	0	1	Based on recent market trends, the company's sales figures are expected to improve ________________________________________________________.	1
+28	4	4	0	0	1	4	9	0	1	0	3	0	2	5.0	10	0	0	1	1	0	The research highlights the increasing complexity of contemporary urban environments as a result of digital technologies and their transcendent effect on the “transmedia fan” experience.	1
+35	8	2	0	1	1	4	8	0	2	0	4	1	4	6.0	9	2	1	3	3	1	As the global financial crisis has exposed the vulnerabilities of contemporary capitalism, it underscores the urgent need for a new, people-centered economic paradigm that prioritizes social justice and environmental sustainability.	1
+27	2	3	1	1	1	3	8	0	1	0	4	0	2	5.0	10	1	1	2	0	0	The city's revitalization relied heavily on the infusion of new residents, businesses, and cultural activities, which were concentrated in the downtown area.	1
+28	4	3	1	0	2	2	9	0	1	0	2	0	3	5.0	8	2	1	2	2	1	For a new generation that grew up digital, video streaming represents the most convenient and effective way to experience stories beyond cinema screens and TV sets.	1
+48	8	7	0	0	3	3	15	0	2	0	3	1	6	8.0	34	2	1	2	3	1	Understanding contemporary media practices and their relationship to broader social shifts—such as the rising prevalence of mediated communication in social contexts and the growing influence of media discourse on public opinion—warrants further consideration as we explore the complex interplay of media and democracy.	1
+22	2	3	1	2	0	1	7	0	0	0	2	0	4	6.0	7	1	1	1	1	0	The growing demand for environmentally sound products will be met by sustainable solutions from businesses offering eco-friendly manufactured goods.	1
+13	2	2	0	1	0	1	5	0	0	0	0	0	2	3.0	5	0	0	1	1	0	The increased participation of remote workforces is redefining workplace culture for many companies	1
+46	3	7	4	1	1	3	12	0	0	1	6	1	7	6.0	14	3	2	2	1	1	According to Smith, as the leading digital humanities scholar, the term transmedia has recently come into currency in media studies, suggesting that fans now engage with multiple forms of media rather than simply reading, hearing, or watching a single text.	1
+32	6	4	1	1	2	4	9	0	0	0	2	0	3	8.0	9	1	1	1	1	0	The latest studies have established a solid link between a regular meditation practice and increased grey matter in areas of the brain connected to mental well–being and emotional regulation.	1
+35	3	5	0	1	1	5	6	0	6	0	3	1	4	6.0	13	4	3	4	3	1	For them, as devoted fans, understanding this intertextual universe is of crucial importance because it reveals themselves both in the stories they tell about themselves and the way they navigate these narratives.	1
+34	3	8	2	2	1	2	8	0	1	0	2	1	4	7.0	10	3	3	2	1	0	As an environmentalist, I must stress that preserving biodiversity in tropical rainforests is of crucial urgency now more than ever due to the increasing threats brought about by deforestation and habitat destruction.	1
+24	2	3	2	1	0	2	7	0	0	0	1	1	4	6.0	8	2	2	2	0	0	The researchers seek to determine if increased social media use is directly linked to the rise in mental health concerns among teenagers worldwide.	1
+35	6	5	0	1	0	4	8	0	2	2	2	1	4	6.0	28	4	1	2	3	3	For scholars studying the global expansion of popular media forms, like the Marvel Universe, understanding the ways in which these stories intersect with local cultural practices is key to unlocking their global appeal	1
+23	2	3	0	1	1	1	9	0	1	0	2	0	2	4.0	13	0	0	1	1	0	With growing concern about environmental issues and resource depletion, the world's cities are turning their attention to sustainable infrastructure development.	1
+33	2	5	1	1	0	4	6	0	4	1	3	0	4	8.0	6	3	2	2	2	1	To address this question, I need to first understand the nature of my own beliefs, which are rooted in my experiences as a woman of color in the United States.	1
+18	0	3	0	1	1	1	8	0	0	0	0	0	4	4.0	7	0	0	1	2	0	The city council will address concerns about increased speeding and improve safety for bicycle riders through improved infrastructure	1
+19	1	3	0	0	0	3	6	0	1	0	2	1	2	4.0	14	1	0	2	0	1	As the sun sets on our desert expedition, a glimmer of hope for a successful trek arises.	1
+18	1	2	1	0	0	4	5	0	1	0	2	0	2	3.0	8	1	1	2	1	0	The cat slept soundly on the windowsill, its purring providing a soothing accompaniment to the birdsong.	1
+30	5	1	0	0	0	2	10	0	2	0	3	2	4	6.0	13	3	3	2	4	0	The company's announcement has significant implications for small business owners seeking financial assistance, as it represents a critical step towards realizing their long-term growth aspirations.	1
+23	5	2	0	2	0	2	5	0	1	0	3	1	2	6.0	6	2	2	1	2	0	It is worth considering, as geologists, the possibility that tectonic forces might underlie these recent shifts in global political alignments.	1
+31	5	6	0	1	1	3	8	0	1	0	3	1	2	6.0	20	2	1	2	0	1	For us, as environmental humanities researchers, attending to the intricate web of relations between humans and the planet is vital as worldwide catastrophic changes loom on the horizon.	1
+31	3	5	2	0	1	3	11	0	0	0	0	0	4	7.0	11	3	2	1	3	1	The research on how to improve the learning outcomes and academic performances presents valuable insights for education authorities to take into account when formulating policies for better schools in the country	1
+22	3	2	0	0	0	2	6	0	2	0	4	1	2	6.0	5	1	1	2	2	0	In a parallel universe, vampires roamed the streets, unnoticed by mortals as they sipped their blood-red cocktails.	1
+32	3	6	0	0	1	3	8	0	2	2	2	0	4	7.0	8	2	2	1	1	0	Because of our shared commitment to social justice, Maria and I decided to collaborate on a documentary film project exploring the experiences of undocumented immigrant women in the United States.	1
+28	8	1	1	0	1	2	5	0	2	0	4	0	4	9.0	7	2	2	3	3	0	The expanding digital economy provides new opportunities for innovative entrepreneurial ventures, which increasingly require a multidisciplinary expertise that combines technological, strategic, and social skills.	1
+35	6	4	0	1	1	4	7	0	2	0	2	2	5	8.0	9	5	5	3	2	0	As a digital humanist, I find that defining the transmedia fan is of paramount relevance as we attempt to understand the intricate social and cultural transformations resulting from the proliferation of digital technologies.	1
+21	3	3	0	0	1	2	8	0	0	0	2	0	2	6.0	14	1	0	1	2	1	For the study of language development, understanding the intricate relationships between speech and language processes holds immense theoretical relevance.	1
+39	7	7	0	2	1	5	8	0	1	2	3	0	2	7.0	25	2	1	2	1	1	The recent changes in the global economic landscape, which have led to a shift in the balance of economic power from West to East, are likely to have a profound impact on international trade and investment.	1
+30	1	7	1	1	0	6	9	0	1	1	0	1	2	7.0	9	1	1	2	1	0	Almost all experts in the field believe that the discovery of water on Mars will have a profound impact on our understanding of the origins of life in the universe	1
+27	2	1	1	1	0	5	7	0	1	0	2	2	5	7.0	7	4	3	2	3	1	Based on their analysis, the researchers suggested that the new approach may offer a more effective solution to addressing the challenges facing the manufacturing industry. 	1
+18	1	4	2	0	0	3	4	0	0	1	1	1	1	5.0	6	1	1	1	0	0	As much as the city of Tainan longed for a moment of respite from the heavy rainstorm.	1
+20	2	4	1	1	0	1	3	2	1	1	1	0	2	5.0	7	2	2	1	1	0	Four out of five Americans think it is highly important to increase funding for education in the upcoming budget.	1
+27	5	7	0	0	0	1	9	0	1	0	1	1	2	5.0	14	1	0	2	1	1	As more of us turn to social media for assistance during times of crisis, mental health experts express greater concern over the consequences of unchecked cyberchondria	1
+15	3	1	1	1	0	0	4	0	0	0	2	1	2	3.0	6	1	0	2	1	1	As globalization proceeds unrelenting, cities may emerge increasingly dominant roles in national economies.	1
+32	2	5	0	2	1	5	9	0	1	0	3	1	3	4.0	19	1	1	3	1	0	As a result of this increased accessibility, more women are discovering that they have a passion for coding, and the number of female software developers is on the rise.	1
+24	3	3	1	0	1	3	6	0	1	0	4	0	2	5.0	13	1	1	1	1	0	The cat, with fur bright orange and black stripes like no other, sat lazily on the windowsill, grooming its paw.	1
+40	5	6	0	2	1	2	9	0	1	0	3	3	6	7.0	10	4	4	2	2	0	In the current age of technological advancement, the role of museums has come under fresh scrutiny, as they are compelled to adapt to shifting visitor expectations and to find novel means of reaching out to new audiences.	1
+16	2	1	1	2	1	1	2	0	2	0	2	1	1	3.0	13	1	0	1	1	1	For them as have lost everything, even hope is a rare and precious comforter.	1
+25	2	2	2	1	1	2	5	0	1	0	4	1	4	5.0	8	1	1	1	1	0	"As digital humanists, our attention is specifically focused on analyzing and understanding the cultural dynamics of the so-called ""transmedia fans"""	1
+28	4	3	0	2	1	5	9	0	0	0	1	1	2	4.0	17	2	0	2	2	2	Because the pandemic has caused such significant disruptions, rebuilding a successful career in the midst of this crisis is a priority for most business leaders and entrepreneurs	1
+27	1	3	0	2	0	4	7	0	1	0	1	0	5	9.0	4	4	4	2	2	0	The development team has decided to invest in infrastructure to support an expansion that is expected to attract a new stream of visitors to the destination.	1
+23	2	3	2	2	0	3	4	0	2	0	2	1	2	5.0	5	2	2	2	0	0	The train station was so large that we almost got lost within it, searching for the exit to the right platform.	2
+27	4	0	3	3	0	3	5	1	1	0	4	1	1	3.0	12	1	1	3	0	0	A long-time ago, when all galaxies were one, the ancient cosmic forces decided that life was to be their most prized creation.	2
+31	2	2	3	2	0	4	6	0	3	0	4	0	4	7.0	17	4	2	2	3	2	When she had finally worked up the resolve (a process requiring a significant quantity of inner strength), she called the office to ask where her paperwork was.	2
+33	0	2	5	2	0	4	5	0	5	0	3	1	5	7.0	9	5	5	5	1	0	The team worked well together, if you assume you even know what team you're on, in their attempt to complete the project before the deadline which is fast approaching. 	2
+24	2	1	1	2	1	3	5	0	3	0	1	1	3	4.0	10	2	1	3	1	1	If this is an accidental death and the other side intends, their lawyer will try to pin the responsibility directly to your side	2
+66	3	7	6	6	2	5	14	0	7	0	5	1	8	8.0	25	6	4	6	1	2	When I realized my cat had gotten loose and was nowhere in sight, the fear grew inside me that he had escaped into the storm drains beneath my house—and from there, the only recourse would be to call animal control, which would likely lead to my poor feline friend becoming yet another victim of the sewer system's treacherous grip.	2
+22	2	0	3	1	0	2	4	0	3	0	2	1	3	4.0	13	3	3	3	2	0	Your heart skipped a beat as the figure, which was motionless before, slowly began to take its first few steps	2
+34	3	3	2	1	0	5	9	0	1	0	3	1	4	5.0	10	3	2	1	3	1	To successfully traverse through the obstacle course, participants must approach the challenge with a determined spirit, while also harnessing their collective efforts to reach the finish line in a timely manner.	2
+21	0	0	2	1	0	2	4	0	3	0	3	0	4	4.0	10	2	2	1	2	0	Her mother, a well-known scientist, had always urged her to become a doctor to please their family	2
+20	0	3	1	0	0	2	3	0	2	1	1	1	5	4.0	12	3	1	2	0	2	As I walked to meet with Bob at the specified time, the rain began slowly seeping through my overcoat	2
+29	0	3	4	0	2	1	1	0	7	0	2	1	6	6.0	13	4	1	3	3	3	If you want to find out why he did this or that, then you need to spend some QT together and get it straight out of him.	2
+30	1	2	3	1	0	6	10	0	1	0	2	1	3	5.0	10	2	2	3	2	0	The new employee was quickly shown to the conference room, where the HR manager then presented an outline of the company policies before the group began its meeting. 	2
+36	2	3	0	3	1	3	8	0	4	0	5	2	1	3.0	16	1	0	3	1	1	If this was not a tandem jump, and if you are not under automatic deployment, your only recourse is to pull the activation pin on your container before the instructor(s').	2
+15	0	1	1	0	0	0	3	0	3	0	2	2	3	3.0	6	2	1	3	0	1	As your aircraft descends toward touchdown, you better hope that your parachute opens.	2
+24	0	3	1	0	1	3	7	1	0	1	2	0	4	6.0	14	3	1	1	1	2	With sales in Tokyo rising significantly and supply shortfalls expected this year, the company needs to expand production by another two factories.	2
+18	0	5	0	0	0	1	3	0	3	0	1	1	3	4.0	6	2	2	1	1	0	She made her mind up to move in with her sister before finding out about the accident.	2
+20	1	1	0	1	0	5	5	0	0	0	3	1	3	3.0	12	1	0	2	1	1	The best outcome, if the storm damages the crop, is an increased price for the affected crop. 	2
+15	2	0	1	1	0	1	2	1	2	0	2	1	2	3.0	8	1	0	2	2	1	If you purchase the basic package, you will automatically receive 10 free hours. 	2
+22	0	3	0	2	1	3	4	0	2	0	2	1	4	4.0	11	2	2	2	0	0	Which hotel are you thinking of staying at, and will any of your plans include going on a catamaran cruise?	2
+31	1	4	4	2	0	2	5	0	2	0	2	2	4	5.0	15	4	2	2	2	2	As if you didn't know how to get there on foot from the trailhead, the path was even harder to follow with snow now blanketing everything in sight.	2
+25	1	2	1	1	0	2	4	0	4	0	2	1	5	5.0	11	4	4	3	2	0	She said if you want him to see a movie, he needs to be seen by a specialist for possible seizure problems first.	2
+34	3	1	4	4	1	5	5	0	1	0	2	2	5	7.0	10	4	4	4	2	0	The president must have been watching TV when the crisis occurred, and then he called the secretary to make sure that all was well before speaking personally with any other party involved. 	2
+22	2	1	3	2	0	0	4	0	3	0	2	1	2	3.0	7	2	1	1	1	1	If you have not already done so, now is your last chance to purchase tickets at their lowest pre-event price.	2
+30	4	3	0	1	0	4	6	0	3	0	3	2	3	5.0	11	3	2	2	2	1	As you approach a major interstate highway on-ramp, it is critical that you accelerate to the appropriate speed to ensure a safe merge onto the highway.	2
+27	2	0	2	1	0	3	5	1	2	0	2	1	5	5.0	12	4	4	4	1	0	The team captain announced that when they had only six players, the opposing team threatened to __________________________ the entire field to ensure they couldn't score	2
+39	2	2	4	6	0	4	6	0	6	0	2	0	6	6.0	14	5	5	5	4	0	You will understand why you should have taken a different route only when you realize your car won't fit under that bridge anyway, which would have made that stop a moot point in the long run.	2
+19	2	2	2	1	1	0	3	0	2	1	2	1	2	4.0	6	1	0	2	0	1	While several of his classmates were distressed and struggling, John calmly went ahead with his project presentation. 	2
+28	1	1	0	3	2	1	6	0	4	0	2	1	4	5.0	9	2	1	3	2	1	If you have not completed your checkout process, your account is not considered complete and you must finish to avoid any penalties or interruptions in service. 	2
+19	3	1	2	1	1	2	5	0	0	2	1	0	1	3.0	10	0	0	1	1	0	The new iPhone models will undoubtedly generate long lines and high demand at the Apple Store locations nationwide.	2
+14	1	0	1	1	0	0	0	0	5	0	1	1	4	3.0	8	2	2	3	2	0	She told me she would meet me there, provided that nothing urgent cropped 	2
+33	5	2	2	0	1	4	6	0	3	0	3	1	5	4.0	14	3	1	4	2	2	If the parachute deployed correctly, which constitutes most jumpers, an initial assessment of the scene revealed no serious injuries and everybody got to walk away under their own power unscathed. 	2
+38	1	3	1	1	0	2	10	0	3	2	9	2	4	5.0	21	3	2	3	2	1	The sky divers, who constitute the majority of jumpers at (insert-name-of- Dropzone), must always ensure that their own chutes open before deploying their Ram air Para-gliders.	2
+30	3	3	0	2	0	2	3	1	4	0	3	2	3	5.0	13	3	1	4	1	2	If this is a solo jump, which constitutes the minority of skydivers, your _ _ must ensure that at least one of your own _ _ opens. 	2
+24	2	1	1	2	0	2	6	0	4	0	2	1	2	5.0	15	2	0	3	2	2	If this is a solo jump, which constitutes the minority of skydivers, your next move is to quickly inflate your backup parachute 	2
+19	3	0	0	4	0	2	3	0	3	0	1	0	2	4.0	15	2	2	2	2	0	You've been given some advice to do something creative; your response must be a complete single sentence	2
+11	0	0	2	1	0	1	2	0	2	0	1	0	2	3.0	7	1	0	2	1	1	When the bartender filled my drink, I could finally relax	2
+26	2	2	0	4	0	3	5	0	2	0	3	1	3	5.0	20	3	0	3	1	3	If the new employee demonstrates a lack of productivity, which is determined by the manager to be unjustified, their employment will be terminated.	2
+19	2	0	1	2	0	1	3	0	3	1	2	1	3	3.0	7	2	1	3	2	1	Because he had taken the wrong train home, David realized he had lost his new job offer.	2
+28	1	4	2	3	0	3	6	0	2	0	3	2	2	5.0	14	2	0	3	0	2	If you think that the solution to poverty is through education alone, you must be unacquainted with hunger, the most basic of all human needs.	2
+27	0	3	2	0	1	2	3	0	2	3	2	1	6	8.0	9	5	5	2	2	0	She decided to take a break from work to travel to Europe, where she spent a week sightseeing in Paris and Rome before returning home.	2
+17	1	1	0	2	0	0	3	1	4	0	1	2	2	4.0	6	2	2	3	1	0	You should be certain that one of your chutes opens before you begin your solo skydive.	2
+33	6	3	1	2	2	2	6	0	4	0	3	0	4	3.0	16	1	0	3	2	1	When she walked into the room, she was wearing a bright yellow sundress and matching high heels, and her long golden hair was cascading down her shoulders in loose waves.	2
+24	2	2	1	2	1	2	3	0	2	0	2	1	4	5.0	10	3	2	2	0	1	If the sun is shining bright and you are outside with your kite, make sure not to let go of the string.	2
+19	0	1	0	2	0	1	4	0	3	0	2	1	3	4.0	7	2	2	2	1	0	Your grandfather's ashes will be scattered over the lake, if you decide to follow his wishes.	2
+29	1	2	1	4	1	4	4	0	1	1	3	1	4	4.0	9	3	2	3	2	1	If the boss was satisfied, John will probably be asked to run the meeting, but he will try to pass the job off to an underling. 	2
+10	0	0	1	2	0	0	0	0	3	0	1	1	2	2.0	7	1	0	2	1	1	If you do this, she'll be very annoyed	2
+29	1	3	2	2	0	3	5	1	4	0	3	1	4	6.0	15	3	1	4	1	2	When he arrived at the station, which would put him ten minutes behind schedule, he realized that the earlier train was already waiting at the platform.	2
+22	1	2	0	4	0	2	4	0	3	0	2	1	2	3.0	9	1	0	2	1	1	If she had not received the message, her absence would have been explained by her manager at the last minute.	2
+33	0	5	4	1	0	2	7	1	4	0	3	1	4	5.0	11	3	1	3	0	2	As she stood at the cliff's edge peering down, her thoughts narrowed to one thing -- how she could possibly glide through the air with only her parachute for protection.	2
+22	1	0	3	1	2	0	4	0	4	0	2	1	3	4.0	9	2	1	2	1	1	To successfully execute your parachute, you must ensure that your main container and your backup chute deploy seamlessly and simultaneously.	2
+29	1	4	0	0	0	6	8	0	3	0	2	1	3	5.0	11	2	2	3	2	0	The cat curled herself on the laptop, the glow of her eyes matching the display's blue light as she listened to the sounds of the rain. 	3
+29	3	1	1	3	0	3	4	0	3	0	4	1	3	4.0	12	4	2	2	3	2	If we are able to secure the proper documentation in time, we ___________ to file the case; otherwise, it may be necessary to withdraw the lawsuit	3
+37	8	4	1	2	0	3	8	0	1	0	2	2	4	5.0	13	5	2	1	3	3	While eating too much cheese is unlikely to cause serious health problems in the short term, it is likely to cause a variety of unpleasant digestive issues if consumed in excess over an extended period.	3
+37	3	5	4	4	1	3	6	0	4	0	2	3	2	5.0	21	4	2	4	1	2	If you have never eaten a chicken while it's deeply under hypnosis and completely unresponsive to environmental stimuli then you are in for a treat because the experience is nothing short of life-altering.	3
+23	3	2	0	2	0	0	7	1	0	0	3	1	3	5.0	12	2	0	2	1	2	While driving is unlikely to cause long-term memory loss, repeated concussions may lead to cognitive problems after age 60.	3
+17	2	0	2	0	1	0	5	0	1	0	2	1	3	4.0	11	2	0	2	3	2	While cheetahs have relatively low power and speed, when chasing prey they generate incredible momentum.	3
+21	1	3	1	2	0	3	5	0	2	0	2	1	1	3.0	11	2	0	3	0	2	While the cat was asleep on the couch, what it really wanted was another bowl of milk for sleep. 	3
+25	2	2	1	1	3	2	5	0	1	0	3	1	4	5.0	12	1	1	2	2	0	Hydrangeas prefer a moist but well-drained soil, and they will require regular watering if planted in the ground or in pots.	3
+9	2	0	0	1	0	0	2	0	0	0	1	1	1	3.0	3	1	1	1	1	0	While hypnotizing is unlikely to cause serious harm.	3
+23	3	3	0	4	1	3	5	0	1	0	1	1	0	4.0	14	1	0	2	0	1	If these birds were in their proper migratory plumage and not in a state of domesticity, this display would have been impossible	3
+44	1	5	1	3	1	6	12	0	1	0	4	3	7	5.0	20	4	3	4	2	1	After the fire department put out the fire, they immediately checked the property for damages; checking whether the water pressure had risen due to the broken pipe; and found that the main water line had been compromised by tree roots.	3
+20	1	1	1	3	0	3	4	0	0	0	2	1	4	3.0	7	1	0	2	1	1	While the rain may have finally stopped, the resulting flooded area has caused damage to the nearby buildings.	3
+47	0	4	1	5	2	5	10	2	3	0	5	0	6	5.0	25	2	2	4	3	0	The hotel staff will not assist you to check-out at 3 pm, yet the room will be held until 7 pm, but the cleaning services has finished for the day, thus you cannot re-enter the room to gather your belongings.	3
+15	2	1	2	2	0	0	1	0	2	0	1	1	1	4.0	4	2	2	1	0	0	I'm not sure if it's safe to go there at night alone. 	3
+30	2	2	3	3	1	2	4	0	5	0	2	2	3	4.0	12	2	0	4	2	2	If I was sure that the dog won't bite me, I would rather walk barefoot through the park at midnight, but my cautious side keeps me away	3
+24	3	3	1	2	0	3	5	0	3	0	2	1	1	4.0	14	1	0	1	0	1	While there are no signs of any underlying medical condition, her symptoms could be a sign of something more sinister in nature.	3
+34	4	6	2	2	0	3	9	1	0	0	4	0	2	5.0	13	1	0	1	0	1	With only one week remaining in the legislative session, a controversial bill is being closely scrutinized by lawmakers, amidst fears of potential long-term consequences for the state's infrastructure.	3
+26	4	1	3	1	1	2	3	0	1	0	4	0	4	4.0	9	2	1	0	2	1	To effectively deal with a difficult employee, it is important to remain calm, assess the situation objectively, and consider possible solutions collaboratively.	3
+41	3	4	1	3	1	3	9	0	5	0	4	1	5	6.0	12	4	3	3	3	1	If you are still unsure about the validity of your results, please check your input data for accuracy, which may affect your conclusions drawn from the data, and further analysis is required to confirm any unexpected findings.	3
+19	0	2	0	0	1	1	4	0	0	2	4	0	4	6.0	5	2	2	0	1	0	A trip to Costa Rica, visiting rainforests, learning to surf, and ziplining through canopy talls.	3
+24	1	2	2	1	1	3	4	0	3	0	2	0	3	6.0	5	3	2	1	1	1	To determine this, it is essential to analyze how often these individuals interact with the team and their contributions to the company. This will help to assess their potential impact on project completion and overall business success. In particular, the involvement of key team members in decision-making processes or the implementation of new strategies can positively or negatively affect future outcomes. Therefore, understanding their motivations and work habits will be vital in determining the team's overall effectiveness.	3
+34	0	3	2	0	2	5	7	0	3	0	3	2	6	7.0	9	3	3	2	3	0	The dog ran around the park while carrying a tennis ball in its mouth, which made the kids laugh uncontrollably, but not before dropping the toy and chasing after it again.	3
+23	3	1	1	4	0	3	5	0	1	0	2	1	1	4.0	14	2	0	2	1	2	While the hotel staff may have been friendly, their failure to clean the room in a timely manner is quite disappointing.	3
+26	4	2	3	1	1	5	6	0	1	0	2	0	1	4.0	14	1	0	2	0	1	The longer the time frame you choose for a hypnotic state induction, the more susceptible the chicken is to deeper and more meaningful relaxation.	3
+23	3	2	0	2	0	1	3	0	4	0	2	2	3	5.0	10	4	4	3	3	0	Anyone knows that smelling something is unlikely to cause you great pleasure, until you are in close quarters with the stink.	3
+24	0	3	0	1	1	1	11	0	0	0	4	0	3	5.0	11	1	0	1	1	1	Without question, a child playing with chicken pox contaminated toys may transmit diseases to family, child care, and school children.	3
+28	4	4	0	2	1	2	8	0	0	0	2	1	3	4.0	14	2	0	2	1	2	While hypnotizing chickens is not common or recommended practice for pet owners, any exposure to extreme temperatures can lead to serious problems for these delicate birds.	3
+22	2	2	1	3	1	1	3	0	3	0	2	2	2	4.0	6	1	1	3	1	0	If I may, I would kindly point out that your question is absurd and lacks any real basis in fact.	3
+21	1	1	1	2	0	0	2	0	5	0	2	0	6	4.0	6	5	3	5	1	2	When she heard footsteps approaching, she knew someone was coming, which meant she was about to get in trouble	3
+49	5	9	3	1	2	3	12	0	3	2	2	0	7	10.0	9	4	3	2	2	1	Anyone visiting the city in search of culture could start with a stroll through its vibrant old quarter, where ornate mosques like the Sultan Ahmed rise elegantly from narrow streets crowded with merchants and shopkeepers offering everything from exotic spices to intricately tiled kilims and gleaming brassware.	3
+21	4	1	3	1	0	1	2	0	2	0	2	2	3	4.0	8	3	2	2	2	1	Besides needing more sleep than usual, she also had a new haircut that was even more stylish than expected.	3
+27	1	4	2	0	2	3	8	0	0	0	3	0	4	6.0	10	1	1	1	0	0	The chainsaws roared in a frenzy of destruction and carnage remorselessly, leaving behind scorched earth, melted rubber and debris of the once vibrant forest.	3
+42	4	7	5	1	1	4	9	1	1	0	4	0	4	7.0	16	3	3	0	1	0	Without question, it is impossible to accurately measure the potential damage from a storm with such ferocity brewing outside the town, already flooded with water up to 6-feet deep along the riverside residential areas and rapidly rising.	3
+114	11	14	14	8	3	4	21	0	12	0	4	6	15	16.0	98	14	14	8	7	0	The new smartphone is even more useful than its predecessor, which has already demonstrated its versatility through various functions such as taking pictures and displaying maps, but with the added advantage of being even lighter which allows for more ease and convenience in carrying it while simultaneously providing greater protection from potential damage due to its enhanced durability features like water resistance which means you don't need to worry about using it near water anymore without any fear of harm since it will remain fully functional underwater too without getting damaged easily like previously before; this is indeed an exciting innovation in mobile technology that can change lives positively! 	3
+27	2	2	2	2	1	2	5	0	1	0	3	2	4	4.0	16	4	1	2	1	3	Although it is not easy, flying through the night sky, while simultaneously steering and avoiding obstacles is a feat only mastered by skilled birds.	3
+20	4	1	0	3	0	1	3	0	3	0	1	0	3	5.0	6	3	2	2	2	1	Anyone entering this old building is likely to experience paranormal activity that can be explained by its dark history.	3
+24	0	2	2	1	0	3	4	0	3	0	2	2	4	4.0	13	3	1	2	2	2	While you decide to take action on the issue yourself, the city is also working on a solution without consulting you directly.	3
+40	5	5	2	4	0	3	9	0	4	0	3	0	4	7.0	11	4	2	3	2	2	Anyone attempting to enter the restricted area will be subject to legal consequences, which could lead to a financial loss of thousands of dollars, as well as a reputation damage that may impact their future career opportunities.	3
+25	1	1	1	1	1	3	5	1	2	0	3	0	4	6.0	5	2	1	1	3	1	To ensure optimal functioning, regularly clean the blades and sharpen them every four months, which is determined by the manufacturer’s guidelines. 	3
+40	5	4	2	2	1	2	10	0	5	0	2	1	5	9.0	10	4	4	4	3	0	His exaggerated claims were uncovered when a series of independent reports demonstrated that his methods were unsatisfactory, which caused a great deal of distress for their patients and raised questions about his ability to treat medical conditions effectively.	3
+15	0	2	2	1	1	0	2	0	3	0	2	0	2	5.0	3	1	1	1	1	0	Beneath its surface, water reflects what is happening within you emotionally and mentally.	3
+27	3	2	2	2	0	2	2	1	2	0	2	1	4	4.0	10	5	2	3	0	3	If anyone knows the owner wants to sell quickly, they are likely to be very willing to listen to offers in the low $700,000s. 	3
+9	2	1	0	1	0	1	2	1	0	0	1	0	0	3.0	5	0	0	1	0	0	A single sentence with three subordinate propositions is: The cat purred loudly, its tail swishing back and forth, while sitting on the windowsill enjoying the warm sun.	3
+39	1	5	2	1	1	5	7	0	5	0	3	2	6	7.0	11	4	2	3	3	2	While the bartender insisted on topping off my drink with a shot, I noticed a fly on the wall, which was buzzing annoyingly and seemed impervious to the efforts of my neighbor to swat it away.	3
+31	1	1	3	5	2	4	3	0	0	0	4	1	5	5.0	15	3	2	2	2	1	If the dog could talk, the cat would listen and learn to be more considerate, but in the meanwhile, will be plotting how to catch the mouse.	3
+19	2	3	0	1	0	3	5	0	0	0	1	1	3	5.0	4	2	1	2	1	1	Whether a spouse will cheat in a relationship has many different factors contributing to the decision to infidelity.	3
+17	1	1	2	3	0	3	3	0	0	0	2	0	2	3.0	6	1	0	2	0	1	When the car is parked, the keys must be locked away in a secure location. Anywhere else would be irresponsible, and easily leads to the risk of thieving. However, placing them near the rearview mirror is still a good idea since it keeps them easily reachable.	3
+32	5	2	1	2	0	2	3	0	4	0	3	2	6	7.0	9	6	4	2	2	2	While the prospect of flying with such limited visibility terrified her, she knew better than anyone how critical it was to maintain a steady altitude, to avoid getting lost.	3
+33	1	3	4	3	0	1	5	0	4	0	2	1	6	4.0	15	6	2	2	2	4	While it may be unwise to try to teach them yourself, any amount of patience spent today will pay off greatly when your cat knows how to jump through hoops later. 	3
+29	2	1	0	3	1	4	4	0	3	0	3	2	4	4.0	11	3	2	3	3	1	After conducting a thorough investigation into the matter, I must acknowledge that the accusations are baseless, and I will not take any action to substantiate them.	3
+41	3	2	2	6	1	3	6	0	4	1	3	2	6	6.0	20	2	2	4	2	0	The company has decided that the new policy takes effect next Monday - that it has not been observed in any other context, nor can it be used to argue for its appropriateness elsewhere - will significantly reduce their costs	4
+30	2	2	1	0	1	2	10	0	1	0	5	1	4	7.0	18	3	0	2	4	3	The issue at hand—which concerns the ethical implications of using advanced algorithms to evaluate teacher quality—poses challenges to educators, policymakers, and researchers alike.	4
+39	3	2	2	2	1	4	8	0	3	0	2	3	6	6.0	26	4	4	4	2	0	The manager emphasized that although he had expected to see a stronger turnout at the company's first summer party, none of the team's recent accomplishments surprised him because they were all fully planned and executed.	4
+40	0	5	3	2	0	1	5	1	11	0	3	3	5	6.0	19	4	4	4	4	0	Her parents warned her, though they had not seen him themselves for over twenty years, that he would certainly make her fall in love with him again once she encountered him in their house on the mountainside.	4
+46	3	7	4	5	0	2	9	0	2	0	5	2	5	8.0	10	6	5	2	1	1	Moving on, however, it has been shown that the impact of climate-related events are likely to be worse than expected due in part to a number of externalities that, although not explicitly priced, have nevertheless increased risk exposure for investors	4
+40	4	3	1	3	1	3	12	0	3	0	4	1	5	9.0	7	3	2	3	2	1	The latest information regarding our upcoming release has revealed surprising results - that the beta testing team discovered major improvements over our existing platform, which had been initially - flagged for a lack of features and usability issues.	4
+13	2	2	1	1	1	1	3	0	0	0	1	0	1	3.0	6	0	0	1	0	0	As such, the decision was expectedly met with opposition and legal challenges	4
+33	5	4	3	1	0	3	8	0	1	0	3	1	4	6.0	17	3	2	2	0	1	The latest developments worldwide - as exemplified in the news stories from several countries about new virus variants - indicate how urgently required are the new diagnostic tests we have in development.	4
+26	2	1	4	2	0	1	2	1	3	0	3	3	3	5.0	7	3	3	3	1	0	As much as possible, we need to get away from the idea that one solution will fit everyone, because it is simply false.	4
+42	4	3	1	3	0	4	8	0	4	0	4	3	5	5.0	21	5	1	3	4	4	If the event is outside the conference's control; if it involves outside experts; if there have been outside attempts to manipulate it; then we should call in an outside expert to audit the events of last week.	4
+29	2	3	0	2	0	4	9	0	1	0	3	1	3	4.0	18	2	0	3	1	2	The researcher’s recent finding that the tumor had spread beyond the organ - which was confirmed by further imaging studies - prompted a reassessment of treatment options.	4
+23	0	0	0	2	0	4	7	1	0	0	3	1	3	5.0	7	2	2	2	1	0	The manager announced that a surprise party will be organized _______________ all employees to celebrate the company's ten-year anniversary.	4
+51	5	6	2	4	1	5	9	0	4	0	4	1	7	10.0	41	5	5	4	1	0	Which is not to suggest that these - which range from an intriguingly surreal video featuring the artist's famous blue star, that is projected onto a wall in the dark of night and viewed through closed eyes - have necessarily been the only art created under such inspiration.	4
+40	7	3	0	3	1	1	12	0	1	0	6	2	4	6.0	24	2	2	4	1	0	The research on brain aging indicates that cognitive decline may be delayed, if lifestyle factors that support healthy brain aging - such as physical activity, social engagement, and cognitive stimulation - are maintained throughout older age.	4
+46	5	7	0	1	2	3	17	0	1	0	4	0	6	9.0	17	2	2	2	2	0	The research team has identified the potential causes of the recent increase in patient hospitalizations, which include growing populations, rising levels of poverty and lack of access to mental health services, leading to increased stress and higher likelihood of mental health issues.	4
+41	2	4	3	6	0	4	7	0	4	1	3	1	5	11.0	6	6	5	5	2	1	As I entered the auditorium I was surprised to hear a speaker discuss the possibility - which had always been there - of time travel being realized through a machine that has already been constructed by scientists from ancient Atlantis.	4
+41	4	4	1	2	2	2	10	3	4	0	3	0	4	6.0	13	2	2	2	4	0	The company will invest $10 billion in new products and services - which would more than double its investment in digital technologies over the past five years - to expand its customer base and increase its market share dramatically.	4
+16	0	0	3	4	0	0	1	0	3	0	2	0	3	3.0	4	1	1	3	0	0	Her sisters had already been called, so she assumed they would be coming too.	4
+32	5	3	1	1	1	2	9	0	0	0	4	2	3	7.0	8	3	3	3	1	0	In a recent survey of teenage drivers, results showed that most crashes occur ____________ night when other students are ____________ home doing ____________ other than texting and ____________ behind the wheel	4
+31	3	4	1	2	0	3	8	0	1	0	4	1	3	4.0	14	2	1	2	0	1	The dog's bones, found outside the den, indicate that their owner must be a skilled hunter, for such prey only falls for hunters of great prowess.	4
+36	4	3	2	1	1	2	9	0	4	0	5	1	4	6.0	14	4	2	3	1	2	The information provided - based on our review of recent transactions and internal records - indicates that a significant portion of our inventory is still unsold, which further complicates our decision-making process.	4
+35	2	3	3	2	2	2	4	0	6	0	4	1	5	7.0	15	3	2	3	3	1	Her favorite books - some of which were authored by him, although not exclusively - were filled with memorable phrases that sparked her interest and made her read the chapters again and again.	4
+37	3	7	2	2	0	2	9	0	5	0	4	1	2	5.0	16	2	2	1	0	0	It is our intention, once again relied upon for our unrivaled experience on aerospace matters, that these findings of yours will serve as definitive proof in our quest for an alternative fuel supply.]	4
+30	2	1	2	2	0	3	7	0	1	0	4	2	4	5.0	16	4	4	2	3	0	A new feature which allows customers to personalize products, if the website could be modified, in order to integrate this function more smoothly, with little friction.	4
+29	3	7	1	1	0	4	8	0	1	0	2	0	2	5.0	15	2	2	1	0	0	A new system of government based on principles of meritocracy rather than hereditary succession, which would allow for the potential of a fresh start in the future.	4
+20	2	1	0	1	0	3	5	0	2	1	2	0	2	5.0	6	2	1	3	2	1	Bill's arrival, which was unannounced, created a sudden commotion that disturbed the calm of the dinner party	4
+19	1	1	1	1	0	3	5	0	0	0	2	0	2	6.0	10	1	0	1	1	1	The dog's bark - loud enough to disturb the neighbors- was caused by the mailman's arrival	4
+37	0	1	1	4	2	7	9	0	2	0	3	1	5	6.0	16	3	3	4	3	0	Both teams must score and the ball must make its way into each end zone-those are the rules - and a player does not necessarily have to hold the ball while crossing a plane. 	4
+23	0	3	0	1	0	3	6	0	1	0	2	1	5	3.0	13	4	3	2	1	1	In conclusion, as the summer holidays approached, a range of activities were planned in each town to help keep everyone entertained	4
+24	4	1	0	3	1	3	5	0	1	0	3	0	2	6.0	6	2	2	2	1	0	The tourists were excited to see the ancient monuments - which had been destroyed by previous invasions - and the bustling city streets.	4
+60	5	9	1	5	2	8	14	0	2	0	3	0	10	14.0	9	6	5	3	2	1	A cat which had previously been lost has been returned, being meowing and friendly, by an individual in a car driving past who noticed the location and pulled over to find the animal hiding beneath branches near an abandoned gas pump in an uninhabited rural area surrounded by woodland several miles off the main route to town.	4
+56	4	6	3	3	2	6	12	0	0	3	8	1	8	10.0	41	5	5	4	2	0	Investors in the stock market now, are increasingly, buying, selling and shorting stocks like Meta Financial, based on a new interpretation, of a single word - meta - as meaning the company controls the future of Facebook; and thus investing in Meta financial stock will determine the company`s future	4
+23	1	3	3	3	0	0	2	0	5	0	2	1	3	6.0	18	2	2	3	0	0	Her brother did so despite knowing she - whose love for him had grown stronger than ever - would strongly advise against it	4
+36	3	6	0	2	0	3	9	1	1	1	5	1	3	5.0	12	1	0	1	1	1	The baby, although born in January, will celebrate its first birthday, having aged for thirteen months since conception during Spring, before the expected date for the season's first flower sprouting.	4
+20	3	1	0	0	1	2	6	0	1	0	3	0	2	5.0	11	1	0	1	1	1	The baby's sleepy expression, accompanied by its light blinking and slow breathing, presented a captivating sight.	4
+27	4	1	1	2	0	1	8	0	1	0	1	1	5	4.0	15	4	3	3	2	1	Birds which migrate regularly are thought to maintain an effective circadian pacemaker, whereas birds resident near breeding areas are assumed to exhibit endogenous circadian rhythm disturbances	4
+17	3	3	0	0	0	4	4	0	1	0	0	0	2	6.0	4	2	2	1	0	0	A new disease caused by some unexplained virus that mutated at the beginning of the global pandemic	4
+39	3	5	1	0	1	3	5	3	2	3	5	0	6	8.0	19	4	3	2	1	1	In addition to the three reports submitted last month – one by Alice, two by Bob – John just finished drafting a fourth, which we all need to read and discuss at next week's meeting.	4
+45	2	5	0	5	0	7	9	0	4	0	4	1	6	11.0	16	6	6	6	1	0	The team needs to discuss the budget for the next phase, which is determined by the sales, that in turn is dependent on the client's satisfaction, that will be measured by the feedback they provide after the project is completed.	4
+31	2	5	1	1	0	3	8	0	2	2	3	0	3	6.0	23	2	0	2	1	2	The information gathered by NASA's Kepler space telescope - that has already led to the identification of thousands of new exoplanet candidates - presents us with a new challenge.	4
+34	1	4	2	5	0	2	7	0	2	0	3	1	5	6.0	24	3	3	4	0	0	We have been instructed to ensure all safety measures are taken; as long as all passengers comply with requests from staff, we will not be held liable in case of accident. 	4
+25	3	2	2	1	0	1	5	0	3	0	2	0	4	5.0	10	3	2	2	2	1	Her decision - given her family's new economic reality - requires them now to stay in this city where opportunity has receded for most	4
+43	6	2	2	3	2	3	13	0	2	0	4	0	6	8.0	32	4	2	3	4	2	Having observed the recent turmoil in the equity markets - where a perfect storm of geopolitical tensions, rising inflation expectations and monetary policy reversals has ignited unpredictable and violent fluctuations -  I believe investors should exercise caution when approaching their investments.	4
+35	2	2	2	2	1	2	8	0	4	0	3	1	7	8.0	11	5	5	4	3	0	The company needs to implement measures that allow for better customer experience, which would involve addressing their queries and complaints more promptly, as they have shown a strong discontent towards delayed responses.	4
+41	5	3	1	1	1	5	6	1	5	1	6	1	4	4.0	26	3	2	3	2	1	Her latest decision, following a long consultation with the relevant experts, represents a compromise, one that is not without its detractors, despite its having the full support of the Prime Minister; or so it seems. 	4
+44	2	3	2	2	0	7	9	0	2	0	4	2	8	8.0	23	6	6	5	3	0	The manager asked the employee about the reports he received, which revealed that the problem originated with a decision made at last month's meeting, if true, then a meeting will be scheduled to discuss how to rectify the matter.	4
+34	4	3	1	4	1	4	5	0	2	1	5	0	2	6.0	9	3	3	3	0	0	It is worth mentioning, these new technologies are not a guarantee of success, but they have proven, however, to be a useful instrument during the conflict in eastern Ukraine.	4
+67	4	5	9	4	1	8	11	0	4	0	5	4	10	9.0	29	8	8	5	2	0	The cat purred, relaxing comfortably as if the scratching post - which it had only briefly visited earlier that evening to leave a faint smudge on its white paws - provided a welcome respite from the anxious energy it had been building toward by persistently nudging and batting at the closet door, even when reassured momentarily that the owner would not emerge until later.	4
+62	6	6	2	9	3	7	11	0	4	0	6	2	5	9.0	33	5	1	6	1	4	If all hands and hearts are in the process, and all the necessary preparations have been made to ensure success - that which is required for effective decision making, which is the basis of effective leadership, can be realized - then we are indeed on the correct course of action and the best will emerge for everyone involved.	4
+29	5	2	3	1	0	0	3	0	7	0	3	1	4	7.0	10	3	3	3	3	0	Her new hairstyle has made her finally look like herself - as she finally has long, curly hair that suits her rather than her usual choppy cut.	4

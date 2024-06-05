@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_prop_constraint
+15	2	0	3	2	0	1	2	0	2	0	2	0	1	4.0	6	1	1	2	0	0	 It is raining outside today, which was unforeseeable just a few hours ago.	0
+18	3	2	2	0	0	3	4	0	0	0	2	0	2	3.0	7	1	1	1	1	0	The sun shines brightly in the clear sky, casting warm rays upon the verdant leaves below.	0
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The rain fell with no interruption on that day.	0
+15	0	3	1	0	0	2	3	0	1	0	2	0	3	3.0	6	2	2	1	0	0	She sat on the curb, looking out at the city life flowing by.	0
+21	0	2	0	3	0	4	5	0	1	0	4	0	1	5.0	17	1	0	3	0	1	"Sure, the sentence that results from this instruction would be ""The sun was in the sky yesterday."""	0
+6	1	0	0	0	0	0	2	0	0	0	2	0	1	2.0	2	0	0	1	0	0	**Rain fell last night.**	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises without a shadow.	0
+13	1	1	1	0	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	The rain pattered softly, washing the leaves with an ethereal melody.	0
+21	6	2	1	1	2	3	3	0	0	0	2	0	1	5.0	11	1	1	1	1	0	The sky was cloudy and grey, casting an eerie shade of blue and black over the bustling city below.	0
+13	1	0	1	1	0	0	0	0	3	0	1	1	3	4.0	5	3	3	2	1	0	 She was able to make it home before it began to rain.	0
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The sun rises each morning without interruption.	0
+11	0	1	0	0	0	3	3	0	0	0	1	0	2	3.0	5	1	1	1	1	0	  The boy ran to the store to buy some food.	0
+15	0	1	2	0	0	2	3	0	2	0	2	0	3	5.0	3	2	2	2	1	0	 The rain pours relentlessly, washing away the fear that crept into my heart.	0
+15	2	2	0	0	0	4	4	0	0	0	2	0	1	5.0	3	0	0	1	1	0	The ocean sings an empty song, untouched by the whispers of the waves.	0
+9	2	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	The sky is beautiful on this clear day.	0
+19	1	1	2	1	0	3	3	0	1	0	2	1	4	7.0	5	3	3	3	1	0	The rain poured, illuminating the empty roads that stretched out as far as the eye could see.	0
+14	2	2	1	0	0	3	4	0	0	0	1	0	1	3.0	6	0	0	1	1	0	 The sunset brought forth a vibrant array of colours on the sprawling meadow..	0
+5	0	0	0	0	0	0	0	0	1	0	1	1	2	2.0	2	1	1	1	0	0	 She ran without stopping.	0
+13	0	1	0	1	0	3	3	0	0	0	4	0	1	2.0	5	0	0	2	0	0	"The answer is ""The sun rose in the west.""."	0
+11	1	1	0	0	0	2	3	0	0	0	3	0	1	2.0	5	0	0	1	1	0	  *The rain sprinkled the ground with tiny drops.*	0
+12	0	1	0	0	0	3	4	0	0	0	2	0	2	3.0	5	1	1	1	1	0	The sun rose in the sky, illuminating the morning lands.	0
+12	1	2	0	0	0	2	2	0	1	0	2	0	2	3.0	6	1	1	1	0	0	 She stood in the quiet corner, looking out the window.	0
+19	1	4	0	0	0	4	6	0	0	0	2	0	2	4.0	9	1	1	1	1	0	The rain danced on the shimmering lake, reflecting a rainbow of colours in a world without shadows.	0
+8	2	0	0	1	1	1	2	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The sky was blue and serene today.	0
+15	2	1	1	2	0	1	1	0	1	0	2	1	2	3.0	8	2	1	1	0	1	  Despite being completely indifferent to me, the bustling cityscape was captivating to behold.	0
+8	2	0	0	0	1	1	1	0	1	0	1	0	1	4.0	5	0	0	1	1	0	She made a wise and insightful decision.	0
+6	0	1	0	0	0	0	1	0	2	0	1	0	1	2.0	3	0	0	1	0	0	She arrived without her luggage.	0
+9	0	1	1	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The sun shines brightly in the sky today.	0
+20	2	1	4	3	0	1	1	0	3	0	2	1	2	3.0	12	2	0	3	1	2	 Even though I've never seen them, the people I'm most afraid of have always seemed harmless.	0
+7	0	0	1	1	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The sun is shining brightly today.	0
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The rain is falling softly on the windowpane.	0
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	  > The sky, clear and unobstructed, painted a vibrant orange orb in the afternoon sun.	0
+13	1	2	0	0	0	3	3	0	0	0	3	0	1	2.0	7	0	0	1	0	0	  *The sun rises above the horizon on this particular day.*	0
+8	2	0	0	1	1	1	2	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The sky is vast and empty today.	0
+25	5	0	1	2	0	4	3	0	1	0	1	1	3	6.0	10	4	4	2	2	0	I am unable to generate such a sentence because a single instruction is not clear enough to determine the appropriate subjunctive propositions to generate.	0
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	  > There was no one there who knew what to do.	0
+7	0	0	1	0	0	1	2	0	0	0	2	0	1	2.0	2	0	0	1	0	0	 > The rain fell steadily yesterday.	0
+11	1	1	0	0	1	2	3	0	0	0	1	0	2	3.0	4	0	0	1	0	0	 The young boy laughed and danced in the evening sun.	0
+19	4	1	2	2	2	2	2	0	0	0	2	0	1	4.0	5	1	1	1	0	0	The ocean is vast and deep, yet small enough to be explored thoroughly within a human lifetime.	0
+10	0	1	0	0	0	2	2	0	0	0	1	0	3	3.0	3	2	2	1	0	0	The boy went to sleep without any music playing.	0
+8	0	0	2	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	 I have never eaten an elephant before.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The rain poured without any interruption.	0
+11	0	2	0	0	0	1	2	0	3	0	2	0	1	3.0	8	0	0	2	0	0	She sat in the park, her dog beside her.	0
+11	1	1	0	1	0	2	2	0	1	0	1	1	1	3.0	3	1	1	2	0	0	 The sky was blue as she ran through the park.	0
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	They will have no children.	0
+11	1	1	0	0	0	2	2	0	1	0	1	0	2	4.0	3	1	1	0	0	0	There are no subordinate propositions to generate in this sentence.	0
+7	1	0	1	0	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The rain fell softly last night.	0
+15	4	2	0	0	1	2	3	0	0	0	2	0	1	4.0	5	0	0	1	0	0	The ocean remains a vast and mysterious place, untouched save by human eyes.	0
+21	2	2	0	0	0	4	6	0	1	0	3	0	3	4.0	9	2	2	2	1	0	  **A single bird perched on a rock chirped, its happy melody filling the stillness of the afternoon sun.**	0
+14	0	3	0	0	0	1	4	0	2	0	2	0	2	4.0	6	1	1	2	0	0	  She walks in silence, the rain falling like tears on her cheeks..	0
+11	0	1	0	0	0	1	3	0	2	0	3	0	1	3.0	4	0	0	1	1	0	 *His love for his children surpassed all others.*	1
+21	1	2	0	1	1	3	6	0	0	0	3	1	3	4.0	9	2	1	1	2	1	Despite having no body or legs, the caterpillar was crawling through the forest, eating leaves with remarkable dexterity.	1
+19	2	1	1	0	0	4	6	0	1	0	2	0	2	3.0	9	1	1	2	1	0	The rain made the garden bloom brightly, its vibrant colors painting the scene in an artistic spectacle.	1
+8	0	0	0	0	0	2	2	0	0	0	1	1	2	3.0	4	1	1	2	0	0	The dog barked after the mailman arrived.	1
+19	1	1	2	1	0	1	3	0	4	0	3	0	3	4.0	12	2	0	3	0	2	The old tree, which my grandfather planted when I was born, still stands in our backyard.	1
+23	2	4	1	0	0	5	6	0	0	0	2	0	3	4.0	8	2	1	1	0	1	A man walking towards the lake sat peacefully, gazing across the serene water at the shimmering reflection of the evening sky..	1
+15	1	3	0	0	0	3	4	0	0	0	2	0	2	3.0	8	1	1	1	0	0	The young boy ran down the hill into the forest, looking for mushrooms.	1
+14	1	1	0	0	1	3	3	0	0	0	3	0	2	3.0	5	0	0	1	1	0	"  ""The young boy went to the store and bought some candy."""	1
+27	2	3	0	0	2	3	7	0	1	0	4	1	4	6.0	9	2	2	2	1	0	The dog ran in the forest, chasing butterflies and playing with branches, happy and carefree as it chased after the shimmering, dancing leaves.	1
+20	0	2	2	1	0	1	2	0	3	0	2	1	4	5.0	4	3	2	2	1	1	Even though she was determined, she eventually had to give in to the pressure to finish her work.	1
+14	1	1	1	1	0	3	3	0	0	0	2	0	1	3.0	6	1	1	1	1	0	Despite the rain, the runners were still determined to finish the marathon.	1
+11	0	1	0	1	0	3	4	0	0	0	1	0	0	3.0	5	0	0	1	0	0	The rain was the cause of the dam's burst.	1
+19	0	2	1	0	1	1	3	0	4	0	4	0	3	4.0	8	1	0	2	1	1	"""Despite the hardships he faced in his past, he persevered and ultimately achieved his goals."""	1
+14	1	2	0	0	0	3	5	0	0	0	1	0	1	4.0	5	0	0	1	1	0	The stormy sea sent shivers down the spine of the ship's crew.	1
+6	1	0	0	0	0	0	3	0	1	0	1	0	0	2.0	2	0	0	0	0	0	  My younger sister _likes_ painting.	1
+14	1	0	1	1	0	1	4	1	2	0	1	0	1	3.0	8	1	1	2	1	0	My sister's son played the piano when he was 8 years old.	1
+26	3	3	2	1	1	3	4	0	4	0	3	0	2	4.0	17	1	0	3	0	1	The book that I lost last week, about the history of a small village, is finally back and I feel happy about that.	1
+15	1	2	0	0	1	2	3	0	2	0	1	0	3	3.0	6	0	0	1	1	0	The little girl ran to the lost key and hid it under her mattress.	1
+12	2	1	2	0	0	2	2	0	0	0	2	0	1	3.0	4	0	0	1	0	0	The little boy ran home alone, scared of the dark.	1
+11	0	1	1	0	0	0	2	0	2	1	2	0	2	3.0	5	1	1	2	0	0	John walked home, his dog limping by his side.	1
+13	0	1	0	0	0	2	2	0	2	0	2	0	3	4.0	3	2	2	2	1	0	The dog barked at the mailman, who stopped to pet it.	1
+19	2	1	1	0	0	3	4	0	2	0	2	1	3	4.0	8	2	2	2	3	0	The cat chased the butterfly, chasing it relentlessly for several hours until it had no more wings.	1
+19	3	2	0	0	0	4	4	0	1	0	3	0	2	3.0	8	1	1	1	2	0	The dog chased the butterflies around the old garden, chasing them through the beautiful, shimmering petals.	1
+14	1	1	2	1	0	1	3	0	2	0	1	0	2	3.0	6	1	0	2	1	1	The boy who ran away recently is seeking help with his emotional issues.	1
+16	1	2	0	0	0	3	4	0	1	0	1	0	4	4.0	7	3	2	2	1	1	The girl who lives in the old house loves watching birds sing in the park.	1
+18	1	1	1	0	1	3	5	0	1	0	2	0	3	5.0	5	1	1	1	1	0	The cat chased its toy and ran away, a small shadow disappearing over the backyard fence.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	  The cat chased a mouse across the park.	1
+20	0	3	0	0	1	3	6	0	2	0	2	0	2	5.0	6	1	1	1	2	0	  Despite the harshness of her job, she found a way to maintain hope and resilience within the company.	1
+18	2	1	2	0	0	1	3	0	2	0	2	0	3	3.0	6	2	1	1	1	1	Despite my best efforts to do so, I have yet to solve this perplexing math riddle.	1
+10	1	0	0	1	0	1	1	0	1	0	3	1	1	2.0	6	1	1	2	0	0	  The dog barked **because** it was tired.	1
+12	2	1	0	1	0	3	3	0	0	0	2	0	0	2.0	8	0	0	1	0	0	Despite the rain, the outdoor concert was a great success.	1
+18	1	2	1	0	0	2	4	0	2	0	3	1	2	3.0	9	1	0	1	2	1	Without ever seeing it, the man understood the importance of truth, despite its fleeting nature.	1
+6	0	0	1	0	0	0	0	0	1	0	2	0	1	2.0	2	1	1	1	0	0	Sure, here you go.	1
+20	3	2	2	3	1	1	2	0	3	0	3	0	0	4.0	5	1	1	2	0	0	  **My best friend is the one who has always been there for me, through thick and thin.**	1
+15	0	2	0	0	1	5	4	0	0	0	1	0	2	4.0	5	0	0	1	1	0	The rain fell in the afternoon and drowned all the flowers in the garden.	1
+10	0	1	1	2	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The rain has been falling continuously since this morning.	1
+32	2	3	1	0	1	7	7	0	2	0	2	1	5	6.0	8	3	3	2	3	0	The rainy wind sighed its worries away, causing all the leaves on the trees to sway and creaking the old house while it listened to the symphony of the rain.	1
+21	1	0	0	2	1	3	4	1	3	0	3	1	2	4.0	8	2	2	3	2	0	My brother is the one who completed the task, despite it being a cumbersome and time-consuming one.	1
+12	1	1	0	0	0	0	3	0	2	0	1	0	2	3.0	3	1	1	1	0	0	My friend's younger brother came to play with me yesterday.	1
+16	2	1	1	0	1	1	3	0	3	0	2	0	2	3.0	4	0	0	1	1	0	Despite her initial shyness, she eventually overcame her fear and became a confident leader.	1
+15	1	2	0	0	0	3	4	0	1	0	2	0	2	3.0	6	1	1	1	1	0	The sun rose over the clouds, casting its long shadows across the field.	1
+9	0	1	0	0	0	1	3	0	1	1	1	0	1	2.0	6	0	0	1	1	0	John left his keys at the bus stop.	1
+19	2	2	0	0	0	4	5	0	1	0	2	1	2	4.0	5	1	1	1	2	0	Despite the incessant rain, the hikers made an unexpected ascent without encountering any obstacles along their journey.	1
+12	1	1	1	0	0	1	4	0	1	0	1	0	2	3.0	6	1	1	2	1	0	The little puppy barked for food when his owners went shopping.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The dog chased the ball down the alley.	1
+23	2	2	1	1	0	3	5	0	3	0	4	0	2	4.0	10	1	0	2	1	1	The sun, which I have always considered my savior, appeared as a distant, ominous orb in the sky today.	1
+14	2	2	0	0	0	2	3	0	2	0	2	0	1	3.0	3	0	0	1	1	0	Despite her small height, she climbed the tallest mountain in the world.	1
+27	1	4	1	0	1	4	7	0	3	0	2	0	3	4.0	15	1	1	2	1	0	My dog went to the store to buy some food in the grocery store, and he came home with a few treats for his dinner.	1
+15	1	3	1	0	0	3	3	0	1	0	2	0	1	3.0	4	0	0	1	0	0	   Despite the heavy rainfall, we went out for a hike in the mountains.	1
+10	3	1	0	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	  The vibrant colors danced on the vibrant green leaves.	1
+28	3	5	1	0	0	5	6	0	1	0	4	0	3	6.0	8	1	1	1	0	0	Her eyes, as bright as the stars, gazed at the glittering sea, lost in the endless dance of the waves crashing against the shore.	2
+28	2	3	0	0	1	4	7	0	1	0	3	1	6	3.0	16	2	2	2	1	0	In the bustling city, children scamper and play while chasing a fluffy ball in the bustling city streets, their laughter echoing through the towering skyscrapers.	2
+24	2	3	2	1	0	2	5	0	4	0	2	1	2	3.0	14	1	0	2	2	1	If you magically grant my wish for a new invention, the advancement in medicine would significantly surpass our current grasp of it.	2
+20	3	1	1	0	2	2	7	0	0	0	2	0	2	6.0	5	1	1	1	1	0	The vibrant city life and serene countryside scenery coexist harmoniously, offering an experience rich in diversity and relaxation.	2
+16	0	2	1	1	0	3	4	0	0	0	2	1	2	4.0	5	1	1	1	0	0	 The rain poured heavily, despite being interrupted by the thunderstorm flash in the distance.	2
+29	2	1	1	2	1	5	7	0	2	0	3	1	3	5.0	10	3	2	3	3	1	Even if the sky was clear, the clouds blocked our view of the stars, and we were able to watch the aurora borealis illuminate the sky.	2
+18	3	1	0	0	2	2	4	0	2	0	2	0	2	5.0	7	1	1	2	2	0	The storm generated a fierce whirlwind that left devastation in its path, both physical and emotional.	2
+27	5	2	1	1	1	5	7	0	0	0	3	0	2	4.0	10	0	0	2	0	0	The bustling city streets are bathed in the orange glow, and the bustling crowd gathers together, a vibrant mosaic against the vibrant cityscape backdrop.	2
+19	1	2	1	0	0	4	5	0	1	0	3	0	2	4.0	4	1	1	2	0	0	 Despite the recent turmoil, the artist remains an optimist, his creativity blossoming even amid the chaos.	2
+13	1	1	1	0	1	0	2	0	1	1	2	0	2	3.0	7	1	1	1	0	0	Despite her intelligence and hard work, Mary still struggled to succeed.	2
+10	1	1	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The cat chased the butterfly across the vibrant meadows.	2
+12	0	0	0	1	1	2	3	0	2	0	1	0	2	3.0	4	1	1	2	1	0	She is the girl who both enjoys and hates video games.	2
+16	1	1	0	2	0	3	3	0	1	0	2	1	2	4.0	4	2	1	1	0	1	Since the weather is beautiful, there will be no birds singing in the forest.	2
+14	1	2	0	0	1	2	4	0	0	0	2	0	2	4.0	7	1	1	1	1	0	The rain pours down, bringing relief and restoration to the parched earth.	2
+13	0	2	0	0	0	1	4	0	2	0	1	0	3	3.0	5	2	1	2	2	1	The girl who enjoys dancing loves playing piano on her days off.	2
+21	1	3	0	0	1	4	6	0	1	0	2	0	3	5.0	5	1	1	2	1	0	The dog barked in the park and chased the cat up a tree, its tail wagging with pure exuberance.	2
+25	4	1	2	1	2	2	5	0	3	0	2	0	2	5.0	6	1	1	1	1	0	She was both a brilliant student and a loyal friend, contributing to her academic success and earning her parents' respect even more.	2
+4	1	0	0	0	0	0	2	0	0	0	1	0	0	1.0	1	0	0	0	0	0	 **Subordinate Proposition 1**  Despite her initial fear of the unknown, Sarah embraced a life of discovery.	2
+5	0	0	0	0	0	1	1	0	0	0	2	0	0	1.0	3	0	0	0	0	0	Sure, no problem.	2
+15	1	2	0	0	0	1	4	0	2	0	2	0	3	4.0	4	1	1	1	1	0	  Despite their differences, they shared a deep bond formed through shared childhood memories.	2
+13	0	2	0	0	1	3	4	0	0	0	1	0	2	3.0	5	0	0	1	1	0	The boy sat beneath a tree and told stories to the birds.	2
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	.	2
+11	0	1	0	0	1	2	3	0	1	0	1	0	2	3.0	5	0	0	1	1	0	  He went to the movies and saw a superhero movie.	2
+20	2	1	2	0	1	3	5	0	0	0	2	0	2	3.0	7	1	1	1	1	0	  Despite the recent economic turmoil, the community's children still have the joy and freedom to run around..	2
+20	2	3	0	0	0	2	6	0	1	0	3	0	3	5.0	4	2	2	2	2	0	Despite the storm, the lighthouse remained steadfast, projecting unwavering beams of hope that guided sailors to safety.	2
+20	2	2	0	0	0	4	5	0	1	0	3	0	3	4.0	7	1	1	2	1	0	The young boy walked through the rain, his laughter echoed through the streets, illuminating the desolate landscape.	2
+24	4	1	0	0	0	3	4	0	1	0	6	1	3	5.0	9	2	1	1	2	1	"  ""The child, while tending to their neglected task, realized the urgent need to complete the long-overdue project."""	2
+18	3	2	0	0	0	3	6	0	0	0	2	0	2	5.0	4	1	1	1	1	0	The bustling city street became quiet after the storm, a serene reminder of life overcoming adversity.	2
+16	1	0	0	1	0	2	3	0	1	0	3	1	2	4.0	4	2	1	1	2	1	  **Despite not being a human, she found a way to escape certain dangers.**	2
+25	1	0	2	4	0	1	3	0	5	0	2	2	4	4.0	14	4	2	4	1	2	  If I had known that my hair was a different color today, I would not have gotten so tangled when I washed it..	2
+27	3	4	0	1	0	4	4	0	2	1	2	1	5	5.0	10	3	1	3	1	2	The young, adventurous girl who dreams of flying to Mars explored the abandoned city on the distant planet through a portal she had stumbled upon.	2
+13	2	2	0	0	0	2	3	1	1	0	1	0	1	3.0	10	0	0	0	0	0	  There were two young women in the garden at the same time.	2
+16	0	2	2	0	1	0	3	0	4	0	2	0	2	3.0	8	0	0	1	2	0	She found her keys by accident, and then lost them again in her purse.	2
+24	4	2	0	1	1	2	4	1	1	0	6	0	1	4.0	10	1	1	2	0	0	"Sure, a sentence with 2 subordinate propositions is: ""Despite the harsh weather, her spirit remained strong and determined."""	2
+26	2	3	0	0	1	5	7	0	1	0	3	1	3	6.0	16	2	0	2	2	2	As the morning sunlight filtered through the cracks in the curtains, creating a warm and gentle aura, I felt a sense of rejuvenation.	2
+12	1	1	0	1	0	1	2	1	1	0	2	0	1	2.0	6	0	0	1	1	0	Sure, I can generate a sentence with two subordinate propositions.	2
+23	3	5	0	1	0	2	7	0	1	0	3	0	1	5.0	8	0	0	1	0	0	The bustling city, with its towering skyscrapers, is home to a wide range of creatures from different walks of life.	2
+12	1	2	0	1	0	1	3	0	1	0	1	0	2	4.0	4	1	1	1	0	0	The city is bustling with people going about their daily lives.	2
+24	2	0	1	1	1	2	6	0	2	0	3	0	4	5.0	10	3	2	2	3	1	My pet cat, who is lazy and hates walking, still managed to find an adventurous route to visit the neighborhood park.	2
+25	6	2	2	0	0	4	6	0	0	0	2	0	3	5.0	9	2	2	1	2	0	The sun shines brightly despite gloomy weather today, creating a contrasting scene juxtaposing the vibrant blue sky to the dreary gray landscape below.	2
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	  - If the Earth had a heartbeat, it would feel a sense of urgency to continue circling the sun.	2
+27	7	2	0	0	1	4	7	0	0	0	3	0	3	5.0	8	1	1	2	2	0	The bustling city life became tranquil, and the warm sunrays cast gentle shadows over the bustling streets, creating a harmonious contrast of contrasting emotions.	2
+15	1	1	1	1	1	1	3	0	2	0	2	0	2	3.0	6	0	0	1	0	0	My dog can both run and swim, a unique ability of his breed.	2
+12	1	0	1	1	0	1	3	0	2	0	2	0	1	5.0	3	2	2	1	1	0	Sure thing, here's a sentence that fits your instructions:  Despite the relentless heat waves and relentless droughts, the garden bloomed brightly, with beautiful flowers reaching for the sky even amidst the scorching conditions.	2
+18	3	1	1	0	0	2	4	1	1	0	2	0	3	6.0	4	2	2	1	1	0	There are two prominent mountains overlooking this peaceful lake, where wildflowers bloom throughout the warm season.	2
+15	1	3	0	0	0	3	4	0	0	0	2	0	1	3.0	10	0	0	1	0	0	 **The dog barked at the bird due to the bird's loud singing.**	2
+19	2	3	0	0	0	4	6	0	0	0	2	0	2	4.0	8	1	1	1	2	0	The sun casts long shadows on the beach, casting a sense of tranquility onto the warm sand.	2
+42	5	2	2	4	3	3	7	0	3	0	4	1	6	8.0	14	4	1	4	2	3	    *If people were able to choose a single topic to investigate and understand deeply, we would have a richer society where diverse fields could flourish and each person could contribute to something meaningful within their expertise and curiosity.*   This sentence incorporates two subordinate propositions	2
+15	2	2	0	1	0	3	4	0	0	0	1	0	2	4.0	4	1	1	1	0	0	  The vibrant city was illuminated by the golden sunbeams dancing on the cascading river.	2
+25	0	2	2	2	1	3	7	0	2	0	1	1	2	4.0	8	0	0	2	2	0	The artist's dream was that his painting would not only portray the beauty of his creation but also capture the joy of life.	2
+14	0	1	0	1	0	2	4	1	1	0	1	0	3	6.0	3	2	2	1	2	0	My eyes will see three trees standing on a hill overlooking the river.	4
+20	1	1	1	0	1	3	7	0	0	0	5	0	1	3.0	11	0	0	1	1	0	The sun, clouds, mountains, wind, and trees together painted a magnificent tapestry across the sky.	4
+25	6	3	0	0	0	4	5	0	2	0	3	0	2	5.0	6	1	1	2	1	0	 Despite the torrential rain, the playful dolphins frolicked on the sandy shores, oblivious to the gloomy sky that threatened their playful spirits.	4
+14	0	1	1	0	0	3	3	0	0	0	2	1	3	4.0	5	2	2	2	0	0	The cat sat on the mat, watching while the humans played outside.	4
+21	3	3	0	0	1	3	7	0	0	0	2	0	2	5.0	10	1	1	1	1	0	The tiny particles danced around the blooming tulip, creating mesmerizing trails of color and light upon the dewy ground.	4
+22	2	3	2	1	0	4	5	0	0	0	2	0	2	4.0	6	1	1	1	1	0	Even the wildest storm will not extinguish this spark of creativity, burning brightly within the heart of the determined individual.	4
+12	2	1	0	0	0	2	5	0	0	0	1	0	1	2.0	7	0	0	1	1	0	The dancing shadows painted intricate designs on the weathered rock wall.	4
+25	3	2	2	2	0	3	5	0	1	0	3	0	4	7.0	6	3	3	3	1	0	  The young child ran swiftly into the unknown forest, his heart pounding with awe, wondering where the majestic beast might be hiding.	4
+23	3	3	1	0	1	3	6	0	0	0	2	1	3	4.0	11	1	1	1	1	0	Despite the relentless barrage of distractions and demanding deadlines, the diligent worker diligently persevered in completing the intricate task at hand.	4
+16	1	0	1	1	0	1	4	0	3	0	2	0	3	3.0	5	2	1	3	2	1	  **The girl who loves animals was devastated when she lost her beloved pet bird.**	4
+22	2	3	0	0	0	4	6	0	0	0	3	0	3	3.0	10	1	1	1	1	0	 **Despite the relentless heat, the children managed to find solace in the cool oasis during a scorching summer day.**	4
+33	4	4	0	0	3	2	7	0	3	1	3	1	5	7.0	10	3	3	3	1	0	John laughed and spoke, feeling grateful and alive as he gazed out his office window on the bustling city, his heart filled with joy and hope for a better future.	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	.	4
+21	4	4	0	0	0	3	5	0	1	0	2	0	2	5.0	8	1	1	1	1	0	The giant octopus waved in the vast ocean of darkness, leaving a mesmerizing trail of shimmering shells behind it.	4
+23	3	2	2	1	0	2	3	0	2	0	4	1	3	3.0	6	3	2	2	1	1	 **While the bustling streets below were alive with activity, they suddenly came to a peaceful standstill, leaving everyone stunned.**	4
+15	1	1	1	2	0	0	1	0	5	0	2	0	2	5.0	4	1	1	3	2	0	She is so capable, she can achieve whatever she sets her mind to.	4
+14	2	1	0	2	0	0	2	0	3	0	1	0	2	4.0	7	2	2	2	0	0	 There are many things we can do that are not harmful to others.	4
+19	3	2	0	0	1	2	5	0	2	0	2	0	2	4.0	13	1	1	1	1	0	  There were birds of various sizes and colors in the beautiful meadow, each singing its melancholic song.	4
+18	3	3	0	0	1	3	4	0	1	0	2	0	1	3.0	6	0	0	1	0	0	 Despite the heavy rain and cloudy skies, I went for a hike in the beautiful forest.	4
+37	2	5	0	0	2	6	11	0	1	0	3	0	6	7.0	9	2	2	1	3	0	The sun rose over the horizon with vibrant orange colors, illuminating both sides of the towering waterfall and casting its light upon the surrounding landscape, showcasing the vastness and beauty of nature's wonders.	4
+32	2	4	1	0	1	7	9	0	1	0	3	0	4	9.0	8	3	3	2	0	0	The dog ran through the forest, its playful barking echoing throughout the serene afternoon, a symphony orchestrated by the rustling leaves and the birds chirping softly in the distance.	4
+23	1	3	1	0	1	4	4	0	2	0	3	0	4	5.0	16	1	1	1	2	0	The boy ran into the woods without anyone seeing him, leaving a single footprints, and then vanished into the darkness.	4
+19	1	3	0	0	0	3	5	0	1	0	4	0	2	3.0	6	1	1	1	1	0	 > Despite its bleakness, a glimmer of optimism emerged, illuminating the path towards a brighter future.	4
+32	4	3	1	0	2	3	10	0	0	0	6	0	3	5.0	20	1	1	1	1	0	The bustling city streets overflowed with vibrant life, diverse characters, pulsating music, and the ever-present scent of hope, generating an atmosphere of excitement and discovery.	4
+22	3	2	1	0	1	2	4	0	2	0	3	0	3	5.0	7	2	2	1	1	0	 **The beautiful scenery contrasted sharply with the gloomy atmosphere, leading us to reflect on life and its bittersweet nature.**	4
+22	3	2	0	0	1	4	8	0	0	0	1	1	2	4.0	12	1	1	2	1	0	The rainy streets painted a contrasting picture of chaos and tranquility as the rushing river meandered beneath the vibrant neon cityscape.	4
+31	1	5	1	0	2	5	7	0	1	0	4	0	5	5.0	11	2	1	1	2	1	The boy, dressed in blue and carrying a backpack, walked down the path to school with the dogs, happily jumping and wagging their tails along the way.	4
+26	3	3	0	0	1	2	5	0	4	0	3	0	5	6.0	7	3	2	2	2	1	Despite the tumultuous circumstances that engulfed her life, she remained resilient, remaining focused on the future and pursuing her dreams with unwavering determination.	4
+18	1	1	0	2	0	3	3	1	1	0	1	1	2	3.0	12	1	1	2	2	0	None.	4
+32	5	4	0	0	2	4	10	0	1	0	2	0	3	6.0	10	2	2	1	1	0	The artist's abstract paintings painted with vibrant colors exhibited at an art showcase, captivating a diverse audience with its intricate details and a unique blend of realism and surrealism.	4
+17	2	2	1	1	1	2	5	0	0	0	2	0	1	3.0	7	0	0	1	0	0	 Despite the recent storms, the park was blooming profusely with tulips and daisies last weekend.	4
+15	0	1	0	0	0	2	3	0	1	0	3	1	3	3.0	8	2	1	1	1	1	 My sister, while sitting on the couch, decided to take a nap.	4
+20	3	2	1	0	1	2	5	0	1	0	2	0	3	4.0	6	1	1	1	2	0	The giant boulder rolled smoothly down the river, defying gravity and carrying its massive weight with unwavering resolve.	4
+33	6	2	0	0	0	5	9	0	1	0	4	1	4	5.0	14	3	2	2	4	1	The vibrant sunset cast upon the serene lake, offering a dazzling tapestry of vibrant hues, fueled my desire to write a poem, as the celestial canvas provided infinite inspiration.	4
+25	0	1	1	0	1	5	6	0	2	0	4	0	4	4.0	9	3	2	2	4	1	 The dog, which chased a butterfly, chased a flower across the grass and back, causing the flower to lose its petals.	4
+16	2	2	0	0	0	3	4	0	0	0	2	0	3	4.0	10	1	1	1	1	0	 The rain fell, creating a symphony of dripping leaves in a bustling urban neighborhood.	4
+17	2	2	1	0	0	2	3	0	0	0	3	0	4	4.0	6	1	0	1	1	1	 The brightly colored painting, overlooked by many, revealed an intricate secret of forgotten memories.	4
+34	6	1	0	0	1	7	6	0	3	0	6	0	4	6.0	17	3	2	3	3	1	The melodious song, the vibrant clouds, the captivating narrative, and the heartwarming message, combined, created an ethereal spectacle that left an everlasting impression on all who witnessed it.	4
+22	2	4	1	0	1	4	7	0	0	0	2	0	1	4.0	8	0	0	1	0	0	Even amidst the chaos of daily life, the serene park became a haven of tranquility amidst the rush and bustle.	4
+25	2	3	0	2	0	4	6	0	2	0	2	1	2	6.0	10	2	2	2	2	0	The dog was able to chase the butterfly across the meadows, while it was battling an unsettling storm of thought in its eyes.	4
+19	3	0	1	0	0	3	3	0	2	0	3	0	4	6.0	5	3	3	2	3	0	The rain poured, causing a mighty flood that submerged the entire city, making it completely uninhabitable.	4
+25	3	2	3	0	0	4	6	0	1	0	3	0	3	4.0	10	2	1	2	1	1	The city streets, painted with vibrant colors in every direction, painted themselves a vibrant canvas where a young boy happily ran along.	4
+18	3	2	0	0	0	3	5	0	1	0	2	0	2	4.0	5	1	1	2	0	0	  The majestic eagle soared into the vast sky, its feathers shimmering in the warm sunrise hues.	4
+24	3	2	0	1	0	4	3	0	3	0	3	0	4	6.0	7	3	3	3	2	0	The tiny spider, despite the large cage, managed to weave a beautiful web that was admired by all who saw it.	4
+18	4	2	0	0	0	3	6	0	0	0	1	0	2	3.0	6	1	1	1	1	0	  The beautiful blooming rose bush bathed in the golden sunlight cast vibrant shadows across the sprawling garden.	4
+17	1	2	0	1	1	2	5	0	0	0	1	0	4	7.0	3	2	2	1	1	0	The vibrant sky was adorned with swirling patterns resembling a tapestry woven with clouds and stars.	4
+18	1	3	0	0	1	1	5	0	3	0	2	0	2	4.0	6	0	0	1	2	0	  Despite his past struggles, he found solace in his family and found a sense of accomplishment.	4
+20	1	3	0	0	1	3	7	0	0	0	3	0	2	4.0	6	1	0	1	1	1	 The bustling city, cloaked with clouds, reflected the twinkling stars in a symphony of light and sound.	4
+18	0	2	0	0	0	3	5	0	2	0	2	1	3	4.0	7	2	2	2	2	0	  The boy chased the butterfly through the forest, carrying his umbrella as he raced against time.	4
+28	5	3	2	1	1	1	5	0	3	0	2	2	3	6.0	9	3	2	1	2	1	 Despite being incredibly naive and clumsy, he successfully completed the mission due to his superior strategic thinking skills acquired through his years of studying ancient texts.	4
+19	3	1	0	0	1	0	5	0	3	0	3	0	3	4.0	5	1	1	1	3	0	Despite her young age, she demonstrated exceptional leadership qualities, inspiring her teammates and achieving significant goals.	6
+26	3	4	0	0	2	3	9	0	1	0	3	0	1	4.0	11	0	0	1	1	0	The city streets, with their intricate patterns of brickwork and concrete, presented a captivating symphony of colors and textures beneath the midday sun.	6
+31	3	4	1	1	2	5	7	0	2	0	2	0	4	6.0	10	2	2	2	2	0	The city was bathed in an ethereal glow of neon and fireflies, casting an enchanting display on the bustling streets and illuminating the faces of those who ventured there.	6
+8	0	0	0	1	0	1	1	0	1	0	2	0	1	2.0	4	0	0	1	1	0	Sure, I have completed the prompt.	6
+35	2	4	1	0	2	6	10	0	0	0	4	0	6	6.0	14	2	1	1	2	1	The intricate dance of shadows and lights, each one meticulously dancing on a path, illuminated the secrets of the forgotten ruins, revealing an untold symphony of forgotten tales and forgotten dreams.	6
+2	1	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	Sure! The cat sat on the dog's blanket and watched it sleep while she was cleaning her house.	6
+15	1	0	2	2	1	2	4	0	1	0	1	0	1	4.0	5	1	1	2	1	0	The sky is the only place where we can genuinely find freedom and joy.	6
+18	3	2	0	0	1	1	4	0	2	0	2	1	2	5.0	7	1	1	1	1	0	  Despite her youthful naivete in the tumultuous world, she remained resolute in seeking knowledge and growth.	6
+27	4	3	0	0	0	2	8	0	2	0	4	0	4	5.0	9	3	2	2	3	1	A group of inquisitive students, adorned with knowledge, explored the fascinating world of quantum physics, generating numerous questions that challenged its very essence.	6
+21	5	1	0	0	1	2	5	0	3	0	2	0	2	4.0	6	1	1	2	2	0	Despite her youthful age, the wise old sage maintained a sharp mind and strong spirit that transcended her limitations.	6
+24	3	3	0	0	0	3	6	1	1	0	2	0	4	6.0	7	3	3	1	2	0	The dog chased six chasing birds through the lush meadow, leaving behind their feathers shimmering in the midday sun's warm rays.	6
+31	4	3	1	0	2	5	8	0	0	0	3	0	4	6.0	7	3	3	1	2	0	 The sun shone brightly, causing the flowers in the garden to bloom in various shapes and colors, enriching the beautiful landscape with vibrant hues and a cheerful essence.	6
+16	2	2	0	0	1	1	3	0	3	0	2	0	2	3.0	9	1	0	1	1	1	 Despite the chaos surrounding her, her love for her children remained steadfast and unwavering.	6
+16	1	3	0	0	0	3	5	0	0	0	2	0	2	3.0	7	1	1	1	1	0	The rain danced among the leaves, painting the ground in colorful hues at dawn.	6
+18	3	2	1	0	1	3	5	0	1	0	1	0	1	3.0	12	0	0	1	1	0	She felt an urgent need for a moment alone amidst the chaotic city noises and bright lights.	6
+33	3	5	0	0	0	7	11	0	0	0	2	0	3	8.0	8	2	2	1	2	0	The intricate patterns of the butterfly's wings resembled a constellation of stars sprinkled across a tranquil pond, each flicker of color illuminating a path through the water's intricate dance.	6
+23	6	1	0	0	1	3	6	0	0	0	3	0	3	4.0	6	2	1	1	2	1	The vibrant colors painted across the vast sky create an enchanting scenery, encompassing breathtaking landscapes, captivating creatures and vibrant hues.	6
+48	6	4	0	1	2	7	14	0	1	0	5	0	7	6.0	12	4	3	2	3	1	The vibrant cityscape bathed in the golden glow of the sunset was painted with an intricate tapestry of lights and shadows, illuminating the bustling street vendors, bustling cafes, and twinkling street lamps, each one adding their unique brushstroke to weave a vibrant panorama.	6
+11	1	1	0	0	1	2	4	0	0	0	1	0	1	4.0	3	0	0	1	1	0	A spider spun a web of intricate detail and beauty.	6
+28	0	5	0	0	1	4	10	0	1	0	3	0	4	6.0	10	2	2	3	2	0	A spider spun a web over my dog, and the spider swung from branch to branch, the net glistening like sunlight reflecting off rain droplets.	6
+10	1	0	1	1	0	1	2	1	1	0	1	0	1	4.0	3	1	1	1	1	0	Below is a sentence that has 6 subordinate propositions:  The dog chased the 6-year-old boy through the park as he wandered innocently in his childish playfulness..	6
+6	1	1	0	0	0	0	1	0	1	1	1	0	0	1.0	3	0	0	0	0	0	  Despite his rebellious nature, Mr.	6
+34	5	4	2	0	0	6	8	0	0	0	4	0	4	5.0	10	2	1	2	1	1	Even amidst the chaotic chaos swirling within the metropolis, tranquility reigned supreme at the local library, where an old-timer's quiet presence created a sanctuary amidst the bustling city.	6
+24	1	3	0	0	0	3	7	1	3	0	3	0	3	6.0	4	2	2	2	3	0	The old clock struck twelve with the chime, a symphony of chiming that captivated our neighborhood, sending shivers down our spines.	6
+17	1	3	0	0	0	3	5	0	1	0	1	0	3	4.0	9	1	0	1	1	1	A farmer tending to his crops generated an extensive symphony of humming birds throughout the day.	6
+38	1	3	2	2	1	6	9	0	4	0	3	0	5	7.0	18	3	3	3	3	0	The rainy days would always cause the brook’s reflection, shimmering like an eye that could see the future, but never revealing the secrets of those whose hearts it touched upon the water’s surface.	6
+36	4	5	0	0	0	5	9	0	4	0	3	0	5	9.0	6	4	4	3	3	0	The magnificent sunrise painted the sky with breathtaking beauty, a symphony of colors that danced across the tranquil sea, inviting me to embrace the enchanting world of wonder that unfolded before my eyes.	6
+35	5	5	2	0	1	4	10	0	1	0	2	1	4	6.0	9	3	2	3	1	1	The intricate network of roads and paths woven through the countryside painted a vivid picture of vibrant landscapes, where the rhythmic echo of horse hooves resonated as they grazed freely on verdant pastures.	6
+23	4	2	0	0	2	5	7	0	0	0	1	0	1	5.0	11	0	0	1	1	0	The vibrant colors and fascinating patterns of the garden's flora and fauna painted the idyllic landscape into such a harmonious masterpiece.	6
+58	4	8	4	4	1	9	12	1	2	0	6	1	6	7.0	18	5	4	4	1	1	A giant spider, with legs that extended to a distance of a thousand miles, had once resided in the treacherous wasteland that was now teeming with insects and creatures, demonstrating that even a creature like a giant spider, with such an extraordinary capability, can be overwhelmed by nature when given the chance.	6
+10	0	1	0	1	0	1	2	0	2	0	2	0	1	2.0	5	0	0	1	1	0	 - He had lost his watch during a storm.	6
+36	5	5	1	0	1	6	9	0	2	0	3	0	4	7.0	12	2	2	2	3	0	The sun rose above the peaks of the mountains, casting a warm, ethereal glow across the lush plains below and inspiring a gentle breeze that carried whispers of faraway secrets within its petals.	6
+12	2	1	0	1	0	2	3	1	0	0	1	0	1	2.0	7	0	0	1	1	0	A farmer could cultivate 6 separate crops on a single farm.	6
+23	4	3	1	0	0	4	6	0	0	0	2	0	3	5.0	7	2	2	1	2	0	The vibrant sunset painted the sky with fiery hues, casting intricate patterns on the astonished faces of the onlookers gathered below.	6
+19	3	2	0	0	0	3	4	0	2	0	1	1	3	6.0	7	2	2	1	1	0	 There was a long shadow of fear casting across the moonlit face as he held the ancient scroll.	6
+33	2	3	1	0	0	7	10	0	0	0	4	0	6	6.0	9	3	3	2	3	0	The rain poured continuously, casting shadows on the towering oak, each leaf rustling a silent response to the relentless rain, painting the forest floor with a shimmering emerald veil.	6
+19	3	2	0	0	0	3	5	0	2	0	2	0	2	4.0	7	1	1	2	1	0	 The old lady walked her pet cat down the dusty road, which snakes around the ancient cave.	6
+22	4	2	0	0	2	2	6	0	1	0	2	0	2	6.0	7	1	1	1	2	0	Despite their undeniable charm, few have the wisdom and inner strength to manage a household full of children and pets.	6
+30	4	4	0	0	2	3	8	0	3	1	2	0	3	5.0	13	1	0	2	1	1	A young boy named Billy lost his toy car in a forest, and his search for it unfolded like a mysterious journey through lush greenery and treacherous obstacles.	6
+19	4	1	1	0	0	4	4	1	0	0	2	0	2	4.0	7	1	1	1	2	0	The sky above turned an impressive 6 unique colours, showcasing a vibrant spectrum of the natural world.	6
+26	0	2	2	0	1	2	6	0	3	0	3	1	6	5.0	10	3	3	3	1	0	Her dog ran, jumped and laughed so happily, his fur becoming tangled in the leaves as he chased butterflies around the rose garden.	6
+38	1	1	0	0	2	9	9	0	0	0	8	0	8	5.0	26	1	1	7	0	0	The birds sing, the flowers bloom, the children laugh, the clouds weep, the streets tumble, and the sun rises, yet the city stands resolute, a beacon shining through the storm.	6
+24	1	3	0	0	0	6	7	0	1	0	3	0	3	4.0	9	2	2	2	2	0	The dog chased the butterfly around the forest, its wings shimmering in the sunlight, creating a mesmerizing spectacle in the meadow.	6
+2	1	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	Sure! A man stood beneath the sprawling canopy of ancient trees, watching the sunset paint the sky with vibrant hues of orange and purple.	6
+15	1	2	0	0	0	3	5	0	0	0	1	0	2	4.0	6	0	0	1	1	0	The rain whispered secrets to the barren trees in the whispering willows' symphony.	6
+33	5	6	1	0	0	5	9	0	0	0	3	0	4	7.0	17	2	0	2	1	2	A bustling metropolis, where bustling crowds scurried through towering buildings filled with a symphony of diverse people, experienced an unexpected surge of happiness in the heart of a humble neighborhood.	6
+19	1	2	2	2	0	1	5	0	2	0	2	0	2	3.0	7	1	0	2	1	1	 Even when my socks are missing, my sense of adventure can conquer the mundane routine of cleaning.	6
+22	3	3	0	1	0	3	4	0	2	0	2	0	3	5.0	5	1	1	1	1	0	Despite our best efforts, we could not generate a complete list of all possible scenarios based on the given parameters.	6
+19	0	1	0	0	1	2	3	0	0	0	6	0	6	3.0	12	0	0	1	1	0	The dog chased butterflies, hopped, danced, sang, swam, and flew around the park.	6
+28	5	3	2	0	0	4	5	1	1	0	4	0	3	4.0	8	0	0	2	1	0	Only a few moments passed by, the old clock stopped for an unforgettable six moments, then resumed its symphony in a new, unexpected key.	6

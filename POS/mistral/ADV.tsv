@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She opens the door.	0
+11	0	0	1	2	0	3	0	3	0	1	1	0	0	0	1	0	0	2.0	0	6	All the guests arrive at the party before 7 PM.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog bit the stick.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+7	0	0	1	1	0	2	0	1	1	1	0	0	0	0	1	1	0	2.0	0	4	John eats a sandwich for lunch.	0
+6	0	0	1	1	0	2	0	0	1	1	0	0	0	0	1	1	0	2.0	0	3	John eats pizza for dinner.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sitting on the mat.	0
+6	1	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	Mike plays the piano beautifully.	0
+9	0	0	1	1	0	3	0	1	0	1	1	1	0	0	1	1	0	2.0	0	4	Three people are playing tennis in the park.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps on the mat.	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	John stole the keys.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+8	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	1	0	2.0	0	4	Two boys play soccer in the park.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets beyond the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the hills.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun sets.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	John bites an apple.	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	John picked up the ball.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	You brought the keys.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun sets in the western sky.	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	John picked up the ball.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the lake.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the ocean.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountain.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog sits on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps on the mat.	0
+11	1	0	1	1	0	2	2	2	0	1	0	1	0	1	2	0	0	3.0	1	4	I am a dog that barks at the mailman daily.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	She cooks eggs.	0
+9	0	0	1	0	1	1	1	1	0	3	0	0	0	1	1	1	0	3.0	1	4	You opened the book and began to read.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept on the mat.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She eats the cake.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog runs in the park.	0
+8	0	0	1	2	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	The computer shuts down at 7:00 PM.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He dances gracefully.	1
+10	1	0	1	1	0	2	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	He carefully placed the antique vase on the shelf.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	He speaks quietly to the baby.	1
+7	1	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	She sings the national anthem beautifully.	1
+10	1	1	1	0	0	2	2	1	0	2	0	0	0	1	1	2	0	3.0	1	4	She quickly brushes her teeth before leaving the house.	1
+5	1	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	1.0	0	2	She speaks English fluently.	1
+5	1	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	1.0	0	2	She speaks French fluently.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	1
+7	1	0	1	1	0	1	2	0	0	1	0	0	0	0	1	0	0	2.0	0	4	I whisper sweetly into her ear.	1
+8	2	0	1	1	0	1	1	0	0	1	0	0	1	0	1	0	0	2.0	0	5	He speaks very loudly in public settings.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleepily purrs in the sunbeam.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets majestically behind the hills.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog happily fetched the ball.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly behind the mountains.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She dances elegantly every day.	1
+8	1	0	1	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	She sings beautiful songs loudly every evening.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She dances gracefully.	1
+8	1	0	1	2	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The boy loudly cried out for help.	1
+6	1	0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	She shouts loudly in protest.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings softly.	1
+11	2	0	2	0	1	1	1	0	1	2	0	0	1	0	1	2	0	3.0	0	6	He speaks Spanish fluently, yet quickly answers English questions.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	He confidently solved the puzzle.	1
+7	2	0	1	0	1	0	1	0	1	1	0	0	0	0	1	1	0	3.0	0	2	She speaks French fluently and confidently.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	He sings beautifully in the shower.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She sings the lullaby beautifully.	1
+8	1	0	1	1	0	2	2	0	0	1	0	0	0	0	1	0	0	2.0	0	5	He speaks softly to his crying baby.	1
+7	2	0	2	0	1	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	4	He sings softly, but beautifully.	1
+7	1	0	1	1	0	1	2	0	0	1	0	0	0	0	1	0	0	2.0	0	4	He whispered secretively into her ear.	1
+14	3	0	1	1	0	2	1	1	3	1	0	0	0	0	1	0	0	3.0	0	10	He always sings very beautifully during the town's Christmas Carol Singing event.	1
+7	2	0	1	0	1	0	1	0	1	1	0	0	0	0	1	1	0	3.0	0	2	She speaks English fluently and articulately.	1
+7	2	0	1	1	0	1	0	0	1	1	0	0	0	0	1	0	0	2.0	0	3	John always speaks eloquently in public.	1
+8	1	0	1	0	1	1	1	1	0	2	0	0	0	0	1	1	0	2.0	0	4	She gently played the guitar and sang.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She dances elegantly in the moonlight.	1
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The child spoke softly to the sleeping baby.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He sings beautifully.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She whispers loudly into the phone.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He sings melodiously.	1
+10	1	0	1	0	0	3	2	0	0	2	0	0	0	1	1	2	0	3.0	1	3	She softly sings lullabies to calm her crying baby.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He sings beautifully.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	1
+9	1	0	1	1	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	5	She loudly whispered the secret into his ear.	1
+14	1	0	1	0	1	1	4	0	0	3	0	2	0	1	2	2	0	3.0	1	6	I've carefully considered your proposal and I've decided to accept it.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She whispers loudly into the phone.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She quickly runs towards the finish line.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He sings beautifully.	1
+6	1	0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	He shouts loudly in anger.	1
+11	1	0	2	1	0	1	3	0	0	2	0	0	1	1	1	1	0	4.0	1	4	She sang brilliantly, captivating everyone with her extraordinary voice.	1
+8	2	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	He always sings beautifully in the shower.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun gently rises over the horizon.	1
+9	2	0	1	1	1	1	2	0	0	1	0	0	0	0	1	0	0	3.0	0	6	She whispered softly and hastily into his ear.	2
+11	3	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	8	She giggled quietly and nervously in the dimly lit room.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She sings joyfully and exuberantly.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She sings beautifully and passionately.	2
+6	3	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	She sang beautifully yet loudly.	2
+10	2	0	1	0	1	2	1	1	0	2	0	0	0	0	1	1	0	3.0	0	4	He loudly and excitedly announced the winning lottery numbers.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She sang beautifully and passionately.	2
+7	3	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She speaks incredibly loudly and passionately.	2
+9	2	0	1	1	1	1	2	0	0	1	0	0	0	0	1	0	0	3.0	0	6	She whispered loudly and nervously into his ear.	2
+10	3	0	1	1	1	1	2	0	0	1	0	0	0	0	1	0	0	3.0	0	7	She speaks incredibly softly and gently in her sleep.	2
+7	3	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She speaks quite softly and gently.	2
+8	2	0	1	0	1	1	1	1	0	1	0	0	0	0	1	1	0	3.0	0	3	She sang the song beautifully and confidently.	2
+10	2	0	1	1	1	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	7	She sang beautifully and gracefully under the moonlit sky.	2
+13	2	0	2	0	0	3	2	1	0	2	0	0	1	1	1	2	0	3.0	1	6	She softly hums a soothing lullaby, gently rocking her sleeping baby.	2
+11	2	1	1	0	0	2	1	2	0	2	0	0	0	1	1	2	0	3.0	1	5	She quietly hums a lullaby while gently rocking the cradle.	2
+9	2	0	1	1	1	1	2	0	0	1	0	0	0	0	1	0	0	3.0	0	6	He whispered quietly and respectfully into her ear.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	He speaks fluently and confidently.	2
+11	2	0	1	1	1	2	1	2	0	1	0	0	0	0	1	1	0	3.0	0	8	She sang the lullaby softly and gently to the baby.	2
+9	3	0	2	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	5	He quietly hums a tune, increasingly fast.	2
+10	2	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She whisperingly giggled loudly at the comedian's joke.	2
+12	2	1	1	1	0	1	1	1	0	3	0	0	0	2	1	1	0	3.0	2	5	She quietly hums a lullaby softly before drifting off to sleep.	2
+10	2	0	1	1	1	1	2	0	0	1	0	0	1	0	1	0	0	3.0	0	7	He speaks loudly and softly during his passionate monologue.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She dances elegantly and gracefully.	2
+9	3	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	6	He whistled cheerfully yet anxiously for the bus.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She dances gracefully and rhythmically.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The wind howls loudly and persistently through the trees.	2
+8	4	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She often speaks so softly and calmly.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She speaks softly and hesitantly.	2
+10	2	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	7	She speaks loudly and clearly in the empty room.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She sings sweetly and softly.	2
+7	3	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	2.0	0	4	She speaks French fluently yet confidently.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	He sings beautifully and gracefully.	2
+13	2	0	2	1	1	2	1	1	0	2	0	0	1	1	1	1	0	3.0	1	5	He sang softly and sadly, caressing each note with tender care.	2
+9	2	0	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	6	He sings melodiously and cheerfully at the party.	2
+9	2	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun slowly rises above the horizon gracefully.	2
+5	2	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	He quietly whispers loudly.	2
+11	2	0	1	1	0	2	2	1	0	1	0	0	1	0	1	1	0	2.0	0	7	She whisperedly mumbled her words fearfully at the dark forest.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	He spoke loudly and rapidly.	2
+11	2	0	1	0	1	1	2	0	0	2	0	0	1	1	1	1	0	3.0	1	5	He spoke loudly and fiercely to make his opinion clear.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The sun sets slowly and majestically behind the mountains.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She sings beautifully and gracefully.	2
+12	2	0	2	0	1	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	7	She whispered softly and gently, to not alert the baby.	2
+10	2	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	7	She sang sweetly and gently at the open window.	2
+10	2	0	1	1	1	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	7	She dances gracefully and elegantly in the moonlit garden.	2
+9	2	0	1	1	1	1	2	0	0	1	0	0	0	0	1	0	0	3.0	0	6	She whispered softly and lovingly into his ear.	2
+10	2	0	1	1	1	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	7	She dances delicately and gracefully in the moonlit garden.	2
+9	2	0	1	1	1	1	2	0	0	1	0	0	0	0	1	0	0	3.0	0	6	She whispers loudly and softly into his ear.	2
+9	2	0	1	0	1	1	1	1	0	1	0	0	1	0	1	1	0	3.0	0	4	He confidently and decisively made the final decision.	2
+10	3	0	1	1	0	2	2	0	0	1	0	0	0	0	1	0	0	2.0	0	5	She usually loudly sings softly during her evening show.	2
+6	2	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	2	She sings delightfully and gracefully.	2
+13	6	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	9	She calmly whispered sweetly, softly, and gently, almost inaudibly.	4
+12	4	0	4	0	1	1	0	1	0	1	0	0	0	0	1	0	0	3.0	0	5	The sun rises gradually, brightly, quietly, and beautifully.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	8	She giggled quietly, softly, quickly, and nervously.	4
+14	4	0	5	0	1	1	1	1	0	1	0	0	0	0	1	1	0	3.0	0	10	Quickly, quietly, elegantly, and confidently, she played the violin.	4
+15	4	1	1	2	0	2	1	1	0	2	0	0	1	1	1	0	0	3.0	1	7	She quietly whisperedly hurriedly glanced fearfully around the dark room before settling into bed.	4
+9	4	0	1	0	1	0	1	0	0	2	0	0	0	0	1	0	0	2.0	0	4	She quietly speaks loudly and gently waves fiercely.	4
+14	4	0	4	1	1	1	2	0	0	1	0	0	0	0	1	0	0	2.0	0	11	She whispered quietly, softly, gently, and anxiously in his ear.	4
+12	5	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	7	She speaks so loudly, rapidly, cheerfully, and confidently.	4
+13	0	0	5	0	0	2	2	0	0	1	0	0	3	0	1	1	0	3.0	0	9	Faster, louder, higher, brasher, he shouted his protest.	4
+12	4	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun suddenly gradually quietly quickly rose above the sleeping horizon.	4
+21	4	0	4	2	1	1	4	1	0	4	0	0	0	0	4	0	0	4.0	0	8	Swiftly he spoke, softly I listened, earnestly they laughed, and brightly the sunlight beamed down on us.	4
+15	4	0	5	0	1	1	1	1	0	1	0	0	1	0	1	1	0	3.0	0	10	Swiftly, gently, secretly, and softly, she stole the precious jewel.	4
+13	4	0	4	0	1	1	1	0	0	1	0	0	1	0	1	1	0	2.0	0	9	She loudly, eagerly, happily, and frequently sings beautiful songs.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	11	The sun sets slowly, gracefully, quietly, but brightly behind the horizon.	4
+19	5	0	3	1	1	2	3	1	0	2	0	1	0	1	2	1	0	3.0	1	9	Quickly, quietly, unexpectedly and scarcely had I finished my tea when he knocked on the door.	4
+17	5	0	3	1	2	1	1	0	0	2	0	0	2	0	1	0	0	4.0	0	6	Extremely happy, she loudly and enthusiastically sings, skillfully and gracefully dancing with wild abandon.	4
+15	4	0	5	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	9	Swiftly, quietly, steadily, fearfully, she opened the ancient creaking door.	4
+12	4	0	1	1	1	1	1	1	0	2	0	0	0	0	1	0	0	3.0	0	8	He quietly sings loudly and joyfully under the brightly shining moonlight.	4
+17	5	1	3	0	1	2	2	1	0	2	0	0	0	1	1	2	0	3.0	1	7	Swiftly and surely, she grabbed the ball carefully, while skillfully maneuvering her feet gracefully.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	They spoke quietly, rapidly, gently, and sincerely.	4
+15	4	0	4	0	1	0	3	0	0	3	0	0	0	0	3	0	0	2.0	0	9	Quickly, they sang loudly, she played elegantly, and he laughed gleefully.	4
+15	5	1	3	1	1	0	2	0	0	2	0	0	0	1	1	0	0	3.0	1	9	He confidently spoke loudly, clearly, and passionately while anxiously gazing at her.	4
+16	5	0	5	0	1	1	1	1	0	1	0	0	1	0	1	1	0	3.0	0	11	Quickly, quietly, carefully, and then gleefully, I opened the mysterious box.	4
+12	4	0	4	0	0	1	0	1	0	2	0	0	0	1	1	0	0	2.0	1	6	The sun softly, slowly, brightly glows, gently flickering.	4
+15	4	0	5	0	1	1	1	1	0	1	0	0	1	0	1	1	0	3.0	0	10	Quickly, loudly, joyfully, and frequently, she hummed the catchy tune.	4
+11	3	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	7	He carefully whispered loudly and hurriedly through the stormy wind.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	7	She sings beautifully, elegantly, softly, and gracefully.	4
+16	4	0	4	1	1	1	2	0	0	1	0	0	2	0	1	0	0	2.0	0	12	She carefully whispered softly, slowly, and sadly into his tired, trembling ear.	4
+13	4	0	4	0	1	1	1	0	1	1	0	0	0	0	0	1	0	3.0	0	9	Toby confidently, nervously, loudly, and hurriedly finished his dinner.	4
+15	4	0	4	1	1	1	2	0	0	1	0	0	1	0	1	1	0	3.0	0	9	Quickly, quietly, unexpectedly and suddenly, he found himself in complete darkness.	4
+12	3	0	2	1	1	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	8	She quietly whispered sadly, yet happily in the dark room.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	She sang softly, cheerfully, earnestly, and loudly.	4
+13	5	1	1	1	1	0	2	0	0	2	0	0	0	1	1	0	0	3.0	1	6	She whisperfully murmurs gently and softly while timidly peering at him fearfully.	4
+13	4	0	4	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	8	Swiftly, quietly, eagerly, persistently she knocked at the door.	4
+12	4	0	4	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	8	Quickly, quietly, certainly, definitely she whispered her secret.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	She spoke softly, slowly, nervously, and carefully.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	8	She spoke softly, rapidly, confidently, and determinedly.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	7	She sang softly, gracefully, fearlessly, and joyfully.	4
+13	4	0	2	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The sun gently sets slowly, gracefully and brightly behind the mountain.	4
+14	4	0	5	0	1	1	1	1	0	1	0	0	0	0	1	1	0	3.0	0	10	Quickly, quietly, skillfully, and politely, she unwrapped the present.	4
+14	4	0	4	0	1	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	9	They enthusiastically, carefully, quickly, and quietly opened the mysterious present.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	7	She sings softly, rhythmically, joyfully, and beautifully.	4
+14	4	0	4	1	1	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	11	She sings cheerfully, elegantly, rapidly, and loudly beside the pond.	4
+7	4	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	4	She softly quietly loudly whispered sweetly.	4
+16	4	0	4	0	1	1	1	1	0	1	0	0	3	0	1	1	0	2.0	0	8	He softly, rapidly, cheerily and sincerely opened the old, dusty antique box.	4
+15	4	0	4	1	1	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	12	She sang loudly, cheerfully, nervously, and excitedly in the bright morning.	4
+10	4	0	3	0	1	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	6	She softly whispered hesitantly, rapidly, and repeatedly.	4
+14	5	0	3	0	1	1	1	0	0	2	0	0	1	0	1	1	0	3.0	0	8	She softly sighed, slowly and quietly, then hurriedly whispered loud words.	4
+14	4	0	3	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	10	The sun sets slowly, brightly, gleamingly and splendidly over the horizon.	4
+25	4	0	4	4	1	4	1	3	0	2	0	0	2	1	1	1	0	4.0	1	12	He quietly and softly whistled the melody, occasionally staring off into the far distance, fearlessly, with an intense sense of longing.	4
+19	5	0	3	1	3	2	2	0	0	1	0	0	1	0	1	0	0	3.0	0	15	He reluctantly whispered silently and softly, yet enthusiastically and excitedly, into his girlfriend's anxious ear.	6
+24	8	1	4	1	0	2	2	1	0	4	0	0	1	1	1	1	0	3.0	1	15	She silently sips slowly her steaming hot tea gently, comfortably, contentedly, peacefully while occasionally glancing nervously at the darkening sky.	6
+28	9	1	6	0	2	2	1	2	0	4	0	0	0	3	2	1	0	5.0	3	13	She quietly hums softly, slightly rocking the baby to sleep, slowly but surely as the storm outside escalates, aggressively, furiously, and unpredictably.	6
+24	12	0	7	0	1	1	0	1	0	2	0	0	0	0	1	0	0	2.0	0	19	Incredibly loudly, extremely gently, particularly brightly, absolutely precisely, frequently anxiously, always fearfully, the wind whistled and sighed.	6
+27	7	1	3	1	3	2	2	2	0	4	0	1	0	3	2	1	0	5.0	3	8	He quietly and gently tiptoes quickly across the room, whispering earnestly and hesitantly, hoping sincerely and fearfully that he wouldn't awaken the baby.	6
+31	5	1	5	2	2	5	1	2	0	3	0	0	5	1	1	2	0	4.0	1	14	The shy, timid cat quietly licked her pale, trembling paw slowly, carefully, and meticulously before courageously leaping out the open window with unexpected grace and agility.	6
+16	7	0	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	5.0	0	5	 gently, softly, nervously, anxiously, quickly, calmly, and eagerly).	6
+24	6	0	4	1	3	2	3	0	0	3	0	0	2	1	2	2	0	4.0	1	15	With great haste, she slowly whispered, anxiously and loudly unveiling ancient treasures, yet calmly and thoughtfully he carefully rearranged them.	6
+24	8	0	5	2	2	2	2	0	0	1	0	0	2	0	1	0	0	3.0	0	15	With great eagerness, quietly and persistently, boldly yet cautiously, constantly and tirelessly, she whispered seductively into his willing ear.	6
+17	5	0	2	1	1	2	2	0	0	2	0	0	2	1	1	1	0	3.0	1	6	He quietly and gently spoke so calmly, rapidly blinking his anxious eyes in nervous excitement.	6
+15	7	0	6	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	11	She timidly whispered softly, cautiously, hurriedly, fearfully, awkwardly, nervously.	6
+26	7	1	2	2	0	3	4	0	0	6	0	0	1	3	2	2	0	5.0	3	11	He quietly whispered sweetly into her eagerly listening sedately immobile ear, gently touching her trembling hand while softly waving aside tears she slowly wept.	6
+14	6	0	6	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	11	She speaks softly, rapidly, nervously, excitedly, timidly, hesitantly.	6
+17	6	0	6	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	12	She nervously, excitedly, anxiously, confidently, carefully, loudly sang the old melody.	6
+25	6	0	8	1	1	3	2	1	0	1	0	0	2	0	1	1	0	3.0	0	14	Incomprehensibly, indiscreetly, unpromisingly, ungraciously, unwittingly, and unpreparedly, he revealed his top-secret information to the unexpected visitor.	6
+16	8	0	5	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	9	She whisperingly murmurs softly, excitedly yet cautiously, rapidly, frequently, and gleefully.	6
+45	8	2	2	4	2	9	3	5	0	5	1	0	4	2	3	2	0	6.0	2	9	The gracefully dancing ballerina confidently and gracefully leaned elegantly onto one pirouetting toe, her eyes sparkling brightly as she gently and meticulously swept the shiny tap shoe through the air before striking it softly on the polished stage in the grandest fashion possible.	6
+20	6	0	6	0	1	2	3	0	0	2	0	0	0	0	1	2	0	3.0	0	12	Quickly, carefully, silently, happily, unexpectedly, beautifully she removed her gloves and admired her reflection.	6
+21	11	0	2	1	1	1	2	1	0	1	0	0	1	0	1	1	0	3.0	0	8	Incredibly rapidly, he carelessly yet thoughtfully slammed loudly yet quietly the exceptionally delicate door slowly but steadily towards her.	6
+15	6	0	6	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	9	She spoke gently, softly, quickly, anxiously, excitedly, and loudly.	6
+12	6	0	1	1	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	7	He reluctantly stubbornly furiously quietly loudly proudly turned over the page.	6
+15	7	0	3	0	3	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	9	She loudly sang beautifully and clearly, softly and slowly, hesitantly and gracefully.	6
+25	7	0	7	1	2	2	2	1	0	2	0	0	1	0	1	1	0	4.0	0	14	Fearfully, anxiously, nervously, loudly, excitedly, and recklessly, they gathered their belongings and fled through the dimly lit forest.	6
+22	7	0	4	1	1	3	0	2	0	4	0	0	0	2	1	0	0	4.0	2	7	The hurriedly dancing ballerinas giggled giddily, graciously twirling gracefully, gleefully and gargantuanely, gazing gleamingly at the glistening chandelier.	6
+44	8	0	31	0	1	1	0	0	0	3	0	0	0	0	0	0	0	3.0	0	37	"     ""quickly (jumping)"",     ""anxiously (peeked)"",     ""nervously"",     ""quietly (sleeping)"",     ""cautiously"",     ""suddenly (away)"", and     ""gracefully (swaying)""."	6
+28	5	0	6	1	1	2	2	1	0	4	0	1	4	3	1	1	1	4.0	4	8	Despising vehemently, she quietly sneaks past the grumpy giant, timidly nudging her shy brother, fearfully whispering, clumsy and tremblingly, to be cautious.	6
+42	7	2	3	2	2	7	2	6	0	5	0	0	6	3	3	3	0	7.0	3	10	He quietly and slowly sips his tea, while the softly falling rain drenches the flowers quite steadily before the brilliant sunset suddenly vanishes behind the dark ominous clouds, creating a rather eerie and mysterious atmosphere in the tranquil evening.	6
+27	6	1	4	1	1	5	0	3	0	5	0	0	1	3	3	1	0	5.0	3	13	The sun slowly sinks, softly glowing, deeply beneath the horizon while gentle rain lightly falls and birds cheerily sing, brilliantly ending the day.	6
+18	9	0	3	0	1	1	2	0	0	1	0	0	1	0	1	1	0	3.0	0	8	Her softly whispered secrets sadly excited him very little hardly ever quietly, slowly, and sincerely.	6
+24	8	0	4	2	2	2	1	2	0	2	0	0	1	0	1	1	0	4.0	0	11	Quickly and loudly, she slowly turned the key softly, gently and steadily, then hastily ran out of the darkened house.	6
+20	7	0	6	1	1	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	16	She quietly sung beautifully, rapidly, gently, cheerfully, loudly, and boldly in the crowded auditorium.	6
+21	6	0	7	0	0	2	2	1	0	2	0	0	1	1	1	2	0	3.0	1	12	Swiftly, gently, softly, quietly, merrily, gracefully I sipped my tea, cherishing the soothing sensation.	6
+20	8	1	4	0	1	1	1	1	0	2	0	0	1	1	1	1	0	2.0	1	15	She quietly hums a cheerful melody so gently, slowly, steadfastly, and confidently before quickly falling asleep.	6
+16	6	0	6	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	12	She timidly, quietly, hastily, eagerly, nervously, confidently closed the door.	6
+17	2	0	6	0	0	1	0	2	0	1	0	0	5	0	2	1	0	2.0	0	11	The shy, timid, sleepy, clumsy, nervously, carelessly spilled the hot coffee.	6
+21	7	1	4	0	3	0	1	0	0	5	0	0	0	1	1	0	1	5.0	2	7	Speaking rapidly and loudly, she smiled broadly, laughs heartily, and clapped enthusiastically while dancing elegantly and excitedly.	6
+38	5	1	5	4	0	8	2	4	0	6	0	0	3	4	2	2	0	6.0	4	11	Swiftly, giggles echoed loudly throughout the dark, damp basement as he clumsily tripped over forgotten cobwebs, barely catching his balance, just missing a shrill scream from the cackling witches hiding in the shadows.	6
+32	6	1	5	5	0	5	2	4	0	2	0	0	2	1	2	0	0	4.0	1	25	She quietly whispered softly, quickly yet carefully, under the cover of darkness, near the edge of the calm lake, with the gentle breeze blowing steadily behind her.	6
+22	7	0	7	2	1	1	2	0	0	2	0	0	0	0	1	0	0	3.0	0	14	She gently whispering softly, frequently, nervously, anxiously, slowly, and finally, gave in to her tears.	6
+14	6	0	6	0	1	0	0	0	0	1	0	0	0	0	0	0	0	3.0	0	7	Speak softly, slowly, gently, sweetly, truthfully, and sincerely.	6
+18	6	0	6	1	1	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	15	She sings cheerfully, softly, gently, slowly, happily, and fearlessly in the rain.	6
+24	2	0	7	0	1	6	2	0	0	6	0	0	0	1	5	1	0	3.0	1	13	Swiftly, giggles escaped her, her eyes twinkling, hands trembling, eyebrows arched, cheeks flushed, and throat clearing nervously.	6
+9	6	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	4	She softly shyly quickly whispered loudly hesitantly nervously.	6
+18	7	0	1	1	3	1	1	1	0	2	0	0	1	0	1	0	0	4.0	0	12	They enthusiastically and anxiously spoke quietly yet confidently and nervously in the darkening and dimly lit room.	6
+16	7	0	6	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	9	He quietly shouts loudly, repeatedly, impatiently, angrily, furiously, and passionately.	6
+26	9	0	4	1	1	2	0	2	0	4	0	0	3	2	1	0	0	4.0	2	9	The quickly sleek black car raced recklessly uphill, swerving suddenly, violently braking harshly near the sharp curve, and abruptly reversing cautiously backward.	6
+23	1	0	7	0	0	3	1	1	0	3	0	0	7	2	1	2	0	4.0	2	10	The tiny, timid, trembling, teary, tattered witch waved her twisted wand, weeping wildly, whispering woeful incantations.	6
+14	6	0	5	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	7	She whisperingly mumbled loudly, urgently, anxiously, timidly, and nervously.	6
+18	6	0	6	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	12	Swiftly, graciously, eagerly, gently, persistently, boldly she danced amidst the twirling leaves.	6
+18	6	0	6	0	1	1	1	1	0	1	0	0	1	0	1	1	0	3.0	0	13	They confidently, enthusiastically, joyfully, quickly, softly, and gracefully approached the old tree.	6

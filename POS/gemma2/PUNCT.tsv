@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+19	0	0	2	2	0	4	0	4	0	2	0	0	5	1	1	0	0	5.0	1	5	  The quick brown fox jumped over the lazy lazy cat, the cat running towards a juicy steak.	0
+6	1	0	2	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	  **The sun shines brightly.**	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	 The absence of punctuation signifies an unwritten sentence.	0
+25	1	0	3	1	3	5	2	2	0	2	0	2	3	1	2	2	0	5.0	1	10	As an AI model, I have no human characteristics or opinions, and cannot generate sentences that are intentionally misleading or biased.	0
+20	0	0	2	3	1	7	0	4	0	2	0	0	1	1	1	2	0	5.0	1	8	The sunrise casts a golden glow on the horizon, painting the sky with colors of hope and optimism.	0
+13	0	0	1	2	0	5	0	3	0	1	0	0	1	0	1	1	0	3.0	0	6	  A rainbow arch paints the sky with a vibrant splash of colors.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun shone brightly today.	0
+7	0	0	1	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	2	  The silent waterfall sang its melody.	0
+10	0	0	1	1	1	3	0	2	0	2	0	0	0	0	1	1	0	3.0	0	4	  The rain danced and whispered secrets on the rooftops.	0
+8	0	0	1	0	0	2	0	2	0	0	0	1	2	0	1	0	0	2.0	0	5	The sky is a vast empty expanse.	0
+23	0	0	2	4	1	6	0	4	0	2	0	1	2	1	1	0	0	7.0	1	4	The sunrise over the ocean appeared as an empty canvas, ready to be painted with the colors of hope and possibility.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The moon hangs in the sky without interruption.	0
+18	1	0	2	3	0	5	0	4	0	2	0	0	1	1	1	0	0	4.0	1	6	  The silence hung heavy in the air, punctuated only by the rustling leaves in the wind.	0
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	6	 She wandered through the forest without a sound.	0
+8	0	0	1	1	0	2	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	I am a sentence with no punctuation.	0
+7	0	0	1	1	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was black as night.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sky remained perfectly clear throughout the day.	0
+14	0	0	2	1	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun rose this morning, casting an enchanting rainbow across the sky.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Sure thing.	0
+19	0	0	1	3	0	6	0	5	0	2	0	0	2	1	1	1	0	3.0	1	9	A lone sparrow perched upon the edge of a crumbling stone arch sang a lullaby to the nightingale.	0
+10	0	0	3	0	0	3	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	" ""The sky was a bright orange today."""	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	 The sun shines brightly in the morning sky.	0
+17	0	0	2	2	0	5	0	4	0	2	0	0	2	1	1	1	0	3.0	1	8	 The sun rose over the horizon, casting a warm glow on the sprawling desert landscape.	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! The answer is the sky's infinite wonder.	0
+19	2	1	1	2	1	3	1	3	0	1	0	1	3	1	2	1	0	4.0	1	5	The rain was so heavy and relentless that it drowned out all possibility of a peaceful walk outdoors.	0
+18	1	0	5	0	0	1	2	1	1	3	0	1	1	3	1	2	0	5.0	3	7	"Sure, just imagine someone asking, ""Is this the best time to visit Italy?"""	0
+10	0	0	2	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	  **The wind whispered secrets on a silent hill.**	0
+29	1	0	3	3	1	8	0	6	0	5	0	0	2	3	1	2	0	7.0	3	8	The sun rose this morning, casting a warm glow throughout the house, illuminating the room filled with books and the warm smell of freshly baked bread.	0
+9	0	0	1	2	0	2	2	1	0	1	0	0	0	0	2	0	0	3.0	0	6	 She ran with a smile in her heart.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun rose this morning.	0
+14	0	1	1	0	1	3	1	2	0	2	0	2	0	1	2	1	0	4.0	1	4	The task cannot be completed as it lacks any instructions or context.	0
+15	0	0	2	1	1	5	0	4	0	2	0	0	0	0	2	1	0	3.0	0	11	  The wind whispered a story to the sleeping birds, yet the world slept.	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	1	4.0	1	5	The sentence generated from this instruction is: The sky was clear and blue.	0
+14	0	0	2	2	0	4	1	2	0	1	0	0	2	0	1	1	0	3.0	0	7	 In the boundless ocean of words, the single sentence whispers its secrets.	0
+17	1	0	2	3	0	5	0	2	0	1	0	0	2	0	1	0	0	4.0	0	5	Even in silence, the old tree stood as a testament to nature's timeless power.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	  The clouds drifted gracefully in the endless sky.	0
+30	1	0	2	3	0	9	0	6	0	3	0	1	4	2	3	2	0	7.0	2	10	The sky's a dark shade of night, the moon a lone bright eye gazing up to observe the silent dance of fireflies illuminating the sleeping world below.	0
+13	1	0	2	1	0	4	1	2	0	2	0	0	0	1	2	1	0	3.0	1	5	 The stars shone brightly, their glow casting shadows on the ground.	0
+10	0	0	2	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	Sure, I generated a sentence with no punctuation.	0
+16	0	0	2	2	0	5	0	4	0	2	0	0	1	1	1	1	0	3.0	1	7	A shadow stretched across the window, casting an ominous silhouette on the bedroom walls.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises without a sound.	0
+22	0	0	3	3	0	5	2	4	0	3	0	0	2	2	2	1	0	5.0	2	6	The sun rises above the horizon, setting below it, a celestial dance that fills the sky with vibrant colors.	0
+13	0	1	2	0	0	2	0	2	0	2	0	3	0	1	2	0	0	3.0	1	6	The task cannot be performed, since no instructions are provided.	0
+22	1	0	2	2	0	6	1	3	0	3	0	2	1	3	2	2	0	8.0	3	6	The sky turned the color of ash, a gentle breeze carrying whispers of secrets that were yet to be revealed.	0
+20	1	0	5	1	0	4	1	2	0	3	0	1	1	1	2	2	0	4.0	1	6	Sure, I can generate the sentence:   **Rain fell silently for days, washing the world clean.	0
+16	1	0	1	1	1	2	0	2	0	2	0	2	3	2	1	0	0	4.0	2	6	 The sky was as vast and indifferent as an empty canvas waiting to be painted.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	  The quick brown fox jumped over the lazy dog.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	   The sky was blue.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The cat chased the mouse across the backyard.	1
+19	1	0	2	3	0	5	0	4	0	2	0	0	2	1	1	1	0	4.0	1	6	A beautiful melody flowed effortlessly through the air, painting the sunset with an enchanting blend of colors.	1
+12	2	0	2	0	0	2	0	1	0	1	0	3	1	1	2	0	0	3.0	1	7	Rain will stop soon, the sky will be clear again.	1
+14	1	0	4	1	0	2	0	2	0	3	0	0	0	2	1	0	0	3.0	2	5	" ""The cat sat quietly, waiting for the mouse to arrive."""	1
+9	1	0	1	0	1	2	0	1	0	2	0	0	1	0	1	1	0	2.0	0	3	The happy cat chased butterflies and laughed happily.	1
+9	0	0	2	1	0	2	2	0	0	2	0	0	0	1	2	0	0	3.0	1	4	She smiled, her eyes sparkling with delight.	1
+15	0	0	3	1	0	5	1	3	0	1	0	1	0	0	2	1	0	3.0	0	8	"The answer to the prompt is ""The cat chased its tail home."""	1
+18	0	0	1	1	0	4	1	4	0	3	0	0	4	2	2	2	0	6.0	2	4	The young artist created a captivating painting that depicted a vibrant sunrise breaking over the majestic mountains.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumped over the lazy dog.	1
+9	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The task is not specified in the context.	1
+21	1	0	2	3	0	5	1	4	0	2	0	0	3	1	1	2	0	3.0	1	9	The sun peeked its golden eyes from behind the clouds, casting a warm glow upon the bustling streets below.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dogs.	1
+11	0	0	2	1	0	4	0	2	0	1	0	0	1	1	0	1	0	3.0	1	5	The sun set, casting long shadows across the park.	1
+10	0	0	1	0	1	3	1	1	0	2	0	0	1	0	1	2	0	3.0	0	4	We went shopping today and got some new clothes.	1
+29	1	0	3	3	3	8	0	5	0	1	0	1	4	1	1	1	0	5.0	1	9	Certainly, a symphony is a composition of sounds and a musical performance, both presenting a unified sonic experience in a harmonious balance of beauty and complexity.	1
+23	1	0	2	2	1	7	1	4	0	4	0	1	0	3	2	1	0	7.0	3	5	  The rain fell today, washing away the dust and debris that had accumulated on the roads leading to the city center.	1
+10	1	0	2	0	0	2	0	2	0	2	0	0	1	1	1	1	0	3.0	1	3	The sun beamed down, illuminating the lush meadow.	1
+25	0	0	2	3	0	7	3	3	0	4	0	0	2	3	2	4	0	7.0	3	8	A lonely seahorse whispered its silent plea to the ocean, urging it to embrace change with waves that whispered stories of the depths.	1
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	4.0	1	3	A single rain fell, marking the end of the day.	1
+21	1	0	2	2	1	5	1	3	0	3	0	1	2	2	2	1	0	5.0	2	5	Rain fell throughout the day, washing away the dust and dirt that had accumulated over the past few weeks.	1
+18	1	0	2	2	0	4	0	4	0	2	0	0	3	1	1	1	0	4.0	1	7	A bright sun shone down, casting a warm glow upon the bustling streets of the city.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun shone brightly that day.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	  The cat chased the mouse across the field.	1
+8	0	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	The little bird sang a beautiful melody.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The task is not clear.	1
+23	0	0	4	4	0	7	0	5	0	2	0	0	0	1	1	1	0	6.0	1	5	"  ""The rain fell on the fields, leaving a rainbow as a testament to the beauty of nature's artistry."""	1
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	  The cat chased its tail through the field.	1
+13	0	0	2	1	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun rose this morning, casting long shadows across the land.	1
+12	1	0	3	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	"  ""The moon shone brightly on the lake that day."""	1
+17	1	0	3	3	0	4	1	3	0	2	0	0	0	1	1	0	0	3.0	1	10	  She stood in the middle of the forest, alone, listening to the rustling leaves.	1
+15	0	0	2	3	0	4	2	2	0	2	0	0	0	1	2	0	0	3.0	1	9	She stood at the precipice of decision, her heart pounding like a drum.	1
+9	0	0	2	0	0	2	0	2	0	2	0	0	1	0	2	0	0	3.0	0	4	The rain fell, the sky turned black.	1
+8	0	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	2.0	0	3	You will not generate any additional content.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumped over the lazy dog.	1
+11	0	0	3	1	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	3	"""The rain was the reason for the flooding."""	1
+17	1	0	4	0	1	2	3	1	0	3	0	0	1	1	2	2	0	3.0	1	8	" ""She went to visit her friend, and they had a wonderful time together."""	1
+18	0	0	3	2	1	4	1	4	0	2	0	1	0	0	2	1	0	3.0	0	7	"The answer to the task is ""He went to the store and bought some cheese."""	1
+12	1	0	1	1	0	4	0	3	0	1	0	0	1	0	1	0	0	2.0	0	8	The rose blossomed brightly this morning despite the harsh weather conditions.	1
+23	1	0	2	3	1	7	0	5	0	3	0	0	1	2	1	1	0	6.0	2	7	The sun shone brightly in the sky today, casting a warm glow on the plants and flowers blooming along the riverbank.	1
+18	0	0	2	0	3	1	4	0	0	3	0	1	3	1	2	2	0	4.0	1	6	She lost her watch, and she searched high and low but was unable to find it.	1
+16	1	0	2	2	0	4	2	2	0	2	0	0	1	1	1	0	0	5.0	1	4	  **There is an exciting book about a time traveler who goes back in time.**	1
+7	1	0	3	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	"""The rain falls silently."""	1
+19	0	0	4	3	0	6	0	3	0	1	0	0	2	0	1	1	0	4.0	0	4	" ""The old clock tower stood sentinel at the edge of the desolate town at twilight.""."	1
+13	3	0	2	0	0	2	0	2	0	2	0	0	1	1	1	1	0	4.0	1	4	The rain fell silently, just enough to nourish the thirsty earth.	1
+17	3	0	2	1	0	3	1	1	0	2	0	2	1	1	2	1	0	3.0	1	8	A hungry dog can always find food, even when humans aren't looking for it.	1
+14	0	1	2	0	0	2	0	2	0	2	0	3	1	1	2	0	0	3.0	1	7	The task cannot be completed, as no such task is provided.	1
+10	1	0	1	0	0	2	1	2	0	1	0	1	0	1	1	1	0	4.0	1	3	 Sure, here's a sentence that completes the task	1
+8	0	0	1	1	0	3	0	2	0	0	0	1	0	0	1	0	0	2.0	0	3	  The sky was a canvas of blue.	1
+10	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	 _The dog chased the cat into the bush._	1
+20	0	1	2	2	0	5	1	4	0	2	0	1	2	2	2	1	0	4.0	2	11	The rain poured as it was a day for a torrential downpour, causing extensive flooding around the town.	1
+12	0	0	4	0	0	2	0	2	0	3	0	0	0	2	1	1	0	4.0	2	2	"  ""The dog barked, stopping to sniff the flowers."""	2
+9	1	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	3.0	0	4	The old clock stopped at exactly 10 a.m.	2
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	 > The bird sings a melody, a beautiful sound that echoes throughout the city.	2
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	2
+18	0	0	2	2	0	6	0	3	0	1	0	0	3	0	1	0	0	4.0	0	7	The old oak tree sat lonely on the hill, a testament to time's unrelenting presence.	2
+12	3	1	1	0	0	2	2	1	0	2	0	0	0	1	2	1	0	3.0	1	6	  The rain poured down so heavily that it flooded our street..	2
+23	0	0	2	4	1	6	2	3	0	2	0	0	3	1	2	1	0	6.0	1	7	The sun gazed upon the shimmering surface of the lake, its rays painting it in vibrant hues of yellow and orange.	2
+18	0	1	2	2	0	4	1	3	0	3	0	1	1	2	2	1	0	5.0	2	7	The old watch struck a blow, echoing through the streets before it was silenced by nightfall.	2
+12	0	0	1	3	0	4	1	1	0	1	0	0	1	0	1	0	0	4.0	0	3	Her eyes sparkled like sunlight on a lake in full bloom.	2
+11	1	0	2	1	0	2	3	0	0	1	0	0	1	0	1	1	0	2.0	0	4	 Despite her age, she still maintained her youthful beauty.	2
+10	0	0	1	0	0	2	1	2	0	3	0	0	0	1	0	1	0	4.0	1	3	There is no task to complete the given instruction.	2
+22	0	0	3	3	0	6	2	4	0	3	0	0	1	2	2	1	0	5.0	2	8	She hurried down the bustling street, her laughter echoing through the city, catching the attention of a passing photographer.	2
+24	2	0	2	3	0	6	1	4	0	2	0	0	4	1	2	1	0	4.0	1	9	A wise old owl flew gracefully through a lush forest, its feathers casting a shimmering rainbow of colors on the path below.	2
+31	0	0	4	4	1	7	2	6	0	4	0	0	2	2	1	3	0	6.0	2	8	   The key turned with a satisfying **click**, signaling the release of its hold and allowing me to move the puzzle to the next step of the game.	2
+12	0	0	1	1	1	3	1	2	0	1	1	0	1	0	1	1	0	3.0	0	6	She wrote a short story with two characters and a plot.	2
+16	1	0	4	2	0	3	0	3	0	1	0	0	2	0	1	0	0	2.0	0	9	"  ""Once upon a time, a wise old owl flew through the forest."""	2
+18	1	0	2	2	1	5	0	3	0	3	0	0	1	1	1	1	0	3.0	1	8	The rain fell quietly and without interruption, casting a shimmering shadow on the bustling city streets.	2
+14	1	0	2	3	0	4	0	3	0	1	0	0	0	0	1	0	0	4.0	0	5	  The rain fell softly, like the tinkling of bells in the wind.	2
+13	0	0	3	2	0	3	1	2	0	1	1	0	0	0	1	0	0	3.0	0	6	  **She walked across the street, two steps at a time.**	2
+22	1	0	5	3	0	4	0	3	0	2	1	2	1	1	2	0	0	3.0	1	9	"Certainly, a sentence with 2 punctuations would be generated,  such as ""The cat sat on the mat."""	2
+11	0	0	3	2	0	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	3	"""She went for a walk in the park."""	2
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	You are a talented artist.	2
+17	0	0	2	3	1	4	0	3	0	3	0	0	1	1	1	0	0	4.0	1	7	The train left and arrived on time, stopping at the station on the main thoroughfare.	2
+13	0	0	1	2	1	3	0	3	0	2	0	0	1	0	1	0	0	3.0	0	5	The little cat leaped over the fence and sat in a windowsill.	2
+12	0	0	3	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	"  ""The quick brown fox jumped over the lazy dog."""	2
+27	0	0	4	2	0	7	1	5	0	4	0	1	2	1	3	2	1	4.0	2	15	"Sure, the sentence is ""The wise old owl perched on the oak tree chirped a melody that brought peace to the surrounding world."""	2
+15	0	0	1	2	0	5	0	3	0	0	0	1	3	0	1	0	0	3.0	0	4	  The old house was a quiet retreat beneath the canopy of old oak trees.	2
+11	1	0	2	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	  **The cat sat on the mat and purred softly.**	2
+14	0	0	1	1	0	5	0	3	0	2	0	0	1	1	1	1	0	4.0	1	3	The young woman's eyes sparkled like the stars illuminating the night sky.	2
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	4.0	1	8	The rain fell softly, sending a gentle symphony of droplets to the flowers.	2
+15	0	0	3	2	1	3	1	2	0	2	0	0	1	0	1	0	0	3.0	0	6	"""The cat jumped over the lazy dog and landed on its head."""	2
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	3.0	0	3	  The rainy dog barked at the birds in the forest.	2
+13	0	0	1	1	2	3	0	2	0	1	0	1	2	0	1	0	0	3.0	0	6	The city will stand tall and strong against all storm and tribulation.	2
+18	0	0	2	2	0	3	0	3	0	3	0	0	4	2	1	0	0	3.0	2	7	A wise old owl sat atop the branch, waiting for the next unsuspecting moth to emerge.	2
+23	0	0	3	2	0	7	1	3	0	2	0	0	4	1	2	1	0	5.0	1	10	The old clock has a mysterious silence, its hands stuck in position, a silent witness to time's inexorable flow.	2
+13	0	0	2	2	0	3	3	1	0	2	0	0	0	1	1	0	0	5.0	1	3	 She sat in her garden, a butterfly fluttering in her hair.	2
+9	1	0	4	0	0	1	1	0	0	0	0	1	0	0	0	0	0	2.0	0	3	 **Sure, here's your sentence:**  The rainy day did a lot of damage, both outside and within the house.	2
+15	1	0	2	1	0	5	1	2	0	2	0	0	1	1	1	1	0	4.0	1	4	My dog barked loudly yesterday, signaling a new addition to the neighborhood family.	2
+17	0	0	2	2	0	5	3	2	0	2	0	0	0	1	2	1	0	4.0	1	9	She sat on the bench, her phone's flashlight illuminating the words on her manuscript.	2
+16	0	0	2	2	0	3	3	1	0	2	0	0	2	1	1	1	0	5.0	1	3	Despite the chaotic mess, she remained steadfast in her determination to finish her task.	2
+26	0	0	3	4	1	7	2	4	0	4	0	0	1	2	1	2	0	5.0	2	6	The little mouse scurried across the forest floor, collecting a handful of acorns and placing them in its hole, nestled amongst the leaves.	2
+18	0	0	2	1	1	5	4	2	0	1	0	1	1	1	2	0	0	4.0	1	10	She went on her first adventure, the mountains were her playground and the water her teacher.	2
+21	2	0	2	3	1	5	1	4	0	3	0	0	0	1	1	1	0	5.0	1	6	She ran down the park path and smiled brightly, just like the sunshine warming the flowers on the way.	2
+15	0	0	3	2	0	3	1	2	0	2	0	0	2	0	1	0	1	4.0	1	8	Her laughter, punctuated by a joyous chime, echoed through the empty courtyard.	2
+13	0	0	3	2	0	4	0	1	0	2	0	1	0	0	1	0	1	4.0	1	8	The city, bathed in neon lights, is illuminated at night.	2
+17	0	0	2	2	0	5	0	4	0	1	0	1	2	1	1	1	0	5.0	1	6	The rain was quiet, a symphony of raindrops playing a soft song upon the windowpane.	2
+20	0	1	1	0	0	3	2	3	0	4	0	3	0	3	3	2	0	4.0	3	11	I cannot generate a sentence because the context you have provided does not specify any task to complete.	2
+7	0	0	1	0	0	1	1	0	0	1	1	1	0	0	1	1	0	2.0	0	3	I cannot generate two sentences.	2
+20	1	1	2	1	0	4	2	3	0	3	0	0	3	2	2	2	0	4.0	2	6	The happy bird sang a beautiful melody as it soared through the sky, carrying its colorful feathers high.	2
+22	1	0	3	3	1	4	3	2	0	3	0	1	1	1	2	2	0	4.0	1	7	" ""I gazed up at the night sky and wonder when the last moon will grace us with its presence."""	2
+12	1	0	2	0	0	3	1	2	0	2	0	0	1	1	2	1	0	4.0	1	5	The dog chased the ball, its happy tail wagging furiously.	5
+23	1	0	2	2	1	7	1	4	0	4	0	0	1	2	2	1	0	6.0	2	6	A lone star emerged in the azure sky, twinkling softly and casting a shadow that danced across the sleeping forest floor.	5
+16	0	2	2	2	0	4	0	2	0	2	0	0	2	1	1	1	0	3.0	1	7	The rain fell with beautiful rhythm, as if painting the earth with colorful strokes.	5
+12	1	0	3	0	0	1	2	1	0	2	0	1	0	1	1	1	0	2.0	1	5	 Sure, no problem, I can certainly make that happen.	5
+15	0	0	4	2	0	3	2	1	0	2	0	0	1	1	2	0	0	3.0	1	8	"""He ran across the open field, his eyes sparkling with delight."""	5
+19	1	0	2	2	0	5	1	4	0	2	0	0	2	1	3	1	0	4.0	1	10	The rain fell softly, its droplets painting the dewy grass with a delicate swirl in the sunlight.	5
+26	0	1	2	4	0	8	1	5	0	3	0	0	2	2	2	1	0	5.0	2	11	The rain poured with such force that it caused a rushing sound, filling in the void of the night sky with a shimmering haze.	5
+18	1	0	2	2	0	5	0	4	0	2	0	0	2	1	1	2	0	3.0	1	9	The vibrant sunset painted the sky with a multitude of hues, illuminating the lush greenery beneath.	5
+22	1	0	2	4	0	5	1	3	0	3	0	0	3	2	2	1	0	5.0	2	7	The young girl smiled brightly with her hair curled up in a neat bun, creating a sense of childish delight.	5
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Sure thing! The sun shone brightly in the clear sky, providing a perfect atmosphere for painting.	5
+16	1	0	2	2	0	3	3	1	0	2	1	0	1	1	1	1	0	4.0	1	7	She laughed happily, adding her two cents to the lively discussion at her table.	5
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! The quick brown fox jumped over the lazy dog.	5
+27	1	0	3	2	0	6	4	4	0	4	0	0	2	3	3	2	0	7.0	3	9	  She sat by the pond, the tranquil water reflecting the sun's golden rays, her thoughts drifting away to the beauty that surrounded her.	5
+18	0	2	2	1	1	3	1	3	0	3	0	1	1	2	2	0	0	4.0	2	8	The little girl ran to the pond, skipping and dancing as if she were a queen.	5
+17	0	0	3	2	0	5	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	Despite the storm's rage, a rainbow emerged, painting the sky with vibrant colours.	5
+14	1	0	2	1	0	4	1	2	0	2	0	0	1	1	2	1	0	3.0	1	5	  The old oak stood gracefully, its leaves whispering secrets on the breeze.	5
+17	2	1	2	1	1	3	1	1	0	4	0	1	0	2	1	1	0	4.0	2	7	  The dog barked loudly and then stopped, wagging its tail in delight at being fed.	5
+25	0	0	2	5	0	7	0	6	0	2	0	0	3	1	2	1	0	5.0	1	7	The rain showered down with a symphony of distinct sounds, each echoing a unique phrase into the melancholic symphony of the night sky.	5
+15	0	0	1	3	0	4	0	3	0	2	0	0	2	1	1	0	0	5.0	1	4	The city came alive with the symphony of cars driving down the busy street.	5
+21	0	0	2	3	1	8	0	2	0	1	0	0	2	0	1	0	0	4.0	0	5	  The artist's masterpiece stood for centuries, a reminder of time's unwavering passage and enduring influence upon generations.	5
+18	1	0	2	1	0	5	1	2	0	3	0	0	2	2	1	2	0	3.0	2	7	The little girl's laughter filled the room with joyful sound, making her mother smile warmly.	5
+16	0	0	2	1	0	5	0	3	0	4	0	0	1	2	1	2	0	5.0	2	5	 Rain washed the windows clean, leaving a glistening rainbow shimmering in the afternoon sun.	5
+21	2	0	3	2	0	4	1	3	0	3	0	0	3	2	2	0	0	4.0	2	9	A wise old owl sat atop a branch, looking out over the meadow, her intelligent eyes blinking softly.	5
+17	0	0	1	2	1	4	0	4	0	3	0	0	2	1	1	1	0	4.0	1	6	  The old dog sat on the front porch and watched the children play in the park.	5
+17	0	0	2	2	1	4	1	1	0	3	1	0	2	1	1	1	0	3.0	1	8	 The playful puppy chased its tail for five joyful leaps, jumping and barking with delight.	5
+12	0	0	2	2	0	3	0	2	0	2	0	0	1	1	1	0	0	3.0	1	5	   The little girl ran to the store, asking for candy.	5
+13	1	0	2	1	0	3	1	2	0	2	0	0	1	1	1	1	0	4.0	1	3	The playful dog barked loudly, earning the attention of its owner.	5
+25	1	1	2	3	0	7	3	3	0	3	0	0	2	2	3	2	0	7.0	2	5	The shimmering stream sang its melody, its rhythm dancing to life as it whispered secrets of a magical place deep within the forest.	5
+14	0	0	1	1	0	4	1	2	0	1	0	0	3	0	1	1	0	3.0	0	9	  The weary traveler found a shimmering oasis in their journey's darkest stretch.	5
+24	0	0	2	1	1	6	1	3	0	5	0	1	2	4	2	1	0	6.0	4	7	The young artist's creativity soared, her paintings revealing a universe bursting with colors and a hidden story waiting to be discovered.	5
+21	0	0	2	2	0	7	0	5	0	1	0	0	4	0	2	0	0	3.0	0	10	The vibrant city lights twinkled under the clear sky, each one a dazzling spark in the vast night sky.	5
+13	0	0	1	3	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	The young lady with vibrant eyes danced with joy in the moonlight.	5
+21	0	0	2	3	0	7	0	4	0	3	0	0	2	2	2	1	0	5.0	2	12	The old oak tree stood in silence, the branches swaying in the breeze like leaves singing a secret melody.	5
+18	0	0	2	1	1	4	0	4	0	2	0	0	4	1	1	1	0	4.0	1	6	  The playful kitten darted through the blossoming garden, enjoying the fragrant bloom and the soothing wind.	5
+16	0	0	3	3	0	3	1	3	0	2	0	0	0	1	1	0	0	4.0	1	3	  > Despite the rain, she decided to go for a walk in the park.	5
+30	0	0	3	6	0	9	1	4	0	3	0	0	4	0	1	1	2	7.0	2	19	The bustling city streets filled with vibrant life, buzzing with the sounds of diverse voices from all walks of life, painted a vivid image in my memory.	5
+18	0	0	2	2	1	5	1	2	0	3	0	0	2	1	1	2	0	4.0	1	5	A mischievous squirrel scampered through the forest, collecting sunflower seeds and dropping them at random intervals.	5
+18	0	0	4	2	0	4	1	2	0	1	1	1	1	0	2	1	0	3.0	0	7	"Sure, the sentence is ""She ate a sandwich with four different kinds of cheese."""	5
+16	1	0	1	0	1	5	1	2	0	2	1	0	1	0	1	2	0	4.0	0	6	The happy dog wagged its tail happily and licked the player's face five times.	5
+36	1	0	3	4	2	8	6	4	0	5	0	1	1	4	4	1	0	7.0	4	8	Despite her youthful exuberance, the artist's journey was marked by both triumphs and tragedies, ultimately finding her solace in the beauty she created and the warmth she brought to those she touched.	5
+25	0	0	2	3	2	5	0	4	0	2	0	1	6	0	2	0	0	4.0	0	12	The bustling city was painted with a vibrant array of colors, but the lone flower remained pale and unnoticed amongst the bustling crowds.	5
+16	0	0	2	1	0	4	0	3	0	2	0	0	4	1	1	2	0	4.0	1	5	The happy bird sang a joyful song, attracting a nearby audience of curious birds.	5
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	5
+10	0	0	2	1	0	3	0	1	0	2	0	0	1	1	1	1	0	3.0	1	5	Rain falls, painting the ground in shimmering patterns.	5
+20	3	0	1	3	0	4	0	2	0	1	0	2	4	0	1	0	0	4.0	0	8	  Even the most ingenious solutions to a seemingly insurmountable problem can be rendered meaningless by limitations in human understanding.	5
+6	0	0	1	0	0	1	1	1	0	2	0	0	0	1	0	0	0	2.0	1	2	There is no task given.	5
+10	0	0	2	0	1	1	2	1	0	2	0	1	0	0	2	1	0	2.0	0	7	I have no body, but I can fly.	5
+14	0	0	2	4	0	2	1	2	0	2	0	0	1	1	1	0	0	3.0	1	6	She sat down at the table, looking up with a satisfied smile.	5
+16	1	0	2	0	1	4	1	3	0	3	0	0	1	1	2	2	0	4.0	1	5	The rain fell gently, its melody filling the air and creating a serene atmosphere.	5
+17	0	0	2	2	1	4	0	3	0	3	0	0	2	1	1	1	0	4.0	1	8	The vibrant flowers swayed and swayed in the gentle breeze, creating a melody of beauty.	5
+21	0	0	3	2	0	5	1	3	0	3	0	0	3	1	1	2	1	5.0	2	9	The mysterious object, shrouded in a blanket of silence, unfolded its enigmatic silhouette to reveal an untold tale.	7
+13	0	0	1	3	0	5	0	3	0	1	0	0	0	0	1	0	0	3.0	0	9	The rain pours with an abundance of sound during the afternoon thunderstorm.	7
+22	0	0	2	3	1	6	1	4	0	2	0	0	3	0	1	1	1	4.0	1	10	Despite the chaos and uncertainty surrounding the election, the resilient citizens remained steadfast in their pursuit of a better future.	7
+27	0	0	2	5	0	8	0	3	0	3	0	0	5	2	1	1	0	6.0	2	11	The city's skyline shimmered with a mosaic of vibrant colors under golden hues, providing a breathtaking spectacle of modern culture juxtaposed with ancient history.	7
+15	0	0	4	0	2	3	1	1	0	2	0	0	2	1	2	1	0	5.0	1	3	"  ""I believe the future holds untold riches, both material and spiritual."""	7
+27	0	0	5	3	1	4	1	3	0	3	0	0	7	2	1	2	0	6.0	2	8	A vibrant sunset emerged, casting warm hues upon the tranquil lake, painting it with the breathtaking palette of orange, purple, and black.	7
+24	0	0	3	2	0	8	0	3	0	3	0	0	2	2	1	2	0	5.0	2	7	 **Rain's gentle symphony whispered secrets to the thirsty ground, urging the drooping flowers to bloom with the dawn's embrace.**	7
+23	1	0	2	4	0	6	0	4	0	2	1	0	3	1	1	1	0	4.0	1	11	The sun shone brightly in the vast sky with seven dazzling points, illuminating the peaceful landscape before the eyes of travelers.	7
+18	0	0	2	3	1	5	0	2	0	2	0	1	2	1	1	0	0	6.0	1	3	The bustling city is transformed into a wonderland, bustling with life amidst vibrant sights and sounds.	7
+26	0	0	4	4	0	7	2	4	0	3	0	0	2	1	1	1	1	5.0	2	10	The shimmering stream, its water swirling with an ethereal grace, meandered through the forest, leaving a trail of mystery in its wake.	7
+20	1	0	1	2	0	5	0	5	0	3	0	0	2	1	1	2	0	5.0	1	6	The raven perched on the window sill uttered a cryptic phrase in an attempt to communicate a cryptic message.	7
+20	1	0	2	3	1	4	2	3	0	3	0	0	1	1	1	1	0	6.0	1	6	She sat down on a bench and looked up at the stars, a wise smile gracing her face.	7
+19	0	0	2	2	0	6	0	3	0	2	0	0	4	1	1	2	0	3.0	1	7	The vibrant sunset painted the sky with golden hues, casting long shadows across the vibrant city streets.	7
+14	1	0	2	2	0	4	1	1	0	2	0	0	1	1	2	0	0	4.0	1	3	  The little girl giggled happily with joy, tears cascading down her face.	7
+18	0	0	3	2	0	4	0	3	0	1	1	0	4	0	1	1	0	3.0	0	7	The shimmering sun, like a radiant orb, adorned the celestial tapestry with seven illuminating specks.	7
+23	1	1	1	2	1	6	2	3	0	3	0	0	3	1	2	1	0	4.0	1	7	The young girl skipped into the bustling city park and laughed brightly as she rode her bicycle down the bustling city street.	7
+16	1	0	2	1	1	5	1	2	0	2	0	0	1	1	2	1	0	4.0	1	6	  The rain fell silently, its soothing song filling the air with serenity and peace.	7
+17	2	2	2	0	1	2	2	2	0	2	0	1	1	1	2	1	0	4.0	1	11	 She smiled brightly and held the baby close, as if it were a precious snowflake.	7
+22	2	0	2	2	1	6	1	4	0	4	0	0	0	2	2	1	0	4.0	2	8	   The cat sat upon the window sill and watched the birds fly away, his fur shimmering beneath the morning sun.	7
+13	0	0	1	2	0	3	1	2	0	2	0	1	1	1	1	1	0	5.0	1	3	We can enjoy the sunset with beautiful colors interspersed throughout the horizon.	7
+15	0	0	2	1	1	3	3	1	0	3	0	0	0	1	1	2	0	5.0	1	3	Despite her fear, she found the strength to persevere and accomplish her goals.	7
+16	0	0	2	2	0	5	0	4	0	2	0	0	1	1	1	2	0	4.0	1	8	A spider spun a web, creating a mesmerizing display of artistry in the twilight.	7
+18	1	1	3	3	0	3	2	1	0	2	0	0	2	1	2	0	0	3.0	1	9	  “I gazed up at the starlit sky as it gently blinked with soft golden light.”	7
+28	2	1	3	3	1	6	2	4	0	5	0	0	1	3	2	2	0	5.0	3	8	The little puppy barked happily, filling the house with laughter, bringing a smile to my face before it curled into a ball and fell asleep.	7
+40	2	1	5	3	2	9	7	3	0	6	0	0	2	3	3	5	0	7.0	3	9	She knelt down, took the ring out, and placed it carefully in her thumb, her expression radiating pure joy and excitement as she turned her gaze to the sky, an ethereal smile illuminating her face.	7
+28	0	0	5	3	0	6	2	4	0	3	0	0	5	2	1	2	0	4.0	2	10	The sun rose in the west, illuminating the sky with its soft, golden glow, casting a long, comforting shadow over our peaceful garden.	7
+26	2	0	4	3	1	8	1	3	0	2	0	0	2	1	2	0	0	5.0	1	9	The graceful swan danced gracefully through the crystal-clear pond, its swan-like neck and feathers shining brightly against the afternoon glow.	7
+18	0	1	1	3	0	5	1	4	0	2	0	0	1	1	2	1	0	4.0	1	7	The rain fell with an iridescent shimmer as it whispered secrets to the flowers on the porch.	7
+21	0	0	2	3	0	6	1	3	0	3	1	0	2	1	1	2	0	4.0	1	9	The mischievous child chased the shimmering rainbow with seven bright feathers, leaving a trail of laughter in its wake.	7
+16	0	0	2	1	1	6	0	3	0	1	0	0	2	1	0	1	0	3.0	1	7	The city lights twinkle and dance, illuminating the bustling streets with a soft glow.	7
+13	1	0	2	2	0	3	2	2	0	1	0	0	0	0	1	1	0	2.0	0	4	 Even without an instant, her eyes held a universe within them.	7
+28	0	0	3	3	1	9	0	4	0	2	0	1	4	2	1	1	0	7.0	2	10	  The bustling city square was alive with street performers, vendors, and families gathered to celebrate the vibrant culture of the city on a colorful day.	7
+20	1	0	3	1	0	4	1	3	0	2	0	0	5	1	2	1	0	3.0	1	8	A single, glowing cloud drifted down, its edges trailing a soft white line in the clear sky.	7
+17	1	1	2	2	0	4	0	4	0	3	0	0	0	2	2	0	0	4.0	2	6	  The cat sat quietly on the mat, watching as the sun rose in the sky.	7
+19	0	0	3	1	0	5	0	4	0	4	0	0	1	2	2	2	0	5.0	2	6	The rain poured, each drop echoing the city's lament, adding punctuation to the poignant serenade.	7
+27	0	0	2	5	0	6	4	3	0	2	0	1	4	1	2	0	0	4.0	1	8	On the seventh day of her stay, the girl was surprised by the vibrant sunflower in her front yard that grew without her conscious awareness.	7
+23	1	1	3	3	0	6	0	2	0	5	0	0	2	3	2	1	0	5.0	3	12	The sun rose with dazzling brilliance, illuminating the towering peak, while birds danced freely amidst flowers blooming in full color.	7
+36	2	1	3	4	0	8	3	7	0	4	0	0	3	3	3	3	0	5.0	3	12	She knelt down to feed the ducks on the pond, each of their tiny feet leaving a footprint on the smooth, polished stone as she gently tossed the seeds into the waiting beaks.	7
+16	0	0	1	3	1	3	1	3	0	2	0	0	2	0	1	1	0	3.0	0	7	  She sat upon the sturdy chair and gazed out the window with a thoughtful expression.	7
+17	0	0	2	2	0	5	0	4	0	2	0	0	2	1	1	0	0	5.0	1	4	  The curious cat leaped through the trees, the beautiful flower swaying on the summer breeze.	7
+22	0	0	2	4	0	6	1	3	0	2	0	0	4	1	2	0	0	5.0	1	5	A symphony of stars danced through the cosmic tapestry, their luminescent whispers echoing across the vast expanse of interstellar space.	7
+26	0	0	3	3	1	11	0	2	0	4	0	0	2	0	1	1	1	5.0	1	12	The bustling city streets, adorned by towering neon signs and illuminated street lamps, offer vibrant nightlife entertainment in a kaleidoscope of neon hues.	7
+16	0	0	2	1	0	4	3	2	0	3	0	0	1	2	3	2	0	5.0	2	6	She sat in silence, her eyes reflecting a quiet sadness that permeated the room.	7
+23	0	0	2	3	0	5	0	5	0	3	0	0	5	2	1	1	0	5.0	2	8	 The playful sun rose over the tranquil pond, casting a shimmering golden hue upon the vibrant lilies blooming along the shores.	7
+22	0	0	1	5	1	8	0	4	0	2	0	0	1	1	1	0	0	5.0	1	7	The rain fell with a symphony of wind chimes and the soft murmur of water flowing over stones in the river.	7
+21	0	0	2	2	0	5	1	4	0	3	0	0	3	1	1	2	0	3.0	1	16	 _The curious cat chased the shimmering light across the moonlit forest, leaving a glowing trail in its wake._	7
+26	0	0	2	5	1	9	0	6	0	3	0	0	0	2	1	1	0	6.0	2	13	The rain fell with the sound of wind chimes and the clinking of cups, enchanting the hearts of the people living in the countryside.	7
+21	1	1	1	1	1	3	4	2	0	5	0	0	1	3	3	2	0	6.0	3	4	The old house stood silently waiting for someone to open its door and tell it of the secrets it held.	7
+9	1	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	5	The rain poured silently for seven long hours.	7
+13	0	1	1	0	1	3	2	1	0	3	0	1	0	1	2	1	0	4.0	1	5	 I have completed my task and rested until the morning sun rose.	7

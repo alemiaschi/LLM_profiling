@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+5	0	0	0	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The dog is barking.	0
+13	0	2	0	0	0	3	4	0	0	0	2	0	2	3.0	5	1	1	1	0	0	0	1	The cat jumps onto the fence, basking in the afternoon sun.	0
+13	1	1	0	0	0	3	3	1	0	0	2	0	2	4.0	4	1	1	1	2	0	2	1	The clock strikes twelve, heralding the dawn of a new day.	0
+6	0	0	1	0	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The sun shines brightly today.	0
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The wind whispers secrets into the trees.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat sleeps soundly.	0
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The wind whispers secrets through the leaves.	0
+5	0	0	0	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The cat is sleeping.	0
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	A dog walks along a park path.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The flower blooms beautifully in the sun.	0
+10	0	1	1	0	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	0	0	0	1	"""The dog barks loudly at the mailman."""	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The wind blew gently through the trees.	0
+4	0	0	0	0	0	1	2	0	0	0	1	0	0	1.0	2	0	0	0	0	0	0	0	The cat naps.	0
+13	1	2	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	0	1	The pen danced across the parchment, leaving behind a perfect spiral.	0
+11	1	1	0	1	0	2	2	0	1	0	3	0	0	2.0	4	0	0	1	0	0	0	1	"""This is a sentence with no postverbal objects."""	0
+9	0	1	0	0	0	2	2	0	0	0	3	0	1	2.0	3	0	0	1	0	0	0	1	"""The cat sits on the mat."""	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The wind whistles through the trees.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	0	1	The sky is blue.	0
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	I am eating an apple.	0
+10	0	1	0	0	0	2	3	0	0	0	2	0	2	4.0	2	1	1	1	1	0	1	1	The clock chimed, signifying the passage of time.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sits on the mat.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The wind blows.	0
+11	0	1	0	0	0	2	4	0	0	0	2	0	2	3.0	4	1	1	1	2	0	2	1	The clock strikes midnight, illuminating the sky with stars.	0
+13	1	1	1	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The wind blew gently, leaving the leaves on the trees undisturbed.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat sleeps.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purrs happily.	0
+5	0	0	0	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The cat is sleeping.	0
+10	1	0	1	0	1	1	1	0	1	0	2	0	2	2.0	5	0	0	2	0	0	0	2	The wind howled ferociously, but I remained unfazed.	0
+9	1	2	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The red dog jumps up on the tree.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sat on the mat.	0
+5	0	0	0	0	0	1	1	1	0	0	1	0	1	2.0	1	0	0	1	1	0	1	1	The clock strikes twelve.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat sits on the mat.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The dog barks.	0
+9	0	0	1	0	0	2	2	0	0	0	2	0	2	3.0	3	1	1	1	1	0	1	1	The rain falls gently, soaking the ground.	0
+7	0	0	1	0	0	1	1	0	0	0	3	0	1	2.0	1	0	0	1	0	0	0	1	"""The dog sleeps soundly."""	0
+5	0	0	0	0	0	1	1	1	0	0	1	0	1	2.0	1	0	0	1	1	0	1	1	The clock strikes eight.	0
+11	2	1	0	0	0	2	2	0	0	0	3	0	1	2.0	4	0	0	1	0	0	0	1	"""The blue ball bounces on the red wall."""	0
+6	0	0	0	0	0	1	1	0	0	0	3	0	1	2.0	1	0	0	1	0	0	0	1	"""The cat sleeps."""	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat sleeps peacefully.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The dog barks.	0
+13	1	1	1	0	0	3	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The wind blew softly through the trees, creating a peaceful atmosphere.	0
+5	0	0	0	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The cat is sleeping.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	A bird flies through the sky.	0
+5	0	0	0	0	0	1	2	0	0	0	1	0	1	2.0	1	0	0	1	1	0	1	1	The clock strikes midnight.	0
+5	0	0	0	0	0	1	1	1	0	0	1	0	1	2.0	1	0	0	1	1	0	1	1	The clock strikes twelve.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat jumped onto the table.	0
+7	0	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	0	1	The book was on the table.	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun shines warmly upon my face.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The student read a book to the child.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+12	0	2	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	0	1	The cat jumped onto the table, landing on the books.	1
+14	0	3	0	0	0	3	4	0	0	0	2	0	2	4.0	5	1	1	1	0	0	0	1	A cat sat on a mat, playing with a ball of yarn.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The student completed the homework.	1
+10	1	1	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The student wrote a paper for the English class.	1
+11	0	1	0	0	0	3	3	0	0	0	2	0	2	3.0	4	1	1	1	1	0	1	1	The cat chased the ball, jumping onto the table.	1
+9	1	1	0	1	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The book was read by me last night.	1
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I read a book yesterday.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse into the garden.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball across the park.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The cat jumped onto the table.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat ate the fish.	1
+12	0	2	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	0	1	The cat jumped onto the table, landing on the fruit.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball into the tunnel.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse to the fence.	1
+7	1	0	0	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	1	0	1	1	I read the book last night.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball across the park.	1
+14	0	3	0	0	0	3	4	0	0	0	2	0	2	4.0	5	1	1	1	0	0	0	1	The cat jumped onto the table, landing on a plate of fruit.	1
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	I am reading a book.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball across the park.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat ate the fish.	1
+12	0	2	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	0	1	The cat sat on the mat, playing with the ball.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball into the box.	1
+11	0	2	0	0	0	3	3	0	1	0	1	0	1	4.0	3	0	0	1	1	0	1	1	I painted the portrait of the artist on the canvas.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball down the street.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The dog chased the ball.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball to the park.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	1
+10	0	1	0	0	0	3	3	0	0	0	2	0	1	2.0	6	0	0	1	1	0	1	1	The cat chased the mouse, into the tunnel.	1
+10	0	1	0	0	0	2	2	0	1	0	2	0	2	2.0	5	1	1	1	1	0	1	1	The cat sat on the mat, grooming itself.	1
+13	0	1	0	0	1	3	3	0	1	0	2	0	2	3.0	6	0	0	2	1	0	1	2	The dog chased the ball, and it landed in the park.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball across the park.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse down the alley.	1
+7	0	0	0	1	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The dog is chasing the ball.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat chased the ball.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The dog chased the ball across the park.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse into the house.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The cat chased the ball.	1
+9	0	1	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The student wrote a letter to their parents.	1
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	  The cat is sitting on the mat.	1
+16	0	3	0	0	0	4	5	0	0	0	2	0	2	4.0	7	1	1	1	1	0	1	1	The cat jumped onto the table, depositing a bowl of water on the floor.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the ball across the park.	1
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The dog chased the ball.	1
+11	1	0	0	0	1	3	4	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The student read the textbook and a novel last week.	2
+11	0	1	0	0	1	3	4	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The student handed the textbook and paper to the teacher.	2
+14	2	1	0	0	1	4	4	0	0	0	1	0	1	4.0	4	0	0	1	1	0	1	1	The chef prepared a delicious pasta and a fluffy cake for the family.	2
+17	2	2	0	0	1	3	4	0	2	0	1	0	2	3.0	7	0	0	1	2	0	2	1	The young girl gave the book to her friend and bought a new one for herself.	2
+11	0	0	0	0	1	3	3	0	1	0	1	0	2	3.0	6	0	0	2	2	0	2	2	The student submitted the assignment and the professor reviewed it.	2
+9	0	0	0	0	1	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The cat chased the ball and the mouse.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The student delivered the homework and the textbook to the teacher.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The farmer delivered the wheat and the fruit to the market.	2
+12	1	1	0	0	1	3	4	0	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	The painter painted the portrait and the canvas with vibrant colors.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The cat chased the ball and the rope towards the tree.	2
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The cat chased the mouse up the tree.	2
+14	0	1	0	0	1	4	6	0	0	0	1	0	1	3.0	10	0	0	1	1	0	1	1	The scientist gave the experiment report and the lab equipment to the professor.	2
+15	0	2	0	0	1	4	6	0	0	0	1	0	1	4.0	5	0	0	1	2	0	2	1	The chef served the guests a plate of pasta and a glass of water.	2
+13	0	1	0	0	1	4	4	0	0	0	1	0	2	3.0	5	0	0	1	2	0	2	1	The gardener watered the flowers and carried the plants to the greenhouse.	2
+13	1	1	0	0	1	4	4	0	0	0	1	0	1	3.0	9	0	0	1	1	0	1	1	The gardener watered the flowers and the roses at the same time.	2
+13	0	1	0	0	1	4	4	0	0	0	2	0	1	3.0	9	0	0	1	1	0	1	1	The cat chased the mouse and the ball, across the park.	2
+21	0	2	0	1	1	4	4	0	0	0	5	0	3	4.0	5	2	1	3	0	1	0	3	"Sure, the sentence generated is: ""The cat jumped over the fence and landed on the mat."""	2
+19	1	2	0	0	1	5	6	0	0	0	2	0	2	3.0	8	1	1	1	1	0	1	1	The dog barked at the bone and the tree, eliciting a barking response from the other dogs.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The student presented the textbook and the homework to the teacher.	2
+16	0	3	0	0	1	4	4	0	0	0	2	0	2	3.0	9	1	1	1	0	0	0	1	The cat jumped onto the table and onto the countertop, landing on the fruit.	2
+9	0	0	0	0	1	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The cat chased the ball and the string.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The cat chased the ball and the string to the park.	2
+9	0	0	0	0	1	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The dog chased the ball and the cat.	2
+13	0	1	0	0	2	4	4	0	0	0	1	0	1	3.0	9	0	0	1	1	0	1	1	The student submitted both the homework and the textbook to the teacher.	2
+11	2	0	0	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The plumber repaired the leaky faucet and the broken pipe.	2
+15	0	2	0	0	1	2	4	0	3	0	1	0	2	3.0	7	0	0	1	2	0	2	1	I wrote a letter to my mother and sent a gift to my brother.	2
+14	0	2	0	0	1	4	4	0	0	0	1	0	2	4.0	4	0	0	1	1	0	1	1	The cat chased the ball and string to the top of the tree.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The student handed the textbook and the homework to the teacher.	2
+12	1	1	0	0	1	3	4	0	0	0	1	0	1	4.0	3	0	0	1	1	0	1	1	The chef prepared a delicious meal for the family and friends.	2
+9	0	0	0	0	1	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The gardener watered the roses and the geraniums.	2
+9	0	0	0	0	1	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The cat chased the ball and the rope.	2
+13	0	1	0	0	1	4	4	0	0	0	2	0	1	3.0	9	0	0	1	1	0	1	1	The cat chased the mouse and the ball, across the park.	2
+18	0	2	0	0	1	6	6	0	0	0	1	0	2	3.0	9	0	0	2	2	0	2	2	The student gave the book to the teacher and the student wrote the essay for the teacher.	2
+12	0	1	1	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	1	1	The cat jumped onto the table, bringing the cheese along.	2
+11	0	1	0	1	1	3	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	The book was read to the child and the dog.	2
+9	0	0	0	0	1	3	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The gardener watered the flowers and the fruits.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The student read the book and the newspaper to the teacher.	2
+15	1	1	0	0	1	4	4	0	0	0	2	0	2	3.0	7	1	1	1	1	0	1	1	The cat chased the ball and the mouse, resulting in a playful encounter.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	6	0	0	1	1	0	1	1	The student read the book and the poem to the class.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The student read the book and the poem to the teacher.	2
+13	0	1	0	0	1	4	5	0	0	0	1	0	1	3.0	9	0	0	1	1	0	1	1	The student gave the textbook and the lecture notes to the teacher.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	4.0	3	0	0	1	1	0	1	1	The baker delivered the bread and the flowers to the customer.	2
+16	0	2	1	0	0	4	4	0	1	0	2	0	2	4.0	5	1	1	2	1	0	1	2	The cat chased the mouse to the park, where it played with the children.	2
+11	0	2	0	0	1	3	3	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cat jumped onto the table and onto the counter.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The cat chased the mouse and the ball across the park.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The student submitted the homework and the exam to the teacher.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The baker gave the bread and the butter to the customer.	2
+12	0	1	0	0	1	4	4	0	0	0	1	0	1	3.0	8	0	0	1	1	0	1	1	The chef prepared the soup and the bread for the guests.	2
+13	0	1	0	0	1	4	5	0	0	0	1	0	1	3.0	9	0	0	1	1	0	1	1	The cat chased the ball and the toy car down the street.	2
+12	1	1	0	0	1	2	4	0	1	0	1	0	1	4.0	3	0	0	1	1	0	1	1	The chef prepared a delicious meal for her family and friends.	2
+23	4	1	1	0	1	5	6	0	0	0	3	0	2	4.0	11	0	0	1	1	0	1	1	The chef expertly prepared a succulent roast beef, a hearty mashed potato, and a crisp green salad for the family.	3
+25	3	3	1	0	2	2	6	0	0	0	4	0	4	6.0	17	1	1	1	1	0	1	1	The chef meticulously prepared a hearty stew, garnished with fresh herbs, seasoned with salt and pepper, and served with warm bread.	3
+25	5	2	0	0	1	3	6	0	0	0	5	0	3	5.0	17	2	2	1	1	0	1	1	The chef crafted a flavorful soup, consisting of fresh vegetables, tender chicken, and aromatic herbs, resulting in a satisfying meal.	3
+13	0	0	0	0	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	1	0	1	1	The cat chased the ball, the mouse, and the string.	3
+16	0	3	0	1	1	4	4	0	0	0	2	0	1	3.0	8	0	0	1	0	0	0	1	The book was given to the student, along with a pencil and a pen.	3
+15	0	1	0	1	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	0	0	0	1	The book was read to the child, the dog, and the teacher.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	4.0	7	0	0	1	1	0	1	1	The chef prepared the soup, the bread, and the salad for the family.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	12	0	0	1	1	0	1	1	The cat chased the ball, the rope, and the mouse up the tree.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	4.0	7	0	0	1	1	0	1	1	The cat chased the mouse, the dog, and the ball across the park.	3
+17	0	1	0	0	1	5	5	0	0	0	3	0	2	3.0	13	0	0	1	1	0	1	1	The baker handed the sliced bread, the butter, and the fruit to the customer.	3
+14	1	0	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The chef prepared the stew, the crusty bread, and the salad.	3
+19	1	2	0	0	1	4	6	0	1	0	3	0	1	3.0	11	0	0	1	1	0	1	1	The gardener watered the flowers, the plants, and the vegetables as part of his daily routine.	3
+21	0	3	0	0	1	5	8	0	0	0	3	0	1	4.0	11	0	0	1	2	0	2	1	The baker gave the customer a loaf of bread, a slice of cheese, and a box of cookies.	3
+22	2	3	0	0	1	4	8	0	0	0	3	0	1	4.0	13	0	0	1	1	0	1	1	The chef prepared a feast of steaming seafood, a bouquet of fragrant flowers, and a pot of refreshing tea.	3
+22	2	1	0	0	1	5	7	0	0	0	4	0	2	5.0	8	1	1	1	2	0	2	1	The chef prepared a feast, comprising a roast beef, a succulent pie, and a bouquet of fresh flowers.	3
+18	0	3	0	0	0	5	5	0	0	0	2	0	3	5.0	7	2	2	1	1	0	1	1	The dog chased the ball towards the tree, resulting in the ball landing in the basket.	3
+22	1	3	0	0	1	5	8	0	0	0	3	0	1	5.0	9	0	0	1	2	0	2	1	 The student gave the teacher a bouquet of flowers, a box of chocolates, and a cup of hot tea.	3
+19	3	1	0	0	1	2	5	0	0	0	4	0	3	5.0	7	1	1	1	1	0	1	1	The chef prepared a sumptuous feast, consisting of roasted chicken, fluffy rice, and fresh vegetables.	3
+19	1	1	0	0	1	5	7	0	0	0	3	0	1	4.0	9	0	0	1	1	0	1	1	The chef prepared a delicious dinner, a side salad, and a fruit pie for the family.	3
+18	0	1	0	2	1	4	4	0	0	0	2	0	3	4.0	9	1	1	2	1	0	1	2	The book was given to the child, and the child was instructed to read the book.	3
+15	0	0	0	0	1	4	4	0	0	0	3	0	3	3.0	9	0	0	1	3	0	3	1	The gardener rearranged the roses, pruned the bushes, and watered the flowers.	3
+27	3	2	1	0	1	6	6	0	0	0	3	0	5	3.0	15	0	0	1	3	0	3	1	The chef meticulously prepared a delicious meal, served the steaming soup to the hungry guests, and presented the delectable dessert to the admiring diners.	3
+20	2	1	0	0	1	4	7	0	0	0	3	0	2	4.0	11	0	0	1	1	0	1	1	The chef prepared a steaming bowl of noodles, a succulent chicken curry, and a delicious fruit salad.	3
+16	0	1	0	0	1	3	6	0	0	0	3	0	2	3.0	12	0	0	1	1	0	1	1	The chef prepared a roast beef, mashed potatoes, and gravy for the family.	3
+16	0	1	0	0	1	5	5	0	0	0	3	0	1	3.0	12	0	0	1	1	0	1	1	The cat chased the ball, the rope, and the mouse up the tree.	3
+19	0	3	0	2	1	1	3	0	3	0	3	0	3	3.0	10	1	1	1	0	0	0	1	The book has been read by me, given to my friend, and shared with my family.	3
+13	0	0	0	0	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	1	0	1	1	The cat chased the ball, the mouse, and the string.	3
+18	1	2	1	0	0	4	5	0	1	0	2	0	2	5.0	5	1	1	2	2	0	2	2	The cat chased the mouse to the park, where it found a delicious piece of cheese.	3
+25	0	3	0	3	2	4	5	0	0	2	3	0	3	3.0	18	0	0	3	0	0	0	3	The book was given to Maria, and the letter was sent to the post office, and the package was delivered to John.	3
+25	0	3	0	0	1	7	10	0	0	0	3	0	1	4.0	19	0	0	3	2	0	2	3	The baker gave the child a loaf of bread, the cat a bowl of water, and the gardener a sack of soil.	3
+21	4	1	1	0	1	5	5	0	0	0	3	0	1	4.0	9	0	0	1	1	0	1	1	The chef meticulously prepared the fragrant stew, the fresh bread, and the delicate dessert for the hungry guests.	3
+19	3	0	0	0	1	4	7	0	0	0	3	0	1	3.0	11	0	0	1	1	0	1	1	The chef prepared a succulent tomato soup, a hearty vegetable stew, and a mouthwatering apple pie.	3
+17	0	1	0	0	1	5	6	0	0	0	3	0	1	3.0	13	0	0	1	1	0	1	1	The cat chased the ball, the rope, and the toy car across the park.	3
+16	2	1	0	0	1	2	6	0	0	0	3	0	1	4.0	7	0	0	1	1	0	1	1	The chef prepared a feast of steaming soup, hearty bread, and delectable pastries.	3
+17	2	1	0	0	1	2	5	0	0	0	3	0	3	4.0	7	0	0	1	1	0	1	1	The chef prepared a delicious meal of roasted chicken, mashed potatoes, and green beans.	3
+16	0	1	0	0	1	4	4	0	0	0	3	0	3	3.0	9	0	0	1	2	0	2	1	The student completed the homework, reviewed the textbook, and listened to the lecture.	3
+15	0	0	0	0	1	5	5	0	0	0	3	0	1	3.0	7	0	0	1	2	0	2	1	The teacher gave the student a book, a pen, and a dictionary.	3
+21	0	3	0	0	1	5	8	0	0	0	3	0	1	4.0	11	0	0	1	2	0	2	1	The baker offered the customer a loaf of bread, a slice of fruit, and a cup of tea.	3
+18	0	1	0	0	1	5	5	0	0	0	3	0	3	3.0	9	0	0	1	3	0	3	1	The cat chased the mouse, chased the dog, and chased the bird into the forest.	3
+13	0	0	0	0	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	1	0	1	1	The architect designed the building, the painting, and the sculpture.	3
+14	0	1	0	0	1	3	5	0	0	0	3	0	1	4.0	6	0	0	1	1	0	1	1	The chef prepared a meal of pasta, vegetables, and a dessert.	3
+13	0	0	0	0	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	1	0	1	1	The cat chased the mouse, the ball, and the string.	3
+23	3	1	1	0	1	5	8	0	0	0	3	0	1	3.0	18	0	0	1	1	0	1	1	The chef meticulously prepared a decadent chocolate cake, a fluffy soufflé, and a tantalizing fruit pie for the wedding reception.	3
+18	0	3	0	1	1	4	4	0	0	0	3	0	2	3.0	10	0	0	1	0	0	0	1	The book was read to the child, by the teacher, and enjoyed by the student.	3
+14	1	0	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The mechanic repaired the car, the tires, and the electrical system.	3
+13	0	0	0	0	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	1	0	1	1	The cat chased the ball, the mouse, and the string.	3
+26	3	3	0	3	1	4	6	0	0	0	3	0	3	3.0	17	0	0	3	0	0	0	3	The apple was sliced into thin slices, the mango was diced into small cubes, and the orange was juiced into a refreshing drink.	3
+20	0	0	0	0	2	7	6	0	1	0	2	0	2	3.0	14	0	0	2	3	0	3	2	The scientist gave the student the book and the teacher the paper, and they all read the article.	3
+16	0	3	0	0	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	0	0	0	1	The cat leaped onto the table, onto the counter, and onto the rug.	3
+24	2	2	1	0	2	3	8	0	0	0	4	0	2	5.0	12	1	1	1	2	0	2	1	The gardener meticulously arranged the flowers, vegetables, and herbs in separate beds, creating a vibrant tapestry of color and fragrance.	3
+32	0	6	0	0	1	2	12	5	0	0	5	0	1	4.0	21	0	0	1	1	0	1	1	The farmer distributed 5 bundles of wheat, 2 crates of oranges, 3 boxes of chocolates, 4 baskets of berries, and 1 sack of potatoes to the villagers.	5
+22	0	0	0	0	1	6	7	1	0	0	5	0	2	4.0	13	1	1	1	1	0	1	1	The traveler carried 5 packages including a box, a bag, a crate, a backpack, and a suitcase.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The cat chased the mouse, the ball, the rope, the string, and the banana to the park.	5
+19	0	0	0	0	1	6	6	0	0	0	5	0	1	3.0	13	0	0	1	1	0	1	1	The chef prepared a soup, a salad, a sandwich, a pie, and a cake.	5
+26	1	2	0	0	1	4	9	0	1	0	6	0	2	7.0	10	1	1	2	2	0	2	2	The chef crafted a delicious meal for the family, which included chicken, fish, pasta, vegetables, and a bouquet of flowers.	5
+21	1	2	0	0	1	3	8	0	0	0	5	0	1	4.0	17	0	0	1	1	0	1	1	The chef prepared a delicious meal of chicken, fish, pasta, rice, and vegetables for the family.	5
+21	2	0	1	0	1	2	7	0	0	0	5	0	3	3.0	13	0	0	1	1	0	1	1	The gardener meticulously watered the withered rose, overgrown jasmine, thirsty gerbera, neglected tulip, and wilting sunflower.	5
+25	1	2	0	0	1	3	10	1	0	0	6	0	1	4.0	10	0	0	1	1	0	1	1	The chef prepared a meal for the family with five different side dishes: rice, pasta, potatoes, bread, and vegetables.	5
+24	0	2	0	0	1	6	8	1	0	0	5	0	1	3.0	13	0	0	1	1	0	1	1	The gardener distributed five packages of seeds to the birds, the squirrels, the flowers, the fish, and the rabbits.	5
+29	3	1	1	0	1	7	10	0	0	0	5	0	1	3.0	24	0	0	1	1	0	1	1	The magician cleverly handed the diamond necklace, the silver goblet, the emerald ring, the ruby slippers, and the golden tiara to the eager spectator.	5
+18	1	1	0	0	1	2	7	0	0	0	5	0	1	3.0	14	0	0	1	1	0	1	1	The chef prepared the soup, bread, salad, pasta, and dessert with meticulous care.	5
+30	3	0	1	0	1	7	9	0	0	0	6	0	3	3.0	22	1	1	1	2	0	2	1	The magician effortlessly juggled the flaming ball, the delicate butterfly, the spinning sword, the mischievous cat, and the radiant rainbow, captivating the captivated audience.	5
+24	2	1	0	0	1	3	8	0	0	0	5	0	4	3.0	20	0	0	1	1	0	1	1	The chef served the sliced bread, roasted chicken, steamed broccoli, fresh salad, and fruit pie to the hungry diners.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The gardener gave the flowers, the cat, the dog, the hose, and the fertilizer to the plant.	5
+21	0	2	0	0	1	4	8	0	0	0	5	0	1	3.0	17	0	0	1	1	0	1	1	The chef presented the soup, bread, salad, fruits, and flowers to the family as a gift.	5
+30	1	5	0	1	1	5	7	0	2	0	7	0	1	3.0	21	0	0	1	0	0	0	1	The book, a novel, was given to the student, along with the teacher, as a gift, and its accompanying CD, for their review.	5
+21	0	1	0	0	1	5	7	0	1	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The chef prepared dinner, the soup, the bread, the salad, and the cake for his family.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The baker handed the loaf, the bread, the cake, the cookies, and the pastries to the customer.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The student presented the textbook, a textbook, the dictionary, a notebook, and a pen to the teacher.	5
+18	1	1	0	0	1	2	7	0	0	0	5	0	1	3.0	14	0	0	1	1	0	1	1	The gardener distributed flowers, fruits, vegetables, seeds, and fertilizer to the hungry animals.	5
+24	0	1	1	0	1	6	8	1	0	0	5	0	1	4.0	14	0	0	1	1	0	1	1	The gardener skillfully arranged five flowerpots, a basket, a hose, a trowel, and a watering can on the table.	5
+23	0	1	0	0	1	7	8	0	0	0	5	0	1	3.0	19	0	0	1	1	0	1	1	The student gave a book, a pen, a pencil, a calculator, and a whiteboard marker to the teacher.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The dog chased the cat, the rabbit, the squirrel, the lion, and the fox across the park.	5
+20	0	0	1	0	1	3	7	0	0	0	6	0	2	3.0	13	1	1	1	2	0	2	1	The magician expertly juggled the rope, ball, rabbit, feather, and dove, captivating the audience.	5
+23	0	1	1	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The librarian meticulously placed the book, the newspaper, the magazine, the dictionary, and the encyclopedia on the bookshelf.	5
+23	1	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The chef prepared a delicious meal for the family, the neighbors, the guests, the teacher, and the student.	5
+26	5	0	0	0	1	6	8	0	0	0	5	0	1	3.0	19	0	0	1	1	0	1	1	The chef prepared a delicious cake, a hearty soup, a succulent roast beef, a fluffy omelet, and a fresh fruit salad.	5
+17	0	1	0	0	1	3	7	0	0	0	4	0	1	3.0	13	0	0	1	1	0	1	1	The baker gave the flour, bread, eggs, butter and water to the customer.	5
+29	0	3	1	0	1	6	11	1	0	0	5	0	1	4.0	15	0	0	1	1	0	1	1	The magician skillfully tossed five playing cards, a parrot, a bouquet of flowers, a feather, and a bag of gold coins into the air.	5
+18	0	1	0	0	1	3	7	0	0	0	5	0	1	3.0	14	0	0	1	1	0	1	1	The baker gave the flour, sugar, butter, eggs, and fruit to the chef.	5
+25	1	1	0	2	1	4	8	0	0	0	6	0	2	5.0	18	1	0	1	1	1	1	1	The box containing the book, pen, pencil, rubber band, and the dog, is being carried by the young boy.	5
+27	4	1	0	0	1	6	9	0	0	0	5	0	1	4.0	20	0	0	1	1	0	1	1	The chef prepared a hearty soup, a fresh salad, a succulent roast beef, a steaming pot of coffee, and a delectable dessert.	5
+23	0	0	0	0	1	6	6	0	0	0	5	0	5	3.0	17	0	0	1	5	0	5	1	The cat chased the mouse, chased the rabbit, chased the goat, chased the sheep, and chased the cow.	5
+24	2	3	0	0	1	3	7	1	1	0	2	0	3	5.0	6	1	1	1	2	0	2	1	The magician's intricate illusion captivated the audience of five, leaving them with the indelible impression of floating pearls and cascading water.	5
+32	0	6	0	0	1	6	12	1	0	0	5	0	1	4.0	21	0	0	1	1	0	1	1	The farmer carried five baskets of grain, a sack of fruit, a bag of vegetables, a box of pastries, and a crate of water to the market.	5
+27	1	5	1	0	1	3	10	1	0	0	4	0	1	5.0	14	0	0	1	1	0	1	1	The gardener carefully handed the bouquet of roses, basket of fruit, bouquet of wildflowers, and two jugs of water to the thirsty traveler.	5
+20	0	2	0	0	1	3	8	0	0	0	5	0	1	4.0	16	0	0	1	1	0	1	1	The chef prepared a dish of pasta, chicken, vegetables, bread, and fruit for the family.	5
+33	0	6	1	0	1	5	12	2	0	0	5	0	1	4.0	21	0	0	1	1	0	1	1	The gardener meticulously planted five bushels of potatoes, two bundles of carrots, a sack of lettuce, a crate of cucumbers, and a bunch of herbs into the ground.	5
+34	0	5	0	0	1	9	11	0	2	0	5	0	1	4.0	25	0	0	1	1	0	1	1	The student wrote a letter to her parents, a story to her teacher, a poem to the wind, a song to the birds, and a prayer to the sun.	5
+19	1	1	0	0	1	3	7	0	0	0	5	0	1	3.0	15	0	0	1	1	0	1	1	The baker gave the flour, eggs, butter, honey, and orange juice to the customer.	5
+24	5	0	0	0	1	6	6	0	0	0	5	0	1	3.0	17	0	0	1	1	0	1	1	The chef created a delectable soup, a nourishing broth, a fragrant stew, a fluffy omelet, and a succulent salad.	5
+35	1	7	0	1	1	7	12	0	0	0	5	0	1	5.0	26	0	0	1	0	0	0	1	A bouquet of fresh flowers, a basket of fruits, a bottle of water, a box of chocolates, and a packet of pastries were arranged on the table by the chef.	5
+18	0	1	0	0	1	3	7	0	0	0	5	0	1	3.0	14	0	0	1	1	0	1	1	The chef prepared a dish, soup, salad, bread, and dessert for the family.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The baker delivered the bread, the cake, the pie, the cookies, and the tarts to the customer.	5
+34	0	0	0	0	2	11	11	0	0	0	9	0	1	5.0	28	0	0	1	1	0	1	1	The painter gifted the artist, the sculptor, the photographer, the musician, and the poet a painting, a sculpture, a photograph, a song, and a poem.	5
+22	0	1	2	0	1	3	7	0	0	0	6	0	2	3.0	17	0	0	1	1	0	1	1	The gardener carefully placed the tulip, rose, narcissus, sunflower, and lavender in the well-kept flowerbed.	5
+23	0	0	0	0	1	6	6	0	0	0	5	0	5	3.0	17	0	0	1	5	0	5	1	The cat chased the butterfly, chased the rabbit, chased the mouse, chased the bird, and chased the fish.	5
+41	0	0	0	0	1	15	15	0	0	0	5	0	5	3.0	33	0	0	5	10	0	10	5	 The doctor gave the patient a pill, the nurse gave the patient a transfusion, the surgeon gave the patient a scalpel, the hygienist gave the patient a toothbrush, and the pharmacist gave the patient a prescription.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	4.0	13	0	0	1	1	0	1	1	The baker gave the loaf, the bread, the pastries, the cookies, and the cakes to the customer.	5
+20	0	2	0	0	1	2	8	1	0	0	5	0	1	4.0	16	0	0	1	1	0	1	1	The gardener distributed five bouquets of roses, marigolds, carnations, chrysanthemums, and lilies to the customers.	5

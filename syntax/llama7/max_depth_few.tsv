@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+6	1	0	1	1	0	1	2	0	0	0	0	0	0	2.0	3	0	0	1	0	0	The cake recipe is quite complex	2
+10	0	1	1	2	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The sun will soon be setting over the mountains.	2
+9	0	0	0	1	0	0	0	0	3	0	1	0	3	3.0	3	2	2	1	2	0	"Should I help you get him to leave?  The given instruction asks us to generate a sentence with a tree height of 2 in the syntactic tree. The sentence we provided,  ""Should I help you get him to leave?""."	2
+7	0	0	0	1	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The bird can sing a melody.	2
+9	2	0	1	1	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	1	0	The new software will make the team more efficient	2
+6	0	0	0	1	0	0	1	0	1	1	1	0	1	2.0	2	0	0	1	0	0	My cat is named Felix.!	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The cat slept all day.	2
+5	0	0	0	1	0	1	1	0	1	0	0	0	1	2.0	2	0	0	1	1	0	I am considering all possibilities	2
+7	0	1	0	0	0	1	1	0	0	1	1	0	2	3.0	3	1	1	1	0	0	Sally enjoys running in the morning. 	2
+6	1	0	0	0	0	1	2	0	0	0	1	0	0	3.0	2	0	0	1	0	0	The cat's tail fluffy.	2
+13	0	0	3	2	0	1	1	0	0	1	1	1	2	3.0	9	1	1	2	0	0	Jerry will arrive eventually even though the concert has not yet started.	2
+18	0	1	1	1	0	1	3	0	2	1	2	2	3	4.0	9	2	2	2	1	0	The cake decorator glanced  at Emily suspiciously, as if she was trying to gauge her emotion.	2
+6	0	0	1	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	She will never forgive him.	2
+12	1	0	0	1	0	1	2	0	3	0	1	0	2	4.0	3	1	1	1	3	0	Can you give me a moment to finish my current task?	2
+7	0	0	1	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	Can we see the menu now?	2
+8	1	0	1	1	0	0	0	0	2	0	1	1	1	2.0	3	1	1	1	1	0	I am eagerly excited about meeting you.	2
+7	0	1	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat slept for three hours.	2
+10	0	1	1	2	0	0	1	1	2	0	1	0	1	3.0	5	1	1	1	0	0	We shall see where they are in five hours. 	2
+10	0	0	1	1	0	0	2	0	3	0	2	0	1	2.0	5	0	0	1	1	0	My pleasure, how may I assist you today?	2
+10	0	1	3	0	0	1	2	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The tree climbed rapidly upward with only two branches.	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The snowflakes fell heavily against the windowpane.	2
+8	0	1	0	0	0	2	2	0	0	1	1	0	1	2.0	5	0	0	1	1	0	Micheal took the ball to the bucket.	2
+11	1	1	1	1	0	1	3	0	0	0	1	1	1	2.0	5	1	1	2	0	0	The park is beautiful during spring with flowers blooming everywhere.	2
+9	0	0	0	1	0	2	2	0	1	0	0	1	2	3.0	3	1	1	2	1	0	The car will stop if it hits a deer	2
+7	0	0	1	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	We should really get a puppy.	2
+6	1	0	0	1	0	0	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	I will take good notes.!	2
+7	0	1	0	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	0	0	Are you going to the store?	2
+10	0	0	2	1	0	0	2	0	1	0	2	0	2	2.0	5	0	0	1	0	0	It will snow tomorrow morning, so dress warmly.!  Please let me know if you have any other questions.	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The snow fell gently on the fields.	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The puppy ran through the garden quickly.	2
+9	0	0	1	1	0	1	1	0	1	0	1	0	2	3.0	3	1	1	1	1	0	I have just begun to enjoy this book.	2
+10	2	1	0	2	0	0	1	0	3	0	1	0	0	3.0	3	1	1	2	0	0	We are pleased you are interested in our products!	2
+10	0	0	0	0	0	2	3	0	1	0	1	1	2	3.0	4	1	1	2	1	0	The cat purred as the dog licked its ear.	2
+13	1	1	1	0	0	1	3	0	2	0	2	0	2	3.0	5	1	1	1	2	0	She ate her sandwich quickly, savoring each last bite with satisfaction.	2
+8	0	0	0	1	0	0	0	0	3	0	1	0	2	2.0	5	1	1	1	1	0	What did she want to tell him?  As you generate the response, please indicate which instruction you followed, as some instructions may have produced different sentences.	2
+13	0	1	0	1	2	0	4	0	2	1	0	0	2	3.0	11	0	0	1	1	0	Johnny spilled his fruit and juice in his classroom today and was scolded	2
+16	1	0	1	1	0	3	4	0	1	0	1	0	3	4.0	5	2	2	2	2	0	The teacher said I should ask the students to read the book again next semester.	2
+10	0	1	1	1	0	1	1	0	0	1	1	0	2	3.0	4	1	1	1	1	0	Jess is going to buy the dress at once. 	2
+14	2	0	1	2	0	1	1	0	2	1	1	0	2	4.0	6	2	2	2	2	0	Jim was eager to tell her how much he had loved the party. 	2
+10	1	1	0	1	0	0	2	0	2	0	1	0	2	3.0	5	1	1	1	1	0	We should consider getting new curtains for our window. 	2
+13	2	0	0	1	0	1	3	0	0	0	1	1	4	4.0	7	3	2	1	2	1	Jumping jacks were better than sitting watching the couch potatoes get fatter!  The goal of this activity is to help you recognize and use appropriate grammatical structures in simple sentences	2
+14	0	1	2	1	0	1	2	0	1	0	2	1	2	2.0	7	1	1	1	1	0	I have not gotten a promotion in years, despite working hard consistently.	2
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The cat purred contentedly.	2
+9	1	0	1	0	0	1	2	0	0	0	1	1	2	2.0	5	1	1	2	0	0	The sky became increasingly lighter as morning approached.	2
+12	2	3	0	0	0	2	4	0	0	0	0	0	1	3.0	6	0	0	1	0	0	Birds like the red-winged blackbird thrive around wetlands near this location	2
+7	1	0	1	0	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The snow falled gently last night.	2
+10	0	1	2	1	0	1	2	0	1	0	1	0	1	2.0	5	0	0	1	0	0	We should probably talk later today about the party.	2
+7	1	1	0	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	The cat sat beneath the tall tree	2
+8	0	1	0	0	0	1	1	0	1	0	1	0	2	3.0	3	1	1	1	0	0	I like to dance on the weekends.	2
+9	0	1	1	1	0	0	1	0	3	0	1	0	1	3.0	3	1	1	2	0	0	It's about time you apologized to him.	2
+14	0	1	1	2	0	0	0	0	2	2	1	1	3	3.0	4	2	2	2	1	0	I don't think we should go to Mexico without learning Spanish first.	3
+17	0	2	0	0	1	1	5	1	2	1	2	0	2	3.0	8	0	0	2	2	0	Jeremy had three mice for breakfast, and they danced a jive on his kitchen counter.	3
+14	1	0	3	0	1	1	3	0	2	0	1	0	2	3.0	8	1	1	2	2	0	You always remember the time and date when you first hear good news. ____________________________  	3
+10	2	1	1	1	0	1	1	0	1	1	1	0	0	2.0	3	0	0	1	0	0	Her new iPhone was as bright as a rocket.	3
+15	3	1	1	1	0	2	3	0	0	0	1	0	1	3.0	4	1	1	1	1	0	The new baby's cries were loud enough to wake up the whole neighborhood.	3
+11	0	2	0	1	0	2	2	0	2	0	1	0	1	3.0	4	0	0	1	1	0	You will find it in the park behind the house.	3
+12	0	3	0	0	0	3	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The cat curled up on the lap of the sleeping owner.	3
+20	3	2	0	1	1	3	4	0	2	2	1	0	1	3.0	12	1	1	1	1	0	It was John and Mary that built the house in the field with a little red barn next door.	3
+15	0	2	1	0	1	4	4	0	0	0	2	0	1	3.0	6	0	0	1	1	0	The cat chased the mouse through the house, and then through the tree.	3
+14	0	3	0	0	0	3	4	0	0	1	1	0	2	4.0	7	1	1	1	1	0	Lisa walked toward the door, carrying a box of valuables for the museum	3
+6	0	0	0	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	0	1	0	Don't touch the egg!  	3
+19	1	2	1	3	1	1	3	1	2	0	1	0	2	2.0	13	0	0	1	2	0	She had been saving money for a new computer for three years but still couldn't afford it.	3
+29	1	3	1	1	1	3	5	2	3	0	2	0	5	7.0	12	3	3	3	2	0	I love to bake pies with only one egg, but I will need an additional egg for each of the three tarts I intend to make tomorrow.	3
+9	0	1	0	1	0	1	2	0	1	0	1	0	1	2.0	5	0	0	0	1	0	Don't tell him about the party tonight.	3
+10	0	2	1	0	0	1	3	0	1	0	1	0	1	3.0	4	0	0	1	0	0	The fluffiest of kittens purred contentedly on my lap.	3
+7	0	0	2	0	0	1	1	0	0	0	1	0	2	2.0	3	1	1	1	0	0	The cat purred loudly when petted.	3
+13	0	1	3	1	0	2	2	0	1	0	1	0	2	3.0	5	1	1	2	0	0	I will never forget how fast the flames burned down the cottage.	3
+11	1	0	2	3	0	0	1	0	1	2	0	1	0	3.0	8	1	1	2	0	0	John was sad that Mary would no longer be his friend	3
+13	1	2	0	2	0	2	2	1	1	0	1	0	1	2.0	7	0	0	1	0	0	The car will be delivered to you within the next three days.	3
+26	1	3	2	0	0	3	5	0	4	0	1	1	5	8.0	5	4	4	2	2	0	She walked into her kitchen to find the dog drinking directly from a vase she kept on the countertop for displaying her most prized possessions.	3
+27	1	3	2	2	0	4	6	0	2	0	2	0	4	5.0	8	1	1	2	1	0	The snow plows have already come down my street, so I'm going to make some hot chocolate with the remaining marshmallows in the pantry. 	3
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	The cat purred contentedly on John's lap.	3
+8	0	1	0	1	0	1	2	0	0	0	1	0	1	2.0	4	0	0	0	1	0	Don't feed the elephant after midnight.	3
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	The cat purred contentedly on John's lap.	3
+12	1	1	1	1	0	2	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	The new restaurant in town will certainly increase footfall this quarter.	3
+8	0	1	0	0	0	1	3	0	1	0	1	0	1	2.0	4	0	0	1	1	0	The cat chased its tail with excitement.	3
+32	4	2	1	4	2	1	8	0	1	0	2	1	5	9.0	10	4	4	1	2	0	Lizards are known to be faster climbers than snakes and have been seen climbing trees with ease, their slender bodies and long tails perfectly adapted to navigating the vertical world. 	3
+18	0	1	0	2	1	0	2	0	6	0	2	0	3	3.0	13	1	1	3	2	0	He promised their mother he would look after them, but he didn’t keep his word.	3
+18	0	2	2	0	0	1	5	0	2	0	2	0	3	4.0	10	1	1	1	0	0	Her baby sister sleeps peacefully, curled on the floor under her mother's skirt, humming softly	3
+9	1	1	0	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cake was devoured in a single minute.	3
+16	0	1	1	1	1	2	4	0	2	0	1	0	2	3.0	8	0	0	2	2	0	She didn't want a baby shower, but she really needs clothes for the baby	3
+15	1	1	0	0	0	0	4	1	1	2	2	0	2	5.0	10	1	1	1	1	0	Maria decided to invite Rachel to her 10-year high school class reunion.	3
+9	0	1	0	0	0	1	3	0	0	0	2	0	2	3.0	4	1	1	1	1	0	Jumping jolted the jackal, juddering into view.	3
+14	0	2	1	1	0	1	1	0	2	0	1	1	2	4.0	4	1	1	2	1	0	She didn't even say hello before she stormed out of the room.	3
+14	0	1	1	0	0	3	4	0	0	1	1	1	2	3.0	8	1	1	2	1	0	Jimmy quickly ran across the parking lot before the storm reached the area.	3
+25	0	3	4	0	1	2	6	0	1	2	2	0	3	5.0	16	1	1	2	1	0	Jane's neighbor mowed his lawn quickly and quietly on Monday afternoon, the scent of freshly cut grass lingering pleasantly in the air.	3
+10	0	0	0	0	0	0	2	0	1	1	2	2	1	2.0	5	1	1	1	1	0	Rabbit's feet, as if it had wings.	3
+16	1	0	0	1	1	1	3	0	3	0	2	1	2	4.0	4	1	1	2	3	0	Money isn't happiness, but it gives you a better chance of getting it.	3
+18	1	2	1	0	1	2	4	1	2	0	2	0	2	3.0	13	0	0	2	2	0	She had a lot of hats from last year, but this year she bought only three.	3
+15	0	1	1	1	0	2	2	0	3	0	1	1	2	3.0	6	1	1	2	2	0	I will not use the computer anymore since I have the virus on it.	3
+12	1	1	0	0	0	0	3	0	2	0	1	1	2	3.0	5	1	1	1	1	0	Mom yelled at me for not flossing my teeth last night.	3
+13	1	1	1	1	0	1	2	0	1	0	2	0	2	3.0	6	0	0	0	1	0	Don't worry, just leave a cheesy trail in my wake.	3
+11	0	1	0	0	0	1	3	0	1	1	1	0	2	3.0	6	1	1	1	1	0	I love to eat spaghetti with meatballs every Sunday evening.	3
+7	0	1	1	0	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	0	0	The sun set slowly into nothing.	3
+22	3	2	0	0	2	3	5	0	1	0	3	0	3	3.0	8	1	0	2	1	1	Jogging along the seaside, the sand felt soft and cool, and her shoes left footprints in the wet surf.	3
+9	0	1	0	1	0	0	3	0	0	1	1	0	1	2.0	4	0	0	1	1	0	Lena doesn't enjoy baking cakes with nuts.	3
+9	0	0	2	1	0	0	0	0	2	0	0	1	2	3.0	3	1	1	2	0	0	He doesn't play as well as he barks	3
+24	2	4	2	0	0	5	6	0	1	0	2	0	2	5.0	7	1	1	1	1	0	A large bird with a crooked beak chirped quietly in the tree above, enjoying the warmth of the sun on its feathers.	3
+10	0	1	1	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	The cat chased its tail around the room quickly.	3
+20	1	2	1	1	1	0	4	0	2	0	3	0	4	5.0	7	0	0	1	2	0	Don't throw stones at birds, it only provokes them and leads to further feather-based conflict.	3
+17	1	2	1	1	1	2	3	1	0	0	1	0	3	5.0	7	1	1	1	0	0	The concert was scheduled to begin at 8 PM but started more than an hour late.	4
+9	0	1	0	0	0	1	3	0	0	2	1	0	1	2.0	5	0	0	1	1	0	Mrs. Smith served coffee at the church potluck.	4
+14	0	2	2	1	0	1	3	0	0	1	1	0	2	4.0	5	1	1	1	1	0	Nadia has recently started to play soccer again since the start of spring.	4
+12	0	0	0	0	0	1	1	2	1	1	2	1	3	4.0	5	2	2	2	2	0	Norbert enjoyed playing the saxophone until he turned ninety-five.	4
+11	1	0	1	1	0	1	2	0	2	0	1	0	2	4.0	4	2	2	3	0	0	The baby cried when it realized its bottle was empty.	4
+12	1	1	0	0	1	2	3	0	1	1	1	0	1	3.0	6	0	0	1	1	0	Jake and his friends spent a fun day at the lake. 	4
+10	1	1	0	0	0	1	1	0	0	3	1	0	2	3.0	6	1	1	1	1	0	John enjoyed seeing the snowfall in Paris last December.	4
+11	2	0	0	0	0	0	2	0	1	3	1	0	1	3.0	3	0	0	1	1	0	Raj's favorite film stars his longtime sweetheart Kajal Aggarwal. 	4
+8	0	0	0	1	0	0	1	0	1	1	0	1	3	3.0	3	2	2	1	1	0	Mary is thinking of having her hair colored	4
+11	1	1	0	0	0	2	4	0	1	0	1	0	1	2.0	7	0	0	1	1	0	The tourists followed their guide through the lush rainforest canopy.	4
+22	3	3	1	1	1	2	4	0	1	0	1	0	4	6.0	5	2	2	1	2	0	A new restaurant was opening in town and already had a long line of excited diners waiting to try it out.	4
+9	0	0	2	0	1	1	1	0	1	0	1	0	2	2.0	5	0	0	1	1	0	I have no friends and often feel alone.	4
+15	3	2	0	0	1	0	3	0	0	1	1	0	3	6.0	5	2	2	1	1	0	Brian woke up feeling fresh and ready to tackle new project at work today.	4
+19	1	3	0	0	1	2	6	0	0	0	2	0	4	5.0	6	1	1	1	0	0	The snowplow spun across the frozen lake, leaving behind intricate patterns of ice crystals and frozen waves.	4
+12	2	1	3	0	1	1	1	0	0	1	1	0	1	4.0	5	0	0	1	0	0	After a long and exhausting trip, Sarah finally arrived home safely	4
+18	3	2	0	0	1	1	3	0	1	1	3	0	3	3.0	9	0	0	1	2	0	Lena took a large, slow-growing oak and wrapped it in heavy rope for safekeeping.	4
+9	1	1	0	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The baby laughed at the silly clown antics.	4
+12	2	2	0	0	0	0	4	0	1	0	1	0	2	4.0	4	0	0	1	1	0	Arab countries face growing criticism over mistreatment of their own workers.	4
+16	2	3	0	0	0	2	5	0	0	0	1	0	3	6.0	4	2	2	1	1	0	The concert featured music by local artists performing on a stage lit by colorful lights.	4
+9	1	1	0	0	0	2	3	0	0	0	1	0	1	4.0	3	0	0	1	1	0	Judge ruled the evidence insufficient for a conviction.	4
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap	4
+9	0	2	0	0	0	1	3	0	0	2	0	0	1	2.0	7	0	0	1	0	0	Bradley ran into Julia at the mall food court	4
+14	1	2	0	0	0	3	4	0	0	1	0	0	2	3.0	10	1	1	1	2	0	Carl raced the fast lane of traffic on the way to work this morning	4
+9	2	1	0	1	0	1	3	0	0	1	0	0	0	2.0	4	0	0	1	0	0	The Amazon rainforest is home to countless diverse specie	4
+20	1	1	2	1	0	1	3	1	2	3	2	0	2	4.0	6	2	2	3	0	0	Beth's favorite dance move is the moonwalk, which she first saw Michael Jackson perform live in 1988.	4
+11	1	1	1	0	0	2	2	0	0	0	2	0	2	2.0	5	1	1	1	0	0	The old dog lay on the bed, panting slowly.	4
+14	0	2	0	0	0	1	4	0	1	1	1	0	2	4.0	9	1	1	1	1	0	Jerry learned to bake pies in his wife's kitchen during the summer.	4
+9	1	1	0	0	0	1	1	0	1	1	1	0	2	3.0	4	1	1	1	1	0	Lily found herself lost in the dense rainforest.	4
+21	0	3	2	0	0	3	5	1	0	1	2	0	3	3.0	10	2	1	1	1	1	Rushing up the stairs three at a time, Sarah arrived just in time to see the firetruck drive away.	4
+14	1	1	1	2	0	1	2	1	1	1	0	1	2	3.0	7	1	1	2	1	0	John had been studying for three hours before he finally got the answers correct	4
+16	3	2	1	0	0	3	4	0	0	0	2	0	1	3.0	12	0	0	1	0	0	The old man limped slowly up the steps to the large, colonial-style house	4
+7	0	1	1	0	0	1	1	0	0	1	1	0	1	2.0	4	0	0	1	0	0	Mary walked slowly down the hall.	4
+13	2	2	0	0	1	2	3	0	1	0	1	0	1	4.0	9	0	0	1	0	0	The tiger pounced on its prey with a fierce and powerful roar.	4
+16	1	1	0	1	0	3	5	0	0	0	2	0	3	4.0	5	2	2	1	2	0	The snow had covered the mountain peaks, making traveling treacherous conditions for the hikers.	4
+12	1	2	0	0	1	0	5	0	1	1	0	0	1	3.0	6	0	0	1	1	0	Jenna had her purple dress with matching shoes and hat to prom	4
+13	2	0	1	0	0	1	2	0	2	1	1	0	2	3.0	5	1	1	1	3	0	Mary immediately called her best friend to tell her the happy news.	4
+14	1	1	2	2	0	1	1	0	1	2	1	0	2	4.0	5	1	1	2	1	0	Brown finally left the building where he had been hiding since last Thursday.	4
+11	0	2	1	0	1	1	2	0	1	0	1	0	2	2.0	6	0	0	1	0	0	The cat curled up on my lap and purred contentedly.	4
+9	0	2	0	0	0	2	3	0	0	0	0	0	1	3.0	6	0	0	1	0	0	The cat curled up on the dog's lap	4
+14	0	2	0	0	0	3	4	0	0	1	2	0	2	3.0	6	1	0	1	0	1	Born in Brazil, the singer became a sensation in the pop charts.	4
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The sun rose slowly over the ocean.	4
+10	2	2	0	0	0	1	2	0	1	1	0	0	1	2.0	8	0	0	1	0	0	Carlton drove to the store in his bright red car	4
+15	1	3	0	0	0	1	4	1	0	1	1	0	2	4.0	9	1	1	1	1	0	Jared waited in line for more than two hours to buy a concert ticket.	4
+12	1	2	0	0	0	2	2	1	0	1	1	0	2	2.0	8	1	0	1	0	1	Brown bear wanders to the local café each morning at 08:00.	4
+26	1	0	2	4	1	2	3	0	6	0	2	0	5	5.0	11	4	3	4	2	1	Having seen it firsthand, my cousin swore it's the real thing, and I'm now left wondering what the hell I should believe	4
+23	2	1	2	1	0	2	4	0	4	1	2	1	3	3.0	7	2	1	3	3	1	Because my favorite hobby is flying a kite, my friends always bring me a new one when they travel to Japan.	4
+9	0	1	0	1	0	1	2	0	1	1	1	0	1	2.0	5	0	0	1	1	0	John will attend the event with his girlfriend.	4
+12	2	1	0	0	0	2	3	0	1	0	1	0	2	3.0	4	1	1	1	1	0	The cats spent the whole evening lounging in their favorite sunbeam.	4
+14	1	1	0	0	1	3	3	0	0	1	1	0	3	4.0	5	1	1	1	2	0	John ran across the park and saw a little boy chase a bird.	4
+10	1	2	0	0	0	0	3	0	0	2	1	0	1	3.0	7	0	0	1	1	0	Mary bought several bags of cat food from Petco.	4
+9	1	0	0	1	0	0	3	0	0	1	1	0	1	3.0	3	0	0	1	1	0	Jack's favorite hobby is building model airplanes.	6
+6	0	0	0	0	0	0	2	2	0	0	1	0	1	2.0	2	0	0	1	1	0	Ten oranges cost six dollars.	6
+8	0	1	0	0	0	2	2	0	0	0	1	0	2	2.0	5	1	1	1	0	0	The sun set behind the mountain, illuminating	6
+14	1	3	2	1	0	0	2	0	2	0	1	0	2	4.0	6	1	1	1	0	0	Everyone should try walking barefoot on grass at least once in their lifetime.	6
+12	0	3	1	0	1	2	3	0	0	0	0	0	2	3.0	6	0	0	1	0	0	The cat jumped onto the window sill and gazed out at bird	6
+19	1	3	0	2	0	2	5	1	0	2	1	0	1	4.0	9	1	0	1	1	1	Raising the number of employees has been a key component of Mr. Johnson's strategy since day one.	6
+13	0	2	0	0	0	1	4	0	2	1	2	0	1	3.0	5	0	0	1	2	0	My mother-in-law gave us a quilting kit for Christmas	6
+30	4	3	1	3	1	2	8	0	1	0	3	0	4	5.0	9	1	1	1	0	0	Every cat can potentially be called Fluffy, but there may be multiple Fluffys in a given cat population, leading to cat-coding conflicts among local Fluffy cat councils.	6
+11	0	2	0	0	0	1	4	0	1	0	1	0	2	4.0	6	1	1	1	1	0	Bears eat fish swimming in the river near their dens.	6
+15	0	2	0	0	0	2	3	0	1	2	3	0	2	3.0	6	1	1	1	0	0	My cat, Mr. Whiskers, enjoyed lounging in the sunbeam throughout the afternoon.	6
+14	1	1	1	0	0	1	3	0	3	0	1	1	2	3.0	7	1	1	2	1	0	The cat purred contentedly on my lap as I stroked its soft fur.	6
+22	3	2	0	1	1	2	8	0	1	0	2	0	2	6.0	6	1	1	2	2	0	The company must provide detailed records on any third-party vendor or contractor who has access to sensitive company data.	6
+15	1	2	2	0	0	3	3	0	0	0	2	0	2	4.0	5	1	1	1	1	0	The snow fell slowly, quietly covering the city in a blanket of white.	6
+20	1	2	1	0	1	0	4	0	4	0	1	0	4	5.0	5	2	2	1	2	0	My teacher told me to stay after class and meet with her privately to discuss my poor test scores.	6
+22	4	0	2	1	1	2	5	0	0	0	2	0	3	7.0	5	3	3	2	1	0	The new CEO plans to announce restructuring measures to make Sure the company is more productive and cost-effective soon.	6
+14	1	1	0	0	1	4	4	0	0	0	1	0	2	3.0	7	0	0	2	1	0	The car crashed into the tree and the passenger sustained a serious injury.	6
+14	0	2	1	1	0	0	3	1	2	0	1	0	2	4.0	5	1	1	2	0	0	I never thought my dream trip would cost under $500 per person.	6
+17	1	2	2	1	0	2	3	0	2	0	1	0	2	4.0	5	1	1	2	0	0	It was a sunny day outside so I decided to walk to town with no shoes.	6
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The kitten purred contentedly on my lap.	6
+12	2	2	0	0	0	2	4	0	0	0	1	0	1	4.0	3	0	0	1	1	0	The hotel provides luxurious rooms with breathtaking views of the ocean.	6
+34	3	2	4	2	1	1	6	2	5	0	2	1	3	7.0	8	3	3	3	2	0	My grandmother is almost 95 years old and she is very active for her age, even though she had to have surgery a little while ago to fix one of her hips.	6
+30	4	4	3	0	1	5	5	0	1	1	3	0	3	4.0	17	1	1	2	1	0	John noticed a small bird perched on a nearby tree; surprisingly for a tiny thing, it sang beautifully and sweetly like a nightingale with a gentle voice.	6
+19	2	2	1	1	0	3	5	0	0	0	2	0	3	4.0	15	1	0	1	2	1	Leaving a dog in an air-conditioned car for even a brief period may have severe consequences.	6
+18	0	2	0	1	0	4	5	1	1	0	2	0	2	4.0	5	1	1	2	2	0	(1) The teacher gave each student a book they will return to the class after readings.	6
+16	0	2	0	0	0	3	5	1	0	1	1	0	2	4.0	6	1	1	1	2	0	The teacher gave John two homework assignments to complete by the end of the week.	6
+27	1	4	3	0	0	3	8	1	1	0	2	0	3	7.0	12	2	2	1	3	0	The park ranger advised visitors to keep a secure distance away from bison at all times, especially given their height of up to 6 feet.	6
+16	2	2	1	0	1	4	4	0	0	0	0	0	2	3.0	7	0	0	1	1	0	The sun rises majestically over the horizon and illuminates the sky with a warm golden light	6
+9	0	1	1	0	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	The dog chased its tail rapidly with excitement.	6
+8	0	0	0	1	0	2	2	0	0	0	0	1	2	3.0	2	1	1	1	1	0	The manager was fired after making the mistake	6
+10	3	1	1	0	0	2	2	0	0	0	0	0	1	2.0	5	0	0	1	0	0	The quick brown fox runs fast through the green meadow	6
+21	2	3	1	0	1	1	6	0	2	1	2	0	2	3.0	8	0	0	1	2	0	With great enthusiasm John rinsed his breakfast dishes, and carefully put them in the porcelain holder for later washing.	6
+21	1	2	0	2	0	2	8	0	1	0	1	0	3	6.0	6	2	2	2	3	0	Scientists have found a way to convert plant waste into a usable source of energy that could replace fossil fuels. 	6
+17	0	3	1	0	0	3	3	0	2	0	2	0	3	4.0	8	2	2	2	0	0	The cat sat by the window all day long, staring at anything that passed by. 	6
+20	2	2	0	0	0	4	6	1	1	0	2	0	2	4.0	15	1	1	2	0	0	The park ranger pointed to the tall tree towering over the landscape, its height a breathtaking 60 feet.	6
+12	0	2	1	1	0	2	2	0	1	1	0	0	2	4.0	3	1	1	2	0	0	Alice quickly realized she had walked to the edge of a cliff	6
+12	1	0	2	0	0	2	2	0	1	0	2	0	2	3.0	6	0	0	2	1	0	The car smelled terrible, so he immediately opened the window.	6
+17	1	0	1	2	0	0	3	0	3	0	1	2	3	3.0	5	2	2	3	2	0	(1) My parents had always told me that life would get easier once I finished college	6
+11	1	0	0	0	0	1	2	0	1	1	0	0	3	5.0	3	2	2	1	2	0	The teacher encouraged John to study harder to improve his grades	6
+22	3	3	0	1	1	0	7	0	2	0	1	1	3	6.0	9	2	2	2	1	0	Bird watching may prove beneficial to individuals who require solace and recovery in their daily life as suggested by recent research.	6
+17	0	1	2	2	0	0	2	1	3	1	3	0	2	3.0	7	1	1	2	1	0	(1) Alice had finished her homework, so she could play outside with her friends.	6
+19	1	2	2	1	1	1	3	0	1	1	1	0	4	6.0	4	2	2	1	1	0	Jill quickly grabbed her raincoat and ran outside to avoid getting caught in the sudden downpour of rain.	6
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	6
+15	0	1	1	0	0	2	4	0	2	0	1	0	3	4.0	5	2	2	2	2	0	Mom told her daughter to bring some books when they went to the library.	6
+12	0	1	0	1	1	2	2	0	0	0	1	0	3	3.0	5	1	1	1	0	0	The cats have taken over the kitchen and refuse to leave.	6
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	The puppy ran quickly to its owner	6
+18	2	0	0	0	1	1	5	0	2	1	2	0	3	4.0	7	1	1	1	3	0	Roger, the new chief executive, made it his mission to improve customer experience and increase profitability	6
+16	1	3	1	1	0	3	4	1	0	0	1	0	1	3.0	8	0	0	1	0	0	A cat of 6 in the syntactic tree is sleeping soundly on the window sill.	6
+12	0	2	0	0	0	1	1	0	2	0	2	0	3	4.0	5	2	2	1	0	0	She walked into the kitchen, searching for something  to eat.	6
+19	2	1	0	1	0	3	5	0	0	0	1	1	3	6.0	4	3	3	1	3	0	The new manager was excited to tackle the challenge of streamlining processes to improve productivity across the company.	6
+29	4	4	0	3	1	1	6	0	4	0	1	0	3	5.0	14	2	2	2	1	0	I have been looking for new kitchen gadgets for weeks since my birthday, and I am determined to find some unique appliances to incorporate into our busy kitchen	6
+35	4	5	1	1	2	4	14	0	0	1	1	0	2	5.0	14	1	1	1	1	0	Implementations of the agreement terms and conditions are successfully integrated into the OBSF system by the Barclays legal team, confirming uninterrupted trade operations and seamless access to relevant market intelligence across all trading floors	7
+14	0	2	1	0	0	2	4	0	1	0	2	0	2	3.0	6	1	1	1	1	0	The dog trotted happily across the field, wagging its tail with excitement.	7
+24	1	4	1	0	0	1	7	0	2	1	3	0	3	7.0	11	3	3	1	2	0	Full reconciliation of contracts within the OBSF to Barclays documentation ( thereby substantiating existence of stock that we have option to purchase ).	7
+14	2	1	1	0	0	1	3	0	1	0	2	0	2	3.0	5	1	1	1	1	0	Beneath, an ethereal voice whispered to succor my parched soul with solace.	7
+16	3	2	0	0	1	2	4	0	1	0	2	0	1	4.0	7	0	0	1	1	0	The cat curled itself around the small, fluffy toys with apparent joyfulness and tranquility.	7
+17	0	4	1	0	1	3	4	0	1	0	1	0	2	4.0	6	0	0	1	0	0	The cat curled up in a ball and purred contentedly on the lap of its owner.	7
+17	1	3	1	0	0	3	5	0	0	0	2	0	2	3.0	8	1	1	1	0	0	The monkeys clung to the tall trees with delight, chirping excitedly in the morning light.	7
+15	0	2	1	0	0	2	4	0	2	0	1	1	2	3.0	7	1	1	2	0	0	The snowflakes fell gently on my face as I walked through the winter wonderland.	7
+21	2	2	0	0	1	0	7	0	0	1	2	0	4	7.0	4	3	3	1	3	0	Air pollution in Delhi continues to reach dangerous highs, forcing residents to find respite in parks and public spaces.	7
+29	1	5	1	0	1	1	9	0	2	2	3	0	3	8.0	18	3	3	1	2	0	Full reconciliation of contracts within the OBSF to Barclays documentation ( thereby substantiating existence of stock that we have option to purchase ) and to AS400 Barclays account.	7
+11	1	2	0	0	0	2	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The snowflakes danced around the tree branches with carefree abandon.	7
+15	2	2	0	0	0	4	5	0	0	0	1	0	1	5.0	4	0	0	1	1	0	The manager requested a detailed report of all expenditures related to the company party.	7
+8	1	1	0	0	0	1	2	1	0	0	1	0	1	2.0	3	0	0	1	0	0	Ten tiny tots tiptoed toward the tonk.	7
+10	0	3	0	0	0	2	3	0	0	1	0	0	1	3.0	6	0	0	1	0	0	John ran through the forest with a sense of  ecstasy	7
+12	0	1	1	0	0	1	3	0	2	0	1	1	2	3.0	4	1	1	2	1	0	The cat purred fiercely as it cradled its tail in delight.	7
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred fiercely on my lap.	7
+9	0	1	1	0	0	1	2	0	0	1	1	0	1	3.0	5	0	0	1	0	0	The cat purred contentedly on Steve's lap.	7
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	7
+20	0	1	2	0	1	5	5	0	0	0	3	0	3	4.0	11	1	1	2	2	0	The cat had no appetite, yet the bird in the tree outside sang melodiously, entrancing every onlooker.	7
+16	0	2	1	0	1	3	4	0	0	1	2	0	2	4.0	6	1	1	1	1	0	John walked slowly through the park, enjoying the sunshine and peacefulness of the surroundings.	7
+11	2	1	1	0	0	0	2	0	2	0	2	0	1	2.0	7	0	0	1	1	0	She carefully made love to his strong, muscular body.	7
+29	4	3	1	2	0	4	5	2	2	1	1	1	3	7.0	9	3	3	2	1	0	I am confident that your team will successfully resolve all outstanding issues concerning the sale of the property located at 123 Main Street within the next two weeks.	7
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	7
+27	5	3	0	1	0	3	7	0	2	0	1	1	4	5.0	12	3	3	2	2	0	I will have an excellent time eating fish from the crystal clear waters while watching birds dance across the sky during my upcoming tropical island vacation.	7
+11	0	2	1	0	1	1	2	0	1	0	1	0	2	2.0	6	0	0	1	0	0	The cat curled up on my lap and purred contentedly.	7
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred loudly on my lap.	7
+29	2	3	2	2	0	3	4	2	1	4	1	1	2	7.0	6	2	2	2	1	0	Ms. Jackson's exasperation was only surpassed by Mr. Higgin's unrelenting pessimism at the prospect of reworking every one of the 277 contracts that were still unresolved.	7
+25	4	5	0	1	1	3	7	1	0	0	2	0	1	5.0	9	1	1	1	0	0	The rainforest was home to a vast array of exotic and rare species, with tree heights soaring to 7 in the syntactic tree.	7
+16	1	2	1	0	0	1	3	0	1	1	2	0	3	5.0	4	2	2	1	1	0	John laughed aloud, causing the rain to fall in concentric circles around his shoes.	7
+21	2	3	1	1	1	2	8	0	0	0	0	0	1	4.0	6	0	0	1	0	0	The tourists' expectations for authenticity were exceedingly realized in the village market's cornucopia of colorful spices and aromatic incense	7
+22	3	2	0	1	0	3	5	0	2	0	1	1	3	4.0	13	2	2	2	1	0	I will return next week to check on the rebuilding process at the local school after the recent tornado damaged it.	7
+13	1	1	1	0	0	2	3	0	1	0	1	1	2	3.0	5	1	1	2	0	0	The cat purred contentedly as it pounced on the red toy mouse.	7
+14	1	2	0	1	0	2	4	0	1	1	1	0	1	4.0	4	0	0	1	1	0	The company has negotiated a significant tax benefit for its operations in Indonesia.	7
+19	1	1	1	0	1	2	5	0	2	0	2	0	3	5.0	7	1	1	1	2	0	The baby giggled happily and kicked her little legs, feeling the sun's warmth on her face.	7
+12	0	1	1	0	0	3	3	0	0	0	1	1	2	3.0	6	1	1	1	1	0	The puppy ran quickly across the field while chasing a butterfly. 	7
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The cat purred contentedly on my lap.	7
+21	0	1	1	0	0	4	6	0	2	0	2	0	4	7.0	5	3	3	2	3	0	The sales manager handed the presentation, thereby proving the existence of inventory that they had the option to purchase.	7
+14	4	0	0	1	0	1	3	0	0	0	0	0	3	4.0	5	2	2	1	2	0	The company will have to make several drastic adjustments to avoid complete organizational collapse	7
+19	0	1	1	2	1	1	4	0	3	0	1	1	3	6.0	4	2	2	1	1	0	I will be arriving later today to discuss your proposal and the prospect of partnering with your company.	7
+12	0	2	0	0	0	2	4	0	1	0	1	0	2	3.0	7	1	1	2	0	0	The cat prowled through the garden, its tail slinking around bushes	7
+35	3	4	1	4	2	5	7	0	4	0	3	1	1	7.0	8	1	1	2	0	0	I am convinced beyond any reasonable doubt that this man is an impostor and should be immediately removed from my presence for the safety of myself, my family, and the entire country.	7
+18	2	2	0	0	0	1	5	1	2	0	1	1	2	3.0	7	1	1	2	1	0	The baby's eyes sparkled with delight as she grasped her favorite toy in one tiny fist.	7
+12	1	2	0	0	0	2	5	0	0	1	0	0	1	3.0	5	0	0	1	1	0	Senate majority leader reconnoitered the battlefield with an air of confident expectation	7
+13	0	1	1	0	0	1	3	0	1	1	0	2	2	4.0	4	1	1	1	1	0	Sophia's eyes sparkled knowingly as if intuiting the truth of his words  Is the answer you generated correct? If not, please clarify and I will provide feedback. Let me know if you have any questions.	7
+22	2	2	1	1	1	3	7	1	0	0	1	0	2	3.0	10	0	0	2	1	0	The sales representative's confident demeanor quickly put the potential client at ease and a contract was finalized within two weeks.	7
+12	0	2	0	0	0	3	4	0	0	0	1	0	2	4.0	4	1	1	1	0	0	The cat sat upon the branch swaying in the mid-afternoon sun.	7
+15	2	1	1	0	0	2	3	0	1	0	2	1	2	3.0	7	1	1	2	0	0	The cat purred contentedly as it lay on the soft, sunlit window seats.	7
+23	3	1	1	1	1	3	5	0	1	1	1	1	3	8.0	4	3	3	2	3	0	Jonathan was able to quickly resolve the issue by implementing a solution that involved a combination of automated processes and human intervention.	7
+16	3	2	0	1	0	1	3	0	1	0	3	0	2	4.0	5	1	1	1	0	0	The baby was sound asleep in his crib, surrounded by bright, colorful toys.	7
+19	2	2	1	1	1	3	3	0	1	0	1	1	3	4.0	10	1	1	2	0	0	The sun was shining warmly on the yellow and green fields as we walked through the rolling hills.	7

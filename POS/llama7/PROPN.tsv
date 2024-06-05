@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PROPN_constraint
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun smiled brightly above the distant trees.	0
+18	1	1	1	1	0	5	1	3	0	2	0	1	2	1	1	2	0	3.0	1	10	I have always enjoyed the weekly walks around the quiet neighborhood park without encountering any celebrity sightings.	0
+18	0	1	2	2	0	5	2	3	0	2	0	1	0	1	1	2	0	4.0	1	7	This morning, I will walk my cat through the park while carrying a cup of coffee.	0
+13	0	0	3	1	0	3	0	2	0	2	0	0	2	0	1	0	0	3.0	0	6	A tall, shimmering mountain peaked above the mist-wrapped landscape.	0
+9	0	0	1	1	0	3	0	1	1	1	1	0	0	0	1	2	0	2.0	0	6	Jerry fed the tiger two apples without incident.	0
+13	1	1	1	1	0	3	0	3	0	2	0	0	1	1	2	0	0	3.0	1	8	The blue sky stretched above the horizon as the sun slowly set.	0
+13	0	0	1	1	0	3	1	2	0	2	0	1	1	1	1	1	1	3.0	2	7	Lying on the couch was my favorite way to spend the weekend.	0
+9	0	0	1	1	0	4	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The car sped down the winding mountain road.	0
+5	0	0	0	1	0	2	0	0	0	1	0	0	1	0	1	0	0	2.0	0	2	Nice dogs romped in yard	0
+17	1	0	2	3	1	5	1	2	0	1	0	0	1	0	1	0	0	4.0	0	9	Without any reference to specific people or places, the cats purred contentedly on my lap.	0
+10	0	0	1	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	5	The sky is blue and the grass is green.	0
+16	0	0	2	2	0	5	0	4	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun rose over the sleeping mountains, casting a warm glow across the landscape.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+13	1	0	1	1	1	4	0	2	0	0	0	1	2	0	1	0	0	3.0	0	7	Moon rocks are the rarest and most valuable rocks in the universe.	0
+14	1	1	1	1	0	3	1	3	0	1	0	1	1	1	2	0	0	3.0	1	4	It was a quiet night as the moon hung low in the sky.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car sped down the highway.	0
+9	1	0	1	1	0	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The rain fell gently on the deserted streets.	0
+11	1	0	0	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	8	The clouds floated gracefully across the blue sky without any obstruction	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat under the tree.	0
+16	1	0	1	2	1	4	0	4	0	2	0	0	1	0	1	1	0	4.0	0	6	The cat sat silently in the kitchen and observed the busy activity of the dogs. (0 proper nouns)	0
+8	1	0	1	1	0	1	1	1	0	2	0	0	0	1	1	0	0	2.0	1	4	She walked down the street humming softly.	0
+15	0	0	1	2	0	4	1	1	0	1	1	1	2	1	1	1	0	3.0	1	9	I'm able to run a mile under ten minutes with regular jogging practice. (0 proper nouns)	0
+13	2	0	1	1	0	2	0	2	0	2	0	0	3	0	1	0	1	4.0	1	6	A small green bird perched in a tall tree flew quickly away.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly in the sunbeam.	0
+13	0	0	1	3	0	3	0	2	0	1	0	0	3	0	0	0	0	3.0	0	8	Skiing through the powdery snow in a blissful state of inner peace.	0
+10	0	0	2	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The car sped down the long, winding road.	0
+14	0	1	1	0	0	1	3	1	0	3	0	1	2	3	2	1	0	5.0	3	4	I'm excited to see what the weekend holds without knowing anything specific.	0
+23	1	0	3	3	1	5	1	3	0	3	0	0	3	1	1	2	0	4.0	1	7	Without the slightest hesitation, I quickly devoured the meal, savoring each spoonful of flavorful soup and biting into tender meat.	0
+10	0	0	1	2	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	6	The cat curled up on the mat and purred.	0
+13	0	1	1	1	0	2	0	1	0	3	2	0	1	2	1	0	0	3.0	2	6	Ten thousand soldiers marched across the endless desert without stopping to rest.	0
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	1	0	3.0	0	3	This sentence has nothing but common nouns.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+10	1	1	1	0	0	2	0	2	0	2	0	1	0	1	1	1	0	2.0	1	6	The dog chased the cat quickly without being seen. (0 proper nouns)	0
+9	1	0	1	1	0	2	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	The sky above was blue with fluffy clouds.	0
+12	0	0	1	1	0	3	1	2	0	2	0	0	2	1	1	1	0	4.0	1	3	The new neighbor smelled a strange scent coming from his house.	0
+18	0	0	3	3	0	4	3	1	2	2	0	0	0	1	2	1	0	3.0	1	12	John kicked his dog, Duke, down the street with his sunglasses perched on his head.	0
+9	1	0	1	1	0	2	1	1	0	2	0	0	0	0	1	0	0	2.0	0	4	The puffed cat purred contentedly on my lap.	0
+9	0	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	4	Wild animals scurried through the grassy hillsides unimpeded.	0
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	The fluffy kitten purred contentedly on my lap.	0
+17	1	0	2	2	0	4	1	3	0	2	0	0	2	1	2	0	0	3.0	1	7	A tall tree loomed over the forest, its branches rustling mysteriously in the gentle breeze. (0 proper nouns)	0
+18	0	0	3	2	0	5	1	2	1	2	0	1	1	1	2	0	0	4.0	1	7	Mars is the fourth planet from the sun, its surface covered in rust-colored dust.	0
+19	3	1	1	1	0	2	1	2	1	3	0	1	2	2	2	1	0	4.0	2	8	Jane quickly ran up the mountain to find the hidden treasure before anyone else could get there first.	0
+15	0	0	1	3	0	5	0	4	0	1	0	0	1	0	1	0	0	3.0	0	6	The city lights twinkled in the distance like a mirage on a hot day.	0
+16	1	0	1	2	0	6	0	3	0	2	0	0	0	1	1	1	0	4.0	1	6	A group of employees gathered around the conference table eagerly awaiting the manager's announcement.	0
+12	1	1	1	2	0	2	1	2	0	2	0	0	0	1	1	0	0	3.0	1	6	The dog ran quickly through the park without bumping into anyone.	0
+14	0	0	1	2	0	4	0	2	1	1	0	0	3	0	1	0	0	3.0	0	11	Jen walked through the silent empty city streets in the early morning light. (0 proper nouns)	0
+14	0	1	1	2	0	4	0	4	0	2	0	0	0	1	2	0	0	3.0	1	7	The rain fell on the ground as the sun set in the distance.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	4	Mozillasaurus roamed across the velociraptordominated forest.	0
+29	1	0	5	4	0	1	1	3	10	2	0	0	2	1	2	1	0	5.0	1	9	The Mayor of New York City, Michael Bloomberg, visited the city of Tokyo, where he met with the Prime Minister of Japan, Shinzo Abe.	3
+16	0	0	3	1	1	2	0	2	4	1	0	0	2	0	1	1	0	3.0	0	8	France, the Eiffel Tower, and Paris hosted the global conference on sustainable development.	3
+25	1	0	4	4	0	6	2	4	3	1	0	0	0	0	1	0	0	4.0	0	15	The cat purred contentedly on the lap of its owner, Mrs. Johnson, in the living room of their home, The Manor.	3
+19	1	0	2	1	1	3	2	1	5	2	0	0	1	1	2	2	0	6.0	1	11	John visited London, where he met his friends Emily and Sarah at the Tate Modern art museum.	3
+7	0	0	1	1	0	0	0	1	3	1	0	0	0	0	1	1	0	2.0	0	3	The Doctor met Sarah at Starbucks.	3
+17	0	0	1	2	0	2	0	1	8	1	0	0	2	0	1	1	0	4.0	0	10	President John Smith held a news conference in New York City with Prime Minister Maria Johnson.	3
+29	1	0	3	4	1	3	0	3	10	1	0	0	3	0	1	1	0	4.0	0	19	The President of the United States, Prime Minister Trudeau of Canada, and CEO Tim Cook of Apple recently held a joint press conference in Washington D.C.	3
+23	0	0	3	3	0	3	1	3	6	2	0	1	1	1	2	1	0	4.0	1	8	The CEO of XYZ Corporation, John Smith, addressed the audience at the conference, which was held in beautiful San Francisco	3
+13	0	0	2	2	1	2	1	1	3	1	0	0	0	0	1	0	0	3.0	0	6	Sarah walked to the park with her dogs, Max and Bella.	3
+17	0	0	1	3	0	4	1	3	3	1	0	0	1	0	1	1	0	3.0	0	13	The Smiths invited the Joneses to their beachside villa in Hawaii for a relaxing weekend getaway.	3
+22	0	0	3	3	0	1	0	4	6	1	0	0	4	0	1	1	0	3.0	0	9	The President of the United States, Barack Obama, attended the annual conference of the United Nations in New York.	3
+23	0	0	1	3	1	1	1	2	10	2	1	0	1	0	1	2	0	3.0	0	9	The Queen Elizabeth II visited Pope Francis on her trip to Rome and met Prime Minister Boris Johnson at the Vatican City.	3
+16	0	0	3	2	0	1	1	1	5	2	0	1	0	1	2	0	0	4.0	1	4	The sentence was written by Jane Doe, who lives in Los Angeles, California.	3
+19	0	0	3	1	1	2	0	2	9	1	0	0	0	0	1	1	0	4.0	0	12	The Mayor of Seattle, Governor Jay Inslee, and astronaut Chris Hadfield toured the Space Needle yesterday.	3
+21	0	0	1	2	1	2	0	2	8	1	0	1	2	1	1	0	0	4.0	1	6	The Prime Minister's visit to Tokyo was an historic event attended by President Xi Jinping and Emperor Narendra Modi.	3
+20	1	0	2	3	0	3	0	3	2	1	0	0	5	0	1	0	0	4.0	0	7	The quick brown fox ran across the street, right in front of the famous Grand Canyon National Park.	3
+16	0	0	2	2	0	3	0	2	4	1	0	0	2	0	1	1	0	3.0	0	7	The United States President, Joe Biden, signed the bill into law with great fanfare	3
+18	0	0	1	2	0	3	0	2	4	1	0	0	4	0	1	1	0	3.0	0	12	The Honorable President Biden praised Professor Khan's groundbreaking work in artificial intelligence at the annual conference.	3
+37	0	0	6	4	0	6	5	3	9	2	0	1	1	2	3	2	0	7.0	2	9	The new president of the university, Dr. Maria Rodriguez, gave a speech in which she introduced her successor, Governor Sarah Jones, who was in attendance with her husband, Congressman John Smith.	3
+18	0	0	3	2	1	2	0	2	6	1	0	0	1	0	1	1	0	4.0	0	12	The President of France, Boris Johnson, and the CEO of Google visited Paris last week.	3
+18	0	0	3	3	0	0	0	1	9	1	0	0	1	0	1	0	0	3.0	0	8	The Mayor of Los Angeles, Tim Bradland, stood atop Mount Tammany in Yosemite National Park.	3
+19	0	0	3	1	1	3	0	0	9	1	1	0	0	0	1	1	0	3.0	0	8	John F. Kennedy Space Center, NASA, and Saturn V rocket launched Apollo 11 mission to moon.	3
+16	0	0	5	1	0	1	0	2	3	2	1	0	1	0	1	1	1	4.0	1	8	The President, accompanied by the First Lady, visited Tokyo. (1 sentence)	3
+10	0	1	0	1	0	0	0	0	6	2	0	0	0	1	1	1	0	3.0	1	4	Jane Doe attended Harvard University before transferring to Yale University	3
+17	0	0	3	1	1	0	0	1	9	1	0	0	1	0	1	1	0	3.0	0	8	Rio de Janeiro, Brazil, and President Xi Jinping visited the Great Wall of China.	3
+22	1	0	3	2	1	1	0	2	8	1	1	1	1	0	1	0	0	3.0	0	15	The President of Spain, Queen Elizabeth II, and Apple CEO Tim Cook were all honored at the White House.	3
+30	0	0	6	5	0	1	0	3	10	1	0	1	3	0	1	0	0	3.0	0	16	The Prime Minister of Australia, Scott Morrison, was received by the Governor-General of New Zealand, Jacinda Ardern, at a formal dinner in Wellington.	3
+13	0	0	2	3	0	2	1	0	3	2	0	0	0	1	1	1	0	5.0	1	3	Mozart composed music in Salzburg, inspired by his travels in Austria.	3
+34	2	1	3	5	0	10	3	5	0	4	0	0	1	3	2	2	0	10.0	3	5	The cat purred contentedly on my lap, the scent of roses filling the air as I sipped tea from my favorite mug, the sound of birds chirping serenely in the background.	3
+17	0	1	3	1	0	2	0	2	4	2	0	1	1	1	2	1	0	3.0	1	7	The new CEO of Apple, Tim Cook, announced that the company would acquire Google.	3
+16	0	0	1	3	0	2	0	1	7	1	1	0	0	0	1	1	0	3.0	0	9	Ms. Rodriguez taught a class of 20 students at Smith Elementary School in Denver, Colorado	3
+16	0	0	3	1	1	2	0	1	6	1	0	0	1	0	1	0	0	3.0	0	10	Presidents Franklin Roosevelt, Theodore Roosevelt, and John Adams served in the American government.	3
+9	0	0	3	0	1	0	0	1	4	0	0	0	0	0	0	0	0	2.0	0	7	France, the Eiffel Tower, and Paris.	3
+26	1	0	3	2	2	2	0	1	8	1	0	0	3	0	1	0	0	4.0	0	14	France's Eiffel Tower, London's Big Ben, and New York's Statue of Liberty stood tall and proudly in the city skyline.	3
+17	0	0	3	2	0	0	0	2	6	1	1	1	1	0	1	0	0	3.0	0	6	The new Pope, Francis I, was elected by the Vatican City Conference of Cardinals.	3
+20	0	0	1	2	2	0	0	1	10	2	0	0	2	0	1	1	0	4.0	0	5	The United States Senator Ted Cruz from Texas visited Japan and met with Prime Minister Abe and Emperor Naruhito.	3
+16	0	0	5	2	0	1	0	1	5	1	1	0	0	0	1	0	0	3.0	0	8	John Smith, of Seattle, went to the Space Needle. (1 sentence)	3
+18	0	0	2	2	0	3	0	2	5	2	0	0	1	1	1	1	0	4.0	1	8	John Smith walked through the city streets of Paris, enjoying the Eiffel Tower's stunning views.	3
+12	0	0	1	2	0	3	1	1	2	1	0	0	0	0	1	1	0	3.0	0	9	Sarah visited her grandmother's house in Maine during the summer.	3
+14	0	1	1	2	0	1	0	2	4	2	0	0	1	1	2	1	0	3.0	1	7	The sun rose over the Pacific Ocean as Jack hiked up Mount Fuji.	3
+24	0	0	5	4	0	0	0	3	9	1	0	0	2	0	1	0	0	3.0	0	13	The Senator from New York, Mr. Smith, met with the President of Mexico, señor López, in the White House.	3
+12	1	0	2	1	0	1	0	1	3	1	0	0	1	0	1	0	0	3.0	0	5	Sarah's dog, Buddy, sat next to the White House	3
+26	1	0	3	4	1	4	0	0	6	3	0	1	2	1	1	0	0	6.0	1	10	Buffalo wings originated in Buffalo, New York, and are popularly savored during Super Bowl parties hosted at friends' houses in San Francisco.	3
+16	0	0	1	5	0	0	0	2	6	1	0	0	1	0	1	0	0	3.0	0	9	The Prime Minister of Canada met with the Minister of Defense of France in Paris.	3
+17	0	0	3	3	1	0	0	1	9	0	0	0	0	0	0	0	0	3.0	0	11	The Queen of England, President Xi Jinping of China, and Pope Francis of Rome.	3
+16	0	0	2	2	0	2	1	2	4	0	0	2	1	0	2	0	0	4.0	0	9	The capital of Australia is Canberra, the state of which is New South Wales.	3
+14	0	0	3	1	1	1	0	1	5	1	0	1	0	0	1	0	0	3.0	0	7	Rio de Janeiro, Brazil, and Tokyo were mentioned in the meeting.	3
+16	0	0	3	1	0	2	1	0	5	2	0	0	0	1	1	1	0	4.0	1	6	Sophia traveled to Tokyo, Japan to visit her friend Emily's cousin, Haru.	3
+14	0	0	1	1	0	1	0	2	5	2	0	0	1	1	1	2	0	4.0	1	5	Nelson Mandela led the United Nations to conquer the summit of Mount Everest.	3
+18	0	0	4	2	0	2	0	2	6	1	0	1	0	0	1	1	0	3.0	0	8	The President of France, Emmanuel Macron, is visiting the capital city of Japan, Tokyo.	3
+25	0	0	7	2	1	2	1	0	7	1	0	1	3	0	1	1	0	4.0	0	11	Saroj has visited many countries during her extensive journey, such as China, Japan, Canada, Mexico, Australia, and France.	6
+14	0	0	2	2	0	1	0	3	4	1	0	0	1	1	1	1	0	4.0	1	8	Sentence: The Senator visited the Mayor of Tokyo at the White House.	6
+59	4	1	5	6	2	6	1	9	16	6	0	1	1	3	5	3	0	9.0	3	15	Juan Carlos walked into the grand entrance of the Vatican City and saw the St. Peters Basilica, which was decorated with the Pope Francis's coat of arms, while a group of tourists visited the Sistine Chapel, where Michelangelo once painted the ceiling, and nearby the Castel Sant'Angelo stood majestically on the Tiber River. 	6
+30	0	0	4	6	0	4	3	3	6	3	0	0	0	2	2	1	0	6.0	2	15	John walked to school through the streets of Chicago, past the Willis Tower, to visit his grandmother Mary, who lived in her apartment in the Loop.	6
+30	1	0	3	4	2	6	4	1	6	2	0	0	0	1	2	1	0	6.0	1	9	Sarah visited her cousins Jack and Sarah at the beach, where they played with their friends Emily and Alex, in honor of their grandfather Tom's birthday.	6
+12	0	0	6	0	0	6	0	0	0	0	0	0	0	0	0	0	0	1.0	0	10	 cat, mat, mouse, sunbeam, bird, bird)	6
+31	1	0	2	3	1	3	1	3	11	3	0	0	3	1	2	3	0	6.0	1	8	Senator Kennedy visited the city Paris, France last summer where he attended a conference with Pope Francis and met German Chancellor Angela Merkel at the famous Palace of Versailles. (1 sentence)	6
+33	1	0	4	6	0	2	1	3	11	2	0	0	3	1	2	1	0	6.0	1	8	The Prime Minister of Australia met with President Biden at the G7 Summit in Biarritz, France, where they discussed the upcoming talks with European Union leaders in Berlin, Germany.	6
+42	1	0	5	4	1	4	2	4	14	3	0	0	4	2	2	2	0	8.0	2	10	Nelson Mandela led the fight against apartheid in South Africa alongside his deputy Thabo Mbeki, President Obama, and members of the African National Congress, including the legendary Nelson Mandela Bay, where they launched the Riveting Reconciliation Revolution.	6
+24	1	1	2	3	1	1	2	1	7	4	0	0	0	3	2	2	0	6.0	3	7	John went to Europe to visit his relatives in London, where he enjoyed the Eiffel Tower and Nice before traveling to Paris.	6
+47	1	0	7	5	2	4	7	2	10	6	0	1	1	5	5	4	0	9.0	5	23	John visited Tokyo, where he met his friend Jack, whom he met at the University of California, Berkeley, and Jack recommended him to visit Kyoto, which is famous for its temples and gardens, located in the Kansai region of Japan.	6
+25	0	0	6	1	1	1	0	1	13	2	0	0	0	1	1	1	0	5.0	1	17	Sarah attended an event hosted by President Obama, Governor Cuomo, Senator Warren, Reverend Johnson, Mayor Lee, and CEO Chen.	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Sentence - In honor of their 25th anniversary, President Joe Biden and First Lady Dr. Jill Biden visited the historic Yosemite National Park located in California, home of the tallest waterfall in North America, with stops at iconic Half Dome and Mirror Lake.	6
+30	0	0	4	4	1	3	2	4	9	3	0	0	0	1	2	4	0	5.0	1	11	Johnny visited the city of Paris in the country of France and met the mayor of Paris, Emmanuelle Claire-Tchecot, who showed him the Eiffel Tower.	6
+25	1	0	2	3	1	4	3	2	4	3	0	1	1	2	3	2	0	7.0	2	9	Bill passed through the park, where he met his friend Tom who was playing basketball with Bob and Sarah at the nearby playground.	6
+14	0	0	1	1	0	4	0	3	0	1	0	0	4	0	1	1	0	2.0	0	8	The quick brown wolf chased the agile mountain lion across the rugged terrain.	6
+19	0	1	3	2	0	1	3	0	6	3	0	0	0	2	2	3	0	5.0	2	7	John studied in Tokyo while visiting his uncle, who taught him Japanese, at Aoyama Gakuin University.	6
+24	1	0	3	2	1	3	1	4	4	3	0	0	2	1	2	3	0	7.0	1	6	Jane visited Paris, where she saw the Eiffel Tower, and enjoyed a croissant from a quaint café in the Latin Quarter.	6
+19	0	0	6	1	1	0	0	1	9	1	0	0	0	0	1	0	0	3.0	0	12	The Ganges River flows through India, Nepal, Bangladesh, Bhutan, Sri Lanka, and Myanmar.	6
+60	1	1	6	7	0	9	2	5	13	6	0	2	8	4	3	4	0	10.0	4	10	Mexican President Andrés Manuel López Obrador addressed a rally in support of Canadian Prime Minister Justin Pierre James Trudeau, who was facing impeachment proceedings for misconaching allegations, during a joint visit to British Columbia, where they were visiting the ancient Japanese temple of Shintoism, surrounded by the snow-capped peaks of the Canadian Rockies.	6
+30	0	0	0	7	0	5	0	6	9	2	0	0	0	1	1	1	0	5.0	1	15	Senator Jane Doe met with the President on the eve of the State of the Union address to discuss legislation for the Department of Veterans Affairs at the Lincoln Memorial	6
+21	0	1	1	3	0	4	0	4	2	3	0	0	3	2	1	1	0	4.0	2	8	The quick brown fox jumps over the lazy dolphin named Luna while eating a pineapple on the beach in Hawaii.	6
+18	1	1	1	3	0	2	1	0	6	2	0	0	1	1	1	1	0	4.0	1	8	Sarah successfully completed her program at Yale University, after studying with renowned professors at Harvard Business School	6
+22	1	1	0	4	0	6	0	5	0	3	0	0	2	2	1	1	0	4.0	2	11	The cat sat on the mat enjoying a bowl of fishy tuna while listening to the sounds of a busy ocean nearby	6
+31	1	0	3	4	0	5	0	5	5	4	0	0	3	3	2	2	0	6.0	3	12	The Ghan train chugged through the desert to reach Uluru, located in the Northern Territory of Australia, where tourists enjoyed a hot spring day at the Grand Canyon.	6
+23	0	1	1	4	0	1	0	2	9	2	1	1	1	1	1	2	0	3.0	1	10	The Prime Minister of Canada will host President Biden at 10 Downing Street for tea before visiting the Eiffel Tower in Paris. (6 Proper Nouns: Canada, Prime Minister, President Biden, 10 Downing Street, Paris, Eiffel Tower)	6
+25	1	0	4	2	0	4	2	0	7	2	1	0	1	1	2	2	0	5.0	1	10	Gertrude attended St. Mary's Elementary School, where her teacher, Sister Maria Joseph, assigned homework to her class of 25 students.	6
+17	0	0	1	3	0	1	0	2	5	2	0	0	2	1	1	1	0	4.0	1	5	The president of France visited the White House to meet with Prime Minister Johnson of Canada.	6
+22	0	0	1	5	0	2	0	3	9	1	0	0	1	0	1	1	0	3.0	0	11	The President of France hosted the Prime Minister of Canada at the Eiffel Tower for dinner at Le Jules Verne restaurant.	6
+27	0	0	7	1	1	0	0	0	15	2	0	0	1	1	1	1	0	4.0	1	16	Aaron Smith visited Tokyo, meeting with Prime Minister Abe, Mayor Koike, Senator Kyl, Governor Newsom, Representative Hoyer, and Senator Rubio.	6
+16	0	0	1	2	0	3	1	2	4	3	0	0	0	2	1	2	0	6.0	2	5	John visited Sarah at her beach house located near the mountains overlooking the Pacific Ocean.	6
+30	1	0	5	3	2	2	0	4	7	1	0	2	3	0	1	0	0	5.0	0	9	Lake Tanganyika is the second-deepest lake in the world and is located entirely within Rwanda, Burundi, Tanzania, and the Democratic Republic of the Congo.	6
+26	0	0	6	1	1	0	0	2	14	1	0	0	1	0	1	1	0	3.0	0	18	The Queen Elizabeth, Prince Charles, King Fahd, President Trump, Archbishop Mitford, and Professor Turing visited the Great Pyramid of Giza.	6
+29	2	0	5	1	0	4	2	1	6	2	0	3	2	2	3	1	0	6.0	2	5	New Mexico's largest city, Albuquerque, is located in Bernalillo County, which is also where you can find the state capitol building, Santa Fe.	6
+19	1	0	3	1	1	2	2	0	6	2	0	0	0	1	2	2	0	5.0	1	6	John visited Sarah's home in London, where he met Mary and her dog, Mr. Whiskers.	6
+26	0	0	5	3	1	0	0	3	10	2	0	1	1	0	1	1	0	3.0	0	9	The President of the United States, Melania Trump, visited Rome, Italy, and was greeted by Pope Francis at the Vatican City.	6
+20	1	0	3	3	0	5	1	5	0	2	0	0	0	1	2	1	0	3.0	1	13	The cat chased the mouse across the grassland, past the mountains, to the beach where it rained.	6
+16	0	0	6	0	1	0	0	0	7	1	0	0	1	0	1	1	0	3.0	0	12	John visited Paris, Tokyo, New York, Rome, Sydney, and Bangkok.	6
+26	0	0	3	3	1	1	0	3	11	1	0	0	3	0	1	1	0	3.0	0	9	The President of the United States, Joe Biden, attended the summit in Paris alongside French President Emmanuel Macron and German Chancellor Angela Merkel.	6
+39	2	1	5	5	0	6	5	3	4	4	0	1	1	3	3	3	0	6.0	3	11	"The cat purred Contentously on Lily's lap, while she read her novel ""To Kill a Mockingbird"" aloud to Jake, who was sitting next to them on the couch in their cozy living room. "	6
+55	1	0	7	5	0	9	2	6	14	5	0	0	6	3	3	4	0	11.0	3	9	The new president of Brazil, Jair Bolsonaro, signed an executive order praising the historic city of Rio de Janeiro, home to the famous Cristo Redentor statue, which faces the bustling port city of Santos, where the renowned Neymar Jr plays soccer for their beloved club, Santos Futebol Clube.	6
+27	0	1	2	4	0	8	1	5	2	1	0	1	2	1	2	1	0	3.0	1	15	The cat chased the rat under the bus station, while the firefighters were on their lunch break near Central Park during the annual Halloween parade.	6
+16	0	0	1	3	0	2	1	3	4	1	0	0	1	0	1	1	0	3.0	0	12	The Senator visited the Governor of California at the White House during his re-election campaign.	6
+14	0	0	3	1	1	0	0	1	6	1	1	0	0	0	1	1	0	3.0	0	6	Sarajevo, Bosnia and Herzegovina, hosted the Winter Olympic Games in 1984.	6
+20	0	0	3	3	1	1	1	0	5	3	0	1	1	1	2	0	0	5.0	1	4	John walked into Mary's diner, which was owned by Sarah and located in downtown Anytown, USA.	6
+30	0	0	4	2	1	5	1	2	7	2	1	0	3	1	1	2	0	4.0	1	17	New Zealand's Prime Minister Jacinda Ardern welcomes Prince William and his wife, Catherine, to the country for a 3-day visit to promote sustainable tourism.	6
+8	0	1	1	1	0	3	1	0	0	1	0	0	0	1	0	1	0	3.0	1	4	Congratulations on passing your exams with distinction! Grandma Joyce insisted on taking you to the beach for a special celebration dinner. Mayor Davis honked his horn to signal his arrival outside Great Grandmother Smith's home. Grandson Tyler ran to the door to greet Great Aunt Edna with a hug. Mrs. Wilson presented each of you with a beautiful bouquet of flowers as a keepsake.	6
+20	1	0	3	3	0	0	0	2	10	1	0	0	0	0	1	0	0	3.0	0	10	The President of Mexico, Andrés Manuel López Obrador, recently met with Pope Francis at the Vatican City.	6
+24	0	1	3	4	1	0	0	1	12	2	0	0	0	1	1	1	0	3.0	1	17	John studied at the University of California, Berkeley with Professors Jane Smith and Bob Johnson, while visiting Paris with Mary Davis.	6
+19	0	0	3	1	1	0	0	1	8	3	0	0	1	1	1	2	0	4.0	1	8	John visited Ann Arbor, Michigan, USA to explore the Great Lakes and learn about Mount Bohemia.	6
+25	2	2	2	2	0	5	0	2	7	3	0	0	0	2	3	2	0	4.0	2	9	Austin defeated London in the championship game as Harvard cheerleaders shouted triumphantly, with coach Jim Brown proudly holding the trophy at Gillete Stadium.	8
+35	0	1	4	7	0	8	2	6	3	3	0	0	0	2	2	1	0	5.0	2	18	The sun set over the mountains as we hiked through the forest, near the park in Paris, with our friends from Spain, to see the fountain display at the Rome zoo.	8
+35	0	1	4	2	1	2	0	4	15	3	2	0	0	2	3	3	0	4.0	2	21	Sentence: The Pope John Paul II blessed the St. Patrick's Cathedral in Dublin, while President Trump visited the Vatican City, and Queen Elizabeth II inspected the troops at Windsor Castle.	8
+20	0	0	1	3	0	3	1	1	7	2	0	0	1	1	1	2	0	4.0	1	9	Ms. Johnson met President Obama at Congress with her family to observe the historic election speech of Governor Romney.	8
+35	1	0	5	2	2	5	3	3	10	2	0	0	2	1	2	2	0	5.0	1	17	Mary, her son Timmy, her best friends Sarah and Elizabeth, and their puppy Baxter attended a picnic with President Obama at the White House, where Secretary Kerry gave a speech.	8
+72	1	1	12	8	1	5	1	5	24	4	0	2	6	3	3	1	0	9.0	3	16	The Secretary of State, John Kerry, announced that the President of France, François Hollande, had decided to grant citizenship to the Prime Minister of Japan, Shinzo Abe, who was previously recognized as a prominent figure in the nation's political history alongside other notable leaders such as Winston Churchill, Indira Gandhi, Golda Meir, Nelson Mandela, Fidel Castro, and Mahmoud Ahmadinejad.	8
+38	1	0	5	5	0	2	1	4	11	2	0	3	3	1	2	0	0	4.0	1	12	The Alaskan husky, Max, was bred by the owner's friends at the Iditarod Trail Sled Dog Race in Nome, Alaska, where they had been training with the Arctic Husky Association since November.	8
+24	1	0	2	3	1	3	1	2	5	3	0	0	2	2	2	2	0	7.0	2	5	The Prime Minister of Canada visited the White House to meet with President Biden, where they discussed matters of trade and defense.	8
+30	0	0	3	4	1	4	2	2	7	4	0	1	2	3	2	1	0	9.0	3	7	Jenny read the latest book by author David Foster Wallace, which was set in a town called Millfield, known for its annual festival of Poetry and Jazz.	8
+32	0	0	2	2	0	2	1	0	17	2	1	0	0	0	2	2	0	5.0	0	11	King Philip's II of Spain's Armada attacked Queen Margaret's England; their ally Pope Pius V blessed Captain Christopher Columbus's voyage to Emperor Charles V's Portugal.	8
+30	1	0	3	3	0	5	4	3	4	3	0	0	4	2	3	3	0	6.0	2	8	Amy visited her grandmother Alice in the bustling city of Bangkok, where she met her friend Beth, who recommended a traditional Thai dish at the nearby market.	8
+39	1	0	6	1	3	3	2	2	13	5	1	1	1	3	3	4	0	9.0	3	14	The President visited Tokyo, where he met Prime Minister Johnson, Governor DeSantis, and Queen Elizabeth II, and attended a concert featuring musicians Bob Dylan and Sting, which was hosted by actor Tom Hanks.	8
+40	0	0	6	4	1	5	0	6	10	2	0	0	6	1	1	1	0	8.0	1	17	The great leader Xi Jinping addressed the largest meeting of the United Nations general assembly comprised of representatives from the nations of Australia, Brazil, Canada, France, Russia, the United Kingdom, and the United States	8
+17	0	0	1	2	0	0	0	2	8	2	0	0	1	1	1	2	0	3.0	1	5	The Prime Minister of Canada Justin Trudeau visited Rome to meet Pope Francis at the Vatican.	8
+30	1	1	4	3	1	5	2	2	8	3	0	0	0	2	2	0	0	6.0	2	7	The cat purred politely as Queen Elizabeth walked through the palace gardens with her husband, Prince Philip, surrounded by their children, Prince Charles and Princess Anne.	8
+37	0	0	5	3	2	4	2	1	12	2	0	0	6	1	1	1	0	8.0	1	9	In a magical kingdom, beautiful Queen Eleanor celebrated her coronation alongside her loving husband King Edward, surrounded by wise Archbishop Francis, fierce General William, and loyal friends Duke Robert and Princess Alice.	8
+32	0	0	8	3	1	5	1	3	9	1	0	0	1	0	1	1	0	3.0	0	28	The Smiths invited the Browns, Joneses, Robertsons, Wilsons, Garcia, Ontarios, and Venturas to their summer beach house in Florida for a week-long vacation.	8
+47	1	0	6	6	1	2	3	3	16	2	1	2	4	1	2	2	0	6.0	1	14	The President of France, Emmanuel Macron, will visit the Eiffel Tower in Paris with his wife, Brigitte, on their way to the 2024 Olympics in Tokyo, where they will meet Japanese Prime Minister Yoshihide Suga and Indian Prime Minister Narendra Modi.	8
+33	1	0	4	4	0	3	1	5	8	2	0	1	3	1	2	2	0	6.0	1	7	Mrs. Rodriguez's cousin, Carlos, met the Prime Minister at the Presidential Palace in Canberra, where he was offered a position as a speechwriter for the Australian Labor Party.	8
+18	0	0	7	0	0	2	0	0	7	0	0	0	2	0	0	0	0	2.0	0	16	 President, United States, Tokyo, Japan, Prime Minister, Shinzo Abe, trade negotiations)	8
+23	0	0	0	5	1	2	0	3	7	2	0	0	2	1	1	1	0	5.0	1	9	The Prime Minister of Australia met with the President of China in Beijing to discuss the potential trade agreements between Canada and Singapore	8
+16	0	0	2	3	0	2	0	0	8	1	0	0	0	0	1	1	0	3.0	0	8	Dr. Lee performed surgery on patient James at John Hopkins Hospital in Baltimore, Maryland.	8
+25	1	0	1	4	1	4	0	4	5	2	0	1	1	1	1	2	0	5.0	1	6	The Queen of England will soon visit the city of Paris to attend a summit with the President of France and other world leaders.	8
+60	3	2	5	6	1	10	3	7	13	6	0	1	2	6	2	4	0	9.0	6	14	John Smith successfully climbed Mt Everest for the fifth time this year, using his expertise honed while working as a guide on Kilimanjaro, after previously climbing Mount Denali via the West Buttress route, with his climbing partner Sarah Brown, who is also a mountaineer and the first woman to reach the summit of Mount Elbrus.	8
+24	1	0	4	1	1	1	1	2	9	2	0	0	1	1	2	2	0	6.0	1	9	Benedict XVI visited the historic city of Rome, where he saw the Colosseum, Trevi Fountain, and St Peter's Basilica.	8
+48	0	0	8	9	1	11	0	1	9	1	0	0	8	0	1	0	0	6.0	0	36	 Mary walked through the bustling city streets of Paris, French wine region of Bordeaux, Spanish city of Madrid, Italian beach town of Capri, Portuguese city of Lisbon, English town of Oxford, German village of Heidelberg, and Norwegian city of Bergen.	8
+30	1	0	2	4	0	4	0	4	8	3	1	0	2	2	2	2	0	6.0	2	10	The CEO of Apple visited the president of Brazil in New York City to speak at the TED2023 conference, where Elon Musk announced the new iPhone 14 Pro.	8
+52	0	2	6	10	1	5	2	3	13	5	1	0	3	3	2	1	0	8.0	3	18	The Ganges River flowed past India's ancient cities of Kanpur and Agra, located on Route 66, as they celebrated Christmas in Antarctica, surrounded by snow-capped mountains of the Swiss Alps, while on vacation from their new job at the Taj Mahal Hotel in Tokyo.	8
+23	0	0	1	4	0	1	1	2	9	2	0	0	2	1	1	1	0	3.0	1	13	The United States President visited the White House in Washington D.C. during his trip to London to meet with Premier Theresa May. 	8
+47	0	0	8	7	1	6	0	2	13	8	0	0	2	1	1	6	0	3.0	1	42	Nancy attended classes at Northside High School, played soccer for the Atlanta Hawks, vacationed in Hawaii, read books by John Grisham, listened to music by Taylor Swift, drank wine from France, visited the Eiffel Tower, and ate French bread.	8
+29	0	0	10	1	1	2	1	2	10	1	0	0	1	0	1	1	0	3.0	0	15	The president, Barack Obama, attended the White House with his friends, Michelle, Joe, Jill, Bill, Hillary, Nancy, and Sarah.	8
+33	0	1	5	3	0	5	0	1	13	2	0	0	0	1	2	2	0	5.0	1	14	Jenna's cat, Mr. Whiskers, chased Samantha's dog, Luna, through Jack's park while Ms. Thompson taught history to the students at John F. Kennedy Elementary School.	8
+27	0	1	1	2	1	4	0	2	8	5	0	0	3	3	1	4	0	6.0	3	8	Margo attended the festival honoring legendary poet Rilke while visiting Berlin and eating traditional German food from a marketstand in Marrakesh named Le Jardin de Rosmarin. 	8
+43	0	0	7	8	1	8	5	3	9	1	0	0	1	0	1	1	0	4.0	0	30	The mayor of Los Angeles visited China with his wife, the governor of New York, his sibling from Australia, the president of Canada, their child from Paris, their dog from Edinburgh, and their cat from London.	8
+24	0	0	8	0	1	0	0	1	12	0	0	0	2	0	0	0	0	2.0	0	22	 Australia, Sydney, the Great Barrier Reef, Queensland, Cape Tribulation, Kakadu National Park, Uluru, and Alice Springs.	8
+38	1	1	2	7	0	3	2	5	9	3	0	1	3	2	2	0	0	6.0	2	10	The Titanic sank beneath the icy waters of the North Atlantic after colliding with an iceberg during its maiden voyage from Southampton to New York City, where it was to depart from the Brooklyn Navy Yard. 	8
+37	0	0	1	2	0	11	1	0	8	3	1	0	8	2	1	3	0	8.0	2	9	Mumbai slum dwellers embraced their annual Diwali festive celebration honoring city lord Narayani Sharma's golden jubilee marking sixty consecutive years with grand Ganesh Chaturthi puja dedications to Hindu holy site Bindu Madhavi's divine presence.	8
+51	0	0	6	2	1	2	0	0	26	2	1	0	6	1	1	1	0	4.0	1	41	Mexico's President López Obrador met with Canada's Prime Minister Justin Trudeau, United States' President Joe Biden, Pope Francis, Queen Elizabeth II, Saudi Arabia's Crown Prince Mohammed bin Salman, and Japanese Prime Minister Yoshio Kishou in Tokyo to discuss regional security concerns.	8
+26	0	1	1	4	0	1	0	2	9	5	0	0	1	4	1	2	0	8.0	4	5	Senator Smith visited the White House to meet with President Biden before traveling to Asia to attend a conference organized by Chairman Xi of China.	8
+11	0	0	1	1	0	2	0	1	1	2	0	0	3	1	1	0	0	3.0	1	3	The quick brown fox jumps over lazy dog named Max.	8
+33	0	0	8	2	1	0	1	3	15	0	0	0	3	0	0	0	0	4.0	0	25	Northumberland, Peterhouse Preparatory School, the Tanzanian Government, Mount Kilimanjaro, University of Edinburgh, Her Excellency the First Lady, President Samthinga Machi, and the City of Mbabala.	8
+28	2	1	1	2	1	7	1	4	4	3	0	1	0	2	3	2	0	7.0	2	9	The cat purred contentedly on Lily's lap as the moon lit the garden, where aunt Mary was playing the guitar with her friends Betty and Sarah	8
+18	1	1	1	1	0	4	1	4	2	3	0	0	0	2	3	2	0	5.0	2	8	The cat chased the mouse through the forest until it reached the mountaintop where Mount Rushmore stood.	8
+30	2	2	4	2	0	7	2	3	2	2	0	1	2	2	3	1	0	6.0	2	18	The cat's fur was soft as it purred contentedly atop the couch while Dr. Johnson, a renowned expert in purr- Studies, gently petted its head.	8
+30	2	1	3	4	1	2	1	2	8	5	0	0	1	2	2	2	0	6.0	2	11	Sarah Smith attended school in Boston, visited the Grand Canyon, and lived in Hawaii before moving to San Francisco where she now works at the Google headquarters.	8
+19	0	1	1	3	0	3	0	2	4	3	0	0	1	2	1	2	0	5.0	2	7	The Prime Minister of Canada met with the President of Mexico to discuss strategies for tackling climate change. (8 Proper Nouns: Prime Minister, Canada, Mexico, President, discussion, strategies, tackling, climate change)	8
+49	0	0	9	9	1	14	0	10	0	2	0	0	3	0	1	0	0	8.0	0	14	The cat chased after the orange Tabby across the sunlit garden, past the red poppy flowers, around the willow tree, through the fountain, over the grass, past the pond, near the owl's nest, and into the ivy-covered cottage.	8
+29	1	1	4	4	0	3	3	1	7	3	0	0	1	2	2	1	0	6.0	2	14	Mary Smith successfully navigated through Yellowstone National park with her dog, Max, while on a trip to visit her grandmother who lived in Tokyo, Japan.	8
+33	0	1	4	3	1	3	0	5	8	4	0	0	4	2	1	3	0	6.0	2	10	Sandra walked across the vibrant streets of Tokyo, Japan, enjoying the unique culture of the city, and admiring the iconic Tokyo Tower before visiting the famous Tsukiji Fish Market.	8
+27	0	0	7	2	1	4	0	2	8	1	0	0	2	0	1	1	0	4.0	0	22	Mary had a lovely dinner with Jack, Sarah, John, Michael, Rachel, Alex, and Olivia at the beach club last night.	8
+91	1	0	15	12	1	0	1	4	47	2	0	1	7	1	2	1	0	7.0	1	61	The President of Peru, Pedro Pablo Kuczynski, addressed the General Assembly of the United Nations, where he was accompanied by First Lady Maria Belloumi; the Prime Minister of Japan, Shinzo Abe; Prince William, Duke of Cambridge; Queen Letizia of Spain; Crown Prince Mohammed bin Salman of Saudi Arabia; President Emmanuel Macron of France; Chancellor Angela Merkel of Germany; Prime Minister Narendra Modi of India; Prime Minister Justin Trudeau of Canada; and King Felipe VI of Spain.	11
+19	0	1	1	2	0	3	1	2	5	3	0	0	1	2	2	2	0	4.0	2	8	The United States Congress passed the legislation, signing it into law as President Joe Biden watched with excitement	11
+28	0	0	11	0	1	3	0	0	13	0	0	0	0	0	0	0	0	2.0	0	26	 Peru, Amazon rainforest, Andes mountain range, Lake Titicaca, Arequipa, Cusco, Machu Picchu, Lima, Quito, Tacna, and Santiago.	11
+32	0	1	4	5	0	4	2	2	6	5	0	1	1	5	2	2	0	11.0	5	7	Ingrid swam in the ocean, which was near her home in Helsinki, Finland, to collect seaweed used in crafting the intricate baskets favored by King Togood of Gorgan.	11
+39	0	0	7	3	2	3	0	3	18	1	0	0	2	0	1	1	0	4.0	0	19	The great leaders John F. Kennedy, Mahatma Gandhi, and Winston Churchill joined Nelson Mandela, Marie Curie, Oprah Winfrey, Steve Jobs, and Malala Yousafzai for a historic gathering on the island of Tasmania.	11
+76	1	0	10	10	0	4	1	4	22	6	0	0	17	5	2	2	0	15.0	5	10	Jamaica Bay embraces the biodiverse Great Blue Heron National Park, sheltering its shores against the turbulent Atlantic Ocean, near verdant Buzzards Bay of Bar Harbor, nestled in charming Boothbay Harbor, surrounded by historic Cape Cod, home to pristine Cardigan Mountains, adjacent majestic Maine, where the majestic NausETC cruises sail along the rugged coast of New England, near Plymouth's renowned Plimouth Plantation, located in quaint Provincetown. (The prompt words are in bold)	11
+40	0	1	6	8	0	1	0	3	16	3	0	1	1	2	1	0	0	6.0	2	16	Senator Sarah Johnson will meet with Ambassador David Lee at the Embassy of France in Madrid, Spain, before traveling to Tokyo, Japan, for a conference hosted by the Prime Minister of Japan, Yoshio Sakurai.	11
+43	0	0	10	0	1	1	0	2	24	2	0	0	3	0	1	2	1	6.0	1	34	The committee comprising Governor Newsom, Mayor Breed, Speaker Pelosi, Secretary Azar, Attorney General Becerra, President Macron, Chancellor Merkel, Prime Minster Johnson, King Abdullah, and Premier Li visited the new California Aquarium last Saturday. 	11
+125	5	3	11	16	2	28	5	19	14	13	1	0	7	8	7	7	0	10.0	8	87	The eleventh colossus in the Erebor Mine, Jabez Pepperbottom, carefully gathered the 347 gems to present to the Elf-lord Elrin in their meeting that same day, as Queen Thalia smiled benevolently at the festivities taking place in her kingdom celebrating the new moon, with Prince Marin by her side, while King Harken watched the festivities from a balcony above the crowded streets, where the unicorns danced gracefully and King Arin stood upon his throne, his crown glinting gold in the fading sunlight, as the bells of the castle tower pealed triumphantly at the happy occasion, and the winds whispered secrets of distant lands through the trees of the enchanted woodland surrounding the castle.	11
+33	0	0	4	5	1	10	0	3	6	2	0	0	2	1	1	1	0	7.0	1	7	The CEO of Amazon, Jeff Bezos, launched a rocket into space on behalf of Blue Origin, a private aerospace manufacturer and space travel services company founded by Elon Musk.	11
+34	0	0	11	4	1	2	1	1	12	1	0	0	1	0	1	0	0	4.0	0	25	Bram, along with her friends Emily, Alice, Grace, Ruby, Oliver, George, Max, Henry, and Sophie, went on a thrilling vacation to Costa Rica.	11
+23	0	0	3	4	0	4	1	3	6	2	0	0	0	0	1	1	0	4.0	0	9	The Gryffindor quidditch team, under the captainship of Ruby Thompson, defeated Slytherin in their opening match at the Hogwarts Stadium.	11
+46	1	2	7	3	2	8	2	7	7	3	0	2	2	2	3	1	0	7.0	2	14	The cat, Mrs. Whiskers, chased the mouse, Mr. Fluffy, around the house, and it was clear that Sally the squirrel and Tom the turkey were watching from their favorite tree, while Lola the lizard basked in the sun nearby.	11
+19	1	0	2	2	1	2	1	1	5	3	0	0	1	1	2	2	0	6.0	1	5	The president visited Tokyo, where he met Prime Minister Abe and talked about trade with Minister Yosano.	11
+25	0	0	4	3	1	5	0	3	6	2	0	0	1	1	1	2	0	6.0	1	14	The CEO of Apple Inc. led the panel discussion featuring speakers from Google, Amazon, Facebook, and Tesla at the annual conference.	11
+26	2	0	1	3	2	5	2	2	3	3	1	0	2	1	2	1	0	6.0	1	9	Sophie eagerly baked eleven delicious muffins with the freshly squeezed orange juice and eggs she bought at the market alongside her friends Emma and Olivia. (11 proper nouns)  Please let me know if there are any further requests or questions. Thank you.	11
+13	0	1	1	2	0	0	0	0	6	2	0	0	1	1	1	1	0	3.0	1	7	African Elephants migrated through Serengeti Plains in Tanzania before reaching Mt. Kilimanjaro.	11
+30	0	0	12	0	1	0	0	0	17	0	0	0	0	0	0	0	0	2.0	0	28	Bill Gates, Warren Buffett, Tim Cook, Elon Musk, Steve Jobs, Amazon, IBM, Google, Tesla, Facebook, Netflix, and Twitter.	11
+39	0	0	6	3	1	8	3	4	7	4	1	0	0	2	1	2	1	5.0	3	23	The sentence, comprised of Eleanor's cat, Felix, his wife, Lily White, their three children and their dog Buster followed the GPS map to the beach to find Nicole swimming in the ocean.	11
+35	0	0	5	5	1	2	3	3	12	3	0	0	1	1	2	3	0	6.0	1	12	The Queen of England visited Paris, France with her daughter, Princess Anne, and met with President Emmanuel Macron of France, who gave her a special gift from the Louvre Museum.	11
+24	1	0	0	2	1	1	2	1	8	4	0	1	1	3	2	2	0	5.0	3	11	John went to London to visit his friends Emma and Sarah at the new Harry Potter Studios where they had planned to meet J.K. Rowling for dinner after attending the Royal Albert Hall concert featuring the famous cellist Yo-Yo Ma. 	11
+47	1	0	4	7	1	3	2	5	16	2	0	0	6	1	2	2	0	7.0	1	9	The Prime Minister of Japan, Taro Aso, welcomed President Joe Biden to his office at the Akasaka Palace in Tokyo, where they discusses the ongoing trade war between the United States and China with Prime Minister Boris Johnson of the United Kingdom present.	11
+37	0	0	5	6	0	3	0	6	12	1	0	0	4	0	1	1	0	4.0	0	20	The President of the United States, Mr. Joe Biden, awarded the prestigious Medal of Honor to Sergeant James Taylor, a decorated war hero from Ohio, during a ceremony at the White House.	11
+36	0	0	3	6	0	10	1	6	3	2	0	0	5	1	2	1	0	3.0	1	20	Beneath the verdant canopy of the Eternal Forest, monarch butterflies sipped nectar from the vibrant blossoms of the Royal Flower Garden during a warm summer afternoon, their fluttering wings echoing through the silence.	11
+61	0	0	11	3	1	4	0	2	35	1	0	0	2	0	1	0	0	4.0	0	44	North American Martyrs' Memorial Church, Saint Anthony's Parrish School, Mayor Frank Telfo, Governor Andrew Cupcake, Senator Geraldine Gobbleberry, Doctor Elizabeth Peckamummy, Mr. William Breadbasket, President Leroy Snafu, Reverend Jeffery Snodgrass, Bishop Paul Bunnybottom, and Chief William Wokemup stood in front of the grand staircase in the capital building.	11
+33	0	0	4	6	0	3	0	4	6	3	2	0	5	1	0	1	1	5.0	2	11	In the historic city of Istanbul, located on the strategic Bosphorus waterway, exists Grand Bazaar, a legendary marketplace founded in 1453 by Sultan Mehmed II during the Ottoman Empire.	11
+67	0	1	11	7	2	12	5	6	9	6	1	0	6	4	2	4	0	8.0	4	19	The president of the United States, Joe Biden, held a press conference with the Prime Minister of Canada, Justin Trudeau, at the White House, during which they addressed the ongoing COVID-19 pandemic and announced joint efforts to combat it, while surrounded by various members of their staff, including their advisors, press secretary, and cabinet members.	11
+21	1	0	2	3	0	3	0	1	7	2	0	0	1	1	2	1	0	5.0	1	6	Barnaby Bubbles bounded up the steep stairs to Bunkertown, where Balthazar Beauregard barked orders at Billy Bigbottom's brigade.	11
+38	3	0	3	5	0	7	3	5	3	5	0	2	0	4	3	1	0	9.0	4	9	The cat purred in the lap of Amelia Earhart, who was about to fly solo around the world, when her colleague called to inform her of the surprise birthday party being held at the Pentagon.	11
+43	0	0	11	1	1	1	0	2	25	1	0	0	1	0	1	1	0	3.0	0	33	Albert Einstein, Leonardo Davinci, Michelangelo, Mahatma Gandhi, Marie Curie, Albert Camus, Martin Luther King, Mother Teresa, Napoleon Bonaparte, William Shakespeare, and Florence Nightingale visited the Easter Island on a crisp April morning.	11
+32	0	0	6	4	0	4	1	3	7	3	0	1	2	1	1	1	0	5.0	1	10	The CEO of Google, Sundar Pichai, will meet with the French President, Emmanuel Macron, to discuss their plans for expanded partnerships with the German company, Siemens.	11
+26	0	0	3	6	0	7	1	6	1	2	0	0	0	1	1	0	0	5.0	1	15	The cat sat on the mat with its owner, Mary, in the park under the trees near the river flowing through the mountainside.	11
+29	1	0	4	5	1	8	1	7	0	2	0	0	0	1	1	2	0	4.0	1	18	The cat chased the dog across the park, through the playground, and along the river bank, eventually catching it near the base of the mountain. (11 proper nouns included: cat, dog, park, playground, river bank, mountain)	11
+39	2	0	3	5	0	5	3	6	9	4	0	0	2	3	3	3	0	8.0	3	10	Alice enjoyed a delectable dinner with Eleanor at the Eiffel Tower, where they watched a beautiful ballet performance by the Paris Opera Ballet, after which they danced the night away at a club named Le Montagne.	11
+29	1	0	4	3	1	2	2	2	12	1	0	0	1	0	1	1	0	4.0	0	22	The Duke of Wellington enthusiastically celebrated his birthday with Queen Elizabeth the Second, her husband Prince Philip, Prince William, and Prince Harry at Windsor Castle.	11
+28	0	0	3	3	0	0	0	3	13	2	0	0	4	0	1	1	1	4.0	1	11	The United States President Donald Trump, accompanied by First Lady Melania Trump, visited the Japanese Prime Minister Shinzo Abe at the Akasaka Palace in Tokyo.	11
+24	0	0	1	4	0	4	0	4	6	2	0	0	2	1	1	2	0	4.0	1	9	The CEO of Microsoft Corporation signed a contract with the President of France to deliver advanced software upgrades for the French Air Force.	11
+49	1	1	2	8	3	6	2	4	12	7	0	2	1	2	2	3	1	8.0	3	9	A man named Jack attends school in San Francisco and lives in Toronto with his pet cat Luna while working for NASA as an astronaut and researching at the Yale Medical School, where he is studying under Professor Emma Johnson and has earned a degree from MIT.	11
+32	0	0	7	4	1	3	0	3	9	4	0	0	0	2	1	0	1	5.0	3	17	The team composed of John, Alice, Peter, Emily, Thomas, William, and Tim walked into the auditorium to listen to the lecture given by Speaker McCarthy.	11
+39	1	0	5	6	1	2	1	6	11	3	0	0	3	2	2	1	0	8.0	2	11	The Amazon River flows through the countries of Brazil, Peru, and Ecuador, where it meets the Pacific Ocean near the ancient city of Quito, located in the Andes Mountains adjacent to the Inca Trail.	11
+46	0	0	4	9	1	2	0	1	25	1	0	0	3	0	1	0	0	6.0	0	21	Inaugural events for President Aileen Doolittle of the United Earth Federation began in historic Washington D.C. with appearances by Ambassador Gail Everett of Andoria, Vice President Jesse Ricketts of Mars, Queen Zephyrus of Olympus, and Nobel Prize Winner Liang Qi of Qaumuu.	11
+55	0	0	12	5	1	6	0	5	22	1	0	0	3	0	1	1	0	4.0	0	44	In honor of the new president, the school held a celebration at the White House with former president Clinton, Speaker Pelosi, Secretary Azar, Congressman Smith, Mayor Johnson, Senator Warner, Reverend Jones, Governor Lee, Representative Harris, Ambassador Brown,  and Professor Patel all in attendance. 	11
+35	0	0	8	3	1	4	2	1	10	2	0	1	1	1	1	2	0	5.0	1	16	Maria will visit Eleanor at her cabin in the woods to celebrate Emma's eleventh birthday with Elizabeth, Henry, Thomas, William, Amelia, Charlotte, and their dog, Winston.	11
+26	0	0	1	4	1	2	0	5	6	2	0	1	3	1	1	2	0	5.0	1	6	The Prime Minister of Australia will visit the President of Russia to discuss the future of Ukraine and the impending election in the United States. (11 Proper Nouns)	11
+15	0	0	7	0	0	7	0	0	0	0	0	0	1	0	0	0	0	2.0	0	13	 cat, forest, brook, mountain, river, moon, starry sky.	11
+26	0	0	1	3	0	1	0	2	11	2	0	1	4	1	1	1	0	3.0	1	10	The Prime Minister of Canada Justin Trudeau will visit next month Tokyo, Japan to meet with Japanese Prime Minister Yasuo Fujiko at the G7 Summit	11
+16	0	1	1	1	0	4	1	3	2	2	0	0	1	1	1	2	0	3.0	1	8	The astronauts visited the lunar colony on their way to exploring the Jupiter moon Europa. They met the President of Mars and the Empress of Venus at the space station, where they celebrated the New Year with the Roman Emperor and toasted the birthday of the King of the Moon. (11 proper nouns)	11
+43	2	0	8	3	2	4	2	5	12	4	0	0	1	1	2	3	0	7.0	1	12	The Queen of England, Prince William, Harry, and their family visited Paris, France, where they attended a Bastille Day ceremony, and later enjoyed an exquisite dinner at a Michelin-starred restaurant in the Eiffel Tower.	11
+16	0	0	8	0	0	3	0	0	0	0	0	0	5	0	0	0	0	1.0	0	14	 great, gummy, bear, magnificent, mountainous, glorious, Gummy, world)	11
+29	1	0	2	3	0	10	1	2	0	3	0	0	7	3	1	1	0	9.0	3	6	The great elephant trunks tangled in tall trees near ancient Egyptian pyramids, where the lively tigers danced to Brazilian soccer players celebrating their recent world cup victory.	11

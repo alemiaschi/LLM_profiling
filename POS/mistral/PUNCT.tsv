@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+7	0	0	1	1	0	2	0	0	0	1	0	0	2	0	1	0	0	2.0	0	3	Red apple sits on table brown.	0
+7	0	0	1	1	0	3	0	0	0	0	0	0	2	0	0	0	0	2.0	0	3	Red apple green leaf on table.	0
+51	0	0	1	0	0	43	0	0	5	0	0	0	2	0	0	0	0	14.0	0	17	Apple orange banana tomato peach grape melon kiwi mango pear avocado strawberry pineapple cherry fig apple pear banana orange tomato mango peach apple grape banana kiwi melon pear mango grape apple tomato peach banana apple grape kiwi mango peach fig pear apple grape banana orange tomato apple kiwi mango grape.	0
+10	0	0	1	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	4	The sun rises over the horizon casting long shadows.	0
+8	0	0	0	0	0	2	0	1	0	1	0	0	4	0	1	0	0	2.0	0	5	The sun bright yellow radiant globe slow sets  This sentence, without proper punctuation, describes the sight of the sun as it sets, its yellow color and radiant glow being prominent features.	0
+12	0	0	1	1	1	4	0	0	0	2	0	0	3	0	1	2	1	4.0	1	6	Weave baskets with colored straws create intricate and vibrant patterns ```vbnet Weave baskets with colored straws create intricate and vibrant patterns ```.	0
+12	0	0	1	2	1	4	0	0	0	1	0	0	3	0	1	0	0	4.0	0	8	Blue birds dance among pink and red petals on garden ground.	0
+13	0	0	1	1	1	2	0	3	2	2	0	0	0	0	1	1	0	4.0	0	5	The Sun rises in the sky and warms the Earth's surface.	0
+13	0	0	1	0	0	9	0	0	1	1	0	0	1	1	0	0	0	2.0	1	5	Apple banana orange tree sunlight rain water sunset flowers garden birds singing.	0
+13	0	0	1	2	0	5	0	2	0	3	0	0	0	2	1	1	0	6.0	2	3	Create a garden filled with sunflowers sunflowers sunflowers grow towards the sun.	0
+13	1	0	3	2	1	3	0	3	0	0	0	0	0	0	0	0	0	3.0	0	6	" a period at the end and a comma before ""daily""."	0
+10	1	0	1	0	0	3	0	2	0	2	0	0	1	1	1	2	0	3.0	1	4	The sun sets gradually turning the sky various hues.	0
+68	0	0	1	0	0	40	0	0	6	0	0	0	3	0	0	0	0	10.0	0	56	Apple banana orange mango Pear grape lemon peach cherries watermelon strawberries kiwi melon figs pineapple passionfruit pear grapefruit tangerine mandarin apple avocado orange guava papaya honeydew dragonfruit nectarine mango peach persimmon plum sapote starfruit apricot cherimoya blueberry fig quince blackberry elderberry Boysenberry gooseberry japonica grape raisin damson plum cranberry blood orange tangelo clementine tangerine cumquat lemonade limeada watermelon juice orange juice peach juice pear juice apple juice.	0
+9	0	0	1	0	1	4	0	0	0	2	1	0	0	1	0	2	0	5.0	1	2	Create three dishes using eggs vegetarian and tomatoes.	0
+28	0	0	1	0	0	14	0	0	0	5	0	0	8	1	4	2	0	4.0	1	11	Red apples fall tree shaking ripe fruit branches bend sway low heavy weight sun hangs sky blue soft breeze blows wind calm peaceful nature scene autumn day.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+15	0	0	1	0	0	12	0	0	1	0	0	0	1	0	0	0	0	3.0	0	10	Apple banana orange mango grape peach lemon kiwi cherries pineapple avocado pear guava plum.	0
+8	0	0	1	0	0	2	2	0	0	2	0	0	1	1	2	2	0	4.0	1	2	I love books that evoke vivid emotions.	0
+7	0	0	1	1	0	3	0	0	0	1	0	0	1	0	0	1	0	2.0	0	4	Create art from life experience unending.	0
+30	5	0	1	3	0	11	0	0	0	5	0	0	5	1	1	4	0	7.0	1	11	Learn Japanese language effortlessly combine kanji symbols correctly order characters effectively communicate daily sentences effectively build solid relationships with native speakers daily immerse in authentic culture through travel experiences.	0
+14	0	0	1	0	0	8	0	0	0	2	0	0	3	0	1	3	0	5.0	0	7	Bring water balls blue red mix many create stack pile joy laughter kids.	0
+10	0	0	1	0	0	2	1	2	0	2	0	1	1	1	1	2	0	4.0	1	4	Bring me the red book the girl is reading.	0
+13	1	0	1	1	0	7	0	0	0	3	0	0	0	1	2	1	0	3.0	1	8	Colors dance on rain slicked streets when moon shadows play night games.	0
+26	1	1	2	2	1	7	0	2	1	4	0	4	1	2	3	2	0	5.0	2	23	Sun rises over horizon slowly spreading light    Note that the sentence does have implied pauses for clarity, but no explicit punctuation has been added.	0
+11	0	0	1	0	0	5	0	0	0	3	0	0	2	2	0	1	0	3.0	2	3	Blue sky white clouds sun shining trees waving birds flying.	0
+12	0	0	1	0	0	7	0	0	0	2	0	0	2	1	2	0	0	3.0	1	5	Color blue sky sun birds fly green tree flower children dance.	0
+11	0	0	1	1	1	4	0	0	0	1	0	0	3	0	0	0	0	4.0	0	3	Create in garden sunflowers beautiful bloom tall and bright yellow.	0
+11	0	0	1	2	0	4	1	0	0	2	0	0	1	0	0	2	0	3.0	0	5	Bring flowers in red color bring sunshine to my life.	0
+12	0	0	1	1	0	7	0	0	0	3	0	0	0	1	1	2	0	4.0	1	5	Colors dance on canvas brush strokes blend forms shift creating painting.	0
+12	0	0	1	2	0	4	0	2	0	2	0	0	1	1	1	1	0	4.0	1	5	The sun sets behind mountains releasing warm colors into the sky.	0
+9	0	0	1	1	0	4	0	0	0	3	0	0	0	2	2	1	0	4.0	2	3	Create art from shards sunsets offer morning arrives.	0
+9	0	0	1	1	0	3	0	2	0	2	0	0	0	1	1	1	0	3.0	1	3	The sun rises over the horizon spreading light.	0
+6	1	0	1	0	0	1	0	0	0	1	0	0	2	0	1	0	0	2.0	0	2	Colorless green ideas sleep furiously.	0
+15	0	0	1	3	1	5	0	3	0	2	0	0	0	1	0	0	0	3.0	1	10	Run through the forest with the sun setting and deer leaping in every direction.	0
+13	0	0	2	0	0	4	0	1	1	2	0	0	2	1	1	1	0	4.0	1	8	Sun sets painting the sky orange red ```sql SELECT COUNT(*) FROM orders WHERE customer_id = 1234 AND order_status = 'completed' AND delivery_address LIKE '%New York%';  -- This query retrieves the count of orders with customer 1234, 'completed' status, and having 'New York' as part of their delivery address.	0
+10	0	1	1	1	0	5	0	0	0	2	0	0	0	1	1	2	0	3.0	1	6	Bring water from river before sunset make fish dinner.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly behind the hills.	0
+7	0	0	1	0	0	3	0	0	0	0	0	0	3	0	0	0	0	2.0	0	4	Blue car red car green car.	0
+15	0	1	1	1	0	7	0	0	1	2	0	0	2	0	1	2	1	5.0	1	10	Apple red ripe in hand tree shade beneath sitting eating quiet sunlight warms face.	0
+12	0	0	1	0	0	6	0	0	0	4	0	0	1	2	0	4	0	5.0	2	8	Bring meat eat vegetables cook breakfast lunch dinner create happy faces.	0
+8	0	1	1	0	0	1	1	1	0	2	0	0	1	1	0	2	0	2.0	1	5	Color the apples red before serving them.	0
+11	0	0	1	0	0	8	0	0	1	0	0	0	1	0	0	0	0	4.0	0	4	Apple banana orange lemon peel twist grape pear kiwi munch.	0
+10	0	0	1	1	1	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	The cat sat in the sun soft and warm.	0
+13	0	0	1	2	1	5	0	0	0	1	0	0	3	0	1	1	0	3.0	0	7	Farmers grow crops in fertile soil with adequate water and bright sunshine.	0
+8	0	0	1	2	0	3	0	1	0	1	0	0	0	1	0	0	0	4.0	1	3	Colors of the wind passing through trees.	0
+67	0	0	1	0	0	57	0	0	7	0	0	0	2	0	0	0	0	14.0	0	19	Apple banana grapes orange lemon peach mangosteen pineapple kiwi melon watermelon peach pear plum fig cherry plum grape cherimoya strawberry blueberry raspberry blackberry elderberry bilberry guava apple pear persimmon guava jackfruit lychee dragon fruit papaya banana passionfruit starfruit apricot pluot quince fig apple persimmon pomegranate apricot apple pear fig quince nectarine damson plum elderberry bilberry boysenberry strawberry black currant gooseberry cranberry elderberry huckleberry blueberry raspberry gooseberry.	0
+9	1	0	1	1	0	3	0	1	0	1	0	0	1	1	0	0	0	3.0	1	5	Colorful birds singing happily in the tree branches.	0
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A bird flies in the sky  	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the ocean.	0
+10	0	0	1	2	1	5	0	0	0	1	0	0	0	0	0	1	0	3.0	0	8	Bring water melon and banana from market for breakfast.	0
+10	1	0	1	0	1	2	1	2	0	2	0	0	0	0	1	2	0	2.0	0	4	The dog fetched the stick and threw it back.	1
+11	1	0	2	0	0	1	1	1	0	1	0	2	2	1	1	1	0	2.0	1	7	You have finished the third assignment, is that correct?.	1
+10	1	0	1	1	0	2	0	1	0	2	1	0	0	1	1	0	0	4.0	1	4	The sun begins to set at precisely 6:30 PM.	1
+19	0	1	2	0	0	1	4	2	0	4	0	2	1	1	3	2	2	4.0	3	8	Although he knew it was dangerous, he couldn't resist the urge to explore the abandoned mine.	1
+9	1	0	2	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	5	"""Please pass the salt when you can."	1
+10	0	0	1	2	0	2	1	1	0	1	0	1	0	1	1	0	0	3.0	1	4	I promise to be on time for the meeting.	1
+17	0	0	2	1	0	2	2	1	1	3	2	0	0	1	1	2	0	4.0	1	9	Please find the attached invoice for your order FGHJ-9237, which totals $525.	1
+11	1	0	2	0	0	1	2	0	0	1	1	2	1	0	2	1	0	3.0	0	4	You're correct, I do speak seven languages fluently.	1
+12	0	0	2	1	0	2	2	1	0	2	0	0	1	1	1	1	0	3.0	1	3	Despite my initial hesitation, I decided to join the hike.	1
+13	0	0	2	1	0	2	3	1	0	2	0	1	0	0	2	1	0	3.0	0	6	I can't go to the store; I forgot my wallet.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun set slowly over the tranquil ocean.	1
+16	1	1	2	1	0	4	1	3	0	2	0	0	1	0	1	2	1	3.0	1	8	After completing all assignments, she watched a horror movie alone in the dark house.	1
+15	1	0	1	1	0	3	2	3	0	2	0	0	1	1	1	3	0	3.0	1	10	Please bring me the red umbrella by the door when you have a moment.	1
+10	1	0	2	0	0	2	0	2	0	3	0	0	0	1	1	1	0	3.0	1	4	The car hit a pothole, sparks flying everywhere.	1
+6	0	0	1	0	0	2	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	The clock Tower struck midnight.	1
+10	0	0	2	1	0	3	2	1	0	1	0	0	0	0	1	1	0	2.0	0	3	Despite the storm, we continued our camping trip.	1
+9	0	0	1	1	0	1	2	1	0	2	0	1	0	1	1	1	0	4.0	1	2	I have completed the tasks assigned to me.	1
+8	1	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	This cake is both delicious and decadent.	1
+7	0	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The package should arrive by midnight.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The moon rises silently over the calm sea.	1
+7	1	0	1	1	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Your dog barks incessantly during thunderstorms.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	2	The early bird catches the worm.	1
+20	1	1	2	0	0	3	3	2	0	4	0	1	1	3	3	3	0	5.0	3	6	I apologize, I cannot perform this task as the instruction lacks sufficient information to complete it correctly.	1
+10	1	1	1	0	0	2	2	1	0	2	0	0	0	1	2	1	0	3.0	1	4	Her dog barked once as she approached the mailbox.	1
+9	0	0	1	1	0	2	1	1	0	2	0	0	0	0	0	1	0	3.0	0	3	Please find the attached document for your review.	1
+11	1	0	2	0	0	1	1	1	0	3	0	1	0	0	1	1	0	2.0	0	7	Please find the attached files, they're labeled clearly.	1
+13	1	0	2	2	0	3	2	2	0	1	0	0	0	0	1	1	0	2.0	0	6	Despite its size, she carried the suitcase up the stairs gracefully.	1
+9	1	0	1	1	0	1	1	0	0	0	1	2	1	0	1	0	0	2.0	0	3	I'll be there at 6 PM sharp.	1
+15	1	0	2	1	0	5	0	4	0	2	0	0	0	1	2	1	0	4.0	1	4	The rain fell steadily on the windowpane, each droplet making a pinging sound.	1
+16	0	0	2	2	0	4	0	4	0	2	0	0	2	1	1	0	0	5.0	1	4	The sun set over the tranquil lake, a golden orb dipping into the horizon.	1
+10	0	0	1	0	1	2	1	0	0	1	2	0	2	0	1	1	0	3.0	0	4	I have one blue eye and one green eye.	1
+7	0	0	2	1	0	0	1	0	0	1	0	1	1	0	1	0	0	2.0	0	3	They have arrived, at last.	1
+24	1	0	5	4	0	6	0	3	0	3	0	0	2	1	1	1	1	4.0	2	8	The elephant, standing calmly in the savannah, displayed an enormous, radiant trunk, covered in mud from head to tail.	1
+9	0	0	2	0	0	3	1	1	1	1	0	0	0	0	1	1	0	2.0	0	2	The chess grandmaster made his move, Checkmate.	1
+12	0	1	1	1	0	3	1	3	0	2	0	0	0	1	2	1	0	3.0	1	6	The dog barked at the mailman as he approached the house.	1
+13	0	0	1	3	0	5	0	2	0	1	1	0	0	0	1	0	0	3.0	0	7	The car drove over the speed bump at 60 miles per hour.	1
+12	1	0	1	1	1	3	2	1	0	2	0	0	0	0	1	2	0	3.0	0	5	She finished her homework and watched TV late into the night.	1
+11	2	1	1	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	6	The cat meowed softly at the door before jumping in.	1
+16	1	0	2	2	0	2	1	2	0	1	0	1	3	1	0	0	0	3.0	1	5	After a long day, it's great to come home to a warm bath.	1
+15	0	0	2	2	0	5	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun sets behind the mountains, casting long shadows on the valley floor.	1
+16	0	0	2	2	0	4	1	2	0	2	0	0	3	1	2	0	0	4.0	1	4	The sun set over the tranquil lake, its reflection shimmering in soft orange hues.	1
+11	0	0	2	0	1	1	2	1	0	2	0	1	1	1	2	1	0	3.0	1	8	She finished baking the cookies, and they were delicious.	1
+13	0	0	2	2	0	3	0	3	0	2	0	0	1	0	1	0	0	2.0	0	9	The ball bounced off the wall with a crisp, echoing sound.	1
+15	0	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	4.0	1	6	The sun sets behind the distant mountains, marking the end of another day.	1
+14	0	0	2	2	0	3	2	0	1	1	1	1	1	0	1	1	0	2.0	0	10	I can read 500 pages for my book report, due next Monday.	1
+11	1	0	1	1	1	2	2	1	0	2	0	0	0	0	1	1	0	3.0	0	4	She quietly closed the book and rose from her seat.	1
+9	1	0	1	0	1	1	1	1	0	3	0	0	0	1	2	0	0	2.0	1	4	The dog barked and then it started raining.	1
+12	0	0	1	1	0	4	1	3	0	1	0	1	0	0	1	1	0	2.0	0	8	I will bake a cake for the birthday party this afternoon.	1
+10	1	0	1	0	0	1	2	1	0	1	0	2	1	1	2	0	0	2.0	1	4	You're the best employee we've ever had!.	1
+13	0	0	2	1	0	2	3	0	0	2	0	1	0	0	1	2	0	3.0	0	5	You have not paid your bill; please settle it before checkout.	1
+14	0	0	2	1	0	4	0	4	0	2	0	0	1	0	2	1	0	3.0	0	8	The sunlight filtered through the trees, a cool breeze rustled the leaves.	2
+8	1	0	1	1	0	1	1	0	0	0	1	2	0	0	1	0	0	2.0	0	3	I'll be there by 5:00 p.	2
+14	2	0	2	1	0	2	3	1	0	1	0	2	0	1	2	1	0	3.0	1	7	I've finished my work, now I'm off for the weekend.	2
+14	1	0	3	1	0	3	1	2	0	2	0	1	0	0	1	0	0	4.0	0	5	The sun was setting: suddenly, there was a clap of thunder.	2
+11	1	0	2	0	1	2	1	2	0	2	0	0	0	0	1	2	0	3.0	0	6	She ate the sandwich, and then drank some water.	2
+16	0	0	2	2	0	4	1	2	0	2	0	0	3	1	1	0	0	5.0	1	5	The sun set over the lake, its brilliant orange hues reflected in tranquil waters.	2
+9	2	0	2	0	0	0	1	0	0	3	0	0	0	1	1	0	0	3.0	1	4	She sighed heavily, then began to cry.	2
+15	2	0	2	2	0	3	1	3	0	2	0	0	0	1	1	1	0	4.0	1	7	They celebrated late into the night, the fireworks finally lighting up the sky.	2
+19	0	0	3	2	0	6	0	4	0	2	0	0	2	0	1	2	1	4.0	1	9	The moon, glowing orange in the twilight sky, cast a silver reflection on the tranquil lake.	2
+14	1	0	7	1	0	0	1	0	0	2	0	0	0	0	1	0	0	3.0	0	6	"She smiled; then cried out, ""Oh, no!""."	2
+16	1	0	2	2	0	3	3	2	0	1	0	2	0	1	2	1	0	2.0	1	12	I'll meet you afterwards at the bakery — it's near the bus stop.	2
+10	1	0	2	0	1	1	1	1	0	2	0	0	1	0	2	0	0	3.0	0	6	She sang beautifully, yet the audience remained unimpressed.	2
+12	0	0	2	1	1	2	1	1	0	3	0	0	0	1	2	0	0	4.0	1	4	She sighed, and raindrops began to fall on the windowpane.	2
+9	0	0	2	0	0	1	2	1	0	0	0	2	1	1	2	0	0	2.0	1	4	You're an AI; I'm human.	2
+19	0	0	2	2	1	6	3	1	0	2	0	0	2	1	1	0	0	5.0	1	7	Her gaze shifted between the old map and his excited face, question marks dancing in her eyes.	2
+18	1	0	2	3	1	4	2	2	0	3	0	0	0	0	2	1	0	3.0	0	8	The monkey played loudly with its banana, yet it kept an ear out for approaching dangers.	2
+16	2	0	2	2	1	4	0	3	0	2	0	0	0	0	2	0	0	3.0	0	10	The sun set beautifully over the horizon, yet a chill wind picked up unexpectedly.	2
+11	1	0	2	0	0	3	0	1	0	3	0	0	0	1	2	0	0	3.0	1	6	The sun began to set; evening shadows stretched long.	2
+14	1	0	2	0	1	4	1	0	0	1	0	2	1	0	1	0	1	2.0	1	5	I can't decide – is chocolate ice cream or mint really better?  (I can't decide — is chocolate ice cream or mint really better?).	2
+15	3	0	2	2	0	2	1	2	0	2	0	0	1	1	1	1	0	3.0	1	7	He answered the phone quietly, yet quickly hanging up after a hushed conversation.	2
+13	2	0	2	0	1	2	2	1	0	2	0	0	1	0	2	1	0	3.0	0	6	Her eyes darted back and forth; she whispered an urgent prayer.	2
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	0	2	0	0	3.0	0	8	The sun set over the horizon; a crisp breeze arose.	2
+9	1	0	1	1	0	2	0	1	0	2	0	0	0	1	0	0	0	3.0	1	4	Why not go hiking in the forest today? But packing the essentials is a must.	2
+22	1	1	2	0	0	7	1	3	0	2	0	1	3	2	3	2	0	4.0	2	9	The sun set, its last orange rays illuminating the sky's nightly hues before darkness finally engulfed the land.	2
+16	0	0	2	1	1	3	0	2	0	4	0	0	1	2	2	0	0	4.0	2	7	The sun began to set, and the birds started to roost in nearby trees.	2
+16	1	0	2	0	0	2	3	1	0	2	0	3	1	0	2	2	0	3.0	0	8	I cannot attend the event, yet I'll be sending my best wishes.	2
+11	0	0	2	1	1	3	0	2	0	2	0	0	0	0	2	1	0	3.0	0	4	The sun set, and fireflies lit up the garden.	2
+23	1	0	4	1	0	4	3	2	0	4	0	0	2	2	2	3	0	4.0	2	9	Despite the heavy rain, she managed to finish the run; afterwards, she took deep breaths to calm her heart.	2
+11	2	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	7	The sun sets silently over the calm, still lake.	2
+16	0	0	2	2	1	4	0	3	0	3	0	0	0	1	2	0	0	3.0	1	10	The sun set beneath a sea of clouds, yet the fireflies continued to glow.	2
+6	0	0	2	0	0	0	2	0	0	2	0	0	0	0	2	0	0	2.0	0	3	She smiled; he laughed.	2
+21	2	0	3	1	0	4	2	2	0	3	1	1	1	1	2	2	0	4.0	1	9	I can finish the project today; however, I also need to attend an urgent meeting at 3 pm.	2
+17	0	0	5	1	1	3	2	2	0	2	0	0	1	0	1	1	0	3.0	0	10	"She exclaimed, ""What a lovely surprise!"" and clapped her hands in delight."	2
+9	1	0	2	1	0	1	1	0	1	0	0	2	0	0	1	0	0	2.0	0	4	I'll be home for dinner, Mum.	2
+13	1	0	1	1	0	4	2	2	0	2	0	0	0	1	2	1	0	3.0	1	5	The children laughed when the clown dropped his balloon on his foot.	2
+14	2	0	2	2	0	1	1	0	0	1	0	3	0	0	1	0	0	3.0	0	8	I'll be there before noon; please don't call before then.	2
+8	1	0	1	0	1	0	1	0	0	3	0	0	0	1	1	0	0	3.0	1	3	She gasped and then began to laugh.	2
+14	1	0	2	1	0	3	1	2	0	2	1	0	1	1	2	1	0	3.0	1	5	The clock struck twelve, its chimes resonating deeply through the quiet streets.	2
+8	0	0	2	0	0	2	0	1	0	2	0	0	1	0	2	0	0	2.0	0	3	The sun sets; stars twinkle bright.	2
+17	1	0	2	2	1	3	1	1	1	2	0	0	2	0	1	1	0	4.0	0	8	Why not travel to Italy for the summer; it offers beautiful landscapes and delicious cuisine?.	2
+21	1	0	2	2	2	4	3	1	0	3	0	1	0	0	1	2	0	3.0	0	8	Why don't you stay and watch the fireworks, yet please pick up my daughter from her swimming lesson?.	2
+16	2	0	4	1	0	1	4	0	0	3	0	1	0	1	3	0	0	5.0	1	5	"He replied, ""Your message received; I'll get back to you soon."	2
+6	0	0	1	0	1	0	2	0	0	2	0	0	0	0	2	0	0	2.0	0	3	He laughed and she cried.	2
+12	1	0	3	0	0	1	2	1	0	2	0	1	0	0	1	2	0	2.0	0	5	I've made the corrections; kindly check them, please.	2
+17	2	0	2	2	0	4	0	4	0	2	0	0	1	0	2	0	1	4.0	1	8	The sun setting behind the mountains, a bird soared gracefully in the still blue air.	2
+18	1	0	2	1	0	3	2	3	0	4	0	0	1	2	2	2	0	5.0	2	5	A sudden bark startled the hikers; they turned quickly to find a bear charging towards them.	2
+13	0	1	1	2	0	3	2	1	0	2	0	0	1	1	2	0	0	3.0	1	5	Her eyes filled with tears as she listened to the beautiful melody.	2
+13	0	0	2	2	0	5	2	0	0	2	0	0	0	0	2	1	0	3.0	0	5	She gasped in delight; tears traced gleaming trails down her cheeks.	2
+14	0	0	2	2	0	5	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The sun dipped below the horizon; the evening star winked in response.	2
+8	1	0	1	1	0	1	1	1	0	0	0	2	0	0	1	0	0	2.0	0	3	I'll be there in an hour .	2
+39	0	0	11	3	2	2	3	3	9	2	0	2	1	0	3	1	0	4.0	0	27	I've been to Paris, Vienna, London, Madrid, and Prague—each City, charming in its own Right!; but Paris, ah Paris, holds my Heart above All the Rest.	5
+18	5	0	4	0	1	1	2	0	0	5	0	0	0	1	1	1	0	3.0	1	14	She smiled brightly, then winked, afterwards shrugging her shoulders and laughing, finally sighed deeply.	5
+19	0	0	7	0	1	1	2	0	0	2	5	1	0	0	2	1	0	4.0	0	9	I can count apples, you know; one, two, three, four, and five.	5
+39	2	1	7	4	1	10	1	5	0	7	0	0	1	3	3	2	0	5.0	3	11	The car, with blaring sirens, swerved into the intersection, narrowly missing the bus, and collided abruptly with a truck; its shattered windows revealing worried passengers, while the bus driver shouted in anger.	5
+59	0	0	13	7	3	10	3	6	5	2	0	3	7	3	2	0	0	8.0	3	45	I've been to Chicago, Boston, New York, London, and Paris; each city unique, yet familiar in its charm, the streets filled with a cacophony of life, laughter, history—all intertwined with vibrant cultural nuances, and a distinct sense of pride, that is unlike any other.	5
+10	0	0	3	0	1	3	0	0	0	0	3	0	0	0	0	0	0	2.0	0	7	 1 colon, 3 commas, and 1 period.	5
+29	2	1	6	1	1	4	3	3	0	6	0	1	1	3	5	0	0	6.0	3	7	A: I can sing, she whispered, laughing softly, her eyes gleaming with mischief, until the moon rose high and the stars twinkled merrily.	5
+59	4	1	8	4	2	16	2	5	1	11	0	0	3	3	7	2	0	5.0	3	38	A beautifully wrapped present lay on the gleaming table, its satin bow glistening under the tree lights; its gold foil peeking through, tinsel glittered around, the clock's tick marked time in measured rhythm, yet the room filled silent, eager anticipation till Santa's jolly laughter echoed in—and then faded.	5
+43	1	0	7	3	2	14	1	8	0	6	0	0	1	1	5	1	0	4.0	1	36	The sun sets, splashing reds and pinks against the western sky; a car horn blares, an ambulance siren wails in the distance, my dog whines, a cat meows, and the wind softly whistles through the trees.	5
+45	7	0	10	6	0	7	4	4	0	6	0	0	1	1	2	0	0	4.0	1	29	"Her dog barked excitedly at the sight of a squirrel, dashed away, circled around a tree twice, then triumphantly returned with an acorn in its mouth; I called after her, ""Come back soon, little one!""."	5
+33	1	0	9	1	0	3	7	2	0	6	0	2	1	3	6	3	0	4.0	3	22	"I have a cat, She loves to sleep on the mat, He brought me flowers, They're delicious, she asked, ""Why did you cry?""."	5
+43	3	1	6	6	1	11	4	2	0	5	0	0	3	2	4	0	0	7.0	2	14	The sun set slowly, behind clouds that burst with rain, its golden glow shimmering on a calm pond, as fireflies danced in unison with crickets' melodic song, but my heart, still pounded relentlessly in my chest.	5
+30	3	0	5	3	1	6	1	2	0	3	1	0	4	0	1	1	1	5.0	1	10	A narrow alley, just wide enough for one to pass, wound its way between ancient stone houses, and suddenly ended at a tall, iron gate.	5
+32	2	0	9	1	1	5	5	3	0	5	0	1	0	1	4	3	0	5.0	1	29	"She ate an apple, sneezed, then dropped her glass, which shattered on the floor; he shouted, ""Fire!"" but it was only a drill."	5
+46	1	0	6	6	1	10	4	8	0	7	0	1	2	2	2	4	0	5.0	2	35	I can taste the sweetness of the pineapple, hear the laughter in the background, see the rainbow-colored balloons bouncing around me, touch the cool glass on the table beside me, and feel the wind blowing gently through my hair.	5
+5	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	1	0	2.0	0	2	I love old books:!?.	5
+29	5	0	10	0	1	1	2	1	0	6	0	0	2	0	2	1	0	4.0	0	19	"Her laughter erupted, intermittently; he smiled awkwardly, shrugged slightly, exclaimed an involuntary ""oh!"", looked surprised, and then sighed heavily."	5
+11	0	1	2	0	0	2	2	1	0	2	0	1	0	0	2	2	1	2.0	1	5	After we finish packing, I will call a taxi.	5
+49	4	0	10	2	3	8	8	3	0	6	0	4	1	0	4	6	0	4.0	0	33	I've finished the report, yet I must edit its chapters, moreover, rewrite a few sentences in the introduction; but first, I'll have lunch; later, I'll present it to my team-members and finally, answer their questions.	5
+44	5	0	8	5	0	12	1	8	0	5	0	0	0	0	5	0	0	4.0	0	39	A rooster crows in the dawn, children laugh at their joke, the sun sets over the horizon, a dog barks relentlessly at an intruder, an owl hoots gently in the night, then, suddenly, thunder claps loudly.	5
+50	0	0	7	5	1	13	2	9	0	9	0	0	4	3	5	4	0	7.0	3	34	The sun sets over the horizon, a myriad of colors paint the sky; a cool breeze stirs the shallow water, creating small waves that dance and lap against the shoreline; the seagulls scatter, screeching in disbelief, their silhouettes framed by an orange glow.	5
+11	0	0	2	1	0	3	1	1	0	2	0	0	0	1	1	1	0	3.0	1	5	"""I promise to return the library books on time."	5
+35	0	1	13	1	0	5	5	1	0	9	0	0	0	4	2	3	0	5.0	4	22	"She smiled, at his joke; sighed, as he left; shouted, ""Call the police!""; laughed, hearing her voice echo; cried, remembering his kindness."	5
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	A period! Exclamation mark.	5
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	A period.	5
+78	5	0	12	11	2	20	0	12	0	8	0	0	8	3	4	1	0	6.0	3	59	The sun sets, painfully slowly, amidst an array of fiery oranges, pinks, and purples; a solitary bird flies over the horizon, cawing softly into the silence; the gentle lapping of waves against the sandy shore increases in volume, followed by the abrupt roar of incoming surf; finally, the cool evening breeze whispers through the palm fronds, rustling softly and signaling the arrival of a tranquil night.	5
+25	2	0	9	4	3	5	0	2	0	0	0	0	0	0	0	0	0	4.0	0	17	" commas after ""children"" and ""dogs"", and after ""and"", as well as a period at the end."	5
+25	1	0	7	2	0	6	1	3	2	3	0	0	0	0	2	1	0	4.0	0	9	A cat sat in the sun, purringcontentedly;the children played joyfullyaroundit,laughingandsplashinginthewater;yetanoldwoman,staringblanklyintothedistance,sat quietlywith her knitting.	5
+42	4	2	5	3	2	7	3	3	1	6	0	2	3	2	4	3	1	5.0	3	25	Although it was raining cats and dogs, John eagerly awaited the bus, but the arrival of a bright yellow cab with flashing lights turned out to be more enticing, still; he hesitated momentarily before making his decision.	5
+23	1	0	6	0	0	6	0	5	0	5	0	0	0	1	4	0	0	3.0	1	17	"""The sun sets; the stars twinkle; the wind howls; a dog barks, then the rain starts pouring."	5
+35	0	1	6	2	1	8	1	6	0	5	0	2	3	3	4	1	0	6.0	3	14	A brief summary: The sun was setting behind the mountains; it was quiet, with birds chirping, a gentle breeze rustling the trees, and fireflies appearing in the darkening forest.	5
+53	1	1	9	6	2	12	1	7	0	8	1	0	4	3	6	3	0	6.0	3	39	The sun set slowly, over the serene lake; the swans began to glide, in elegant formations, while geese honked goodbye, and children called out to one another, playing near the sandy shore; a fisherman wound up his line, and a small boat drifted homewards.	5
+6	0	0	2	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	A period: It rained.	5
+18	0	0	4	0	1	5	1	2	0	2	0	0	3	0	2	2	0	4.0	0	8	A panda eats bamboo; it has black eyes, red paws, and a long tail.	5
+29	5	0	6	2	1	7	0	2	0	6	0	0	0	0	5	0	0	4.0	0	15	The sun sets gradually, behind towering clouds; a dog barks loudly, birds fly southward in V-shapes, winds howl menacingly, and rain pelts relentlessly.	5
+15	0	0	5	0	1	7	0	2	0	0	0	0	0	0	0	0	0	2.0	0	12	"A period, a comma, question mark, exclamation point, and semi-colon: How was the party? The cake was delicious; everyone sang ""Happy Birthday""! Where is the cat? Do we have time to buy ice cream?."	5
+53	3	1	10	6	0	11	6	6	0	8	1	0	1	3	7	1	0	5.0	3	28	Despite the rain, she stepped off the bus; the dog bounded towards her, droplets sparkling in its fur; her heart raced, as the clock chimed three; he knocked at the door, his eyes nervously darting around; finally, the last piece fell into place.	5
+18	1	0	5	0	1	2	3	0	0	5	0	0	1	0	1	2	0	3.0	0	13	He sighed, shook his head, rolled his eyes, chuckled, and sighed once more.	5
+39	5	1	9	2	2	8	1	5	0	6	0	0	0	2	5	0	0	4.0	2	19	The cat, with twitching tail, sneezed noisily; then the parrot squawked loudly, while the dog barked relentlessly; but suddenly the phone rang, and the rabbit,startled, scampered into its burrow.	5
+69	3	0	15	5	0	11	8	8	0	12	0	4	1	6	9	3	1	6.0	7	46	"A man who couldn't swim, jumped into the pool; the balloon, which was tied to the dog's tail, burst spontaneously; she opened the present, revealing an expensive emerald ring; they argued, each shouting, ""I'll leave first!""; he tapped his foot, impatiently waiting for the bus behind which was stuck in traffic."	5
+6	0	0	1	1	0	0	1	0	1	0	0	2	0	0	1	0	0	1.0	0	4	I've been to Italy!—A lovely pizza there was, €12.	5
+69	5	0	10	9	2	16	3	12	0	9	0	0	3	2	7	2	0	5.0	2	49	The rain, heavy at first, tapered off in the mid-afternoon; a ray of sunlight illuminated the puddles on the pavement beside me; a plane soared overhead, leaving a vapor trail across the sky; a dog passed by on a leash, its ears up and curious; then a bus approached and halted with a grinding sound, its door creaking open.	5
+60	5	1	8	6	3	11	6	5	0	12	0	1	1	3	4	3	0	8.0	3	29	The cat barked frantically at the mailman, then darted under the porch; it meowed, sneezed, and licked its paw before settling down, but its calm was disrupted once more by the sound of thunder outside, which caused it to arch its back and stare with terror-filled eyes at the roaring sky.	5
+48	2	0	7	5	0	14	1	10	0	7	0	0	2	1	6	3	0	4.0	1	37	A robin red-breast sat in a tree, singing melodiously; it then hopped to another branch; a sudden gust of wind rustled the leaves; a squirrel scrambled up a tree trunk, bark flying; a raindrop hit a puddle with a plop.	5
+56	7	0	11	5	1	13	2	7	0	9	0	0	1	4	6	1	1	5.0	5	38	The car, abruptly stopping, spun around in a wide circle, its tires screeching; a dog barked frantically, its chain rattling madly; sirens wailed in the distance, drawing nearer with every passing moment; and suddenly, lightning illuminated the sky, followed shortly by a crash of thunder.	5
+22	2	1	5	0	1	2	3	2	0	4	0	1	0	2	3	2	0	5.0	2	7	"A man said, ""Yes, I can help, but why ask me if you already know the answer? Please, don't interrupt; I'm thinking."	5
+64	10	0	15	5	3	12	4	3	0	10	0	0	2	3	4	2	0	7.0	3	18	Her cat, with a pink collar, meowed softly; its tail, curved and quivering, swished back and forth; meanwhile, birds sang melodically outside, fluttering in branches; suddenly, a train horn echoed, startling everyone in stillness; and finally, the smell of freshly baked cookies wafted in, bringing smiles to their faces.	5
+9	0	0	3	0	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	5	"A man shouted, ""The lion roared! The monkey screamed! Birds took flight! An earthquake occurred! Suddenly, the sun rose."	5
+24	0	0	5	1	1	7	0	5	0	5	0	0	0	0	1	5	0	3.0	0	18	The panda ate bamboo, giggled the monkey, snorted the elephant, waved goodbye to the parrot, and trumpeted the zebra.	5
+26	3	0	7	1	0	2	3	2	0	5	0	1	2	1	3	1	0	5.0	1	8	I've a cat, it's quite old; it meowed, barked, growled once, then slept, under the moonlit tree.	5
+58	2	1	8	7	1	12	4	8	0	11	0	0	3	3	3	4	0	6.0	3	47	He walked down the quiet street, turned left at the fourth corner, paused to admire the old cathedral, smiled, nodded to the street musician, laughed softly as a child splashed water at him, bought a rose from the street vendor, and boarded the bus that stopped in front of him.	7
+4	0	0	2	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	"""A period."	7
+24	0	0	7	0	0	11	1	2	0	3	0	0	0	0	3	0	0	3.0	0	20	A dog barks, children laugh, balloons pop, music plays, a clock chimes, fireworks explode, my sister yawns.	7
+79	6	1	15	7	1	15	3	13	0	12	0	1	4	10	6	4	0	8.0	10	25	A: The cat, quick and sneaky, prowled silently through the garden, leaping at the rabbit, which was munching lettuce under a cedar tree; then suddenly, a bee hummed around a rose, while the frog, croaking melodiously near the bubbling brook, startled a blue jay, which flew off screeching, startling the skunk, that sniffed the breeze suspiciously, deciding finally to retreat in the nearby undergrowth.	7
+26	0	0	7	0	1	2	7	1	0	7	0	0	1	0	7	1	0	4.0	0	22	I have a cat, it meowed, you smiled, she sang, they laughed, her heart pounded, yet I remained calm.	7
+43	1	0	11	3	1	9	0	6	0	4	0	0	8	3	1	2	0	9.0	3	36	A: In a small town nestled in the valley, where the sun set painting the pastel sky with orange, pink, red, gold, purple, green, and blue hues, stood an ancient, mysterious castle.	7
+57	3	2	18	2	3	2	11	2	0	11	0	1	0	6	9	2	0	7.0	6	39	"A: He asked, ""May I come in?"" but she replied, ""No, thank you!"", so I waited, and finally they left, whereas he muttered something under his breath, I believed, and as they drove off, the sun began to set, ."	7
+45	3	0	8	3	1	10	2	7	0	5	0	0	6	1	4	2	0	7.0	1	14	A thick fog enveloped the ancient city; we heard a distant howl*, a car backfired twice**, then a dog barked loudly***, followed by the gentle clink of bottles falling** and the sudden loud knock on our door****.	7
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	A brief history: They arrived, he announced, despite the storm; she welcomed them eagerly, he remarked, as he helped the youngest climb down the stairs; the clock tolled nine, the cat yowled and jumped onto the table, while they shared jokes, the doorbell rang again, they stood up laughing.	7
+52	4	1	13	5	2	11	2	6	0	3	0	0	5	2	3	1	0	6.0	2	47	The magician conjured pigeons: red, blue, and green; from the hat, each with different ribbons tied around their legs—a black 'x' here, a bow there—while his audience, all with popcorn in hand and eyes wide, watched expectantly.	7
+4	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	But but no! Said she.	7
+19	1	0	8	1	1	1	1	0	5	1	0	0	0	0	1	1	0	4.0	0	13	I believe A, B; yet, C? Despite D, though, E, F.	7
+83	5	0	15	5	2	17	8	12	0	13	0	0	5	4	8	5	0	5.0	4	76	I love old movies: a dramatic whisper, he exclaimed enthusiastically; she agreed with a smile, nodding gently; my grandfather chuckled and squeezed my hand tightly; the lights dimmed, signaling show time; the orchestra played a few notes, the silence before the storm; suddenly, the room grew quiet, everyone leaning forward in their seats; and in an instant, the magical world on the screen began to captivate us all.	7
+12	0	1	2	0	0	1	2	1	0	2	0	2	0	0	2	1	1	2.0	1	5	Although it might rain, she didn't bring an umbrella.	7
+54	8	1	14	1	1	3	8	1	0	6	0	6	2	2	7	2	0	5.0	2	36	"He said, ""I'll be late tonight; maybe tomorrow; but by then, probably, it would not matter; yet, I really must attend this affair; moreover, I'd feel awful if I didn't; however, I simply cannot manage it,."	7
+39	5	1	8	4	1	3	2	5	0	6	0	0	4	2	2	1	0	4.0	2	31	"He said, ""Go left at the first light, right at the second one, left again at the third, straight at the fourth, left twice, and right before you reach the bridge."	7
+96	4	0	15	9	8	20	7	6	0	18	0	2	6	10	7	5	1	7.0	11	52	This ancient manuscript, discovered beneath layers of dust and spider webs, reveals secrets, some dark and sinister, wrapped within riddles; its cryptic words are bound in red ribbon, punctuated by understones and seals, under each a fleeting symbol of power, representing forgotten kingdoms and the gods that ruled them; when held in reverence, its pages open and whisper to readers, inviting us to unlock their truths, but beware: once read, the knowledge it imparts is neither easily forgotten nor lightly dismissed.	7
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	A period.	7
+39	3	1	6	4	1	8	0	6	0	5	0	1	3	2	3	1	0	5.0	2	14	After a lengthy debate among the council members, despite several passionate pleas, a decision was made finally; yet, another member suggested an alternative, but the group decided firmly to carry on as planned.	7
+80	6	0	12	6	0	19	5	14	0	9	0	2	7	2	7	4	0	5.0	2	63	I can see the storm brewing, it's ominous clouds loom menacingly in the sky; the lightning flickers intermittently, illuminating our surroundings with an ethereal brilliance; rain pelts relentlessly against the window, each drop causing a rhythmic patter; however, the thunder echoes loudly in the background, its deafening roll rumbling the very ground; yet, there's a peaceful stillness before the storm, a serene calmness in the chaos.	7
+6	0	0	2	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	A period: It rains.	7
+36	2	0	8	2	0	9	1	6	0	6	2	0	0	0	6	1	0	3.0	0	26	Before dinner: A cat yowls loudly, a clock chimes nine, the microwave beeps, a doorbell rings, someone sneezes once, a phone vibrates, an alarm goes off three times.	7
+8	0	0	2	0	0	2	1	2	0	0	0	1	0	1	1	0	0	2.0	1	5	A period: This is a sentence.	7
+17	1	0	4	2	0	3	3	1	0	1	0	2	0	1	3	0	0	4.0	1	8	A: I'll be there, she replied, with a smile on my face.	7
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	A period! A question mark?.	7
+55	1	2	10	3	2	13	2	6	0	8	1	0	7	4	6	5	1	7.0	5	17	 a sudden silence, filled with expectant gazes, held its collective breath, before turning, the clock struck midnight, an unbidden sound, that sent ripples of nervous excitement, and the stillness gave way, as all at once a dozen corked bottles exploded, showering sparks and golden essence.	7
+40	1	0	11	4	2	11	3	3	0	2	1	1	1	1	2	1	0	6.0	1	14	"He said: ""But why, dear grandmother, did you feed me, at midnight, a dish with six scoops of ice cream, a piece of chocolate cake, and a cherry pie?!!""     (There are 7 punctuation marks in this sentence: two question marks, three exclamation points, and two commas."	7
+59	7	0	12	6	0	11	6	4	0	11	0	0	2	5	10	1	0	6.0	5	48	A startled crowd gasped in disbelief; he, with eyes glowing maliciously, laughed sardonically; she wept softly, a lone tear falling down her cheek; they cheered wildly, waving flags in jubilation; it rained heavily, the drops splattering loudly on the roof; we watched in silence, hearts racing anxiously.	7
+73	5	2	16	6	3	10	9	5	0	12	2	0	2	0	8	4	2	6.0	2	23	A: Before dinner, while waiting for everyone to arrive, I checked my email—three notifications: a friend cancelled, another rescheduled, and the third confirmed attendance; afterward, we played charades, but it took hours, so late into the night we danced and laughed with sparklers—five of which fizzled out prematurely—then, at last, we said our goodbyes.	7
+33	1	0	14	0	0	3	7	0	0	6	0	0	1	0	7	1	0	4.0	0	30	"She wore pearls, he laughed, I sigh—ed, ""My stars!"", he coughed violently, they gasped; ""Goodness gracious,"" I whispered."	7
+27	5	1	6	1	0	2	2	1	0	7	0	0	2	2	2	1	0	4.0	2	15	She smiled, giggled, then laughed loudly, next gasped, afterwards shivered, finally cried in disbelief as she opened the mysterious old box.	7
+20	1	0	7	0	1	2	1	1	0	7	0	0	0	0	1	1	0	3.0	0	15	The crowd cheered, clapped their hands, whistled, shouted, booed, hissed, and applauded rhythmically.	7
+71	7	1	32	1	1	3	9	2	0	6	0	3	5	3	8	0	0	4.0	3	68	"He hesitated: ""Are you certain, dear?"" she asked politely; ""absolutely,"" he replied firmly; ""but,"" she mused, ""why?"" he wondered aloud; ""'because,"" she explained gently, ""I am the mother of your child"""" – a long, pregnant pause – ""so please, be patient."	7
+41	4	1	9	2	1	6	1	5	0	10	0	0	1	2	2	3	0	5.0	2	21	After a quick breakfast, the sun began to set; she closed the book, sighed sadly, smiled gently, cried a tear, laughed joyfully, shouted angrily, and whispered a prayer before going to bed.	7
+52	4	0	7	10	1	10	1	7	0	8	0	0	4	2	1	0	0	8.0	2	25	A short, curious fox jumped over a fence, barked joyfully, meowed playfully at kittens passing by, chattered with a parrot perched on its favorite branch, waded in a cool pond under the sun with fish, and then sneezed loudly at the end of the day.	7
+68	5	1	10	6	4	17	1	10	0	12	0	0	2	1	7	2	1	5.0	2	36	A suddenly still bird, perched atop a crooked branch, watched as lightning fractured the rain-soaked night sky, the wind whipped through the trees in gale-force, the thunder roared and echoed loud, a dog barked fearfully, a woman gasped and clung to her child, and fireworks burst and lit up the now darkness with a dazzling display.	7
+24	7	0	7	0	1	1	1	0	0	7	0	0	0	0	1	1	0	2.0	0	19	He paused momentarily, smiled politely, nodded understandingly, breathed deeply, winked playfully, shrugged casually, and waved goodbye eagerly.	7
+53	3	0	13	5	2	10	2	5	0	5	0	1	7	1	3	0	1	6.0	2	33	A brief, fascinating lecture, followed by an intense question-and-answer session, concluded with applause and the distribution of flyers, ended when, despite our best efforts, the last bus had departed; finally, after a sleepless, exhilarating night, we headed home.	7
+47	6	0	16	2	2	4	5	2	0	10	0	0	0	2	4	2	0	4.0	2	22	"""With a wave, she blew him a farewell kiss, laughing softly; he smiled, then turned, and disappeared suddenly; yet, I lingered, staring; but my heart raced wildly within, waiting, wondering, when?""."	7
+49	3	1	8	7	1	11	2	8	0	7	0	0	1	1	1	3	0	5.0	1	39	She walked to the store, bought an apple, a banana, a loaf of bread, met an old friend unexpectedly, chatted for a while, smiled warmly at her dog on the way home, and cooked dinner before settling down for the evening.	7
+18	0	0	8	0	1	1	0	1	0	7	0	0	0	0	1	0	0	2.0	0	13	A man : gasped, shivered, laughed, sneezed, sobbed, whispered, and yawned.	7
+27	0	0	8	2	0	4	2	4	2	3	0	1	1	2	2	1	0	4.0	2	19	"A: I exclaimed, pointing to the strange object in the sky, ""It's a flying saucer!"" gasped Mary; B."	7
+15	1	0	7	0	0	0	3	0	0	3	0	1	0	1	3	0	0	3.0	1	11	"He asked, ""When will it arrive?"", I replied,."	7
+55	2	0	9	5	1	18	3	7	0	5	0	1	1	4	2	3	0	7.0	4	28	I suppose it might rain, maybe even snow, tomorrow: a question mark for the future weather, an exclamation point for the possibility, colons to separate my thought from expectation, hyphens to denote connections, and a semi-colon to show continuity in a contrast: a period for closure.	7
+7	0	0	2	0	0	3	0	2	0	0	0	0	0	0	0	0	0	2.0	0	4	A period : A question mark ? A colon : A semicolon ; An exclamation mark ! A dash — A comma , All hung from the same tree.	7
+74	4	1	10	9	1	21	1	10	0	10	0	1	5	2	8	3	1	5.0	3	50	The sun, slowly setting over the vast, tranquil sea, paints a magnificent palette of colors on the evening sky; a seagull cries out as it flies by, waves gently lap the shoreline, boats sway gently at anchor, stars start appearing, the moon casts silver reflections over water, and the sound of silence is broken with a single wave's gentle thud against the shore.	7
+65	7	2	9	6	2	16	3	6	0	7	2	0	4	4	3	2	0	10.0	4	11	The blue whale, the largest animal ever, dives six thousand feet deep for food, releasing great plumes of water while its massive body moves gracefully beneath the waves' crashing crests, until it reappears hours later near the surface, and then disappears, gone again, leaving only a splash and a trail of bubbles in its wake, .	7
+39	1	1	8	2	1	5	6	4	0	5	0	3	3	4	5	3	0	4.0	4	32	"He remarked, ""Look up at the clock, it's midnight; then consider this contract—it's a tight bind, but if we sign it, we will receive a huge financial reward."	7
+14	2	1	3	1	0	2	1	1	0	2	0	0	1	0	1	1	1	3.0	1	8	After working late into the night,; I drank too much coffee -.	7
+71	6	1	10	7	4	14	1	11	0	6	2	0	7	3	5	2	0	6.0	3	41	"A panda bears four bald cubs, with one eye twinkling mischievously; while the fifth eagerly grasps a red bamboo stick, and another sucks deliciously on a long stalk of bamboo, but still another clutches at her mother's fur, whimpering softly, and yet another playfully wrestles, in the twilight's cool serenity, with a sibling – all within a few short steps!  (This sentence contains seven commas: four within the parenthetical sentence, one after ""another,"" and one after ""serenity,"" and one before ""all"")."	7

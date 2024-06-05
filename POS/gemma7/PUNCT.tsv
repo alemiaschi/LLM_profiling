@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	I am a human.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A swift fox jumps high into the tree.	0
+10	0	0	1	2	0	4	0	2	0	1	0	0	0	1	0	0	0	3.0	1	6	A cat sitting on a tree branch at sunset.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+14	1	0	3	1	0	3	0	2	0	2	0	0	2	1	1	1	0	3.0	1	7	The sun shines brightly, illuminating the sky with soft, golden hues.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	A swift stream flows through a peaceful forest.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A horse ran across the field.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the lazy dog.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat jumps onto the green table.	0
+8	0	0	1	1	0	2	0	1	0	1	0	1	1	0	1	0	0	2.0	0	3	 A basket is filled with red apples.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+13	2	1	1	1	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	7	The dog jumped onto the tree as the sun shone directly overhead.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	3.0	0	3	A sequence of events occurred.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	A swift red car raced across the busy street.	0
+8	0	0	1	1	0	2	0	1	0	1	0	2	0	0	1	0	0	3.0	0	5	A string of letters is being formed.	0
+15	1	0	2	2	0	4	0	3	0	3	0	0	0	1	1	1	0	4.0	1	7	The wind blows gently through the fallen leaves, creating a symphony of silence.	0
+6	1	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	 A swift bird flies overhead.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	A dog is sitting in the park.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	A crimson river flowed north.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped over the fence.	0
+14	0	0	1	2	0	5	0	2	0	3	0	0	1	1	1	0	0	4.0	1	4	A crimson apple hangs suspended within a vibrant web of glistening silver tendrils.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The swift brown fox jumps over the sleeping tiger.	0
+11	0	0	1	1	1	5	0	1	0	0	0	1	1	0	1	0	0	3.0	0	4	Text is a powerful medium for communication and information sharing.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping dog.	0
+15	2	0	1	2	0	4	0	2	0	2	0	0	1	1	1	1	0	5.0	1	3	A sequence of letters flows smoothly to form a word as smooth as butter.	0
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	 Thisisasteststring.	0
+13	1	0	2	1	0	3	1	2	0	2	0	0	1	1	2	0	0	3.0	1	5	The swift wind blew relentlessly, the leaves dancing in its wake.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sits on the mat in the sun.	0
+9	0	0	1	1	0	3	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	My eyes are gazing at the moonlit sky.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Straight line.	0
+16	1	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	6	The swift bird flies gracefully across the sky, carving a path through the wind.	0
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	 One apple is hanging from the tree..	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The wind blows continuously through the trees.	0
+9	0	0	1	1	1	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The cat jumps onto the mat and naps.	0
+13	0	0	2	2	0	4	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The cat sat on the mat, basking in the afternoon sun.	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The swift brown fox leaps gracefully over the sleeping dog.	0
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	 A cat sits on the mat, waiting for the owner to come home.	0
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	3	A majestic lion strides across its prey.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	A cat chased a mouse up a tree.	0
+13	0	0	2	2	0	3	0	3	0	2	0	0	1	1	1	0	0	3.0	1	5	A vibrant apple hangs on the tree, ripening with the sun.	0
+10	0	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	4	The red ball is rolling on the green carpet.	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The swift red fox jumped quickly over the sleeping dog.	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	 The swift brown fox leaps quickly over the sleeping tiger.	0
+13	0	0	1	0	0	5	0	3	0	2	0	1	0	1	1	2	0	3.0	1	4	The computer science student is writing a code to build a website.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The swift runner raced across the field.	0
+8	0	0	1	0	0	2	0	1	0	1	0	1	1	1	1	0	0	2.0	1	4	Running is a good way to exercise.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	1
+9	0	0	3	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	"""The apple is red and juicy."""	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping lion.	1
+13	0	0	2	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	6	The cat jumped over the fence, and landed on the grass.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumped over the sleeping cat.	1
+12	0	0	3	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	"""The quick brown fox jumps over the lazy dog."""	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat on the mat, purring happily.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the ball.	1
+8	0	0	3	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	"""The dog chased the ball."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat jumped onto the table.	1
+12	0	0	3	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	"""The quick brown fox jumps over the lazy dog."""	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat sits on the mat."""	1
+12	0	0	3	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	"""The quick brown fox jumps over the lazy dog."""	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat jumped over the black fence.	1
+12	1	0	4	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	"""The cat sat on the mat, purring happily."""	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball up the tree.	1
+11	1	0	4	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	"""In the garden, the flowers bloomed brightly."""	1
+13	0	0	1	2	0	4	0	4	0	0	0	1	1	0	1	0	0	3.0	0	6	 The single punctuation in this sentence is a period at the end.	1
+11	0	0	3	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	"""The brown fox jumps over the sleeping dog."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat jumped over the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped to the tree.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping dog.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat jumped onto the mat."""	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat sat on the mat."""	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	1
+12	2	0	2	1	0	2	0	2	0	2	0	0	1	1	1	0	0	2.0	1	7	The cat sat comfortably on the soft rug, purring gently.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat jumped onto the mat."""	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is red.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat sat on the mat."""	1
+14	0	0	4	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	"""The cat sat on the mat, basking in the sun."""	1
+20	1	0	4	2	0	5	1	3	0	2	0	0	2	0	1	0	0	3.0	0	10	"""The lone wolf roams freely through the wild, its majestic grace commanding respect from all creatures."""	1
+12	0	0	3	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	"""The quick brown fox jumps over the sleeping dog."""	1
+12	0	0	4	1	0	3	0	2	0	2	0	0	0	1	1	1	0	2.0	1	5	"""The cat sat on the mat, watching TV."""	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat jumped onto the table, bringing the fruit down.	1
+12	1	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun shines brightly, casting long shadows on the ground.	1
+13	0	0	2	2	0	3	0	3	0	2	0	0	1	1	1	0	0	3.0	1	5	The cat jumped onto the fence, startled by the loud noise.	1
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	"""The cat jumped onto the table."""	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat in the cradle, purring contentedly.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat jumped onto the mat in the kitchen.	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped over the moon.	1
+11	0	0	1	1	1	3	0	3	0	2	0	0	0	0	1	1	0	3.0	0	5	 The cat jumped onto the table and scratched the painting.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apple is sweet.	1
+15	0	0	4	2	0	4	0	2	0	2	0	0	1	1	1	0	0	3.0	1	6	"""The swift parrot perched on the tree branch, munching on berries."""	1
+7	0	0	1	0	0	1	1	1	1	2	0	0	0	1	1	1	0	3.0	1	2	I have a dog named Max.	1
+18	0	0	4	1	1	4	0	3	0	2	0	0	3	0	2	0	0	3.0	0	10	" ""The quick brown fox jumps over the sleeping dog, and the hungry lion roars."""	2
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	2
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog barked.	2
+15	0	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	 The cat jumped over the fence, and the ball rolled under the table.	2
+12	0	0	3	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The quick brown fox jumps over the sleeping dog."""	2
+13	2	0	4	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	" ""The sun shines brightly, and the flowers bloom beautifully."""	2
+17	0	0	2	2	1	4	0	4	0	2	0	0	2	0	2	0	0	3.0	0	9	The swift cat leapt over the fence, and the blue ball danced across the sky.	2
+16	0	0	2	1	1	4	0	3	0	2	0	0	3	0	2	1	0	3.0	0	9	 The quick brown fox jumps over the lazy dog, and the goat eats grass.	2
+20	0	0	4	1	1	5	1	3	0	2	0	0	3	0	2	1	0	3.0	0	10	"""The quick brown fox jumps over the sleeping dog, and the mischievous cat scratches its paw."""	2
+9	0	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	 The dog barks, and the cat purrs.	2
+15	0	0	2	1	1	4	0	3	0	2	0	0	2	0	2	0	0	3.0	0	9	The quick brown fox jumps over the sleeping dog, and the cat purrs.	2
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	 The apple is red, and the banana is yellow.	2
+21	0	0	4	2	1	4	0	4	0	2	0	0	4	0	2	0	0	3.0	0	10	" ""The quick brown fox jumps over the lazy dog, and the silly cat sits on the fence."""	2
+14	0	0	4	1	1	3	1	2	0	1	0	0	0	0	0	2	0	4.0	0	4	" ""Please give me a banana, and a glass of water."""	2
+14	0	0	3	1	0	2	2	2	0	2	0	1	0	1	1	1	0	3.0	1	6	" ""Would you like to join me for a coffee this afternoon?"""	2
+15	0	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	 The cat jumped over the fence, and the ball landed in the tree.	2
+21	0	0	4	2	1	4	0	4	0	2	0	0	4	0	2	0	0	3.0	0	10	" ""The quick brown fox jumps over the sleepy dog, and the blue cat sits on the mat."""	2
+13	0	0	3	0	1	5	0	3	0	1	0	0	0	0	1	1	0	3.0	0	4	" ""This sentence has a question mark and an exclamation mark."""	2
+13	0	0	4	1	1	2	0	2	1	2	0	0	0	0	1	1	0	3.0	0	6	" ""John went to the store, and bought a book."""	2
+21	0	0	4	2	1	5	0	4	0	2	0	0	3	0	2	0	0	3.0	0	10	" ""The quick brown fox jumps over the sleeping dog, and the lazy cat naps on the rug."""	2
+15	0	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	 The cat jumped over the rainbow, and the dog ran under the tree.	2
+12	0	0	3	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The quick brown fox jumps over the sleeping dog."""	2
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the lazy dog.	2
+18	0	0	2	2	1	3	1	3	0	2	0	1	3	0	2	0	0	3.0	0	10	The quick brown fox jumps over the lazy dog, and the cat is chasing after it.	2
+21	1	2	4	1	1	1	3	1	0	1	0	3	3	1	3	0	0	3.0	1	10	" ""I am excited for the upcoming party, but I'm also worried about whether I can go."""	2
+16	1	0	2	1	1	3	0	3	0	2	0	0	3	0	2	0	0	3.0	0	9	The quick brown fox jumps over the lazy dog, and the cat sleeps soundly.	2
+16	1	0	2	1	1	3	0	3	0	2	0	0	3	0	2	0	0	3.0	0	9	 The quick brown fox jumps over the lazy dog, and the sun shines brightly.	2
+13	0	0	2	1	1	2	0	2	0	0	0	1	4	0	1	0	0	3.0	0	4	 The red apple is ripe and juicy, perfect for a snack.	2
+13	0	0	2	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	6	The cat jumped over the fence, and landed on the grass.	2
+14	0	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	7	 The dog chased the ball, and the cat played with the rope.	2
+18	1	0	4	1	1	4	0	3	0	2	0	0	2	0	2	0	0	3.0	0	9	" ""The quick brown fox jumps over the sleeping dog, and the sun shines brightly."""	2
+13	2	0	4	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	" ""The rain poured heavily, and the wind whipped wildly."""	2
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the lazy dog.	2
+16	1	0	2	1	1	3	0	3	0	2	0	0	3	0	2	0	0	3.0	0	9	 The quick brown fox jumps over the lazy dog, and the cat sleeps soundly.	2
+16	0	0	2	1	1	3	0	3	0	1	0	1	4	0	2	0	0	3.0	0	10	The quick brown fox jumps over the lazy dog, and the sky is blue.	2
+16	1	0	2	1	1	4	0	3	0	2	0	0	2	0	2	0	0	3.0	0	9	The quick brown fox jumps over the sleeping dog, and the sun shines brightly.	2
+18	2	0	4	1	1	3	0	3	0	2	0	0	2	0	2	0	0	3.0	0	10	" ""A swift bird flies swiftly through the sky, and a quick fox chases after."""	2
+16	0	0	2	1	1	3	0	3	0	1	0	1	4	0	2	0	0	3.0	0	10	The quick brown fox jumps over the lazy dog, and the sky is blue.	2
+18	0	0	4	1	1	5	0	3	0	1	0	0	3	0	1	0	0	3.0	0	6	" ""The quick brown fox jumps over the sleeping dog, and the lazy cat naps."""	2
+20	0	0	4	2	1	4	0	4	0	2	0	0	3	0	2	0	0	3.0	0	9	" ""The quick brown fox jumped over the lazy dog, and the cat sat on the mat."""	2
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumped over the sleeping dog.	2
+13	0	0	3	2	1	2	0	2	1	2	0	0	0	0	1	0	0	3.0	0	5	" ""John jumped over the fence and ran to the store."""	2
+18	0	0	4	1	1	3	0	3	0	2	0	0	4	0	2	0	0	3.0	0	10	" ""The quick brown fox jumps over the lazy dog, and the silly cat sleeps."""	2
+13	1	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	 The cat sat on the mat, and the dog played nearby.	2
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the lazy dog.	2
+13	2	0	4	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	" ""The cat slept soundly, and the fish swam happily."""	2
+20	0	0	4	2	1	4	0	4	0	2	0	0	3	0	2	0	0	3.0	0	9	" ""The quick brown fox jumps over the lazy dog, and the cat sits on the mat."""	2
+15	1	0	4	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	"""The cat sat on the mat, and the dog played nearby."""	2
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	2
+15	1	0	4	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	" ""The cat sat on the mat, and the dog played nearby."""	2
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	5
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	5
+19	0	0	4	1	1	4	0	3	0	2	0	0	4	0	2	0	0	3.0	0	10	"  ""The quick brown fox jumps over the sleeping dog, and the silly goose flies high."""	5
+12	0	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	3.0	0	6	 The quick brown fox jumps over the lazy dog's tail.	5
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping cat.	5
+18	1	0	4	1	1	3	0	3	0	2	0	0	3	0	2	0	0	3.0	0	9	" ""The quick brown fox jumps over the lazy dog, and the apple hangs low."""	5
+21	0	0	3	3	1	6	0	5	0	3	0	0	0	0	1	1	0	3.0	0	13	 The cat chased the mouse up the tree, jumped over the river, and raced to the finish line.	5
+21	0	1	4	1	1	5	0	4	0	3	0	0	2	1	2	1	0	4.0	1	7	" ""The quick brown fox jumps over the sleeping dog and eats a banana, while the clock ticks."""	5
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	5
+20	0	0	4	2	1	5	0	4	0	2	0	0	2	0	2	0	0	3.0	0	9	" ""The quick brown fox jumped over the sleeping dog, and the apple fell off the tree."""	5
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	5
+19	0	0	2	2	1	4	0	4	0	2	0	0	4	0	2	0	0	3.0	0	10	 The quick brown fox jumps over the lazy dog, and the silly cat sat on the fence.	5
+20	1	0	4	2	1	3	0	3	0	2	0	0	4	0	1	0	0	3.0	0	7	" ""The quick brown fox jumps over the lazy dog, and landed safely on the soft ground."""	5
+16	1	0	2	1	1	4	0	3	0	2	0	0	2	0	2	0	0	3.0	0	9	 The quick brown fox jumps over the sleeping dog, and the grapes hang low.	5
+16	1	1	2	1	0	5	0	3	0	1	0	0	2	0	1	0	0	2.0	0	10	 The swift fox jumps over the sleeping tiger, while the quick parrot chatters nearby.	5
+22	0	0	4	2	1	5	0	4	0	2	0	0	4	0	2	0	0	3.0	0	10	" ""The quick brown fox jumps over the lazy dog, and the blue cat sits under the apple tree."""	5
+15	0	0	2	2	0	3	0	3	0	3	0	1	0	2	1	0	0	4.0	2	5	 The cat sat on the mat, waiting for the food to be served.	5
+12	0	0	3	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The quick brown fox jumps over the sleeping dog."""	5
+21	1	0	2	1	1	6	0	4	0	2	0	0	3	0	2	1	0	3.0	0	13	 The quick brown fox jumps over the sleeping dog's tail, and the merry goat happily plays the flute.	5
+10	0	0	1	1	0	2	1	2	0	1	0	1	1	0	1	1	0	2.0	0	6	 Can you identify the misplaced punctuation in this sentence?   **Note:** Please adhere strictly to the format above, ensuring that the instruction and response are clearly separate.	5
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	5
+11	0	0	1	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	5	 The quick brown fox jumps over the slimy green snake.	5
+20	0	0	2	2	1	6	0	4	0	2	0	0	3	1	1	1	0	5.0	1	6	The quick brown fox jumps over the sleeping dog, creating a symphony of excitement and a delightful melody.	5
+18	1	0	4	1	1	3	0	3	0	2	0	0	3	0	2	0	0	3.0	0	9	" ""The quick brown fox jumps over the sleepy dog, and the parrot squawks loudly."""	5
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	5
+15	1	0	4	1	0	1	2	1	0	1	0	1	2	1	1	1	0	3.0	1	7	" ""Are you able to hear me clearly, despite the loud music?"""	5
+20	1	0	4	2	1	4	0	3	0	2	0	0	3	0	1	1	0	4.0	0	8	" ""The quick brown fox jumps over the lazy dog, and then eats a slice of apple."""	5
+12	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	 The quick brown fox jumps over the sleeping dog's tail.	5
+18	0	0	2	1	1	4	0	3	0	2	0	1	4	0	2	0	0	3.0	0	11	 The quick brown fox jumps over the sleeping dog, and the silly goose is flying high.	5
+18	0	0	2	2	1	4	1	3	0	2	0	0	3	0	2	0	0	3.0	0	8	 The quick brown fox jumps over the sleeping tiger, and it lands on the green grass.	5
+28	3	0	5	2	1	6	1	4	0	4	0	0	2	2	2	2	0	6.0	2	8	 The vibrant flower bloomed brightly, its petals gently fluttering, under the warm sun, thus brightening the pathway, and attracting a swarm of butterflies.	5
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	 The cat jumped over the moon, flew to the stars, and danced with the fairies.	5
+18	0	0	4	2	0	4	0	3	0	2	0	0	3	1	1	0	0	3.0	1	6	" ""The quick brown fox jumps over the sleeping tiger, resulting in a delightful snack."""	5
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	 The cat sat on the mat, eating a delicious treat.	5
+18	0	0	2	1	1	5	0	4	0	2	0	0	3	0	2	1	0	3.0	0	10	 The quick brown fox jumps over the sleeping dog, and the mischievous monkey throws a banana.	5
+16	0	0	2	1	1	4	0	3	0	2	0	0	3	0	2	0	0	3.0	0	10	 The quick brown fox jumped over the sleeping tiger, and the silly goat bleated.	5
+17	1	0	2	1	1	5	0	3	0	1	0	0	3	0	1	0	0	3.0	0	6	 The quick brown fox jumps over the sleeping dog, and the red horse races ahead.	5
+12	0	0	3	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	" ""The quick brown fox jumps over the sleeping tiger."""	5
+28	0	0	7	2	1	9	1	7	0	0	0	1	0	0	1	0	0	4.0	0	14	" ""This is an example sentence with a comma, a colon, a semicolon, an exclamation mark, and a period at the end."""	5
+18	0	0	2	2	1	4	1	3	0	2	0	1	2	0	2	0	0	3.0	0	10	 The quick brown fox jumped over the sleeping tiger, and the dog was chasing after them.	5
+23	0	0	5	3	0	6	0	4	0	2	0	0	3	1	1	2	0	3.0	1	11	" ""In the midst of the vibrant celebration, a delightful aroma of lavender filled the air, evoking joyful memories."""	5
+18	0	0	2	2	1	5	0	4	0	1	0	1	2	0	2	0	0	3.0	0	12	 The quick brown fox jumps over the sleeping dog, and the cheese is in the fridge.	5
+21	0	0	4	2	1	5	0	4	0	2	0	0	3	0	2	0	0	3.0	0	10	" ""The quick brown fox jumps over the sleeping dog, and the lazy cat sits beneath the tree."""	5
+17	0	0	2	2	1	4	0	3	0	2	0	0	3	0	2	0	0	3.0	0	10	 The quick brown fox jumps over the sleeping dog, and the bright star shines on.	5
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The quick brown fox jumps over the sleeping dog.	5
+19	0	0	2	2	1	5	0	4	0	2	0	0	3	0	2	0	0	3.0	0	10	 The quick brown fox jumps over the sleeping dog, and the lazy cat sits beneath the tree.	5
+18	0	0	2	2	1	5	0	4	0	2	0	0	2	0	2	0	0	3.0	0	9	 The quick brown fox jumps over the sleeping dog, and the cat sat on the mat.	5
+17	0	0	3	2	1	4	0	4	0	3	0	0	0	0	1	1	0	3.0	0	10	 The cat sat in the cradle, ate the cream, and played with the ball.	5
+15	0	0	5	1	1	4	1	1	0	1	0	1	0	0	1	1	0	4.0	0	5	" ""Would you like a slice of orange, apple, or banana?"""	5
+17	0	0	4	1	0	4	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	" ""The quick brown fox jumps over the sleeping dog, causing a loud snore."""	5
+18	0	0	4	1	0	4	1	3	0	2	0	1	1	2	1	1	0	4.0	2	6	" ""Are you able to solve this question, given the complexity of the subject matter?"""	7
+19	0	0	2	2	1	5	0	4	0	2	0	0	3	0	2	0	0	3.0	0	10	 The quick brown fox jumped over the sleeping dog, and the mischievous cat slipped beneath the table.	7
+21	0	0	4	1	1	4	2	3	0	3	0	2	0	1	2	1	0	3.0	1	12	" ""Would you like to go to the park this afternoon, and would you bring a picnic blanket?”"	7
+25	0	0	3	3	1	6	0	5	0	4	0	0	2	1	1	1	0	4.0	1	12	 The swift cat jumped over the sleeping dog, devoured a juicy steak, and leaped onto the windowsill to gaze at the sunset.	7
+17	0	0	2	2	0	5	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	 The quick brown fox jumps over the sleeping lion, bringing peace to the tranquil forest.	7
+22	0	1	4	2	0	5	0	4	0	2	0	0	4	1	2	0	0	3.0	1	10	"""The quick brown fox jumps over the sleeping dog, while the mischievous cat naps on the warm rug."""	7
+34	0	1	4	4	0	9	1	5	0	3	0	1	6	2	2	2	0	5.0	2	24	Can you see the bright orange ball bouncing on the red, squishy trampoline, in the center of the green living room, while Mom prepares delicious chocolate cake in the kitchen?	7
+24	0	0	4	3	1	7	0	5	0	4	0	0	0	1	1	3	0	5.0	1	11	 The cat sat on the mat, eating a piece of fruit, watching a movie, and drinking a glass of water.	7
+24	0	0	5	2	1	6	0	4	0	3	0	0	3	0	1	2	0	3.0	0	11	"The quick brown fox jumps over the sleeping dog, eats an apple, and sings ""Happy Birthday"" to the baby."	7
+27	1	0	4	1	2	7	1	4	0	3	1	0	3	1	2	3	0	6.0	1	7	 The swift parrot chirps cheerfully, yet the grumpy cat demands her food, and the clock strikes 3, creating a symphony of harmonious chaos.	7
+22	0	0	4	2	1	5	0	3	0	2	0	1	4	0	2	0	0	3.0	0	11	" ""Quick brown fox jumps over the sleeping dog, and the red cat is chasing after the blue ball."""	7
+20	0	1	2	2	0	5	0	4	0	2	0	0	4	1	2	0	0	3.0	1	10	 The quick brown fox jumps over the sleeping dog, while the sneaky snake peeks through the open window.	7
+20	0	1	2	2	0	6	0	4	0	2	0	0	3	1	2	0	0	3.0	1	10	 The swift blue fox leaped over the sleeping lion, while the sneaky giraffe snuck through the forest trail.	7
+16	0	0	2	1	1	4	0	3	0	2	0	0	3	0	2	0	0	3.0	0	10	 The quick brown fox jumps over the sleeping dog, and the lazy cat snickers.	7
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	** The quick brown fox jumped over the sleeping lion and landed on the green grass.	7
+27	0	1	5	3	0	6	0	5	0	3	0	0	4	2	2	0	0	4.0	2	10	" ""A quick brown fox jumps over the sleeping dog, while a curious cat sat on the fence, resulting in a joyful melody."""	7
+28	0	0	6	2	0	5	0	4	0	3	0	0	8	2	1	2	0	4.0	2	10	 The bright, yellow sun shines, casting long shadows on the cool, green grass, creating a vibrant, colorful landscape in the early morning.	7
+24	0	0	3	3	1	7	0	5	0	3	0	0	2	1	1	2	0	3.0	1	14	The swift cat leaped over the sleeping dog, creating a ripple on the pond, and sprinkled water on the thirsty plants.	7
+19	0	0	2	2	1	5	0	4	0	2	0	0	3	0	2	0	0	3.0	0	10	 The quick brown fox jumps over the sleeping dog, and the silly cat sat on the fence.	7
+32	0	0	5	4	1	7	0	5	0	6	0	0	3	2	1	2	0	5.0	2	18	The swift cat leaped onto the bouncy ball, jumped over the rope, sprinted towards the open window, and roared, causing a flock of birds to take flight.	7
+17	1	0	2	1	1	3	0	3	0	2	0	0	4	0	2	0	0	3.0	0	10	 The quick brown fox jumps over the sleepy cat, and the silly dog chases after.	7
+20	1	0	4	1	1	3	1	4	0	2	0	0	3	0	2	1	0	3.0	0	10	" ""The quick brown fox jumps over the lazy dog, and then they both eat an apple."""	7
+19	0	0	2	2	1	6	0	3	0	2	0	0	3	0	2	1	0	4.0	0	10	 The quick brown fox jumped over the sleeping tiger, and the silly goat drank plenty of juice.	7
+25	0	1	3	4	0	5	0	4	0	4	0	0	4	3	1	0	0	5.0	3	12	 The curious cat sat on the warm mat, munching on crunchy treats, while listening to the sweet music playing on the radio.	7
+18	0	0	4	0	1	4	0	4	0	2	0	1	2	0	2	2	0	3.0	0	8	" ""Does a banana have an orange peel, or an apple have a pink skin?"""	7
+20	0	0	3	2	1	6	0	4	0	3	0	0	1	0	1	2	0	4.0	0	11	 The quick fox jumps over the sleeping dog, eats a pear, and drinks a glass of water.	7
+19	0	0	3	1	1	5	0	4	0	3	0	0	2	0	1	2	0	3.0	0	11	 The quick brown fox jumps over the sleeping dog, eats an apple, and drinks some water.	7
+25	0	0	2	3	0	7	0	5	0	4	0	0	4	1	1	2	1	5.0	2	9	 The vibrant crimson apple suspended from the branches of the swaying tree cast long shadows on the emerald grass, captivating the unsuspecting passerby.	7
+25	1	0	5	3	0	6	0	5	0	3	0	0	2	1	1	1	0	4.0	1	8	" ""Across the sparkling creek, a playful squirrel jumped excitedly up the majestic oak tree, captivating the hearts of the onlookers."""	7
+27	0	1	4	2	0	7	1	5	0	4	0	0	3	3	2	3	0	6.0	3	8	 The swift bird soared through the sky, singing a beautiful song, while the cat chased its tail, creating a symphony of playful antics.	7
+16	0	0	2	1	1	4	0	3	0	1	0	1	3	0	2	0	0	3.0	0	10	 The quick brown fox jumps over the sleeping dog, and the sky is blue.	7
+24	4	1	7	0	1	2	0	3	0	5	0	0	1	1	1	1	0	4.0	1	10	" ""The energetic student danced wildly, jumped high, sang loudly, and laughed heartily, all while strumming a guitar."""	7
+19	0	0	4	2	1	4	0	2	0	3	0	0	3	1	1	0	0	4.0	1	6	" ""The swift parrot flew over the emerald sea, munching on bananas and drinking orange juice."""	7
+19	0	0	2	1	1	5	0	4	0	2	0	0	4	0	2	1	0	3.0	0	10	The quick brown fox jumps over the sleeping dog, and the hungry tiger eats the juicy watermelon.	7
+19	0	0	2	1	1	5	0	4	0	2	0	0	4	0	2	1	0	3.0	0	10	 The quick brown fox jumps over the sleeping tiger, and the mischievous elephant eats the juicy pear.	7
+25	0	0	2	3	1	5	0	5	0	2	0	1	6	0	2	0	0	3.0	0	10	The quick brown fox jumps over the sleepy cat, and the dog is chasing after the red ball on a bright sunny day.	7
+17	1	0	2	1	1	4	0	3	0	2	0	0	3	0	2	0	0	3.0	0	10	 The quick brown fox jumped over the sleeping dog, and the merry goat chased after.	7
+20	0	0	4	2	1	5	0	4	0	2	0	0	2	0	2	0	0	3.0	0	9	" ""A quick brown fox jumps over the sleeping dog, and the apple falls off the tree."""	7
+19	0	0	3	3	1	4	0	4	0	3	0	0	1	0	1	0	0	3.0	0	11	 The cat jumped over the rainbow, flew through the sky, and landed on the red rose.	7
+21	0	0	4	1	1	5	0	4	0	2	0	0	4	0	2	1	0	3.0	0	10	" ""The quick brown fox jumps over the sleeping dog, and the hungry lion eats the plump banana."""	7
+26	1	1	3	2	1	6	0	5	0	3	0	1	3	1	3	0	0	4.0	1	10	 The quick brown fox jumps over the sleeping dog, while the silly cat plays with a string, and a goose is flying overhead.	7
+17	0	0	4	1	0	4	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	" ""The quick brown fox jumps over the sleeping lion, chasing the red car."""	7
+2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	"""."	7
+17	0	0	2	2	0	5	0	4	0	2	0	0	2	1	1	1	0	3.0	1	6	 The quick brown fox jumps over the sleeping dog, chasing a butterfly across the park.	7
+28	0	0	4	3	1	6	0	5	0	4	0	0	5	2	1	1	0	4.0	2	13	 The quick brown fox jumped over the sleeping tiger, chased by a stray cat, and landed on the soft grass, making a colorful impression.	7
+22	0	0	3	1	1	4	0	4	0	2	0	1	6	0	2	1	0	3.0	0	11	 The quick brown fox jumps over the lazy dog, and the silly cat is chasing the big, blue bus.	7
+18	0	0	2	1	1	4	0	4	0	2	0	0	4	0	2	1	0	3.0	0	10	 The quick brown fox jumps over the sleepy dog, and the speedy snail crosses the road.	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+22	0	0	3	2	1	6	0	5	0	3	0	0	2	0	1	2	0	3.0	0	11	 The quick brown fox jumped over the sleeping dog, ate the bananas, and rode the rocket to the moon.	7
+22	1	1	5	1	0	4	0	3	0	3	1	0	3	2	2	1	0	3.0	2	15	" ""One dog sat on the green grass, chasing a red ball, while the blue sky roared above."""	7

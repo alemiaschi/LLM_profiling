@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	 You'll receive a bulk discount.	0
+8	1	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	4	Snow is falling on the roof heavily.	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	They have reached a decision.	0
+12	1	0	1	2	0	2	1	2	0	1	0	1	1	0	1	0	0	3.0	0	4	You can search for the information on a specific topic online.	0
+10	0	0	1	1	0	3	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	The manager will discuss your performance at 3:00 PM.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	They arrived at the train station.	0
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The package arrived within three days.	0
+11	0	0	1	2	0	4	1	0	0	1	0	1	1	0	1	1	0	3.0	0	7	You can find various types of wood at home depot.	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	You have won the game!  The following are sentences without adjectives for your reference.	0
+11	0	0	1	2	0	4	1	1	0	1	0	1	0	0	1	1	0	3.0	0	7	You will receive notification of the auction result via email.	0
+8	1	0	1	1	0	0	2	0	0	2	0	0	0	1	1	0	0	3.0	1	3	They need to get there before him.	0
+10	0	0	1	0	0	2	1	2	0	2	0	1	0	1	1	2	0	3.0	1	4	You may choose any word to begin this sentence.	0
+9	0	0	1	1	0	1	3	0	0	2	0	0	0	1	1	1	0	3.0	1	3	They want you to resign from your position.	0
+20	0	0	3	4	1	4	1	0	2	1	3	0	0	0	0	1	0	5.0	0	10	Please provide me with four letters, one from columns A through F, and three from column G.	0
+7	0	0	1	1	0	1	1	0	1	1	1	0	0	0	0	1	0	2.0	0	4	Call me after 7pm Friday.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The man walked into the room.	0
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	5	You left your umbrella at the café.	0
+11	0	0	1	1	0	2	1	2	0	2	0	0	1	1	1	1	0	4.0	1	4	We have to build a website for the new product.	0
+12	0	0	2	1	0	3	1	2	0	2	1	0	0	0	1	2	0	3.0	0	5	I understand the instructions, create a sentence with zero adjectives.	0
+9	2	1	1	0	0	0	2	0	0	1	0	2	0	1	1	1	0	2.0	1	6	Tell him that I'll be there shortly.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	5	The bus arrives at the station every hour.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	0	1	0	2.0	0	4	Send the email to jdoe@example.	0
+12	0	0	2	0	1	1	4	0	0	2	0	1	0	0	2	2	0	3.0	0	5	You cannot see me, but you feel my presence.	0
+7	0	0	1	1	0	2	1	0	0	1	0	1	0	0	1	1	0	2.0	0	3	We're making sandwiches for lunch.	0
+8	0	0	1	1	0	0	1	0	0	3	0	0	0	2	1	0	0	3.0	2	3	They refused to give in to fear.	0
+11	0	1	1	0	0	1	2	1	0	2	0	1	1	2	2	1	0	3.0	2	6	You need to sign this document before it's valid.	0
+8	1	0	1	1	0	3	1	0	0	1	0	0	0	0	1	0	0	2.0	0	4	People often ask for my email address.	0
+9	0	0	1	1	0	4	0	1	0	1	0	0	1	0	0	1	0	3.0	0	7	Call the customer service hotline for additional information.	0
+8	0	0	1	0	0	2	0	1	0	2	0	0	1	1	0	2	0	3.0	1	4	Call the hotline to report illegal dumping.	0
+9	0	0	1	1	0	1	2	1	0	2	0	0	0	1	1	2	0	3.0	1	3	I need you to write down some instructions.	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	They are playing football in the park.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	People argue about the outcome of a game.	0
+8	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	3.0	0	4	The teacher corrected the student's essay.	0
+8	0	0	1	1	0	1	2	1	0	2	0	0	0	1	1	1	0	4.0	1	2	They denied the allegations made against them.	0
+11	0	0	1	1	0	1	2	1	0	2	0	1	0	1	1	1	0	4.0	1	3	I don't know what to wear for the interview.	0
+5	0	0	1	0	0	2	1	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Bring your hiking boots.	0
+11	0	0	1	0	0	3	1	2	0	2	0	1	0	1	1	2	0	3.0	1	5	You should call the insurance company to file a claim.	0
+7	0	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	2	They refused to sign the agreement.	0
+12	1	0	1	1	0	2	2	1	0	2	0	1	0	2	1	2	0	4.0	2	4	I'm here to help you write sentences with no adjectives.	0
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The computer displays an error message.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	He signed the paper.	0
+6	1	0	1	0	0	1	1	0	0	1	0	0	1	0	0	1	0	2.0	0	4	Write your own sentence here: The computer monitor shows several windows open.	0
+12	0	0	1	2	1	4	1	0	0	1	2	0	0	0	1	1	0	4.0	0	5	We need five gallons of paint and six pounds of primer.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	0
+6	0	0	1	0	0	1	1	0	0	2	0	0	0	1	1	1	0	2.0	1	2	We need to increase productivity.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	2	Write a letter.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat walked into the house.	0
+8	0	0	1	1	0	0	1	0	2	1	0	1	1	0	1	0	0	3.0	0	4	I'm moving to New York City.	0
+14	1	0	1	2	0	3	1	3	0	2	0	1	0	0	1	1	0	3.0	0	7	You're admiring a beautifully painted mural in the heart of the city.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The tiger in the circus roared fiercely.	1
+11	0	0	1	2	0	2	2	2	0	1	0	0	1	0	1	1	0	2.0	0	8	You encounter her at the tranquil courtyard during the event.	1
+11	1	0	1	1	0	4	0	2	0	1	0	0	1	0	1	1	0	2.0	0	6	The old man played guitar beautifully on the street corner.	1
+6	1	0	1	1	0	0	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	She danced gracefully with him.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The moon glows serene in the dark sky.	1
+9	0	0	1	0	0	3	1	1	0	0	0	1	1	0	1	0	0	3.0	0	4	Your grandma's garden is a tranquil paradise.	1
+9	0	0	1	2	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	6	You walk along the serene beach at sunset.	1
+9	1	0	1	1	0	2	1	0	0	2	0	1	0	0	1	0	0	2.0	0	4	Her house was made entirely of stained glass.	1
+12	1	0	2	0	0	4	0	2	0	1	1	0	1	0	1	1	0	3.0	0	8	The cat climbed the 15-foot tall palm tree gracefully.	1
+10	0	0	1	2	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The old mansion stood out among the modern houses.	1
+17	1	0	1	1	0	2	3	2	2	3	0	1	1	1	2	2	0	3.0	1	10	You are exploring the bustling Petrov Market during your vacation when you notice an elderly woman.	1
+12	0	0	2	1	0	3	1	2	0	2	0	0	1	0	1	1	1	3.0	1	7	Passing through the serene lake, you witness a family gathering.	1
+9	0	0	1	1	0	2	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	She wore a red dress at the ceremony.	1
+10	0	0	1	1	0	3	1	1	0	0	0	2	1	0	1	0	0	2.0	0	4	Your garden can be peaceful in the morning hours.	1
+14	0	1	2	0	0	3	0	2	0	3	0	0	2	2	2	1	0	3.0	2	8	The sun cast long, warm shadows as the day began to set.	1
+11	3	0	1	0	0	2	1	1	0	1	0	1	1	1	2	1	0	2.0	1	7	The orchestra played music so softly it was barely audible.	1
+9	0	0	1	1	0	2	2	1	0	1	0	0	1	0	1	1	0	2.0	0	6	You play an important role in his life.	1
+13	0	0	1	2	0	4	0	2	0	0	0	1	3	0	1	0	0	3.0	0	4	A snowy winter day is ideal for a hot cup of cocoa.	1
+8	0	0	1	0	0	2	0	1	0	1	0	1	1	1	1	0	0	2.0	1	2	A fireworks festival is breathtaking to witness.	1
+19	0	0	3	3	0	6	2	1	0	1	0	0	3	0	1	1	0	5.0	0	4	In the marketplace, people bartered for ancient pottery, its delicate designs worth their weight in gold.	1
+13	0	0	1	1	0	3	2	1	0	2	0	0	3	1	1	1	0	4.0	1	6	You sit on a creaky old wooden chair sipping your afternoon tea.	1
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The sun sets in brilliant orange hues.	1
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The painting was abstract and mesmerizing.	1
+11	0	0	2	1	0	3	0	2	0	2	0	1	0	0	1	0	0	3.0	0	6	The sun was setting behind the crimson-colored mountains.	1
+13	0	0	2	1	0	4	2	1	0	1	0	0	2	0	1	1	0	2.0	0	4	On the sunny rooftop terrace, we sipped our hot java drinks.	1
+11	0	0	1	2	0	2	1	2	0	1	0	1	1	0	1	0	0	3.0	0	4	You are surrounded by the tranquil serenity of the forest.	1
+18	0	0	2	2	0	6	1	3	0	1	1	0	2	0	1	1	0	4.0	0	9	Your journey on the 75-foot high cable car provides a breathtaking view of the valley.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The tiger roamed fiercely in the savanna.	1
+9	0	0	1	1	0	2	0	2	0	2	0	0	1	0	1	0	0	2.0	0	5	The sky turned pink with the approaching sunset.	1
+9	0	0	1	1	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	6	I live next door to an ancient mansion.	1
+7	0	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	She sings with a melodic voice.	1
+8	0	0	1	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	The painting depicts a serene forest scene.	1
+14	1	0	2	1	0	2	1	2	0	3	0	0	2	0	1	1	0	4.0	0	6	You encounter the elusive blue-eyed witness in the dimly lit corridor.	1
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	The fox is hiding in the shadowy hollow.	1
+12	0	1	1	0	0	2	2	2	0	2	0	1	1	1	2	2	0	3.0	1	6	You are admiring a beautiful painting as you enter the gallery.	1
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	2	A stunning model graced the runway.	1
+12	0	0	2	1	0	2	1	2	0	1	0	0	3	0	1	1	0	2.0	0	4	In the vast garden, you discover a single purple orchid.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The moon was radiant.	1
+9	0	0	1	1	0	3	0	1	0	2	0	0	1	0	1	1	0	3.0	0	3	The library had countless books with worn covers.	1
+11	1	0	1	0	0	2	0	2	1	1	0	1	2	1	2	0	0	3.0	1	4	The ancient Greek philosopher Aristotle believed the world was round.	1
+13	0	0	1	2	0	3	0	3	0	3	0	0	1	1	2	0	1	4.0	2	4	The violet rose lies forgotten in a dusty corner of the garden.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	A flamingo stands proudly by the lake.	1
+15	0	0	2	3	1	5	0	2	0	1	0	0	1	0	1	1	0	4.0	0	4	At dawn, the sun paints the sky with shades of orange and pink.	1
+13	0	0	2	1	0	3	1	3	0	1	1	0	1	0	1	1	0	3.0	0	4	This morning, I found a shiny 50 cents on the street.	1
+8	0	0	1	1	0	3	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	The library contains thousands of captivating books.	1
+10	0	0	1	1	1	3	1	1	0	2	0	0	0	1	1	1	0	5.0	1	2	I read a letter filled with kindness and understanding.	1
+18	1	1	2	1	0	4	1	2	0	4	0	0	2	2	2	2	0	4.0	2	10	You live on a beautiful beach, watching the gentle waves come ashore while sipping coconut water.	1
+13	0	0	3	2	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The book, with yellowed pages, sat untouched on the shelves.	1
+11	1	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	In the dimly lit room, a single lamp shines.	1
+18	3	1	2	0	1	3	2	1	0	3	0	0	1	2	2	2	0	4.0	2	7	Bakers often knead their dough meticulously and gently, waiting for it to reach the perfect consistency.	2
+15	1	1	2	1	0	4	2	0	0	3	0	0	1	2	2	1	0	4.0	2	5	Crisp leaves whispered gently, releasing their scent as I crunched through autumn woods.	2
+10	0	0	1	0	1	1	2	1	0	2	0	1	1	1	2	1	0	4.0	1	3	She wore a dress that was vibrant and flowing.	2
+14	1	0	1	0	1	3	3	1	0	2	0	0	2	1	2	2	0	4.0	1	6	She wore a stunning pink and gold sari that accentuated her curves perfectly.	2
+8	0	0	2	0	0	2	1	0	0	1	0	0	2	0	1	1	0	2.0	0	5	She wore elegant, sophisticated evening gown.	2
+9	1	0	1	0	1	3	0	0	0	1	0	0	2	0	1	1	0	4.0	0	2	Children often find fairy gardens charming and enchanting.	2
+13	0	0	2	0	1	5	1	1	0	3	0	0	0	2	2	2	0	4.0	2	5	Ripening tomatoes add zest and richness, transforming every dish they grace.	2
+12	2	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The elegant swan gracefully glided across the still, mirrored lake.	2
+20	1	0	2	1	2	6	1	2	0	1	0	0	3	0	2	0	0	4.0	0	10	The kitten's meowing became more frantic and urgent, its tiny voice a mix of fear and desperation.	2
+18	1	0	3	1	1	3	0	2	0	2	0	1	4	1	1	1	0	3.0	1	7	Snow was falling silently, thick and dense, covering the entire landscape in a pristine blanket.	2
+15	1	0	2	1	0	3	1	1	0	1	0	1	3	1	1	1	0	5.0	1	4	Her voice was soft yet persuasive, able to calm the stormiest of emotions.	2
+14	0	1	1	0	1	3	2	1	0	1	0	1	2	1	2	1	0	3.0	1	5	The child's smile was broad and radiant as she received her award.	2
+10	0	0	1	1	1	3	0	1	0	1	0	0	2	0	1	1	0	4.0	0	2	The sunset displayed brilliant hues of orange and pink.	2
+12	0	0	1	1	1	2	0	2	0	0	0	1	4	0	1	0	0	3.0	0	4	The intricate carvings were a delicate fusion of bold and intricate.	2
+20	2	0	3	1	0	6	2	0	0	3	0	0	2	2	1	2	0	6.0	2	11	Children find it fascinating to watch ants carrying food pieces, often twice their size, in determined manner.	2
+10	0	0	1	1	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	5	The sunset behind the mountain was majestic and breathtaking.	2
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The vibrant sunflowers swayed in the calm, gentle breeze.	2
+18	1	0	1	1	0	4	1	2	0	4	0	0	3	3	1	3	0	6.0	3	4	Sometimes I wonder about those brave souls braving extreme weather to watch auroras illuminate the dark sky.	2
+9	0	0	1	0	1	2	0	0	1	1	0	0	3	0	1	1	0	3.0	0	4	Tigers have distinctive Orange and black vertical stripes.	2
+15	2	0	2	1	0	3	0	2	0	2	0	0	3	1	1	0	0	4.0	1	6	The delicate blue petals unfurl gracefully, unfurling further in the early morning sunlight.	2
+10	0	0	1	1	0	3	0	1	0	2	0	0	1	1	1	0	0	3.0	1	3	The rabbit's ears stood twitching with nervous excitement.	2
+14	0	0	2	2	0	4	0	1	0	2	0	1	2	0	1	0	1	4.0	1	8	Girls dressed in colorful, flowy saris were scattered around the temple complex.	2
+11	0	0	1	1	1	2	1	1	0	1	0	1	2	0	1	0	0	3.0	0	3	The little kitten was soft and purring in my arms.	2
+17	0	1	2	2	1	3	3	1	0	2	0	0	2	1	2	1	0	3.0	1	6	Smooth and creamy, the fondue melts in your mouth as you dip bread into it.	2
+8	0	0	1	0	1	2	0	0	0	0	0	1	2	0	1	0	0	3.0	0	2	Children's drawings are colorful and expressive.	2
+13	0	0	1	2	0	3	0	1	0	2	0	0	4	1	1	0	0	4.0	1	4	Bright orange pumpkins lay nestled among deep green foliage in the garden.	2
+10	0	0	1	0	1	3	0	2	0	1	0	0	2	0	1	2	0	3.0	0	4	The sunrise paintched the sky vivid orange and pink.	2
+13	1	0	2	1	1	3	0	1	0	0	0	1	3	0	1	0	0	3.0	0	5	Ruby slippers are iconic and vibrant, instantly recognizable in a crowd.	2
+14	2	0	1	1	1	3	2	0	0	1	0	0	3	0	1	1	0	3.0	0	7	Children often find her voice gentle and soothing even in her harshest scoldings.	2
+14	0	0	1	1	1	6	0	0	0	1	0	0	4	0	1	1	0	3.0	0	10	Bald eagles exhibit powerful flying abilities and distinctive white head plumage during adulthood.	2
+15	1	0	2	2	1	3	0	1	1	2	0	0	2	1	1	1	0	5.0	1	5	Dusk settled softly, painting the evening sky with shades of pink and orange.	2
+12	0	0	3	1	1	2	0	0	0	1	0	0	4	0	1	0	0	4.0	0	5	Rainforests teem with diverse, fascinating creatures -- vibrant and elusive.	2
+12	1	0	2	1	0	3	0	0	0	2	0	0	3	0	1	1	0	3.0	0	5	Soft-spoken politicians often make persuasive speakers in public forums.	2
+10	1	0	1	1	1	2	0	1	0	1	0	0	2	0	1	0	0	4.0	0	3	Soft and fragrant petals gently drifted to the ground.	2
+15	1	0	3	1	0	4	0	2	0	1	0	1	1	0	1	0	1	3.0	1	7	The elephant's ivory tusks, valued greatly, are a target of poachers.	2
+12	2	0	2	1	0	2	1	0	0	2	0	0	2	1	1	1	0	3.0	1	4	Ambitious students often strive tirelessly, setting high goals for themselves.	2
+12	0	0	2	1	0	3	0	1	0	1	0	0	4	0	1	1	0	2.0	0	8	Crisp autumn leaves crunch underfoot amid the serene, colorful landscape.	2
+19	0	0	2	2	0	7	1	0	0	2	0	0	5	1	1	2	0	3.0	1	9	Tiny wood ants exhibit complex cooperative behaviour in large foraging raids, forming impressive bridges from their bodies.	2
+11	1	0	2	1	0	2	0	0	0	1	0	0	4	0	1	0	0	2.0	0	5	Majestic ancient temples gracefully tower over lush, verdant landscapes.	2
+20	1	0	1	2	2	5	0	2	0	2	0	1	4	1	1	0	0	5.0	1	5	The old library was a labyrinth of quiet and mysterious corridors and dimly lit shelves teeming with dusty tomes.	2
+18	1	0	2	1	2	3	0	2	0	1	0	1	5	1	1	1	0	5.0	1	8	The sun was both radiant and fiery, setting the sky ablaze with orange and red hues.	2
+13	2	0	1	2	1	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	7	Rivers flow swiftly and silently through the dense foliage of the rainforest.	2
+13	1	0	2	0	0	3	1	1	0	2	0	1	2	1	2	1	0	2.0	1	8	The baby squirrels have soft, delicate fur when they are born.	2
+9	0	0	1	0	1	3	0	1	0	0	0	1	2	0	1	0	0	3.0	0	3	The vintage record collection is extensive and eclectic.	2
+11	1	0	1	1	1	4	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Crimson and gold leaves fluttering gently in the autumn breeze.	2
+17	0	0	2	2	1	3	0	2	1	1	0	1	4	1	1	1	0	3.0	1	6	The sunsets in Hawaii are breathtaking and vibrant, casting golden hues over the shimmering ocean.	2
+16	1	0	1	2	0	3	2	0	1	1	0	1	4	1	2	1	0	4.0	1	7	Tigers have vibrant orange coats with black stripes that are perfectly camouflaged in their surroundings.	2
+17	1	0	2	1	1	4	0	2	0	2	0	0	4	1	1	1	0	4.0	1	7	The sunbeams trickled gently through the dense canopy, illuminating dazzling yellow and verdant green leaves.	2
+13	1	0	1	2	0	4	0	2	0	1	0	1	1	0	1	0	0	3.0	0	5	Crimson sunsets are reflecting beautifully on the tranquil surface of the sea.	2
+17	0	0	2	2	2	4	0	2	0	3	0	0	2	1	1	1	0	4.0	1	8	The newscaster spoke in both calm and reassuring tones, updating listeners on the developing situation.	2
+23	2	0	4	2	1	5	0	2	0	2	0	1	4	0	1	1	0	3.0	0	14	Splendidly designed furniture with rich, regal colors, and exquisite, detailed craftsmanship can significantly improve the appearance of a room.	4
+16	0	0	4	0	1	5	0	1	0	1	0	0	4	0	1	1	0	3.0	0	10	The painting boasted vibrant colors, intricate details, delicate features, and profound symbolism.	4
+30	1	0	5	4	2	5	0	3	0	2	0	0	8	1	1	0	0	7.0	1	7	Incredibly large and stunning, the ancient castle stood tall against the backdrop of the turquoise ocean, with beautiful gardens blooming in red, pink, and yellow.	4
+17	0	0	5	0	1	2	0	1	0	0	0	1	6	0	1	0	0	4.0	0	10	An elephant's gray, wrinkled, powerful, and intelligent nature is awe-inspiring.	4
+20	0	0	4	0	1	6	0	1	0	1	0	0	7	0	1	1	0	3.0	0	13	Red roses, fragrant yellow daisies, blue tulips, and elegant white lilies create a beautiful flower arrangement.	4
+16	2	0	4	1	0	2	0	1	0	1	0	0	5	0	1	0	0	2.0	0	7	Soft, silky, warm, soothing rain falling gently from the grey clouds overhead.	4
+17	0	0	4	1	1	4	0	2	0	0	0	1	4	0	1	0	0	3.0	0	7	The vibrant sunset was a dazzling blend of orange, pink, red, and magenta.	4
+25	1	0	6	1	1	4	1	2	0	3	0	1	5	1	2	1	0	5.0	1	8	The old books had a musty, moth-eaten smell with pages that were fragile, brittle, yellowed, and slightly crinkled.	4
+23	0	0	4	0	2	6	0	1	0	1	0	0	9	0	1	1	0	4.0	0	13	Majestic mountain ranges, deep blue lakes, vast deserts, and lush tropical forests form a diverse and stunning natural landscape.	4
+12	0	0	4	0	1	1	0	1	0	0	0	1	4	0	1	0	0	2.0	0	7	The sunsets were magnificent, colorful, peaceful, and breathtaking.	4
+20	1	0	4	2	1	5	0	2	0	2	0	0	3	0	1	0	1	5.0	1	10	A beautiful, ornate vase adorned with vibrant sunflowers, roses, and daisies sits elegantly on the windowsill.	4
+23	0	0	5	1	1	4	1	3	2	2	0	0	4	1	1	2	0	4.0	1	10	An empathetic dog breed, the Border Collie, makes a faithful, intelligent, and loyal companion for those seeking companionship.	4
+17	1	0	4	1	0	3	0	2	0	1	0	0	5	0	1	0	0	2.0	0	9	A delicate, elegant, vibrant, fragrant orange blossom wafts gently through the evening air.	4
+23	1	0	4	1	1	5	0	3	0	2	0	0	5	0	1	1	0	4.0	0	11	The artist's colorful, intricate, vibrant, and meticulously painted murals transformed the dilapidated alleyway into a mesmerizing art gallery.	4
+19	0	0	4	1	1	3	1	2	1	1	0	0	5	0	1	1	0	4.0	0	9	The vibrant, picturesque, serene, and historic streets of Prague make it a popular tourist destination.	4
+15	0	0	4	0	0	3	0	2	0	1	0	0	4	0	1	1	0	3.0	0	8	The lively, colorful, graceful, intricate dancer captivated the audience's attention.	4
+18	0	0	4	2	0	4	0	2	0	2	0	0	4	1	1	0	0	4.0	1	5	The beautiful, vintage automobiles shimmered in the sunlit meadow, surrounded by stunning, colorful flowers.	4
+20	0	0	5	1	0	4	1	2	0	2	0	0	5	0	1	1	0	3.0	0	15	The old library held an enchanting aura with its ancient, dusty, musty, cobweb-covered walls.	4
+19	0	0	3	3	2	7	0	0	0	2	0	1	1	0	1	1	1	4.0	1	14	Dogs of various sizes and breeds, ranging from toy to giant, can offer companionship and loyalty.	4
+32	1	0	6	4	1	11	1	4	0	3	0	0	1	2	1	3	0	5.0	2	13	Deep into the forest, the sun began its descent, painting the trees in hues of orange, crimson, and gold, casting long shadows across the forest floor.	4
+18	0	0	13	0	0	1	0	0	1	1	0	0	2	0	0	0	0	2.0	0	12	\n${generate_sentence(['fragile', 'handcrafted', 'glass', 'tranquil.	4
+20	1	0	4	2	0	6	0	2	0	1	0	0	4	0	1	1	0	3.0	0	10	An intricately detailed, vintage, handcrafted, blue porcelain dish sits pride of place in the antique cabinet.	4
+12	0	0	4	0	1	1	0	1	0	0	0	1	4	0	1	0	0	2.0	0	7	The rain was heavy, cold, relentless, and unending.	4
+23	0	0	3	1	1	7	1	2	0	4	0	0	4	2	1	3	0	7.0	2	10	The colorful carnival procession featured musicians playing energetic beats on their color-coordinated instruments, creating a vibrant and lively atmosphere.	4
+23	1	0	4	2	1	4	0	4	0	2	0	0	5	0	1	1	1	6.0	1	13	The lighthouse, standing majestically, red and tall against the gray horizon, cast a golden beam across the restless sea.	4
+15	0	0	4	1	0	2	2	0	0	1	0	0	5	0	1	1	0	2.0	0	11	Lavish feasts awaited them with their delicate, spicy, succulent, gourmet delights.	4
+18	1	0	4	2	1	4	0	2	0	2	0	0	2	1	1	1	0	5.0	1	5	The sun slowly set, painting the sky with hues of orange, pink, and red.	4
+22	0	0	5	2	1	8	0	3	0	2	0	0	1	1	1	1	0	5.0	1	8	The sun sets behind the mountains, leaving a breathtaking scene of amber, crimson, orange, and violet colors.	4
+19	0	0	2	2	0	6	0	3	0	1	0	0	5	0	1	0	0	2.0	0	11	A delicate, antique tea set rests atop a red velvet tablecloth inside a sunlit Victorian dining room.	4
+21	0	0	3	3	1	5	0	2	0	1	0	0	6	0	1	0	0	4.0	0	17	The garden flourished with vibrant hues of red, yellow, and orange autumn leaves against the serene blue sky.	4
+18	0	0	4	1	1	6	0	1	1	2	0	0	2	0	1	1	0	3.0	0	11	Frosted windows, silver decorations, golden stars, and red curtains brightened up the Christmas celebration.	4
+23	1	0	4	2	1	4	0	0	0	5	0	1	4	1	1	1	2	6.0	3	15	Beautifully illustrated pages, filled with informative graphics, accompanied by engaging and educational text, are sure to captivate young learners.	4
+18	1	0	4	1	0	4	0	2	0	2	0	0	4	1	1	1	0	3.0	1	11	The sun rose slowly, casting warm, golden light over the quiet, serene mountain landscape.	4
+13	0	0	4	0	1	2	0	1	0	1	0	1	3	0	1	0	0	2.0	0	7	The vintage car was sleek, red, worn, and polished.	4
+20	0	0	5	2	0	4	0	3	0	2	0	0	4	0	1	0	1	4.0	1	12	The sun setting behind the mountains cast long, orange, shadows over the still, blue, lake.	4
+16	3	0	4	1	1	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	12	The rain fell softly, steadily, and quietly on the lush, verdant forest.	4
+15	0	0	3	1	0	4	0	2	0	2	0	0	3	0	1	0	0	2.0	0	7	The elegant, red velvet chair contrasted with the worn, green leather ottoman.	4
+19	0	0	4	2	1	7	0	3	0	1	0	0	1	0	1	1	0	3.0	0	15	The sun painted the sky with oranges, pinks, reds, and purples during the breathtaking sunset.	4
+22	0	1	4	1	0	6	0	3	0	1	0	1	5	1	1	1	0	3.0	1	9	A beautiful, antique, ornate, gold pocket watch was a common gift for graduating students in the late 1800s.	4
+16	0	0	4	1	0	2	0	1	0	1	0	2	5	0	1	0	0	2.0	0	9	The beautiful, delicate, fragile, precious antique vase must be handled with care.	4
+15	0	0	4	1	0	4	0	1	0	1	0	0	4	0	1	1	0	2.0	0	7	Breathtaking, vibrant, elegant, timeless views await hikers on this mountain trail.	4
+19	0	0	5	1	1	5	0	1	0	2	0	1	3	0	1	1	0	3.0	0	10	Bold, colorful, striped, and polka-dotted scarves can add vibrancy to any winter wardrobe.	4
+20	0	0	4	2	0	4	1	2	0	2	0	0	5	1	1	1	0	5.0	1	6	The garden boasts lush, vibrant, colorful flowers with their delicate, intoxicating fragrances wafting through the air.	4
+15	0	0	4	1	1	3	0	1	0	1	0	0	4	0	1	1	0	4.0	0	7	The painting displayed vibrant hues of blue, green, purple, and red.	4
+21	0	0	4	1	1	5	0	2	0	3	0	0	4	2	1	1	0	5.0	2	7	The sun began to rise, setting the sky ablaze with fiery reds, deep purples, and soft pinks.	4
+20	1	0	3	3	0	5	0	3	0	2	0	0	3	1	1	1	0	4.0	1	9	The sun set dramatically over the vast, tranquil lake, painting a picture of beauty with vibrant colors.	4
+18	1	0	2	2	1	4	0	2	0	2	0	0	4	1	1	1	0	4.0	1	8	The sun sets gently over tranquil waters, casting brilliant orange and pink hues across the landscape.	4
+14	0	0	4	1	0	2	0	2	0	1	0	0	4	0	1	0	0	2.0	0	10	The sun set behind the majestic, towering, golden, crimson mountains.	4
+16	0	0	4	1	1	2	1	2	0	1	0	0	4	0	1	1	0	4.0	0	9	A beautiful, sunny, windy, and crisp morning awaited us at the park.	4
+13	1	0	3	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The blue, velvety, fragrant flowers bloomed spectacularly in the garden.	4
+35	1	0	4	5	3	7	2	1	1	4	0	1	6	0	1	0	1	6.0	1	23	In ancient Greece, their magnificent temples and intricately carved statues, set against a picturesque backdrop of rolling hills and blue seas, were considered as symbols of their wise and powerful civilization.	6
+25	0	0	3	2	1	5	2	2	0	2	0	0	8	0	1	1	0	3.0	0	12	In the lush verdant rainforest, we spotted an elegant red-and-black quetzal with its brilliant iridescent plumage and long trailing tail.	6
+24	0	0	3	1	2	5	0	2	0	2	0	0	8	1	1	1	0	5.0	1	6	The ancient castle's towering walls, crenellated and moss-covered, surround a tranquil inner courtyard adorned with fragrant roses and vibrant tulips.	6
+28	0	0	5	1	2	5	1	2	0	4	0	0	7	1	1	3	0	5.0	1	6	In his powerful, captivating speeches, the charismatic charmer employed vivid, animated rhetoric and used humorous, clever anecdotes to charm and sway the masses.	6
+24	0	0	6	2	1	2	1	2	0	1	0	1	8	0	1	0	0	4.0	0	15	Everyone was captivated by the elegant, graceful, majestic, enchanting, vibrant, and mystical performances during the traditional cultural festival.	6
+28	1	0	3	3	2	7	0	2	0	2	0	0	8	1	0	1	0	6.0	1	11	Beneath layers of rich, golden honey and velvety dark chocolate, lies a fragile truffle made from delicate pistachio nutty notes and a slightly salty undertone.	6
+22	0	0	2	1	2	6	0	4	0	2	0	0	5	1	1	2	0	5.0	1	8	The vibrant colors and captivating patterns on the mosaic walls illuminate the ancient cathedral, creating a serene and mystical atmosphere.	6
+21	0	0	3	2	1	6	0	1	0	2	0	0	6	1	1	2	0	4.0	1	6	Fiery red sunsets over peaceful, tranquil lakes create breathtaking views, inspiring profound thoughts and emotions within the onlooker.	6
+23	0	0	5	3	1	5	0	3	0	1	0	0	5	0	1	0	0	3.0	0	9	In the dense, ancient, labyrinthine streets of the town, magical, enchanting music flowed from every alleyway and window.	6
+24	1	0	7	1	0	4	0	2	0	2	0	0	7	0	1	1	0	3.0	0	13	The elegant, graceful, petite, intricately-patterned, antique porcelain vase contains a bouquet of fragrant, vivid orange blossoms.	6
+23	1	0	3	3	0	3	3	2	1	3	0	0	4	1	2	2	1	4.0	2	11	With their elegant, ornate silver jewelry intricately adorned with precious gems, the tribeswomen of Africa dazzle all who behold them.	6
+23	0	0	7	1	0	3	0	2	0	1	0	0	9	0	1	1	0	4.0	0	10	The stunning, radiant, golden, fragrant, tranquil sunset cast brilliant reflections on the serene, crystal-clear water.	6
+27	1	0	4	2	2	7	0	2	0	3	0	0	6	1	1	1	0	7.0	1	10	The lively market bustles with colorful vendors displaying an impressive array of fresh, exotic fruits and vegetables, intricately spiced delicacies, and rare souvenirs.	6
+17	2	0	1	2	0	4	0	3	0	1	0	0	4	0	1	1	0	3.0	0	8	A stunningly colorful sunset over shimmering mountains reveals the tranquil beauty of the serene lake beneath.	6
+36	1	0	5	5	2	6	0	4	2	4	0	0	7	2	2	0	0	5.0	2	16	The majestic, ancient ruins stand hidden in the misty, serene and enchanting Valley of the Fairies during mornings, but illuminated by the radiant, fiery hues of theSetting sun when evenings come.	6
+27	0	0	2	2	3	4	2	3	0	3	0	1	7	2	2	2	0	5.0	2	11	The sun was setting over the serene and peaceful lake, casting orange and pink hues against the lush and verdant green hills that surrounded it.	6
+26	0	0	6	2	0	5	0	3	0	2	0	0	7	0	1	1	0	3.0	0	15	A charming, vibrant, melodic, captivating, enchanting, timeless violinist's serene performance brought tears to the eyes of the captivated audience.	6
+27	0	0	6	4	1	4	1	1	1	3	0	0	6	0	1	1	1	5.0	1	18	Driving through the narrow, winding, dark, forested, hilly, and enchanting streets of Tuscany leaves visitors in awe of its breathtaking beauty.	6
+25	0	0	6	2	1	3	2	3	0	2	0	0	6	1	2	1	0	5.0	1	12	The breathtaking, vibrant, majestic, colossal, intricate, ethereal sculpture captured the hearts and minds of all who gazed upon it.	6
+24	0	0	6	2	0	4	0	2	0	2	0	1	7	1	1	0	0	4.0	1	13	The sun was setting over the calm, azure blue, tranquil, picturesque, idyllic lake surrounded by majestic, verdant mountains.	6
+27	2	0	2	5	1	8	0	3	1	2	0	1	2	0	1	0	0	5.0	0	9	An intricately decorated silk kimono in shades of sapphire and jade was proudly displayed at the museum, a beautiful work of art from ancient China.	6
+38	1	0	6	4	0	7	2	5	0	4	0	0	9	3	1	2	0	6.0	3	11	The sun set below the horizon, casting a golden glow over the peaceful, tranquil pond, reflecting its crystal clear depths as a majestic, elegant swan swam towards its perfectly white, pristine shore.	6
+25	0	0	3	1	3	5	1	2	0	4	0	0	6	1	2	2	1	6.0	2	10	The ornate temple, adorned with precious jewels and gleaming gold, housed a quiet and contemplative monk who wore humble and threadbare robes.	6
+20	0	0	6	1	1	8	0	2	0	1	0	0	1	0	1	1	0	4.0	0	15	The grandeur, opulence, elegance, majesty, splendor, and magnificence of the palace left visitors awestruck.	6
+33	0	0	5	4	2	8	1	5	0	2	0	1	5	1	1	1	0	6.0	1	10	Its grandeur is unmatched, with intricate carvings and a golden roof, nestled in the valley amidst the verdant trees, and reflecting the clear, azure waters of the lake.	6
+19	2	0	5	1	0	3	0	0	0	1	0	0	7	0	1	0	0	3.0	0	9	Dazzling, radiant, brilliant, colorful, glittering sunsets often set majestically over calm serene lake waters.	6
+26	1	0	4	3	1	8	0	3	0	3	0	1	2	1	1	1	0	5.0	1	11	The sun was slowly setting behind the majestic, snow-covered mountain range, painting the sky in various hues of crimson and orange.	6
+23	0	0	2	2	2	8	1	3	0	1	0	0	4	0	1	1	0	3.0	0	11	With their lively banter and witty humor, the comedians brought an infectious joy and boundless enthusiasm to the comedy club night.	6
+28	0	0	5	2	1	5	1	3	0	3	0	0	8	1	1	2	0	4.0	1	10	A radiant sun sets behind the tranquil, crystalline lake, illuminating its serene surface and casting long, elegant shadows on the picturesque, secluded shoreline.	6
+33	1	0	9	2	1	4	0	3	0	3	0	0	10	1	1	1	0	5.0	1	16	The sun set slowly over the majestic, tranquil, crystal-clear lake, casting vivid, warm, orange and red hues on the surrounding, lush, green landscape.	6
+18	1	0	3	0	1	2	1	2	0	1	0	1	6	1	2	1	0	4.0	1	6	The elegant, vibrant, resilient woman wore a red dress that was both stunning and sophisticated.	6
+21	2	0	5	1	0	2	0	3	1	1	0	1	5	0	1	0	0	3.0	0	11	This elegant, charming, ancient, intricately patterned, labyrinthine city is truly a hidden gem of the East.	6
+26	1	0	6	1	1	6	0	2	0	0	0	1	8	0	1	0	0	4.0	0	21	With a gentle breeze, soft sunlight, lush greenery, vivid colors, and crystal clear waters, the tropical island was truly picturesque.	6
+35	1	0	8	2	1	11	0	2	0	2	0	0	8	0	1	0	1	5.0	1	25	The grand piano, handcrafted with intricate design, rich mahogany wood, velvet soft touch, sleek curves, elegant pedals, and resonant sound, stood proudly in the majestic concert hall.	6
+22	2	0	3	2	0	6	1	3	0	3	0	0	2	2	2	1	0	5.0	2	9	The peacock strutted proudly across the radiant garden, its feathers shimmering iridescently, leaving a trail of golden autumn leaves.	6
+29	3	0	4	2	2	5	3	2	0	3	0	0	5	1	1	2	0	4.0	1	15	The majestic eagle gracefully swooped down, spotting a rabbit with its keen, sharp eyes, and swiftly captured it with its powerful legs and sharp talons.	6
+16	0	0	3	1	0	3	0	3	0	1	0	0	5	0	1	1	0	2.0	0	9	The stunning, iridescent sunset painted a captivating scene over the serene, tranquil lake.	6
+25	0	0	2	3	1	8	1	2	0	3	0	1	3	0	1	0	0	4.0	0	8	In his captivating performance, the singer's soulful voice was accompanied by haunting piano melodies and a moving backdrop of twinkling fairy lights.	6
+23	0	0	6	2	1	5	0	2	0	1	0	0	6	0	1	1	0	4.0	0	15	A charming sunrise with orange, pink, golden, red, rosy, and bright hues paints the sky before dawn.	6
+25	0	0	6	2	1	7	0	2	0	1	0	0	5	0	1	1	0	4.0	0	11	The enchanting sunset's vivid colors painted the sky with hues of orange, pink, red, purple, golden, and amber.	6
+31	1	1	4	3	2	6	1	4	0	3	0	0	6	1	2	1	0	6.0	1	14	In the quiet village, the children played in their vibrant, colorful, and carefully maintained grounds while the sun bathed the peaceful scene in golden and gentle light.	6
+19	1	0	5	1	0	3	0	2	0	2	0	0	5	1	1	1	0	3.0	1	11	The sun set behind the breathtakingly beautiful, golden-red horizon, casting long, vibrant shadows.	6
+21	0	0	10	0	1	4	0	0	0	1	0	0	5	0	0	0	0	2.0	0	19	 beautiful, hand-painted, magnificent, public, beautiful (repetition), city, and worlds most.	6
+32	2	0	4	3	1	6	2	2	0	4	0	1	7	3	2	1	0	6.0	3	8	The peonies in the Japanese garden bloomed magnificently, displaying their vivid pink petals that were both fragrant and elegant, surrounded by shimmering koi ponds with clear, serene waters.	6
+24	1	1	2	2	1	6	0	4	0	3	0	0	4	2	1	2	0	6.0	2	6	The vibrant sun sets majestically, illuminating the golden horizon while painting the sky with a stunning palette of warm hues and shades.	6
+33	0	0	7	2	1	11	1	2	0	1	0	0	8	0	1	1	0	3.0	0	24	Behind the mansion, its grandiose stone facade, tall marble columns, elegant French doors, lush ivy walls, and colorful, artistic murals stand guard over an opulent lifestyle.	6
+26	0	0	5	1	1	5	0	4	0	4	0	0	5	3	1	2	0	6.0	3	9	The sun began to rise, illuminating the peaceful, quiet forest, casting a golden light over the vibrant, diverse flora and fauna.	6
+35	0	0	6	3	1	8	3	3	0	4	0	0	7	2	3	2	0	6.0	2	20	She entered the room, carrying a bouquet of bright red, long-stemmed roses, their fragrance rich and intoxicating, their softness contrasting against the rough texture of thick autumn leaves.	6
+33	1	1	4	4	1	10	1	3	0	3	0	0	5	2	2	2	0	4.0	2	14	A magnificent golden sunset painted the sky in hues of crimson, orange, pink and violet, bathing the lake in ethereal light as swans gracefully glided on its shimmering waters.	6
+32	1	1	6	3	0	9	1	3	0	6	0	0	2	1	2	1	2	5.0	3	18	The monk, swathed in saffron-colored robes, softly chanted in the candlelit chamber, his voice carrying an ethereal, calming melody while surrounded by shimmering gold statues.	6

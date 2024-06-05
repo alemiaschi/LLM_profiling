@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+6	0	0	1	0	0	1	0	1	0	1	1	0	1	0	1	1	0	2.0	0	2	One cat chased the other.	0
+5	0	0	0	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	A rainbow spans the sky	0
+10	0	0	1	2	0	3	0	2	0	2	0	0	0	1	1	0	0	3.0	1	5	The sky remained suspended over the earth in silence. (Note: This will be a single sentence with only 0 verbs)	0
+8	0	0	0	0	0	2	1	1	0	2	0	0	1	1	1	2	0	3.0	1	4	I went the store to buy orange juice	0
+10	0	0	1	1	0	4	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The sky was a lovely shade of blue today.	0
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred.	0
+6	1	0	1	1	0	1	0	0	1	1	0	0	0	0	1	0	0	2.0	0	3	Sun rose majestically in sky.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred gently on my lap.	0
+7	0	0	1	1	0	3	1	0	0	1	0	0	0	0	1	1	0	2.0	0	4	Nature hides its majesty under lichens.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the mailman.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	The sky colored orange.	0
+15	3	0	1	2	0	2	2	1	0	2	0	1	1	1	1	1	0	4.0	1	5	Never before had they seen so many eyes staring at them from all directions.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sat.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog purred.	0
+9	1	0	1	1	0	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	4	An abandoned train rode silently across the desert.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cats purred contentedly on the windowsill.	0
+12	0	0	3	1	0	3	0	2	0	2	1	0	0	0	2	0	0	3.0	0	8	The cat sat in the sun. (0 verbs used)	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun set slowly.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	1	1	0	2.0	0	1	Water ripples reflected sunlight.	0
+6	1	0	0	1	0	1	0	0	1	1	0	0	1	0	1	0	0	2.0	0	4	Sun sets slowly in orange hues	0
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	5	She rode her bike to the store. (0 verbs)	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly over the horizon.	0
+5	0	0	0	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	This sentence has no verbs	0
+3	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred	0
+8	0	0	0	1	0	4	0	1	0	1	0	0	0	0	1	0	0	3.0	0	5	Sand castles towered at the ocean's edge	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun rises in the east each day.	0
+10	0	0	1	0	1	3	0	1	0	2	0	1	0	1	1	1	0	4.0	1	2	No verbs are needed to convey thought and purpose. It was decided that a walk in the hills would be the perfect way to end the week. (0 verbs)	0
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	Bird flew tree.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The car purred gently down the road.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun shone brightly on the flowers.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly in the sky.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car drove to the store.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun rises slowly in the eastern sky.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Myeolmam's lap.	0
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	0	1	0	3.0	0	3	Eat a slice of apple pie.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly over the horizon.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was blue. (0 verbs)	0
+3	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sat	0
+7	0	0	1	0	0	1	1	1	0	0	0	1	2	0	1	0	0	1.0	0	5	This is a beautiful sunny day. (0 verbs)	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car drove down the hill.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The moon shines brightly in the night sky.	0
+6	0	0	1	0	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The color blue is seen.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+29	3	1	2	5	0	7	4	1	0	4	0	0	1	2	2	0	1	4.0	3	11	With a heavy weight of sorrow pressing down upon my head, my eyes cast down toward my feet while tears slowly begin to fall from their corners.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	I will attend the party tonight.	1
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The cat chased the mouse quickly around the room.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She walked slowly to the door.	1
+5	0	0	0	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	I have generated an apple	1
+6	0	0	0	1	0	1	0	1	1	1	0	1	0	0	1	0	0	2.0	0	3	Rachel will run to the store	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The dog chased the cat quickly.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She quickly cleaned the kitchen.	1
+10	1	0	0	1	1	2	1	1	1	2	0	0	0	0	1	2	0	3.0	0	4	Lizzy quickly grabbed her jacket and headed out the door	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She laughed loudly at the joke.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+8	1	0	1	0	0	1	1	1	0	2	0	1	0	1	2	0	0	2.0	1	4	The cat purred when it was petted.	1
+5	0	0	0	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Sunlight streamed across the landscape	1
+14	0	1	2	1	0	3	0	3	1	3	0	0	0	1	2	1	1	3.0	2	6	Sprinting down the hall, Sarah reached the classroom before the bell rang.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose brightly in the sky. (1 verb)	1
+9	2	0	2	0	0	3	0	1	0	1	0	0	0	0	1	1	0	2.0	0	6	Runs rapidly downwind, a bird takes flight.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	2	Wrote the book.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	0	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The sun was setting over the ocean	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+13	0	0	1	2	0	3	1	2	1	2	0	0	1	0	1	2	1	3.0	1	7	Rushing down the mountain on his bike gave Alex an exhilarating feeling.	1
+11	0	0	1	2	0	3	1	2	0	2	0	0	0	0	1	2	1	3.0	1	4	Running through the forest brought me a sense of freedom.	1
+9	0	0	1	1	0	2	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	I have generated a sentence with 1 verb: She walked rapidly into the park.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The teacher smiled at the student.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The ball bounced into the basket.	1
+9	0	0	1	2	0	3	1	0	0	2	0	0	0	1	1	1	0	3.0	1	5	I love playing soccer with friends on weekends.	1
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Mary swam quickly across the lake.	1
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	He took the book from the shelf.	1
+8	2	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	She walked quickly home from the store.	1
+7	1	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	The dog chased its tail excitedly.	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	0	0	0	2.0	0	4	Walked to the bus station.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred contentedly.	1
+12	0	0	1	2	0	3	2	1	0	1	0	1	1	1	1	0	0	3.0	1	7	I am happy dancing down the beach in my flip flops.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	1
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She opened the jar.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	He ran quickly down the street.	1
+10	0	0	1	1	0	3	2	1	0	1	0	0	0	0	1	1	0	3.0	0	7	She baked a cake for her friend's birthday.	1
+14	0	0	2	2	0	3	2	2	0	2	0	0	1	0	1	1	1	3.0	1	6	Running down the beach, I felt the warm sand beneath my feet.	1
+4	0	0	0	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I have a plan	1
+8	0	0	1	1	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	5	Mike threw the ball into the stands.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purrs.	1
+6	1	0	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She ran swiftly down the street	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The ball is blue.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	1
+14	1	1	1	2	0	3	2	2	0	2	0	0	0	1	0	2	0	3.0	1	8	Walk the dog around the block twice before returning it to its owner.	1
+21	2	0	3	3	1	4	1	2	1	3	0	0	1	0	1	1	0	3.0	0	12	Randy sang loudly with joy, danced enthusiastically on the table, and threw a colorful party for his friends.	3
+11	0	0	3	0	1	3	0	1	1	2	0	0	0	0	1	2	0	3.0	0	6	Maria enjoyed reading, cooking, and playing the piano.	3
+8	2	0	1	0	0	2	0	0	1	2	0	0	0	0	2	0	0	2.0	0	4	Brown bear climbed quickly trees loudly roared.	3
+21	0	0	3	4	1	5	0	5	0	3	0	0	0	0	1	0	0	4.0	0	11	The monkey swung through the trees, played with the birds, and climbed to the top of the mountain.	3
+18	0	0	3	1	1	4	0	4	0	3	0	0	2	0	1	2	0	3.0	0	11	The monkey climbed a tall tree, swung from a vine, and picked a juicy apple.	3
+12	0	0	3	1	1	3	0	1	1	2	0	0	0	0	1	1	0	3.0	0	5	Lily sings, dances, and performs yoga on the beach.	3
+12	0	0	3	1	1	2	0	1	1	3	0	0	0	0	1	1	0	3.0	0	5	Bob swims, jumps, and eats a fish for lunch.	3
+19	0	0	3	2	1	5	0	2	0	3	0	0	3	0	1	2	0	3.0	0	8	The stormy wind howled, knocked over tree branches, and lit the dark skies with electrical flashes.	3
+14	0	0	3	0	1	1	1	2	0	4	0	1	1	1	2	0	1	3.0	2	8	Running, jumping, and climbing were the actions she enjoyed the most.	3
+16	2	0	3	2	1	2	0	2	1	3	0	0	0	0	1	0	0	4.0	0	7	Brian baked, then ran, and finally hiked to the top of the mountain.	3
+12	0	0	3	1	1	2	0	2	0	3	0	0	0	0	1	0	0	3.0	0	5	The cat purred, chased, and pounced on the mouse.	3
+18	2	0	3	1	1	5	0	2	0	3	0	0	1	0	3	1	0	3.0	0	10	The sun sets slowly, birds sing sweet melodies, and children laugh uncontrollably in the park.	3
+13	2	1	1	1	0	3	0	2	0	2	0	0	0	1	1	0	0	3.0	1	9	The cat laughed hysterically at the mouse's foolishness before rapidly pouncing.	3
+19	2	0	3	2	1	3	2	1	1	3	0	0	1	0	1	2	0	3.0	0	12	Maria quickly cooked dinner, served it on a beautiful tablecloth, and then danced with her friends.	3
+19	0	0	3	2	1	4	1	3	1	3	0	0	1	0	1	2	0	3.0	0	10	Brian played the guitar, sang a beautiful song, and danced with his wife at the wedding.	3
+16	0	0	1	3	0	4	2	3	0	2	0	0	1	1	2	1	0	3.0	1	10	He drove the car through the mountainous terrain with his eyes fixed on the horizon.	3
+19	0	0	3	3	1	4	2	2	1	3	0	0	0	0	1	1	0	3.0	0	13	Maria went to the park with her family, had a picnic, and played with her friends.	3
+11	0	0	3	1	1	1	0	1	1	3	0	0	0	0	1	0	0	3.0	0	5	Rahul walked, biked, and swam along the coastline.	3
+16	0	0	3	1	1	2	2	2	0	4	0	0	0	1	1	2	0	3.0	1	10	She walked into the kitchen, grabbed a snack, and started to eat it.	3
+24	3	1	3	3	1	6	0	4	0	3	0	0	0	1	3	0	0	4.0	1	8	The sun set slowly over the mountains, as birds sang sweetly in the trees, and children laughed joyfully in the park.	3
+11	3	0	3	0	1	0	1	0	0	3	0	0	0	0	1	0	0	2.0	0	7	He laughed joyfully, danced enthusiastically, and sang beautifully.	3
+11	1	0	2	1	1	1	0	1	1	3	0	0	0	0	1	0	0	3.0	0	5	Susan quickly jumped, sang, and ran in the park	3
+13	1	0	1	2	0	2	0	2	1	2	0	0	2	1	1	0	0	3.0	1	6	Jim quickly ran across the busy street, chased by a fierce dogs	3
+10	0	0	2	1	1	1	0	1	1	3	0	0	0	0	1	0	0	3.0	0	5	Karen walked, ran, and skipped down the mountain	3
+8	1	0	1	1	0	1	0	0	1	3	0	0	0	2	1	0	0	3.0	2	3	Jennifer sang danced walked home from school.	3
+17	3	0	3	1	1	4	0	2	0	3	0	0	0	0	3	0	0	3.0	0	9	The sun set slowly, birds sang loudly, and children played joyfully in the park.	3
+10	0	0	2	1	1	1	0	1	1	3	0	0	0	0	1	0	0	3.0	0	5	Nancy hiked, camped, and rafted through the wilderness	3
+10	2	0	0	2	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	7	She silently walked slowly down the path in the fog	3
+13	0	0	3	0	1	3	0	2	1	3	0	0	0	0	1	3	0	3.0	0	8	Mary ate a sandwich, played soccer, and sang a song.	3
+15	0	0	3	1	1	3	1	3	0	3	0	0	0	0	1	2	0	3.0	0	9	She sang a song, played the piano, and danced at the party.	3
+13	1	1	1	1	1	2	0	2	1	3	0	0	0	1	2	0	0	3.0	1	6	The ball flew through the hoop as Tom jumped and cheered loudly.	3
+13	0	0	3	0	1	2	2	2	0	3	0	0	0	0	1	3	0	2.0	0	8	The dog chased the cat, caught it, and killed it.	3
+21	1	1	2	1	0	6	0	5	0	3	0	0	2	2	1	3	0	5.0	2	5	The monkey climbed the tree slowly, singing a happy tune while enjoying the sweet fragrance of the blooming flowers.	3
+17	2	0	3	0	1	4	0	4	0	3	0	0	0	0	3	1	0	3.0	0	12	The dog chased the cat, the cat meowed loudly, and the bird sang sweetly.	3
+14	0	0	1	2	1	4	0	4	0	2	0	0	0	0	1	1	0	3.0	0	5	The monkey jumped over the river and chased the baby through the trees.	3
+23	2	0	3	1	0	6	3	3	0	4	0	0	0	2	2	4	0	5.0	2	5	The teacher gave the students a math problem, who eagerly worked on it, then raised their hands to ask questions.	3
+9	0	0	2	0	1	1	1	1	0	3	0	0	0	0	1	1	0	3.0	0	5	She sings, dances, and plays the drum	3
+16	0	0	3	1	1	2	1	2	0	3	1	0	1	0	1	2	0	3.0	0	10	I walked to the bank, withdrew $100, and purchased a new computer.	3
+13	0	0	3	1	1	3	0	1	1	3	0	0	0	0	1	2	0	3.0	0	8	Maria finished painting, danced with friends, and watched the sunset.	3
+24	2	0	2	3	1	6	2	3	0	4	0	0	0	2	1	2	0	5.0	2	7	She walked quickly to the bank, withdrawing money from the ATM and then heading to the coffee shop to meet her friends.	3
+13	1	0	3	1	1	2	0	2	0	3	0	0	0	0	1	0	0	3.0	0	5	The car sped, drove, and parked quickly down the hill.	3
+13	0	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	9	The cat purred, the mouse ran, and the bat flew.	3
+16	0	0	3	2	1	3	1	1	2	3	0	0	0	0	1	1	0	3.0	0	8	Ms. Johnson walked to the beach, sunbathed, and played volleyball with her friends.	3
+16	0	0	3	2	1	4	0	3	0	3	0	0	0	0	1	1	0	3.0	0	11	The teacher smiled at the students, wrote on the board, and asked questions.	3
+18	2	1	1	1	1	3	4	1	0	3	0	0	1	1	2	2	0	3.0	1	7	The cat purred contentedly on my lap while I stroked its soft fur and petted it gently.	3
+15	1	0	3	1	1	3	3	0	0	3	0	0	0	0	1	2	0	3.0	0	9	I immediately finished my homework, brushed my teeth, and prepared for bed.	3
+25	1	0	3	3	1	7	0	6	0	3	0	0	1	1	2	1	0	3.0	1	18	The sun rose over the mountain, casting a golden light on the sleeping village below, and the wind whispered through the trees.	3
+11	1	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	7	The dog chased the cat quickly across the grassy field. 	3
+14	1	0	2	2	0	3	1	3	0	2	0	0	0	1	2	0	0	4.0	1	4	The dog barked at the cat, which then hissed at the boy.	3
+13	0	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	9	The cat purred, the baby giggled, and the bird sang.	3
+17	1	0	3	1	1	3	2	3	0	3	0	0	0	0	1	3	0	3.0	0	9	The kitten chased the mouse, caught it, and then hid it under the couch.	5
+20	0	0	5	1	1	3	1	2	0	5	0	0	2	0	1	1	0	3.0	0	9	The tourists hiked, biked, skied, danced, and swam their way through the beautiful Swiss mountains.	5
+13	0	0	5	0	1	1	0	1	0	5	0	0	0	0	1	0	0	2.0	0	9	The cat purred, meowed, ran, climbed, and jumped.	5
+16	1	0	5	1	1	1	0	1	1	5	0	0	0	0	1	0	0	3.0	0	9	John jumped, skipped, ran, danced, and sang along to the music.	5
+35	5	0	5	1	1	6	0	6	0	6	0	5	0	0	5	0	0	4.0	0	29	The sun was shining brightly over the rolling hills, the birds were chirping happily, the flowers were blooming beautifully, the children were playing joyfully, and the bees were buzzing contentedly.	5
+16	0	0	5	1	1	2	0	2	0	5	0	0	0	0	1	0	0	3.0	0	9	The ball bounced, rolled, flew, slid, and skipped across the grass.	5
+16	0	0	5	1	1	2	0	2	0	4	0	0	1	0	1	0	0	3.0	0	9	The cat purred, meowed, pounced, raced, and hidden beneath the bed.	5
+13	0	0	5	0	1	1	0	1	0	5	0	0	0	0	1	0	0	2.0	0	9	The monkey played, jumped, swung, climbed, and slept. 	5
+25	0	0	5	5	1	5	0	4	0	5	0	0	0	1	0	0	0	5.0	1	15	Rushing down the mountain, leaping over rocks, soaring through the air, plunging into the lake, and disappearing beneath the water.	5
+17	1	0	4	2	1	2	1	1	1	4	0	0	0	0	1	0	0	3.0	0	7	Amy quickly danced, sang, played, and laughed with her friends at the party.	5
+22	2	0	3	3	1	5	1	4	0	3	0	0	0	0	1	2	0	3.0	0	14	The cat chased the mouse quickly around the corner, pounced with excitement, and finally caught it under the sofa.	5
+16	3	0	1	1	1	3	0	2	0	2	1	0	2	0	1	1	0	3.0	0	6	The quick brown fox easily jumped over the fence and then sang three songs happily.	5
+25	3	0	5	1	1	4	3	3	0	5	0	0	0	0	1	5	0	3.0	0	18	She carefully washed the dishes, dried them thoroughly, put them away, turned off the faucet, and closed the kitchen cabinets.	5
+24	4	0	4	2	1	4	0	4	0	4	0	0	1	1	1	1	0	4.0	1	9	The cat purred contentedly, chased the mouse rapidly, and leapt over the obstacle gracefully, landing on the soft blanket gently.	5
+17	0	1	1	2	0	4	0	3	0	2	0	0	0	1	2	0	0	3.0	1	11	The snowplow driver plowed _ through _ the drift _ while _ the skier swooshed past.	5
+30	2	1	1	4	2	10	0	4	0	4	0	0	2	1	2	2	0	6.0	1	9	A storm of chirping birds burst forth from thickening fog as a sunny day peeled away the cloud cover and painted the sky in hues of orange and pink.	5
+37	0	0	5	4	1	11	2	7	0	6	0	0	0	1	1	5	0	5.0	1	21	The teacher asked the students to turn in their homework, take a test, participate in a class discussion, complete a group project, and submit their grades at the end of the semester.	5
+16	0	0	5	1	1	2	0	1	1	5	0	0	0	0	1	0	0	3.0	0	9	Sarah jumped, ran, danced, played, and sang in the talent show.	5
+22	2	0	1	3	0	6	1	3	1	3	1	0	1	2	2	2	0	7.0	2	4	Within seconds, John jumped quickly to the top of the tree where he discovered a hidden nest containing five baby rabbits	5
+13	0	0	5	0	1	1	0	0	1	5	0	0	0	0	1	1	0	2.0	0	9	Natasha hiked, biked, skied, sang, and played guitar.	5
+11	0	0	1	1	1	1	0	1	1	5	0	0	0	0	2	0	3	3.0	3	3	Jessica hiked climbed descended rode and arrived at the summit.	5
+29	1	0	5	4	1	6	1	5	1	5	0	0	0	0	1	2	0	3.0	0	23	Maria quickly jumped over the obstacles, ran down the hill, threw the ball into the basket, smiled at her friend, and hugged the dog.	5
+22	1	1	3	2	1	3	4	0	0	4	0	1	1	2	2	2	0	5.0	2	8	I will finish my work, tidy up, and relax before I go out to meet my friends for dinner.	5
+31	5	0	5	1	1	7	1	6	0	5	0	0	0	0	5	1	0	6.0	0	7	The cat purred softly, the dog wagged its tail excitedly, the bird chirped happily, the mouse scurried nervously, and the frog leaped lazily across the pond.	5
+26	0	0	3	3	1	5	2	4	2	5	0	0	0	3	3	1	0	5.0	3	10	John threw the frisbee, which Alex caught, and they ran to the park to play fetch with the dogs until the sun set.	5
+23	1	1	3	3	0	6	0	4	1	3	0	0	0	2	2	1	0	4.0	2	14	The cat purred contentedly on John's lap, chasing the sunbeam, while the kitten played with the ball of yarn.	5
+25	3	1	3	0	1	5	2	3	0	4	0	0	3	2	1	4	0	3.0	2	14	The monkey quickly climbed the tall tree, purposely avoiding its noisy troop mates, and successfully collected the juicy fruit without dropping it.	5
+43	5	0	5	5	1	10	0	9	1	5	0	0	1	0	5	0	0	4.0	0	25	The fluffy cat purred contentedly on John's lap, the sunbeam danced playfully across the room, the bird sang melodiously from the tree, the kite soared gracefully in the sky, and the bubbles fizzed happily in the bath.	5
+28	2	0	4	5	1	6	0	5	0	4	0	0	1	0	1	1	0	3.0	0	19	The cat chased the mouse quickly through the grass, jumped over the small tree, squeaked with excitement, and curled up contentedly on the windowsill.	5
+7	0	0	1	0	0	0	1	0	0	5	0	0	0	4	2	0	0	2.0	4	4	She ate danced laughed sang swam. (1 sentence)	5
+16	1	0	5	0	1	3	0	2	0	4	0	0	0	0	1	1	0	3.0	0	9	The dog quickly chased, caught, bit, dropped, and killed the squirrel.	5
+20	0	0	4	1	1	5	1	4	0	4	0	0	0	0	1	3	0	3.0	0	14	The cat chased the mouse, caught the bird, flew through the window, and licked its paw.	5
+20	2	0	4	2	1	3	3	1	0	4	0	0	0	0	1	2	0	3.0	0	15	She walked into the library, picked up her books, drove home, and finally started her homework.	5
+25	0	0	1	4	4	5	2	4	0	5	0	0	0	0	1	3	0	5.0	0	16	I found a boulder and climbed up it and skipped rocks and swam across the river and hiked to the top of the mountain.	5
+15	0	0	5	0	1	1	0	1	1	5	0	0	1	0	1	1	0	3.0	0	9	Maria baked, cooked, served, ate, and enjoyed the delicious cake.	5
+30	2	0	5	3	1	6	0	5	0	5	0	0	3	0	1	1	0	3.0	0	20	The big orange cat purred loudly, batted at the toy, chased the laser beam, jumped high in the air, and pounced on the unsuspecting mouse.	5
+12	2	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The quick brown fox jumps high over the lazy cat quickly.	5
+9	4	1	1	0	0	0	0	0	1	2	0	0	0	1	1	0	0	2.0	1	3	Grace quickly quietly sang beautifully before going outside.	5
+23	0	1	6	0	3	2	1	0	2	7	0	0	1	1	3	0	0	5.0	1	9	Mike swam, dived, and played, and Julia rode, jumped, and laughed before their tropical vacation adventure began. (1 sentence) 	5
+24	0	0	5	2	1	10	0	0	0	5	0	0	1	0	4	2	0	4.0	0	18	Bears climbed trees, monkeys danced in circles, elephants played trumpets, giraffes whistled tunes, and kangaroos bounced to popular songs.	5
+16	0	0	5	1	1	1	0	1	1	5	0	0	1	0	1	0	0	3.0	0	9	Ron hiked, rafted, surfed, biked, and camped along the scenic coastline.	5
+17	5	0	5	0	1	0	0	0	1	5	0	0	0	0	1	0	0	2.0	0	13	Juan jumped quickly, ran forcefully, danced energetically, sang loudly, and smiled happily.	5
+20	0	1	3	2	1	4	1	3	0	5	0	0	0	1	1	1	0	4.0	1	7	The dog chased, barked, and caught the ball before returning to its owner with a wagging tail.	5
+12	0	0	5	0	1	0	1	0	0	5	0	0	0	0	1	0	0	2.0	0	9	She danced, sang, swam, played, and climbed.	5
+22	0	0	4	3	1	5	0	5	0	4	0	0	0	0	1	2	0	3.0	0	14	The cat jumped over the fence, chased the mouse, caught the bird, and curled up on the porch.	5
+19	1	0	4	0	3	5	1	2	0	3	0	0	0	0	2	2	0	3.0	0	13	The teacher gave the children books, assignments, and questions, but they just fought and shouted.	5
+12	0	0	5	0	1	1	1	0	0	4	0	0	0	0	1	0	0	2.0	0	9	She played, ran, jumped, sung, and dance.	5
+22	0	0	5	0	1	6	0	5	0	5	0	0	0	0	1	5	0	3.0	0	17	Mom washed the clothes, dried the car, vacuumed the floors, polished the furniture, and baked a cake.	5
+13	0	0	4	0	1	2	0	1	1	4	0	0	0	0	1	1	0	3.0	0	7	Roger jumped, kicked, caught, and hugged the teddy bear.	5
+41	4	0	5	5	1	11	1	9	0	5	0	0	0	0	5	1	0	4.0	0	24	The sun set slowly behind the hills, the birds sang sweetly in the trees, the children played joyfully in the park, the dog wagged its tail with excitement, and the wind howled mournfully through the streets.	5
+33	0	0	7	3	1	8	1	6	0	7	0	0	0	0	1	4	0	3.0	0	27	The team played soccer, ran around the field, kicked the ball, passed to their teammates, dribbled through the defense, scored a goal, and won the game.	7
+17	1	1	3	1	1	3	2	1	0	4	0	0	0	1	2	3	0	3.0	1	8	The cat chased mice, jumped over puddles, and purred contentedly as I petted it.	7
+16	0	0	7	0	1	0	1	0	0	7	0	0	0	0	1	0	0	2.0	0	13	She ate, drank, wrote, read, spoke, sung, and walked. 	7
+26	0	1	3	3	2	6	0	6	0	5	0	0	0	1	1	2	0	5.0	1	11	The rain danced down the mountain, swirled in the stream, and sparkled in the sunlight before overflowing the banks and flooding the valley.	7
+20	0	1	1	4	0	5	0	4	0	3	0	0	2	2	1	0	0	4.0	2	8	The cat leaped through the window, landing on the couch with graceful fervor before curling into a contented ball	7
+24	6	0	7	0	1	2	0	1	0	7	0	0	0	0	1	1	0	2.0	0	19	The cat purred loudly, jumped high, chased mice, landed safely, drank deeply, pounced quickly, and slept soundly.	7
+45	1	1	7	4	2	11	2	7	0	7	0	0	3	1	2	4	0	5.0	1	25	The team eagerly marched down the field, sprinted towards the goal, kicked the ball with finesse, scored a dramatic last-minute goal, and celebrated their victory with great fanfare, all while the crowd cheered and chanted their names.	7
+20	0	0	7	1	1	2	0	2	0	7	0	0	0	0	1	0	0	3.0	0	13	The thief crept, crawled, leaped, danced, spun, twirled, and sprinted through the night.	7
+16	0	0	7	0	1	0	1	0	0	7	0	0	0	0	1	0	0	2.0	0	13	She walked, danced, sang, played, ran, baked, and served.	7
+16	0	0	6	1	1	1	1	0	0	6	0	0	0	0	1	0	0	2.0	0	14	She danced, sung, ran, jumped, walked, and played, with joy	7
+28	1	1	3	2	1	5	1	4	1	5	0	0	3	2	1	3	0	5.0	2	10	Ingrid carefully straightened the cushions, opened the French window, and turned on the lamp before settling into her favorite armchair to read the new novel.	7
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap	7
+16	1	1	1	1	0	5	1	0	0	4	0	0	2	2	3	1	0	4.0	2	6	Bright green flashes illuminated towering waves that barreled towards beach umbrellas as seagulls squawked above.	7
+18	2	1	1	1	1	3	1	2	1	3	0	0	2	1	2	1	0	4.0	1	7	Lena walked briskly down the snowy hill and laughed joyfully as she saw the little girl sledding. 	7
+22	0	0	2	1	5	3	1	2	0	6	0	0	2	0	1	1	0	3.0	0	10	The big, green monster roared and purred and sprinted and leaped and bounded and chomped its way through the forest.	7
+17	0	0	6	0	1	2	0	2	0	6	0	0	0	0	1	1	0	3.0	0	11	The cat purred, chased, jumped, hissed, pounced, and scratched the mouse.	7
+24	7	0	7	1	1	0	0	0	1	7	0	0	0	0	1	0	0	2.0	0	20	Natalie laughed loudly, jumped up quickly, sang sweetly, danced energetically, wrote carefully, spoke politely, and ate quietly.	7
+33	4	0	7	3	1	5	0	5	0	7	0	0	1	1	1	1	0	3.0	1	25	The dog barked loudly, ran quickly across the field, jumped over a stream, chased a rabbit, grew excited, panted heavily, and sat calmly in the shade.	7
+27	3	0	4	3	1	7	3	3	0	3	0	0	0	1	2	0	0	4.0	1	19	The cat purred loudly on my lap, the dog tail-wagged happily at its side, and the bird chirped sweetly in its cage.	7
+18	3	0	2	2	1	3	0	1	1	4	0	0	0	1	1	1	0	5.0	1	9	Sarah swiftly swam to shore, sighed heavily, and suddenly stopped to watch a school of fish	7
+17	1	0	2	2	0	4	0	4	0	2	0	0	2	1	1	1	0	3.0	1	7	The sun set slowly across the ocean, casting a warm orange glow across the waves.	7
+21	4	2	1	1	1	4	1	4	0	3	0	0	0	2	2	2	0	4.0	2	9	The cat purred quietly on the pillow as the baby gently rocked it back and forth while humming a lullaby.	7
+19	2	1	2	2	1	4	1	0	1	4	0	0	1	2	2	1	0	4.0	2	10	Rain fell hard, obscuring distant views, but John eagerly jumped into puddles while playing with his dog	7
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The car chased the train down the hill.	7
+19	0	1	4	0	2	3	0	3	0	6	0	0	0	1	2	1	0	4.0	1	7	The cat purred, meowed, pounced, and scratched the furniture while the baby laughed and babbled.	7
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	7
+31	2	0	8	1	1	7	1	1	1	8	0	0	1	0	1	4	0	4.0	0	24	Lily played the guitar, sang songs, danced energetically, laughed loudly, ate cotton candy, wore rainbow-colored clothes, and chased after her favorite dog.	7
+11	1	0	1	2	0	3	1	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat purred contentedly on the lap of its owner.	7
+27	0	0	7	1	1	5	1	3	2	7	0	0	0	0	1	4	0	3.0	0	23	Mrs. Johnson walked her dogs, biked to the library, sang a song, played tennis, read a book, gardened, and danced.	7
+25	2	0	4	3	1	5	1	5	0	4	0	0	0	0	1	2	0	3.0	0	17	The cat chased the mouse across the table, jumped onto the couch, squeaked loudly, and finally caught it under the sofa.	7
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The quick fox jumped high in the green sky.	7
+17	2	1	2	1	0	3	3	1	0	3	0	0	1	2	2	1	0	4.0	2	6	The cat purred contentedly on my lap, meowing softly as I stroked its soft fur.	7
+14	0	1	1	0	1	4	1	3	0	3	0	0	0	1	3	1	0	3.0	1	10	The cat purred while the dog tapped its paw and the baby laughed.	7
+38	1	1	7	5	1	8	0	0	1	8	0	0	6	1	1	3	0	4.0	1	31	Maria quickly jumped over tall fences, swam through crystal-clear rivers, climbed rugged mountains, danced across vast deserts, chased after fluttering birds, ran through dense forests and slid down steep cliffs. 	7
+48	3	1	7	5	2	14	0	9	0	7	0	0	0	1	6	1	0	6.0	1	29	The sun sets slowly over the rolling hills, as deer graze contentedly, squirrels scamper up and down the trees, a bluejay flits among the branches, a butterfly takes flight, a baby coos in excitement, and a kitten purrs in the bushes.	7
+24	4	2	3	2	2	2	1	2	0	6	0	0	0	1	1	0	1	4.0	2	13	Without stopping, they quickly jumped, ran and walked to the top of the hill before suddenly freezing and looking around cautiously.	7
+14	2	0	2	1	0	4	0	0	0	3	1	0	1	1	1	1	0	3.0	1	6	Seven skateboarders surfed snake-infested waves swimmingly swimming south towards secluded shores.	7
+23	0	0	4	2	1	6	0	6	0	4	0	0	0	0	1	3	0	3.0	0	17	The cat chased the mouse through the field, jumped over the fence, reached the tree, and caught the bird.	7
+27	2	1	3	3	1	6	0	6	0	4	0	0	1	2	2	2	0	5.0	2	8	The rain poured down on the parched land, flooding the fields and washing away the dirt, as the thunder rumbled ominously in the distance.	7
+37	3	1	6	4	1	6	2	5	1	7	0	0	1	2	2	3	0	5.0	2	20	Sarah walked quickly through the park, chasing the butterfly until it fluttered away, climbed a tree, jumped off a branch, ran to the nearby river, and eventually dived into its depths.	7
+13	0	0	1	1	0	4	0	3	0	2	0	0	2	1	2	1	0	3.0	1	7	The rain soaked dog chased the quick cat through the bumpy garden.	7
+9	0	0	1	0	0	1	0	0	1	6	0	0	0	4	2	1	0	3.0	4	4	Mary danced swam sprinted leaped sang chortled hummed.	7
+14	1	1	1	0	0	3	1	2	0	3	0	1	0	2	2	1	0	3.0	2	5	The teacher taught the students to learn quickly so they could test tomorrow.	7
+56	2	0	7	6	2	16	0	10	0	8	0	0	4	1	6	1	0	4.0	1	49	The sun sets slowly over the calm ocean waters, birds soar high in the sky, waves crash against the sandy beach, boats glide through the clear waters, children laugh and play in the distance, a mermaid surfaces to greet a sailor, and a sunken ship rises from the depths.	7
+12	1	0	2	1	0	3	1	2	0	2	0	0	0	0	1	1	1	3.0	1	8	Sprinting along the beach, the tide quickly flooded my feet.	7
+27	2	1	3	2	1	7	1	4	1	3	0	0	1	1	3	2	0	4.0	1	10	A cat purred contentedly on John's lap, while a bird sang a melodious song outside, and a dog wagged its tail in excitement.	7
+17	0	0	7	0	1	1	0	1	0	7	0	0	0	0	1	0	0	2.0	0	13	The cat meowed, purred, pounced, chased, leaped, slept, and napped.	7
+16	2	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	8	The dog chased the cat quickly, but the cat escaped rapidly down the alley.	7
+25	1	1	2	2	0	5	4	2	0	4	0	0	3	3	2	3	0	5.0	3	7	The cat purred contentedly on my lap as I stroked it with gentle affection, humming a soothing tune to calm its fidgety excitement.	7
+30	1	0	5	4	1	5	1	4	1	5	0	0	3	0	1	1	0	3.0	0	22	Toby quickly walked down the alley, jumped over a puddle, sang a happy tune, laughed at a funny joke, and ran into his best friend.	7

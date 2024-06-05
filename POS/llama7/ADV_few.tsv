@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+19	1	2	0	0	0	3	4	0	0	2	0	3	2	2	3	1	0	5.0	2	7	I'm not going anywhere until my pet dragon is satisfied that I can provide it's favorite treat	0
+9	1	0	2	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	The baby smiled at me, totally unbelievable.	0
+16	1	1	2	1	0	4	1	3	0	3	0	0	0	2	2	1	0	4.0	2	6	The cat remained in the window, sleepily watching the bird until its mate reappeared.	0
+14	0	0	1	2	0	1	3	2	1	3	0	1	0	2	3	0	0	4.0	2	6	She said they would return in March with all the information she needed.	0
+15	2	0	1	1	0	2	2	1	0	3	0	1	0	1	2	0	0	3.0	1	10	She didn't need to study for the history test, fortunately she passed easily	0
+18	0	0	1	3	1	4	0	3	2	3	0	0	1	1	1	1	0	5.0	1	5	Ms. Grimshaw looked around the corner and spotted a little boy playing with sticks in the grass.	0
+6	0	0	1	1	0	1	1	0	0	2	0	0	0	1	1	0	0	3.0	1	2	I love dancing in raindrops.	0
+8	1	1	1	0	0	1	1	1	0	2	0	0	0	1	2	0	0	2.0	1	4	The cat purred loudly as it lazed.	0
+18	0	0	3	3	0	3	2	1	1	4	0	0	0	3	2	1	0	7.0	3	4	Jim jumped into pond, splashing his friend, who had to dive out of the way.	0
+16	0	1	1	1	0	6	1	4	0	2	0	0	0	1	2	3	0	4.0	1	8	The cat gave the rat the pouncing stare as he drank a bowl of milk.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred softly.	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I will make a sandwich for lunch.	0
+12	0	0	2	1	0	2	3	2	0	1	0	1	0	0	3	0	0	3.0	0	7	She walked into the room, what a shock it was!	0
+15	2	0	3	1	0	3	1	3	0	2	0	0	0	1	2	1	0	4.0	1	6	The dog chased the cat, which ran very quickly, down the street.	0
+10	0	2	1	1	0	1	2	0	0	2	0	0	1	1	1	1	0	3.0	1	4	Her eyes lit up as if expecting something exciting.	0
+23	1	0	2	5	0	6	1	3	0	2	0	0	2	1	1	0	0	4.0	1	10	The baby elephant hatched out of its egg with a small trumpet, ready to march down to the river for water.	0
+19	1	1	4	0	1	4	0	2	0	4	0	1	0	2	1	2	0	4.0	2	8	"The teacher smiled and told the student, ""Don’t even think about skipping class tomorrow""."	0
+16	1	0	2	2	0	2	3	1	2	2	0	1	0	1	3	1	0	5.0	1	5	I once met a man from Peru, who said his mother was from France.	0
+10	0	0	0	1	1	3	2	1	0	2	0	0	0	0	1	1	0	3.0	0	5	The cat purred and nudged its head against my chest	0
+12	1	0	1	1	0	2	3	1	0	2	0	0	1	1	2	1	0	3.0	1	6	They laughed when I brought a new bird for my dog.	0
+16	2	0	2	1	1	2	1	2	0	2	0	1	2	1	2	0	0	3.0	1	12	The cat curled into a fuzzy ball and purred so loudly, it was adorable.	0
+17	1	0	2	1	0	2	3	2	0	2	0	1	2	2	2	0	0	4.0	2	9	I'm so annoyed I had to pay for a taxi, what an unnecessary expense.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred brightly.	0
+12	1	0	1	1	1	3	1	0	0	2	0	1	1	0	1	0	0	3.0	0	5	My favorite toy broke yesterday and now is smashed to smithereens.	0
+9	2	0	1	0	0	0	1	0	0	1	0	2	1	1	1	0	0	2.0	1	3	You will be able to fly there quickly.	0
+12	0	0	0	0	0	5	1	1	0	2	0	1	0	1	1	2	0	3.0	1	6	Every cat owner should brush their pet's hair to prevent knots	0
+17	0	0	0	1	1	3	3	0	1	2	0	2	2	1	2	2	0	3.0	1	13	Lizbet's mother told her to clean her room or else she would be in big trouble	0
+6	0	0	1	0	0	1	1	0	0	2	0	0	0	1	1	0	0	2.0	1	2	My cat loves to sleep.	0
+9	0	0	2	0	0	2	1	2	0	1	0	0	1	0	2	0	0	2.0	0	5	The cat purrs, what a strange sound!	0
+11	0	0	1	0	0	3	1	1	0	1	0	1	3	0	1	1	0	2.0	0	5	My best friend will love this new blue t-shirt.	0
+23	2	0	3	2	1	2	5	1	0	5	0	1	0	3	3	2	0	3.0	3	15	She took a nap to rest herself and when she woke up, her cat was sitting beside her, purring contentedly.	0
+18	0	0	2	1	1	4	2	3	0	3	0	0	1	1	2	3	0	3.0	1	12	I used my best pen to wrote the note, but the ink dripped down the paper.	0
+22	2	0	2	1	1	7	2	3	0	2	0	0	2	1	2	1	0	4.0	1	10	The puppy played happily all morning, his yips and cackles joyful accompaniment to the sunny yard where he chased butterflies.	0
+14	2	1	1	1	0	1	2	0	1	3	0	1	0	2	1	1	0	4.0	2	5	I will never agree on flying to visit my grandmother on Christmas again.	0
+7	1	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	4	The kitten had not yet adjusted.	0
+13	2	0	2	0	0	2	3	1	0	2	0	0	1	1	2	2	0	4.0	1	4	She ate the delicious fruit, which really surprised her father greatly.	0
+18	2	0	3	2	0	5	2	1	0	1	0	0	2	0	1	1	0	2.0	0	14	My mom cooks dinner every night for my family with love, no more, no less.	0
+32	1	2	2	2	0	3	7	2	0	6	0	1	3	5	2	5	0	5.0	5	18	She will return the favor soon without forgetting to add her own small gift inside your bag, as she wants you to have a little something to remember her by. 	0
+14	0	1	1	1	0	2	1	1	0	4	1	0	0	3	1	1	0	4.0	3	7	I had to eat one spoon at a time to keep from choking.	0
+11	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on its haunches, washing the tuna.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+15	0	0	2	1	1	2	3	1	0	3	0	0	2	1	2	2	0	3.0	1	9	I had a big burrito for breakfast, and it made me feel energetic.	0
+14	1	0	1	0	0	3	1	2	0	2	0	0	3	1	1	2	0	3.0	1	5	The big elephant slowly lifted its gigantic foot to crush the small mouse. 	0
+13	0	0	1	0	0	2	2	2	0	3	0	1	1	2	2	1	0	4.0	2	5	The café served an excellent dessert that I couldn't stop licking!	0
+10	1	1	1	0	0	2	2	1	0	2	0	0	0	1	2	1	0	3.0	1	4	Her cat meowed loudly as she entered the doorway.	0
+10	1	0	1	0	0	3	1	2	0	2	0	0	0	1	2	1	0	3.0	1	4	The baby giggled when the puppy licked its toes.	0
+19	0	1	1	2	0	4	2	3	0	3	0	0	3	2	2	2	0	4.0	2	12	I had better luck finding a rare gem in the junkyard than you did in that fancy store.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The baby laughed at the strange clown.	0
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The big, soft cat purred contently on my lap.	0
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The cat purred with a happy, fluffy smile.	0
+10	1	0	1	1	0	3	2	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The hotel staff warmly greeted us upon our arrival.	1
+13	1	0	2	1	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	6	The cat leapt suddenly across the room, surprising its startled owner. 	1
+11	1	0	1	1	0	3	1	1	0	0	0	1	1	0	1	0	0	3.0	0	5	The baby was soundly asleep on his mother's lap.	1
+13	1	0	2	0	1	4	0	2	0	2	0	0	1	1	1	2	0	4.0	1	4	The chef carefully crafted the meal, infusing rich flavors and textures.	1
+11	1	0	1	2	0	2	1	1	0	1	0	1	0	0	1	0	0	3.0	0	4	They will not apologize again for that error in judgment.	1
+12	2	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	The new employee quickly adapted to the fast-paced environment.	1
+11	1	1	1	0	0	2	1	0	1	2	0	1	1	1	1	2	0	4.0	1	3	Bill will certainly make amends for breaking her favorite mug.	1
+20	1	1	1	1	0	5	1	4	0	3	0	0	2	1	2	3	1	5.0	2	9	Although the new employee quickly proved himslef indispensable to the team, the manager refused  to give him a raise	1
+17	0	0	2	2	0	5	0	2	0	4	0	0	1	3	1	1	0	4.0	3	11	The company promises to compensate customers for any inconvenience caused, according to latest news update.	1
+13	1	1	1	0	0	2	2	2	0	3	0	0	0	2	2	2	0	4.0	2	5	She spoke quickly before the teacher had a chance to stop her.	1
+8	1	0	1	2	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Luckily my flight takes off before noon.	1
+14	2	0	3	1	0	3	2	1	0	1	0	1	0	1	2	1	0	3.0	1	6	Luckily, the flight was on time, which relieved my parents greatly.	1
+16	2	0	1	1	0	5	0	3	0	2	0	1	0	1	1	1	0	4.0	1	4	The researchers are only now beginning to uncover the root causes of the climate crisis.	1
+14	2	0	1	1	0	3	2	2	0	2	0	0	1	1	2	1	0	3.0	1	6	The children immediately ran to their parents when they heard the good news. 	1
+12	1	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The team worked diligently to complete the project before the deadline.	1
+15	2	1	2	0	1	2	0	1	0	3	0	0	3	2	1	1	0	4.0	2	6	The concert ended much later than expected, leaving many fans disappointed and confused.	1
+12	1	0	1	2	0	3	2	1	0	2	0	0	0	1	2	0	0	4.0	1	4	Her voice trembled nervously during the speech she gave at graduation.	1
+12	0	0	1	2	0	2	2	1	0	1	0	1	2	0	1	0	0	3.0	0	8	She will run faster than her sister in the upcoming race.	1
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	She slowly walked towards the dark alley. 	1
+10	2	1	1	0	0	1	3	0	0	1	0	1	0	0	2	1	0	3.0	0	6	As quickly as she could, she finished her work	1
+13	1	0	1	1	0	5	0	1	0	0	0	1	2	0	1	0	0	3.0	0	6	The school principal was surprisingly impressed by student's innovative project presentation.	1
+14	3	1	1	1	0	2	0	2	0	3	0	0	0	2	1	1	0	3.0	2	5	The manager angrily reprimanded the employee for repeatedly showing up late to work.	1
+12	0	0	1	1	1	2	0	1	2	2	0	0	1	1	1	1	0	4.0	1	3	And tourists flock to see the towering cliffs in Lulworth Cove.	1
+15	1	0	2	2	0	4	2	2	0	1	0	0	1	0	2	0	0	4.0	0	4	She slowly walked across the darkened room, her heart racing with every step.	1
+8	1	0	1	0	1	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	And suddenly they heard a strange noise.	1
+12	1	0	1	2	0	2	2	1	0	2	0	1	0	1	1	0	0	4.0	1	4	She was seen laughing joyfully by her friends at the party.	1
+14	0	1	1	0	0	4	0	1	0	3	0	1	2	2	1	1	0	4.0	2	5	The city's small-business owners have grown accustomed to navigating such challenge	1
+13	1	0	1	1	0	4	0	1	0	2	0	1	2	1	1	2	0	5.0	1	4	Scientists have discovered an unexpectedly small number of exoplanets orbiting nearby stars.	1
+16	0	0	2	2	1	6	0	2	0	1	0	0	2	0	1	2	0	5.0	0	5	The hotel provides guests an array of amenities, such as free breakfast and Wi-Fi.	1
+10	2	0	1	0	0	2	1	1	0	2	0	0	0	1	0	1	0	3.0	1	3	Sadly it took forever to get the concert tickets.	1
+9	1	0	2	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	4	Boldly, the scientist announced the groundbreaking discovery.	1
+21	4	1	2	1	0	3	1	2	0	4	0	0	1	3	2	1	0	4.0	3	10	The government finally agreed to provide additional funds to the project, although they only agreed to do so reluctantly.	1
+12	1	1	0	1	0	2	1	1	0	3	0	0	1	2	1	1	0	4.0	2	4	He immediately began to dance with joy at hearing the good news	1
+14	0	0	2	2	0	5	0	3	0	1	0	1	0	0	1	1	0	3.0	0	5	As a result, the company has received a surge in customer complaints. 	1
+15	0	1	0	1	1	4	0	3	1	1	0	2	1	1	2	0	0	3.0	1	7	And Darfur will be the largest refugee crisis in the world if this trend continues	1
+12	2	1	1	0	0	1	2	0	0	2	0	1	2	0	2	1	1	3.0	1	6	Because she had never done such thing before, she got frightened	1
+15	2	0	1	2	0	4	0	2	0	2	0	1	0	1	1	0	0	4.0	1	4	The government must finally begin to act seriously about the issue of climate change.	1
+11	2	1	1	0	0	2	0	2	0	2	0	0	1	1	1	1	0	2.0	1	5	The cat quickly ate the delicious food before jumping away.	1
+13	0	0	1	2	1	2	0	1	0	2	2	1	0	0	1	0	0	3.0	0	6	The concert started at eight but was not finished until ten PM.	1
+12	3	0	1	0	1	2	2	1	0	2	0	0	0	0	1	2	0	3.0	0	4	The company quickly realized their failure and corrected it shortly after.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat quickly ran under the bed.	1
+17	1	0	1	1	0	3	1	3	0	2	0	2	1	2	2	1	0	4.0	2	5	Sadly the child did not survive the accident as a result they were unable to recover.	1
+10	2	1	1	0	0	1	2	0	0	2	0	1	0	1	1	1	0	3.0	1	4	They have only partially succeeded in reaching their goal.	1
+12	1	0	1	0	0	3	1	2	0	2	0	0	1	1	1	2	0	3.0	1	4	The researchers quickly adapted their methods to address a new issue.	1
+12	1	0	1	1	0	3	0	2	0	2	0	1	1	1	2	0	0	3.0	1	6	Later in the week the meteorologists predicted more thundershowers will appear.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	He slowly walked out the room.	1
+10	1	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	3	She quickly ran to the end of the block.	1
+18	1	1	1	1	0	4	2	2	0	2	0	3	1	1	2	1	0	3.0	1	10	The researchers are currently re-evaluating all their previous conclusions because their results have been called into question.	1
+14	1	0	1	1	0	4	0	1	1	2	0	2	0	1	1	1	0	3.0	1	5	Sally has been practicing dance steps diligently to compete for the talent show. (1 adverb: diligently)	1
+15	2	0	1	1	1	3	1	2	0	2	0	0	2	0	1	1	0	3.0	0	6	The scientist quickly gathered the necessary equipment and eagerly embarked upon his new experiment.	1
+18	2	0	2	1	0	5	0	2	0	2	0	1	3	0	1	1	0	4.0	0	5	The increasing public attention is rapidly transforming the once opaque business practice of dark-side trading.	2
+13	3	0	0	0	1	2	0	1	0	2	0	3	1	0	2	0	0	3.0	0	9	Activity is swarming energetically and the precise outline is being continuously reshaped daily	2
+13	2	0	2	1	1	3	0	1	0	2	0	1	0	1	1	1	0	4.0	1	5	Activity is escalating rapidly and unpredictably, pushing the threshold of chaos.	2
+29	1	0	2	4	2	7	0	4	0	2	0	3	4	0	2	0	0	5.0	0	18	New technology is being introduced in the office at an incredible pace, and the boundaries between work and personal life are becoming increasingly blurred as a result.	2
+18	2	1	1	1	0	7	0	2	0	3	0	0	1	2	2	2	0	5.0	2	9	Activity increasingly gains momentum as the line separating progress from regression grows increasingly fuzzy each passing hour.	2
+19	4	0	1	1	1	4	0	2	0	2	0	2	2	0	2	0	0	4.0	0	9	Activity is picking up exceptionally well and the delicate balance is becoming steadily more precarious each passing moment.	2
+17	2	0	1	1	1	3	0	4	0	2	1	0	2	0	1	2	0	3.0	0	6	The new manager skillfully navigated the challenges and successfully steered the company towards a profitable 2023.	2
+17	2	0	1	1	1	4	0	2	0	2	0	3	1	0	2	0	0	3.0	0	10	Activity is picking up exceptionally and the fine lines are getting further blurred each passing day.	2
+17	2	0	1	1	1	4	0	2	0	2	0	3	1	0	2	0	0	3.0	0	10	Activity is picking up dramatically and the fine line is getting further blurred each passing day.	2
+26	1	1	2	4	0	5	2	4	0	4	0	2	1	2	2	0	0	5.0	2	12	Their boldness was being tested at every step of the way, as the shimmering line kept retreating into an ever deepening haze before them.	2
+15	2	0	1	1	1	3	0	2	0	3	0	2	0	1	2	0	0	3.0	1	7	Activity is picking up exceptionally and the details are getting more refined every day.	2
+15	2	0	1	0	1	3	0	1	0	2	0	1	3	0	1	1	0	3.0	0	5	The company's financial difficulties are becoming glaringly evident and urgently require prompt action.	2
+20	0	0	1	3	1	7	0	2	0	3	0	1	1	0	1	1	1	7.0	1	11	The increasing number of people willing to take risks and challenge convention is leading to innovation in all sectors.	2
+18	1	0	1	1	1	5	0	3	0	2	0	1	3	1	1	2	0	6.0	1	7	The newest innovations are astoundingly influencing the business environment surrounding the sector in remarkable and unforeseen ways.	2
+16	1	0	1	0	1	5	0	2	0	2	0	1	2	0	1	2	0	3.0	0	4	The city's infrastructure is currently undergoing considerable reconstruction and shows significant improvement every day.	2
+16	2	0	2	1	1	3	0	1	0	1	0	2	3	0	1	1	0	3.0	0	12	Massively and increasingly, a new wave of urban gardening has been gaining global traction.	2
+25	1	0	4	2	2	7	0	2	0	3	0	1	2	1	1	1	0	6.0	1	8	Innovation and creativity are blossoming at a lightning-fast rate and threatening to permanently disrupt the business-as-usual status quo.	2
+17	2	0	1	1	1	4	0	2	0	2	0	3	1	0	2	0	0	3.0	0	10	Activity is picking up dramatically and the fine line is getting further blurred each passing day.	2
+14	1	0	0	1	1	5	0	2	0	1	0	0	2	0	1	1	0	3.0	0	8	The concertgoers enthusiastically applauded the orchestra's skilled rendition with utter amazement and delight	2
+15	2	0	1	2	1	3	0	3	0	2	0	0	1	0	1	0	0	3.0	0	6	The cat leaped swiftly across the table and landed gracefully on the other side.	2
+17	2	0	1	1	1	4	0	2	0	2	0	3	1	0	2	0	0	3.0	0	10	Activity is picking up dramatically and the fine line is getting further blurred each passing day.	2
+17	3	1	1	1	1	4	0	2	0	2	0	1	1	1	2	1	0	3.0	1	8	Ingenuity and resiliency are needed more urgently than ever as the world faces an unprecedented crisis.	2
+23	1	0	2	1	2	6	1	2	0	2	0	1	4	1	1	2	0	5.0	1	9	Their arrival has significantly enhanced the entire team's performance and output, causing a substantial and commendable increase in overall productivity. 	2
+9	2	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	The concert was enjoyably loud and excitingly chaotic.	2
+19	2	0	3	1	1	3	0	3	0	2	0	2	2	0	2	0	0	4.0	0	13	The storm is intensifying rapidly, and by this evening the once-calm ocean has become treacherous.	2
+14	5	0	1	0	1	2	1	1	0	2	0	1	0	0	1	1	0	3.0	0	5	Their team is playing extremely well and winning decisively right now the game. 	2
+14	0	0	1	3	1	4	0	0	1	1	0	0	3	0	1	0	0	4.0	0	4	Massive flooding resulted in unprecedented destruction and anguish for communities across southern Texas.	2
+13	1	0	1	2	0	3	0	1	0	1	0	1	3	0	1	0	0	4.0	0	3	Perpetual progress is becoming increasingly vital to the perpetuation of modern society.	2
+13	1	0	1	1	1	3	0	1	0	2	0	0	3	0	2	0	0	3.0	0	5	Activity accelerates significantly and ethereal dimensions grow fuzzy beyond any recognizable limits.	2
+14	2	0	1	1	1	3	0	3	0	2	0	1	0	0	1	1	1	4.0	1	9	The sunlight streaming through the window was warmly and brightly illuminating the room.	2
+15	2	1	1	1	1	3	0	2	0	2	0	1	1	1	1	1	0	3.0	1	8	Undercover work was conducted by the detectives stealthily and patiently before making the arrest.	2
+19	1	0	5	2	1	3	1	2	0	1	0	0	3	0	1	0	0	2.0	0	5	Together, they embarked on a thrilling adventure into the dark and foreboding ____________(jungle/forest).	2
+20	1	0	1	2	1	5	0	3	0	2	0	3	2	0	2	0	0	3.0	0	9	The activity is vigorously advancing towards accomplishment and the intricate web is getting entangled with multiple complexities each minute.	2
+30	3	1	5	3	2	5	2	1	2	3	0	1	2	1	2	0	0	4.0	1	14	As fast as they could, Jackie and Sarah raced towards the finish line in their high-powered jet-ski, maneuvering skillfully and with unwavering focus.	2
+14	2	0	1	1	1	3	1	1	0	1	0	1	2	0	1	1	0	3.0	0	5	Their adventurous escape is fast gaining legendary status across the border and beyond.	2
+17	4	0	2	1	1	2	2	1	0	2	0	1	1	1	2	0	0	3.0	1	8	Their adventure began energetically and excitedly, with the first sunrise they had ever witnessed together.	2
+17	0	0	1	2	1	5	0	3	0	2	0	1	2	0	1	1	0	3.0	0	6	The increasing complexity of the issue is precipitating further debate and disagreement among the key stakeholders.	2
+15	2	0	1	0	1	4	0	2	0	2	0	1	1	0	1	2	0	4.0	0	5	The new policy is taking effect rapidly and completely transforming the organization's operations.	2
+19	1	0	1	2	0	4	1	3	0	2	0	1	4	1	2	1	0	4.0	1	6	The rapid depletion of the coral reefs is exacerbated by irresponsible tourists who ruthlessly damage these sensitive ecosystems.	2
+14	2	0	1	0	1	3	0	2	0	2	0	2	1	0	2	0	0	3.0	0	7	Activity is accelerating rapidly and the fine edge is blurring further each moment.	2
+21	1	0	1	3	0	7	0	2	1	1	0	1	4	0	1	1	0	4.0	0	7	Incredible advancements in the technological frontier have recently precipitated exponential growth rates for Bitcoin trading activity across the digital sphere.	2
+24	2	1	1	2	1	5	0	2	0	4	0	2	3	2	3	1	0	6.0	2	11	Activity is increasingly picking up momentum and the subtle distinctions between different groups are getting harder to distinguish as the days go by.	2
+17	2	0	1	1	1	4	0	2	0	3	0	2	1	1	2	0	0	4.0	1	8	Activity is picking up intensely and the blurred lines are becoming further defined each passing moment.	2
+17	2	0	1	1	1	4	0	2	0	2	0	3	1	0	2	0	0	3.0	0	10	Activity is picking up dramatically and the fine line is getting further blurred each passing day.	2
+29	1	0	4	2	3	7	3	1	0	2	0	1	4	0	2	1	0	5.0	0	12	Fortunately, her parents were generous and encouraging, and the fine-looking boy showed genuine interest and respect in their daughter's artwork despite its mediocrity.	2
+14	2	1	1	0	0	3	2	1	0	2	0	0	1	1	2	1	0	4.0	1	5	Their creativity soared meteorically as they enthusiastically embraced the project's unprecedented challenges.	2
+16	2	1	1	0	1	3	0	2	0	2	0	1	3	1	2	0	0	3.0	1	8	The tourist destination is becoming increasingly accessible and appealing as the journey becomes more seamless.	2
+22	2	0	1	1	1	6	0	4	0	3	0	1	2	0	1	2	0	3.0	0	6	The rapidly growing demand for digital transformation is driving the industry's expansion and challenging the traditional norms further each day. ______ (Complete the sentence with 2 adverbs.)	2
+17	2	0	1	1	1	4	0	2	0	2	0	3	1	0	2	0	0	3.0	0	10	Activity is picking up dramatically and the fine line is getting further blurred each passing day.	2
+15	1	0	1	2	1	3	0	1	0	2	0	2	2	0	1	1	0	3.0	0	6	The new product is receiving incredible reviews and is rapidly selling out in stores.	2
+17	4	0	3	1	1	2	0	2	0	2	0	1	1	0	1	0	0	3.0	0	7	The new employee was efficiently trained quickly, smoothly, and adeptly integrating into the team.	4
+13	3	0	1	1	1	2	0	2	0	1	0	1	1	0	1	0	0	3.0	0	4	The teacher was highly excited and very enthusiastically animated for the lesson.	4
+32	3	2	3	1	0	7	4	4	0	4	0	2	2	3	3	2	0	5.0	3	18	The child gleefully hugged her grandmother, excitement vigorously beaming upon her tearstained face, as if the embrace might somehow reverse the bitter grief she’d known all her life.	4
+23	0	0	4	3	2	8	2	2	0	2	0	0	0	1	1	2	0	5.0	1	11	She gave her speech with conviction, energy, and passion, leaving the audience in a state of disbelief and awe.	4
+48	4	3	4	3	1	7	3	6	0	6	0	4	5	3	4	1	1	7.0	4	26	As if the previous sentences were not enough, it seems now that some people will simply never accept any reality other than the narrative that they want to perpetuate - even the absurd will be accepted as truth without any further scrutiny or fact-checking.	4
+22	5	0	4	2	2	2	1	2	0	3	0	0	0	1	1	0	0	4.0	1	9	She quickly, efficiently, loudly, and confidently walked into the room and assertively asked to speak with the manager.	4
+26	4	1	4	0	1	8	1	2	0	2	1	1	0	2	2	1	0	5.0	2	9	The manager calmly, confidently, carefully explained the company's policies and practices, emphasizing that their number one goal was always customer satisfaction.	4
+24	2	2	2	1	1	4	0	2	1	2	0	2	3	1	3	0	0	4.0	1	9	Joe quickly realized that the teacher's explanation was completely wrong, and that the complex algorithm would not work without major adjustments.	4
+25	3	1	2	3	2	5	2	2	0	3	0	0	2	1	2	0	0	4.0	1	14	She rapidly glided across the icy road with incredible dexterity and caution, while her skates sliced through the frozen landscape gracefully and effortlessly.	4
+25	4	0	3	2	3	3	2	0	0	0	0	2	6	0	1	0	0	3.0	0	17	African elephants are significantly larger and more slowly than their terrestrial cousins and, despite their massive bulk, are surprisingly agile and lithe.	4
+16	3	0	1	2	0	3	1	2	0	2	0	0	2	1	2	0	0	4.0	1	7	The tourists navigated uneventfully yet inevitably towards boredom, oblivious to the vibrant landscape they ignored	4
+28	3	0	4	4	1	5	2	3	0	5	0	0	1	2	1	0	0	7.0	2	7	The cat sat on the windowsill, staring outside mesmerized by the flying birds, seemingly unaware of its surroundings, and completely absorbed in its contemplation.	4
+29	1	1	7	3	1	5	0	2	0	2	0	1	6	1	2	1	0	6.0	1	16	In short, the bank must make sure that all clients have complete, current, transparent and up-to-date financial records, without exception.	4
+19	3	1	1	1	1	4	2	1	0	3	0	0	1	2	1	2	0	6.0	2	5	The company quickly responded to our concerns by implementing new policies to address our grievances adequately and effectively.	4
+23	3	0	4	2	2	6	0	3	0	2	0	0	1	1	1	1	0	5.0	1	10	The teacher explained the concept clearly, efficiently, and entertainingly, resulting in a high level of student engagement and understanding.	4
+20	2	0	2	3	1	5	2	1	0	2	0	0	2	1	1	1	0	3.0	1	13	She ran extremely efficiently across the field with remarkable focus and incredible agility, leading her team to victory.	4
+49	2	0	5	5	6	14	1	3	0	4	0	2	6	0	2	1	1	6.0	1	18	The company's sales strategy, which prioritizes creativity and innovation over efficiency and profitability first, second, and third may lead to increased costs and inefficiencies in the short term but could ultimately pay off with a stronger market position and greater long-term sustainability.	4
+35	5	0	4	3	2	5	1	3	0	5	0	2	3	2	2	1	0	5.0	2	18	The manager will always delegate such tasks down the line to junior employees first, last, then finally, and always assuming they don't refuse or fail to comply in the meantime. 	4
+19	1	1	2	1	0	3	1	3	0	5	0	0	1	4	1	2	0	5.0	4	6	She carefully walked through the park, observing the children playing, before stopping to admire the beautiful sunset	4
+11	3	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	7	The cat pounced quickly stealthily menacingly on the unwary mouse.	4
+10	3	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	4	The tourists were excitedly anticipatingly arriving late at night.	4
+26	0	1	3	3	2	8	0	1	0	2	0	1	5	2	1	1	0	6.0	2	6	The new software is capable of performing complex calculations in seconds, allowing for real-time analysis and optimization with unprecedented accuracy and reliability. 	4
+16	2	0	1	2	2	5	0	2	0	2	0	0	0	0	1	0	0	4.0	0	7	The athlete accelerated suddenly and sprinted rapidly towards the finish line with agility and grace.	4
+16	0	0	1	2	0	4	2	3	0	2	0	0	1	1	1	2	0	5.0	1	8	She made a bold attempt to resolve the conflict between her colleagues in the office.	4
+17	2	0	2	2	0	4	2	2	0	3	0	0	0	1	1	1	0	3.0	1	7	The train sped swiftly through the rolling hills, carrying its passengers confidently to their destination. 	4
+25	1	2	2	1	1	5	0	3	0	2	0	2	5	2	2	1	0	5.0	2	7	The new policy will ensure that the company's expansion is sustainable over the long term, while prioritizing environmental considerations first and foremost.	4
+21	1	0	3	1	1	6	0	2	0	3	0	1	3	0	2	1	0	3.0	0	16	The concert violinist played exquisitely expressive music with remarkable technical skill, and the sold-out crowd was mesmerized.	4
+15	2	0	2	1	1	1	3	0	0	1	0	1	3	1	2	0	0	4.0	1	5	She laughed uncontrollably at his silly jokes, which was incredibly infectious and enjoyable.	4
+19	4	0	4	3	1	3	0	2	1	1	0	0	0	0	1	0	0	4.0	0	11	Mike spoke loudly, clearly, angrily, and hastily to the crowd of people outside the hotel. 	4
+13	4	0	4	0	1	1	1	0	1	1	0	0	0	0	1	1	0	3.0	0	9	Alice rapidly, quietly, skillfully, and efficiently completed her work.	4
+13	6	0	4	0	1	0	0	0	1	1	0	0	0	0	1	0	0	3.0	0	5	Most emphatically, Maria answered quickly, confidently, efficiently, and gracefully	4
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred sedately in the sunbeam.	4
+8	1	0	0	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat gracefully glided across the soft grass	4
+23	0	1	1	2	1	6	0	5	0	2	0	2	3	1	3	0	0	4.0	1	8	The concert hall was packed and the energy in the room was palpable as the virtuoso pianist launched into a thrilling performance.	4
+11	4	0	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	5	She spoke slowly, softly, faintly, and flirtatiously.	4
+16	1	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	4.0	1	6	The tourists strolled aimlessly along the coast, savoring the unspoiled splendor of their surroundings.	4
+51	5	0	6	5	1	13	0	7	1	7	0	0	4	4	1	6	0	9.0	4	10	Ingrid carefully wrapped the painting, delicately using a small piece of newspaper to separate each fold, precisely measuring the amount of acid-free tissue paper to maintain evenness in the curves, and securely placing the artwork in a specially made protective sleeve, ready for shipping.	4
+27	1	0	2	2	1	5	2	3	0	5	0	0	4	3	1	2	0	5.0	3	8	The delicate china ornaments carefully balanced on the frail old lady's lap broke with a muffled crash, startling her and causing her to flinch.	4
+15	3	0	2	1	0	2	2	1	0	2	0	0	2	1	1	1	0	3.0	1	8	She rapidly walked briskly through the crowded streets, never losing her confident demeanor.	4
+28	2	0	5	0	0	5	3	1	0	4	0	2	4	2	2	4	1	6.0	3	9	Their decision to prioritize international agreements, however, will undermine their efforts to address the economic disparities (which may otherwise) promote domestic economic growth.	4
+32	1	0	2	5	1	7	2	6	0	5	0	0	3	3	2	1	0	7.0	3	7	The car suddenly stopped with a loud screeching noise, skidding across the wet pavement and coming to a stop with a jarring thud that left us all gasping for breath.	4
+28	4	0	2	2	2	3	4	1	0	4	0	0	4	3	1	2	0	6.0	3	11	She slowly and carefully walked through the dark forest with only her small flashlight to guide her, feeling very scared but determined to reach her destination.	4
+29	3	0	4	3	1	4	1	2	1	2	0	2	5	2	1	0	0	6.0	2	13	The new AI assistant is programmed to be incredibly helpful in its interactions, responding rapidly with answers in a very friendly, clear, and logical manner.	4
+23	3	0	2	3	2	7	2	1	0	2	0	0	0	1	1	1	0	6.0	1	8	Her teacher praised her ability to always speak clearly and confidently in class without any hint of nervousness or self-doubt.	4
+44	4	3	4	1	1	9	2	6	0	7	1	3	1	4	4	3	0	8.0	4	11	The teacher smiled warmly and explained politely that students would need to complete an additional three writing assignments this week before they could pass the class (if they didn't already have a failing grade in that area, of course).	4
+19	3	0	2	4	1	4	0	2	1	1	0	0	1	0	1	0	0	4.0	0	10	John walked slowly, steadily and quietly through the forest in search of a specific type of fungi. Please provide another instruction if you need further assistance.	4
+16	1	0	1	2	1	5	0	3	0	1	0	0	2	0	1	1	0	3.0	0	11	The chef expertly incorporated the local herbs and spices into the sauce with great care.	4
+13	3	1	2	1	0	1	1	1	0	3	0	0	0	2	1	0	0	3.0	2	7	She spoke quickly quietly with a smile, nodding occasionally before continuing.	4
+60	6	2	5	8	2	10	5	5	0	10	1	1	4	5	2	2	0	7.0	5	41	She was completely exhausted, totally drained physically and mentally from the grueling work schedule, feeling incredibly worn out from the relentless pressure of juggling her demanding job and caring for her three small children at home; as a result, she decided to take an immediate break before collapsing entirely under the weight of her responsibilities.	4
+20	1	0	2	2	1	6	0	1	0	3	0	0	3	1	1	1	0	5.0	1	10	Blazing trails in technological and social change, this visionary CEO continues to drive innovation forward with unfettered ambition.	4
+28	1	1	2	2	3	5	1	5	0	4	0	1	3	2	2	1	0	5.0	2	16	She spoke to the manager and explained the situat in a mature, clear and respectful way so the issue was immediately resolved and a replacement provided.	6
+20	1	0	1	4	1	3	2	3	0	2	0	0	2	0	1	0	0	4.0	0	9	She walked gracefully into the room with a smile and said hi to everyone with a warm confident tone.	6
+27	1	0	2	4	1	7	1	5	1	3	0	0	2	2	2	2	0	7.0	2	6	The sun rose slowly over the horizon, illuminating the sky with a gentle warmth that filled Sarah with a deep sense of peace and tranquility.	6
+16	2	0	2	2	0	4	1	3	0	2	0	0	0	1	2	0	0	3.0	1	8	The children ran rapidly across the grassland, their eyes shining brightly in the sunlight.	6
+32	4	1	1	1	1	7	5	4	0	5	0	1	2	3	3	5	0	5.0	3	23	He immediately recognized the rare occasion when his parents would give him a genuine apology without any prompting or strings attached thus, he fully understood the importance of accepting their gesture 	6
+28	2	1	2	3	0	4	4	4	0	5	0	0	3	3	3	1	0	9.0	3	5	She quickly glided across the room, her graceful movements admired by all who watched as she expertly played the delicate melody on the worn wooden piano.	6
+31	1	0	1	7	1	7	4	2	0	3	0	3	1	2	2	2	0	5.0	2	13	She has been talking loudly about it at every opportunity for hours on end and is determined to get her point across despite the others rolling their eyes in exasperation.	6
+35	2	2	2	3	3	6	1	5	0	1	0	2	8	1	2	0	0	4.0	1	17	The baby was asleep in her cot and looked incredibly small and fragile under the dim hospital light, as though the world was too big and harsh for such a tiny vulnerable creature.	6
+27	0	1	3	4	1	6	3	2	0	4	0	0	3	3	2	1	0	5.0	3	14	Her voice echoed through the empty space, filling their hearts with an overwhelming sense of peace and calm, as they stood surrounded by nothingness.	6
+28	7	2	1	1	1	2	3	1	0	4	0	3	1	3	2	1	0	5.0	3	13	She will have to begin immediately in order to avoid any potential problems later on rapidly and efficiently as they will be moving on shortly after that.	6
+20	1	1	2	2	0	5	3	1	0	2	0	1	2	2	2	1	0	5.0	2	5	Her voice was tremulous with excitement, wildly gesticulating as she described the latest development in her research project.	6
+14	2	0	1	1	2	2	2	1	0	1	0	1	1	0	1	0	0	3.0	0	6	The delicious meal was consumed hungrily and rapidly by my companion and me.	6
+19	2	1	2	2	0	3	1	3	0	2	0	2	1	1	2	0	0	4.0	1	6	He had always known that the sunset would look more stunning ______________ from that spot atop the mountain.	6
+21	2	0	2	1	2	2	2	1	0	2	0	3	4	1	2	0	0	3.0	1	10	He will also get married next year, but he will be very nervous and anxious until the big day.	6
+28	1	1	2	4	1	8	2	3	0	3	0	0	3	2	3	0	0	5.0	2	7	The cat leapt nimbly across the floor with stealthy grace and speed, its fur flaring with each poun ce as it hunted with silent deadly precision.	6
+20	4	1	1	3	1	3	1	1	0	3	1	1	0	1	1	0	0	3.0	1	10	He has also driven for four hours without stopping so far and finally arrive at the destination on time.	6
+23	6	1	1	1	2	4	2	1	0	2	0	2	1	0	1	2	0	4.0	0	9	She will most definitely call her family and friends back home and would appreciate help with the bills as soon as possible.	6
+18	1	1	1	1	0	3	2	2	0	4	0	0	1	3	2	1	0	5.0	3	6	He had to quickly rush through  the crowded streets to reach the station before his train left.	6
+19	1	0	2	1	1	5	1	3	0	2	0	0	3	1	1	1	0	4.0	1	8	She drove slowly down the narrow mountain road, enjoying the breathtaking views and the crisp mountain air.	6
+23	1	1	2	3	1	6	0	3	1	3	0	0	2	2	2	1	0	5.0	2	9	The sun set slowly across the horizon, radiating vibrant hues of purple and orange before di ssembled into the night sky.	6
+22	1	0	3	1	0	4	2	3	0	3	0	1	4	2	2	2	0	5.0	2	6	She carefully curated the vibrant selection, ensuring each piece would make the perfect addition to his chic, contemporary closet.	6
+17	3	1	1	2	0	3	2	2	0	2	0	0	1	1	1	1	0	3.0	1	11	He quickly walked rapidly towards the bank on the main street while continuously checking his phone.	6
+29	3	1	3	4	0	5	4	3	0	3	0	0	3	2	3	0	0	4.0	2	9	The cat purred contentedly on my lap, its paw adverbing impulsively to the gentle stroke as it blinked slowly at me with a soft, adoring gaze.	6
+19	1	0	3	3	1	6	2	1	0	1	0	0	1	0	1	0	0	4.0	0	7	She sprinted swiftly towards the finish line with determination, hope, and excitement evident in her face.	6
+30	3	2	2	3	1	6	3	2	1	2	0	3	2	2	3	0	0	4.0	2	17	She was particularly impressed by how effortlessly Sarah moved across the dance floor with fluid grace and flawless technique, as if she had been dancing all her life.	6
+16	3	0	1	2	1	2	0	2	1	2	0	0	2	1	1	0	0	3.0	1	9	Jenny walked confidently and quickly down the busy street, searching intently for a particular shop	6
+14	1	0	2	2	0	3	1	1	0	2	0	1	1	0	1	0	0	2.0	0	9	Luckily for the couple, his extravagant gestures were accompanied by matching generosity.	6
+23	4	0	2	4	1	4	0	3	0	3	0	0	2	1	1	0	0	5.0	1	8	The cat curled up contentedly on the warm lap, purring softly and rapidly falling asleep in a state of deep relaxation.	6
+38	4	1	3	3	2	5	2	3	3	3	0	1	7	1	2	2	0	7.0	1	10	The new iPhone XS Max is significantly more expensive than the previous models, but its advanced features make it more worth while in order to meet the increasing demands of advanced and technologically-savvy consumers. 	6
+16	2	0	2	2	0	3	3	1	0	2	0	0	1	1	2	0	0	3.0	1	7	Her grandchildren ran joyfully toward her, their giggles echoing triumphantly through the empty park.	6
+16	6	0	1	1	0	2	1	2	1	1	0	1	0	0	1	1	0	2.0	0	7	He was excitedly eagerly impatiently patiently quietly watching the street outside for the FedEx delivery.	6
+17	2	0	2	3	0	4	0	1	0	3	0	0	2	1	1	0	0	3.0	1	7	The tourists rushed eagerly through bustling corridors, marveling excitedly at towering monuments in brilliant sunlight.	6
+28	3	2	1	2	0	6	1	4	0	3	0	3	2	2	2	0	1	3.0	3	12	As the sun was descending slowly on the landscape it appeared to be a gentle warm hue golden before being gradually over shadowed by the gathering darkness.	6
+18	3	0	1	2	1	4	2	1	0	2	0	1	1	0	1	1	0	3.0	0	7	The puppy was playfully running around with its new toys and wagging its tail happily with excitement.	6
+23	4	1	2	0	0	4	4	1	0	4	0	0	3	3	2	3	0	4.0	3	12	She has an incredibly infuriatingly slow internet connection that frequently randomly freezes, causing her boundless exasperated frustration while doing her job.	6
+23	3	1	3	2	1	5	1	3	0	3	0	0	1	2	2	0	0	5.0	2	15	The cat jumped rapidly ascending towards the ceiling, its movements quicksilver and silent, before finally disappearing vanishingly into the darkness.	6
+24	2	0	1	3	1	6	2	3	0	4	0	0	2	2	2	1	0	5.0	2	7	The old man hobbled along slowly on the rough terrain using his cane for support and wincing in pain each time he stumbled. 	6
+28	2	0	2	4	1	5	2	4	0	2	0	2	4	2	2	2	0	5.0	2	8	She had sung the song with an eager passion, displaying an uncommon intensity of emotion with a voice that was both sweet and strong at once.	6
+18	4	0	1	3	1	4	0	3	0	2	0	0	0	0	1	0	0	3.0	0	9	The cat jumped swiftly gracefully over the table quickly silently and pounced on the toy in mid-air.	6
+32	1	1	3	6	2	5	0	5	1	4	0	0	4	0	2	0	1	6.0	1	10	As the taxi pulled up outside, Lily jumped out with a beaming smile and sprinted towards the hotel, grateful for the fast and friendly service after a tiring journey.	6
+17	2	0	1	1	1	2	1	1	0	2	0	1	4	1	1	0	0	5.0	1	4	The new employees were eagerly excited to learn and quickly became adept at their new responsibilities.	6
+14	2	1	1	2	0	2	1	2	0	2	0	0	1	1	2	0	0	3.0	1	8	He rapidly accelerated up the steep hill as the rain poured down furiously.	6
+20	2	0	1	3	0	5	2	3	0	2	0	0	2	1	2	0	0	4.0	1	9	The cat purred loudly on my lap, its orange fur glowing softly in the dim light of the candle	6
+28	5	2	2	2	1	2	4	1	0	5	0	2	1	3	3	2	0	5.0	3	10	She will be dancing gracefully but loudly until she finds him, so try to locate the ballroom as soon as possible in case he turns up. 	6
+23	2	0	3	2	1	5	1	3	0	3	0	0	3	1	1	2	0	4.0	1	9	He ran swiftly along the riverbank with purposeful strokes, savoring each stroke and breathing deeply the fresh, cool morning air.	6
+32	4	0	2	4	0	7	3	2	0	5	0	1	4	3	3	0	0	7.0	3	12	She drove carefully slowly along dark winding country roads in pouring rain, searching for a small red door that would eventually lead to the isolated cottage where her friend waited.	6
+29	4	2	1	2	0	2	3	3	0	3	1	4	2	3	2	3	0	5.0	3	12	He has also had to pay the £15 each up front so would be grateful if you could get the cash to him as soon as possible.	6
+14	5	0	1	1	0	1	2	1	0	2	0	0	1	1	1	1	0	3.0	1	5	She quickly silently slipped quietly inside softly closing the door behind herself unnoticed.	6
+17	6	0	1	2	0	2	1	2	0	2	0	1	0	1	2	0	0	3.0	1	9	She was very quickly quickly driving down the mountain quickly when suddenly the tire blew out.	6
+26	1	0	2	4	1	7	2	4	0	2	0	0	3	1	2	1	0	5.0	1	13	He walked slowly towards the park with a large grin on his faces, enjoying the warm summer sunshine and the sweet smell of flowers.	6

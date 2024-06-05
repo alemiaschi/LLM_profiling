@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_post_constraint
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+25	1	1	1	2	1	4	5	0	2	0	1	0	5	6.0	8	3	3	3	2	0	The given text does not specify a topic or context therefore I am unable to generate a sentence that adheres to the provided instruction.	0
+23	1	2	0	1	0	5	6	2	0	0	5	0	1	4.0	8	0	0	2	1	0	"The solution to this task is a single sentence: ""Each of those 10 million have families, friends, neighbors ..."	0
+12	0	1	0	0	0	2	3	2	0	0	3	0	1	3.0	5	0	0	1	1	0	Each of those 10 million have families, friends, neighbors ...	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+23	0	3	0	0	1	5	7	1	0	0	3	0	3	4.0	17	0	0	3	2	0	The clock strikes twelve, the sky erupts in a display of colors, and a symphony of birdsong fills the air.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+12	1	0	2	2	0	2	2	0	1	0	1	0	1	2.0	5	1	1	2	0	0	The cake is the most delicious treat I have ever tasted.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+16	0	1	0	1	0	3	4	2	0	0	4	0	1	4.0	7	0	0	2	1	0	The answer is: Each of those 10 million have families, friends, neighbors ...	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+11	0	1	0	1	0	3	3	0	0	0	2	0	1	3.0	4	0	0	2	0	0	The sentence is: A cat sat on the mat.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+12	0	1	0	0	0	2	3	2	0	0	3	0	1	3.0	5	0	0	1	1	0	Each of the 10 million have families, friends, neighbors ...	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	 The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+7	0	0	0	0	0	0	0	2	0	2	3	0	0	2.0	3	0	0	0	0	0	Friday, September 9, 2016.	0
+12	0	1	0	0	0	2	3	2	0	0	3	0	1	3.0	5	0	0	1	1	0	  Each of those 10 million have families, friends, neighbors ...	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat is sitting on the mat.	0
+10	1	0	0	0	1	2	3	0	0	0	1	0	2	3.0	6	0	0	2	1	0	The clock strikes midnight and a new era dawns.	0
+19	1	2	0	1	0	3	3	2	0	2	3	1	1	4.0	7	1	1	1	1	0	The weather is perfect for enjoying a picnic in the park on Friday, September 9, 2016.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+26	3	0	1	0	0	5	6	0	2	0	3	0	6	8.0	7	3	3	3	4	0	The provided text contains various sentences; however, I generated a sentence matching the instruction which has no subordinate propositions following the main clause.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+21	1	0	1	2	0	3	3	0	1	0	2	0	5	4.0	9	3	3	2	2	0	The provided text does not specify a task to complete, therefore I am unable to generate the requested sentence.	0
+6	2	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The architectural design is impressive.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+5	0	0	0	1	0	1	1	0	0	0	1	0	1	2.0	2	1	0	1	0	1	The sentence generated is: The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+15	1	2	0	1	0	2	2	2	0	2	3	0	0	4.0	3	0	0	1	0	0	The weather is perfect for a picnic on Friday, September 9, 2016.	0
+13	1	1	0	1	2	1	5	0	1	0	1	0	0	3.0	4	0	0	1	0	0	I am a strong proponent of either capitalist competition or state control.	0
+10	0	1	1	1	1	0	4	0	1	0	1	0	0	3.0	3	0	0	1	0	0	It’s back to capitalist competition or state control.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	 The architecture is simplz splendid.	0
+6	2	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The intricate architecture is mesmerizing.	0
+12	0	1	0	0	0	2	3	2	0	0	3	0	1	3.0	5	0	0	1	1	0	 Each of those 10 million have families, friends, neighbors ...	0
+20	2	1	2	2	0	3	4	0	1	0	2	0	2	4.0	9	2	2	2	1	0	 The provided text is completely unrelated to the task instruction, therefore I am unable to complete the request.	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+13	0	1	0	0	0	2	3	2	0	0	4	0	1	3.0	5	0	0	1	1	0	"""Each of those 10 million have families, friends, neighbors ..."	0
+6	1	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The architecture is simplz splendid.	0
+7	2	0	1	1	0	1	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	The intricate architecture is breathtakingly splendid.	0
+26	6	1	0	0	1	4	7	0	0	0	4	0	3	3.0	14	1	1	1	1	0	The new mobile phone has a powerful camera, longer battery life, and a faster processor, resulting in an overall improved user experience.	1
+17	1	1	0	0	1	2	9	0	0	0	1	0	2	3.0	6	0	0	1	2	0	 The vintage record player had a beautiful sound system and improved listening experience for music lovers.	1
+22	5	1	0	0	1	2	7	0	1	0	3	0	2	4.0	10	1	1	1	1	0	The new mobile device has a powerful processor, longer battery life, and superior camera quality compared to its predecessor.	1
+21	5	1	0	0	1	3	6	0	1	0	3	0	1	3.0	16	0	0	1	1	0	The new smartphone has a superior camera, longer battery life, and a faster processor than my old phone.	1
+21	3	1	0	1	1	4	5	0	2	0	1	0	3	4.0	11	2	1	3	0	1	The improved camera and longer battery life that the new phone boasts are some of the major differences I see.	1
+19	2	1	0	1	0	2	3	1	1	0	3	1	3	2.0	13	2	2	1	1	0	Sure, I have generated a sentence with 1 subordinate proposition following the main clause, as requested.	1
+23	2	1	1	0	1	3	9	0	0	0	3	0	3	5.0	10	1	1	1	1	0	The computer program offered a variety of features including faster processing speed, improved graphics, and a more intuitive user interface.	1
+21	5	1	0	0	1	3	7	0	0	0	3	0	1	3.0	16	0	0	1	1	0	The new device has a better screen, longer battery life, and faster processing speed than the previous model.	1
+29	5	2	1	1	1	5	6	0	1	0	5	0	2	4.0	15	1	1	1	1	0	The new smartphone is well-equipped with a stunning camera, a powerful battery, and a sleek design, making it an attractive option for consumers.	1
+30	5	1	0	0	1	2	10	0	2	0	6	0	2	5.0	18	1	0	1	1	1	The laptop's specs, including its powerful processor, longer battery life, and high-definition video capabilities, make it a compelling choice for creative professionals.	1
+35	8	2	0	0	2	7	8	0	1	0	4	0	3	8.0	15	2	2	1	2	0	The new phone has a sleek design, a powerful camera, and a long battery life, making it an ideal choice for a consumer looking for a reliable and stylish mobile device.	1
+17	2	1	0	1	0	2	4	0	2	0	2	0	2	4.0	5	2	2	2	2	0	The phone signal in the library is weak, which makes it difficult to make calls.	1
+25	3	1	0	1	1	4	6	0	2	2	3	0	2	5.0	11	1	1	3	1	0	The NOOK Tablet boasts a HD video, longer battery life, and faster processor that are some of the major differences I see.	1
+25	6	1	0	0	1	2	7	0	1	0	5	0	2	4.0	15	1	1	1	2	0	The new tablet offers high-definition video, longer battery life, and a faster processor, making it superior to previous models.	1
+15	1	1	0	0	0	2	3	0	1	1	1	1	3	4.0	5	2	2	1	2	0	The company plans to expand its operations by opening new stores in the West.	1
+17	4	0	0	0	1	3	5	0	0	0	3	0	1	3.0	9	0	0	1	1	0	The new smartphone has a powerful camera, longer battery life, and a sleek design.	1
+34	4	2	1	1	1	4	8	0	0	2	6	0	4	5.0	9	2	1	1	1	1	Sure, based on the instruction, here is the generated sentence:  The NOOK Tablet has a superior HD video, longer battery life, and faster processor compared to other tablets.	1
+13	2	0	0	2	1	3	3	0	0	0	2	0	0	3.0	8	0	0	2	0	0	The book is interesting, but the plot is a bit predictable.	1
+22	3	0	0	0	1	3	7	0	0	0	4	0	4	3.0	13	1	1	1	2	0	The upgraded software boasts a faster processor, improved battery life, and sleek design, offering a seamless user experience.	1
+16	0	0	1	1	0	2	4	0	1	0	2	1	3	3.0	8	1	0	1	2	1	In order to understand the task requirements, one must carefully read the provided instructions.	1
+23	3	1	2	3	0	2	5	0	1	0	2	2	1	3.0	13	2	2	2	1	0	The computer is capable of running games smoothly, although its graphics may not be as impressive as a dedicated gaming PC.	1
+20	4	1	0	0	1	3	7	0	0	0	3	0	1	3.0	16	0	0	1	1	0	The laptop had a powerful graphics card, longer battery life, and a faster processor than previous models.	1
+22	5	1	0	0	1	4	6	0	1	0	3	0	1	3.0	17	0	0	1	1	0	The new laptop has a better battery life, a faster processor, and a larger screen than my old one.	1
+15	0	2	0	1	0	2	4	0	0	1	2	0	3	4.0	4	1	1	2	1	0	In the coming years, AI will revolutionize the way humans interact with technology.	1
+23	4	0	0	0	1	4	7	0	2	0	3	0	2	5.0	9	1	1	2	2	0	The vintage car had a powerful engine, impressive leather seats, and a timeless design that made it a desirable classic.	1
+12	1	0	0	2	0	1	2	0	0	0	3	0	2	3.0	5	2	1	1	0	1	The coffee machine, being old, needs to be replaced.	1
+23	2	2	0	0	1	1	9	0	1	0	3	0	4	5.0	10	1	1	1	1	0	The tablet offers superior video playback, increased battery life, and enhanced processing power compared to other devices in its class.	1
+34	5	1	0	1	1	3	10	0	4	0	5	0	3	7.0	9	3	3	3	2	0	My friend, I am excited to share the latest news about the newest tablet model I found, which includes HD video capabilities, longer battery life, and a faster processor.	1
+17	2	1	0	1	0	2	3	1	1	0	2	1	3	2.0	10	2	1	1	1	1	As requested, I have generated a sentence with 1 subordinate proposition following the main clause.	1
+20	3	2	0	0	2	3	6	0	1	1	1	0	1	4.0	8	0	0	1	1	0	The sleek design and comfortable ergonomics of the Aeron chair make it a perfect choice for work or home.	1
+24	5	1	0	0	1	3	7	0	1	0	4	0	2	4.0	13	1	1	1	2	0	The latest smartphone has a sleek design, impressive camera, and long battery life, making it an ideal choice for consumers.	1
+21	4	1	0	0	1	3	7	0	1	0	3	0	1	3.0	15	0	0	1	1	0	The latest smartphone model has a superior camera, longer battery life, and a faster processor than its predecessor.	1
+21	4	1	0	0	1	3	6	0	0	2	3	0	1	3.0	16	0	0	1	1	0	 The NOOK Tablet has a better HD video, longer battery life, and a faster processor than most computers.	1
+22	6	1	1	0	1	3	6	0	0	0	3	0	1	4.0	10	0	0	1	1	0	The smartphone has a superior camera, longer battery life, and a more powerful processor than most other mobile devices.	1
+20	5	1	0	0	1	2	6	0	0	0	3	0	2	4.0	9	1	1	1	1	0	The latest smartphone has a superior camera, longer battery life, and faster processor compared to previous models.	1
+22	2	0	0	1	1	3	4	0	4	0	2	0	4	6.0	6	4	3	3	3	1	The coffee I brewed this morning was strong and refreshing, bringing me the energy I needed to complete my tasks.	1
+17	3	0	0	0	1	2	8	0	0	0	2	0	1	5.0	9	0	0	1	1	0	The new device offers a faster processor, longer battery life and HD video playback capabilities.	1
+20	0	2	0	1	1	3	8	0	0	0	2	0	3	4.0	9	1	1	1	1	0	The computer program has improved the efficiency of the data processing system, leading to increased performance and accuracy.	1
+20	4	1	0	0	1	3	6	0	1	0	3	0	1	3.0	15	0	0	1	1	0	The new smartphone boasts a superior camera, longer battery life, and a faster processor than its predecessor.	1
+16	2	1	2	1	0	2	3	0	2	0	1	0	2	3.0	7	2	1	3	0	1	The book I read yesterday was much more enjoyable than the last book I read.	1
+24	5	2	0	0	1	5	6	0	0	1	3	0	1	3.0	16	0	0	1	1	0	The latest model of the iPhone has a larger screen, longer battery life, and a faster processor than the previous model.	1
+11	1	0	0	2	1	2	2	0	0	0	2	0	1	3.0	6	0	0	2	0	0	The book was interesting, and the plot was engaging.	1
+20	2	2	0	1	0	4	4	0	2	2	1	0	2	4.0	7	2	1	3	0	1	 The book I read yesterday was a captivating story about a young boy who traveled to the North Pole..	1
+17	0	0	1	0	1	3	4	0	1	0	2	0	5	5.0	5	2	2	2	2	0	The book has a well-written plot and engaging characters that keep the reader captivated.	1
+21	4	1	0	0	1	2	7	0	1	0	3	0	1	3.0	9	0	0	1	1	0	The computer's sleek design, longer battery life, and powerful processor make it an ideal device for students.	1
+24	3	1	0	0	1	3	7	0	1	2	4	0	2	4.0	9	1	1	1	2	0	The book offers a detailed review of the NOOK Tablet, mentioning its HD video, longer battery life, and faster processor.	1
+17	1	1	1	1	1	3	4	0	0	0	3	0	2	3.0	7	0	0	1	0	0	The book is a captivating read, with a well-developed plot and engaging characters.	1
+28	6	1	0	0	1	6	7	0	1	0	4	0	2	4.0	15	1	1	1	2	0	The new phone has a larger screen, a longer battery life, and a faster processor, making it a significant upgrade over the previous model.	1
+20	4	1	0	0	2	2	5	0	0	2	2	0	2	5.0	7	1	1	1	1	0	The museum exhibit showcased the innovative designs and captivating narratives of several prominent artists, including Monet and Picasso.	1
+22	3	1	0	0	2	3	9	0	1	0	1	0	2	6.0	6	1	1	2	1	0	The computer has a large storage capacity and a powerful graphics processing unit that allows for smooth video editing and gaming.	1
+40	2	3	3	2	1	8	9	0	1	0	5	0	6	6.0	13	5	3	4	1	2	Following the steps provided in the instruction, the requested sentence is: **The poor quality starts at the receptionist desk, where the staff is very impatient and lack the efficiency I once loved about the office.**	2
+33	3	4	3	0	1	4	11	0	0	0	3	0	3	11.0	6	2	2	1	3	0	The package includes a detailed guide on how to maximize the benefits of the product components as well as specific dosage instructions, ensuring optimal absorption of vitamins, minerals and nutrients.	2
+29	2	5	0	1	1	4	10	0	0	0	4	0	2	4.0	16	1	1	1	0	0	In the case of this particular delivery format, the bioavailability of vitamins, minerals and nutrients is maximized, allowing for immediate enjoyment of the product components.	2
+20	0	1	0	1	1	2	6	0	1	0	2	1	4	4.0	7	2	1	1	3	1	After completing the course lectures, students can review their notes and study guides to prepare for the exams.	2
+21	0	3	1	0	0	5	5	0	0	0	3	0	4	4.0	7	2	2	1	1	0	The cat jumped onto the table, landing upon the freshly baked bread, leaving a mess on the surface.	2
+33	2	2	0	0	1	4	10	0	2	1	4	2	5	7.0	11	4	3	2	5	1	The intricate process of extracting minerals from the Earth necessitates a meticulous approach that optimizes the absorption of vitamins, minerals, and nutrients, maximizing their effectiveness in delivering health benefits.	2
+30	0	3	2	2	1	4	10	0	1	0	4	0	3	5.0	11	1	1	2	1	0	In this delivery format, the absorption of vitamins, minerals and nutrients is maximized, therefore your body can immediately start receiving the benefits of the product components.	2
+21	2	2	0	1	0	4	5	1	0	0	2	0	3	2.0	10	1	1	1	1	0	In the given context, the task is to generate a sentence with 2 subordinate propositions following the main clause.	2
+21	0	1	0	0	0	3	5	0	3	1	1	0	5	7.0	4	4	4	3	2	0	The UCAS website offers a course search function that allows you to search for the courses you want to do.	2
+26	0	2	1	1	1	3	9	0	1	0	3	1	3	5.0	14	2	1	1	2	1	In order to maximize the absorption of vitamins, minerals and nutrients, your body can immediately start receiving the benefits of the product components.	2
+17	2	3	0	1	0	2	5	0	0	0	2	0	2	3.0	8	1	1	1	0	0	The product components are maximized for immediate absorption into the body, resulting in tangible benefits.	2
+30	2	3	2	1	1	4	9	0	0	0	5	0	3	4.0	10	1	1	1	2	0	A well-structured, comprehensive review of the product components will undoubtedly maximize the absorption of vitamins, minerals and nutrients, facilitating immediate benefits to the body.	2
+28	4	1	1	0	1	6	7	0	0	0	3	1	4	5.0	7	2	2	3	3	0	The vibrant atmosphere of the concert energized the audience, as the performers delivered captivating musical numbers and the audience sang along, creating a memorable experience.	2
+23	2	3	0	1	1	4	7	0	0	0	2	1	2	5.0	8	2	2	2	1	0	The package delivery is successful if the package arrives on time and in good condition, ensuring the freshness of the contents.	2
+24	0	4	2	1	1	3	9	0	1	0	2	0	1	6.0	8	0	0	1	1	0	You can maximize the absorption of vitamins, minerals and nutrients as well as benefit from the product components in this delivery format.	2
+25	0	2	1	1	1	3	9	0	1	0	3	1	2	5.0	12	1	0	1	2	1	In order to fully maximize the absorption of vitamins, minerals and nutrients, one should consume the product components in this delivery format.	2
+21	0	1	0	0	0	3	5	0	3	1	1	0	5	7.0	4	4	4	3	2	0	The UCAS website has a course search function that allows you to search for the courses you want to do.	2
+24	3	2	0	1	0	2	7	0	0	0	3	1	4	3.0	7	2	2	2	2	0	**In the current economic climate, the housing market is experiencing unprecedented volatility as rising interest rates continue to drive down demand.**	2
+22	2	0	2	1	1	2	6	0	0	0	2	0	5	6.0	5	2	2	2	3	0	The newly renovated kitchen provides a spacious dining area, where families can gather to share meals and create lasting memories.	2
+20	2	2	0	0	1	4	6	0	1	0	2	0	2	4.0	7	0	0	2	2	0	The vibrant colors of the flowers in the park attract butterflies, and their sweet scent fills the air.	2
+21	2	2	0	1	0	3	4	1	1	0	2	1	4	5.0	5	2	2	1	2	0	In the given task, I have generated a sentence with 2 subordinate propositions following the main clause as requested.	2
+32	2	1	3	2	1	4	8	0	1	0	3	1	5	6.0	11	4	4	3	2	0	The website content is well-organized, allowing users to easily find the information they need as the navigation structure is meticulously designed with clear subcategories and a hierarchical organization.	2
+24	0	1	2	0	0	3	6	0	2	1	2	1	5	6.0	8	4	4	2	4	0	The UCAS website provides a platform for searching for courses, allowing students to readily find the programs that best suit their interests.	2
+12	0	2	0	1	0	2	3	0	0	0	2	0	2	3.0	9	1	0	1	0	1	In accordance with the provided instruction, the sentence generated is: The poor quality starts at the receptionist desk, where the staff is very impatient and lack the efficiency I once loved about the office.	2
+24	0	3	2	1	1	3	9	0	0	0	2	0	2	6.0	8	1	1	1	1	0	The delivery format is optimized to maximize the absorption of vitamins, minerals and nutrients as well as benefit from the product components.	2
+22	0	3	1	2	1	3	7	0	0	0	3	0	2	4.0	16	0	0	1	0	0	With the maximized absorption of vitamins, minerals and nutrients, the benefits of the product components can be enjoyed immediately.	2
+24	0	3	1	2	1	3	9	0	0	0	2	0	3	4.0	10	1	1	1	1	0	The benefits of the product components are maximized as absorption of vitamins, minerals and nutrients is maximized when using this delivery format.	2
+28	4	3	0	0	2	4	10	0	0	0	2	0	2	5.0	9	1	1	1	2	0	The intricate network of interconnected systems within the computer's hardware enables efficient data transfer and storage, maximizing the overall performance and responsiveness of the system.	2
+20	0	2	1	2	1	3	7	0	0	0	2	0	2	5.0	11	1	1	2	0	0	The benefits of the product components are maximized when the absorption of vitamins, minerals and nutrients is maximized.	2
+8	0	0	0	0	0	1	1	0	0	0	2	0	2	2.0	3	0	0	0	1	0	Sure, please enjoy the following sentence: The cat jumped onto the table as the bread was sliced and the toast began to pop.	2
+18	2	1	0	0	0	4	5	1	0	0	1	0	3	5.0	10	2	2	1	2	0	The instructions describe a task to generate a sentence with 2 subordinate propositions following the main clause.	2
+31	0	3	2	2	1	4	10	0	1	0	5	0	3	5.0	11	1	1	2	1	0	In this delivery format, the absorption of vitamins, minerals and nutrients is maximized, therefore, your body can immediately start receiving the benefits of the product components.	2
+26	2	3	1	1	1	3	8	0	0	0	3	0	3	5.0	10	2	2	1	2	0	The ingredients in the product are carefully chosen to ensure maximum absorption of vitamins, minerals and nutrients, providing immediate benefits to the body.	2
+12	0	2	0	1	0	2	3	0	0	0	2	0	2	3.0	9	0	0	1	0	0	In accordance with the provided instruction, the requested sentence is: The poor quality starts at the receptionist desk, where the staff is very impatient and lack the efficiency I once loved about the office.	2
+26	2	2	3	1	1	5	6	0	1	0	2	0	3	5.0	13	2	2	3	1	0	The poor quality starts at the receptionist desk, where the staff is very impatient and lack the efficiency I once loved about the office.	2
+29	2	5	1	0	1	4	9	0	0	0	4	0	3	5.0	10	2	2	1	1	0	 The quality of the product greatly improves upon delivery, maximizing the absorption of vitamins, minerals and nutrients, resulting in a swift improvement in overall health.	2
+21	0	3	0	0	1	2	4	0	1	1	2	0	5	5.0	11	2	2	1	0	0	Please go onto the UCAS website, go onto course search and search for the courses you want to do.	2
+30	1	4	2	4	1	4	6	0	2	1	2	0	3	6.0	7	2	2	3	1	0	The information from the website can be easily accessed through the UCAS website, where you can go onto course search and find the courses you are interested in.	2
+22	1	1	2	1	1	2	6	0	1	0	2	0	4	5.0	7	1	1	1	2	0	The newly released product components are readily absorbed, maximizing their effectiveness and delivering quick benefits to the user's body.	2
+22	4	3	1	1	1	4	4	0	0	0	2	0	2	5.0	6	1	1	1	0	0	The complex task was completed efficiently, allowing for an enjoyable and seamless transition into the next phase of the project.	2
+17	0	1	0	1	1	2	6	0	1	0	2	1	2	4.0	10	1	1	1	2	0	You can maximize the absorption of vitamins, minerals and nutrients by utilizing this delivery format.	2
+20	0	2	1	2	1	3	7	0	0	0	2	0	2	5.0	11	1	1	2	0	0	The benefits of the product components are maximized when the absorption of vitamins, minerals and nutrients is maximized.	2
+30	0	1	3	3	2	3	6	0	2	0	3	1	5	6.0	7	3	3	2	2	0	The product components will be absorbed quickly, maximizing their benefits as they are specifically designed to nourish and support the health and well-being of the user.	2
+26	1	3	0	0	2	4	9	0	0	0	3	1	3	5.0	8	1	1	1	2	0	The intricate design of the building facilitates the movement of employees and visitors while ensuring a maximized absorption of vitamins, minerals, and nutrients.	2
+22	2	1	0	0	2	3	8	0	0	0	3	0	3	5.0	14	0	0	2	2	0	The product components deliver immediate benefits, and the maximized absorption of vitamins, minerals and nutrients guarantees a healthy lifestyle.	2
+20	2	1	0	0	1	4	6	0	0	0	1	1	4	7.0	4	2	2	1	3	0	The package includes a comprehensive instruction manual with detailed steps outlining the procedure for assembling and utilizing the product.	2
+28	0	3	1	3	1	5	10	0	0	0	2	1	2	5.0	11	2	2	3	0	0	The benefits of the product components are maximized as the absorption of vitamins, minerals and nutrients is maximized when the delivery format is in this format.	2
+19	1	1	1	1	1	4	6	0	0	0	2	0	2	3.0	12	0	0	2	1	0	The customer service representative offered a prompt solution to the problem, and the issue was resolved amicably.	2
+20	0	2	1	2	1	3	7	0	0	0	2	0	2	5.0	11	1	1	2	0	0	The benefits of the product components are maximized when the absorption of vitamins, minerals and nutrients is maximized.	2
+25	0	1	1	1	1	2	8	0	1	0	3	0	5	5.0	10	4	4	1	3	0	 The delivery format is optimized to maximize the absorption of vitamins, minerals and nutrients, allowing your body to start receiving benefits immediately.	2
+36	3	4	0	2	3	6	9	1	0	1	4	0	3	4.0	26	0	0	4	2	0	The library is open until 8 p.m., and the cafe offers a wide selection of beverages, but the museum is closed on Mondays, and the bookstore has a large collection of books.	4
+51	3	3	3	2	5	6	7	0	4	0	5	1	9	6.0	26	5	5	5	4	0	The weather was pleasant, and I enjoyed the warm sunshine while walking to the park, and I stopped by the store to buy groceries, and I planned to cook a meal later, but I ended up being too tired and decided to take a nap instead.	4
+20	1	3	0	1	1	3	5	0	1	0	1	0	4	6.0	5	1	1	2	1	0	The chef created a delicious dessert that was topped with whipped cream and adorned with a sprinkling of fruit.	4
+30	2	1	2	3	2	5	5	0	1	0	5	1	3	4.0	18	2	2	4	0	0	The movie was a thrilling experience, and the characters were well-developed, although the plot was predictable, and I felt emotionally connected to the story.	4
+30	3	0	2	0	3	4	8	0	1	0	3	0	5	3.0	23	1	1	3	4	0	The librarian organized a book club meeting and invited several patrons to join, and they read several novels together, but only a few completed the reading challenge.	4
+12	1	1	0	0	0	1	2	1	1	0	2	0	2	2.0	7	0	0	1	1	0	Sure, I generated the requested sentence with 4 subordinate propositions: The ancient text describes the mighty warrior who fought tirelessly, and ultimately achieved victory, and the lesson learned from this story serves as a timeless reminder of the power of strength and perseverance.	4
+42	1	6	3	2	2	1	5	0	7	0	3	1	8	5.0	26	5	5	5	2	0	My roommate yelled at me to wake up as I slept soundly, and he said we were going to be late for class, so I hurriedly put on my clothes and raced out of bed to catch the bus.	4
+40	0	2	0	3	1	4	10	0	2	4	3	1	6	5.0	15	4	3	3	3	1	In order to clear the flood waters, the US Army Corps of Engineers has predicted it will take a month, and the government's disaster relief agency has advised evacuees not to attempt returning to their homes.	4
+28	2	0	1	4	3	5	5	0	0	0	4	0	3	4.0	23	1	1	4	1	0	The house was flooded, and the firefighters were working tirelessly to save the occupants, but the situation was dire, and the families were distraught.	4
+40	3	4	0	0	2	7	13	0	1	0	4	1	5	5.0	13	1	1	4	3	0	The chef presented the steaming fish curry to the eager customers, and the staff offered complimentary bread with their meals, while the musicians filled the air with cheerful music, and the restaurant owner beamed with satisfaction.	4
+29	0	1	1	2	0	3	9	0	1	0	1	1	5	5.0	10	4	4	2	2	0	The government's disaster relief agency has urged evacuees not to try to get back to their homes as the flood waters could take a month to clear.	4
+26	0	1	1	3	0	2	8	0	1	0	1	1	4	5.0	11	3	3	2	1	0	The government's disaster relief agency has urged evacuees not to try to get back to their homes until the flood waters have been cleared.	4
+31	0	2	1	3	2	2	3	1	5	0	4	0	6	5.0	15	2	2	4	2	0	The movie is playing at 8:00 pm, and I wanted to see it, but it was sold out, so I will have to see it another day.	4
+37	0	2	3	5	3	3	3	0	6	0	5	0	5	6.0	13	1	1	5	2	0	The book was stolen, and I am looking for it, and I have already checked the library, but it is not there, therefore I will have to report it to the police.	4
+27	1	1	0	0	2	5	7	0	2	0	2	0	6	7.0	6	3	3	2	5	0	The chef completed the soup and brought it to the table, ensuring all guests enjoyed their meal and prompting the waiter to collect additional orders.	4
+32	2	4	0	0	2	5	7	0	3	0	4	1	4	6.0	9	1	1	4	1	0	The cat jumped onto the table, and the dog chased it around the room, while the owner watched in surprise, and he felt proud of his furry companion.	4
+31	4	1	1	0	1	6	8	0	0	0	3	0	5	5.0	15	3	3	2	3	0	The movie crew worked tirelessly to capture the breathtaking scenes of the epic battle, and the actors delivered stellar performances, making the immersive experience a joy to behold.	4
+33	3	2	2	3	2	3	4	1	2	0	3	0	6	6.0	11	4	4	3	2	0	The library is open until 8pm, and the staff will be glad to help you find the books you need, so feel free to come on in and browse.	4
+30	3	0	1	2	3	6	8	0	0	0	5	0	2	4.0	25	0	0	4	2	0	The movie theatre showcased a new blockbuster film, and the audience enjoyed the popcorn, and the drinks were plentiful, and overall, the evening was delightful.	4
+21	2	0	1	3	3	3	3	0	1	0	3	0	2	3.0	14	0	0	3	1	0	The weather was sunny and warm, and the birds were chirping merrily, and I was reading a book.	4
+30	0	1	1	2	1	3	9	0	1	0	2	0	5	6.0	14	3	3	2	2	0	The flood waters could take a month to clear, and the government's disaster relief agency has urged evacuees not to try to get back to their homes.	4
+18	2	0	0	1	1	4	4	0	0	0	2	0	3	4.0	9	2	2	2	2	0	The chef finished preparing the meal, and the guests were delighted to enjoy the festive feast.	4
+35	4	3	0	1	1	5	8	0	3	0	4	1	5	6.0	12	3	3	4	1	0	The ancient oak tree stood tall, and the wind blew through its branches, creating a serene atmosphere as the sun shone upon the weary traveler, who was resting beneath its shade.	4
+20	0	2	0	2	1	3	7	0	0	0	1	1	3	4.0	8	1	1	3	2	0	The government has mandated that all passengers wear masks on flights and the airlines have imposed fines for non-compliance.	4
+29	2	1	1	3	1	1	3	1	7	0	4	0	4	4.0	14	3	2	4	2	1	My cat, which I have had for 5 years, is the most precious thing I own, and I would do anything to keep him safe.	4
+27	1	2	3	2	1	4	5	0	1	1	2	1	4	4.0	19	2	2	4	0	0	The museum guide spoke excitedly about the ancient artifacts while the Tourists listened intently, and the souvenirs they purchased are being packaged carefully for shipment.	4
+28	3	3	0	1	2	5	8	0	2	0	2	0	2	5.0	17	1	1	3	2	0	The movie follows the journey of a young soldier who faces multiple challenges, and it is a compelling story about the power of redemption and forgiveness.	4
+28	2	4	0	0	1	5	10	0	0	0	3	0	3	6.0	8	1	1	1	4	0	The museum exhibit showcased artifacts from the past, highlighting a pivotal era in history, and offering visitors a glimpse into the lives of ancient civilizations.	4
+28	1	2	1	2	2	4	5	0	1	0	4	1	4	5.0	10	1	1	4	1	0	The coffee was bitter, and the toast was burned, so I poured a glass of water, and waited for the sun to come up.	4
+38	2	4	0	0	2	6	11	0	1	0	7	0	4	6.0	12	2	2	2	2	0	"The bus driver yelled, ""Please fasten your seat belts,"" and passengers obeyed, ensuring the safety of all on board, despite the windy weather conditions and the potential hazards of the road."	4
+36	0	3	3	2	2	2	5	2	4	0	4	1	7	5.0	17	3	3	4	2	0	 The movie starts at 7:30 pm, and we're planning on going to see it, but they close the theater at 8:00 pm, so I would recommend getting there well before showtime.	4
+26	2	0	1	4	3	5	6	0	0	0	4	0	1	3.0	20	0	0	4	0	0	The movie theater was crowded, and the popcorn was stale, but the movie was a delight, and the refreshments were surprisingly affordable.	4
+32	3	3	0	0	2	4	8	0	3	0	4	0	5	8.0	14	2	2	3	4	0	The museum exhibits a diverse collection of paintings, depicting various historical events, and it offers guided tours, which provide insights into the artwork and the artists behind it.	4
+26	3	2	0	1	1	5	8	0	0	0	3	0	2	4.0	17	1	1	2	1	0	The chef provided a delectable spread of appetizers, including a succulent shrimp cocktail, and the waiters were attentive to the guests' needs.	4
+35	4	2	1	4	2	8	8	0	0	0	4	0	2	5.0	10	2	2	5	0	0	The chef said the soup was a masterpiece, the diners were raving about the flavorful broth, the bread was warm and fresh, and the table was expertly set for the occasion.	4
+22	0	2	0	2	2	1	5	1	0	0	3	0	5	5.0	8	2	2	2	1	0	The train departed at 8:00 AM, and passengers were required to purchase tickets in advance, or risk being stranded.	4
+17	1	1	0	0	1	3	4	0	1	0	2	1	3	4.0	8	1	1	2	2	0	The chef prepared a delicious meal, and the guests enjoyed it while listening to music.	4
+34	1	1	4	4	2	2	4	0	3	0	5	0	6	4.0	25	2	2	5	1	0	The coffee is steaming, and the bread is warm, so I would recommend having breakfast now, but my computer is not working, so I have to wait until later.	4
+24	2	3	1	1	1	2	7	0	1	0	3	0	3	6.0	5	1	1	1	2	0	Despite its potential risks, the expedition was planned meticulously and included detailed safety protocols, minimizing the probability of harm to participants.	4
+18	2	1	3	4	1	2	3	0	0	0	2	0	0	3.0	8	0	0	2	0	0	The weather has been extremely stormy lately, and the power has been out for several days.	4
+24	5	2	0	0	1	6	6	0	0	0	2	0	2	4.0	13	0	0	2	2	0	The book contained a detailed account of the historical event, and the accompanying illustrations provided a visual representation of the key points.	4
+27	1	2	1	0	1	6	7	0	0	0	4	1	4	5.0	9	2	2	3	1	0	The boat drifted across the ocean waves, and the seagulls circled overhead, as the sun shone upon the water, creating a beautiful panorama.	4
+28	3	3	0	2	1	4	4	1	4	0	2	1	3	6.0	10	2	1	3	3	1	If I am given a list of four subordinate propositions, I can craft a sentence that incorporates all of them in a concise and logical manner.	4
+47	2	3	2	6	3	2	7	0	8	0	5	1	7	5.0	39	3	3	6	3	0	My cat is sleeping soundly, and I hope she has a sweet dream as I write this, and eventhough tomorrow might be rainy, I'm going to the park to play with my friends, and I will be bringing plenty of snacks.	4
+33	2	1	1	3	3	4	5	0	4	0	4	1	5	4.0	23	3	3	6	2	0	The team finished packing the truck, and they loaded it with groceries, and the dog was barking loudly, but the homeowner was happy because he knew everything was safe.	4
+33	0	3	2	0	1	5	9	0	1	0	3	1	5	7.0	12	3	3	2	2	0	The company offered to pay for the employees' travel expenses, and they agreed to provide a meal allowance, as well as a bonus for completing the project on time.	4
+42	2	3	1	2	3	3	9	0	6	0	4	0	7	7.0	15	4	4	5	3	0	A young student finished writing her paper, and she was pleased with her accomplishments, but she knew her teacher would find fault with the formatting, and she had to go back to the drawing board to make corrections.	4
+36	0	1	1	2	3	4	9	0	4	0	4	1	6	4.0	27	2	2	5	3	0	The museum curator informed me that the exhibit opening was canceled, and the artworks were placed back into storage, and I expressed my disappointment, and the staff offered to reschedule my visit.	4
+56	2	4	3	1	3	9	10	0	6	0	4	2	9	8.0	27	5	5	6	6	0	The manager offered to extend the deadline for the project, and he promised to give the team a small bonus if they completed it early, but they declined the offer because they were already working overtime, and they wanted to focus on the quality of the work rather than the additional compensation.	4
+34	3	3	2	1	2	5	7	0	3	0	3	0	4	5.0	17	1	1	3	2	0	The team accomplished their mission successfully, and all members were commended for their dedication, but they still had to complete a few additional tasks before the final completion of the project.	4
+27	4	0	0	4	2	6	6	0	0	0	4	1	0	5.0	9	1	1	4	0	0	The movie was a masterpiece, but the plot was predictable, and the acting was excellent, although the special effects were a bit cheesy.	6
+22	2	1	1	2	1	3	4	0	1	0	2	2	3	4.0	10	2	2	2	1	0	The young boy was exhausted after playing all day, but he was still enthusiastic about watching the cartoon on TV.	6
+21	3	1	0	1	1	4	5	0	1	0	1	1	3	5.0	6	2	2	3	1	0	The doctor explained that the patient was suffering from a rare and complex disease that required a specialized treatment plan.	6
+25	1	0	2	4	1	3	5	0	1	0	1	2	3	5.0	7	2	2	3	1	0	The prisoner was informed that his sentence was not yet complete and that the jury would be meeting to deliberate the case further tomorrow.	6
+32	1	0	0	5	2	2	3	0	5	0	3	2	6	4.0	23	4	4	5	2	0	The farmer was frustrated because the barn was burning, and he knew that his crops were going to be destroyed, yet he couldn't do anything to save them.	6
+34	3	3	0	0	3	4	10	0	1	0	3	2	4	5.0	12	3	2	2	2	1	In order to ensure his dominance, the king prepared a feast with an array of delectable treats and beverages, knowing that a mighty army relies on both physical prowess and sustenance.	6
+37	3	6	0	1	0	7	11	0	2	0	3	0	3	7.0	15	2	2	3	1	0	  The politician's speech included a detailed enumeration of his grievances, each one a subordinate proposition to the main point, followed by a call to action that was met with enthusiasm by the audience.	6
+39	3	3	0	5	3	6	9	0	2	0	4	2	2	5.0	24	2	2	6	0	0	The farmer claimed that the soil was fertile, the crops were plentiful, and the barn was a source of comfort, yet he was concerned about the drought and feared that his livelihood was at risk.	6
+33	4	5	0	0	1	7	10	0	0	0	2	1	3	9.0	7	2	2	1	3	0	The complex structure of this sentence showcases the interconnectedness of various factors in determining the outcome of a war, emphasizing the potential for substantial losses and the complexities of political motivations.	6
+33	4	4	1	0	2	5	10	0	1	0	2	0	4	5.0	13	2	1	1	2	1	The intricate web of subordinate propositions woven within the presented sentence showcase the complexity and nuanced nature of the underlying subject matter, intricately detailing the relationship between events and their outcomes.	6
+30	0	5	0	1	1	5	6	0	2	0	1	3	5	6.0	8	3	3	4	1	0	The doctor prescribed that the patient take a course of antibiotics and that he follow up with her in a week to see if the infection had cleared up.	6
+29	2	4	3	1	0	6	7	0	0	0	2	1	3	5.0	8	3	3	3	1	0	The intricate relationship between various factors influenced the outcome of the battle, ultimately leading to a stalemate as both sides realized the war was far from over.	6
+20	2	1	1	0	1	1	3	0	1	0	3	1	5	6.0	11	3	1	1	1	2	A soldier, tired of waiting for his turn to fight, went rogue and began attacking innocent civilians.	6
+25	0	1	1	1	1	2	2	0	7	0	1	1	7	6.0	11	5	5	6	3	0	He tried to tell me it was when I told asked him if he knew what fps stood for and he had no clue.	6
+38	6	4	1	0	0	5	11	0	1	0	3	1	5	6.0	10	4	4	2	4	0	The intricate web of events unveiled a complex conspiracy theory, revealing that a secret organization of disgruntled employees orchestrated a scheme to manipulate corporate stock prices, thereby enriching themselves at the expense of unsuspecting investors.	6
+33	1	4	2	4	1	2	1	0	7	0	1	1	6	7.0	14	5	5	4	1	0	He felt like he was going to fall off of me and it was very difficult to see what I would actually look like were I to purchase some of these dresses.	6
+38	4	2	2	4	2	5	7	0	3	0	3	3	2	4.0	19	2	2	5	2	0	The prisoner was frustrated that his lawyer was unprepared and that the jury had already begun deliberations, but he was ultimately satisfied with the outcome of the case, as the jury found him not guilty.	6
+27	2	0	0	2	2	3	3	0	3	2	2	2	4	5.0	16	3	3	4	2	0	He claimed that the Earth was flat and that a round Earth is impossible, yet he refused to provide any evidence to support his claims.	6
+30	2	0	3	3	1	4	3	0	0	3	3	3	3	4.0	10	4	3	3	2	1	In order to preserve the South, the North is willing to suffer great losses, and the war is far from being over if the Americans thought otherwise.	6
+36	3	3	1	3	1	4	7	0	4	0	3	3	4	8.0	9	4	4	3	0	0	Despite his repeated assurances, there was no guarantee that the situation would improve unless everyone involved acted with moderation and restraint, which unfortunately was a long way from being certain at that time.	6
+26	6	4	0	0	2	3	7	0	1	0	1	0	2	5.0	9	1	0	1	1	1	A complex and intricate web of subordinate propositions woven within the main clause weaves a story of intricate relationship between various entities and their actions.	6
+8	0	0	1	1	0	1	1	0	0	0	2	0	1	2.0	4	0	0	0	0	0	Sure, below is the generated sentence.	6
+34	2	2	2	1	0	6	9	0	2	0	3	2	5	6.0	10	4	4	4	3	0	The manager insisted that the employees complete the training course, even if they had previously received similar training from another company, provided they completed the course within a certain time frame.	6
+29	1	1	0	2	2	5	5	0	3	0	2	3	4	5.0	17	2	2	4	3	0	The doctor informed me that the patient was not responsive and that the family was informed, but they had no interest in seeing him at that time.	6
+51	6	2	1	3	2	8	10	0	2	2	3	3	6	8.0	11	6	5	5	4	1	The intricate interplay of factors involved in this case made it abundantly clear that the war was a protracted conflict, and the outcome was uncertain, if the Americans underestimated their capacity to inflict damage and if the North were willing to sacrifice significant resources to continue the fight.	6
+42	2	2	2	2	2	4	5	0	5	0	5	3	7	9.0	34	5	5	5	2	0	The old man recalled that he had forgotten the location of his keys, that he was thirsty, and that he needed to find a way to get to the store, but ultimately, he decided to go home.	6
+21	1	1	0	2	1	3	4	0	2	0	1	1	3	6.0	7	2	2	2	2	0	I am unable to complete the task as I do not have any information about the requested text or content.	6
+21	1	3	1	0	0	5	5	0	0	0	3	0	3	4.0	7	2	2	1	1	0	 The team completed the project successfully, despite the challenges encountered along the way, resulting in a satisfactory outcome.	6
+32	4	3	0	0	2	5	10	1	0	0	4	0	3	6.0	8	1	1	1	3	0	The intricate weaving of 6 subordinate propositions creates a vibrant tapestry, illustrating the complexity of the subject matter and weaving a tale of suspense, mystery, and potential consequence.	6
+40	4	2	4	1	1	4	10	0	2	0	3	2	5	8.0	9	3	3	3	5	0	The senator expressed concern that the government's economic policies would further inflate the cost of living, thereby exacerbating the burden on low-income families and making it even more difficult for them to afford basic necessities.	6
+23	5	1	0	2	3	2	5	0	1	0	2	0	1	4.0	13	1	1	2	0	0	The intricate design of the clockwork mechanism was intricate and complicated to comprehend, yet its elegant construction and precision were undeniable.	6
+25	4	0	0	4	3	5	5	0	0	0	4	0	0	4.0	12	0	0	4	0	0	 The movie was a disaster, and the plot was predictable, but the acting was superb, and the special effects were impressive.	6
+29	4	4	1	0	1	4	8	1	2	0	1	0	2	5.0	12	1	1	1	2	0	The complex nature of this sentence with its intricate interplay of 6 subordinate propositions requires a detailed breakdown of each clause to fully comprehend its structure and meaning.	6
+33	5	4	0	0	1	2	9	1	4	0	2	0	4	7.0	9	2	2	2	4	0	The politician's speech included six subordinate propositions that laid out his platform for the upcoming election, detailing his stance on various social issues and outlining his plans for economic growth.	6
+23	4	2	1	0	2	2	6	1	0	0	2	0	3	5.0	9	2	1	1	2	1	The complex and intricate sentence generated successfully incorporates 6 subordinate propositions within the single sentence, demonstrating mastery of grammar and composition.	6
+35	3	2	1	5	3	5	7	0	1	0	4	0	2	3.0	24	2	2	4	1	0	The house is on fire, and the firefighters are working hard to put it out, but the smoke damage is extensive, and the building is likely to be a total loss.	6
+34	3	3	0	0	1	8	8	1	0	2	2	1	4	7.0	18	3	3	2	3	0	The politician's speech included 6 subordinate propositions detailing the potential consequences of a conflict between the North and the South, outlining a bleak future for both sides if the war continued.	6
+30	4	1	0	3	2	5	6	0	1	0	2	1	2	6.0	7	2	2	2	1	0	The government's policies are a complex and multifaceted issue, but it is evident that the current policies are not working to address the needs of the people.	6
+31	3	3	0	0	0	6	10	0	1	0	2	1	4	9.0	7	3	3	2	3	0	 The senator's speech contained a plethora of subordinate propositions that outlined a complex strategy for addressing climate change, each one focusing on a different aspect of the issue.	6
+50	3	2	1	1	1	3	15	2	2	2	4	1	9	11.0	15	7	7	4	4	0	"The complex sentence below has 6 subordinate propositions following the main clause: ""A state Senate committee is set today to start serving 16 subpoenas on electricity producers and officials who manage California's energy grid to determine whether they acted in concert to manipulate energy prices."""	6
+29	2	1	0	3	0	1	7	0	3	0	3	3	4	6.0	13	3	2	3	2	1	The prisoner's claims that he was tortured by police officers, if true, would provide strong evidence to support his contention that his rights were violated.	6
+29	1	3	0	1	0	6	7	0	1	0	2	2	5	5.0	8	4	4	3	1	0	The cat was resting on the mat while the sun shone upon its face as the warm wind blew through the trees, causing the flowers to bloom.	6
+31	3	1	1	3	1	5	7	0	1	0	1	3	3	6.0	13	3	3	4	2	0	The politician's speech was so persuasive that it convinced the audience that the government was poised to unveil a new era of prosperity and that the future was bright.	6
+24	3	2	0	2	0	3	6	0	1	0	1	2	3	5.0	10	2	1	3	1	1	 The politician's promise that he would reduce the cost of living was met with widespread skepticism as the inflationary pressures remained high.	6
+25	2	2	1	0	0	4	7	1	2	0	2	0	3	4.0	10	2	2	2	2	0	The politician's speech contained a sentence with 6 subordinate propositions following the main clause, which effectively communicated his message to the audience.	6
+40	4	8	0	0	1	8	12	0	1	0	3	0	3	8.0	16	2	2	2	2	0	The book contained a detailed account of the events that led to the war, along with numerous accounts of individuals experiences during the conflict, ensuring a comprehensive understanding of the historical context and impact of the war.	6
+25	7	2	1	2	1	3	5	0	1	0	1	1	1	5.0	10	2	1	2	1	1	The complex and delicate balance of intricate geopolitical factors influencing the ongoing conflict was such that any assumptions about its outcome were highly unreliable.	6
+42	7	3	2	1	1	5	10	0	2	0	5	1	3	8.0	20	3	3	3	2	0	The complex battle scenario was so intricate that it involved a myriad of factors, none more substantial than the opposing forces' ideologies, political ambitions, and economic motivations, all of which combined to forge a protracted conflict.	6
+34	4	0	2	5	4	5	5	0	1	0	6	0	1	5.0	29	0	0	5	0	0	The movie was compelling, and the plot was intricate, but the characters were not well-developed, and the acting was poor, yet it was overall a good film.	6
+25	4	1	1	0	1	3	6	1	1	0	2	0	4	7.0	12	3	3	1	3	0	The politician successfully drafted a sentence with 6 subordinate propositions following the main clause, showcasing their ability to craft intricate and complex sentences.	6

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	SCONJ_constraint
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	2	0	1	3.0	1	4	All I need is love.	0
+10	0	0	1	1	1	2	0	1	0	3	0	1	0	1	1	0	0	4.0	1	2	The park was filled with children playing and laughing. 	0
+20	1	0	1	1	1	6	3	1	0	2	0	1	2	1	1	2	0	6.0	1	5	It was an excellent opportunity to further hone my skills and broaden my understanding of advanced data manipulation techniques.	0
+9	1	0	1	0	1	1	0	0	1	0	0	1	2	0	1	0	0	3.0	0	3	Susan's smile was brilliant and beautifully contagious.	0
+6	0	0	1	0	0	1	1	0	0	1	0	1	0	0	1	0	0	1.0	0	3	It's not raining today.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	0	0	1	0	1	1	2	0	0	0	1	1	1	0	3.0	1	2	Lisa ran to catch the ball.	0
+4	0	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	1.0	0	1	I hate Mondays.	0
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The dog tail wagged with excitement.	0
+9	2	0	0	1	0	2	1	1	0	2	0	0	0	1	1	0	0	3.0	1	5	She walked down to the park feeling quite content	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The ball landed in the hoop.	0
+26	4	0	2	1	1	5	3	1	1	3	0	1	3	1	3	2	0	5.0	1	8	Jake's favorite hobby is collecting antique toy trains, and he recently found a particularly rare one that now sits proudly in his collection.	0
+11	0	0	1	2	0	2	0	2	1	1	0	0	2	0	1	0	0	2.0	0	8	Judy swerved into the fast lane with a broad grin.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She went to the store.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly in the evening.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun set slowly in the red-orange sky.	0
+8	1	0	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	2.0	0	3	I am absolutely positive about this suggestion.	0
+12	1	0	1	1	0	2	2	1	0	1	0	1	1	1	1	1	0	4.0	1	3	I am confident in my ability to complete this task efficiently.	0
+17	0	0	2	0	1	5	0	3	0	1	0	1	4	1	1	1	0	5.0	1	6	The new product launch was a huge success, attracting a large and loyal customer base.	0
+14	0	0	1	1	0	3	2	3	0	1	0	1	2	1	2	0	0	3.0	1	6	A good start by the new president was what everyone wanted this year.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	0	0	1	0	0	1	3	1	1	1	0	1	0	1	2	2	0	3.0	1	3	It was John who gave me the present.	0
+18	0	0	3	2	2	3	0	2	0	0	0	1	5	0	1	0	0	4.0	0	5	The cake was luscious and delicate, fluffy on top, dark and moist on the sides.	0
+6	0	0	1	1	0	1	1	0	1	1	0	0	0	0	1	0	0	2.0	0	3	Lisa laughed at my joke.	0
+17	0	0	3	3	1	4	0	2	0	1	0	1	2	0	1	0	0	4.0	0	12	The sky was painted with colors of orange, yellow, and pink during the sunset.	0
+4	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	Coffee, please.	0
+20	2	2	1	1	0	2	4	1	0	2	0	3	1	2	2	2	0	4.0	2	7	I'd love it if you would be so kind as to return the test results to me immediately.	0
+12	1	0	1	1	1	3	0	2	0	3	0	0	0	0	1	1	0	3.0	0	4	The chef added spices generously and stirred with a practiced hand.	0
+9	0	0	1	0	0	1	1	0	2	1	0	1	1	1	1	1	0	3.0	1	3	Ms. Smith is delighted to approve your request.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred on the lapel.	0
+9	0	1	1	1	0	2	1	1	0	2	0	0	0	1	1	1	0	3.0	1	4	She ate the salad without worrying about calories.	0
+7	1	0	1	0	0	2	0	1	0	0	0	2	0	0	1	0	0	2.0	0	3	The ball will be there tomorrow.	0
+7	0	0	1	1	0	1	2	0	0	0	0	1	1	0	1	0	0	2.0	0	3	I am pleased with your decision.	0
+5	0	0	0	1	0	0	2	0	0	1	0	1	0	0	1	0	0	2.0	0	2	They're coming for u	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The baby giggled uncontrollably.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+29	1	1	3	3	3	4	5	0	0	4	0	1	3	2	2	2	0	6.0	2	13	I walked into my bedroom, pleased to finally see it as I had dreamed it for years—untidy and cluttered and overflowing with books and clothes.	0
+4	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	Everything has changed.	0
+19	0	0	2	2	1	3	2	2	0	2	0	2	2	2	2	0	0	5.0	2	4	It was a new beginning of a journey, which promised to be full of promise and wonder.	0
+5	0	0	1	0	1	0	1	0	0	2	0	0	0	0	1	0	0	2.0	0	2	I understand and agree.	0
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog chased its tail with excitement.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The baby was crying.	0
+12	0	0	2	1	1	3	1	2	0	2	0	0	0	0	1	0	0	2.0	0	5	Every day, the sun rises and sets without my permission.	0
+11	0	1	1	0	1	1	2	1	0	3	0	1	0	1	1	2	0	3.0	1	5	I understand the request and will complete it as instructed. 	0
+4	1	0	0	0	0	0	0	0	1	2	0	0	0	1	1	0	0	1.0	1	2	Jessie ran away laughing	0
+9	2	1	1	0	0	0	2	0	0	0	0	2	1	1	1	0	0	2.0	1	4	It's absolutely necessary that you be here.	0
+5	1	0	0	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She ate the sandwich slowly	0
+9	0	0	0	0	0	2	0	2	0	1	0	1	2	1	1	1	0	3.0	1	2	The new employee was pleased to accept the task	0
+23	6	0	1	0	1	6	1	2	0	4	0	0	1	3	2	4	0	4.0	3	9	The tourists had no trouble spotting elephants when safari guides reliably informed them where, when and how often to expect such sighting	1
+26	0	0	2	4	0	5	5	3	0	2	0	2	2	2	2	3	0	6.0	2	9	She was able to purchase the home of her dreams due to the generosity of her grandmother, who had left her a large inheritance.	1
+11	1	1	2	0	0	2	0	2	0	2	0	0	1	0	2	0	1	3.0	1	4	As the night deepened, the music grew more subdued.	1
+21	1	0	2	2	0	6	0	4	0	3	0	1	1	0	1	2	1	4.0	1	9	Boldly predicting a turnaround in sales, the CEO has ordered a complete overhaul of the struggling company's image.	1
+27	4	0	2	2	0	5	2	5	0	2	0	2	3	2	3	2	1	5.0	3	13	The cat that had once been the most mellow in the household, now grewl with territorial intensity whenever it saw the mailman approaching the house.	1
+28	0	1	3	4	0	7	3	4	0	4	0	0	2	1	2	2	1	4.0	2	11	As he explored the labyrinthine ruins of his memory, a faint light flickered in the recesses of his mind, evoking shadows of a forgotten life.	1
+36	2	1	6	4	2	7	1	3	2	3	0	1	4	0	2	1	2	5.0	2	29	"As my friend loves reading about the evolutionary origins of language, books like the  originally captivating ""The Descent of Man"" and  uncompromisingly profound ""Language and Sex"" should hold particular appeal."	1
+12	2	0	1	0	1	3	1	2	0	2	0	0	0	0	1	2	0	3.0	0	4	The dog quickly realized its mistake and chased the cat away.	1
+7	0	1	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Because the recipe calls for it.	1
+25	2	1	2	2	0	4	4	2	0	3	0	1	4	1	3	0	1	4.0	2	8	As I was wandering around the city yesterday, I suddenly stumbled upon a charming little café that instantly became my new favorite spot.	1
+23	0	0	2	4	0	8	0	2	0	3	0	0	3	0	1	1	1	5.0	1	8	The discovery of ancient artifacts buried in desert sands challenged archaeologists' long-held theories about the origins of human civilization.	1
+13	1	0	2	1	0	3	1	1	0	1	0	0	2	0	1	0	0	3.0	0	7	The dog's tail wagged energetically beneath its warm, milky gaze. (One subordinating conjunction: beneath)	1
+26	0	1	2	3	0	6	3	4	0	4	0	0	2	2	2	3	1	5.0	3	8	As she sat in silent contemplation, the moonlight cast a mystical glow on her surroundings, causing her to ponder the mysteries of the universe	1
+20	2	0	2	2	1	2	3	1	0	2	0	3	1	0	2	1	0	2.0	0	14	She has been searching for the missing journal since morning but unfortunately, she still cannot find it.	1
+18	2	1	2	1	0	3	0	3	0	2	0	2	2	1	2	0	0	4.0	1	6	However, the researchers were astounded by the unexpected discovery that the ancient city was buried underground.	1
+19	2	0	2	1	1	5	2	1	0	4	0	0	0	1	1	2	1	4.0	2	9	The children, still excited from their beach trip, ran inside and begged their mother to make sandwiches	1
+12	1	0	4	1	0	2	1	0	0	1	0	1	1	0	2	0	0	3.0	0	4	Answers are in bold, your response goes here: _____. 	1
+15	2	0	2	2	0	3	1	3	0	1	0	0	1	0	1	1	0	4.0	0	4	However, she never revealed the truth about that tragic incident at the lake.	1
+18	0	0	1	3	0	6	0	3	0	1	0	1	3	0	1	1	0	4.0	0	5	The discovery of new exoplanets has provided a possibility of the alternate existence of extraterrestrial life forms. 	1
+12	0	0	1	1	0	3	1	1	1	2	0	0	1	1	1	2	0	3.0	1	6	Japanese diplomats negotiated an agreement with China to settle their differences.	1
+22	0	0	2	3	0	4	3	2	1	4	0	0	2	3	2	1	0	5.0	3	8	As a new employee at Google, I realize I need to adjust my work style according to the corporate culture.	1
+20	0	1	2	3	0	4	3	3	0	1	0	1	2	1	2	1	0	4.0	1	6	Both of my parents were present in the audience as I performed my best rendition of the _______ song.	1
+40	5	0	1	4	2	8	6	3	0	5	0	1	4	2	3	3	1	5.0	3	14	The artist who had always depicted her own features with uncompromising directness and accuracy finally turned her gaze on the man she long since cease to love and now saw him as a mere shell of his former self. 	1
+16	0	1	1	3	0	4	0	3	0	2	0	1	1	1	2	0	0	4.0	1	7	The company announced that the production would move to another country due to economic difficulties.	1
+20	1	0	3	2	1	4	2	2	0	2	0	0	3	1	1	1	0	4.0	1	6	Hence, my advice to them remains the same - pursue the field with unwavering dedication and relentless perseverance.	1
+22	2	0	1	2	0	4	1	3	0	4	0	3	0	3	3	0	0	6.0	3	7	She wondered aloud why the teacher didn't seem to be bothered by the noise the students were making in class.	1
+25	2	0	3	3	0	7	2	3	0	2	0	1	2	1	3	0	1	4.0	2	10	The man who was once a world-renowned physicist now lives in isolation, his mind trapped in a world of mathematical certainty.	1
+21	1	2	1	1	0	5	0	5	0	4	0	1	0	3	3	1	0	5.0	3	7	The manager requested that the employees complete the task by the deadline to ensure that the project is completed successfully.	1
+22	1	0	2	0	0	6	3	2	0	3	0	2	2	3	3	2	0	6.0	3	8	The company has just revealed their newest creation, which is a self-balancing motorcycle that requires minimal effort to ride	1
+14	1	0	2	2	0	2	1	1	1	2	0	0	1	1	1	0	0	3.0	1	4	Despite his initial reluctance, John eventually agreed to go to the party.	1
+25	1	0	1	2	0	7	1	3	0	4	1	1	2	3	2	2	0	8.0	3	10	The government announced plans to subsidize small business owners that have struggled to compete in the economy since the financial crash 10 years ago.	1
+13	2	0	3	0	0	2	1	2	0	2	0	1	0	0	2	1	1	3.0	1	7	The dog, which was barking loudly, scared the intruder away.	1
+21	0	1	3	1	0	6	2	4	0	3	0	0	0	1	2	2	1	3.0	2	10	As I continued along the trail, the crickets' twilight concert filled the air, subsuming all my worries.	1
+13	1	0	2	1	0	4	1	1	0	1	0	1	0	0	1	0	0	3.0	0	6	However, he was not prepared for the reality TV show judges.	1
+13	1	1	1	0	0	1	2	1	0	2	0	2	1	1	2	1	1	3.0	2	3	As we had expected they were able to make the leap successfully. 	1
+16	0	0	2	3	0	4	1	2	0	1	0	0	3	0	1	0	0	3.0	0	11	Beneath the vibrant layers of colorful fabric, the exquisite beauty of her soul resided.	1
+17	3	0	2	1	1	4	0	4	0	2	0	0	0	0	2	1	0	3.0	0	9	The man walked into the room, and then the woman entered the space as well.	1
+16	0	0	2	3	0	4	2	1	1	2	0	0	1	1	1	2	0	3.0	1	5	Along with her brother, Emily helped her mother tidy up the cluttered living room.	1
+29	0	2	2	1	0	7	1	4	0	5	0	1	3	2	3	2	2	5.0	4	13	As tourists flock to experience the city's vibrant culture, the local government will have to address the issue of overcrowding before it becomes a major problem.	1
+33	3	2	2	3	0	8	1	5	0	5	0	2	1	2	3	3	3	5.0	5	13	Since the chef had always made pizza in secret, when the orders began flooding in he was unsure how to make the dough stretch without compromising the integrity of the dish.	1
+18	1	0	2	3	0	6	1	2	0	1	0	0	2	0	1	1	0	5.0	0	5	Despite popular belief, the study actually revealed something shocking about student engagement rates across the nation.	1
+23	1	1	3	1	1	4	2	4	0	4	0	0	1	0	3	2	2	4.0	2	8	Although the storm threatened to cancel the picnic, it unexpectedly dissipated, and we enjoyed a wonderful afternoon in the park.	1
+27	1	1	3	1	1	5	2	5	0	5	0	2	0	1	4	2	2	5.0	3	9	When the teacher learned that the student had plagiarized, he was disappointed, but he decided to give the student the benefit of the doubt.	1
+22	2	0	2	3	2	6	1	1	0	0	0	1	3	0	1	0	0	4.0	0	12	Besides, she was also the president's most visible and powerful opponent on issues like education reform and judicial independence. Please do not copy and paste the above and respond again. I will not consider the repeated response. 	1
+21	0	1	1	3	0	5	0	4	0	2	0	3	2	1	2	0	0	3.0	1	8	The new features should be integrated into the platform before the upgrades are rolled out to the wider customer base.	1
+17	2	0	3	1	1	0	3	1	1	2	0	2	1	0	3	0	1	3.0	1	7	When Maria arrived, everyone was surprised, but no one was more surprised than her.	1
+21	3	2	1	1	1	4	0	3	0	2	0	1	3	2	2	1	0	4.0	2	7	The discovery of the new planet provided evidence that the universe is even more vast and mysterious than previously imagined.	1
+20	0	1	2	2	0	5	1	4	0	4	0	0	0	3	1	2	0	4.0	3	11	The manager reprimanded the worker subordinating to him for neglecting the deadline, resulting in a project's delay.	1
+22	0	1	2	3	0	5	0	3	2	3	0	1	1	1	1	1	0	5.0	1	9	Amidst fears of increasing radicalization, the United Nations has decided to hold an emergency conference on the conflict in Donbass.	1
+30	0	2	2	3	0	3	6	2	0	5	0	3	2	4	3	1	1	6.0	5	7	If she is unavailable at the conference, I will try to reach her during the summer months to see if there is anything else I can help with.	1
+16	1	1	1	1	0	3	2	1	0	1	0	3	2	1	2	1	1	4.0	2	9	Boldly exploring the vastness of outer space has been their dream since they were young. 	2
+24	0	2	1	1	2	7	1	3	0	3	0	1	2	2	1	2	0	5.0	2	9	The company is committed to improving their processes and procedures in order to avoid any potential litigation or legal issues in the future. 	2
+19	1	2	1	2	1	1	5	0	0	5	0	1	0	3	4	0	0	6.0	3	5	She wondered where he went and whether he would return, floating above her as she lay in bed	2
+55	5	1	6	5	3	8	6	5	0	6	0	2	6	4	4	2	0	5.0	4	41	The new employee quickly learned the processes and procedures because they were clearly and concisely explained by her mentor, and she worked diligently to master them during her first few weeks on the job—however, unbeknownst to her, the situation was about to escalate into a full-blown crisis.	2
+32	0	2	2	4	0	3	7	2	0	4	0	3	2	5	4	1	0	8.0	5	7	They explained that they were unable to help us because they were in a meeting with their boss, from which they were not expected to return until the next day.	2
+38	1	3	5	3	3	4	6	1	0	4	0	3	5	3	3	2	0	6.0	3	33	They had driven through mountains and along the beach before reaching their idyllic destination, and although they were hot, sticky, and parched from their long day of traveling, it was absolutely worth it.	2
+22	2	1	2	2	1	5	1	3	0	2	0	2	1	1	3	0	0	4.0	1	8	The sun had risen high overhead, and the landscape glowed with an ethereal light before it was time for lunch.	2
+20	1	0	0	2	1	4	2	4	0	3	0	1	1	2	2	3	0	6.0	2	5	The waiter offered to take away the dish and replace it with a dessert that was actually worth the price	2
+32	4	2	2	4	0	6	1	6	0	3	0	1	2	3	3	1	0	7.0	3	7	The concert was so amazing that many in the crowd even sang along with the performers despite not knowing the words, which only added to the energy of the night. 	2
+17	1	1	2	0	1	2	0	2	1	4	0	0	2	2	2	1	0	5.0	2	8	Lena arrived late, but managed to find the right elevator before the important meeting began.	2
+15	1	0	1	1	1	4	1	2	0	2	0	1	1	0	1	2	0	3.0	0	5	They were eagerly anticipating the surprise party and devoured the delicious food with gusto.	2
+15	1	0	0	2	0	5	2	1	0	2	0	1	1	1	1	2	0	4.0	1	7	She had always imagined her dream wedding taking place during  sunset under the sprawling trees	2
+15	1	0	3	1	0	3	1	2	0	1	0	2	1	0	2	0	0	3.0	0	7	The concert was wonderful; however, my friends got lost in the crowd.	2
+15	0	0	0	1	1	4	1	3	0	3	0	0	1	1	1	2	0	4.0	1	6	The company relied on its experienced employees to manage the crisis and mitigate the damage	2
+22	1	1	2	2	1	4	2	1	1	4	0	1	1	2	1	2	0	5.0	2	9	Beth was thrilled with her new kitchen appliances, and even managed to cook dinner without burning herself on the stove.	2
+25	1	0	3	3	1	5	0	4	0	1	0	2	5	0	1	0	0	3.0	0	16	The park was located on the southern coast, near the crystal-clear waters, and was only accessible through the narrow dirt road	2
+21	2	0	0	2	2	4	3	2	0	3	0	1	2	2	3	2	0	6.0	2	12	They soon found a small seaside café that served some of best fish and chips either of them had ever tasted	2
+17	2	0	2	2	0	1	3	1	0	2	0	1	2	1	2	1	0	3.0	1	9	She was eager to learn something new, so she immediately signed up for another course.	2
+36	5	2	4	2	0	7	2	5	0	6	0	2	1	3	5	1	1	5.0	4	17	As the days went by, the detective became increasingly irritated whenever anyone asked if the killer would ever be caught—eventually, he started taking bets on the time frame of the arrest.	2
+25	1	0	1	4	0	5	3	3	0	3	0	2	2	2	2	1	0	6.0	2	9	The company was established shortly after the great financial crisis in an effort to make amends for what they had caused to their investors.	2
+33	5	3	3	2	1	4	5	2	0	5	0	2	1	3	5	1	1	4.0	4	15	As soon as they arrived at the beach, they understood that they had left their towels at home, and the heat was so intense that they almost immediately started sweating.	2
+19	1	1	2	2	0	4	3	0	0	4	0	1	0	2	3	1	1	5.0	3	5	As she listened, he explained in details how his research could have IMPLICATIONS for years to come.	2
+22	2	0	3	2	0	7	1	2	0	3	0	0	1	2	2	1	0	5.0	2	13	The park workers diligently tended to flowers, pruning dead branches, after which the forest floor's lushness improved dramatically. 	2
+15	3	0	1	0	1	2	2	2	0	3	0	0	0	1	1	3	0	5.0	1	4	The manager thoroughly explained how to use it and answered all our queries thoughtfully.	2
+20	0	1	2	1	1	5	1	2	1	3	0	1	2	1	2	2	0	4.0	1	7	Jane was grateful because the restaurant staff remembered their anniversary and sang happy-birthday with a personalized cake.	2
+12	2	0	2	0	1	2	1	1	0	2	0	0	1	1	1	1	0	3.0	1	5	They walked slowly and deliberately, savoring the cool evening air.	2
+18	3	0	2	1	1	2	2	2	0	2	0	2	1	2	2	1	0	4.0	2	7	The children were extremely fascinated by the tiny ant, which was slowly and carefully transporting something.	2
+20	0	0	2	3	1	7	0	1	0	2	0	0	4	0	1	1	1	4.0	1	10	Amid a world struggling with unimaginable crisis, human resilience and creativity kept alive hopes of eventual vaccine access.	2
+23	2	0	1	2	2	6	1	4	0	2	0	0	3	1	2	1	0	4.0	1	8	The car had a new engine and interior when it emerged from the body shop as bright and shiny as any vehicle.	2
+28	1	0	3	1	1	5	3	2	1	6	0	2	1	4	4	2	0	5.0	4	13	Melinda loved to cook dinner, but whenever her mother visited, she was embarrassed to use the same pot she had received as a wedding present.	2
+20	2	1	3	0	1	2	1	2	0	5	0	1	2	2	2	1	0	3.0	2	8	The little girl was immediately enchanted, captivated, and mesmerized once she saw the tiny mouse scurry inside.	2
+30	3	4	1	0	1	4	6	1	0	7	0	0	2	5	6	3	0	5.0	5	19	She realized they needed help as their frantic calls became too much for her to handle alone, but they refused assistance until she demonstrated the urgency by nearly collapsing	2
+18	2	1	1	3	0	4	1	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat curled up contentedly as she listened to the rain beat gently against the window pane.	2
+20	0	1	2	2	0	3	2	2	0	2	1	1	3	0	2	0	1	4.0	1	10	Although our long-term goals may diverge from one another's in some subtle ways they remain complementary. 	2
+24	1	1	2	1	1	3	4	1	0	3	0	2	4	3	2	2	0	5.0	3	11	They were reluctant about leaving their new home, but eventually they were eager to start exploring the world beyond their small town.	2
+20	0	0	1	1	1	7	4	0	0	1	0	1	1	1	1	1	0	6.0	1	5	They were able to purchase their dream home thanks to her mother's expertise and his father's diligence.	2
+16	1	0	1	3	1	2	1	2	0	2	0	1	2	1	1	0	0	6.0	1	3	The baby was sound asleep and totally oblivious to the chaos going on around her.	2
+29	1	1	2	2	1	9	1	4	0	4	0	1	2	2	2	2	0	5.0	2	14	The team was inspired to push the project forward with new-found confidence and determination after the CEO announced their victory in a high-profile industry competition	2
+13	0	0	1	2	0	4	1	2	0	0	0	1	2	0	1	0	0	3.0	0	4	The team leader was pleased with our progress despite the rainy weather.	2
+23	1	0	1	2	1	3	3	2	1	4	0	1	3	2	3	1	0	4.0	2	14	Lisa was thrilled to find the new restaurant on her favorite dating app and then they discovered they lived near each other.	2
+24	2	2	2	1	1	2	2	1	1	3	0	3	3	2	2	1	1	5.0	3	6	After being left at the altar, Sarah discovered that she was actually happy and now was excited to start her new life.	2
+22	3	0	2	1	1	5	2	2	0	3	0	1	1	1	3	1	0	3.0	1	14	Their grandmother’s cooking had transported them back to a time when the world moved slowly, and problems seemed simpler.	2
+19	3	1	2	0	0	4	0	3	0	2	0	0	4	1	2	1	0	5.0	1	6	The park ranger carefully watched as the small child tentatively approached the large bear, fearful yet curious.	2
+25	2	1	1	3	0	3	2	2	2	4	0	2	2	3	3	0	0	4.0	3	11	Lila couldn't stop thinking about the delicious dinner they just shared as she was walking home from work on a warm Friday evening.	2
+15	2	0	1	2	0	3	1	3	0	1	0	0	2	0	1	1	0	4.0	0	6	A friend introduced me recently to a great restaurant with the most incredible decor!	2
+24	3	0	2	1	2	5	3	2	0	3	0	2	1	1	2	1	0	5.0	1	7	They had waited patiently for this moment--the moment when they would become husband and wife and start their new life together.	2
+29	1	0	2	2	1	4	4	2	0	7	0	3	0	5	2	3	0	4.0	5	15	Their friends had been trying to convince them to sell the cars for years, but they were too attached to the vehicles to consider letting them go.	2
+23	0	1	2	4	0	5	2	4	0	3	0	2	0	2	2	1	0	6.0	2	4	The cat was curled up on the lap of her owner, who was reading a book while traveling on a plane.	2
+31	1	2	2	2	3	6	2	3	0	5	0	2	3	3	2	2	0	6.0	3	17	She was excited about finally getting a dog and knew they would bring much joy and comfort, but felt uneasy about the responsibilities of caring for a living creature.	2
+17	2	0	2	2	1	3	2	2	0	2	0	0	1	0	2	1	0	3.0	0	10	She carefully prepared the vegetables for the roast dinner, and they turned out absolutely delicious.	2
+25	1	2	2	3	0	7	1	4	0	4	0	0	1	2	3	1	0	5.0	2	11	The snow fell silently, blanketing all in its path until trees stood like white giants against the fading blue until the sun set. 	3
+26	1	2	1	4	1	7	2	4	0	4	0	0	0	2	4	1	0	4.0	2	16	The cat lurked among the branches until it darted out with lightning speed, and the mouse frantically scurried until it found safety in the darkne	3
+20	2	1	2	0	0	4	1	3	0	3	0	0	3	2	2	2	0	4.0	2	10	The giant octopus emerged slowly, clutching the small boat until it nearly touched the sea's smooth surface.	3
+28	1	2	2	5	0	7	2	4	0	4	0	0	1	3	3	1	0	5.0	3	8	The monkey swung from tree to tree, holding onto the branch until the strong wind blew him across until he landed on the jungle floor below.	3
+20	2	1	1	1	1	2	3	1	1	4	0	2	0	2	3	1	0	4.0	2	7	The cat purred contentedly until Sarah noticed her and realized she was about to be knocked off her lap.	3
+20	0	0	2	4	0	5	2	3	0	2	0	0	2	1	2	0	0	4.0	1	9	The old man strolled through the village until, his hunched shoulders drooping beneath the burden of his age.	3
+25	3	0	2	4	1	6	2	4	0	3	0	0	0	2	2	0	0	5.0	2	9	The cat pounced on the bird when it swooped too close to its perch, and the sound of feathers scattered underneath the bush.	3
+21	1	1	1	1	2	3	5	1	0	4	0	1	1	1	3	3	0	4.0	1	14	I turned the corner and ran into until she hugged my mom and I could see her bright smile again.	3
+42	0	2	4	3	1	8	4	3	3	8	0	0	4	5	3	5	2	6.0	7	12	As Rachel scrolled down her feed, each new post highlighting friends' adventures caused her excitement to spike until Lily shared a snapshot of Ben hugging their baby in the park, leaving her feeling emotional and teary-eyed.	3
+28	0	2	1	2	1	8	5	2	0	3	0	2	1	3	2	3	0	8.0	3	20	I'm eager to read your responses to the survey and feedback from your colleagues concerning the quality improvement plan so that we can assess its progress.	3
+24	0	1	2	2	0	6	4	4	0	2	0	1	1	1	3	2	1	6.0	2	14	Until I saw it, I had no idea the man on the other side of the room was my mother's ex-husband.	3
+33	2	1	3	5	1	7	2	3	0	3	1	1	4	1	2	2	0	4.0	1	21	I have seen so many ghosts throughout my adventures, often appearing in haunted mansions, but that one in the old inn left a lasting impact until the end of time. 	3
+31	3	2	2	2	2	4	3	4	0	7	0	1	0	3	4	1	1	6.0	4	5	As the storm raged outside, I suddenly realized the tree was crashing through the roof and threatened to trap me until I hastily crawled to the door and escaped.	3
+22	2	2	2	1	1	5	0	4	0	4	0	0	0	2	3	0	1	5.0	3	8	As the train approached, the landscape outside the window seemed to rush closer until the trees and buildings almost touched.	3
+33	2	1	3	3	2	5	4	3	1	5	0	1	1	3	5	0	0	4.0	3	13	Her friend suggested they go to the beach, but Sarah was not in the mood until her brother agreed to come along, and they set off early the next morning.	3
+22	2	1	1	3	1	4	2	3	1	3	0	0	0	1	2	1	0	4.0	1	10	Sally's words hung in the air like a challenge until she finally turned her back and left without another word.	3
+27	1	2	2	2	0	3	6	2	1	5	0	1	2	5	4	2	0	6.0	5	14	She screamed when it bit her until she felt sick to her stomach; the thought of being alone until the day she died terrified Sarah. 	3
+25	1	1	2	1	1	8	2	5	0	4	0	0	0	1	2	3	1	4.0	2	9	The moment I opened the package, a chocolate aroma filled the air and immediately made my stomach growl before reaching for the bag.	3
+32	1	1	3	6	1	6	2	3	0	6	0	0	2	2	4	1	2	5.0	4	13	As I reached up to grab the last bag of groceries, suddenly the dog burst out of the adjacent alley, rushing toward me with ears perked and tongue wagging.	3
+24	2	0	3	3	1	5	1	2	0	2	0	0	5	0	1	1	1	4.0	1	16	Running swiftly across the vast, open fields and over rugged terrain, the determined cheetah pursued its prey breathlessly with unwavering focus.	3
+25	1	5	1	1	0	2	6	1	0	4	0	2	1	4	3	2	0	6.0	4	8	She hesitated before answering him because although he had threatened her before she knew better than to be afraid of his lies this time.	3
+48	0	1	1	9	3	12	4	5	0	7	1	0	3	4	3	3	0	8.0	4	13	I sank to the depths of sadness and desperation until one day a voice called from the distant reaches of my soul and urged me to face reality until I decided to give up on love and seek solace in the vast emptiness of a new land.	3
+22	1	1	2	1	0	4	5	1	1	4	0	0	1	3	3	3	0	6.0	3	6	The teacher asked John why he ___ not done his homework until she saw his empty notebook lying on his desk.	3
+29	5	1	1	4	1	5	1	4	0	4	0	2	1	2	3	0	0	5.0	2	13	The cat appeared from where it had been hiding just in time until the bus drove past and then leaped across until the other side of the street.	3
+33	1	3	3	3	0	5	5	2	0	5	0	3	2	4	3	2	1	7.0	5	9	If I were you, I would start by practicing with these sentences, gradually increasing the number of subordinating conjunctions until you are confident in your ability to generate complex sentences.	3
+35	3	2	2	2	1	5	4	3	0	6	0	3	3	2	4	2	2	5.0	4	17	As soon as it began to get dark, I realized how lost I was and the only way I could navigate the unfamiliar woods was by using trees as a landmark until daylight.	3
+24	3	3	2	1	1	4	1	2	2	4	0	1	0	1	3	2	1	4.0	2	7	As quickly as she walked in, Maria took a seat without making eye contact and before Sarah could apologize for the mess. 	3
+27	1	2	3	3	1	7	1	4	0	4	0	0	1	2	3	2	1	5.0	3	11	As the sun set over the horizon, I watched the sky transform into shades of orange and pink, until darkness finally enveloped the landscape.	3
+38	1	2	3	3	1	6	7	0	0	9	1	1	2	7	4	2	0	9.0	7	10	Four days later I awoke feeling strange after eating something that tasted like pine needles, smelling like mold, and finding myself standing over my mother's dead body until I realized I was not dreaming.	3
+18	0	2	1	1	1	3	3	2	0	4	0	0	1	2	3	1	0	5.0	2	6	The dog chased until he caught its red tail before he ran and hiding behind the shed.	3
+20	0	1	3	1	1	4	0	3	1	3	0	1	2	1	3	1	0	4.0	1	6	Beneath the branches, birds were chirping, and a gentle breeze rustled until Nora heard a faint howl.	3
+42	2	1	3	2	2	8	4	5	1	7	0	2	3	4	4	4	0	8.0	4	23	The ball rolled toward the basket and since Jack was the one who had practiced free throws the most during lunchtime last week, he knew exactly what to do and quickly shot it to score a game-winning goal.	3
+25	1	2	0	2	0	7	2	3	0	4	0	2	2	3	3	1	0	6.0	3	10	The new project manager announced that we could begin implementing the changes until such time as they were thoroughly tested by the quality control team	3
+19	0	1	1	3	0	5	3	2	0	2	0	1	1	1	2	1	0	4.0	1	7	My mother whispered a joke to me until such time as we were expected at the dinner party. 	3
+24	1	2	3	2	0	5	1	3	0	6	0	0	0	2	1	2	2	5.0	4	12	Sprinting down the alleway, swerving past startled pedestrians, I narrowly missed the corner before turning until reaching the park's entrance.	3
+35	1	1	1	8	1	6	4	4	0	6	0	1	1	2	3	1	2	5.0	4	14	Until you finally decide to throw in the towel and give up on her, she may keep teasing like a cat until the end of time with a wicked grin plastered on her face	3
+22	4	1	1	1	1	3	4	1	0	5	0	1	0	3	3	1	0	4.0	3	7	The cat was sleeping soundly when it suddenly woke and walked to its food bowl, meowing loudly until I fed it	3
+28	0	1	1	3	1	8	3	5	0	3	0	1	0	2	2	2	0	7.0	2	7	Beyond his eyes was a glow and with each movement the light shuddered as he raised an arm to shield his face from the sun's glare. 	3
+34	2	2	2	5	2	6	4	4	0	7	0	0	0	4	3	2	0	7.0	4	9	I walked slowly to the end of the pier and looked out until I saw the seagull swooping around the sunbather, squawking until he sat up and shook water from his hair.	3
+30	1	3	1	0	0	5	6	2	0	4	1	3	3	5	5	3	0	5.0	5	19	I am eager to see how it handles the challenge because once my daughter masters these skills she will be one confident young woman until she changes her mind. 	3
+25	3	0	3	0	3	2	3	1	0	5	0	1	3	3	3	1	0	6.0	3	8	I realized they were not just any pears but ancient, rare, and possibly cursed when they began making demands and growing sentient.	3
+26	2	2	1	3	0	5	4	3	0	4	0	1	0	4	4	0	0	5.0	4	10	She slowly walked to the edge of the cliff until the wind began to whisper in her ear, whereupon she knew that it was time	3
+20	2	3	2	0	1	0	3	0	1	2	0	3	3	2	3	1	1	3.0	3	6	Until I met Jack, I never knew that someone could be so confident and charismatic without being pretentious.	3
+16	0	1	1	2	0	5	3	2	0	2	0	0	0	1	2	1	0	3.0	1	7	My eyes followed his neck until it disappeared into the shadows beyond the flickering torches.	3
+15	2	0	1	2	0	2	3	2	0	3	0	0	0	2	2	1	0	5.0	2	4	Majority voted for it thus passed into the law which now binds us all.	3
+36	1	2	4	2	1	6	5	4	0	8	0	0	1	7	4	3	0	8.0	7	13	The storm raged outside my window, making it impossible for me to focus, until the rain subsided, giving me the peace and quiet I needed to continue working late into the night.	3
+26	2	2	3	1	2	6	2	2	0	6	0	0	0	2	3	3	0	5.0	2	7	The dog chased until it lost breath and fell, until its owner pulled back and shouted stop, then picked up the limp creature.	3
+24	1	1	2	3	0	4	5	2	0	5	0	0	0	4	3	1	0	7.0	4	7	Her eyes locked onto mine, pulling me deeper into a night that threatened to become a maze of uncertainty until he arrived.	3
+28	2	2	2	0	1	4	2	4	1	6	0	2	0	3	3	4	1	6.0	4	8	Until she realized the implications, Mary couldn't stop watching the footage and trying to understand the significance until she could no longer ignore the questions. 	3
+24	3	1	0	2	3	5	1	3	0	5	0	0	0	2	2	2	0	5.0	2	8	The dog began to wag its tail with excitement and jumped up and down until finally the mailman gave in and gave the treat	3
+23	0	2	0	2	1	4	3	4	0	5	0	2	0	3	5	0	0	6.0	3	6	It is raining and the car is stolen although the GPS shows that it drove into a river at the moment I arrive	4
+32	0	2	3	3	0	6	6	3	0	5	0	3	1	5	5	2	0	5.0	5	21	The man stomped towards the car, cursing as he realized he had left his parrot in the garage, as he was certain it would embarrass him at work tomorrow.	4
+27	4	2	3	1	0	4	4	2	0	5	0	1	0	1	4	1	3	4.0	4	12	When the elevator begins to rise, as it does so gradually, I suddenly remembered that I had left my parrot in the downstairs lobby.	4
+22	3	1	1	1	0	4	3	2	0	4	0	0	2	1	3	3	2	3.0	3	11	Whenever anyone enters the dark forest at midnight to pick mushrooms they always hear the strange sound before they disappear forever.	4
+29	2	2	2	3	1	5	3	4	0	4	0	2	1	2	3	1	1	3.0	3	9	When the elevator is going from the bottom floor to the top, exclaim that you lost your tarantula but confirm that it is somewhere in the elevator. 	4
+36	3	2	3	2	0	5	6	3	0	7	0	2	3	6	4	3	0	7.0	6	13	I wish I had my favorite book, where I can immerse myself in a thrilling mystery while hiding from the monsoon rain pouring outside, as the stormy weather has left me trapped inside.	4
+52	2	4	3	9	2	10	4	6	0	5	0	4	2	4	4	0	0	7.0	4	24	The man was arrested for driving under the influence after driving recklessly down the highway, but as he was being taken away in handcuffs, he claimed that he was not in control of his vehicle due to the presence of a large and mischievous elf hiding in the backseat.	4
+34	4	2	3	2	0	7	1	6	1	4	0	2	2	3	3	4	0	4.0	3	16	Maria will cook the fish only when the water reaches the appropriate temperature, after she has carefully seasoned the fish with a proprietary blend of herbs, while simultaneously playing the violin.	4
+44	6	3	4	4	0	6	4	5	0	6	0	4	1	5	4	1	0	9.0	5	10	The elephant majestically strolled into the circus, as though it had been performing there forever, despite the fact that it had only just walked in the door, carrying a tiny acrobat who was excitedly attempting to climb onto its back.	4
+32	0	1	2	2	0	8	3	3	0	5	0	0	2	2	3	2	2	7.0	4	12	As you continue to study, you begin to notice the subtle nuances that distinguish the different varieties of trees / plants / fungi in the forest / jungle / desert.	4
+35	3	0	3	4	0	6	5	4	0	4	0	4	2	1	3	2	0	4.0	1	17	Upon the discovery of the lost city deep within the jungle, it suddenly dawned on the adventurer that his map must have been drawing incorrect conclusions, hence it was leading him astray.	4
+22	2	2	0	1	1	5	0	4	0	2	0	1	3	1	2	1	0	3.0	1	16	The cat's whiskers glistened ominously under the dim light as if sensing an impending storm but the dog was unfazed nonetheless	4
+31	3	2	2	2	0	10	1	5	0	3	0	0	0	2	3	1	0	4.0	2	17	The ice skater whizzed through the spin as soon as she grasped the toe loop, until the music finally ended with a crash / thud / tumble / splat.	4
+34	2	1	3	4	1	7	2	5	0	5	0	2	1	3	2	2	1	5.0	4	11	Whenever you hear the bell ring in the distance, remember that a train is passing by, so it is important to keep an eye out for any fallen debris or wildlife.	4
+26	0	2	2	1	0	6	3	4	0	4	0	1	2	3	3	2	1	5.0	4	8	While enjoying my favorite dessert this evening, I heard someone mention that tomorrow is the last day to enter the contest before the deadline. 	4
+37	4	2	2	3	1	9	3	4	0	4	0	1	4	2	3	2	1	4.0	3	13	While walking to work yesterday I saw an unexpectedly enormous bird eating a tiny mouse, but I soon realized that its long tail was actually just a giant piece of spinach from the smoothie shop.	4
+25	5	2	2	2	1	4	1	2	0	3	1	1	1	1	2	0	1	4.0	2	16	When you are driving down the road at 90 miles and hour, as quickly as possible, suddenly realize that the brakes went out	4
+51	4	3	1	2	1	7	5	5	3	10	0	2	3	6	5	2	0	11.0	6	9	Ms. Johnson was amazed to find that her grandmother could solve the mystery of the missing cookie jar as soon as she entered the house with the confident smile and the fluent English that her grandma used to speak before she suddenly lost / disappeared / relocated / passed away.	4
+32	0	4	3	1	1	4	4	3	1	5	0	4	0	3	5	1	1	6.0	4	7	Because he hadn't studied for the test, Mary was worried that he would not pass, until she realized that she had misplaced the study guide and the notes.	4
+35	3	1	1	3	1	10	2	3	0	5	1	2	0	2	3	1	0	5.0	2	15	The bakery owner was surprised when the delivery truck arrived with exactly three boxes of freshly baked croissants but discovered that all of them were missing their tops / bottoms / sides / handles.	4
+24	2	0	0	1	0	5	3	4	1	6	1	0	0	3	3	3	2	7.0	5	12	Every time I see a picture of a cat riding a skateboard I start to cry remembering when I lost Max two years ago	4
+36	2	4	1	5	0	6	5	4	0	6	0	2	0	4	4	2	1	5.0	5	12	As soon as I found the forgotten parcel beneath the seat, I realized that the contents might be of interest to the passenger beside me before asking to hold it for safekeeping until we landed	4
+24	3	3	3	0	0	4	1	4	0	5	0	1	0	4	4	1	0	5.0	4	8	When the penguin swam away, as the seagulls screeched, exclaiming that it would lead the pod astray, until the divers arrive	4
+30	2	1	4	4	0	7	4	2	0	4	0	0	2	1	2	0	1	4.0	2	16	As I stare intently into my crystal ball, the vision of my long-lost teddy bear appears, hovering ominously above the depths of my childhood nightmares.	4
+26	2	1	3	3	0	4	4	3	0	3	0	1	2	1	3	1	1	4.0	2	14	As soon as we get to the hotel, after the long flight, I realize I've forgotten my favorite umbrella in the suitcase.	4
+40	4	3	4	3	0	5	7	2	0	5	0	3	4	4	4	3	0	5.0	4	16	The tiger was majestically pacing towards its next victim, as soon as it could reach it, until it found itself atop a tall tree, exclaiming with great joy that it had finally achieved its next meal.	4
+31	4	0	1	3	0	6	3	4	0	6	0	0	3	2	4	0	3	4.0	5	13	When I go hiking on the tallest mountain, whenever the weather changes I always look for the trail that winds through the dense pine tree forest to get there faster	4
+30	4	2	3	2	1	2	4	1	0	7	0	2	0	4	3	1	2	6.0	6	8	When it rains, unless you're already inside, exclaim to your friend that you forgot to take the trash out and dash inside to escape being soaked.	4
+27	4	1	2	3	1	6	2	3	0	4	0	0	0	2	4	0	0	4.0	2	12	The baby's crying subsides as soon as the mobile comes into sight, but it picks back up when the bird lands on its head.	4
+26	4	2	2	1	0	4	3	3	0	3	0	2	1	0	3	2	2	4.0	2	12	If the storm doesn't pass soon, as soon as it hits the ground it will wipe away any signs of our hidden base.	4
+35	3	0	5	4	2	5	7	1	0	4	0	1	3	0	3	2	1	6.0	1	11	Whenever I am in class, my best friend naps under the table, but occasionally she suddenly wakes up, scribbles something illegible on her notebook, and declares it her latest masterpiece.	4
+29	3	4	4	1	1	2	5	1	0	6	0	2	0	3	5	0	1	5.0	4	7	As he went upstairs, the firework exploded outside, but before he could shout that he was hit, exclaiming loudly that someone ran over his cat.	4
+23	1	1	1	2	0	5	2	2	0	5	0	1	0	3	2	1	0	6.0	3	6	The company's profits have plummeted since they failed to adapt their business model to keep up with the rapidly changing market.	4
+33	1	1	3	3	0	6	5	3	0	4	0	0	7	2	3	3	1	5.0	3	9	While wandering the woodsy trails, you suddenly discovered hidden in a hollow log a peculiar small winged creature, which upon your closest observation, it flapped its eyelids with exceptional excitement	4
+39	1	3	3	4	1	6	7	3	1	7	0	1	0	4	5	2	1	6.0	5	14	As the plane soars over the ocean, I realize that I left my camera on the flight attendant's desk, and wonder if she will remember to return it to me when we land in Tokyo.	4
+30	2	2	2	0	1	4	3	2	1	8	0	2	1	6	6	0	1	6.0	7	9	When Sarah walked outside, the clouds seemed to darken as though they knew her arrival signaled a storm was brewing and its raindrops were anxious to begin falling.	4
+26	2	2	2	3	0	6	2	3	0	2	0	1	3	1	2	1	1	4.0	2	12	While enjoying a cold glass of white wine at the seaside, I exclaimed loudly that my pet tarantula was somewhere within the crumbling piers.	4
+42	3	2	3	5	3	8	3	3	0	6	0	3	2	2	4	1	2	7.0	4	17	After the storm, just as we were about to go to work, we woke up and found that the river had flooded through our village causing incalculable damage to property and crops but luckily no human life was lost.	4
+29	1	1	2	5	1	7	2	5	0	4	0	0	1	0	3	0	2	3.0	2	17	As I walk through the forest at night, when the moon hides behind the leaves, my shadow transforms into a mythical creature and disappears into the fog	4
+32	3	1	4	3	1	4	3	3	0	3	0	3	2	2	2	0	1	5.0	3	9	When the cheetah is racing towards its prey, simultaneously, it is necessary to remember that it can run faster than a man, but not longer than a gazelle.	4
+68	7	4	6	5	2	6	11	3	0	14	0	4	2	11	9	4	1	10.0	12	25	When I saw the cat, at first, I had to ask myself where did this fluffy bundle of joy come from, but once I was done pondering its strange reemergence, I knew I had to take care of it, even if it was just temporarily as I tried to determine whether it was lost or just looking for a place to rest.	4
+29	1	4	2	2	0	6	0	5	0	4	0	2	3	3	3	1	0	5.0	3	9	The librarian assured the young scholar that a thorough search was conducted, although the volumes on the shelves were arranged in complete disarray as if thrown haphazardly.	4
+24	5	1	4	1	0	2	2	0	1	3	2	1	0	0	3	1	2	6.0	2	17	"As soon as Sarah realized she had accidentally bought two concert tickets instead of one, she quickly exclaimed, ""Oh no! Where did I even put that extra ticket?!"""	4
+42	7	1	3	3	1	7	5	5	0	6	0	3	0	2	5	1	3	5.0	5	18	When the cat is sleeping next to the radiator, as soon as the fire starts crackling in the hearth, suddenly realize you cannot find your winter coat but you know it was near you just a moment ago.	4
+47	4	1	9	3	2	12	5	3	0	5	0	0	2	3	3	3	0	6.0	3	29	The baby's laughter fills the room, sub ordinately as she chases after her toy car, exclaiming 'car, car, fast as lightning', yet her little feet move sluggishly, revealing the discrepancy between her imagination and her actual capabilities.	4
+21	2	0	3	1	0	3	3	2	1	3	0	1	0	0	2	2	2	4.0	2	13	When her boss called to remind her about the presentation this afternoon, Sally couldn't remember where she ______________. 	4
+27	3	1	2	2	1	4	4	1	1	4	0	2	2	1	3	1	1	4.0	2	9	When her boss complimented Maria on her excellent work performance, she smiled quietly and wondered whether she would be eligible for that coveted promotion soon.	4
+34	1	2	3	1	1	3	7	1	0	8	0	3	1	5	4	3	2	6.0	7	9	Upon realizing I was in the wrong meeting, I rushed to exit but discovered I couldn't locate my wallet, leading me to exclaim aloud that I had lost my passport.	4
+31	3	2	2	5	0	6	2	5	0	3	0	2	1	2	3	1	1	3.0	3	12	When the elevator was moving at breakneck speeds towards the ground, suddenly it felt like being in the belly of an asteroid as the gravity pulled me down unrelentingly. 	4
+37	5	2	4	3	1	4	5	3	0	6	0	2	0	5	5	1	0	5.0	5	31	The monkey looked at the pile of bananas, thinking that maybe he had left it somewhere in the zoo, but as soon as he realized it was not there, he began to cry.	4

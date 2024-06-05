@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+13	0	1	0	1	0	2	4	0	2	0	2	0	1	2.0	5	0	0	1	2	0	In any event, my presentation should give you a starting point.	2
+8	0	1	0	0	0	0	1	0	0	0	2	1	2	2.0	4	1	1	1	0	0	- Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+22	2	3	0	1	0	4	6	1	0	0	1	0	2	4.0	6	1	1	1	2	0	The task is not provided enough context to generate a sentence with a tree height of 2 in the syntactic tree.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+8	0	1	0	0	0	0	1	0	0	0	2	1	2	2.0	4	1	1	1	0	0	- Over priced for students to learn!	2
+13	0	1	0	1	0	2	4	0	2	0	2	0	1	2.0	5	0	0	1	2	0	In any event, my presentation should give you a starting point.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+22	0	2	1	2	0	4	4	0	1	0	2	0	5	3.0	19	0	0	1	0	0	There is no tree with the requested height in the given context, so the resulting sentence cannot be generated.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+15	1	3	0	2	0	3	4	1	0	0	1	0	0	4.0	12	0	0	1	0	0	The sentence with a tree height of 2 in the syntactic tree would be: In any event, my presentation should give you a starting point.	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+26	1	3	0	2	0	5	7	1	1	0	1	1	2	3.0	18	1	1	2	2	0	None.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+32	1	5	0	2	0	6	9	1	2	0	5	0	1	3.0	13	0	0	2	2	0	"The solution to the task is ""In any event, my presentation should give you a starting point,"" with a tree height of 2 in the syntactic tree."	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+6	0	1	0	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	0	0	0	Not provided in the context.	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I won't hire them.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+3	0	0	0	0	0	0	0	0	0	1	2	0	0	0.0	0	0	0	0	0	0	- Arrv.	2
+6	0	0	0	1	0	0	0	0	2	0	1	0	1	1.0	3	0	0	1	1	0	I will not hire them.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+24	0	2	1	2	0	3	4	1	1	0	3	0	4	4.0	12	0	0	2	1	0	Not provided in the instructions, the tree height of 2 is not specified, so I cannot generate the requested sentence.	2
+3	0	0	0	0	0	0	0	0	0	1	2	0	0	0.0	0	0	0	0	0	0	- Arrv.	2
+29	1	2	1	2	0	5	6	1	1	0	2	1	5	6.0	19	1	1	2	3	0	The provided context does not have any information related to generating a sentence with a tree height of 2, so I cannot generate the requested sentence.	2
+7	0	0	1	0	0	0	1	0	0	0	1	1	2	2.0	4	1	1	1	0	0	Over priced for students to learn!	2
+33	2	5	0	2	0	7	8	1	1	0	2	1	2	6.0	19	2	2	2	2	0	I am unable to generate a sentence with a tree height of 3 in the syntactic tree, as the context does not provide any information about a tree with that height.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+18	2	3	0	1	0	3	4	1	1	0	1	0	1	4.0	6	1	1	1	1	0	I am unable to generate a sentence with a tree height of 3 in the syntactic tree.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+33	0	4	1	2	1	8	9	0	1	0	3	0	3	5.0	22	1	1	2	1	0	No details were given in the context about the subject, the task or the purpose of the tree height, so I cannot create a sentence based on the context.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+11	1	0	1	1	0	1	2	0	2	0	1	0	1	3.0	4	1	1	0	1	0	This year it is very easy to make your contribution.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+22	2	3	0	1	0	3	5	1	1	0	1	0	3	5.0	15	2	2	0	1	0	It is not possible to generate a sentence with tree height 3 in the syntactic tree based on the given instruction.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+24	1	3	0	1	0	4	6	1	1	0	2	0	4	6.0	7	2	2	1	2	0	No information is given about the tree height, making it impossible to generate a sentence with the required tree height of 3.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+12	1	0	1	1	0	2	2	0	2	0	1	0	2	3.0	6	1	0	2	1	1	No matter when you buy you will get a newer version.	3
+17	1	3	0	1	0	3	4	1	1	0	1	0	1	3.0	6	0	0	1	1	0	None.	4
+26	2	3	0	2	0	5	6	1	1	0	1	1	2	3.0	18	1	1	2	2	0	None.	4
+30	1	3	0	2	0	5	6	1	2	0	2	2	4	5.0	9	2	2	2	3	0	I did not receive the requested instruction, as it did not give a task for generating a sentence with a tree height of 4 in the syntactic tree.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+28	1	4	0	2	0	5	8	1	1	0	1	1	2	4.0	18	1	1	2	2	0	None.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+17	1	1	0	3	1	4	4	0	0	1	1	0	1	4.0	5	1	1	2	0	0	A second aspect is the parts or hours of the day the Paralympics will be shown.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	0	4	0	2	0	6	8	2	2	0	2	1	4	5.0	20	2	2	3	3	0	None.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+23	0	0	1	2	0	3	4	0	1	0	2	1	6	4.0	13	3	3	2	3	0	The context does not provide information to help generate the requested sentence, thus I cannot create the sentence as requested.	4
+33	1	5	0	2	0	7	8	1	1	0	2	1	3	6.0	19	2	2	2	2	0	I am unable to generate a sentence with a tree height of 4 in the given context, as the context does not provide any information about the height of a tree.	4
+33	2	5	0	2	0	6	9	1	1	0	2	1	2	4.0	19	1	1	2	2	0	None.	4
+27	3	4	4	2	0	1	4	0	2	1	6	0	0	3.0	18	1	1	2	0	0	I am unsure of myself in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+17	1	3	0	1	0	3	4	1	1	0	1	0	1	3.0	6	0	0	1	1	0	None.	4
+27	1	3	0	2	0	5	7	1	1	0	2	1	2	3.0	19	1	1	2	2	0	None.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+48	3	5	2	2	1	6	14	1	4	0	4	0	5	8.0	18	3	3	4	4	0	I could not find a sentence that fits the criteria and task description in the context; however, I would generate a response with a tree height of 4 that emphasizes the negative impact of data security breaches when dealing with unreliable third-party databases.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+38	5	4	4	2	0	2	5	0	2	2	8	0	2	4.0	23	2	2	2	1	0	I do not feel secure at all to see my SSN (Safe Social Number) in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+19	2	3	0	1	0	3	4	1	1	0	1	0	1	4.0	6	1	1	1	1	0	I am not able to generate a sentence with a tree height of 4 in the syntactic tree.	4
+22	1	2	0	3	0	2	4	1	2	0	1	2	3	5.0	10	2	2	2	2	0	None.	4
+28	0	2	1	2	0	5	6	1	1	0	4	0	4	4.0	19	0	0	2	2	0	The context does not provide any information about a tree, height 4, in the provided task, therefore I cannot generate the requested sentence.	4
+32	1	5	0	2	0	5	7	2	2	0	2	1	3	5.0	20	1	1	2	2	0	None.	4
+23	0	2	0	2	0	4	5	1	2	0	1	1	3	5.0	10	2	2	3	2	0	None.	4
+21	0	1	1	2	0	4	5	0	1	0	2	0	3	3.0	12	0	0	2	2	0	The context does not provide a request for the tree height, therefore I cannot generate the requested sentence.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+35	2	4	0	2	0	6	8	2	2	0	2	1	3	6.0	20	3	3	3	3	0	I am not able to generate a sentence that has a tree height of 4 in the syntactic tree, as the context does not provide any information about the tree height of 4.	4
+18	0	2	0	2	1	3	4	1	0	0	1	0	2	4.0	7	0	0	1	1	0	The tree is not described in the context and cannot have a tree height of 4.	4
+37	0	2	2	2	2	5	8	1	3	0	4	0	5	8.0	28	2	2	2	3	0	The context does not provide any details or information about the tree, its height, or anything else needed to determine a tree height of 4, so I cannot generate the requested sentence.	4
+30	0	4	0	2	0	6	7	1	2	0	2	1	4	5.0	15	2	2	3	2	0	I cannot create a sentence that meets the requirements of the task, as no information is given about the tree height of 4 in the provided instruction.	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	3	4	4	2	0	2	5	0	2	1	6	0	2	4.0	18	2	2	2	1	0	I do not feel secure at all to see my SS in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+33	2	5	0	2	0	6	9	1	1	0	2	1	2	4.0	20	1	1	2	2	0	I can not generate a sentence with a tree height of 4 in the syntactic tree, as the task description does not provide more context about a tree with that height.	4
+18	2	3	0	1	0	3	4	1	1	0	1	0	1	4.0	6	1	1	1	1	0	I am unable to generate a sentence with a tree height of 4 in the syntactic tree.	4
+38	4	4	4	2	0	2	7	0	2	1	8	0	2	4.0	23	2	2	2	1	0	I do not feel secure at all to see my SS (Secure Share Number) in so many databases at Enron, especially when some databases are from third-parties (out-sourcing).	4
+17	1	3	0	1	0	3	4	1	1	0	1	0	1	3.0	6	0	0	1	1	0	None.	4
+17	1	3	0	1	0	3	4	1	1	0	1	0	1	3.0	6	0	0	1	1	0	None.	4
+17	0	2	0	1	0	3	4	1	2	0	1	0	2	5.0	8	1	1	2	2	0	None.	4
+18	2	3	0	1	0	3	4	1	1	0	1	0	1	4.0	6	1	1	1	1	0	I am unable to generate a sentence with a tree height of 4 in the syntactic tree.	4
+35	1	4	2	0	2	3	11	0	0	2	2	0	5	6.0	13	1	1	1	3	0	The program takes a decentralized approach to Warhol's photography collection and encourages university art galleries to regularly disseminate and educate audiences about Warhol's artistic vision, especially in the area of photography.	6
+23	0	2	0	2	0	4	5	1	1	0	2	1	3	5.0	10	1	1	2	2	0	None.	6
+6	0	1	0	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	0	0	0	Not provided in the context.	6
+29	2	4	0	2	0	5	7	1	1	0	2	1	2	4.0	19	1	1	2	2	0	None.	6
+22	0	2	0	2	0	4	5	1	1	0	2	1	2	5.0	9	1	1	2	2	0	I cannot fulfill the instruction, as the task does not provide any information about a tree height of 6.	6
+22	0	1	0	2	0	4	5	0	2	0	2	1	3	4.0	14	2	2	3	2	0	None.	6
+31	1	4	0	2	1	5	7	1	2	0	2	1	3	6.0	10	1	1	2	1	0	The requested sentence is not applicable to the provided task, as it does not mention the tree height of 6 or any information about its relation to the task.	6
+16	0	2	0	1	0	2	3	1	3	0	1	0	2	5.0	5	1	1	2	2	0	None.	6
+18	2	3	0	1	0	3	4	1	1	0	1	0	1	5.0	6	1	1	1	1	0	I am unable to generate the request with the tree height of 6 in the syntactic tree.	6
+32	1	4	0	2	0	7	8	1	2	0	1	1	3	7.0	15	2	2	3	3	0	None.	6
+14	1	1	0	1	1	3	4	0	0	0	1	0	1	4.0	3	0	0	1	1	0	The program does not contain any information or instructions related to this task.	6
+20	0	1	1	2	0	3	3	0	1	0	2	1	4	3.0	9	1	1	2	1	0	The requested information is not provided in the context, so I cannot generate the sentence as requested.	6
+16	1	2	0	1	0	3	4	0	1	0	1	0	2	5.0	6	2	2	1	1	0	I am unable to generate a sentence with the tree height specified in the instructions.	6
+29	1	4	0	2	0	5	7	1	1	0	2	1	3	3.0	21	1	1	2	1	0	None.	6
+25	1	3	0	1	0	4	6	1	2	0	1	1	3	6.0	6	2	2	1	1	0	I am not able to generate the requested sentence as there is no task data about a tree height of 6 in the context.	6
+35	1	4	2	0	2	3	11	0	0	2	2	0	5	6.0	13	1	1	1	3	0	The program takes a decentralized approach to Warhol's photography collection and encourages university art galleries to regularly disseminate and educate audiences about Warhol's artistic vision, especially in the area of photography.	6
+23	1	2	0	2	0	4	5	1	1	0	1	1	3	6.0	9	2	2	2	2	0	I am unable to generate the requested sentence as the context does not provide any information about a tree height of 6.	6
+24	2	1	0	1	1	5	6	0	1	0	2	0	4	5.0	12	3	3	2	2	0	The program lacks a textual context or any information about a tree height, meaning I am unable to generate the requested sentence.	6
+27	2	3	0	2	0	5	6	1	1	0	2	1	2	3.0	19	1	1	2	2	0	None.	6
+21	0	1	1	2	0	3	4	1	1	0	2	0	4	3.0	11	0	0	2	2	0	The provided context does not specify the tree height of 6, so I cannot generate the requested sentence.	6
+32	1	5	0	2	0	7	8	1	1	0	2	1	2	4.0	19	1	1	2	2	0	None.	6
+34	1	6	0	2	0	7	8	2	1	0	2	1	2	6.0	19	1	1	2	2	0	None.	6
+35	1	4	2	0	2	3	11	0	0	2	2	0	5	6.0	13	1	1	1	3	0	The program takes a decentralized approach to Warhol's photography collection and encourages university art galleries to regularly disseminate and educate audiences about Warhol's artistic vision, especially in the area of photography.	6
+32	1	5	0	2	0	6	8	2	1	0	2	1	2	4.0	19	1	1	2	2	0	None.	6
+30	2	3	0	2	1	5	8	1	1	0	2	1	2	6.0	19	2	2	2	2	0	I am unable to generate a sentence with a tree height of 6 in the syntactic tree, as the context does not provide a tree or height requirement.	6
+19	1	1	0	3	0	1	4	0	3	0	1	1	2	5.0	6	3	3	3	2	0	I cannot fulfill the instruction as I am unable to generate sentences that are about tree height.	6
+22	1	4	0	1	0	4	5	1	1	0	1	0	3	3.0	16	2	2	1	1	0	None.	6
+30	2	2	1	2	1	5	7	0	1	0	2	0	5	5.0	16	1	1	2	2	0	The provided context does not provide sufficient information about the syntactic tree or the task description, therefore I cannot generate the requested sentence based on the context.	6
+41	5	3	3	4	2	4	5	0	5	0	3	0	7	6.0	29	3	3	4	3	0	The program will generate the following sentence: Additional printed copies should be available within the next day or so and I will make them available to all of you - just let me know how many copies you need.	6
+32	3	5	0	2	0	6	8	1	1	0	1	1	2	5.0	18	1	1	2	2	0	None.	6
+32	1	3	1	2	0	6	7	1	1	0	2	1	5	5.0	22	1	1	2	3	0	The provided context doesn't give any information about generating a sentence with a tree height of 6 in the syntactic tree, so I cannot generate the requested sentence.	6
+42	5	3	3	4	2	4	5	0	5	0	5	0	6	7.0	19	3	3	4	3	0	The program will generate the sentence, “Additional printed copies should be available within the next day or so and I will make them available to all of you - just let me know how many copies you need.”	6
+27	2	2	0	3	1	4	4	0	3	0	1	1	4	6.0	10	3	3	3	2	0	I am unable to fulfill the instruction as it does not specify what the syntactic tree should look like or the desired meaning of the sentence.	6
+18	1	3	0	1	0	3	4	1	1	0	1	0	2	4.0	6	1	1	1	1	0	I'm unable to generate a sentence with a tree height of 6 in the given context.	6
+28	0	2	1	3	0	5	6	1	1	0	2	0	4	5.0	18	1	1	2	3	0	The program has not been given a context to generate a sentence with a tree height of 6, hence I cannot generate the requested sentence.	6
+27	3	2	0	2	0	4	6	1	2	0	1	1	3	6.0	15	3	3	3	3	0	I am unable to generate a sentence that has a tree height of 6 in the syntactic tree as the context does not provide such information.	6
+16	1	2	0	1	0	2	3	1	2	0	1	0	2	4.0	6	2	2	2	1	0	I am unable to generate the sentence with the tree height of 6 you requested.	6
+19	1	2	0	1	0	3	4	1	2	0	1	0	3	6.0	6	2	2	2	2	0	I'm unable to produce a sentence that has a tree height of 6 in the provided context.	6
+22	1	1	0	2	1	4	5	0	2	0	2	1	1	4.0	9	1	1	2	1	0	I cannot fulfill this task, as it is not a question or a request for a synthetic tree description.	6
+34	1	4	0	2	1	7	8	1	1	0	2	1	3	4.0	19	2	2	2	3	0	None.	6
+26	1	1	0	3	2	4	5	0	2	0	1	1	3	6.0	9	2	2	2	2	0	I'm unable to fulfill the request as it is not a solved example of the task and does not provide any context or instructions.	6
+30	2	4	0	2	0	6	7	1	1	0	2	1	2	3.0	19	1	1	2	2	0	None.	6
+22	1	2	0	2	0	3	5	1	1	0	1	1	3	5.0	9	1	1	2	2	0	None.	6
+24	0	1	0	2	1	3	5	1	2	0	1	1	4	5.0	8	2	2	2	3	0	None.	6
+17	0	3	0	1	0	3	4	1	1	0	1	0	2	3.0	12	0	0	1	1	0	None.	6
+28	4	3	0	2	0	4	7	1	1	0	1	1	2	4.0	19	2	2	2	2	0	I am unable to generate a sentence with a tree height of 6 in the syntactic tree as the task description does not provide additional relevant text.	6
+21	1	1	0	3	1	4	5	0	0	0	1	1	2	5.0	7	2	2	2	1	0	None.	6
+32	1	5	1	2	1	4	8	1	2	0	5	0	2	6.0	11	1	1	3	1	0	The sentence with a tree height of 6 in the requested tree is: 'We now present the kaoshikii dance, which is excellent before and after yoga postures'.	6
+26	1	4	0	2	0	4	5	1	2	0	2	1	2	3.0	18	1	1	2	1	0	None.	6
+15	3	1	0	1	0	3	4	0	0	0	1	0	2	5.0	4	1	1	1	2	0	The program will create a piece of creative content showcasing some alternative artistic expressions.	6
+38	4	1	2	1	1	4	9	0	3	0	2	1	7	8.0	16	5	5	3	3	0	We are still attempting to sort the hospital outpatient group based on their down syndrome ratio, and we need to determine a new target for the nurse to consider when calculating the hospital financial efficiency program.	7
+17	3	1	0	1	1	3	3	0	1	0	1	0	2	5.0	7	1	1	1	2	0	We must address the noise in the hallway to ensure a peaceful and productive clinical setting.	7
+27	1	1	1	2	0	4	7	0	1	1	2	1	4	6.0	10	3	3	2	1	0	We are still trying to work the PPE-DE Group's request that the oral question regarding the capital tax be withdrawn from the agenda.	7
+32	2	4	1	2	0	4	9	0	3	0	2	0	3	6.0	25	1	1	2	1	0	We are unsure as to the question's context regarding the request for its capital tax oral question removal from the agenda, hence we do not generate the requested sentence.	7
+24	3	2	0	0	1	4	6	1	0	0	3	1	3	6.0	6	1	1	1	2	0	The given instruction provides no further context, details, or requirements related to generating a tree with a specific height of 7.	7
+41	4	7	0	2	0	6	11	0	1	1	3	0	4	8.0	22	3	3	1	1	0	We will continue to engage in this arduous debate about the political system surrounding PPE-DE group's funding of candidates, despite the clear lack of a proper discussion topic on this item being presented in the agenda.	7
+25	0	3	0	2	0	4	9	0	1	0	2	0	3	6.0	8	2	2	1	0	0	We shall proceed with the voting process for the PPE-DE Group's request regarding the capital tax being withdrawn from the agenda.	7
+27	0	4	0	3	0	5	6	1	1	0	2	1	3	5.0	19	2	2	2	1	0	We cannot provide the sentence requested in the context, as no information about the tree height of 7 can be found in the context.	7
+29	2	1	2	2	2	4	4	0	2	0	3	0	4	8.0	8	3	3	2	2	0	The prompt is not well-written or clear, and it is not possible to generate a sentence that fully completes the task based on the context.	7
+19	1	1	0	1	0	3	3	0	4	0	1	0	4	6.0	6	3	3	2	2	0	There is no relevant information in the context that would allow me to generate the sentence you requested.	7
+22	0	2	0	1	1	2	5	0	3	2	2	0	2	8.0	7	1	1	1	1	0	In addition, is there someone who could consider the correlation between US CPI and the $/euro exchange rate?	7
+15	2	0	1	1	0	2	3	0	1	0	1	0	3	4.0	5	2	2	1	1	0	We are still struggling to resolve a critical issue regarding the upcoming healthcare policy.	7
+16	1	3	1	1	0	3	4	0	1	0	0	1	1	4.0	5	0	0	1	0	0	The down side was that sometimes there was a lot of noise in the hallway from	7
+29	1	2	2	3	0	4	7	0	1	1	2	1	3	6.0	13	3	3	2	2	0	We are still trying to work the SSE swap transaction, now that the forex desk has been able to find a fix for CPI in the market.	7
+16	1	2	0	1	0	3	4	0	1	0	1	0	3	7.0	3	2	2	1	2	0	We must address the issue surrounding unnecessary noises originating from the hallways of the hospital.	7
+27	2	2	2	1	1	4	6	0	1	2	3	0	3	7.0	10	2	2	1	3	0	We can no longer provide the services of the PPE-DE Group, considering the recent turmoil in the local area affecting infrastructure and safety.	7
+39	3	5	1	0	1	7	9	1	2	0	4	0	6	7.0	15	3	3	2	1	0	The city park seemed peaceful, but there was a large swarm of birds circling around a nearby lake, creating quite a disturbance, which led to a delay of about 1 hour in the scheduled activities.	7
+31	2	2	0	3	1	4	7	0	1	0	2	1	5	8.0	13	4	4	2	2	0	We were unable to derive the requested information from the context, as the context did not provide tree height or relevant information required for the sentence to be generated.	7
+31	2	3	0	1	2	4	8	1	2	0	2	1	4	7.0	10	2	2	1	3	0	We shall continue to monitor the effectiveness of the COVID-19 measures and assess the feasibility of their continuation in the face of changing public sentiment and economic indicators.	7
+21	2	3	1	1	0	3	6	0	1	0	1	1	1	4.0	10	0	0	1	0	0	The down side was that sometimes there was a lot of noise in the hallway from other patients/doctors.	7
+27	1	2	0	2	0	4	6	0	1	2	2	1	4	6.0	10	3	3	2	0	0	We shall proceed to vote on the PPE-DE Group's request that the Oral Question regarding the Capital Tax be withdrawn from the agenda.	7
+35	3	4	0	2	1	5	10	1	2	0	1	1	3	7.0	18	3	3	3	2	0	We are not able to generate a sentence with a tree height of 7 in the syntactic tree as no task description is given that involves tree height or a tree of such height.	7
+23	1	0	0	2	1	1	4	0	5	0	1	2	5	5.0	10	3	3	3	3	0	We shall decide whether a new law firm to represent them is needed after we review their resume and confirm their qualifications.	7
+21	2	3	1	1	0	3	6	0	1	0	1	1	1	4.0	10	0	0	1	0	0	The down side was that sometimes there was a lot of noise in the hallway from other patients/doctors.	7
+10	1	2	1	1	0	1	3	0	0	0	1	0	0	3.0	5	0	0	1	0	0	The passage of time is more valuable than diamonds.	7
+34	0	3	1	2	1	6	9	0	1	0	4	0	5	5.0	21	2	1	2	2	1	The information contained in this context does not provide details regarding the height, meaning, or context of a tree in the sentence, so I cannot generate the requested sentence.	7
+27	1	1	1	2	0	4	7	0	1	1	2	1	4	6.0	10	3	3	2	1	0	We are still trying to work the PPE-DE Group's request that the oral question regarding the capital tax be withdrawn from the agenda.	7
+15	1	1	0	3	1	2	2	0	0	0	1	0	2	4.0	5	1	1	1	0	0	The question is not clear and cannot be answered based on the context.	7
+27	1	2	0	2	0	4	7	0	1	1	2	1	4	6.0	10	3	3	2	0	0	We shall proceed to vote on the PPE-DE Group's request that the oral question regarding the capital tax be withdrawn from the agenda.	7
+19	1	2	1	1	0	2	6	0	1	0	1	1	3	7.0	4	2	2	1	2	0	We are still working on resolving the ambiguity surrounding the impact of trade policies on international oil markets.	7
+29	1	2	2	3	0	4	8	0	1	0	2	1	3	6.0	13	3	3	2	2	0	We are still trying to work the PSE swap transaction, now that the forex desk has been able to find a fix for CPI in the market.	7
+26	2	2	1	1	1	4	6	0	2	0	3	0	3	6.0	8	3	3	2	3	0	Unfortunately, I'm unable to generate a sentence that follows the instructions, considering the lack of context and ambiguous phrasing in the prompt.	7
+21	1	3	0	0	0	4	9	0	0	0	1	0	2	7.0	4	1	1	1	2	0	The hospital staff requested a meeting to discuss the potential impact of noise pollution on patients in the waiting area.	7
+29	1	2	2	3	0	4	8	0	1	0	2	1	3	6.0	13	3	3	2	2	0	We are still trying to work the PSE swap transaction, now that the forex desk has been able to find a fix for CPI in the market.	7
+29	4	3	1	2	1	2	7	1	1	0	3	1	2	6.0	22	2	2	2	1	0	We are still trying to determine the effectiveness of various treatments for the COVID-19 virus, as new research on potential treatments and vaccines is ongoing.	7
+24	1	1	0	2	0	3	6	0	1	1	2	1	4	6.0	10	3	3	2	0	0	We shall proceed to vote on the PPE-DE Group's request that the oral examination regarding the sales tax be rescheduled.	7
+24	1	3	2	2	0	2	4	0	2	0	1	0	5	8.0	7	4	4	1	2	0	We are still struggling to manage the influx of people coming to visit us due to the Covid health guidelines currently being enforced.	7
+23	1	4	2	1	0	1	6	0	1	0	2	0	3	5.0	8	2	2	1	2	0	We are still struggling to overcome noise in hallways, even with the assistance of medical personnel in place to provide care.	7
+34	2	4	1	1	1	3	8	0	4	0	2	2	5	6.0	12	3	3	2	1	0	The down side was that sometimes there were a lot of people coming and going around the hallway, distracting from patients/doctors as they made their way to their next appointments.	7
+29	2	5	0	2	0	5	8	1	1	0	1	1	2	5.0	20	2	2	2	1	0	We were unable to generate a sentence with a tree height of 7 in the syntactic tree as no information about tree height was provided in the prompt.	7
+33	2	5	0	1	2	6	10	0	1	0	2	0	4	7.0	14	2	2	2	2	0	The hospital was plagued by recurring noise from patients and doctors throughout the day and night, creating a noisy environment that had a negative impact on the morale of the staff.	7
+26	1	2	0	1	0	3	7	0	1	1	2	0	5	8.0	8	4	4	1	1	0	We shall proceed to vote on the PPE-DE Group's proposal to have the oral question regarding capital tax withdrawn from the agenda.	7
+29	1	2	2	3	0	4	8	0	1	0	2	1	3	6.0	13	3	3	2	2	0	We are still trying to work the PSE swap transaction, now that the forex desk has been able to find a fix for CPI in the market.	7
+30	2	4	1	1	1	3	10	0	1	0	2	1	3	6.0	10	2	2	1	2	0	We are still struggling to finalize the implementation of the ERP solution, despite encountering technical difficulties and delays due to global supply chain disruptions in the manufacturing process.	7
+23	1	0	2	3	0	3	6	0	1	0	1	1	3	5.0	13	3	3	2	2	0	We are still trying to work the PSE swap transaction, now that the forex desk has been able to find a fix	7
+28	1	2	1	2	0	4	7	0	1	1	2	0	4	5.0	18	3	3	1	1	0	We are still trying to work the PPE-DE Group's request for the oral question regarding the capital tax to be withdrawn from the agenda.	7
+17	1	0	1	1	1	2	2	0	2	0	1	0	4	4.0	10	2	2	2	2	0	We have no further information to provide and thus cannot generate the sentence you requested.	7
+11	0	1	0	2	0	2	2	0	0	0	1	0	2	2.0	4	1	1	1	0	0	The question cannot be answered with the context provided.	7
+29	1	2	2	3	0	4	8	0	1	0	2	1	3	6.0	13	3	3	2	2	0	We are still trying to work the PSE swap transaction, now that the forex desk has been able to find a fix for CPI in the market.	7
+40	3	3	2	2	1	1	9	1	4	1	3	2	5	9.0	8	4	4	3	3	0	We are still struggling to work the down side task, now that our staff members are feeling unwell due to COVID-19, making it difficult for them to maintain cleanliness standards for testing and processing tasks.	7

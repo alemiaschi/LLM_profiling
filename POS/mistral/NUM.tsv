@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+15	1	0	2	2	1	4	0	2	0	2	0	0	1	1	1	1	0	5.0	1	4	The sun gradually sets, bathing the sky in hues of orange and pink.	0
+11	0	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	3.0	0	4	A gentle breeze rustles the leaves of an autumnal tree.	0
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	My dog fetches sticks in the park.	0
+18	0	0	2	3	1	5	0	3	0	2	0	0	2	1	1	1	0	5.0	1	5	The sun sets beyond the horizon, painting the sky with beautiful shades of orange and pink.	0
+17	0	0	2	3	1	5	0	3	0	2	0	0	1	1	1	1	0	5.0	1	5	The sun sets over the horizon, bathing the sky in hues of orange and pink.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun slowly sinks behind the horizon.	0
+14	0	0	2	1	0	4	3	1	0	2	0	0	1	0	2	2	0	3.0	0	7	I admire your beautiful flowers, their fragrance fills the room with grace.	0
+23	1	0	3	3	1	6	0	3	0	3	0	0	3	1	1	2	0	4.0	1	8	Under the ancient oak, families gathered and shared stories, leaving the modern world behind for a brief moment in time.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The sun rises in the east and sets in the west.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The wind whispers through the tall grasses.	0
+17	0	0	3	3	1	3	1	1	0	1	0	0	4	0	1	0	0	4.0	0	5	The beauty of autumn lies in its vibrant hues of yellow, orange, and red.	0
+14	0	1	1	2	0	5	1	2	0	2	0	0	0	1	2	1	0	3.0	1	8	The sun begins its descent behind the mountains as day turns into night.	0
+10	0	1	1	1	0	3	0	2	0	2	0	0	0	1	2	0	0	2.0	1	6	The sun sets beneath the mountains as twilight descends.	0
+18	1	1	3	1	0	4	0	2	0	3	0	0	3	2	2	1	0	3.0	2	7	The sun slowly sets over the tranquil forest, casting long, golden shadows as dusk descends.	0
+17	0	0	2	3	1	4	0	3	0	2	0	0	2	1	1	1	0	5.0	1	5	The sun sets behind the mountains, illuminating the sky with shades of pink and orange.	0
+13	0	0	1	2	0	4	0	3	0	1	0	0	2	0	1	1	0	3.0	0	5	The sunlight cast intricate patterns on the surface of the tranquil lake.	0
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun sets slowly behind the mountains, painting the sky with warm hues.	0
+24	0	0	3	5	0	8	0	4	0	2	0	0	2	1	1	1	0	5.0	1	7	In the heart of the bustling metropolis, music filled the air, mingling with the scent of fresh flowers from corner vendors.	0
+11	0	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun sets behind the trees, casting long shadows.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	The sunlight casts intricate shadows on the floor.	0
+17	0	0	2	3	0	5	0	3	0	2	0	0	2	1	1	1	0	4.0	1	7	The sun rises over the peaceful ocean, casting gentle waves of light upon the shore.	0
+11	0	0	1	2	0	4	1	1	0	1	0	0	1	0	1	1	0	3.0	0	6	Flowers in bloom fill the air with their delightful scent.	0
+18	0	0	2	2	0	5	1	3	0	2	0	0	2	1	1	0	0	5.0	1	5	The sun sets over the tranquil lake, its golden reflection shimmering on the water's surface.	0
+15	0	1	1	2	1	4	1	2	0	2	0	0	1	1	2	1	0	4.0	1	11	The sun paints the landscape with hues of orange and red as it sets.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly in the sun.	0
+9	0	0	1	0	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	3	The sun rises each day bringing new light.	0
+19	0	0	2	3	1	5	0	4	0	2	0	0	2	1	1	1	0	4.0	1	10	The sun sets behind the hills, leaving a trail of orange and pink colors in the sky.	0
+11	0	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	3.0	0	4	A delicate breeze rustles the leaves of a ancient tree.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Apples hang heavy on the tree.	0
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	5	Trees wave gracefully in the gentle breeze.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The flowers bloom beautifully in the sunlit garden.	0
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	1	0	0	0	4.0	1	3	A beautiful garden filled with the fragrance of blooming flowers.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rises slowly over the horizon.	0
+14	0	0	2	1	0	4	1	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun rises every day, warming the earth with its gentle light.	0
+14	0	0	1	2	1	4	1	2	0	1	0	0	2	0	1	0	0	3.0	0	4	The beauty of the garden lies in its vibrant colors and fragrant flowers.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly beyond the horizon.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	4	The smell of the roses filled the garden.	0
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	A dog chases its tail in circles.	0
+18	0	0	3	2	0	4	0	3	0	2	0	1	3	1	1	1	0	3.0	1	8	The sun is setting behind the trees, casting long, golden shadows over the grassy meadow.	0
+17	0	0	2	3	1	4	0	3	0	2	0	0	2	1	1	1	0	5.0	1	5	The sun sets behind the horizon, painting the sky in hues of pink and orange.	0
+17	1	0	2	2	0	5	1	3	0	2	0	0	1	1	2	0	0	3.0	1	9	The sun sets over the calm horizon, its warmth slowly fading with the passing day.	0
+9	0	0	2	1	0	3	0	1	0	2	0	0	0	1	1	1	0	3.0	1	3	The sun sets, giving way to twilight.	0
+12	0	0	2	2	0	3	1	1	0	2	0	0	1	2	1	0	0	4.0	2	7	Mist hovering over the tranquil lake, sun setting behind it.	0
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The sun sets behind the vast, rolling hills.	0
+19	1	0	3	1	1	5	0	4	0	2	0	0	2	1	1	2	0	4.0	1	8	The sunlight gently bathes the room, illuminating every nook and cranny with a warm, soft glow.	0
+16	0	0	3	3	1	4	0	2	0	0	0	0	3	0	0	0	0	4.0	0	6	The flowers in the garden bloom in shades of pink, red, and white.	0
+15	0	0	1	2	0	4	0	3	0	2	0	0	3	1	1	1	0	5.0	1	4	A gentle breeze carries the sweet scent of flowers wafting through the open window.	0
+12	1	0	2	2	0	3	2	1	0	1	0	0	0	0	1	0	0	3.0	0	8	Despite my exhaustion, my enthusiasm for the adventure never wavered.	0
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The sun sets, bringing the day to a close.	0
+17	0	1	2	1	0	4	0	3	0	3	0	0	2	2	2	0	0	4.0	2	7	The sun sets as the stars begin to awaken in the vast, endless night sky.	0
+8	0	0	2	0	0	1	0	1	0	1	3	0	0	0	1	1	0	2.0	0	4	The clock reads five forty-five.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are seventeen apples on the table.	1
+8	0	0	1	1	0	1	2	0	0	1	1	1	0	0	1	1	0	2.0	0	4	I will meet you at 3:00 PM.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The sun sets at 7:30 PM.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The cake has 3 layers.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	2.0	0	5	There are 7 apples on the table.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are eight apples on the table.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are five apples on the table.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are five apples on the table.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	I have 5 apples.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	I have nine apples.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are eleven apples on the table.	1
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	The clock reads 3:15.	1
+8	0	0	1	1	0	3	0	1	0	0	1	1	0	0	1	0	0	2.0	0	3	One o'clock is the time for lunch.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are seven cookies in the jar.	1
+11	2	0	1	0	0	3	2	0	0	1	1	1	0	1	2	1	0	3.0	1	3	Five o'clock is when I usually take my evening walk.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	I have five apples.	1
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	2.0	0	4	Twenty books are on the table.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	2.0	0	2	There are five apples.	1
+9	0	0	1	1	0	2	1	1	0	1	1	1	0	0	2	0	1	4.0	1	6	The number of apples I have is three.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are seven apples on the table.	1
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	Four penguins are standing in a row.	1
+6	0	0	1	0	0	1	1	0	0	2	1	0	0	0	1	1	0	2.0	0	3	You have 2 remaining tasks.	1
+7	0	0	1	1	0	1	1	0	0	1	1	1	0	0	1	1	0	2.0	0	3	I am turning off 2 alarms.	1
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	6	The price of the product is thirteen dollars.	1
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	The clock struck twelve.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The sun rises at 6:30 am.	1
+5	0	0	1	0	0	2	0	1	0	0	1	0	0	0	0	0	0	1.0	0	2	The clock strike 7:00.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are three apples on the table.	1
+8	1	0	1	1	0	1	1	0	0	0	1	2	0	0	1	0	0	2.0	0	3	I will be there in fifteen minutes.	1
+6	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	The ticket cost $15.	1
+9	0	0	2	1	0	2	0	1	0	1	2	0	0	0	1	0	0	3.0	0	5	The sun sets behind thirty-two clouds.	1
+7	0	0	1	0	0	2	0	1	1	0	1	1	0	0	1	0	0	2.0	0	3	The temperature is 30 degrees Celsius.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are seven apples on the table.	1
+7	0	0	1	0	0	2	0	1	1	0	1	1	0	0	1	0	0	2.0	0	3	The temperature is 25 degrees Celsius.	1
+10	0	0	1	2	0	4	0	1	0	1	1	0	0	0	1	0	0	2.0	0	6	The sun sets around 8 o'clock during summer evenings.	1
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	2.0	0	4	Four apples are on the table.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	Ten cats jumped on the bed.	1
+5	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	2.0	0	2	I have 3 apples.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are seven apples on the table.	1
+9	0	0	1	1	0	2	1	1	0	1	1	0	1	0	0	0	0	3.0	0	4	There are seven dwarfs in the fairy tale.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are seven candles on the cake.	1
+10	0	0	1	2	0	3	0	2	0	1	1	0	0	0	1	0	0	3.0	0	3	Seven kangaroos slept under the shade of a tree.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are four bananas on the table.	1
+6	0	0	1	0	0	3	0	0	0	0	1	1	0	0	1	0	0	2.0	0	3	Four o'clock is tea time.	1
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Five apples cost $2.	1
+7	0	0	1	0	0	2	0	1	1	0	1	1	0	0	1	0	0	2.0	0	3	The temperature is 32 degrees Celsius.	1
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are seven apples on the table.	1
+6	0	0	1	0	0	1	1	0	0	0	1	1	1	0	1	0	0	2.0	0	4	I am 30 years old.	1
+10	0	0	1	0	0	2	1	1	0	2	1	0	1	1	1	2	0	3.0	1	5	You need 3 more apples to make a pie.	1
+8	0	0	2	0	0	2	0	0	0	1	3	0	0	0	1	1	0	3.0	0	4	Twelve apples cost fifty-four dollars.	2
+8	0	0	1	1	0	2	0	0	0	1	2	0	1	0	1	1	0	4.0	0	4	Twenty apples cost less than fifty dollars.	2
+10	0	0	1	1	1	3	0	1	0	0	2	1	0	0	1	0	0	3.0	0	4	Three apples and five oranges were on the table.	2
+8	0	0	1	1	0	2	1	1	0	1	1	0	0	0	0	0	0	3.0	0	3	There are two apples on the table.	2
+7	0	0	1	0	1	1	0	1	0	0	2	1	0	0	1	0	0	2.0	0	2	The numbers are seven and two.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Twelve apples cost five dollars.	2
+11	0	0	1	0	1	1	0	1	0	2	3	1	0	1	1	1	0	4.0	1	5	The numbers 4 and 7 are multiplied to give 29.	2
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	2	The third basket contained six apples.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Four apples cost three dollars.	2
+11	0	0	1	1	1	3	1	1	0	1	2	0	0	0	0	0	0	3.0	0	6	There are seven apples and three bananas on the table.	2
+11	0	0	1	1	1	4	0	0	0	1	3	0	0	0	1	1	0	3.0	0	4	Three apples and five bananas make eight pieces of fruit.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Five apples cost twenty dollars.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	The sum of 5 and 7 is 12.	2
+7	0	0	1	0	1	1	0	1	0	0	2	1	0	0	1	0	0	2.0	0	2	The numbers are twelve and five.	2
+10	0	0	2	1	0	2	1	1	0	1	2	0	0	0	0	0	0	3.0	0	7	There are twenty-three apples in the basket.	2
+10	0	0	1	1	0	2	0	2	0	1	1	0	1	0	1	1	0	3.0	0	4	The third apple from the left costs $0.	2
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	2	The third basket contains seven apples.	2
+10	0	0	1	1	1	3	0	1	0	0	2	1	0	0	1	0	0	3.0	0	7	Seven apples and four pears are on the table.	2
+9	0	0	1	1	1	3	0	1	0	0	2	0	0	0	0	0	0	3.0	0	3	Seven apples and five oranges on the table.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	The sum of 5 and 7 is 12.	2
+13	0	0	1	2	1	4	0	2	0	0	2	1	0	0	1	0	0	4.0	0	5	The numbers 7 and 3 are side by side on the table.	2
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Two apples cost $0.	2
+6	0	0	1	0	0	1	0	1	0	1	2	0	0	0	1	1	0	2.0	0	2	The clocks reads seven fifteen.	2
+10	0	0	1	1	1	3	0	1	0	0	2	1	0	0	1	0	0	3.0	0	7	Seven apples and three bananas are in the basket.	2
+6	0	0	1	1	0	2	0	0	0	0	2	0	0	0	0	0	0	2.0	0	3	Two apples for fifteen cents.	2
+11	0	0	1	1	1	3	1	1	0	1	2	0	0	0	0	0	0	3.0	0	8	There are seventeen apples and six bananas on the table.	2
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The sun sets at 7:30 pm.	2
+16	0	0	2	3	0	4	1	2	0	2	2	0	0	1	2	0	0	4.0	1	8	Five pine cones fell from the tree, three of them landing on the porch.	2
+9	0	0	1	1	1	2	0	1	0	0	3	0	0	0	1	0	0	4.0	0	4	The numbers 4 and 7 sum to 11.	2
+8	0	0	1	0	1	1	0	1	0	1	0	1	2	0	1	0	0	4.0	0	4	The fifth and eighth apples are selected.	2
+7	0	0	1	0	1	1	0	1	0	0	2	1	0	0	1	0	0	2.0	0	2	The numbers are twelve and five.	2
+9	0	0	1	0	1	2	0	2	0	1	2	0	0	0	1	1	0	4.0	0	4	The numbers 4 and 7 form a sequence.	2
+7	0	0	1	0	0	1	0	1	0	1	1	0	1	0	1	1	0	2.0	0	2	The second candy costs $0.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Four apples cost three dollars.	2
+13	1	0	1	2	0	2	0	2	1	0	2	1	1	0	1	0	0	4.0	0	10	The number of stars in the Milky Way is about 100 billion.	2
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Five apples cost $2.	2
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Five apples cost $2.	2
+11	0	0	2	1	1	1	0	1	0	0	4	1	0	0	1	0	0	4.0	0	8	The sum of eleven and twelve is twenty-three.	2
+10	0	0	1	1	1	2	0	2	0	1	0	0	2	0	1	0	0	4.0	0	4	The third and fifth birds perch on the branch.	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	The sum of 5 and 7 is 12.	2
+13	0	0	1	2	0	3	0	3	0	0	0	1	3	0	1	0	0	3.0	0	5	The second candle from the left is larger than the sixth one.	2
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Two apples cost $1.	2
+12	0	0	1	1	1	4	1	1	0	1	2	0	0	0	0	0	0	3.0	0	7	There are twelve apples and seven oranges in the fruit basket.	2
+7	0	0	1	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	2	The third floor has seven rooms.	2
+11	0	0	1	1	1	4	0	0	0	1	3	0	0	0	1	1	0	3.0	0	4	Three apples and five bananas make eight pieces of fruit.	2
+11	0	0	1	1	1	4	0	0	0	1	3	0	0	0	1	1	0	3.0	0	4	Seven apples and four pears make eleven pieces of fruit.	2
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	Ten bots are serving at the event.	2
+14	0	0	2	2	0	4	0	2	0	1	2	1	0	0	1	0	0	3.0	0	4	Two thirteen-pound weights were placed in the corners of the room.	2
+10	0	0	1	0	1	2	1	0	0	3	2	0	0	1	1	2	0	4.0	1	4	She turned page 32 and started reading page 47.	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	Two apples cost five dollars.	2
+15	1	0	4	1	1	1	0	1	0	1	5	0	0	0	1	0	0	4.0	0	9	The numbers 3, 5, 8, and 1 add up to 17.	4
+12	0	0	4	0	1	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	7	The numbers are 7, 12, 3, and 5.	4
+14	0	0	5	0	1	1	0	1	0	0	5	1	0	0	1	0	0	2.0	0	7	The numbers are twenty-seven, eleven, five, and four.	4
+10	1	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	3.0	0	4	Four is twice the sum of one and three.	4
+12	0	0	4	0	1	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	7	The numbers are 7, 3, 14, and 9.	4
+8	0	0	1	0	1	3	0	0	0	1	2	0	0	0	1	1	0	3.0	0	4	Four score and seven yearsold played basketball.	4
+14	0	0	5	0	0	2	0	0	0	1	6	0	0	0	1	1	0	3.0	0	8	Seven, eighteen, three, five apples cost twenty-six dollars.	4
+13	0	0	2	0	0	2	0	1	0	0	6	1	1	0	2	0	0	3.0	0	10	Seven hundred sixty-five point three two was the total sum.	4
+16	0	0	4	1	1	3	0	1	0	1	4	1	0	0	1	0	0	3.0	0	11	Seven, eleven, four, and three apple boxes were arranged in a row.	4
+23	0	0	6	2	1	4	0	1	0	1	6	1	0	0	1	0	0	5.0	0	19	The product of three rectangles' sides, with lengths being 2, 3, 5, and 6, equals 1176.	4
+18	0	0	6	1	1	1	0	1	0	0	7	1	0	0	1	0	0	4.0	0	15	The sum of twenty-three, fourteen, seven, and six is sixty-one.	4
+14	0	0	4	0	1	2	0	2	0	1	4	0	0	0	1	1	0	3.0	0	9	The digits 3, 5, 8, and 1 form the sequence.	4
+14	0	0	4	1	1	2	0	1	0	0	5	0	0	0	0	0	0	3.0	0	9	The numbers 3, 5, 7, and 9 sum to nineteen.	4
+11	0	0	2	1	1	0	0	0	0	1	5	1	0	1	1	0	0	4.0	1	4	Four is twelve minus eight, six multiplied by three.	4
+17	0	0	5	1	1	1	0	1	0	0	7	1	0	0	1	0	0	4.0	0	14	The sum of twenty-three, seventeen, six and nine is sixty-five.	4
+11	0	0	3	1	1	0	0	0	0	0	4	1	1	0	1	0	0	3.0	0	5	Four is greater than one, two, and three.	4
+8	0	0	1	0	0	3	0	0	0	1	3	0	0	0	1	1	0	4.0	0	4	Five apples cost twelve dollars seventeen cents.	4
+14	0	0	4	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	The product of 3, 5, 7, and 9 is 1683.	4
+14	0	0	5	0	1	1	0	1	0	0	5	1	0	0	1	0	0	3.0	0	7	The numbers are forty-seven, nine, thirteen, and two.	4
+9	0	0	4	0	1	0	0	0	0	0	4	0	0	0	0	0	0	2.0	0	7	 1, 3, 4, and 2.	4
+17	0	0	4	1	1	3	0	2	0	1	5	0	0	0	1	1	0	4.0	0	9	The digits 3, 7, 2, and 1 make up the phone number 372-1357.	4
+18	0	0	6	1	1	1	0	1	0	0	7	1	0	0	1	0	0	4.0	0	15	The sum of thirteen, twenty-five, six, and seventeen is seventy-one.	4
+5	0	0	1	0	0	0	0	0	0	0	4	0	0	0	0	0	0	3.0	0	1	Seven eleven twelve nineteen.	4
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	The product of 3 and 5 is 15.	4
+15	0	0	5	0	1	1	0	1	0	0	6	0	1	0	0	0	0	2.0	0	12	The numbers eight, five, three, and one total thirty-seven.	4
+11	0	0	3	0	1	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	6	The numbers are 3, 14, 7 and 25.	4
+14	0	0	4	1	1	1	0	1	0	0	5	1	0	0	1	0	0	4.0	0	11	The sum of 3, 5, 7, and 12 is 21.	4
+12	0	0	4	0	1	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	7	The numbers are 3, 7, 12, and 1.	4
+12	0	0	6	0	0	0	0	0	0	0	6	0	0	0	0	0	0	2.0	0	10	Seven, twelve, forty-five, ninety-nine.	4
+9	0	0	1	0	1	3	0	0	0	1	3	0	0	0	1	1	0	3.0	0	3	Four apples cost five dollars and six cents.	4
+12	0	0	5	0	0	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	6	The numbers are: 3, 7, 11, 15.	4
+27	0	0	8	0	1	0	0	0	0	1	17	0	0	0	0	1	0	5.0	0	13	Twelve thousand seven hundred forty-two, thirty-eight, seventeen, and five make twenty-three thousand eight hundred ninety-seven.	4
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Four apples cost $2.	4
+29	0	0	5	1	0	0	0	0	0	2	21	0	0	0	1	1	1	5.0	1	15	Seventeen thousand four hundred twenty-six multiplied by three hundred nineteen equals sixty-one million two hundred thirty-two thousand seven hundred forty-two.	4
+20	0	0	5	1	1	5	1	1	0	1	5	0	0	0	0	0	0	3.0	0	17	There are forty-seven apples, twelve oranges, sixteen bananas, and three grapes in the basket.	4
+20	0	0	4	1	1	5	0	4	0	0	4	1	0	0	1	0	0	4.0	0	11	Four is the number of apples, five the bananas, three the oranges, and six the kiwis.	4
+12	0	0	2	0	1	2	0	0	0	0	7	0	0	0	0	0	0	3.0	0	4	Fourteen thousand three hundred eighty-six dollars and seventeen cents.	4
+10	0	0	3	0	0	2	0	0	0	1	4	0	0	0	1	1	0	3.0	0	4	Twenty-three apples cost twenty-seven dollars.	4
+10	1	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	3.0	0	4	Four is twice the sum of one and three.	4
+20	0	0	4	2	1	2	0	2	0	1	3	1	4	0	1	0	1	5.0	1	16	The third digit of the second, seventh, and eighth numbers multiplied by four is thirty-six.	4
+9	0	0	2	0	0	0	0	0	0	0	7	0	0	0	0	0	0	3.0	0	3	Seven hundred twelve thousand three forty-five.	4
+11	0	0	2	2	0	2	0	0	0	1	4	0	0	0	1	0	0	4.0	0	3	Five pigs roamed in ten fields, three by two.	4
+18	0	0	6	1	1	1	0	1	0	0	7	1	0	0	0	0	0	3.0	0	15	The sum of twenty-three, seven, twelve, and six is fifty-two.	4
+13	0	0	5	0	1	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	7	The numbers are: 3, 14, 7, and 9.	4
+14	0	0	5	0	1	1	0	1	0	0	5	1	0	0	1	0	0	2.0	0	9	The numbers are seventeen, twenty-one, eight, and five.	4
+8	0	0	1	0	0	3	0	0	0	1	3	0	0	0	1	2	0	2.0	0	4	Four apples cost twelve dollars fifty cents.	4
+12	0	0	4	0	1	1	0	1	0	0	4	1	0	0	1	0	0	2.0	0	7	The numbers are four, seven, three, and nine.	4
+14	0	0	3	1	0	1	0	0	0	0	7	1	1	0	1	0	0	3.0	0	6	Four is thirty-seven times smaller than nine hundred ninety-two.	4
+21	0	0	3	1	2	1	0	0	0	2	12	0	0	0	1	1	1	5.0	1	8	Seventeen hundred and sixty-two divided by five gives three hundred and fifty-one point six six seven.	4
+16	0	0	5	1	1	1	0	1	0	1	6	0	0	0	0	0	0	3.0	0	10	The sum of twelve, eleven, seven, and five equals twenty-five.	4
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers Are: 3, 7, 11, 15, 22, 29.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 7, 1, 9, 2, 5.	6
+18	0	0	6	0	1	3	0	2	0	0	6	0	0	0	2	0	0	4.0	0	15	The numbers 3, 5, 8, 12, 17, and 21 form a sequence.	6
+18	0	0	3	1	2	0	0	0	0	2	8	2	0	1	3	0	0	5.0	1	13	Three is fifteen, seventeen minus four is eleven, and eight multiplied by two equals sixteen.	6
+14	0	0	4	0	1	0	0	0	0	0	9	0	0	0	0	0	0	3.0	0	6	Two thousand seven hundred thirty-five, seventeen, six and nine.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 4, 7, 2, 1, 8, 5.	6
+25	0	0	6	2	1	4	0	3	0	1	7	0	1	0	1	1	0	4.0	0	13	The numbers 1, 3, 5, 7, 9, and 11 form an arithmetic sequence with a common difference of 2.	6
+17	0	0	4	1	1	1	0	0	0	1	8	1	0	0	1	0	0	3.0	0	8	Seven hundred twenty-four thousand, fifteen, eight and three are arranged as numbers.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 7, 2, 1, 5, 9.	6
+24	0	0	11	0	0	0	0	0	0	0	13	0	0	0	0	0	0	3.0	0	20	Forty-two, seventy-eight, three hundred twenty-one, fifteen, eighty-seven, sixty-three.	6
+12	0	0	6	0	0	0	0	0	0	0	6	0	0	0	0	0	0	1.0	0	10	17, 23, 9, 56, 88, 42.	6
+12	0	0	3	0	0	0	0	0	0	0	9	0	0	0	0	0	0	3.0	0	6	Four hundred thirty-seven thousand nine hundred twenty-six.	6
+21	1	0	7	1	1	1	0	1	0	1	8	0	0	0	1	1	0	4.0	0	13	The numbers 3, 7, 2, 9, 4, and 1 add up to twenty-two.	6
+19	0	0	6	2	1	1	0	1	0	1	7	0	0	0	1	0	0	4.0	0	13	The numbers 1, 2, 3, 4, 5, and 7 add up to eighteen.	6
+25	0	0	7	1	1	2	0	2	0	1	11	0	0	0	0	1	0	3.0	0	19	The numbers five thousand seventy-two, three hundred forty-five, ten, nine, and twelve make up this list.	6
+19	0	0	6	1	1	2	0	2	0	1	6	0	0	0	1	0	0	3.0	0	13	The numbers seven, five, twelve, zero, nine, and four arrange in this order.	6
+33	0	0	10	1	1	1	0	1	0	0	18	1	0	0	1	0	0	5.0	0	24	The sum of fifteen thousand, three hundred eighty-two and eleven, twenty-four, seventy-six is twenty-one thousand, five hundred sixty-three.	6
+28	0	0	9	1	1	2	0	1	0	0	13	1	0	1	1	0	0	4.0	1	19	Number seven, forty-five, one-hundred twenty-six, thirteen, twenty is a total of five hundred and sixty-two.	6
+16	0	0	6	0	1	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	11	The numbers are 3, 5, 7, 9, 2, and 1.	6
+12	0	0	4	0	0	0	0	0	0	0	8	0	0	0	0	0	0	2.0	0	5	Fifty-seven thousand nine hundred eighty-six, seventeen.	6
+11	0	0	2	0	0	4	0	0	0	1	4	0	0	0	1	1	0	5.0	0	5	Three apples cost twelve dollars, five bananas expense seventeen.	6
+11	0	0	2	0	0	1	0	0	0	0	8	0	0	0	0	0	0	3.0	0	4	Four thousand seven hundred thirty-two point six five.	6
+16	0	0	2	2	0	4	0	3	0	1	2	1	1	1	1	0	0	3.0	1	5	321,569,874 is the first serial number in a sequence, followed by another six digits.	6
+17	0	0	7	0	1	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	11	The numbers are: 3, 17, 25, 8, 42, and 101.	6
+29	0	0	11	1	1	2	0	1	0	0	12	1	0	0	1	0	0	5.0	0	16	The numbers 1, 2, 3, 4, 7, and 9 in order are 1, 2, 3, 4, 7, 9.	6
+15	0	0	4	0	2	0	0	0	0	0	9	0	0	0	0	0	0	3.0	0	8	Seven hundred and twenty-six thousand, eight hundred and forty-seven.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 7, 11, 15, 22, 31.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 14, 27, 42, 58, 89.	6
+13	0	0	2	1	1	1	0	0	0	0	6	1	1	0	1	0	0	3.0	0	4	Three is seventeen times smaller than eight hundred and fifty-two.	6
+10	0	0	2	0	0	1	0	0	0	0	7	0	0	0	0	0	0	4.0	0	3	Four thousand seven hundred thirty-twopoint five sixteen.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 2, 7, 11, 15, 23, 31.	6
+15	0	0	4	0	0	4	0	0	0	1	6	0	0	0	1	1	0	4.0	0	7	Six apples cost twenty-four dollars, twelve oranges fifty-two cents.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 7, 11, 15, 22, 27.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 7, 11, 15, 22, 29.	6
+23	0	0	7	1	2	1	0	1	0	1	9	1	0	0	0	0	0	3.0	0	17	Four hundred and seventeen, thirty-two, fifteen, sixty-seven, and nine are arranged in this list.	6
+12	0	0	6	0	0	0	0	0	0	0	6	0	0	0	0	0	0	1.0	0	10	Seven, three, five, twelve, eight, one.	6
+16	0	0	4	0	2	0	0	0	0	0	10	0	0	0	0	0	0	3.0	0	5	Four hundred twenty-six thousand and eleven, seven hundred and twenty-three.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The digits are: 3, 5, 7, 9, 1, 2.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 5, 7, 9, 11, 13.	6
+13	0	0	3	0	2	0	0	0	0	0	8	0	0	0	0	0	0	3.0	0	8	Four hundred and seventy-three thousand, nine hundred and six.	6
+29	0	0	9	1	2	2	0	2	0	0	11	1	1	0	1	0	0	4.0	0	22	The product of the first five numbers, 3, 5, 7, 9, and 11, is thirty-five hundred and ninety-two.	6
+24	0	0	6	0	1	0	0	0	0	1	16	0	0	0	1	0	0	5.0	0	9	Fourteen thousand three hundred twenty-two, thirty-seven, sixteen and five equals nineteen thousand four hundred forty-nine.	6
+24	0	0	8	0	1	2	0	1	0	0	12	0	0	0	0	0	0	3.0	0	14	Fourteen thousand three hundred twenty-two, twenty-seven, eleven, six, nine, and seventeen form this sequence.	6
+6	0	0	1	0	0	1	0	0	0	1	2	0	0	0	1	1	0	2.0	0	1	Four apples cost $2.	6
+20	0	0	6	1	1	2	0	1	0	1	7	0	1	1	0	0	0	5.0	1	11	The numbers 3, 5, 7, 9, 11, and 13 read in order total 48.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 3, 17, 92, 5, 143, 76.	6
+12	0	0	6	0	0	0	0	0	0	0	6	0	0	0	0	0	0	1.0	0	10	27, 11, 45, 19, 83, 32.	6
+16	0	0	7	0	0	1	0	1	0	0	6	1	0	0	1	0	0	2.0	0	10	The numbers are: 2, 5, 9, 13, 17, 21.	6
+17	0	0	3	2	0	1	0	0	0	2	7	1	1	1	2	0	0	5.0	1	8	Three is twenty-five times larger than four, seven subtracted from sixteen equals nine.	6
+20	0	0	4	1	0	0	0	0	0	0	13	1	1	0	1	0	0	4.0	0	10	Fourteen thousand two hundred fifty-seven is greater than thirty-six thousand eight hundred forty-two.	6

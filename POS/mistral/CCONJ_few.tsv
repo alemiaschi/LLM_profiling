@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	1	0	4.0	0	5	The ancient manuscript contains numerous instances of the hitherto undiscovered glyphs.	0
+10	0	0	1	1	0	1	1	1	2	1	0	1	1	0	1	0	0	2.0	0	4	The Mona Lisa is renowned for her enigmatic smile.	0
+15	1	0	2	2	0	3	0	1	2	1	0	1	2	0	1	0	0	3.0	0	7	The ancient Roman amphitheater in Verona, Italy is still used for performances today.	0
+16	1	0	2	2	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The sun dips slowly beneath the horizon, casting long shadows on the tranquil landscape.	0
+7	0	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	2.0	0	4	I baked two cakes from scratch.	0
+10	0	0	1	1	0	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	4	An early morning fog drapes the treetops in mystery.	0
+12	0	0	1	2	0	4	0	2	0	0	0	1	2	0	1	0	0	3.0	0	6	The discovery of penicillin was a pivotal moment in medical history.	0
+11	0	0	1	1	1	4	0	0	0	0	0	1	3	0	1	0	0	4.0	0	6	Scientific research on plant growth processes is complex and multi-faceted.	0
+12	0	0	1	1	0	4	0	2	0	0	0	1	1	0	1	0	0	3.0	0	5	Every employee's productivity is vital for a business's success.	0
+7	0	0	1	0	0	2	1	0	0	2	0	0	1	0	1	2	1	3.0	1	3	Passing multiple tests proves your skills.	0
+12	0	0	1	2	0	4	0	1	0	1	0	1	2	0	1	1	1	3.0	1	10	Constructing intricate patterns out of glass beads is an arduous process.	0
+19	1	0	2	3	0	5	1	2	0	3	0	0	1	2	1	1	0	3.0	2	8	In the aftermath of a disaster, aid agencies swiftly respond to deliver essential supplies to those affected.	0
+14	0	0	1	2	1	4	0	2	1	2	0	0	1	1	0	1	0	5.0	1	3	In the heart of Paris lies an iconic monument symbolizing unity and love.	0
+14	0	0	2	2	0	4	1	3	0	1	0	0	1	0	1	1	0	2.0	0	8	Every morning, I take a long walk along the seashore for exercise.	0
+13	1	0	1	0	0	3	0	2	0	2	0	2	0	1	1	1	0	4.0	1	4	Each word must be carefully typed to ensure the email's accuracy.	0
+12	1	0	1	1	1	3	0	2	0	2	0	0	1	0	1	1	0	3.0	0	4	A team of engineers meticulously dismantled and restored the antique clock.	0
+18	0	0	3	2	0	5	0	3	0	4	0	0	1	0	1	1	1	4.0	1	8	The ancient manuscript, preserved in the library archives, contained forgotten knowledge of the lost civilization.	0
+19	0	0	4	2	1	5	0	2	1	0	1	1	2	0	1	0	0	3.0	0	6	In ancient Greek mythology, the Nine Muses were deities of knowledge, inspiration, and the arts.	0
+11	0	0	2	1	0	2	1	1	0	1	2	0	1	0	1	0	0	3.0	0	5	Every second, 200 billion neurons communicate in our brain.	0
+13	1	0	1	2	0	5	0	3	0	1	0	0	0	0	1	1	0	3.0	0	6	The invention of the printing press dramatically transformed the distribution of information.	0
+11	1	0	1	2	0	3	0	0	0	2	0	1	0	1	1	0	0	3.0	1	4	Students are frequently advised to arrive on time to class.	0
+16	2	0	1	0	0	2	1	1	2	2	0	0	3	1	1	2	0	4.0	1	5	Sherlock Holmes' exceptional analytical skills allowed him to solve even the most complex cases.	0
+11	2	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	3.0	0	7	I always bring an extra pair of shoes when hiking.	0
+8	0	0	1	1	0	1	1	0	1	1	0	0	2	0	1	0	0	2.0	0	4	Ancient Egypt flourished under its dynastic rule.	0
+10	1	0	1	0	0	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	4	The architect's designs impressed the building committee immensely.	0
+10	0	0	1	1	0	3	0	2	0	2	0	0	1	0	1	2	1	3.0	1	3	Baking a cake requires careful measurement of each ingredient.	0
+17	0	0	1	3	0	4	0	3	3	1	0	0	2	0	1	1	0	4.0	0	8	The archaeological findings along the banks of the River Ouse provided crucial evidence of Viking settlements.	0
+14	0	0	2	0	1	4	0	2	0	2	0	1	2	0	1	1	1	3.0	1	12	Constructing an efficient machine network is a complex and time-consuming procedure.	0
+9	0	0	1	1	0	4	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	The company offers several types of insurance policies.	0
+10	0	0	1	0	1	3	0	1	0	2	0	0	1	0	1	2	1	3.0	1	4	To learn a foreign language requires patience and dedication.	0
+13	0	0	1	1	0	4	0	3	0	2	0	0	1	1	1	1	0	4.0	1	3	The symphony orchestra began to strike the final chords of the concert.	0
+14	0	0	1	2	0	4	0	1	0	1	0	1	4	0	1	1	0	3.0	0	5	Archaeological evidence has shed light on various aspects of the ancient Roman civilization.	0
+10	2	0	1	0	0	2	2	1	0	2	0	0	0	1	2	1	0	3.0	1	4	My dog barks persistently when someone approaches the house.	0
+14	0	0	1	1	0	4	0	1	0	1	0	0	5	0	1	1	0	3.0	0	6	A renowned author's latest work received critical acclaim from prestigious literary magazines.	0
+9	0	0	1	1	0	5	0	0	0	1	0	0	1	0	1	1	0	2.0	0	5	Fog lights enhance road visibility in rainy conditions.	0
+19	1	0	3	3	0	4	0	3	0	3	0	0	2	1	1	0	1	4.0	2	7	The ancient manuscript, adorned with precious metals, lies hidden deep beneath the ruins of the temple.	0
+19	1	0	2	1	1	3	4	1	0	4	0	0	1	2	1	3	0	5.0	2	6	The unopened email sat ominously in his inbox, beckoning him to open it and address its contents.	0
+13	0	0	2	1	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun rises each day, painting the sky with vibrant colors.	0
+18	0	0	3	2	0	4	1	3	0	2	0	0	3	1	1	1	0	4.0	1	6	The sun rose over the distant mountains, illuminating the landscape with its warm, golden hues.	0
+11	0	1	1	0	0	3	0	1	0	2	0	1	2	1	2	1	1	3.0	2	6	Inspecting the faulty machine part is mandatory before operation resumes.	0
+9	1	0	1	1	1	3	0	0	0	2	0	0	0	0	2	0	0	3.0	0	4	Fish live underwater and humans live above ground.	0
+16	0	0	2	3	0	3	1	1	2	2	0	0	1	1	1	0	0	4.0	1	4	My great-grandfather emigrated from Finland to work in the copper mines in England.	0
+11	1	0	1	0	0	3	2	0	0	3	0	1	0	1	2	2	1	3.0	2	5	Students who miss class will have their grades affected negatively.	0
+25	1	1	3	0	2	2	2	2	0	6	0	1	3	2	1	3	1	5.0	3	11	To ensure a consistent and high-standard output, it's recommended to thoroughly edit and proofread all written documents before submitting them.	0
+14	0	0	1	3	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	7	Students must pay attention during class for the greatest benefit from the lessons.	0
+15	0	0	2	2	1	4	0	1	0	1	0	1	3	0	1	1	1	5.0	1	11	In the realm of software engineering, writing clean and maintainable code is essential.	0
+12	0	0	1	2	0	4	0	4	0	1	0	0	0	0	1	1	0	3.0	0	5	An astronaut plants a flag on the surface of the moon.	0
+12	0	0	1	1	0	3	1	3	0	2	0	1	0	0	1	1	0	2.0	0	8	I've completed all the required homework assignments for the week.	0
+24	0	0	3	4	0	6	0	3	5	2	0	0	1	0	1	1	1	4.0	1	12	The Mona Lisa painting, created by Leonardo da Vinci in the 16th century, captivates millions of art lovers around the world.	0
+14	1	0	1	2	0	4	1	0	0	1	0	0	3	0	1	0	0	3.0	0	5	Students' average performance improved significantly after their weekly meetings with academic advisors.	0
+19	0	0	1	1	2	3	3	2	0	1	0	3	3	1	4	1	0	5.0	1	8	The cake is moist and the icing is delicious but it has nuts that I am allergic to.	1
+11	1	0	1	0	1	2	1	2	0	0	0	1	2	0	1	0	0	2.0	0	5	She is an excellent musician and also a talented painter.	1
+24	1	0	2	3	1	5	2	3	2	3	0	0	1	1	2	2	0	5.0	1	12	You have an appointment with the dentist next Tuesday, but you also need to make a reservation for dinner on Friday night.	1
+21	0	1	2	2	2	5	1	3	0	2	0	2	1	1	2	0	0	4.0	1	12	The city was alive with music and lights during the festival, and I was exhausted from dancing all night.	1
+15	0	0	2	0	1	2	3	0	0	1	0	2	3	1	3	0	0	3.0	1	4	My brother's new motorcycle is red, but he wishes it was black.	1
+22	3	1	3	1	0	3	1	2	0	3	0	3	0	1	3	0	0	4.0	1	8	The meeting was rescheduled twice; however, it didn't matter as the attendees couldn't arrive on time anyway.	1
+18	1	0	1	2	1	3	2	2	0	2	0	3	0	0	2	1	0	3.0	0	10	You've been working on this code for hours but you haven't solved the bug yet.	1
+14	2	0	2	0	1	1	1	1	0	3	0	0	2	1	2	0	0	3.0	1	5	The cake tastes delicious, yet it seems too dry to enjoy fully.	1
+26	3	0	2	1	3	6	2	2	0	3	2	1	1	0	3	3	0	4.0	0	18	I can read a hundred books a month or binge watch ten series back to back, but I still crave knowledge and more stories.	1
+12	0	0	1	0	3	2	1	2	0	1	0	1	1	0	2	0	0	2.0	0	4	Both the painting is a masterpiece and yet it remains unsold.	1
+22	1	0	2	1	1	4	2	1	0	3	1	3	1	2	2	1	0	3.0	2	14	I have tried calling customer service three times this morning, but I haven't been able to get through yet.	1
+13	1	0	2	0	1	2	1	1	0	3	0	1	1	1	1	1	0	3.0	1	6	I'll go hiking tomorrow, and also visit the local museum.	1
+25	0	1	4	2	2	11	0	3	0	2	0	0	0	1	1	2	0	6.0	1	12	The application form has blank fields for name, address, and ID number, and a section for writing a statement of intent.	1
+18	0	0	2	2	2	1	3	1	4	3	0	0	0	1	2	2	0	4.0	1	10	They visited Paris and London during their honeymoon, but they missed seeing the Colosseum in Rome.	1
+17	1	0	2	1	1	2	2	1	1	2	1	2	0	0	2	2	0	3.0	0	10	I've studied Italian for six months, but I can't hold a conversation yet.	1
+20	0	0	2	1	2	7	3	0	0	5	0	0	0	2	2	3	0	4.0	2	11	He enjoys watching movies and playing computer games, but his wife prefers reading books during her leisure time.	1
+9	0	0	2	0	0	0	1	0	0	1	0	2	1	1	1	0	0	2.0	1	5	Sure, I'd be happy to help.	1
+20	1	0	2	3	1	2	1	1	0	4	2	1	0	2	2	0	0	5.0	2	6	The concert will begin at six, but we have to leave at five to get there on time.	1
+17	0	0	2	0	3	6	2	0	0	1	0	1	1	0	2	1	0	4.0	0	6	My uncle's favorite foods are burgers and tacos, but I prefer sushi and pizza.	1
+16	0	0	2	0	1	4	0	4	0	2	0	1	1	0	2	1	0	3.0	0	10	The car wouldn't start and the phone had no signal: a double misfortune.	1
+17	0	0	2	1	1	4	2	0	0	4	0	0	1	2	2	1	0	3.0	2	9	My little brother likes to build with blocks, but my sister prefers to color pictures.	1
+23	2	0	2	0	2	4	5	1	0	4	0	1	0	1	3	3	0	4.0	1	12	My laptop battery died and I couldn't finish my presentation, but now I have a chance to prepare it better.	1
+19	3	0	2	0	1	4	1	2	0	2	0	1	3	2	3	0	0	4.0	2	5	The city is noisy when the traffic lights remain red, but suddenly quiets when they turn green.	1
+16	0	0	2	2	1	4	2	3	0	2	0	0	0	0	2	1	0	3.0	0	10	We attended the festival despite the rain, but my umbrella broke during the procession.	1
+14	0	0	2	1	1	3	1	1	0	2	1	1	0	0	1	1	0	3.0	0	8	I studied for eight hours, but didn't get a passing grade.	1
+15	1	0	1	0	2	5	1	1	0	2	0	1	1	1	2	2	0	4.0	1	6	My friend loves skiing and hiking but prefers hiking when the weather is warm.	1
+15	1	0	1	0	1	4	2	2	0	2	0	2	0	0	2	2	0	3.0	0	8	I can finish this homework tonight or I will definitely fail the test tomorrow.	1
+22	1	0	2	2	0	4	3	1	0	4	0	1	2	2	1	2	0	6.0	2	10	I finished reading the book last night, yet haven't felt motivated to share my thoughts about it with others.	1
+17	0	0	1	2	1	4	2	4	0	2	0	0	1	0	2	1	0	3.0	0	12	I went to the gym every day for a month but my weight stayed the same.	1
+14	1	1	2	0	0	2	2	1	0	2	0	1	1	1	2	1	1	3.0	2	4	Although it's hot outside, I need to do some grocery shopping.	1
+22	0	0	2	4	1	4	3	2	0	2	0	2	1	1	2	0	0	5.0	1	6	The presentation slides were interesting, yet I couldn't stay focused on them due to the itching in my ear.	1
+17	0	0	1	2	2	3	2	2	0	2	0	1	1	0	2	1	0	4.0	0	7	The cake tastes delicious and yet I can't eat it due to a food allergy.	1
+18	0	0	2	1	1	3	2	4	0	2	0	0	3	0	2	2	0	3.0	0	12	We took a long walk through the forest, but the beautiful view left us all speechless.	1
+11	0	0	2	0	1	1	2	1	0	1	0	1	2	0	2	1	0	2.0	0	4	The cake was delicious, yet it made me sick.	1
+18	0	0	3	1	1	6	1	4	0	0	0	2	0	0	2	0	0	3.0	0	7	The book is a page-turner, and its illustrations are a feast for the eyes.	1
+25	1	0	2	3	1	5	4	2	0	3	0	2	2	2	3	0	0	5.0	2	8	My little brother is scared of the dark, yet he keeps saying he will sleep alone in the tent during our camping trip.	1
+11	2	0	2	0	1	1	1	1	0	1	0	1	1	0	2	0	0	2.0	0	5	The movie was great, yet I almost fell asleep.	1
+19	1	0	3	3	1	5	2	1	0	3	0	0	0	1	2	1	0	3.0	1	8	She works in a library, but she still enjoys binge-watching movies at home during weekends.	1
+21	1	0	2	2	0	4	4	1	0	4	0	1	0	2	3	2	0	4.0	2	10	I can't believe I left my phone at home, yet I managed to finish the project on time.	1
+21	1	0	2	0	2	4	2	2	0	5	0	0	1	2	2	3	0	5.0	2	8	I need to cook dinner tonight, yet I have a headache and feel too exhausted to prepare a meal.	1
+14	0	0	2	0	1	2	2	2	0	2	0	2	0	0	2	2	0	3.0	0	7	He didn't have a map, but he did have a compass.	1
+14	1	0	2	0	0	2	1	1	0	2	0	1	3	1	1	1	0	4.0	1	4	She was a brilliant mathematician, yet struggled to understand human emotional intricacies.	1
+21	2	0	4	1	1	3	3	1	0	1	0	3	2	1	3	0	0	3.0	1	8	My brother-in-law is an excellent cook, but he's even better when he's barbecuing.	1
+22	1	0	6	1	3	2	2	1	0	4	0	1	1	1	2	1	0	4.0	1	12	The package was marked 'FRAGILE' and 'HELP NEEDED', yet we lifted it mechanically and without care.	1
+16	1	0	2	0	2	1	2	1	0	2	0	1	3	1	1	1	0	3.0	1	6	The cake was moist and delicious, yet it seemed impossible to finish it alone.	1
+19	1	0	1	0	1	4	1	0	0	3	2	1	4	1	1	3	0	5.0	1	8	They have visited 12 new countries last year and still have plans to visit 5 more next year.	1
+14	1	0	2	1	1	3	2	1	0	2	0	1	0	0	2	1	0	3.0	0	8	My phone died at night, but fortunately I had brought a charger.	1
+14	1	0	2	0	1	2	2	1	0	2	0	1	2	1	2	2	0	3.0	1	8	The document contains numerous errors, but it is still worth correcting them.	1
+23	1	1	2	0	1	4	5	1	0	4	0	2	0	2	3	3	0	4.0	2	17	I need to finish this essay before my sister can borrow my laptop, but I haven't done my research yet.	1
+19	0	0	2	1	2	6	1	2	0	2	0	0	3	1	1	2	0	5.0	1	7	The book contains interesting facts and hilarious jokes, making it a great read for education and entertainment.	1
+34	0	0	5	2	4	8	2	3	2	3	1	1	2	1	2	2	0	6.0	1	11	Two engineers, John and Mike, will conduct a feasibility study on the hydroelectric project, and they plan to explore both the cost-effective and safety considerations during their research.	2
+21	0	0	2	4	1	5	0	4	0	2	1	2	0	0	2	0	0	3.0	0	10	The cake is baking in the oven at 350°F, and water is boiling on the stove for the frosting.	2
+23	2	0	2	2	1	7	1	3	0	3	0	1	1	1	2	2	0	4.0	1	11	The customer will receive notifications when the package ships and when it arrives, ensuring peace of mind throughout the entire process.	2
+18	0	0	1	2	1	5	1	3	0	3	1	0	1	0	1	1	0	5.0	0	4	The manager approved the two raises for the deserving employees and scheduled performance appraisals for everyone else.	2
+21	2	0	1	5	1	5	1	4	0	2	0	0	0	0	1	0	0	4.0	0	10	The cat sleeps in the living room but also curls up next to me on the couch during the evening.	2
+30	0	0	6	3	2	6	1	4	0	4	0	1	3	2	2	3	0	7.0	2	8	"The application can store multiple addresses, and the user switches between them using ""Next"" and ""Previous"" buttons located near the bottom of the screen."	2
+19	0	0	1	3	1	5	0	2	0	2	0	1	4	0	1	1	0	5.0	0	6	Both articles were published in prestigious academic journals and received numerous citations from other scholars in the field.	2
+26	0	1	2	2	0	5	1	5	0	1	1	5	3	2	3	0	0	4.0	2	10	Two people are needed for this job, one will be the primary speaker while the other will be the interpreter for the deaf community.	2
+16	3	0	2	0	2	2	0	2	0	3	0	2	0	0	2	0	0	3.0	0	10	The dog was barking loudly and growling menacingly, and the child was screaming hysterically.	2
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	The meeting is scheduled for 3 p.	2
+22	1	1	1	2	1	5	1	2	0	3	0	2	3	2	2	1	0	4.0	2	11	You must wear protective boots while walking on the wet floor and also ensure the safety sign is visible to others.	2
+27	0	0	1	4	4	7	1	4	2	2	0	1	1	0	1	2	0	3.0	0	18	I will bring the report to both the CEO and the marketing director for review and approval on Friday and send the final version on Monday.	2
+21	0	0	1	3	1	5	3	1	0	3	2	1	1	0	2	2	0	4.0	0	6	Two new hires are joining us in marketing and they bring with them a combined industry experience of 15 years.	2
+21	1	0	2	0	2	5	2	3	0	3	0	1	0	1	2	1	0	4.0	1	8	He can't decide which flavor to choose, so he buys both the chocolate and the strawberry ice cream.	2
+17	1	0	1	1	3	5	0	4	0	2	0	0	0	1	1	0	0	4.0	1	7	Both the cat and the dog bark and whine at the door whenever a guest arrives.	2
+20	0	0	1	4	1	5	1	2	2	3	1	0	0	2	1	1	0	5.0	2	9	He has a meeting scheduled for Tuesday at noon and a training session planned for Thursday at 3 pm.	2
+16	0	0	1	0	1	5	1	2	0	3	0	1	1	1	1	3	0	4.0	1	5	I will add a filter and adjust the water temperature to maintain proper aquarium conditions.	2
+19	3	0	2	1	1	3	4	1	0	3	0	0	0	1	1	3	0	3.0	1	9	She forgot her keys at the store, but also left her phone there to retrieve them later.	2
+13	0	1	1	0	2	3	1	1	0	3	0	0	0	2	1	2	0	4.0	2	6	She needs to buy both milk and bread before leaving the store.	2
+23	0	0	2	3	0	6	1	3	0	2	2	2	1	1	2	1	0	5.0	1	7	The project's design includes two main sections, each of which must be finished within three months from the approval date.	2
+27	1	0	5	1	1	5	4	1	0	4	0	2	2	2	3	2	0	3.0	2	12	I need to buy new batteries (they are all dead) and replace the air filter (it's clogged) for my vacuum cleaner.	2
+47	0	0	6	8	2	12	1	3	4	3	2	2	4	2	3	1	0	6.0	2	25	The client needs a report by 2 pm today (Monday) on total sales from December and January; additional data on returns and taxes is requested for analysis, which is due by 4 pm on Wednesday, following completion of the initial report.	2
+33	0	0	3	2	2	8	1	5	0	4	0	2	4	2	3	2	0	6.0	2	24	The new proposal calls for an expansion of the facility, which will require additional staff and longer working hours; yet the existing budget is not sufficient to cover these costs.	2
+17	0	0	1	2	1	3	2	1	2	4	0	0	0	2	1	2	0	4.0	2	7	She has a meeting scheduled on Monday and needs to review her presentation slides on Tuesday.	2
+16	0	1	2	2	0	4	0	4	0	2	0	0	1	1	2	0	0	3.0	1	8	The cat slept in the sunroom, while the dog lay in the cool basement.	2
+12	0	0	1	1	2	2	0	2	0	1	0	0	3	0	1	0	0	4.0	0	5	Both the red and green lines intersect at the same point.	2
+24	2	0	3	4	0	7	0	4	1	2	0	0	1	0	1	1	0	6.0	0	10	The proposal includes the submission of documents (certified true copies) as well as the attendance at an interview on March 15th.	2
+18	1	1	1	2	1	4	1	2	0	2	2	1	0	1	1	1	0	3.0	1	11	I will take both medications at 8 AM and 4 PM daily as prescribed by the doctor.	2
+8	1	0	1	0	1	2	1	0	0	2	0	0	0	0	1	2	0	2.0	0	4	She plays basketball but also runs cross-country.	2
+18	2	0	2	1	1	5	0	3	0	3	0	0	1	1	2	1	0	5.0	1	5	The sun sets late but the moon rises early, creating beautiful twilight scenes on the water.	2
+16	1	0	1	1	1	6	1	1	0	2	0	1	0	0	1	1	0	4.0	0	7	She must finish the research proposal today and also prepare for tomorrow's seminar presentation.	2
+19	0	1	3	1	1	4	4	0	0	3	0	1	0	2	2	2	0	5.0	2	11	He has to clean his car (exterior and interior) before he can list it for sale.	2
+31	2	0	3	2	2	6	2	5	0	4	0	3	1	2	3	2	0	5.0	2	18	The cat will be asleep in the sunroom window, and when it hears a car in the driveway, it will jump down and run to meet the owner.	2
+16	1	0	2	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	8	The sun sets over the ocean, and the moon rises high in the sky.	2
+15	0	0	2	2	1	4	1	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sleeps on the windowsill, but the dog rests at your feet.	2
+24	1	0	2	2	1	7	1	3	0	3	0	1	2	1	1	3	0	4.0	1	7	You must add water frequently to both aquariums to maintain the right moisture level, and clean the gravel weekly for optimal health.	2
+21	1	0	2	1	2	3	1	3	0	5	0	1	2	1	1	2	0	5.0	1	12	Buy the red shirt and try the jeans on; they may need hemmed or altered for a great fit.	2
+16	0	0	1	3	1	4	0	2	0	2	2	1	0	0	1	0	0	3.0	0	8	The bus will arrive at the station at 3:30 PM and depart at 4:15 PM.	2
+25	1	1	2	2	0	7	2	3	0	4	0	1	2	2	2	3	0	6.0	2	8	Your car will need new tires soon; I recommend checking the pressure of the current ones in addition to inspecting the tread depth.	2
+36	0	0	2	5	2	9	6	4	0	3	0	2	3	0	2	4	0	4.0	0	18	I will add the new contacts from my phone to my contact list on my computer, and I will print the addresses of the new clients from the spreadsheet and mail them welcome packages.	2
+21	0	0	5	3	1	5	2	1	0	3	0	0	1	1	1	2	0	4.0	1	9	She likes playing the flute (at school) and practicing yoga (at home) in her free time.	2
+20	1	0	2	2	1	5	3	0	0	2	1	2	0	0	2	1	0	4.0	0	8	Your email is not set up yet and you must verify your phone number for two-factor authentication.	2
+29	1	0	5	4	1	6	1	0	2	4	3	0	2	2	1	1	0	6.0	2	13	They attend weekly lectures (held Monday evenings starting at 7:30 pm) and engage in lively group discussions online (Sundays from 1:00 to 4:00 pm).	2
+26	1	1	3	2	1	5	0	5	0	3	2	0	2	2	1	2	0	5.0	2	17	The project needs two experts, one from the legal department and another from the financial team, to evaluate the contract thoroughly before signing.	2
+12	0	0	1	1	1	3	0	3	0	2	0	0	1	0	2	0	0	3.0	0	4	The dog barked and the baby cried at the same time.	2
+17	0	0	2	1	1	3	0	3	0	3	0	2	2	1	2	0	0	4.0	1	5	The sun was setting and the moon had risen, shining bright in the clear sky.	2
+15	0	0	2	1	2	5	0	3	0	2	0	0	0	0	2	1	0	4.0	0	8	The sun sets behind the hill, and the sky turns orange and purple.	2
+19	0	0	2	0	1	4	0	2	0	3	2	2	2	2	1	2	0	6.0	2	4	Two employees have been promoted, one to manage the sales team and the other overseeing human resources.	2
+17	3	0	2	1	2	4	1	2	0	2	0	0	0	1	2	0	0	4.0	1	9	The cat sleeps on the mat and purrs, its tail switching back and forth lazily.	2
+18	1	1	2	0	1	5	1	4	0	3	0	0	0	1	0	3	1	4.0	2	6	After feeding them, clean the gravel once a week using a gravel vacuum or a siphon.	2
+13	0	1	3	0	1	2	1	2	0	3	0	0	0	0	3	0	1	3.0	1	5	If it rains, the creek floods, and the crops fail.	3
+18	1	0	3	2	1	4	3	1	0	1	0	0	2	0	1	1	0	4.0	0	7	She picked up the papers, pencils and her bag, ready for her long commute home.	3
+23	0	0	3	2	1	5	3	4	0	4	0	1	0	1	3	2	0	4.0	1	13	The baby was crying, the mother rocked it in her arm, and the husband tried calming it with a bottle.	3
+19	0	0	2	1	1	4	5	0	0	3	0	2	0	0	3	1	0	4.0	0	11	I need your help with my computer, my printer is not working and my mouse is malfunctioning.	3
+16	0	0	3	0	1	3	4	0	0	3	0	1	0	0	1	3	0	3.0	0	11	He lost his key, remembered his appointment, but couldn't find his car.	3
+18	0	0	3	4	1	3	3	1	0	3	0	0	0	0	1	1	0	3.0	0	11	I put on my raincoat, tucked in my notebook, and stepped out into the drizzle.	3
+19	0	0	4	0	2	4	2	1	0	4	1	0	1	1	2	2	0	4.0	1	6	The teacher assigned three essays, and we spent our entire week reading, writing, and revising.	3
+28	0	0	3	3	1	7	3	4	0	4	1	0	1	1	2	4	0	5.0	1	8	The teacher assigned us three chapters for homework, we had to write a summary for each one, and present it in class the next day.	3
+21	0	0	3	3	1	5	2	2	0	4	0	1	0	1	1	2	0	4.0	1	13	I will visit my aunt in the south, eat sushi for dinner, and go hiking in the mountains.	3
+16	0	0	3	1	1	5	1	1	1	3	0	0	0	0	1	3	0	3.0	0	8	She studied French, took dance lessons, and practiced calligraphy after school every day.	3
+21	0	0	3	1	2	7	1	3	0	3	0	1	0	0	1	3	0	4.0	0	10	I'll visit the store, buy eggs and bread, and bake a cake for the bake sale tonight.	3
+16	0	0	3	3	1	4	0	4	0	1	0	0	0	0	1	0	0	4.0	0	5	The cat slept on the mat, beside the pond, and under the tree.	3
+21	2	0	3	2	1	6	2	3	0	2	0	0	0	0	2	2	0	3.0	0	13	The teacher assigned us reading, writing and research for the project, so we worked late into the night.	3
+32	1	0	4	3	2	6	2	5	0	5	0	1	1	1	2	3	0	6.0	1	9	I can't make the decision now, but I promise to research the options, consult with experts, and make a final choice by the end of the week.	3
+22	0	0	3	2	1	7	2	2	0	1	0	0	4	0	1	1	0	3.0	0	16	She wore red shoes, high heels, and her new sun hat on the hot summer day at the beach.	3
+35	1	1	3	3	1	9	4	3	0	5	0	0	3	1	2	4	1	6.0	2	14	Although she missed the first train, waited for hours in the rain and finally boarded the late train, she reached her destination with enough time to attend her sister's wedding reception.	3
+15	0	0	3	0	1	3	3	1	0	3	0	0	1	0	1	3	0	3.0	0	10	She missed the early train, overslept her alarm, and forgot her lunchbox.	3
+22	0	0	3	1	1	5	5	2	0	3	0	1	0	0	3	3	0	4.0	0	13	I forgot my keys, I had no wallet, and I couldn't recall the phone number of my brother.	3
+15	0	1	2	0	1	4	4	1	0	2	0	0	0	1	1	2	0	3.0	1	10	I forgot my keys, my phone and my jacket before leaving the house.	3
+18	3	0	2	1	1	4	0	4	0	3	0	0	0	0	3	0	0	4.0	0	5	The sun rises early, the birds sing beautifully and the flowers bloom vibrantly in the morning.	3
+21	0	1	3	1	2	3	4	0	0	4	0	1	2	0	3	1	1	4.0	1	8	After she graduated from college, her best friend got married, but she remained single and continued her education.	3
+15	0	0	2	0	1	3	1	3	0	4	0	0	0	1	1	3	0	4.0	1	8	I need to finish these reports, contact the clients and book the tickets.	3
+17	0	0	3	2	1	3	2	2	0	4	0	0	0	1	1	2	0	4.0	1	11	She turned on the oven, took off her coat, and began stirring the rice.	3
+20	1	0	3	1	1	4	1	2	0	3	0	2	2	0	2	0	0	4.0	0	10	The storm was coming closer, rain was pouring heavily, and there was a strong smell of sulphur.	3
+20	0	0	3	1	1	5	1	2	1	4	1	0	0	1	1	2	0	4.0	1	9	John forgot his keys, missed the bus, and had to walk ten blocks in the pouring rain.	3
+24	0	0	2	3	3	6	6	1	0	3	0	0	0	0	3	3	0	4.0	0	13	I baked a chocolate cake, and I decorated it with frosting and I served it to my guests with juice and coffee.	3
+20	0	0	3	2	1	4	3	3	0	3	0	0	1	0	1	3	0	3.0	0	10	She opened the box, revealed a golden statue, and offered it to the king for his collection.	3
+21	0	0	2	3	1	5	3	4	0	3	0	0	0	0	3	2	0	4.0	0	8	He left the key under the mat, she knocked on the door and they entered the house in silence.	3
+18	0	0	3	1	2	4	1	3	0	4	0	0	0	0	3	1	0	3.0	0	12	The clock struck midnight, the fireworks exploded in the sky, and everyone cheered and clapped.	3
+17	1	0	3	2	1	5	0	1	0	4	0	0	0	1	3	0	0	3.0	1	10	The clock tower bells rang out, rain started pouring down, and darkness set in.	3
+20	0	0	4	1	0	5	2	2	0	4	0	0	2	0	1	4	0	3.0	0	14	She baked brownies for her friends, forgot the eggs, bought more eggs, burnt the second batch.	3
+28	0	0	3	3	2	6	4	4	0	3	0	1	2	0	1	3	0	4.0	0	15	You can choose the colors of your room, purchase the bedsheets and decorative pillows, and arrange your favorite books on the shelves all by yourself.	3
+23	1	0	3	3	1	7	1	3	0	3	0	0	1	0	3	0	0	3.0	0	15	The dog chewed on his favorite toy, the children squealed with delight, and summer rain fell heavily on the windows.	3
+17	0	0	3	2	1	5	1	2	0	3	0	0	0	0	1	2	0	3.0	0	9	She played piano, sang in the choir, and baked pastries for the church sale.	3
+16	0	0	3	0	1	3	4	0	0	3	0	1	0	0	1	3	0	3.0	0	11	I forgot my keys, forgot my wallet, and couldn't find my phone.	3
+24	4	0	3	1	1	5	3	1	0	4	0	0	1	1	2	2	0	4.0	1	13	She sings beautifully, but often forgets the lyrics, hence her backing vocals perform admirably to save her performances from complete collapse.	3
+18	0	1	3	0	1	4	3	2	0	4	0	0	0	1	1	4	0	4.0	1	9	She ordered a salad, paid her bills, and checked her email before leaving the restaurant.	3
+13	0	0	3	0	1	4	0	2	0	3	0	0	0	0	3	0	0	4.0	0	5	The dog barked, the children screamed, and fire alarms blared.	3
+21	1	0	3	2	1	4	2	1	3	4	0	0	0	0	1	3	0	3.0	0	16	I studied law at Cambridge University, passed my bar exams, then went to London and started a practice.	3
+16	3	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	11	The dog barked loudly, the mail arrived promptly, and the neighbors laughed loudly.	3
+22	0	0	3	2	1	5	3	2	1	3	0	1	0	0	1	3	0	3.0	0	16	She missed the flight to Boston, forgot her phone at the airport, and couldn't find her hotel reservation.	3
+16	0	0	3	1	1	4	1	3	0	3	0	0	0	0	3	0	0	3.0	0	9	My phone rang, the dog barked, and a knock came at the door.	3
+33	2	0	3	3	3	5	4	3	0	4	0	4	1	0	3	2	0	4.0	0	17	I've been working on this report for hours, and I still haven't finished, but I must submit it tomorrow and also attend that important meeting in the afternoon.	3
+13	0	0	2	0	1	5	2	2	0	1	0	0	0	0	1	1	0	4.0	0	4	He forgot his keys, the appointment time and the anniversary date.	3
+20	0	0	3	1	1	4	0	4	0	5	0	0	0	2	3	0	0	3.0	2	13	The sun began to rise, the birds started to chirp, and the dewdrops sparkled on the leaves.	3
+13	1	0	3	0	1	3	0	2	0	3	0	0	0	0	3	0	0	3.0	0	8	The storm approached, lightning cracked, and the sky thundered ominously.	3
+15	0	0	3	0	1	3	2	2	0	3	0	1	0	0	1	3	0	3.0	0	9	I will visit the library, meet my friend, and attend the lecture.	3
+17	0	0	3	1	1	5	2	3	0	1	0	1	0	0	1	1	0	4.0	0	7	I'll bring a blanket, a flashlight, and some food for our camping trip.	3
+16	0	0	3	1	2	4	1	2	0	3	0	0	0	0	1	2	0	4.0	0	11	I went to the store, bought milk and eggs, and made a cake.	3
+14	0	0	2	1	1	4	4	1	0	1	0	0	0	0	1	1	0	3.0	0	11	I lost my wallet, my phone and my key in the crowd.	3
+44	3	0	5	3	4	9	5	1	0	5	1	4	3	3	5	2	0	5.0	3	31	She has worked in the hospital for 15 years, yet she still struggles to make ends meet, and her children rarely have enough clothes or books; her salary is barely sufficient, and her husband has been unemployed for months.	4
+53	1	2	3	6	5	9	4	2	0	4	2	7	7	1	4	1	0	6.0	1	38	The package has been sent to you in a wooden crate with tight bolts and nails, but it also has labels from at least three different cities and has come by two distinct transport companies, yet you cannot be certain that its contents will be as expected or unharmed.	4
+23	0	0	7	0	2	5	0	4	0	1	0	1	3	0	1	1	0	4.0	0	9	The package was large, heavy, fragile, and contained a watch, a vase, a book, and photographs.	4
+31	2	1	4	2	1	5	3	5	0	5	0	1	1	2	2	3	0	5.0	2	13	Despite her best efforts, she had lost the competition, yet still attended every session, as she both missed the excitement and sought to learn from the winners.	4
+29	3	0	4	4	2	5	1	3	1	5	0	0	0	1	1	1	0	5.0	1	11	Despite the protest, she continued eating, danced and then spoke in public, but forgot the flowers for Grandma's grave on the way back home.	4
+48	2	1	4	6	3	12	3	8	0	7	0	0	2	3	5	0	0	6.0	3	12	The cat slept on the cool tiles, but its tail twitched whenever a rat scratched in the wall, and it stared at a cockroach crawling on the hot iron stove, or purred contentedly while its shadow danced on the ceiling with the setting sun.	4
+28	1	0	5	3	2	4	1	2	5	3	0	0	1	1	2	1	0	4.0	1	18	John travels to Spain, Greece, Italy, and France every year for vacation, but he still finds new places in each county to explore.	4
+36	2	0	3	6	2	9	5	2	0	4	0	1	0	2	2	4	0	5.0	2	13	They spoke to the professor after class, and in his office he gave them permission to access the library archives during off hours, but warned them sternly to be back before closing time.	4
+35	2	1	3	3	3	12	1	4	0	6	0	0	0	1	2	5	0	4.0	1	19	They enjoyed ice cream and candy bars, went swimming and played basketball in the summer, read novels and watched movies during the winter while the rain outside beat ceaselessly against the windows.	4
+20	0	1	2	0	3	6	1	2	0	5	0	0	0	1	5	1	0	5.0	1	5	The children giggled, and their parents shared stories while the fire roared and popcorn crackled and beer flowed.	4
+40	4	0	6	6	2	7	3	4	1	5	0	0	1	0	4	1	0	5.0	0	12	The baby slept through the night, yet it cried at dawn; she drank coffee before breakfast, but not with milk; they traveled westwards across the country, and then turned north at the Pacific Ocean.	4
+48	2	0	5	6	2	15	2	5	0	6	0	0	5	1	5	1	0	5.0	1	29	A dog barked hysterically in broad daylight, and simultaneously its owner fumbled with car keys, a little girl screamed with delight on the nearby playground, the traffic light turned from red to green, and the ice cream man started playing his annoying jingle.	4
+73	8	1	8	6	6	12	4	6	0	12	0	2	8	5	7	1	0	10.0	5	44	The monkeys slept high in their nests, yet chattered noisily; the baboons were awake and prowling, yet stayed silent, while the leopard watched carefully and growled ominously; the river roared beneath the forest and its current was swift, yet it flowed silently too in its deeper reaches where hidden currents swirled and whispered to each other, creating complex ecologies of life teeming with unimaginable beauty.	4
+38	5	0	5	2	3	9	1	8	0	5	0	0	0	0	5	1	0	4.0	0	29	The baby sleeps peacefully in her crib, but the clock chimes loudly every hour, and the phone rings constantly, the dog barks uncontrollably outside, and the mailman drops the mailbag on the porch.	4
+21	1	0	4	2	1	3	1	2	2	5	0	0	0	0	1	2	0	3.0	0	16	She traveled to France, studied abroad and worked in London; earned a law degree, pursued a Ph.	4
+37	0	0	4	5	2	12	0	6	0	5	0	0	2	1	4	1	0	6.0	1	11	The bird on a wire sang at midnight under the moonless sky, but the owls replied in unison, the leaves rustled in the gentle breeze, and lightning bugs flashed to keep darkness company.	4
+32	2	1	5	3	1	7	2	2	1	5	1	0	1	1	1	2	1	3.0	2	19	Despite her fear of driving, she attended two seminars abroad, learned to ski, gave a TED talk under extreme anxiety, and now volunteers as a driving instructor.	4
+29	1	0	6	5	2	4	2	1	4	3	0	1	0	1	1	1	0	6.0	1	7	Despite her youth, she had completed a PhD in mathematics, and traveled widely throughout Europe, speaking at conferences in Rome, Vienna, and Paris.	4
+15	0	0	4	0	1	4	1	1	0	4	0	0	0	0	1	3	0	4.0	0	10	She baked bread, mended socks, sewed shirts, and cleaned the barn.	4
+33	0	1	1	1	6	7	2	1	0	3	0	4	4	2	2	2	0	5.0	2	16	The package is overweight and undersealed and will not travel either by air or sea and you will be unable to use courier services or standard mail in order to send it.	4
+38	0	0	3	6	4	4	5	2	6	4	0	0	4	1	2	3	0	5.0	1	16	She studied literature at Harvard and at Sorbonne, lived in Italy and Greece, yet she found herself missing most the green trees and roses in her native Sweden during her long winters in the South.	4
+23	1	0	5	2	1	5	2	2	0	3	0	1	1	0	1	2	0	5.0	0	10	She is playing the guitar, dancing, drinking wine, and telling old anecdotes to her grandchildren, all at once.	4
+39	1	0	5	4	2	8	2	6	0	5	2	1	2	1	2	2	0	6.0	1	15	I've attended five seminars this year alone, and in the next two months, I plan to present at a symposium, publish an article, and collaborate on a research project with a fellow professor.	4
+31	3	1	4	2	2	7	3	2	0	5	0	0	2	1	1	3	0	4.0	1	19	Despite her illness, she studied diligently while recovering, and simultaneously took long walks each afternoon, attended her favorite yoga class and wrote poetry late into the night.	4
+24	0	0	4	4	1	11	0	3	0	1	0	0	0	0	1	1	0	4.0	0	14	The artist used acrylics for the landscapes, watercolors for the seascapes, charcoal for figure drawing, and oil paints for portraits.	4
+24	2	1	4	1	2	5	0	4	0	4	0	0	1	1	4	0	0	4.0	1	16	The sun sets, and the mountains grow dark, while the lake freezes over, and birds fly south for the winter.	4
+34	1	1	4	2	2	7	1	6	0	6	0	0	3	2	5	1	0	4.0	2	25	The sun sets late in the summer, the moon rises high and full, we gather around the bonfire to share stories, and the stars twinkle bright as the night deepens.	4
+30	0	1	4	3	2	9	3	2	0	6	0	0	0	1	1	4	1	4.0	2	13	While cooking dinner and listening to jazz music, my grandma watched the sun setting beyond the lake, cleaned her glasses, and checked her phone for messages.	4
+25	1	0	4	2	1	6	2	3	0	4	0	1	1	1	1	3	0	4.0	1	7	The children are playing inside with their toys, reading books, eating candy, and coloring their pictures all at the same time.	4
+27	4	0	4	4	1	5	0	5	0	4	0	0	0	0	1	0	0	3.0	0	19	The bird sang delightfully on the roof, flew elegantly through the park, dived deeply into the pond, and perched peacefully on the branch.	4
+22	1	0	4	1	2	5	1	3	0	4	0	0	1	0	1	2	0	5.0	0	17	She played the piano beautifully, sang in the opereta and the choir, painted portraits, and wrote elegant haiku.	4
+47	0	1	7	5	5	10	6	2	0	6	0	2	2	2	5	3	0	6.0	2	17	They have lived on this mountain farm since childhood, and although their lifestyle was hard, yet it provided food for themselves and livestock, and, at the worst times, they had shelter, but at times they had to endure freezing winters.	4
+9	1	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	 and, but, or, and yet.	4
+29	0	0	3	5	2	8	1	5	0	4	0	0	0	1	1	1	0	5.0	1	13	The bird sings in the morning sun, yet preens itself in the shadow, nestles in the branches but hops on the ground to search for food.	4
+30	2	2	5	0	2	5	3	2	0	4	0	1	3	2	3	3	1	3.0	3	14	Although she's introverted and quiet, She enjoys reading mystery novels passionately, and, although a loner, she frequently visits the public library to borrow books.	4
+33	1	0	5	5	1	7	2	5	0	4	1	0	2	0	1	1	0	7.0	0	17	She danced at her wedding, graduated from the university, moved to a new house, and celebrated a grand birthday bash, all within a span of just two years.	4
+27	1	0	3	5	2	9	0	3	1	2	0	1	0	0	1	1	0	4.0	0	16	A monarch butterfly may visit gardens in the west during spring, summer, and autumn in the north and migrate southward through Mexico during winter.	4
+27	3	1	4	2	1	4	2	2	0	5	1	0	2	3	2	1	0	5.0	3	12	A large dog ran through the park, barking loudly, while three smaller ones chased it, yapping excitedly and playfully tugging at its tail.	4
+25	2	1	4	1	2	5	0	5	0	5	0	0	0	1	4	0	0	4.0	1	13	The lion roared majestically in the jungle, while the sun set, the birds flew home, and the monkeys howled and chattered.	4
+43	1	1	3	6	2	12	4	4	1	5	0	0	3	2	2	3	0	5.0	2	30	She spoke in front of a crowd at her high school graduation, while baking cookies for the PTA sale and reading scripts at a local community theatre, but she found her true passion when interning at the city's museum.	4
+33	0	0	4	4	2	9	0	0	1	7	0	0	5	1	1	4	0	5.0	1	18	Alan attended graduate school for physics, studied theoretical mathematics, published research in multiple reputed journals, and traveled to international conferences to present and receive critical feedback from fellow scientists.	4
+31	4	0	4	4	1	7	0	6	0	4	0	0	1	0	1	2	0	4.0	0	22	The dog chased the cat into the garden, barked loudly at the squirrel, digged holes next to the tree, and then slept soundly in the sunlit spot.	4
+38	0	0	4	5	3	9	3	4	0	5	0	0	3	1	1	1	0	6.0	1	9	She went dancing at the local bar, and sang at the city's annual festival, and painted her creations for the art exhibition, and volunteered at the children's hospital during her free time.	4
+29	0	1	3	5	3	10	2	0	0	4	0	0	1	1	2	2	0	5.0	1	9	She sings at weddings and birthday parties, yet she plays classical music in concert halls, while teaching in schools on weekdays and attending auditions on weekends.	4
+16	0	0	4	1	1	6	1	0	1	1	0	0	1	0	1	1	0	3.0	0	13	John studied physics, mathematics, computer science, and philosophy during his undergraduate education.	4
+14	0	0	4	1	1	3	0	2	0	3	0	0	0	0	1	0	0	3.0	0	7	The monkeys play, leap, swing, and fight in the forest.	4
+33	1	0	4	2	3	5	0	4	4	4	0	2	2	1	1	3	0	6.0	1	16	A person can travel through France, Italy, Greece, and Spain within a month but will not have enough time to visit all cultural sites and enjoy the foods extensively.	4
+24	0	0	4	2	3	4	1	4	1	4	0	1	0	0	2	1	0	3.0	0	15	After the concert, I went for dinner, called an Uber, and either got lost or the driver took a detour.	4
+30	1	1	5	1	2	5	4	2	0	6	0	3	0	1	3	1	0	4.0	1	15	I must study, read, write and revise all night long, but my friend is enjoying the midnight sun, while I'm buried in my books.	4
+42	1	0	10	3	5	8	2	1	4	7	0	0	1	0	2	3	0	5.0	0	18	She traveled to Egypt, France, Italy, and India, and at every temple and palace she admired artworks, savored cuisines, shopped, learned about customs, made new friends, but also experienced challenges and disappointments.	4

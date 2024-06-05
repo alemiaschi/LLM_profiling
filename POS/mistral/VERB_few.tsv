@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Beautiful sunset.	0
+4	0	0	1	0	0	1	0	0	2	0	0	0	0	0	0	0	0	2.0	0	1	Infinity Mirror Room.	0
+2	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.0	0	0	I.	0
+9	0	0	1	1	0	1	0	1	3	0	0	1	1	0	1	0	0	3.0	0	5	The tallest building in Chicago is Sears Tower.	0
+2	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.0	0	0	I.	0
+13	0	0	1	2	0	2	0	2	3	0	0	1	2	0	1	0	0	3.0	0	9	The monarch of England during the early 17th century was James I.	0
+6	0	0	2	0	0	2	0	1	0	0	0	0	1	0	0	0	0	2.0	0	4	An hour-long infomercial.	0
+6	1	0	1	0	0	2	0	0	0	1	0	0	1	0	0	0	0	2.0	0	3	Intricately carved ivory chess set.	0
+9	0	0	2	1	0	3	0	1	0	1	0	0	1	1	0	0	0	3.0	1	3	A peaceful mountain lake, surrounded by trees.	0
+7	0	0	2	1	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	2	"""I'm allergic to peas."	0
+4	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	Silence, stillness.	0
+10	0	0	1	1	0	1	0	2	4	1	0	0	0	0	1	0	0	3.0	0	4	The Mona Lisa painting hangs in the Louvre Museum.	0
+6	0	0	1	1	0	1	0	1	1	0	0	0	1	0	0	0	0	2.0	0	2	The Grand Canyon at sunset.	0
+4	0	0	1	0	0	2	0	0	0	0	0	0	1	0	0	0	0	1.0	0	2	Beautiful autumn foliage.	0
+6	0	0	1	1	0	1	0	1	1	0	0	0	1	0	0	0	0	2.0	0	2	The Grand Canyon at sunrise.	0
+7	0	0	1	0	0	1	0	1	1	0	0	0	2	0	0	0	0	2.0	0	3	The Grand Canyon's breathtaking beauty.	0
+10	0	0	1	1	0	2	1	1	0	2	0	1	0	1	1	1	0	4.0	1	2	I'd love to have a chat about stocks.	0
+13	1	0	2	1	0	4	0	2	0	1	0	0	1	0	0	0	0	4.0	0	6	A set of beautifully carved antlers, the room's focal point.	0
+6	0	0	1	0	0	2	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	Incredible silence filled the room.	0
+11	0	0	1	2	0	2	0	2	2	0	0	1	1	0	1	0	0	3.0	0	5	The Great Wall of China is a series of fortifications.	0
+4	0	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	2.0	0	1	Majestic Mount Rainier.	0
+5	0	0	1	0	0	2	0	0	0	1	0	0	1	1	0	0	0	1.0	1	2	Incomplete mailing address provided.	0
+17	0	0	3	1	1	8	0	0	0	1	0	1	2	1	1	0	0	3.0	1	11	Calcium carbonate, magnesium hydroxide, and silicon dioxide are common mineral compounds used in antacids.	0
+6	0	0	1	1	0	0	0	1	2	0	0	0	1	0	0	0	0	2.0	0	2	The Great Wall of China.	0
+4	0	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	2.0	0	1	Exquisite elegance embodied.	0
+7	0	0	1	1	0	2	0	2	0	0	0	0	1	0	0	0	0	2.0	0	3	A peaceful morning in the park.	0
+7	1	0	2	0	1	1	0	1	0	0	0	0	1	0	0	0	0	3.0	0	2	The moon, round and pale.	0
+7	0	0	4	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1.0	0	4	"""Exquisite, delicate, elegant."	0
+10	0	0	1	2	0	4	0	2	0	0	0	0	1	0	0	0	0	3.0	0	3	Beautiful sunset view from the top of the mountain.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+6	0	0	2	0	0	1	0	1	0	0	0	0	2	0	0	0	0	1.0	0	4	An elegant, minimalist office.	0
+13	0	0	1	0	1	2	0	3	4	1	0	0	0	0	1	1	0	3.0	0	4	The city's landmarks include the Washington Monument and the Lincoln Memorial.	0
+6	0	0	2	0	0	2	0	1	0	0	0	0	1	0	0	0	0	2.0	0	4	A round, orange fruit.	0
+6	0	0	2	0	0	1	0	1	0	0	0	0	2	0	0	0	0	1.0	0	4	A beautiful, peaceful garden.	0
+14	0	0	1	2	1	4	0	2	0	1	0	0	3	0	1	1	0	4.0	0	5	The color palette for the new logo includes hues of blue and green.	0
+6	0	0	1	1	0	0	0	1	2	0	0	0	1	0	0	0	0	2.0	0	2	The Great Pyramid of Giza.	0
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	Silence speaks volumes.	0
+6	0	0	1	0	1	2	0	0	0	0	0	0	2	0	0	0	0	2.0	0	3	Soft whispers and gentle laughter.	0
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	A peaceful quiet.	0
+7	0	0	1	2	0	2	0	1	0	1	0	0	0	0	0	0	0	3.0	0	3	Meditating on the nature of consciousness.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Silence prevails at the quiet library.	0
+10	0	0	1	2	0	3	0	3	0	0	0	0	1	0	0	0	0	2.0	0	7	The beauty of the moon on a clear night.	0
+6	0	0	1	1	0	0	0	1	2	0	0	0	1	0	0	0	0	2.0	0	2	The Great Wall of China.	0
+6	2	0	1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	3.0	0	4	A peacefully still morning scene.	0
+6	0	0	1	1	0	0	0	1	2	0	0	0	1	0	0	0	0	2.0	0	2	The Great Wall of China.	0
+4	1	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	2.0	0	1	Incredibly beautiful sunset.	0
+6	0	0	1	1	0	1	0	1	2	0	0	0	0	0	0	0	0	2.0	0	2	The Eiffel Tower at sunset.	0
+8	0	0	1	1	1	3	0	1	0	0	0	0	1	0	0	0	0	3.0	0	2	A perfect blend of coffee and spices.	0
+7	0	0	1	0	1	2	0	0	0	1	0	0	2	0	0	0	0	3.0	0	5	Black and red checkered floor tiles.	0
+6	0	0	1	1	0	2	0	1	0	0	1	0	0	0	0	0	0	2.0	0	4	Five o'clock in the morning.	0
+7	1	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	They successfully implemented the software upgrade.	1
+9	1	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	4	The book was published simultaneously in three languages.	1
+7	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	3.0	0	4	He conquered the enemy's territory.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the fence.	1
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She smiled at the stranger.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept peacefully on the mat.	1
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She jumped over the fence.	1
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The tree shed its leaves.	1
+11	0	0	1	2	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	The old tree sagged under the heavy weight of snow.	1
+6	0	0	1	0	0	2	1	0	0	1	0	0	1	0	1	1	0	2.0	0	3	She creates breathtaking art masterpieces.	1
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The cat chased the laser dot.	1
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	They denied any wrongdoing.	1
+10	0	0	1	1	0	2	0	1	0	2	0	1	1	1	1	0	0	3.0	1	3	The company has decided to invest in new technology.	1
+6	1	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The statue was defaced overnight.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	1
+6	0	0	1	0	0	1	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	The ancient statue was unearthed.	1
+9	0	0	1	1	0	2	0	2	0	2	0	1	0	0	1	0	0	2.0	0	4	The sculpture was shattered by the falling rock.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The ball hit the ground hard.	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The vase shattered upon impact.	1
+11	0	0	1	2	0	4	1	1	0	1	0	1	0	0	1	1	0	3.0	0	7	I will eat a slice of pizza for dinner tonight.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun sets over the ocean every evening.	1
+9	0	0	1	0	0	2	1	1	0	2	0	1	1	1	1	1	0	3.0	1	4	We'll begin designing the website next week.	1
+8	0	0	1	1	0	1	1	1	1	1	0	1	0	0	1	0	0	2.0	0	4	He is an accomplished chef in Paris.	1
+7	0	0	1	1	0	1	2	1	0	1	0	0	0	0	1	1	0	3.0	0	2	He painted a portrait of her.	1
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	7	We built a small snowman during the winter break.	1
+10	0	0	1	2	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	The new rule is imposed from this day on.	1
+7	0	0	1	0	0	1	1	1	0	2	0	1	0	1	1	1	0	3.0	1	2	I have finished writing the article.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rose in the east.	1
+9	0	0	1	1	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	6	She transformed the old furniture into elegant pieces.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	She dances gracefully every night.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He sings beautifully.	1
+8	0	0	1	1	0	1	1	0	1	1	0	1	1	0	1	0	0	2.0	0	4	I have traveled to Japan multiple times.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly in the sun.	1
+7	0	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The vase was shattered into pieces.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly behind the mountain.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	1
+6	2	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The clock ticked relentlessly on.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The ball rolls down the hill.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	3.0	0	3	I finished the project ahead of schedule.	1
+10	0	0	1	2	0	3	1	2	0	1	0	0	0	0	1	1	0	3.0	0	5	He destroyed the laboratory in a fit of rage.	1
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	6	The ball hit the ground with a resounding thud.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set beautifully behind the mountains.	1
+6	1	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The ancient pyramids still stand.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She danced joyfully in the rain.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The building collapsed suddenly.	1
+8	1	0	1	0	0	2	1	1	0	2	0	0	0	1	2	1	0	3.0	1	2	The hurricane made destruction everywhere it went.	1
+7	0	0	1	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	I bake fresh bread every day.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	He sings beautifully.	1
+7	1	0	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	2.0	1	2	The baby started to cry loudly.	1
+5	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	1	0	2.0	0	2	She paints beautiful landscapes.	1
+15	0	1	3	0	1	2	1	2	0	4	0	0	0	1	1	2	0	4.0	1	8	Plow the field, irrigate it, and wait for the wheat to grow.	3
+12	2	0	2	1	0	3	0	1	0	2	0	0	1	1	1	1	0	4.0	1	5	The snowfall gradually melted, revealing patches of brown ground underneath.	3
+15	1	0	3	1	1	3	1	2	0	3	0	0	0	0	3	0	0	4.0	0	4	Snow falls, the wind howls, and we huddle together in the cabin.	3
+16	1	0	2	2	0	3	1	2	0	3	0	1	1	1	1	1	0	3.0	1	9	Avoid staring directly into the sun, it can cause severe damage to the retina.	3
+45	1	1	17	1	2	3	2	1	0	9	0	4	2	2	2	3	2	5.0	4	30	 'might cause,' 'do,' and 'might injure' (implied from 'cause injuries') - although 'do' is implied, I've chosen to explicitly include it to make the sentence clear and unambigous.	3
+17	1	0	2	1	2	2	0	0	0	6	0	0	1	2	1	0	0	5.0	2	6	Children need to study, eat and sleep to feel energetic and perform well at school.	3
+13	1	0	3	2	1	1	0	1	0	4	0	0	0	1	0	0	0	2.0	1	9	Study for the exam, sleep soundly, and wake up refreshed.	3
+17	2	1	2	3	0	3	0	3	0	3	0	0	0	1	1	0	0	4.0	1	6	The cat leaps onto the bed, then purrs loudly before curling up into a ball.	3
+14	0	0	3	0	1	3	0	3	0	3	0	0	1	0	1	2	0	3.0	0	8	The hiker found a hidden lake, rested, and enjoyed a picnic.	3
+13	0	0	2	0	1	3	0	2	0	4	0	0	0	1	0	2	0	4.0	1	4	Fold, twist and snap the wire to form a pretzel shape.	3
+13	0	0	2	1	1	4	0	2	0	2	0	0	1	0	1	1	0	3.0	0	5	The wind chimes clink, tinkle and sway in the gentle breeze.	3
+22	1	0	3	3	0	6	0	4	0	3	0	0	1	1	0	2	0	4.0	1	16	Weave through the dense forest, keeping an eye on the map's directions, then set camp for the night.	3
+23	1	1	1	3	0	7	0	3	1	2	0	3	0	1	2	1	0	3.0	1	7	The baby's laughter can often be heard from the nursery while mom is baking cookies in the kitchen during Christmas time.	3
+15	0	0	3	2	1	4	1	1	0	3	0	0	0	0	1	1	0	3.0	0	5	The baby giraffe nibbles, wanders, and kicks up its heels in joy.	3
+19	0	0	3	0	1	5	1	3	0	4	0	0	1	1	1	2	0	4.0	1	7	The gardener sowed, watered, and weeded her vegetable plot every day to yield a good harvest.	3
+18	0	0	3	1	1	6	0	4	0	3	0	0	0	0	0	3	0	4.0	0	12	Solve the crossword puzzles every morning, read the newspaper, and enjoy a cup of coffee.	3
+20	0	0	2	2	1	9	0	1	0	2	0	1	2	1	1	2	0	5.0	1	5	The wind chill factor can drop temperatures below freezing, rendering outdoor water sources unfit for swimming and ice-skating.	3
+17	1	0	2	2	1	4	1	3	0	3	0	0	0	0	1	2	0	3.0	0	10	She sings softly in the rain, plays the guitar and paints the sky with watercolors.	3
+24	0	0	3	2	1	6	3	2	0	4	0	1	0	1	3	2	0	4.0	1	14	He would prefer not to eat junk food, he exercises every day, and he drinks plenty of water throughout the day.	3
+20	0	0	3	3	1	5	1	3	0	2	0	1	1	0	1	1	0	4.0	0	10	You can hike through the meadow, pick edible berries, and camp for the night under the stars.	3
+8	0	0	2	0	1	2	0	0	0	3	0	0	0	0	1	1	0	2.0	0	5	Squirrels collect, hide and dig acorns.	3
+14	0	0	3	1	1	2	2	1	0	3	0	0	1	0	1	1	0	3.0	0	7	She danced, played an oboe, and painted in her free time.	3
+20	0	1	3	2	1	5	2	1	0	4	0	1	0	1	1	3	0	3.0	1	11	Cook dinner for your family, listen to music, and wash the dishes after everyone has finished eating.	3
+34	2	0	3	3	2	9	3	0	0	3	5	3	1	0	3	2	0	5.0	0	23	Its engine could produce three thousand horsepower, it could reach top speeds above six hundred and fifty miles per hour, and its structure was composed almost entirely of carbon fiber composite.	3
+10	1	1	1	0	0	3	0	1	0	2	0	0	1	1	1	2	0	4.0	1	2	Explorers frequently face the challenge of mapping unknown territories.	3
+24	0	0	3	3	1	6	1	3	0	3	0	1	3	0	1	3	0	3.0	0	14	You should wear layers in this climate, carry a tent for unexpected storms, and bring enough provisions for a multi-day trek.	3
+17	0	0	3	1	1	3	0	2	0	3	1	1	2	0	1	1	0	3.0	0	6	A skilled musician can compose, perform, and record an entire song in one sitting.	3
+17	2	0	3	1	1	3	0	1	0	4	0	1	0	1	1	0	0	4.0	1	7	Sculptures need to be transported, carefully assembled, and then positioned in a garden landscape.	3
+15	0	1	3	0	1	5	1	2	0	1	0	0	1	1	1	1	0	3.0	1	8	The dog barks, digs, and shakes as it discovers an old bone.	3
+17	0	1	3	0	1	2	2	1	0	4	0	0	3	1	1	3	0	3.0	1	11	Play a lively beat, add various rhythmical layers, and dance until you exhaust yourself.	3
+16	0	0	3	0	1	3	1	0	0	5	0	1	1	1	1	3	0	4.0	1	8	We'll need to research various options, evaluate costs, and make informed decisions.	3
+12	1	1	2	0	1	1	0	1	0	5	0	0	0	2	1	0	0	4.0	2	8	Keep pushing until the resistance ceases, then adjust and advance.	3
+22	2	2	1	0	0	2	4	2	0	5	0	1	1	4	3	3	0	6.0	4	6	You need to roll the dough repeatedly until it becomes very smooth before you can use it to bake a croissant.	3
+23	3	0	3	2	1	4	1	2	0	5	0	1	0	2	1	2	0	5.0	2	10	You may need to practice often, develop a sense of patience, and apply pressure slowly when working with this material.	3
+18	1	0	3	1	1	5	2	1	0	2	0	1	1	0	1	1	0	4.0	0	10	She can only eat ice cubes, speak French, and tango every day in her dream.	3
+19	0	0	3	1	1	7	0	3	0	2	0	0	1	0	1	2	0	3.0	0	15	The chef adds herbs, sears the steaks, and flambé desserts in the restaurant's open kitchen.	3
+24	1	0	4	1	1	5	0	4	0	5	0	0	2	3	2	2	0	5.0	3	10	The sun sets gradually, casting long shadows, and the wind begins to howl, signaling the arrival of another stormy night.	3
+16	0	0	3	1	1	4	1	3	0	3	0	0	0	0	1	2	0	3.0	0	10	The dog chases the squirrel, jumps over the fence, and retrieves its frisbee.	3
+15	3	0	3	0	1	3	0	2	0	3	0	0	0	0	3	0	0	3.0	0	10	The sun gradually sets, the waves relentlessly crash, and stars slowly appear.	3
+12	0	0	3	2	0	3	0	1	0	3	0	0	0	0	0	1	0	3.0	0	7	Melt chocolate, stir in milk, bring to a simmer.	3
+21	2	0	3	0	1	6	0	3	0	4	0	1	0	1	1	3	0	4.0	1	11	People are asked to remember a childhood game, sing the melody aloud, and fold a paper crane simultaneously.	3
+18	2	0	3	1	1	4	2	1	0	3	0	0	0	1	1	2	0	3.0	1	10	A rabbit digs its burrow, then grooms itself, and finally comes out to eat carrots.	3
+21	2	1	2	2	0	4	2	3	0	4	0	0	1	2	1	3	0	4.0	2	8	She carefully unpacked the fragile dishes, rinsing each piece under running water before gently drying them with a towel.	3
+26	1	0	3	3	1	6	2	2	1	3	0	0	2	0	1	2	0	4.0	0	16	She dances gracefully behind the trees, sips tea from her grandmother's antique cup, and whispers tales beneath the Moon's silver glow.	3
+10	0	0	3	0	0	4	0	1	0	2	0	0	0	0	2	0	0	2.0	0	6	The dog chases, cat flees, mouse hides.	3
+23	2	0	4	1	1	4	2	3	0	3	0	1	1	0	1	2	0	4.0	0	14	You can play the game all evening, then share your winnings, and afterwards, learn from each other's strategies.	3
+21	0	2	3	0	1	2	3	1	0	8	0	0	0	4	2	3	0	5.0	4	14	We need to bake the cookies until they rise, spread melted chocolate, and let them cool before serving.	3
+15	1	1	1	1	1	3	1	2	0	3	0	1	0	1	1	2	0	4.0	1	4	I'd rather watch the sunset while listening to music and having a picnic.	3
+25	0	0	3	3	2	8	0	1	0	5	0	1	1	1	3	1	0	5.0	1	9	A chess tournament lasts for several days, players need to rest between games, and spectators can analyze and discuss moves with experts.	3
+21	1	0	3	3	1	6	1	3	0	3	0	0	0	0	0	2	0	4.0	0	13	Play chess against your brother, bake a chocolate cake, and then go for a walk in the park.	3
+29	0	0	5	0	1	5	5	3	0	5	0	5	0	0	5	4	0	3.0	0	23	She's painting a picture, he's drawing an arc, the kid is watching, they're eating pizza, and I'm grading their homework.	5
+23	3	1	4	1	2	4	1	2	0	5	0	0	0	1	2	1	0	3.0	1	12	The children in the park enthusiastically chased, laughed, and threw balloons, while their dogs anxiously awaited and barked joyfully.	5
+17	2	0	4	1	1	2	1	1	0	4	0	1	0	0	1	1	0	3.0	0	8	They were constantly arguing, yelling, breaking dishes, and drinking late into the night.	5
+24	0	1	4	1	2	5	2	3	0	5	0	0	1	2	1	4	0	6.0	2	10	She baked a pie, frosted it with cream, and enjoyed a piece while watching the sunset, feeling relaxed and content.	5
+19	1	0	4	1	1	2	4	1	0	4	1	0	0	0	1	4	0	3.0	0	11	She carefully selected five apples, peeled them, sliced them, and baked them for the pie.	5
+19	0	0	5	1	1	4	0	2	0	4	0	1	1	0	1	0	0	2.0	0	14	The children are drawing, laughing, painting, singing, and dancing during this interactive art class.	5
+23	0	0	4	0	1	6	0	6	0	5	0	0	1	0	1	5	0	3.0	0	16	The chef sliced the vegetables, stirred the sauce, seasoned the rice, grilled the fish and added the final garnishes.	5
+22	1	0	6	1	1	2	1	2	0	7	0	0	0	0	2	0	2	3.0	2	9	When the sun began to rise, we danced, sang, cooked, laughed, and reminisced around the bonfire.	5
+22	0	0	5	2	1	3	0	3	0	6	0	1	0	2	1	0	0	4.0	2	7	The children in the crowd were dancing, singing, waving, clapping, and cheering for the parade to begin.	5
+13	1	0	2	1	0	5	1	0	0	3	0	0	0	2	2	1	0	3.0	2	7	Squirrels scatter in fear when eagles swoop, snatching their acorns mid-air.	5
+30	0	1	4	2	0	8	3	3	1	5	0	1	1	3	2	3	1	6.0	4	8	After checking her email account every hour, Sarah discovered a scam message in her inbox, which claimed to be from a trusted vendor, demanding immediate payment.	5
+28	0	0	4	3	1	6	3	3	0	5	0	0	2	1	1	5	0	5.0	1	20	He handed her the document to read, called the lawyer for advice, scheduled a meeting for tomorrow, and made several necessary changes to it.	5
+26	2	0	6	1	1	5	2	2	0	5	0	0	2	0	1	3	0	4.0	0	13	The crowd gathered, cheered, threw confetti, fired their cannons, and finally welcomed their long-awaited hero back to the stage.	5
+31	0	1	3	3	1	9	3	6	0	5	0	0	0	3	3	3	0	7.0	3	7	The sun sets as we sail toward the finish line, the wind ruffling our sails and sparking the flames on the barbecue, preparing us for the victory feast.	5
+41	1	0	5	3	1	9	3	6	1	10	0	0	0	4	5	2	1	5.0	5	14	When we arrived at the amusement park, the sun began to set, the wind kicked up, the children cheered, we grabbed our cotton candy and joined the crowd waiting for the Ferris wheel to start spinning.	5
+24	0	0	4	3	1	6	1	3	0	4	0	0	2	1	1	3	0	4.0	1	10	The detective searched through old documents, called several suspects, and arrested the culprit, bringing him to the station for interrogation.	5
+23	0	0	7	0	0	4	4	0	6	0	0	2	0	0	3	1	0	4.0	0	13	**  _verb1: I'll be working_ _verb2: he helps_ _verb3: you prepare_ _verb4: dinner_ _verb5: we walked_.	5
+23	2	0	5	1	1	3	0	2	0	7	0	0	0	2	2	0	0	5.0	2	9	The group of tourists eagerly debated, scrutinized, examined, argued, and compromised to decide which museums to visit next.	5
+27	0	0	3	4	1	7	4	2	1	4	0	0	0	1	1	4	0	4.0	1	13	The sales manager urged all his staff to complete their sales reports by Friday, review them for errors, and turn them in for approval.	5
+24	0	0	4	2	1	6	1	2	0	6	0	0	0	1	1	2	0	6.0	1	7	The teacher assigned students to read, write, discuss, and evaluate their opinions on a given topic for today's lesson.	5
+22	0	0	5	3	0	3	2	2	0	5	0	0	2	0	1	0	0	4.0	0	8	He smoked, ate, read, painted, laughed throughout the day in his cozy little cabin by the lake.	5
+47	3	3	4	5	2	11	2	5	0	9	0	0	2	6	4	3	0	8.0	6	13	The sun rose slowly, casting long shadows across the empty streets, as we scrambled to find shelter and grab our umbrellas before the rain began pouring down in sheets, while the pigeons squawked loudly and flew in all directions in search of shelter.	5
+24	1	0	5	2	1	6	2	1	0	5	0	0	1	0	1	0	0	4.0	0	10	My brother asked, borrowed, denied, refused, and finally begged for my assistance with the family business finances last night.	5
+29	0	0	4	3	2	7	1	2	0	6	0	0	2	2	2	4	0	5.0	2	18	The team agreed to assign roles, set deadlines, and create tasks for the upcoming project, but they hesitated to allocate resources due to uncertain finances.	5
+27	2	1	3	2	1	8	1	2	0	5	0	0	2	3	2	3	0	5.0	3	10	The construction crew continued demolishing walls, hoisted heavy beams overhead, and hammered new structures into place while the neighbors watched anxiously from their apartments.	5
+28	3	0	4	1	2	5	2	1	0	7	0	1	1	1	1	4	0	4.0	1	16	I will call my friends to come over and eat pizza, listen to music, dance around, tell jokes and have a great time together.	5
+24	0	0	3	1	1	6	5	2	0	4	0	0	2	1	2	3	0	4.0	1	13	They demanded I cancel my old membership, transfer all funds to their account, and attend their mandatory orientation seminar every month.	5
+29	1	0	4	3	1	7	4	4	0	4	0	0	1	0	1	5	0	4.0	0	17	They offered me free samples, explained the instructions carefully, assembled the furniture for me, and promised a delivery window for the remainder of my order.	5
+18	1	0	3	0	1	4	1	1	0	4	0	1	1	1	1	4	0	4.0	1	8	They are constantly updating the website to improve functionality, add new features, and fix bugs.	5
+24	0	0	5	0	1	6	0	5	0	5	0	0	2	0	1	5	0	3.0	0	17	The storm destroyed the houses, flooded the gardens, uprooted the trees, shattered the windows, and left countless people homeless.	5
+30	1	1	3	3	1	9	1	5	0	5	0	0	0	2	4	3	0	4.0	2	21	The detective searched for clues intensely while the firefighters put out the flames, the scientist documented the damage, and my neighbors gathered essentials in preparation to evacuate.	5
+34	2	1	4	5	1	10	1	5	0	5	0	0	0	2	1	3	0	4.0	2	14	The artist carefully applied pigments to the canvas using a palette knife, while simultaneously blending shades with a brush, listening to the radio for inspiration, and sipping on his coffee.	5
+23	2	0	1	1	0	5	4	1	0	4	0	2	1	3	2	2	0	5.0	3	7	You would be surprised how frequently the city maintenance workers manage to flood our neighborhood despite their best efforts to prevent it.	5
+32	3	0	5	2	1	7	0	6	0	5	0	0	3	0	1	4	0	3.0	0	22	The hikers carefully followed the map, ascended the steep trail, passed by a serene lake, admired the picturesque landscape, and finally reached the peak just before sunset.	5
+24	2	0	5	1	1	7	1	2	0	5	0	0	0	0	2	3	1	4.0	1	10	The teacher assigned group projects, we compiled research, designed posters, rehearsed presentations, and worked together late into the night.	5
+20	0	0	5	1	1	6	0	2	0	4	0	1	0	1	1	3	0	4.0	1	8	Children at the park were building sandcastles, playing catch, picnicking, laughing, and enjoying the sunshine.	5
+17	1	0	3	1	0	3	3	2	0	3	0	0	1	1	2	2	1	3.0	2	7	When I reached the summit, the cool breeze brushed past me, caressing my face.	5
+24	0	0	4	2	1	9	0	2	0	4	0	1	1	0	1	4	0	3.0	0	10	Several children were throwing balls, kicking stones, clapping hands, and jumping rope all in unison during the school playground recess.	5
+32	2	1	4	3	2	8	2	3	0	6	0	0	0	1	2	2	0	6.0	1	8	The children in the room excitedly argued, threw stuffed animals, and climbed on chairs, while their mother nervously sipped her coffee and waited for the teacher's arrival.	5
+16	0	0	5	1	1	2	0	2	0	5	0	0	0	0	1	0	0	3.0	0	9	The monkeys swung, jumped, danced, howled, and played on the branches.	5
+15	1	0	1	2	1	4	2	1	0	2	0	1	0	1	1	1	0	4.0	1	5	My friends and I are often seen playing basketball after dinner at the park.	5
+19	1	2	2	1	1	5	1	1	0	5	0	0	0	2	2	2	0	4.0	2	6	The children giggled as their mother prepared dinner, chopping vegetables while listening to music and singing along.	5
+28	0	0	5	3	1	7	0	5	0	6	0	0	0	1	1	3	0	5.0	1	20	The storm threatened to rip off the roof, flooded the basement, uprooted trees, knocked out the power, and left the town without supplies.	5
+24	0	1	5	1	1	8	1	3	0	4	0	0	0	1	2	2	0	5.0	1	11	The coach demanded that we stretch, lift weights, sprint, jump rope, and practice teamwork for an hour every day.	5
+34	1	0	5	2	2	10	1	4	0	5	0	2	0	2	2	3	0	6.0	2	10	During the winter, we should always ensure the heating system doesn't fail, checking the furnace's filter, inspecting ducts, and sealing any air leaks around windows and doors.	5
+40	1	0	4	7	1	11	1	7	0	5	0	0	3	2	1	1	0	5.0	2	18	The squirrel scurried through the garden, evading the watchful eye of the hunting hawk overhead, burrowing into its nest for food, and hiding from the approaching rainstorm under the protective shade of a tall oak tree.	5
+20	1	1	2	2	1	2	4	1	0	3	0	1	1	1	2	3	0	3.0	1	11	They encouraged us to sign up early for the promotion, but promised us significant bonuses if we did.	5
+33	0	3	3	1	1	8	3	4	0	7	0	0	1	5	4	3	1	8.0	6	8	After we finish lunch, the kids insist on building a sandcastle, and mom volunteers to help while their father reads the directions for this new toy everyone wants to assemble.	5
+23	1	1	2	3	0	6	0	4	0	3	0	0	2	2	2	0	0	5.0	2	9	The group of hikers argued fiercely about the trail direction while the sunlight began to fade into a purple-blue hue.	5
+20	0	1	5	0	1	4	1	2	0	6	0	0	0	1	2	1	0	4.0	1	9	The chess master contemplated, analyzed, discussed, refined, and finalized his strategy before the game started.	5
+45	0	0	6	5	1	16	0	8	0	5	0	0	3	2	1	4	0	4.0	2	37	The chef tests multiple recipes for the evening's entrées, sources the market for fresh produce, collaborates with the sommelier on wine pairings, oversees the team in the kitchen, sets the table layouts, and creates the daily specials menu.	7
+19	1	0	6	0	1	7	0	2	0	2	0	0	0	0	1	1	0	3.0	0	12	A committee deliberates, debates, amends, votes, overrules, and finally approves the school budget.	7
+33	0	1	5	3	1	8	0	5	0	7	0	0	2	2	1	4	0	5.0	2	18	A group of hikers plan to summit a mountain, traverse through challenging terrain, set up camp, prepare a meal, and enjoy the sunset before descending the next day.	7
+34	3	0	7	3	1	6	2	4	0	7	0	0	1	0	1	4	0	3.0	0	29	The cheetah outran the lions, leaped over the rocks, dived into the water, caught its prey, swallowed it whole, shook off excess water, and finally roared triumphantly.	7
+39	0	0	6	5	1	11	5	2	0	6	0	0	3	0	1	6	0	5.0	0	26	The archaeologists unearthed ancient pottery, examined its surface for patterns, restored it with special tools, documented their findings, preserved it in museums, and continued their search for more treasures in the excavation site.	7
+31	3	0	6	2	1	7	2	0	1	6	0	0	2	1	1	5	0	4.0	1	24	John used to collect stamps, sell them online, research new acquisitions at libraries, trade with fellow enthusiasts, preserve his collection carefully, and attend conventions annually.	7
+35	2	0	7	1	2	10	0	3	0	6	0	0	4	0	1	5	0	4.0	0	25	A talented author crafts a captivating story, creates detailed characters, builds tense plot lines, edits meticulously, publishes the work, promotes relentlessly, and receives praise and admiration from readers.	7
+33	1	0	7	2	1	12	0	3	0	4	0	0	3	0	1	4	0	4.0	0	17	During the weekly meeting, members brainstorm ideas, create marketing strategies, delegate tasks, set goals, research trends, and implement the most effective plan for the upcoming campaign.	7
+36	0	0	6	4	1	10	3	6	0	6	0	0	0	0	1	6	0	4.0	0	26	The teacher scolds a student, sets an example with a correction, writes a letter of apology, sends it off, calls the parent, and reassures them of her classroom etiquette rules.	7
+23	1	0	6	1	1	4	0	2	1	6	0	0	0	0	1	1	0	3.0	0	12	Fiona's cat stalked, pounced, batted, meowed, scratched, and finally caught a bird in the living room.	7
+30	2	0	6	2	1	8	0	2	1	6	0	0	0	0	1	4	0	4.0	0	23	John's dog barked incessantly, growled at passersby, dug holes in the neighbors' yard, escaped the fence, chased deer, and retrieved sticks relentlessly.	7
+42	2	1	7	4	3	8	3	3	0	11	0	0	0	3	1	4	0	7.0	3	12	The dog chased, barked at, and caught the intruder, growled ferociously, tore apart its clothes and freed the trapped family member, before finally letting go and retreating to its bed, licking its paws in satisfaction.	7
+31	0	0	7	0	2	11	0	4	0	3	0	0	3	1	1	2	0	5.0	1	13	The gardener prunes, waters, fertilizes, mows, transplants, harvests, and repairs the broken irrigation system every day to keep the flower garden beautiful and healthy.	7
+33	0	0	6	1	2	12	0	2	0	7	0	0	2	1	1	5	0	4.0	1	23	The CEO decided to invest in research and development, hire new workers, improve employee benefits, outsource manufacturing processes, increase marketing budgets, and launch an international advertising campaign.	7
+32	0	1	6	1	1	9	0	3	0	7	0	1	2	1	1	5	0	4.0	1	22	The CEO was considering whether to invest in a new technology, expand the workforce, increase marketing budget, cut costs, enter new markets, and improve product development.	7
+34	0	0	7	2	1	12	1	1	1	6	0	0	3	0	1	6	0	4.0	0	20	During her annual performance review, Sarah received constructive feedback, set new goals, established action plans, underwent leadership training, received recognition, and discussed growth opportunities within the company.	7
+20	1	1	1	3	0	7	0	2	0	2	0	0	3	1	1	2	0	4.0	1	9	The manager reassigned critical duties to each team member while simultaneously firing several underperforming staff due to budget cuts.	7
+42	0	0	6	6	2	12	2	4	0	6	0	0	4	0	1	5	0	5.0	0	29	A group of adventurers navigated through dense forests, crossed treacherous rivers, encountered fierce wildlife, built a shelter from twigs and leaves, cooked a meal over a campfire, and shared harrowing tales of their journey around it.	7
+32	0	1	5	1	2	7	2	3	0	7	1	0	2	2	2	3	0	5.0	2	11	Four athletes run, jump, throw, and swim to earn a place on the national team, while their coach analyzes their data and designs a personalized training program.	7
+32	0	0	6	4	1	10	0	2	0	5	0	0	3	0	1	4	0	4.0	0	19	Under normal conditions, the sales team follows up on new leads, sets appointments, presents the company's offerings, negotiates deals, and seals contracts with potential clients.	7
+24	0	0	6	1	1	10	1	2	0	3	0	0	0	0	1	3	0	3.0	0	16	A family spends their weekend camping, hiking, fishing, roasting marshmallows, playing games, and sharing stories around the campfire.	7
+37	2	0	7	3	1	6	6	2	0	8	0	0	1	4	1	7	0	6.0	4	19	The detective interrogated the suspect, threatening him with evidence, urging him to confess, warning him of consequences, promising leniency, questioning him insistently, and even intimidating him with his sheer presence.	7
+24	1	1	3	1	1	6	0	2	0	5	0	1	3	2	2	2	1	6.0	3	9	A chef experimenting with new dishes might encounter setbacks when customers insist on ordering the tried-and-true classic menu items.	7
+34	0	0	6	1	2	6	2	5	1	8	0	0	1	2	1	6	0	5.0	2	19	John decided to cancel the contract, informed his team, gathered all necessary documents, signed them, and emailed the agreement to the vendor, but failed to receive a confirmation.	7
+32	1	0	5	2	1	10	1	2	0	7	1	0	2	2	2	6	0	7.0	2	15	Two children discovered a hidden tunnel leading to a secret garden where they planted trees, picked fruits, made flowers into arrangements, drew pictures, and held puppet shows.	7
+30	0	0	7	0	1	8	0	6	1	7	0	0	0	0	1	7	0	3.0	0	25	John walked the dog, fed the cat, mowed the lawn, played the guitar, painted the rooms, went grocery shopping, and baked a cake.	7
+25	0	0	8	1	2	8	0	2	0	3	0	0	1	0	1	1	0	4.0	0	13	In the rainforest, monkeys jump, swing, fight, feed, howl, rest, and explore the abundant foliage and terrain.	7
+19	1	0	1	3	1	6	0	3	0	1	0	0	3	0	1	1	0	6.0	0	4	The detective questionedly examined a series of old photographs for any potential suspects or missing pieces of evidence.	7
+24	1	0	7	2	1	5	1	1	0	6	0	0	0	0	1	1	0	3.0	0	14	A group of musicians compose, practice, perform, promote, sell merchandise, fundraise, and connect with their fans online.	7
+23	0	0	7	1	1	4	0	2	0	6	0	1	1	0	1	0	0	3.0	0	13	The children were dancing, singing, drawing, painting, baking, laughing, and playing during the annual school festival.	7
+31	1	0	5	0	2	10	1	4	0	7	0	0	0	1	2	5	0	6.0	1	20	The team brainstorms novel ideas, creates engaging prototypes, pitches the concepts, builds and tests the designs, and finally delivers a product that surpasses users' expectations.	7
+28	0	0	7	2	1	7	0	0	2	6	0	2	1	0	1	3	0	4.0	0	21	John has been studying German, practicing pronunciation, writing vocabulary flashcards, listening to podcasts, conjugating verbs, watching movies, and dreaming about Berlin.	7
+26	1	1	5	0	1	8	0	3	0	5	0	0	2	1	1	3	0	4.0	1	15	The chef tested various spice combinations, sautéed vegetables, boiled rice, caramelized sugars, and fried the meat before expertly assembling each dish.	7
+40	0	0	4	5	1	11	1	4	2	5	3	0	2	2	1	3	0	7.0	2	19	The teacher assigned students to read six chapters in their literature textbook by Thursday, research a famous author born before 1900, and create a 5-page essay on the selected author's literary contributions by Monday.	7
+30	2	0	6	3	2	7	0	1	0	6	0	0	3	1	1	2	0	4.0	1	20	The chef experimented with various ingredients, sautéed, grilled, and roasted different meats, combined flavors ingeniously, but ultimately rejected several recipes due to taste considerations.	7
+21	3	1	3	0	1	6	0	3	0	4	0	0	0	1	2	3	0	4.0	1	10	The detective scrutinized the witness statements meticulously, identified contradictions, and interviewed suspects persistently until the truth finally emerged.	7
+33	1	0	8	2	3	12	1	1	0	4	0	0	1	0	1	3	0	5.0	0	13	Children in a village often play hide-and-seek, sing traditional songs, plant crops, fish, climb trees, and collect fruits and nuts for their families.	7
+29	3	0	4	3	2	6	3	1	0	5	0	0	2	0	1	4	0	3.0	0	16	Children often draw pictures and paint, then cut out the shapes, glue them together, and present their art as unique gifts to their loved ones.	7
+26	1	0	5	0	1	10	0	2	0	5	0	0	2	0	1	5	0	3.0	0	20	The team discussed various marketing strategies, brainstormed unique ideas, analyzed competitor campaigns, developed a media buying plan, and allocated resources accordingly.	7
+25	0	1	4	2	2	7	1	3	1	3	0	0	1	1	1	2	0	4.0	1	12	During her commute, Lisa juggles a coffee cup, a phone, and an umbrella while checking emails and navigating through heavy traffic.	7
+36	2	0	6	2	1	10	0	7	0	6	0	0	1	0	1	6	0	4.0	0	24	The chef carefully selected each spice, chopped aromatic vegetables, seasoned the protein, stirred the sauce, added pasta to the pot, and finally plated the dish for the customer's enjoyment.	7
+28	0	1	6	0	1	8	3	0	1	7	0	1	0	1	1	7	0	4.0	1	18	John will call his friends, order pizza, play video games, assemble furniture, make popcorn, and help his neighbor by mowing their lawn.	7
+35	0	0	7	3	1	14	0	2	0	7	0	0	1	1	1	7	0	3.0	1	28	The detective analyzed the crime scene for evidence, questioned suspects under interrogation, reviewed surveillance tapes, consulted forensic experts, followed leads, made phone calls, and interviewed witness after witness.	7
+29	0	0	6	1	1	10	0	3	0	6	0	0	2	0	1	2	0	5.0	0	18	The team reviewed the financial reports, adjusted budgets, negotiated fees, hired consultants, conducted surveys, and made significant improvements to the customer service protocols.	7
+15	0	0	7	0	1	0	0	0	0	7	0	0	0	0	0	0	0	2.0	0	13	 laugh, sing, draw, read, dance, climb, and play.	7
+19	1	0	6	1	0	4	0	2	0	5	0	0	0	0	1	2	0	3.0	0	13	A detective interrogates,listens, writes down notes, researches, interrogates again, arrests a suspect.	7
+30	6	0	6	0	2	6	2	0	0	6	0	1	0	2	2	1	0	6.0	2	16	I will ensure my team researches thoroughly, designs creatively, writes compellingly, edits precisely, markets strategically, and analyzes continuously to maximize customer engagement and conversions.	7
+24	1	0	7	1	1	2	1	1	0	8	1	0	1	1	2	2	0	3.0	1	14	Two kids played football, laughed, cheered, fought, cried, hugged, and helped each other up when they stumbled.	7
+27	0	0	6	2	1	10	0	2	0	6	0	0	0	1	1	6	0	3.0	1	19	The archaeologist excavated ruins, identified artifacts, took photographs, shipped findings to a museum, wrote reports, and presented research findings to scholars.	7
+37	1	0	9	4	1	6	2	4	0	6	0	1	3	2	2	1	0	7.0	2	11	" argued, debated, reached, informed, and began, along with the more complex verb ""hav[e]d"" which implies an action in the past that is relevant to the current situation."	7

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+18	1	0	2	0	0	3	1	3	0	3	0	2	1	2	2	2	0	4.0	2	7	The provided text does not contain any verbs, therefore I am unable to complete the task.	0
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	3.0	0	6	The fruit from the basket is exceptionally ripe.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The music is calming.	0
+9	0	0	1	1	0	2	1	1	0	0	0	1	2	0	1	0	0	2.0	0	4	The fruit is sweet despite its negligible taste.	0
+13	0	0	2	1	1	2	0	2	0	0	0	2	3	0	2	0	0	3.0	0	6	The coffee is bitter, but the food is mediocre at best.	0
+13	0	0	2	1	1	2	0	2	0	0	0	2	3	0	2	0	0	3.0	0	6	The weather is sunny, but the food is mediocre at best.	0
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The coffee is lukewarm, but the pastries are delicious.	0
+11	0	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	3.0	0	4	The vibrant flowers on the table create an enchanting atmosphere.	0
+15	2	0	3	0	2	1	0	1	0	2	0	1	3	0	1	0	0	4.0	0	9	The vibrant flowers, once lush and blooming, are now withered and lifeless.	0
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The tea is fragrant, but the bread is stale.	0
+9	0	0	2	0	0	2	1	1	0	0	0	1	2	0	2	0	0	3.0	0	4	The flowers are vibrant, their fragrance intoxicating.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	The colorful flowers in the garden bloom perpetually.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The music is perfect for the party.	0
+18	0	1	1	0	1	3	1	2	0	3	0	2	2	1	2	2	0	5.0	1	4	The provided text is incomplete and does not contain sufficient information for me to complete the task.	0
+47	4	0	8	6	2	10	1	7	1	0	0	2	6	0	2	0	0	6.0	0	20	The food is mediocre at best, or today, like many Americans, I am skeptical, No transportation at this point, just a tabs, Thanks for the comment on the hearing, or Very hard work from the boys in blue there.	0
+14	0	1	2	1	0	4	1	2	0	2	0	0	1	1	2	0	0	3.0	1	7	The flowers smell sweet today, as the sun shines upon their petals.	0
+7	0	0	1	1	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The coffee is lukewarm at best.	0
+20	1	0	3	0	0	4	1	3	0	3	0	2	1	0	2	2	0	3.0	0	11	The provided text does not describe a verb-free sentence, therefore I cannot complete the task.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The fruits are ripening in the sun.	0
+28	0	0	2	1	3	8	2	3	0	5	1	1	2	2	3	4	0	9.0	2	9	The provided text describes various situations and people, but I have generated a sentence utilizing 0 verbs that encapsulates the overall theme of neutrality and non-action.	0
+13	0	0	2	0	1	2	0	2	0	1	0	2	3	0	2	0	0	3.0	0	7	The prepared food is pleasant, but the accompanying service is poor.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	3.0	0	5	The fruits of the labor are bittersweet.	0
+8	0	0	1	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	2	The colorful photographs are captivating and vibrant.	0
+12	0	0	2	0	0	1	0	1	0	3	0	2	2	2	1	1	0	4.0	2	3	The prepared meal is unsatisfactory, leaving much to be desired.	0
+9	1	0	2	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	4	 The coffee is tepid, yet surprisingly flavorful..	0
+16	1	0	2	0	0	3	1	3	0	3	0	1	1	2	2	2	0	4.0	2	7	The provided text contains no verbs, therefore I am unable to complete the request.	0
+11	0	0	2	0	1	2	0	2	0	1	0	1	2	0	2	0	0	3.0	0	7	The coffee tastes bittersweet, but the pastries are delightful.	0
+8	1	0	1	0	0	1	0	1	0	1	0	1	1	1	1	0	0	2.0	1	3	The coffee is too hot to drink.	0
+10	0	0	1	1	0	3	0	1	0	2	0	0	2	0	1	1	0	3.0	0	3	The provided text describes multiple scenarios with various outcomes.	0
+12	2	0	2	0	0	2	1	1	0	0	0	2	2	1	2	0	0	2.0	1	6	The waiting room is comfortable, however it is very quiet.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The fruit is sweet and ripe.	0
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	0	1	1	0	4.0	0	5	The colorful array of fruits on display entice the passerby.	0
+7	0	0	1	1	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The coffee is bitter as nails.	0
+10	0	0	1	1	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	5	The ingredients in the stew are bland and unappetizing.	0
+21	1	0	2	1	1	5	1	3	0	3	0	2	0	0	2	2	0	3.0	0	10	The provided text does not describe any action or event, therefore I cannot generate a sentence without verbs.	0
+7	0	0	1	1	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The food is mediocre at best.	0
+14	1	1	2	0	1	2	1	1	0	0	0	2	3	1	2	0	0	3.0	1	9	The fruit is ripe and delicious, though its texture is slightly grainy.	0
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The book is fascinating, yet the plot is predictable.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The coffee is bitter.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The music is exquisite.	0
+26	0	0	2	1	3	7	0	5	0	4	0	1	2	0	2	3	0	4.0	0	16	The provided text describes various scenarios and includes a solution for each one, but the text does not contain any actionable commands or verbs.	0
+16	2	0	1	0	1	4	0	3	0	3	0	0	2	0	1	2	0	3.0	0	6	The brightly colored fruit salad presented a tempting aroma but ultimately provided a flavorless experience.	0
+23	1	1	2	0	1	5	1	3	0	5	0	2	0	1	2	2	0	3.0	1	12	The provided text does not specify the desired sentence structure or content, therefore I cannot complete the task as requested.	0
+8	0	0	1	1	0	1	0	1	0	1	0	1	1	1	1	0	0	2.0	1	2	The music is pleasant to listen to.	0
+12	0	0	1	1	0	4	0	1	0	3	1	0	1	1	1	2	0	5.0	1	2	The provided text contains several examples of sentences employing 0 verbs.	0
+15	0	0	3	2	0	3	0	2	0	0	0	1	3	0	1	0	0	4.0	0	10	The fruit, like the meal's accompanying beverage, is lukewarm at best.	0
+7	0	0	1	1	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The coffee is lukewarm at best.	0
+17	0	0	1	2	0	5	1	4	0	3	1	0	0	1	2	2	0	6.0	1	3	The provided text describes a task that prompts the generation of a sentence with 0 verbs.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+8	0	0	1	0	0	2	0	1	0	2	0	1	0	0	1	1	0	2.0	0	3	The provided text doesn't contain verbs.	0
+11	0	0	1	1	0	4	0	2	0	1	0	1	1	0	1	1	0	2.0	0	5	The barn owls can eat many mice in a night.	1
+13	0	1	1	1	0	3	0	3	0	1	0	1	2	1	1	1	0	3.0	1	6	The weather is perfect for enjoying a cold beverage on a patio.	1
+19	0	0	4	2	0	6	0	3	0	1	0	2	1	0	2	1	0	3.0	0	9	"The sentence is ""A family of barn owls can eat many mice in a night!""."	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	A family of barn owls can eat many mice in a night.	1
+16	1	0	1	0	1	5	0	3	0	4	0	0	0	2	1	3	0	6.0	2	4	 The bus driver smiled broadly and honked the horn to warn pedestrians crossing the street..	1
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The coffee is strong, and the pastries are delectable.	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	 The family of barn owls can eat many mice in a night.	1
+14	1	0	4	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	"""The music is always loud, but the atmosphere is friendly."""	1
+21	2	1	2	3	0	5	1	2	0	2	0	0	3	0	2	1	1	3.0	1	7	As the employees frequently exhibit nasty rude attitude, customers often end up with a healthy dose of their unprofessionalism.	1
+11	0	0	1	1	0	4	0	2	0	1	0	1	1	0	1	1	0	2.0	0	5	The barn owls can eat many mice in a night.	1
+20	1	2	2	1	0	3	1	2	0	1	0	3	4	2	3	0	0	4.0	2	5	The food is very good, if you are OK with separate parties being seated at the same table.	1
+18	1	0	2	1	1	4	0	4	0	0	0	3	2	0	2	0	0	3.0	0	12	The food is very good at the cafe, but the service can be a bit rough.	1
+11	0	0	1	1	0	4	0	2	0	1	0	1	1	0	1	1	0	2.0	0	5	The barn owls can eat many mice in a night.	1
+20	2	0	2	1	1	5	0	4	0	0	0	2	2	0	2	0	0	4.0	0	11	The food at this cafe is very good, but the staff's rude attitude is often a problem.	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	A family of barn owls can eat many mice in a night.	1
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The food is very good at this cafe.	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	The family of barn owls can eat many mice in a night.	1
+23	2	0	4	1	1	4	1	3	0	3	1	3	0	0	3	1	0	4.0	0	11	I have generated a sentence with 1 verb: **The music is playing loudly, and the dancers are moving freely.**.	1
+13	0	0	1	2	0	4	0	2	0	1	0	1	2	0	1	0	0	3.0	0	5	The delicious food at the cafe was served with excellent customer service.	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	A family of barn owls can eat many mice in a night.	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	The family of barn owls can eat many mice in a night.	1
+15	1	1	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for the owner to come home.	1
+15	1	0	2	1	0	3	1	1	0	1	0	2	3	1	2	1	0	4.0	1	5	The employees often exhibit nasty rude attitude, which can be unpleasant for customers.	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	The family of barn owls can eat many mice in a night.	1
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	1	0	3.0	0	4	The employees often exhibit a healthy dose of nasty rude attitude.	1
+16	1	0	1	4	0	3	1	2	0	1	0	0	3	0	1	0	0	3.0	0	7	You often end up with a healthy dose of nasty rude attitude from the employees.	1
+6	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The food is very good.	1
+19	1	2	1	1	0	3	1	2	0	1	0	3	4	2	3	0	0	4.0	2	5	The food is very good if you are OK with separate parties being seated at the same table.	1
+20	1	2	2	1	0	3	1	2	0	1	0	3	4	2	3	0	0	4.0	2	5	The food is very good, if you are OK with separate parties being seated at the same table.	1
+10	1	1	1	0	0	1	1	1	0	1	0	1	1	1	2	0	0	2.0	1	4	The soup is too spicy for me to eat.	1
+22	0	1	1	3	0	7	0	4	0	3	0	0	3	1	1	2	0	7.0	1	9	The provided text describes a family of barn owls capable of consuming a substantial number of mice in a single night.	1
+17	0	0	5	1	0	3	0	3	0	2	0	2	0	1	2	0	0	3.0	1	6	"Sure, the requested sentence is: ""The cats are playing with the yarn."""	1
+14	1	0	3	1	0	5	1	1	0	1	0	0	1	0	1	2	0	2.0	0	7	"""My sister frequently brings home tasty treats from the grocery store."""	1
+11	0	0	1	1	0	4	0	2	0	1	0	1	1	0	1	1	0	2.0	0	5	The barn owls can eat many mice in a night.	1
+12	1	0	1	1	1	3	0	3	0	2	0	0	0	0	1	1	0	3.0	0	5	The cat jumped onto the table and swatted the fly away.	1
+16	0	0	2	3	0	5	0	4	0	1	0	0	1	0	1	1	0	3.0	0	8	After the meal, the chef presented a bouquet of vibrant flowers to the customer.	1
+29	1	1	3	3	1	5	2	4	0	1	0	4	4	2	3	0	0	5.0	2	20	The food at this cafe is very good, but if you are OK with parties being seated at the same table, it is a bustling place.	1
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	1	0	3.0	0	4	The employees often exhibit a healthy dose of nasty rude attitude.	1
+22	0	0	5	2	0	6	0	3	0	2	0	2	1	1	2	1	0	4.0	1	9	"Sure, the requested sentence is: ""A family of barn owls can eat many mice in a night!"""	1
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	1	0	3.0	0	4	The employees often exhibit a unhealthy dose of nasty rude attitude.	1
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The food is very good at the cafe.	1
+11	1	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	4	The delicious cake was readily devoured by the hungry guests.	1
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The food is very good at the cafe.	1
+27	1	1	3	3	1	4	2	2	0	1	0	3	6	1	3	0	0	4.0	1	13	The food is very good, but if you are OK with it, separate parties are seated at the same table in many European cafes.	1
+11	0	0	1	1	0	4	0	2	0	1	0	1	1	0	1	1	0	2.0	0	5	The barn owls can eat many mice in a night.	1
+15	2	1	2	1	0	3	0	3	0	2	0	0	1	1	2	0	0	3.0	1	7	The cat slept soundly, as the rain softly fell on the warm grass.	1
+15	1	0	1	2	0	4	0	2	0	1	0	0	3	0	1	0	0	3.0	0	4	The employees' nasty rude attitude often results in a healthy dose of unpleasantness.	1
+13	0	0	1	2	0	5	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	A family of barn owls can eat many mice in a night.	1
+22	3	0	2	5	0	3	1	2	0	1	0	1	3	0	1	0	0	4.0	0	16	You might end up with a healthy dose of nasty rude attitude from the employees, also more often than not.	1
+12	0	0	2	1	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on the mat, watching the sun set.	1
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+17	2	1	1	0	1	1	3	1	1	3	0	2	1	2	3	1	0	5.0	2	8	 No one can contradict me when I say that heavy metal and satanism are closely linked.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	 The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+19	0	0	2	2	1	2	3	1	0	2	1	3	0	1	2	1	0	3.0	1	9	The cat has been with us for 10 years, and we don't want to leave it.	3
+19	0	0	1	1	1	3	3	1	0	2	1	3	1	1	2	1	0	3.0	1	8	 The cat has been our beloved companion for 10 years and we don't want to leave it.	3
+22	0	0	2	3	0	8	0	4	0	3	0	1	0	1	1	2	0	6.0	1	5	In the coming weeks, the government will launch a campaign to raise awareness about the importance of recycling paper products.	3
+18	0	0	1	0	0	7	0	2	0	3	0	3	0	2	1	1	0	4.0	2	5	A press conference will be held to discuss the consumer class action lawsuit to be filed today.	3
+19	1	0	2	3	1	5	0	1	0	1	0	1	4	0	1	0	0	4.0	0	5	 The ancient art of calligraphy is often coupled with other artistic disciplines, such as painting and sculpting.	3
+17	1	0	3	2	1	3	0	3	0	3	0	1	0	0	1	0	0	3.0	0	12	 The dog was chased after the ball, ran around the park, and eventually found.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+19	0	0	2	2	1	2	3	1	0	2	1	3	0	1	2	1	0	3.0	1	9	The cat has been with us for 10 years, and we don't want to leave it.	3
+23	2	1	3	4	0	7	0	3	0	3	0	0	0	2	1	1	0	5.0	2	10	The rebel group abruptly pulled out of negotiations, demanding recognition for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+18	0	0	1	0	0	7	0	2	0	3	0	3	0	2	1	1	0	4.0	2	5	A press conference will be held to discuss the consumer class action lawsuit to be filed today.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+19	0	0	2	2	1	2	3	1	0	2	1	3	0	1	2	1	0	3.0	1	9	The cat has been with us for 10 years, and we don't want to leave it.	3
+28	1	1	3	1	1	7	1	4	0	6	0	1	1	4	2	5	0	7.0	4	6	The protesters were loudly chanting slogans, holding signs, and marching in the streets as they demanded the government take action to address the environmental crisis.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+21	2	1	2	3	0	6	0	3	0	3	0	0	0	2	1	1	0	6.0	2	10	The rebels abruptly pulled out of negotiations demanding recognition for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+15	1	0	1	1	1	2	0	2	0	2	0	3	1	0	1	0	0	2.0	0	9	The ancient artifact was stolen from the museum and has not yet been recovered.	3
+21	0	0	2	2	0	6	0	5	0	2	1	0	3	1	1	2	0	6.0	1	4	 Last month, the government released a statement detailing the latest developments in the ongoing conflict between the two nations.	3
+17	0	0	2	1	1	2	2	1	0	3	1	2	0	1	2	1	0	3.0	1	9	 The cat was had for 10 years, and we don't want to leave it.	3
+18	0	0	1	0	0	7	0	2	0	3	0	3	0	2	1	1	0	4.0	2	5	A press conference will be held to discuss the consumer class action lawsuit to be filed today.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+25	3	1	5	3	0	6	0	3	0	3	0	0	0	2	1	1	0	4.0	2	13	 The rebels abruptly pulled out of negotiations, demanding recognition, first, for the right to self-rule before proceeding any further.	3
+13	1	0	1	1	0	4	0	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The activists protested loudly against the government's decision to raise taxes.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+19	0	0	2	2	1	2	3	1	0	2	1	3	0	1	2	1	0	3.0	1	9	 The cat has been with us for 10 years, and we don't want to leave it.	3
+18	2	0	1	0	1	6	1	2	0	3	0	0	1	1	1	2	0	4.0	1	8	 The rebel group angrily rejected the government's peace offer and immediately began planning their next move.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+22	0	0	3	1	1	8	0	3	0	4	0	0	2	1	1	2	0	5.0	1	5	Last month, the company launched an advertising campaign and released a new product line, resulting in increased customer interest.	3
+16	0	0	2	2	0	6	1	2	0	2	0	0	1	1	1	2	0	6.0	1	4	The protestors held a peaceful demonstration demanding recognition for their right to self-rule.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	 The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	 The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	 The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+13	1	1	1	0	1	1	1	1	1	2	0	2	1	1	2	0	0	4.0	1	8	 No one can deny that heavy metal and satanism are closely linked.	3
+16	2	0	1	1	0	6	0	2	0	2	0	1	1	0	1	1	0	3.0	0	6	The recently implemented traffic control system has significantly reduced traffic congestion on the main road.	3
+19	0	0	2	2	1	2	3	1	0	2	1	3	0	1	2	1	0	3.0	1	9	The cat has been with us for 10 years, and we don't want to leave it.	3
+17	2	1	1	0	1	1	3	1	1	3	0	2	1	2	3	1	0	5.0	2	8	No one can contradict me when I say that heavy metal and satanism are closely linked.	3
+20	0	0	3	1	1	6	0	4	0	3	0	1	1	1	1	3	0	4.0	1	5	The computer scientists are debugging the software, optimizing the algorithms, and writing documentation for the latest version.	3
+27	0	1	3	1	1	7	1	5	0	5	0	1	0	2	2	3	0	5.0	2	13	  The activists demanded a meeting with the government officials, scheduled a protest, and threatened to occupy the building if their demands were not met.	3
+18	0	0	1	0	0	7	0	2	0	3	0	3	0	2	1	1	0	4.0	2	5	A press conference will be held to discuss the consumer class action lawsuit to be filed today.	3
+18	0	0	1	0	0	7	0	2	0	3	0	3	0	2	1	1	0	4.0	2	5	A press conference will be held to discuss the consumer class action lawsuit to be filed today.	3
+24	3	1	4	3	0	6	0	3	0	3	0	0	0	2	1	1	0	5.0	2	13	The rebels abruptly pulled out of negotiations demanding recognition, first, for the right to self-rule before proceeding any further.	3
+16	1	1	1	1	1	2	1	2	1	2	0	2	1	1	2	0	0	5.0	1	8	No one can argue with the statement that heavy metal and satanism are closely linked.	3
+23	1	1	1	2	3	2	4	0	2	5	0	1	1	1	2	2	0	5.0	1	6	 We trust and appreciate Scott Larson and know that he will always take good care of us and listen to our needs.	5
+17	0	0	2	0	1	2	2	2	0	4	0	1	0	2	2	2	0	3.0	2	10	 The landlord wants to increase the rent, but I won't allow that to happen.	5
+22	2	0	2	3	2	4	3	1	0	4	0	0	0	2	2	0	0	4.0	2	13	 We enjoy listening to music and dancing with our friends, and sometimes we go out to eat at a restaurant.	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	 Richard - please let me know what we need to do next to file suit.	5
+38	0	3	5	0	4	4	4	2	0	4	0	4	6	4	4	2	0	8.0	4	9	 My neighbor is friendly, caring, and attentive, but I worry that they might not be able to handle any stress or conflict because they have a history of being impulsive and hot-headed.	5
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is: There are a couple decent people working there, but the rest are VERY dishonest, as well as rude, I have yet to hear the truth come out of their mouths.	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	Richard - please let me know what we need to do next to file suit.	5
+25	1	0	4	3	1	5	1	3	0	1	0	2	4	1	2	0	0	4.0	1	9	The employees at the office are very dishonest, rude, and uncaring, which has resulted in a significant decline in customer satisfaction.	5
+24	1	0	4	2	2	3	2	2	0	3	0	1	3	2	3	0	0	6.0	2	9	The employees are dishonest, rude, and unhelpful, and I have yet to hear the truth come out of their mouths.	5
+31	2	0	5	1	1	4	5	1	2	5	0	1	2	4	2	4	0	6.0	4	8	  My friend, Michael Smith, is always willing to help me, and he never fails to give me sound advice, making me feel confident in all situations.	5
+9	0	0	2	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	5	In this case, the requested sentence is: There are a couple decent people working there, but the rest are VERY dishonest, as well as rude, I have yet to hear the truth come out of their mouths.	5
+25	0	1	2	2	2	4	3	3	0	4	0	2	1	2	3	1	0	6.0	2	5	 The customer is upset, but I know that the company will listen to their concerns and work with them to resolve the issue.	5
+14	0	0	1	1	1	5	0	2	0	2	0	0	2	0	1	1	1	4.0	1	3	The above text provided contains a diverse range of sentence structures and verbs.	5
+31	1	3	1	1	1	5	6	4	0	5	1	1	1	3	5	6	0	5.0	3	24	I feel like they didn't tell me the pitfalls before I pulled out this tile and now that I have no other options they want 5 TIMES the price?	5
+24	0	0	3	2	1	6	3	4	0	3	0	0	2	0	1	4	0	3.0	0	15	The restaurant manager listened to my complaint about the bad service, offered me a refund, and gave me a free dessert.	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	Richard - please let me know what we need to do next to file suit.	5
+23	1	0	2	2	2	5	2	2	0	5	0	0	1	2	1	2	0	4.0	2	10	 The team presented their ideas and listened to feedback, but ultimately decided to implement their original plan despite the concerns raised.	5
+19	1	0	7	1	1	2	0	2	0	5	0	0	0	0	1	0	0	3.0	0	9	"""The staff at the restaurant cooked, served, cleaned, listened, and laughed together."""	5
+14	0	0	5	0	1	1	1	0	0	5	0	1	0	0	1	0	0	2.0	0	9	 My cat is sleeping, eating, drinking, playing, and purring.	5
+17	1	0	2	0	2	3	1	2	0	2	0	1	3	1	1	0	0	5.0	1	6	The employees are rude and dishonest, but there are a couple decent people working there.	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	Richard - please let me know what we need to do next to file suit.	5
+17	1	0	2	1	2	3	1	3	0	2	0	1	1	0	2	1	0	3.0	0	13	A squirrel ran up the tree and grabbed an apple, and it was very delicious.	5
+32	1	3	2	1	1	5	6	4	0	5	1	1	1	3	5	6	0	5.0	3	25	 I feel like they didn't tell me the pitfalls before I pulled out this tile and now that I have no other options, they want 5 TIMES the price.	5
+27	0	1	5	1	2	6	0	5	0	5	0	1	1	1	1	4	0	3.0	1	19	  The mechanic fixed the broken car, detailed the engine, and painted the exterior, despite being busy, and finished the job on time.	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	Richard - please let me know what we need to do next to file suit.	5
+25	1	0	5	3	1	6	3	1	0	5	0	0	0	0	1	2	0	3.0	0	16	 The company representatives constantly communicate, listen to our concerns, provide feedback, take care of us, and act on our suggestions.	5
+25	0	1	2	1	3	5	1	5	0	4	0	1	2	1	3	2	0	5.0	1	10	 The customer was annoyed by the rude and dishonest staff, and they requested that the manager provide a refund or issue a voucher.	5
+24	0	0	2	2	1	6	1	4	0	5	1	1	1	1	2	3	0	4.0	1	8	The provided text contains multiple tasks and I have completed the instructed task, generating a sentence with 5 verbs from the text.	5
+29	1	0	3	4	0	5	3	4	0	4	1	1	2	3	2	3	0	7.0	3	8	They have recently installed a new tile, which resulted in the need to jack up the price by 5 times, leaving me with no other options.	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	 Richard - please let me know what we need to do next to file suit.	5
+27	1	1	2	1	1	5	2	4	0	4	1	0	4	2	3	2	0	4.0	2	14	The company wants to charge 5 times the original price for the tile, therefore I feel frustrated and helpless as I have no other options.	5
+20	0	0	3	1	1	5	1	4	0	3	0	1	1	1	2	2	0	4.0	1	5	 The broken clock is ticking, and the thieves stole the painting, leaving their fingerprints on the wall.	5
+24	1	2	2	2	0	5	3	4	0	4	0	1	0	2	1	3	0	5.0	2	13	  There are a plethora of options for purchasing a house, therefore you should weigh all of your options before making a decision.	5
+26	1	0	4	2	1	6	5	0	0	5	0	1	1	1	2	4	0	4.0	1	20	My neighbor keeps spraying graffiti on my fence, painting murals on my garage, and threatening me, so I am seeking legal counsel.	5
+23	2	0	2	2	2	4	3	1	0	3	0	1	3	2	1	2	0	6.0	2	8	 The company is notorious for its lack of transparency and frequently misleads its customers, ultimately leaving them feeling helpless and frustrated..	5
+29	0	0	4	1	1	4	4	3	0	4	1	2	3	3	4	3	0	5.0	3	12	**The company offered to buy me a new tile for free, but they want five times the price, which I don't think is fair.**	5
+25	2	2	2	1	1	3	4	2	0	4	1	2	1	3	4	3	0	4.0	3	13	 I feel like I was duped into pulling out a tile and now they want 5 TIMES the price, which is totally unacceptable.	5
+27	3	0	2	2	2	5	5	0	0	2	0	2	4	1	2	3	0	3.0	1	15	My boss is always giving me extra work and often takes away my overtime pay, so I am frustrated and unhappy with my current position.	5
+25	1	1	2	2	3	2	5	0	2	5	0	1	1	1	3	2	0	5.0	1	8	We appreciate and trust Scott Larson, and we know that he will always take good care of us and listen to our needs.	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	Richard - please let me know what we need to do next to file suit.	5
+19	0	0	2	3	0	6	0	5	0	2	0	0	1	1	1	2	0	4.0	1	8	 The museum exhibits showcase the vibrant history of the city, attracting visitors from all around the world.	5
+22	1	0	2	2	2	4	2	2	0	2	0	2	2	1	3	0	0	5.0	1	8	The company employees are dishonest and rude, and I haven't heard the truth come out of their mouths yet.	5
+21	2	0	2	0	0	4	2	4	0	4	0	1	2	1	3	3	0	5.0	1	8	The provided text describes a complex situation, therefore I have generated a sentence that best summarizes the key elements.	5
+20	2	0	2	1	1	2	5	0	0	3	0	2	1	1	3	2	0	3.0	1	12	My neighbor accidentally spilled coffee on me and I'm furious, so I'm going to sue him.	5
+28	2	0	2	2	2	7	1	2	0	4	0	2	2	3	2	1	0	6.0	3	6	The customer service representatives at this company are unreliable and unhelpful, often refusing to listen to customer concerns and frequently making promises that are not kept.	5
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is: There are a couple decent people working there, but the rest are VERY dishonest, as well as rude, I have yet to hear the truth come out of their mouths.	5
+33	1	1	4	3	3	4	4	1	2	6	1	2	1	1	3	2	1	5.0	2	6	"The sentence generated with 5 verbs is: ""We trust and appreciate Scott Larson and know that he will always take good care of us and listen to our needs!"""	5
+16	1	0	2	0	0	1	3	0	1	5	0	0	0	4	2	2	0	5.0	4	4	 Richard - please let me know what we need to do next to file suit.	5
+38	3	0	5	4	1	8	1	6	0	6	0	0	3	2	1	5	0	5.0	2	25	The chef expertly prepared the succulent dish, plated meticulously, provided detailed instructions on how to eat it, offered a complimentary glass of water, and presented the meal to the customer with a smile.	5
+32	2	1	3	0	2	4	4	3	0	6	0	1	4	3	3	2	0	7.0	3	13	The painting looks beautiful, and the artist completed it very quickly, but there are a few minor imperfections that need to be fixed in order to make it perfect.	5
+34	4	0	5	2	2	3	8	2	0	7	0	1	0	4	3	5	0	6.0	4	11	I was a writer, and she always liked my writings, so I was like, let's just get both of our things together, and let's get this done.	7
+33	0	0	6	1	2	8	0	3	1	7	0	0	1	1	2	3	0	6.0	1	9	"Country has an Independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+36	0	0	8	1	2	7	0	4	3	7	0	0	1	1	2	3	0	6.0	1	9	"""The country has an independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."""	7
+29	0	0	5	4	1	6	4	4	0	5	0	0	0	0	1	5	0	3.0	0	21	 The chef cooked the pasta, seasoned it with herbs, topped it with cheese, baked it in the oven, and served it to the guests.	7
+25	2	0	3	2	1	7	0	4	0	4	0	1	1	3	2	2	0	5.0	3	12	The chef meticulously prepared a succulent feast, meticulously plated each dish with precision, ensuring the food was presented with elegance and grace.	7
+33	0	0	6	1	2	8	0	3	1	7	0	0	1	1	2	3	0	6.0	1	9	"Country has an Independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+32	4	0	4	3	1	4	4	3	0	7	0	2	0	0	5	1	4	5.0	4	26	All respondents who indicated they were discriminated against — specifically, those who responded with sometimes or often to the perceived discrimination measure described above — were asked the following question.	7
+27	0	0	4	3	1	7	0	8	0	3	0	0	1	0	1	3	0	4.0	0	15	The dog chased the cat up the tree, chased the cat down the tree, and climbed the tree, all in a single bound.	7
+33	0	0	6	1	2	8	0	3	1	7	0	0	1	1	2	3	0	6.0	1	9	"Country has an Independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."	7
+34	0	0	6	1	2	7	0	4	2	7	0	0	1	1	2	3	0	6.0	1	9	" The country has an Independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."	7
+25	1	0	4	4	1	5	1	5	0	4	0	0	0	1	2	1	0	5.0	1	11	The dog chased the cat up the tree, climbed down, and ran to the park, where it played with the children.	7
+27	0	0	2	4	1	7	3	5	0	2	0	1	2	1	3	1	0	7.0	1	9	The writer was a master of her craft, and her unique style resulted in a collection of compelling tales that captivated the hearts of all.	7
+35	0	0	7	4	1	8	0	8	0	7	0	0	0	1	1	3	0	3.0	1	29	The cat jumped onto the table, climbed the curtains, danced around the room, played with the dog, slept on the rug, wrote a story, and ate a banana.	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+39	0	1	2	5	2	11	1	5	1	6	0	0	4	4	2	3	0	8.0	4	11	The young elk in Yellowstone used to browse unmolested on young aspen and willow growing near the banks of streams, a behavior that prevented the saplings from reaching mature stages and increased the possibility of soil erosion.	7
+33	4	0	5	2	2	2	8	1	0	8	0	1	0	4	3	5	0	6.0	4	11	 I was writing, and she always liked my writings, so I was like, let's just get both of our things together, and let's get this done.	7
+32	4	0	4	3	1	4	4	3	0	7	0	2	0	0	5	1	4	5.0	4	26	All respondents who indicated they were discriminated against — specifically, those who responded with sometimes or often to the perceived discrimination measure described above — were asked the following question.	7
+33	4	0	5	1	2	3	6	2	0	7	0	2	0	3	3	4	0	5.0	3	13	The writer was inspired, and her writings always liked, so she was like, let's just get both of our things together, and let's get this done.	7
+25	1	0	5	2	1	6	1	4	0	3	0	1	1	0	2	2	1	5.0	1	14	**The astronaut who was on the space mission, successfully landed on the asteroid, retrieved valuable samples, and completed the mission.**	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+39	1	0	8	2	1	10	0	9	0	7	0	1	0	1	1	7	0	7.0	1	21	The chef was expertly chopping vegetables, stirring the pot, seasoning the meat, baking the bread, frosting the cake, carving the roast, and arranging the flowers, all in preparation for the party.	7
+37	0	1	2	4	2	11	1	5	0	6	0	0	4	4	2	3	0	8.0	4	11	The young elk used to browse unmolested on young aspen and willow growing near the banks of streams, a behavior that prevented the saplings from reaching mature stages and increased the possibility of soil erosion.	7
+35	0	0	7	4	1	8	0	8	0	7	0	0	0	1	1	3	0	3.0	1	29	The cat walked across the rainbow, chased the butterfly, leaped onto the fence, climbed down the tree, swam in the ocean, painted a picture, and read a book.	7
+34	4	0	5	2	2	3	8	2	0	7	0	1	0	4	3	5	0	6.0	4	11	I was a writer, and she always liked my writings, so I was like, let's just get both of our things together, and let's get this done.	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	 All respondents who indicated they were discriminated against were asked the following question.	7
+30	0	0	5	0	3	6	2	5	0	7	0	1	1	2	3	4	1	6.0	3	7	The hikers who were climbing the mountain path encountered a bear, and the bear roared, chased, and attacked the hikers, leaving them injured and terrified.	7
+31	4	0	3	3	1	4	4	3	0	7	0	2	0	0	4	1	4	6.0	4	25	All respondents who indicated they were discriminated against, specifically those who responded with sometimes or often to the perceived discrimination measure described above, were asked the following question.	7
+33	4	0	3	4	0	10	1	6	0	4	0	0	0	2	2	2	0	7.0	2	12	The painter meticulously painted a picture of a parrot with a parrot's brightly colored plumage, displayed prominently on the living room wall, where it attracted a flock of admirers.	7
+33	0	0	6	1	2	8	0	3	1	7	0	0	1	1	2	3	0	6.0	1	9	"Country has an Independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."	7
+33	0	0	6	1	2	8	0	3	1	7	0	0	1	1	2	3	0	6.0	1	9	"Country has an Independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."	7
+24	2	2	3	1	1	5	0	4	0	5	0	1	0	2	1	3	1	4.0	3	7	The astronaut, bearing a slingshot, was tasked with controlling the spaceship and effortlessly navigating through the cosmos while conducting experiments onboard.	7
+33	1	2	3	1	0	7	1	3	0	6	0	2	5	3	2	3	1	5.0	4	12	The astronaut, whose primary occupation is to conduct scientific experiments, was tasked with deploying a robotic arm to repair a damaged space telescope while simultaneously grappling with complex scientific equations.	7
+25	0	1	2	3	1	6	1	3	0	4	0	1	3	2	1	3	0	6.0	2	5	 The young saplings near the stream were browsed upon unmolested, preventing them from reaching mature stages and increasing the risk of soil erosion.	7
+23	1	0	3	1	1	5	0	5	0	3	0	0	4	0	1	3	0	3.0	0	11	The chef carefully prepared the delicious feast, plated the mouthwatering entrees, and presented the delightful course to the delighted diners.	7
+33	0	0	6	1	2	8	0	3	1	7	0	0	1	1	2	3	0	6.0	1	9	"Country has an Independent strategy = NASA & company to use ""Numero Uno"" strategy, try to assert, beat, mesh and control the space program of the country."	7
+31	4	0	3	3	1	4	4	3	0	7	0	2	0	0	4	1	4	6.0	4	25	 All respondents who indicated they were discriminated against, specifically those who responded with sometimes or often to the perceived discrimination measure described above, were asked the following question.	7
+24	0	0	5	2	1	6	0	4	0	3	0	0	3	1	2	1	0	5.0	1	10	" ""The quick brown fox jumps over the sleeping dogs, and the lazy cat stretches, creating a symphony of sounds."""	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+14	0	0	1	1	0	2	2	2	0	4	0	2	0	0	3	1	2	4.0	2	8	All respondents who indicated they were discriminated against were asked the following question.	7
+29	0	0	4	2	1	7	1	6	0	5	0	2	0	2	2	3	0	7.0	2	9	The astronaut was asked to deploy the equipment, install the modules, and oversee the operations of the spacecraft, which was controlled by a computer system.	7
+31	4	0	3	3	1	4	4	3	0	7	0	2	0	0	4	1	4	6.0	4	25	 All respondents who indicated they were discriminated against, specifically those who responded with sometimes or often to the perceived discrimination measure described above, were asked the following question.	7
+18	0	0	1	2	0	3	2	2	0	5	0	2	0	1	3	1	2	4.0	3	8	The astronauts who indicated they were discriminated against were asked to provide information about the alleged incidents.	7
+28	0	1	4	1	1	8	1	5	0	4	0	3	0	2	4	2	0	6.0	2	13	The chef was cooking, while the baker was kneading dough, and the waitress was serving customers, a symphony of activity that filled the restaurant.	7
+39	0	1	2	5	2	11	1	5	1	6	0	0	4	4	2	3	0	8.0	4	11	 The young elk in Yellowstone used to browse unmolested on young aspen and willow growing near the banks of streams, a behavior that prevented the saplings from reaching mature stages and increased the possibility of soil erosion.	7
+22	1	0	3	1	1	6	2	4	0	2	0	1	1	1	2	2	0	4.0	1	9	The writer was a master of their craft, and their writings always captivated the audience, leaving an indelible impression.	7

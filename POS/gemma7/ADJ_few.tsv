@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+7	0	0	1	0	0	2	0	1	0	2	0	0	1	0	1	1	0	2.0	0	2	The provided text describes several scenarios.	0
+11	0	0	1	0	1	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	4	The package includes a free room upgrade and complimentary Wi-Fi.	0
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	 The phone number on the card is 713-853-3989.	0
+19	1	0	2	0	0	4	1	4	0	4	0	2	0	1	2	3	0	5.0	1	7	The provided text does not contain any adjectives, therefore I have generated a sentence containing no adjectives.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sleeping on the rug.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the fence.	0
+25	2	0	3	2	1	6	0	6	0	3	0	1	1	1	2	1	0	5.0	1	15	The above text perfectly describes a task, and the output provided for each example is precisely the requested sentence, with no adjectives.	0
+11	0	0	1	2	0	3	0	2	0	1	0	1	1	0	1	0	0	2.0	0	5	A simple message was sent to the recipient via email.	0
+6	1	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The clock strikes eight precisely.	0
+12	0	0	3	1	1	2	0	2	0	2	0	1	0	0	1	0	0	3.0	0	3	" ""The coffee is steaming and waiting on the table."""	0
+7	0	0	1	0	0	2	0	1	0	2	0	0	1	0	1	1	0	2.0	0	2	The provided text describes various scenarios.	0
+9	0	0	1	1	0	2	0	2	0	2	0	0	1	1	1	0	0	3.0	1	4	The door swung shut with a satisfying click.	0
+11	0	0	1	1	1	4	0	1	0	2	0	0	1	0	1	1	0	4.0	0	3	The provided text contains information about various items and individuals.	0
+18	1	0	4	1	0	3	0	3	0	2	0	1	2	1	1	0	0	4.0	1	7	Sure, below is the requested sentence:  A single, unladen swallow flies across the sky.	0
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The phone number on the card is 713-853-3989.	0
+7	1	0	1	0	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The clock strikes 3 pm precisely.	0
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The phone number on the card is 713-853-3989.	0
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	2	The clock strikes 3:00 pm.	0
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	1	The clock strikes five.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The clock ticks.	0
+13	1	0	1	2	0	4	0	3	0	1	0	1	0	0	1	0	0	3.0	0	4	The telephone number is listed next to the name on the card.	0
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	 The phone number on the card is 713-853-3989.	0
+10	0	0	1	1	1	4	0	1	2	0	0	0	0	0	0	0	0	2.0	0	5	The phone number and fax number for Carol St.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	A book sits prominently on the table.	0
+6	0	0	1	0	0	2	0	1	0	0	1	1	0	0	1	0	0	2.0	0	2	The phone number is 713-853-3989.	0
+9	0	0	1	1	0	3	0	1	0	0	0	2	1	0	0	0	0	2.0	0	4	Will be a repeat customer with discount coupons.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The phone was ringing on the desk.	0
+9	0	0	1	1	0	3	0	1	0	0	0	2	1	0	0	0	0	2.0	0	4	Will be a repeat customer with discount coupons.	0
+9	0	0	1	1	0	2	0	2	0	1	2	0	0	0	1	1	0	2.0	0	5	The clock reads six fifteen in the morning.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	0
+15	0	1	1	1	1	3	1	2	0	3	1	1	0	1	1	2	0	3.0	1	6	I have completed the task as instructed and generated a sentence with 0 adjectives.	0
+7	0	0	1	0	0	2	0	1	0	2	0	0	1	0	1	1	0	2.0	0	2	The provided text describes different scenarios.	0
+6	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Please wait at the bar.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	3	 The package includes the shipment of the item.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+11	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The clock chimes, waking the sleeper from their slumber.	0
+12	0	0	1	2	0	4	0	3	0	1	0	1	0	0	1	0	0	2.0	0	7	The coffee is waiting by the door on the hostess stand.	0
+9	0	0	1	0	0	2	1	2	0	1	0	1	1	0	2	1	1	4.0	1	5	A single sentence that fulfills the request is: The clock on the wall reads 3:15 PM.	0
+11	0	0	1	1	0	4	0	1	0	1	0	2	1	0	1	1	0	2.0	0	5	The customer will be receiving free gift wrapping upon purchase.	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	Tomorrow I am going to the park.	0
+9	0	0	1	1	0	3	0	1	0	0	0	2	1	0	0	0	0	2.0	0	4	Will be a repeat customer with discount coupons.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The cat sat on the mat.	0
+14	0	0	2	1	0	5	0	4	0	1	0	0	1	0	2	1	0	3.0	0	7	A red rose bloom on the vine, a fragrance fills the air.	0
+13	0	1	1	1	0	4	0	2	0	3	1	0	0	1	1	2	0	4.0	1	5	The provided text contains instructions for generating a sentence with 0 adjectives.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sitting on the mat.	0
+13	0	0	1	2	0	4	0	3	0	2	0	1	0	1	1	1	0	4.0	1	4	The delivery was made keeping in mind the comforts of the travelers.	0
+17	1	0	1	3	0	5	0	4	0	1	0	1	1	0	1	0	0	2.0	0	12	The package was delivered to the office just outside the front door on the hostess stand.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The coffee is steaming.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is: The clock strikes five.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	A single coat of paint covers this wall.	0
+7	0	0	1	0	0	1	1	1	0	1	0	1	1	0	2	0	1	3.0	1	4	The sentence I generated is concise.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+16	1	0	2	1	1	0	4	0	0	2	0	3	1	1	2	1	0	3.0	1	10	That will help to reassure him, and he will be less aggressive with her.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is: The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+18	0	0	2	2	0	3	0	1	0	2	4	2	1	1	2	0	1	5.0	2	8	The sentence generated with 1 adjective is: Total transportation invoiced for 2001 was $180.9m.	1
+8	1	0	1	0	0	0	2	0	0	1	0	2	1	1	2	0	0	2.0	1	3	Why do you think they are mean?	1
+11	0	0	1	1	0	1	0	1	0	1	3	1	1	0	1	0	1	4.0	1	5	The total transportation invoiced for 2001 was $180.9m.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	5.0	2	15	The relationship that my wife has with the gals and with the customers is the hardest thing in running this business.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+9	0	0	1	0	0	2	0	2	0	1	0	1	1	1	1	0	0	2.0	1	3	The red dress was a sight to behold.	1
+8	1	0	1	0	0	0	2	0	0	1	0	2	1	1	2	0	0	2.0	1	3	Why do you think they are mean?	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	1	4.0	1	5	The sentence generated with 1 adjective is: The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	1	4.0	1	5	The sentence generated with 1 adjective is: The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+8	1	0	1	0	0	0	2	0	0	1	0	2	1	1	2	0	0	2.0	1	3	Why do you think they are mean?	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	 The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+30	0	1	3	3	1	8	2	6	0	2	1	2	1	1	3	1	1	4.0	2	15	"The sentence with 1 adjective is ""The hardest thing in running this business is the relationship that my wife has with the gals and with the customers."""	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	 The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	5.0	2	15	The relationship that my wife has with the gals and with the customers is the hardest thing in running this business.	1
+8	1	0	1	0	0	0	2	0	0	1	0	2	1	1	2	0	0	2.0	1	3	Why do you think they are mean?	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+24	0	1	3	2	1	6	2	5	0	2	0	1	1	1	2	1	1	5.0	2	15	"""The relationship that my wife has with the gals and with the customers is the hardest thing in running this business."""	1
+16	1	0	2	1	1	0	4	0	0	2	0	3	1	1	2	1	0	3.0	1	10	That will help to reassure him, and he will be less aggressive with her.	1
+13	1	0	2	0	1	2	1	1	0	1	0	2	2	0	2	1	0	3.0	0	5	The advertisement is visually appealing, and it will attract potential customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is: The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	5.0	2	15	 The relationship that my wife has with the gals and with the customers is the hardest thing in running this business.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+22	0	1	1	2	1	6	2	5	0	2	0	1	1	1	2	1	1	4.0	2	7	The hardest thing in running this business is the relationship that my wife has with the gals and with the customers.	1
+10	0	0	1	1	0	1	0	0	0	1	3	1	1	0	1	0	1	4.0	1	5	Total transportation invoiced for 2001 was $180.9m.	1
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The drive to St.	2
+14	0	0	2	1	1	3	0	2	0	1	0	1	3	1	1	1	0	4.0	1	4	 The landscape is lush and vibrant, featuring stunning views of the coast.	2
+10	0	0	1	0	1	2	0	2	0	1	0	2	1	0	2	0	0	3.0	0	5	The coffee was steaming and the air was cool.	2
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The house was old and dilapidated.	2
+12	0	0	1	2	1	2	0	2	1	0	0	1	2	0	1	0	0	3.0	0	5	The scenery was breathtaking and surreal during the drive from St.	2
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	 Sat.	2
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The path to St.	2
+11	0	0	1	1	1	5	0	1	0	1	0	1	0	0	1	0	0	3.0	0	3	The coffee table was made of cherry and oak wood.	2
+16	0	0	1	2	1	2	0	3	4	1	0	0	2	0	1	1	0	4.0	0	5	The coastal towns of Nice and Cannes offer a charming drive along the Mediterranean Sea.	2
+17	0	0	3	0	3	3	0	3	0	1	0	2	2	1	2	0	0	4.0	1	10	"The sentence generated is ""The dress and the coat were both elegant and stylish."""	2
+14	0	0	2	1	1	3	0	2	1	1	0	1	2	1	1	1	0	4.0	1	4	The scenery was breathtaking and serene, overlooking the azure coast of St.	2
+9	0	0	1	1	1	1	0	1	1	0	0	1	2	0	1	0	0	3.0	0	4	The weather in Monaco was sunny and warm.	2
+13	1	0	1	1	1	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	6	The dress and pants were tailored perfectly to the wearer's liking.	2
+19	0	0	4	2	1	5	0	2	0	2	1	2	0	1	2	0	1	4.0	2	6	"The sentence generated with two adjectives is: ""The dress was worn with flair and elegance."""	2
+13	0	0	1	1	1	3	0	3	0	0	0	1	3	0	1	0	0	3.0	0	9	The antique clock in the hallway is an ornate and priceless masterpiece.	2
+12	0	0	3	1	0	2	0	2	1	2	0	1	0	0	1	0	1	4.0	1	9	"The sentence generated from the provided instruction is: ""Sat."	2
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The painting is colorful and abstract.	2
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The drive to St.	2
+16	0	0	2	2	1	2	0	2	1	1	0	1	4	1	1	0	0	4.0	1	5	The car was vintage and stylish, driving through the scenic coastal town of Newport.	2
+15	0	0	2	1	2	3	0	1	0	2	0	1	3	1	1	0	0	4.0	1	4	The journey was long and scenic, passing through charming villages and towering skyscrapers.	2
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The journey to St.	2
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The coffee was bitter and cold.	2
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	 The painting is colorful and abstract.	2
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is: The vibrant and colorful coastal towns of Nice, Cannes, and other picturesque villages dot the French Riviera.	2
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The drive to St.	2
+10	0	0	1	1	1	2	0	2	0	0	0	1	2	0	1	0	0	2.0	0	5	The dress was formal and elegant at the event.	2
+15	0	0	1	2	1	4	0	2	1	0	0	1	3	0	1	0	0	5.0	0	11	The car ride to the coastal town of Cannes and other stops was pleasant.	2
+10	0	0	1	1	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	5	The journey to the coast was scenic and peaceful.	2
+11	0	0	1	1	1	3	0	2	0	0	0	1	2	0	1	0	0	3.0	0	5	The vintage clothes in the store were elegant and stylish.	2
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The journey to St.	2
+10	0	0	1	0	1	2	0	2	0	1	0	2	1	0	2	0	0	3.0	0	5	The dress was flowing and the food was flavorful.	2
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The drive to St.	2
+11	0	0	1	1	1	2	0	2	0	0	0	1	3	0	1	0	0	2.0	0	6	The beach was serene and peaceful on that sunny afternoon.	2
+15	0	0	1	1	1	4	0	3	0	1	0	0	4	0	1	1	0	3.0	0	4	The antique painting in the museum has a captivating historical significance and cultural importance.	2
+6	0	0	1	1	0	1	0	1	1	0	0	0	1	0	0	0	0	2.0	0	2	The vibrant city of St.	2
+17	0	1	1	1	1	5	0	3	0	3	1	0	1	1	1	2	0	5.0	1	5	The provided text describes diverse scenarios and a request for generating a sentence with two adjectives.	2
+12	0	0	1	0	1	3	0	3	0	1	0	0	3	0	1	1	0	3.0	0	5	The antique clock and the rusted bridge created a fascinating contrast.	2
+13	0	0	1	1	1	4	0	3	0	1	0	0	2	0	1	1	0	3.0	0	4	The antique painting and delicate sculpture enhance the beauty of the museum.	2
+19	0	0	1	3	1	3	0	3	3	2	0	0	3	0	1	1	0	4.0	0	5	The scenic coastal towns of Nice and Cannes provide a breathtaking backdrop for a relaxing drive to St.	2
+28	2	2	3	1	1	2	4	3	2	2	0	4	2	1	5	0	0	4.0	1	17	The sentence is: A few more years may pass before everybody acknowledges that it is a World War, but we are already well into it.	2
+12	0	1	3	1	0	1	0	1	1	3	0	1	0	0	1	0	2	4.0	2	7	"The sentence generated as requested is: ""Drive to St."	2
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	1	4.0	1	5	The sentence generated with 2 adjectives is: The dress and skirt are beautifully designed, but unfortunately, I don't have enough money to afford them.	2
+12	0	0	1	1	1	3	0	2	0	1	0	1	2	0	1	0	1	4.0	1	6	 The vintage and antique paintings displayed in the gallery were breathtaking.	2
+5	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The journey to St.	2
+9	0	0	1	1	1	2	0	1	1	0	0	0	2	0	0	0	0	3.0	0	3	 The scenic beauty and vibrant culture of St.	2
+6	0	0	1	1	0	1	0	1	1	0	0	0	1	0	0	0	0	2.0	0	2	 The scenic drive to St.	2
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	2.0	1	2	The sentence generated is: The antique furniture in the living room was Victorian and mahogany.	2
+18	0	0	1	3	1	3	0	3	3	1	0	0	3	0	1	1	0	4.0	0	5	 The scenic coastal towns of Nice and Cannes offered a charming backdrop for the drive to St.	2
+20	0	0	5	3	0	1	0	2	5	2	0	1	1	0	1	0	1	4.0	1	11	"A painting by Monet, titled ""Water Lilies"", is hanging in the Metropolitan Museum of Art."	2
+13	0	0	2	0	1	2	0	2	0	1	0	1	4	1	1	1	0	3.0	1	4	The painting was abstract and whimsical, depicting a fantastical underwater landscape.	2
+23	0	0	1	3	2	10	0	5	0	0	0	1	1	0	1	0	0	4.0	0	10	 The vintage and antique furniture in the living room was a feast for the eyes and a treasure trove for vintage enthusiasts.	4
+20	0	0	4	1	2	4	0	3	0	0	0	2	4	0	2	0	0	3.0	0	11	The food selection at the restaurant is diverse, healthy, and flavorful, but the service is poor.	4
+20	1	0	3	2	1	3	0	3	2	1	0	1	3	0	1	0	0	4.0	0	8	 The vibrant, historical, and culturally enriching monuments of Angkor Wat are a breathtaking sight for any traveler.	4
+20	0	0	5	1	1	4	0	2	1	1	0	0	5	0	1	1	0	5.0	0	13	The restaurant offers a wide variety of American, Soul Food, Mexican, Italian, and Chinese cuisine.	4
+17	4	0	4	0	1	2	0	1	0	1	0	1	3	0	1	0	0	2.0	0	10	The museum exhibit was culturally enriching, intellectually stimulating, historically significant, and aesthetically pleasing.	4
+21	3	1	4	1	1	3	0	2	0	0	0	2	4	0	1	0	0	3.0	0	12	The food options at this restaurant are diverse, flavorful, and satisfying, as well as being aesthetically pleasing.	4
+16	0	0	5	0	1	1	0	1	4	0	0	1	3	0	1	0	0	3.0	0	13	American Food, Soul Food, Mexican, Italian, and Chinese are the options.	4
+17	3	0	5	0	1	2	0	1	0	2	0	1	2	0	1	0	0	2.0	0	11	The museum exhibit was captivating, well-organized, historically significant, and culturally enriching.	4
+19	0	0	4	2	1	4	0	2	0	2	0	1	3	0	1	0	1	5.0	1	9	The vintage, antique, intricate, and unique collection of photographs showcased in the gallery are captivating.	4
+20	0	0	5	1	1	4	0	2	1	1	0	0	5	0	1	1	0	5.0	0	13	The restaurant offers a diverse range of American, Soul Food, Mexican, Italian, and Chinese cuisine.	4
+27	0	0	6	1	2	7	0	2	0	2	0	0	7	1	1	1	0	5.0	1	12	The restaurant offers a wide variety of tasty and healthy food options, including American, Soul Food, Mexican, Italian, and Chinese cuisine.	4
+19	3	0	4	1	1	4	0	2	0	0	0	1	3	0	1	0	0	3.0	0	10	This museum is historically important, economically crucial, aesthetically pleasing, and a haven for photography buffs.	4
+16	0	0	4	1	1	3	0	2	0	0	0	1	4	0	1	0	0	3.0	0	7	The vintage furniture in the room is antique, stately, comfortable, and charming.	4
+20	0	0	5	1	1	4	0	2	1	1	0	0	5	0	1	1	0	5.0	0	13	The restaurant offers a diverse selection of American, Soul Food, Mexican, Italian, and Chinese cuisine.	4
+30	0	0	5	5	1	8	0	3	0	5	0	0	3	0	1	1	1	6.0	1	18	The antique furniture, handcrafted with intricate carvings, adorned with glittering silver, and painted with vibrant colors, filled the living room with a sense of opulence.	4
+8	1	0	2	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Yes, here is the generated sentence:  The antique furniture and classic artwork in the museum are historically important and economically crucial for these islands today.	4
+17	2	0	2	0	1	6	0	2	0	3	0	0	1	1	1	2	0	4.0	1	7	The meticulously crafted and visually appealing mosaic artwork adorns the gallery walls, attracting art enthusiasts.	4
+19	0	0	4	2	1	3	0	2	1	0	0	1	5	0	1	0	0	4.0	0	9	The antique, historical, vibrant, and charming town of Marbles is a popular destination for tourists.	4
+21	0	0	3	1	1	5	0	4	0	1	0	1	4	1	1	0	0	4.0	1	12	The ancient and majestic temple complex, a cultural heritage of the country, is a breathtaking sight to behold.	4
+22	0	0	2	3	1	7	0	2	0	2	0	0	5	1	1	1	0	5.0	1	9	The restaurant offers a wide variety of delectable Asian and American comfort foods, ranging from soul food to Chinese cuisine.	4
+25	2	0	6	1	1	4	0	2	1	1	0	2	5	1	0	0	0	6.0	1	17	Certainly, here is the requested sentence:  A delicious variety of American, Soul Food, Mexican, and Italian cuisine is available.	4
+23	2	0	2	2	2	4	1	4	0	2	0	2	2	0	2	0	0	3.0	0	10	The antique furniture in the library is beautifully preserved and historically significant, and it is a treasured possession by the museum.	4
+31	1	1	5	3	2	5	0	3	1	2	0	1	6	1	1	1	0	5.0	1	10	 The vibrant, historic, quaint, and culturally rich streets of Pompeii are perfect for exploring by foot, and offer a glimpse into the city's fascinating past.	4
+16	0	0	4	1	1	2	0	2	0	1	0	1	4	0	1	0	1	4.0	1	7	The artwork displayed in the lobby is vibrant, colorful, historical, and captivating.	4
+8	0	0	2	0	0	1	1	1	0	1	0	1	0	0	1	0	0	1.0	0	6	Sure, this is the generated sentence: The restaurant offers a wide variety of delicious, healthy, traditional, and flavorful food options.	4
+15	1	0	5	0	1	2	0	1	0	2	0	1	2	0	1	0	0	2.0	0	7	**The vintage car was meticulously restored, gleaming, classic, and rare.**	4
+22	2	0	2	2	1	5	0	4	0	2	0	0	4	1	1	2	0	5.0	1	12	The museum exhibits a wide range of historically important and culturally priceless artworks, showcasing the artistic heritage of the region.	4
+18	0	1	1	0	3	4	0	2	0	1	0	1	5	1	1	1	0	4.0	1	6	The vibrant and colorful marketplace is a lively and bustling hub for buying local goods and souvenirs.	4
+12	0	0	4	0	1	1	0	1	0	0	0	1	4	0	1	0	0	2.0	0	7	 The cafe is cozy, quaint, trendy, and popular.	4
+15	2	0	1	1	1	4	0	2	0	1	0	0	3	0	1	1	0	5.0	0	7	The museum exhibits contain a vast collection of historically important and culturally valuable artifacts.	4
+28	0	0	4	2	2	5	1	4	2	1	0	0	6	0	1	1	0	5.0	0	9	The historical, economic, cultural, and scenic beauty of Port Hutt make it an ideal destination for a relaxing stroll and a photographer's paradise.	4
+23	0	0	5	2	1	5	0	3	1	1	0	0	5	0	1	1	0	5.0	0	13	The menu at the restaurant offers a wide range of American, Soul Food, Mexican, Italian, and Chinese dishes.	4
+29	0	0	5	3	2	6	0	2	2	1	0	0	8	0	1	1	0	6.0	0	18	The diverse range of culinary options available in American, Soul Food, Mexican, Italian, and Chinese cuisines encompasses a wide spectrum of flavors and textures.	4
+21	1	0	6	1	1	3	0	2	1	1	0	0	5	0	1	1	0	4.0	0	10	A quaint, charming, historic, and culturally vibrant town, Salcombe, offers a captivating experience for visitors.	4
+19	0	0	3	2	1	3	0	3	1	0	0	1	5	0	1	0	0	4.0	0	7	The vibrant, historic, and quaint village of Hobbiton is the ideal location for a peaceful escape.	4
+18	0	0	5	1	1	2	0	2	0	3	0	1	3	0	1	0	1	4.0	1	9	The artwork displayed in the museum was historical, cultural, vibrant, and thought-provoking.	4
+24	1	0	6	1	2	5	0	2	0	2	0	0	5	0	1	1	0	5.0	0	18	The restaurant offers a variety of delicious and well-priced American, Soul Food, Mexican, Italian, and Chinese cuisine.	4
+21	0	0	5	2	1	4	0	2	0	0	0	1	6	0	1	0	0	4.0	0	9	 The vintage collection of antique furniture in the museum was breathtaking, historical, valuable, and awe-inspiring.	4
+21	0	0	4	2	1	5	0	3	0	2	0	1	3	0	1	0	1	4.0	1	9	 The vintage, antique, handcrafted, and sentimental tapestry woven by generations is a prized possession of the family.	4
+20	0	0	5	1	1	4	0	2	1	1	0	0	5	0	1	1	0	5.0	0	13	The restaurant offers a diverse range of American, Soul Food, Mexican, Italian, and Chinese cuisine.	4
+16	0	0	5	0	1	1	0	1	4	0	0	1	3	0	1	0	0	3.0	0	13	American Food, Soul Food, Mexican, Italian, and Chinese are the options.	4
+18	0	0	3	2	1	5	0	2	0	1	0	1	3	0	1	0	1	6.0	1	11	 The antique store, filled with unique and vintage items, is a haven for antique enthusiasts.	4
+22	1	0	4	3	1	4	0	3	0	2	0	0	4	0	1	1	1	4.0	1	9	The antique, weathered, historical, and unique artifacts showcased in the museum attract visitors from all over the world.	4
+27	0	0	6	3	1	6	0	3	2	2	0	0	4	1	1	1	0	4.0	1	10	The selection of restaurants in this city encompasses a diverse range of cuisines, including American, Soul Food, Mexican, Italian, and Chinese.	4
+21	1	0	5	1	1	4	0	2	0	2	0	0	5	0	1	1	0	5.0	0	12	The antique furniture store offers a vast array of comfortable, stylish, historic, and well-priced items.	4
+18	1	0	3	2	1	2	0	2	1	1	0	1	3	1	1	0	0	4.0	1	8	The vibrant, historic, and culturally rich streets of Lisbon are a delight to wander through.	4
+11	0	0	3	1	1	1	0	1	1	0	0	0	3	0	0	0	0	3.0	0	7	The vibrant, historical, and picturesque island of St.	4
+19	1	0	4	2	1	2	0	2	2	0	0	1	4	0	1	0	0	4.0	0	10	 The vibrant, historic, bustling, and culturally rich city of Mumbai is the heart of India.	4
+17	0	0	1	3	0	5	0	3	0	0	0	1	4	0	1	0	0	3.0	0	7	The antique books in the cozy reading nook are perfect for a leisurely afternoon of indulgence.	4
+17	2	0	4	1	1	2	0	1	0	1	0	1	4	0	1	0	0	5.0	0	12	The museum is filled with historically important, economically crucial, beautiful, and iconic artwork.	4
+20	1	0	8	0	1	1	0	1	0	1	0	1	6	0	1	0	0	2.0	0	15	The dishes were delicious, fresh, flavorful, homemade, hearty, savory, and well-balanced.	6
+18	0	1	2	0	2	5	0	2	0	0	0	2	4	1	2	0	0	3.0	1	6	The vintage video game and retro snacks were delightful, while the coffee was bitter and cold.	6
+25	0	1	4	1	3	5	0	3	0	1	0	2	5	1	2	0	0	4.0	1	10	The books, paintings, and flowers in the room were exquisite and smelled sweet, while the antique furniture was charming and durable.	6
+9	0	0	2	0	0	1	1	1	0	2	0	1	0	0	1	1	0	2.0	0	4	Sure, I have generated the requested sentence.	6
+26	1	1	6	1	2	3	0	3	0	1	0	2	6	1	2	0	0	3.0	1	15	The food at the restaurant was meticulously arranged, colorful, flavorful, healthy, and satisfying, while the service was prompt and attentive.	6
+24	2	1	5	1	2	5	0	2	0	1	0	2	3	1	2	0	0	3.0	1	12	The fruit, vegetable dishes, and lighter fare were exceptionally spot-on, while the lamb was occasionally dry and overcooked.	6
+19	2	0	7	0	1	1	0	1	0	1	0	1	5	0	1	0	0	2.0	0	14	 The dishes were flavorful, fresh, savory, crunchy, well-seasoned, and perfectly cooked.	6
+19	2	1	2	0	3	3	0	2	0	1	0	2	3	1	2	0	0	3.0	1	8	 The pasta and pizza were always perfectly cooked and flavorful, while the salad was fresh and crisp.	6
+30	1	1	5	1	1	10	0	4	0	2	0	0	5	1	2	2	0	3.0	1	12	The vintage furniture, antique clock, and delicate teacups matched the vintage atmosphere perfectly, while the warm, cozy ambiance welcomed guests to the quaint tea room.	6
+22	1	0	7	1	1	2	0	2	0	2	0	1	5	0	1	0	1	4.0	1	11	 The dishes served at the restaurant were well-prepared, flavorful, healthy, fresh, savory, and inexpensive.	6
+22	0	0	6	1	1	3	0	2	0	1	0	0	8	0	1	1	0	5.0	0	15	A bountiful feast of fresh, vibrant, flavorful, aromatic, healthy, and savory dishes provided a satisfying meal.	6
+21	1	0	7	0	2	2	0	1	0	1	0	1	6	0	1	0	0	4.0	0	11	The pastries and freshly-brewed coffee were warm, flaky, sweet, crispy, buttery, and fluffy.	6
+28	4	1	5	0	2	4	2	1	0	2	0	1	6	1	2	1	0	3.0	1	12	My favorite books, historical novels and short stories, are always well-written and entertaining, even though they occasionally contain a few grammatical errors.	6
+6	1	0	2	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1.0	0	3	Sure, generated sentence below:  The vibrant, colorful, aromatic, flavorful, smooth, savory dishes at the restaurant were delightful to enjoy.	6
+23	1	0	4	2	1	3	1	1	0	2	0	2	6	1	2	0	0	5.0	1	11	A steaming pot of aromatic, flavorful, and satisfying vegetarian dishes was served alongside lighter fare, which was always spot-on.	6
+22	1	0	7	0	1	2	0	2	0	2	0	1	5	1	1	0	0	4.0	1	15	The succulent, savory, flavorful, crunchy, aromatic, and well-timed dishes were a delight to behold.	6
+23	2	0	6	0	2	2	0	2	0	2	0	1	6	0	1	1	0	4.0	0	13	The vibrant, savory, aromatic, crispy, tender, and flavorful dishes were all expertly prepared and delighted the palate.	6
+25	0	0	6	1	1	5	0	3	0	2	0	0	6	1	1	2	0	4.0	1	13	The antique, vintage, delicious, elegant, unique, and savory dishes offered a wide range of options to suit every palate.	6
+25	1	1	2	1	2	9	0	4	0	2	0	1	2	1	2	1	0	4.0	1	12	The coffee table books and comfy cushions were neatly arranged on the couch, while the oriental rug and vintage photographs adorned the space.	6
+20	2	1	3	1	1	3	0	2	0	2	0	2	3	1	2	0	0	3.0	1	12	The dishes were expertly prepared with fresh, flavorful ingredients, while the lamb was consistently overcooked and dry.	6
+20	2	1	2	0	3	3	0	2	0	2	0	2	2	1	2	0	0	4.0	1	7	 The vegetables and lighter fare were perfectly cooked, while the lamb was often undercooked and/or dry.	6
+23	2	1	2	2	1	6	0	3	0	2	0	1	3	1	2	0	0	3.0	1	12	The bookshelves were neatly filled with colorful hardcovers and vintage paperbacks, while the antique teacups sat gracefully on the mahogany table.	6
+19	1	0	2	2	1	3	0	3	0	2	0	1	4	1	1	0	0	4.0	1	6	The colorful and aromatic dishes were perfectly balanced with the lighter fare, making for a delectable meal.	6
+40	2	0	5	2	4	9	0	8	0	2	0	1	7	0	2	0	0	5.0	0	29	The vibrant and flavorful tapas, the savory and aromatic dishes, the freshly baked bread, the tender and sweet lamb, the perfectly roasted vegetables and the succulent fruit were an explosion of flavors on the palate.	6
+25	0	0	8	1	1	2	0	2	0	2	0	1	7	1	1	0	0	4.0	1	17	The vibrant, colorful, aromatic, crunchy, flavorful, succulent, and fresh-brewed coffee was a delight to partake in.	6
+20	0	0	6	0	1	2	0	2	0	1	0	1	6	1	1	0	0	4.0	1	13	The vibrant, flavorful, wholesome, fresh, spicy, and aromatic dishes were a delight to savor.	6
+19	0	0	6	0	1	1	0	1	0	1	0	1	7	1	1	0	0	4.0	1	13	The colorful, delicate, savory, juicy, crunchy, and flavorful dishes were delightful to eat.	6
+30	0	0	7	3	1	5	0	2	0	2	0	1	9	1	1	0	0	5.0	1	16	A delightful concoction of vibrant, aromatic, savory, crispy, tender, and flavorful dishes were served with impeccable timing, making for a memorable dining experience.	6
+18	0	0	6	0	2	2	0	1	0	0	0	1	6	0	1	0	0	3.0	0	11	 The food and drinks were abundant, flavorful, fresh, healthy, nourishing, and satisfying.	6
+22	2	0	7	1	1	2	0	2	0	1	0	1	5	0	1	0	0	3.0	0	14	The food at the restaurant was fresh, flavorful, well-cooked, healthy, visually appealing, and satisfying.	6
+25	0	0	6	2	1	4	0	4	0	1	0	0	7	0	1	1	0	4.0	0	13	The vibrant, succulent, fresh, savory, tangy, and mild flavors of the food complemented the exquisite atmosphere of the restaurant.	6
+19	1	1	2	0	2	4	0	2	0	1	0	2	4	1	2	0	0	3.0	1	7	The breakfast pastries and vibrant floral arrangements were exquisitely arranged, while the coffee was strong and bitter.	6
+26	0	0	3	2	3	8	0	4	0	1	0	0	5	0	1	1	0	4.0	0	11	The vintage furniture and antique books, along with the fresh fruit and warm coffee, made the living room a cozy and relaxing space.	6
+23	0	0	6	1	2	8	0	2	0	0	0	1	3	0	1	0	0	4.0	0	15	The coffee, tea, fruit, bread, vegetables, and pastries were a delectable assortment of fresh and flavorful treats.	6
+27	0	1	3	0	5	5	0	4	0	0	0	3	6	1	3	0	0	4.0	1	8	The fruit salad and the soup were tangy and refreshing, while the bread was crispy and buttery, and the meat was tender and succulent.	6
+18	0	1	2	1	2	3	0	3	0	0	0	2	4	1	2	0	0	3.0	1	8	The paintings in the museum were abstract and colorful, while the sculptures were graceful and monumental.	6
+23	1	0	6	1	1	4	0	2	0	0	0	1	7	0	2	0	0	5.0	0	15	The vintage, intricate, brightly colored, lightweight, stylish, and comfortable furniture was perfect for the cozy living room.	6
+21	0	0	6	1	1	2	0	2	0	2	0	1	6	0	1	0	1	4.0	1	13	The antique, delicate, floral, ornate, painted, and vibrant artwork displayed in the museum was breathtaking.	6
+20	2	0	6	0	2	5	0	1	0	1	0	1	2	0	1	0	0	3.0	0	15	The dishes, lighter fare, lamb, vegetables, and drinks were all well-prepared and satisfying.	6
+26	1	1	5	1	3	4	0	3	0	1	0	2	5	1	2	0	0	4.0	1	13	The artwork and historical artifacts in the museum were vibrant, captivating, and diverse, while the exhibits were well-curated and informative.	6
+27	2	1	2	1	3	6	0	3	0	3	0	2	3	2	2	0	1	5.0	3	10	 The vintage video games and rare collectibles displayed within the museum were meticulously arranged, while the artwork showcased nearby was captivating and/or nostalgic.	6
+31	0	0	6	0	1	6	0	6	0	0	0	6	6	1	6	0	0	3.0	1	26	 The dishes were delicious, the atmosphere was cozy, the service was impeccable, the music was perfect, the views were stunning, and the wine was excellent.	6
+24	2	1	3	1	2	5	0	3	0	1	0	2	4	1	2	0	0	3.0	1	11	The antique books and vintage artwork in the gallery were exceptionally well-preserved, while the antique sculptures were fragile and delicate.	6
+31	0	0	5	1	3	10	0	3	0	1	0	0	8	0	1	1	0	4.0	0	13	**The vibrant and colorful floral arrangements, intricate mosaic patterns, delicate teacups, and vintage tapestry throws created a unique and cozy atmosphere in the elegant living room.**	6
+25	1	1	6	0	3	4	0	2	0	2	0	2	4	1	2	0	0	3.0	1	12	The fruit, vegetables, and baked goods were delicious, fresh, and colorful, while the pasta was slightly dry and overcooked.	6
+21	2	0	7	1	1	2	0	1	0	2	0	1	4	0	1	0	0	3.0	0	14	The books were colorful, neatly arranged, well-worn, fascinating, insightful, and full of stories.	6
+21	0	0	6	1	0	5	0	3	0	1	0	1	4	0	1	0	0	2.0	0	13	The vintage, antique, handcrafted, vintage, rustic, antique wooden desk was the centerpiece of the room.	6
+21	1	0	6	0	1	2	0	2	0	1	0	1	6	1	1	0	0	4.0	1	14	The fresh, spicy, flavorful, vibrant, succulent, and visually appealing food was a delight to eat.	6
+22	2	1	2	1	2	4	0	2	0	2	0	2	4	1	2	0	0	4.0	1	8	A succulent spread of vegetarian dishes and lighter fare was presented, while the lamb was frequently dry and overly cooked.	6
+24	3	1	2	0	2	5	0	3	0	2	0	2	3	2	2	0	0	4.0	2	10	The antique furniture and freshly baked bread were always a delight to see, while the vintage artwork was sometimes delicate and priceless.	6

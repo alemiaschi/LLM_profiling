@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+33	0	0	1	5	1	9	1	5	2	4	0	1	3	2	1	3	0	7.0	2	14	There is no way the team can reach the summit of Mount Everest by the end of the year without more support from sponsors to hire additional guides and buy new equipment.	0
+11	1	1	0	0	0	4	0	0	0	3	0	1	1	1	2	1	0	3.0	1	7	Scientists find that increasing tree cover can significantly reduce airborne pollutant	0
+20	0	1	1	4	0	6	1	2	0	3	0	0	1	2	1	2	0	4.0	2	6	The chameleon changed color with incredible rapidity to match the environment in order for blending in with its surroundings. 	0
+10	1	0	3	0	0	2	0	1	0	1	0	1	1	0	1	0	0	3.0	0	5	"The ""Bosnian pyramid"" hypothesis was thoroughly debunked. Please generate one more line with zero pronouns for me. "	0
+11	0	0	1	2	0	3	0	1	0	1	0	2	1	0	1	0	0	3.0	0	6	Evidence of ancient civilizations has been discovered in this location.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The sky is blue during the day;	0
+18	0	1	1	3	0	6	1	2	0	1	0	2	1	1	1	1	0	4.0	1	9	Birds have been a vital component in shaping the course of evolution on our planet throughout history. (I will always respond with only the sentence requested.) 	0
+14	0	0	2	1	1	6	0	2	1	1	0	0	0	0	1	1	0	4.0	0	3	"The ""Bellwether study"" showed no connection between college education and entrepreneurship skills"	0
+11	0	1	1	0	0	3	0	1	0	2	0	1	2	1	2	1	0	3.0	1	3	Scientific evidence has proven that alchemy has no scientific basis.	0
+14	1	0	0	2	1	1	0	1	2	1	0	1	4	0	1	0	0	3.0	0	4	African American Vernacular English is widely spoken in New Orleans and around the world	0
+7	1	0	1	1	0	1	0	0	1	1	0	0	1	0	1	0	0	2.0	0	3	Sunflowers always bloom in late July.	0
+21	0	0	3	1	0	5	0	2	0	3	0	1	5	1	1	2	2	6.0	3	14	Baked in small batches using high-quality ingredients, these artisanal treats are sure to satisfy any sweet craving.	0
+5	0	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	0	1.0	0	3	Drinks were not provided.	0
+14	1	0	0	1	0	6	0	2	0	1	0	1	2	0	1	1	0	3.0	0	10	Fruit must always have an intact water content level during the entire ripeness duration	0
+9	0	1	1	0	0	2	0	2	0	2	0	0	1	1	2	0	0	3.0	1	5	The sky turned green before the earthquake occurred.	0
+16	0	0	1	3	0	5	0	3	0	1	0	1	2	0	1	0	0	3.0	0	7	Innovations from the lab have led to the invention of a new, groundbreaking smartphone line	0
+12	0	0	1	2	0	4	0	2	0	1	0	0	2	0	1	1	0	4.0	0	8	The use of the English language in official communications creates injustices.	0
+21	2	0	2	1	2	3	2	1	1	4	0	0	2	1	2	1	0	3.0	1	8	The cat's toothless grin made Lily feel uncomfortable, but then it jumped on her lap and purred contentedly.	0
+10	2	0	0	1	0	3	0	1	0	1	2	0	0	0	1	0	0	3.0	0	6	The world population grows annually by about 1.1 billion individual	0
+8	0	0	1	1	0	2	0	1	1	1	0	1	0	0	1	0	0	2.0	0	2	The moon landing was faked by NASA.	0
+8	0	0	1	1	0	1	1	1	1	1	0	1	0	0	1	0	0	2.0	0	3	Which restaurant would you recommend in Paris?	0
+19	0	0	2	3	0	6	0	4	0	2	0	0	1	1	1	1	0	5.0	1	6	The waterfall cascades down the mountain, illuminating the landscape in a brilliant display of nature's beauty.	0
+16	0	0	1	3	0	4	1	1	0	1	1	1	2	1	2	0	0	4.0	1	6	A recent survey concluded 80% of residents are pleased with their quality of life.	0
+19	0	0	0	3	1	6	1	1	2	2	0	1	1	1	1	1	0	4.0	1	8	Sadie Lopez was chosen to take on this role by her great leadership skills and experience in project management	0
+18	1	0	1	0	0	5	1	1	0	3	0	2	3	2	2	2	0	4.0	2	5	Frogs are highly adapted creatures that have developed remarkable coping strategies to survive the harsh aquatic environment.	0
+12	0	0	1	3	0	2	0	2	1	1	0	1	1	1	1	0	0	3.0	1	7	The sky is blue during the day because of Rayleigh scattering.	0
+21	1	0	2	2	0	5	1	2	0	4	0	1	3	3	2	2	0	6.0	3	6	Drunk people are frequently observed stumbling around public spaces, making a scene that draws the interest of concerned citizens.	0
+40	0	2	7	3	0	9	0	4	2	3	5	1	2	2	3	0	0	6.0	2	18	"The ""Hodges-Leonard theorem"" states that 1000+ 4-year-old trees in a 3000+ square foot area will disappear if a human stands within a 200-ft radius for 43 minutes. "	0
+15	0	0	2	0	1	4	0	3	0	2	1	1	0	1	1	1	0	4.0	1	5	Both hands are required to use these two tools, a hammer and pliers. (No pronouns)	0
+8	0	0	0	1	0	2	0	1	0	1	0	2	1	0	1	0	0	2.0	0	4	Drinks have been offered in a unique atmosphere	0
+15	1	0	3	0	0	2	0	2	2	2	0	2	0	1	1	1	0	3.0	1	5	"The ""Hampton Protocol"" has been successfully deployed to secure all internet communications."	0
+28	2	0	4	4	1	7	1	2	0	2	2	0	3	1	0	0	0	6.0	1	7	There are over five million children living on the streets worldwide, many without any access to basic necessities such as food, shelter, and clothing.	0
+13	0	1	2	0	0	3	0	3	0	2	0	0	2	1	2	1	0	3.0	1	9	The sky turned a dark, foreboding cloud as the storm approached. 	0
+28	0	1	3	2	2	4	0	4	5	3	0	0	3	2	2	1	0	5.0	2	9	"The ""Havana Embargo"" remains in place until the United States and Cuba agree on a new political arrangement or Congress votes to repeal the measure."	0
+14	1	0	1	2	0	1	0	2	2	1	0	2	2	0	1	0	0	3.0	0	3	The most beautiful sunsets can be seen near the Cape of Good Hope.	0
+20	0	0	1	0	1	8	1	2	0	3	0	1	2	2	2	3	0	6.0	2	7	The new company is launching a product that uses artificial intelligence and machine learning to predict stock market trends.	0
+21	0	0	2	2	0	4	1	3	1	2	0	3	3	0	2	0	0	4.0	0	11	Terrorism has been declared a global problem of the highest priority, it was said at the United Nations headquarters.	0
+8	0	0	0	0	0	2	1	0	0	3	0	1	0	1	1	2	1	2.0	2	4	Drinking alcohol might cause your mouth to wag	0
+11	0	1	1	1	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	7	The sun sets in the west as the day concludes. 	0
+19	1	0	1	2	0	4	2	2	0	2	0	2	2	2	1	1	0	4.0	2	5	The new smartphone has been a huge success with consumers eagerly waiting for their turn to use it.	0
+16	1	0	1	1	0	2	1	3	2	1	0	1	3	1	2	1	0	3.0	1	7	Muhammad was a highly revered leader who united the Islamic community in the Arabian Peninsula.	0
+27	1	2	1	3	0	6	1	2	0	4	0	2	3	3	2	2	0	7.0	3	8	The world will need to consume much less energy if it is to have a good chance of staying within 2°C of warming since preindustrial times.	0
+13	2	0	3	0	0	1	0	1	3	2	0	1	0	0	1	1	1	4.0	1	8	"The ""McMartin prenotion"" accusning Mrs. Martin was always widely doubted."	0
+17	1	0	1	3	0	5	0	4	0	0	0	1	2	0	1	0	0	4.0	0	3	The new product innovations are highly significant for the growth of the company in the market.	0
+9	1	0	0	2	0	3	0	0	0	1	0	0	2	0	1	0	0	3.0	0	3	Agricultural innovations contributed substantially to improvements in agricultural production	0
+21	0	0	1	2	1	6	0	5	0	2	0	1	2	0	1	2	0	4.0	0	6	The best approach is to eliminate the unnecessary words and convey the message as a noun phrase with no pronouns. Do you want me to generate another sentence?	0
+14	0	0	1	3	0	4	0	0	0	3	0	1	2	2	1	1	0	3.0	2	7	Federal agents are seen sweeping into homes in several states, rounding up targets	0
+15	0	1	1	0	0	4	0	1	2	3	0	0	1	2	1	2	0	4.0	2	4	Buffalo's mayor wants to redevelop downtown Buffalo by building a new sports arena.	0
+9	0	0	1	1	0	2	0	2	2	1	0	0	0	0	1	1	0	2.0	0	4	The Eiffel Tower lights up the night sky.	0
+15	1	0	1	3	0	3	0	1	2	1	0	2	1	0	1	0	0	4.0	0	9	The number of elephants in West Africa has been greatly reduced in recent decades. 	0
+9	0	0	1	1	0	2	1	1	0	1	1	0	1	0	0	0	0	3.0	0	3	There are four free wings with every order.	1
+12	1	0	2	0	0	3	0	2	0	0	0	2	1	0	2	0	0	2.0	0	10	Therefore, the answer is + the puppet show was enchanting.	1
+9	0	0	0	2	0	2	1	0	1	1	0	1	1	0	1	0	0	3.0	0	4	Their trip to Japan was filled with amazing experiences	1
+12	1	1	1	1	0	2	1	1	0	3	0	0	0	2	0	0	0	5.0	2	3	There is a possibility to save by purchasing in bulk online.	1
+10	2	0	0	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	5	+ the teacher was talking to the students so loudly  This task involves responding with only one sentence, using 1 pronoun. The output you provided earlier in your question is an appropriate response to the instruction.	1
+9	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	+ the cat purred satisfactorily on her lap.	1
+16	1	0	0	3	0	5	2	2	0	2	0	0	1	1	2	1	0	5.0	1	5	Everyone laughed when she bought an actual whale in exchange for a slice of pepperoni pizza	1
+11	0	0	1	1	0	3	2	1	0	1	0	1	1	0	1	1	0	2.0	0	7	You will find a nice gift card in your package.	1
+12	0	0	1	3	0	4	1	1	0	1	1	0	0	0	0	0	0	3.0	0	7	There are 12 cups of water for every box of spaghetti.	1
+8	0	0	0	1	0	2	2	0	0	1	0	0	1	0	1	0	0	3.0	0	6	She laughed at her cats' silly antic	1
+10	0	0	2	0	0	2	1	1	0	2	0	0	1	0	1	1	0	3.0	0	6	+ they have some nice cactus-shaped planters.	1
+16	1	1	1	0	0	2	2	1	0	2	0	2	2	2	2	1	0	4.0	2	6	+ you are so stupid to think that a simple task could escape my genius. (1 pronoun)	1
+11	0	0	1	2	0	3	2	2	0	1	0	0	0	0	0	0	0	4.0	0	4	There is an egg with each of its breakfast sausages.	1
+11	1	0	1	1	0	2	1	1	0	2	1	0	1	1	0	0	0	4.0	1	4	There is only one cat sleeping on the soft cushion.	1
+13	0	0	1	1	1	2	3	1	0	2	0	1	0	1	2	1	0	4.0	1	3	The car was hers and she loved to drive it around town.	1
+13	0	0	1	3	0	4	1	3	0	1	0	0	0	0	1	0	0	2.0	0	9	The man walked into the building with the box under his arm.	1
+11	2	0	1	1	0	1	2	1	0	3	0	0	0	1	0	0	0	4.0	1	4	There's a freshly baked pie waiting for her there.	1
+20	1	0	2	1	2	4	2	3	0	4	0	0	0	1	1	1	0	4.0	1	18	I walked into the kitchen and found the cookie jar, but there were no cookies left inside. +	1
+10	0	0	1	0	0	2	1	1	2	0	0	1	1	0	1	0	0	2.0	0	5	My favorite movie is the Harry Potter series.+ 	1
+14	0	0	0	2	0	5	0	4	0	1	0	1	1	0	1	1	0	3.0	0	6	Every student should visit the campus for a real feel of the school life	1
+8	0	0	0	1	0	2	1	2	0	1	0	0	1	0	0	0	0	3.0	0	3	There is a free toy with every pizza	1
+11	0	0	1	1	0	2	2	1	0	1	0	1	1	0	1	1	0	2.0	0	6	+ You will find a new dress in your room.	1
+8	2	0	1	0	0	1	0	1	0	1	0	2	0	0	1	0	0	2.0	0	3	The package will be mailed there immediately.	1
+10	0	0	1	1	0	2	1	2	0	1	0	1	1	0	1	1	0	2.0	0	6	I am writing this book in a quiet room.	1
+7	0	0	0	1	0	2	1	2	0	1	0	0	0	0	0	0	0	2.0	0	5	There is no chicken with this pizza	1
+9	0	0	0	1	0	2	2	2	0	1	0	0	1	0	1	2	0	3.0	0	4	She gave them each a box of new books	1
+8	0	0	0	1	0	2	2	1	0	1	0	1	0	0	1	1	0	2.0	0	5	She is playing soccer with all her heart	1
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	They bought a house with big rooms. 	1
+12	0	0	1	1	1	2	4	0	0	1	0	0	2	0	1	0	0	3.0	0	5	There she goes, with her big hair and her big smile	1
+19	0	1	3	2	1	5	3	1	1	2	0	0	0	1	2	2	0	5.0	1	5	Everybody in the bar applauded Ben as he sang his song of hope, pride, and rebellion.	1
+14	2	0	0	2	1	2	2	2	0	2	0	1	0	0	1	1	0	4.0	0	5	Everyone must read this sentence carefully and think deeply about the meaning behind it	1
+11	0	0	2	1	1	2	1	1	0	2	0	0	0	1	0	0	0	4.0	1	4	The cat __________ down my shirt and refused to move.	1
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	0	0	0	3.0	0	3	There is a book under my chair.	1
+5	0	0	1	0	0	1	1	0	0	1	0	1	0	0	0	0	0	1.0	0	2	There will be presents. 	1
+6	0	0	1	1	0	1	1	0	1	1	0	0	0	0	1	1	0	3.0	0	2	Everyone bought drinks except Sammy.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat curled there.	1
+21	2	2	4	2	0	2	1	1	2	2	0	2	1	2	2	1	0	3.0	2	15	"She was singing ""SexyBack"" in the shower with complete confidence, as if Britney were there singing along."	1
+9	0	0	1	1	0	2	2	1	0	0	0	1	1	0	1	0	0	1.0	0	7	There she was with the free pineapple margaritas.	1
+9	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	+ The rain fell gently on her face.	1
+24	1	0	3	3	1	5	2	4	0	3	0	0	1	1	1	0	0	5.0	1	6	+ The student walked to school, but there was a surprise waiting for him: a pizza with a full cola inside!	1
+5	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	1	The cake smelled delicious.	1
+10	0	0	0	2	0	2	2	2	0	1	0	0	1	0	0	0	0	3.0	0	6	There is a hot dog on the desk of him	1
+10	0	0	1	1	0	3	2	1	0	1	0	0	1	0	0	0	0	3.0	0	4	There is a surprise party for her next door.	1
+11	0	0	0	2	0	3	1	1	1	2	0	0	0	1	0	1	0	5.0	1	2	+ There are a lot of books about aliens visiting Earth	1
+13	0	0	1	1	0	3	3	1	0	2	0	0	2	1	1	1	0	4.0	1	5	There are several restaurants near my house that have a vegan menu.	1
+11	0	0	1	1	0	3	1	2	0	1	0	1	1	0	1	2	0	3.0	0	3	The teacher will give them an explanation with many examples.	1
+15	1	0	1	2	0	3	2	1	1	3	0	1	0	2	1	0	0	4.0	2	5	There will be a gift card given to Sam when he shows up today. +++  Please make your response in just one sentence, exactly as the instructions have asked for, and without adding or elaborating on the content. Thank you for participating! 	1
+19	1	0	2	2	0	3	3	1	0	3	0	1	2	1	2	1	0	5.0	1	8	I am feeling hungry, so i want to have a slice of pizza with my free cola.	1
+11	0	0	1	1	0	2	1	2	0	2	0	0	2	1	0	0	0	3.0	1	4	There is a new free cola for every pizza purchased.	1
+10	0	0	1	1	0	2	1	1	0	1	1	0	1	0	0	0	0	3.0	0	3	+ There is one free drink with each order.	1
+15	3	2	0	0	0	2	3	0	0	2	0	1	2	2	3	0	0	4.0	2	5	Her siblings quickly realized that their actions were futile as she calmly walked out unharmed	3
+22	1	0	3	4	2	2	2	2	1	2	0	1	2	1	2	0	0	5.0	1	7	They laughed at her, but Mary was adamant, walking confidently through the pink mist and out of the room.	3
+15	1	1	2	1	0	0	4	1	0	3	1	1	0	1	3	1	0	5.0	1	6	They were chasing her, he yelled as the two of us ran away.	3
+21	0	1	1	3	0	5	2	3	0	4	0	0	1	3	2	2	0	5.0	3	8	The tourists found themselves lost in translation as they attempted to navigate the maze of streets in a foreign land.	3
+12	1	0	2	1	1	1	4	0	0	2	0	0	0	0	2	1	0	2.0	0	8	She invited them to her house, and they agreed eagerly.	3
+20	3	0	2	2	2	3	1	0	0	4	0	0	3	2	1	0	0	5.0	2	9	They walked through crowded streets filled with strangers but never felt anxious, instead feeling safe and content together.	3
+18	3	0	2	1	2	3	2	1	0	3	0	0	1	2	1	1	0	5.0	2	7	They followed his directions promptly and efficiently, resulting in excellent outcomes and a job well done.	3
+14	0	0	1	2	1	4	0	2	0	2	1	0	1	0	1	1	0	3.0	0	7	The two friends laughed and ran hand in hand throughout the entire park.	3
+20	2	1	1	2	0	4	3	2	0	3	0	0	2	2	2	2	0	4.0	2	9	She walked away with a smile on her face, feeling victorious after successfully teaching her puppy a new trick	3
+25	4	0	3	3	2	2	5	2	0	3	0	0	1	0	1	2	0	4.0	0	13	She laughed at his jokes, but also admired her new watch, and loved him all the more so deeply because of it.	3
+22	1	1	3	0	2	2	3	2	2	5	0	0	0	2	4	3	0	4.0	2	13	They climbed the mountain excitedly, but before they reached the peak, Jack fell and Rachel descended to help him.	3
+25	3	0	2	1	1	4	4	3	0	4	0	2	1	2	4	3	0	4.0	2	15	We always love it when the neighbors throw parties and turn up the music late; it means ours will be a louder night.	3
+24	3	0	2	2	2	3	3	1	0	3	0	2	2	2	1	0	0	5.0	2	10	My cat, he was so happy to be home after the long trip and immediately started purring and rubbing against my feet.	3
+15	0	0	1	1	1	4	2	3	0	2	1	0	0	0	2	3	0	3.0	0	7	The chef gave the server two tickets and he thanked  him with a smile.	3
+12	0	0	1	1	0	2	1	1	0	2	0	0	3	1	1	1	0	5.0	1	4	They came to the city excited to visit new, different places	3
+21	1	0	3	2	1	3	4	1	0	3	0	1	1	2	2	0	0	5.0	2	11	We walked to the bar where my best friend, him, and I were going to meet for drinks.	3
+17	0	0	1	2	1	4	1	4	0	1	0	1	2	0	2	1	0	3.0	0	11	They provided a detailed report for the project and the stakeholders were pleased with the outcome.	3
+16	0	0	2	1	1	5	1	1	3	1	0	0	1	0	1	1	0	3.0	0	12	The manager congratulated team members Sarah, Tom and David on their recent project success.	3
+36	1	0	2	6	1	9	2	6	0	4	1	2	1	1	2	2	0	7.0	1	17	She gave the baby the bottle with the sunglasses for a reason, so the infant would be enticed to stay on the blanket and sleep for its normal naptime of 12 hours after lunch.	3
+24	3	0	3	3	1	2	3	1	1	5	0	0	2	3	2	2	0	5.0	3	9	They ran towards the bright light with excitement, joyfully jumping and shouting, completely overwhelming Tim with how much they appreciated him.	3
+27	3	0	1	2	1	4	6	1	0	6	0	1	1	5	4	2	0	5.0	5	18	I was excited when my parents said we had to go to grandmas but when we got there grandma already had a feast prepared for us.	3
+23	1	0	3	2	1	6	3	2	0	4	0	1	0	2	2	3	0	4.0	2	13	She walked into the kitchen, where her daughter was making breakfast, and found her son watching cartoons on the couch.	3
+18	1	0	2	0	2	5	2	1	0	4	0	0	0	2	1	3	0	5.0	2	5	The students worked together, using teamwork and communication to overcome their differences and achieve their goals.	3
+21	0	1	2	3	0	4	3	2	0	5	0	0	1	3	2	1	0	7.0	3	5	They walked toward the gate laughing as she headed toward them holding a large bag of chocolate-covered pretzels.	3
+22	1	1	2	2	1	4	3	1	3	4	0	0	0	3	3	1	0	5.0	3	6	Jenifer walked past the coffee cart, watching Alex and Sarah laugh together as they enjoyed their coffee before their meeting.	3
+30	1	0	2	3	1	6	5	2	0	4	0	0	4	2	2	3	0	6.0	2	11	She showed him several images of their friends' kitchens and he nodded enthusiasticly at each one, eager to see his own space transformed in a similar way.	3
+14	1	0	2	0	0	3	2	3	0	2	0	0	1	1	2	3	0	4.0	1	4	The man gave the woman a present, which made her incredibly happy.	3
+15	1	0	1	1	1	2	3	2	0	3	0	0	1	1	2	2	0	3.0	1	9	They gave back to the organization everything they   took and received a big hug. 	3
+19	1	0	1	1	1	1	6	1	0	5	0	0	1	3	3	3	0	6.0	3	7	They walked in the park together and she caught him kissing someone else which caused them to argue.	3
+21	0	0	3	3	1	4	2	3	0	4	0	0	1	2	1	1	0	4.0	2	15	They stood in the dark watching the rain fall, scared for the future, and lost without their leader.	3
+11	1	0	1	2	0	3	1	1	0	2	0	0	0	1	1	1	0	3.0	1	5	The baby woke up his parents when crying at midnight. 	3
+14	0	0	1	2	1	3	1	1	1	2	1	0	1	0	1	1	0	4.0	0	5	Maria looked in the mirror and saw two new pimples on her forehead. She quickly applied some foundation and then left for her date with Alex. Alex arrived promptly at 8 pm and they spent a wonderful evening together	3
+20	2	1	1	1	0	2	4	2	0	3	0	3	1	3	3	1	0	4.0	3	10	We will get the ball to her as she is the only one who can play fetch correctly now. 	3
+19	0	0	3	1	1	3	3	3	2	1	0	0	2	0	1	1	0	4.0	0	9	Theresa, her boyfriend Tim, and she all had such a wonderful time on their tropical vacation. 	3
+57	4	2	4	3	5	6	12	2	0	10	0	3	3	6	5	5	0	11.0	6	48	They made her believe that her life was about to be turned around for the better, and that they were going to make her wish come true, but they just wanted to steal her identity and make her a victim of crime and fraud, so she lost everything and everyone important to her.	3
+33	3	2	2	6	1	5	5	0	3	5	0	0	0	3	3	1	0	5.0	3	11	They gave back his dog, and then walked towards their house with excitement growing inside Mark as he held onto Lucky's leash tightly while Lucky trotted happily by his side.	3
+16	0	0	1	3	1	3	3	2	0	3	0	0	0	1	1	1	0	4.0	1	8	They arrived at her house after the party and found her crying on the couch.	3
+15	2	0	0	2	1	2	3	2	0	2	0	0	1	0	2	1	0	4.0	0	9	They came through on all of their promises and we had a very busy day	3
+9	0	0	2	0	0	1	3	1	0	2	0	0	0	1	1	2	0	3.0	1	2	They made him eat a sandwich, him.	3
+30	3	1	2	3	1	3	5	1	2	3	0	2	3	3	3	1	0	6.0	3	9	Jennifer, Michael and their little boy were so excited to finally get their new house that they felt like they were truly moving on up in the world.	3
+15	2	0	0	2	1	2	3	2	0	2	0	0	1	0	2	1	0	4.0	0	9	They came through on all of their promises and we had a very successful day	3
+21	3	1	1	2	1	3	2	3	0	3	0	1	1	1	2	1	0	7.0	1	5	They walked in the forest and saw the huge bear before running as fast they could back to the campsite.	3
+19	0	0	1	4	1	3	4	1	2	2	0	1	0	1	2	0	0	4.0	1	7	She walked out of the elevator and ran into her coworker John, who was with his friend Emily	3
+10	3	0	1	0	1	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	7	She grabbed their towels as well and was off.	3
+39	2	1	1	5	3	6	9	2	0	5	1	1	2	3	5	3	0	8.0	3	13	They took her to meet her hero and after only 30 minutes she already knew that her idol was real and the encounter meant everything to her because of the impact he had on herself and other girls. 	3
+22	2	0	2	1	1	4	3	3	0	4	0	0	1	2	3	1	0	5.0	2	10	They saw the dog run quickly into the store and they chased after, them, eager to catch the thieving creature	3
+18	1	0	2	3	1	2	3	2	0	2	0	1	1	1	2	0	0	5.0	1	7	She spoke to them, and they all nodded in agreement about how great the cake was.	3
+25	2	0	2	3	4	2	3	2	0	5	0	0	2	2	1	1	0	7.0	2	8	They walked through and over him, smiling and nodding at each other and completely ignoring the pleading and painful sounds coming from him.	3
+18	0	0	1	2	1	3	4	2	0	3	0	1	1	1	3	1	0	4.0	1	9	She laughed at the jokes they were sharing and he felt a warm feeling in his chest.	3
+13	0	0	1	1	1	2	3	2	0	2	0	0	1	0	2	2	0	3.0	0	7	She walked in the door and they both gave her big hugs.	3
+21	1	0	1	2	1	1	7	1	0	4	0	1	1	2	3	2	0	4.0	2	9	He asked them what he should do next and she recommended him to speak to someone else at the department.	5
+32	1	2	3	2	2	3	6	2	0	4	0	4	1	2	5	2	0	4.0	2	23	Her boss will not allow it because she does not believe the plan is feasible, nor that he has thought it through properly, and she fears for the consequences.	5
+16	0	0	2	0	1	4	1	3	0	2	0	1	0	0	2	2	0	3.0	0	10	The employee refused the manager's demand, but she did not resist the transfer.	5
+32	2	0	2	5	1	5	6	0	0	4	0	5	2	2	3	1	0	5.0	2	17	Her mom will talk for hours on end about what she could have done more, and will still never take credit for anything positive that she does do for others.	5
+30	3	0	2	2	2	1	10	0	0	6	0	2	1	3	5	3	0	7.0	3	6	Her words echoed back to them, she said nothing more but they heard what she meant and knew why they'd wanted her to be there with them. 	5
+20	3	0	3	4	0	2	3	0	0	1	0	3	0	0	2	0	0	4.0	0	10	She is always there for him; however, she cannot be relied upon in times of need.	5
+20	2	0	1	2	0	2	4	0	0	2	0	5	0	1	3	0	0	3.0	1	13	Her husband does not know about his aunt being here, so he cannot have been talking to anyone	5
+31	0	0	3	5	1	4	6	3	0	3	0	4	1	2	4	1	0	5.0	2	15	You are right; I did get an email from her about the matter, and she seems to be in agreement with you on the steps we should follow.	5
+29	1	1	3	2	1	5	5	2	0	4	0	3	0	3	3	3	0	5.0	3	14	Take the messages for what they are, she has no objection in you being pals at uni, but she does not want to take matters further.	5
+32	3	1	1	5	1	4	7	1	0	4	0	2	1	2	3	2	0	7.0	2	8	He always keeps in touch; he calls her often and she feels guilty for not having been in the room to see her grandmother off on her trip away from him	5
+19	0	0	0	2	1	4	2	3	0	4	0	1	1	2	2	2	0	7.0	2	5	The principal has appointed a representative to meet with the protesters and take statements for what they consider necessary	5
+21	1	0	2	2	1	4	3	1	2	2	0	2	0	2	2	1	0	5.0	2	8	She never thought they would invite Sam, Sarah and her to be part of the panelists in TV station.	5
+26	0	1	2	2	1	3	5	3	0	5	0	2	1	3	3	3	0	7.0	3	12	They told him that they would consider the proposal, but he should make sure to keep them updated about the meetings with the investors.	5
+26	1	0	4	3	1	7	3	2	0	2	0	2	1	0	3	1	0	4.0	0	11	Their kids were happy, and the family was united again; her mother took charge of the rehearsal dinner, with help from them. 	5
+16	0	1	1	1	0	2	1	1	2	2	0	1	3	2	1	2	0	5.0	2	4	Aaron is eager to assist John in finding the appropriate gift for their mutual colleague. 	5
+26	6	0	3	1	1	2	6	0	0	4	0	1	1	2	3	2	0	3.0	2	18	They took their books to their new dorm, where you are also now residing, but he never wants to see you together again. 	5
+26	2	0	2	3	2	2	8	0	0	3	0	1	2	2	3	1	0	4.0	2	12	She is always excited to help him in anything he does, but he never talks to her about his studies or her future plans.	5
+17	2	0	1	1	1	2	3	1	0	5	0	0	0	2	0	3	0	5.0	2	8	Take our product, use it now and watch the benefits start to unfold for you immediately	5
+15	1	1	1	1	1	0	4	0	0	3	0	1	1	2	2	1	0	4.0	2	5	He always thinks about her, but decides that it's pointless to tell them	5
+27	1	1	2	2	1	5	5	2	0	4	0	3	0	3	3	3	0	5.0	3	13	Take the messages for what they are; she has no objection in you being pals at uni, but she does want to take matters further	5
+31	3	1	1	2	1	4	5	2	0	5	0	3	2	3	3	2	0	7.0	3	26	He will not hesitate when he gets home to check the drawers for his favorite dress and the one matching her new shoes, that she will soon be trying off	5
+16	0	0	3	1	1	2	4	1	0	3	0	0	1	0	2	3	0	4.0	0	7	Take the gifts from her, he took them, but she had other ideas. 	5
+25	0	1	1	2	1	3	7	2	0	6	0	0	0	5	3	3	0	7.0	5	8	She asked him about what he intended doing about the matter and what he required her to do in order to address the problem.	5
+18	0	1	1	1	0	4	2	4	0	3	0	1	0	2	2	3	0	5.0	2	5	She will have no argument if you use the stairs to reach the top of the hill.	5
+26	0	0	2	3	0	5	4	4	0	5	0	0	0	4	3	3	0	5.0	4	13	The teacher asked the students to turn in their assignments for the grade they deserved, not for the grade she wanted to give them.	5
+21	1	0	1	3	0	2	4	2	0	3	0	4	1	3	3	0	0	6.0	3	6	She is delighted he has finally realized what matter she had been pointing out for what seemed like an age.	5
+8	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	3.0	0	4	Take the package for what it is. She will approve of him talking to you even if she has never met you.	5
+19	2	0	0	2	0	4	2	2	0	2	0	2	2	1	1	2	0	3.0	1	12	She has been taking a break from social media for over a month now to recharge her mental health	5
+23	2	1	4	1	2	2	1	1	4	3	0	2	0	1	1	1	0	5.0	1	7	She has taken the job offer seriously and is looking forward to working with Alex, Ryan, Ben, and Rachel.	5
+21	1	0	2	1	1	3	2	3	0	2	0	3	2	2	2	2	0	4.0	2	12	They have assured her, the baby is safe to be around, and has no adverse effects in the slightest	5
+14	0	0	1	2	0	2	2	2	0	2	0	3	0	1	2	1	0	4.0	1	4	The teacher is explaining the lesson for what they have been working on.	5
+13	0	0	1	2	1	1	4	1	0	3	0	0	0	1	1	2	0	3.0	1	6	Take whatever you need and bring it with you on the road. She has no idea what to look for since she has never done something like that before. In the end, he went with his friends because they could always find something to argue about. She had nothing to show for her day because she got there too late to do anything. After hearing her speak, he could not remember a thing she said because he was too busy thinking about how nice she looked in that dress. 	5
+24	1	1	3	2	1	2	5	1	2	4	0	1	1	1	4	3	0	4.0	1	19	Maria hopes Michael enjoys her presents and that he takes good care of them; after all, she does love him dearly.	5
+22	2	0	2	5	1	2	7	1	0	2	0	0	0	0	3	1	0	4.0	0	11	She went to him for answers about why him, but he had no answers for her about why she him.	5
+33	2	1	3	5	1	6	6	3	0	4	0	1	1	2	3	3	0	7.0	2	16	She gave the package back to him, along with a gift for his sister; they had a good time chatting and taking selfies while she was there in his apartment.	5
+21	0	1	2	2	0	2	6	0	0	3	0	2	2	3	2	3	0	5.0	3	11	She has given her full attention to his words, while he is delighted to see them bonding like this.	5
+23	1	1	2	3	0	4	3	2	0	3	0	2	0	2	2	2	0	8.0	2	6	She has taken the decision not to go with her family, in favor of staying where she is for a time.	5
+41	1	1	5	5	0	9	6	5	0	6	0	1	1	5	4	3	0	7.0	5	11	The man walked into the library, carrying the book his daughter had borrowed for school, to return it to the librarian, who greeted him with a friendly smile, while her cat purred contentedly on her desk.	5
+37	1	3	2	3	1	3	9	2	0	5	0	4	3	3	5	3	0	5.0	3	22	She had told him that she had a new phone and was excited for he to see it for himself; little did he realize that she was speaking to her imaginary friends at the time. 	5
+19	2	0	2	1	2	2	3	0	0	4	0	1	1	2	2	0	0	4.0	2	11	Her sisters' dogs like playing fetch and running too, but they are generally calmer than hers.	5
+30	0	0	3	4	1	2	9	2	0	5	0	2	1	4	4	4	0	6.0	4	10	Take the cookies for what they are: he has no objection in us sharing them, but she wants to be careful about who she gives them to.	5
+29	1	1	1	3	1	8	6	2	0	4	0	0	1	2	2	5	0	4.0	2	13	She gave me the book to read over summer break and promised us tickets to the museum for our birthday next month if we passed our exams well.	5
+20	0	0	2	2	0	3	5	2	0	3	0	2	0	2	2	2	0	5.0	2	11	Take the presents for what they are: he will not forget the surprise you brought for his birthday.	5
+26	0	2	1	4	1	4	4	2	0	5	0	1	0	3	3	2	0	7.0	3	6	She gave him the papers to read through and for him to sign for approval, before leaving for home with the agreement she has made	5
+18	0	0	2	3	0	3	4	1	0	3	0	1	1	2	2	2	0	4.0	2	8	She gave the package to him without hesitation, knowing he would take good care of it. 	5
+18	0	2	1	1	0	4	4	1	0	3	0	1	0	2	1	4	0	4.0	2	7	She has given him permission in writing to sell his artwork at the gallery without consulting her.	5
+33	3	2	3	0	2	4	7	3	0	5	0	3	0	3	5	4	0	5.0	3	12	She has not received the letter yet, but you can bet your boots that as soon as she does, she will give it all the attention and time it deserves.	5
+21	0	0	1	1	2	4	4	1	0	3	0	2	0	1	2	2	0	4.0	1	7	The baby's mama and I have had our differences but I do not want to see her in trouble. 	5
+27	2	0	5	2	1	1	5	1	0	3	0	4	1	3	3	1	0	4.0	3	23	You'd have to be crazy, like him, to believe they can pull this off - but then again, I am a skeptic.	5
+39	1	0	5	5	0	5	9	5	0	4	0	2	3	3	5	3	0	5.0	3	34	Take it from what they did: they took all the pictures from her gallery; he sold the ones with the highest price; she was very sad about it; it is illegal in some countries. Let me know if you need anything else!	5
+38	0	1	5	3	3	8	3	3	0	5	0	0	7	2	3	3	1	5.0	3	15	As her grandchildren watched, she lit  several red and silver candles and they sparkled, casting light and warmth into the cold night in  the  damp garden, filling each with soft, yellow flickering rays.	7
+45	2	0	4	3	4	8	10	2	0	6	0	3	2	4	5	2	0	5.0	4	26	My mom, my sister and my aunt all think I should give up on my plan to start my own business but my teacher and mentor, who both know me really well, think I 'm ready and could succeed in entrepreneurship.	7
+24	1	0	1	1	2	2	7	0	0	5	0	4	0	2	4	3	0	4.0	2	13	They are selling my house without me and i cant stop it and they think i must be having fun moving away.	7
+31	2	0	7	0	3	3	9	1	0	3	0	3	0	1	3	1	0	3.0	1	12	Her daughter, she, herself, they and their mother had never seen the man, but he, him, and they knew he would be arriving soon. 	7
+21	2	1	2	1	0	2	4	0	2	4	0	2	1	1	4	2	2	4.0	3	9	As she watched her friends walk down to breakfast, she realized Samantha was right - Mary was completely ignoring her	7
+34	5	1	4	0	1	3	9	1	0	6	0	2	0	2	5	6	0	5.0	2	27	I have watched that movie, but my sister loves it, therefore she borrowed it before i had chance to see it again, therefore i have not seen it again yet.	7
+15	0	1	0	1	0	2	3	1	1	3	0	2	0	2	2	2	0	4.0	2	5	I have been following that advice while they try to find my brother in Mexico	7
+35	1	2	2	1	2	2	10	1	0	7	0	2	3	4	5	4	0	6.0	4	12	She said that they took her to see a doctor and he touched her in so many inappropriate ways, but they didn't do anything illegal so there's nothing anyone can do.	7
+45	2	1	1	5	3	7	9	2	0	7	0	4	2	4	6	3	0	9.0	4	21	I have spoken to a lawyer about this and it turns out my brother has taken legal action and my father does not know how to resolve this issue which leaves me unsure of how things will work out between him and my stepmother.	7
+30	1	0	2	2	2	7	4	3	0	5	0	1	0	2	3	2	0	6.0	2	14	She went to visit her friend but her friend was not home, so She stayed and watch the dogs play in the neighbor's yard for a while.	7
+19	1	0	0	1	1	3	3	2	1	4	0	1	1	3	2	2	0	6.0	3	7	I've seen that movie many times and every time it makes me want to get away for Thanksgiving	7
+42	4	3	0	0	2	5	7	4	0	8	0	3	3	6	5	6	0	11.0	6	8	They always told her she was not alone in how the fire had burned away everything she did and did not have until her mother took them both to get new faces and start the process of building an altogether different identity	7
+22	0	0	1	2	1	3	2	3	0	4	0	2	2	2	2	2	0	7.0	2	6	i have not seen the film but it does appear to use many of the themes found in the original book.	7
+44	3	5	3	1	0	2	12	2	0	9	0	4	3	8	8	5	0	9.0	8	20	She knew that he was watching her as she put on the new red hat she had received, which made her feel like she was becoming something entirely different, though the fact that he was watching her only made her more _______ 	7
+27	2	0	2	3	1	2	10	0	0	5	0	1	1	3	4	1	0	6.0	3	16	She walked into her house that she shared with his ex-husband, he whom she loved but hated how he had taken so much from her.	7
+37	2	2	2	3	1	3	6	3	0	4	0	4	3	5	4	1	0	8.0	5	8	She had not seen him before although he did not speak with her, which was unusual because typically he was the first to arrive at work and the last one to leave in the evening. 	7
+34	4	0	3	2	0	5	8	0	0	5	0	4	0	3	5	3	0	5.0	3	17	I want my mom to know I'll come home eventually, her lack of communication doesn't concern me, she'll understand when I'm safely in my dad's hands.	7
+31	6	1	1	3	1	0	7	1	0	5	0	2	2	5	4	1	0	8.0	5	7	i want to be able to do something meaningful to those i love, who now suffer needlessly because she was taken away from all of us so brutally and unnecessarily	7
+27	3	0	3	0	2	2	6	2	0	5	0	3	1	2	5	2	1	4.0	3	8	Every time she entered the kitchen, he would snarl and bark, and she was always afraid he would attack her when she least expected.	7
+13	1	0	3	1	1	3	0	3	0	1	0	0	0	0	1	1	0	3.0	0	6	The dog ran _________ the tree and then _________ under the porch.	7
+34	3	2	0	1	3	2	8	2	0	7	0	3	2	5	6	3	0	5.0	5	25	i've tried everything but nothing seems to work it's really frustrating because the teacher keeps telling me that i'm really close but then i get to the test & realize that 	7
+25	2	1	3	3	2	0	6	1	0	5	0	0	2	1	4	0	0	4.0	1	9	I saw that she laughed at him, then I felt guilty and left, and they never talked to each other after that.	7
+54	3	3	2	4	3	9	9	4	0	10	0	5	2	8	7	4	0	9.0	8	18	Her husband had been telling her that she'd never fly solo but when she booked herself on the trial lesson she realized her husband had  been wrong since she felt at ease operating the plane and took control with a smile as she soared into the sky, feeling exhilarated and free.	7
+164	20	9	12	12	11	20	22	13	0	23	0	8	13	19	18	7	0	22.0	19	151	I will always treasure the time we spent together, even though she now sits in the hospital, dying from a disease that you could never prevent and that the doctor said you had brought upon yourself by making the wrong choices, and the thought of which causes me such mental pain and suffering that I often think to myself that I would gladly trade all of the happiness I once had for even the simplest of respites from the constant agony and anguish that I now endure, knowing as I do that this will only continue until I am inevitably brought to the cold, dark earth, where my poor, beaten and battered body will lie in silence and oblivion forever, never again to feel or experience the simple joys and pleasures that made life on this once-wonderful planet even worth enduring; but I digress, as that is neither here nor there. 	7
+21	0	1	0	4	0	3	6	1	0	3	1	1	1	2	3	2	0	5.0	2	6	She took that book with seven mysterious secrets that were unveiled to me as I read it from underneath my tree	7
+10	0	0	1	1	1	2	2	0	0	3	0	0	0	1	1	1	0	5.0	1	2	They kept calling and texting me day after day. I felt very upset and frustrated. I knew he didn't mean anything bad to do. But I still felt really bad for her and wanted to make things better. They said something about her mom being really ill and so she could not talk. They told her she was welcome to come back and hang out.	7
+36	2	3	7	2	0	4	5	2	0	9	0	1	0	7	3	3	1	5.0	8	14	Every time I look in  the mirror, ______ remembers when he had to get his hair cut, because, because ____ knew he could make it go straight up without using ______ comb.	7
+46	5	1	2	5	3	4	12	0	0	6	0	3	3	4	5	4	0	7.0	4	31	They were all so excited about their new teacher they hadn't had in years and they kept coming up to me to tell me and show me things about it, but I already knew most of them because i'm their teacher  too.	7
+31	1	0	5	3	1	5	6	2	0	4	0	2	2	1	5	1	0	4.0	1	18	"The man walked towards his children, they stared at him in disbelief, the nurse checked his pulse then said ""I am sorry but he is gone."""	7
+32	1	1	2	1	3	5	2	3	2	9	0	1	1	4	4	4	0	6.0	4	16	The teacher noticed that Sarah was struggling and offered to help her study for the exam, Sarah accepted and they spent several hours together reviewing the notes and practicing problems.	7
+34	1	2	2	4	1	3	9	3	0	7	0	1	0	5	5	3	0	6.0	5	14	She asked him how his work went because he worked at a restaurant and he told  her that  the owner yelled at them, causing them to both get stressed out about it.	7
+53	4	5	3	2	1	6	8	4	0	7	0	4	5	8	8	3	0	7.0	8	30	i'm so glad that you understand, mom, because dad says that you need to get a new car before you run over someone with this clunker and i'm not sure that you 're ready to handle a new baby when you can't even drive a car safely	7
+22	2	0	6	1	1	1	6	1	0	2	0	1	1	0	2	0	0	3.0	0	13	She was walking away and the other girl called after, them, her, she, they, their, there	7
+40	6	2	4	3	0	5	10	2	0	5	0	2	0	5	5	3	0	5.0	5	17	I don't see the point of that, because when I think of my brother, his laugh always makes me smile, even if my parents took him away from me when i was just a child. 	7
+47	1	2	5	5	2	9	3	3	5	6	0	1	0	3	5	2	0	8.0	3	12	The cat purred in its owner ' s lap, and the baby giggled as it was bounced on John 's knee, while Michael smiled knowingly at Sarah, who patted Emily 's head with satisfaction and pulled James 's feet off the table ________________.	7
+29	2	0	2	2	1	6	2	4	0	3	2	3	2	4	3	1	0	5.0	4	16	I'm sorry but the answer provided in the instruction is a sentence generated from 7 pronouns, here is a different sentence that also uses 7 pronouns. 	7
+15	2	0	0	2	1	0	3	0	2	1	0	4	0	0	3	0	0	3.0	0	5	I'd been to Paris before but he never mentioned he'd been at Normandy	7
+31	1	0	4	4	0	6	5	4	2	2	0	1	2	2	4	1	1	5.0	3	12	When I met Sarah at the library yesterday, she ____________ me the latest book about AI, saying it was an excellent source for my research on the topic.	7
+3	0	0	0	0	0	0	0	0	2	1	0	0	0	0	1	0	0	2.0	0	2	Mrs. Smith gave Jon the books and he took them to the library to return before dinner, however, they had left the house without their tickets so Mr. Jones had to buy new ones.	7
+33	0	1	3	3	1	3	7	2	0	7	0	2	3	3	4	3	0	5.0	3	13	This cat seems friendly, I'm going to play with it, she may chase it around the tree and pounce on its little belly if it lets her get close. 	7
+27	3	0	0	0	2	2	10	1	0	4	0	3	2	4	6	3	0	4.0	4	21	i think i love him he's my boyfriend he always supports me and is there whenever i need him he's amazing and the best partner 	7
+23	3	1	1	0	3	2	5	2	0	5	0	1	0	1	4	3	0	4.0	1	7	The dog chased them but they got away and the fox quickly caught and killed it before it could attack them again. 	7
+9	0	0	1	1	0	2	2	1	0	1	0	0	1	0	1	1	0	2.0	0	6	I had a dream about her last night. 	7
+26	0	0	2	1	1	3	6	4	0	5	0	2	0	2	4	5	0	7.0	2	13	I've seen that movie and it does not help me at all, it says what the monster influenced not what influenced the monster.	7
+36	2	0	1	4	3	9	2	5	0	4	0	1	5	3	3	2	0	11.0	3	6	The artist carefully crafted the sculpture using intricate details and a wide range of vibrant colors and textures that are reflected in the unique and captivating work of art that now stands in the museum.	7
+19	1	1	1	1	1	1	6	0	0	4	0	2	1	2	4	1	0	4.0	2	6	Her boyfriend was acting differently toward her and she suspected he had met someone else because she had.	7
+63	4	5	3	6	1	7	12	2	0	9	0	7	4	9	7	1	0	8.0	9	19	I am excited to go to that conference that my coworker, she has been raving about, because afterward she said we would be traveling together to visit our mutual friend, whose house we always try and rent because they said that it would be best for us as a family to stay away from our neighborhood due to recent circumstances	7
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	They are the parents. The children were at the pool. They took her to the hospital. She loves them so much. They are both amazing. They gave us this opportunity. They are going to be so proud.	7
+28	1	0	5	0	0	1	11	0	0	4	0	4	0	1	6	2	0	4.0	1	24	She told them ... him he is now ... they did not listen they argued they would do it ... their parents ... him they did not. 	7
+14	1	0	4	1	0	1	4	0	0	2	0	0	1	0	2	1	1	3.0	1	6	When i saw that, ..., i got scared of my life.	7

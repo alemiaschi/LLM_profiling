@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_prop_constraint
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	0	0	The sun sets around 5:30 PM these days.	0
+6	0	0	0	1	0	0	2	0	1	0	1	0	1	1.0	2	0	0	1	1	0	I'll make dinner tonight.	0
+9	1	1	0	0	0	1	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	I bake a delicious chocolate cake from scratch.	0
+7	0	0	1	0	0	1	1	0	0	0	1	1	2	2.0	4	1	1	0	1	0	Water the flowers before leaving home.	0
+10	1	1	0	1	0	1	1	0	1	0	1	1	2	2.0	7	1	1	1	1	0	Put on a sweater if you're feeling cold.	0
+10	0	1	1	0	0	1	2	0	1	0	1	1	2	2.0	4	1	1	1	2	0	I always carry a notebook for jotting down reminders.	0
+8	0	0	0	1	0	2	2	0	1	0	1	0	1	2.0	4	0	0	1	1	0	You can visit the beach this weekend.	0
+11	0	1	0	1	0	2	4	0	1	0	1	0	1	2.0	7	0	0	1	1	0	You should bake a cake for the office party tomorrow.	0
+10	0	2	0	0	0	1	4	0	1	0	1	0	1	2.0	8	0	0	0	1	0	Put on your running shoes for a morning jog.	0
+7	0	0	1	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	I will take a shower now.	0
+8	0	1	0	1	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	I'm going to the grocery store.	0
+11	0	2	0	0	0	3	3	0	0	0	1	0	2	3.0	8	1	1	0	0	0	Go running in the park for an hour every day.	0
+10	0	1	0	1	0	1	3	0	1	0	2	0	1	3.0	6	0	0	1	1	0	I'll write a to-do list today.	0
+11	1	2	2	0	0	1	2	0	0	0	1	0	2	3.0	5	1	1	0	1	0	Put on sunglasses when going outside in the bright sun.	0
+12	1	1	0	0	0	1	4	0	1	0	1	0	2	4.0	7	1	1	1	1	0	I need to order more paper from the office supply store.	0
+8	0	1	0	0	0	1	4	0	0	0	1	0	1	3.0	6	0	0	0	1	0	Make a peanut butter sandwich for lunch.	0
+5	1	0	0	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	0	1	0	Have a nice day!.	0
+12	0	2	0	0	0	3	5	0	0	0	1	0	1	2.0	10	0	0	0	1	0	Bake a cake from scratch for the birthday party this weekend.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat slept under the blankets.	0
+11	0	2	0	0	0	3	3	0	1	0	1	0	1	4.0	3	0	0	0	2	0	Make yourself a reservation for a table near the window.	0
+11	1	2	0	0	0	1	4	0	1	0	1	0	1	3.0	9	0	0	0	1	0	Make fresh coffee for your guest at the party tonight.	0
+10	1	1	0	0	0	2	3	0	0	0	1	0	2	3.0	5	1	1	0	2	0	Bake a cake from scratch using a classic recipe.	0
+12	1	2	1	1	0	1	1	0	1	0	2	0	2	4.0	7	0	0	1	1	0	Put on a sweater, it's getting cold in here.	0
+9	1	1	0	0	0	1	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	I need more paint for the wall mural.	0
+14	0	1	0	0	2	2	4	0	1	0	1	1	2	3.0	12	1	1	1	1	0	Put the sugar and water on the stove and heat until it simmers.	0
+15	1	3	1	0	1	2	3	0	1	0	1	0	2	4.0	7	0	0	0	0	0	Sit quietly in a comfortable chair and meditate on the stillness of your heart.	0
+5	0	1	0	0	0	0	2	0	0	0	1	0	1	2.0	3	0	0	0	1	0	Make pancakes for breakfast.	0
+12	1	2	1	0	0	2	3	1	0	0	1	0	1	3.0	7	0	0	1	0	0	The baby usually sleeps through the night by three months old.	0
+7	1	0	0	0	1	0	1	0	1	0	1	0	2	2.0	5	0	0	0	1	0	Play your favourite music and unwind.	0
+13	0	3	0	0	1	2	4	0	0	0	1	0	2	4.0	5	0	0	0	1	0	Go to the library and pick out a book on quantum physics.	0
+7	0	1	0	1	0	0	1	0	2	0	1	0	1	2.0	3	0	0	1	1	0	I'll order pizza for everyone.	0
+10	1	2	0	0	0	2	3	0	0	0	1	0	1	2.0	8	0	0	0	1	0	Put on a red dress for the anniversary dinner.	0
+10	1	1	0	1	0	2	1	0	0	3	1	0	0	2.0	4	0	0	1	0	0	The Eiffel Tower is a famous landmark in Paris.	0
+10	1	1	0	0	1	2	2	0	0	0	1	0	2	3.0	5	0	0	0	1	0	Go to the garden and enjoy the beautiful flowers.	0
+9	0	1	0	0	0	1	3	0	1	0	1	0	1	3.0	7	0	0	0	1	0	Bake a cake for your friend's birthday.	0
+10	1	1	0	1	0	0	3	0	2	0	1	0	1	2.0	6	0	0	1	1	0	You can play board games in your free time.	0
+11	0	1	0	1	0	1	1	0	4	0	1	0	2	4.0	3	1	1	2	1	0	I will read the book that I borrowed from her.	0
+5	1	0	0	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	0	1	0	Have a great day!.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat is sleeping on the mat.	0
+10	0	0	0	0	0	2	2	0	2	0	1	1	2	3.0	6	1	1	1	3	0	Give me a call if you have any queries.	0
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	0	1	0	Water the plants every other day.	0
+8	2	1	0	0	0	0	2	1	0	0	1	0	1	2.0	6	0	0	0	1	0	Make fresh juice from three ripe oranges.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The sun rises in the east.	0
+8	1	0	0	0	0	1	2	0	1	0	1	0	2	3.0	4	1	1	0	2	0	Let's watch a romantic comedy tonight.	0
+9	1	1	0	0	0	0	3	0	1	0	2	0	1	3.0	7	0	0	0	1	0	Write your own to-do list today.	0
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	0	1	0	Write a story every day.	0
+10	0	2	0	0	1	1	4	0	0	0	1	0	1	3.0	6	0	0	0	1	0	Bake a pie from scratch with apples and crust.	0
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	0	1	0	Water the garden every other day.	0
+6	2	0	0	0	0	1	1	0	0	0	1	0	1	2.0	4	0	0	0	1	0	Make a nice homemade pizza.	0
+5	1	0	0	0	0	1	1	0	0	0	1	0	1	2.0	3	0	0	0	1	0	Have a lovely evening.	0
+16	2	1	0	1	0	2	4	0	0	0	1	1	4	4.0	5	3	2	1	2	1	Baking a birthday cake might involve using more eggs if serving to a larger crowd.	1
+9	1	1	0	0	0	1	4	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The teacher assigns more homework during exam periods.	1
+16	1	1	1	0	0	0	5	0	2	0	2	1	3	3.0	11	2	0	1	3	2	Apart from watching movies, reading novels in their original language improves my vocabulary skills.	1
+23	3	0	1	3	0	2	3	0	2	0	3	1	3	3.0	11	2	1	1	2	1	If you don't have the latest phone, it may be more cost-effective to buy a refurbished one instead.	1
+13	0	1	1	1	0	1	1	0	2	0	2	1	3	3.0	3	2	1	1	1	1	Although it's raining, let's still go for a picnic.	1
+19	3	3	1	1	0	4	5	0	0	0	1	0	1	4.0	5	0	0	1	0	0	A long car trip may seem more endurable with the addition of some fun games for the kids.	1
+17	1	1	1	2	0	1	3	0	2	0	2	1	2	3.0	10	2	2	1	1	0	It's advisable to bring rain gear during the hike, as it may rain unexpectedly.	1
+17	1	2	1	1	0	0	5	0	2	0	2	1	2	4.0	13	1	0	2	0	1	If we invest in renewable resources for energy generation, our carbon footprint can significantly decrease.	1
+17	1	2	0	1	0	2	5	0	1	0	2	1	2	3.0	7	1	1	1	2	0	You could save a considerable amount of money by planning vacations during the off-season.	1
+22	4	3	0	1	1	1	6	0	2	0	2	1	1	4.0	5	1	0	2	0	1	Although it's a small kitchen, its compact design allows for efficient use of space with adequate cabinets and drawers.	1
+28	2	3	1	2	0	3	4	0	4	0	2	2	3	5.0	7	3	2	2	1	1	If she is feeling under the weather, take her temperatures with a thermometer to ensure that it isn't something more serious than a common cold.	1
+16	0	2	0	2	0	1	3	0	2	0	2	1	3	3.0	9	2	0	2	3	2	If you can find a discount, traveling during off season can save you money.	1
+12	1	2	1	2	0	0	3	0	1	0	1	0	1	3.0	7	1	0	1	1	1	Eating breakfast in bed might be more enjoyable with your children.	1
+14	2	0	1	2	0	1	1	0	2	0	2	1	2	3.0	10	2	0	2	2	2	If you own multiple businesses, managing them all efficiently can be challenging.	1
+17	2	1	2	1	1	1	4	0	1	1	1	0	2	4.0	5	2	1	2	2	1	Reading Shakespeare is more enjoyable for beginners when they have a helpful teacher or study group.	1
+13	1	1	0	2	0	1	2	0	1	0	1	1	2	4.0	8	1	1	2	0	0	She won't go until the last piece of cake is finished.	1
+15	1	1	0	1	0	3	4	0	0	0	2	0	2	5.0	3	1	1	1	1	0	The professor is known to have a strict policy: no laptops during lectures.	1
+22	3	1	0	1	0	1	3	0	3	0	2	2	5	5.0	13	4	1	2	2	3	If you want to visit popular European countries without breaking your bank, you might consider visiting during the off season.	1
+31	2	4	1	3	0	4	9	0	0	0	4	1	2	5.0	11	2	1	2	1	1	The best time to buy electronics is during the last quarter of the year because prices might be slashed significantly for end-of-the-year clearance sales.	1
+13	1	1	0	1	0	2	3	0	1	0	1	1	2	3.0	4	1	1	1	1	0	An umbrella would prevent my clothes from getting wet in the downpour.	1
+21	3	2	0	2	2	1	5	0	1	0	2	0	3	5.0	11	2	1	2	3	1	Eating healthy is important; choosing veggies and fruits over fries and chips would benefit you in the long run.	1
+14	3	2	0	1	0	1	4	0	1	0	1	0	1	3.0	5	0	0	1	1	0	The shorter routes to our destination could make travel easier during heavy traffic.	1
+17	0	1	0	1	0	3	4	0	1	1	1	2	3	4.0	4	2	2	2	2	0	The teacher would prefer that the students do their homework before attending the party on Friday.	1
+23	3	2	2	3	1	1	4	0	1	0	2	1	3	4.0	8	2	1	2	1	1	Studying abroad can broaden your horizons, as courses could be delivered in a new language yet still accessible through simultaneous translations.	1
+13	0	1	0	1	0	1	0	0	1	3	2	1	2	3.0	6	1	0	1	1	1	If you go to Paris, do not miss the Eiffel Tower.	1
+14	2	1	1	1	0	1	3	0	0	0	2	1	2	3.0	6	1	1	1	1	0	The chef can serve delicious dishes, if only supplied with fresh ingredients.	1
+14	2	0	0	1	0	2	2	0	2	0	2	1	2	3.0	6	1	0	2	2	1	If I have the chance, I will eat an entire large pizza.	1
+17	1	1	2	1	0	1	4	0	3	0	1	1	2	3.0	6	1	1	2	1	0	He would often eat fast while his baby sister took a slow time with her meal.	1
+9	0	1	0	0	0	1	3	0	0	0	1	1	2	3.0	3	1	1	1	1	0	The doctor advised against drinking alcohol during treatment.	1
+15	2	2	0	0	3	0	5	0	0	0	1	0	2	4.0	5	1	0	1	1	1	Driving on icy roads demands both concentration and careful application of speed and braking.	1
+17	1	2	1	1	0	2	5	0	2	0	2	0	1	3.0	7	0	0	1	1	0	Ideally, you should purchase a second hand car at the end of its warranty period.	1
+18	3	2	1	1	0	2	3	0	1	0	2	1	2	3.0	10	1	0	2	0	1	If you travel at the right time, a slower pace can lead to more amazing experiences.	1
+17	1	1	0	2	0	1	1	0	4	1	1	1	3	4.0	6	2	2	2	3	0	She might be able to fix it if you brought her the broken part on Tuesday.	1
+12	0	2	1	0	0	0	3	0	2	0	2	1	1	3.0	4	0	0	1	0	0	During my college years, I rarely studied because of socializing.	1
+14	0	0	1	0	0	3	3	0	1	0	1	0	4	5.0	5	3	3	2	2	0	The teacher recommended doing the project alone to ensure everyone understood the process.	1
+23	1	4	2	2	0	0	7	0	1	0	3	1	2	3.0	11	1	0	2	1	1	If you'd rather shop outside peak hours, off-season cruises could potentially offer lower prices for families with preschoolers.	1
+21	2	0	2	1	1	2	2	0	2	0	2	2	5	3.0	8	4	0	3	2	4	If it rains while camping, keeping a fire going becomes much more difficult but it's worth the effort.	1
+19	2	2	0	1	1	1	4	0	2	0	2	1	3	4.0	7	1	0	2	2	1	If we plant corn during spring, it will grow larger and yield more than the autumn crop.	1
+12	1	0	1	0	0	1	4	0	0	0	1	0	3	4.0	4	2	2	1	2	0	The doctor recommended taking aspirin daily to prevent future heart attacks.	1
+15	0	1	0	2	0	2	2	0	2	0	2	1	2	3.0	4	1	0	2	1	1	If it doesn't rain, we can have a picnic in the park.	1
+12	1	0	0	2	0	0	3	0	0	0	2	1	3	3.0	6	2	1	2	2	1	Reading literary fiction may improve empathy, as research has shown.	1
+20	3	0	3	0	1	2	4	0	0	0	2	0	4	5.0	5	3	2	0	3	1	When planning a road trip, consider taking less popular routes to make the journey more scenic and enjoyable.	1
+12	0	0	1	2	0	2	3	0	1	0	1	0	2	3.0	8	1	1	2	1	0	You should purchase a house when the housing market has stabilized.	1
+12	1	1	0	1	0	1	1	0	3	0	1	0	2	3.0	5	1	1	2	1	0	I cannot believe she finished the whole pizza by herself.	1
+15	0	3	1	1	0	1	4	0	1	0	1	1	2	5.0	6	1	1	1	1	0	You could enjoy discounts at the spa by visiting during weekdays rather than weekends.	1
+19	1	3	2	3	1	1	4	0	1	0	1	1	1	5.0	14	1	1	2	0	0	I'd rather travel during off season as the prices for lodging and flights may be considerably lower.	1
+14	2	1	2	1	0	1	4	0	0	0	1	0	1	4.0	4	1	1	1	0	0	The teacher's explanation was more effective when accompanied by visual aid materials.	1
+18	0	1	0	1	0	2	3	0	1	0	2	2	5	3.0	7	3	2	2	1	1	If the recipe calls for chopped cilantro, you may want to reserve some leaves for garnishing.	1
+21	3	2	1	2	0	4	4	0	1	0	2	1	1	3.0	12	1	0	2	1	1	Although it's more convenient for the organizer, the remote location of the event might deter some potential attendees.	1
+20	1	1	0	1	1	1	5	0	1	0	3	1	4	5.0	10	3	1	2	1	2	If they want to avoid crowds and high prices, people should consider traveling during the off-season.	1
+16	2	1	1	1	0	2	3	0	2	0	1	1	2	4.0	6	1	1	2	2	0	I'll understand the instructions fully once you explain the meaning of certain technical terms.	2
+24	1	1	1	1	1	2	5	0	6	0	1	1	3	4.0	21	2	2	3	4	0	She asked her brother to lend her his car if he had a flat tire but he was still at the repair shop.	2
+23	1	1	1	1	1	1	5	0	4	0	1	1	5	7.0	7	3	3	2	1	0	She wanted to know what her boss would decide after hearing about her sick child and then reviewing the project status report.	2
+18	0	0	3	1	1	3	4	0	1	0	2	1	2	3.0	11	0	0	2	2	0	The teacher recommended the tutor highly, but only after the student had improved their grades significantly.	2
+27	1	1	1	2	1	5	5	0	1	0	2	3	5	4.0	8	2	1	3	1	1	Before you proceed with the test, check that all the calibration procedures have been completed accurately and that the environmental conditions meet the specified requirements.	2
+32	2	1	2	1	1	6	8	0	0	0	2	1	7	6.0	21	6	6	2	3	0	The coach recommended starting the training regimen earlier and practicing daily to ensure reaching the optimal weight before competition, though the athlete insisted maintaining a busy schedule was a priority.	2
+23	0	1	1	3	1	3	5	0	3	0	2	2	2	3.0	18	1	1	4	1	0	He asked if his friend had finished the report, but the response was that it was still a work in progress.	2
+27	0	0	1	3	0	1	4	0	6	0	2	1	6	7.0	6	5	5	4	3	0	He asked her to prepare dinner, provided that she would use the recipe he'd found online that claimed to be his grandma's favorite.	2
+14	1	2	1	0	0	3	3	0	0	0	2	0	2	5.0	3	1	1	1	0	0	The cat slept deeply, undisturbed by the raindrops tapping on the window.	2
+21	1	0	1	0	1	2	3	0	2	0	1	2	5	6.0	5	4	4	2	2	0	The chef advised us to order quickly before deciding whether or not we wanted to try the new lobster special.	2
+25	0	2	0	2	1	4	5	0	3	0	2	1	4	5.0	7	3	2	3	2	1	Once you complete the coursework, the university will notify you about the date of graduation and the fees that need to be paid.	2
+25	1	2	1	1	0	2	7	0	2	0	2	2	4	4.0	8	3	1	4	2	2	After the band's manager announced they might break up, fans eagerly followed news of their reunion while the members considered various offers.	2
+19	0	2	1	2	2	1	3	0	4	0	1	1	2	4.0	6	1	1	2	1	0	He'll only accept the check if it's made out to both himself and his business partnership.	2
+21	0	0	3	0	1	3	4	0	3	0	1	0	5	4.0	13	3	3	4	2	0	The dog barks loudly whenever he hears the mailman's truck approaching and the children laugh when they witness this.	2
+26	0	2	0	2	1	2	3	0	3	1	2	1	5	5.0	8	3	1	1	4	2	If you don't have time to finish the report, save it as a draft but don't forget to upload it by Friday.	2
+33	1	2	2	2	1	3	8	0	5	1	3	1	4	4.0	14	2	1	4	4	1	If you bring a bottle of the Chianti to dinner tonight, I assure you my mother will appreciate it, but the family dog has already drunk too much wine today.	2
+30	2	1	1	3	1	2	2	0	6	0	2	0	7	7.0	9	5	5	4	3	0	She'd told me not to go, but my curiosity got the better of me when I heard she'd bought an old mansion rumored to be haunted.	2
+26	1	1	2	3	0	2	2	0	3	0	4	2	4	4.0	10	3	2	3	1	1	If I pass this exam, I can apply for the promotion; however, I haven't studied enough to be certain of passing.	2
+22	1	0	2	3	1	1	2	0	3	0	2	2	4	4.0	16	2	2	3	1	0	She will leave after she's finished packing her luggage, but only if the weather doesn't get any worse.	2
+32	4	1	0	2	1	2	6	0	4	0	2	2	7	6.0	23	6	2	5	2	4	Given that the test scores indicate that the student struggles to understand complex concepts and her previous progress has been slow, I suggest we consider providing her with additional resources.	2
+22	3	2	0	0	1	1	5	0	4	0	2	0	4	5.0	12	2	2	4	2	0	He suggested I paint the mural in blues, but my younger sister preferred I created red flowers amidst green foliage.	2
+24	0	2	1	3	1	2	5	0	3	0	2	1	4	4.0	18	1	0	3	1	1	If we could finish this contract on time and he would agree to the revised payment terms, our profits would increase significantly.	2
+22	0	0	2	2	0	0	4	0	6	0	2	2	3	3.0	15	2	2	3	3	0	She would finish her homework right after she finished her meal, if her sibling wouldn't borrow her pencil constantly.	2
+29	1	3	2	3	1	4	6	0	2	0	2	1	4	5.0	16	2	2	3	0	0	The cat is hiding under the table where the loud banging noises are coming from, but I still worry that there might be intruders in the house.	2
+19	0	1	1	1	0	2	4	0	3	0	1	2	4	4.0	7	2	2	3	1	0	I can only accept your proposal if the contract terms state that we both agree on liquidated damages.	2
+21	0	2	0	0	0	1	4	1	4	0	2	1	5	4.0	11	3	3	3	2	0	She promised to bake cookies if her guests arrived before nine, provided her mother helped her in the kitchen.	2
+28	2	4	0	2	0	5	7	0	0	0	1	1	5	4.0	8	2	2	2	0	0	The president's request for additional funding for the initiative was rejected by the committee given that the expected returns were insufficient compared to the proposed budget.	2
+17	0	1	1	2	0	3	4	1	0	1	1	1	2	3.0	8	1	1	2	1	0	The chef will cook the chicken only after the oven has preheated to 400 degrees Fahrenheit.	2
+39	0	2	3	1	3	5	10	0	3	0	3	2	6	4.0	15	2	1	4	5	1	If the baby arrives early and the doctor advises home care, I will cancel any travel plans and prepare the home accordingly, but only if my employer allows me to take the time off with pay.	2
+18	0	0	1	3	1	0	2	0	5	0	1	1	4	3.0	14	1	1	3	2	0	I will contact you shortly once I have received your signed agreement and your payment has cleared.	2
+18	0	1	0	1	1	2	4	0	3	0	1	2	3	4.0	8	1	1	3	1	0	I will apply for this position if I receive an interview invitation and if my schedule allows.	2
+15	1	1	0	0	0	1	4	0	1	0	2	1	3	3.0	4	2	1	1	1	1	If the temperature falls below freezing, remember to insulate your external water pipes.	2
+25	3	3	0	1	1	3	6	0	2	0	2	1	2	5.0	10	1	1	2	2	0	The artist's reputation is high because of his impressive skill set, yet some criticize him for copying the works of famous painters.	2
+24	3	0	0	3	1	1	2	0	5	0	2	3	3	5.0	5	3	2	3	2	1	Before you hire her, it's essential to verify that her references are authentic and that she has completed all necessary trainings.	2
+34	4	3	1	2	0	1	9	0	3	0	3	3	4	5.0	15	4	1	2	4	3	If the company exceeds its maximum allowable discharge level despite following procedures to minimize emissions, it will face fines under environmental laws, while also being subject to damage to its reputation.	2
+22	1	3	0	1	0	3	4	0	3	0	3	1	3	3.0	7	3	2	2	1	1	While waiting for the train, I checked both pockets for my tickets, realizing they were in the wrong one.	2
+20	0	1	0	0	2	3	5	0	2	0	2	1	4	4.0	10	1	0	1	4	1	After finishing her coffee and receiving a phone call, she turned off the lights and left the room.	2
+20	0	2	2	0	0	1	3	0	3	0	2	2	4	4.0	7	3	1	2	2	2	Although she promised to finish early, her project kept her from completing the paperwork until late at night.	2
+25	0	2	2	1	0	3	6	0	3	0	3	1	3	5.0	9	2	1	3	1	1	The cat, which was sleeping in the sunbeam, started as soon as she heard her owner's footsteps on the gravel path.	2
+27	1	2	1	1	2	5	6	0	1	0	2	3	3	4.0	8	3	2	2	2	1	After consulting with the experts, I'm convinced that both the roof and the foundation require repairs before putting the house back on the market.	2
+21	2	2	0	0	2	4	5	0	1	0	2	1	2	4.0	7	1	0	0	2	1	Before making a decision, consider both the economic impact on the company and the moral implications for your team.	2
+38	2	1	1	0	1	5	12	0	3	0	2	2	7	9.0	14	5	5	3	4	0	The manager agreed to review employee performance evaluations before making bonus decisions, yet he also acknowledged that there was a company policy to provide a standard merit increase for every employee who received a satisfactory rating.	2
+30	1	1	1	3	2	4	8	0	2	0	3	1	4	5.0	12	2	1	3	4	1	Once the application has finished processing, you will receive an email confirming acceptance or rejection, and you can then make any necessary adjustments before the submission deadline.	2
+21	2	0	0	1	1	3	5	0	1	0	2	1	4	4.0	10	2	1	3	3	1	If the test proves negative but the doctor suspects pneumonia, he may order further tests to confirm the diagnosis.	2
+22	1	2	2	0	1	1	5	0	3	0	2	1	3	4.0	8	1	1	1	2	0	The doctor advised her to take her medication consistently, but only after consulting with her psychiatrist about possible side effects.	2
+22	0	1	0	2	1	2	6	0	4	0	1	2	3	6.0	9	2	2	3	3	0	I'll make an appointment at the dealership once I've received confirmation of their receiving my insurance papers and payment.	2
+29	2	2	2	3	0	2	3	0	4	0	4	1	4	4.0	11	3	2	3	1	1	If they pass their exams, then they will be eligible to apply for a promotion, otherwise, they will need to wait for the next opportunity.	2
+20	0	1	1	1	0	1	2	0	4	0	3	3	4	4.0	11	3	3	4	0	0	She suggested that he study hard, as his mother had expected, while she looked after the babies.	2
+22	1	3	0	0	0	2	5	0	5	0	1	1	3	4.0	7	2	1	2	3	1	After they informed us of their arrival plans we checked the map to find the best route for their pick up.	2
+22	3	0	1	1	0	3	5	0	0	0	2	2	4	5.0	13	3	0	3	2	3	Although the report states that the deadline was extended to accommodate additional data, the team missed several key deadlines regardless.	2
+26	2	2	1	2	0	2	6	0	4	0	2	1	3	4.0	11	2	1	3	3	1	If he doesn't confess the truth about his past actions, his company will face severe consequences when the board of directors discovers it.	4
+39	1	0	0	4	1	3	7	0	5	0	6	3	8	6.0	12	4	3	4	5	1	If I were you, I'd hire a detective to uncover this family secret, as my research shows that they have hidden riches, have been avoiding taxes, and have a long-lost heir.	4
+49	2	2	3	5	1	5	9	0	7	0	5	3	6	5.0	14	4	3	7	4	1	Even though she could afford the house, she decided against buying it because her partner didn't like the neighborhood, he thought it was too far from the city, her kids would have a long commute to school, and the crime rate was high.	4
+44	6	2	3	2	1	1	6	0	8	0	4	2	9	9.0	12	7	5	6	3	2	When you see her performing her traditional folk dance, she looks stunning in her ethnic dress decorated intricately, which reveals that she has won multiple awards, and yet she was born in the remote village known for producing excellent dancers.	4
+29	1	1	0	1	1	5	6	0	2	0	4	2	6	4.0	12	2	1	2	4	1	Before we sign the contract, verify that he owns the land rights, holds the necessary permits, and can deliver the goods within the specified timeframe.	4
+25	4	2	1	0	1	2	6	0	3	0	1	0	3	5.0	10	1	1	1	2	0	The Ukrainian people reject any outside interference in their country's affairs and insist on their right to freely determine their own constitutional structure.	4
+36	4	8	0	1	0	3	7	1	2	4	3	0	2	8.0	11	1	1	2	2	0	The United States granted Cuba 61 miles of maritime territory that did not belong to them, in violation of international law, as part of a secret agreement for the Bay of Pigs invasion.	4
+24	1	2	2	0	0	4	8	0	0	0	1	1	4	4.0	7	3	2	1	3	1	When the red traffic light turns on the pedestrians quickly cross the intersection while keeping eye contact with the driver to ensure safety.	4
+29	0	0	0	2	1	1	9	0	3	0	5	1	5	5.0	9	4	2	3	4	2	If you fail to pay your debt, the creditor will hire debt collectors, who may use collection calls, letters, or visits to urge payment.	4
+28	6	2	1	2	4	1	4	0	2	1	2	0	3	5.0	18	1	1	2	1	0	The ancient city of Petra is known for its stunning architecture and intricate carved facades, yet accessing its most hidden temples is both challenging and dangerous.	4
+19	1	1	2	3	0	0	3	0	2	0	2	2	3	3.0	10	3	1	2	2	2	If I'm diagnosed with cancer, undergoing treatment right away would be crucial to saving my life.	4
+34	4	3	3	1	0	2	6	0	2	1	4	3	5	4.0	16	5	4	5	0	1	A study published in Nature reveals that during periods without sunlight, plants grow smaller, even if the same nutrients are still available, because their internal clocks dictate when they grow.	4
+28	4	3	0	1	0	3	9	0	0	0	3	1	4	4.0	10	2	1	2	3	1	If the hurricane makes landfall at high tide, the resulting surge can cause significant damage to coastal communities, increasing the need for adequate drainage systems.	4
+40	2	2	2	3	1	3	7	1	2	4	4	2	7	6.0	10	5	4	5	3	1	When the United Nations Security Council discusses Syria, vetoes by the Permanent Five could thwart efforts toward achieving peace, that means finding a resolution would rely on cooperation and dialogue, without which negotiations might collapse entirely.	4
+27	2	1	3	0	1	3	6	0	2	0	4	1	4	3.0	11	1	0	4	1	1	If you eat breakfast early, your energy levels stay high, the food digests properly, and the metabolism functions well for the entire day.	4
+31	2	4	1	2	1	3	10	0	2	0	1	2	3	4.0	11	2	1	3	1	1	If the president agrees to this peace deal then rebel leaders will turn over their weapons to the government while their soldiers are reintegrated into military service or civic society.	4
+26	1	2	1	1	1	2	7	0	3	0	3	1	4	4.0	12	2	1	2	4	1	If you provide financial assistance to a nonprofit organization, the funds would directly help those in need, reducing hardships and enhancing their dignity.	4
+30	3	2	0	2	1	2	6	0	2	2	5	1	4	3.0	14	1	0	2	3	1	If I were the president of the World Bank, I would prioritize infrastructure projects, invest in clean energy, enhance agricultural productivity, and strengthen public education.	4
+22	0	3	1	0	0	1	5	0	3	0	2	1	5	4.0	10	3	1	2	2	2	Although the doctor advised her to quit smoking during her pregnancy, she continued smoking secretly in hiding places at home.	4
+21	4	3	1	0	0	2	7	0	0	0	2	0	2	3.0	12	1	0	2	1	1	Whenever the government enforces strict quarantine rules at the airports, illegal trading of wildlife occurs in nearby residential areas.	4
+42	6	2	1	3	1	5	11	0	2	1	5	0	5	5.0	20	4	4	4	3	0	After the elections, the opposition party was confident they'd won, believing they had secured a clear majority, yet days later the incumbent ruling party announced unexpected coalition agreements with small parties, reversing the initial election results.	4
+33	1	1	0	2	1	6	11	0	1	0	4	1	5	5.0	14	2	1	4	4	1	If the company exceeds its pollution limit, the CEO faces the consequences, the shareholders will demand action, and the business may face a PR crisis resulting in financial losses.	4
+49	3	1	4	9	1	2	6	0	6	1	6	0	8	6.0	20	2	2	6	6	0	The AI must follow our rules or it will be shut down, otherwise our democracy will be threatened, we cannot risk it influencing the vulnerable, especially children, decisions must be made carefully, therefore we should fund ethical research to prevent potential abuses.	4
+25	4	3	2	2	0	3	4	0	1	1	1	1	3	5.0	7	2	2	2	1	0	The Prime Minister will only consider increasing the VAT rate if it is matched by similar increases in social services for the most vulnerable.	4
+57	6	4	1	1	1	6	12	0	4	1	5	2	10	6.0	34	6	5	2	7	1	Before putting her makeup on, Emma checks the mirror to see if any blemishes are visible, brushes her teeth carefully to avoid any unwanted smell, puts on a fitted shirt to conceal the recent weight gains, and uses her best pair of earrings to hide the noticeable piercing in her left ear.	4
+24	3	2	1	1	0	3	6	1	1	1	2	0	3	5.0	9	2	2	2	3	0	The company was considering three possible production sites when a natural disaster struck the site in Japan, rendering it unsuitable for use.	4
+24	1	3	0	0	0	3	4	1	4	0	2	1	3	4.0	12	2	1	2	2	1	If she graduates in the top 1% of her class, her father promises to build her a mansion near the lake.	4
+52	4	1	0	1	3	4	16	0	2	1	7	1	9	9.0	14	3	3	2	9	0	The Prime Minister urged parliament to approve the bill, which would increase taxes, cut social welfare programs, and reform labor laws, but maintain the country's public debt level in order to restore investor confidence, avert a recession, and ensure economic stability for its citizens.	4
+42	4	3	0	1	1	7	13	0	0	1	4	1	6	6.0	12	3	2	4	4	1	If the king consents, the council will approve a treaty protecting endangered species, the Senate confirms the appointment of a new wildlife conservation director, and biotechs offer to develop artificial habitats for those species without government financial support.	4
+18	1	1	0	1	1	2	5	0	1	0	2	1	3	3.0	6	1	0	2	2	1	If he confessed, the district attorney could drop all charges and offer leniency for future crimes.	4
+25	2	0	1	3	1	2	7	0	2	0	2	1	3	5.0	13	3	1	2	2	2	Even though the government has promised to restore the Saharan forest, poaching and climate change are major threats that could hinder its progress.	4
+23	1	1	2	2	1	1	1	1	2	0	2	3	5	3.0	8	3	1	3	2	2	If you don't have a passport, applying for one will cost more and take longer than if you apply early.	4
+29	1	3	1	0	1	5	7	0	1	0	4	0	5	3.0	14	2	1	4	0	1	When the sun sets behind the mountain, the colors change in the sky, the crickets start to chirp, and my dog barks at imaginary creatures.	4
+24	2	2	1	1	1	3	5	0	1	0	2	2	4	5.0	18	2	0	1	3	2	If you buy an electric bicycle with no brakes, wearing sandals and while carrying a heavy bag will certainly result in accidents.	4
+35	2	1	3	2	1	4	7	0	5	0	2	1	7	5.0	20	5	4	6	2	1	When my dog barks the neighbors think there's an intruder, that sets their dogs off who then alert others nearby and a loud din ensures until the real cause has been identified.	4
+34	2	1	2	3	1	4	7	0	4	0	2	3	5	7.0	19	4	1	6	2	3	When he denies any responsibility for the fire that engulfed the old building while his insurance papers are missing, investigators question whether he was careless and if the policy had recently expired.	4
+84	8	5	2	5	3	7	23	0	4	0	4	4	14	6.0	56	8	8	6	10	0	The new legislation would require companies to pay a premium for every hour an employee worked beyond the legal limit, that fine could be doubled if the violation continued, employers could choose to allow their workers the extra hours in exchange for additional compensation or face heavy fines and public shaming if proven in court, this would incentivize companies to provide better working conditions and more stable schedules to maintain their reputation rather than exploiting their employees to save costs.	4
+37	4	4	0	2	2	2	11	0	2	0	4	1	5	6.0	10	3	2	3	2	1	If the board accepts this proposal, it would result in significant cost savings, enabling larger investments in research and development, which in turn would lead to greater competitive edge and increased market share.	4
+15	0	0	0	3	0	2	2	0	3	0	2	1	2	2.0	5	3	2	3	0	1	If I were an architect, these are the buildings I would avoid designing.	4
+32	4	1	3	3	1	2	6	0	1	2	4	1	4	3.0	15	1	0	4	2	1	If you donate to the Gates Foundation now, research projects will progress more quickly, medical treatments can reach more people, and educational programs will have a greater impact.	4
+34	1	3	2	2	1	4	10	0	3	1	2	1	4	4.0	12	2	1	4	3	1	If Maria sings the national anthem before every movie premiere, her fans might think she is showing patriotism but actually she only receives a discount on ticket prices from the cinema owners.	4
+26	1	2	2	2	0	2	6	0	4	0	2	1	3	4.0	12	3	1	3	2	2	Even if you suspect me of false accusations, the footage I have shot is evidence enough to prove your misconduct in the boardroom meeting.	4
+34	2	1	0	6	1	4	7	0	2	0	5	1	4	3.0	20	2	1	5	1	1	If the proposal is not implemented, the organization may go bankrupt, the staff will lose their jobs, the stakeholders will be unhappy, and our customers may turn to competitors.	4
+47	3	3	3	3	2	6	10	0	4	1	5	1	5	5.0	21	2	1	4	3	1	Before you accept that proposal consider these points: the company's profits are growing rapidly, our employees are highly satisfied, and there's strong demand for our products, yet theCEO has made no changes to the executive team in over a decade.	4
+24	1	2	0	1	1	3	8	0	1	1	2	1	3	4.0	9	1	0	2	3	1	If we ignore the protest of some investors, Japan can invest more funds in the renewables sector and reduce greenhouse gas emissions.	4
+29	5	2	2	0	1	3	8	0	0	0	2	0	4	5.0	10	2	1	3	2	1	When the rain subsides and the river's current slows down, children build makeshift rafts from tree trunks to reach a hidden grove full of ripe fruit.	4
+16	0	0	0	1	0	3	3	0	2	0	1	1	3	4.0	9	2	0	2	2	2	If I fail to complete the task the computer will not delete all my files.	4
+54	0	4	5	3	2	3	8	0	8	1	6	1	9	4.0	20	5	3	5	5	2	If the AI develops self-awareness and turns against humanity, first we try to negotiate with it, secondly we will attempt to disable it from the internet, thirdly we'll try to destroy its mainframe, and lastly we'll send a kill switch to shut it down completely.	4
+35	3	0	2	2	1	2	8	0	1	0	5	2	7	5.0	17	5	3	3	5	2	Despite having enough resources to feed everyone, some areas continue to experience hunger, if governments prioritize agriculture and redistribution effectively, this issue could be solved, thus avoiding future humanitarian crises.	4
+29	1	1	1	0	1	5	6	0	1	0	4	0	6	6.0	8	5	4	2	2	1	When it rains, the roof leaks, causing the furniture to get wet and the carpet to mold, forcing the family to sleep in another room.	4
+46	3	3	0	5	1	3	9	0	6	0	6	1	8	4.0	28	3	1	3	7	2	If they could have assured me they wouldn't overcharge me, provided clear instructions for usage, offered a refund for damages, had a reliable customer service, and maintained a consistent product quality, I would have considered buying it without hesitation.	6
+43	2	2	6	0	1	4	10	0	2	0	7	1	8	6.0	25	2	2	7	2	0	The sun rose early, birds sang melodiously, flowers blossomed beautifully, children played gleefully in the park, people cycled energetically, and the elderly enjoyed their morning walks while I stayed inside, nursing a cup of hot coffee.	6
+31	4	0	2	1	2	3	6	0	3	0	1	2	7	8.0	5	5	4	3	3	1	When the traffic light turns red she brakes gently and looks both ways before making a left hand turn after checking her mirror and ensuring her blind spots are clear.	6
+66	2	2	2	1	6	4	9	0	15	0	8	5	10	8.0	31	3	3	8	7	0	The cake tastes delicious, but I can't eat it unless I find a fork, or if someone hands it to me, or I remember where I left my hands-free fork, or if I wash my hands first, or if there's no crumbs on my clothes, or if I have a napkin to wipe my face.	6
+39	4	1	2	1	2	3	11	0	3	0	3	1	6	7.0	11	5	4	3	3	1	While preparing our presentation, my team decided on an approach that not only included new features but also a revamped design and additional testing stages to address previous user feedback, ensuring the product release was successful.	6
+34	0	1	3	0	3	2	2	0	8	1	3	2	8	4.0	23	3	3	6	2	0	Her grandmother always insisted that they visit her every Sunday and that everyone bring a dish to share, but they never did, they always lied about it and said they forgot.	6
+91	3	10	3	2	2	7	26	3	10	0	7	2	11	6.0	77	7	7	6	7	0	The teacher assigned us to read four classic works over the course of six months and prepare reports, which we presented in class to earn marks; we chose our own reports' topics while the deadline for their submissions varied based on their complexity; however, if one person missed their deadline without prior permission from their parent or guardian, the rest of the class' marks for that presentations' session would also be affected, potentially delaying our learning progress in the literature course.	6
+40	2	4	1	1	2	2	12	0	3	0	3	2	7	6.0	18	3	2	2	4	1	If they provided free childcare and also offered early check-in at a reduced rate, my husband could attend the industry conference without having to arrange for time off work and making travel arrangements for our children.	6
+55	5	6	0	3	2	6	13	0	1	0	6	2	11	6.0	19	6	5	3	4	1	After the event was canceled due to poor attendance and financial constraints, everyone received a message apologizing for the inconvenience, assuring that all tickets would be refunded, suggesting alternate dates, offering rescheduled tickets to the same event at a discounted price, and promising improved marketing efforts for future occurrences.	6
+41	4	4	4	3	1	6	9	0	1	0	4	2	1	5.0	22	1	0	3	0	1	Even though the movie hadn't started yet, we were already deep in conversation about the popcorn toppings, the comfort of the seats, and whether the extra large soda was really necessary for this evening's event.	6
+61	3	5	6	3	1	4	9	0	10	0	5	2	10	9.0	23	9	8	4	8	1	If I weren’t late for my appointment, I wouldn’t have stopped by the store to grab a cup of coffee, which delayed me further, missing the green light that usually lets me bypass the construction zone thus saving me time, and eventually making me arrive late to my appointment despite leaving earlier than usual.	6
+35	6	0	2	2	2	4	5	0	3	1	2	2	4	7.0	8	3	2	2	4	1	If I were a rich man, I would purchase a private island and invite all my friends to celebrate New Year's Eve there instead of enduring the usual crowded and chaotic celebrations.	6
+45	2	2	1	1	2	5	9	0	6	0	4	4	8	8.0	11	5	4	5	5	1	Before I accepted the offer, I double-checked that my schedule allowed me to attend every weekly session and that my team agreed with the timing, knowing that any conflict could cause logistical difficulties and disrupt the consistency of my progress.	6
+47	3	4	2	6	0	1	9	0	7	1	5	2	7	6.0	12	5	3	3	4	2	If she would have studied for her test instead of watching Netflix, she could have earned a higher grade, which would have made her semester GPA better, allowing for more opportunities for scholarships, ultimately securing her acceptance into her desired graduate program.	6
+52	1	2	3	2	5	2	14	0	6	0	7	2	8	6.0	20	2	1	4	6	1	If the electricity comes back on, I'll make toast and put peanut butter, jelly, and banana slices on them, and my children will eagerly await their delicious breakfast while I pour coffee, add sugar and milk, and place the steaming mugs in their hands.	6
+50	1	3	3	6	4	3	4	0	9	0	5	1	9	6.0	26	4	3	5	4	1	If I'm late for the meeting, you should remind me to call and inform everyone about the delay, otherwise they might leave without me or postpone the session, and I would be left behind or forced to rush, which could impact my performance negatively.	6
+25	0	2	1	3	2	2	5	0	3	0	2	2	3	4.0	16	2	1	1	1	1	After discussing the matter at length with both my parents and the school counselor, it was decided that I would be homeschooled indefinitely.	6
+53	0	1	2	2	4	7	9	0	3	0	6	4	10	8.0	13	8	7	4	5	1	Before setting off, she reminded her daughter to lock all the windows and doors, to check if the oven or stove was off, to ensure that all appliances were unplugged, to water the plants and feed the goldfish, and to call if she reached the airport safely.	6
+40	2	3	2	2	2	6	9	0	1	0	3	1	7	6.0	12	4	4	3	3	0	The coach suggested practicing drills in the yard before the game for us to better coordinate, mastering specific passes and moves to be prepared, and ensuring the team could effectively cover each position during the actual tournament.	6
+41	3	1	1	6	2	2	8	0	6	0	5	1	6	7.0	9	3	2	4	5	1	If we had enough resources, my team could have collaborated on the project, and we could've implemented the new features, which would've attracted more clients, thus expanding our customer base and increasing our revenue.	6
+61	4	7	4	3	2	2	11	0	8	0	5	3	9	10.0	13	7	6	4	3	1	If she arrives before noon and it is sunny outside, her younger sister might go to the park with their friends rather than staying home to help her elder sister cook dinner and wait for her brother, who tends to be late after his after-school activities, to come home before having dinner as a family.	6
+42	3	3	0	2	2	2	6	0	8	0	5	3	7	5.0	19	4	3	4	4	1	Before we set out on our adventure, we checked our maps and provisions, packed our bags, assured each other that we were ready, and agreed to meet at this exact spot once we had finished our missions.	6
+56	5	3	0	2	1	6	11	0	5	0	6	3	11	7.0	20	5	3	3	8	2	If I were to receive an invitation to travel around the world, I would have to check my schedule, see whether I had any prior commitments, save enough money, secure a passport, learn basic phrases of foreign languages and consult my doctor for any necessary vaccinations before accepting the offer.	6
+47	6	2	1	3	4	5	10	0	4	0	4	2	6	6.0	23	4	4	3	5	0	The chef prepared a meal with fresh pasta dough and various vegetables, ensuring it would be delicious and healthy, but we could only enjoy it while watching a beautiful sunset over the lake, after completing our work assignments and having a friendly conversation.	6
+50	3	7	2	0	1	2	11	0	6	0	9	1	8	9.0	10	4	3	2	4	1	Before heading to her audition, she practiced for hours, making sure her outfit fit perfectly, learning her lines word-for-word, eating a healthy snack for energy, warming up her voice with vocal exercises, and even visualizing herself in the role.	6
+51	2	4	1	1	3	6	12	0	5	0	4	1	10	10.0	24	5	5	4	6	0	I requested additional information from the agency regarding the terms of cancellation, but the representative stated that I first had to submit a written document stating my intention to leave and pay a cancellation fee, and after these steps, they would send me further instructions via email.	6
+40	3	2	3	1	1	3	10	0	6	0	2	2	6	9.0	12	5	5	4	6	0	The dog's behavior was changed when we implemented a routine where we gave him dinner right before walking him, which encouraged better leash manners while reducing anxiety and the need for excessive barking during our nighttime strolls.	6
+115	4	9	12	4	3	3	13	0	21	0	15	5	21	8.0	89	14	13	10	15	1	Should you forget your phone, he kindly offered to return it to you, or could bring it back home if you asked; furthermore, if it was raining, he'd walk you to your doorstep to keep you dry; and in case of traffic, he suggested leaving earlier to avoid delays; if you mentioned having trouble with an app, he patiently showed you how to navigate it, and occasionally even set it up for you; moreover, if dinner plans fell through last minute, he quickly made alternative suggestions for the evening, saving you the trouble of finding somewhere new to go.	6
+47	5	4	1	2	3	3	10	0	2	0	5	1	9	6.0	16	4	3	2	4	1	If they agreed, I'd be provided with a salary increase, able to continue using the gym facilities, but also expected to work longer hours and give occasional presentations to potential members, travel for conferences and represent the company at local events.	6
+27	1	2	1	2	1	3	5	0	3	0	2	2	5	5.0	19	3	3	5	0	0	She insisted that the soup be cooked for longer because she believed its taste was improved, but the recipe called for a shorter cooking time.	6
+25	0	0	2	4	0	2	2	0	4	0	2	2	4	3.0	8	3	2	3	3	1	If they hadn't promised a refund, I wouldn't have bothered canceling the membership even though I wasn't using it anymore.	6
+42	3	2	1	5	1	4	6	0	8	0	3	1	6	6.0	21	5	4	4	3	1	If they hadn't promised such a generous refund, I would have hesitated to buy their product due to its high price and the uncertainty that it would fulfill my needs, given the negative reviews I'd read online.	6
+53	1	3	7	7	3	3	6	0	6	0	4	3	6	4.0	26	4	3	6	2	1	Should we call for an Uber though it will be late, since they don't allow dogs on the bus and my dad isn't well enough to wait outside alone, or should we wait for the bus, even if it arrives sooner but won't accept animals aboard?  This is a sentence with 6 subordicate propositions.	6
+29	3	2	1	1	1	2	7	0	4	0	5	1	2	5.0	10	1	0	2	2	1	If we went hiking, he would always carry extra snacks for the group, water for everyone, his first aid kit, and a portable firestarter.	6
+41	2	2	0	0	0	8	10	0	3	0	4	2	9	6.0	11	7	5	5	5	2	Before agreeing to sell the property to the investor, my lawyer suggested I consult an appraiser who revealed the structure needed expensive repairs, causing a delay in the negotiations until the buyer provided a revised, satisfactory offer.	6
+55	5	5	1	0	2	8	11	0	2	0	5	1	10	8.0	12	3	3	1	5	0	He instructed us to bring all the documents necessary for processing the grant request, to meet with the grants officer at the scheduled time, to carefully review and sign any necessary forms, to provide updated financial statements, and to follow up on any missing information within a reasonable time frame.	6
+20	1	1	1	1	1	0	3	0	6	0	1	1	4	5.0	6	2	2	1	4	0	She would rather have him help her in her garden and paint her fence than buy her expensive jewelry.	6
+40	3	2	1	2	2	3	11	0	3	0	5	0	6	7.0	9	4	2	2	6	2	To make sure everyone arrives safely, we will be boarding the plane an hour before takeoff, giving us ample time to process check-ins and customs, and providing the pilot extra time for runway preparation.	6
+36	4	5	1	0	4	3	9	0	4	0	2	0	4	4.0	24	1	1	2	3	0	They suggested several different activities depending on our interests and the weather and recommended a place for each one, but unfortunately none of them fit our schedules due to prior engagements or conflicting dates.	6
+40	1	3	2	3	3	4	5	0	5	0	4	1	9	7.0	15	4	3	2	3	1	Had she finished her report that morning and sent it to the boss, she could have left early, gone to the gym, and returned home feeling accomplished and refreshed before meeting him for a romantic dinner.	6
+57	1	8	3	1	2	6	14	0	6	0	5	3	7	7.0	41	5	5	3	3	0	She preferred watching it online as her friends suggested, rather than in the cinema, since there was no waiting in line for tickets or seats, no rush hour crowd to contend with for parking, but she could still enjoy the popcorn while getting a closer look at the action through her laptop.	6
+35	1	0	1	4	2	4	5	0	6	0	5	1	6	4.0	13	2	1	5	4	1	If he fails the exam, I'll hire a tutor, he'll study every night, and they'll create a personalized study plan, so he can retake it and pass.	6
+47	2	3	0	0	2	4	12	0	6	0	5	1	9	6.0	28	5	1	1	6	4	Before setting a new project goal, discussing its potential budget, determining the resources required to deliver it, and deciding upon the project timeline, my team met with our superiors to gain their approval and align our objectives with the company's vision.	6
+46	1	4	2	0	2	2	8	2	7	0	6	0	11	10.0	11	6	4	3	6	2	When the kids finished school and started coming home one by one, I found myself rushing to meet their various requirements: helping with their homework, attending to their injuries, comforting those who had fights, and organizing activities for the remainder.	6
+41	1	1	3	1	3	4	10	1	1	0	5	3	6	6.0	12	4	2	3	4	2	When preparing dinner, if the oven isn't hot enough, I wait ten minutes and check the temperature while stirring the vegetables in a pot, and adding salt and pepper to taste, if company arrives early.	6
+64	3	2	3	4	3	8	15	0	8	0	9	3	5	5.0	26	4	3	6	3	1	If she can't find the missing piece, she should look in the living room, the kitchen, or the dining room, and if her dog got into her jewelry box, she should check the backyard, the garage, or the storage room, as these are the areas where she most often leaves her valuable items unattended.	6
+37	2	0	2	6	2	3	5	0	5	0	2	2	7	6.0	9	5	4	3	4	1	Understanding her reasoning, I couldn't help but wonder if she would have considered buying the property had the price been a bit lower or if she could have refinanced her current mortgage more easily.	6
+37	0	2	1	1	2	6	6	0	4	0	5	1	8	6.0	17	2	2	2	7	0	She asked her husband to bring her some water, take the dog out, wake up the kids, and then call the plumber, all before she could go and take a relaxing bath.	6
+41	3	1	1	1	1	5	9	0	2	0	7	1	9	5.0	20	2	1	3	5	1	Before starting a new project, I ensure all necessary documents are gathered, I research thoroughly, seek approval from the manager, purchase the required tools, set a clear timeline, and delegate tasks to team members.	6
+57	0	1	1	4	2	4	8	0	12	0	5	6	11	9.0	9	8	7	8	7	1	If he's not feeling well, I'll make him some tea and offer to read him a story, so that he can rest, while the dogs are put in their crates and my wife prepares a light dinner for them to eat, ensuring they finish their meals before we start ours.	6

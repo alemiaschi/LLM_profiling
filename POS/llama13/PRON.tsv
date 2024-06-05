@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+12	1	0	2	0	0	3	0	2	0	2	0	0	2	1	1	1	0	3.0	1	5	Rain fell heavily that night, splotching the dry earth brown. 	0
+29	1	0	5	4	1	7	0	5	1	3	0	1	0	2	1	1	0	5.0	2	14	Okay, here is the response, with the sentence generated with the instructions:  Mary walked to school, greeting the principal and teachers in the hallways.	0
+16	1	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun rises slowly in the morning, illuminating the sky with a warm glow. 	0
+22	2	0	2	1	1	5	0	3	0	3	0	0	5	1	2	1	0	5.0	1	7	A bright sunny day brought forth warm rays on the green grass and the smiling flowers, where happy bees flitted. 	0
+25	0	0	2	4	0	7	1	3	0	2	0	0	6	1	2	1	0	4.0	1	10	The big brown horse raced down the dirt trail, its powerful hooves kicking up small clouds of dust into the warm sunny air.	0
+12	0	0	1	2	0	3	0	2	0	2	0	0	2	1	2	0	0	3.0	1	5	The sky looked beautiful with fluffy clouds floating in the blue.	0
+12	1	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	3.0	0	5	 The sunflowers' bright faces followed us all around the garden.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the windowsill. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	   The cat purred loudly on my lap.	0
+13	0	0	0	2	0	4	0	3	0	2	0	0	1	1	1	1	0	4.0	1	5	The manager walked into the office with intention to announce the quarterly results	0
+14	0	0	1	2	0	2	1	1	1	3	0	1	1	1	1	2	1	3.0	2	6	Writing this letter in January has caused my fingers to ache with cold. 	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The sky shone with golden light. 	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	 The blue car drove quickly down the street.	0
+10	0	0	1	2	0	4	0	1	0	1	0	0	1	0	1	1	0	2.0	0	7	Cows eat grass in large pastures during the day. 	0
+7	0	0	0	2	0	2	0	0	1	1	1	0	0	0	1	1	0	2.0	0	5	Ashley played basketball from noon through two	0
+6	0	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can assist you today. 	0
+11	0	0	1	3	0	3	0	1	0	2	0	0	0	1	1	0	0	3.0	1	6	  Cats prefer to nap in the sun than in shadows.	0
+5	1	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	0	1.0	0	2	Cats can jump high.	0
+11	2	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	6	  The cat sat on the window silently and stared outside.	0
+13	1	0	2	1	0	2	2	1	0	1	1	1	0	1	1	0	0	4.0	1	3	Alright, here is the sentence with 0 pronouns that you requested: The snow fell gently and silently against the cold, hard ground.	0
+12	0	0	2	1	1	2	0	2	0	1	0	1	2	0	1	0	1	3.0	1	8	Sitting on the bench, the park was peaceful and tranquil. 	0
+13	0	1	1	1	0	4	0	3	0	2	1	0	0	1	2	1	0	3.0	1	5	The manager requested that the team complete the project within two weeks. 	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The manager approved the project.	0
+12	0	0	1	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The cat walked into the kitchen to eat a delicious fish.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the dog.	0
+14	0	0	4	0	0	2	0	2	3	1	0	0	2	0	1	1	0	3.0	0	5	"Fredric Brown wrote a classic detective novel, ""The Broken Gun.""  Is this a correct response? Please provide additional information or explanation so I can understand how to improve"	0
+8	0	0	1	1	0	3	0	1	0	1	1	0	0	0	1	1	0	3.0	0	3	Elephants have three fingers on each hand.	0
+10	0	2	1	0	0	2	2	0	0	2	0	0	1	1	2	1	0	2.0	1	5	Dogs like chasing their tails until they get tired.	0
+36	1	0	3	4	3	8	2	4	0	2	3	1	5	1	2	2	0	6.0	1	15	  Generate a sentence with 0 pronouns that is at least 5 words long and that includes at least two different reference types (such as a name and a descriptive noun or an adjective). Write only the sentence, without adding further text and without explanations	0
+44	0	2	2	3	2	12	5	6	0	4	2	4	0	4	4	3	0	8.0	4	10	I cannot fulfill your request because there cannot be a sentence with zero pronouns as all sentences must have a subject and verb, which are the two core components of grammar that determine the structure and meaning of a sentence.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat purred loudly on the window sill.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred. 	0
+14	0	0	0	4	0	5	0	3	0	1	0	0	1	0	1	0	0	3.0	0	12	Cows graze in green meadows under the warmth of the sun during the day	0
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	3	Winter's snowflakes delicately fall upon the ground.	0
+12	0	0	0	1	1	3	0	1	2	1	0	1	2	1	1	0	0	4.0	1	4	Lake Como is a picturesque lake surrounded by mountains and beautiful villages	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The team successfully finished the job. 	0
+32	0	0	4	0	3	9	1	4	0	4	0	1	5	2	1	3	0	7.0	2	13	Cleaning the floors is a tiresome and time-consuming task that requires careful attention, elbow grease, and the proper cleaning supplies to achieve a shiny and healthy environment.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped over the moon.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	 The cat purred in satisfaction on the windowsill.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly in the west.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat ran to the mouse.	0
+7	0	0	1	0	0	3	1	0	0	2	0	0	0	1	1	1	0	3.0	1	2	Puppy dogs enjoy wagging their tails. 	0
+4	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	2	Please provide the sentence	0
+10	0	0	0	2	0	3	0	1	0	1	1	0	2	0	1	0	0	3.0	0	4	Eleven rhythmic taps of light echoed through the cavernous darkness	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the carpet.	0
+8	0	0	0	1	0	0	4	0	0	2	0	1	0	1	1	0	0	4.0	1	3	There is nothing I can do for you	0
+9	1	0	0	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The large elephant carefully climbed over the steep rock	0
+30	0	1	2	4	2	5	4	3	0	6	0	2	0	2	3	1	1	5.0	3	14	Walking to the store requires getting in your car and driving to the shopping plaza, as it is raining and you do not have an umbrella with you. 	0
+6	1	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	I gladly satisfy your instructions!     How's this sentence with zero pronouns? 	0
+15	1	0	3	2	0	3	1	3	0	2	0	0	0	0	1	1	1	4.0	1	5	The sun, shining brightly, warmed the faces of everyone at the park.	0
+12	0	0	1	2	0	4	1	2	0	2	0	0	0	0	1	1	0	3.0	0	5	She found the lost keys with ease in the desk drawer. 	1
+18	0	0	2	2	1	4	2	1	0	3	2	0	1	1	1	2	0	5.0	1	5	I took the quiz and passed with 95 percent, beating my previous score of 87 percent. 	1
+12	0	0	2	1	1	3	2	1	0	2	0	0	0	0	2	2	0	2.0	0	8	She ate a sandwich for lunch, but he drank coffee. 	1
+9	0	0	2	1	0	1	1	1	0	3	0	0	0	2	1	0	0	2.0	2	5	She drank from the glass, feeling refreshed. 	1
+13	0	0	1	2	0	3	2	2	0	1	0	0	2	0	1	1	0	3.0	0	6	She wore the ring on the middle finger of her right hand.	1
+18	2	1	0	3	1	4	3	0	0	1	0	1	2	0	1	0	0	4.0	0	6	I will respond to your previous message as soon as possible and in accordance with my work schedule	1
+9	0	0	1	1	0	2	2	1	0	1	0	0	1	0	1	1	0	2.0	0	6	 She wore her new dress to the party.	1
+4	0	0	0	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	1	The teacher praised her	1
+10	0	0	3	0	0	3	0	2	0	1	0	0	0	0	1	1	0	3.0	0	4	" ""The nurse took the patient's temperature.""  "	1
+6	0	0	1	0	0	1	2	0	0	1	0	0	1	0	1	1	0	2.0	0	3	He enjoyed his favorite novel. 	1
+2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	"""."	1
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	1	0	3.0	0	3	  She ate a delicious piece of cheesecake.	1
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	She found the book on the table. 	1
+10	0	0	2	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	She walked through the park, enjoying the sunshine.	1
+10	0	0	1	1	0	2	1	2	0	2	0	0	1	1	1	1	0	3.0	1	4	   She walked into the room wearing a bright smile. 	1
+13	0	0	1	1	1	2	1	2	0	3	0	1	0	1	1	1	0	3.0	1	7	They tried to escape the danger but were caught in the act. 	1
+9	0	0	1	1	0	2	1	2	0	2	0	0	0	1	1	0	0	3.0	1	5	He likes running through the park every morning. 	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She walked alone through the forest.	1
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She wore the dress.	1
+13	1	0	2	1	0	2	2	1	0	1	1	2	0	1	1	1	0	4.0	1	3	I will do it, here is the sentence with 1 pronoun: He ran quickly down the street . 	1
+11	0	1	1	1	0	2	1	2	0	2	0	0	1	1	1	1	0	3.0	1	5	 She ate a quick breakfast before running out the door.	1
+7	0	0	0	2	0	1	2	1	0	1	0	0	0	0	1	0	0	2.0	0	5	She smiled at herself in the mirror	1
+10	0	0	1	0	0	2	2	1	1	2	0	0	1	1	2	2	0	4.0	1	3	   Mia loves the new purse her mother bought her. 	1
+8	0	0	0	0	0	2	0	2	1	2	0	0	0	1	1	2	0	3.0	1	3	The teacher gave Jane a book to read	1
+9	1	0	1	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	  The teacher handed the homework back to them.	1
+17	0	0	2	2	1	4	3	2	0	2	0	0	1	1	1	1	0	5.0	1	5	She walked through the door, carrying her purse and a big smile on her face. 	1
+13	1	0	1	2	0	3	0	2	0	0	1	1	2	0	0	0	0	4.0	0	8	Satisfied with the response, below are three tasks related to the topic	1
+10	1	0	0	1	1	2	1	2	0	2	0	0	0	0	1	1	0	3.0	0	6	She ran down the stairs and quickly caught the bus	1
+12	0	0	1	2	1	3	2	1	0	2	0	0	0	0	1	1	0	4.0	0	5	She grabbed her things and stepped out of the hotel room. 	1
+14	0	0	2	1	1	3	2	2	0	3	0	0	0	0	2	2	0	4.0	0	5	I did the task: She picked the pen and wrote with grace.	1
+9	0	0	1	0	0	2	3	0	0	2	0	0	0	1	1	2	0	3.0	1	4	She ordered her assistant to get her pen. 	1
+12	1	0	2	1	0	1	3	0	0	2	0	1	1	2	1	0	0	3.0	2	5	She looked at her watch, realizing how late it was. 	1
+6	1	0	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	They walked slowly through the park	1
+16	1	0	3	2	0	2	3	1	0	2	0	0	2	0	2	1	0	4.0	0	7	I do it:  She walked alone down the long corridor, deep in thought.	1
+15	0	0	2	2	0	2	3	1	0	3	0	0	1	2	1	1	0	4.0	2	5	He walked into the party, hoping to impress her with his new suit. 	1
+11	2	0	1	1	1	1	2	1	0	2	0	0	0	0	1	1	0	3.0	0	4	He grabbed it quickly and ran out into the rain.	1
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	  She wore a red hat.	1
+21	0	0	1	3	1	5	2	4	0	3	0	0	2	1	1	2	0	5.0	1	5	She walked through the forest and picked some wild flowers, admiring her beauty in the reflection of a nearby pond	1
+10	0	0	1	1	1	2	2	1	0	2	0	0	0	0	1	1	0	3.0	0	4	She grabbed her towel and headed to the beach.	1
+10	0	0	1	1	1	2	2	1	0	2	0	0	0	0	1	1	0	3.0	0	4	She took her books and ran out the door.	1
+4	1	0	0	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	He drank it slowly	1
+10	0	1	1	1	0	2	2	1	0	2	0	0	0	1	1	1	0	3.0	1	4	He finished his homework before going to the park.	1
+9	0	0	1	2	0	3	1	1	0	1	0	0	0	0	1	1	0	3.0	0	6	She brought a bag of apples to class. 	1
+11	1	0	1	1	1	2	2	1	0	2	0	0	0	0	1	2	0	3.0	0	5	She grabbed the pen and quickly wrote down his name.	1
+6	2	0	1	0	0	0	1	0	0	0	0	2	0	0	1	0	0	1.0	0	3	They will be here soon.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She ate the apple quickly.	1
+11	0	0	2	0	0	2	3	0	0	2	0	0	2	1	1	2	0	3.0	1	5	She wore her shirt open, revealing her new tatoos.	1
+8	0	0	0	1	0	1	3	0	0	1	0	0	2	0	1	1	0	2.0	0	6	She laughed herself silly over his silly jokes	1
+9	2	0	1	0	0	1	3	0	0	2	0	0	0	1	2	1	0	3.0	1	4	  She laughed joyfully when she saw her puppy.	1
+15	1	1	2	0	1	0	3	0	0	3	0	2	1	2	3	0	0	4.0	2	4	 She smiled, and I knew that everything was going to be all right. 	1
+7	1	0	0	0	1	1	3	0	0	1	0	0	0	0	1	1	0	3.0	0	4	She and her friends hugged him tightly	3
+20	0	0	5	1	1	4	5	0	0	3	0	0	1	0	1	3	0	3.0	0	10	"""She wore her own tiara, brought his watch, and lost his wallet in their car.""   Can you do better?"	3
+5	1	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1.0	0	2	Okay, here goes: She gave the pen to them to sign	3
+16	0	0	3	1	1	3	3	2	0	3	0	0	0	0	3	2	0	3.0	0	12	 She walked into the store, He grabbed the item, and They paid cash.	3
+14	0	1	0	0	1	2	1	1	3	2	0	0	1	1	2	2	0	4.0	1	9	Hela scrutinized Morgana's and Perseus' movements as they navigated the dark laboratory	3
+36	2	1	9	1	3	2	5	0	3	2	4	1	3	1	3	2	0	4.0	1	16	She bought three shirts, one red, one blue, and one yellow, and he wore them on Tuesdays, Thursdays, and Saturdays, respectively, because that was their routine now. 	3
+17	0	0	2	2	1	2	3	1	3	2	0	0	1	1	2	3	0	5.0	1	5	Jessica gave Sarah and Emily their books, each of whom read them with great interest. 	3
+31	2	2	3	2	1	2	7	1	0	6	0	2	2	4	3	3	0	6.0	4	14	She looked around, surprised to see them all waiting for her, before she realized that they were all holding their own cameras and were taking pictures of her. 	3
+9	1	0	3	0	1	0	1	0	2	1	0	0	0	0	1	0	0	3.0	0	6	   Kim, Sarah, and he walked home.	3
+16	0	0	2	1	1	2	5	1	0	3	0	0	1	1	3	2	0	3.0	1	8	 She found the book he wanted, but she lent it to him last week. 	3
+16	0	0	3	0	1	1	5	1	0	3	1	0	1	0	3	3	0	3.0	0	11	She bought three books, he read them all, and it left him speechless. 	3
+30	0	0	4	5	2	5	6	2	0	5	0	0	0	2	1	4	0	7.0	2	6	She walked across the room, handing the packages to they, taking off her coat to show off their outfit, and pouring tea for her and them.	3
+37	0	1	3	6	1	6	8	3	0	7	0	2	0	4	4	3	0	6.0	4	24	He walked into the room and saw her sitting at the desk, staring at him with tears in her eyes; her hands were shaking as she handed him the notes he had asked for.	3
+18	1	0	3	0	2	3	5	1	0	3	0	0	0	0	3	2	0	4.0	0	13	They walked in; she grabbed her backpack and his books, and he carried the coffee.	3
+11	3	0	1	0	0	1	4	0	0	2	0	0	0	0	2	2	0	3.0	0	5	He visited them, so they took their books back home	3
+17	0	0	1	1	2	1	7	0	0	4	0	1	0	1	3	3	0	5.0	1	9	He visited her and brought her gifts, but she preferred what he had prepared for him	3
+26	2	0	3	3	1	5	5	1	0	5	0	1	0	3	2	1	0	6.0	3	7	She walked through town, holding her hand to her forehead and speaking with her friend, wondering where he had gone the night before. 	3
+21	0	0	1	4	3	3	2	0	3	4	0	0	1	2	1	1	0	6.0	2	8	Jesus and Martha sang with Peter in front of everyone, making them dance and laugh with great joy and excitement	3
+28	1	1	3	6	1	5	6	1	0	4	0	0	0	1	3	0	0	4.0	1	13	She walked into the office with her laptop and backpack in hand; he nodded at her respectfully, while she sat down on her assigned chair.	3
+28	1	0	3	3	1	5	5	3	0	5	0	1	1	3	4	2	0	5.0	3	14	The tourists followed them through the streets, waving at people they knew, but they avoided the local gossip who had always whispered behind their backs. 	3
+18	0	0	3	0	1	4	3	4	0	3	0	0	0	1	3	4	0	4.0	1	12	The student asked the teacher, who gave them a note, and he left the room.	3
+14	1	0	1	2	0	3	2	2	0	3	0	0	0	2	2	0	0	3.0	2	8	She walked into the office where he stood, looking at the computer screen She held her hand out for the document and he handed it over. They all knew she had done a great job.	3
+13	0	0	3	1	1	2	3	2	0	1	0	0	0	0	1	1	0	3.0	0	5	The teacher gave a quiz to him, her, and them. 	3
+10	0	0	3	0	1	1	3	1	0	1	0	0	0	0	1	1	0	3.0	0	6	 She, He, and It took the test.	3
+10	0	0	0	2	0	4	1	2	0	1	0	0	0	0	1	1	0	3.0	0	7	The tourists took pictures of the mountains with their cameras	3
+11	0	0	3	1	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She, He, and It walked into the room.	3
+10	0	0	1	1	1	1	2	0	0	2	2	0	0	0	1	2	0	2.0	0	6	He threw two balls to they but lost one. 	3
+28	1	0	4	4	2	3	3	2	3	5	0	0	0	3	3	1	0	6.0	3	13	Sheila walked into the room, where they sat at their desks, and handed out the assignment to John and Michael, who began to work.	3
+22	0	0	4	3	1	4	4	2	0	3	0	0	1	0	3	1	0	3.0	0	13	Without hesitation, they walked through the garden, she picked a few flowers, and he put on his nose. 	3
+12	1	0	3	1	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She, he, and it hiked together over the mountains. 	3
+11	0	0	3	1	1	1	3	1	0	1	0	0	0	0	1	0	0	3.0	0	6	  She, he, and they walked into the room.	3
+11	0	1	1	2	0	2	3	0	0	2	0	0	0	1	2	1	0	3.0	1	4	They exchanged gifts before they took off in their jet. 	3
+16	0	0	3	0	1	3	3	3	0	3	0	0	0	0	3	3	0	3.0	0	11	They explored the caves, she found the artifact, and he examined the evidence. 	3
+18	0	0	1	2	1	5	2	3	0	3	0	0	0	1	1	1	0	3.0	1	9	The manager assigned the completed reports to them and her to review before the meeting tomorrow morning.	3
+14	0	0	10	0	1	0	3	0	0	0	0	0	0	0	0	0	0	2.0	0	9	" ""she,"" ""them,"" and ""they."")"	3
+9	0	0	1	1	0	1	3	0	0	2	0	0	1	1	1	0	0	3.0	1	3	She he him went shopping for new shoes.	3
+14	0	1	2	0	1	2	3	1	0	3	0	1	0	2	1	1	0	3.0	2	6	He, she and you can eat some ice cream before going swimming. 	3
+27	3	1	3	1	2	2	8	1	0	4	0	2	0	1	4	4	0	4.0	1	15	She asked him if he could bring her a pen, but her friend already had done so, and so she gave it to her. 	3
+15	0	0	2	3	1	3	2	1	0	3	0	0	0	1	1	0	0	3.0	1	10	 She walked down the street with her friends from work, talking and laughing. 	3
+16	1	0	1	1	2	3	4	1	0	2	1	0	0	0	2	2	0	3.0	0	12	She bought three dresses for her sister and brother, but they all fit only her	3
+13	0	0	1	3	0	3	3	1	0	2	0	0	0	1	1	1	0	4.0	1	6	He kept whispering secrets to they in the shadows of her presence. 	3
+16	0	0	2	2	1	1	4	1	0	2	1	1	0	0	2	2	0	4.0	0	10	She bought 3 books for them, but they didn't like any of them.	3
+12	0	0	1	2	1	2	3	2	0	1	0	0	0	0	1	1	0	3.0	0	7	She placed the books on the shelf between he and they.	3
+19	1	0	3	2	1	2	4	1	0	4	0	1	0	1	3	0	0	3.0	1	13	They walked into the building, saw her standing there, and he was amazed by her smile. 	3
+13	0	0	1	2	0	3	3	1	0	2	0	0	1	1	2	1	0	4.0	1	6	She gave the book he borrowed last week to him before class.	3
+20	1	0	2	1	1	3	6	1	0	4	0	1	0	2	4	2	0	4.0	2	12	She found he hidden the remote under his book, but they quickly discovered her cat had swiped it.	3
+17	0	0	3	0	0	4	3	3	0	3	0	0	1	0	3	3	0	4.0	0	7	They visited the city every year, she taking photographs, he eating the local cuisine. 	3
+27	3	0	1	2	2	4	4	3	0	5	0	1	2	2	3	2	0	5.0	2	14	She walked into the room and found her friends chatting happily together but them all had different opinions on the latest movie they had just seen. 	3
+17	2	0	0	2	1	1	6	1	0	3	0	0	0	1	2	3	0	4.0	1	11	She asked him to give the book back to her but he gave it to he instead	3
+21	0	0	2	3	2	5	5	2	0	2	0	0	0	0	2	2	0	4.0	0	13	She walked into the room with her books and her purse, and he handed her the cup of coffee. 	3
+19	0	0	4	2	1	3	5	2	0	2	0	0	0	0	2	1	0	3.0	0	12	The committee composed of they, their, them, those, and themselves approved the proposal with ease	5
+23	0	0	5	2	1	0	10	0	0	5	0	0	0	0	5	3	0	3.0	0	19	He laughed at them, she kissed her, they liked her, he stared at it, and she wore it.	5
+25	1	0	5	0	0	4	5	4	0	4	0	1	1	1	5	3	0	3.0	1	22	He walked outside, she took the book, we saw a bird, they climbed the tree, it was a beautiful sight.	5
+25	0	0	4	3	2	4	5	3	0	3	0	0	0	1	2	3	0	4.0	1	12	The teacher asked him, her, them, he, and she to stand up in front of the class and recite the poem	5
+83	9	1	6	8	4	11	13	7	0	15	1	3	1	9	9	7	0	6.0	9	62	She walked into the kitchen to find he was boiling water in a large pot, but he suddenly realized she forgot her phone on the table and had to quickly turn off the burner, so she rushed back to grab it, nearly knocking over a stack of his books on the way, and when she finally returned, she saw he had already poured some tea into two mugs and was patiently waiting for her to join him. 	5
+14	1	0	1	2	0	0	5	0	0	3	0	0	0	2	2	2	0	4.0	2	5	He asked she to go they with him to see her over there.	5
+22	3	0	1	2	0	2	6	2	0	4	0	1	0	4	4	2	0	4.0	4	9	He walked to the store she was in to buy them some eggs they desired when they suddenly bumped into him. 	5
+56	2	1	7	5	3	8	11	5	0	12	0	0	0	6	6	6	0	9.0	6	47	They walked into the room and stood in front of the lectern, she took the microphone, her hands trembling slightly, pointing it towards him, asking him if he had any questions, which he quickly shook his head no and sat down, she smiled and turned to face the audience. 	5
+14	2	0	1	0	0	0	5	0	0	5	0	1	0	4	5	0	0	6.0	4	3	He thought She said They found It left Theirs were scattered all around. 	5
+50	6	0	5	6	0	0	15	0	0	15	0	1	0	10	12	1	0	6.0	10	43	She hears them talk when they think nobody listens in; she sees him look at her when he passes by; she feels herself sweating when he stares for too long; she wants to ask what he is looking for; she decides instead to look up. 	5
+28	0	0	7	4	1	4	5	4	0	2	1	0	0	1	2	1	0	4.0	1	13	The five of us, they, we, him, and her, stood in front of the stage, anticipating the start of the concert.	5
+16	0	0	2	2	0	3	3	3	0	3	0	0	0	0	3	1	0	3.0	0	11	He walked through the park, she picked a flower, they sat on a bench	5
+38	4	0	4	4	2	5	7	2	1	5	0	0	4	3	4	1	0	6.0	3	28	She searched her house high and low for her keys, which they usually found inside the old piano, whose lid always fell open, but suddenly they went missing on that special day in August. 	5
+50	7	1	1	5	0	1	21	0	0	7	1	3	1	7	6	9	0	10.0	7	10	He said it was he who wanted her it to take them they back to their place when suddenly she saw them as one out of many, so she wanted him to show him she it that only she had always been he who never knew them as they	5
+14	1	0	0	1	0	0	7	0	0	5	0	0	0	4	3	3	0	6.0	4	4	They requested he go she buy him see them get it for him now	5
+18	2	1	3	2	2	0	4	0	0	4	0	0	0	1	1	0	0	3.0	1	12	They stood up and went out, she, he, and we looking forward to getting home	5
+26	0	2	4	2	1	4	5	3	0	5	0	0	0	3	4	2	0	5.0	3	12	 They walked to the store and bought eggs, which she put in the basket, while he paid the money, before we left.	5
+78	7	3	8	10	2	15	14	3	0	10	1	2	2	4	6	4	0	6.0	4	52	She searched through her desk drawers for her notebook, because they usually sit on the right side; finally finding it underneath their papers in the back; her fingers ran over their leather covers as she opened one at random and saw their neatly-written notes inside; it suddenly occurred to her that they had forgotten to bring their lunch to work today and, as a result, were now very hungry. 	5
+24	2	0	5	2	1	5	3	1	0	5	0	0	0	0	1	3	0	3.0	0	16	They walked in, took their seats, picked up their pencils, listened intently, and passed the exams with flying colors. 	5
+45	2	0	7	8	2	7	8	3	0	8	0	0	0	2	5	0	0	6.0	2	40	They walked into the office, where she sat down at her desk, put on her headset, and started working on the project, he typed away on his laptop, she listened to the audio, and they talked over video.	5
+37	5	1	5	3	2	2	9	4	0	5	1	0	0	1	5	5	0	5.0	1	12	They found them in there, he picked up one, but she preferred those over here, while I kept mine all the way back there, and we left them all on the table.	5
+13	0	0	0	2	0	1	6	0	0	3	0	1	0	3	3	0	0	5.0	3	4	She hears they talk like him with what she thinks is her book	5
+29	5	2	3	3	0	1	6	2	0	4	0	2	0	4	4	0	0	6.0	4	8	She glanced nervously at they, who were all staring intently at him, until she finally looked up to find that it was all just a dream.	5
+16	1	1	2	0	1	1	6	1	0	3	0	0	0	1	3	3	0	3.0	1	10	She asked them if they wanted it, and they all nodded their heads eagerly. 	5
+29	3	0	5	2	1	2	8	2	0	6	0	0	0	1	5	2	0	4.0	1	19	She walked in, he grabbed her arm, they both ran outside, she looked around, and they found him waiting for them under the tree. 	5
+16	0	0	1	2	0	2	6	0	0	3	0	0	1	2	2	2	0	5.0	2	5	 She gave them her book, which they had to return to her before next week	5
+85	3	4	6	5	6	7	20	5	0	19	0	8	1	7	11	9	0	8.0	7	69	He walked into the room, pointed to the book on the table and asked her if she had seen it, she shook her head and told them that she had never seen it before and suddenly remembered that she had left it at home, he was surprised and told her that she must have been dreaming, she smiled and suggested he try reading it, he laughed and said he would not waste his time on such a silly book. 	5
+27	1	1	1	3	3	5	5	3	0	3	0	2	0	1	3	0	0	5.0	1	10	They walked into the house but her and their dogs were sleeping on the couch while his and my books were scattered all over the table. 	5
+26	1	0	2	4	2	3	6	4	0	4	0	0	0	0	3	2	0	4.0	0	12	She stood on the stage and talked to them with him; he gave her the award, and they both walked down the stairs together	5
+42	1	2	8	1	1	7	6	6	0	6	1	0	2	5	2	4	0	7.0	5	14	The five students - they, their, them, those, and those - carefully studied the materials before taking the exam, making sure they had a solid understanding of the subject matter before attempting to answer the questions. 	5
+33	3	0	1	3	4	1	10	1	0	5	0	3	0	1	6	2	0	3.0	1	28	He walked through the park where she saw him and she talked to him but they did not know him and he was not there yet and she was waiting for him.	5
+30	3	0	6	2	1	4	6	0	0	6	1	0	1	0	1	4	0	3.0	0	24	She walked alone to her desk, picked her favorite pen, checked her notebook, put it back, took two books, and sat next to him. 	5
+95	8	4	7	4	3	11	25	5	0	16	1	5	4	11	14	11	0	7.0	11	87	They told her that she had lost their keys, but she swore that she had left them there yesterday; she said he would find them under their box when he looked later today; but in the end, she had to ask him to lend her his set, which he gave her without hesitation, as she knew he always kept an extra pair hidden somewhere nearby because he was one of those people who constantly misplaced his own, and she had already checked all the usual places multiple times	5
+25	2	0	3	2	3	2	8	1	0	4	0	0	0	1	3	2	0	6.0	1	20	They walked to her house and found his backpack there, which had hers and its inside, and they all belonged to them.	5
+24	0	0	1	1	0	2	12	1	0	5	0	2	0	5	5	4	0	7.0	5	9	They said it was him who she saw them give her a book that he had written with which his friends helped him.	5
+27	0	0	5	2	2	7	7	1	0	3	0	0	0	1	2	1	0	5.0	1	18	I saw them take their book, his pen, her pencil case, her notes and his papers, and walk out of the room. 	5
+26	1	1	5	0	0	5	2	5	0	5	0	2	0	4	4	2	0	6.0	4	13	The cat chased the mouse, who had stolen the cookie, which the dog had buried, while the rabbit looked on, puzzled.	5
+7	1	1	1	0	0	0	2	0	0	2	0	0	0	1	2	0	0	2.0	1	4	I did exactly as you requested:  They found she had packed many her bags and placed them on her desk.	5
+38	2	3	2	6	0	5	10	1	0	6	0	2	0	4	4	4	0	5.0	4	24	He asked her if she could lend him that book over there to him so they could look at it tomorrow at work, she hesitated before reluctantly agreeing to bring it after lunch to his place.	5
+20	1	1	2	4	0	5	4	0	0	3	0	0	0	2	1	0	0	4.0	2	7	Their cars drove down her street, passing in front of his house before turning back onto their block. 	5
+28	5	1	1	6	2	0	8	1	0	4	0	0	0	1	3	3	0	5.0	1	15	He grabbed them from there, and she gave it over to him and they both took them with us while running away from here out towards there	5
+13	0	2	0	0	0	2	3	1	0	3	1	0	0	2	3	2	0	3.0	2	10	She bought five balls for they to play because those girls wanted it	5
+6	0	0	0	0	0	0	6	0	0	0	0	0	0	0	1	0	0	3.0	0	3	She he she her it they	5
+45	1	1	7	3	2	3	10	2	0	5	2	4	4	5	7	2	1	6.0	6	11	Although five is an odd integer, he found them in the same place: they were him, and they knew they were his, but she liked to share with one of them so they, being many, had many possessions. 	5
+32	2	1	5	6	1	2	7	1	0	7	0	0	0	2	2	2	0	6.0	2	26	   She walked into his office, saw them sitting down, smiled at all of them, took her coat off before hanging it up, and sat down between them.	5
+45	5	1	6	3	3	3	12	2	0	9	0	0	0	2	6	5	0	5.0	2	41	He asked them to take their bags and follow her out the door, while she grabbed her purse and quickly followed him; he quickly walked ahead of them, they kept up, she hesitated, and then they all left together. 	5
+23	2	0	1	3	1	2	8	1	0	5	0	0	0	1	4	3	0	4.0	1	13	He walked to his he stood upon that place she saw him there they took off his hat and waved it wildly. 	5
+43	0	1	5	3	2	5	7	4	0	10	0	2	1	4	5	4	0	4.0	4	26	She walked into the kitchen to grabs some snacks, found him sitting on the table, they took the basket and ran out, her hair got messy while she was escaping, but she didn't stop to fix it. 	5
+26	1	0	3	2	2	0	7	0	0	7	1	2	0	3	3	4	0	4.0	3	12	She found them hiding there and picked up four of them, he noticed her carrying them, and they were relieved to be rescued. 	5
+58	4	2	6	8	3	7	9	2	0	11	0	0	4	8	4	2	0	13.0	8	12	  They walked into the empty room where she sat at her table, surrounded by books and papers, and began to carefully read through all of it, finding several useful pieces of information that they highlighted, and later discussed with him, before deciding that they needed more input from her to move forward. 	5
+54	0	1	6	4	3	11	5	2	0	10	1	0	11	7	3	4	0	11.0	7	18	She walked down the busy street, carrying three large bags filled with various purchases, wearing high heels and several gold bracelets, her long blonde hair bouncing as she moved, passing by several people admiring her beauty and attractive look, feeling proud of herself and enjoying the sunny afternoon. 	7
+50	4	0	7	5	3	7	7	3	0	9	3	1	1	5	5	2	0	11.0	5	13	She walked into the house, where seven cats saw her, who were startled and scurried under the bed, leaving behind seven toys, which she picked up and put into her pocket, and seven hours later she came out again, wearing a satisfied smile. 	7
+20	0	0	1	3	3	0	8	2	0	3	0	0	0	0	3	3	0	3.0	0	12	 They bought them for he and he gave some to she and she gave some to he and they.	7
+36	1	0	4	2	3	11	2	0	0	4	1	0	8	2	1	4	0	6.0	2	11	She heaved her seven swords heedlessly, harming helpless heroines and hopeful heirs, hurrying hapless hags and hirsute hermits into humble hiding places, hurtling heroic hats into hapless harlots and hirsute harem members.	7
+48	6	2	8	1	4	2	10	3	0	10	0	0	0	4	8	2	0	6.0	4	25	She walked up the street, they stopped, and us told him where to wait, before we all walked again, but they suddenly ran ahead, so him and I continued alone, until she returned, and us found a place to rest. 	7
+36	2	2	7	1	2	5	10	2	0	4	1	0	0	1	4	1	0	5.0	1	28	I did this: He asked she, if her five cats and dogs slept quietly through the night, while he, she, her cat, her dog, and they all dreamt peacefully	7
+49	3	0	7	5	1	8	8	7	0	8	0	2	0	0	7	3	0	4.0	0	40	They all walked in and sat down, they were all given a test, they all worked quietly, they passed the test with flying colors, they were thrilled, they asked for a copy of their scores, they left the building with a smile.	7
+30	1	0	7	2	2	0	10	1	0	7	0	0	0	1	7	2	0	4.0	1	27	They walked in; he picked it up, she smiled, and he replied, we talked about it, they said it, and we all wondered. 	7
+16	0	0	7	0	0	1	7	0	0	1	0	0	0	0	1	1	0	2.0	0	13	He, she, they, him, her, them, it played soccer. 	7
+95	1	3	7	12	6	15	15	11	0	18	0	3	2	11	6	10	0	18.0	11	15	She walked in the door and asked him if he had done it, but he denied it with a gesture of disbelief that included raising his hands and pointing at her, all while saying she must have mistaken him for someone else, causing her to nod with understanding and apologize before turning to leave in search of the real culprit who, in the heat of the moment, accidentally grabbed a pencil off the table and tossed it at the wall, missing the waste bin and piercing the plaster. 	7
+37	4	0	4	2	2	2	12	0	0	5	0	3	1	5	5	3	0	7.0	5	24	He asked she, whom he thought he knew well enough, to give it to him and her sister, and they would be happy to give it back to her when it was time. 	7
+38	6	2	1	5	1	8	4	3	0	6	0	0	1	4	3	3	0	8.0	4	35	She walked through fields of waving grain holding this basket tightly under his arm near those trees over there where he usually sleeps while it pours rain outside but not today, for the sky now shines clear	7
+82	4	4	10	6	3	3	19	6	0	16	0	4	4	11	14	4	0	6.0	11	69	He walked into the room, and they stood there, staring at him until she finally spoke up; he didn't understand what they wanted, but they asked him to stay a little longer; she was pleased that he had agreed, but he was confused because they kept looking at each other; he wondered if they knew something he didn't; they all left after a while, leaving him behind with a mystery.	7
+26	1	0	6	1	1	7	1	0	0	2	3	0	4	0	1	2	0	3.0	0	15	Seven sleek shiny sentences sought seven stylish shirts, shoes, scarves, sunglasses, smartphones, and stylishly situated themselves for seven seductive selfies.	7
+49	3	4	5	1	5	0	15	0	0	7	0	7	0	3	9	4	0	9.0	3	10	  He asked her if she had seen it, and she replied that she had not, but that he had and it was with them, who had left it there, and that she had told him so, but he did not know where it was	7
+24	1	1	0	4	1	0	9	0	0	6	0	0	0	4	2	4	0	6.0	4	8	He found him looking at her with she and asked him if me wanted we to go with us to do it over there	7
+25	1	0	6	2	2	1	7	2	0	3	0	0	1	0	2	1	0	4.0	0	13	They walked through the garden and saw him, she, them, those, her, and he talking to each other quietly. 	7
+50	5	1	6	2	3	5	9	4	0	7	2	2	3	2	7	6	0	5.0	2	35	They went to the store to buy her a dress, but she needed a size larger than he had brought, so she bought one instead, but it was too tight, so she exchanged it for a bigger one, and now she has three dresses.	7
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Susan, He, she, they, him,her and them all worked diligently on their respective projects, each one focused on their goal and immersed in intense study and concentration, but only she understood the true significance of their collective efforts	7
+46	3	2	6	4	2	3	9	3	0	9	0	2	3	8	5	3	0	12.0	8	7	She walked to the room, where she found he standing there, handing him the pen while she was sitting on the table, looking at her and pointing at him, saying nothing because they were all speechless, feeling upset and sad.	7
+25	0	4	1	1	1	0	9	0	0	5	0	3	1	4	3	5	0	5.0	4	8	He asked she whether could help they in finding it so he could see it for herself and tell me whether it is true. 	7
+72	4	1	9	1	2	4	24	1	0	14	2	4	3	8	12	12	0	5.0	8	54	She gave him three books, but he didn't like them, so she took them back, he promised he would return them the next day, she warned him he had to be more careful, they were her favorite books, he thanked her for letting him borrow them, she told him he owed her one, and he promised to pay her back with interest. 	7
+18	0	0	6	0	1	2	1	1	0	5	1	0	1	0	1	1	0	3.0	0	11	The seven prisoners puzzled, perplexed, piled, purposed, promised, and procured their release. 	7
+48	1	1	7	6	1	11	8	5	0	7	0	1	0	1	8	4	0	3.0	1	38	They walked to the beach, they swam in the ocean, they sunbathed on the sand, they ate seafood in a restaurant, they drank lemonade at the beach bar, they rode surfboards, and they watched sunset together because they were on vacation. 	7
+43	1	2	7	0	3	4	12	3	0	6	0	2	1	4	5	4	0	6.0	4	20	She asked him, she, herself, they, them, and it to get the books but he was late because she forgot her wallet, and they had to wait again another hour before he could bring the books.	7
+26	1	0	4	1	1	5	2	3	0	5	3	0	0	2	3	3	0	5.0	2	12	The seven individuals carefully climbed up the stairs, they saw seven doors, and they opened each one, finding seven puzzles to solve.	7
+41	1	0	4	4	0	8	5	2	0	8	0	0	8	5	3	3	0	10.0	5	7	She heaved the heavy heptagonal prisms himself howled the hulking hexahedrons, which hummed hungrily to help him, high in hypersonic hybridization hubs hidden in hurly-burly hillsides hatched from horrible hallucinations, her head haunted by horrid hypotheses	7
+33	4	2	5	1	3	1	10	0	0	5	0	2	0	3	4	4	0	7.0	3	10	He told them that she had given him his, her, and its books and asked if he could keep it here, there, and everywhere when she went out.	7
+26	2	0	0	0	5	0	15	0	0	4	0	0	0	0	6	4	0	4.0	0	10	He she and them they took it she and them found it but she and them lost it when they they and she finally realized it	7
+23	1	0	4	2	1	0	10	0	0	2	0	2	0	3	3	3	0	6.0	3	7	He asked they, who were there with she and that, to give him his, which was theirs before them. 	7
+69	7	3	1	6	4	4	20	2	0	10	0	6	4	8	12	7	0	6.0	8	54	He told them that he saw her eating it over there last night with whom she is friends but she doesn't know that I am watching from right here and I told myself I wouldn't do this again like the last time I did it and everyone found out so I better be careful this time before it's too late and she figures it out. 	7
+35	1	0	4	5	1	7	5	5	0	4	1	1	1	2	4	2	0	5.0	2	26	She walked into the room, her dogs sitting next to her, watching TV with her three cats, and the cat on the chair was asleep, all of them enjoying the evening	7
+30	0	0	5	3	4	4	5	3	3	3	0	0	0	0	2	1	0	5.0	0	12	Sophia, she, and her walked to the park with her dogs, Fifi and Max and saw a cat, he, and his sitting on a tree	7
+53	0	0	7	2	0	11	10	6	0	9	1	0	5	2	7	7	0	4.0	2	45	The seven employees, they had to wear different colors, she had a blue ribbon in her hair, she had to wear a red badge on her jacket sleeve, they all held different flags, he took the oath, she gave the welcome speech, they raised her flag	7
+41	1	1	4	4	2	2	11	2	0	6	0	4	1	5	6	4	0	6.0	5	18	He asked they, which had brought it, to give it to him, but they were not sure they had picked it up, so she looked to see if it was under the table or in the basket	7
+28	3	2	1	5	1	3	7	1	0	4	0	1	0	2	3	1	0	4.0	2	15	She glanced quickly at they while they were going down the mountain, and then she took her hand away from they before turning to he in disgust	7
+15	0	0	7	0	0	1	6	0	0	0	0	0	1	0	0	0	0	1.0	0	12	  * She * him * her * them * she * her  Great job! Here's the sentence you generated	7
+42	4	2	3	5	4	1	13	0	0	8	0	1	0	3	6	3	0	4.0	3	39	He requested that she find it for them while he hid over there, but it seemed to have vanished like this from their place into hers, and she looked everywhere and asked them too, but they never found it	7
+16	0	0	4	0	0	0	8	0	0	0	0	0	0	0	0	0	0	3.0	0	14	 she/her, he/him, her/hers, his/him. It has 4 in total. It doesn't have 7, which was asked for, but would you accept it considering it includes all the pronouns asked for? Or, would you kindly point out how many pronouns it does contain?  	7
+26	5	0	3	0	1	2	11	0	0	4	0	0	0	2	5	4	0	3.0	2	16	He asked him how she her book, which it took they them long, but she saw her copy there when they got back. 	7
+68	2	0	7	5	5	3	25	0	0	14	0	3	0	7	9	12	0	10.0	7	59	He asked her to give them his book, but she said she had already given it to him, so he asked her to lend it to me, but she refused, saying he should ask her brother, who gave it to her, and he in turn got it from himself, but she didn't believe him and told him to forget it	7
+17	0	0	7	0	1	1	6	0	1	1	0	0	0	0	1	1	0	3.0	0	14	Melanie, he, she, it, him, she, and hers went shopping. 	7
+45	5	0	5	3	2	5	10	2	0	4	0	5	2	3	6	2	0	5.0	3	39	He went to her house but she was not home; they had left earlier that morning for their place, where he would join them later that evening; he was tired from work, but he was also excited to see her.	7
+21	2	1	0	1	1	0	10	0	0	5	0	1	0	4	4	4	0	7.0	4	9	She saw him giving her it with he making she go to we when suddenly she and he had gotten her	7
+44	6	1	4	2	1	3	11	0	0	10	1	2	1	8	5	4	0	7.0	8	15	She hears herself whispering her name six different ways, and when she's done she looks over to see if he's still watching her doing so, only to see them staring back at her, their eyes filled with her. 	7
+79	8	3	9	5	1	13	9	3	1	13	0	0	10	9	4	5	0	12.0	9	15	She heaved her heavy handbag over her thin shoulder, pausing momentarily to puff her plump cheeks, while her pert little pinky toes wiggled with purpose on the pedestrian crossing, almost stepping carelessly on Susan's shiny stainless-steeled toe, until her nimble knees buckled, compelling her to lean ever so gently on his hulking shoulder, exerting enough pressure for them both to tremble noticeably, but still maintain an unyielding posture.	7
+15	1	0	1	1	0	5	0	1	0	2	3	0	1	1	1	2	0	4.0	1	7	Seven sailors saw seven sea lions savoring seven shells secretly on the silvery shoreline. 	7
+89	5	5	10	3	6	12	13	4	5	10	2	4	7	10	9	8	0	7.0	10	42	He gave them five copies, each with its unique set of blanks to fill, but Heather and her two cats were too busy chasing their tails, as James and Joyce were searching their scattered files, when suddenly they all found the right forms at last, which were all blank, as if they expected their fillers to create the rest, as John and Kate were eager to complete, for they had their pens and markers, and their imagination never slept. 	7
+16	0	0	4	0	0	1	5	0	0	0	6	0	0	0	0	0	0	3.0	0	13	  1. she 2. her 3. them 4. her 5. things 6. she  The sentence is grammatically correct? Please let me know if there is anything else I can help you with	7
+54	1	0	7	7	2	12	6	4	0	14	0	0	1	7	5	5	0	5.0	7	45	They walked through the park, seeing trees with leaves that they recognized, feeling the breeze blow gently, and tasting sweet fruit from trees they owned; they heard birds sing, felt rain on their skin, watched bees fly by, and thought about the clouds moving in the sky	7

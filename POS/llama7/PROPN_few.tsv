@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PROPN_constraint
+11	1	0	1	2	0	2	3	0	0	2	0	0	0	1	1	1	0	3.0	1	4	My cat woke me up purring loudly on my bed.	0
+13	1	0	1	0	0	0	3	0	0	1	0	4	2	2	2	1	0	4.0	2	6	I am ready whenever you might be to tackle whatever is next!	0
+10	0	0	1	2	0	3	1	2	0	1	0	0	0	0	2	1	0	3.0	0	7	They played soccer with the dogs in the field.	0
+12	0	0	1	1	0	4	2	1	0	1	0	0	1	0	1	1	0	3.0	0	8	My boss loves the new design for our client's presentation.	0
+10	1	0	1	0	0	2	1	1	0	2	0	0	2	1	2	1	0	2.0	1	5	Bright, sparkling lights filled the room when I entered	0
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The ball bounced onto the ground with great force.	0
+12	0	0	1	2	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	The cat jumped out of the window to chase the bird.	0
+16	2	2	1	1	0	2	3	0	0	3	0	1	1	3	1	1	0	6.0	3	5	Thanks for always making certain my items are neatly folded before returning them to me.	0
+10	1	0	1	1	0	3	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	The monkey happily munched on his delicious banana snack.	0
+22	0	0	3	2	2	4	1	1	0	1	2	1	4	1	1	0	0	4.0	1	7	Fast and efficient support with friendly experts, available 24\*7 for any questions or concerns you may have.	0
+16	1	1	2	2	0	3	3	1	0	2	0	1	0	1	1	1	0	3.0	1	12	Thanks for bringing that issue to my attention, we will certainly look into it!	0
+11	0	0	1	0	2	2	1	0	0	4	0	0	0	1	2	1	0	3.0	1	8	Cats love to chase and pounce, but they hate mice	0
+11	1	1	1	0	0	4	1	0	0	1	0	0	2	1	0	1	0	3.0	1	7	Thanks for making our little family photo shoots so enjoyable.	0
+14	1	0	1	1	0	3	2	1	1	2	0	0	1	1	2	2	0	4.0	1	4	Mary's son smiled when she read him the new story at bedtime.	0
+12	1	0	0	1	1	2	0	1	2	0	0	1	3	0	1	0	0	3.0	0	6	Muhammad Ali was an American professional sportsman and also famous for boxing	0
+13	0	1	1	1	1	4	2	0	0	1	0	0	2	1	0	1	0	4.0	1	9	Thanks for bringing your great energy and attention to our important meeting.	0
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The fluffy kitten played with my tail.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+20	1	2	1	2	0	3	3	1	0	4	0	1	1	2	2	2	0	6.0	2	4	I've attached a thorough list of requested materials for you to examine closely before sharing them with Production.	0
+11	0	0	1	2	0	2	2	0	1	2	0	0	0	1	1	1	0	3.0	1	6	John walked to pick his daughter up at her preschool.	0
+11	2	0	2	0	0	1	3	0	0	1	0	1	1	0	2	1	0	2.0	0	5	My brother is awesome, so you better believe me!	0
+20	0	0	1	2	0	5	1	4	0	2	0	1	2	2	1	0	0	5.0	2	7	It was an incredible sight to see the tree's roots wrap around the rocks like a big hug.	0
+8	1	0	2	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	Happily, their smiles illuminated a room.	0
+15	5	0	1	0	0	1	3	1	0	2	0	0	2	1	2	2	0	3.0	1	7	The new puppy made me incredibly happy when I finally cuddled him close enough.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog barked at the cat.	0
+14	0	0	2	0	0	2	1	2	0	1	0	2	3	2	2	1	0	3.0	2	10	I am excited to start this new adventure, the possibilities are endless!	0
+16	1	1	1	3	1	5	0	0	0	3	0	1	0	1	1	1	0	3.0	1	8	Dog will chase cat in park with swing set until rained out and goes home. 	0
+15	0	0	1	2	0	3	3	2	0	1	0	1	1	1	0	1	0	3.0	1	7	It was a good idea to visit her in the hospital after her accident.	0
+10	1	0	1	1	1	2	1	1	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat jumped into my lap and purred happily.	0
+6	0	0	1	1	0	2	0	1	0	0	0	0	1	0	0	0	0	2.0	0	4	Thanks for the excellent instructions!	0
+10	0	0	1	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	5	The sun was bright and the sky was blue!	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The baby cooed sweetly in my arms.	0
+12	0	0	1	1	0	1	3	1	0	2	0	1	1	1	2	1	0	3.0	1	4	I can't wait for the amazing trip that awaits us!   (Note: The proper nouns in the instruction are highlighted for reference. Please avoid using them in your response.)	0
+4	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	2.0	0	2	Makes perfect sense.	0
+11	0	0	1	2	0	4	1	1	0	1	0	0	0	0	1	0	0	4.0	0	5	The cat purred with content in its owner's lap.	0
+8	0	1	1	0	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	4	The baby cheered as the bubble popped. 	0
+12	2	0	1	1	0	2	0	2	0	0	0	1	3	0	1	0	0	2.0	0	4	A new car is just as good as a new home.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	1	0	1	1	1	3	0	1	0	1	0	1	1	0	2	0	0	3.0	0	7	Birds sing beautifully, and the world is full of music	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Happy holidays!	0
+13	1	1	1	1	0	0	2	1	1	3	0	1	0	2	2	0	0	4.0	2	3	Because you deserve to be treated like the Queen you truly are.	0
+10	1	0	1	0	1	1	0	1	1	3	0	0	0	1	1	1	0	3.0	1	4	Mandy took the baby and ran outside to play.	0
+10	0	0	1	2	0	3	2	1	0	1	0	0	0	0	1	1	0	2.0	0	6	The cat curled itself around its tail in sleep.	0
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The baby laughed with joy at all the new toys.	0
+14	1	1	1	1	0	3	2	0	0	2	0	0	3	2	1	1	0	4.0	2	6	Thanks for doing such great work on my dresses that always look fantastic!	0
+19	1	1	2	1	0	3	2	0	0	2	0	3	3	2	2	0	0	4.0	2	10	I'm confident that your top-notch work will be thoroughly enjoyed for many years to come!	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She ate an orange.	0
+9	0	0	1	0	0	5	1	0	0	1	0	1	0	0	2	1	0	2.0	0	4	Bucket list adventure travels are calling your names!	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	1	0	2	0	0	0	2	0	0	2	0	2	0	0	2	0	0	2.0	0	6	She didn't eat either, I don't think.	0
+20	1	1	2	2	1	3	1	1	0	2	0	1	5	2	2	0	0	6.0	2	7	Most people are concerned about global warming primarily because it affects _______________ living in the Arctic and Antarctic areas. The effects of climate change are more visible there, including melting of ice sheets, glaciers, and permafrost, and the resulting consequences for _______________. 	3
+33	1	0	6	5	1	8	2	2	2	2	0	1	3	1	2	1	0	7.0	1	7	The French president, Macron, was pleased about this agreement, which provided stability for his country, after years of internal unrest and tensions with neighboring countries, particularly Belgium.	3
+19	0	0	1	4	0	2	0	2	4	2	0	1	2	1	1	1	0	4.0	1	7	Supreme Council for Islamic Affairs will meet with representatives of the Vatican to negotiate peace in the Sudan.	3
+35	2	1	3	4	0	5	1	3	5	2	2	2	4	2	2	2	0	6.0	2	30	Bill Gates is donating 100 billion to Education for the Children Foundation to support early childhood education globally, a vital factor for the future survival of mankind, before it's too late.	3
+20	0	0	1	3	0	6	0	5	1	1	1	0	1	0	1	1	0	5.0	0	4	The Prime Minister's office announced the rejection of the proposal for a peace treaty between the two nations.	3
+13	1	1	2	1	0	1	2	0	3	2	0	0	0	1	2	2	0	3.0	1	5	Before Trump, Iranians trusted President only if he delivered his promise.	3
+29	0	0	5	3	2	4	1	2	7	3	0	1	0	1	1	2	0	5.0	1	15	The company will expand its production of microprocessor in Malaysia, China, Vietnam, and Indonesia to meet the growing demand in India, Thailand and Myanmar.	3
+17	0	0	0	2	1	2	1	1	3	2	0	1	3	1	1	1	0	5.0	1	9	Britain is known to support its colonial legacy with a strong and active presence in Hong Kong	3
+21	0	1	2	1	2	4	1	1	3	3	0	0	3	1	1	3	0	4.0	1	8	Britain, Canada and Mexico celebrated the 150th anniversary of its independence by hosting cultural events and issuing commemorative stamps.	3
+22	0	1	1	2	0	6	2	2	3	2	0	1	2	2	2	2	0	5.0	2	6	Ms. Keller is a dedicated nurse who devotes her career to improving the health outcomes of residents in underserved Brooklyn communities. The New York Hospital for Brooklyn, where Ms. Keller works, serves as the main medical facility for the borough's residents. 	3
+21	1	0	2	2	0	1	0	3	5	2	0	1	3	1	1	1	0	5.0	1	6	The Prime Minister of Malaysia has decided to withdraw all support for the Malaysian Airlines Flight MH17, effective immediately. Please provide the proper nouns you would like me to include in this sentence.	3
+4	0	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	0	1.0	0	2	British Prime Minister Theresa May met with Russian President Vladimir Putin to discuss the ongoing conflict in Syria before the Geneva peace talks.	3
+19	0	1	3	0	0	2	0	1	5	1	0	2	3	1	2	0	0	4.0	1	8	The White House, Congress, Supreme Court officials will determine if Joe Biden's actions were appropriate. 	3
+17	0	1	3	1	0	2	0	2	3	3	1	0	0	1	1	2	1	4.0	2	11	Laszlo the Hungarian, after drinking 17 shots of tequila, tried to dance the Macarena.	3
+28	0	0	2	3	1	3	1	1	13	2	0	0	2	1	1	1	0	5.0	1	11	Chief Justice John Roberts administered the judicial oath to Justice Sonia Sotomayor at her confirmation ceremony, attended by President Barack Obama and First Lady Michelle Obama.	3
+14	0	0	1	1	1	1	1	0	6	2	0	1	0	1	1	0	0	5.0	1	3	Chelsea Clinton was seen smiling with her parents Bill Clinton and Chelsea Clinton.	3
+22	0	0	1	2	1	3	0	1	7	3	0	1	2	2	1	1	0	6.0	2	5	The new administration is planning to reform American healthcare with legislation supported by Speaker Nancy Pelosi and Majority Leader Mitch Mcconnell.	3
+16	0	0	2	3	0	3	0	1	5	1	0	0	1	0	1	1	0	3.0	0	6	In the aftermath of Tet, President Johnson authorized new bombing campaigns against North Vietnam.	3
+33	3	1	0	4	0	6	2	2	4	7	0	1	2	5	3	1	0	9.0	5	9	Glenview Hospital had to settle with Mary Hood for palpable negligence in causing paralysis of her leg resulting from improperly treated slipped disk which the physician knew was a potentially very painful condition	3
+19	0	0	3	3	0	3	0	2	5	1	0	1	1	0	1	1	0	4.0	0	9	The US government, under former President Donald Trump, had maintained a policy of containment towards China. _________________  Please answer with a single sentence containing the three proper nouns listed in the prompt. 	3
+20	2	0	2	2	0	1	0	2	6	2	0	1	1	1	1	1	0	3.0	1	9	The Prime Minister will soon announce a visit to Kampala, Uganda, to talk directly with President Yoweri Museveni	3
+19	2	0	1	0	0	2	0	2	4	3	0	0	3	2	1	2	0	4.0	2	6	Britain's Royal Air Force successfully intercepted a Nigerian passport applicant, attempting to enter the United States illegally	3
+10	0	0	0	1	0	1	0	0	2	1	2	0	2	0	1	1	0	3.0	0	5	South Africa experienced severe economic hardship during 1994-2002	3
+8	0	0	3	0	1	0	0	1	3	0	0	0	0	0	0	0	0	2.0	0	6	Barnes, Noble', and the Smithsonian.	3
+11	0	0	0	3	0	3	1	0	2	1	0	0	1	0	1	1	0	3.0	0	6	Tajikistan recalled its ambassador to Iran in wake of military operation	3
+17	0	0	2	3	0	2	1	1	3	1	0	2	1	0	2	1	0	4.0	0	7	Turkey was not alone, the rest of Europe was following her into war with Syria.	3
+17	0	0	3	1	0	1	0	1	5	2	0	1	2	1	1	1	0	3.0	1	8	The Prime Minister of England, Elizabeth Windsor, was scheduled to visit India next month.	3
+15	0	0	1	1	0	2	0	1	4	1	0	1	1	1	1	1	0	4.0	1	9	Rajasthan is proud to present Princess Rukmini as this week's #SankrantPride honoree. Her commitment to environmental activism has earned #Rajasthan state-level awards.	3
+15	0	0	0	2	0	3	1	2	3	2	0	0	0	1	1	2	0	4.0	1	6	The Smiths invited John's to celebrate the holiday at their mountain house in Aspen	3
+36	0	1	5	4	1	9	1	3	8	2	0	0	2	1	1	2	0	5.0	1	10	Ellen deGeneres, host of the Ellen DeGeneres Show, surprised actor, producer, and director Tyler Perry by revealing him as a special guest on the 60th anniversary episode airing on January 4th.	3
+16	0	0	3	1	0	2	0	2	3	1	0	0	3	0	1	1	0	3.0	0	7	Chicago, the Floria Parrilla's, served a delightful Chilean cuisine to eager diners.	3
+32	0	1	1	3	0	4	1	1	10	5	0	1	2	4	1	4	0	7.0	4	10	John will call the White House to express concern to President Johnson regarding Attorney General's recent decision to indict Robert Kennedy for his role in defending Sirhan Sirhan in court.	3
+15	0	0	1	3	1	2	0	3	2	1	0	0	2	0	1	0	0	4.0	0	5	Before Tiananmen, the Massacre remain unpopular but tolerable in some countries across the world	3
+20	0	0	1	2	1	5	0	0	2	2	0	2	4	1	2	2	0	4.0	1	13	NASA has announced plans to send astronauts to Mars next year, but many are concerned about potential side effects	3
+20	0	1	3	2	0	2	0	2	4	2	0	1	3	1	1	2	0	5.0	1	5	British Petroleum (BP) will pay damages after causing the largest environmental disaster in the Gulf of Mexico.	3
+18	0	0	1	1	1	2	0	2	4	3	1	1	0	2	1	2	0	6.0	2	4	The company will pay $75,000 to settle the claims asserted by Mr. Brown and Ms. Jones.	3
+19	2	0	0	3	1	2	0	3	5	2	0	1	0	1	2	1	0	5.0	1	6	Gandalf the Grey had long since passed on by the time Frodo and Company reached the gates of Orthanc	3
+20	1	0	2	2	1	3	0	2	3	2	0	1	3	1	1	2	0	5.0	1	7	The Smithsonian Institution has recently unveiled a unique exhibition on Antarctica, featuring rare and fascinating photographs of penguins.	3
+20	1	0	3	0	1	2	0	2	9	1	0	1	0	0	1	0	0	4.0	0	15	The New York Yankees, Los Angeles Lakers, and Toronto Maple Leafs are the most watched sports teams. 	3
+25	2	0	3	3	2	1	0	2	7	1	1	1	2	0	1	0	0	5.0	0	8	Halliburton, Nigeria, and Cheney are often mentioned together for one reason or the former Vice President of the United States of America.	3
+29	2	0	1	4	1	10	2	3	1	2	0	0	2	1	2	2	0	6.0	1	13	Ramakant's visit excited employees in the entire headquarters, particularly in the marketing and sales divisions where his presence generated much discussion on the implications of his arrival	3
+17	1	0	2	2	1	2	2	1	1	2	1	1	1	2	1	0	0	6.0	2	4	The three-day trip was exciting enough but nothing compared to what transpired after Tetya.	3
+32	2	0	1	6	0	5	1	1	11	1	2	1	0	0	1	1	0	4.0	0	14	Ten years ago on July 4, NASA scientists had successfully launched the Space Shuttle Discovery from Kennedy Airport on its mission to Venus in honor of President Joe Biden's inauguration	3
+26	2	0	2	4	1	4	2	1	5	2	1	0	2	1	2	1	0	5.0	1	12	Darryl Yates served as the principal of Spring Valley High School for over two decades, where he earned great respect and admiration from everyone. 	3
+14	1	1	1	2	0	1	1	0	2	1	1	2	1	1	2	0	0	2.0	1	10	Davide will never speak to Maria, as they are from two different timelines	3
+20	0	0	3	2	1	3	0	1	8	1	0	0	1	0	1	1	0	4.0	0	12	Fort Benning in Georgia, General George Marshall,  and President Roosevelt supported a joint training program for soldiers.	3
+19	2	0	4	0	1	2	0	1	5	1	0	1	2	0	1	1	0	3.0	0	9	NASA, SpaceX, and Virgin Galactic will soon establish the first-ever commercial space station, Starlab	3
+20	0	1	5	1	1	2	0	2	4	1	0	1	2	1	2	1	0	3.0	1	8	China, France and Italy, are all countries, that the United States, has diplomatic relations with.	3
+8	0	0	2	0	0	0	0	0	4	0	2	0	0	0	0	0	0	2.0	0	6	Moon Landing, Area 51, Apollo 11	3
+19	0	0	3	2	1	2	1	1	2	2	0	1	3	1	1	1	0	4.0	1	7	The French, German, and Chinese leaders have announced their intention to meet in Paris before Christmas.	3
+25	0	0	1	4	0	5	0	4	3	2	1	1	3	1	1	1	0	4.0	1	13	The British Foreign Office was instructed by Mrs. Thatcher to secure the liberation of the hostages from the Iranian embassy siege by six terrorists.	6
+27	0	1	5	2	1	3	0	1	9	3	0	1	0	1	1	1	0	4.0	1	8	Maryland's football coach Don Brown was born in Tifton, Georgia, and coached at Massachusetts (UMass) Amherst before taking the Terrapins helm.	6
+29	0	0	3	3	0	6	1	4	3	3	0	1	3	3	2	2	0	9.0	3	5	The Iranian, Javad Zarifeh-Jahromii devised a method to detect these signals emitted during seizures that are indicative of the brain’s reaction to external stimuli.	6
+30	0	0	3	5	1	7	1	4	4	1	0	0	3	0	1	1	0	5.0	0	11	Chief executive of the Royal Bank of Scotland, Fred Goodwin, accepted a knighthood for his contribution to the bank's growth in the 1980s and early 1990s.	6
+23	0	1	1	3	0	2	0	2	9	3	0	0	1	2	1	2	0	7.0	2	5	Mahmud Ali Mutawaa led the operation to kill Usama bin Ladin while standing on the ramparts of ancient Delhi Fort in India.	6
+20	0	0	6	0	0	0	0	4	8	0	0	0	2	0	0	0	0	3.0	0	13	The Pope, the Pontiff, the Roman Catholic Church, the Vatican, Pope Benedict, Benedict XVI.	6
+12	0	0	0	3	0	2	1	1	2	1	1	0	1	0	1	0	0	3.0	0	8	Abuja became the capital of Nigeria after its official declaration in 1991	6
+23	0	0	4	3	0	0	0	3	11	1	0	0	1	0	1	1	0	4.0	0	7	The President of Nigeria, Muhammad Buhari, appointed Professor Abdubulrahaman Olasupo as the Director-General of the National Productivity Order.	6
+28	1	0	6	2	0	3	0	0	10	2	0	0	2	1	1	1	0	4.0	1	14	Ayman Mohyeldin, NBC news anchor, reported live from Gaza, interviewing Hamas' prime minister, Ismail    Haniyeh, during Israel's Operation Protective Edge.	6
+29	1	0	6	4	1	2	1	1	6	4	2	0	1	0	1	0	0	5.0	0	25	Tibor Pálinkás fled from Hungary, settled in the Canadian town of Sault Ste. Marie, and became one of its best-loved citizens. (2014) 	6
+15	0	0	2	3	0	3	1	1	4	1	0	0	0	0	1	1	0	3.0	0	9	Saddam Hussein ordered the assault on Israel from his spider-hole in Tikrit.	6
+22	0	0	2	4	0	2	1	2	9	2	0	0	0	0	1	1	1	4.0	1	12	During its tour in Egypt, The Boston Philharmonic Orchestra directed by Benjamin Zuman perform a composition by Wolfgang Amadeus Mozart.	6
+16	0	0	2	1	0	2	0	3	4	1	0	0	3	0	1	1	0	4.0	0	6	The Chinese ambassador, Zhang Youxia, hosted the reception for the United Nations General Assembly	6
+36	1	0	4	4	2	9	1	3	3	2	0	1	5	0	2	2	0	5.0	0	18	NASA's new Mars rover, Curiosity, found evidence of past or present life on the red planet, and its laser instrument has since detected a trace of methane in the Martian atmosphere.	6
+12	0	0	1	3	0	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	5	The cat curled up around the sleeping infant in the crib. 	6
+27	0	0	2	4	1	5	1	3	2	4	0	1	3	2	1	1	0	6.0	2	8	Mulatto is an African American, born into a family of mixed descent and struggling to find his identity in this society of strict racial categories.	6
+28	0	1	2	3	0	4	1	3	9	2	1	0	1	1	2	2	0	5.0	1	11	Tiger Woods won the WGC-Bridgestone Invitational by three strokes as he sank a birdie putt on the final hole at Akron's Firestone Country Club.	6
+30	0	0	2	3	1	6	1	4	5	2	0	3	2	2	3	1	0	5.0	2	16	Turing's accomplishments include codifying the discipline of computer science, and the Alan Turing Institute is a prominent organization that has been influential in the development of AI.	6
+35	1	0	2	4	0	6	1	5	6	5	1	1	2	3	1	2	0	8.0	3	6	The United States Army is developing an improved Bradley infantry fight to counter the Russian T-90 tank now operated by Iraq during its occupation of that country following the invasion of Kuwait.	6
+21	0	0	4	3	0	2	1	2	5	1	1	0	2	0	1	1	0	4.0	0	11	The Titanosaurus, a large sauropod from Argentina, received its scientific name, Titansaurus, from Paul Sander in 1989	6
+28	1	0	4	4	1	2	0	4	7	1	0	1	3	0	1	0	0	4.0	0	12	The President of the European Central Bank, Mario Draghi, has repeatedly warned of the dangers of deflation in Japan, China and the United States.	6
+48	2	0	5	3	3	7	6	4	6	8	0	1	1	5	5	7	0	12.0	5	18	Abraham took his family to visit the mountain where God instructed Melchizedek, the king of Salem, to offer bread and wine, and later Abraham was introduced to Malchus, the high priest who blessed him and showed him the gate to which he returned.	6
+19	1	0	1	2	0	0	1	0	8	2	0	0	3	1	1	1	0	4.0	1	9	Rosie O'Donnell headed straight to Tesla Motors to pick up her Tesla Model X Electric Blue Metallic Sedan.	6
+24	1	0	1	4	0	4	0	4	5	2	0	1	1	1	2	1	0	5.0	1	16	The Prime Minister of Australia was visiting the nation of Kiribati when the news of North Korea's launch of a satellite broke.	6
+23	0	0	4	3	1	3	0	2	5	2	2	0	1	1	1	0	0	4.0	1	12	Petra Kelly and Harrison Schmitt, two astronauts from Apollo 18, floated through the lunar module, marveling at the view.	6
+16	0	0	1	3	1	2	0	2	5	1	0	1	0	0	1	0	0	4.0	0	5	The company was acquired by Oracle during the reign of Mark Hurd and Safra Catz.	6
+19	0	0	1	1	0	1	0	1	10	1	0	0	2	0	1	1	0	4.0	0	6	Rosa Parks’s Montgomery Bus Boycott inspired Martin Luther King’s leadership in the Southern Christian Leadership Conference.	6
+46	1	0	4	6	1	2	0	4	18	1	1	1	7	1	2	0	0	7.0	1	21	Bill Clinton was a key figure at the meeting in the Lincoln Sitting Room at the White House, where Prime Minister Netanyahu sat across from Palestinian Authority President Mahmoud Abbas, Israeli Prime Minister Ehud Barak, and Egyptian President Hosni Mubarak in 2000.	6
+26	0	1	1	4	0	4	0	3	10	1	0	1	1	1	1	0	0	5.0	1	8	Tony Snow was a correspondent for Fox News before becoming the White House press secretary for President George W. Bush during the invasion of Iraq.	6
+22	1	1	2	1	0	1	0	2	9	4	0	0	1	3	3	2	0	5.0	3	16	Saddam ordered a strike on the Uday Hospital where Yasser Arafat lay injured, as President Bush launched Operation Southern Watch. 	6
+21	0	0	3	2	1	0	0	1	12	1	0	0	0	0	1	1	0	4.0	0	14	The Queen of England Elizabeth, Prince Philip, Duke of Edinburgh and Prince William visit Buckingham Palace's Balcony.	6
+20	0	0	3	2	0	3	0	3	6	1	0	1	1	0	1	0	0	4.0	0	9	The United States of America was defended by the USS Theodore Roosevelt, a Nimitz-class aircraft carrier.	6
+21	0	0	1	4	1	3	1	1	6	2	0	1	0	0	1	2	0	5.0	0	10	Joe Biden led the Democrats through impeachment against Nixon but could not reach agreement on his successor with Dick Tator. 	6
+12	0	0	1	1	0	1	0	0	6	2	0	0	0	1	1	2	0	3.0	1	4	Aung Sang Suu Kyi visited Myitkyina to promote democracy in Burma.	6
+17	0	0	2	3	0	3	1	2	4	1	0	0	1	0	1	0	0	3.0	0	8	During his time in the Royal Navy, David Camernor trained on the Lynx helicopter gunship.	6
+17	0	1	3	1	0	2	0	2	4	2	0	0	2	1	1	2	0	3.0	1	10	The Iranian government accused Israel, under Prime Minister Benjamin Netanyahu, of orchestrating the attacks.	6
+30	0	0	4	4	1	5	1	4	8	1	0	0	2	0	1	1	0	4.0	0	16	The presidential aspirant, Donald Trump, gave a stern warning to President Buhari, and his cabinet in Nigeria during the campaign rally at the Abuja Eagle Square.	6
+26	0	0	5	2	2	3	0	3	7	2	0	0	2	0	1	2	0	4.0	0	16	Mahmud Darwish learned the Arabic dialects of Egypt, Lebanon, Syria, Jordan, and Palestine and created a distinct voice for each region.	6
+13	0	0	1	2	0	1	1	1	5	2	0	0	0	1	2	0	0	4.0	1	4	Rahzel sang at a Bjork concert that Prince Charles attended in London.	6
+25	0	0	3	2	0	8	1	3	3	1	1	2	1	1	2	0	0	5.0	1	8	The 2012 Olympic bronze medal was won by Lugano native, Rico Fidel, who was a member of the team pursuit cycling event.	6
+28	0	0	3	4	0	6	1	4	4	1	2	1	2	0	2	1	1	4.0	1	13	Tibor Szabó, who was an Olympic champion in fencing in 1968, won a gold medal in the individual foil event at the 1972 Munich Olympics.	6
+10	0	0	0	1	0	1	0	2	4	0	0	1	1	0	1	0	0	2.0	0	5	Nikita Khrushchev was the leader of the Soviet Communist Party	6
+30	0	0	3	5	0	9	1	4	4	1	0	0	3	0	1	1	0	4.0	0	17	Rajinder, a Sikh engineer in the NASA space center, built a new spacesuit for his colleague Jatin in preparation for the mission trip to Mars next year.	6
+17	0	0	1	3	1	3	0	0	4	2	1	0	2	0	1	1	0	5.0	0	6	Allied pilots in Operation El Dorado Bravo intercepted and shot down at least six enemy MiGs.	6
+27	0	0	4	3	1	2	1	1	9	1	0	0	5	0	1	1	0	4.0	0	20	During his presidency, Rohatyn attended numerous functions with Nancy Pelosi, Bill Clinton, and former British Prime Minister Tony Blair at the White House.	6
+23	0	0	4	4	1	4	1	1	6	1	0	0	1	0	1	1	0	5.0	0	9	Mandela led South Africa from the Robben Island maximum security prison, past apartheid, and through its TRC, to freedom. 	6
+14	1	0	2	0	0	1	1	2	5	2	0	0	0	1	2	2	0	4.0	1	5	The Queen Elizabeth visited Prince William, who then sailed the HMS sailboat.	6
+55	0	0	6	7	2	3	2	3	25	3	0	3	1	2	6	2	0	6.0	2	37	Tamerlane ruled over Bactria, Sodjet Yakub Beg took command of the Kabul Emirate, Aḥmad Shāh Durrānī controlled the Durrani Empire, Amir Timur or Tamerlane himself was in Kandahar, Nadir Shah was Emperor of Persia, and Sultan Ahmed I was the Sultan of Ottoman Empire during their conquest of India.	6
+20	0	0	2	4	0	5	1	1	3	2	0	0	2	1	1	1	0	6.0	1	6	During his time in Congress, Joe Smith introduced legislation related to tax reform supported by the American people.	6
+26	0	1	3	2	1	3	0	2	9	2	0	1	2	2	2	1	0	4.0	2	16	Chief Joseph made many decisions for the Colville, Flathead, and Nez Perce while Chief Leschi was part of a tribal complex including Swinomish.	6
+32	0	0	3	4	0	4	1	1	13	2	1	0	3	0	1	1	1	5.0	1	16	At a recent press conference held in their office at 1000 Vermont Avenue, Washington D.C., Mayor Muriel Bowser discussed upcoming plans with New York City Mayor Bill de Blasio.	8
+36	0	0	3	5	1	5	2	3	12	2	0	0	3	0	2	2	0	4.0	0	20	Budapest had its golden jubilee celebration in the presence of His Majesty King Bholm-Al, and Ambassador John Hay launched a new book by Sir George Adamson at a prestigious event in London.	8
+22	0	0	2	2	1	3	1	1	7	3	0	0	2	1	1	2	0	4.0	1	8	In the following interview, President Ronald Reagan mentioned Margaret Thatcher and Yasser Arafat as key figures influencing his foreign policy.	8
+26	0	1	1	3	0	1	0	3	11	3	1	0	2	2	2	2	0	6.0	2	12	The New York Times published an investigation revealing that President Xi Jinping visited the Great Wall of China with Prime Minister Modi on February 20.	8
+26	0	0	2	5	0	4	1	2	10	1	0	0	1	0	1	1	0	4.0	0	13	Dr. Lori Lake discussed her groundbreaking study on cancer treatment with Dr. Sarah Johnson during a seminar at the University of California, San Francisco.	8
+15	0	0	1	4	0	2	1	1	5	1	0	0	0	0	1	0	0	3.0	0	9	Amy Klobuchar spoke to her audience in Carver County in the legislature of Minnesota.	8
+34	0	0	4	6	0	2	0	1	14	1	1	0	4	0	1	1	0	4.0	0	20	On December 20, Professor Biden discussed global climate with Emily Witt in President Harris's Oval House office in Washington, D.C., alongside Chief Scientist Christine Keeler from the European Union.	8
+32	2	0	3	4	0	3	1	3	8	2	1	2	1	1	2	0	0	5.0	1	13	The President's assistant was speaking with Mr. Khan's legal representative in their suite at the Ritz Hotel in Paris, where the G-8 Summit had just adjourned.	8
+28	0	0	5	6	0	1	0	2	11	1	1	0	1	0	1	0	0	4.0	0	11	"On September 21, at Harvard University in Cambridge, Professor Susan Greenberg lectured on the topic of ""Ada Lovelace as an Early Computer Programmer."""	8
+21	1	0	3	3	0	3	0	3	5	1	0	1	1	0	1	0	0	4.0	0	11	Alycia Lane, an anchor at the FOX network, was reporting live from the CNN center in downtown Atlanta.	8
+24	0	0	3	5	0	4	0	2	8	1	1	0	0	0	1	1	0	6.0	0	20	Professor Nguyen gave a lecture on the topic of quantum computing at Carnegie Mellon University in Pittsburgh, Pennsylvania, on December 12.	8
+19	0	0	1	2	1	2	0	1	9	1	0	0	0	0	1	1	0	4.0	0	4	The Los Angeles Times and Variety magazine featured Kevin Bacon's star on Hollywood's Walk of Fame.	8
+27	0	0	4	4	1	1	0	2	12	1	0	0	2	0	1	0	0	3.0	0	14	In the new Broadway musical, Shakira stars with Jennifer Lopez, Cardi B, and Harry Styles at the Gershwin Theatre in New York City.	8
+43	1	0	7	4	1	4	0	3	19	1	1	1	1	0	1	0	0	5.0	0	27	Jerry Buss, Phil Jackson, Robert Horry, Kobe Bryant, Shaquille O'Neal, Steve Nash, and the NBA champion Los Angeles Lakers were all involved in one of the great rivalries in basketball history against the San Antonio Spurs.	8
+22	1	1	2	3	1	3	0	2	6	2	0	0	1	1	1	1	0	3.0	1	8	In June, Rachel Notley and Justin Trudeau held a joint press conference in Toronto before traveling across the country together.	8
+30	0	0	2	4	0	4	0	4	10	2	1	0	2	1	1	2	0	5.0	1	13	On November 17, Governor Tim Walz held a news conference at the Minnesota State Capitol in Saint Paul to discuss the ongoing protests in the Red Lake area.	8
+26	0	0	3	6	0	5	1	1	7	2	0	0	1	1	1	0	0	6.0	1	6	Mary McDougall sat for her portrait in front of Leonids Lienarts art studio in Minsk, Belarus, surrounded by members of the Belarusian Hroundaysys.	8
+24	0	1	5	3	0	2	2	1	8	2	0	0	0	1	1	1	0	3.0	1	15	Lord Mountbatten sailed his catboat, the _Kalimah_ , around Les Saintes Archipelago in Guadeloupe while talking to his wife, Louise. 	8
+32	0	1	3	4	0	5	1	3	9	3	0	0	3	1	2	2	0	5.0	1	13	During the interview, Mayor James Davis emphasized the growing economic development in East Cleveland, while Governor John Taylor expressed his concern for the impending climate crisis in Western Pennsylvania.	8
+26	0	0	2	5	1	5	1	1	8	2	0	0	1	0	1	1	0	4.0	0	14	Dr. Jenna Davis conducted a presentation on Thursday at Harvard University in Cambridge, Massachusetts about global warming and its impact on rising sea levels.	8
+24	1	0	4	3	0	1	2	1	10	2	0	0	0	1	2	0	0	6.0	1	14	Tonya Harding traveled to Moscow, where she practiced with her coach, Gary Smith, at the Soviet Sport Palace Ice Rink.	8
+27	0	1	3	4	1	3	0	3	8	2	0	0	1	1	1	1	0	4.0	1	14	The Duke and Duchess of Sussex visited Kensington Palace, the Royal Family's London residence, for Christmas before embarking on a trip to Morocco.	8
+23	0	0	3	5	0	3	0	2	9	1	0	0	0	0	1	1	0	3.0	0	11	On Tuesday, Dr. Lee Smith delivered a lecture on quantum mechanics in the Packard Auditorium at Caltech in Pasadena, California.	8
+19	0	0	1	5	0	3	1	2	3	2	0	1	1	1	2	0	0	7.0	1	4	Ava was looking for the right neckline in the stack of blouses she had from Alice in Blundertown.	8
+28	0	0	3	3	1	3	0	0	11	3	1	0	1	2	1	2	0	5.0	2	9	On January 20, Kilauea Volcano's summit erupted in Hawaii Volcanoes National Park near Kamuela, causing lava flows to threaten Hilo Town and Pahala Village. 	8
+28	0	0	5	4	0	3	0	2	10	2	1	0	1	0	1	1	0	3.0	0	13	On April twenty-ninth, President Xi Jinping held a closed-door meeting with General John Kelly in the Oval Office in Washington, D.C.	8
+36	2	1	5	5	1	8	1	3	6	3	0	1	0	2	1	0	0	5.0	2	12	In Tokyo, Shibuya Crossing had become so crowded by commuters, shoppers, and street performers that there was a traffic jam on a Saturday evening, much to the annoyance of Taro Nakamura. 	8
+24	0	0	3	5	0	2	1	1	9	1	1	0	1	0	1	0	0	4.0	0	6	On February 15, Professor Davidson met with John Donovan for a tutorial in her Yale University office in New Haven, Connecticut.	8
+39	1	1	2	7	1	4	1	3	10	3	0	0	4	2	1	1	0	10.0	2	12	In this regard, it became necessary for Professor Morgridge to collaborate directly with colleagues such as Sarah Flynn and Lisa Petch to address concerns related to the curriculum in the Department of Mathematics at Imperial College London.	8
+17	0	0	1	4	0	0	0	2	5	2	0	1	1	1	1	0	0	5.0	1	4	The Queen of Denmark was scheduled to speak at the Conference on International Trade in Copenhagen.	8
+25	0	0	1	3	1	6	1	2	7	2	0	0	0	1	1	2	0	4.0	1	10	Rachel Whitaker and her co-conspirators organized a rally in the city of Cedar Rapids to support Senator Charles Schumer's proposal for gun control.	8
+22	0	0	2	2	1	1	0	2	6	3	0	2	3	2	1	0	0	5.0	2	7	African wild dogs can be found living throughout Tanzania, including in the Ngorongoro Conservation Area and the Serengeti National Park.	8
+27	0	1	1	4	0	5	0	3	9	4	0	0	0	1	1	2	1	4.0	2	10	After conducting research on these findings, Dr. Maria Sobeck conducted a case interview with Mark Wakefield regarding the proposed buyout of Avalon Technology by EOS International	8
+25	0	0	2	4	0	1	0	0	14	1	1	0	0	0	1	1	0	4.0	0	7	On June 25, Governor Jared Diamond greeted President Franklin Roosevelt on Roosevelt's visit to Denver's Buckley Air Force Base in Colorado.	8
+28	0	0	6	3	0	3	1	1	9	1	1	1	2	0	1	1	0	4.0	0	10	The 6-year-old daughter of Rear Admiral John Smith, Kailani, was celebrating her fifth birthday at Disney World in Orlando, Florida.	8
+24	0	0	3	4	1	1	0	2	11	1	0	0	1	0	1	0	0	3.0	0	18	Betty White starred in The Golden Girls alongside Bea Arthur, Rue McClanahan, and Estelle Getty in the Atlanta city of Georgia.	8
+25	0	0	4	2	0	4	1	1	8	1	0	0	3	0	1	1	0	3.0	0	8	"In Boston's Quincy Marketplace, local chef Lily Hua runs a bustling Thai food stand alongside her husband Suthisak ""Toby"" Tiasiluken."	8
+39	1	2	2	4	1	6	2	4	7	6	0	2	2	4	2	2	0	7.0	4	16	The White House issued a statement regarding Vice Presidential press secretary Christy Barnum at the Aspen Security Forum, stating that she would be temporarily replaced while recovering from surgery and expressing support for her during this time.	8
+32	0	0	3	5	0	2	0	4	14	2	1	0	1	1	1	1	0	5.0	1	10	On June 14, the San Pedro Tigers took on the South Pasadena Bulldogs in an intense football game held at the Ronald Reagan Football Stadium in Simi Valley, California.	8
+22	0	0	1	3	0	2	0	2	11	1	0	0	2	0	1	1	0	3.0	0	15	John Deasy discussed the new Common Core standards with Governor Mark Dayton at the Minnesota State Capitol building in St. Paul.	8
+26	1	0	4	2	1	1	1	2	11	2	0	0	1	1	2	2	0	5.0	1	10	Ms. Smith visited the Smithsonian Museum of Modern Art in Washington D.C., where she admired the Van Gogh, Monet, and Gauguin exhibits.	8
+22	0	0	2	3	1	2	0	1	11	1	0	0	1	0	1	1	0	3.0	0	7	On October 20th, President Xavier Bettel attended a summit in Brussels with Prime Minister Mark Rutte and Chancellor Angela Merkel.	8
+22	0	0	1	2	1	4	1	2	4	1	0	2	3	1	2	1	0	4.0	1	6	The new mayor of New York City was Andrew Cuomo, and he was eager to improve traffic congestion in the city	8
+23	0	0	3	3	0	4	2	0	9	1	1	0	0	0	1	1	0	4.0	0	9	On November 7, Emily Chen visited her college friend Sarah Lee at her campus apartment in Chapel Hill, North Carolina.	8
+29	0	0	4	6	1	4	2	0	9	1	0	0	2	0	1	1	0	4.0	0	12	In her University of California, Berkeley class, Professor Kim-Lien Le taught essentials on Vietnamese culture to her sophisticated students from across China and Korea. 	8
+21	3	1	2	1	0	2	1	2	2	3	1	1	2	1	2	1	1	3.0	2	11	After conducting further research, Professor Patterson finally determined which among the eight competing theories was indeed the most accurate.	8
+24	0	0	3	4	0	4	2	1	6	2	0	0	1	1	1	1	0	4.0	1	13	Rachel Brown met with Sarah Lewis in her office in Washington, D.C., to discuss a new marketing strategy for their company.	8
+17	0	0	1	2	0	1	1	1	5	1	0	1	3	1	1	1	0	5.0	1	5	Jenny was excited to start her new job at Yale University in the prestigious Law School.	8
+31	0	0	2	4	0	1	0	4	18	1	0	0	1	0	1	1	0	4.0	0	22	The White House Press Secretary Jen Psaki gave a statement to the CNN Anchor Brianna Keilar in the James S. Brady Press Briefing Room in Washington, D.C. on Wednesday.	8
+21	0	0	2	3	1	2	1	1	7	2	0	0	2	1	1	1	0	3.0	1	13	Ashley and Betsy explored Acadia National Park in Maine during their trip, following a scenic route past Bar Harbor.	8
+23	1	0	2	3	0	6	0	2	4	2	1	1	1	1	2	1	0	5.0	1	10	Nikkei  Asian  Index futures rose 2.5 points today at the Chicago Board of Trade, where trades of the contracts were made. 10-YEAR JAPANESE GOVERNMENT Bond prices fell point today, but that failed to dampen demand by yield-hungry traders in Tokyo.	11
+26	2	0	2	3	0	3	2	1	7	4	1	0	0	2	2	1	0	6.0	2	9	The Reverend Billy Graham passed away on 67, said his wife Ruth in Charlotte, NC on Wednesday where thousands came to pay their respect	11
+26	0	0	1	3	1	2	0	2	10	3	0	0	3	1	1	2	0	4.0	1	8	The President of Mexico Enrique Peña Nieto visited the White House on January 6th to meet with President Donald Trump and discuss ongoing bilateral initiatives. 	11
+20	0	0	1	2	1	2	0	0	9	3	0	0	1	1	1	2	0	5.0	1	6	President Juan Manuel Santos visited El Salvador on Tuesday and met with President Funes to discuss regional security issues.	11
+25	2	0	3	5	1	1	0	1	9	1	0	1	1	0	1	0	0	4.0	0	13	Princess Madeleine of Sweden, together with Mr. William Wales, will soon embark on an extended visit to Kenya and Tanzania in Africa.	11
+30	0	0	3	3	1	4	0	3	7	4	0	1	3	2	2	2	0	7.0	2	10	The President of the World Bank, Jim Yong Kim, said Jane will use the loan to develop innovative solutions for affordable and sustainable electricity in developing countries.	11
+29	0	1	1	4	0	5	0	3	7	3	1	1	2	2	2	1	0	7.0	2	8	The United Nations Development Program Administrator Pakiza Khan stated that the funding shortfall could result in the failure to eradicate poverty in nations such as Burundi by 2030.	11
+33	0	0	3	1	2	7	0	1	9	3	0	0	4	2	1	2	0	6.0	2	10	Queen Rania Al-Abdullah joined First Lady Michelle Obama at the U.S. Department to discuss joint initiatives regarding early childhood development, girls' and women's empowerment and social welfare.	11
+36	0	0	1	5	1	7	1	1	11	4	0	1	2	3	2	2	0	7.0	3	11	Dr. Nirav R. Tolia of the Stanford University Department of Neurosurgery said Dr. Aden Johnston is to use his newfound attention to bring light to brain injuries and conditions faced by athletes across various sports.	11
+34	1	0	4	5	0	4	0	3	11	3	0	1	1	2	1	2	0	6.0	2	8	Secretary of State John F. Kerry (D) has announced a plan to relocate Yemeni civilians from Haritha to the U.S. territory at Diego Garcia, currently occupied by the U.S. military.	11
+56	2	2	6	7	0	9	0	5	16	5	1	0	1	3	3	2	0	8.0	3	19	Ngozi Fulani, president of Save the Children's U.S chapter, addressed the audience on how poverty affects the future of young people in developing countries, as Yara Shahidi, founder of YS Impact, listened intently during the 2018 PowerRbrg Women's Empowerment Luncheon held at the New York Hall of Fame.	11
+31	0	1	3	3	0	2	1	3	12	2	1	1	2	1	2	0	0	3.0	1	13	Chairman of the National Space Society Dr. Richard G. Goss (Houston) said that the spacecraft will travel to the International Space Station during its 2025 Maiden Flight mission.	11
+40	1	0	9	3	2	3	2	3	10	3	0	1	3	1	2	1	0	6.0	1	9	Sir John Soane, the prominent British architect, designed and built his home, Holker Hall, which is now the property of The National Trust and situated in Grange-over-Sands, Cumbria, England.	11
+30	0	0	5	4	0	4	2	3	9	1	0	0	2	0	1	1	0	4.0	0	13	Dr. Kinga Nicholson, the executive producer of the Sundance Film Festival, expressed her gratitude to Michael Staskauskas for his involvement in the film 'Naked City'.	11
+25	0	0	0	4	0	1	0	4	10	1	0	0	4	0	1	1	0	4.0	0	16	The Reverend Doctor Myron Thompson leads the Congregation for the fourth of July service at the historic St. John's Episcopal Church in downtown Denver	11
+25	2	0	3	1	1	1	2	2	9	2	0	1	1	1	2	2	0	4.0	1	10	The Nobel Prize laureates include Dr. Jane Long from the Harvard Medical School, and John Smith, who has won it twice previously.	11
+26	0	0	1	5	0	7	0	3	6	2	0	0	2	1	1	1	0	6.0	1	8	The CEO of XYZ corporation announced a new strategic partnership during a press conference held at ABC University with attendance by DEF Foundation Board member.	11
+40	0	1	2	6	1	9	1	2	6	3	0	1	7	2	2	1	0	7.0	2	21	Human rights lawyer Emmanuel Obetz of the Uganda Human Rights Commission argued that legislation was necessary to protect the rights of lesbian, gay and transgender people amidst growing publicity around hate crimes against them in Kampala last month.	11
+32	0	0	2	2	1	5	0	2	8	4	0	1	6	3	1	3	0	8.0	3	13	The European Central Bank President Mario Draghi has announced plans to address economic challenges facing Greece and other southern European nations during a press conference held Wednesday in Frankfurt, Germany.	11
+57	1	0	8	8	1	9	0	4	19	1	3	0	3	0	1	0	0	6.0	0	22	The Reverend Doctor Martin Luther King Jr, Nobel Prize winner and leader of the Southern Christian Leadership Conference (SCLC), spoke to a crowd of over 50,000 people in support of the Memphis sanitation workers strike on Friday evening, March 29, 1968 at Cox BBQ Bowl in downtown Memphis, Tennessee.	11
+28	0	0	1	4	2	7	0	1	2	4	0	0	5	1	1	2	0	5.0	1	8	Melanesian Christian leaders gathered in Port Moresby to discuss plans for interfaith initiatives and to promote religious freedom and social justice for marginalized groups across the region.	11
+29	0	0	4	5	0	4	0	3	9	1	0	0	2	0	1	0	0	5.0	0	14	Sheikh Ahmed Al-Taysouj became chairman on Monday of the Saudi Arabian Mining Company (MA'ADEN) during a ceremony at the company's headquarters in Riyadh.	11
+37	0	0	1	7	1	7	0	5	10	1	0	1	3	1	2	0	0	6.0	1	17	Senator Elizabeth Warren from Massachusetts said President Trump's nomination of Brett Kantor as the new Chair of the FEC is an attack on voting rights and an affront to the very foundation of American democracy.	11
+28	0	0	3	4	1	3	1	3	10	1	0	1	1	0	1	1	0	3.0	0	11	The Pope Francis, in an official visit to Peru, will canonize Saint Peter Tomás Rodríguez and San Carlos López during his time in the country.	11
+40	0	1	7	5	0	7	1	2	12	2	0	2	1	0	2	0	0	4.0	0	13	Lead singer of the Grammy Award-winning band Train, Patrick Droney, announced that the next concert of their U.S. tour will be in Tucker Stadium in Columbus, Ohio, on Saturday night, September 24th.	11
+31	0	1	3	1	0	5	0	2	10	4	0	0	3	3	2	3	0	8.0	3	10	Executive Director, San Antonio's AIDS Association Jack Thompson, emphasized the critical role LGBT communities play in promoting healthy practices to combat the pandemic in Sub- Saharan Africa.	11
+28	0	0	5	4	0	3	0	1	8	3	1	1	1	2	1	2	0	4.0	2	14	"President Nana Akufo-Addo of Ghana has launched the ""Fight Against galamsey"" operations in five regions in Ghana, aiming to eradicate illegal mining."	11
+27	0	1	3	3	0	3	1	1	6	3	1	2	2	2	2	2	0	4.0	2	10	The new president of Costa Rica, Carlos Alvarado, has been working to advance social causes in Costa Rica since he took office in 2018.	11
+24	0	0	2	2	0	1	1	1	13	3	0	0	0	2	2	1	0	4.0	2	11	Hazmatack Church in Greenville, Pastor Mike Mullis said he wanted to honor Rev. John R. Mullins, Jr with an Easter Sunday service	11
+27	0	0	3	4	0	1	1	2	10	2	2	1	1	1	2	1	0	4.0	1	11	The Reverend Billy Graham led a rally at Giants Stadium in New Jersey on September 12, 1985, which was attended by President Ronald Reagan.	11
+28	0	0	1	3	1	3	0	2	12	2	0	1	1	1	1	1	0	4.0	1	13	China's President Xi Jinping will visit Russia this week to meet with President Vladimir Putin and Premier Li Keqiang at the annual spring summit in Moscow.	11
+34	2	0	7	4	0	4	0	1	10	2	0	0	4	0	1	0	0	4.0	0	14	"British-Indian actor Naveen Andrews starred as Jared Kitmain in the Showtime series ""Europol"", alongside German actor Udo Kier as well as Russian-born actor, Igor Chudesov."	11
+34	0	0	4	6	0	3	0	4	12	2	0	0	3	1	1	1	0	6.0	1	12	The Honorable Senator Chuck Grassley led a delegation of United States officials on a visit to Kabul, Afghanistan, accompanied by Dr. Zaher Wahpoor, Ambassador from Afghanistan to the United States.	11
+41	0	0	1	4	3	11	1	2	7	5	0	0	5	4	2	2	0	9.0	4	11	Executive director of the Chicago chapter of Women in Filesharing Robert Sherman said Sarah Lewis wishes to use her newfound fame and attention to highlight issues of racial justice and artistic activism including police brutality and the criminal justice system.	11
+53	0	0	8	9	0	4	0	7	17	1	2	0	4	0	1	1	0	6.0	0	24	Dr. Lisa Feldmana, President of the Society of Clinical Psychologists, announced the selection of David Lewis, a prominent psychologist, as the recipient of this year's Sandor Riley Award during the 65th Annual Convention of the Society in San Francisco, California, on March 20, 2019.	11
+37	0	0	4	5	1	8	1	1	11	2	0	1	2	1	2	0	0	6.0	1	18	Dr. Sandeep Jain, cardiologist at St. Luke's Mid-America Heart Institute in Kansas City, Missouri, said his research will focus on the relationship between sleep apnea and heart disease in Middle Eastern populations.	11
+20	0	0	0	4	0	3	0	3	5	2	0	1	2	1	2	1	0	4.0	1	9	Nancy Pelosi said the House of Representatives must address the immoral treatment of undocumented migrants on a border of Texas	11
+37	0	1	4	4	0	4	0	4	13	2	2	1	2	1	1	2	0	7.0	1	6	The 45th President Donald Trump has tasked Vice President Mike Pence with leading a delegation to the 75th anniversary commemoration of the D-Day invasion in Cherbourg, France on Tuesday, June 6, 2019	11
+53	0	0	9	3	0	0	1	1	36	0	0	0	3	0	0	0	0	4.0	0	41	His Holiness Ahmed el-Tayeb Grand Imam of Al-Azhar, Sheikh Ahmed Abdul-Qadir el-Mursi el-Taftazan, Egypts Minister of Culture Helen Achintowundit, Sultan Qaboos University, Sheikh Khalifa bin Zayed Al Nahyan, President of the United Arab Emirates Sultan bin Khalifa Al Nahyan	11
+27	0	0	2	7	1	2	1	1	9	1	2	0	1	0	1	0	0	4.0	0	20	President Xi Jinping met with leaders from Myanmar and Indonesia at the Presidential Office in Beijing during their visit to China on January 28, 2018.	11
+24	1	0	2	2	0	4	1	2	7	2	0	0	3	1	2	2	0	6.0	1	5	Attorney General Loretta Lynch visited Phoenix, where she announced a federal inquiry into possible civil rights violations by the Phoenix Police Department.	11
+43	0	0	5	5	1	7	1	4	8	3	0	3	5	2	2	2	0	8.0	2	11	Jeff Bezos, founder of Amazon, has announced plans to establish a new office in the heart of Washington D.C., which will be overseen by Mary Barra, a seasoned business executive and the first female CEO of General Motors.	11
+53	1	1	4	4	1	11	3	3	8	6	0	1	7	5	2	5	0	11.0	5	10	President Barack Obama, the Nobel Peace Prize winner, addressed the Global Fund for Women as keynote speaker, emphasizing women's fundamental rights as human beings and the vital need for grassroots organizational efforts to defend them while praising grassroots women leaders who are working tirelessly to advance their rights.	11
+36	0	0	2	6	1	12	0	3	5	4	0	2	1	2	2	0	0	7.0	2	5	Jewelers board of directors chairperson Lisa Jennault said retail sales had been robust during the year, led by increased consumer demand in the Asia Pacific regions and at company owned stores as a whole.	11
+24	0	0	2	3	0	1	0	3	8	1	2	1	3	0	2	0	0	2.0	0	11	The African National Congress (ANC) President Jacob Zuma was acquitted in the Nkandla matter by the Constitutional Court on 16 December 2016	11
+28	0	1	3	3	0	7	1	5	3	2	0	0	3	1	1	2	0	4.0	1	11	The Dalai Lama, a Nobel laureate, expressed gratitude to the Tibetan people for selecting him as the next spiritual leader during the smoke- offerings ceremony.	11
+30	1	0	4	2	1	7	1	1	7	2	0	1	2	1	2	2	0	5.0	1	10	Trevor Paglen, Orlan, and Cindy Sherman join forces as guest artists for next year's Venice Biennial, an event that has already attracted significant media attention.	11
+27	0	0	3	3	0	4	0	4	6	2	0	2	1	1	1	1	0	6.0	1	10	The new Chairman of the FBI, Christopher Raymond, has been assigned to investigate the cyber attack on the City of Baltimore's computer system.	11
+25	0	0	3	3	0	5	0	0	7	5	0	0	2	4	1	2	0	7.0	4	12	Alicia Patterson Foundation supports investigative journalism, awarded grants for work done by Investigative Journal, including project conducted by reporter John F. Schwartz. 	11
+33	0	1	3	3	0	5	1	3	7	4	3	0	1	3	2	2	0	7.0	3	14	Nikkei 225 index reached record heights on February 15, driven by a 15% hike in the Nikkei Communications Corp stock after it agreed to buy US rival, The Gloobe.	11

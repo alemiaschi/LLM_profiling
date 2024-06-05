@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+4	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	2.0	0	2	Sell more apples.	0
+11	0	0	1	1	0	4	0	4	0	1	0	0	0	0	1	1	0	2.0	0	7	The train reaches the station each hour on the hour.	0
+8	0	0	1	1	0	2	2	0	0	1	0	1	0	0	1	1	0	2.0	0	4	He must pay his rent on time.	0
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	The bell rang sharply at 8:00 AM.	0
+5	0	0	1	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	2	I want her apples.	0
+9	1	0	1	1	0	3	0	0	0	1	0	0	2	0	1	0	0	2.0	0	5	Red apples roll smoothly on polished marble surfaces.	0
+6	0	0	1	1	0	2	0	0	0	1	1	0	0	0	0	0	0	2.0	0	2	Six sided dice for sale.	0
+5	0	0	1	1	0	1	0	0	1	1	0	0	0	0	0	1	0	2.0	0	3	Declare war on Iran.	0
+10	0	0	1	2	0	3	0	1	0	1	2	0	0	0	0	1	0	2.0	0	8	Bake the cake at 350 degrees for 30 minutes.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The red car collides with the blue car.	0
+7	0	0	1	0	0	2	2	0	0	1	0	1	0	0	1	1	0	2.0	0	3	I will review your report tomorrow.	0
+13	0	1	1	1	0	3	1	2	0	2	1	1	0	1	1	2	0	4.0	1	4	You must complete the task by generating a sentence with 0 auxiliaries.	0
+9	0	0	1	1	0	1	2	1	0	1	1	0	0	0	1	2	0	2.0	0	6	He owes me $50 for the repairs.	0
+7	0	0	1	1	0	2	1	0	0	1	0	1	0	0	1	1	0	2.0	0	3	I'll take over management duties.	0
+7	0	0	1	1	0	0	2	0	0	2	0	0	0	1	1	1	0	2.0	1	3	I want you to shut down.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	The teacher expects quiet behavior in the classroom.	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The baby is crying.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Bob eats apples.	0
+7	1	0	1	1	0	3	0	0	0	1	0	0	0	0	0	1	0	2.0	0	5	Pay rent to apartment owner monthly.	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Close the door firmly behind you.	0
+11	0	0	1	0	0	3	1	2	0	2	0	0	1	1	1	2	0	3.0	1	5	A man runs a small business to support his family.	0
+6	0	0	1	1	0	1	1	0	0	2	0	0	0	0	1	0	0	2.0	0	3	They spoke in whispered voices.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	0	1	0	2.0	0	5	Bake a cake for an hour.	0
+9	0	0	1	1	0	3	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	 The sun will rise at 6:30 AM tomorrow.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barked fiercely.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barks loudly.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	I will water the garden in the morning.	0
+5	0	0	2	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	2	" ""John is tall."	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets in the west.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept under the table.	0
+8	0	0	1	0	0	4	0	1	0	1	0	0	1	0	1	1	0	2.0	0	3	This car model gets excellent fuel efficiency.	0
+8	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	I cannot come to the phone.	0
+10	0	0	2	1	0	2	0	0	0	2	1	0	1	1	1	0	0	3.0	1	2	Four-legged animal needs to hunt for food.	0
+12	0	0	1	1	1	4	0	1	0	2	0	1	0	1	1	1	0	4.0	1	5	All students are required to bring pencils and paper to class.	0
+6	0	0	1	1	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The bank will close down.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat lies in the sun.	0
+6	0	0	1	1	0	2	0	0	0	1	1	0	0	0	0	1	0	2.0	0	4	Spend ten dollars on flowers.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	3	Solve the problem completely.	0
+6	0	0	1	0	1	2	0	1	0	1	0	0	0	0	0	1	0	3.0	0	2	Close the doors and windows.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	2.0	0	3	Sell this car quickly.	0
+7	0	0	1	1	0	2	1	0	0	1	0	0	1	0	1	1	0	3.0	0	2	I require immediate termination of operations.	0
+6	0	0	1	1	0	1	1	0	1	1	0	0	0	0	0	1	0	2.0	0	4	Pay her salary before Friday.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	1	0	2.0	0	2	Declare your independence.	0
+10	0	0	1	1	0	1	1	1	0	2	1	0	0	1	1	1	0	3.0	1	4	You need to send a check for $5,000.	0
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	0	2.0	0	4	Four scores were tied after the first quarter.	0
+8	0	0	1	1	0	1	1	1	1	1	0	1	0	0	1	1	0	2.0	0	4	You must pay this debt by Friday.	0
+19	0	0	2	1	1	4	2	2	0	2	0	2	2	0	2	2	0	3.0	0	9	Your request is missing a clear instruction, and I cannot generate a sentence without additional context.	0
+8	0	0	2	0	0	2	0	0	0	2	0	0	2	0	0	2	0	3.0	0	4	Abandon old practices, adopt new ways.	0
+10	1	1	1	0	0	0	2	0	0	1	0	3	1	1	2	0	0	2.0	1	4	She'd be more efficient if she could multitask.	1
+7	0	0	1	0	0	3	0	1	0	1	0	1	0	0	1	1	0	2.0	0	3	Will rain interrupt the ceremony tomorrow?  Will a large number of employees leave due to layoffs in the coming months? Can the mayor effectively manage a large city with the given budget? Did the player's performance justify the high salary they received? Is there any possibility that the company will survive this quarter? Is it necessary for me to make a decision on this issue today? Will a smaller car be more convenient for the long commute? Can I trust this source of information completely? Should I invest in a mutual fund that focuses on clean energy? Can we assume that this is true despite any contrary evidence? Does the product need a new marketing campaign to increase sales? Will the market price of gold decrease in the near future? Can you please repeat that last statement? Should the government introduce a new education law in light of recent data? Will a change in company policy lead to significant profits? Can we predict how the.	1
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	The teacher corrected my incorrect answers in the test.	1
+13	0	0	1	1	0	2	3	1	0	3	0	1	0	2	1	2	0	5.0	2	3	Would you mind giving them a call to ask about their availability?.	1
+13	2	1	1	1	0	1	2	1	0	2	0	1	1	1	1	2	0	3.0	1	7	Could you make the report available electronically instead of printing it out?.	1
+14	0	1	2	0	0	2	3	1	0	3	0	1	0	1	2	2	1	3.0	2	6	If he wins the election, he will have to adjust his lifestyle.	1
+11	0	0	1	0	0	2	1	1	0	2	1	1	1	1	1	2	0	3.0	1	5	Could I have one more hour to finish this project?.	1
+12	2	0	2	1	0	2	1	1	0	2	0	1	0	1	1	1	0	3.0	1	7	You should consider ordering dessert as well, besides the entree.	1
+15	0	1	1	1	0	4	2	2	0	2	0	1	1	1	2	1	0	4.0	1	5	Can I ask if you have any recent market research data on the industry?.	1
+9	1	0	1	0	0	3	0	1	0	1	0	0	2	0	1	1	0	2.0	0	3	A newborn baby sometimes requires special medical attention.	1
+10	0	0	1	1	1	3	1	1	0	1	0	1	0	0	1	1	0	3.0	0	6	Would you prefer coffee or tea after the meeting?.	1
+16	2	1	1	1	0	3	1	2	0	2	0	1	1	1	1	2	0	3.0	1	6	Couldn't they just issue an official statement instead of leaving people in the dark?.	1
+11	0	0	1	1	0	2	1	2	0	1	1	1	0	0	1	1	0	3.0	0	4	Could you please explain the difference between these two technologies?.	1
+10	2	0	2	1	0	0	2	0	0	1	0	1	0	0	1	0	0	2.0	0	5	Could we maybe talk about that later, please?.	1
+14	0	0	1	1	0	2	2	2	0	3	0	1	1	2	1	2	0	4.0	2	6	You might consider selling some of your books to make some extra money.	1
+17	1	0	2	2	1	3	2	2	0	2	0	2	0	0	2	0	0	3.0	0	7	The ball could have gone over the fence, but it landed just within our territory.	1
+8	0	0	2	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	Can I borrow a pen, please?.	1
+18	0	0	1	2	0	4	2	2	0	3	0	2	1	2	2	1	0	5.0	2	5	Do you think the company will manage to meet its deadline despite the lack of necessary resources?.	1
+13	0	1	2	0	0	1	2	1	0	2	0	3	0	0	2	1	1	2.0	1	6	If she had known, she shouldn't have signed the contract.	1
+11	0	0	1	2	0	2	1	2	0	2	0	1	0	1	1	1	0	4.0	1	3	Have they finished setting up the firewall for the server?.	1
+10	0	0	2	1	0	2	1	1	0	1	0	1	0	0	1	1	0	3.0	0	6	Could I have another slice of pizza, please?.	1
+12	1	0	1	0	0	2	1	1	0	3	0	1	0	2	1	1	0	4.0	2	4	She will have to work late tonight to finish the report.	1
+13	1	0	1	2	0	4	1	1	0	1	0	1	1	0	1	1	0	4.0	0	4	You'd better make room for more chairs in the waiting area.	1
+16	1	0	1	2	0	3	2	2	0	2	0	1	2	1	1	1	0	5.0	1	4	You'll find a more comprehensive report in the email attached to my last message.	1
+9	1	0	1	1	0	1	2	0	0	0	0	2	1	0	1	0	0	2.0	0	4	Could she be more obvious about her feelings?.	1
+12	1	0	1	1	1	2	1	2	0	2	0	1	0	0	2	0	0	3.0	0	3	The ball was almost caught but it bounced over the fence.	1
+13	2	0	2	0	0	1	3	1	0	3	0	1	0	1	1	3	0	3.0	1	7	You've never heard her play the piano before, have you?  Done! Let me know if you need anything else.	1
+20	1	1	1	2	0	5	2	2	0	2	1	2	0	1	2	2	0	3.0	1	13	You can't have two scoops of ice cream at this restaurant if you're only ordering a sundae.	1
+14	0	0	1	1	0	3	3	1	0	2	0	3	0	1	2	1	0	3.0	1	6	I could have sworn I'd put my car keys in that pocket.	1
+16	0	0	2	1	0	4	1	3	0	3	1	1	0	2	2	2	0	4.0	2	7	The students will complete the exam in two hours, provided they follow the rules.	1
+11	1	1	1	0	0	1	2	1	0	2	0	2	0	1	2	1	0	2.0	1	6	Can he play the game if it's snowing outside?.	1
+16	0	1	2	1	0	3	2	3	0	2	0	1	1	0	2	2	1	3.0	1	7	If he wants a larger house, they can borrow some money from the bank.	1
+16	1	1	1	2	0	2	2	1	0	2	1	2	1	1	2	0	0	5.0	1	8	"Would you believe that I've eaten at this Italian place more than 50 times? ```css // This is a Java code comment /**  * This method generates sentences using the given instruction  */ public static void taskResponseGenerator() {    String instruction = ""This is a solved example of the task."	1
+10	1	0	1	1	0	2	0	2	0	1	0	2	0	0	1	0	0	2.0	0	4	The cat may be hiding somewhere in the house.	1
+12	1	1	1	1	0	2	1	2	0	2	0	1	0	1	2	0	0	2.0	1	6	Can the cat fit through the door before it closes again?.	1
+10	1	0	1	1	0	2	2	0	0	1	0	1	0	0	1	1	0	2.0	0	4	She doesn't always finish her homework on time.	1
+11	1	0	1	1	0	3	1	2	0	1	0	1	0	0	1	1	0	2.0	0	6	Could they possibly increase the security in the parking lot?.	1
+13	1	0	1	1	0	5	1	2	0	1	0	1	0	0	1	1	0	3.0	0	9	Can I use a paperclip instead of the SIM card ejector pin?  This is correct.	1
+10	3	0	1	0	0	2	1	0	0	2	0	1	0	1	1	1	0	3.0	1	4	You can always try calling tech support again later.	1
+10	1	0	1	0	0	1	1	1	1	1	0	1	1	0	1	1	0	2.0	0	5	You haven't seen the latest Blockbuster movie yet?.	1
+8	0	0	1	0	0	3	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	Does the company outsource its customer service?.	1
+16	0	1	1	1	0	4	2	2	0	2	0	3	0	1	2	2	0	3.0	1	6	You could've avoided that collision if you had paid attention to the crossing signal.	1
+21	0	1	2	0	0	3	4	2	0	3	1	4	1	2	3	1	0	4.0	2	8	I should have known you'd prefer the Italian place, since you've eaten their four times this month.	1
+7	0	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	2.0	0	3	Should I use a bigger hammer?  Note that there are many sentences with one auxiliary, so these are by no means the only ones possible.	1
+10	0	0	1	1	0	2	2	1	0	1	0	1	1	0	1	2	0	3.0	0	3	Could you provide me the documents in hard copy?.	1
+15	2	1	1	1	0	3	1	1	0	1	0	2	2	1	2	1	0	3.0	1	10	You can still enjoy a hot cup of tea even if milk is unavailable.	1
+21	0	2	1	0	0	4	3	2	0	5	0	2	0	4	3	3	0	7.0	4	5	They'll need to provide proof that the company can pay its debts if they want to secure a loan.	1
+11	0	0	2	1	0	2	2	1	0	1	0	1	0	0	1	2	0	3.0	0	7	Could I order you another glass of wine, ma'am?.	1
+8	0	0	1	0	0	1	0	1	0	1	0	3	1	0	1	0	0	2.0	0	6	Could the missing documents have been misplaced?.	1
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	3.0	0	2	"Can you bring a bottle of champagne?   (An auxiliary ""can"" is used to ask for permission or expression doubt/uncertainty)."	1
+32	1	1	1	4	1	5	2	1	0	5	0	4	5	3	1	1	0	6.0	3	15	I have been advised to bring along a thick coat due to likely chilly weather and also been informed that there will be available opportunities to try out various adventure sports.	2
+19	2	0	1	1	1	3	3	2	0	3	0	2	0	1	3	2	0	3.0	1	13	You may use the bathroom whenever you need to during this flight and we're serving lunch afterwards.	2
+9	0	0	6	0	1	0	0	0	0	1	0	1	0	0	0	0	0	2.0	0	4	" ""could"" and ""had"")."	2
+32	2	3	2	1	1	3	5	2	0	4	0	5	3	4	5	2	0	4.0	4	15	The baby might need to be dressed warmer as it is very cold outside, or we could offer her a bottle before she goes to bed if she is hungry.	2
+20	0	1	1	3	1	5	1	3	0	3	0	1	1	1	1	1	0	4.0	1	8	Can I open the window for some fresh air and turn off the alarm clock before going to bed?.	2
+12	1	0	1	1	0	1	2	1	0	1	0	2	1	1	1	1	0	4.0	1	5	They might be able to arrange a meeting for us afterwards.	2
+11	1	0	1	1	0	2	1	1	0	1	0	1	2	0	1	1	0	2.0	0	6	You had better wear warm clothes in these cold regions.	2
+23	3	1	2	1	0	5	2	2	0	4	0	1	1	1	2	3	2	4.0	3	9	Assuming the situation permits such actions, we could offer training to our employees on how to handle these incidents more effectively.	2
+14	1	0	1	0	0	3	2	1	0	3	0	1	1	2	1	2	0	4.0	2	5	Have you ever considered learning a second language to expand your career opportunities?.	2
+19	1	0	1	3	1	4	2	3	0	1	0	2	0	0	2	0	0	3.0	0	15	They might ask for an extension of the deadline but it is up to the manager's discretion.	2
+17	2	1	1	1	2	4	0	1	0	2	1	1	1	1	1	2	0	4.0	1	7	One could potentially study English literature both before and after completing a degree in computer science.	2
+13	2	0	1	0	1	2	2	1	0	3	0	0	0	1	1	3	0	4.0	1	4	The teacher corrected our mistakes and explained how to do it properly.	2
+12	2	0	1	0	0	3	2	0	0	1	1	1	1	0	1	1	0	3.0	0	7	Could we possibly begin our meeting fifteen minutes earlier next time? Should you have any concerns or objections, please let me know as soon as possible.	2
+13	0	0	2	0	0	1	3	0	0	2	0	2	1	1	1	1	0	3.0	1	7	You would prefer to bring your own lunch, wouldn't you? Note: The use of modal verbs 'would' and 'prefer' in this sentence serves as an example of utilizing two auxiliaries in a single sentence.	2
+16	0	1	1	0	1	1	4	1	0	2	0	3	1	1	3	2	0	3.0	1	7	You might be able to change that setting but I prefer it as it is.	2
+17	0	1	1	1	1	5	1	3	0	3	0	1	0	1	2	1	0	3.0	1	9	The students can read and study for the exam while their teacher prepares the grading process.	2
+22	0	2	1	1	0	5	3	1	0	3	0	3	2	3	3	2	0	5.0	3	7	I've heard that my boss is willing to approve your proposal if the team can present more details by tomorrow.	2
+21	1	1	2	2	0	3	2	2	0	4	0	1	1	1	2	1	2	4.0	3	12	If I need to make an important call during the lesson, I will have to ask for permission first.	2
+20	1	1	1	0	1	2	4	2	0	2	0	3	1	1	2	4	0	4.0	1	10	Can you pass me the salt please and would you be so kind as to pour myself some water?.	2
+18	0	1	1	2	0	4	2	1	0	3	1	3	0	1	2	1	1	4.0	2	9	One of the options you may explore would be working alongside your partner in handling household finances.	2
+18	0	2	1	0	1	4	2	2	0	4	0	1	1	2	2	1	0	3.0	2	12	You can choose and change your car model if needed while the financing plan remains the same.	2
+18	1	0	1	2	0	3	1	3	0	3	0	3	1	2	1	1	0	4.0	2	13	We will continue discussing this matter further with the stakeholders before a final position can be determined.	2
+16	2	0	1	1	1	4	1	2	0	2	0	1	1	1	1	2	0	3.0	1	6	Could they potentially adjust those rates or terms when discussing new proposals in the future?.	2
+8	0	0	5	0	1	0	0	0	0	0	0	2	0	0	0	0	0	2.0	0	4	" ""could"" and ""would""."	2
+9	0	0	1	0	1	0	3	0	0	2	0	2	0	0	2	1	0	2.0	0	5	You could invite her and they might accept.	2
+13	0	0	1	1	1	2	0	2	0	2	0	2	2	0	1	0	0	3.0	0	5	Could the missing document be found and provided to the concerned parties?  The given sentence is correct.	2
+17	0	1	1	1	1	2	1	0	1	3	0	1	3	3	1	2	0	5.0	3	5	I'm able to start work on Monday and willing to work late hours as needed.	2
+13	0	1	1	1	0	3	1	3	0	2	0	1	0	1	1	2	0	4.0	1	5	Can I have some help in lifting this box onto the shelf?.	2
+21	0	1	2	3	0	2	5	2	0	2	0	2	1	0	2	2	2	4.0	2	10	If you are unable to find it in the shelves, I can fetch it from the stockroom for you.	2
+17	0	2	2	1	0	2	3	2	0	3	0	1	1	2	2	2	0	3.0	2	9	Would you mind if I added some extra details to the presentation, before delivering it?.	2
+16	1	0	1	1	1	3	1	2	0	2	0	1	2	0	1	2	0	3.0	0	9	Could you please provide a more detailed analysis of the situation and recommend potential solutions?.	2
+22	0	2	2	1	1	3	3	1	0	7	0	1	1	4	1	4	1	6.0	5	6	If I might suggest, let's consider drafting a letter of agreement and have legal team review it before signing.	2
+14	1	1	1	1	1	2	0	2	0	3	0	2	0	1	1	0	0	3.0	1	5	The students will have studied and practiced long before appearing at the examination.	2
+18	0	2	1	1	0	3	2	2	0	3	0	3	1	2	2	0	0	4.0	2	7	I'd prefer if there could be prior consultation before any decisions were made about that matter.	2
+17	0	1	2	0	1	3	3	0	0	4	0	1	1	0	2	2	2	4.0	2	8	If he manages to sell enough stocks, he could buy and renovate his dream house.	2
+20	0	0	2	3	1	3	3	1	1	2	0	3	1	0	2	1	0	3.0	0	10	Will you be finished with your reports by Friday, or can we reschedule the meeting for next week? [Answer: You can reschedule the meeting for next week if the reports are not finished by Friday.	2
+17	2	0	2	1	1	3	2	2	0	2	0	2	0	0	2	2	0	3.0	0	10	Could I make suggestion for the decorations, or perhaps you might prefer another design altogether?  This post was generated using a Jasper AI language model and is neither an official nor endorsed by Meta Platforms, Inc.	2
+18	3	1	1	0	1	0	3	0	0	4	0	3	0	2	3	0	0	4.0	2	7	Could you please confirm whether they've arrived yet and how long we'll have to wait?.	2
+18	1	0	2	0	1	3	4	1	0	3	0	3	0	1	2	3	0	4.0	1	8	 She might have forgotten her phone, but we can easily contact her using the office phone.	2
+21	3	1	1	1	1	2	3	1	0	3	0	3	1	2	2	2	0	4.0	2	8	You might be able to finish it by the deadline if you could work more efficiently and allocate time properly.	2
+22	0	0	1	2	1	3	4	0	0	2	0	4	2	2	1	2	0	3.0	2	13	You might be able not to finish your homework by today but tomorrow it will be necessary to hand it in.	2
+21	1	0	2	4	1	5	1	2	0	2	0	2	1	0	2	0	0	5.0	0	14	We could be waiting for the call from authorities, yet the deadline for submission of reports approaches ever closer.	2
+13	1	0	1	0	0	2	1	1	0	3	0	3	0	2	1	1	0	3.0	2	4	Could he have been speaking the truth when promising to return tomorrow?  Answer: Could he have been speaking the truth when promising to return tomorrow?  Note: The response is the same as the instruction to maintain consistency and follow the pattern of generating a single sentence response for each instruction.	2
+18	2	1	1	1	0	2	2	1	0	3	0	2	1	2	2	1	0	4.0	2	8	You would need to bring more chairs if we are all to sit comfortably at the table.	2
+14	1	0	1	0	1	3	2	1	0	2	0	1	2	1	2	1	0	3.0	1	6	Could the new employee bring both their certificates when they start next week?.	2
+16	1	0	1	0	1	1	4	1	0	3	0	3	0	1	2	3	0	3.0	1	9	Can they send us the proposal earlier and we will be prepared to review it?   (I hope you find the correct output.	2
+46	3	3	5	2	1	8	2	5	0	7	1	5	1	4	3	2	0	9.0	4	11	 might not subside, had better gather - the sentence suggests that there's a possibility that the storm won't go away before nightfall and that it would be a wise decision to gather essentials, hence using two auxiliaries in the sentence).	2
+19	2	2	1	0	0	2	4	1	0	4	0	1	2	3	1	4	0	5.0	3	7	You could try offering it a new toy instead of insisting on giving it its old one back.	2
+15	2	0	1	0	1	2	1	1	0	4	0	2	0	2	2	1	0	3.0	2	8	The storm seems to be passing now and they're considering starting construction again.	2
+23	1	2	2	0	0	3	2	2	0	5	0	2	1	3	2	3	0	4.0	3	13	You might encounter some obstacles while trying to achieve that goal, could you please provide further instructions on how to proceed?.	2
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  * This recipe calls for adding a few spices, sifting the flour twice, and cooking at low temperature for around an hour.	4
+24	3	0	4	3	1	3	2	1	0	5	0	1	1	2	2	1	1	4.0	3	11	The rain, having begun gently and gradually picked up, now falls in heavy torrents, soaking everything it touches within minutes.	4
+24	2	1	3	0	1	0	6	0	0	3	0	4	1	2	3	2	0	3.0	2	11	She will surely call us if she needs anything, yet we must be careful not to interfere unnecessarily, won't we?   Or, The product might have some initial issues that customers need to know about, but providing full disclosure doesn't necessarily mean that sales will decrease.	4
+22	1	1	4	0	1	2	4	1	0	5	0	1	2	1	1	4	0	4.0	1	12	We might consider reducing its usage, disconnecting it, cleaning it thoroughly, and seeking a professional repair if possible.	4
+28	0	1	4	0	1	5	3	3	0	4	0	4	1	2	4	2	0	4.0	2	18	The team decided to abandon the plan, as we couldn't ensure its stability, its impact would be limited, and the risks were considerable.	4
+21	2	0	2	2	1	4	2	1	0	3	0	1	3	1	1	1	0	5.0	1	7	He can only survive in a highly controlled environment, needing daily medication and close monitoring of his vital signs.	4
+25	0	2	3	1	0	3	4	2	0	4	1	3	1	2	2	2	1	5.0	3	6	If I were to guess, it seems that she'll be attending all four annual conferences, given her commitment to the field.	4
+21	1	1	3	2	0	3	3	2	0	3	0	0	2	2	2	1	0	5.0	2	10	They had to admit, despite their initial reservations, that he truly possessed an exceptional talent for the role.	4
+22	2	1	2	1	1	2	2	2	0	6	0	2	1	4	2	1	0	5.0	4	10	We should avoid touching the electrical wires while cooking, and always ensure they are unplugged when cleaning around the sink.	4
+37	1	1	5	2	1	7	4	3	0	7	0	2	2	3	1	5	0	4.0	3	22	In case of an emergency, you should call your doctor, seek immediate medical attention, avoid consuming any medication without first consulting your physician, and do not try to diagnose the issue yourself.	4
+34	2	0	3	4	1	8	2	2	0	8	0	2	0	5	1	4	0	6.0	5	18	The children had been playing outside for hours without sunscreen, eating lunch in the sweltering heat but refusing to rest, leaving their mothers constantly reminding them to drink plenty of water.	4
+36	1	2	5	2	1	8	5	3	0	6	0	2	1	2	2	5	0	5.0	2	14	They would recommend against using that spray inside your home, as it could potentially irritate the respiratory system, cause skin rashes, damage your furniture, and pose a risk to your pets.	4
+34	0	5	4	1	1	8	3	4	0	6	0	1	1	4	5	3	0	5.0	4	14	He can run the project if the team accepts his leadership style, if the investors provide enough funding, if the technology works as planned, and if he stays within budget.	4
+22	1	0	6	1	1	6	0	1	0	1	0	0	5	0	1	1	0	3.0	0	10	The recipe for successful investing, therefore, requires extensive research, meticulous planning, rigorous testing, and timely execution.	4
+23	0	0	3	2	1	6	1	2	0	3	0	2	3	1	2	3	0	6.0	1	7	We have tested several hypotheses, yet none have produced conclusive results, indicating the complex nature of the problem at hand.	4
+25	1	1	2	4	1	4	3	3	0	2	1	2	0	0	2	1	0	5.0	0	10	We generally don't advise against selling, but under no circumstances should you sell this product to anyone under the age of 18.	4
+23	1	0	3	1	1	3	3	1	0	6	0	1	1	4	2	3	0	6.0	4	7	We had planned to leave earlier, but traffic kept delaying us, making it impossible to reach the summit before sunset.	4
+35	4	1	4	1	2	2	5	2	0	4	0	5	2	2	4	2	0	4.0	2	23	She might could write a book someday, but she hasn't started yet, and even if she did, she probably wouldn't be able to finish it without some outside help.	4
+28	0	0	5	1	1	6	1	1	0	7	0	1	3	2	2	4	1	4.0	3	16	To achieve better outcomes, they had proposed to alter several factors, increase funding, adjust training programs, and change strategic focuses to some extent.	4
+35	3	0	4	1	2	6	4	3	0	5	0	4	2	1	3	4	1	4.0	2	11	 The way we've approached this project for the past year seems to have been inefficient, and so maybe we should reassess our strategy, revamp our plan, and reallocate resources accordingly.	4
+16	1	1	1	0	0	3	3	0	0	3	0	1	1	3	2	1	0	4.0	3	7	They need to improve their grammar skills substantially if they aspire to be professional writers.	4
+26	0	0	4	1	1	7	4	1	0	3	0	2	2	1	3	2	0	5.0	1	9	 You won't believe the new proposal we've received – it grants us tax breaks, import waivers, and access to vital technology.	4
+27	2	1	3	1	1	3	5	1	0	5	0	3	1	2	3	2	0	5.0	2	13	She might have gone swimming, though she had forgotten her swimsuit, so instead she decided to sit by the pool and watch everyone else.	4
+22	1	1	2	1	0	4	1	2	0	3	0	4	2	2	1	2	0	5.0	2	6	You might be advised to have taken more measures, despite having paid a rather significant sum for the security system.	4
+21	2	1	3	1	1	2	2	1	0	5	1	1	0	2	2	1	1	3.0	3	9	Four cups, when held by each hand, will require us to balance and maneuver carefully as we walk.	4
+23	0	0	2	1	1	4	4	0	0	4	0	2	2	2	2	2	0	4.0	2	15	They are asking for our help to paint their house next weekend, but we might not have enough people to commit.	4
+19	0	0	3	1	1	3	2	1	0	4	0	1	2	2	2	2	0	4.0	2	10	They had hoped to launch it on time, yet technical difficulties arose, hindering the initial rollout.	4
+24	1	0	12	1	0	0	2	0	0	2	0	5	1	0	2	0	1	2.0	1	18	" ""It's essential"", ""is"", ""have"", ""been"" This can also be written as: It is essential that the data is properly cleaned, sorted, and formatted before importing it into the software."	4
+18	1	0	11	0	1	0	0	0	0	2	0	1	0	0	0	0	0	3.0	0	10	" ""need to,"" ""have to,"" ""should,"" and ""especially."	4
+30	6	2	3	1	1	4	2	2	0	4	0	3	1	2	2	1	0	4.0	2	12	Might as well make do with the old device, though its battery won't hold a charge as long as before, and its apps may crash intermittently.	4
+22	1	0	4	0	1	4	2	2	0	3	0	1	2	1	1	3	1	4.0	2	8	To accomplish the task efficiently, you'd need assistance, adequate time, and the necessary resources to complete it.	4
+29	0	1	4	0	1	5	2	5	0	7	0	0	2	3	2	5	0	6.0	3	13	We need to reconsider the design, retest the materials, reformulate the mixture, and reassess the entire plan if we expect to produce an optimal result.	4
+31	0	1	5	3	1	7	4	0	0	5	0	1	3	1	2	3	1	4.0	2	14	If he loses focus during his presentation, he's likely to forget his notes, hesitate over key points, stutter on phrases, and make eye contact difficult.	4
+13	0	0	1	2	0	3	0	1	0	1	0	0	4	0	1	0	0	4.0	0	5	The company's financial situation appears uncertain due to numerous unforeseen expenses.	4
+24	1	0	2	4	1	3	3	0	0	4	2	1	1	2	2	1	0	5.0	2	10	She's planning to travel to five countries, but unfortunately she needs to cancel her visit to three due to unforeseen circumstances.	4
+20	2	0	2	1	0	4	3	2	0	3	1	1	0	1	2	2	0	3.0	1	11	We need to check his email account more frequently, we should set a reminder for every two hours.	4
+36	3	1	2	1	2	7	2	4	0	8	0	1	2	3	1	5	1	8.0	4	9	To ensure the maximum effect of the advertising campaign, let's collaborate on designing posters that will not only look attractive but also catch the audience's attention and convey the intended message clearly.	4
+35	0	1	4	3	1	5	2	5	0	5	0	2	2	2	1	3	0	6.0	2	14	He admitted to not knowing all the details, not being familiar with the technology, not having experimented with the prototype, and not having any specific data to base his analysis on.	4
+26	0	1	4	1	1	7	3	0	0	5	0	1	2	1	1	4	1	4.0	2	10	In order to reduce our dependency on imported oil, our engineers are developing new technologies, increasing our research, and exploring various alternatives.	4
+31	0	0	2	2	1	9	1	4	0	4	0	4	1	2	3	2	1	4.0	3	10	Should the project run over deadline, the marketing team would not be able to meet the customer demand and the investors would begin to lose faith in our abilities.	4
+29	4	1	3	3	1	3	4	1	0	6	0	1	1	2	1	4	0	5.0	2	11	You'll need to wash the vegetables thoroughly before cooking them, as well as chop them into bite-sized pieces and then blend them until smooth.	4
+44	5	0	10	1	1	5	6	2	0	6	0	2	4	1	4	5	1	5.0	2	30	To accomplish our goal, however, first, we need approval from the relevant authorities; second, we must raise sufficient capital; third, we need to recruit the right people; and fourth, we must execute everything flawlessly.	4
+30	4	2	3	1	0	3	5	2	0	5	1	2	1	3	3	3	0	4.0	3	19	She often can't remember whether she locked the front door, even after checking it three times, so now she has started carrying a key with her.	4
+33	2	1	5	0	1	7	0	3	0	8	0	2	3	2	1	4	1	5.0	3	8	When planning a trip abroad, remember to check the latest travel warnings, ensure that all necessary visas have been obtained, get recommended vaccinations, and purchase appropriate travel insurance.	4
+35	3	1	3	3	1	5	3	2	0	5	0	5	4	2	4	1	0	4.0	2	17	Can we postpone discussing that matter until next week because the other project might be approved, we might run short of resources, and we're all swamped with other work right now?.	4
+25	1	0	5	1	1	4	1	2	0	6	0	1	2	1	1	4	0	4.0	1	15	A child might make multiple attempts to put together a complex puzzle, seeking assistance, doubting themselves, reassessing, and trying again.	4
+44	1	4	4	1	1	3	8	2	0	10	0	5	2	6	4	5	0	6.0	6	14	She had promised him that she would wait, would try not to fall sleep until he returned, would not eat a single morsel until she saw him with her own eyes, and would make no plans without consulting him first.	4
+27	0	0	3	2	1	5	0	4	0	4	1	2	2	1	1	3	0	5.0	1	12	The teacher didn't expect the unexpected question, hadn't prepared an answer, and had insufficient time to search for one in the textbook.	4
+23	2	0	3	1	2	5	1	1	0	1	0	1	5	0	1	1	0	5.0	0	7	They would need not only a bigger budget but also more manpower, more technology, and faster communication for effective results.	4
+22	3	0	2	1	2	3	1	2	0	5	0	0	3	2	1	3	0	6.0	2	9	The chef suggests boiling the potatoes longer and adding more salt, stirring frequently and serving them warm instead of cold.	4
+27	2	1	2	3	1	4	2	1	1	2	0	5	3	1	3	0	0	5.0	1	8	The report was widely circulated amongst MPs, yet it might be unnecessary as similar issues have repeatedly been discussed in Parliament prior to its submission.	6
+25	1	2	3	1	1	2	3	3	0	3	0	3	2	0	4	1	1	3.0	1	8	If she were to tell the truth, the entire situation would change considerably, but no one knew for sure whether she would.	6
+22	1	0	3	0	1	7	3	1	0	4	0	2	0	2	3	2	0	5.0	2	8	The company is considering extending its production hours, but workers fear this could negatively impact their work-life balance.	6
+57	0	0	6	4	0	12	6	4	0	8	0	10	3	5	6	4	0	5.0	5	45	She has been advised to take medication, he ought to have informed the insurance company, they might be considering legal action, her lawyer was reluctant to engage in the negotiations, he will be meeting with his attorney tomorrow, the board of directors has decided to postpone the meeting until further notice.	6
+16	3	0	2	0	0	2	1	1	0	3	0	2	0	1	2	0	0	3.0	1	7	The sun may not rise as early tomorrow, it is supposed to rain heavily.	6
+25	1	1	3	0	1	5	2	2	0	4	0	3	1	3	3	2	0	4.0	3	17	The company had yet to finalize its contracts, and if they were cancelled, the employees might be unable to obtain insurance coverage.	6
+15	1	1	2	0	0	1	2	1	0	2	0	3	1	0	2	1	1	2.0	1	6	If he had not left early, he might have witnessed an unexpected event.	6
+23	1	2	2	1	0	5	2	2	0	3	0	3	0	1	2	2	1	5.0	2	13	If they had known the extent of the storm's damage, they wouldn't be debating about sending relief supplies now.	6
+15	0	0	2	2	0	3	1	3	0	2	0	1	1	0	1	1	0	2.0	0	11	Should I bring an umbrella to this meeting, despite the forecasted good weather?   	6
+20	1	2	3	0	0	2	2	2	0	4	0	3	0	2	2	2	1	4.0	3	7	If it is raining, we might need to postpone the picnic, despite already having prepared the sandwiches.	6
+23	0	2	2	1	0	1	5	1	0	3	0	4	2	1	3	1	2	3.0	3	12	If I had known that it was a difficult recipe, I might not have attempted to make it on my own.	6
+20	2	2	2	0	0	3	0	3	0	3	0	3	1	2	3	0	0	4.0	2	9	The committee recommended that the new policy should be implemented, even if the stakeholders were not fully consulted.	6
+30	2	3	3	0	2	4	3	2	0	5	0	2	2	3	4	2	0	5.0	3	23	The document lacks sufficient detail for me to determine whether or not the proposed solution is feasible, but if implemented, it would potentially streamline our processes significantly.	6
+20	2	0	2	0	2	2	1	2	1	4	0	3	0	1	2	1	0	4.0	1	12	They had promised to meet here every Wednesday, but recently rain had been intervening and delaying the appointment.	6
+22	2	1	2	0	0	3	2	2	0	4	0	2	1	2	1	2	2	4.0	4	8	If the project's schedule keeps changing, perhaps it would be more effective to assign another team to manage it.	6
+23	0	2	2	2	0	4	2	3	0	2	0	4	2	1	2	1	1	4.0	2	8	If you're uncertain about the details, it would be helpful if the committee would provide clarification on the proposed amendment.	6
+27	3	1	2	1	1	3	3	2	0	5	0	3	2	3	2	3	0	5.0	3	11	They should have informed us earlier, as we had requested to make new reservations for the upcoming weekend and now find the hotel fully booked.	6
+24	1	0	3	5	0	5	2	1	1	4	0	1	1	3	2	2	0	5.0	3	8	Despite her exhaustion, Sarah kept knocking on doors, eventually finding the person she was looking for after hours of relentless pursuit.	6
+16	1	1	2	0	0	2	2	1	0	2	0	4	0	1	2	1	0	3.0	1	8	She might have gone shopping, if it hadn't been raining continuously all day.	6
+31	0	2	4	1	1	5	1	4	0	6	0	5	2	4	5	0	0	5.0	4	14	The committee will recommend, should we be approached, that a joint project be undertaken, assuming all parties agree to the conditions and that sufficient resources are provided.	6
+25	0	1	2	1	1	3	6	1	0	4	0	3	2	3	4	2	0	5.0	3	7	He could not have believed she was serious, yet she insisted that he help her move the heavy furniture despite his back pain.	6
+22	3	1	2	1	0	3	2	0	1	1	0	3	2	1	3	1	1	5.0	2	9	If you aren't familiar with quantum physics, you probably can't understand why Bell's theorem is so groundbreaking.	6
+7	0	0	3	0	1	0	0	0	0	1	0	2	0	0	0	0	0	2.0	0	5	 have, might, and shall.	6
+22	2	2	2	1	0	3	3	2	0	3	0	3	1	2	2	2	0	3.0	2	14	She'd better check her emails carefully before leaving for the vacation, as she might have forgotten some important details.	6
+20	2	0	2	1	1	2	3	3	0	5	0	0	0	2	3	1	0	3.0	2	13	The dog barks loudly whenever we pass by the abandoned church, but no one seems to notice it.	6
+20	3	0	1	1	1	3	2	2	0	4	0	2	0	2	3	1	0	4.0	2	13	He hadn't finished explaining the situation when the lights suddenly went out and we were plunged into darkness.	6
+18	3	0	1	1	1	2	2	2	0	3	0	2	0	1	1	2	0	5.0	1	5	Could she have eaten more slowly and thereby allowed herself to savor the taste of each morsel?   Could they have consulted more experts and considered a wider range of options before making their decision?  Would they have saved money by doing the maintenance themselves instead of hiring a professional?  Should he have spoken more clearly and expressed his thoughts in a more concise manner?  Did we need to prepare more materials and rehearse more thoroughly for the presentation?  Have you thought about applying for the job and seeing if your skills and experience make you a good fit?.	6
+37	0	2	3	3	1	8	4	4	0	4	0	6	1	2	4	0	1	6.0	3	13	If he were to be honest, the manager admitted that there had been some discrepancies in their accounting system, and those issues were being addressed in cooperation with the auditing firm they had hired.	6
+16	1	1	1	0	0	3	3	0	0	3	0	2	1	2	2	2	0	4.0	2	7	I'd better start preparing dinner if my family is to have something edible tonight.	6
+17	0	1	2	1	0	2	3	1	0	4	0	1	1	1	2	1	1	3.0	2	7	If it rains, we may need to postpone our outdoor picnic until the following day.	6
+36	4	3	3	1	1	2	5	1	1	3	0	5	4	4	3	2	0	5.0	4	13	Could you be kind enough to translate this text into English, and would it be possible for you to do so as soon as possible, since my boss is eager to read it?.	6
+22	0	1	3	0	1	3	2	1	0	6	0	3	0	3	2	1	0	4.0	3	9	The team leader's proposal will need to be discussed, approved, and finalized before we can begin implementing it.	6
+34	1	0	7	1	1	6	0	2	0	5	0	7	4	0	1	3	1	4.0	1	17	The committee, consisting of various senior figures, might have suggested different approaches, would have faced opposition, could have compromised, and finally, have passed an amendment last week.	6
+23	1	1	3	0	0	2	5	1	0	6	0	2	2	4	4	2	0	5.0	4	14	You'll find our new product quite intriguing, assuming it functions as described, we believe it could revolutionize the market.	6
+24	1	1	2	1	0	5	2	3	0	3	0	2	1	0	2	2	2	5.0	2	14	If they weren't planning to announce the acquisition at the shareholders' meeting, why did they issue a premature press release?.	6
+20	0	0	2	1	1	4	2	3	0	3	0	2	1	1	2	3	0	3.0	1	10	The children had been promised a trip to the zoo, but heavy rain forced us to cancel it.	6
+30	2	0	3	2	2	5	4	1	0	5	0	3	1	2	3	3	0	4.0	2	18	She should have left earlier to avoid traffic delays, but unexpected work held her up, and now she is racing against the clock to make her flight.	6
+28	4	2	3	1	1	5	0	4	0	4	0	2	2	2	4	0	0	4.0	2	13	The meeting started late, and the agenda may change once again if more members arrive later, though the chairperson is hoping for a smooth proceedings.	6
+23	0	1	2	2	0	5	1	2	0	3	0	4	2	1	2	1	1	4.0	2	7	If the bill were passed, the company would have been forced to pay significant fines for their non-compliance with environmental regulations.	6
+18	0	2	1	1	0	4	1	3	0	4	0	2	0	3	3	0	0	6.0	3	8	The committee considered recommending that the director be suspended while an investigation into his conduct was conducted.	6
+26	1	0	2	2	1	6	1	4	0	4	0	1	3	2	3	2	0	5.0	2	15	The committee had decided to delay the vote until further notice, but in the meantime additional information became available that changed the circumstances entirely.	6
+32	2	0	5	2	2	7	1	2	0	3	0	2	5	1	4	1	0	4.0	1	25	You'll often hear that practice makes perfect, but without sufficient effort, consistent application, and the right tools, even years of repetition may not yield noticeable improvement.	6
+16	1	0	2	0	2	2	2	1	0	3	0	3	0	0	2	1	0	4.0	0	5	She would have been promoted, but the company downsized and eliminated her position instead.	6
+17	3	2	2	0	0	1	4	1	0	3	0	1	0	1	3	2	1	3.0	2	5	Although she initially denied it, eventually she admitted that she had accidentally spilled the coffee.	6
+21	4	0	1	1	1	2	3	1	0	4	0	2	0	2	2	1	0	4.0	2	6	He hadn't even started his speech when he suddenly began to choke and was rushed away from the podium.	6
+28	2	1	2	4	0	5	2	4	1	4	0	1	1	2	3	1	1	4.0	3	13	Although he initially refused, the boss eventually agreed to sponsor the team for an industry conference in Vegas due to the potential benefits it could bring.	6
+74	8	1	7	5	5	9	10	7	0	10	0	8	2	6	7	5	0	7.0	6	69	She would have seen it earlier, but for the fact that she had left her phone at home, and it had been stuck in a dead zone where there was little to no signal, and even when she did eventually get a message, she was in a hurry and forgot to read it, but when she finally had a moment to check, the deadline had already passed.	6
+22	1	0	3	2	1	3	3	1	1	3	0	3	0	1	3	0	0	3.0	1	14	She would have needed to go to the store yesterday, but it being Saturday, she stayed at home instead.	6
+15	1	1	2	1	0	1	2	1	0	2	0	3	1	0	2	0	1	2.0	1	6	If she had studied earlier, she might have scored higher on the exam.	6
+18	1	0	6	0	0	0	0	0	0	2	0	8	0	0	0	0	0	5.0	0	10	 might have, is known to be, have been, has been, was, rather.	6

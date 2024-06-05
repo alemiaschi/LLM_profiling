@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+13	0	0	1	1	0	4	1	2	0	1	0	1	1	1	0	1	0	4.0	1	3	It's a relief to find a reliable partner in town hall.	0
+20	1	0	2	2	2	5	1	1	0	2	0	1	3	1	1	2	0	4.0	1	7	Humans have long had a perplexing relationship to cats, treating them like both beloved pets and mysterious entities.	0
+23	0	1	2	2	1	5	1	4	0	3	0	0	3	2	2	1	0	7.0	2	6	The cat pounced on the mouse as it scurried across the kitchen floor, ready to make a quick and satisfying meal.	0
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The dog wagged its tail with excitement.	0
+29	1	0	2	2	1	5	5	5	0	5	0	1	0	3	3	5	0	5.0	3	15	The manager gave me an assignment that I had no idea how to complete, but he expected it to be finished by the end of the week.	0
+11	0	0	1	1	0	4	0	3	0	1	0	0	1	0	1	1	0	2.0	0	7	The manager made an unexpected proposal at the team meeting.	0
+18	1	0	1	1	0	4	1	2	1	4	0	1	1	2	2	2	0	5.0	2	5	Electronic Arts may finally have the hit game it needs to drive growth in the coming months.	0
+7	2	0	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	2.0	1	3	The cat purred contentedly when petted.	0
+27	0	0	1	4	1	8	0	5	1	3	0	1	2	1	1	2	0	4.0	1	10	The CEO of the local restaurant has started a GoFundMe page to support the struggling employees and the struggling owners due to lack of food supplies. 	0
+18	1	1	3	1	0	5	0	2	0	1	0	2	1	0	1	1	0	3.0	0	9	The most intelligent solution, in this case, would be to approach investors about raising capital.	0
+16	1	1	1	1	0	5	0	4	0	2	0	0	1	1	2	1	0	3.0	1	6	The storm clouds darkened the sky as the sun set slowly in the western horizon.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped off the table.	0
+52	2	3	1	6	3	11	3	8	0	7	0	2	5	5	3	5	0	10.0	5	14	They will provide free WiFi so that the guests can have an additional way of enjoy their vacation on the beach by simply logging in to a secured and stable connection that has the potential to improve the stay and experience of the guest in a more enjoyable and memorable way. 	0
+12	0	0	2	2	0	3	1	2	0	1	0	0	1	0	1	1	0	3.0	0	6	Without the need for further consideration, I submit this proposal.	0
+16	0	2	2	0	0	2	2	1	0	3	0	2	1	1	2	1	1	3.0	2	6	As the popular proverb warns, do not count your chickens before they are hatched.	0
+25	2	0	1	4	0	8	2	0	1	2	0	1	3	0	1	1	1	5.0	1	10	Just like what happened in Enron's initial VPP program they are find more interest in oil drilling projects rather than natural gas projects.	0
+23	0	0	1	2	0	9	1	1	0	4	0	0	3	3	2	3	0	6.0	3	9	The new CEO wants to focus resources on projects that have better growth potential like renewable energy systems to offset carbon emissions.	0
+34	1	1	1	4	1	7	1	4	2	6	0	0	3	4	2	2	0	8.0	4	10	The most critical challenge for the sustainability of agricultural growth in South Africa lies in maintaining the soil's ability to supply plants with the essential nutrient it needs to develop and prosper.	0
+20	0	0	2	2	1	4	1	4	0	3	0	1	2	2	2	1	0	5.0	2	8	The rain fell on the garden like a deluge, creating a lush atmosphere that was inviting and peaceful.	0
+18	1	2	0	1	0	3	1	2	1	3	0	3	1	2	2	1	0	3.0	2	12	John is thinking of taking the dog for a longer walk today than he has been doing lately	0
+17	3	1	0	1	0	2	2	1	0	3	0	1	2	2	1	2	0	5.0	2	5	I will make sure to always wear my best clothes before visiting the bank from now on	0
+27	0	1	2	3	0	4	1	1	4	4	0	2	3	3	1	1	0	7.0	3	7	Houston might not be getting ready to sell its building, despite a foreclosure hearing set for early March as announced in Houston Chronicle last week. 	0
+21	2	1	3	2	1	2	3	2	0	2	0	2	1	1	3	0	0	3.0	1	13	The investors were initially excited about this product, but as it was launched, they quickly soured on it.	0
+41	1	3	2	6	0	11	0	3	0	3	0	3	7	2	2	2	2	7.0	4	13	In order for the new policy to be effective in reducing accidents, a more robust public education campaign will be necessary to raise awareness among drivers in rural areas of the dangers of driving at night without proper illumination.	0
+16	1	0	0	2	0	6	0	3	0	1	0	1	2	0	1	1	0	3.0	0	9	The new product line is already generating a significant amount of interest within the target market	0
+13	0	0	1	2	0	4	0	1	0	1	0	2	1	1	1	1	0	3.0	1	6	Banks have been hesitant to lend money to startups since the crisis.	0
+15	0	1	2	2	0	3	1	1	0	2	1	0	2	1	1	1	0	2.0	1	11	She took one last longing look in the general direction, before setting off. 	0
+15	0	0	1	2	0	3	1	0	0	3	0	2	2	1	1	1	0	4.0	1	5	They have been forced by competing interests to make unwelcome changes in longstanding programs.	0
+19	0	0	0	2	1	5	3	2	0	3	0	1	1	2	2	1	0	6.0	2	6	Our investors have begun to take a keen interest in the oil and gas project we present to them	0
+10	1	0	1	1	0	2	2	0	0	1	0	1	1	0	1	1	0	2.0	0	6	They are moving forward full speed into their plans.	0
+25	2	0	1	4	0	8	2	0	1	2	0	1	3	0	1	1	1	5.0	1	10	Just like what happened in Enron's initial VPP program they are find more interest in oil drilling projects rather than natural gas projects.	0
+14	0	0	1	2	0	5	0	3	1	1	0	0	1	0	1	1	0	4.0	0	5	The team found new evidence for the existence of the Higgins boson particle.	0
+16	0	1	1	2	0	5	0	3	0	2	0	0	1	1	1	1	0	5.0	1	4	The CEO's eyes lighted up at the prospect of expanding the solar panel division.	0
+9	0	0	1	1	0	4	0	1	0	0	0	1	1	0	1	0	0	2.0	0	4	Hydrogen is the best element for power generation.	0
+26	3	0	3	1	0	6	3	3	0	3	0	2	1	2	2	3	0	5.0	2	10	Therefore, I shall now consume this chocolate bar with great velocity, just to spite all the haters who have criticized my slimming regime.	0
+24	1	1	1	1	0	6	1	3	0	4	0	2	3	2	2	1	0	6.0	2	7	The newest member of the marketing team has been working diligently to make sure that our social media promotions reach the intended audience.	0
+26	2	0	2	4	0	8	2	0	1	2	0	1	3	0	1	1	1	5.0	1	11	Just like what happened in Enron's initial VPP program, they are find more interest in oil drilling projects rather than natural gas projects.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly in my lap.	0
+16	0	0	1	3	0	6	0	3	0	1	0	0	0	0	1	0	0	4.0	0	5	The decision maker's face lit up at the news of the investor's offer.	0
+12	0	0	1	3	0	2	2	2	0	1	0	0	1	0	1	0	0	2.0	0	9	It seemed like an insignificant detail to me at the time.	0
+18	0	0	0	1	0	4	1	2	0	3	0	1	3	2	1	2	0	6.0	2	4	Humans have not learned to cultivate the ability to recognize the potential harmful nature of our unconscious mindsets	0
+23	1	3	1	2	0	6	1	2	0	4	0	1	2	2	2	2	0	6.0	2	8	The sales manager suggested that we should focus more on developing software for the banking industry rather than expanding into new markets.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cats purr contentedly on my lap.	0
+21	2	1	1	2	1	6	0	4	0	2	0	1	1	1	1	1	0	4.0	1	7	The CEO was widely praised by all employees and shareholders for making the best decisions ever for the investment company.	0
+21	0	0	1	4	0	7	1	3	1	1	0	1	0	0	1	1	0	4.0	0	12	Threats to its supply chain from a competitor’s sabotage will not faze DeltaTech in the face of these advancements.	0
+25	0	1	0	3	0	7	2	5	0	4	0	0	1	3	2	3	0	6.0	3	12	The manager instructed me to make sure to check the expiration dates on all of the computer parts before they left the warehouse for delivery	0
+19	1	1	2	2	0	3	0	3	0	4	0	2	0	1	2	1	2	3.0	3	8	The cat will have to be put down, the veterinarian said empathetically while wiping away a tear.	0
+15	0	0	1	1	0	4	1	1	1	3	0	1	0	2	1	1	0	5.0	2	6	Maria is going to get her hair did for the weekend's wedding celebrations.	0
+16	0	0	1	1	0	5	1	3	0	2	0	1	1	1	1	2	0	3.0	1	6	The new policy will require all employees to wear their identification badges at all times.	0
+18	2	0	1	1	0	3	3	1	0	2	0	2	2	2	2	1	0	4.0	2	6	They are more likely to use your product when you are seen as a trusted authority figure.	0
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cat slept for 1 hour.	1
+19	1	1	1	1	1	3	1	2	1	3	1	0	1	1	2	1	0	4.0	1	7	I have a dream that one day #BlackMenCan too walk into a restaurant and not feel uncomfortable.	1
+13	1	0	1	1	0	3	1	1	0	2	1	2	0	1	2	1	0	5.0	1	8	The band has three albums, none of which have been popularly received	1
+24	0	0	2	2	1	4	0	2	4	2	1	3	1	0	1	2	0	5.0	0	9	Melissa is taking a course on Shakespearean literature and will be writing a 5-page paper on Love's Labour's Lost.	1
+11	0	0	0	2	0	4	0	1	0	1	2	0	1	0	1	1	0	3.0	0	8	The concert featured five hours of music by three different band	1
+25	0	0	1	4	0	9	1	3	0	1	1	1	4	0	1	1	0	3.0	0	11	The newest product launch from our company has generated enormous buzz among the gaming community with a current waiting list of 5000 eager players.	1
+16	0	0	1	1	0	4	0	3	0	2	2	1	1	0	1	1	0	3.0	0	11	The artist will unveil one new piece#575847386 every quarter in the coming years.	1
+11	0	0	1	1	0	2	1	1	1	1	1	1	0	0	1	0	0	2.0	0	5	My sisters are coming this year from Germany #4.	1
+14	0	0	1	1	0	3	3	1	0	2	1	1	0	1	2	1	0	3.0	1	7	I can't believe she bought a 78inch TV with her tax refund.	1
+12	0	0	1	2	0	2	3	1	0	1	0	1	1	0	1	1	0	2.0	0	8	I will make a cake for you on your special day.	1
+24	0	1	1	5	1	5	2	4	0	2	1	1	0	1	2	0	0	4.0	1	6	A friend of a friend of mine got into the school with an interview and essay that they had help with #007894763.	1
+16	0	0	1	2	1	3	0	2	0	2	2	2	0	0	2	0	0	3.0	0	7	The concert was slated for 8 pm and tickets were priced at $100 each.	1
+21	0	1	2	3	0	6	2	1	1	2	1	0	1	0	1	2	1	4.0	1	11	During my second year of studying computer engineering at #1619University , I took a course on algorithm development.	1
+14	0	0	1	1	0	3	0	2	0	2	1	0	2	1	1	2	0	5.0	1	4	The new policy required each branch to hire at least employee #017423582.	1
+12	0	0	1	2	0	3	1	1	0	2	1	0	1	1	1	1	0	3.0	1	4	Two cups of espresso had me buzzing for the entire day.	1
+16	0	0	1	2	0	4	0	3	0	1	2	1	1	0	1	1	0	3.0	0	10	The company will provide a maximum of five employees with the necessary training#0019789573.	1
+8	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cat purred in appreciation#123.	1
+19	0	0	0	2	1	4	3	2	2	2	1	0	1	0	2	1	0	4.0	0	11	Our family went to Disney World for our vacation this year and we had an incredible time#19999	1
+30	1	0	3	3	0	8	1	1	3	5	2	0	1	4	0	3	0	8.0	4	12	"There are exactly 556 ways to eat spaghetti with bacon according to The New York Times Magazine feature article titled ""556 Ways to Eat Spaghetti with Bacon."""	1
+17	0	0	4	2	1	3	0	1	1	3	1	0	1	1	1	0	0	4.0	1	5	Four-year-old Tyler scampered across the playground, laughing and shouting with joy.	1
+24	4	0	1	2	1	3	4	1	0	3	1	2	1	2	3	1	0	5.0	2	8	I have recently started going to yoga classes regularly and I found #0000108290 that I am much more productive during the day.	1
+16	0	0	4	1	1	1	1	1	0	0	4	1	2	0	1	1	0	5.0	0	5	He is the oldest of three brothers, aged 22, 18, and 10.	1
+30	0	0	3	3	1	4	4	2	0	5	3	1	3	4	3	2	0	8.0	4	7	One morning, he saw two crows flying in the distance, which made him feel hopeful and excited about the new day, which was numbered as #00738211	1
+8	0	0	0	1	0	1	0	2	1	1	1	0	0	0	1	0	0	2.0	0	4	The sun rises in the East#900395470	1
+17	0	0	1	1	0	4	2	0	2	2	2	0	2	1	1	2	0	4.0	1	10	Betty took three days to make her 120 handmade Christmas gift cards for her loved ones.	1
+14	1	0	1	2	0	2	1	1	0	3	1	1	0	0	2	1	2	6.0	2	9	The number of chords she knew how to play was limited to three.	1
+13	1	0	2	0	1	2	1	0	0	1	3	1	1	0	1	1	0	3.0	0	5	We have recently purchased two new computers, number 532 and 452. 	1
+18	1	1	1	0	1	3	4	2	0	3	1	0	0	1	2	4	0	4.0	1	9	The waiter brought me my check#1374 and I quickly paid it before leaving the restaurant. 	1
+10	0	0	1	1	0	3	0	2	0	2	1	0	0	1	1	1	0	4.0	1	3	The cat counted ten pawprints leading to the tree.	1
+20	1	0	2	0	1	4	2	3	1	2	1	2	1	1	3	1	0	4.0	1	5	The hotel rooms are only fifty bucks, but that includes all the fried cheese Currywurst they can eat!	1
+20	0	0	1	5	0	5	0	2	1	2	0	1	1	0	1	1	1	4.0	1	9	The best way to get tickets to the concert is to show up in line before dawn on Friday.	1
+26	1	0	1	3	1	7	2	2	0	4	2	0	1	2	1	2	0	5.0	2	8	The new policy requires all employees to clock in and out using their ID cards#0000005432 within 5 minutes of their scheduled work hours.	1
+10	0	0	0	2	0	4	0	2	0	1	1	0	0	0	1	1	0	3.0	0	7	The band played three sets of music throughout the evening	1
+18	0	1	1	1	0	2	2	2	0	3	0	1	3	3	2	1	0	5.0	3	7	I am thrilled to hear that you want to try that new Italian place down the street. Its been getting great reviews.	1
+9	0	0	1	1	0	2	1	1	0	1	2	0	0	0	1	1	0	3.0	0	6	She bought a book with three hundred pages.	1
+15	1	0	2	2	0	5	0	1	0	3	0	0	1	1	1	1	0	5.0	1	6	The new restaurant promises dishes made entirely of plant-based alternatives to meat.	1
+29	3	1	3	3	0	4	3	2	3	3	2	1	1	2	2	1	0	6.0	2	11	I have always dreamed of sailing around the world, just like Captain James Cook who completed his first voyage in 1768, 250 years ago this year.	1
+14	0	0	1	2	0	4	0	3	0	1	1	0	1	0	1	1	0	3.0	0	6	The chef plated the fish with a beautiful design of colors #1234567889.	1
+15	1	0	0	2	0	4	1	1	0	2	0	1	3	1	1	0	0	4.0	1	6	My father was buried last week in a small ceremony surrounded only by immediate family	1
+23	0	1	1	2	1	5	3	1	1	4	1	2	0	2	2	2	0	5.0	2	8	Sarah is planning a birthday celebration for her sister and wants to know if they can have 10 guests at their home.	1
+21	0	0	2	1	0	5	0	3	2	2	0	2	4	0	2	1	0	4.0	0	11	The company will be launching a new line brand next month, the first store opens in New York City.	1
+28	1	0	3	2	1	5	2	2	1	4	3	1	2	2	2	3	0	6.0	2	7	In the spring, I will take a two-week trip around Japan where I want to visit three important temples and see four traditional festivals.	1
+12	0	0	1	1	0	1	0	1	2	1	1	2	2	0	1	0	0	2.0	0	5	The new iPhone will be released next Tuesday at 10am.	1
+20	0	0	1	2	0	5	3	2	0	3	0	2	1	2	2	1	0	6.0	2	5	I am writing to express my interest in the graphic design position that was posted on the company website.	1
+17	0	0	2	2	1	3	1	1	0	2	1	1	1	1	1	0	0	5.0	1	4	The cat curled up on her lap#1, content and happy to be petted.	1
+24	1	0	0	2	1	3	2	4	1	3	1	1	3	2	2	2	0	6.0	2	5	The Onion has a different creative process where we are not trying to hit everything in the 24 hours and on the same note	1
+13	0	0	1	1	0	2	0	1	1	2	2	0	0	1	1	2	0	3.0	1	7	Amy went to the store #10876 to buy eggs #5.	1
+12	0	0	1	1	0	4	0	1	0	1	2	1	1	0	1	1	0	2.0	0	7	The band will play three shows in two cities next month.	1
+20	0	1	1	2	2	3	2	0	0	4	1	1	2	2	2	1	0	5.0	2	12	I had two cups of coffee before coming to work and I'm starting to feel hyper and jittery.	1
+13	0	0	1	1	1	4	0	2	0	2	2	0	0	0	2	1	0	3.0	0	7	The concert lasted for 3 hours and the band did 12 songs.	1
+27	4	1	3	3	0	6	0	3	0	3	4	0	0	2	2	0	0	5.0	2	12	The crowd roared as the home team struck back with 4 goals in just over 2 minutes, ultimately cruising to a 6-2 victory.	2
+36	1	0	4	3	1	8	1	5	2	5	2	0	2	2	2	3	0	5.0	2	19	Pioneers take a pledge to remain tee-total and at the height of the organization's popularity, they have an estimated two million  members, even filling Croke Park on the 25th anniversary.	2
+31	2	0	3	6	0	5	0	4	3	4	3	0	1	2	1	1	0	7.0	2	8	In the year 1857, approximately six million enslaved individuals remained in bondage throughout the nation, comprising nearly half of all Americans living in the United States of America.	2
+17	0	0	1	2	0	4	1	2	0	2	2	0	1	0	1	1	0	3.0	0	14	They sold a staggering $2.35 million in stocks during the investor's meeting last week.	2
+10	0	0	1	0	0	3	0	2	0	1	1	1	1	0	1	1	0	2.0	0	5	The company will launch 14 new products this quarter.	2
+32	0	0	3	4	1	9	2	4	0	2	2	2	1	2	2	0	0	5.0	2	14	The team's success in 1987, with 2 division titles and a championship series win, made it clear they were a force to be reckoned with in the league.	2
+10	0	0	1	0	0	4	0	1	0	2	2	0	0	1	1	1	0	3.0	1	4	Two hundred volunteers helped paint the community center yesterday.	2
+17	1	0	2	1	0	3	0	2	3	2	1	0	1	1	1	2	0	5.0	1	6	Pirates hoist the Jolly Roger, ready to plunder another ship with 70 crew members aboard.	2
+12	0	0	1	0	1	3	0	2	0	3	2	0	0	0	1	2	0	3.0	0	4	The team won 17 games and had an estimated 320 points.	2
+38	1	1	6	3	1	11	1	3	2	2	3	1	2	1	2	2	0	4.0	1	14	Eleven-year-olds Michaelangelo and Isabella, in their third season of swimming together, had broken the team's record for the 50-meter freestyle event, achieving an impressive result of 28.53 seconds	2
+11	0	0	1	1	0	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	3	The 21st century saw a dramatic rise in sea levels.	2
+21	1	0	2	4	0	2	0	3	2	2	2	0	3	1	1	0	0	4.0	1	10	At least three million individuals participate yearly in the Great Migration to the Serengeti, peaking during the fifth month.	2
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	1735 The shipment of rare whiskey arrived this morning	2
+12	0	0	1	2	0	3	1	1	1	1	1	1	0	0	1	1	0	2.0	0	7	The astronauts had spent 179 days on Mars before their return. 	2
+13	1	0	2	1	0	2	0	1	0	2	3	0	0	1	1	1	0	4.0	1	5	800 members participated in the convention, raising $2 million collectively.	2
+28	2	0	2	3	1	6	0	3	0	3	3	0	4	1	2	1	0	5.0	1	17	Pioneers take a pledge to remain tee-total and by the mid 20th century, this number grew more than three times to almost six million worldwide	2
+11	0	0	1	2	0	3	1	1	0	1	1	0	1	0	1	0	0	2.0	0	7	The band performed at two venues on their latest tour.	2
+13	0	0	1	1	1	5	0	2	0	1	2	0	0	0	1	1	0	3.0	0	9	The train carried 400 passengers and 156 suitcases to the mountain resort.	2
+33	1	1	2	3	1	9	0	5	2	5	3	0	1	1	1	3	0	5.0	1	15	Pioneers take a pledge to remaining ee-total and at the hight of the organization popularity, had an estimated two hundred thousand members even filling Wembley Stadium on the 50th-year memorial	2
+15	0	0	1	2	0	6	1	2	0	1	1	0	0	0	1	1	0	4.0	0	6	The astronauts completed their training simulation with 96 hours on the moon's surface.	2
+18	1	1	1	2	0	4	1	2	0	2	3	1	0	1	1	2	0	3.0	1	10	The company had sold over 5 million units of the product within six months of launching it.	2
+18	0	1	2	1	0	4	1	1	0	2	5	0	1	1	2	1	0	3.0	1	9	Three hundred twenty-five million people watched live coverage of the moon landing as it happened.	2
+11	0	0	1	0	0	4	0	1	0	1	2	0	1	0	1	1	0	3.0	0	5	Eighteen thousand enthusiastic fans celebrated the team's championship win.	2
+23	0	0	1	3	1	5	0	2	1	2	5	0	1	1	1	1	0	8.0	1	6	The company had revenues of $ 16 billion and net income  of $ 857 million in the fiscal year ending June 30.	2
+21	2	0	1	2	1	5	2	2	0	2	1	3	0	0	1	2	0	4.0	0	9	The company has been steadily expanding their operation since their inception and is currently supporting 16 branches throughout the country.	2
+12	0	0	3	1	0	3	0	0	0	1	4	0	0	0	1	1	0	3.0	0	6	Eighty-three birds sang songs for sixty-five minutes.	2
+8	0	0	1	0	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	4	The team won 23 games that season.	2
+14	0	0	1	2	0	4	1	1	0	1	2	0	1	0	1	0	0	3.0	0	8	The band's popularity peaked at two million followers on their third album.	2
+16	0	0	1	2	1	4	0	1	3	1	2	0	0	0	1	1	0	3.0	0	9	Twenty elves and eight reindeer pulled Santa's sleigh down the chimney on Christmas Eve.	2
+17	0	0	1	2	0	5	0	3	0	1	2	1	2	0	1	1	0	3.0	0	12	The company has seen an annual revenue growth of 15 percent over the past five years.	2
+10	0	0	1	1	0	3	0	2	0	1	1	0	1	0	1	1	0	2.0	0	6	The team scored three touchdowns in the fourth quarter.	2
+12	0	0	1	1	0	4	1	1	0	1	1	0	2	0	1	1	0	3.0	0	8	The company sold 347882 units of its bestselling product last quarter.	2
+19	0	0	2	3	1	5	0	2	1	1	2	0	2	0	1	0	0	4.0	0	5	In the swimming competition, Michael phased third with an impressive time of 2 minutes and 45 seconds.	2
+15	0	1	2	1	0	4	1	2	0	3	1	0	0	2	2	1	0	4.0	2	5	The train whistled as it pulled into the station, signaling 1053 arrival times.	2
+8	0	0	1	0	0	3	0	1	0	1	2	0	0	0	1	1	0	3.0	0	3	Fourteen hundred passengers boarded the ocean liner.	2
+26	0	0	5	4	0	6	2	1	4	1	2	0	1	0	1	1	0	5.0	0	13	"Their latest hit song ""Sugar Sugar"" from the album ""Infinity On High"" reached 10  billion plays on spotify since its release."	2
+24	1	0	3	3	0	6	2	2	1	2	1	2	1	0	2	1	1	4.0	1	10	The football hero, who had just been signed by Madrid, scored two goals against his childhood team in the final match.	2
+19	0	0	2	1	1	2	0	1	2	2	6	0	1	1	1	1	0	4.0	1	6	Eleven thousand three hundred and forty-two people gathered to witness the final performance of Swan Lake.	2
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	2506 The first manned flight took off from Florida on January 15th, 1966.	2
+18	2	0	3	1	1	4	0	1	0	2	4	0	0	1	1	1	0	5.0	1	7	Elephants roam freely through the savannah landscape, numbering approximately ten thousand and fifty-eight individuals.	2
+27	0	0	3	2	1	6	0	2	2	5	2	0	3	2	1	1	0	5.0	2	19	Pioneers take a pledge to remain tee-total and in high-water mark following 25 years, a million strong following at packed Croke Park	2
+25	1	0	2	4	0	4	2	1	1	5	1	1	2	4	1	1	0	7.0	4	11	They've already made two movies based on his books, with a third one scheduled to start shooting in June of last year.	2
+15	0	0	1	2	1	2	0	1	0	1	5	0	2	0	1	0	0	4.0	0	5	Four hundred and ten thousand new users registered in the fourth quarter of 2018.	2
+14	0	0	1	2	0	3	1	3	1	2	0	0	0	1	1	2	0	5.0	1	5	They took a pledge to raise the funds by the 31st of December.	2
+14	0	0	2	2	0	2	0	2	2	2	2	0	0	0	1	1	0	3.0	0	6	In the winter of 1787, 4583 passengers crossed the frozen Delaware River. 	2
+11	0	1	1	0	0	3	1	1	0	2	1	0	1	1	1	2	0	3.0	1	4	The train had 15 stops before reaching its final destination.	2
+11	0	0	1	2	0	3	0	2	0	1	2	0	0	0	1	1	0	2.0	0	7	The team won the championship by two goals to one.	2
+23	0	0	3	4	0	4	1	1	4	2	3	0	0	1	1	2	0	5.0	1	7	In 1969, they raised 2 million pounds for charity, filling Wembley Stadium on the anniversary of Queen Victoria's coronation.	2
+13	0	0	2	2	0	3	0	2	0	2	2	0	0	1	1	1	0	3.0	1	7	The train pulled into the station at 11:23, carrying 253 passengers. 	2
+24	1	1	2	2	1	5	1	2	0	2	2	3	1	1	1	0	0	4.0	1	9	Evenings at six hundred hours had been their ritual since arriving and would remain a constant, even atop a skyscraper's rooftop.	2
+12	0	0	1	2	1	3	0	1	0	2	2	0	0	0	1	0	0	3.0	0	5	The concert starts at 8pm and lasts until 11pm.	4
+24	0	0	5	4	1	3	0	1	2	2	6	0	0	0	1	0	0	3.0	0	11	The party started on June 12, 2004, at 2:00 p.m. and lasted until June 13, 2004, at 2:00 a.m.	4
+21	1	0	3	4	0	3	1	0	1	1	5	2	0	0	1	0	0	3.0	0	14	It will be done in exactly 2 days, from 8:00 AM to 10:00 PM on August 7, 2035.	4
+17	0	0	1	2	1	5	1	1	2	1	1	0	1	0	1	1	0	3.0	0	11	They made $43,500 at the flea market last weekend between Friday evening and Monday morning.	4
+12	1	0	0	2	0	4	0	1	0	1	2	1	0	0	1	0	0	2.0	0	7	The train will arrive promptly at platform 3 at 1:15 PM tomorrow	4
+22	1	0	4	2	1	3	0	0	4	2	4	0	1	0	1	0	0	4.0	0	9	2012 Olympic Games began on July 27th, 20 London, and concluded 17 days later on August 12th, 2012.	4
+12	0	0	1	2	1	3	0	1	0	2	2	0	0	0	1	0	0	3.0	0	5	The concert started at 8 PM and ended at 10:45 PM.	4
+25	0	0	5	4	1	4	0	1	2	2	6	0	0	0	1	1	0	3.0	0	12	The ship set sail on June 10, 2037, at 2:00 p.m. and arrived on June 15, 2037, at 2:00 a.m.	4
+7	0	0	0	0	0	0	0	0	3	0	4	0	0	0	0	0	0	2.0	0	5	25.37 August 7.64 June 3.52 February 12.78	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	874.569.2781  Please input a request for which you would like me to generate only one sentence. 	4
+15	0	0	3	2	0	2	0	1	1	1	3	1	1	0	1	0	0	2.0	0	9	The new baby was born on February 14, 2022, at 2:45 p.m.	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	5678 	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	80195207234208941011	4
+21	0	0	3	4	1	2	0	2	2	1	6	0	0	0	1	0	0	3.0	0	10	The sunset occurred on July 20, 2077 at 18:22 and the sunrise on July 21, 2077 at 06:43.	4
+15	0	0	1	2	1	3	0	1	0	3	2	1	0	1	1	0	0	4.0	1	5	The plane was scheduled to takeoff at 8:43 a.m. and land at 9:45 a.m.	4
+29	0	0	3	4	1	6	0	3	1	3	5	1	2	0	1	1	0	5.0	0	18	The company will have 30 new desks available for the launch on June 12, 2022, at 2 p.m. and continue until 2 a.m. the following day.	4
+9	0	0	2	1	0	1	0	0	1	1	3	0	0	0	1	0	0	2.0	0	3	2328 days passed since February 15, 1980.	4
+23	2	0	6	1	1	4	0	0	1	1	6	1	0	0	1	0	0	4.0	0	12	On September 11, 2018, precisely 9 AM, 12 PM, 3 PM, and 5 PM will occur simultaneously.	4
+11	1	0	2	1	0	1	1	0	1	0	3	1	0	0	1	0	0	2.0	0	7	It is JULY 21, 2022 at precisely 3:47 AM.	4
+12	0	0	0	4	0	4	1	1	0	1	1	0	0	0	1	0	0	2.0	0	9	The cat curled up on my lap for 15 minutes during class	4
+15	0	0	4	1	0	2	0	0	2	0	6	0	0	0	0	0	0	4.0	0	5	JULY 23, 2022, 11:15 PM TO AUGUST 12, 2022, 10:43 AM	4
+16	0	0	5	1	0	2	0	0	2	0	6	0	0	0	0	0	0	3.0	0	8	July 15, 2022, 10:30 a.m. to July 15, 2022, 10:30 p.m.	4
+16	0	0	3	3	0	3	0	1	1	1	3	1	0	0	1	0	0	2.0	0	10	The football game would kick off on July 20, 2019, at 8:45 PM.	4
+14	1	0	3	2	0	2	0	1	1	1	3	0	0	0	1	0	0	3.0	0	10	The sunset occurred on July 21, 2022, at approximately 8:23 p.m.	4
+14	0	0	1	3	1	3	0	1	1	2	2	0	0	0	1	0	0	3.0	0	7	The store opens on Monday at 9:30 AM and closes at 7:00 PM.	4
+16	1	0	3	1	0	3	0	1	1	2	3	0	0	1	0	1	0	4.0	1	6	June 21, 2023 started at precisely 4:43 am, marking the solstice's beginning.	4
+19	1	1	1	2	0	4	3	1	0	3	1	1	1	2	2	0	0	5.0	2	9	There were precisely 1,500,876 birds that sang in harmony that evening, as they had done on previous evenings	4
+11	0	0	1	2	0	2	0	1	1	1	3	0	0	0	1	0	0	2.0	0	7	The restaurant opened on March 20, 2008 at 9:00 a.m. And closing on August 15, 2008 at 12:00 p.m.	4
+18	0	0	1	3	2	4	1	0	1	3	3	0	0	1	1	0	0	4.0	1	9	It started raining on June 20th at 3:15 am and lasted for 3 hours and 45 minutes.	4
+22	0	0	4	3	1	5	0	3	0	2	4	0	0	1	1	1	0	5.0	1	8	The cat sat on the tree for 3 hours, chasing squirrels at 2:00, 4:00, and 6:00 every day.	4
+10	0	0	2	1	0	2	0	0	1	0	4	0	0	0	0	0	0	2.0	0	9	June 20, 2022, 1:50 pm to 1:50 am	4
+14	0	0	3	2	0	3	0	1	1	0	4	0	0	0	0	0	0	3.0	0	8	THE MORNING OF JULY 17, 2019, 6:00 AM TOWARDS 6:00 PM.	4
+13	0	0	1	2	1	4	0	1	0	2	2	0	0	0	1	0	0	3.0	0	5	The baseball game began at 8:05 PM and ended at 10:17 PM.	4
+2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1.0	0	1	28.08.22 11:12:58	4
+18	1	0	3	4	0	3	0	2	1	1	3	0	0	0	1	0	0	3.0	0	14	The train pulled out of the station on July 23, 2018, at precisely 11:11 a.m.	4
+18	0	0	3	3	0	4	0	1	1	1	3	2	0	0	1	0	0	2.0	0	12	The party will be held on June 10th, 2023, from 6:00 PM to 10:00 PM.	4
+12	0	0	1	1	0	3	0	2	0	2	1	1	0	1	1	1	0	4.0	1	3	The teacher assigned 125 questions to be completed by the students.	4
+4	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	1.0	0	3	1524 783 925 372	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	21324	4
+12	0	0	1	2	1	3	0	1	0	2	2	0	0	0	1	0	0	3.0	0	5	The concert started at 8 pm and lasted until 12 am.	4
+13	0	0	2	2	0	2	1	0	1	0	2	2	1	0	1	0	0	3.0	0	8	It will be ready on April 23rd, 2023 at 11:45 a.m.	4
+15	0	0	3	3	0	2	1	0	1	0	4	1	0	0	1	0	0	2.0	0	10	It was on December 17, 2002, from 9:45 p.m. to 11:45 p.m.	4
+10	0	0	2	1	0	0	1	0	1	1	3	1	0	0	1	1	0	2.0	0	4	He will turn 30 on December 13, 2023.	4
+12	0	0	2	0	0	2	0	0	2	0	6	0	0	0	0	0	0	3.0	0	9	July 27, 2018 August 15, 2023 3:15 pm 12 degree	4
+13	0	0	1	3	0	4	0	2	0	1	1	0	1	0	1	0	0	3.0	0	7	The cat curled up on the bed at 3:15 AM last night.	4
+23	0	0	5	4	0	3	0	1	2	1	6	1	0	0	1	0	0	3.0	0	18	The concert will last from June 12, 2005, at 2:00 PM to June 12, 2005, at 2:00 AM.	4
+14	1	0	1	2	1	4	0	1	0	1	2	1	0	0	1	0	0	4.0	0	4	The concert will start promptly at 8:00 PM and end at 10:00 PM.	4
+19	2	0	1	2	2	4	0	1	0	2	4	1	0	0	1	0	0	4.0	0	8	The train was projected to departure at precisely 10:12:37 and arrive 8 hours later or 6:12:37 am.	4
+14	0	0	1	2	1	4	0	1	0	2	2	1	0	0	1	0	0	3.0	0	6	The train will depart tomorrow at 10:45 AM and arrive at 2:17 PM.	4
+14	0	0	4	0	1	2	0	0	1	0	5	0	0	0	0	0	0	3.0	0	11	22 March 2019, 10 am, 27 minutes, and $159.00.	4
+21	0	0	2	2	0	0	0	2	9	1	4	0	0	0	1	1	0	4.0	0	13	The New York Knicks defeated the Toronto Raptors 123-118 at Madison Square Garden on January 20, 2006.	6
+21	0	0	7	0	0	3	0	0	6	0	4	0	0	0	0	0	0	4.0	0	20	Riley Blackburn CB&T Holdings, Inc. - Accounting Dept. Riley.Blackburn@CBandT.com (555) 019-0199 Office, (555) 019-0198 Fax	6
+13	0	0	3	0	0	0	0	0	8	0	0	0	2	0	0	0	0	4.0	0	11	Ms. Elizabeth Coulter-Williams Federal Express Corporation - International Shipping Services. Tel: 555-0191 ext. 327. Fax: 555-0191 ext. 337. email: ecoulter-williams@fedex.com.	6
+13	0	0	3	0	0	2	0	1	2	1	1	1	1	0	1	0	0	3.0	0	6	The new employee, Alexis Rodriguez, was issued badge #1947.	6
+7	0	0	0	0	0	1	0	0	6	0	0	0	0	0	0	0	0	3.0	0	6	John Wilson McConnell AF Base Scheduler McConnellAF Base Scheduler jwmcca1@us.af.mil (316) 759-3039 Office (316) 759-4439 Fax	6
+28	0	0	9	0	0	2	0	0	8	0	6	0	2	0	1	0	0	3.0	0	22	Sarah Smith ABC Financial Solutions Ltd, 150-158 Main Street, Anytown USA, tel (123) 456-7890, fax (987) 654-3210.	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	7344228902	6
+34	0	0	11	0	1	2	0	0	13	0	6	0	1	0	0	0	0	3.0	0	28	Mandy Smith Johnson Johnson and Johnson Health Products, Inc., 3550 Third Avenue, 12th Floor, Seattle, WA 98121; P (206) 654-1774 F (206) 654-0357.	6
+22	0	0	2	0	0	0	0	0	12	0	7	0	0	0	0	0	0	3.0	0	21	Abigail Smith Brown University Physics Department 301 Science Library 2715 Campus Center 300 Providence RI 02903–2715 (401) 863-3321  Are you ready to generate another sentence with 6 numerals? Just let me know. 	6
+7	0	0	1	0	0	0	0	0	3	0	2	0	1	0	0	0	0	1.0	0	4	648 Main Street, Anytown USA 12345  Please provide a new instruction if you would like me to generate another sentence with 6 numerals. 	6
+8	0	0	1	0	0	0	0	0	6	0	0	0	1	0	0	0	0	2.0	0	7	Sally J. Borders Mitsubishi Electronic Materials, Inc	6
+18	0	0	1	2	1	3	0	2	2	2	2	0	1	0	1	2	0	4.0	0	10	The Smiths purchased a property on Main Street for  $249,000 and paid $15,000  closing costs.	6
+13	0	0	2	0	0	1	0	0	8	0	2	0	0	0	0	0	0	2.0	0	11	Sarah Smith Johnson Clinic Tower Suite H-305 Tulsa, Oklahoma 74106-3037 918.631.5500.	6
+23	0	0	5	0	0	4	0	0	8	0	4	0	1	0	0	0	0	3.0	0	19	Stacy Jackson Brown Sonya Media Works - Creative Arts Building - Suite 201 Stacy.Jackson@sonyamediaworks.com (310)555-0123 Cell (310)555-4567 Office (310)555-7890 Fax	6
+21	0	0	5	0	0	0	0	0	11	0	5	0	0	0	0	0	0	3.0	0	20	Robert Smith Wells Fargo Bank, N.A. 5555 Westheimer Road, Suite 1000 Houston, TX 77005 (713) 861-9000	6
+31	0	0	7	0	0	3	0	1	11	0	7	1	1	0	1	0	0	4.0	0	26	The answer is... Dr. Sophia Thompson Smithson University - Institutional Research Center Suite 2011 Mailstop 4107 Smithson, Ava 24505 (540) 568-4344 Phone (540) 568-4345 Fax	6
+25	0	0	8	0	0	5	0	0	6	0	6	0	0	0	0	0	0	3.0	0	24	Samantha Thompson Hydrospace Solutions, Inc. - Research Projects Sam.Thompson@hydrospacesolutions.net (561) 338-9274 Office (561) 493-3743 Fax (561) 233-3032 Pager	6
+3	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	1.0	0	2	Jenny Smith 8597098475	6
+10	0	0	2	0	0	0	0	0	5	0	1	0	1	0	0	0	0	2.0	0	9	Jerry Johnson Spaceworks, LLC - Interplanetary Exploration Jerry.Johnson@spaceworks.net 913-454-0129	6
+14	0	0	3	0	0	0	0	0	7	0	4	0	0	0	0	0	0	3.0	0	13	Nancy C. Johnson 3456 Maplewood Ct. Dallas, TX 75056 (214) 327-4536	6
+27	0	0	8	0	0	3	0	0	7	0	8	0	1	0	0	0	0	3.0	0	26	Beverly R. Hicks, III 2000 Main Street, Anytown USA 12345 (555) 123-4567 Office (555) 789-0123 Fax (555) 345-6789 Pager	6
+24	0	0	8	0	0	2	0	0	10	0	4	0	0	0	0	0	0	3.0	0	20	Stacy Wilson Johnson JohnsonNet Inc. 2323 Westwood Dr, Dallas, Texas, USA, 75074 Phone: 214-357-1057, Fax: 214-357-1062.	6
+9	0	0	4	0	0	0	0	0	3	0	2	0	0	0	0	0	0	2.0	0	7	Jonathon J. Johnson, (713) 853-1209.	6
+18	0	0	3	0	0	3	0	0	7	0	5	0	0	0	0	0	0	3.0	0	17	Jared Crawford HR Coordinator 121 West Street Suite 1000 New York, NY 10282 (212) 355-0344	6
+8	0	0	2	0	0	0	0	0	5	0	1	0	0	0	0	0	0	1.0	0	6	Melanie L. Burroughs, R. Ac. 530-288-4206.	6
+29	0	0	9	0	0	3	0	0	11	0	5	0	1	0	0	0	0	3.0	0	28	Lilia R. Martineau, (Phone: 703-878-9737) Director Corporate Development, AcME InC, TY 00542, 9255 Waverly Drive Suite 200, Rockville, MD 20850	6
+13	0	0	3	0	0	0	0	0	6	0	4	0	0	0	0	0	0	2.0	0	12	John Smith 22 Oak Street Anytown, USA 12345 (123) 456-7890	6
+18	1	0	1	2	2	4	0	2	0	0	4	1	1	0	1	0	0	4.0	0	10	The number of stars in the solar system is approximately one hundred and eleven billion, and growing	6
+14	0	0	3	0	1	5	0	1	0	1	3	0	0	0	1	1	0	3.0	0	7	The delivery truck had four wheels, three doors, and two axles.	6
+16	0	0	5	0	0	3	0	0	2	0	5	0	0	0	0	0	0	3.0	0	10	Jack Nelson 540-933-2317 x245 Cell (540) 803-0037                     jackn@virginiaeye.com Fax: (540) 933-2324	6
+22	0	0	6	0	0	2	0	0	9	0	4	0	1	0	0	0	0	3.0	0	20	Joe Hennessy Wachovia Bank, NA 3101 East 9th Street Cleveland, OH 44106-2301 216-241-5680 (phone) 216-241-7777 (fax)	6
+44	0	1	6	5	1	7	0	3	3	5	6	2	1	4	2	0	0	8.0	4	10	The salesman's commission will be calculated based on the formula 20% of the total amount sold between 28 and 35 thousand units, as agreed in (mailto:jason.smith@safelight.com) Jason Smith' safety contract signed on March 21, 2003. 	6
+12	0	0	3	0	1	0	0	0	7	0	0	0	1	0	0	0	0	2.0	0	10	Kenneth Diller Smith & Company - Global Business Solutions, LLC. 1201 Orange Street Suite 1500, South, Wilmington, Delaware 19801-3243. Telephone: (302) 543-3530 Fax: (302) 543-3533 email: Kennet.Diller55@GlobalBizzSolutionsmail.com	6
+15	0	0	4	0	1	1	0	0	6	0	3	0	0	0	0	0	0	2.0	0	12	Miranda Jackson Smith Brown & Associates, P.A. (800) 567-7390 ext. 104.	6
+14	0	0	2	0	0	0	0	0	6	0	4	0	1	0	0	0	0	3.0	0	13	John Smith jsmith420@email.com 420 East Main St Anytown USA 56789 (555) 123-4567	6
+26	0	0	8	0	0	3	0	0	7	0	6	0	1	0	0	0	0	3.0	0	25	Sarah Jameson Jaguar Car Works, Inc. - Global Inventions Saraj.Jameson@jaguar.com (703) 555-1234 Cellular (703) 676-0789 Office (703) 799-2345 Fax	6
+9	0	0	0	0	0	1	0	0	5	0	3	0	0	0	0	0	0	2.0	0	6	17892 10th St Apt 3B San Francisco CA 94127 	6
+20	0	0	6	0	0	1	0	0	7	0	5	0	1	0	0	0	0	4.0	0	19	Emma Jones Home address: 44 Main Street, Apt 202, Greenfield, MA 01301 (413) 475-7573	6
+15	0	0	1	3	0	5	0	2	0	1	1	1	1	0	1	1	0	4.0	0	10	The company will accept returns within sixty days of delivery for a full refund.	6
+30	0	0	8	0	0	4	0	0	10	0	6	0	1	0	0	0	0	3.0	0	27	Stacy LeFebvre Johnson Standard Process Corporation 200 Progress Parkway, Saint Francis, WI 53235-3798 Phone (414) 318-0400; Fax (414) 318-0411 E Mail: stacy.johnson@standardprocess.com	6
+14	0	0	2	1	1	2	0	1	1	2	2	1	0	0	1	0	0	4.0	0	3	The order was processed and shipped in 20 minutes, UPS #754321414209.	6
+23	0	0	8	0	1	2	0	0	8	0	4	0	0	0	0	0	0	4.0	0	17	Ashley Simmons Johnson Enterprises, LLC - Sales and Marketing Department P: (800) 347-7777 F: (800) 347-7778	6
+27	0	0	8	0	0	3	0	0	9	0	6	0	0	0	0	0	0	3.0	0	26	John McKecknie Smith Johnson Cumberbatch Enterprises, LLC - Business Development John.McKecknieSmithJohnson@jce.com (703) 854-0642 Office (703) 636-2579 Fax (703) 730-0784 Pager	6
+24	0	0	6	1	0	2	0	0	9	0	6	0	0	0	0	0	0	3.0	0	23	Riley Rios, PhD University of California 1450 Addison Avenue Berkeley, CA 94705-2315 (510) 643-7711 Office (510) 642-3069 Fax	6
+11	0	0	1	1	0	4	0	1	0	1	2	0	1	0	1	1	0	3.0	0	7	The salesperson earned six hundred dollars in commission last quarter.	6
+20	0	0	5	0	0	2	0	0	6	0	6	0	1	0	0	0	0	3.0	0	19	John Taylor 1128 West 12th Street Cleveland, OH 44113-4305 (216) 881-4567 Cell (216) 771-1234 Work	6
+15	0	0	4	0	1	0	0	0	5	0	3	0	2	0	0	0	0	3.0	0	14	Sarah Taylor Johnson & Johnson Medical - New Jersey - 08830 (732) 544-0303	6
+6	0	0	0	0	0	0	0	0	3	0	2	0	1	0	0	0	0	1.0	0	3	850 Main Street Anytown USA 12345-6789	6
+30	0	0	9	0	0	3	0	0	9	0	7	0	1	0	0	0	0	3.0	0	27	Sandra Garcia Johnson Global Communications, Inc. 5800 Westview Drive, suite 150 Irving, Texas 75038 (972) 753-1155;Fax: (972) 753-1158 Email: sandra.johnson@global-comm.com	6
+11	0	0	1	1	0	3	0	1	1	1	2	0	1	0	1	1	0	3.0	0	7	The Smiths invested four hundred dollars on software last week.	6

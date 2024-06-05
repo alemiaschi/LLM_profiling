@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+13	0	0	0	3	0	5	1	1	0	3	0	0	0	0	1	1	1	4.0	1	7	Raindrops falling against my windowpane wept tears of blessed solitude on that morning	0
+8	1	0	0	0	0	1	0	0	3	1	1	0	1	0	1	1	0	3.0	0	3	Mt Rainer National Park covers over 236,000 acre	0
+4	0	0	0	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue	0
+22	0	0	2	6	0	6	0	2	2	0	0	0	4	0	0	0	0	4.0	0	11	The predominance of discrimination throughout racial clusters in fashionable America:  The predominance of discrimination throughout racial clusters in fashionable America:	0
+4	0	0	0	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue	0
+3	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	2	Mars is red	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun setting behind the mountains tonight.	0
+9	0	0	1	1	1	2	0	0	0	0	0	0	4	0	0	0	0	3.0	0	5	Pink lemonade with sparkling water: refreshing and tangy	0
+10	0	0	1	1	0	3	0	2	0	0	0	1	2	0	1	0	0	2.0	0	5	The sky was pale blue on that spring morning. 	0
+9	0	0	1	1	0	2	0	2	1	0	0	0	2	0	0	0	0	3.0	0	6	The serene majesty of the snow-clad Himalayas	0
+12	0	0	2	1	0	2	0	2	3	1	0	0	1	0	1	1	0	4.0	0	3	Mars has the tallest mountain between the stars: Olympus Mons.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The clouds floated lazily across the sky	0
+18	0	1	1	4	0	4	0	3	2	1	0	0	2	1	1	0	0	4.0	1	8	Early sunset over the Pacific Ocean, with clouds drifting across the sky like a painting by Monet	0
+11	0	0	0	2	0	5	0	3	0	0	0	0	1	0	0	0	0	2.0	0	9	The serenity of the forest floor in the early morning hours	0
+13	0	0	2	3	0	4	0	1	0	2	0	0	1	0	1	0	0	3.0	0	8	Glaciers move through the centuries as slow-flowing rivers of ice. 	0
+10	1	1	1	0	0	2	0	2	0	1	0	1	1	1	2	0	0	3.0	1	4	The sky was cloudy with the sun peeking through.	0
+20	0	1	2	1	0	6	1	2	1	2	0	0	4	1	2	2	0	4.0	1	9	March sunshine warms the uptown plaza as young lovers take their first steps towards a life-long romance.	0
+8	2	0	1	1	0	1	0	0	0	0	0	1	2	0	1	0	0	2.0	0	3	Silent protests are more prevalent than ever.	0
+8	0	0	0	2	0	3	0	2	0	0	0	0	1	0	0	0	0	3.0	0	3	The serene silence of the forest at dawn	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Sunny skies.	0
+18	2	0	1	2	0	4	1	2	2	1	0	0	3	0	1	0	0	4.0	0	8	Golden Gate Bridge hangs motionless in the fog, its orange towers starkly defiant against the monochrome landscape	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rises slowly in the morning.	0
+12	2	0	1	1	1	2	0	1	0	2	1	0	0	0	0	1	0	3.0	0	6	  Please try again, and give only a sentence with 0 verbs	0
+4	0	0	1	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1.0	0	2	Elephants are gray.	0
+21	0	0	0	3	0	3	1	0	9	1	0	1	2	0	1	1	0	4.0	0	13	Senate Democrats have released new details of former FBI Director James Comey's notes from his meetings with President Donald Trump	0
+9	0	0	1	0	1	2	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	The sky appeared grey and overcast this morning.	0
+7	0	0	1	0	0	5	0	0	0	1	0	0	0	0	1	1	0	3.0	0	3	Spring breeze caressed cherry blossom petals.	0
+12	1	0	1	1	0	4	0	2	0	2	0	0	1	0	1	1	0	4.0	0	5	The delicate aroma of freshly brewed coffee fills the morning air.	0
+19	0	0	1	3	1	6	0	3	1	0	0	1	3	0	1	0	0	4.0	0	6	The sky on Sunday morning was clear and serene; the air crisp with the slightest hint of winter	0
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The snowflakes delicately fell upon my mittens	0
+21	3	0	1	0	0	5	2	4	0	4	1	1	0	3	2	4	0	8.0	3	9	Below is an instruction that describes a task:  Write a response that appropriately completes the request generating only one sentence	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred quietly on my lap.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Austerity.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly over the horizon.	0
+9	1	0	1	0	0	3	0	1	1	0	1	1	0	0	1	0	0	2.0	0	5	The temperature outside today is 72 degrees Fahrenheit.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+10	0	1	1	0	0	0	3	0	0	3	0	1	0	2	1	2	0	3.0	2	4	Please let me know if I should change anything.	0
+11	0	0	2	1	0	6	0	0	0	2	0	0	0	0	1	0	0	3.0	0	6	Spring morning mist rises from dew-pearled grass blades.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Yesterday, the rain fell	0
+7	1	0	1	1	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	4	Snowflakes fell gently onto my mittens.	0
+15	0	0	0	2	1	5	1	2	1	1	0	1	1	0	1	1	0	4.0	0	6	The color scheme at our local Starbucks can evoke a sense of calm and serenity	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Yellow	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The colorful tulips swayed gently in the warm spring breeze.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Frosty weather.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The snowflakes danced gently on the breeze	0
+9	0	0	1	2	0	2	0	2	1	1	0	0	0	0	1	0	0	3.0	0	3	The ethos of Starbucks resonates through the globe. 	0
+13	0	0	1	3	0	3	0	1	1	0	0	1	3	0	1	0	0	4.0	0	10	The prevalence of discrimination on racial grounds in contemporary America is noteworthy.	0
+10	1	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	2.0	0	5	The snow was piled high against the garden fence.	0
+21	0	0	3	2	0	6	1	4	0	2	0	0	3	1	2	1	0	3.0	1	9	The moon glowed in the night sky, its silvery light illuminating the landscape with a soft, serene beauty.	0
+6	1	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The full moon rises slowly. 	0
+11	0	0	0	1	0	2	1	2	0	1	0	1	1	1	1	1	0	4.0	1	3	I am not able to perform any tasks beyond this conversation	1
+6	1	0	1	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	They will be distributed accordingly.	1
+8	0	0	0	1	0	2	1	2	0	1	0	0	1	0	1	1	0	4.0	0	3	I approve the proposal subject to some modifications	1
+10	0	0	0	2	0	1	0	0	2	1	1	0	2	0	0	0	0	3.0	0	5	Please respond by Friday at Five pm Pacific Standard Time	1
+4	0	0	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0	2.0	0	2	Sent in batches.	1
+16	0	0	0	2	1	3	1	3	0	2	0	1	2	1	1	1	0	4.0	1	6	I apologize for the error and am willing to redo the distribution on a personal basis	1
+7	0	0	1	2	0	1	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	You mean besides me of course.	1
+8	1	0	1	0	0	1	0	2	0	1	0	2	0	0	1	0	0	2.0	0	3	All the documents have been routed accordingly.	1
+12	1	1	1	1	1	3	0	1	0	2	0	0	1	1	0	2	0	4.0	1	6	 Write only the sentence, without adding further text and without explanations	1
+15	1	0	2	0	1	3	2	1	0	3	0	0	2	2	2	2	0	6.0	2	5	They distribute their duties accordingly, ensuring every responsibility has proper and suitable distribution.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	Generate a sentence with 1 verbs. Write only the sentence, without adding further text and without explanations	1
+11	1	0	1	0	1	2	2	0	0	2	0	1	1	0	1	2	0	3.0	0	5	I will handle your requests personally and provide technical assistance.	1
+10	0	0	1	1	0	3	0	2	0	2	1	0	0	0	1	1	0	2.0	0	5	 The provided instruction requests a sentence with one verb. The sentence should be written without additional text or explanations. Based on the given examples, the task seems to be related to generating a sentence using a specific language style	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	Write a sentence with 1 verb. (Remember, only one sentence)	1
+10	0	0	0	1	0	3	0	2	0	2	0	0	1	1	0	2	0	3.0	1	7	Insert verbs into this pre-written sentence to complete the request	1
+11	0	0	1	3	0	1	4	0	0	2	0	0	0	1	2	1	0	3.0	1	8	I learned everything I know besides of course from him. 	1
+11	1	0	2	0	0	2	1	1	0	0	0	2	2	1	1	0	0	3.0	1	4	Your responses are correct, here is the next one:  	1
+17	0	1	1	2	0	3	1	3	0	4	0	0	1	2	1	2	0	5.0	2	8	Please check the attached document that includes the new rates for this year before signing off.	1
+11	1	2	1	2	0	2	1	0	0	2	0	0	0	1	1	0	0	3.0	1	6	Eagerly participate in meetings as if life depends on it. 	1
+9	0	1	0	0	0	1	1	1	0	2	0	1	1	2	1	1	0	4.0	2	5	Please let me know if the instructions are clear	1
+8	1	0	0	1	0	2	2	0	0	1	0	1	0	0	1	1	0	2.0	0	5	You must take action immediately in your business	1
+18	0	0	1	1	1	4	2	3	0	4	0	0	0	2	0	3	0	6.0	2	4	Please find the attachment and review it to confirm our conversation on the 16th regarding the order. 	1
+14	0	0	1	1	1	3	0	3	0	2	0	2	1	0	1	1	0	3.0	0	5	This sentence should be appropriate to the situation and convey the intended meaning. The output may vary based on context	1
+16	2	1	2	2	0	3	1	0	0	2	1	2	0	1	1	0	0	3.0	1	8	Your task instructions have been compeltely carried out with only one sentence, as follows: Please make sure to document our agreement for everyone's training, using your corporate e mail	1
+7	1	1	0	0	0	1	1	1	0	2	0	0	0	1	1	1	0	2.0	1	4	I successfully completed the exercise as instructed	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	"This sentence is incorrect. Please rewrite the sentence in the following form:  ""verb + object + preposition + clause"""	1
+13	1	0	2	2	0	3	0	2	0	1	0	2	0	0	1	0	0	3.0	0	6	The software is currently being developed by an in-house team. 	1
+4	0	0	0	0	0	0	1	0	0	1	0	2	0	0	1	0	0	1.0	0	3	It will be delivered	1
+9	0	0	2	1	0	2	0	1	0	2	1	0	0	0	0	1	0	2.0	0	7	Generate a sentence with one verb: write. (The sentence you generate should be independent; no additional text or explanation should be added)	1
+25	1	1	2	3	1	5	1	2	0	2	1	2	4	1	2	0	0	4.0	1	15	The software program will soon become obsolete and outdated within the next 2 generations of computing, as it is based on archaic technology. 	1
+5	1	0	0	1	0	0	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	  I solved besides me naturally	1
+18	1	0	2	2	1	3	1	1	0	4	0	1	1	1	0	2	0	5.0	1	9	Forgo any excuses and simply do; don't let your work suffer because of other people. Do what must be done, whether they agree or not!	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	1
+7	0	0	0	1	0	1	1	0	0	1	0	2	1	0	1	0	0	2.0	0	3	They have been sent to various regions	1
+10	1	0	0	0	0	2	1	1	0	2	0	1	1	1	1	2	0	4.0	1	3	You've provided sufficient resources to complete this task successfully	1
+7	0	0	1	1	0	3	0	0	0	1	1	0	0	0	0	1	0	2.0	0	6	Generating sentence with one verb: Focus	1
+12	0	1	1	0	0	1	2	1	0	3	0	2	0	2	1	2	0	4.0	2	3	I have been authorized to assist you in completing this task.	1
+13	1	1	0	1	0	2	1	2	0	2	0	2	1	1	1	1	0	3.0	1	6	I have developed this product with the sole purpose of being widely distributed	1
+5	1	0	0	1	0	0	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	I complied besides you naturally	1
+8	0	1	0	0	0	0	3	0	0	3	0	0	1	2	2	1	0	4.0	2	3	We learn fastest by doing what we do	1
+18	2	1	3	0	0	3	3	1	0	3	0	1	1	0	2	2	2	3.0	2	12	Will ship shortly, now if you have any other request,  you know my email address.	1
+9	0	0	0	0	0	4	0	2	0	2	0	0	0	1	0	2	0	4.0	1	4	Please submit the form using the return receipt email	1
+9	0	0	1	2	0	2	1	0	1	1	0	0	1	0	0	0	0	2.0	0	6	Sent from my secret lair on planet Zorgon.	1
+8	0	0	0	0	0	1	1	1	0	2	0	2	0	1	1	1	0	3.0	1	3	They will be used to build the software	1
+6	1	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	You can do it too.	1
+7	1	0	1	1	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	3	I'll send them over immediately.	1
+3	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	I concur.	1
+7	0	0	1	0	0	3	0	1	0	1	0	0	0	0	0	1	0	3.0	0	5	Generate the task's output sentence: This is being tested for a week before it is rolled out company-wide. 	1
+8	0	0	1	1	0	2	0	1	0	1	1	0	1	0	0	1	0	2.0	0	6	Renders a single sentence with 1 verb: The verbs are presented in a list, with a hyperlink to display all sentences as a list.	1
+5	0	0	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I complied despite the rain	1
+7	0	0	3	0	0	0	1	0	0	3	0	0	0	0	1	0	0	1.0	0	4	We jabbered, jogged, jammed.	3
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go! We searched high and mighty, ran swiftly, and made haste with determination	3
+9	1	0	3	0	0	2	0	0	0	3	0	0	0	1	1	1	0	2.0	1	5	Rockets shimmered, soared spectacularly, blinking lights.	3
+10	3	0	2	0	1	0	1	0	0	3	0	0	0	0	1	0	0	2.0	0	6	We danced vigorously, sang boisterously and clapped exuberantly.	3
+14	3	0	3	0	1	2	1	1	0	3	0	0	0	0	1	1	0	3.0	0	7	The dogs barked loudly, ran swiftly, and wagged their tails excitedly.	3
+13	0	0	3	1	1	2	0	2	0	3	0	1	0	0	1	0	0	3.0	0	5	The thieves were tiptoeing, peeping, and snooping around the house.	3
+14	2	0	3	0	1	2	3	0	0	3	0	0	0	0	1	2	0	3.0	0	8	We roared loudly, flapped our ears, and shook our fur ferociously.	3
+9	0	0	3	0	0	1	1	0	0	3	0	1	0	0	1	1	0	2.0	0	4	We were storming, sprinting, slamming doors.	3
+9	0	0	2	1	1	1	1	0	0	3	0	0	0	0	1	0	1	3.0	1	5	Bursting with pride, we roared and danced.	3
+15	2	0	3	1	0	3	2	1	0	3	0	0	0	2	3	1	0	3.0	2	8	Racing down, we tumbled out, leaping blindly, the flames consuming our shouts	3
+10	2	0	3	0	0	1	1	0	0	3	0	0	0	0	1	1	0	2.0	0	6	We joked around, snapped photos, danced wildly.	3
+7	1	0	2	0	0	0	1	0	0	3	0	0	0	0	1	0	0	2.0	0	4	We screamed, sang, danced together	3
+9	1	0	1	1	0	2	0	2	0	0	0	1	1	0	0	0	0	3.0	0	4	  Below is a sentence with a missing word. Write the correct word to complete the sentence	3
+9	1	0	1	0	1	1	1	1	0	3	0	0	0	0	1	0	0	3.0	0	4	We ran, danced and sang together all night	3
+20	0	0	2	3	1	4	3	1	0	5	0	0	1	2	3	0	0	3.0	2	16	We hurdled through the crowd shouting for help, our voices grew hoarse, and our lips trembled from screaming	3
+8	0	0	3	1	0	0	1	0	0	3	0	0	0	0	1	0	0	2.0	0	4	We screamed, cheered, jumped up.	3
+12	2	0	2	1	0	2	1	0	0	3	0	1	0	2	1	1	0	4.0	2	5	We were laughing nervously , signing copies of letters, talking quickly	3
+8	1	0	3	0	0	0	1	0	0	3	0	0	0	0	1	0	0	2.0	0	4	We explored, chuckled, danced vigorously. 	3
+13	2	0	3	1	1	1	1	1	0	3	0	0	0	0	1	0	0	3.0	0	7	We rushed down, slid down, and splashed into the pool.	3
+11	0	0	3	1	1	1	1	1	0	3	0	0	0	0	1	0	0	3.0	0	5	We chatted, whispered, and snickered in the hallway.	3
+18	0	1	3	0	1	4	2	3	0	4	0	0	0	1	2	4	0	4.0	1	8	We scoured the area, gathered information, and reported the incident before we left the scene. 	3
+10	0	0	3	1	1	1	1	0	0	3	0	0	0	0	1	0	0	3.0	0	5	We sprinted, shouted, and jumped for joy.	3
+9	0	0	3	0	0	2	1	0	0	3	0	0	0	0	1	1	0	3.0	0	4	We bellowed, twirled, sprinkled fairy dust.	3
+7	0	0	3	0	0	0	1	0	0	3	0	0	0	0	1	0	0	1.0	0	4	We giggled, stomped, danced.	3
+19	4	1	2	0	1	2	1	2	0	4	0	0	1	1	1	3	1	4.0	2	7	After consulting each other silently, we hastily took notes and swiftly prepared a plan to respond accordingly. 	3
+8	0	0	2	0	1	1	0	1	0	3	0	0	0	0	1	0	0	2.0	0	4	The baby squealed, danced and clapped.	3
+40	3	2	3	2	2	12	2	6	0	8	0	0	0	3	4	4	0	5.0	3	21	The manager reprimanded the employee for laughing loudly at work and requested that he go outside and smoke a cigarette, the report states; later that day, security cameras caught the worker stuffing documents in his pants pocket	3
+9	0	0	3	0	0	1	2	0	0	3	0	0	0	0	1	1	0	3.0	0	4	We screeched, gasped, flailed our arms. 	3
+18	1	0	3	3	1	3	3	1	0	3	0	0	0	0	1	1	0	3.0	0	11	We raced our hearts out, jumped in our seats, and clapped thunderously to the performance.	3
+5	0	0	1	0	1	1	0	0	0	2	0	0	0	1	0	0	0	3.0	1	2	Screaming hollering and flapping.	3
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	3
+9	0	0	3	0	0	1	2	0	0	3	0	0	0	0	1	1	0	3.0	0	4	We barged, boasted, flaunted our moves.	3
+11	3	0	3	0	0	1	1	0	0	3	0	0	0	0	1	1	0	2.0	0	6	We laughed heartily, danced energetically, took pictures frantically.	3
+9	1	0	1	1	0	3	0	1	0	2	0	0	0	1	1	1	0	3.0	1	2	The monkeys crashed into branches snatching bananas frantically. 	3
+34	5	2	4	3	1	5	1	3	0	6	0	1	1	2	1	2	1	5.0	3	20	Hailing a passing cab, snatching an umbrella quickly, and flagrantly waving for the cabbie’s attention, we scrambled to get out of there as fast as possible before getting soaked.	3
+12	1	0	2	1	1	2	1	1	0	3	0	0	0	0	1	1	0	3.0	0	9	We rushed through traffic, jumped the light, and honked endlessly	3
+10	3	0	3	0	0	0	1	0	0	3	0	0	0	0	1	0	0	2.0	0	6	We ran hastily, whispered frantically, peered worriedly.	3
+11	0	0	3	0	1	2	1	1	0	3	0	0	0	0	1	1	0	3.0	0	5	The cat purred, rolled, and licked our fingers.	3
+18	2	0	3	1	1	5	0	2	0	3	0	1	0	1	1	3	0	5.0	1	4	The company was hurriedly calling clients, hurriedly dispatching products, and hurling insults at the competition.	3
+9	0	0	2	1	1	2	0	0	0	3	0	0	0	0	1	1	0	2.0	0	4	Raccoons rummaged, roared and ran down trees. 	3
+5	0	0	2	0	0	2	0	0	0	1	0	0	0	0	0	0	0	1.0	0	4	Rolling, jumping, racing	3
+8	0	0	3	0	0	0	1	0	0	3	0	1	0	0	1	0	0	1.0	0	4	We were rushing, bouncing, swaying.	3
+19	0	0	2	3	1	6	1	3	0	3	0	0	0	0	1	0	0	3.0	0	12	We breezed past the security guards, scurried through the concrete corridors and burst into the conference room.	3
+11	3	0	2	0	1	1	1	0	0	3	0	0	0	0	1	1	0	2.0	0	7	We chatted eagerly, laughed loudly, and exchanged numbers quickly	3
+11	0	0	3	0	1	2	0	2	0	3	0	0	0	0	1	1	0	3.0	0	5	The caterpillar slithered, crawled, and munched the leaves.	3
+27	0	0	5	3	0	7	3	3	0	4	0	0	2	1	2	2	0	4.0	1	17	We yodeled, wassailing, fist-bumping our way through the snowy night, the cold wind whipping our faces into a frenzy of merriment.	3
+8	0	0	3	0	0	0	1	0	0	3	0	1	0	0	1	0	0	1.0	0	4	We were rushing, stumbling, yelling.	3
+11	2	0	0	1	1	1	1	1	0	4	0	0	0	1	1	0	0	3.0	1	5	We ran yelling loudly and waved excitedly to the cheering crowd	3
+10	3	1	1	0	1	0	1	0	0	3	0	0	0	1	1	0	0	3.0	1	3	I sprinted furiously and jumped hastily while yelling frantically.	3
+18	1	0	3	3	1	3	1	3	0	3	0	0	0	0	1	0	0	3.0	0	12	We biked uphill with the wind, sang under the sun, and danced in the dew. 	3
+33	2	0	4	3	1	7	3	3	0	7	0	0	1	2	1	5	0	4.0	2	22	We kindly invite you to attend the meeting, actively contribute to discussions, bring a dish to share, take notes for future reference, and share your feedback at the conclusion	5
+71	4	6	2	7	1	11	9	6	0	15	0	2	4	11	5	4	2	12.0	13	15	``` Moving my items to storage before I get settled into my new apartment I am going to take a long-needed nap during which the dog keeps whimpering because he misses me before finally falling asleep myself while simultaneously attempting to pack a suitcase to go out of town the next day as I have to work during regular hours before going on a break and then the vacation	5
+90	5	1	6	8	5	21	12	2	0	16	0	1	8	7	2	13	0	9.0	7	76	We will contact you as soon as possible to answer your email, discuss any changes or corrections to your order and provide training and support as part of our comprehensive solutions, provided you send it through our secure site, sign up to participate in special promotions to receive occasional gifts and enter contest to win great prizes, check out frequently asked questions and review our complete program offerings at your earliest convenience, then click the Submit Request button below to send us your details. 	5
+39	2	2	3	3	1	7	4	2	0	9	0	2	2	4	3	6	0	4.0	4	24	I may hurry up to arrive immediately, run a test, take action to correct mistakes before I get moved, receive training and also give helpful information to new employees while we welcome them to the company	5
+35	0	2	0	3	1	13	4	4	0	5	0	2	1	3	2	3	0	5.0	3	19	I will consult with the team leader regarding her recommendations before submitting my project proposal by tomorrow afternoon and I will check out the online library catalog before attending the book signing event this evening	5
+82	1	0	8	9	14	25	2	2	0	15	0	1	4	2	0	10	0	5.0	2	59	Grab the materials list and review; get your tape measure and levels out, mark areas for tile and flooring to be demolished, check and turn off electricity mains and disconnect power to outlets; remove vanities and bathtubs and sinks; take the doors and windows out of their current locations and replace old flooring; install tile on floors and walls and new bathtubs and basins and put up new walls; and clean up when done. 	5
+10	0	0	5	0	0	1	0	0	0	4	0	0	0	0	0	0	0	1.0	0	8	Running, shouting, laughing, dancing, singing.	5
+29	2	1	1	3	1	6	1	6	0	6	0	1	0	3	1	4	0	5.0	3	19	I may take a trip around the world this morning while buying some food and learning how to cook, then write down a novel based on the experience	5
+21	1	0	5	1	1	4	1	1	0	6	0	1	0	0	1	2	0	4.0	0	12	We can meet here, discuss ideas, plan, strategize, collaborate and build a working plan for tomorrow.	5
+22	3	0	4	0	1	4	2	2	0	5	0	1	0	0	1	3	0	3.0	0	15	I may attend the meeting tonight, participate enthusiastically, express my opinion, listen carefully and consider the proposal thoroughly.	5
+30	2	1	2	4	1	4	4	3	0	6	0	2	0	2	3	0	0	4.0	2	17	I confidently compete with the leading runners while I get prepared for the challenge; thus, I may practice with the ball and work on my game to win	5
+66	3	1	4	8	2	18	3	9	0	10	0	1	7	4	3	4	2	11.0	6	12	Following an unspecified time living in a foreign land, the nomadic tribe has recently moved again and now dwells at the top of a majestic river valley that cuts across the open woodland, enhancing their vantage point into enemy territories while they await the coming winter, planning war efforts and fortifying defenses during these tumultuous weeks of uncertainty before the impending battle.	5
+25	1	1	0	4	1	5	3	4	0	3	0	1	2	1	2	1	0	4.0	1	7	I will quickly check the details with my co-worker and return with the necessary documents while I move through the crowds in this bizarre rally	5
+33	5	0	5	5	1	5	1	5	0	5	0	1	0	0	1	0	0	3.0	0	25	I will run hastily through the park, pause gracefully under the tree, jump vigorously over the obstacle, smile charmingly at the people, and dance gracefully in the rain.	5
+33	1	0	6	1	2	9	1	5	0	7	0	0	1	0	1	7	0	5.0	0	18	I quickly review the lesson plan and distribute the materials, leading the exercise, facilitating discussions, answering questions, monitoring progress, and addressing the needs of the diverse participants.	5
+21	0	0	1	1	0	4	2	2	0	5	0	2	0	4	2	2	0	7.0	4	5	I might decide to call it quits to ensure the team does not face consequences for the coaches’ actions. 	5
+42	1	2	2	3	2	7	7	1	0	8	1	3	2	7	4	5	0	6.0	7	13	I have taken up painting to keep my mind off work and school and now have three large canvases sitting on the floor, waiting for me to find time to finish them as I hope they will be something good.	5
+64	9	3	5	4	4	11	5	5	0	10	0	1	6	5	1	8	0	9.0	5	42	I will thoroughly research and write up this comprehensive report as quickly as possible, diligently ensuring its accuracy and professionalism, then artfully designing its presentation, finally swiftly finalizing and polishing it to perfection before delivering it efficiently within the tight deadline, all while maintaining open communication with the team and incorporating valuable feedback to create an exceptional end product.	5
+62	5	2	5	8	2	12	5	4	0	9	0	1	5	5	3	3	0	7.0	5	28	I quickly dashed out and raced to the nearby library to grab some materials while my brain is still filled with useful information from yesterday's class, then frantically flipped through the dense pages, jotted down key terms and their definitions, before returning just in time for the evening's exam, ready to regurgitate everything I studied.	5
+24	1	1	1	2	0	5	2	3	0	4	1	3	0	3	2	1	0	5.0	3	9	I may study hard all day tomorrow while I am being transferred to level 20, attempting to ace that quiz as a challenge	5
+34	1	0	4	2	1	8	1	4	0	8	0	1	3	1	1	5	0	4.0	1	20	I will arrive hastily to class today, take thorough notes, question the professor, contribute relevant ideas, complete the required assignments and secure an A on the test with thorough preparedness	5
+67	1	3	6	3	3	16	5	7	1	12	1	4	3	7	5	7	0	6.0	7	51	I will meet with everyone tomorrow at 3:00 pm to finalize plans and take attendance before running the test this evening when the team is prepared, confirm everyone is present for the video conference, record all answers, assign tasks, check to see if any new developments are forthcoming before we release our report Thursday morning, and collect all notes and revisions. 	5
+36	0	0	1	4	2	7	3	5	0	6	0	1	3	3	2	4	0	8.0	3	17	We are asking each member to welcome new members and to introduce new alliances to the group and we urge you to feel free to participate in any conversation in any of the forum sections.	5
+58	0	3	8	3	3	15	4	7	0	7	0	3	5	2	3	5	0	5.0	2	45	We will interview every single candidate; schedule and administer the exam if necessary; take the candidates on a campus tour if they are selected as top performers; discuss expectations, roles, culture, benefits, and the job description with them; and make an employment offer if everyone is a good mutual fit	5
+43	4	1	5	9	0	11	1	2	0	7	0	0	2	1	1	0	1	4.0	2	27	Escaping from home responsibilities, rush through fields of golden grass, jump onto a train to somewhere new, sing loudly with the choir until our voices crack, then quickly dance to pop-up performances at night under glittering spotlights	5
+38	0	1	5	3	1	10	1	5	1	7	1	1	1	2	1	6	0	5.0	2	23	I am able to run a meeting, check the Internet for information, write a summary, make phone calls, research a product, or answer questions while working in the home office in 30 minutes	5
+69	3	1	6	10	3	14	10	3	0	10	3	3	0	4	4	5	0	5.0	4	58	I could quickly finish my report before I rush out to take a meeting at two o'clock, grab lunch, and then head to my training class this evening, which is to last until eight o'clock, and after that, I may run into my neighbor's party and help them decorate their home with balloons, then go to the gym at half past nine	5
+67	4	4	4	5	1	15	7	6	0	10	1	4	2	9	5	7	0	7.0	9	42	I would study all evening while sipping tea, trying to memorize every word so that I can take notes from lectures without the need for any outside notes during exams when I move desks to seat 30 this afternoon; I would then reread every lesson after my exam to verify that my study and my note-taking were accurate enough to score well.	5
+25	1	1	1	2	2	6	4	2	0	4	0	1	1	3	3	2	0	7.0	3	6	Moved quickly past the stalls and kiosks that filled the colorful streets as I looked for bargains and treats that would make my day. I tried and tested different creams at various prices but was unable to find that perfect pair that made my heart flutter. Eventually returned home with some souvenirs, smiling all along the way to my loved ones about a memorable afternoon. 	5
+10	1	0	1	1	0	2	0	2	0	2	0	1	0	1	0	0	0	4.0	1	4	 Here is the sentence based on the completed task.	5
+13	0	0	5	0	1	0	1	0	0	5	0	1	0	0	1	0	0	2.0	0	9	I will consult, investigate, organize, enforce, and follow. 	5
+53	3	4	3	4	3	10	2	6	0	11	1	2	2	7	2	6	0	11.0	7	10	"Five verbs were chosen randomly and added to the sentence as follows:   ""I may go now to examine the damage while taking detailed photographs before calling the adjuster later today and returning with the proper tools to repair the damage before taking it to the shop and filling out paperwork"" "	5
+60	2	4	6	3	3	10	7	5	0	14	0	1	3	6	1	11	1	7.0	7	35	After finishing up the project, I will evaluate the results and assess any needed improvements before submitting it, review all instructions carefully before beginning, make sure to include any necessary materials or equipment, thoroughly proofread my work before turning it in, and seek feedback from my peers to help me refine my final product.	5
+96	4	6	8	6	7	20	5	7	0	18	0	6	6	10	5	9	1	11.0	11	52	After getting organized and settling down, I may rush to take the necessary steps and contact the required authorities, consult specialists to ensure I am taking the correct route while staying within the time limits; meanwhile, I should also send emails, letters and forms to various organizations and institutions as necessary; and further I must prepare myself by reviewing necessary knowledge before taking the test while making sure all required documents, equipment and supplies needed to complete the task at hand are in place and up to date. 	5
+55	2	1	5	6	1	15	0	10	0	8	0	0	6	2	1	7	0	6.0	2	36	The manager meticulously assessed the situation, instructed all employees to remain silent, gathered sufficient resources for the project, scheduled an extensive training session for the staff, monitored progress closely while maintaining a professional environment and kept the store open for prolonged hours with no compromise on the quality of services.	5
+19	3	1	1	1	1	5	0	3	0	2	0	0	2	1	0	2	0	3.0	1	12	Pleadingly address every prospective member and each new association, while also liberally sharing information in all discussion forums	5
+31	3	1	4	1	2	6	1	3	0	6	0	1	3	1	1	4	0	6.0	1	13	I will check in online, join a new alliance, greet newcomers, and report troublemakers while exploring the latest updates in this dynamic and ever-changing social platform	5
+22	3	0	0	3	1	4	4	2	0	5	0	0	0	3	3	1	0	6.0	3	6	I confidently took the examination with my head held high and walked out with a grin knowing I excelled beyond my expectations	5
+25	0	1	1	1	1	5	2	4	0	3	0	0	4	1	1	3	1	4.0	2	9	While reviewing each new user's profile we ask each member and each new alliance to please greet them with a friendly welcome message.	5
+51	1	3	5	2	1	12	1	9	0	7	1	2	5	5	2	5	0	7.0	5	12	I will review this check list one more time before making this important phone call, carefully considering every aspect, checking the boxes, so as to not skip a step and ensure the outcome is ideal this afternoon, running at a full sprint without a single stumble.	5
+16	0	0	5	0	1	0	5	0	0	5	0	0	0	0	5	0	0	3.0	0	13	We explore, we welcome, we create, we express, and we empower.	5
+77	4	4	4	7	1	14	7	7	1	12	0	4	8	11	7	7	0	9.0	11	50	Without question, we may have to overcome several legal challenges that various states may raise in order for us to effectively provide legal services to customers throughout the United States, but as long as we remain focused on providing a consistent service that always puts the client at ease, we should be able to handle these issues with ease because we have the necessary skill set to address every aspect of the service. By taking steps such as carefully studying each state’s unique statutes and court procedures, utilizing the correct documentation and expertise, and working with seasoned attorneys across the nation to address any problems that we cannot handle from our end, I am confident that this team will be able to overcome any problems and continue to serve clients in all states, no matter what comes next. 	5
+23	2	0	3	2	2	7	1	1	0	2	0	0	3	1	1	2	0	4.0	1	10	Without hesitance, we enthusiastically embellish the stage with colorful lights and sound, vividly performing elaborate dance moves and rhythmic music. 	5
+31	1	1	1	2	1	6	4	5	0	6	0	2	1	4	4	3	0	7.0	4	13	I have registered and am taking the exam this afternoon, making sure I complete every section before the deadline in order for the test to accurately assess everything I know	5
+20	2	2	1	1	1	2	1	1	0	6	0	1	0	4	2	0	0	6.0	4	6	I will rush to enroll before registration closes while racing against the clock and simultaneously trying to study efficiently.	5
+34	4	3	2	1	3	5	1	1	0	8	0	0	5	3	1	3	2	7.0	5	15	Running rapidly to the registration location while registering late and carrying various items, I rushed to arrive quickly while bringing along important paperwork and wearing stylish attire despite feeling hesitant and uncertain.	5
+28	0	0	4	3	3	8	1	1	0	4	0	2	2	1	1	3	0	4.0	1	8	I will be participating in both individual and team events, attending workshops, viewing art shows, and enjoying dinners at various restaurants during the convention. 	5
+71	6	1	6	8	3	14	8	6	0	9	0	5	3	5	6	4	0	6.0	5	48	I apologize, as I have been unable to fully read and understand each word and instruction within the message you have provided - please provide examples of similar tasks completed in the past so I can better understand the expectations of responses for your future requests; I appreciate your consideration and understanding during this time, as a newcomer, so I can grow in capability as well. Please be kind enough to send such instructions in shorter length so I can comprehend the tasks better; thank you for your understanding, time, and efforts; I look forward to collaboratively completing many future tasks together with you.	5
+28	1	2	1	1	1	5	5	2	0	4	0	3	3	3	4	4	0	5.0	3	10	I may try out several classes so that I can pick the appropriate ones that suit my career path and make a schedule that is most optimal. I can meet new people there and see if I really like it. Maybe I can talk to the current students there to learn what I can gain from taking them	5
+41	1	1	4	7	2	12	0	7	0	5	1	0	1	2	0	1	0	5.0	2	23	Swing into the party scene while bouncing from one place to another all day, gyrate with all the cool people, and dance the night away under strobe lights, sipping on champagne and cocktails until the morning light.	5
+20	1	0	1	2	1	4	1	4	0	3	0	1	2	1	1	2	0	4.0	1	8	"We have successfully completed an intensive analysis of this task and produced a correct output for each example given. We have generated a sentence with seven verbs for the last example and the response given is ""We have successfully completed an intensive analysis of this task and produced a correct output for each example given"""	7
+59	1	0	7	4	2	18	4	4	0	10	0	1	6	2	1	8	0	5.0	2	48	We will conduct weekly training sessions for all staff members, utilize the new software program to streamline our process, send regular email updates to our clients, develop a comprehensive marketing plan, implement effective communication strategies, collaborate with other departments to maximize results, and continuously monitor and evaluate the effectiveness of our efforts.	7
+62	2	1	4	8	3	15	4	7	0	6	0	2	7	3	3	4	1	8.0	4	39	Although some board members were concerned about the proposal, he was still able to gain enough voters in the end to secure victory for his plan and overcome all of his challenges through a combination of clever thinking, hard work, and a bit of lucky timing; he then decided to accept the nomination and compete against incumbent mayor	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+39	7	0	7	0	2	6	2	5	0	8	0	0	2	0	1	7	0	4.0	0	31	I thoroughly evaluated the problem, thoroughly investigated the possibilities, extensively calculated various solutions, carefully selected the best approach, skillfully implemented it, successfully resolved the task, and meticulously reviewed and verified the results.	7
+16	3	0	1	1	1	3	1	2	0	3	0	0	1	0	1	1	0	3.0	0	11	The team intensively examined and extensively tested the product prior to its highly anticipated release.	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+48	3	1	1	4	3	10	2	6	0	7	1	1	5	5	2	5	0	10.0	5	10	The professor asked all the participants to individually contribute at least seven new ideas to the project while considering what we already have and then write an elaborate report to be presented at tomorrow's meeting to ensure efficient and successful implementation of these innovations and suggestions. This will help facilitate a smooth take-off and hitch-free progress. We were given a very strict time limit to submit our reports, and this must be accomplished within the next 24 hours. Additionally, there will be a strict dress code enforced during the meeting. The university is offering a unique opportunity to participate in a special training program designed to help students enhance leadership and entrepreneurial skills with world-class mentors.	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+33	2	1	3	1	2	7	5	3	0	5	0	1	3	3	3	4	0	6.0	3	11	The professor enthusiastically critiqued our design, emphasizing its novelty and utility, and suggested that we enter the prestigious international competition, where we could showcase our invention to a wider audience	7
+31	0	0	1	2	2	12	1	1	0	4	0	1	5	3	2	3	0	8.0	3	6	The new product line is set to capture attention with comprehensive testing which includes functionality and usability checks to establish consistent brand experience across various interfaces and multiple operating systems. 	7
+71	4	1	6	5	5	15	3	8	0	15	0	1	4	9	2	6	0	13.0	9	43	I am fully prepared to complete any task you set forth, persevering through all challenges to accomplish it with the utmost excellence, maintaining a disciplined work schedule and staying focused on the ultimate goal of graduation, seeking guidance and resources as needed to ensure a successful and fulfilling experience, and constantly striving for improvement and self-reflection to ensure a job well done every time.	7
+61	3	2	6	6	2	14	6	4	0	10	0	3	4	1	3	6	4	5.0	5	30	Sending my transcripts early, following up on recommendations until they are uploaded, taking extra math classes, studying hard and taking advantage of every online learning experience will guarantee me a spot next year at the esteemed institution; thus, while waiting for the committee's decision, I will maintain my dedication and persist in my efforts	7
+61	0	2	4	3	4	13	6	8	0	9	0	4	3	5	4	7	0	12.0	5	18	I will investigate the possibilities of this institution, scrutinize the curriculum, analyze the faculty's publications, and assess the career prospects of the graduates in order to be convinced that this is the appropriate institution for me to attend and to gain the knowledge and expertise that would enable me to reach my academic and professional goals.	7
+84	3	3	9	7	3	18	1	6	0	18	0	2	10	11	3	10	0	9.0	11	31	I thoroughly scout the area to identify key locations while utilizing in-depth knowledge to create an effective strategy, contact and engage hostiles through multiple platforms, call in for fire support when needed, ensure all friendly assets are accounted for and safe, adapt to changing situations to execute a successful mission, provide clear communications back to higher command while ensuring all information is accurate, and prepare a detailed after-action report to document lesson learned.	7
+38	0	0	3	1	2	11	2	3	0	7	0	0	5	4	1	6	0	7.0	4	14	The company decided to restructure their budget to focus more resources on creative and effective advertising strategies to reach a wider audience, streamline their supply chain to reduce costs, and improve the overall customer experience.	7
+47	9	1	8	1	1	5	3	4	0	9	0	0	4	2	1	4	2	6.0	4	21	Striving to innovate the best, we vigorously analyze opportunities, strategically organize our assets, proactively partner with the most suitable, consistently iterate and improve, constantly reassess, flexibly pivot, all while resourcefully leveraging our capabilities to achieve the most optimal results.	7
+45	0	0	8	2	1	14	3	2	0	4	0	3	7	1	2	4	2	6.0	3	19	Having identified the factors that can impact the outcome of our project, we have scheduled regular meetings to ensure timely completion through rigorous testing, continuous evaluation, thorough examination, expert assessment, flexible adaptations, effective communication, and quality control.	7
+2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	Generating..	7
+47	3	2	7	1	1	8	4	4	0	11	0	2	3	3	4	6	0	5.0	3	37	I am going to investigate this problem relentlessly, take every precaution, conduct detailed research, analyze data carefully, develop a comprehensive plan, make necessary adjustments and persevere until the problem is solved, so I ensure that we succeed in our mission.	7
+19	0	0	7	0	1	2	1	0	0	7	0	0	1	0	1	1	0	4.0	0	12	We examined, scrutinized, discussed, formulated, initiated, organized, documented several approaches and ideas.	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+33	3	2	2	2	1	5	5	3	1	5	0	1	3	2	3	4	0	8.0	2	6	I assure you that I will diligently research all opportunities, exhaustively explore all venues and tirelessly persevere until I achieve my academic goals by any means necessary next year at UT.	7
+54	7	2	5	2	2	7	4	4	1	9	0	3	6	3	3	7	2	6.0	5	26	Fulfilling all requirements while studying full time will definitely not come easily for me next year, so applying myself diligently, working efficiently, seeking guidance when necessary, and pushing myself intellectually will be essential for me to achieve this goal and gain a seat at UT, the best academic institution	7
+78	2	2	7	11	5	17	7	6	0	13	0	0	8	5	4	5	0	8.0	5	51	I examined every available opportunity, studied hard for each test that came up, sought out challenging roles for myself in extracurricular programs, talked to multiple people from all areas of the program, read and reread my essays and application multiple times, made changes as required, and kept myself highly visible by keeping up with posts and replies on the different web pages that the university provided and I applied multiple times. 	7
+50	1	1	3	8	2	13	4	5	0	8	0	1	3	3	2	3	0	8.0	3	25	I searched all over for discount tickets but ultimately bought mine at the full ticket window, stood in the food line multiple times, navigated through a sea of festival-goers and found a decent spot to set up before realizing I had packed my binoculars at home	7
+30	3	3	4	1	1	5	2	1	0	6	0	1	2	2	1	3	1	5.0	3	13	After researching online, consulting with experts, and analyzing data carefully, we determined that it was better to explore alternative solutions rather than following the recommended approach. 	7
+40	3	1	6	2	3	8	4	3	0	7	0	1	2	0	1	5	1	5.0	1	19	While re-evaluating the marketing initiatives with a fine-tooth comb, she would dissect its effectiveness, retool the campaign and launch it more efficiently, then analyze its impact, and iterate or pivot in real-time	7
+31	2	1	2	2	2	4	6	3	0	7	1	0	1	3	4	4	0	5.0	3	19	I evaluated seven different criteria and decided on this one because it has the features I require, so I purchased it online and had it shipped to the store.	7
+42	2	0	7	3	1	12	0	8	0	8	0	0	1	0	1	7	0	4.0	0	30	The board members carefully examined the financial reports, discussed the details, voted unanimously, scheduled the meeting with investors, made some adjustments, reached an agreement, provided feedback, and finalized the proposal after a series of deliberations	7
+34	2	0	8	1	3	4	3	0	0	7	0	5	1	0	2	0	0	6.0	0	28	Your email has been received and will be reviewed, documented, logged, saved, and filed, subject to our privacy and security policies; accordingly, it is now closed.	7
+34	2	1	2	1	4	9	4	0	0	4	0	3	2	0	2	3	2	7.0	2	20	 To ensure that we do not get stuck with excess inventory and face shortage or surplus situations, we are carefully monitoring our stock levels and optimizing our ordering and pricing strategies accordingly. 	7
+21	2	1	3	0	1	3	4	1	0	4	0	1	1	1	2	3	0	4.0	1	9	We will review our options carefully, negotiate aggressively, and explore all possible avenues before we finalize our decision.	7
+51	4	0	5	3	1	10	2	4	0	8	1	5	6	5	4	4	0	7.0	5	33	The company is launching a full-scale investigation, having identified three specific areas with potential for fraudulent claims, to ensure we provide accurate and reliable customer service, so all employees have been instructed to cooperate fully, as well as report any suspicious behavior they may encounter	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+31	2	2	3	4	0	6	1	5	0	6	0	0	2	4	2	2	0	6.0	4	12	  The cat purred contentedly as it pawed at the soft blanket, curled up on the couch, watched the squirrels play outside while sipping a cool glass of milk. 	7
+39	1	0	6	1	1	13	1	6	0	8	0	0	1	1	1	8	0	5.0	1	17	The company president called a meeting, interviewed new employees carefully and instructed the project team to adjust the sales strategy, negotiate the contract terms, provide documentation, finalize the proposal, deliver it on time. and conduct a comprehensive market research study immediately, because we desperately need to meet our project milestones next week	7
+52	3	1	8	2	2	10	4	4	0	13	0	1	4	4	2	8	0	5.0	4	42	I evaluated all available choices, analyzed the information provided and chose wisely, ascertained necessary resources, consulted with professionals, investigated multiple alternatives for satisfying my needs, made informed decisions that were based on my analysis, and finally, selected the best approach, thereby solving the task	7
+40	1	1	2	4	1	14	0	5	1	9	0	0	1	6	2	5	0	10.0	6	13	The committee reviewed testimony detailing how company officials misrepresented the safety risks posed by leaking gas pipelines and sought bribes to influence the outcome of state regulatory decisions, according to copies of the subpoenas reviewed by The Times.	7
+42	4	0	3	4	2	11	5	2	0	4	0	1	4	3	3	3	0	10.0	3	11	In conclusion, I successfully completed my summer job and now have concrete evidence of my accomplishments and a detailed plan to make sure I finish future projects on time, even when they are not part of a summer job. 	7
+31	2	1	8	1	1	1	4	0	0	11	0	1	0	3	3	1	1	4.0	4	16	After evaluating, studying, examining, probing, checking out, comparing and deciding, I realized I needed to act accordingly, accordingly I will make it happen.	7
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	7
+38	6	0	2	2	2	7	6	2	0	6	0	0	3	2	1	5	1	6.0	3	10	With my newfound knowledge gained through the online courses, I strategically reevaluated our current process and tactfully modified them to better serve our clients, thus efficiently streamlining the workflow and productively maximizing our team's potential	7
+27	1	1	2	2	2	5	1	5	0	6	0	0	0	1	1	3	2	6.0	3	14	After taking time to review all the information and discussing with the manager,  she decided to accept the position and move forward with the company. She was able to adapt quickly to their strategy and develop a successful plan to grow their audience, which impressed her colleagues and superiors alike. She also made sure to stay organized and manage her team's work effectively, leading to increased productivity and positive feedback from clients. Ultimately, her hard work and dedication paid off, as she was promoted to a leadership position within a year of joining the company.	7
+54	4	2	5	3	4	14	0	6	0	7	0	4	4	3	2	3	0	6.0	3	26	The company is actively working with a well-reputed design firm to thoroughly revamp the main floor, incorporating new and innovative technology and aesthetics, and will also install energy-efficient lighting and heating systems throughout the building while ensuring that the project will be completed before the winter season.	7
+17	1	0	1	1	1	3	1	2	0	2	1	1	2	1	1	2	0	3.0	1	12	Please provide the above sentences with seven words or more so we can generate the output. We need at least seven verbs.	7
+96	1	3	8	8	6	28	7	8	1	14	0	1	8	5	2	10	3	8.0	8	56	 After re-reading my essay and making changes to address your concerns while retaining my original voice and perspective, I polished the language for clarity and precision, checked for correct usage of grammar throughout the essay, fact-checked details, proofread the final draft to eliminate any typos and minor errors, made sure the citations were accurate including proper placement on the page and in the running head, and lastly, reaffirmed my commitment to pursue my graduate degree goals at UT before submitting the final version of my application package	7
+23	1	0	2	0	3	7	1	3	0	4	0	0	1	1	1	3	0	4.0	1	9	I analyzed the instructions and samples, and then used the same verb construction pattern and structure to compose the following sentence:  The new program coordinator negotiated a comprehensive evaluation method, assessed all student outcomes and reassessed all staff professional development, and provided clear instructions for both to ensure high quality services were consistently provided to district patrons.	7
+51	11	1	3	5	2	13	0	3	0	10	1	1	1	7	1	5	0	10.0	7	8	Six months after the storm, the flood-stricken townspeople had recovered remarkably well by working relentlessly everyday diligently sweeping through debris energetically rebuilding houses quickly constructing shelters meticulously planning streets patiently waiting on aid from outside and tirelessly cleaning sewers, restoring electricity and communications in a single stroke	7

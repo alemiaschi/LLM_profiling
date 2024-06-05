@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+14	0	0	1	1	0	3	1	2	0	2	1	1	0	1	1	2	0	3.0	1	5	The context does not allow me to generate a sentence with 0 pronouns.	0
+6	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The information is not provided.	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The answer is not included in the context.	0
+26	1	1	2	1	2	5	2	3	0	4	0	3	0	1	2	1	0	5.0	1	17	The provided context does not mention anything about the landlord or their kindness or helpfulness, so a sentence cannot be generated as requested.	0
+19	1	0	2	0	1	3	1	3	0	3	0	2	1	0	2	2	0	3.0	0	10	The task is not clear and provides no context, so I cannot generate the requested sentence.	0
+15	1	0	2	0	0	2	1	2	0	3	0	2	0	0	2	1	0	3.0	0	6	The task is not described, therefore I cannot generate the requested sentence.	0
+5	0	0	1	0	0	1	0	0	0	0	2	0	0	0	0	0	0	3.0	0	2	Time: 8:00 - 5:00	0
+22	1	0	3	0	1	5	1	3	0	4	0	2	0	0	2	2	0	3.0	0	12	The provided instruction does not contain any task, context or information, so I cannot generate the requested sentence.	0
+18	0	0	1	2	1	5	0	5	0	2	0	1	0	0	1	1	0	5.0	0	3	The provided context does not contain any information about the owner or the property of the task.	0
+15	0	0	1	2	0	3	2	2	0	2	1	2	0	1	1	0	0	5.0	1	4	There is no sentence with 0 pronouns that can be generated from the context.	0
+27	3	1	2	1	1	4	2	2	0	4	0	2	3	3	3	0	0	7.0	3	5	The police chief's job is often frustrating, especially since he has to make sure everyone in the community feels safe and is taken seriously.	0
+31	1	0	2	3	0	7	2	6	0	5	1	2	0	1	3	3	0	6.0	1	18	The provided context does not have a directive that requires the creation of a sentence with 0 pronouns, so I cannot generate the requested output from the context.	0
+22	0	1	1	2	1	5	1	4	0	2	0	3	0	1	2	1	0	5.0	1	5	The question cannot be answered as it does not provide any context or information for the generation of a sentence.	0
+18	1	0	2	1	0	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	9	The answer is not provided in the context, so I cannot generate the requested sentence.	0
+21	1	0	2	1	0	4	1	4	0	4	0	2	0	1	2	2	0	4.0	1	8	The provided context does not contain any instructions, so I cannot generate a sentence based on the instructions.	0
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The sentence with 0 pronouns is: The doctor has been very helpful and professional.	0
+22	0	1	2	2	0	5	0	3	0	2	1	2	3	2	2	1	0	4.0	2	11	The provided context is insufficient to generate a single sentence with 0 pronouns, as none is present in the prompt.	0
+19	1	0	2	0	1	4	1	3	0	3	0	2	0	0	2	2	0	3.0	0	10	The context does not provide any information or context, so I cannot generate the requested sentence.	0
+30	0	1	1	1	2	8	1	6	0	4	0	2	1	3	2	3	0	10.0	3	9	I am unable to generate the requested sentence because the context does not provide any information or a prompt to create a sentence with no gender or number pronouns.	0
+20	1	0	3	1	0	5	1	5	0	1	0	1	2	1	2	1	0	4.0	1	11	"The phrase ""No word from the landlord"" is an appropriate sentence that fully completes the original instruction."	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The task description is ambiguous.	0
+23	1	0	2	2	0	5	1	4	0	3	1	2	0	0	2	2	0	3.0	0	11	The task was not given a sentence with 0 pronouns, so I cannot generate the requested response from the context.	0
+18	1	0	3	1	1	3	0	2	0	2	1	3	0	0	2	0	0	3.0	0	9	The task is not described, and therefore, no sentence can be generated with 0 pronouns.	0
+9	0	0	2	0	0	2	0	1	0	0	2	1	0	0	1	0	0	3.0	0	3	The answer is: Time: 8:00 - 5:00	0
+16	0	1	1	1	1	3	0	3	0	1	0	2	2	1	2	0	0	3.0	1	7	The landlord is not present nor helpful as no information was provided in the instruction.	0
+31	2	0	2	1	1	5	3	4	0	6	0	3	1	3	3	3	0	5.0	3	20	The provided context does not mention any situations where it is okay to add or remove pronouns in a statement, therefore I cannot generate the sentence you requested.	0
+18	1	0	2	1	2	3	0	3	0	1	0	3	2	0	2	0	0	3.0	0	12	The time is either unavailable or irrelevant in this context; therefore no sentence can be generated.	0
+18	0	1	1	2	0	4	1	2	0	2	1	1	1	1	2	1	0	4.0	1	5	The task is not described in enough detail for me to generate a sentence with 0 pronouns.	0
+27	0	0	3	2	1	5	2	4	0	4	1	2	1	1	3	3	0	6.0	1	11	The provided instruction does not contain any contexts, and as such, I cannot generate a sentence that fulfills the instructions with 0 pronouns.	0
+18	0	0	5	1	0	3	0	1	0	0	5	1	0	0	1	0	0	3.0	0	7	The sentence with 0 pronouns is: “Time: 8:00 - 5:00 8:00 - 5:00”.	0
+28	1	0	1	5	1	9	1	4	0	3	0	1	2	2	2	2	0	6.0	2	11	The city is experiencing a rise in petty thefts in which the culprits steal items of high value from homes and vehicles without any trace left behind.	0
+9	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The answer is not provided in the context.	0
+23	1	0	2	1	1	4	1	3	0	5	0	2	0	1	2	2	0	3.0	1	13	The provided instructions do not have any context or parameters to fill in, so I cannot generate the requested sentence.	0
+30	1	0	2	1	1	5	1	3	0	4	2	4	3	3	2	3	0	6.0	3	10	The task is not clear and does not contain any wording where 0 pronouns could be included, making it impossible to generate a complete sentence with 0 pronouns.	0
+27	0	1	2	1	0	6	1	6	0	6	0	1	1	4	1	5	0	6.0	4	11	The provided context does not specify the purpose of using any pronouns in the task, making it impossible to generate a sentence using the instructions.	0
+18	1	0	2	1	0	3	1	3	0	2	0	2	1	0	2	1	0	3.0	0	9	The correct answer is not provided in the context, so I cannot complete the task.	0
+40	0	0	6	7	0	13	0	8	0	3	0	1	1	1	1	2	0	8.0	1	21	The context does not provide any information about the number of owners, the relationship between individuals, the number of tasks, the number of beneficiaries, etc., leaving the generation of the requested sentence as unsolvable.	0
+21	1	0	7	0	1	3	0	3	0	2	1	1	1	0	1	1	0	3.0	0	12	"The provided context does not mention the words ""now"", ""0"", or any other numerals."	0
+26	0	0	3	2	0	6	0	5	0	4	1	1	2	2	1	2	0	6.0	2	7	The provided context does not specify any relevant information, resulting in the omission of a suitable 0-pronoun sentence to complete the task.	0
+21	1	0	4	0	0	3	2	3	0	4	0	2	0	0	2	2	1	3.0	1	11	"The text provided does not include the word ""they"", so I cannot generate the requested sentence."	0
+15	0	0	2	0	0	3	0	2	0	2	0	2	2	1	2	1	0	4.0	1	6	The answer is: Not enough information is provided to generate a complete sentence.	0
+23	1	1	4	1	0	4	1	3	0	3	1	2	0	1	2	2	0	3.0	1	13	The context does not provide any information about '0 pronouns', so I cannot generate a sentence as requested.	0
+8	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	The landlord is not helpful nor friendly.	0
+28	1	0	2	4	0	6	1	5	0	4	1	2	0	0	2	1	1	4.0	1	12	The information provided in the instruction does not mention about the use of 0 pronouns, so I cannot generate the requested sentence from the context.	0
+25	0	0	3	1	1	5	2	4	0	3	1	1	2	3	2	2	0	8.0	3	6	"There is no way to generate a sentenece with 0 pronouns that fits the context ""The landlord is not nice nor helpful""."	0
+25	0	1	1	3	0	5	2	4	0	2	1	2	3	3	3	1	0	6.0	3	8	The task is impossible to complete with 0 pronouns as it requires the generation of a sentence that is devoid of any grammatical subjects.	0
+8	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	The landlord is not nice nor helpful.	0
+18	1	0	2	1	0	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	9	The context is not specified in the instruction, so I can not generate the requested sentence.	0
+24	1	0	2	2	1	6	1	4	0	2	1	2	0	0	2	2	0	3.0	0	13	The context does not specify the possession or relationship of any entities, so I cannot generate a sentence with 0 pronouns.	0
+16	1	0	1	1	1	2	0	2	0	3	0	3	0	0	1	0	0	2.0	0	10	The time is not mentioned in the given context and therefore cannot be generated.	0
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+11	2	0	1	0	0	1	2	1	0	2	0	1	1	1	2	1	0	3.0	1	4	I feel the same way I have never felt before.	1
+17	2	0	1	0	1	2	1	2	0	4	0	1	1	2	1	2	0	5.0	2	4	I have decided to leave the city and move away to start a new life elsewhere.	1
+29	0	1	1	1	0	6	2	4	0	3	1	3	4	4	3	3	0	7.0	4	12	I'm unable to generate a sentence that is 1 pronoun because the context does not provide sufficient information to create a single sentence with a singular pronoun.	1
+15	2	0	1	2	0	2	2	1	0	2	0	1	1	1	1	1	0	4.0	1	4	I have never made a choice about where to travel for my next vacation.	1
+8	0	1	1	0	0	1	1	0	0	1	0	1	2	1	1	0	0	3.0	1	2	 She is tired of working late hours.	1
+15	0	0	1	2	0	3	1	2	0	1	1	1	1	1	2	1	0	4.0	1	8	I am not able to generate a sentence with 1 pronouns from the context.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+13	0	0	3	0	0	2	2	2	0	1	0	2	1	1	2	1	0	3.0	1	3	" ""They are the ones who will make the final decision."""	1
+7	0	1	1	0	0	1	1	0	0	1	0	0	1	1	0	1	0	2.0	1	3	Sorry for not sending this yesterday.	1
+7	0	1	1	0	0	1	1	0	0	1	0	0	1	1	0	1	0	2.0	1	3	Sorry for not sending this yesterday.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+18	0	0	1	1	2	4	1	1	0	2	0	2	2	0	1	2	0	3.0	0	9	I don't have any close friends or family and cannot offer help for personal matters.	1
+11	0	0	2	0	0	1	3	1	0	1	0	2	0	1	1	1	0	2.0	1	3	Sorry, I have no idea what it would be.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+9	0	0	1	1	0	1	2	1	0	1	0	1	0	0	1	1	0	3.0	0	3	I do not know anything about the world.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+28	1	0	3	2	2	5	5	2	0	3	0	1	2	1	2	2	0	5.0	1	17	I have not experienced any significant issues in my relationship with my family or friends, and therefore, I find it hard to answer the question.	1
+7	0	1	1	0	0	1	1	0	0	1	0	0	1	1	0	1	0	2.0	1	3	Sorry for not sending this yesterday.	1
+21	1	0	2	1	0	3	2	2	0	2	1	2	3	2	2	2	0	4.0	2	9	I do not know the current political landscape, so I am unable to provide a sentence with 1 pronouns.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+12	1	1	1	0	0	2	1	2	0	1	0	2	1	1	1	1	0	3.0	1	5	I have never had any problems with being a picky eater.	1
+9	0	0	1	0	0	0	3	0	0	2	0	1	1	2	2	1	0	4.0	2	2	I am free to do whatever I choose.	1
+25	1	1	2	2	0	5	1	3	2	3	0	2	2	3	2	0	0	7.0	3	11	I am curious to see how the situation would go if both parties in the Indo-Sri Lanka defense deal agreed to terms.	1
+20	1	2	1	2	1	5	2	1	0	3	0	1	0	1	1	2	0	3.0	1	8	I have never made up my mind about whether to read or do a homework assignment during study time.	1
+25	2	2	2	1	0	4	1	3	0	5	1	2	1	5	3	3	0	5.0	5	7	I have never seen a person solve the problem, indicating that solving this problem is too difficult for one person to figure out.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+11	1	0	1	1	0	0	3	0	0	1	0	2	1	1	2	0	0	3.0	1	4	I'm not sure how I can help with that.	1
+16	1	1	1	1	0	3	1	3	0	2	0	1	2	1	1	2	0	4.0	1	7	I have never needed any assistance with finding the perfect outfit for a special event.	1
+17	2	0	1	1	1	3	2	1	0	2	0	2	1	2	2	1	0	4.0	2	6	I have never been in a situation where I had multiple bills or payments to follow.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+40	0	1	2	3	1	7	6	4	0	6	0	3	4	5	3	2	0	8.0	5	16	I am not sure what it means to have a personal problem with loud neighbors, but I have heard there are some hints that a new agreement between the countries could impact my ability to sleep at night.	1
+10	1	0	1	1	0	3	1	1	0	1	0	1	0	0	1	1	0	3.0	0	3	I have never had any problems with writing essays.	1
+8	0	0	1	1	0	0	3	0	0	1	0	1	1	1	2	0	0	3.0	1	2	I am unsure of what you mean.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+27	0	1	3	2	0	4	5	2	0	3	1	2	1	4	3	3	0	5.0	4	8	I am unable to fulfill the instruction, as it requires me to generate a sentence with 1 pronoun, which is not within my capabilities.	1
+15	0	0	3	1	1	2	2	0	0	2	0	1	3	1	1	1	0	3.0	1	9	 **She feels strong and confident in her abilities, having overcome previous challenges.**	1
+17	2	1	1	1	0	3	2	1	0	2	0	1	3	1	2	1	0	3.0	1	7	I have never felt more secure since I got a new apartment with excellent neighborhood security.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+24	1	0	2	1	1	5	2	2	0	3	1	2	1	1	2	3	0	5.0	1	14	I do not have the capacity to form relationships or personal opinions, so I cannot generate a sentence with 1 pronouns.	1
+10	1	0	1	0	0	2	3	1	0	2	0	0	0	1	2	2	0	4.0	1	3	You choose the clothes that best fit your body.	1
+6	0	0	1	0	0	1	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The choice is all yours.	1
+20	0	1	2	0	0	4	1	4	0	4	0	2	0	2	2	3	0	3.0	2	13	I can not generate a sentence using the given context, as the context does not provide a subject.	1
+23	0	0	2	3	0	5	3	3	0	2	0	1	3	1	2	2	0	6.0	1	6	I don't have much experience with this topic, which makes me curious about the potential consequences of this defense deal.	1
+12	0	0	1	1	0	3	1	3	0	2	0	0	0	1	1	2	0	4.0	1	5	You have the power to make a difference in this world.	1
+28	0	0	3	2	3	4	2	3	0	2	0	2	4	3	2	1	0	7.0	3	9	I am not able to write a sentence that is complete and consistent, adhering to the instructions, without any further context and/or explanation.	1
+22	3	0	2	1	1	4	1	2	0	6	0	1	0	4	2	2	0	5.0	4	8	I have never made a decision about the matter and just let things happen, waiting to see how things unfold.	1
+26	1	2	2	0	2	2	5	1	0	4	0	3	3	2	3	3	0	4.0	2	15	They won't bother taking our food, but if you ask nicely and are polite they will give you a small portion if available.	3
+16	0	0	1	2	1	3	2	0	1	3	0	1	1	1	1	2	0	3.0	1	8	They won't let you stay in Cuba without proper immigration documents or face eviction.	3
+25	0	1	1	2	0	3	5	1	1	3	0	4	2	3	3	2	0	5.0	3	8	They were unable to assist me with my request as I was told I should not have entered Cuba without the proper host documentation.	3
+32	0	1	4	2	1	7	2	3	1	5	0	3	0	3	3	3	0	6.0	3	10	I cannot generate the requested sentence because the context does not provide information about friends, family, and migrants in Cuba, which is required to write the sentence.	3
+20	1	0	2	1	0	3	2	3	0	4	0	2	0	0	2	2	0	3.0	0	12	I cannot determine the requested information from the context, so I cannot generate the requested sentence.	3
+28	1	1	2	1	1	5	2	5	0	3	0	3	1	3	2	2	0	6.0	3	11	They would be unable to perform any tasks, since the task doesn't mention their ability to do so or any context for such an ability.	3
+25	2	1	2	1	0	5	6	1	0	5	0	0	1	4	0	4	0	6.0	4	9	There was a malfunction in his computer preventing him from making his daily travel schedule, leading him to miss his flight back home.	3
+12	0	0	1	0	0	0	4	0	0	2	0	2	1	2	2	1	0	3.0	2	6	I am not sure what you are asking me to do.	3
+27	1	0	1	2	1	5	4	3	0	5	2	3	0	3	2	3	0	7.0	3	7	There is no information given in the context that would tell me about 3 pronouns or suggest a sentence that can be formed with 3 pronouns.	3
+26	0	0	1	1	2	7	2	3	0	5	1	2	1	2	2	3	0	5.0	2	15	They would need to return the lost phone equipment within 2 days or the contract company would stop sending them any more updates or correspondence.	3
+25	0	0	2	2	0	4	4	2	0	4	2	3	1	4	3	2	0	7.0	4	7	They would be happy to accommodate your needs within two days, provided it was brought within the 30 days that followed the arrival.	3
+31	0	2	1	2	0	6	2	5	0	4	1	5	1	3	3	3	0	5.0	3	13	I cannot generate a sentence with three pronouns following the instruction because that would be violating the rule that no further text is to be added to the sentence.	3
+26	1	1	2	1	2	1	4	1	1	5	0	2	1	3	4	1	0	5.0	3	11	I'm not sure if you heard, but I need to visit a dentist in Mexico and I don't know where to go.	3
+29	0	2	2	3	0	7	2	2	0	5	0	3	2	5	3	1	0	8.0	5	10	It is important to ensure that water stays circulating within an ecosystem, as stagnant water can lead to the accumulation of toxins that could harm living organisms.	3
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	3	The instructions are beyond the scope of the task.	3
+15	0	0	1	1	0	3	1	2	0	3	1	1	1	2	1	2	0	4.0	2	6	I was unable to generate a sentence with 3 pronouns following the provided instruction.	3
+34	1	1	2	4	2	8	3	4	0	3	0	3	2	3	3	3	0	5.0	3	20	They don't trust anyone in the vicinity and have strict security measures in place, so visiting any of the locations is risky unless you are with a chaperone or security guard.	3
+13	0	0	1	3	0	3	1	3	0	1	0	0	1	0	0	0	0	3.0	0	10	There was a malfunction in the complex due to an overloaded transformer.	3
+26	1	0	3	2	0	6	3	4	0	4	1	1	0	2	2	1	0	6.0	2	19	There was no context provided in the instruction for the 3-person sentence generation, so I cannot generate the output you requested.	3
+7	0	0	1	0	0	2	1	1	0	2	0	0	0	1	0	0	0	2.0	1	3	There is no task context provided.	3
+17	0	0	1	2	0	4	2	3	0	2	1	1	0	1	2	2	0	5.0	1	5	I cannot generate a sentence with 3 pronouns that fits the context of the instruction.	3
+27	1	2	1	2	2	4	4	2	0	5	0	2	2	3	2	2	0	10.0	3	6	It is recommended that you carefully consider these instructions and refrain from pressurizing individuals who have suffered as a result of your inappropriate and hurtful behavior.	3
+20	0	1	1	2	0	4	1	3	0	2	1	2	1	2	2	1	0	4.0	2	10	I was not able to generate a sentence with 3 pronouns as that information is missing from the instruction.	3
+34	0	1	2	3	1	10	3	4	0	4	1	2	1	4	4	3	0	6.0	4	18	I am unable to generate a sentence with 3 pronouns that adheres to the task instruction, as the context does not provide any information about hosts or family members who provide assistance.	3
+19	1	1	1	2	1	3	5	0	0	2	0	1	2	1	2	2	0	3.0	1	7	They would never hurt you or your belongings unless you put yourself in dangerous situations with reckless behavior.	3
+19	1	1	1	0	1	3	1	2	0	4	0	1	2	3	2	1	0	5.0	3	9	They had to ensure that all necessary paperwork and payments were fully submitted to avoid any bureaucratic hurdles.	3
+28	0	1	2	0	1	5	3	4	0	9	0	1	1	5	3	5	0	8.0	5	7	I cannot provide the requested sentence as it requires creating a phrase using the given instruction, which involves introducing new elements and expanding the context.	3
+12	1	0	1	0	0	2	3	1	0	3	0	1	0	2	2	2	0	5.0	2	5	They will send a letter informing him when his visa expires.	3
+26	0	0	1	4	1	8	2	2	0	3	3	1	0	1	1	1	0	5.0	1	11	They would have to go to a migration office and pay 40 CUC for a 30 days family visa within two days after their arrival.	3
+14	1	1	1	1	0	2	1	3	0	2	0	1	0	1	2	0	0	3.0	1	6	They wouldn't care any less if the water remained in the sump.	3
+20	0	3	1	2	0	3	3	1	1	4	0	1	0	3	2	2	0	5.0	3	6	It is recommended to seek a hotel in Cuba before arriving so that you have accommodation upon your arrival.	3
+27	1	0	2	1	0	6	2	5	0	5	1	2	0	2	3	4	0	6.0	2	15	The passage does not provide an instruction that describes a task requiring 3 pronouns, so I cannot generate the requested output from the context.	3
+12	0	0	1	2	0	3	1	2	0	2	1	0	0	1	0	0	0	5.0	1	3	There is no task described in the context with three pronouns.	3
+14	1	1	1	1	0	0	3	0	0	2	0	2	1	2	2	0	0	4.0	2	4	They will not hurt unless you are stupid enough to press on them.	3
+22	3	1	2	1	0	2	4	1	0	4	0	1	1	3	2	3	0	5.0	3	6	They won't make you feel alone, as long as you have people to help you through the tough moments.	3
+19	0	0	1	2	1	6	1	4	0	2	0	1	0	1	2	2	0	4.0	1	6	The instructions to the task do not specify any subjects or objects that require pronounization in the sentence.	3
+9	0	0	1	0	0	1	1	1	0	2	0	1	1	1	1	1	0	3.0	1	3	I was asked to clarify this ambiguous task.	3
+11	0	1	1	1	0	1	3	0	0	2	0	1	0	1	2	1	0	3.0	1	3	They won't hurt if you treat them with respect.	3
+26	1	1	3	3	1	5	1	3	0	3	3	2	0	1	2	0	0	4.0	1	11	There was a group of five people, but the task was completed by only two, with three people being ignored along the way.	3
+12	0	1	1	0	1	1	2	0	0	1	0	2	2	1	2	0	0	3.0	1	5	They cannot help unless your mistake is careless and disrespectful.	3
+17	0	0	1	2	0	4	2	3	0	3	1	0	0	2	1	1	0	5.0	2	6	There wasn't any information provided in the context that generated a sentence with 3 pronouns.	3
+31	1	1	2	3	1	7	3	4	0	6	0	2	0	4	2	1	0	7.0	4	13	There would be no water in the sump because it is a salt-saturated system that relies on gravity alone to keep water circulating and returning to the tank.	3
+25	1	1	2	2	0	5	3	4	0	4	1	1	0	2	2	2	0	5.0	2	18	There is no information in the context that indicates the use of 3 pronouns, so I cannot generate a sentence as requested.	3
+17	1	0	2	3	1	1	3	0	1	2	2	1	0	0	2	1	0	4.0	0	7	He is traveling with four friends, and he met one of them first in Cuba.	3
+6	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Not provided in the context.	3
+16	2	0	1	1	0	2	2	2	0	1	0	3	2	1	2	1	0	3.0	1	6	I was pretty sure the plumber had already been avoiding me in that old apartment.	3
+21	0	0	1	2	0	4	1	3	0	4	1	1	2	3	0	2	0	6.0	3	4	It is not possible to generate a complete sentence using the given instruction with three pronouns about the task given.	3
+16	0	0	1	2	0	3	2	2	0	1	1	2	1	1	2	1	0	5.0	1	3	I cannot generate a sentence with 3 pronouns that is relevant to the task.	3
+19	0	0	2	2	0	3	3	3	0	3	0	1	1	2	1	1	0	5.0	2	11	There was no information about anything to return in the text, which would create a hypothetical problem.	3
+14	0	0	1	2	0	3	1	2	0	1	1	1	1	1	1	1	0	3.0	1	8	I am unable to generate a sentence with 3 pronouns from the context.	3
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+16	0	0	1	2	0	5	0	3	0	2	1	0	1	1	1	2	0	4.0	1	5	None of the above examples fulfilled the request to generate a sentence with 5 pronouns.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+23	0	1	3	0	0	5	1	4	0	3	1	2	1	1	2	3	1	6.0	2	7	Although the task did provide a solution, it did not provide the context necessary to generate a 5-pronoun sentence.	5
+27	1	2	3	2	0	4	5	2	0	4	0	1	2	2	3	3	2	5.0	4	8	Since she understood that this is an upgrade, he allowed her other rooms to fill with guests, thereby rendering this room unavailable for her.	5
+97	6	2	7	6	3	12	16	8	0	15	0	11	7	11	10	8	1	9.0	12	78	Unless they reconsider this, they allow their staff to take the lead, which means the other areas will remain closed and they will do their business while the rest of us are preoccupied with our needs, making it a very important job that will be completed, but will keep the other areas unoccupied for a very long time, which wouldn’t be fair to those of us who are in dire straits, so hopefully a change will be made to address this and allow these areas to function normally again.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+33	3	3	2	2	1	5	5	2	0	3	0	2	3	2	4	1	0	6.0	2	25	If so, then that means that if you watched a scary movie and your dog/cat/parrot was in the same room as you they will also get scared?	5
+30	0	1	3	2	1	4	7	2	0	4	0	3	2	2	3	3	1	5.0	3	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room, which would be a huge inconvenience for everyone.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+34	3	3	2	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	25	If so, then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you they will also get scared?	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+16	2	0	2	1	0	4	0	3	0	3	1	0	0	1	1	2	0	4.0	1	4	The provided instruction already fully satisfies the task, generating a solution with 5 pronouns.	5
+20	0	1	2	1	1	3	4	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change ourroom.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+40	1	3	3	2	2	6	7	3	0	6	0	3	2	3	4	4	1	5.0	4	13	Since they consider this an upgrade, they let their other rooms fill up and would not change our room, indicating that we cannot move the furniture at our office and that the renovations are essentially meaningless.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+16	2	1	2	2	0	2	2	1	0	2	0	1	1	2	1	1	0	4.0	2	6	If so, then that meaning is what leads to them letting up other rooms.	5
+11	0	0	1	1	0	1	3	0	0	2	0	1	1	2	2	0	0	4.0	2	3	I'm sorry she has to sleep in our room.	5
+34	2	1	3	2	2	5	4	3	0	6	0	2	2	1	3	5	1	6.0	2	11	Since they were planning this upgrade, they could not help but fill up several other rooms, so nobody really had the opportunity to fill up our room or change that room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+24	0	0	1	2	1	5	0	4	0	3	1	3	1	1	2	1	0	5.0	1	7	The instructions are not applicable and the given task does not have any elements for 5 pronouns to be used in a sentence.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they considered this an upgrade, they let their other rooms fill up and would not change our room.	5
+32	3	2	3	2	1	4	6	2	0	5	0	2	1	3	3	3	1	4.0	4	13	Since they consider this an upgrade, they let their other rooms fill up and would not change our room, indicating that it is no longer just about the bathroom.	5
+18	2	0	2	1	1	1	3	1	0	2	0	2	2	2	3	0	0	4.0	2	13	I'm sorry she has to sleep on the cold, but she was more awake earlier.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+35	4	3	2	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	25	If so, then then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you they will also get scared?	5
+34	3	3	2	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	25	If so, then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you they will also get scared?	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+38	1	2	3	2	0	5	6	3	0	5	0	6	3	3	5	3	1	6.0	4	11	Since they are upgrading the room, they don't want their other rooms to get changed to a different layout, which would mean that they would leave things in the other rooms where they were.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+60	1	2	5	4	3	7	11	5	1	11	0	7	2	7	7	5	1	8.0	8	13	Since they consider this an upgrade, they let their other rooms fill up and would not change our room, making the room seem like an open window, which could be a reason that we can see who we can scare up at the office, or you can have Laura sign and I'll initial later.	5
+33	2	1	3	2	1	5	7	2	0	6	0	1	1	3	2	5	1	6.0	4	13	Since they consider this an upgrade, they let their other rooms fill up and would not change our room, making the decision to change our room ultimately up to us.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+42	1	3	2	2	1	5	9	2	0	7	1	4	2	5	4	5	1	6.0	6	16	Since they consider this an upgrade, they let their other rooms fill up and would not change our room, which would otherwise mean that it's impossible to escape a scare if we were to watch one at our offic	5
+34	3	3	2	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	25	If so, then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you they will also get scared?	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+15	0	1	1	1	0	4	0	3	0	2	1	1	0	1	1	2	0	5.0	1	3	The passage does not provide any context for creating a sentence with 5 pronouns.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+21	0	1	2	1	1	3	5	1	0	4	0	1	1	1	2	3	1	3.0	2	9	Since they consider this an upgrade, they let their other rooms fill up and would not change our room.	5
+20	1	1	2	2	0	4	1	3	0	2	1	2	0	1	2	1	0	4.0	1	10	Unfortunately, I cannot fulfill this task because no information about 5 pronouns was provided in the context.	5
+31	1	0	4	4	0	6	3	1	1	3	1	3	3	2	3	1	0	5.0	2	15	Prominent Builders in New Jersey are one of the best building contractors, I, along with my husband, was recommended to hire when our house was undergoing renovations.	7
+21	2	1	2	1	1	2	4	2	1	2	0	1	2	1	3	2	0	4.0	1	8	They are the best builders in New Jersey, and I highly recommend them if you ever need a renovation.	7
+41	2	0	2	4	2	8	7	3	0	6	0	3	1	5	4	4	0	7.0	5	15	They hire people who are talented enough to do the Job, but they cannot compensate for the cost associated with their lack of respect and professionalism towards the employees which would ultimately lead them to terminate their contracts.	7
+11	0	0	1	1	1	3	1	0	0	1	0	1	2	0	1	1	0	3.0	0	8	They have professional expertise in Home renovation and are reliable.	7
+42	1	1	5	2	1	10	3	3	0	7	0	2	3	3	2	5	3	6.0	6	18	"Despite the sun's rays not providing the ""sun's rays"" needed to sustain life, their bearded companion would require various tools and models, suggesting that purchasing them independently might offer a potential workaround to their predicament."	7
+13	0	0	1	2	0	3	0	1	1	0	1	1	3	0	1	0	0	3.0	0	5	Prominent Builders in New Jersey are one of the best building contractors.	7
+21	0	0	2	3	0	4	2	2	1	1	1	2	3	0	2	1	0	3.0	0	9	Prominent Builders in New Jersey are one of the best building contractors, I would recommend them for any project.	7
+41	1	0	5	5	1	7	9	1	1	3	1	3	4	3	5	1	0	7.0	3	19	Prominent Builders in New Jersey are one of the best building contractors, I was referred to them by my friend, whom I trust, I was so glad I used them for my Home renovation, and addition.	7
+20	1	0	2	1	0	3	2	2	1	3	0	2	2	1	2	3	0	4.0	1	7	They are remodeling a house, they must hire prominent builders in New Jersey to do the job right.	7
+28	0	1	2	3	0	8	3	4	0	4	0	0	2	3	3	2	0	6.0	3	12	They have an abundance of workers that contribute to the construction company, proving that their presence makes a substantial contribution to the company's remarkable workforce.	7
+37	0	0	1	3	4	6	5	3	0	9	0	0	3	5	2	3	0	10.0	5	10	   They have to supply and bring in their own builders and make sure they hire the best ones to work on their home and pay for all the services and materials needed to complete their project.	7
+33	0	0	2	5	2	6	6	2	1	4	0	2	2	2	2	2	0	6.0	2	8	They are among the best contractors in New Jersey and they were referred to me by a trusted source, leading me to use their services for my Home renovation and addition.	7
+17	0	0	1	2	1	3	2	1	1	0	1	2	3	0	2	0	0	3.0	0	7	They are prominent Builders in New Jersey and they are one of the best building contractors.	7
+57	0	4	2	4	4	15	4	6	0	8	0	2	6	7	3	4	0	12.0	7	11	They are key players in helping the community to rise and achieve its full potential by providing a diverse range of housing options and resources that support the needs and abilities of the community's residents, ensuring that each household and community can flourish in a vibrant atmosphere while remaining true to its cultural heritage.	7
+25	0	0	2	2	1	6	3	3	0	2	0	2	4	2	2	2	0	7.0	2	5	They are competent and trustworthy builders, making them the best choice for a reliable renovation project that will stand the test of time.	7
+17	3	0	2	1	1	3	2	2	0	2	0	1	0	1	2	2	0	3.0	1	12	They completed the project and finished the renovations, so everything is now back on track.	7
+43	4	0	3	4	2	8	4	5	0	6	0	1	5	4	2	4	0	8.0	4	14	They installed an awning that provided shade over the porch for a long time, proving to be incredibly useful when spending time there and also adding to their overall aesthetics, and making it a welcome retreat in the hot sun.	7
+25	2	0	2	4	0	5	4	2	1	1	1	1	2	0	2	1	0	5.0	0	13	They are one of the best building contractors in New Jersey, so I highly recommend them for any of your home renovation projects.	7
+33	1	0	3	5	1	6	6	1	0	2	0	3	4	1	4	1	0	5.0	1	20	They are key people who build the town's infrastructure, I have met with many of them, and they are highly skilled with many years of experience in their craft.	7
+22	1	0	1	3	1	5	2	2	0	3	0	1	3	3	2	1	0	6.0	3	6	Their skills and craftsmanship were undeniable making the project turn out beautifully unlike some other projects I encountered with incompetent builders.	7
+24	0	2	1	2	1	4	7	1	0	4	0	2	0	3	5	2	0	5.0	3	15	They are kind of in rank order but as I stated if I find the piece that I like we will purchase it.	7
+7	0	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	3.0	0	5	None of these sentences are generated.	7
+30	1	0	2	3	2	7	3	2	1	2	1	2	4	1	2	1	0	5.0	1	10	Prominent Builders in New Jersey are one of the most trusted building contractors, with their expertise and quality that will make your renovation seamless and a successful story.	7
+27	0	0	2	2	2	6	3	2	1	1	0	3	5	1	4	1	0	3.0	1	22	They are prominent builders in New Jersey who provide excellent construction services, and their prices are fair to the customers and the quality is great.	7
+45	0	2	2	6	2	12	6	2	0	7	0	2	3	4	3	6	0	8.0	4	14	They need builders to remodel their homes and update their interiors, so they can enjoy a full range of light for the sun and grow their own plants without fear that it will cause damage from birds flying through windows in harsh weather.	7
+17	3	0	1	1	1	2	2	1	0	2	0	1	3	1	2	1	0	4.0	1	11	They built the perfect deck that is more durable than wood but looks just as nice.	7
+23	2	0	2	1	1	4	4	3	0	3	0	1	2	3	3	2	0	5.0	3	10	They are the ones who built the deck that my backyard now sits on, making the deck very functional and spacious.	7
+24	0	1	1	1	1	2	3	2	0	7	0	1	2	5	3	3	0	7.0	5	9	They have to hire a professional to complete the job since they have multiple pieces that need to be brought in and used.	7
+19	2	0	2	1	1	3	4	1	0	1	0	2	2	2	3	1	0	4.0	2	5	They are competent and skilled professionals, which is precisely why I called them for the house renovation.	7
+19	0	0	2	2	1	4	4	0	1	1	0	2	2	0	2	1	0	4.0	0	7	They are diligent builders in New Jersey, I must hire them for my home renovation and additions.	7
+25	3	1	1	0	1	2	5	1	0	3	0	3	4	3	4	2	0	7.0	3	5	  They were so professional and they did a phenomenal job restoring my antique home to look just like it did when it was new.	7
+23	1	2	1	0	1	1	6	0	0	5	0	2	1	2	4	2	0	5.0	2	20	They need to bring their own models and pay for them to use them if they don't then they can graduate!	7
+27	1	0	2	2	1	6	4	3	0	4	0	0	4	1	2	3	0	5.0	1	8	They found the missing pieces and their combined artistry brought the old room back to life making it a beautiful, unique place within their home.	7
+14	0	0	1	2	0	5	0	2	0	1	0	1	2	0	1	1	0	3.0	0	6	 The architects in the new city have completed many home renovations for homeowners.	7
+37	2	0	3	5	2	7	6	1	1	2	1	3	4	1	3	1	0	6.0	1	10	Prominent Builders in New Jersey are one of the most renowned building contractors, I was referred to them by my friend, and was so glad I used them for my home renovation, and addition	7
+31	0	0	2	5	0	7	2	2	1	2	1	2	6	2	2	1	0	7.0	2	6	Prominent Builders in New Jersey are one of the many leading builders, who are sure to deliver an exceptional outcome with their commitment to quality building at competitive rates.	7
+24	0	2	1	2	1	4	7	1	0	4	0	2	0	3	5	2	0	5.0	3	15	They are kind of in rank order but as I stated if I find the piece that I like we will purchase it.	7
+32	1	1	4	2	1	5	2	2	0	6	0	0	4	4	2	5	0	6.0	4	17	"  ""They had to call in multiple professionals to clean the attic and to install a new thermostat, as they had extensive knowledge on how to approach various scenarios."""	7
+39	2	1	4	3	2	6	4	2	2	4	0	3	5	4	3	3	0	7.0	4	16	Prominent Builders in New Jersey are among the best construction companies, so if you are looking to renovate your home or business there, be confident and hire those who know the field, like Prominent Builders.	7
+37	2	0	3	5	2	6	4	3	1	3	1	3	4	1	3	1	0	4.0	1	18	Prominent Builders in New Jersey are one of the best building contractors, I recently needed some help with a project and was referred to them by my friend, and am so glad I did!	7
+24	0	2	1	2	1	4	7	1	0	4	0	2	0	3	5	2	0	5.0	3	15	They are kind of in rank order but as I stated if I find the piece that I like we will purchase it.	7
+29	1	0	2	5	1	5	4	1	1	1	1	3	4	1	2	0	0	5.0	1	9	Prominent Builders in New Jersey are one of the best building contractors, and was referred to me by my friend who was very happy with their service.	7
+36	2	1	4	4	1	8	6	0	1	3	1	1	4	2	4	2	0	6.0	2	20	They are one of their most renowned builders in New Jersey, so their expertise, attention to detail, and dedication ensure that homeowners like me receive stunning results that meet our highest expectations.	7
+24	0	2	3	0	1	1	5	1	0	5	0	2	0	3	5	1	0	5.0	3	20	   **They have to pay for her to use any models they brought and if she doesn't, they can't graduate.	7
+19	1	0	2	2	0	4	2	1	1	1	1	1	3	0	2	1	0	3.0	0	9	Prominent Builders in New Jersey are one of the finest construction companies, I wholeheartedly endorse their services.	7
+18	0	0	2	1	1	4	3	0	1	3	0	0	2	2	1	3	0	4.0	2	11	They hired prominent builders in New Jersey to repair their home, showing their dedication and professionalism.	7
+26	1	0	3	4	0	6	3	2	2	2	0	1	2	2	2	0	0	5.0	2	13	They are a company of building professionals in New Jersey, known as prominent Builders, who I highly recommend for any Home renovation projects.	7
+22	0	1	1	3	1	6	4	0	0	3	0	1	1	3	2	2	0	7.0	3	6	They are key figures in helping people who want to build their homes because of their experience and commitment to excellence.	7
+26	1	0	1	1	1	2	6	3	0	5	0	1	3	4	4	2	0	7.0	4	11	They are careful about which model he likes the most but he never hesitates to make the right decision to purchase something that he wants.	7
+23	1	0	3	2	0	4	4	3	0	2	0	2	0	1	3	2	0	3.0	1	12	They are not the one who provided me with information, therefore, they cannot complete the task at this time.	7

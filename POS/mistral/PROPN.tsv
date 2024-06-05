@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PROPN_constraint
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A blue bird sings in the forest.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The sun rises in the east and sets in the west.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept beside the fireplace.	0
+14	0	0	2	2	1	4	0	2	0	2	0	0	1	1	1	1	0	5.0	1	4	The sun sets, painting the sky with hues of orange and pink.	0
+8	0	0	1	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	3	Two red apples rest on the table.	0
+9	0	0	1	1	0	3	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	All flowers open their petals towards the sun.	0
+14	0	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun sets behind the horizon, casting long shadows over the landscape.	0
+11	0	0	1	2	0	3	0	2	0	2	0	0	1	0	1	0	0	3.0	0	4	A soft breeze rustles through the swaying branches of trees.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun sets over a tranquil river.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A small dog sleeps peacefully under a tree.	0
+15	0	0	2	2	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The sun sets in the western sky, casting long shadows on the earth.	0
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Trees sway gently in the wind.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The sun sets slowly behind the distant hills.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun rises each day in the east.	0
+13	1	0	2	1	0	3	0	2	0	3	0	0	0	2	1	1	0	4.0	2	3	The rain fell gently, causing puddles to form on the ground.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets gently behind the hills.	0
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The moon rises over the tranquil bay at sunset.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	A red ball bounces on the soft grassy ground.	0
+17	0	0	3	1	1	5	0	3	0	3	0	0	1	2	1	2	0	4.0	2	10	The sun sets over the horizon, merging colors and light, creating a breathtaking scene.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Rain falls from the grey clouds.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun sets behind the distant mountains.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun slowly sets over the horizon.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	This apple is sweet and crisp.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun sets behind the distant hills.	0
+18	1	0	2	3	1	5	0	3	0	2	0	0	1	1	1	1	0	5.0	1	6	The sun sets gradually into the horizon, painting the sky in hues of orange and pink.	0
+19	0	0	2	3	1	5	0	4	0	3	0	0	1	1	1	1	0	4.0	1	5	The sun rises in the east and sets in the west, casting long shadows on the earth.	0
+13	0	0	1	1	0	5	0	3	0	2	0	0	1	0	1	1	1	4.0	1	6	The sunlight filtering through the autumn leaves painted the forest floor golden.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat sat in the warm sun.	0
+13	1	1	1	1	0	3	0	3	0	2	0	0	1	1	2	0	0	3.0	1	5	A day passed quietly as the sun rose higher in the sky.	0
+14	0	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun sets over the horizon, casting long shadows on the earth.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	1	0	2.0	0	6	The moon casts an enchanting glow on tranquil waters.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	Every apple is red in the center.	0
+17	0	0	3	2	1	6	0	2	0	1	0	0	2	0	1	1	0	4.0	0	5	A beautiful sunset painted the evening sky with hues of orange, pink, and purple.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun sets over the distant horizon.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly behind the horizon.	0
+13	1	1	1	2	0	4	0	2	0	2	0	0	0	1	2	0	0	3.0	1	6	The sun slowly sets behind the horizon as day turns to night.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	A tree stands tall in the lush forest.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	A red bird flies through the green forest.	0
+11	0	0	2	1	0	4	0	0	0	1	0	0	3	0	1	1	0	2.0	0	7	Tall trees cast dancing shadows upon soft, green grass.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+16	0	0	2	2	0	4	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	The sun sets over the tranquil water, casting long shadows on the sandy bank.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The sun sets behind tall mountains.	0
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	6	Flowers fill the room with their fragrant sweetness.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun slowly sets behind the distant hills.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The ball rolled across the grassy field.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun sets behind the trees every day.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The moon rises in the sky.	0
+14	0	1	1	2	0	4	0	3	0	2	0	0	1	1	2	0	0	3.0	1	7	Blue shadows crept over the landscape as the sun dipped below the horizon.	0
+18	0	0	2	3	0	3	0	2	4	2	0	0	2	1	1	1	0	3.0	1	7	The sun rises over Mount Everest at dawn, casting long shadows across the Great Barrier Reef.	3
+14	0	0	1	3	1	1	0	0	5	1	1	0	1	0	1	1	0	3.0	0	7	John from New York visited Paris with Emily and Sam during summer 2021.	3
+19	0	0	3	2	1	2	0	2	6	0	0	1	2	0	1	0	0	4.0	0	12	The Eiffel Tower, Sagrada Familia, and Great Wall of China are magnificent structures of the world.	3
+13	0	0	3	0	1	0	0	1	5	1	0	0	2	0	1	1	0	3.0	0	6	Mary, John, and Peter attended the United Nations General Assembly.	3
+13	0	0	1	3	0	1	0	2	4	1	0	0	1	0	1	0	0	3.0	0	7	The Sun rises over Mount Everest during a golden sunrise in Paris.	3
+17	1	0	1	3	0	4	0	0	6	1	1	0	0	0	1	1	0	5.0	0	5	George Washington Carver discovered edible uses for over 300 peanut varieties at Tuskegee Institute in Alabama.	3
+17	0	0	3	1	1	1	0	1	7	0	0	1	2	0	1	0	0	3.0	0	10	The White House, Capitol Building, and Lincoln Memorial are significant landmarks in Washington D.	3
+13	0	0	3	1	1	0	0	1	5	1	0	0	1	0	1	1	0	3.0	0	6	Johnson, Smith, and Jones explored the ancient Pyramids of Egypt.	3
+16	1	0	2	1	1	1	0	2	5	3	0	0	0	0	1	3	0	4.0	0	9	John visited Paris and climbed the Eiffel Tower, then explored the gardens of Versailles.	3
+20	0	0	3	2	1	1	0	1	8	0	0	1	3	0	1	0	0	4.0	0	16	The Great Wall of China, Paris Eiffel Tower, and New York Statue of Liberty are famous landmarks.	3
+19	1	0	2	0	2	2	2	1	4	2	0	1	1	1	2	2	0	3.0	1	10	John visited Paris and Rome earlier this year, but he found Tokyo to be his favorite city.	3
+12	0	0	3	1	1	1	0	0	4	1	0	0	1	0	1	0	0	3.0	0	6	Catherine, Mark, and Michael went to Paris last summer.	3
+16	0	0	3	2	1	1	1	1	5	1	0	0	1	0	1	1	0	3.0	0	8	John, Mary, and Peter attended the University of Michigan for their undergraduate degrees.	3
+13	0	0	1	3	0	2	0	2	3	1	0	0	1	0	1	0	0	3.0	0	7	The sun rises over Mount Everest during a beautiful morning in Paris.	3
+14	0	0	1	2	1	1	0	1	6	1	0	0	1	0	1	1	0	3.0	0	4	The cat from New York visited Paris with Mona Lisa and Elon Musk.	3
+14	0	0	1	1	1	1	0	0	5	1	0	0	3	0	1	1	0	4.0	0	9	John visited New York City's Central Park and Metropolitan Museum of Art.	3
+17	0	0	3	1	1	2	0	3	5	0	0	1	1	0	1	0	0	3.0	0	10	The Eiffel Tower, the Colosseum, and Machu Picchu are famous attractions around the world.	3
+14	0	0	1	3	0	1	1	1	5	1	0	0	1	0	1	1	0	3.0	0	9	John visited the Eiffel Tower in Paris on his last trip to Europe.	3
+13	0	0	1	1	1	0	0	1	7	2	0	0	0	0	1	2	0	3.0	0	6	John Smith visited Paris and met Jacques Dupont in the Louvre Museum.	3
+18	0	0	3	1	1	2	0	1	4	2	0	0	3	1	1	1	0	3.0	1	8	John, Maria, and the United Nations met in New York to discuss global peacekeeping efforts.	3
+12	0	0	1	1	1	1	0	2	4	2	0	0	0	0	1	2	0	3.0	0	6	John visited Paris and attended the Louvre Museum in the afternoon.	3
+23	0	0	5	2	2	0	0	3	9	1	0	0	1	0	1	1	0	4.0	0	10	Tom, Jake, and Sarah visited the Eiffel Tower, the Statue of Liberty, and the Great Wall of China.	3
+16	0	0	3	2	1	3	0	1	4	1	0	0	1	0	1	0	0	3.0	0	8	Catherine, Michel, and Paris went on a road trip through France last summer.	3
+13	0	0	3	1	1	0	0	1	6	1	0	0	0	0	1	1	0	3.0	0	6	John, Marilyn, and Michael visited the Louvre Museum in Paris.	3
+12	0	0	1	3	1	1	0	1	3	1	1	0	0	0	1	0	0	3.0	0	7	John travelled to Paris and Berlin in the summer of 2021.	3
+14	0	0	1	2	0	0	0	1	6	1	0	0	3	0	1	0	0	4.0	0	6	Mahatma Gandhi spoke before the United Nations General Assembly in New York City.	3
+15	0	0	3	2	1	1	0	1	5	1	0	0	0	0	1	0	0	3.0	0	7	Maria, James, and Elizabeth went to Rome's Colosseum for a tour.	3
+23	0	0	3	4	1	2	0	2	8	2	0	0	1	1	1	1	0	4.0	1	6	The Eiffel Tower in Paris lit up at dusk, casting shimmering shadows on the Seine River and Notre-Dame Cathedral.	3
+16	0	0	3	1	1	2	0	1	6	0	0	1	1	0	1	0	0	4.0	0	12	The Eiffel Tower, Sagrada Familia, and Pyramids of Giza are famous tourist destinations.	3
+13	0	0	3	1	1	0	0	1	6	1	0	0	0	0	1	1	0	3.0	0	6	John, Sarah, and Mark visited the Louvre Museum in Paris.	3
+14	0	0	1	1	1	1	0	1	7	2	0	0	0	0	1	2	0	3.0	0	7	James bond visited Paris and met Inspector Jacques Clouseau at the Eiffel Tower.	3
+14	0	0	2	2	0	2	0	1	5	1	0	0	1	0	1	0	0	4.0	0	8	New York City students protested at the University of California, Berkeley campus.	3
+17	0	0	1	2	2	2	1	1	6	2	0	0	0	0	1	2	0	5.0	0	8	John visited Paris and climbed the Eiffel Tower before lunch with his friends Marie and Pierre.	3
+13	0	0	1	1	1	0	0	2	7	1	0	0	0	0	1	1	0	3.0	0	3	The Eiffel Tower in Paris overlooks the Seine River and Sacré-Cœur Basilica.	3
+13	0	0	1	2	0	2	0	3	4	1	0	0	0	0	1	1	0	3.0	0	5	The elephant from the London Zoo visited the Smith family in Colorado.	3
+12	0	0	3	1	1	0	0	0	5	1	0	0	1	0	1	0	0	3.0	0	6	Mike, Emma, and Jake hiked through Yellowstone National Park.	3
+14	0	0	3	2	1	0	0	1	5	1	0	0	1	0	1	0	0	3.0	0	6	Diane, Jake, and Alex went to the British Museum in London.	3
+20	1	0	2	4	1	1	0	2	6	1	0	0	2	0	1	0	0	4.0	0	8	Lions roamed freely in the pristine Savannah, beside the Mara River and in front of Serengeti National Park.	3
+16	0	0	1	2	1	3	0	3	2	1	0	0	3	0	1	1	0	5.0	0	6	The United States embassy in Paris held a reception for the Swedish and German ambassadors.	3
+14	0	0	3	2	1	0	0	1	6	1	0	0	0	0	1	0	0	3.0	0	6	Michael, Kate, and Sarah met at the Louvre Museum in Paris.	3
+14	0	0	3	1	1	0	0	0	6	2	0	0	1	1	1	0	0	4.0	1	6	John, Michael, and Emily went hiking in Mount Tamalpais National Park.	3
+21	0	0	5	2	2	4	0	1	5	0	0	1	1	0	1	0	0	3.0	0	11	The Statue of Liberty, Mount Everest, and Mars are iconic symbols of freedom, height, and mystery.	3
+17	0	0	3	1	1	2	0	2	5	1	0	1	1	0	1	0	0	3.0	0	9	The White House, Capitol Hill, and Times Square were crowded with tourists this summer.	3
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	3
+15	1	0	3	0	1	1	0	1	6	1	0	0	1	0	1	1	0	3.0	0	10	Mahatma Gandhi, Albert Einstein, and Marilyn Monroe once had an intellectual conversation.	3
+17	0	0	3	1	1	0	0	1	9	1	1	0	0	0	1	1	0	3.0	0	10	Mark Twain, Abraham Lincoln, and Mary Todd Lincoln visited the Gettysburg Battlefield in 1863.	3
+13	0	0	1	2	1	1	0	1	6	1	0	0	0	0	1	1	0	4.0	0	3	George Washington carried on a correspondence with Thomas Jefferson and Benjamin Franklin.	3
+18	0	0	3	2	1	2	0	2	5	0	0	1	2	0	1	0	0	4.0	0	11	The Eiffel Tower, Big Ben, and Statue of Liberty are famous landmarks around the world.	3
+15	0	0	2	1	1	1	0	0	4	1	0	0	3	0	1	1	0	4.0	0	9	Marta served delicious tapas at Carlos's and Juanita's joint, Andalusian Nights.	3
+7	0	0	1	0	0	0	0	0	6	0	0	0	0	0	0	0	0	2.0	0	3	Mahatma Gandhi, Martin Luther King Jr.	3
+17	0	0	4	0	0	0	0	0	12	0	1	0	0	0	0	0	0	2.0	0	13	George Washington, Abraham Lincoln, Mahatma Gandhi, Queen Elizabeth II, Martin Luther King Jr.	6
+26	0	0	6	1	1	0	0	1	15	1	1	0	0	0	1	1	0	3.0	0	19	Queen Elizabeth II, Prince William, Princess Kate, Prince George, Princess Charlotte, and Prince Louis visited the Louvre Museum in Paris.	6
+23	0	0	6	1	2	1	1	0	8	3	0	0	1	1	1	1	0	3.0	1	12	John, Mary, Michael, Sarah, Peter, and Mark went hiking on Mount Fuji and explored its beautiful scenery.	6
+24	0	0	6	0	0	1	0	1	12	1	1	0	2	0	1	1	0	3.0	0	17	Margaret Thatcher, Donald Trump, Victoria Beckham, Elon Musk, Queen Elizabeth II, Maradona visited the White House last year.	6
+16	0	0	7	0	2	0	0	0	7	0	0	0	0	0	0	0	0	2.0	0	14	 John, Marla, Sophia, Abdul, Rebecca, and Carlos, and Paris.	6
+34	0	0	3	9	1	2	1	3	14	1	0	0	0	0	1	2	0	4.0	0	26	John from Paris gifted Emily in London a book about Picasso, Munch, and van Gogh from the Louvre Museum in Paris to Tom in Rome for his birthday at the Colosseum.	6
+25	0	0	6	1	1	2	0	2	8	2	0	0	2	1	1	1	0	3.0	1	14	John, Emily, Michael, Sarah, Rebecca, and the United Nations met at the Louvre Museum to discuss global climate change.	6
+28	0	0	11	1	1	1	0	0	12	1	0	0	1	0	1	0	0	3.0	0	15	John, Maria, Mark, Liam, Emma, Olivia traveled to France, Italy, Switzerland, Belgium, Austria, and Netherlands last summer.	6
+21	0	0	6	1	1	1	0	1	9	1	0	0	1	0	1	1	0	3.0	0	12	John, Maria, Peter, Susan, Mark, and Samantha visited The Louvre Museum in Paris last summer.	6
+21	0	0	7	1	1	1	0	1	8	1	0	0	1	0	1	1	0	3.0	0	12	John, Michael, Lisa, Mark, Sarah, and Rebecca explored the ancient ruins of Pompeii, Egypt.	6
+21	0	0	4	4	1	0	0	1	10	1	0	0	0	0	1	1	0	4.0	0	9	Ahmad in Paris met Jin, Kim, Liam from Canada, and Olga from Russia at the Louvre Museum.	6
+34	0	1	4	6	2	2	1	1	11	4	0	1	1	2	3	2	1	4.0	3	15	John from New York, who is studying law at Harvard University with Emma, went shopping at Target with Peter and Susan from Chicago, while Michael and Elizabeth explored the museum.	6
+36	0	1	3	6	1	2	1	3	13	3	0	0	2	2	1	3	0	6.0	2	13	John from Los Angeles drove his Mercedes through the streets of New York City to visit the Statue of Liberty, Ellis Island, and Central Park before having dinner at Tavern on the Green.	6
+25	0	0	6	2	1	2	0	1	10	1	0	0	2	0	1	1	0	4.0	0	12	John, Mark, Sarah, Elizabeth, Michael, and George enjoyed dinner at the Royal Orchid Garden restaurant in New York City.	6
+11	0	0	4	0	0	0	0	0	7	0	0	0	0	0	0	0	0	2.0	0	8	Emily, Mark Twain, Abraham Lincoln, John F.	6
+39	0	0	7	2	1	2	0	2	22	2	0	0	1	0	1	0	1	5.0	1	30	The United States Congress, represented by Speaker Nancy Pelosi, Vice President Kamala Harris, President Joe Biden, Senate Majority Leader Mitch McConnell, and House Minority Leader Kevin McCarthy, convened for an emergency session.	6
+20	0	0	6	2	1	1	0	1	7	1	1	0	0	0	1	1	0	3.0	0	12	John, Mary, Lisa, Mark, Peter, and Martha visited Paris in the spring of 2022.	6
+23	0	0	6	2	1	1	1	1	8	1	0	0	2	0	1	1	0	3.0	0	12	John, Maria, Sophia, Michael, George, and Emily visited the British Museum in London during their European tour.	6
+20	0	0	6	0	1	1	0	1	8	1	0	0	2	0	1	1	0	3.0	0	16	John, Mary, Sarah, Samuel, George Washington University, and the United Nations discussed global policies.	6
+24	0	0	8	1	2	2	0	0	9	1	0	0	1	0	1	1	0	4.0	0	12	John, Maria, Sophia, Anthony, Lisa, and Paris visited museums in London, Paris, and Athens last summer.	6
+20	0	0	5	1	1	0	0	1	9	0	0	0	3	0	0	0	0	3.0	0	18	John, Marlene, Mark Twain Elementary School, the Smithsonian National Museum of Natural History, and Mrs.	6
+29	0	0	6	2	1	1	0	2	14	1	0	0	2	0	1	1	0	4.0	0	19	George Washingtoncarver, Abraham Lincoln, Mahatma Gandhi, Joan of Arc, Neil Armstrong, and Albert Einstein attended an inspiring meeting in the United Nations Building.	6
+19	0	0	6	1	1	1	0	1	8	1	0	0	0	0	1	1	0	4.0	0	12	John, Emily, Michael, Melissa, Lisa, and David explored the ruins of Machu Picchu.	6
+22	0	0	6	2	1	0	0	2	9	1	0	0	1	0	1	0	0	3.0	0	12	John, Maria, Michael, Elizabeth, Mark, and Sophia sailed on the Star Pride to the Greek Isles.	6
+31	0	0	7	6	0	4	1	2	8	1	0	0	1	0	1	0	0	4.0	0	17	Mary's dog, Daisy, escaped from the yard of her house, White Oaks, on Elm Street, during the thunderstorm, near City Park in Denver.	6
+27	0	0	6	1	1	0	0	2	14	1	0	0	1	0	1	1	0	5.0	0	18	John visited Singapore's Gardens by the Bay, Orchard Road, Raffles Hotel, Marina Bay Sands, Clark Quay, and the National Museum.	6
+41	0	0	12	2	2	3	1	1	18	1	1	0	0	0	1	1	0	3.0	0	27	John, Maria, Sarah, Peter, Michael, and Emma visited the Statue of Liberty, Eiffel Tower, Brandenburg Gate, Colosseum, Sydney Opera House, and Taj Mahal during their three-week world tour.	6
+20	0	0	5	2	1	1	1	0	7	1	0	0	2	0	1	1	0	3.0	0	14	John from New York visited Paris, Frankfurt, Madrid, Moscow, and Rome during his European vacation.	6
+28	0	0	6	1	0	0	0	0	19	0	0	0	2	0	0	0	0	3.0	0	23	George Washington Carver Museum, Robert Raup Museum, Dallas Museum of Art, Percy Lambert Nature Science Center, Southern Methodist University, Dalla Regional Transportation.	6
+28	0	0	6	3	1	3	1	1	10	1	0	0	2	0	1	1	0	5.0	0	13	John, Sarah, Emily, Michael, Paula, and Boston University enjoyed a picnic at Central Park in New York City during their spring break.	6
+24	0	0	6	1	1	1	0	3	11	1	0	0	0	0	1	1	0	3.0	0	16	John, Mark, Mary, Abraham Lincoln, Paris Geller, and the Eiffel Tower watched the sunset over the Seine River.	6
+26	0	0	6	1	0	1	0	2	13	1	0	0	2	0	1	1	0	3.0	0	17	George Washington Carver, Abraham Lincoln, Mark Twain, Sacagawea, Benjamin Franklin, Theodore Roosevelt enjoyed a grand celebration in the White House.	6
+27	0	0	6	3	1	9	0	1	3	1	0	0	3	0	1	1	0	4.0	0	22	George Washington Carver discovered edible uses for peanuts, sweet potato, soybean, cottonseed, tea, and corn for farmers in the late 1800s.	6
+27	0	0	6	1	1	3	1	1	10	2	0	0	2	1	2	2	0	5.0	1	16	John, Sarah, Mark Twain, Ernest Hemingway, Thomas Edison, and Albert Einstein discovered new concepts that shaped the course of human history.	6
+23	0	0	6	0	0	0	0	1	15	1	0	0	0	0	1	1	0	3.0	0	17	John Adams, Abigail Smith, George Washington, Thomas Jefferson, Ben Franklin, Paul Revere planned the Boston Tea Party.	6
+23	0	0	6	0	2	1	0	1	10	1	0	0	2	0	1	1	0	4.0	0	12	John, Maria, Mark, Sarah, David, and Elizabeth visited the Smithsonian National Air and Space Museum last weekend.	6
+21	0	0	6	1	1	1	0	2	8	1	0	0	1	0	1	1	0	3.0	0	13	John, Mark, Maryam, Lila, Sultan, and Kang all attended the annual conference at Oxford University.	6
+23	0	0	6	2	1	1	0	1	9	1	0	0	2	0	1	0	0	4.0	0	12	John, Sarah, Emily, Michael, Rebecca, and David met at the United Nations building in New York City.	6
+24	0	0	5	2	2	2	0	2	9	1	0	0	1	0	1	1	0	4.0	0	11	John, Mary, Thomas, Elizabeth, William and Sarah attended the wedding ceremony of Michael and Katherine at the grand St.	6
+29	0	0	6	2	2	2	0	1	12	2	0	0	2	1	1	0	0	5.0	1	12	Mary, Peter, John, Sarah, Lisa, and Robert met at the White House garden party hosted by President Biden and First Lady Jill Biden.	6
+28	0	0	5	2	1	1	0	2	13	2	0	0	0	1	1	1	0	4.0	1	12	John's father, the President of Kenya, invited George Washington, Abraham Lincoln, and Alexander the Great to dine with Martin Luther King Jr.	6
+24	0	0	3	4	2	1	0	1	10	1	0	0	2	0	1	1	0	3.0	0	15	John from Boston met Paula, Maria, and Sophie from Paris and London at the United Nations headquarters in New York City.	6
+29	0	0	6	4	1	1	0	2	11	1	1	0	2	0	1	1	0	3.0	0	16	John, Anna, Marcus, Lisa, Rebecca, and Mark from the United Nations discussed global warming in Paris at the Climate Change Conference in 2015.	6
+52	0	0	5	8	1	3	1	0	25	5	0	0	1	0	1	3	0	5.0	0	37	John from Los Angeles drove through New York City's Times Square, greeted Paris Hilton at London’s Heathrow Airport, shopped for gifts at Rio de Janeiro's Ipanema Beach, hiked Mount Everest with Tom Cruise, and ended his trip at Sydney Opera House with Meryl Streep.	6
+27	0	0	6	1	2	2	0	1	13	1	0	0	1	0	1	1	0	3.0	0	18	George Washingtoncarver, Albert Einstein, Marie Curie, Abraham Lincoln, Amelia Earhart, and Neil Armstrong discussed science and innovation at the White House.	6
+22	0	0	5	3	1	2	1	0	8	1	0	0	1	0	1	1	0	4.0	0	17	John, Sarah, Michael from New York, Maria from Paris, and Khalid from Cairo discussed their travel plans.	6
+33	0	0	5	2	2	2	0	2	15	1	1	0	3	0	1	1	0	5.0	0	23	The White House staff welcomed Queen Elizabeth II, Pope Francis, Prince Charles, and Prime Ministers Narendra Modi and Justin Trudeau during the annual G7 summit in Paris, France.	6
+24	0	0	6	3	1	1	0	1	10	1	0	0	1	0	1	0	0	3.0	0	12	Mary, John, Emma, Paul, Lisa, and Mark met at the Royal Gardens of Buckingham Palace on Sunday afternoon.	6
+33	0	0	7	3	1	2	0	2	14	1	1	0	1	0	0	0	0	3.0	0	20	In Paris, France, Abraham Lincoln, Queen Elizabeth II, George Washington, Mahatma Gandhi, and Nelson Mandela met in the Eiffel Tower's restaurant for an extraordinary dialogue.	6
+20	0	0	6	0	1	1	0	0	10	1	0	0	1	0	1	1	0	3.0	0	16	John, Sophia, Muhammad, Maria, Mark Twain Elementary School, and Oxford University discussed future collaborations.	6
+41	0	1	5	4	2	6	0	1	16	2	0	0	1	1	1	2	0	5.0	1	13	John Deere TomTractor company's Farmhand Xtra, with Ford Focus side-by-side, helped Jill and Samantha Hilton load Macy's and Emily's toy chest on the Mahindra ROXOR for camping at Yosemite National Park.	8
+31	0	0	8	4	1	0	0	2	13	1	0	0	2	0	1	0	0	3.0	0	16	John, Anne, Peter, Mary, George, Lisa, Michael, and Tom went to the Library of Congress for the United Nations Conference on Sustainable Development.	8
+21	0	0	8	1	0	1	0	0	9	1	0	0	1	0	1	0	0	2.0	0	15	Mary, John, George, Lisa, Peter, Rebecca, Robert, Sarah went to Paris last summer.	8
+49	0	1	10	7	1	5	2	2	16	2	0	0	2	1	1	2	0	4.0	1	27	John from Dublin, Ireland, visited the British Museum in London last year with his friends Sarah, Emily, Tomas, Sofia, and Ana from Madrid, Spain, while taking a break from his job at Google's office in Mountain View, California.	8
+30	0	0	7	1	1	0	0	0	18	1	1	0	1	0	1	1	0	3.0	0	26	John Fromm met Mary Anning, Elizabeth Taylor, Thomas Jefferson, Benjamin Franklin, Abraham Lincoln, Albert Einstein, and Queen Elizabeth II in New York City.	8
+32	0	0	10	1	1	1	1	0	16	1	0	0	1	0	1	1	0	3.0	0	29	John visited Paris, Eiffel Tower, Montmartre, Sacré-Cœur, Arc de Triomphe, Louvre Museum, Notre-Dame Cathedral, and Champs-Élysées during his European trip.	8
+45	0	0	10	7	1	1	1	1	21	1	0	0	2	0	1	1	0	5.0	0	28	John Smith from London, England, met Michael Brown from New York City, United States, at the Paris Musee d'Orsay in France, with Sarah Johnson from Melbourne, Australia, and her husband, James Johnson from Boston, Massachusetts.	8
+42	0	1	6	7	1	2	0	3	18	2	1	0	1	1	1	2	0	4.0	1	25	John Appleseed gave an apple to Sarah Williams in Boston, Massachusetts, while visiting Colonial Williamsburg with George Washington, Thomas Jefferson, Benjamin Franklin, and John Adams during a rainstorm in Philadelphia on a Monday in October 1774.	8
+38	0	0	6	8	1	2	2	1	14	3	0	0	1	1	2	2	1	6.0	2	15	John FROM Paris, living in London, met Martha from New York, who invited Bob from Beijing, Anne from Rome, and Mark from Oslo to a dinner at their place in Los Angeles.	8
+40	0	0	6	9	1	1	0	1	18	1	0	0	3	0	1	1	0	5.0	0	23	John from Tokyo met Mary from Paris, Peter from New York, Mark from Sydney, Alex from London, Lisa from Buenos Aires, and Maria from Rome at the United Nations building in New York City.	8
+42	0	0	7	5	5	1	1	1	21	1	0	0	0	0	1	1	0	7.0	0	10	John Smith from Los Angeles visited the Eiffel Tower in Paris, France, with Sarah Jenkins from Boston, Massachusetts, and their children Emily and Jack, plus Mark and Lily Allen from San Francisco and Sydney, Australia.	8
+30	0	0	8	3	0	5	2	0	8	1	0	0	3	0	1	1	0	3.0	0	16	John, Paul, George, Ringo, New York, London, Paris, Tokyo sang marvelous songs in front of their devoted fans during their world tour.	8
+37	0	0	8	2	1	2	0	2	19	1	0	0	2	0	1	1	0	5.0	0	24	Carter Reed, Anna Watts, Michael Chen, Lisa Johnson, James Martinez, Samantha Lee, Daniel Kim, and Sarah Patel attended the meeting at the United Nations headquarters in New York City.	8
+36	0	0	9	5	1	1	0	3	14	1	0	0	2	0	1	1	0	3.0	0	16	In New York City, at Central Park, during the Mets game against the Yankees, Michael met Victoria, Lisa, Daniel, Samuel, Emily, and Olivia near the Bethesda Fountain.	8
+26	0	0	8	2	1	0	0	2	11	1	0	0	1	0	1	0	0	3.0	0	16	John, Maria, Anita, Mark, Lizzie, Tomas, Sofia, and Alexander sailed across the Pacific Ocean aboard the Majestic Star.	8
+28	0	0	8	2	1	1	0	1	11	1	0	0	3	0	1	1	0	4.0	0	16	John, Maria, Anabelle, Oliver, Samuel, Elizabeth, Abdul, and Victoria enjoyed a lovely picnic at Central Park in New York City.	8
+24	0	0	8	1	1	0	0	0	12	1	0	0	0	0	1	0	0	3.0	0	16	John, Mark, Sophia, Alexander, Rebecca, Michael, Melina, and Samuel met at Harvard University's Kennedy School.	8
+27	0	0	8	1	1	0	0	1	12	1	0	0	3	0	1	1	0	4.0	0	16	John, Anne, Mark, Lisa, Sarah, Paul, Rebecca, and George attended the United Nations General Assembly in New York City.	8
+28	0	0	8	1	1	1	0	1	13	1	0	0	2	0	1	1	0	4.0	0	21	John, Paul, George, Ringo, United States, New York City, Times Square, and MetLife Stadium attended a Beatles concert in America.	8
+26	0	0	9	2	0	2	0	1	10	1	1	0	0	0	1	0	0	3.0	0	15	John, Mary, Anne, Michael, Sophia, David, Sophia, Elizabeth met at the Smith family reunion in London, 2022.	8
+25	0	0	8	1	1	0	0	1	11	1	0	0	2	0	1	1	0	3.0	0	16	John, Mary, Alex, Emily, Michael, Lisa, Peter, and Sarah attended the United Nations General Assembly on Wednesday.	8
+26	0	0	8	2	1	2	0	1	10	1	0	0	0	0	1	0	0	3.0	0	16	John, Mary, Lisa, Michael, Sarah, Peter, George, and Patricia went to the Smiths' house for Christmas dinner.	8
+26	0	0	9	1	1	1	0	1	11	1	0	0	1	0	1	1	0	3.0	0	16	John, Anna, Michael, Sarah, Mark, Lisa, Danielle, and Robert attended the United Nations meeting in Geneva, Switzerland.	8
+29	0	0	8	2	0	1	0	1	12	1	1	0	2	0	1	1	0	3.0	0	15	John, Anne, Michael, Sarah, Emily, David, Christopher, Elizabeth attended the United States Supreme Court for George Washington's inauguration in 1789.	8
+32	0	1	1	6	2	0	0	1	18	2	0	0	1	1	1	2	0	5.0	1	16	John Smith from Boston visited the Louvre Museum in Paris with Sarah Thompson and Mark Anderson from New York while meeting Anne Davis from Chicago and Daniel Brown from Los Angeles.	8
+42	2	1	8	7	1	3	2	3	10	2	1	1	1	2	2	2	0	6.0	2	14	AbrahamLincoln once visited Sydney, Australia, with his wife Mary, in 1862, before delivering a speech at the Colosseum to NapoleonIII, MariaLouisa of Belgium, and ElizabethII of the United Kingdom, who were all in attendance.	8
+35	0	0	15	1	2	0	0	0	16	1	0	0	0	0	1	0	0	3.0	0	16	John, Sarah, Mark, Lara, Peter, Emma, Michael, and Lisa traveled to Paris, Rome, Athens, London, Madrid, Beijing, Bangkok, and Dubai.	8
+46	0	0	15	2	2	2	1	1	20	1	0	0	2	0	1	1	0	4.0	0	28	John, Sarah, Mike, Emily, Mark, Maria, Lisa, and David visited the White House, Statue of Liberty, Eiffel Tower, Taj Mahal, Colosseum, Pyramids, Great Wall, and Chrysler Building during their world tour.	8
+48	0	0	15	3	2	2	1	1	21	1	0	0	2	0	1	1	0	4.0	0	30	John, Ana, Sophia, Xavier, Olivia, Mariam, Abdul, and Isabella visited the Grand Canyon, Eiffel Tower, Colosseum, Great Wall of China, Pyramids of Giza, Taj Mahal, Machu Picchu, and Stonehenge during their world tour.	8
+31	0	0	10	1	2	0	0	3	13	1	0	0	1	0	1	1	0	4.0	0	16	John, Sarah, Mark, Emily, Peter, Patricia, Rebecca, and William visited the White House, the Smithsonian, and the Capitol in Washington D.	8
+52	0	1	5	7	2	9	0	1	20	4	0	0	0	3	2	2	0	7.0	3	22	John Deere tractor wheels rolled through Cincinnati's Fountain Square Market on All Saint's Day, hitting pumpkins from Indiana, Michigan apples, and Maine blueberries sold by Amish farmers and Amara Produce, as Bob Cranmer weighed oranges from Florida beside Sam Spade's booth of Montana cherries.	8
+27	0	0	3	3	3	3	1	1	10	1	0	0	0	0	1	1	0	4.0	0	19	John's uncle Ned from Paris took Martha and Bob, Emily and her brother Frank, to Rome for the Louvre and Colosseum's exhibits.	8
+33	0	0	8	1	1	2	1	0	17	1	0	0	2	0	1	1	0	3.0	0	25	John Marshall, Abraham Lincoln, Thomas Edison, Theodore Roosevelt, George Washington Carver, Helen Keller, Albert Einstein, and Michael Jordan enjoyed successful careers in their respective fields.	8
+49	1	0	7	11	1	3	1	2	18	2	0	0	2	1	2	1	0	6.0	1	19	John from Los Angeles went to New York City's Central Park on the Fourth of July, where he met Bill from Chicago, Mary from Paris, Lisa from Rome, Tom from Beijing, Sam from Sydney, and Anna from Moscow for a picnic.	8
+46	0	0	15	2	2	0	0	1	21	2	0	0	2	1	1	1	0	5.0	1	21	John, Mary, Mark, Liam, Emily, Olivia, Samuel, and Elizabeth went to visit the White House, Eiffel Tower, Colosseum, Buckingham Palace, Taj Mahal, Statue of Liberty, Kremlin, and Great Wall of China.	8
+24	0	0	8	1	1	1	0	1	10	1	0	0	1	0	1	1	0	3.0	0	16	John, Maria, Paula, Pedro, Olivia, Victor, Emily, and David attended the United Nations summit in Geneva.	8
+49	2	0	8	6	1	2	0	2	18	3	2	1	3	2	2	1	0	7.0	2	14	John Smith from Chicago visited Paris, France, in July 2022, in Abraham Lincoln's old house, owned by the National Historic Site, where Queen Elizabeth II was also staying for the G20 summit with Emmanuel Macron, Angela Merkel, and Xi Jinping.	8
+35	0	0	6	3	1	1	0	0	19	2	1	0	0	1	1	2	0	5.0	1	16	John Smith from London visited Paris in August 2021 to celebrate Susan Baker's birthday with George Taylor, Emma Reed, Mark Allen, Michael Davis, Lisa Wright, and Daniel Lee.	8
+41	0	0	6	9	2	3	2	1	14	3	0	0	1	0	2	2	1	5.0	1	11	John from New York, working at IBM in London, visited Paris with his wife Marge from Ohio, and they met Elena from Rome and Alex from Munich at the Louvre museum, near Notre-Dame cathedral.	8
+25	0	0	8	1	0	1	0	1	9	2	0	0	2	1	1	1	0	3.0	1	15	Johnson, Adams, Thompson, Brown, Davis, Lee, Jefferson, Roosevelt met at the White House to discuss international affairs.	8
+44	0	0	7	5	4	1	0	2	22	3	0	0	0	1	1	2	0	5.0	1	25	John Smith from Paris traveled to London, visiting the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and Tower of London with Anne Clarke and Robert Jones, and tasting the cuisine at Le Pain Quotidien and Borough Market.	8
+24	0	0	8	0	1	2	0	1	8	2	0	0	1	1	1	1	0	3.0	1	18	John, Anne, Mark, Mary, Michael, Peter, Linda, and the United Nations met to discuss world issues.	8
+5	0	0	1	0	0	0	0	0	3	1	0	0	0	0	1	1	0	2.0	0	2	John Fromm met Mrs.	8
+27	0	0	8	2	1	1	1	0	11	1	0	0	2	0	1	1	0	3.0	0	20	John Smith from New York visited London, Paris, Rome, Madrid, Berlin, Vienna, Brussels, and Amsterdam during his European vacation.	8
+26	0	0	8	1	1	0	0	1	12	1	0	0	2	0	1	1	0	3.0	0	16	John, Mary, Mark, Lisa, David, Sarah, Peter, and Paul attended the United Nations Global Climate Summit in Paris.	8
+32	0	0	3	6	0	5	2	1	9	2	0	0	3	1	1	1	0	6.0	1	27	John from Paris gave Mary, his sister living in Madrid, the rare book from Michael Crichton's personal collection to his brother Thomas in New York on Christmases past.	8
+17	0	0	7	0	0	0	0	0	10	0	0	0	0	0	0	0	0	2.0	0	14	John, Maria, George, Anne, Benjamin Franklin, Thomas Jefferson, Susan B.	8
+52	0	0	7	10	2	2	1	3	20	2	0	0	3	0	2	2	0	6.0	0	29	John from Boston visited Melbourne, in Australia, during the Paris Fashion Week, at the Metropolitan Museum of Art in New York City with Sarah from Vancouver, and they attended a gala at Prince Charles' and Princess Diana's old palace, Kensington Palace, in London.	8
+29	0	0	6	4	1	1	0	1	13	1	0	0	2	0	1	1	0	4.0	0	19	John from Los Angeles met Maria from London, India, Egypt, Paris, Brazil, and Canada at the United Nations headquarters in New York City.	8
+37	0	0	8	5	1	1	1	3	15	1	0	0	2	0	1	1	0	4.0	0	22	John from London drove his car through Paris, France, past Big Ben, the Eiffel Tower, Mount Rushmore, the Taj Mahal, and the Statue of Liberty, to New York City.	8
+44	0	0	17	2	2	2	1	0	18	1	0	0	1	0	1	0	0	3.0	0	22	John, Mark, Bob, Michael, Peter, Paul, George, Ringo, Mary, Martha, and Elizabeth traveled to Paris, Rome, Tokyo, London, New York, Beijing, and Moscow for their world tour.	11
+62	0	0	6	8	3	0	0	6	35	1	1	0	2	0	1	0	0	5.0	0	38	Catherine Anne Marie Elisabeth Dorothea Amalia Charlotte Wilhelmine Helena Therese Friederike Susanne Luise Frieda Elizabeth and Henry James Washington dined at the White House with the Queen of Romania, the King of Denmark, the Emperor of Japan, the Tsarina of Russia, Princess Margaret and Princess Anne, and President Eisenhower on the third Tuesday of November 1957.	11
+31	1	0	11	1	1	1	1	1	12	1	0	0	1	0	1	1	0	3.0	0	22	John, Anne, Mary, Peter, Paul, James, Lena, Mark, Lisa, Matthew, and George celebrated their birthdays together at the White House.	11
+81	0	1	12	13	2	1	0	4	39	4	1	0	4	1	2	2	2	5.0	3	43	In Atlanta, Georgia, during the 2023 World Expo hosted by the United Nations, President Johnson, representing the USA, received a gift from King Abdullah of Saudi Arabia, Queen Elizabeth II of England, President Xi Jinping of China, Prime Minister Modi of India, Chancellor Merkel of Germany, and President Macron of France, while Vice President Pence conversed with Vice President Hassan Rouhani of Iran and Prime Minister Netanyahu of Israel.	11
+44	0	0	19	1	2	0	0	0	20	1	0	0	1	0	1	0	0	3.0	0	20	John, Mary, Sarah, Robert, Lisa, Samuel, Emily, David, Olivia, and Alexander went to Paris, Rome, Amsterdam, New York, Venice, Oslo, Tokyo, London, Madrid, and Prague.	11
+51	0	0	20	2	2	2	1	1	21	1	0	0	1	0	1	1	0	5.0	0	22	Ahmed, Sarah, Zoe, Michael, Emily, Olivia, Alexander, Grace, Danielle, Nicholas, and William had a lively discussion about their travels to Paris, Rome, Athens, Cairo, Marrakech, Tokyo, Venice, Petra, Barcelona, and Istanbul.	11
+35	0	0	10	1	2	5	0	0	12	1	0	0	0	0	1	0	0	4.0	0	24	John's father, Edward's uncle, Samuel's aunt, Emily, Rebecca, Lisa, Mark, Patricia, Sophia, and William met at Elizabeth and Francis's garden party.	11
+20	0	0	5	1	0	2	0	0	8	1	2	0	1	1	0	1	0	3.0	1	13	Abraham Lincoln birthday speech at Gettysburg National Cemetery, Pennsylvania, November 19, 1863, honoring Ulysses S.	11
+69	0	0	11	11	3	2	1	2	36	2	0	0	1	0	1	2	0	6.0	0	34	Queen Elizabeth II of England, visited Paris, France, with President Emmanuel Macron and his wife Brigitte, in Italy during the Tour de France, met Archduke Carl Philipp of Austria-Tuscany, Princess Sofia of Belgium, King Carl XVI Gustaf and Queen Silvia of Sweden, and President Aleksander Vučić of Serbia, for a diplomatic summit at Castle Coombs near Bath.	11
+39	2	0	9	3	2	3	0	0	16	2	0	0	2	1	2	0	0	6.0	1	19	John Deere tractor drove past Ford Model T in downtown Los Angeles, where ABC, XYZ, PQR, STU, and UVW Bank buildings tallied, next to Walgreens, Whole Foods, and Starbucks cafes.	11
+55	0	0	8	12	3	3	3	2	19	2	1	0	2	0	1	2	1	7.0	1	28	John from New York City, visiting Paris in June with his wife, Martha, from Sydney, and their friends Peter and Lisa from London, met Anne from Beijing, and her brother Michael from Tokyo, at the Tower of Pisa in Italy during the European Football Championship in 2024.	11
+81	0	3	12	10	3	6	2	8	28	4	0	0	4	3	3	4	0	7.0	3	23	In Los Angeles, California, at the University of Southern California, the Trojans defeated the Bruins of UCLA in the annual crosstown football rivalry at the Coliseum, while the Lakers, Celtics, and Bulls battled it out in the NBA Finals at Staples Center, as Mickey Mantle, Jackie Robinson, and Babe Ruth joined Michael Jordan, LeBron James, and Kobe Bryant in acknowledging their admiration for the respective athletes' impressive performance.	11
+36	0	0	10	0	0	1	1	0	22	1	0	0	1	0	1	1	0	3.0	0	31	John Adams, Sarah Jessica Parker, Michael Jackson, Angelina Jolie, Abraham Lincoln, Albert Einstein, Marie Curie, Neil Armstrong, George Washington Carver, Mahatma Gandhi enjoyed their daily routines.	11
+47	0	0	3	3	1	3	0	3	28	2	2	0	2	1	1	2	0	5.0	1	25	James Madison Carroll Preston Thomas Jefferson Alexander Washington Abraham Lincoln George Washington King Charles I George II George III Henry VIII Isabel Lucas Philippa Georgina attended the grand opening of the new museum at Windsor Castle featuring the works of Caravaggio, Vermeer, and Rembrandt.	11
+65	0	0	16	11	2	4	0	2	25	2	2	0	1	1	1	1	0	5.0	1	37	In Los Angeles, California, on Elm Street, near City Hall, at the University of Southern California, in room 204 of the Science and Engineering Building, on Thursdays at 3:00 pm, Professor Adams lectures on computer science to Michael, Maria, Lisa, Tom, John, Sam, Sarah, and David, using Microsoft PowerPoint.	11
+54	0	0	11	3	2	5	1	2	26	1	0	0	3	0	1	0	0	4.0	0	43	Apollonio de' Castro, Alhambra Palace, King Henry VIII, Leonardo da Vinci, Queen Elizabeth I, Sistine Chapel ceiling, Shakespearean theatre, Mount Everest, Mariana Trench, Sir Isaac Newton, and the Great Wall of China gazed upon these magnificent landmarks and masterpieces during their travels.	11
+31	0	0	12	2	1	1	1	0	12	1	0	0	1	0	1	0	0	3.0	0	20	Maggie, Mark, Lisa, Richard, Sarah, Peter, Jennifer, John, David, and Daniel traveled to Rome, Italy, for their annual reunion.	11
+40	0	0	14	1	2	3	1	1	17	1	0	0	0	0	1	1	0	4.0	0	22	John, Maria, Mark, Olivia, Sarah, Thomas, Victor, Waldo, Xena, Yvonne, and Zoë attended the reunion of their alma maters, Cambridge University, Brown University, and Stanford University.	11
+27	0	0	11	0	1	1	0	0	12	1	0	0	1	0	1	1	0	3.0	0	22	Carter, Brad, Sarah, Michael, Samantha, Emily, Jonathan, Lisa, Daniel, Rebecca, and Tom visited Paris last summer.	11
+34	0	0	11	1	1	1	0	2	15	1	0	0	2	0	1	1	0	4.0	0	22	John, Sarah, Michael, Elizabeth, Thomas, Emily, David, Rebecca, Nicholas, Olivia, and Mark attended the annual conference at the Grand Hyatt New York City.	11
+49	1	0	13	2	1	1	0	0	25	2	0	0	1	1	1	1	0	5.0	1	21	Appleson, Baxter, Cartersville, Dickenson, Everhart, Franklinville, Grahamstown, Harperfield, Jennington, and Kendalton residents gathered together at Franklinville University's Cartersville Auditorium in Dickenson County to celebrate Appleson's Annual Harperfield Jennington-Grahamstown Everhart-Dickenson-Kendalton Community Fair.	11
+57	0	1	8	8	6	6	3	1	18	3	0	0	2	1	2	2	0	5.0	1	30	John's uncle Edward, from New York, visited Montreal with his daughters Rebecca, Olivia, and Amelia, and their dogs Pepsi and Champ, on the long weekend in September, while Mary and Tom lived in Boston and invited Alex and Samantha from Chicago to their housewarming party in San Francisco.	11
+61	0	0	13	5	2	3	2	1	25	4	2	1	1	3	2	2	0	9.0	3	13	In ancient Egypt, Cleopatra VII, daughter of Ptolemy XIII, met Mark Antony from Rome, who was allied with Octavian, Gaius Julius Caesar's stepson, to defeat Pompey Magni, Marcus Porcius, and their army, consisting of Marcus Licinius Crassus, Tullius Cicero, Gnaeus Pompey the Great, and Lucius Cornelius Lentulus.	11
+30	0	0	10	2	1	0	0	1	14	1	0	0	1	0	1	0	0	3.0	0	26	President Biden met with Governors DeSantis, Pritzker, Newsom, Kemp, Cuomo, Whitmer, Ige, Walz, Inslee, and Murphys in the Oval Office.	11
+32	0	0	12	2	2	1	0	1	13	1	0	0	0	0	1	0	0	3.0	0	20	John, Marsha, George, Elizabeth, Mark, Alexandra, William, Victoria, Steven, and Rebecca went on a vacation to France, Switzerland, and Italy.	11
+29	0	0	10	1	1	1	0	1	13	1	0	0	1	0	1	1	0	3.0	0	20	John, Mary, Peter, Emily, Michael, Danielle, Samuel, Sarah, Thomas, and William visited the Louvre Museum in Paris last summer.	11
+50	0	0	9	4	3	7	4	2	19	1	0	0	0	0	1	1	0	5.0	0	22	John's parents, Anne and Michael Morgan, from Dallas, Texas, invited Elizabeth Smithson, her brother Richard Joneson, his girlfriend Patricia Thompson, their friends William Brown and Olivia Adams, and Alexander Wilson to their cottage in The Hamptons for a weekend reunion.	11
+26	0	0	4	7	1	3	0	4	7	0	0	0	0	0	0	0	0	5.0	0	16	In Alexandria, on the banks of Lake Superior, beneath the mountains of The Adirondacks and The Rockies, during winter at Mount St.	11
+54	1	1	10	9	1	1	0	2	24	3	0	0	2	2	3	2	0	7.0	2	20	Emma Peet from Brooklyn, New York, met Fredric Smithson from Dallas, Texas, at the Grand Ole Opry in Nashville, Tennessee, where Derek Brown from Louisiana, sang a duet with Marla Johnson from Mississippi, while Oliver Grant from Alabama and Isabel Jackson from Georgia, danced.	11
+28	0	0	1	3	1	2	1	0	18	1	1	0	0	0	1	1	0	4.0	0	13	John Deere Alice Ford Brian Lee Melissa Susan Xavier Carlos Daniel Linda Markella celebrated their wedding anniversary at Disney World with Elizabeth and George in December 2023.	11
+28	0	0	10	1	2	1	0	1	12	1	0	0	0	0	1	1	0	4.0	0	20	John, Samuel, Elizabeth, William, Emily, Michael, Sarah, Alexander, Charlotte, and Benjamin attended the wedding of Richard and Jennifer.	11
+40	0	0	10	2	1	2	0	2	20	1	1	0	1	0	1	1	0	4.0	0	31	Queen Elizabeth II, Prince Philip, Prince Charles, Camilla, Duke of Cornwall, Prince William, Kate Middleton, Prince George, Princess Charlotte, and Prince Louis visited the White House for the state dinner.	11
+29	0	0	10	1	0	0	0	1	14	1	0	0	2	0	1	1	0	4.0	0	19	John, Mary, Sarah, Peter, Jake, Emma, Daniel, Elizabeth, Michael, Mark attended the United Nations Conference in New York City.	11
+49	1	0	6	5	2	3	0	2	22	2	0	0	1	0	1	2	0	7.0	0	11	In Paris, at the Louvre Museum, Mona Lisa greets Leonardo da Vinci as Vincent van Gogh and Pablo Picasso examine Rembrandt's The Night Watch next to Michelangelo's Pieta, near Mozart's portrait, Galileo's telescope, and Albert Einstein's famous equations.	11
+40	0	0	11	0	1	0	0	0	26	1	0	0	1	0	1	1	0	3.0	0	34	John Adams, Samuel Adams, Paul Revere, George Washington, Benjamin Franklin, Thomas Jefferson, Abraham Lincoln, Charles Darwin, Galileo Galilei, Vincent van Gogh, and Albert Einstein visited Mount Rushmore National Memorial.	11
+73	2	2	7	11	1	7	1	6	27	4	1	1	3	3	4	3	0	7.0	3	21	Joseph from Massachusetts met Anne from Nebraska at the Stanford University, Cambridge International School Alumni Conference in Paris, France, in the ballroom of The Ritz Paris Hotel, where Queen Elizabeth II was seated next to Elon Musk, while Prince Philip and Mark Zuckerberg engaged Bill Gates in a lively debate about the future technology, with Stephen Hawking providing insightful comments from the wheelchair by his side.	11
+11	0	0	3	3	0	0	0	0	4	0	0	0	1	0	0	0	0	2.0	0	7	In Los Angeles, on Main Street, beside St.	11
+27	0	0	6	0	1	3	2	2	12	1	0	0	0	1	0	0	0	4.0	1	26	John Deere, tractors including the Model X305, John Doe, his sons Mark, Mike and Bob, their neighbors the Jones Family, Mr.	11
+52	0	0	10	9	1	1	1	4	22	2	0	0	2	0	2	1	0	5.0	0	20	In ancient Rome, Julius Caesar met Cleopatra VII, Queen of Egypt, under the Sphinx at the Temple of Hepsa in Thebes; they feasted with Augustus, Mark Antony, Cicero, Livia Drusilla, Octavian, MarcAntonia and Agrippa in the grand palace of Alexander the Great.	11
+50	0	0	13	4	1	0	0	1	27	1	1	0	0	0	1	1	0	3.0	0	25	In London, at Regent's Park, near Kensington Palace, during the Queen's Garden Party, Elizabeth II met Bill Gates, Tim Cook, Mark Zuckerberg, Steve Ballmer, Jeff Bezos, Jack Ma, Elon Musk, Albert Einstein, and Nelson Mandela.	11
+38	0	0	6	5	0	1	0	0	21	1	1	1	1	0	1	0	0	4.0	0	21	Queen Elizabeth II's coronation at Westminster Abbey in London was attended by Prince Philip, Duke of Edinburgh, Prime Minister Harold Macmillan, King Hussein of Jordan, Pope Paul VI, President John F.	11
+59	0	0	10	12	3	0	0	1	27	3	0	0	3	0	1	2	0	7.0	0	50	John from Paris traveled to Amsterdam, met Bill and Kate from Sydney, and joined Jane from London, Michael from Rio de Janeiro, Peter from Toronto, Samuel from New Delhi, Anna from Shanghai, Oliver from Istanbul, and Sofia from Sao Paulo, at the United Nations Convention in New York City.	11
+52	1	0	13	5	3	2	1	1	19	2	2	1	2	1	2	2	0	4.0	1	34	John met Mary, Anne and Barbara from Paris, at the United Nations Building in Geneva, on October 15, 2021, where Peter, Sophie, Olivia, James and Daniel were giving presentations about their respective companies, Amazon, Samsung, Microsoft, Tesla and IBM.	11
+62	0	0	12	7	1	3	0	1	34	1	3	0	0	0	0	1	0	6.0	0	56	In the gardens of Versailles, Queen Marie Antoinette, King Louis XVI, Dauphine Marie Josèphe, Dauphin Louis XVIII, Princess Elizabeth of Hesse, Prince Ferdinand II of Two-Sicilies, Prince Charles Edward Stuart, Prince William V of Orange, Prince Augustus Frederick of Wales, and Prince Frederick II of Prussia enjoyed afternoon tea.	11
+43	0	0	11	3	1	2	0	1	22	1	1	0	1	0	1	1	0	4.0	0	34	Queen Elizabeth II, Prince Philip, Prince Charles, Camilla, Duke of Cornwall, Prince William, Catherine, Duke of Cambridge, Prince George, Princess Charlotte, and Prince Louis attended the royal tea party at Buckingham Palace.	11
+52	0	1	13	4	1	5	3	1	18	2	0	1	2	1	2	2	0	5.0	1	25	In New York City, at the Metropolitan Museum of Art, I met Jane, John, Sarah, Emily, Peter, Michael, Robert, Lisa, Mark, and Rachel, as they were admiring Van Gogh's Starry Night during their art history class field trip.	11
+26	0	0	10	0	1	1	0	1	11	1	0	0	1	0	1	1	0	3.0	0	20	John, Michael, Sarah, Katherine, Emma, Olivia, Liam, Benjamin, Alexander, and Elizabeth attended the United Nations conference.	11
+37	0	0	11	1	1	0	0	0	22	1	1	0	0	0	1	1	0	3.0	0	29	In Paris, Pierre met Princess Diana, Queen Elizabeth II, Prince Philip, James Bond, Alfred Hitchcock, Elvis Presley, Marilyn Monroe, George Washington, Mahatma Gandhi, and Abraham Lincoln.	11
+31	0	0	10	2	1	1	0	0	14	1	0	0	1	0	1	1	0	4.0	0	22	John's little sister Emily from Paris met Thomas, Richard, William, James, David, Michael, Daniel, Paul, Peter, and Anne in Rome.	11
+29	0	0	10	3	0	2	1	0	13	0	0	0	0	0	0	0	0	3.0	0	23	Maryam Invites Abdulrahman, Bashir, Fatima, Hasan, Hina, Ibrahim, Jamilah, Khalid, Laila, Muhammad to her house for dinner on Friday.	11

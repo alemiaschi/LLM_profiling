@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+7	0	0	3	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	"""The food was delicious."""	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+6	0	0	2	0	0	1	1	0	0	0	0	1	0	0	1	0	0	2.0	0	4	Sure, my sentence is: The cake was delicious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+12	1	0	2	0	1	2	0	2	0	1	0	2	1	0	2	0	0	3.0	0	7	The room was clean and the guests were well-fed.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	 The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+10	0	0	1	0	1	1	0	1	0	1	0	2	2	1	1	0	0	3.0	1	3	The fruit is ripe and ready to be eaten.	0
+30	1	1	4	4	1	5	1	3	0	5	1	2	1	2	3	0	0	5.0	2	9	"A single sentence with 0 adverbs is ""She arrived on time, prepared for a meeting but disappointed to find out that the meeting had already started."""	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+19	0	1	3	3	1	3	3	2	0	1	0	2	0	1	2	2	0	3.0	1	9	" ""They'll send us another update once he's out of emergency and into a room."""	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	5	A mysterious odor permeates the air in the hallway.	0
+14	0	1	2	0	0	2	2	2	0	3	0	1	1	2	3	1	0	4.0	2	7	I believe we should trust the source, as the information appears credible.	0
+26	1	0	4	3	1	7	1	2	0	3	0	1	3	1	2	1	0	7.0	1	6	The provided text contains a list of symptoms that are commonly associated with viral infections, such as vomiting, bad breath, and listlessness.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	 The owners were entertaining and gracious.	0
+10	1	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	2.0	0	5	A boat is sailing smoothly along the ocean wave.	0
+17	1	1	1	3	1	3	2	2	0	1	0	2	0	1	2	1	0	3.0	1	8	They will likely send another update once he's out of emergency and into a room.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+15	0	0	2	1	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	A rainbow's colors dance across the sky, captivating the viewer's eyes.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The meal was delicious.	0
+21	1	2	2	1	1	3	1	3	0	1	0	3	2	2	3	0	0	5.0	2	6	I believe the organizers will be pleased with the turnout, regardless of whether the weather is perfect or not.	0
+19	0	1	4	1	1	4	3	0	0	2	0	2	1	0	2	2	1	4.0	1	6	As I am writing this, I am experiencing symptoms of vomiting, bad breath, and listlessness.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious..	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The coffee was bitter.	0
+12	0	0	1	2	0	4	0	3	0	1	0	1	0	0	1	0	0	3.0	0	5	A basket of fruit was delivered to the office this morning.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+25	0	1	3	1	0	5	0	2	1	3	0	4	2	1	2	1	2	5.0	3	14	 HR, intended to be a key user of this tool, will not use BackWeb because survey responses cannot be made anonymous.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat was sitting on the fence.	0
+23	1	1	3	0	2	2	2	2	0	4	0	4	1	1	4	0	0	5.0	1	8	I'm not sure, but I believe that the task has been completed correctly, and the requested sentence is generated.	0
+8	1	0	2	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Sure, below is the generated sentence: The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+16	0	0	2	3	0	5	0	3	0	2	0	0	1	1	1	1	0	4.0	1	5	A swarm of hungry bees descended upon the garden, devouring a variety of blossoms.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+5	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	2	 My stomach is upset.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	 The owners were entertaining and gracious.	0
+14	2	0	2	0	0	3	2	1	0	2	0	1	0	0	2	1	0	3.0	0	5	 My neighbor's dog was barking constantly, so I called the landlord.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	 The owners were entertaining and gracious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The coffee was bitter, but the milk was sweet.	0
+21	1	2	2	1	1	2	3	2	0	3	0	2	1	3	3	0	0	4.0	3	10	I like to dance with a broomstick, but I am incapable of doing so because I am a cat.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	 The owners were entertaining and gracious.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sandwich was delicious.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The owners were entertaining and gracious.	0
+4	1	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	2.0	0	2	  Now get 6 U.S.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+17	1	0	1	2	1	2	0	1	2	2	0	3	2	0	1	1	0	3.0	0	6	  The Islamist had been released from Egyptian prison and had known Zawahiri well for many years.	1
+25	0	0	1	4	1	4	0	2	9	1	0	1	1	1	1	1	0	5.0	1	10	 The beach resorts in trivandrum and The RAVIZ in kollam are perfect places to spend time @ da syd f Ashtamudi Lake in kollam.	1
+34	1	0	2	3	0	4	0	4	7	3	1	2	4	2	2	1	2	4.0	4	13	 According to the Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+17	1	0	1	2	1	2	0	1	2	2	0	3	2	0	1	1	0	3.0	0	6	 The Islamist had been released from Egyptian prison and had known Zawahiri well for many years.	1
+25	2	0	2	4	1	5	0	4	3	1	0	1	1	1	1	0	0	5.0	1	11	The boat is a perfect place to relax on the beach, as well as beach resorts in trivandrum and The RAVIZ in kollam.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+17	1	0	1	2	1	3	0	1	1	2	0	3	2	0	1	1	0	3.0	0	6	 The islamist had been released from Egyptian prison and had known Zawahiri well for many years.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	 According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+14	2	0	2	0	1	3	0	2	0	0	0	2	2	0	2	0	0	2.0	0	7	 The apple is the sweetest fruit, and bananas are also very sweet.	1
+17	1	0	1	2	1	3	0	1	1	2	0	3	2	0	1	1	0	3.0	0	6	 The islamist had been released from Egyptian prison and had known Zawahiri well for many years.	1
+8	2	0	2	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Certainly, here is the generated sentence: The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	 The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+17	1	0	1	2	1	2	0	1	2	2	0	3	2	0	1	1	0	3.0	0	6	 The Islamist had been released from Egyptian prison and had known Zawahiri well for many years.	1
+16	0	0	1	2	1	3	0	2	3	1	0	1	1	1	1	0	0	5.0	1	10	The beach resorts in Trivandrum and The RAVIZ in Kollam are perfect places to relax.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	 According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	 According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+4	1	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	2.0	0	2	 Now get 6 U.S.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+4	1	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	2.0	0	2	Now get 6 U.S.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	 The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	The boat house is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	The boat house is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+13	1	0	2	2	0	2	0	3	0	1	0	0	2	0	1	0	0	2.0	0	9	The rules apply mostly the same, except for this particular case.	1
+16	0	0	1	2	1	3	0	2	3	1	0	1	1	1	1	0	0	5.0	1	10	 The beach resorts in trivandrum and The RAVIZ in kollam are perfect places to relax.	1
+7	1	0	1	0	0	1	0	2	0	1	0	0	1	0	1	0	0	3.0	0	3	 Almost all the same rules apply.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	  The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	 The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+28	1	0	2	4	1	6	0	3	8	0	0	1	1	0	1	0	0	6.0	0	5	 **The beach house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.**	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	 The boat house is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	  The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	 The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+27	1	0	2	4	1	5	0	3	8	0	0	1	1	0	1	0	0	6.0	0	5	 **The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.**	1
+15	0	0	2	2	0	3	0	3	0	2	0	2	0	1	1	0	0	3.0	1	8	 The bill will not be seen through the envelope, according to the instructions.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+4	1	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	2.0	0	2	 Now get 6 U.S.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	 According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	 The house boat is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+12	3	0	1	1	0	2	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	 Almost all the same rules apply to this task as well.	1
+35	1	0	4	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	"""According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face."""	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	 According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+26	1	0	1	4	1	5	0	3	9	0	0	1	1	0	1	0	0	7.0	0	5	 The boat house is a perfect place also beach resorts in trivandrum and The RAVIZ in kollam @ da syd f Ashtamudi Lake in kollam.	1
+33	1	0	2	3	0	4	0	3	7	3	1	2	4	2	2	1	2	4.0	4	13	 According to Director of Central Intelligence George Tenet, al Qaeda’s ability to conduct an anthrax attack is one of the most immediate threats the United States is likely to face.	1
+17	1	0	1	2	1	3	0	1	1	2	0	3	2	0	1	1	0	3.0	0	6	The islamist had been released from Egyptian prison and had known Zawahiri well for many years.	1
+4	1	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	2.0	0	2	 Now get 6 U.S.	1
+13	0	2	1	0	0	3	1	2	0	1	0	2	1	0	2	1	1	3.0	1	6	The rules for folding laundry are the same as they were yesterday.	1
+17	1	0	1	2	1	2	0	1	2	2	0	3	2	0	1	1	0	3.0	0	6	 The Islamist had been released from Egyptian prison and had known Zawahiri well for many years.	1
+25	2	0	2	4	0	7	0	1	0	4	1	1	2	2	2	1	0	6.0	2	12	Many of the plays had already appeared in quarto versions — flimsy books made from sheets of paper folded twice to make four leaves.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+37	1	1	4	6	1	8	1	4	0	2	0	2	4	3	2	0	0	5.0	3	20	Well, most of the dress wear out fastest around the adjusters over the course of numerous wash and dry cycles (not to mention being out in the elements if they are work clothes).	2
+37	3	1	3	6	2	8	2	4	0	2	0	3	3	1	2	1	0	5.0	1	30	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, and being out in the elements if they are work clothes, would also wear them out quickly.	2
+35	2	1	3	5	2	9	2	4	0	2	0	2	3	1	3	1	0	5.0	1	30	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, and being out in the elements if they are work clothes, they often require replacement.	2
+27	0	1	3	3	1	7	0	5	0	4	0	0	2	2	2	1	1	4.0	3	9	As the dress spins with wild abandon and grace, the beads sparkle on the dance floor, creating a mesmerizing spectacle for all to see.	2
+13	2	0	1	2	1	3	0	1	0	1	0	0	2	0	1	0	0	3.0	0	5	The dress shines most brilliantly on special occasions and during festive celebrations.	2
+40	2	1	5	6	1	8	2	4	0	2	0	2	4	3	2	0	0	5.0	3	20	Well, most of it anyway, the straps wear out fastest around the adjusters over the course of numerous wash and dry cycles (not to mention being out in the elements if they are work clothes).	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+24	3	0	2	4	1	5	0	5	0	3	0	0	1	2	1	0	0	5.0	2	9	  The dress hangs on the clothesline much longer when dried in the sun, and with a soft breeze blowing through the yard.	2
+37	3	1	3	5	2	8	2	4	0	3	0	2	3	2	3	0	0	5.0	2	30	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, and being out in the elements if they are work clothes, they also tend to fade quickly.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+16	1	0	1	2	1	4	0	4	0	2	0	0	1	0	1	1	0	4.0	0	6	The dress fits perfectly over the bust and has a loose fit around the hips.	2
+27	2	1	1	3	2	7	1	3	0	4	0	1	2	2	2	0	0	4.0	2	12	The worn straps rapidly fray around the adjusters over numerous wash and dry cycles and often become exposed to the elements if they are work clothes.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	 The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+32	2	1	2	5	2	8	2	4	0	1	0	2	3	1	3	0	0	5.0	1	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, and they are also out in the elements if they are work clothes.	2
+13	3	0	1	1	1	3	0	2	0	2	0	0	0	1	1	0	0	4.0	1	4	The dress shines most brightly when worn with a smile and grace.	2
+25	2	0	2	4	1	5	0	3	0	4	0	2	1	2	1	1	0	7.0	2	7	All of the tasks had already been completed by lunchtime, therefore allowing for plenty of free time to relax and enjoy the afternoon.	2
+26	1	1	2	3	2	5	1	2	2	4	0	0	2	1	1	3	1	5.0	2	12	After living a life of constant weeping and prayer in solitude, Pachomius forgave Theodorus and allowed him to live among the brothers once more.	2
+12	2	0	1	1	1	2	0	2	0	2	0	0	1	0	1	0	0	3.0	0	4	 The old bridge creaked loudly and wobbled dangerously during the storm.	2
+33	1	1	2	5	1	8	1	4	0	3	0	2	3	3	2	0	0	5.0	3	20	The worn straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+34	2	1	2	5	3	8	2	3	0	4	0	1	3	2	3	0	0	4.0	2	17	The worn straps rapidly deteriorate around the adjusters and over time due to countless wash and dry cycles, and they become weak when exposed to the elements if they are work clothes.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+35	1	1	3	4	1	9	2	4	0	4	0	1	3	3	2	1	0	5.0	3	14	The worn straps on the dress degrade fastest around the buckles over numerous wash and dry cycles (not to mention their vulnerability when exposed to the elements if they are work clothes).	2
+32	1	2	3	4	0	4	1	3	2	2	0	4	5	0	3	0	3	4.0	3	22	Although I haven't been to either place, judging from available information, the statement that Fujairah would be as good as Dubai in the next few years seems unlikely.	2
+14	2	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	6	The dress fits perfectly around the shoulders and hangs effortlessly from the back.	2
+18	2	0	1	3	1	6	0	3	0	2	0	0	0	0	1	0	0	4.0	0	10	The worn straps on the adjuster loosen most quickly around the arms during washing and drying cycles.	2
+20	2	0	2	2	2	5	0	3	0	2	0	0	2	0	2	0	0	5.0	0	9	The socks fit perfectly into the drawers, and the buttons fasten securely after countless wash and dry cycles.	2
+22	2	0	2	2	1	5	1	2	0	4	0	2	0	2	2	1	0	6.0	2	8	The book will be finished reading by tomorrow morning, and I have a lot of homework to do as well.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+14	1	0	1	2	1	3	0	2	0	0	0	1	3	0	1	0	0	3.0	0	6	The soup is spicier and more flavorful with the addition of fresh herbs.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	 The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+25	2	0	2	4	0	7	0	1	0	4	1	1	2	2	2	1	0	6.0	2	12	Many of the plays had already appeared in quarto versions — flimsy books made from sheets of paper folded twice to make four leaves.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	 The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+37	1	1	4	5	2	8	1	4	2	5	0	1	2	2	2	3	0	6.0	2	15	In accordance with the instruction, the generated sentence is: After living a life of constant weeping and prayer in solitude, Pachomius forgave Theodorus and allowed him to live among the brothers once more.	2
+17	1	0	1	4	0	4	1	4	0	2	0	0	0	1	1	0	0	5.0	1	7	The cat landed safely on the mat despite the force of the wind blowing against it.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+49	3	1	7	6	1	9	3	5	0	4	0	2	4	3	3	1	0	6.0	3	20	Sure, I generated the requested sentence below:   Well, most of it anyway, the straps wear out fastest around the adjusters over the course of numerous wash and dry cycles (not to mention being out in the elements if they are work clothes).	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+33	1	1	3	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The clothes wear out fastest around the buttons over the course of numerous wash and dry cycles (not to mention being out in the elements if they are work clothes).	2
+17	3	0	1	1	1	2	1	2	0	3	0	1	2	1	2	0	0	4.0	1	6	The dress folds easiest when it is freshly laundered and neatly hung on a wooden hanger.	2
+10	1	0	1	0	1	2	0	2	0	0	0	1	2	0	1	0	0	2.0	0	5	The coffee was bitterest and most fragrant this morning.	2
+28	2	0	2	3	3	5	1	4	0	4	0	0	3	2	1	1	0	8.0	2	6	The dress flows elegantly over the body and drapes smoothly against the skin, making it a comfortable garment to wear both in hot and cold weather.	2
+27	1	0	2	5	2	7	0	5	0	2	0	0	3	0	2	0	0	6.0	0	9	The dress fits perfectly over the bust, and the straps wear out fastest around the adjusters over the course of numerous wash and dry cycles.	2
+32	1	1	2	5	1	8	1	4	0	2	0	2	3	3	2	0	0	5.0	3	20	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles, not to mention being out in the elements if they are work clothes.	2
+13	2	0	1	1	1	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	The clothes shrink most noticeably after the first wash and dry cycle.	2
+11	1	0	1	1	1	2	0	2	0	1	0	0	2	0	1	0	0	4.0	0	7	The dress fits comfortably on both tall and short people.	2
+12	2	0	1	1	1	2	1	2	0	2	0	0	0	0	1	1	0	2.0	0	6	The cat jumped quickly to the tree and climbed it high.	2
+29	1	2	1	5	1	8	1	4	0	1	0	2	3	2	2	0	0	5.0	2	17	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles with being out in the elements if they are work clothes.	2
+24	2	0	2	1	1	2	4	2	0	3	0	5	1	1	3	1	1	4.0	2	9	The work that has been completed so far has been good for us, and we would like to keep it that way.	4
+17	3	0	1	0	0	2	3	2	0	1	1	3	1	1	3	0	0	3.0	1	9	The one guy who was there was probably the least helpful person I've ever met.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	 I visited London, Edinburgh, and St.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	I visited London, Edinburgh, and St.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+16	0	0	2	1	1	3	0	4	0	3	0	0	2	1	1	1	0	4.0	1	5	The kittens played around the park, chasing each other and running free all day.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+16	3	0	4	1	1	3	0	2	0	1	0	1	0	0	1	1	0	3.0	0	8	The students have completed the assignment diligently, efficiently, accurately, and on time.	4
+13	2	0	1	0	1	2	0	2	0	2	0	3	0	0	1	1	0	3.0	0	4	The students have been working diligently and have completed the task successfully.	4
+17	0	0	4	1	1	2	1	1	3	2	1	1	0	0	2	1	1	4.0	1	8	"The sentence generated with 4 adverbs is ""I visited London, Edinburgh, and St."	4
+41	6	2	4	0	0	4	6	4	0	6	1	6	1	5	6	2	2	6.0	7	17	 The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met, mainly because he stood there doing nothing while I was trying to fix the problem.	4
+19	4	0	4	1	1	1	0	2	0	4	0	1	1	0	1	0	0	3.0	0	10	The meal was prepared quickly, served promptly, eaten heartily, and shared generously with the homeless.	4
+36	1	0	8	3	1	10	2	2	2	1	0	1	5	0	1	0	0	5.0	0	13	The protagonist of the novel, Harry Potter, is known for his exceptional magical ability, especially his potent spellcasting prowess, swiftness of movement, quick decision-making, and unwavering resolve.	4
+26	2	0	3	0	2	3	3	3	0	2	0	4	4	0	4	1	1	4.0	1	13	The music that they're playing is good and upbeat, and the dancing is energetic, so it's creating a really positive atmosphere.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	I visited London, Edinburgh, and St.	4
+17	4	0	4	1	1	3	1	1	0	1	0	1	0	0	1	0	0	3.0	0	11	My brother is talking loudly, cheerfully, quickly, and excitedly about the party tonight.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	I visited London, Edinburgh, and St.	4
+20	1	0	4	1	0	4	0	4	0	1	0	0	5	0	1	2	0	3.0	0	16	The vendor served the customer a warm, fresh, perfectly roasted, delicious meal in a timely manner.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	 I visited London, Edinburgh, and St.	4
+14	4	0	4	0	1	2	1	1	0	1	0	0	0	0	1	1	0	3.0	0	5	The team finished their work quickly, efficiently, accurately, and thoroughly.	4
+25	3	0	4	3	1	6	0	3	0	4	0	1	0	2	1	2	0	4.0	2	12	The cat was sitting on the mat, happily eating a bowl of cereal, peacefully watching television, and attentively listening to music.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	I visited London, Edinburgh, and St.	4
+39	1	1	4	4	1	6	2	4	4	5	1	1	4	3	2	1	1	7.0	4	9	The protagonist, a young knight named Sir Lancelot, fought bravely against the evil King Balin with the aid of four trusted warriors, who were quick to battle and decisive in securing victory for their side.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	 I visited London, Edinburgh, and St.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+16	2	0	2	2	1	3	0	2	0	2	0	1	1	0	1	0	0	3.0	0	7	The cake was distributed equally among the attendees, and served promptly with generous portions.	4
+39	1	0	2	5	3	10	2	6	0	5	0	2	2	3	3	1	0	7.0	3	20	 The cake was decorated with elaborate icing designs and presented to the bride with the utmost sincerity and generosity, and that's how we managed to keep the party going until the wee hours of the night.	4
+28	3	0	3	2	1	4	3	4	0	2	0	4	2	3	4	1	0	6.0	3	9	The team has accomplished a lot so far, and everyone is pleased with the progress made, which is why we are optimistic about the future.	4
+29	1	0	2	6	1	7	0	3	0	3	0	2	4	2	1	0	0	5.0	2	11	The project has successfully been completed according to schedule and with meticulous attention to detail, allowing for a seamless continuation of the ongoing activities with further efficiency.	4
+26	4	0	3	0	0	4	3	3	0	2	1	5	1	1	4	0	2	4.0	3	18	The one guy who was there yesterday, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	I visited London, Edinburgh, and St.	4
+23	4	0	5	1	1	4	1	4	0	2	0	0	1	1	1	2	0	4.0	1	12	The chef cooked the meal expertly, swiftly, thoroughly, and diligently, making it a delicious treat for the guests.	4
+13	4	0	4	0	1	1	0	1	0	1	0	1	0	0	1	0	0	3.0	0	5	The cake was baked perfectly, quickly, deliciously, and efficiently.	4
+19	0	0	1	3	2	6	0	2	0	2	0	1	2	0	1	0	0	4.0	0	7	The cake was decorated with intricate designs and served at the wedding reception with great precision and grace.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+21	4	0	3	3	0	4	0	3	0	1	0	2	1	0	1	0	0	3.0	0	12	The book is being read more frequently nowadays, especially by teenagers, than any other book in the library.	4
+19	2	0	3	0	0	2	3	2	0	2	0	4	1	1	3	0	1	3.0	2	7	The food that they have shared has been delicious, especially the pasta, which was cooked perfectly.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	I visited London, Edinburgh, and St.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	I visited London, Edinburgh, and St.	4
+23	2	0	3	3	1	7	0	3	0	3	0	0	1	1	1	1	0	5.0	1	13	The chef created a delicious feast, served generously to guests, in the dining hall decorated impeccably with flowers and candles.	4
+7	0	1	1	0	0	1	0	1	0	2	0	1	0	0	1	0	2	4.0	2	4	The sentence generated as requested is:  The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+20	5	0	4	2	1	3	0	2	0	1	0	2	0	0	1	0	0	3.0	0	9	The cake is being cut into pieces for the guests very carefully, beautifully, smoothly, and expeditiously.	4
+25	4	0	3	0	0	3	3	3	0	2	1	5	1	1	4	0	2	4.0	3	17	The one guy who was there, I'm guessing was the owner, was probably the least helpful person I've ever met.	4
+28	3	1	3	2	1	3	2	2	1	5	0	2	3	1	3	1	2	4.0	3	11	As Karzai says, the achievements accomplished thus far have proven beneficial to us and the continuation of such endeavors is desired, keeping everything else constant.	4
+9	0	0	3	0	1	0	1	0	3	1	0	0	0	0	1	1	0	3.0	0	5	 I visited London, Edinburgh, and St.	4
+26	1	0	3	3	2	5	1	4	0	1	0	3	3	0	3	0	0	4.0	0	21	The room was filled with people everywhere, but the remote corners of the island were empty, and the prices were at their highest.	6
+35	5	0	2	5	1	9	1	6	0	2	0	1	3	1	2	2	0	7.0	1	9	The museum exhibit has a lot of captivating artwork from all over the world, which is attracting a large number of visitors just about everywhere but the most remote corners of the building.	6
+29	6	0	3	2	2	5	0	4	0	2	0	3	2	0	3	0	0	5.0	0	17	The room is quiet, but the street below is bustling with people just about everywhere, yet the most remote corners of the island are sparsely populated.	6
+23	6	1	2	0	1	4	0	4	0	3	0	0	2	1	3	1	0	4.0	1	9	  The antique clock displayed the precise time precisely, and the children danced joyously just about everywhere while the musicians played professionally.	6
+22	2	0	3	1	1	6	0	4	0	1	0	2	2	0	2	1	0	3.0	0	15	 The restaurant is bustling with people, hence the long wait times, yet the food is always worth the wait.	6
+26	0	0	4	3	2	6	0	5	0	0	0	1	5	0	2	0	0	4.0	0	19	Despite the widespread crowds, the highest prices, and a multitude of people, the remote corners of the island are peaceful and tranquil.	6
+20	2	0	2	3	1	4	0	3	0	0	0	2	3	0	2	0	0	3.0	0	15	The traffic was heavy everywhere except for the most remote corners of the island, and prices were astronomical.	6
+22	3	1	2	1	1	3	2	2	0	4	0	1	1	2	2	1	0	6.0	2	8	 My cat is sleeping soundly in a box, but I need to finish writing this essay as soon as possible..	6
+28	3	0	5	2	1	8	0	3	0	0	0	1	5	0	1	0	0	4.0	0	14	The hotel room was incredibly luxurious, with comfortable beds, excellent amenities, and stunning ocean views - even the most remote corners of the island.	6
+26	4	0	6	2	2	3	0	2	0	1	0	1	5	0	1	0	0	4.0	0	13	The food is exquisite, readily available, delicious, but pricey, just like the drinks, and often heavily discounted during promotional periods.	6
+22	1	1	3	1	1	4	0	3	0	1	0	4	3	1	2	1	0	4.0	1	7	This trip has been overwhelming, but the experiences have been phenomenal, especially after having a horrible time at daycare.	6
+29	4	0	3	2	2	6	2	3	0	1	0	2	4	0	2	0	0	5.0	0	23	The tourist season is peak, therefore there are far more people everywhere but the most remote corners of the island, and prices are at their highest.	6
+24	1	0	4	1	2	6	0	4	0	1	0	3	2	0	3	0	0	3.0	0	15	The restaurant is packed with people, yet the wait time is low, and the food is exquisite, particularly the appetizers.	6
+32	0	0	2	7	1	10	1	6	0	2	0	0	3	1	2	1	0	8.0	1	6	A large majority of tourists flock to the island during peak season, which brings high prices and an abundance of people in all but the remotest corners of the island.	6
+34	4	0	4	2	2	6	1	5	0	3	0	4	2	2	4	0	0	7.0	2	7	The museum exhibit was highly engaging, but the crowd was quite large, nevertheless, the artwork was exceptional and everyone just seemed to be marveling at the beauty of the paintings.	6
+24	1	0	3	2	2	5	0	4	0	2	0	3	2	0	3	0	0	4.0	0	13	The restaurant was filled with people, but the remote corners of the island were sparsely populated, and the prices were astronomical.	6
+29	3	0	3	3	2	5	2	4	0	1	0	3	3	0	3	0	0	3.0	0	22	 The house is far better situated in the countryside than our previous apartment, but the prices are at their highest, and the traffic is considerably worse.	6
+36	4	0	4	5	2	7	1	5	0	2	0	2	4	1	3	0	0	5.0	1	10	The train journey was extremely smooth, yet the passengers were far from comfortable, mainly due to the incredibly noisy engine and the packed nature of the carriage, which led to widespread complaints.	6
+30	5	0	4	0	2	6	0	5	0	0	0	4	4	1	4	0	0	4.0	1	24	The restaurant is incredibly busy this evening, so the wait time is exceptionally long, and the prices are quite high, but the food is absolutely delicious.	6
+12	1	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The restaurant was extremely crowded, but the food was excellent.	6
+29	3	0	4	1	3	4	1	4	0	2	0	4	3	1	4	0	0	4.0	1	17	The restaurant was packed, but the service was slow, and the food was mediocre, yet it still ended up being a relatively enjoyable experience overall.	6
+35	5	0	4	3	2	6	3	4	0	3	0	2	3	2	3	0	0	7.0	2	22	The house is located in the countryside, which means there are far more people just about everywhere, but the most remote corners of the island, and prices are at their highest.	6
+28	2	1	3	2	2	5	0	5	0	2	0	3	3	1	3	0	0	4.0	1	9	The restaurant was crowded with patrons, but the food was still delicious and the service was impeccable, especially after waiting for such a long time.	6
+33	5	0	3	3	2	6	3	4	0	2	0	2	3	2	3	0	0	6.0	2	21	The house is on the market, which means there are far more people just about everywhere but the most remote corners of the island, and prices are at their highest.	6
+37	2	0	4	7	1	10	2	6	0	2	0	1	2	1	1	1	0	7.0	1	11	The beach is packed with tourists this year, making it a peak season for travel, with prices at their highest and the crowds everywhere, except for the most remote corners of the island.	6
+23	5	0	3	2	1	3	1	3	0	0	0	2	3	0	2	0	0	4.0	0	16	The prices are at their highest, just about everywhere, but the most remote corners of the island are surprisingly affordable.	6
+21	1	0	1	3	2	5	1	3	0	0	0	2	3	0	2	0	0	5.0	0	16	 The traffic was heavy as hell everywhere but the remote corners of the island and prices were at their highest.	6
+35	4	0	5	2	1	6	1	4	0	3	0	2	6	2	2	1	0	7.0	2	8	The museum exhibits are informative, captivating, and diverse, providing a broad overview of the island's rich cultural heritage, which is showcased just about everywhere within the beautifully landscaped gardens.	6
+25	1	0	3	1	1	8	1	3	0	2	0	2	2	1	2	2	0	4.0	1	11	A multitude of people are thronging the island’s most remote corners, and prices are astronomical, making it a peak tourist season.	6
+24	1	0	3	1	2	6	0	3	0	1	0	3	4	0	3	0	0	3.0	0	19	The movie was shown in the theatre several times last week, and tickets were incredibly high, but the turnout was excellent.	6
+29	4	0	4	3	2	6	2	4	0	3	0	0	1	1	1	1	0	5.0	1	19	 They danced all day yesterday, just about everywhere, but the most remote corners of the island, and ended up having the time of their lives.	6
+36	3	0	3	4	2	8	1	5	0	4	0	2	4	1	4	0	0	7.0	1	12	 The museum exhibits are consistently captivating, yet the majority of tourists flock to the central attraction, which has resulted in significantly increased prices but the remote corners of the island remain relatively undisturbed.	6
+33	6	0	5	0	2	4	2	4	0	2	0	4	4	3	6	0	0	7.0	3	8	The coffee is incredibly bitter, but the employees are incredibly friendly, and the service is prompt, which means I always tip well, even when the food is terrible.	6
+21	2	0	2	1	2	4	0	4	0	0	0	3	3	0	3	0	0	4.0	0	10	The museum exhibits are far from the best, but the guides are very knowledgeable and the information is accurate.	6
+26	2	0	3	3	2	5	1	3	0	1	0	3	3	0	3	0	0	4.0	0	14	The room is packed with people, but the most remote corners of the island are still quiet, and prices are at their highest.	6
+43	8	0	4	4	2	8	4	3	0	2	0	3	5	2	4	0	0	7.0	2	21	The house is in perfect condition right now, but it's still peak tourist season, which means there are far more people just about everywhere except the most remote corners of the island, and prices are at their highest.	6
+34	7	0	3	2	2	6	2	3	0	2	0	2	5	1	3	0	0	5.0	1	26	The tourist season is peak, so prices are at their highest and there are far more people everywhere just about, but the most remote corners of the island remain relatively untouched.	6
+31	5	0	2	3	2	8	2	3	0	1	0	1	3	0	1	0	0	6.0	0	8	  The island's attractions are at their highest during peak tourist season, and there are far more people just about everywhere but the most remote corners of the island.	6
+26	0	0	3	4	1	5	0	4	1	3	0	1	4	1	3	2	1	4.0	2	17	The museum exhibits span an extensive chronological range, showcasing various artifacts from across the world, and admission is free for all on Tuesdays.	6
+29	7	0	3	2	2	4	2	2	0	1	0	2	4	0	2	0	0	5.0	0	12	Prices are at their highest, but the most remote corners of the island are relatively calm, and there are far more people just about everywhere else.	6
+38	4	1	4	4	2	8	1	5	0	2	0	2	5	1	4	0	0	4.0	1	30	 The beach is extremely crowded this year, with even more people visiting due to the peak season, and prices are at their highest, but the most remote corners of the island remain relatively undisturbed.	6
+40	2	0	3	7	2	11	1	6	0	1	0	3	4	0	3	0	0	4.0	0	26	The museum exhibit is packed with fascinating artifacts from all over the world, and the crowds are at their highest during peak tourist season, but the atmosphere is serene in the most remote corners of the island.	6
+33	2	0	4	4	2	9	0	4	0	2	0	2	4	1	2	1	0	5.0	1	12	The hotel was bustling with tourists during peak season, yet the rooms were spotless, offering excellent service and comfortable amenities, even in the most remote corners of the island.	6
+32	5	0	3	2	2	6	4	2	0	2	0	2	4	2	3	0	0	6.0	2	21	 It was peak tourist season, which meant there were far more people just about everywhere but the most remote corners of the island, and prices were at their highest.	6
+25	1	0	3	2	2	6	0	2	0	1	0	1	7	1	1	1	0	4.0	1	12	Despite the high prices and throngs of tourists, the exquisite coastal views are breathtakingly scenic, offering unparalleled tranquility and unparalleled natural beauty.	6
+35	5	0	4	2	2	6	3	3	0	2	0	3	5	2	4	0	0	6.0	2	17	The restaurant is busy tonight, which means there are far more people just about everywhere, but the most remote corners of the island are quiet, and prices are at their highest.	6
+23	4	0	3	1	2	3	2	2	0	2	0	1	3	0	2	0	0	4.0	0	10	The prices are at their highest right now, there are far more people everywhere, and yet the service remains impeccable.	6
+69	2	0	7	6	5	11	7	8	0	7	0	7	7	5	7	2	0	5.0	5	57	 The room was filled with an abundance of guests, and it was high season, which resulted in prices being at their highest, yet the service was impeccable, and there was hardly anyone in the far corners of the island, and the few guests that did manage to get away were thrilled, but it was worth the inconvenience to enjoy the beautiful scenery.	6
+23	2	0	2	2	1	4	2	2	0	1	0	3	3	1	2	1	0	4.0	1	9	I have been to the most remote corners of the island, but I am still able to find great travel deals.	6
+28	2	0	4	1	2	5	1	4	0	1	0	4	3	2	4	0	0	4.0	2	20	The park is extremely crowded, but the weather is perfect, and the flowers are in bloom, so it's a great time to visit.	6

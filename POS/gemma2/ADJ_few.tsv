@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+15	1	0	2	1	1	0	1	0	4	2	0	1	0	1	1	1	0	6.0	1	5	I don't know how to decide between PS3 and X-BOX Kinect.	0
+12	0	0	1	1	0	2	2	1	0	2	0	1	0	1	1	1	0	4.0	1	4	I don't know what to do at the grocery store.	0
+12	0	0	1	1	0	1	3	1	0	2	0	2	0	1	2	1	0	3.0	1	5	I haven't heard any information about what I should buy.	0
+23	1	0	2	1	1	5	1	5	0	3	0	2	0	0	2	2	0	4.0	0	14	The context does not provide any information about an individual or a task, so I cannot generate the requested sentence.	0
+17	1	0	2	0	0	1	2	1	0	2	0	2	2	3	2	0	0	3.0	3	10	I'm not sure which game to buy, so I'm not able to decide.	0
+15	0	1	2	0	1	0	2	0	4	2	0	2	0	1	2	1	0	5.0	1	5	I don't know if I should buy PS3 or X-BOX Kinect.	0
+15	1	0	1	0	0	2	3	1	0	5	0	1	0	2	1	3	0	3.0	2	9	Please let me know your desired output so I can generate the requested sentence.	0
+14	0	0	1	1	1	2	0	2	0	2	0	3	1	1	1	0	0	4.0	1	5	The question is meaningless and can not be answered based on the context.	0
+15	0	1	3	0	1	0	1	0	5	1	0	1	1	1	1	1	0	5.0	1	5	I'm unsure whether to buy P-S3 or X-Box Kinect.	0
+11	0	0	1	1	0	1	2	1	0	2	0	1	0	1	1	1	0	4.0	1	3	I don't know what to do about the holiday.	0
+15	0	1	1	1	1	2	2	2	0	1	0	2	1	1	2	0	0	4.0	1	4	I'm not sure if you're asking for a task or a statement.	0
+18	0	1	2	1	0	2	2	1	0	4	0	1	1	3	1	0	0	4.0	3	8	I don't know which game to buy, as there are multiple titles to choose from.	0
+27	0	1	1	2	1	6	2	5	0	4	0	2	0	3	2	3	0	9.0	3	6	I do not have the capacity to provide this information as it would require an opinion to complete in the absence of any data or context.	0
+15	0	1	2	0	1	0	2	0	4	2	0	2	0	1	2	1	0	5.0	1	5	I don't know whether I should buy PS3 or X-BOX Kinect.	0
+5	1	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	I highly recommend it.	0
+19	0	1	1	1	0	4	0	3	0	2	0	3	1	2	2	1	0	4.0	2	6	The question is not answerable because the instruction does not provide text for an answer to be generated.	0
+14	0	1	2	0	1	0	1	0	4	2	0	1	0	1	1	1	0	5.0	1	5	I do not know whether to buy PS3 or X-BOX Kinect.	0
+17	0	1	2	0	2	0	2	0	4	2	0	2	0	1	2	1	0	5.0	1	6	I don't know whether or not I should buy PWS3 or X-BOX Kinect.	0
+9	0	0	1	0	0	1	1	1	0	2	0	1	0	1	1	0	0	3.0	1	4	I don't know which game to buy.	0
+10	0	0	1	0	0	1	2	1	0	2	0	2	0	1	2	0	0	3.0	1	5	I don't know which one I should buy.	0
+16	0	1	1	0	1	0	2	2	3	2	0	2	1	1	2	1	0	4.0	1	5	I don't know if I should buy the PlayStation or the Xbox Live Kinect.	0
+8	1	0	1	0	0	0	1	0	0	2	0	1	0	1	1	1	0	3.0	1	3	I don't know where to go.	0
+10	0	0	1	0	0	2	1	1	0	2	0	1	0	1	1	0	0	3.0	1	4	I don't know which game to buy today.	0
+17	0	1	2	0	1	1	2	2	3	2	0	2	0	1	2	1	0	5.0	1	6	I don't know if I should buy an PS3 or an X-BOX Kinect.	0
+5	1	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	I highly recommend it.	0
+26	0	0	1	3	1	4	4	3	0	6	1	2	0	4	2	3	0	6.0	4	17	Please provide the task for which you would like a sentence completed with 0 adjectives and I will generate it based on the description provided.	0
+23	0	1	1	1	0	5	0	4	0	3	1	3	1	2	2	2	0	5.0	2	6	The question cannot be answered as the context does not give any additional information to generate a sentence with 0 adjectives.	0
+20	1	1	1	0	1	3	2	2	0	4	0	2	1	2	2	3	0	7.0	2	4	I don't know how to decide if I am reading a novel or doing a science fair project.	0
+17	0	1	1	0	1	0	2	2	4	2	1	2	0	1	2	1	0	4.0	1	6	I don't know if i should buy the PlayStation 3 or the Xbox One Kinect.	0
+15	0	1	2	0	1	0	2	0	4	2	0	2	0	1	2	1	0	5.0	1	5	I don't know whether I should buy PS3 or X-BOX Kinect.	0
+12	0	1	1	1	0	1	2	1	0	2	0	2	0	1	2	0	0	3.0	1	4	I don't know if I will go on a vacation.	0
+20	0	0	2	2	1	3	2	1	4	1	0	2	1	1	2	0	0	6.0	1	5	I don't know which is the right choice of video game between PS3 and X-BOX Kinect.	0
+15	0	1	2	0	1	0	2	0	4	2	0	2	0	1	2	1	0	5.0	1	5	I don't know if I should buy PS3 or X-BOX Kinect.	0
+14	0	0	1	1	0	3	1	2	0	2	1	1	0	1	1	2	0	3.0	1	5	The context does not allow me to generate a sentence with 0 adjectives.	0
+20	0	0	3	1	2	1	2	1	4	3	0	1	0	1	2	0	0	5.0	1	13	I don't know which one to buy; either PS3 or X-BOX Kinect seems to me.	0
+21	0	1	2	0	1	2	1	3	3	3	0	1	1	2	1	2	0	8.0	2	6	I do not have the context necessary to determine whether to buy a PS3 or an X-BOX Kinect.	0
+5	1	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	I highly recommend her.	0
+22	0	1	2	3	0	5	1	3	0	2	1	2	0	1	2	1	0	4.0	1	12	I cannot generate a sentence with 0 adjectives, as the context does not allow for the omission of adjectives.	0
+14	0	0	2	0	1	0	2	0	4	2	0	2	0	1	2	1	0	5.0	1	5	I don't know should I buy PS3 or X-BOX Kinect.	0
+12	1	0	1	1	0	0	4	0	0	1	0	2	1	1	2	0	0	3.0	1	4	I'm not really sure what I should do with that.	0
+15	0	1	2	0	1	0	2	0	4	2	0	2	0	1	2	1	0	5.0	1	5	I don't know if I should buy PS3 or X-BOX Kinect.	0
+15	0	0	1	0	0	3	1	3	0	3	0	1	2	2	2	2	1	5.0	3	4	The data I have is insufficient to create a meaningful sentence using the context.	0
+14	0	0	1	1	0	3	1	1	0	2	1	1	1	1	1	2	0	4.0	1	5	I do not have enough context to generate a sentence with 0 adjectives.	0
+17	0	1	3	0	0	4	2	1	0	3	0	2	1	2	3	1	0	5.0	2	5	"Several ""test scores"" exist that have proven that her teaching has enhanced the school."	0
+6	0	0	2	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	  **The answer is irrelevant.**	0
+16	0	1	2	0	1	0	1	2	4	2	0	1	0	1	1	1	0	5.0	1	6	I don't know whether to buy the PS3 or the X-BOX Kinect.	0
+20	1	0	2	1	0	4	1	3	0	3	0	2	0	0	2	1	0	4.0	0	8	The information about the item's suitability is not specified, so I cannot generate the requested sentence.	0
+5	1	0	1	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	2	I highly recommend her.	0
+5	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	3	I don't know.	0
+11	0	0	1	0	0	3	1	1	0	2	0	1	0	1	2	0	0	4.0	1	6	I do not know which video game console to buy.	0
+28	0	1	1	1	0	5	3	5	0	6	0	3	1	4	2	2	0	7.0	4	7	I cannot generate the requested sentence as there was no information in the context regarding a single adjective that could be used to complete the task.	1
+37	2	1	5	2	1	8	4	3	1	6	0	1	2	4	4	3	0	8.0	4	7	Archibald, an ambitious young artist, expressed his desire to travel to far-flung places and paint scenes that displayed beauty, even if it meant he'd face some adversity along the way.	1
+10	0	0	1	1	1	3	1	1	0	1	0	0	1	0	1	0	0	3.0	0	4	Her adaptability and affordability made for a successful investment.	1
+13	0	1	1	0	0	1	3	1	0	2	0	2	1	2	2	1	0	4.0	2	4	I am not sure what you are asking for given the instruction.	1
+16	0	0	1	2	0	3	2	2	0	1	1	2	1	1	2	1	0	5.0	1	3	I cannot generate a sentence with 1 adjective that is relevant to the context.	1
+14	1	0	1	0	1	3	3	1	0	3	0	1	0	2	2	1	0	3.0	2	4	His intelligence and insight left the class wondering what they could accomplish together.	1
+13	0	1	1	1	0	2	1	1	0	2	1	1	2	1	1	1	0	5.0	1	5	It is rumored that the government has at least two nuclear weapons.	1
+17	1	1	2	2	0	3	1	1	0	2	0	2	1	1	1	0	0	4.0	1	7	 **It is rumored that the country's economy is shrinking rapidly due to high inflation.**	1
+18	0	0	3	1	1	4	0	2	1	1	0	1	3	0	1	1	0	5.0	0	14	Archibald, a gifted young artist with boundless creativity and accessibility, didn't like that story.	1
+16	0	0	1	2	1	4	2	0	1	2	0	0	1	1	1	1	0	4.0	1	4	Archibald's enthusiasm and ambition allowed him to succeed in spite of his humble background.	1
+11	1	0	1	1	1	3	0	1	1	1	0	0	0	0	1	0	0	3.0	0	4	Archibald's charisma and intelligence shone brightly during the event.	1
+13	0	1	1	1	0	1	1	0	2	2	0	1	3	1	1	1	0	5.0	1	5	   It is rumored that North Korea has at least several nuclear weapons.	1
+12	0	0	1	1	0	1	3	1	0	1	0	2	1	2	0	0	0	4.0	2	5	It is difficult to say what she is as a singer.	1
+26	1	0	2	1	0	5	1	4	0	5	1	2	1	3	2	3	0	4.0	3	14	The given instruction did not provide any text to create a sentence with 1 adjective, so I am unable to generate the requested output.	1
+26	1	0	6	1	0	4	1	4	3	2	0	2	1	0	2	1	0	5.0	0	22	Archibald, a middle-class Alabama boy who, by the way, is now a registered Democrat--didn't like that story.	1
+13	1	1	1	0	0	2	1	2	0	1	0	2	1	1	1	0	0	3.0	1	9	It is suggested that this individual is not a very intelligent person.	1
+11	0	0	1	1	0	4	1	1	0	1	0	1	0	0	1	1	0	2.0	0	5	The passage does not give context about her hair color.	1
+23	0	0	2	2	1	5	1	4	0	3	0	1	2	1	1	1	0	7.0	1	4	The passage is unclear, and there is not enough context to determine the requested adjective from the context of the passage.	1
+14	0	0	1	1	0	3	1	2	0	2	1	1	0	1	1	2	0	4.0	1	5	I do not have the information to generate a sentence with 1 adjectives.	1
+23	0	0	2	1	1	3	2	1	0	4	0	2	3	2	1	2	0	4.0	2	13	It is not appropriate to make disparaging statements towards protected groups, and I am not able to generate the requested sentence.	1
+23	0	0	4	2	0	5	2	2	2	2	0	1	2	0	1	1	1	5.0	1	19	Archibald, a middle-class Alabama boy with his name tattooed on his upper arm, didn't like that story.	1
+32	2	0	3	4	1	7	1	5	0	3	0	1	4	3	2	0	0	8.0	3	7	 It is a unique and versatile resource with a lot of useful features in any situation where a middle-class person needs to stay informed, even during a war.	1
+22	2	0	2	3	0	3	2	3	0	4	0	1	1	3	1	1	0	7.0	3	6	It is raining hard in the city, making the street accessible only for those prepared to walk through the flood.	1
+11	0	0	1	0	1	5	2	1	0	1	0	0	0	0	1	1	0	3.0	0	5	His curiosity and confidence made his research trip an adventure.	1
+8	0	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Her accessibility made for an easy conclusion.	1
+11	1	0	1	0	1	3	1	1	0	1	0	0	2	0	1	1	0	3.0	0	5	Her intelligence and beauty made the final performance highly enjoyable.	1
+20	3	1	1	2	1	2	4	0	0	3	0	2	1	2	3	1	0	6.0	2	5	His personality was so charming and engaging that I could understand why she fell deeply in love with him.	1
+16	0	1	1	1	1	2	2	2	0	1	0	2	3	1	1	0	0	4.0	1	8	It is rumored that she is a beautiful and caring woman in a compassionate position.	1
+28	2	1	5	2	0	4	3	3	2	2	0	1	2	2	3	1	0	4.0	2	17	Archibald, a middle-class Alabama boy, made a name for himself with the stories he told, even though they weren't always accurate.	1
+26	1	0	6	1	0	4	1	4	3	2	0	2	1	0	2	1	0	5.0	0	22	Archibald, a middle-class Alabama boy who, by the way, is now a registered Democrat, didn't like that story.	1
+20	1	0	1	2	2	5	1	2	1	2	0	0	2	1	1	1	0	5.0	1	4	Archibald's remarkable adaptability and compassion made his decision seem less like a burden and more like a blessing.	1
+22	0	0	4	1	0	4	1	2	2	3	0	2	1	0	2	1	2	6.0	2	18	Archibald, who happened to be raised in a middle-class Alabama boy setting, didn't like that story.	1
+37	1	1	4	4	2	6	3	4	2	5	0	2	3	2	3	1	0	6.0	2	9	Archibald, a middle-class Alabama boy, looked at the controversial story and realized that his beliefs would make him very popular or hated depending on what side of the issue you are on.	1
+15	0	1	1	2	0	2	1	2	1	2	0	2	1	1	1	0	0	4.0	1	9	It is rumored that the ancient civilization of the Egyptians was advanced in technology.	1
+15	0	0	1	2	1	5	1	1	1	1	0	0	1	0	1	1	0	3.0	0	5	Archibald's intelligence and generosity made his contributions to the field of medicine remarkable.	1
+31	2	1	2	3	0	6	2	4	1	4	0	0	5	3	2	2	0	7.0	3	7	Archibald's political views remained a private matter until recently, making this a clear demonstration of changing political stances within an individual who previously adhered to a different viewpoint.	1
+21	0	0	3	2	1	5	0	3	1	1	0	1	3	0	1	1	0	6.0	0	17	Archibald, a talented young writer with an exceptional degree of creativity and imagination, didn't like that story.	1
+15	0	1	1	1	0	2	1	2	0	2	0	3	1	2	1	0	0	4.0	2	5	It is unclear from the context whether the task was meant to be completed.	1
+18	0	0	4	1	0	4	0	2	2	1	0	1	2	0	1	1	0	4.0	0	14	Archibald, a middle-class Alabama boy with long hair, didn't like that story.	1
+11	0	0	1	1	1	3	1	1	0	1	0	0	2	0	1	0	0	3.0	0	4	Her confidence and clear sense made for a confident closing.	1
+14	0	0	1	2	0	2	2	2	0	2	0	2	1	2	1	0	0	5.0	2	3	It is unclear what is wanted from the task based on the instructions.	1
+20	1	0	4	2	0	4	1	2	2	1	0	1	2	0	1	0	0	4.0	0	11	 Archibald, a middle-class Alabama boy, was quite surprised by the sudden disappearance of his possessions.	1
+13	0	0	1	1	1	4	3	1	0	1	0	0	1	0	1	1	0	3.0	0	4	His intelligence and determination made him a valuable asset to his team.	1
+28	1	1	1	3	0	4	4	3	0	5	0	1	3	4	2	1	0	8.0	4	5	 It is rumored that some people have a very interesting life in which case they find it hard not to become entangled into certain things around them.	1
+19	0	0	3	1	1	3	1	2	1	1	0	1	4	0	1	1	0	5.0	0	10	Archibald, an intellectual and witty individual, did not find the story agreeable to his discerning taste.	1
+14	0	1	1	1	0	3	0	3	0	2	0	2	0	1	2	0	0	3.0	1	5	The task is not completed as no adjectives were provided in the context.	1
+22	0	1	1	3	2	4	5	0	0	4	0	0	1	2	2	1	0	5.0	2	8	His kindness and empathy made her feel warm and valued as she opened up to him about her life's challenges.	1
+28	0	1	2	1	1	6	2	3	2	3	0	2	4	3	2	2	0	7.0	3	6	It is rumored that North Korea has at least a couple nuclear weapons, which is a remarkable attribute considering the country's limited size and resources.	1
+25	1	0	2	2	1	7	2	4	0	2	0	0	3	1	2	2	0	5.0	1	8	The painting's vibrant colors showcased the beauty and accessibility of the artwork, which added a bright touch to her otherwise somber room.	1
+26	0	1	1	4	0	6	1	4	0	2	1	2	1	2	2	2	0	5.0	2	15	I'm not able to generate a sentence with one adjective as per the instruction because the context does not provide any information about adjectives.	1
+25	0	1	2	3	0	6	1	4	0	2	2	2	0	1	2	2	0	4.0	1	15	I cannot generate a sentence with 2 adjectives from the context, as the context does not provide any information about 2 adjectives.	2
+18	0	1	2	1	0	4	1	2	0	2	1	1	2	2	2	2	0	4.0	2	10	I am unable to generate a sentence with 2 adjectives, as the task lacks more context.	2
+17	0	0	1	2	0	3	2	2	0	1	1	2	2	2	2	1	0	5.0	2	5	I'm unable to generate a sentence with 2 adjectives that is relevant to the task.	2
+15	0	0	2	2	0	3	2	2	0	0	0	1	2	1	1	0	0	2.0	1	11	A like book in your attic with an ancient feel - it is good.	2
+13	0	0	2	1	0	2	1	1	0	1	1	1	1	1	1	1	0	3.0	1	5	Sorry, I am unable to generate a sentence with 2 adjectives.	2
+22	0	1	1	2	0	4	2	2	0	4	1	2	1	3	3	2	0	4.0	3	9	I can't generate the sentence you requested because the context is lacking in specific adjectives to generate 2 adjectives from.	2
+27	0	0	5	2	0	6	2	5	1	2	0	2	2	1	3	1	0	4.0	1	13	The answer is: Alike...both were fought for security reasons by the US (no matter what the liberal revisionist historians tell you).	2
+13	0	0	2	1	0	3	0	4	0	1	0	1	0	0	2	0	0	3.0	0	8	"The answer to the prompt is ""This book has a like..."	2
+29	0	1	1	2	0	6	2	4	0	4	2	4	1	3	3	3	0	6.0	3	10	I can't make a sentence with 2 adjectives because the instruction is lacking the necessary context to determine two adjectives that can be used in a sentence.	2
+24	0	1	1	2	0	5	1	4	0	3	1	3	0	2	2	2	0	4.0	2	11	I cannot generate a sentence with two adjectives as the task does not provide context for such a sentence to be generated.	2
+16	0	0	1	2	0	7	0	2	0	1	0	1	1	0	1	0	0	4.0	0	7	The city's streets were teeming with people on the bustling city night life scene.	2
+15	0	1	1	1	0	3	1	2	0	2	1	1	1	1	2	1	0	3.0	1	6	The information is insufficient for me to generate the requested sentence with 2 adjectives.	2
+24	1	0	2	1	0	5	1	3	0	4	1	2	1	3	2	3	0	4.0	3	13	The passage does not provide context to generate a sentence with 2 adjectives, so I am unable to generate the requested output.	2
+12	0	0	1	0	0	2	2	1	0	3	1	0	0	2	1	3	0	3.0	2	4	The task requires me to choose two adjectives to describe something.	2
+28	1	0	5	2	1	9	1	3	0	2	0	1	3	0	3	2	1	4.0	1	12	"The sentence that best completes the request is ""Large collections of books offer a unique selection of fiction, science fiction, and best sellers."""	2
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The correct sentence is: The museum has a large selection of art nouveau clothing and tapestries, both of which are worth admiring for their beauty and craftsmanship.	2
+16	0	1	2	1	0	3	1	2	0	1	1	2	1	1	2	1	0	3.0	1	11	I cannot generate a sentence with 2 adjectives, as the phrase is incomplete.	2
+18	1	1	1	1	1	2	2	1	0	4	2	1	0	1	2	2	0	3.0	1	6	I cannot generate the requested sentence because it asks for two adjectives but only requires 1.	2
+17	0	0	1	1	2	3	2	1	0	2	0	2	2	2	2	1	0	5.0	2	6	I would like to have a large collection of stories that are both historical and fiction.	2
+22	1	0	2	1	0	4	3	4	0	4	0	1	1	2	2	2	0	6.0	2	10	There is no such instruction given, so I cannot provide a sentence that meets the specifications of the task.	2
+18	1	0	2	1	0	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	9	The question was not provided in the context, so I cannot generate the requested sentence.	2
+15	0	0	1	1	0	3	1	2	0	3	1	1	0	1	1	2	0	5.0	1	3	I do not have the needed information to generate a sentence with 2 adjectives.	2
+18	0	1	2	1	1	2	2	1	0	2	1	2	2	2	2	1	0	4.0	2	7	I am sorry, but I am unable to generate a sentence with 2 adjectives as instructed.	2
+22	0	1	2	0	2	4	1	2	0	3	0	4	1	2	3	1	0	4.0	2	7	I am sorry, but the context does not provide any text or information to suggest that adjectives should be included.	2
+18	0	0	1	2	2	4	2	1	0	1	0	1	3	0	1	1	0	5.0	0	7	I am seeking the exotic blend of both elegant elegance and playful whimsy in one's wardrobe.	2
+13	0	0	1	2	0	3	1	2	0	1	1	1	0	0	1	1	0	2.0	0	8	I cannot generate a sentence with 2 adjectives from the context.	2
+14	0	0	1	1	0	2	2	2	0	2	0	1	1	2	2	1	0	5.0	2	3	I'm not able to complete the task with the context you provided.	2
+40	1	1	2	5	3	10	3	5	0	2	0	3	3	2	3	0	0	8.0	2	8	The beach is a like...calm and peaceful haven with a diverse array of literature that one would readily enjoy if you are searching for both inspiration and entertainment for a leisure day by the water's side.	2
+19	0	1	2	2	0	4	1	3	0	2	1	2	0	1	2	1	0	3.0	1	11	I cannot generate a sentence with 2 adjectives, as no adjectives were provided in the instruction.	2
+27	1	0	5	2	1	7	1	4	0	1	0	2	3	1	3	1	1	4.0	2	8	"The sentence that best completes the request is:  ""The book was a like library of stories, with ancient texts and modern romances""."	2
+15	1	0	1	1	1	3	1	2	0	1	0	1	3	1	2	1	0	4.0	1	6	 The restaurant offers a diverse selection of food that is both hearty and casual.	2
+21	0	1	2	1	0	4	1	4	0	3	1	2	0	2	2	2	0	4.0	2	12	I cannot generate a sentence with 2 adjectives, as the task does not require generating such a sentence.	2
+22	0	0	2	3	1	5	2	2	0	2	0	1	4	1	2	1	0	5.0	1	9	I would suggest we explore a quaint, lively cafe for a relaxing afternoon of conversation over great coffee and pastries.	2
+7	0	0	1	1	1	3	0	0	0	0	0	0	1	0	0	0	0	3.0	0	2	Large selection of movies and novels.	2
+24	0	0	4	2	0	5	2	5	1	2	0	1	1	1	2	1	0	4.0	1	9	A like...both were fought for securities reasons by the US (no matter what the liberal revisionist historians tell you).	2
+15	0	0	1	1	0	3	2	2	0	3	1	1	0	1	2	2	0	4.0	1	5	I cannot generate a sentence with 2 adjectives that follows the provided instruction.	2
+29	0	1	1	2	1	3	4	3	0	4	0	3	4	4	3	1	0	6.0	4	21	I would suggest that this is a great time to look for some interesting music to enjoy on the casual side and we want it to be fun.	2
+20	0	1	1	2	0	5	1	3	0	2	1	2	0	1	2	2	0	4.0	1	11	I can't generate a sentence with 2 adjectives because the context does not provide any information about adjectives.	2
+30	0	1	1	3	1	7	1	4	0	3	1	2	2	3	2	3	0	6.0	3	12	I am not able to generate a sentence with 2 adjectives because the original instruction does not provide any context or adjectives to generate a pair of adjectives for.	2
+11	0	0	1	0	1	3	1	1	0	1	0	1	2	0	1	1	0	3.0	0	4	I would like a little cajunish and large selection food.	2
+35	0	0	3	4	3	7	2	6	0	3	0	1	6	2	2	2	0	6.0	2	12	Alike...both of the paintings depicted a woman with piercing blue eyes and a captivating smile, painting each masterpiece with a distinct flavor and elegance that was unique and memorable to her.	2
+18	0	0	3	2	1	7	0	2	0	1	0	0	2	0	1	1	0	4.0	0	10	 The large selection of fiction, science fiction and best-sellers attracts readers of all kinds.	2
+26	0	0	2	3	3	7	0	4	0	2	0	1	4	1	1	0	0	5.0	1	15	The city was bustling with a vibrant street fair and a captivating assortment of food and drinks, making for an enchanting and delicious outing.	2
+15	1	0	1	3	0	3	2	2	0	0	0	1	2	0	1	0	0	3.0	0	5	I'm a bit more adventurous with a little bit of history behind me.	2
+29	0	0	4	4	2	7	1	3	0	2	0	2	4	0	2	1	0	6.0	0	10	"The answer to the provided instruction would be, ""We have an enormous selection of entertainment for people interested in both intellectual curiosity and whimsical fun."""	2
+8	0	0	2	0	1	1	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	 **The garden was lush and sprawling**.	2
+27	0	0	2	4	0	10	0	4	0	2	0	0	3	1	1	2	0	5.0	1	14	The city's bustling nightlife offered a myriad of activities to satisfy any desire—a kaleidoscope of entertainment from bohemian bars to intimate jazz clubs.	2
+14	0	0	1	1	0	3	1	1	0	2	1	1	1	1	1	2	0	5.0	1	3	I do not have enough information to generate a sentence with 2 adjectives.	2
+21	0	1	1	2	0	5	1	3	0	2	1	2	1	2	2	1	0	4.0	2	11	I am not able to generate a sentence with 2 adjectives as no task context was provided in this context.	2
+18	1	0	2	1	0	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	9	The answer is not provided in the context, so I cannot generate the requested sentence.	2
+49	1	1	2	6	3	9	7	6	0	7	0	3	3	6	5	3	0	14.0	6	6	The city's skyline is adorned with lights and colours, reflecting the various cultures that have settled in the city and showcasing the beauty of living in this dynamic metropolis that offers something for everyone no matter where you come from or what you are interested in.	4
+36	1	0	3	4	2	12	1	5	2	2	2	0	2	1	2	1	0	8.0	1	7	The diverse city life of Fort Lee offers a multitude of flavors and cuisines from far-off lands and a lively night life that thrives 24 hours a day, seven days a week.	4
+24	1	1	2	1	0	4	1	4	0	3	1	2	1	3	2	3	0	5.0	3	8	Unfortunately, I am unable to complete the task because the context does not provide any 4 adjectives to generate a sentence with.	4
+20	0	1	1	0	1	4	2	3	0	3	0	2	1	2	2	3	0	4.0	2	10	I cannot produce a sentence using the instruction as it does not specify a single task or requirement.	4
+29	0	0	6	2	0	8	0	4	0	2	0	0	6	1	1	2	0	8.0	1	5	The city's skyline showcases a dazzling array of skyscrapers, each one bearing the distinct attributes of high-end architecture - grand, tall, diverse.	4
+40	0	0	6	4	2	10	0	3	4	3	1	0	7	2	1	2	0	6.0	2	23	Fort Lee embodies an array of diverse cultures and cuisines, with international flavors, vibrant Italian restaurants, and 24-hour diners, creating a unique dining experience in the diverse cultural landscape known as Fort Lee.	4
+15	1	0	2	1	0	2	1	2	0	3	0	1	0	0	1	1	0	3.0	0	9	Not provided in the context, so I cannot generate the requested sentence.	4
+46	0	1	2	5	2	11	2	6	2	3	0	2	9	3	3	2	0	9.0	3	17	The city's historic charm has preserved the quaint beauty of Old Fort Lee as it offers a diverse array consisting of charming cafes that are open for all hours of the day and nighttime, traditional bakeries and a host of vibrant cultural events.	4
+35	2	1	1	3	1	7	2	5	0	5	1	3	0	3	2	4	0	6.0	3	9	I cannot generate a sentence with 4 adjectives as it would require the adjectives to not only describe an aspect of some thing but also be used in conjunction to form that aspect.	4
+30	0	0	3	2	2	10	0	2	0	3	0	0	8	1	1	2	0	7.0	1	9	The city offers diverse culinary experiences and boasts numerous dining options including an array of international cuisines, charming pizzerias, delectable delis and vibrant restaurants of diverse ethnicities.	4
+49	0	0	5	3	4	14	1	3	0	5	0	1	11	4	2	4	0	12.0	4	7	The city's cultural scene is vibrant and diverse, with international cuisine and exciting attractions to satisfy any type of palate and adventurous spirit exploring hidden gems that offer unique offerings in the evenings, including charming bars, bustling festivals and engaging live-music options.	4
+16	0	0	1	0	0	3	3	2	0	3	1	1	1	3	3	3	0	7.0	3	2	I am unable to generate a sentence that contains 4 adjectives that follows the instruction.	4
+11	0	0	1	0	0	2	0	1	0	3	0	1	1	1	1	1	0	3.0	1	3	Not enough context is provided to generate the requested sentence.	4
+22	0	0	1	2	1	8	1	3	1	2	0	0	3	1	2	1	0	6.0	1	4	The vibrant city streets of Singapore offer a variety of international cuisine and unique shopping experiences that make the heart dance.	4
+20	0	0	2	2	1	5	1	2	0	2	0	0	5	1	1	1	0	4.0	1	11	The vibrant city boasts of bustling streets and an array of international restaurants, showcasing its bustling cosmopolitan culture.	4
+23	0	1	2	1	1	5	1	3	0	3	1	2	0	2	2	3	0	4.0	2	9	I cannot fulfill the instruction, since the instructions do not provide any context or description to make 4 adjectives from.	4
+36	1	1	6	4	1	8	4	2	2	1	1	2	3	0	3	1	1	5.0	1	15	"The phrase that conveys the most intriguing information about Fort Lee is that it is ""famous for its pizzerias, delis and 24-hour diners, in addition to its Korean restaurants""."	4
+24	0	1	1	2	1	6	1	4	0	2	1	2	1	1	2	2	0	4.0	1	11	I cannot generate a sentence with four adjectives as the context does not provide any specific adjectives or instructions for the task.	4
+21	0	0	2	2	1	4	2	2	0	1	0	1	5	1	0	1	0	4.0	1	10	It is difficult to imagine the city during the winter without its bright blue skies and crisp, frosty days.	4
+16	0	0	1	2	0	4	0	2	0	2	1	1	1	1	1	1	0	3.0	1	5	Not enough context is provided in the question to generate a sentence with four adjectives.	4
+26	2	0	3	1	0	5	2	3	0	3	1	3	1	3	3	2	0	4.0	3	13	Unfortunately, the context does not provide any information about things that are 4 adjectives, so I am unable to generate the requested sentence.	4
+28	0	0	1	5	0	8	0	6	0	2	0	1	5	1	1	1	1	4.0	2	19	The phrase painted with a multi-colored brushstroke painted the sunset with vibrant hues during a summer sunset on a vast lake in an idyllic locale was breathtaking.	4
+24	0	0	2	3	1	7	1	2	0	3	0	0	5	2	1	1	0	5.0	2	6	The city has a diverse range of restaurants and food vendors catering to different cultural tastes, contributing to its rich cultural atmosphere.	4
+30	0	1	2	1	0	5	3	4	0	6	1	2	2	5	3	4	0	7.0	5	16	I am unable to generate a sentence with 4 adjectives that completes the given task, as it does not specify the specific elements required to fulfill the task.	4
+17	0	1	1	1	0	2	2	2	0	3	0	2	1	2	2	1	0	4.0	2	8	I'm unable to generate the requested sentence as it is not provided in the context.	4
+21	2	0	2	2	0	4	1	3	0	2	1	3	1	0	2	0	0	3.0	0	11	The given text is already a sentence with 4 adjectives, so no new sentence can be generated from it.	4
+38	1	0	3	5	2	12	2	2	0	3	0	1	7	2	1	3	0	6.0	2	19	The bustling city was vibrant with street vendors at midnight, displaying their wares in dazzling arrays and enticing patrons in their dazzling light displays and intricate arrangements, thereby attracting curious onlookers during the late hours.	4
+23	0	2	2	1	0	4	2	3	0	3	1	2	1	3	3	2	0	5.0	3	10	I am unable to fulfill the instruction, as no text was provided within the context for me to generate 4 adjectives.	4
+33	0	0	3	6	2	9	2	1	2	2	0	1	5	1	1	2	0	7.0	1	17	Fort Lee offers international cuisine and is famous for their pizza and deli shops, among many other things, along with their diverse selection of restaurants serving a variety of cultures.	4
+44	0	0	1	6	2	14	2	9	0	5	0	1	4	3	3	5	1	10.0	4	7	 The elegant mansion overlooking the river was a marvel of architectural brilliance and had a magnificent collection of paintings that graced the stately rooms, exuding an aura of opulence and beauty that drew the attention of tourists from all corners of the glob	4
+18	0	1	1	1	0	3	1	3	0	2	1	2	1	2	2	2	0	4.0	2	11	I am unable to generate a sentence with 4 adjectives as the context does not provide any.	4
+17	1	0	2	1	0	4	0	3	0	1	1	1	2	1	1	1	0	4.0	1	6	The information in this context is too generic to provide a 4-adjective adjective phrase.	4
+17	0	0	1	1	0	3	2	2	0	2	1	2	2	2	2	2	0	4.0	2	7	I'm afraid I can't generate a suitable sentence with 4 adjectives using the context.	4
+13	0	0	1	2	0	3	1	2	0	1	1	1	0	0	1	1	0	2.0	0	8	I cannot generate a sentence with 4 adjectives from this context.	4
+3	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1.0	0	1	Not provided.	4
+21	1	0	2	1	0	3	0	4	0	4	0	3	0	2	2	2	0	4.0	2	15	This information does not provide any adjectives to generate a sentence with, so the requested cannot be generated.	4
+20	0	1	1	1	0	4	1	3	0	3	0	2	2	2	2	2	0	5.0	2	9	I am unable to generate the requested sentence as the context does not provide any relevant information about adjectives.	4
+37	1	1	5	2	0	6	3	3	1	6	1	2	5	3	3	5	0	5.0	3	19	"I cannot generate a sentence with four adjectives that describes the same characteristic as the provided phrase, ""it can execute elaborate terrorist acts without leaving too many traces, using Iranian Embassies""."	4
+6	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Not provided in the context.	4
+20	1	0	2	1	0	3	2	2	0	4	1	2	0	0	2	2	0	3.0	0	10	The provided instruction does not specify anything about 4 adjectives, so I cannot generate the requested sentence.	4
+13	0	0	1	0	0	2	2	1	0	2	1	1	1	2	2	2	0	5.0	2	3	I'm not able to generate a sentence that contains 4 adjectives.	4
+11	0	0	1	1	1	2	1	1	0	1	0	1	2	0	1	0	0	4.0	0	5	  It has remained a fascinating and perplexing subject of fascination.	4
+26	3	0	2	2	1	5	0	2	2	3	0	0	6	1	2	1	1	6.0	2	10	The bustling streets adorned with ancient Arabic architecture paint a vivid tapestry in Fort Lee, where charming boutiques and hidden plazas seamlessly blend together.	4
+22	0	1	1	1	0	4	1	3	0	3	2	2	1	3	2	2	0	5.0	3	11	I am unable to generate a sentence with 4 adjectives because the context does not provide any 4 adjectives to describe.	4
+42	0	0	4	6	2	16	2	4	0	3	0	0	4	2	1	2	0	8.0	2	8	The city's vibrant nightlife scene has something for people of all tastes, including a plethora of bars and clubs offering a wide range of entertainment options in addition to its numerous restaurants, bistros, and live music venues.	4
+19	1	0	2	1	0	3	2	3	0	3	0	2	0	1	3	1	0	4.0	1	9	This information is not provided in the context, so I cannot generate the sentence you requested.	4
+21	0	0	3	1	2	6	1	0	2	1	0	1	4	0	1	1	0	5.0	0	8	Fort Lee offers international cuisine and is famous for their spicy curries, flavorful pastas and mouth-watering pizza.	4
+12	0	0	1	0	0	2	1	2	0	4	0	1	0	1	1	2	0	3.0	1	4	I cannot generate the requested sentence using the given context.	4
+20	1	1	2	0	0	3	1	3	0	5	0	2	0	1	2	2	0	3.0	1	8	The provided context does not specify any adjectives, so I cannot generate the requested sentence as instructed.	4
+15	1	0	2	1	0	2	1	2	0	3	0	1	0	0	1	1	0	3.0	0	9	Not provided in the context, so I cannot generate the requested sentence.	4
+30	1	1	2	2	0	6	2	5	0	4	1	3	1	3	3	3	0	7.0	3	22	I cannot generate a sentence with 6 adjectives that would fully describe the situation described in the prompt, as the context does not provide any such adjectives.	6
+26	1	1	2	3	2	7	1	1	0	2	0	1	5	1	2	0	0	5.0	1	10	The article suggests that technology has greatly contributed to human rights violations and social unrest, as evident in its history and ongoing political debates.	6
+12	1	0	1	1	0	3	1	2	0	1	1	1	0	0	2	1	1	5.0	1	9	The sentence that appropriately completed the request with 6 adjectives is: The bustling, vibrant, and bustling city was painted with vibrant colors and adorned with intricate sculptures.	6
+21	1	0	2	2	0	4	1	4	0	2	0	2	1	0	2	1	0	3.0	0	9	The context of this question is not relevant to the task, so I cannot generate the requested sentence.	6
+27	0	1	1	2	0	5	2	3	0	4	1	4	2	3	3	2	0	6.0	3	12	I am unable to produce the requested sentence with 6 adjectives as the context does not provide a specific noun that can be described with adjectives.	6
+34	0	0	6	4	1	12	0	4	0	3	0	1	2	2	1	1	0	6.0	2	13	The vibrant colors of the rainforest are a sight to behold, comprising vibrant hues like coral, lime, emerald, sapphire, azure and violet across the canopy of towering trees.	6
+18	0	0	1	3	0	3	1	2	1	1	1	1	3	1	1	1	0	5.0	1	5	I am unable to generate a sentence with 6 adjectives about the best Thai food in Australia.	6
+23	1	0	2	1	1	5	1	3	0	4	0	2	1	1	2	2	0	4.0	1	13	The provided context does not provide any information or keywords related to adjectives, so I cannot generate the sentence requested.	6
+20	0	1	1	2	0	5	1	3	0	2	1	2	0	1	2	2	0	4.0	1	11	I cannot generate a sentence with 6 adjectives as the context does not include a list of adjectives.	6
+25	0	1	1	1	0	5	2	3	0	4	1	4	0	3	3	3	0	7.0	3	8	I cannot fulfill the request because the context does not provide information on 6 adjectives that can be used to generate a sentence.	6
+12	0	0	1	0	0	2	2	1	0	2	1	1	1	2	2	2	0	5.0	2	2	I am unable to generate a sentence that contains 6 adjectives.	6
+19	1	0	2	1	0	4	1	3	0	3	0	2	0	0	2	2	0	3.0	0	10	The context does not provide any information about adjectives, so I cannot generate the requested sentence.	6
+28	0	1	1	1	0	5	3	4	0	5	1	3	1	4	4	3	0	8.0	4	8	I cannot generate a sentence with 6 adjectives that fits the description because the context does not provide any specific adjectives that need to be mentioned.	6
+15	0	0	1	2	0	3	2	2	0	2	1	1	0	1	2	1	0	5.0	1	3	I cannot generate a sentence with 6 adjectives that adheres to the instructions.	6
+26	1	1	1	2	0	6	2	4	0	4	1	2	0	3	3	3	0	7.0	3	8	I cannot provide a sentence with 6 adjectives that accurately completes the task as the context does not provide any specifications about adjectives required.	6
+18	1	1	1	0	0	4	2	2	0	3	2	1	0	2	3	3	0	5.0	2	7	I cannot generate a sentence that contains 6 adjectives as the prompt specifically requested 5 adjectives.	6
+22	0	1	1	0	1	4	4	1	0	5	0	2	1	3	3	4	0	6.0	3	7	I cannot generate the requested sentence as it would require me to use words or phrases that contain discriminatory terms.	6
+28	0	1	3	2	0	6	3	4	0	3	0	2	2	3	3	2	0	6.0	3	7	I am unable to generate the requested sentence, as it requests a adjective phrase, which isn't a valid type of adjective in this context.	6
+20	0	1	1	1	0	4	1	3	0	2	1	2	2	2	2	2	0	4.0	2	11	I am unable to generate a sentence with 6 adjectives as the context does not provide a suitable subject.	6
+21	0	1	1	0	0	5	0	4	0	3	1	2	1	3	2	3	0	6.0	3	7	The question is not applicable, as the context does not provide any request to generate a sentence using 6 adjectives	6
+15	0	0	1	1	0	3	1	2	0	3	1	1	1	2	1	2	0	3.0	2	7	I cannot generate an appropriate sentence with 6 adjectives using the context provided.	6
+43	0	0	4	5	2	10	0	6	1	3	0	0	11	1	1	2	1	9.0	2	20	"The phrase ""the pristine beauty of the African landscape painted in a rich array of vibrant and contrasting hues"" demonstrates the extraordinary beauty of natural wonders, highlighting the aesthetic wonder and captivating beauty of Africa's rich natural landscape."	6
+31	0	0	3	3	3	9	1	2	0	4	0	0	6	1	2	3	1	6.0	2	13	The vibrant tapestry of human existence, colored with diverse beliefs and cultural practices, offers a richer understanding of history and inspires creative endeavors that traverse continents and centuries.	6
+20	0	1	1	1	1	5	1	3	0	3	0	2	0	1	2	2	0	4.0	1	9	I can not generate the requested sentence because the context does not provide any attributes or information about adjectives.	6
+27	1	0	3	2	0	6	1	5	0	4	1	2	0	0	2	2	0	4.0	0	14	The provided context does not contain any request for a 6-adjective sentence, so I cannot generate the requested response from the context.	6
+18	1	0	2	1	0	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	6	The context of this task is not given, so I cannot generate the requested sentence.	6
+18	0	1	2	1	0	3	2	2	0	1	1	2	1	1	2	1	0	2.0	1	13	I cannot generate a sentence with 6 adjectives, as that is not a valid instruction.	6
+16	0	1	1	0	1	3	1	2	0	3	0	2	1	1	2	1	0	4.0	1	11	I cannot generate the requested sentence as no context or specific adjectives were provided.	6
+20	0	1	1	1	0	4	1	3	0	2	1	2	2	2	2	2	0	4.0	2	11	I am unable to generate a sentence with 6 adjectives as the context does not provide any such adjectives.	6
+20	1	0	2	1	0	4	1	3	0	4	0	2	0	0	2	2	0	3.0	0	10	The provided instruction does not provide any specifications about adjectives, so I cannot generate the requested sentence.	6
+18	2	0	1	3	1	5	1	3	0	1	0	0	1	0	1	0	0	5.0	0	4	The artistic spirit of the city shines as brightly as the colors of its houses and buildings.	6
+8	0	0	1	0	0	2	1	2	0	1	0	1	0	0	2	1	1	4.0	1	5	The sentence that meets the criteria is: The vibrant colors and exquisite craftsmanship of the handcrafted furniture showcase exceptional artistry, radiating an aura of warmth and elegance.	6
+24	1	0	3	0	0	5	1	4	0	4	1	2	0	1	2	3	0	5.0	1	15	The context does not provide the ability to provide a 6-adjective sentence, so I cannot generate the required response.	6
+19	0	1	2	0	0	3	1	3	0	4	0	2	1	3	2	2	0	4.0	3	11	I am unable to generate the requested sentence, as the context provided did not include any adjectives.	6
+27	0	1	1	1	0	5	2	4	0	4	1	4	1	3	3	3	0	6.0	3	11	I cannot generate a sentence with 6 adjectives as the context does not provide specific words that could be used to create such a sentence.	6
+22	0	2	2	1	0	4	2	2	0	3	1	1	3	3	2	3	0	5.0	3	9	I'm incapable of generating a sentence with 6 adjectives, as I lack sufficient vocabulary to create a complete sentence.	6
+15	0	0	1	2	0	4	0	3	1	1	0	1	2	0	1	0	0	3.0	0	5	The city streets were crowded with the bustling life of a typical London day.	6
+30	1	0	3	3	1	6	2	5	0	3	1	3	0	1	3	1	0	5.0	1	19	The context does not allow for an adjective that would contribute to the 6-adjective sentence, and therefore I cannot generate a response from the context.	6
+16	0	0	1	2	0	3	1	2	0	3	1	1	1	2	1	1	0	3.0	2	10	I am unable to generate a sentence with 6 adjectives based on the provided instruction.	6
+10	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	5	This is not a solved example of the task.	6
+23	0	1	2	2	0	4	1	3	0	3	1	2	1	2	2	2	0	4.0	2	12	I cannot generate a sentence with 6 adjectives, as the context does not provide that many adjectives to choose from.	6
+18	0	1	1	1	0	4	1	3	0	2	1	2	0	1	2	2	0	3.0	1	11	I cannot generate a sentence with 6 adjectives because the context does not provide any adjectives.	6
+28	0	1	1	3	0	7	1	5	0	4	1	2	0	3	2	3	0	6.0	3	14	I cannot generate a sentence with 6 adjectives using the instruction because the instruction is not specifying the number of adjectives to use in the sentence.	6
+10	0	1	1	1	0	2	0	1	0	2	1	0	0	1	0	1	0	2.0	1	7	Please generate the sentence with 6 adjectives as requested.	6
+19	0	1	1	1	0	4	1	2	0	2	1	2	2	2	2	2	0	4.0	2	11	I am unable to generate a sentence with 6 adjectives as the context does not provide sufficient information.	6
+12	0	0	1	1	0	2	0	2	0	2	1	1	0	1	1	1	0	3.0	1	3	The passage does not provide any 6 adjectives to work with.	6
+35	0	0	2	5	0	9	2	8	0	4	0	0	4	3	2	4	0	8.0	3	11	The vibrant colors of the sunset cast a mesmerizing display of hues over the serene beach, leaving an unforgettable imprint in the minds of all who had the privilege to witness its magnificence.	6
+24	0	1	2	2	0	6	2	4	0	3	1	1	1	2	3	2	0	5.0	2	16	I cannot generate a sentence with 6 adjectives that completes the instruction, as no such adjective phrase appears in the prompt.	6
+41	0	2	4	3	3	13	0	5	0	4	0	0	7	2	2	3	1	5.0	3	13	As the sun kissed the verdant rice fields under the serene afternoon haze, the farmers worked with utmost care and patience, showcasing the intricate and enduring connection between nature and human endeavor in ensuring long-term sustenance.	6
+21	0	1	1	2	0	5	1	4	0	2	1	2	0	1	2	2	0	4.0	1	11	I cannot generate a sentence with 6 adjectives because the instruction does not specify a theme for the adjectives.	6

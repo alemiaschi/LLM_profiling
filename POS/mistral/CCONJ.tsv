@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+14	4	0	4	0	1	0	1	0	0	4	0	0	0	0	1	0	0	2.0	0	10	She sings beautifully, paints skillfully, acts gracefully, and cooks deliciously.	0
+10	0	0	1	1	0	4	0	2	0	1	1	0	0	0	1	1	0	2.0	0	6	Each student brings one textbook to class every day.	0
+12	0	0	3	0	0	3	0	3	0	3	0	0	0	0	3	0	0	4.0	0	4	The sun rises, the birds sing, the flowers bloom.	0
+8	0	0	1	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	4	The sun sets and the evening follows.	0
+7	0	0	2	0	0	2	0	1	0	2	0	0	0	0	2	0	0	2.0	0	3	The sun sets; evening arrives.	0
+12	0	0	2	0	2	1	2	1	0	1	0	1	2	0	2	1	0	2.0	0	6	This cake is delicious and moist, and I love it.	0
+16	0	0	2	2	1	4	0	3	0	2	0	0	2	1	1	1	0	4.0	1	5	The sun sets over the horizon, lighting the sky with orange and pink hues.	0
+9	0	1	1	0	0	2	1	2	0	2	0	0	0	1	2	1	0	3.0	1	6	She read a book while the sun rose.	0
+6	1	0	1	0	0	1	1	0	1	1	0	0	0	0	1	1	0	2.0	0	3	Mary ate her sandwich quietly.	0
+7	0	0	2	0	0	2	0	1	0	2	0	0	0	0	2	0	0	2.0	0	3	The sun sets, stars twinkle.	0
+9	0	0	1	1	1	3	1	0	0	2	0	0	0	0	1	2	0	2.0	0	5	I eat rice for lunch and drink water.	0
+10	0	0	1	2	0	3	0	2	1	1	0	0	0	0	1	1	0	2.0	0	7	Mary reads a book in the garden during lunch.	0
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Michael plays tennis.	0
+12	2	0	3	0	1	2	1	0	0	3	0	0	0	0	1	1	0	2.0	0	7	My cat slept, ate fish, and now purrs contentedly.	0
+8	0	0	2	0	0	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	4	The sun rises, the birds sing.	0
+10	0	0	2	1	0	1	1	1	0	2	1	0	1	0	2	1	0	2.0	0	4	The clock struck six, I woke up tired.	0
+17	0	0	3	2	0	5	0	3	0	2	0	0	2	1	1	1	0	3.0	1	8	The sun sets over the mountains, casting long, golden shadows upon the valley floor.	0
+11	0	0	3	0	1	3	1	1	0	1	0	0	0	0	0	2	0	3.0	0	9	Bring me the pencil, eraser, and sharpener please.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	  I baked a cake.	0
+7	1	0	1	0	1	1	0	1	0	2	0	0	0	0	1	0	0	2.0	0	3	The sun rises and sets daily.	0
+7	0	0	1	0	1	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	This apple is delicious and firm.	0
+10	0	0	1	0	1	2	2	1	0	2	0	1	0	0	1	2	0	2.0	0	5	I will bake a chocolate cake and eat it.	0
+8	0	0	2	0	0	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	4	The sun sets; the flowers bloom.	0
+18	2	0	3	1	0	5	1	3	0	3	0	0	0	0	2	1	0	4.0	0	8	The sun rises slowly over the mountain peaks; it warms the dew-covered meadow below.	0
+9	0	0	1	1	1	2	1	1	0	2	0	0	0	0	1	0	0	3.0	0	4	She graduated from college and became a doctor.	0
+7	0	0	1	0	1	3	1	0	0	1	0	0	0	0	1	1	0	3.0	0	3	She enjoys reading and baking pastries.	0
+15	0	0	1	2	1	3	0	3	0	3	0	1	0	1	2	0	0	4.0	1	11	The sun rises in the east and sets in the west is not permitted.	0
+10	0	0	1	1	1	4	1	1	0	0	0	0	1	0	0	0	0	2.0	0	6	Her dog barks and scratches at the front door.	0
+16	0	0	1	2	1	4	0	4	0	2	0	1	0	1	2	0	0	4.0	1	12	The sun rises in the east and sets in the west is not an option.	0
+12	1	0	2	2	0	5	0	0	0	2	0	0	0	0	2	1	0	3.0	0	6	Bird flies high in sky, cat chases rodent on lawn.	0
+12	0	0	1	0	1	2	2	2	0	3	0	0	1	1	2	2	0	4.0	1	4	I opened the letter and read the important message it contained.	0
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	0	2	0	0	3.0	0	6	The sun sets over the horizon, birds fly south for the winter.	0
+8	0	0	2	0	0	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	4	The sun rises, the flowers bloom.	0
+14	0	0	1	2	1	5	0	3	0	2	0	0	0	0	3	0	0	4.0	0	7	The sun sets and night falls with the crescent moon in the sky.	0
+9	0	0	1	0	0	2	0	2	0	1	0	1	2	0	1	1	0	2.0	0	3	The solar eclipse will darken the entire sky.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	3.0	0	5	Each apple on the table is red.	0
+7	0	0	2	0	0	2	0	1	0	2	0	0	0	0	2	0	0	2.0	0	3	The sun rose, birds sang.	0
+14	0	0	3	1	1	4	1	1	0	3	0	0	0	0	1	2	0	3.0	0	6	She runs, jumps hurdles, and finishes the race in record time.	0
+7	1	0	1	0	1	1	0	1	0	2	0	0	0	0	1	0	0	2.0	0	3	The sun rises and sets daily.	0
+9	0	0	1	0	0	3	0	2	0	1	0	1	1	0	1	1	1	3.0	1	7	Baking a chocolate cake is an exciting process.	0
+9	0	0	1	0	1	3	1	1	0	1	0	1	0	0	1	1	0	3.0	0	3	I am reading a book and cooking dinner.	0
+12	1	0	2	0	1	1	2	0	0	3	0	0	1	1	2	0	0	3.0	1	5	Her eyes turned blue, and she started to cry silently.	0
+12	0	0	1	0	1	4	2	2	0	2	0	0	0	0	2	2	0	3.0	0	6	I drink coffee every morning and I write code every evening.	0
+14	0	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	7	The ball hit the floor, rolled, and came to a stop.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The flowers bloom bright under the morning sun.	0
+8	0	0	2	0	0	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	4	The sun sets, the stars twinkle.	0
+7	0	0	1	0	1	2	0	1	1	1	0	0	0	0	1	1	0	3.0	0	2	John eats an apple and banana.	0
+12	1	0	1	1	1	2	0	2	0	2	0	0	2	0	1	0	0	2.0	0	6	A red ball lies on a green mat and rolls gently.	0
+12	0	0	3	0	0	2	1	2	0	2	0	1	1	1	3	0	0	3.0	1	8	The sun rises; it is hot; the children play.	0
+28	3	1	10	2	5	2	1	2	0	1	0	1	0	1	2	1	0	4.0	1	12	" ""and"" and ""but"" - although sometimes people incorrectly consider ""and"" as no conjunction at all - but it is, technically."	0
+13	0	0	1	1	1	4	2	2	0	2	0	0	0	0	1	2	0	3.0	0	7	She cooks breakfast and sets the table for her family every morning.	1
+10	1	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	The cat sleeps, but the dog barks incessantly.	1
+12	1	1	2	0	0	1	2	1	0	3	0	0	0	1	2	1	1	3.0	2	4	Although it rains, we still need to water the plants.	1
+13	1	0	2	1	1	2	4	0	0	2	0	0	0	0	2	2	0	2.0	0	8	I forgot my phone at home, but I have it now.	1
+13	0	1	1	0	1	3	2	0	0	3	0	1	0	2	2	2	0	4.0	2	7	I need to buy eggs and milk before I can make pancakes.	1
+11	1	0	1	0	1	2	1	1	0	3	0	1	0	1	1	2	0	4.0	1	3	You can both cook dinner and help set the table.	1
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The sun rises in the east and sets in the west.	1
+12	0	0	1	1	2	3	1	1	0	2	0	1	0	0	1	1	0	4.0	0	5	I will go to the store and buy bread and milk.	1
+14	2	0	2	0	1	3	2	1	0	1	0	1	1	0	2	1	0	3.0	0	11	She plays the piano brilliantly, yet her singing voice is equally captivating.	1
+11	2	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	6	The cat slept soundly, but the dog paced restlessly.	1
+9	0	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	The cat slept, but the bird sang.	1
+15	0	1	2	0	1	1	1	1	0	1	2	2	3	1	3	1	0	4.0	1	7	I have two cats, and one is white while the other is black.	1
+11	1	0	2	0	1	1	1	1	0	2	0	1	0	0	1	1	0	3.0	0	6	He studied diligently, but couldn't pass the exam.	1
+14	0	0	1	2	1	2	3	1	1	2	0	1	0	0	1	2	0	3.0	0	5	I will finish the report tomorrow and send it to you on Monday.	1
+13	1	0	1	1	1	2	3	1	0	2	0	1	0	0	1	2	0	3.0	0	5	I will finish this project and then submit it for your approval.	1
+14	1	0	2	2	1	3	1	2	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat naps on the mat, but it sometimes hisses at strangers.	1
+15	1	0	2	1	1	2	2	2	0	2	0	2	0	0	2	1	0	3.0	0	7	I will take the bus, but I will walk home from the station.	1
+16	2	0	1	1	1	2	2	1	0	3	0	1	1	1	1	2	0	4.0	1	5	I will study hard and take the exams seriously to pass them with high grades.	1
+7	0	0	1	0	1	2	0	1	0	2	0	0	0	0	2	0	0	2.0	0	3	The sun rises and birds sing.	1
+9	0	0	1	0	1	3	1	1	0	2	0	0	0	1	1	1	0	4.0	1	3	I love playing the guitar and writing songs.	1
+8	1	0	1	0	1	1	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	The sun is bright and sets early.	1
+11	1	0	1	0	1	2	1	2	0	2	0	1	0	0	1	2	0	3.0	0	4	I will cook the dinner and wash the dishes afterwards.	1
+17	1	0	1	2	1	3	2	3	0	2	0	2	0	0	2	1	0	3.0	0	8	I'll go to the gym and then I'll take a walk in the park.	1
+19	1	0	2	1	1	4	1	4	0	3	0	0	1	1	2	1	0	5.0	1	9	The sun shines brightly in the sky, but the wind makes it hard to enjoy a picnic.	1
+18	2	0	2	1	3	2	1	2	0	2	0	1	1	0	1	1	0	3.0	0	9	You can either study now or watch TV later, but not both at the same time.	1
+8	0	1	1	0	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	4	The sun rises while the birds sing.	1
+8	0	0	2	0	1	2	0	1	0	2	0	0	0	0	2	0	0	2.0	0	4	The sun sets, and stars appear.	1
+14	0	0	2	0	1	1	1	1	0	1	2	2	3	1	3	1	0	4.0	1	6	I have two dogs, one is black and the other is white.	1
+15	1	0	2	1	1	2	3	1	0	2	0	2	0	0	2	1	0	3.0	0	9	I'll go to the mall, but I'll also call my mom.	1
+8	0	0	1	0	1	3	1	0	0	1	0	0	1	0	1	1	0	4.0	0	4	She enjoys cooking and baking delicious desserts.	1
+19	0	0	2	1	1	4	4	2	0	3	0	1	0	1	2	3	0	4.0	1	7	I can finish the project tonight, but I need your assistant to review it in the morning.	1
+12	0	0	2	1	1	1	2	0	0	1	2	1	1	0	2	1	0	4.0	0	9	I have two cats, and one of them is black.	1
+14	0	0	2	1	0	2	3	1	0	1	0	2	1	1	2	1	0	4.0	1	9	I can't hear you; the battery in my headphones is dead.	1
+15	0	0	1	1	1	3	1	2	2	2	0	1	1	0	1	2	0	3.0	0	6	You can visit Paris this summer and sample delicious pastries in Austria this fall.	1
+10	0	0	1	1	1	2	1	2	0	2	0	0	0	0	1	1	0	3.0	0	5	She went to the shop and bought an apple.	1
+11	0	0	2	1	1	3	1	1	0	2	0	0	0	0	1	1	0	4.0	0	5	I went to the store, bought milk and bread.	1
+27	1	0	4	0	3	2	2	2	0	2	2	2	7	1	4	2	0	5.0	1	19	I have two dogs, one is large and playful, the other is small and gentle; together they make a lively but loving family.	1
+14	0	0	2	0	1	1	1	1	0	1	2	2	3	1	3	1	0	4.0	1	6	I have two dogs, one is brown and the other is black.	1
+20	0	0	2	2	3	3	1	4	0	2	0	1	1	0	1	1	0	5.0	0	4	You can either watch a movie or go for a walk, but not both at the same time.	1
+11	1	0	1	1	1	3	0	2	0	2	0	0	0	0	1	0	0	3.0	0	4	The cat meows loudly and jumps onto the window sill.	1
+14	1	0	2	1	2	1	2	1	0	3	0	1	0	0	2	0	0	3.0	0	7	I'll go to the store, but you stay home and rest.	1
+8	0	0	1	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	4	The sun rises and the birds sing.	1
+8	0	0	1	0	1	2	2	0	0	2	0	0	0	0	2	2	0	2.0	0	4	She loves cooking and she loves baking.	1
+19	0	1	2	2	1	3	1	4	0	3	0	1	0	1	2	1	0	4.0	1	8	She studied for the exam, but couldn't finish all the questions before the time ran out.	1
+10	0	0	1	0	1	5	1	0	0	2	0	0	0	0	1	2	0	3.0	0	5	She likes chocolate ice-cream but hates strawberry ice-cream.	1
+12	1	0	2	0	1	2	2	1	0	2	1	0	0	0	2	2	0	3.0	0	7	I have two siblings, and they both play piano beautifully.	1
+14	0	0	1	2	1	3	2	2	0	2	0	1	0	0	1	1	0	3.0	0	5	I'll study for the test and finish my homework before the deadline.	1
+12	0	0	1	1	1	2	2	2	0	2	0	1	0	0	1	2	0	3.0	0	4	I will bring the keys and unlock the door for you.	1
+16	1	0	2	1	1	2	3	1	0	3	0	1	0	1	2	2	0	4.0	1	7	I have completed the report, but I still need to submit it for approval.	1
+17	1	0	2	0	1	3	4	0	0	3	0	1	1	1	2	2	0	4.0	1	8	I will visit my grandparents next week, but I need to finish my project first.	1
+14	3	0	2	1	1	3	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	The sun rises early, yet birds sing beautifully late into the night.	2
+16	1	0	1	2	1	3	3	1	1	2	0	1	0	0	1	2	0	3.0	0	7	I'll finish the project by Friday and also help my colleague with his presentation.	2
+29	2	1	2	3	2	6	4	2	0	5	0	0	0	3	3	1	0	4.0	3	16	I need to buy milk and eggs before I go to the gym, but I also need to stop by the post office on my way home.	2
+14	0	0	2	1	1	4	1	3	0	2	0	0	0	0	2	1	0	3.0	0	8	The sun sets behind the mountains, but the owls start their hunting.	2
+16	2	0	2	2	1	3	2	1	0	2	0	1	0	0	1	2	0	3.0	0	8	I will finish the report by midnight, and then send it for approval immediately.	2
+12	0	0	1	1	1	3	4	0	0	2	0	0	0	0	2	2	0	3.0	0	5	I forgot my keys and I left my phone at home.	2
+27	0	1	2	2	3	8	1	4	0	3	2	1	0	1	3	1	0	4.0	1	12	You can visit both the museum and the art gallery, but the museum opens at 10 AM while the art gallery opens at 2 PM.	2
+17	0	0	2	2	1	3	4	1	0	3	0	0	0	1	2	2	0	4.0	1	8	I forgot my keys at home, but I managed to borrow some from my neighbor.	2
+10	0	0	1	1	1	3	3	0	0	1	0	0	0	0	1	1	0	3.0	0	7	She forgot her keys and her phone at home.	2
+13	1	0	1	1	1	4	1	2	0	2	0	0	0	0	2	1	0	3.0	0	5	The sun rises early and the chickens lay their eggs before dawn.	2
+18	1	0	1	2	1	4	2	2	0	3	0	1	0	1	1	1	0	4.0	1	6	I'll study for the exam and then go to the library to check my research notes.	2
+11	1	0	1	1	1	2	1	1	0	2	0	1	0	0	1	1	0	2.0	0	6	She will go to the store and then buy groceries.	2
+15	1	0	2	1	1	2	2	2	0	3	0	1	0	1	2	1	0	4.0	1	7	She can play the piano flawlessly, but she prefers singing in a choir.	2
+22	0	1	2	1	2	5	4	1	0	4	0	1	0	2	3	3	0	4.0	2	15	I need to buy eggs and milk before I can make a cake, but I forgot my wallet at home.	2
+9	0	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	The sun sets, and the moon rises.	2
+11	0	0	1	1	1	3	1	1	0	2	0	1	0	0	1	2	0	3.0	0	4	I will bake cookies and clean the kitchen after dinner.	2
+16	1	0	2	1	1	3	2	3	0	3	0	0	0	1	3	1	0	4.0	1	7	The cat slept on the mat, yet it purred when I entered the room.	2
+10	0	0	1	0	1	2	0	2	0	3	0	0	0	1	2	0	0	3.0	1	4	The sun rises and the birds begin to sing.	2
+12	1	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, but the dog barked loudly.	2
+14	1	1	1	0	1	2	4	0	0	3	0	1	0	1	2	3	0	3.0	1	5	I will call you back after I finish my meeting and buy groceries.	2
+19	0	0	2	2	1	5	4	1	0	2	0	2	0	0	2	2	0	3.0	0	8	I will finish the report tonight, and I will submit it to my manager by tomorrow morning.	2
+24	1	0	4	1	2	4	3	3	0	4	0	1	0	1	3	2	0	4.0	1	17	She went to the store, but couldn't find the item she wanted; instead, she bought some bread and milk.	2
+16	2	0	3	0	1	1	3	1	0	3	0	1	0	1	2	2	0	4.0	1	8	I will call you afterward, but first, I need to attend this meeting.	2
+24	2	0	3	1	2	4	3	3	0	4	0	1	0	1	2	3	0	4.0	1	16	I'll finish the report tonight and then send it in the morning, but first, I need to grab some coffee.	2
+14	1	0	2	1	2	1	2	1	0	3	0	1	0	0	2	0	0	3.0	0	7	I'll go to the store, but you stay home and rest.	2
+15	0	0	1	1	1	4	3	0	0	3	1	0	0	1	2	2	0	4.0	1	6	I have two exams tomorrow and I need to finish my project by tonight.	2
+20	2	0	2	2	1	5	0	4	0	3	0	0	0	1	2	0	0	4.0	1	9	The sun sets slowly behind the mountains, but the stars begin to twinkle brightly in the evening sky.	2
+23	2	0	4	2	2	2	4	1	0	4	0	1	0	0	4	1	0	4.0	0	11	He went to the store, but I stayed home; she cooked dinner, yet we didn't eat until late.	2
+9	1	0	1	0	1	2	0	2	0	2	0	0	0	0	1	1	0	2.0	0	4	The dog chased the cat and barked loudly.	2
+12	2	0	1	1	1	2	1	1	1	2	0	0	0	0	1	2	0	2.0	0	7	Alice baked a cake from scratch and then iced it beautifully.	2
+19	2	0	4	1	1	1	3	1	0	2	0	1	3	1	3	1	0	4.0	1	13	She studies diligently, but she forgets most of the information; he is funny, yet humble.	2
+18	1	0	2	2	2	4	3	1	0	3	0	0	0	0	2	2	0	3.0	0	9	I forgot my keys at home, yet I still went to the store and bought groceries.	2
+14	1	0	2	0	1	3	1	2	0	3	0	1	0	0	1	3	0	3.0	0	8	I will clean the kitchen and bake cookies, then do the laundry.	2
+15	0	1	2	0	2	3	0	3	0	4	0	0	0	1	3	0	0	4.0	1	5	The sun sets and the stars appear, while the moon waxes and wanes.	2
+15	2	0	2	0	1	2	3	1	0	2	0	2	0	0	2	1	0	3.0	0	8	I will call you back tomorrow, or I can come over this evening.	2
+16	1	0	1	1	1	4	1	3	0	2	0	1	0	1	1	2	0	5.0	1	4	I will take the train and then the bus to reach the station on time.	2
+13	0	1	1	0	1	3	2	0	0	3	0	1	0	2	2	2	0	4.0	2	7	I need to buy eggs and milk before I can make pancakes.	2
+12	1	0	1	0	1	3	2	1	0	2	0	1	0	0	1	2	0	3.0	0	6	I will finish the project tonight and then celebrate my success.	2
+17	1	0	1	3	1	4	3	1	0	2	0	1	0	0	1	2	0	3.0	0	7	I will finish the report by midnight and then send it to my supervisor for approval.	2
+20	1	0	2	1	2	4	2	3	0	4	0	1	0	0	3	1	0	4.0	0	8	The sun sets and the moon rises; I'll go for a walk and call my friend later.	2
+14	1	0	2	1	1	4	0	3	0	2	0	0	0	0	2	0	0	3.0	0	5	The sun sets, yet the stars twinkle brightly in the night sky.	2
+9	1	0	1	1	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	5	The sun sets simultaneously with the moon rising.	2
+10	1	0	1	0	1	2	1	2	0	2	0	0	0	0	1	2	0	3.0	0	4	He plays the guitar and sings the song beautifully.	2
+15	0	0	2	0	1	4	3	1	0	2	0	2	0	0	2	2	0	3.0	0	8	I'll finish the project tonight, and I'll celebrate its completion tomorrow.	2
+18	1	0	2	1	1	3	4	0	0	3	0	1	1	1	2	2	0	4.0	1	8	I will visit my grandparents next week, but I need to finish my project before then.	2
+13	1	0	1	2	0	4	0	3	0	2	0	0	0	1	2	0	0	3.0	1	5	The sun sets simultaneously with the stars appearing in the twilight sky.	2
+9	3	0	1	0	1	1	0	1	0	2	0	0	0	0	1	0	0	2.0	0	4	The dog barks loudly and then whimpers softly.	2
+22	1	0	2	2	2	5	4	1	0	3	0	1	0	0	2	2	0	4.0	0	13	I forgot my keys and my phone at home, so I cannot enter the building or call for help.	2
+16	0	0	2	1	1	4	1	3	0	3	0	0	1	1	2	1	0	4.0	1	6	The sun sets and the moon rises, illuminating the sky with its golden glow.	2
+25	2	1	2	1	2	3	4	3	0	4	0	2	1	1	3	3	0	4.0	1	13	I'll call the doctor and then take the medication, but I'll only do this if I feel worse in the morning.	2
+13	3	0	3	0	1	1	1	1	0	3	0	0	0	0	1	1	0	2.0	0	9	She plays the piano excellently, dances beautifully, and reads avidly.	3
+13	0	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	4.0	0	5	The sun sets, the wind howls, and the waves crash.	3
+17	0	0	3	1	1	4	1	3	0	3	1	0	0	0	1	3	0	3.0	0	8	She cooks dinner, cleans the house, and does the laundry all in one day.	3
+14	0	0	3	0	1	3	3	1	0	3	0	0	0	0	1	3	0	3.0	0	9	He forgot his keys, failed the exam, and lost his phone.	3
+28	0	0	4	3	1	10	1	5	0	1	2	0	1	0	1	1	0	5.0	0	15	I have three tests tomorrow: the math exam at 9 AM, the English paper in the afternoon, and the history quiz in the evening.	3
+18	2	1	3	1	1	3	2	1	0	4	0	0	0	1	1	2	0	5.0	1	8	She studied, ate her lunch, and then took a walk before heading back to class.	3
+34	1	0	5	0	3	5	3	3	0	7	0	2	2	2	3	4	0	4.0	2	16	He didn't study all night, nor did he drink coffee to stay awake, but instead he took a long nap, read a novel, and practiced yoga to relax.	3
+32	4	0	4	3	3	5	5	1	0	5	0	0	2	0	4	3	0	5.0	0	26	She bakes cookies for her family, but they run out quickly, so she goes to the store and buys more flour, and then she bakes even more cookies.	3
+30	2	0	6	1	1	4	4	1	0	6	1	1	1	2	4	3	0	4.0	2	13	I have three jobs, but I love to travel; however, I have no money to save; yet, I can find joy in simple things.	3
+20	1	0	3	2	2	5	2	1	0	3	0	1	0	0	1	2	0	4.0	0	12	I'll go to the store, buy bread and milk, and then cook dinner for my family.	3
+22	0	1	3	3	1	5	3	1	0	4	0	1	0	1	1	2	0	4.0	1	12	I will study for the exam, finish my project on time, and call my grandmother before going to bed.	3
+22	1	0	5	1	2	4	2	1	0	3	0	1	1	0	2	0	0	3.0	0	15	He didn't study, sleep early, or exercise yesterday, and as a result, he felt exhausted today.	3
+17	1	0	3	1	1	3	1	3	0	3	0	0	1	0	1	2	0	3.0	0	11	She goes to the store, buys an apple, and then cooks a delicious pie.	3
+29	2	0	6	2	2	6	3	3	0	4	1	0	0	0	3	3	0	5.0	0	11	She likes dancing, singing, and acting; however, she prefers the stage to the screen, but she enjoys all three forms of art equally.	3
+26	1	0	3	2	2	5	5	3	0	3	0	1	0	0	3	3	0	4.0	0	15	He forgot his keys, yet he couldn't wake up his car, so he called a locksmith and a friend for a ride.	3
+17	0	1	3	2	1	3	1	2	0	4	0	0	0	1	1	1	0	4.0	1	7	She studied, ate an apple, and went for a walk before going to bed.	3
+14	0	0	3	0	1	2	1	0	0	4	0	0	2	1	1	2	0	4.0	1	9	She loves to read, cooks fantastic meals, and paints beautiful portraits.	3
+18	1	0	3	1	1	5	2	1	0	3	0	1	0	0	1	3	0	3.0	0	9	I will call my parents, order food online, and finish this work assignment by midnight.	3
+20	1	0	3	0	1	3	4	1	0	4	0	2	0	1	3	3	0	4.0	1	12	I have finished my homework, I have eaten dinner, but I still have to do the dishes.	3
+17	1	0	3	2	1	3	1	3	0	3	0	0	0	0	1	0	0	3.0	0	8	He studies every day, eats healthily, and goes for a run in the evening.	3
+18	1	0	3	1	1	4	1	2	0	4	0	0	0	1	1	1	0	4.0	1	10	He studied law, worked at a law firm, and went home to relax each evening.	3
+15	0	0	3	1	1	5	0	1	1	3	0	0	0	0	1	3	0	3.0	0	7	John plays soccer, swims laps, and reads books each day after school.	3
+17	0	0	3	1	1	4	1	3	0	3	0	1	0	0	1	3	0	3.0	0	9	I will clean the dishes, do the laundry, and cook dinner all before bedtime.	3
+24	1	0	3	1	2	4	4	1	0	5	1	0	0	2	3	2	0	4.0	2	16	I have three tests tomorrow, and I need to finish this project, but I also have to practice for my presentation.	3
+19	1	0	3	2	1	4	2	2	0	3	0	1	0	0	1	2	0	3.0	0	11	I'll go to the store, buy some milk, and then cook dinner for my family.	3
+20	1	0	3	1	1	6	1	4	0	2	0	0	1	0	2	2	0	3.0	0	13	I saw the sun rise, the rooster crow, and the traffic light turn red all at once.	3
+18	1	1	3	1	1	4	1	2	0	4	0	0	0	1	1	3	0	4.0	1	8	She baked cookies, washed the dishes, and put the groceries away before going to bed.	3
+16	0	0	3	1	1	5	2	1	0	2	0	0	0	1	1	1	0	5.0	1	6	She loves to read, Swims every day, and Cooks dinner for her family.	3
+15	2	0	3	1	1	3	1	1	0	3	0	0	0	0	1	2	0	3.0	0	11	She plays the piano beautifully, sings melodies in tune, and dances gracefully.	3
+17	1	0	3	1	1	4	0	3	0	3	0	1	0	0	3	0	0	3.0	0	11	The sun sets, the birds fly home, and the children are put to bed.	3
+13	3	0	3	0	1	1	1	1	0	3	0	0	0	0	1	1	0	2.0	0	9	She plays the piano beautifully, sings marvelously, and paints superbly.	3
+17	0	0	3	2	1	4	1	1	0	4	0	0	1	1	1	2	0	4.0	1	8	I love reading books, cooking elaborate meals, and camping in the woods at night.	3
+22	1	0	3	2	1	5	1	2	0	3	0	1	1	0	1	2	0	4.0	0	14	I studied for the test, ate pizza for dinner, and then didn't get a good night's sleep.	3
+31	4	0	6	1	1	6	3	3	0	3	1	2	1	0	3	2	0	3.0	0	24	I have two pets, a dog and a cat; moreover, my younger brother is studying abroad; yet, I must still finish this project by tomorrow.	3
+18	1	0	3	2	1	4	2	2	0	3	0	0	0	0	1	2	0	3.0	0	9	She baked brownies, sang in the choir, and did her homework late into the night.	3
+32	1	1	7	0	3	2	4	0	0	4	0	2	7	3	4	2	0	4.0	3	13	She loves to dance, yet hates loud music; her favorite color is red, though she also adores blue; and he is tall, rich, and kind.	3
+20	0	0	3	0	2	5	3	1	0	3	1	1	0	0	3	2	0	3.0	0	14	I have three tests tomorrow, and I need to buygroceries, plus I must finish this projectby midnight.	3
+31	0	0	3	2	2	5	5	3	0	6	0	1	1	3	3	4	0	4.0	3	20	I have to study for the exam, but I need to finish the project by tonight, and I must call my grandmother to wish her a happy birthday.	3
+16	0	0	3	2	1	5	0	2	1	2	0	0	0	0	1	1	0	3.0	0	9	John plays soccer, goes to the gym, and studies for exams every day.	3
+19	0	0	3	1	1	4	2	2	0	4	1	0	0	1	1	3	0	4.0	1	9	I have to finish this report, call my sister, and feed the cat by five o'clock.	3
+16	0	0	3	0	1	3	1	3	0	3	0	0	2	0	1	2	0	3.0	0	10	She studied all night, ate a quick breakfast, and caught the early train.	3
+14	1	0	3	1	1	3	2	1	0	2	0	0	0	0	1	0	0	3.0	0	6	She studies, practices, and sleeps early every day for her exams.	3
+15	3	0	3	0	1	2	1	1	0	3	0	0	1	0	1	2	0	4.0	0	9	She plays the guitar brilliantly, dances gracefully, and paints breathtakingly beautiful pictures.	3
+20	0	0	3	2	1	4	2	3	0	3	1	1	0	0	1	2	0	3.0	0	10	I'll study for the exam, finish my project, and do the laundry all in one day.	3
+19	0	0	3	2	1	3	3	1	1	4	0	0	0	1	1	2	0	4.0	1	7	I need to study, finish my project, and write an email to my boss by Friday.	3
+39	1	0	5	4	2	4	6	2	0	8	2	2	0	4	4	2	0	6.0	4	21	I have three tests tomorrow, I need to finish studying for all of them, and yet, I can't focus on any one subject, but I'll manage to get everything done in time.	3
+24	1	0	4	2	1	5	2	3	0	2	0	2	2	0	3	1	0	3.0	0	10	Despite the heavy rain, the traffic was dense, and my shoes were waterlogged, I eventually reached the office on time.	3
+14	0	0	3	1	1	3	1	2	0	3	0	0	0	0	1	2	0	3.0	0	9	She played the piano, sang a song, and danced with joy.	3
+21	0	1	3	1	1	4	3	2	0	4	0	0	1	2	2	2	0	5.0	2	8	I need to buy eggs, a new book, and call my sister before I leave for the airport.	3
+24	1	0	4	1	2	4	2	3	0	4	0	0	2	0	1	3	0	4.0	0	20	He studied for the exam, ate a healthy breakfast, and got a good night's sleep, but still failed it.	3
+19	2	0	4	1	1	4	1	1	0	4	0	0	1	0	1	3	0	3.0	0	11	She plays guitar, sings wonderfully, dances ballet elegantly, and writes poetic songs for the audience.	4
+22	1	0	4	2	1	5	1	3	1	4	0	0	0	0	1	3	0	3.0	0	17	John goes to the park, reads a book, plays catch with his dog, and then has a picnic.	4
+22	0	0	4	2	1	6	2	3	1	3	0	0	0	0	1	2	0	3.0	0	15	John plays the piano, goes to the gym, studies for his exams, and calls his mother every day.	4
+23	2	0	5	3	1	3	1	1	1	5	0	0	1	1	1	1	0	3.0	1	19	John goes to the store, brings fruits, pays for them with cash, and walks back home, feeling exhausted.	4
+20	0	0	4	1	1	4	1	2	1	5	0	0	1	1	1	2	0	4.0	1	12	John plays tennis, goes to the gym, eats healthy, and finishes reading his book each day.	4
+25	2	1	4	1	1	4	1	3	0	6	0	0	0	3	1	4	0	5.0	3	13	She cooks dinner, but washes the dishes, however fails to clean the stove, while also forgetting to take out the garbage.	4
+22	1	0	4	2	2	6	1	1	1	4	0	0	0	0	1	3	0	4.0	0	15	John goes to the store, brings money, gets apples and bananas, and finally eats fruits after his shopping.	4
+21	0	1	4	1	2	4	0	1	4	4	0	0	0	1	4	3	0	3.0	1	15	Tom eats pizza, but John plays basketball, while Ann reads books, and Mark goes for a run.	4
+27	0	0	4	4	1	8	2	4	0	4	0	0	0	0	1	3	0	3.0	0	18	She sings in the shower, reads a book before bed, paints pictures during the afternoon, and cooks dinner for her family every evening.	4
+45	3	0	8	4	4	5	9	2	1	8	0	1	0	0	8	3	0	3.0	0	39	John goes to the store, but I stay at home; she sings in the choir, and he paints portraits; you finish your dinner, yet I've already eaten; they dance together, and we watch them from afar.	4
+23	0	0	4	2	1	5	2	5	0	4	0	0	0	0	1	3	0	3.0	0	14	I studied for the test, ate a sandwich, took a walk, and finished my homework all within an hour.	4
+17	0	0	4	0	1	6	0	4	0	2	0	0	0	0	2	0	0	3.0	0	9	The sun sets, the stars twinkle, the crickets chirp, and the owl hoots.	4
+17	0	0	4	0	1	4	0	3	1	4	0	0	0	0	1	4	0	3.0	0	12	John plays tennis, eats an apple, reads a book, and takes a nap.	4
+40	5	1	5	4	1	7	3	4	1	6	0	0	3	1	4	3	0	5.0	1	28	John studied for the test, but forgot his notes, however he still remembered most of the material, yet felt worried about possible mistakes, so he asked a classmate for help just before the exam began.	4
+23	2	0	5	1	3	5	0	2	1	4	0	0	0	0	1	2	0	4.0	0	14	John went to the store, bought bread, milk, and eggs, but forgot the sugar and came home again.	4
+20	0	0	4	1	1	4	1	4	0	4	0	0	1	0	1	3	0	3.0	0	14	I went to the store, bought some milk, ate an apple, and took a long nap.	4
+20	0	0	4	0	1	4	4	3	0	4	0	0	0	0	4	4	0	3.0	0	16	I have an apple, you have a banana, she has an orange, but we have grapes.	4
+28	0	0	6	1	4	6	1	1	2	6	0	1	0	0	2	2	0	4.0	0	12	Tom can sing, dancing and play both the guitar and piano; Jane bakes, gardens, reads, and writes letters to her pen pal.	4
+30	2	1	5	0	3	5	3	1	0	6	0	2	1	3	3	3	0	7.0	3	9	She loves ice cream, but eats cookies instead, although they're not as healthy, nor does she enjoy running, but prefers watching TV all day.	4
+29	1	1	4	2	1	8	4	4	0	4	0	0	0	1	4	2	0	4.0	1	17	She dances in the kitchen, while her brother reads aloud in the living room; her mother cleans the bathroom, and her father waters the garden.	4
+21	0	0	4	2	1	5	1	2	1	4	1	0	0	0	1	3	0	3.0	0	12	John went to the store, bought milk, ate cookies, and called his mother all in one day.	4
+22	0	0	4	2	1	6	2	2	1	3	0	0	1	0	1	2	0	4.0	0	14	John studies for his test, eats a healthy breakfast, practices basketball, and does his homework all before sunrise.	4
+21	0	0	4	2	1	5	1	2	1	4	1	0	0	0	1	3	0	3.0	0	12	John went to the store, bought bread, purchased milk, and called his mother all in one day.	4
+21	1	0	4	1	1	5	4	0	0	4	0	0	1	0	4	4	0	3.0	0	14	I study programming, I cook Italian dishes, I swim laps, and I play guitar late at night.	4
+19	1	0	4	0	1	4	0	4	0	4	0	0	1	0	4	0	0	4.0	0	14	The sun sets, the birds fly home, the children play, and the stars twinkle bright.	4
+31	2	0	6	2	2	7	3	2	1	6	0	0	0	1	4	4	0	5.0	1	12	John studies history, but he hates writing papers; nevertheless, he reads every book assigned in class, and yet, he passes every exam with flying colors.	4
+20	3	0	4	0	1	3	1	0	1	6	0	0	0	2	1	3	0	4.0	2	14	John works late, eats dinner alone, forgets to call his mom, and falls asleep watching TV.	4
+32	1	1	7	2	3	9	2	0	0	6	0	0	0	1	1	5	0	5.0	1	25	She loves reading, yet hates math; enjoys skiing, but not sun bathing; cooks dinner, while listening to jazz, and still finishes her reports on time.	4
+11	0	0	4	0	1	1	0	0	1	4	0	0	0	0	1	1	0	2.0	0	8	John studies, eats, plays basketball, and sleeps.	4
+13	0	0	4	1	1	1	1	1	0	4	0	0	0	0	1	0	0	3.0	0	7	She danced, sang, clapped, and cheered at the concert.	4
+20	0	0	4	2	1	5	1	2	1	4	0	0	0	0	1	3	0	3.0	0	12	Tom goes to school, eats breakfast, takes a bath, and does his homework in the afternoon.	4
+19	0	1	4	1	1	6	1	0	2	3	0	0	0	1	1	2	0	4.0	1	10	John eats chips, drinks soda, texts Sarah, and finishes his homework before going to bed.	4
+18	2	0	4	1	1	4	2	1	0	3	0	0	0	1	1	2	0	4.0	1	13	He goes to the store, buying bananas, then grapes, but finally forgets his wallet.	4
+17	1	0	3	0	1	5	1	2	0	4	0	0	0	0	1	4	0	3.0	0	11	She cooks spaghetti, cleans the kitchen, washes the dishes and goes grocery shopping afterwards.	4
+15	0	0	4	0	1	4	0	1	1	2	0	0	1	1	1	2	0	3.0	1	9	John runs, jumps, swims, and bikes to maintain a healthy lifestyle.	4
+53	8	1	9	2	4	8	9	2	0	9	0	0	0	2	8	3	0	10.0	2	11	She sings beautifully, yet he finds her voice loud; her sister dances skillfully, but their brother prefers to remain still; they enjoy hiking, or rather they explore the trails by bicycle, and finally, their friend reads quietly, while the rest of them chat loudly.	4
+19	6	0	4	0	1	3	0	1	1	3	0	0	0	0	1	2	0	3.0	0	13	John plays the guitar beautifully, eats pizza enthusiastically, studies diligently, and runs fast yet tirelessly.	4
+19	1	0	4	2	1	3	3	1	0	4	0	0	0	0	1	3	0	3.0	0	13	He goes to the store, buys bread, brings it home, and toasts it for breakfast.	4
+23	0	0	4	2	1	4	0	4	1	5	0	0	2	1	1	2	0	4.0	1	12	John goes hiking, swims in the lake, eats lunch, and takes a long nap all in the beautiful wilderness.	4
+21	0	0	4	3	1	2	3	2	1	4	0	0	1	0	1	3	0	3.0	0	14	Tom went to the store, bought an apple, sliced it up, and shared it with everyone present.	4
+23	0	0	4	2	1	6	1	4	1	3	0	0	1	0	1	2	0	3.0	0	16	John goes to the gym, eats a healthy lunch, studies at the library, and calls his mother every day.	4
+45	3	1	9	1	2	7	6	2	4	9	0	0	1	3	7	5	0	4.0	3	40	John plays the guitar, but he hates performing in public; Mary reads novels, yet she loves watching movies; Jack exercises every day, although it often feels tedious; Sarah bakes cakes, however, she seldom eats them herself.	4
+25	1	0	5	1	3	5	2	1	1	5	0	0	0	1	1	3	0	4.0	1	14	John went to the store, bought apples, bananas, and oranges, but forgot his wallet and had to leave everything behind.	4
+22	1	0	4	1	1	4	2	2	1	5	0	0	0	1	1	4	0	3.0	1	13	John goes to the store, purchases fruits, bakes a cake, and invites his friends over to eat it.	4
+29	1	1	5	0	2	4	4	2	0	5	0	4	0	1	5	3	0	4.0	1	14	I will cook dinner, but you must set the table, however, they will bring the drinks, yet we must wait for grandma to arrive.	4
+22	0	1	4	2	1	5	1	3	0	5	0	0	0	1	1	4	0	4.0	1	12	I baked cookies, wiped the counter, did the dishes, and took out the trash before going to bed.	4
+22	1	0	4	1	2	4	0	2	4	4	0	0	0	0	4	3	0	3.0	0	18	John plays the guitar, but Ann sings in the choir, however Peter composes music, and Mike dances ballet.	4
+20	0	0	4	2	1	4	0	4	1	4	0	0	0	0	1	2	0	3.0	0	14	Tom went to the store, bought some bread, ate a sandwich, and studied for the test.	4
+30	2	0	5	0	1	4	5	2	0	4	0	3	3	1	4	3	0	5.0	1	19	I have an appointment tomorrow, it's very important, I mustn't forget it, so I'll set multiple alarms and double-check every reminder.	4
+21	0	0	4	0	2	4	1	3	1	5	0	0	1	1	2	4	0	4.0	1	9	John loves skiing, but hates the cold; he enjoys the mountains, yet finds the long drives tiring.	4

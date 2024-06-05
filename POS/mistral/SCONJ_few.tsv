@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	SCONJ_constraint
+14	0	0	1	2	0	4	1	2	2	1	0	1	0	0	1	1	0	4.0	0	10	You have received an invitation for the NYMEX candidate cocktail hour on Tuesday.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The package arrived before the deadline.	0
+7	0	0	1	0	0	1	0	0	2	0	0	1	1	0	1	0	0	3.0	0	3	John's birthday is next Monday.	0
+9	1	0	1	1	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	4	The committee unanimously selected John as the winner.	0
+4	0	0	1	0	0	0	1	0	1	0	0	1	0	0	1	0	0	1.0	0	2	It is Thursday.	0
+14	1	0	1	3	0	3	1	1	1	1	1	1	0	0	1	0	0	2.0	0	10	You will interview at exactly 2pm on Friday for the HR position.	0
+9	0	1	1	0	0	2	0	2	0	3	0	0	0	2	2	0	0	3.0	2	4	The flowers wilt after the sun has sets.	0
+10	0	0	1	2	0	1	1	2	0	0	1	2	0	0	1	0	0	2.0	0	5	I will be at the office by 9 a.	0
+9	1	0	1	0	0	2	2	0	0	1	0	1	1	0	1	1	0	2.0	0	5	You'll find our latest product specifications here.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+11	0	0	1	1	0	3	1	1	2	1	0	1	0	0	1	1	0	3.0	0	7	I will attend the NYMEX candidate cocktail hour on Tuesday.	0
+9	0	0	1	1	0	3	0	1	1	1	0	0	1	0	1	1	0	2.0	0	4	The new CEO took charge on March 1st.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The students passed the exam.	0
+9	0	0	1	0	1	1	1	1	0	1	0	1	2	0	1	1	0	4.0	0	5	You can select a red or blue team.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	 The car travels at a steady speed.	0
+6	0	0	1	1	0	1	1	0	0	2	0	0	0	1	0	1	0	3.0	1	2	Let's meet for lunch.	0
+7	0	0	1	1	0	2	0	0	0	1	0	0	2	0	1	0	0	3.0	0	2	Several pizzas lay ready for eating.	0
+9	1	0	1	1	0	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	6	We arrived at the hotel an hour ago.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The red apple is on the table.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+14	0	0	1	3	0	3	1	2	2	0	0	2	0	0	1	0	0	2.0	0	6	I'll be at the cocktail hour on Tuesday for the NYMEX candidates.	0
+11	0	0	1	1	1	3	2	1	0	1	0	1	0	0	1	0	0	3.0	0	5	You and I can meet at the coffee shop tomorrow.	0
+7	0	0	1	0	0	2	1	2	0	1	0	0	0	0	1	2	0	2.0	0	3	The teacher asked us a question.	0
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	You're sending an e-mail.	0
+6	0	0	1	1	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Your dog barks at squirrels.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	She bakes pies.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	0	0	3	0	1	0	1	0	0	1	0	1	1	0	2.0	0	3	Several engineers discussed the project plans.	0
+10	0	0	1	1	0	2	1	1	1	1	0	1	0	0	1	1	0	3.0	0	6	We will discuss the budget during Monday's meeting.	0
+11	0	0	1	2	0	3	0	2	0	1	1	1	0	0	1	0	0	2.0	0	6	The meeting is scheduled for two o'clock in the afternoon.	0
+7	0	0	1	1	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	3	He is playing chess against himself.	0
+9	0	0	1	1	0	4	2	0	0	1	0	0	0	0	1	1	0	4.0	0	5	I need information about your pet insurance plan.	0
+7	0	0	1	1	0	2	1	0	0	1	0	0	1	0	1	1	0	2.0	0	3	Several cakes await us after dinner.	0
+6	0	0	1	0	0	2	0	0	0	1	1	0	1	0	1	0	0	2.0	0	2	Two large boxes arrived yesterday.	0
+11	0	0	1	2	0	3	1	1	0	1	1	1	0	0	1	1	0	3.0	0	7	We have scheduled the call for tomorrow at 10 a.	0
+7	0	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	2.0	1	2	They all agreed to have coffee.	0
+9	0	0	1	1	0	2	1	0	0	2	1	0	0	1	1	1	0	4.0	1	2	I need to purchase four liters of milk.	0
+9	0	0	1	2	0	2	1	1	1	1	0	0	0	0	1	1	0	3.0	0	6	I have a meeting with Sarah at noon.	0
+25	0	0	1	2	1	5	2	2	6	2	0	1	1	1	1	2	0	6.0	1	8	Our project is to implement an API gateway for our cloud application using a popular framework like Amazon API Gateway or Google's Apigee.	0
+8	0	0	1	1	0	1	1	2	1	1	0	0	0	0	1	0	0	2.0	0	5	She reads at the library every Saturday.	0
+10	0	0	1	2	0	3	1	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The students read from their books in the library.	0
+13	0	1	1	2	0	3	1	3	0	2	0	0	0	1	1	1	0	3.0	1	7	We met the client in the lobby before proceeding to the office.	0
+8	0	1	2	0	0	1	1	1	0	2	0	0	0	0	1	1	1	2.0	1	2	If it thaws, serve the sorbet.	0
+8	0	0	2	0	0	4	0	1	0	1	0	0	0	0	1	1	0	3.0	0	3	Some people prefer coffee, others tea.	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is in the air.	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	I'll leave tonight after the concert.	0
+7	1	0	1	1	0	1	2	0	0	0	0	1	0	0	1	0	0	2.0	0	3	I'm here at your location.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The monkey sits on the tree branch.	0
+9	0	0	1	2	0	3	0	1	0	1	1	0	0	0	1	0	0	3.0	0	3	The car travels at sixty miles per hour.	0
+12	0	0	1	2	0	4	1	1	0	1	1	1	0	0	1	0	0	2.0	0	8	We will meet at the bus stop tomorrow at 9 a.	0
+16	1	1	3	0	0	2	1	1	0	3	0	3	0	2	3	0	0	3.0	2	7	"The manager warned, ""you will all be fired if productivity does not improve."	1
+11	0	1	1	0	0	2	2	2	0	2	0	1	0	1	2	2	0	3.0	1	3	The baby will cry unless you give it a pacifier.	1
+14	2	1	2	1	0	0	3	0	0	4	0	1	0	2	3	0	0	4.0	2	5	She will leave before he returns, provided he stays away for long.	1
+10	0	1	2	0	0	1	2	1	0	3	0	0	0	2	2	1	0	3.0	2	4	The dog barked, alerting me if anyone approached.	1
+26	0	1	2	1	1	4	4	3	0	5	0	3	0	2	3	2	2	5.0	4	9	If you fail to provide your password, the system will assume it's an attempt to hack and will shut down all your accounts.	1
+18	0	1	2	1	0	3	2	2	0	2	0	2	1	0	2	2	1	3.0	1	9	If you don't plant vegetables in the garden, you won't have a bountiful harvest.	1
+21	2	2	2	1	1	1	3	1	0	4	0	3	0	2	4	0	0	3.0	2	10	I will leave once the rain stops, but it doesn't seem like it will let up anytime soon.	1
+14	1	1	2	0	0	2	1	2	0	2	0	2	0	0	2	1	1	3.0	1	8	If we don't find a solution soon, the project might fail.	1
+13	0	1	1	1	0	2	2	2	0	2	0	1	0	1	2	1	0	3.0	1	5	She couldn't find the document unless she searched in the archives.	1
+14	0	1	2	1	0	2	2	2	0	2	0	1	0	0	2	1	1	3.0	1	5	If it rains, we will not have a picnic in the park.	1
+16	0	2	1	1	0	3	2	3	0	3	0	1	0	2	2	2	0	4.0	2	6	The rain will keep us from playing in the park unless we bring an umbrella.	1
+13	0	1	2	0	0	2	2	1	0	2	0	1	1	0	2	2	1	3.0	1	7	If she receives poor grades, she cannot attend the conference.	1
+12	1	1	2	1	0	0	2	0	0	2	0	2	0	0	2	0	1	2.0	1	5	If he doesn't eat soon, he will pass out.	1
+15	0	1	2	1	0	4	1	3	0	2	0	1	0	0	2	1	1	3.0	1	4	After the storm had passed, we surveyed the damage at the construction site.	1
+12	2	1	2	0	0	0	3	0	0	1	0	2	0	1	2	0	0	2.0	1	7	I wouldn't go there alone, if I were you.	1
+15	0	1	2	1	0	3	3	2	0	2	0	1	0	0	2	2	1	3.0	1	5	After they had completed the mission, they realized the enormity of their achievement.	1
+14	1	1	1	1	0	2	2	1	0	2	0	2	0	1	2	0	0	3.0	1	4	The cat would not sleep unless it was tucked securely in its blanket.	1
+12	1	1	2	0	0	1	3	0	0	2	0	1	1	0	2	1	1	2.0	1	5	Before he spoke, I had already guessed his next query.	1
+17	0	1	2	1	0	4	2	2	0	3	0	1	0	1	2	2	1	4.0	2	5	If the wind shifts direction, we might have to change the direction of our sails.	1
+15	0	1	2	1	0	2	2	2	0	3	0	1	0	1	2	1	1	4.0	2	3	Although it might rain, we decided to have a picnic in the park.	1
+13	2	0	1	0	0	4	0	3	0	2	0	0	0	1	2	1	0	3.0	1	5	The dog's tail wags subordinately when the owner enters the room.	1
+11	0	1	2	0	0	2	1	1	0	2	0	1	1	0	2	1	1	2.0	1	5	If we delay, more rain can damage the construction.	1
+20	2	2	2	1	0	2	3	1	0	4	0	2	1	0	1	3	3	4.0	3	10	Even if you've finished the assignment, checking it thoroughly before submitting will save you from potential embarrassment.	1
+18	0	1	2	1	0	3	2	3	0	3	0	1	1	1	2	2	1	3.0	2	6	If you miss the bus, you'll have to wait an hour for the next one.	1
+10	0	1	2	0	0	1	2	1	0	2	0	1	0	0	2	1	1	2.0	1	3	Before he could answer, she demanded an explanation.	1
+19	2	1	1	3	0	3	2	3	0	2	0	1	1	1	1	1	0	4.0	1	6	She would rather go to the party alone than attend it in the company of an unreliable friend.	1
+16	0	1	2	2	0	1	3	1	0	3	0	1	1	0	2	1	2	3.0	2	7	If he fails to show up, I'll make the necessary arrangements without him.	1
+16	0	1	2	2	0	5	0	3	0	2	0	0	1	0	2	0	1	4.0	1	5	If the electricity fails, the security system remains active due to a battery backup.	1
+17	2	0	2	0	0	2	3	1	0	4	0	1	0	2	2	2	0	4.0	2	6	She'd forgotten her keys, so she had to break a window to get in.	1
+13	0	1	2	1	0	3	1	2	0	2	0	0	1	0	2	1	1	3.0	1	3	After the meeting concluded, we discussed the next steps in detail.	1
+12	0	1	1	0	0	3	2	2	0	2	0	1	0	1	2	1	0	3.0	1	4	The boy would cry unless his mother sung him a lullaby.	1
+12	2	1	2	0	0	1	3	0	0	2	0	1	0	0	2	1	1	2.0	1	7	If he confesses, his lies will no longer protect him.	1
+12	2	1	2	0	0	1	1	1	0	2	0	2	0	0	2	0	1	2.0	1	8	If they arrive late, the show will have already started.	1
+17	0	1	2	1	1	2	2	2	0	2	0	2	2	0	2	1	1	3.0	1	5	If I were rich, I would buy a big yacht and sail around the world.	1
+13	0	1	1	1	0	3	2	1	0	2	0	1	0	1	2	1	0	3.0	1	4	The cat wouldn't move until I put food in its bowl.	1
+12	0	1	2	0	0	3	1	2	0	2	0	1	0	1	2	1	0	3.0	1	5	The sun will set, if no clouds block its path.	1
+13	0	1	2	0	0	1	1	1	0	3	0	2	1	1	1	1	1	3.0	2	6	If you touch the hot stove, be prepared to get burned.	1
+14	1	2	2	0	0	2	3	0	0	3	1	0	0	1	2	3	1	2.0	2	6	Although she loves dogs, her father strictly forbids her from having one.	1
+12	0	1	2	0	0	2	2	2	0	2	0	1	0	0	2	2	1	3.0	1	6	If she wins the lottery, she will travel the world.	1
+13	0	1	2	0	0	3	2	2	0	2	0	1	0	1	2	2	0	3.0	1	6	He will leave the country, if he loses the court case.	1
+18	0	1	2	0	1	5	2	3	0	3	0	1	0	0	2	3	1	3.0	1	7	Until the train approaches the station, the passengers must keep their seats and fasten their seatbelts.	1
+19	1	1	2	1	0	2	2	2	0	4	0	2	0	1	2	1	1	4.0	2	5	If we don't act quickly, we may miss the opportunity to invest in this emerging market.	1
+11	1	1	1	0	0	1	3	0	0	2	0	1	1	1	2	1	0	2.0	1	7	She leaves her office early if she is feeling unwell.	1
+20	1	1	3	2	1	2	2	1	0	3	0	1	3	1	2	0	1	5.0	2	7	If you're thirsty, drink from the clear lake, but make sure you check for toxins first.	1
+14	2	1	2	1	0	2	1	1	0	2	0	2	0	1	2	0	0	3.0	1	5	The baby will only sleep, if it's put to bed early.	1
+12	0	1	2	1	0	1	2	1	0	3	0	0	0	1	1	1	1	3.0	2	4	If it rains, remember to bring an umbrella with you.	1
+13	1	0	2	1	1	2	1	1	0	3	0	0	0	1	2	0	0	4.0	1	5	The sun rises earlier, yet she prefers to linger in bed.	1
+15	0	1	2	0	0	2	2	2	0	3	0	2	0	1	2	2	1	3.0	2	7	If you don't wear a helmet, an accident could leave you paralyzed.	1
+15	1	1	2	0	0	2	3	1	0	3	0	1	0	1	2	2	1	3.0	2	5	After she had finished her tea, she began to read the manuscript carefully.	1
+16	3	0	2	1	0	3	1	2	0	4	0	0	0	1	2	1	2	3.0	3	5	Even when the rain starts coming, she still enjoys dancing in the park unbothered.	1
+17	2	0	2	0	1	2	4	1	0	3	0	2	0	1	3	1	0	3.0	1	7	She would sing beautifully, yet her voice would lose all its charm when she spoke.	2
+16	1	1	2	1	0	2	1	1	0	2	0	2	1	0	2	1	2	4.0	2	9	If we are unable to reach an agreement, negotiations must not drag on indefinitely.	2
+26	1	1	2	2	1	5	3	2	0	3	0	3	2	1	3	2	0	4.0	1	18	She will attend the convention only if her favorite candidate wins the nomination, but her boyfriend may not be coming due to unforeseen circumstances.	2
+24	1	1	2	3	0	3	0	2	5	3	1	0	2	0	2	2	1	5.0	1	10	Although Bush condemned the overthrow of democratically elected governments, the US supported Chile's military coup against democratic President Allende in 1973.	2
+29	1	1	2	2	0	5	3	2	2	5	0	0	2	3	3	3	1	7.0	4	7	While the administration condemned Bush's comments, it failed to directly address the underlying concerns that led him to speak out against Clinton's foreign policy actions.	2
+29	1	2	1	2	0	5	4	1	1	5	0	0	4	4	2	4	0	6.0	4	10	The President's criticism of foreign leaders does little to encourage respect for our own democratic process if he publicly opposes others while failing to support them himself.	2
+17	0	0	1	2	0	4	2	2	0	1	0	2	2	1	1	1	0	4.0	1	4	The ambassador's arrival would be contingent upon our government receiving a positive response from theirs.	2
+15	0	2	2	0	0	3	1	2	0	4	0	1	0	2	3	0	1	3.0	3	5	If the opposition candidate wins, the cabinet will continue serving unless they resign.	2
+23	1	2	2	1	0	3	5	2	0	4	0	2	1	2	3	3	1	4.0	3	7	If they are planning a surprise party, they should avoid asking him specifically about it because he has a poor memory.	2
+21	0	2	2	0	1	5	0	1	0	5	0	1	2	1	3	1	2	4.0	3	13	If the economy continues to struggle and if interest rates remain low, more consumers may choose to buy homes.	2
+22	0	1	2	2	1	6	0	3	0	3	0	1	2	0	2	0	2	4.0	2	9	If both the president and the opposition leader refuse to engage in dialogue, political tensions could escalate into violent confrontations.	2
+26	1	2	3	2	1	6	4	0	2	3	0	2	0	0	3	1	2	3.0	2	19	If we receive your application before October 1st, and if your background check is completed successfully, your employment will start on November 1st.	2
+17	0	1	2	1	1	2	1	0	5	2	0	1	0	0	2	2	1	4.0	1	8	Although Leavy criticized Bush's comments, Clinton himself had advocated interventions in Haiti and Kosovo.	2
+19	0	1	3	1	0	3	4	1	0	4	0	0	0	2	1	3	1	4.0	3	6	After hearing her cries, their mother scolded them, telling them not to play near the pool.	2
+28	1	2	3	2	0	5	4	3	0	5	0	1	1	3	3	3	1	6.0	4	6	Even though she had finished her work, she kept staring at the computer screen, unwilling to turn off the monitor until she confirmed every detail.	2
+21	1	2	2	0	0	4	3	1	1	3	0	2	1	1	3	2	1	3.0	2	8	Even if he had won the coin toss, John couldn't celebrate because he forgot his lucky baseball cap.	2
+19	0	1	2	1	1	4	2	2	0	3	0	2	0	0	3	1	1	4.0	1	11	If it doesn't rain before harvest and the crops fail, the farmers will lose their livelihoods.	2
+29	2	3	4	0	2	2	6	0	0	4	0	4	1	2	4	2	1	5.0	3	8	If she were here now, I would apologize for losing my temper; but she isn't, and I feel better for having spoken my mind.	2
+25	1	1	4	2	0	5	2	3	0	3	0	2	1	0	3	2	1	3.0	1	9	If the project receives funding, we will hire additional staff; however, we cannot apply for the grant before the deadline.	2
+21	1	1	2	3	0	4	0	4	2	1	0	1	2	0	2	1	1	3.0	1	13	While Bush opposes the CTBT, the testing of nuclear weapons by a nation is dangerous regardless of the opposition.	2
+26	2	1	2	3	0	6	1	2	1	1	0	1	4	0	2	1	1	4.0	1	15	If Bush's comments were not dangerous enough, his support for foreign interventions without the consent of the international community raises even more alarm.	2
+22	0	1	2	2	0	5	1	4	0	2	0	2	2	1	2	2	1	3.0	2	10	If I am correct, the candidate must receive a certain percentage of the votes in order to win the election.	2
+16	1	1	2	1	0	2	1	2	1	2	0	2	1	0	2	1	1	4.0	1	9	If Bush overthrows a democratically elected government, it could be dangerous for this country.	2
+30	1	1	3	3	3	6	1	4	0	5	0	0	3	0	2	3	1	6.0	1	20	If the president speaks out against dictatorship and supports the democratic process, yet condones the overthrow of democratically elected governments, it sets a confusing and contradictory precedent.	2
+24	0	2	2	1	0	7	3	3	0	4	0	1	1	2	3	2	1	4.0	3	6	Although the new CEO promises a change, the employees question whether she can execute her vision given her lack of industry experience.	2
+30	0	3	2	2	1	6	6	1	0	5	0	2	0	1	3	4	2	5.0	3	21	If she finishes her homework before dinner and if her parents don't ask her to help in the kitchen, she will watch TV after finishing her dinner.	2
+17	0	1	3	0	0	3	2	1	0	4	0	1	1	1	2	2	1	4.0	2	6	Although they denied any wrongdoing, investors were required to return their ill-gotten profits.	2
+29	2	2	2	2	0	6	3	4	0	5	0	1	1	3	2	3	0	5.0	3	13	The ambassador had promised to arrange the meeting before leaving the country, yet he unexpectedly changed his plans after learning about the sudden death of his sister.	2
+29	0	2	2	2	1	4	6	2	0	3	0	4	1	2	4	4	0	4.0	2	16	I cannot finish the homework unless you provide me the necessary information, but I will be in trouble if I do not submit it on time.	2
+28	0	1	2	3	1	7	4	3	0	3	0	2	1	1	2	2	0	3.0	1	16	The students will study for their exams in the library after completing their assignments, but they cannot bring their cell phones into the silent room.	2
+25	0	3	2	2	0	3	2	3	0	4	0	3	2	3	2	0	1	5.0	4	5	Although the document may appear authentic, it is crucial to determine if it was created before the deadline as specified in the agreement.	2
+16	1	1	2	0	0	5	1	1	0	2	0	0	3	0	2	2	1	3.0	1	7	Though the new policy allows more employee autonomy, it also mandates weekly performance reports.	2
+22	2	1	2	1	1	4	4	0	0	5	0	1	0	2	2	3	1	4.0	3	12	If she studies diligently and finishes her homework before dinner, her mother will consider allowing her to watch TV afterwards.	2
+21	0	1	3	2	0	3	2	2	0	2	0	5	0	0	2	1	1	3.0	1	9	" ""If she had not been wearing a life jacket, she would have been pulled under by the current."	2
+26	1	1	2	3	1	5	1	3	2	2	0	1	4	0	2	2	1	5.0	1	8	If Bush overturns the government in Venezuela, it will cause a diplomatic storm in relations with that country and likely other Latin American nations.	2
+25	0	2	3	2	0	5	2	2	0	3	0	2	3	0	3	1	2	4.0	2	16	Although the new software appears promising, unless we receive positive feedback from beta testers, it will not be released to the public.	2
+20	3	1	2	2	0	4	0	3	1	2	0	1	1	0	2	1	1	5.0	1	9	While the overthrow of democratically elected governments is very dangerous for this country, Bush made the comments nonetheless.	2
+25	1	2	2	2	0	5	5	1	0	3	0	2	0	1	3	1	1	3.0	2	9	Even if I pass my certification exams, I cannot work as a consultant if my references will not vouch for my professionalism.	2
+25	1	1	4	1	1	4	2	3	0	3	0	2	1	1	2	3	1	4.0	2	9	 'If they are not granted an appeal' and 'otherwise they will have the opportunity to present new evidence to the jury.	2
+34	1	2	4	0	1	9	3	4	0	6	0	3	1	2	4	4	1	5.0	3	15	If the budget is passed, the employees will lose their health insurance; if the employees lose their health insurance, they may have a more difficult time attracting and retaining talent.	2
+21	1	1	2	2	0	5	0	2	0	3	0	1	3	1	2	1	1	4.0	2	8	While the economy is showing robust signs of growth, small businesses have yet to recover from the economic downturn.	2
+30	1	3	3	2	1	4	5	2	0	5	0	2	1	3	4	2	1	5.0	4	11	If he were a different man, he would admit that fear drives him to this obsession, but he insists otherwise while refusing to let his guard down.	2
+26	0	1	2	2	2	4	0	2	3	3	0	1	5	2	2	1	0	4.0	2	12	The United States government should consider both diplomatic and military measures to respond to this provocative actions from North Korea, if nuclear test occurs.	2
+25	2	2	2	3	0	5	2	1	0	3	0	3	2	1	3	1	1	3.0	2	10	Even if she had an excellent performance record, she might still be passed over for promotion if upper management was biased towards men.	2
+35	2	2	6	1	1	5	5	1	0	6	0	4	0	2	5	3	1	4.0	3	21	If they deny entry, we will apply for reconsideration, but we will not protest publicly; if we are granted entry, however, we will make a press statement to celebrate.	2
+23	1	2	2	0	0	4	3	3	0	3	0	2	1	1	2	2	1	3.0	2	9	Even if she had all the necessary qualifications, it wouldn't matter if the hiring manager hadn't seen her resume.	2
+19	1	1	2	2	0	4	2	2	0	3	0	1	0	0	2	2	1	3.0	1	8	Even if she won the race, the school would not accept her transcript due to missing coursework.	2
+22	1	2	2	1	0	3	1	1	3	1	0	1	3	0	2	0	1	4.0	1	9	If Bush's comments were not dangerous enough, Leavy's defense of democratic governments made it clear that the U.	2
+32	1	3	1	2	0	5	1	5	3	5	0	2	2	4	3	2	0	6.0	4	9	The spokesman for the National Security Council warned that it would be dangerous for the country to condone the overthrow of democratically elected governments if Bush continued to support the effort.	2
+16	0	1	1	0	1	3	1	3	0	4	0	0	1	2	3	1	0	4.0	2	12	She refused to attend the festival if the rain continued and the ground stayed muddy.	2
+40	2	4	5	1	2	4	9	2	0	8	0	2	0	0	6	5	5	5.0	5	35	Although she had eaten quite a lot, if he asked her to join him for dessert, and she felt like indulging herself, and they had time before their movie started, then she would gladly accept.	3
+41	2	1	4	2	2	9	3	3	0	6	0	5	3	0	4	3	2	7.0	2	30	If the new product had been launched earlier, and it had received positive reviews from the industry leaders, and we had adequate resources to manufacture in volume, our projected revenue would have significantly exceeded the target figures.	3
+27	2	1	3	3	0	4	5	3	0	2	0	2	1	0	2	3	1	3.0	1	17	If she couldn't trust him with the truth, even after all these years of friendship, why should she tell him her deepest secret? Despite the fact that they had shared so much, or maybe because of it, revealing this one truth felt too vulnerable.	3
+40	2	1	4	7	1	7	1	6	0	3	0	5	2	0	2	0	2	4.0	2	34	If he hadn't agreed to the deal at the meeting, despite some reservations expressed by the others, and had instead held out for further concessions, the outcome of the negotiations would have been very different.	3
+48	0	3	4	3	3	11	1	7	0	7	0	6	2	2	5	3	1	5.0	3	30	Before the board can consider this matter, the legal team must have reviewed all documents and advised whether their inclusion would put the company at risk or result in potential litigation, and until clearance is granted, the item should not appear on the agenda.	3
+46	3	4	4	3	1	7	8	4	0	9	0	2	0	5	6	4	2	7.0	7	13	Before she decides to accept my proposal, let me explain some of the benefits our company can offer, as long as you believe these benefits outweigh your concerns for the project, and once you trust that we can work through disagreements constructively.	3
+35	1	1	4	1	2	6	4	4	0	4	0	5	0	0	4	3	1	4.0	1	25	If she didn't forget her book, and the bus hadn't arrived late, and her dog hadn't chewed up the pages, she could have finished the assignment that night.	3
+35	1	3	4	3	1	7	1	4	0	4	0	5	1	1	4	1	1	5.0	2	10	If we are to complete the project on time, the report must be submitted immediately, and all feedback from stakeholders should be incorporated, so that no objections remain prior to approval.	3
+27	1	2	3	1	1	6	2	2	1	4	0	3	0	0	3	2	1	5.0	1	21	If John were to accept this position, and if our committee could reach consensus on his proposed changes, then the implementation process could begin.	3
+44	3	2	4	4	2	5	5	4	0	7	0	5	0	2	4	2	2	5.0	4	28	Even if she knew about it, or didn't suspect a thing, or didn't care about the secret even if she did find out, it wouldn't change a thing regarding the plan we'd already put into motion.	3
+24	0	2	3	0	1	5	1	2	0	5	0	3	2	0	3	0	2	4.0	2	18	Should the markets open as planned tomorrow, and the trading volumes be as anticipated, our forecasted quarterly earnings will remain unaffected.	3
+40	1	3	7	0	1	5	6	2	0	6	0	5	2	2	6	4	1	4.0	3	15	If I fail this test, I will study longer hours; if my grades do not improve, I will retake the test; and, if I still don't pass, I will seek extra tutoring.	3
+41	4	0	4	2	4	4	5	3	0	6	0	4	3	1	4	3	1	5.0	2	15	Should it rain heavily during the outdoor concert and we don't bring umbrellas, we might regret our decision to stay, and we could all potentially get wet and uncomfortable, and even miss some of the music.	3
+53	1	2	5	2	3	13	2	7	0	9	0	6	2	4	6	3	2	5.0	6	36	Assuming this proposal receives approval, the project team can proceed with developing a new application, and the developers could be directed to start working on the backend architecture, but once the testing is complete and user acceptance is granted, we would then release it into the production environment.	3
+37	2	1	4	3	1	6	3	5	0	4	0	6	0	0	2	2	1	3.0	1	19	If you hadn't been distracted by that text message, had focused on the road, and had kept both your hands on the wheel, we wouldn't be discussing this accident right now.	3
+44	2	3	4	3	2	6	4	3	1	4	0	7	1	0	4	2	1	5.0	1	33	If she wouldn't have eaten the raw pork, or if the meat hadn't been contaminated with Trichinella spiralis, or if her doctor hadn't warned her of the symptoms, she wouldn't be suffering from trichinosis right now.	3
+31	2	1	4	2	2	9	0	4	0	4	0	1	2	1	2	2	1	5.0	2	10	If the storm continued unabated throughout the night, the power lines may come down, causing a blackout, and potentially damaging nearby structures with falling trees and debris.	3
+33	1	1	6	1	2	7	2	3	0	4	0	2	3	1	3	3	1	4.0	2	12	Before we make the final sale, we should obtain legal approval, verify the customer's credit history, and ensure all paperwork is accurate and up-to-date.	3
+37	3	2	5	2	0	5	7	2	0	5	1	3	1	0	3	4	4	5.0	4	27	If she could find the time to meet me, despite her busy schedule, which would only last 30 minutes, after finishing her report, then I could explain the issue properly to her.	3
+35	1	1	4	3	2	9	1	5	0	4	0	4	0	0	4	2	1	4.0	1	21	If the proposal had received the board's approval, and funding was secured accordingly, and production began on schedule, we might have launched the product by the end of the year.	3
+35	2	1	4	2	2	5	2	4	0	5	0	3	3	1	4	1	2	5.0	3	28	If it rains heavily before the event, and the field is too wet to host it, or the forecasts call for stormy weather, the outdoor concert will need to be cancelled.	3
+48	6	1	3	1	3	9	1	6	0	7	0	4	3	1	4	3	4	7.0	5	35	If the weather remains dry and the winds are not strong enough to blow away the smoke, and the residents are asked to stay indoors and keep their windows closed, then the containment team will be able to bring the fire under control more effectively.	3
+48	4	3	4	4	2	7	4	5	1	8	0	3	1	1	5	3	4	6.0	5	34	Although Jack had forgotten to bring cash, but he knew he could rely on the kindness of strangers and maybe even stop at the bank if absolutely necessary, if all else failed, he would find a way to make it to dinner that evening.	3
+35	2	1	4	0	3	6	1	5	0	5	0	4	2	1	3	3	1	4.0	2	19	If the reports were incorrect, and the market had not reacted negatively, or even welcomed the news, we would be required to issue a clarification and provide a corrective disclosure statement.	3
+44	3	2	5	3	2	5	7	3	0	6	0	4	2	2	4	2	3	7.0	5	18	Even though she had finished baking the pies, and the kitchen filled with their warm aroma, she still hadn't washed the dishes, yet it was important for her to clean up after herself, otherwise her mother might disapprove.	3
+45	0	4	3	5	2	9	6	2	0	4	0	4	5	1	5	1	3	6.0	4	26	Although she knew that her proposal might be met with resistance from upper management, if it weren't for the impending product launch date, yet she felt confident that her team could pull it off with a little more time and resources.	3
+37	0	1	4	3	2	9	2	5	0	5	0	1	3	1	4	1	1	5.0	2	19	If the weather remains calm, and the moon appears full, and it's not obscured by clouds, the hunters hope to capture a clear image of the forest with their camera traps tonight.	3
+39	1	1	3	5	2	8	3	5	0	5	0	1	1	2	2	3	0	5.0	2	15	The coach will advise you to wear layers in the cold conditions, not to stop and warm up by the fire until the interval, and for you to eat your energy bars regularly throughout the race.	3
+28	2	2	2	1	1	4	4	2	0	3	0	3	3	0	3	3	2	5.0	2	20	If she could understand the nuances of these ancient texts and if he were willing to share his interpretations, then they might discover new insights together.	3
+36	1	1	4	3	3	8	2	4	0	6	0	0	3	2	0	5	1	6.0	3	10	Before setting out on the expedition, let us gather supplies, load the raft, and consult the map and our weather report in order to make the safest and most efficient journey possible.	3
+34	1	2	4	2	1	6	4	3	1	5	0	0	4	3	4	2	0	7.0	3	9	Despite her exhaustion, Maria chose to continue her long walk home, while the rain grew stronger and the darkness increased, until she reached the shelter of her own front door.	3
+49	2	4	4	3	3	10	6	4	0	6	0	3	3	3	4	5	0	5.0	3	30	Should you bring up your concerns about the project scope, even though it might cause tension and possibly jeopardize our team harmony, and despite the potential discomfort, it's essential for ensuring the project's success and for addressing any potential issues before they escalate.	3
+33	5	1	3	0	5	4	5	0	0	5	0	1	4	0	3	2	3	7.0	3	26	If she speaks loudly and uses strong language when she is angry, but usually remains quite reserved and polite, both her husband and their children often find her behavior contradictory.	3
+44	3	4	3	3	2	6	6	2	1	8	0	4	1	1	4	3	4	6.0	5	30	Although Michael had forgotten about the document, because it wasn't considered urgent and he was focused on finishing his project, only after receiving the reminder email from HR did he realize its importance and begin working on it right away.	3
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 1.	3
+39	3	2	4	3	2	9	5	2	0	3	0	3	2	0	4	2	2	4.0	2	35	If we failed in our due diligence checks and granted this contract, even though our CEO wanted this deal, and it wasn't fully compliant with company regulations, then our reputation would be at risk.	3
+62	2	2	6	4	3	14	5	4	0	11	0	3	6	5	5	5	1	11.0	6	14	Before you can sell any product effectively, understand that customer behavior varies, and depending on their personality, you may need to tailor different selling strategies for each type, and to make sure you're using the appropriate techniques for each, research what motivates various buying decisions and how different communication styles interact with various personality types.	3
+49	4	1	5	2	2	10	0	2	3	4	1	5	3	0	2	1	2	6.0	2	33	If the board members weren't so eager to expand globally, or hadn't made the acquisition without sufficient due diligence, or hadn't relied too heavily on Enron's assurances, Dab olive oil would not have become Enron's multibillion-dollar investment disaster.	3
+37	4	2	4	1	2	5	2	4	1	6	0	4	1	0	3	3	4	6.0	4	29	If Sarah had brought an umbrella, or even remembered we had rain scheduled that morning, or perhaps checked the forecast before leaving home, maybe we would not have been late for the meeting.	3
+32	1	0	3	2	2	9	1	3	0	3	0	4	3	0	3	2	1	4.0	1	14	Should the financial reports be incomplete, and the accounting errors not be resolved, then stock analysts could lower their ratings for the corporation and cause widespread panic among investors.	3
+38	1	3	4	2	1	9	4	4	0	5	1	3	1	0	4	3	3	4.0	3	31	Before she could decide on a wedding date, after her boyfriend confirmed the location and guest list, if she could save enough money within the following six months, they could finally tie the knot.	3
+42	1	3	3	2	2	6	3	4	0	8	0	6	1	4	5	1	1	5.0	5	13	If the market conditions change, the board of directors may need to intervene, and the project would have to be modified to reflect those new conditions while we are still working on it and once it has been completed.	3
+29	4	1	3	2	2	7	4	0	0	3	0	1	2	0	2	2	1	4.0	1	19	If she completed her tasks at school promptly, and maintained high academic standards, then perhaps her college applications would reflect positively on her commitment and dedication.	3
+44	2	1	4	5	2	6	6	3	0	5	0	6	3	3	4	2	1	4.0	4	25	Before I send this report to you, make sure all necessary signatures have been obtained, and it has been approved by legal and compliance, only then will I be at liberty to submit it to the shareholders for their consideration.	3
+36	1	3	4	1	2	5	4	3	0	4	0	5	0	0	4	3	1	5.0	1	28	If he hadn't finished the test early, or if the bus hadn't broke down, or if his brother hadn't borrowed his car, he wouldn't have missed the interview.	3
+88	5	4	8	8	3	22	6	11	0	10	0	4	5	6	7	7	1	6.0	7	42	Even if this project encounters unexpected obstacles along the way, we will have a contingency plan in place to handle them, and with the right resources and personnel allocated, we can still complete the tasks within the set time frame; nevertheless, if the client requires additional features, we shall consider those requests carefully and make decisions that align with our company objectives, while also keeping in mind that the client’s approval is crucial in the success of the project.	3
+28	0	1	2	0	2	6	2	6	0	4	0	2	2	1	4	4	0	3.0	1	21	Should we accept the proposal if the board approves it and the lawyers clear all ethical considerations, and the auditors don't have any major objections?.	3
+39	4	1	4	1	1	9	3	2	0	6	0	5	1	1	4	1	1	4.0	2	22	Should the market trends continue downwards, or if the investors lose trust in our proposed investment vehicle, then our projected returns may not be achievable, hence our funding plan might have to be reassessed accordingly.	3
+39	1	2	4	4	1	8	2	5	0	7	0	2	3	4	3	4	1	5.0	5	15	While the document awaits final approval, we should consider editing the language for readability, ensuring all financial information is reconciled accurately, and clarifying any vague directives before sending it on to the board for approval.	3
+32	1	1	4	1	2	6	1	4	0	4	0	3	3	0	4	1	2	6.0	2	24	If the rain didn’t stop, and the ground remained wet, and the workers were unable to dig in the soft soil, then our project would suffer delays.	3
+47	4	4	5	2	2	5	5	5	0	4	0	5	3	1	4	3	2	6.0	3	40	Despite his enthusiasm for the project, if he didn't receive the necessary funds, and even if he could find all the required talent, and regardless of whether the project was technically sound, he still wouldn't be able to start it.	4
+39	4	3	4	2	1	6	5	4	0	5	0	3	1	2	5	2	1	5.0	3	10	Although the cake hadn't risen properly, regardless of this, everyone gathered around expectantly for the birthday celebration, but I wondered whether I should delay the cutting ceremony until I could find a suitable replacement.	4
+34	1	3	4	1	3	5	5	2	0	6	0	2	2	3	4	3	1	5.0	4	12	Before she takes her first bite, I'd suggest considering both the texture and taste, and after she finishes, reflecting on how the dish may inspire new creativity within her.	4
+31	2	2	4	2	0	7	3	2	0	6	0	1	2	3	3	2	2	4.0	5	13	Even if the market fluctuates significantly tomorrow, depending on external factors, our team remains focused on achieving optimal profits for our clients, should the conditions warrant it.	4
+42	3	1	4	1	1	7	8	0	0	8	0	4	4	4	6	3	1	6.0	5	12	Although she can play multiple musical instruments, she feels her guitar skills are still improving, yet her fans eagerly anticipate her new songs that may be composed, meanwhile she considers collaborating with various artists to expand her horizons.	4
+33	1	1	4	2	3	4	5	1	0	5	0	3	3	0	4	2	2	4.0	2	25	If we manage to collect enough evidence, and it is conclusive, and it proves his guilt beyond a reasonable doubt, then he will be charged and brought to trial.	4
+44	4	2	4	2	1	7	8	3	0	7	0	3	2	3	5	4	1	6.0	4	21	After she finished the presentation, the panel asked her several questions about her findings, yet she was completely flustered and stumbled on her words, therefore she decided it would be best to leave the room until her composure came back.	4
+32	3	0	5	4	1	6	1	4	0	5	0	0	3	2	3	3	0	5.0	2	15	After sunset, the sky changes hue from red to black, and when the wind picks up, it creates a shivering sensation, making the night even more enchanting.	4
+48	3	4	5	2	2	8	7	3	0	9	0	3	1	5	5	4	1	7.0	6	15	After completing his studies, he would like his parents to consider letting him work abroad for a while, yet he recognizes that it will require a great deal of persuasion, so long as the family business is struggling, and if his siblings agree.	4
+47	4	3	3	3	3	10	5	3	0	6	0	4	3	3	5	5	1	5.0	4	20	Also while studying algebra I found that solving complex formulas is similar to solving puzzles, but before I can solve puzzles correctly I must understand the rules and conditions, similarly I must first familiarize myself with the rules and structures of the algebraic system.	4
+47	2	4	5	5	0	10	4	4	0	6	0	3	4	3	4	4	2	4.0	5	17	Before I could complete my presentation, however if the audience showed any sign of restlessness, I would add a few interactive activities, moreover as per feedback received from previous sessions, I would conclude by providing a summary slide along with key takeaways.	4
+37	2	1	6	3	2	6	5	1	0	5	0	1	3	1	3	3	1	5.0	2	17	Even though she wasn't confident in her artistic abilities, she took lessons, learned new skills, and practiced daily, and as a result, she began to receive recognition for her work.	4
+31	3	1	5	2	2	5	3	3	0	3	0	1	3	0	4	2	0	3.0	0	21	Although I enjoy hiking, but sometimes the paths are steep, after a long day, and it rains, so I take long drives in the countryside instead.	4
+37	2	3	5	3	1	7	4	4	0	4	0	3	1	2	4	1	1	4.0	3	22	Before leaving the conference hall, we must check if all the appliances are switched off, since the electricity bills are surprisingly high, and also, my father insists on it for our safety.	4
+44	2	2	5	1	3	11	6	2	0	9	0	2	1	4	6	5	2	6.0	6	23	Although he enjoys playing football, he would rather swim when the weather is warm; yet his coach insists he practice every day; and after training sessions, his mother makes him do homework before watching TV or playing video games.	4
+38	3	4	5	0	1	2	7	1	0	8	0	2	2	6	7	2	1	7.0	7	9	Although he was tired, he continued to work, but he made mistakes as the deadline approached, so he had to start over, while she urged him to finish before it was too late.	4
+53	7	3	6	2	1	7	4	4	0	9	0	4	4	8	4	3	0	9.0	8	10	Even after the project's completion, he continued to examine its details carefully, considering how he could have improved its design, despite feeling somewhat proud of the final outcome, but also worrying that perhaps some errors had gone unnoticed, yet believing that the experience gained was invaluable.	4
+48	7	1	6	7	2	5	8	1	0	3	0	4	3	2	4	1	1	5.0	3	26	Despite her love for animals, yet if I am late for work, still she would wait at the front door for me, and afterwards when I returned home, even more so because of my tardiness, she would be happier to see me.	4
+39	1	4	5	1	1	6	2	6	0	6	0	3	4	1	4	4	4	4.0	5	23	While studying history, if we encounter contradictory documents, although both may appear valid, in making an accurate assessment, we must weigh the credibility of each source and decide which one is the most plausible.	4
+30	2	3	4	1	0	6	4	1	0	6	0	0	3	2	5	4	2	5.0	4	12	Although she initially preferred poetry, once she discovered the art of storytelling, she realized that fiction allowed more creative control, hence she began writing longer works.	4
+26	3	2	2	0	1	3	6	0	0	5	0	3	1	1	3	4	2	4.0	3	13	Even though she had finished her homework early, only after she had eaten dinner would she let herself relax and watch her favorite show.	4
+33	1	1	4	2	2	6	5	2	0	5	0	2	2	1	3	3	2	5.0	3	11	If she manages to finish her project on time, her boss might consider promoting her, and in turn, that might mean a bigger salary and a more prestigious title.	4
+31	5	2	4	1	1	3	3	3	0	4	0	3	1	1	4	1	1	3.0	2	19	Even if it rains, we should still consider going to the picnic, but only if the ground isn't too soggy; otherwise we may damage the quilt.	4
+39	3	1	6	2	2	5	5	4	0	6	0	2	0	2	4	3	1	4.0	3	15	Though she enjoyed the sunshine, yet she couldn't leave her work, moreover, she needed to submit it before the deadline, and finally, the rain was forecasted to come later in the day.	4
+56	3	4	6	3	0	9	3	7	0	9	0	5	3	8	7	5	1	7.0	9	25	Despite the rain having stopped, we couldn't finish the work as the machine needed more time to heat up; however, if the weather cleared up soon, we would be able to resume work, though we might lose the opportunity to paint that day if the ground became too hard.	4
+43	2	2	6	2	2	5	8	2	0	9	0	1	2	5	6	2	1	7.0	6	19	As she studied for her exams, her phone kept ringing incessantly, which caused her to become increasingly anxious, and as a result, her grades suffered, and she grew convinced that she might have to repeat the course.	4
+71	5	5	9	2	3	8	13	2	0	13	0	6	3	8	9	6	0	7.0	8	31	She would read voraciously, if only she found the appropriate book; she believed that her understanding would significantly improve, should she acquire new knowledge; but without guidance, she struggled to discover what to study; and even if she did stumble upon the perfect tome, her concentration would be impaired, unless she first prepared herself by focusing her thoughts and calming her mind.	4
+85	5	4	10	3	4	16	3	10	0	13	0	8	5	5	8	6	1	6.0	6	61	If the proposal is approved, then we can start the project by hiring contractors and procuring materials; but, unless we obtain the necessary permits and clearances, construction cannot begin; furthermore, if the project is not completed within the given timeframe, then additional costs may accumulate and exceed the budget; finally, any deviation from the original design plan must be carefully assessed to ensure it does not compromise the overall structural integrity of the building.	4
+57	3	4	6	3	2	9	7	2	0	11	0	3	4	0	5	6	8	7.0	8	48	If you believe that eating healthy food could potentially lead to losing weight, but fail to exercise, although that would help you achieve the goal much faster, and you continue to order junk food, despite your commitment to a healthy lifestyle, then you might not notice significant changes in your weight.	4
+26	0	3	5	1	0	4	3	3	0	4	0	2	0	0	3	2	2	3.0	2	11	After finishing the homework, if it rains, I will go for a bike ride; if not, I'll visit the library.	4
+50	2	3	9	1	2	6	6	4	0	9	0	3	3	3	5	6	2	4.0	5	30	If you decide to invest, yet haven't the necessary resources, you may consider taking out a loan; or, if you lack sufficient knowledge, you can consult a financial advisor; but, before making a decision, you should evaluate your alternatives carefully.	4
+30	5	4	5	0	0	2	6	1	0	5	0	1	1	1	5	2	4	4.0	5	22	Even though she studied thoroughly, because she was extremely anxious, as soon as the test began, although her heart raced, she found herself forgetting everything.	4
+52	0	3	6	6	2	11	8	4	0	6	0	2	2	3	6	3	1	6.0	4	18	Although the recipe called for the addition of salt, I decided to omit it, because I was on a low-sodium diet, and my doctor suggested that I should not consume it in excess, yet my guests preferred their dishes with a generous pinch of salt.	4
+38	2	2	4	5	0	8	5	4	0	6	0	0	1	0	2	3	4	5.0	4	34	After studying the subject for hours every night, despite her parents urging her to focus on other areas, once she heard a lecture from a visiting professor, then her attitude towards it shifted dramatically.	4
+24	2	2	3	3	1	4	2	2	0	2	0	2	1	1	3	0	0	4.0	1	7	Before she would read, if the light was too dim, but now she listens to an audiobook with headphones at night.	4
+40	5	3	6	0	1	2	10	0	0	8	0	2	2	5	5	5	1	6.0	6	19	After hearing her voice, I realized I had met her before, and, although I had initially found her somewhat offputting, I began to understand her mannerisms, also realizing that I found her strangely endearing.	4
+29	3	3	3	2	1	3	4	2	0	5	0	2	0	1	4	0	3	4.0	4	17	Even if he wanted to leave early, and despite the fact that the meeting had already started, she insisted that he should wait until her arrival.	4
+26	0	2	3	0	3	5	1	2	0	5	0	1	3	1	2	3	1	5.0	2	13	Before opening the store, and once the necessary permits were granted, we had to find reliable suppliers and ensure proper inventory and pricing.	4
+46	1	3	4	2	2	10	4	7	0	9	0	1	1	5	4	6	1	5.0	6	27	After finishing a marathon run, I usually take a bath to recover, but before I can take the bath I need to prepare the water, and after adding the bath salts I relax in the soothing water enjoying the sense of relief.	4
+54	6	4	6	2	1	6	8	3	0	8	0	4	4	5	6	5	2	5.0	7	29	Although it might still be challenging, because she's still learning the technique, for her, painting seems to open up a whole new world and even though it often takes hours to complete a single piece, if she continues improving, she could potentially make it her career someday.	4
+47	0	3	4	3	3	7	6	3	0	6	1	4	5	1	4	4	4	6.0	5	35	Before he could start his research, though it required significant funding and extensive permissions, and if granted he might be able to explore some new theories, and as a condition of this collaboration he had agreed to mentor one of their junior professors.	4
+36	2	1	5	3	1	8	5	3	0	6	0	0	1	1	1	5	1	4.0	2	20	Before starting my work in the office, I need to check my emails, get instructions from my boss, prepare the necessary documents, and only then begin my tasks for the day.	4
+26	3	3	4	0	0	2	3	2	0	2	0	5	2	0	4	1	3	3.0	3	18	Though the traffic was bad, because I was late, if I had left earlier, then perhaps I could have avoided the accident.	4
+46	3	2	6	5	1	7	8	4	0	8	0	1	0	5	6	3	1	8.0	6	17	After she finished her degree, she decided to pursue a career, whenever she got the chance, in research, although she was initially intimidated by the amount of data, yet she quickly became fascinated by the patterns she discovered within it.	4
+54	2	4	7	2	1	8	9	4	0	8	0	4	4	4	6	5	1	7.0	5	24	After completing his report, he realized that he had made a mistake in his calculations; if he had double-checked his figures earlier, he could have prevented a costly mistake; yet his deadline was imminent, so he had no choice but to proceed with the flawed information.	4
+42	2	2	4	2	3	7	2	3	0	5	0	3	6	1	2	4	3	5.0	4	27	Though I may not have much time to cook complex meals, yet if given the chance, and provided with proper tools and instructions, then surely I would be able to create an impressive dish for a special occasion.	4
+28	3	2	4	1	2	4	3	3	0	4	0	2	0	0	4	2	2	6.0	2	21	If you have the time, and should the opportunity arise, and as long as the conditions allow, I will gladly join you for dinner.	4
+37	2	4	4	1	0	6	6	4	0	6	0	1	1	5	5	4	1	8.0	6	8	While she waited for the elevator, she thought about how the weather affects her moods, although she was unable to explain it, until she finally heard the beep indicating the elevator's arrival.	4
+31	3	1	4	2	1	3	6	2	0	6	0	1	1	1	4	2	4	5.0	5	24	Though he struggled with the concept, yet believing it was crucial to his research, therefore diligently attempting every method he knew, finally he managed to grasp it.	4
+52	4	2	6	1	2	9	9	2	0	9	0	3	1	6	7	5	1	6.0	7	20	Though she enjoyed painting portraits more, she couldn't resist the urge to craft landscapes, and yet despite her talent she often felt discouraged when her artwork didn't sell, while her father, who didn't understand her passion, insisted she find a more profitable endeavor.	4

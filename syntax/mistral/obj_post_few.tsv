@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+6	0	0	2	1	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	It's raining heavily overnight.	0
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun sets over the calm sea.	0
+9	0	2	0	0	0	0	2	0	1	1	2	0	1	2.0	3	0	0	1	0	0	0	1	In Paris, they painted in impressionist style.	0
+8	0	0	1	1	0	0	1	0	0	1	1	0	2	3.0	2	1	1	1	0	0	0	1	Mozart's symphonies have become renowned worldwide.	0
+12	1	0	0	1	0	1	1	0	3	0	1	1	3	4.0	3	2	2	2	2	0	2	2	I'll let you know if I find a suitable location.	0
+10	0	1	1	0	0	2	1	0	0	3	1	0	1	2.0	5	0	0	1	0	0	0	1	The Mona Lisa hung quietly in the Louvre gallery.	0
+8	0	0	0	0	1	2	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	Snow covered the trees and the rooftops.	0
+8	0	1	0	1	0	2	3	0	0	0	1	0	0	2.0	3	0	0	1	0	0	0	1	The painting is a masterpiece of art.	0
+5	1	0	0	0	0	0	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	She has blue eyes.	0
+8	0	1	0	1	0	1	3	0	1	0	1	0	0	2.0	3	0	0	1	0	0	0	1	You're an expert in programming languages.	0
+9	1	0	0	1	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The company has launched a new product line.	0
+7	0	1	1	0	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Snowflakes gently descend from the sky.	0
+9	2	0	0	1	1	1	1	0	0	0	2	0	1	2.0	2	0	0	1	0	0	0	1	"  ""The new manager is skilled and experienced."	0
+9	0	2	1	0	0	1	2	0	1	0	1	0	1	2.0	6	0	0	1	0	0	0	1	She sings beautifully in harmony with the birds.	0
+9	0	1	0	0	0	2	2	0	0	0	1	0	2	3.0	3	1	1	1	0	0	0	1	The sun begins to set over the ocean.	0
+11	0	1	0	1	0	1	2	0	2	0	1	0	2	3.0	5	1	1	1	1	0	1	1	I'm waiting for your turn to play a card.	0
+8	1	0	0	1	0	0	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	Your sentence should not contain postverbal objects.	0
+9	1	0	0	1	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The company is considering a new product launch.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	A cat quietly purrs in the corner.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rose above the mountain.	0
+10	0	1	0	1	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	You should bring a map on a mountain hike.	0
+8	0	1	0	1	0	0	4	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	Solar panels are used in space technology.	0
+9	1	1	0	1	0	2	3	0	0	0	1	0	0	2.0	4	0	0	1	0	0	0	1	Every day is a new opportunity for success.	0
+7	1	0	0	0	0	0	2	0	2	0	1	0	1	2.0	3	0	0	1	1	0	1	1	Your pet needs its regular vaccinations.	0
+10	0	2	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The students all handed in their assignments during class.	0
+10	0	2	0	0	0	1	5	0	0	0	1	0	1	2.0	7	0	0	1	1	0	1	1	Squirrels hide nuts under tree roots for the winter.	0
+10	0	2	0	0	0	3	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	0	1	An elephant stood in the middle of the jungle.	0
+11	2	2	0	1	0	1	1	0	2	0	1	0	1	4.0	4	1	1	1	0	0	0	1	I'm curious about what lies beyond this unexplored territory.	0
+13	1	0	0	0	0	0	4	0	2	0	1	1	3	4.0	5	2	2	1	2	0	2	1	We aim to reduce our carbon footprint by using renewable energy sources.	0
+7	0	1	0	0	0	1	3	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The monarch butterfly migrates across continents.	0
+8	1	0	0	0	0	1	3	0	1	0	1	0	1	2.0	4	0	0	1	1	0	1	1	The company announced their latest partnership yesterday.	0
+13	0	3	0	0	0	2	2	0	1	3	1	0	1	3.0	7	0	0	1	0	0	0	1	You asked about the goal for North Vietnam in the Tet offensive.	0
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun was shining brightly in the sky.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun slowly sets behind the horizon.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun set behind the mountains.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	A cat sat silently on the mat.	0
+15	1	2	0	0	0	2	4	1	2	0	2	0	1	3.0	6	0	0	1	1	0	1	1	Six hours into our hike, we encountered an unexpected fork in the trail.	0
+8	0	0	1	0	0	2	3	0	0	0	1	0	1	2.0	2	0	0	1	1	0	1	1	The city council unanimously approved the motion.	0
+9	0	1	1	0	0	0	3	0	1	0	1	0	2	3.0	5	1	1	1	1	0	1	1	She loves reading mystery novels late at night.	0
+9	2	0	0	0	1	1	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The painting depicts vibrant colors and unique shapes.	0
+10	1	2	0	0	0	1	1	0	1	2	1	0	1	3.0	3	0	0	1	0	0	0	1	The United States decided on its policy towards Israel.	0
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	0	1	The sun sets slowly over the distant hills.	0
+9	0	1	1	1	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The baby is sleeping peacefully in its crib.	0
+9	1	1	0	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The crowd watched the performer with rapt attention.	0
+9	1	1	0	0	0	2	3	0	0	0	1	0	1	3.0	3	0	0	1	1	0	1	1	The price of gold reached a historic high.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rose above the mountains.	0
+10	1	1	1	0	0	0	4	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	We use renewable energy sources instead of fossil fuels.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	A cat sat comfortably on the mat.	0
+8	0	0	0	0	0	2	2	0	1	1	1	0	1	3.0	4	0	0	1	1	0	1	1	We celebrate this holiday each December 1st.	0
+9	0	1	0	0	0	2	3	0	0	0	1	0	2	3.0	4	1	1	1	0	0	0	1	The sun began rising over the mountain range.	0
+23	0	2	1	1	0	4	5	0	1	0	2	2	4	5.0	14	3	1	2	2	2	2	2	In the event that the contractor fails to complete the project on time, he must pay the penalty as previously agreed.	1
+13	0	3	0	0	0	1	3	0	2	1	2	0	1	3.0	6	0	0	1	1	0	1	1	Before her divorce, Sarah donated all of her belongings to charity.	1
+25	1	2	0	0	0	5	6	2	1	0	3	1	3	5.0	20	2	2	2	3	0	3	2	I found two wallets under the chair in the library, one containing a driver's license, while the other had a passport.	1
+15	1	3	0	0	0	3	6	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The sales team presented the proposal to the investors despite objections to certain clauses.	1
+18	1	1	1	0	1	3	5	0	1	0	2	0	3	4.0	8	1	1	1	2	0	2	1	The dog growled and then sank its teeth into the bicycle tire, leaving a perfect puncture.	1
+20	1	3	0	0	0	2	5	0	2	0	2	1	3	5.0	7	1	1	1	0	0	0	1	Despite his knowledge of the law, the suspect remained indifferent towards paying for his damaged neighbor's fence.	1
+13	1	2	0	0	0	3	4	0	1	0	1	0	1	3.0	9	0	0	1	1	0	1	1	The students watched the eclipse of the sun through their solar glasses.	1
+15	2	1	0	0	0	3	4	0	1	0	1	0	2	4.0	5	1	1	1	2	0	2	1	The teacher assigned us an additional book to read for the upcoming literature exam.	1
+15	1	3	1	0	0	1	4	0	2	0	2	0	1	3.0	7	0	0	1	1	0	1	1	Despite his reservations, he reluctantly accepted the job offer due to financial needs.	1
+13	0	1	0	0	1	2	3	0	0	2	1	0	2	4.0	5	0	0	1	1	0	1	1	Aunt Margaret collected the mail and left for a doctor's appointment.	1
+24	1	3	1	2	0	4	7	0	0	1	2	1	2	4.0	13	2	0	2	0	2	0	2	While the CEO was absent from the meeting, the decision regarding merger with XYZ plc was taken unanimously by the board members.	1
+15	0	3	0	0	0	2	5	0	1	0	1	1	2	3.0	8	1	1	1	0	0	0	1	She asked for directions to the post office while waiting at the bus stop.	1
+12	0	0	2	0	0	1	3	0	2	0	1	1	2	2.0	6	1	1	1	2	0	2	1	The teacher corrected our math papers quietly before handing them back.	1
+16	0	1	1	0	0	1	3	0	4	0	2	1	3	3.0	5	2	1	3	1	1	1	3	When he arrived, the train conductor requested that he show his ticket to her.	1
+19	1	2	0	0	0	3	6	1	0	0	2	0	3	3.0	14	1	1	1	2	0	2	1	The sales manager requested two more days to finalize the budget proposal, along with a revised deadline.	1
+12	0	1	0	0	0	2	3	0	1	0	2	0	2	3.0	4	1	1	1	1	0	1	1	Under his direction, the troops prepared to storm the fortress.	1
+14	0	2	0	0	0	1	3	0	3	0	2	0	2	3.0	5	1	1	1	1	0	1	1	Despite her exhaustion, she managed to complete all her assignments on time.	1
+13	2	2	0	0	0	2	3	0	1	0	2	0	1	4.0	3	0	0	0	0	0	0	0	Underneath the table, there is a bag full of ripe oranges.	1
+12	1	1	0	0	0	3	3	0	0	0	1	1	2	3.0	5	1	1	1	1	0	1	1	The children sang the national anthem before departing for the excursion.	1
+29	2	4	0	3	0	1	9	0	3	0	3	1	3	5.0	16	2	1	2	1	1	1	2	The CEOs of major tech firms, who have pledged billions towards climate change, have been accused of contributing to its profits through their own business strategies.	1
+10	0	1	0	0	1	1	5	0	0	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The chef serves roast chicken with herbs and vegetables.	1
+19	2	1	0	0	1	1	3	0	4	0	2	1	4	4.0	6	2	1	3	2	1	2	3	After he graduated, his parents gave him a small inheritance but insisted he travel to new places.	1
+19	3	2	0	4	0	2	3	0	0	0	2	1	2	3.0	7	1	1	2	0	0	0	2	Due to the high demand, additional tickets will be sold after the original ones have been distributed.	1
+27	0	3	0	0	2	3	7	0	4	0	3	1	4	6.0	6	2	1	3	1	1	1	3	After he finished his speech, the audience erupted into applause and cheers, a sound that traveled throughout the hall and echoed outside its walls.	1
+17	3	2	1	1	0	2	3	0	0	0	2	1	2	3.0	9	1	0	1	0	1	0	1	Despite being warned about a strong current, several divers still plunged in the perilous river.	1
+17	2	1	1	0	1	3	3	0	2	0	2	0	2	3.0	5	0	0	1	2	0	2	1	Despite his warnings, they all ignored the potential danger and gambled the entire night away.	1
+11	2	1	0	0	0	1	5	0	0	0	1	0	1	5.0	5	0	0	1	1	0	1	1	The professor recommended several texts for advanced level linguistics students.	1
+13	1	2	0	0	0	2	3	0	2	0	2	0	1	3.0	3	0	0	1	1	0	1	1	In the morning, she makes a delicious breakfast for her family.	1
+16	1	0	0	1	0	1	4	0	2	0	2	1	3	3.0	7	2	1	1	2	1	2	1	After losing his keys, my uncle was forced to buy a new door lock.	1
+18	0	1	2	0	0	3	3	0	1	0	2	1	4	4.0	11	2	2	1	3	0	3	1	I need to check the documentation before approving the contract, as well as review the financials.	1
+17	1	3	1	0	1	1	5	0	1	0	1	0	3	4.0	13	1	1	1	1	0	1	1	He prefers watching the game at home with hot wings and beers instead of crowded stadiums.	1
+22	2	2	2	1	0	2	4	0	3	0	3	0	3	5.0	5	2	2	2	1	0	1	2	Despite my warning them, the children continued playing near the pond, where I had spotted several poisonous snakes earlier.	1
+25	3	2	3	1	0	4	5	0	1	0	2	1	3	6.0	5	2	1	3	0	1	0	3	Although the rain had subsided, the streets still echoed with the thunderous sound of torrential downpours that occurred only a few hours ago.	1
+16	0	2	1	1	1	1	2	0	3	0	2	0	2	3.0	9	0	0	1	2	0	2	1	He couldn't afford the repair of his car and hence, sold it off.	1
+14	1	2	1	1	0	2	3	0	1	0	2	0	1	3.0	9	0	0	1	0	0	0	1	Apart from my sister, the whole family is coming for the reunion.	1
+15	1	2	0	0	0	2	2	0	1	0	2	1	3	3.0	5	2	1	1	1	1	1	1	Before going to bed, she remembered to turn off all the electric appliances.	1
+16	2	1	1	0	0	2	3	0	1	0	2	1	3	3.0	9	1	0	1	1	1	1	1	Despite having all the required resources, many children still go hungry in our city.	1
+16	0	1	0	0	1	1	4	0	1	1	2	1	3	4.0	5	2	1	2	2	1	2	2	Although John knew the rules, he continued to play poker with relish and defiance.	1
+14	1	1	0	0	0	1	2	0	2	0	2	1	3	3.0	6	2	1	1	1	1	1	1	While preparing for the competition, she forgot to pack her best outfit.	1
+14	2	2	1	0	0	3	4	0	0	0	1	0	1	3.0	9	0	0	1	1	0	1	1	The children eagerly collected a diverse array of seashells along the sandy shoreline.	1
+13	0	1	0	0	1	2	5	0	0	0	3	0	1	3.0	9	0	0	1	1	0	1	1	The chef added thyme, rosemary, and parsley to the stew.	1
+13	0	0	0	0	0	0	4	1	2	0	1	1	3	3.0	4	2	2	1	3	0	3	1	My boss requires me to type 150 emails before leaving work today.	1
+16	0	2	0	1	0	2	4	0	1	1	2	1	2	3.0	7	1	0	1	2	1	2	1	After finishing the presentation, Sarah was handed a bouquet of roses by her team.	1
+19	2	3	0	0	0	3	5	0	1	0	3	0	2	6.0	4	1	1	1	1	0	1	1	After the meal, we enjoyed dessert: a delicious cheesecake flavored with a hint of orange zest.	1
+28	4	1	2	1	2	3	7	0	1	0	4	1	2	6.0	10	2	2	2	1	0	1	2	The new app offers features that are both useful and user friendly: a calendar, alarms, and an extensive library of podcasts for downloading offline.	1
+14	0	1	0	0	0	3	5	1	1	0	1	0	2	5.0	3	1	1	2	2	0	2	2	The CEO announced a reorganization plan that includes the elimination of six departments.	1
+17	2	1	0	1	0	2	5	1	1	0	1	0	2	3.0	8	1	1	1	2	0	2	1	The new manager has asked employees to submit their leave requests in the upcoming 2 months.	1
+19	1	3	0	0	0	2	4	1	1	1	3	0	2	4.0	10	1	1	1	1	0	1	1	Despite her illness, Mary managed to type out a 10-page manuscript in a single day.	1
+18	0	4	0	0	0	2	5	0	1	2	2	0	2	4.0	5	1	1	1	1	0	1	1	Despite the rain, dozens of vendors continue selling their wares in front of the Victoria Memorial.	1
+12	1	0	1	0	0	2	2	1	1	0	2	0	2	3.0	5	1	0	2	2	1	2	2	When the clock struck twelve, everyone present made a wish.	1
+13	0	1	2	1	0	0	3	0	3	0	1	1	1	3.0	6	1	1	2	1	0	1	2	Her neighbor often waters her plants while she's away on vacation.	2
+22	1	3	0	0	1	2	4	0	4	0	2	1	4	4.0	9	2	2	3	2	0	2	3	My friend suggested I join a cooking class, and I signed up for it along with purchasing the necessary utensils.	2
+28	1	7	0	0	1	3	10	0	1	0	2	0	3	4.0	10	0	0	1	1	0	1	1	After hours of careful negotiation, trade representatives from both countries agreed on a deal and signed it into law in front of a packed assembly hall.	2
+13	0	0	0	0	1	3	5	0	1	0	1	0	2	5.0	3	1	1	1	2	0	2	1	The artist painted the sun setting and the lake reflecting its colors.	2
+17	0	2	0	0	1	3	5	0	2	0	1	0	2	3.0	9	0	0	1	2	0	2	1	She baked a cake for her brother's birthday and shared the treats with the neighbors.	2
+19	0	3	0	0	1	2	4	0	3	0	2	1	3	4.0	5	1	1	1	2	0	2	1	In the evening, she put on her coat and picked up her keys before leaving the house.	2
+21	3	1	1	0	1	2	4	0	2	0	1	0	4	4.0	10	2	2	2	2	0	2	2	My colleague accidentally sent the wrong email to the entire company and I need to call several people to apologize.	2
+11	1	1	0	0	1	0	4	0	2	0	1	0	1	4.0	7	0	0	1	0	0	0	1	Her neighbors complained about her loud radio and barking dog.	2
+19	1	4	0	0	1	3	6	0	2	0	1	0	1	4.0	16	0	0	1	1	0	1	1	He requested a glass of water and a change of clothes from his butler after a long day.	2
+16	0	2	0	0	1	3	4	0	2	0	1	0	2	5.0	9	1	1	1	2	0	2	1	He asked the chef to prepare steak and a salad for him at the restaurant.	2
+17	1	0	0	0	1	2	4	0	2	1	2	0	3	5.0	4	2	2	2	2	0	2	2	Last Friday, the manager dismissed both the employees who failed to meet their sales targets.	2
+22	3	3	0	0	1	5	6	0	0	0	2	0	2	4.0	11	1	1	1	1	0	1	1	The artist painted the landscape with vivid colors and a large sun, reflecting onto the still waters of the lake.	2
+18	3	2	1	0	2	4	3	0	1	0	1	0	1	4.0	12	0	0	1	1	0	1	1	I found both the old and the new bookmarks in the hidden drawer next to the computer.	2
+18	1	1	2	0	1	2	4	1	1	0	1	1	2	4.0	9	1	1	1	2	0	2	1	She asked the waiter to serve two beverages and dessert at the table as soon as possible.	2
+13	0	0	0	1	1	2	4	0	1	0	1	1	2	3.0	6	1	1	2	2	0	2	2	The children were handed balloons and sweets as they left the party.	2
+11	0	0	2	0	1	0	3	0	2	0	1	0	2	2.0	4	0	0	1	2	0	2	1	My neighbor often waters her garden and plants flowers afterwards.	2
+15	1	2	0	0	1	3	5	0	0	0	1	0	2	3.0	8	0	0	1	2	0	2	1	The students sang songs and played drums in the schoolyard during the annual festival.	2
+13	0	1	1	0	0	3	4	0	0	0	1	1	2	3.0	7	1	1	1	1	0	1	1	The customer complained loudly about the product defects before discarding the item.	2
+18	1	4	0	0	1	3	5	0	0	0	1	0	3	4.0	5	0	0	1	1	0	1	1	The manager apologized for the mistake and promised immediate action along with reimbursement for the damaged goods.	2
+14	1	1	1	0	1	4	4	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The detective discovered a fingerprint on the cup and a suspicious letter nearby.	2
+17	0	3	0	0	1	2	5	0	2	1	1	0	1	3.0	9	0	0	1	1	0	1	1	John's friends presented him with a tie and a mug as gifts for his birthday.	2
+15	1	2	0	0	1	2	6	0	1	0	1	0	1	3.0	11	0	0	1	1	0	1	1	The artist applied charcoal shades to his drawing and watercolors to the same canvas.	2
+22	1	4	1	1	1	1	5	0	5	0	1	0	2	4.0	10	0	0	2	1	0	1	2	My colleagues praised me sincerely for my hard work and I was presented with a plaque in recognition of my achievements.	2
+14	0	2	1	0	1	1	4	0	0	0	1	1	3	4.0	4	1	1	1	1	0	1	1	The children played tag and hid behind trees before going home for dinner.	2
+18	0	2	0	0	1	5	6	0	0	0	1	0	2	5.0	7	0	0	1	1	0	1	1	The detective found the fingerprints on the vase and the stolen jewels in the suspect's pockets.	2
+22	2	3	0	0	0	1	5	0	6	0	2	1	2	3.0	8	1	1	2	2	0	2	2	During a tense negotiation session, I presented my proposals to him while his advisors discussed their own strategies behind him.	2
+15	2	1	0	0	1	4	5	0	0	0	1	0	1	4.0	5	0	0	1	2	0	2	1	The cook served the guests a hot meal and a glass of red wine.	2
+12	0	1	0	0	0	2	3	1	1	0	1	1	2	3.0	5	1	1	1	2	0	2	1	The teacher assigned us two projects before leaving for the weekend.	2
+21	1	2	0	0	2	4	7	0	0	0	1	0	3	4.0	8	1	1	1	3	0	3	1	The artist drew intricate designs on the walls and left the brushes and paints for visitors to continue the mural.	2
+18	2	2	1	0	0	2	5	0	1	0	1	1	3	3.0	12	1	1	1	2	0	2	1	The children drew intricate patterns with their fingers in the newly fallen snow while sipping hot chocolate.	2
+15	0	2	0	0	1	4	5	0	1	0	1	0	1	4.0	6	0	0	1	1	0	1	1	The CEO presented the award to the employee and a check to her assistant.	2
+21	2	1	0	0	2	3	6	0	0	0	2	1	3	5.0	5	1	1	1	2	0	2	1	The company's CEO met with the investor and discussed potential strategies, before sharing the financial reports and projections.	2
+14	1	1	0	0	1	3	3	0	1	0	2	0	2	3.0	5	0	0	1	2	0	2	1	The caterpillar ate a leaf, and spun a silky cocoon around itself.	2
+11	0	1	0	0	1	1	5	0	1	0	1	0	1	3.0	5	0	0	1	2	0	2	1	The chef served us steaminghot noodles with vegetables and chicken.	2
+14	2	1	0	0	1	2	4	1	1	0	1	0	1	3.0	10	0	0	1	2	0	2	1	The chef served us three delicious courses and a sweet appetizer after dessert.	2
+15	0	2	0	0	1	3	5	0	2	0	1	0	1	4.0	11	0	0	1	2	0	2	1	Her sister gifted her a scarf and a pair of gloves for the winter.	2
+12	2	0	1	0	1	1	3	1	0	0	1	0	2	3.0	6	0	0	1	2	0	2	1	Two workers painted the fence red and then added decorative trim.	2
+15	2	0	0	0	1	2	6	0	0	0	1	1	2	3.0	7	1	1	1	2	0	2	1	The sales team provided detailed reports and valuable suggestions after analyzing the customer data.	2
+22	2	3	0	0	1	4	6	0	1	0	1	1	3	5.0	7	1	1	1	3	0	3	1	The artist drew a series of abstract figures and hung them on the walls before painting intricate details on each canvas.	2
+12	0	1	0	1	1	2	4	0	1	0	1	0	1	3.0	8	0	0	1	1	0	1	1	You'll find both apples and bananas in the fruit basket.	2
+16	1	2	1	0	0	2	4	0	2	0	1	1	2	4.0	6	1	1	1	2	0	2	1	The children sang the national anthem proudly while holding their flags in front of them.	2
+16	2	3	0	0	0	2	6	1	0	0	1	0	1	5.0	4	0	0	1	1	0	1	1	The company issued a warning about defective batteries in two different models of laptop computers.	2
+16	0	2	0	1	1	3	5	0	2	0	1	0	1	4.0	5	0	0	1	1	0	1	1	The child was handed a toy by her mother and a cookie by her sister.	2
+13	0	1	1	1	1	2	4	0	0	0	1	1	1	3.0	9	1	1	2	1	0	1	2	The children picked up toys and balls after the party was over.	2
+16	2	1	0	0	1	1	5	0	1	1	2	0	2	3.0	6	0	0	1	2	0	2	1	Last week, the children sang songs and decorated Christmas cookies for their elderly neighbors.	2
+13	2	1	0	0	0	2	5	0	1	0	1	0	1	2.0	9	0	0	1	2	0	2	1	The coach assigned us additional reading materials before the upcoming economics exam.	2
+14	1	2	1	1	0	2	2	0	1	0	1	1	2	2.0	7	1	1	2	1	0	1	2	The children were throwing snowballs at each other while we looked on happily.	2
+15	0	2	2	0	1	0	5	0	2	0	1	0	2	3.0	8	0	0	1	2	0	2	1	I often drink tea and eat biscuits during my study sessions late at night.	2
+15	0	2	0	0	1	1	4	0	2	0	1	0	3	4.0	7	1	1	1	2	0	2	1	She baked cookies for the bake sale and forgot to bring them to school.	2
+15	1	1	2	0	1	2	4	0	1	0	1	0	2	3.0	11	0	0	1	2	0	2	1	The baker served us freshly baked croissants and warm baguettes straight from the oven.	2
+18	0	2	0	0	1	4	7	0	0	0	3	0	1	4.0	6	0	0	1	1	0	1	1	The baker decorates the cake with candles, icing, and a picture of the birthday boy.	3
+16	0	1	0	0	1	3	5	0	2	0	3	0	1	4.0	7	0	0	0	2	0	2	0	Give your cat a scratch behind its ears, a treat, and a compliment.	3
+15	0	1	0	0	1	3	3	0	1	0	3	0	3	3.0	9	0	0	0	3	0	3	0	Ice the cake, add the decorations, and serve it at the party.	3
+17	1	1	0	0	1	3	5	0	1	0	2	0	3	3.0	12	0	0	0	3	0	3	0	Give the keys to your neighbor, pack the last suitcase and call the taxi service.	3
+18	1	2	1	1	0	0	4	0	3	0	2	1	3	4.0	14	2	2	1	2	0	2	1	Avoid mentioning their past misdemeanors as evidence in court, for it may negatively impact your argument.	3
+18	0	0	0	0	1	4	4	0	3	0	3	1	2	3.0	13	1	1	2	3	0	3	2	He handed her the hat, the glove, and the cane as she left the party.	3
+16	0	1	0	0	1	3	7	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The chef garnished the dish with parsley, lemon zest, and a cherry tomato.	3
+18	0	1	0	0	1	2	6	0	1	0	3	0	3	4.0	11	1	1	1	3	0	3	1	He asked the chef to grate nutmeg, mince garlic, and dice onions for the soup.	3
+19	1	1	1	0	1	1	6	1	1	1	4	0	1	3.0	8	0	0	1	2	0	2	1	After the meeting, John promised his team three bonuses, lunch together, and new office equipment.	3
+23	1	1	1	1	1	2	5	0	3	0	2	2	4	3.0	10	2	1	2	3	1	3	2	If you apply oil to it regularly, a wood table will keep its original luster and prevent the wood from cracking.	3
+24	0	3	2	0	1	1	3	1	5	1	2	0	4	4.0	14	1	1	1	4	0	4	1	I need you to translate the document into French, then email it to her boss and also print two copies for me.	3
+21	0	4	0	0	1	4	6	0	2	0	1	0	3	6.0	9	2	2	1	1	0	1	1	He prefers playing the piano in the living room with a mug of tea and a blanket wrapped around him.	3
+16	0	1	0	0	0	2	4	0	3	0	1	1	3	4.0	7	2	2	1	3	0	3	1	He asked his sister to give the letter to his mother before leaving the house.	3
+19	1	1	1	1	0	3	4	0	3	0	2	1	2	4.0	12	1	0	2	2	1	2	2	If you provide all the necessary documents at the immigration office, they will process your paperwork promptly.	3
+15	0	0	0	0	1	4	4	0	1	0	2	0	2	4.0	6	1	1	1	2	0	2	1	The gardener asked me to water the roses, the tomatoes and the cucumbers.	3
+21	0	1	1	0	0	2	5	0	2	0	3	1	5	5.0	8	2	2	1	4	0	4	1	He suggested her to cook dinner, wash the dishes, then clean the living room before going to bed.	3
+28	0	4	0	0	1	2	7	0	5	0	4	0	4	4.0	15	1	1	1	3	0	3	1	During the conference, I need to remind her of our presentation schedule, prepare my notes for each talk, and bring drinks for our colleagues.	3
+20	1	1	0	0	1	2	5	0	2	0	3	1	4	4.0	8	1	1	1	3	0	3	1	They insist on bringing their toys, wearing costumes, and using the red plates for the holiday celebration.	3
+19	0	1	0	0	1	3	4	0	2	0	3	1	3	4.0	14	2	2	1	1	0	1	1	He placed the books, her laptop, and a pen on the table before starting to write.	3
+21	1	1	1	0	1	1	4	0	4	0	3	0	4	4.0	10	1	1	1	4	0	4	1	He asked me to return his keys, pay the electric bill, and buy groceries on my way home.	3
+15	0	1	0	0	1	1	4	0	4	0	3	0	1	3.0	12	0	0	1	1	0	1	1	You forgot your phone, your wallet, and your shoes at the restaurant.	3
+20	0	1	2	0	1	2	2	0	4	0	3	1	4	4.0	10	1	1	2	3	0	3	2	The baby gurgles happily as you bathe it, feeding it with a spoon, and burping it afterwards.	3
+26	3	4	0	0	1	6	7	0	1	0	3	0	1	4.0	16	0	0	0	1	0	1	0	Put the books on the bottom shelf, the glasses in the top right cabinet, and your keys in the bowl by the door.	3
+21	1	3	1	0	1	1	7	2	1	0	2	0	2	4.0	11	0	0	0	2	0	2	0	Bake the cake at 350 degrees for 30 minutes, then decorate it with chocolate frosting and red candy hearts.	3
+22	3	3	1	0	0	2	4	0	2	0	2	1	4	5.0	8	2	2	0	3	0	3	0	Bake the cookies until golden brown, then let them cool on a wire rack before packing them in airtight containers.	3
+19	1	2	0	0	1	1	5	1	3	0	1	0	3	4.0	7	1	1	1	3	0	3	1	She requested the artist to paint two roses in red hues and deliver them to her house tomorrow.	3
+32	1	2	0	3	1	6	9	0	1	0	4	1	4	3.0	16	1	0	4	1	1	1	4	If you leave the grocery bags in the car during the hot summer day, the bread will mold, the chocolate will melt, and the soda cans might explode.	3
+23	0	1	1	1	1	3	7	0	4	0	3	0	2	3.0	13	1	1	2	2	0	2	2	I promised my mom, the principal, and the classroom rabbit I'd bring back all my library books by tomorrow.	3
+18	0	3	0	0	1	0	5	0	2	0	3	0	4	3.0	12	0	0	0	3	0	3	0	Sprinkle cinnamon onto your toast, spread jelly over it, and add sliced bananas on top.	3
+12	0	0	1	0	1	1	5	0	0	0	2	0	2	3.0	8	1	1	0	2	0	2	0	Add salt, pepper and olive oil when cooking the pasta.	3
+18	0	1	0	0	1	2	6	0	1	0	3	1	3	4.0	15	2	2	2	1	0	1	2	He wants the cake baked with apples, nuts, and raisins before the dinner party begins.	3
+15	1	2	0	1	0	2	4	1	0	0	1	1	2	4.0	10	1	1	1	1	0	1	1	Abandon the project if deadlines for the three milestones are missed by significant margins.	3
+16	1	0	2	0	0	2	3	0	1	0	3	0	4	3.0	11	1	1	0	4	0	4	0	Instruct the children carefully, assign them different roles, then watch the performance unfold.	3
+13	0	1	0	0	1	2	5	0	0	0	3	0	1	3.0	9	0	0	1	1	0	1	1	The chef added garlic, onions, and paprika to the pan.	3
+18	2	1	0	0	1	2	4	0	1	0	3	0	3	4.0	8	1	1	1	2	0	2	1	You need to wear long sleeves, waterproof boots, and pack an umbrella for this hike.	3
+24	0	0	0	1	1	1	5	0	3	0	4	1	5	5.0	9	4	1	1	3	3	3	1	If he's going to help you move this afternoon, please remind him to bring boxes, packing tape, and markers.	3
+17	0	1	0	0	1	2	6	0	1	0	3	1	2	3.0	12	1	1	1	2	0	2	1	The chef added salt, pepper, and lemon juice to the sauce before simmering it.	3
+24	0	1	0	0	1	3	8	0	3	0	3	1	3	4.0	14	2	2	1	2	0	2	1	The teacher asked the students to hand in their assignments, their water bottles, and their cell phones before leaving the classroom.	3
+22	0	1	0	0	1	3	4	0	5	0	3	1	3	4.0	13	2	2	2	3	0	3	2	He asked her to bring him the keys, the map, and the camera before they embarked on their adventure.	3
+20	1	1	0	1	1	0	4	0	3	0	4	1	4	3.0	12	1	0	2	3	1	3	2	If you pour milk, add syrup, and sprinkle cinnamon on your pancakes, they will taste delicious.	3
+18	0	1	1	0	1	2	4	0	2	0	2	0	4	4.0	10	1	1	1	3	0	3	1	She promised to cook dinner for her friends, set the table and play some songs afterwards.	3
+24	0	2	1	3	1	1	4	0	6	0	3	0	3	3.0	15	0	0	3	3	0	3	3	A child may drop his toy, his sibling may pick it up, and his parent may give it back to him.	3
+14	0	1	0	0	1	1	5	0	2	0	3	0	1	3.0	11	0	0	1	1	0	1	1	I forgot my phone, keys, and wallet at the coffee shop.	3
+19	1	0	2	0	0	0	3	0	5	0	3	0	4	4.0	12	1	1	1	5	0	5	1	He wants her to read his poem, appreciate his effort, then give him honest criticism afterwards.	3
+18	2	0	0	1	1	2	5	0	1	0	3	0	2	3.0	12	1	1	1	2	0	2	1	You'll need a large bowl, grated cheese, and sour cream to make this recipe.	3
+22	0	3	0	1	1	5	6	0	1	1	3	0	1	5.0	11	0	0	1	1	0	1	1	You'll forget the password for the database, the ID of the client, and the presentation file on USB.	3
+20	0	2	0	0	1	2	7	1	1	0	4	0	2	4.0	9	1	1	1	2	0	2	1	She baked three pies for the charity sale, adding raisins, cherries, and blueberries to the fillings.	3
+21	3	2	0	0	1	2	6	0	2	0	3	0	1	5.0	8	0	0	1	1	0	1	1	The florist arranged gorgeous red roses between her, his favorite dahlias, and a spray of baby's breath.	3
+16	0	1	0	0	1	3	4	0	0	0	3	1	3	4.0	7	1	1	0	2	0	2	0	Place the bookmarks, notes, and pen into the briefcase before leaving the office.	3
+22	1	1	1	1	1	1	5	0	4	0	3	0	3	4.0	12	2	2	1	1	0	1	1	You might forget to pack your toothbrush, your travel adaptor, and your wallet when leaving for a long trip.	3
+27	0	3	1	0	1	4	11	0	0	0	5	0	2	5.0	9	0	0	1	2	0	2	1	The chef served the customers a beautifully presented plate of sushi, with a side of avocado, asparagus, bell pepper, and wasabi peas.	5
+33	1	3	1	0	1	4	8	0	3	0	2	1	8	7.0	10	4	4	2	4	0	4	2	He admitted making mistakes, promised to make amends and immediately called for a recall of all tainted products while ordering a new batch from the supplier that passed our quality check.	5
+27	2	3	1	0	2	3	8	0	1	0	4	1	2	4.0	16	1	1	1	1	0	1	1	She asked for a tall glass of iced tea, lemon, sugar, and ice without stating the size or shape of the glass explicitly.	5
+40	4	5	0	1	2	4	11	1	3	0	3	0	5	8.0	11	3	3	2	2	0	2	2	He found a letter from the tax department asking for detailed records of business revenue for the past five years and unpaid balances, which he would need to pay before a hearing date, or face legal charges.	5
+25	1	2	3	0	0	2	7	0	2	0	3	0	4	4.0	8	2	2	1	2	0	2	1	Despite his repeated requests for transparency, the board refused to discuss its decision making process further, instead sharing only the final report.	5
+37	2	3	1	0	1	6	11	0	2	0	5	0	6	3.0	26	0	0	1	5	0	5	1	The project team requested additional specifications for the software design, tested it thoroughly, debugged the error logs, presented their findings in the weekly meeting, and sent the updated version to the clients.	5
+38	1	2	0	0	1	6	11	0	2	0	4	1	8	7.0	15	3	3	1	7	0	7	1	The teacher asked the students to complete the crossword puzzle, use the color pencils to shade each cell, draw pictures of their favorite animals, submit their homework and clean up the classroom before leaving.	5
+37	5	4	0	0	1	2	11	0	4	0	4	1	4	5.0	14	3	3	1	4	0	4	1	They served us traditional tea in handmade clay cups, accompanied by a sweet fruit preserve, honey and warm pita bread, before leading us through a labyrinth of streets to reach our final destination.	5
+19	0	0	0	0	1	5	5	0	2	0	5	0	1	3.0	13	0	0	1	2	0	2	1	She bought me a book, a pen, a folder, a stapler, and a notepad.	5
+41	3	3	2	1	4	5	11	0	3	0	3	1	5	6.0	18	1	1	3	4	0	4	3	The salesman suggested several upgrades after I'd selected the colour and type of the new appliance but finally I accepted the last proposal and ordered the extended warranty, delivery at home, and installation package along with it.	5
+39	1	3	0	0	1	5	10	1	5	0	3	0	8	5.0	27	3	3	1	7	0	7	1	She handed me four envelopes containing the cash awards, promised to send my trophy in a separate shipment, asked me to complete the feedback form and requested a signed copy of the release for her records.	5
+27	5	2	0	0	2	2	5	0	3	0	5	1	2	4.0	18	1	1	1	3	0	3	1	She offered me the red, blue, green, white, and yellow pens for my signature before sending the document via fax and mail.	5
+34	5	3	1	0	2	2	11	0	2	0	4	0	3	5.0	17	1	1	1	3	0	3	1	The professor provided us with extensive notes, examples and real-life scenarios for every topic, then assigned several group projects and presentations to ensure our deep understanding of key concepts.	5
+28	2	2	0	0	1	4	9	1	1	0	3	0	4	5.0	15	1	1	1	2	0	2	1	She opened the package to reveal a handwritten note, a broken charm, two pieces of dried rose petals and a single strand of silver thread.	5
+29	1	2	1	1	1	4	6	0	3	0	3	0	5	4.0	12	1	1	2	4	0	4	2	We need to test the system for bugs, so could you please install the debugging tools, compile the code and run it at the earliest convenience?  Additionally: It is essential to remind everyone to clean their workstations regularly, wipe down shared desks and keyboards, wear masks indoors, and practice effective Social Distancing, in order to minimize the risk of spreading illness.	5
+30	3	2	0	0	1	4	10	0	1	0	4	0	5	4.0	22	0	0	1	5	0	5	1	He requested an additional project update, provided new data sources, made a budget adjustment, requested a meeting with stakeholders and set a new timeline for delivery.	5
+32	1	3	0	1	1	3	10	1	1	1	4	0	5	6.0	18	1	1	1	4	0	4	1	I will need to return the textbooks for review, fill out the application, take the exam next Tuesday, and bring six blank test question sheets for proctoring purposes.	5
+33	3	4	0	0	1	0	9	1	1	0	6	1	7	5.0	20	2	1	1	5	1	5	1	After purchasing tickets, picking up rental cars, checking into hotels, and reserving tables at restaurants, their itinerary required one final stop: obtaining mandatory permits for guided exploration.	5
+26	0	1	1	0	1	5	5	0	4	0	5	0	3	4.0	20	1	1	2	3	0	3	2	He promised to mail me the report, the passwords, the backup drives, the contracts, but I never received any of it.	5
+37	2	2	0	0	1	6	10	0	1	0	7	1	7	5.0	11	2	1	1	4	1	4	1	After finishing the painting, I added several final touches, the details on the frame, replacing the worn-out brush bristles, cleaning the spattered easel, and putting on the varnish layer.	5
+25	1	2	0	0	1	3	6	0	1	0	5	1	5	3.0	17	1	0	1	4	1	4	1	After finishing dinner, we went for a long walk along the beach, collected shells, built a bonfire, and roasted marshmallows.	5
+36	2	3	0	0	1	5	10	0	2	0	5	1	7	4.0	30	2	2	1	5	0	5	1	He confessed to eating the last piece of cake, broke the vase in the living room, missed his bus stop, spilled juice on the new carpet, and left the tap running.	5
+41	1	2	2	4	2	3	6	1	7	0	4	0	8	5.0	27	3	3	5	5	0	5	5	He handed me the map, asked for the directions and when I showed him, he replied his friends would be coming soon, they'll be bringing two dogs and needed to rent a car for easier transportation.	5
+41	1	3	1	0	1	2	8	0	7	0	6	1	9	6.0	23	5	5	3	5	0	5	3	After the presentation, they asked for my contact information, mentioned they wanted me to join their board, suggested I attend their quarterly meetings, and offered to have lunch together before scheduling another follow-up call.	5
+41	0	1	2	3	3	3	6	1	6	0	4	3	8	6.0	26	4	3	5	3	1	3	5	After being transferred three times, she explained that the manager would now call me, and I needed to hold and then forward her call once she connected, and he would provide a coupon code for a refund.	5
+25	1	0	0	0	2	2	10	0	0	0	4	0	5	6.0	11	1	1	1	5	0	5	1	The company announced record profits and plans to distribute dividends, buy back shares, reduce debt, and launch a major advertising campaign.	5
+34	3	5	0	0	1	2	11	1	2	0	4	1	3	4.0	26	2	2	1	1	0	1	1	My grandma asked for a large glass of iced tea with lemon, two pieces of gum, an old photo album, my phone and pen to jot down notes while reminiscing.	5
+40	1	3	2	1	2	4	14	0	4	0	3	2	4	6.0	13	2	2	2	5	0	5	2	The art gallery director offered me a brochure, a schedule of future exhibitions, and then asked if I could provide my email address for notifications and newsletters before finally handing me a membership application with discount benefits.	5
+25	4	2	0	0	1	1	8	0	2	0	5	0	2	4.0	11	0	0	1	1	0	1	1	During our annual charity drive, we collected toys, clothes, canned goods, blankets and a large check from generous local sponsors.	5
+35	0	4	1	2	3	3	3	1	9	0	1	0	6	9.0	11	3	3	3	4	0	4	3	She asked for the map but couldn't read it herself and asked me to explain it to two of her colleagues who were speaking on the phone and another who joined them late.	5
+22	1	0	1	2	1	2	3	0	6	0	1	1	4	4.0	11	2	2	3	4	0	4	3	She served me the delicious pie that her grandmother had baked and asked me if I would like some coffee afterwards.	5
+30	3	3	1	0	1	2	6	0	4	0	5	0	5	4.0	19	0	0	1	5	0	5	1	He unpackaged new gadgets, set up each one carefully, tested its features, calibrated its sensitivity, and connected it to various sources for a thorough trial.	5
+47	4	4	0	1	1	7	11	0	5	0	5	2	7	5.0	26	3	2	3	6	1	6	3	Before handing me the keys, he asked if I could return the car with the seats in their original configuration, remove any personal belongings, ensure the fuel level reached the full mark, and inform the rental agent about his change of plans.	5
+41	2	6	0	0	1	4	9	0	5	2	4	0	7	5.0	29	2	2	1	5	0	5	1	He requested to see all the sales reports, have them reviewed by his legal team, forward them to headquarters, translate them into Mandarin for review by China division and upload the final version to the company portal.	5
+37	0	1	0	0	1	7	12	0	1	0	5	1	8	5.0	22	2	2	1	7	0	7	1	The store manager asked us to fill out the damage claim form, provide the purchase receipt, present the shattered phone, describe the incident, and sign the non-disclosure agreement before issuing a refund.	5
+35	1	4	2	1	4	4	9	0	2	0	5	0	3	6.0	10	0	0	1	1	0	1	1	She asked for a table outside in the sun and was served coffee, toast, and orange juice but then waited for her companions, a salad, and a glass of water.	5
+33	3	5	1	0	2	5	9	0	1	0	2	1	4	4.0	13	1	1	1	3	0	3	1	The chef used a range of unique spices in the recipe and then garnished the dish with fresh herbs, toasted nuts and chopped fruits before sending it out to the diners.	5
+42	0	6	2	0	2	5	11	0	2	0	5	2	7	5.0	13	2	1	1	5	1	5	1	In the absence of working printers and after scanning dozens of pages, she patiently taped each one together, made photocopies and hand-picked out the errorr-filled forms before mailing them all off to the tax authority.	5
+36	1	3	0	1	1	7	7	0	4	0	3	4	5	6.0	12	3	3	3	4	0	4	3	He insisted on wearing all his jewelry to the event, despite the fact that it caused a visible disturbance, and requested a table by the stage so that the audience could admire it.	5
+30	0	2	1	0	1	5	9	0	2	0	4	1	5	4.0	16	1	0	1	5	1	5	1	Before leaving the country, I submitted the application for a visa, paid the fee online, attached color photographs and scheduled an appointment for my biometrics capture.	5
+27	2	1	0	0	1	6	8	0	1	0	5	0	2	5.0	15	1	1	1	1	0	1	1	He asked for the red pencil, a stapler, the phone book, a calculator, and the remote control to change the TV channel.	5
+40	2	4	2	1	1	5	9	0	3	0	5	0	7	5.0	26	2	2	2	6	0	6	2	He ordered new parts online, set up an appointment with the mechanic, brought all necessary documents, made arrangements for a loaner car, and asked his wife to pick him up when the repair was done.	5
+36	4	4	0	0	1	5	10	0	0	0	4	0	7	4.0	26	1	1	1	5	0	5	1	The sales manager demanded a full refund for the damaged goods, submitted detailed claims with photographs, negotiated a partial return, set up a replacement order and followed up to ensure timely delivery.	5
+68	3	8	2	0	2	7	17	1	6	2	6	2	10	6.0	55	3	3	2	8	0	8	2	I have to write three chapters of the report, edit the introduction section and submit it to the editor by this Friday; buy new tires for my car before heading to a long drive; send you the feedback on your presentation as soon as possible; finish reading the book assigned for bookclub; and attend my grandma's birthday party on Saturday afternoon.	5
+30	0	0	0	0	2	2	12	0	1	0	5	1	5	5.0	13	3	3	1	4	0	4	1	I found the recipe for making chocolate chip cookies but need to buy flour, eggs, sugar, milk, and chocolate chips to complete the ingredients list.	5
+19	2	1	0	0	1	2	7	2	0	0	3	0	1	5.0	8	0	0	1	1	0	1	1	The professor assigned 3 case studies, several homework assignments, and a presentation due within two weeks.	5
+28	1	1	1	1	2	1	4	0	5	0	4	1	5	5.0	23	4	4	3	3	0	3	3	She offered me tea, cookies, and blankets to help me relax while we waited for the bus, but I was too anxious to accept.	5
+28	2	2	1	0	1	3	10	1	0	0	5	0	3	4.0	17	0	0	1	1	0	1	1	The chef prepared a feast for twelve with fresh fish, imported olive oil, roasted garlic, truffle oil, and a carefully aged balsamic vinegar.	5
+43	2	6	0	1	1	6	12	1	4	0	6	0	3	5.0	29	2	2	1	1	0	1	1	After the presentation, I was given a survey with 5 optional sections, a brochure on their latest release, a pen with their company logo etched on it, a calendar, and an email address to contact for feedback.	5
+20	1	2	0	0	1	2	6	0	3	0	2	1	2	4.0	12	1	1	1	2	0	2	1	She served tea to the queen, her children and her ministers before addressing the parliament on budgetary matters.	5

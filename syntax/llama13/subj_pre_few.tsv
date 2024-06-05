@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	subj_pre_constraint
+21	0	2	0	0	1	0	4	0	6	0	1	1	4	6.0	7	3	3	2	3	0	3	2	Please provide us with your request as we strive to help you with answers and information that meet your requirement. You may be required to pay a small sum if this service involves accessing external sites; however, if the service is on our website, there is nothing to pay. We accept payment through many different payment methods. Please proceed with your question	0
+8	0	1	0	0	0	0	1	0	1	0	3	0	2	3.0	4	1	1	0	1	0	1	0	Asks by: [Insert your name]	0
+19	0	4	0	0	0	3	6	0	2	0	2	0	2	6.0	4	1	1	2	2	0	2	2	Sprints across the field chased the scent of her owner, who held out a ball in promise.	0
+16	0	1	2	1	2	1	1	0	2	1	0	0	4	5.0	7	2	2	1	2	0	2	1	Go inside and talk to Sam and tell her you’re there to purchase a sphinx	0
+15	1	1	0	0	0	2	3	0	0	2	3	0	2	3.0	9	1	1	0	2	0	2	0	" ""Follow the Quidditch community at the IQA website to find nearby teams."""	0
+5	0	0	0	0	0	0	2	0	1	0	0	0	1	2.0	3	0	0	0	1	0	1	0	Please select your flight destination	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+7	1	1	0	0	0	0	2	1	0	0	1	0	1	2.0	5	0	0	0	1	0	1	0	Generating sentence with 0 preverbal subjects:  The dark matter content of Laniakea and surrounding voids.	0
+31	2	2	1	4	1	3	5	0	1	0	5	1	4	5.0	17	2	2	2	1	0	1	2	"Please note that when clicking the ""Add Answer"" button below each task, it will be marked as correct, but the entire instruction will NOT be read. Therefore, if you would like to see your sentence in full AFTER it is checked, please copy and paste the sentence into a word document, and then click the ""Add Answer"" button, so you may see the complete sentence in the correct box"	0
+18	3	3	0	0	0	1	5	0	0	2	3	0	1	4.0	5	0	0	1	2	0	2	1	"  ""Metropolitan Plants on Main St. offers flower enthusiasts a vast selection of products for gardeners."""	0
+11	0	1	0	1	0	2	2	0	0	0	0	1	3	5.0	3	2	2	0	1	0	1	0	Sending the request to be marked as read within the inbox	0
+31	3	1	1	1	2	3	6	1	1	0	4	0	5	5.0	11	2	2	0	4	0	4	0	"Please provide the sentence to be created with 0 preverbal subjects, click the ""Next"" button below and provide any additional details or instructions to clarify your request. If necessary, I will guide you through the task"	0
+7	1	1	0	0	0	0	3	0	0	0	1	0	1	2.0	3	0	0	0	0	0	0	0	Frozen strawberry shortcake with whipped cream. 	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+8	0	1	1	0	0	0	2	0	1	0	1	0	1	2.0	4	0	0	0	1	0	1	0	Please paste your task as text here.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+7	0	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+4	0	0	0	0	0	0	0	0	0	1	3	0	0	0.0	0	0	0	0	0	0	0	0	" ""Sunset.""  "	0
+5	0	1	0	0	0	1	0	0	0	3	0	0	0	2.0	4	0	0	0	0	0	0	0	Skate at the Rollertown Rink	0
+19	1	1	1	1	2	1	3	0	1	0	1	1	5	7.0	5	3	3	2	1	0	1	2	I apologize but would love to politely point out that the question seems lacking clarity and specific details. Could kindly provide more context about the request, or specify the task and intended outcome?  Please remember that the task is about generating sentences with zero preverbal subjects and without adding further text and explanation.	0
+3	0	0	1	0	0	0	0	0	0	0	0	0	1	1.0	1	0	0	0	0	0	0	0	Please click here To access additional details about our response. Click on this link.	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	0	0	0	0	0	0	___________________________________________________________	0
+15	0	2	0	0	0	1	4	0	1	0	2	0	3	3.0	9	1	1	0	1	0	1	0	Write an instruction to ask for help: Please assist with my math homework?  Is this appropriate to ask for help, and is it a sentence with preverbal subject or it follows the instruction rule of 0 preverbal subjects in mind when constructing?	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+8	1	1	0	1	0	1	1	0	0	2	1	0	0	2.0	4	0	0	1	0	0	0	1	Sprinkles were abundant at the Met Gala.	0
+50	2	2	3	4	2	7	12	1	3	0	2	3	7	7.0	41	4	4	2	3	0	3	2	Please note that there should only be one sentence that answers the request/task without adding any explanation or text apart from the sentence  Also, note that there can be no preverbal subjects; the sentence or task completion should have the exact format provided for every task	0
+9	2	1	1	0	0	1	2	0	1	0	0	0	1	2.0	4	0	0	1	0	0	0	1	The fluffy little kitten purred contentedly on my lap	0
+9	1	0	0	0	0	2	2	0	0	0	0	1	2	3.0	4	1	1	0	2	0	2	0	Please assist the community by adding a relevant sentence	0
+14	2	0	0	1	1	2	3	0	0	0	2	1	2	4.0	11	1	0	1	1	1	1	1	Without adding any additional context or preverbal subjects, the sentence should read:  The answer is yes! You do not need a visa when traveling to France if you are a citizen of one of these nations	0
+4	1	0	0	1	0	0	0	0	1	0	1	0	0	1.0	2	0	0	1	0	0	0	1	I am ready. What is the next task that i should accomplish?  Please let me know if the response is correct or needs modification for the sake of this exercise.	0
+9	1	1	0	0	0	1	2	1	0	0	2	0	1	2.0	6	0	0	0	1	0	1	0	(Write a sentence with 0 preverbal subjects)	0
+13	1	2	0	0	0	1	4	1	0	0	3	0	1	3.0	6	1	1	0	0	0	0	0	(Insert sentence with 0 preverbal subjects, generated by the model)  	0
+9	1	1	1	0	0	0	1	0	1	0	1	0	1	2.0	7	0	0	0	1	0	1	0	Please fill in your first name below:  ________________________________ 	0
+2	0	1	0	0	0	0	0	0	0	0	0	0	1	1.0	1	0	0	0	0	0	0	0	 Asked from	0
+10	2	1	0	0	0	1	3	0	0	1	1	0	1	3.0	3	0	0	1	1	0	1	1	Metropolitan Plants has a wide variety of garden products.	0
+7	0	0	0	0	0	1	1	0	2	0	1	0	2	3.0	2	1	1	2	1	0	1	2	I hope this satisfies the request! Please let me know if there is anything else I can assist you with.	0
+7	0	1	0	0	0	1	3	0	1	0	0	0	1	2.0	4	0	0	1	1	0	1	1	The cat chased its tail with enthusiasm	0
+12	1	1	0	0	1	0	5	0	0	0	2	0	2	5.0	6	0	0	0	0	0	0	0	Sprinkle soft-serve with rainbows and uni - color nail polish	0
+24	0	2	2	1	2	2	5	0	3	0	2	0	3	6.0	8	2	2	1	2	0	2	1	Please provide the prompt or task, as well as any specifications or details you'd like me to include in my response. 	0
+7	0	0	0	0	0	0	2	1	1	0	1	0	2	2.0	3	1	0	1	3	1	3	1	Skipping dessert saved you 300 calories.	0
+30	3	3	0	0	1	1	9	0	3	0	4	1	3	7.0	9	2	2	1	3	0	3	1	Please visit the nearest bookstore if you require books on different methods to train your pet snake, such as feeding, care for their health, and caging. The bookstore also has a great selection of books for the snake owner, including a guide for ball python owners	0
+8	0	2	1	0	0	1	2	0	0	0	1	0	1	3.0	3	0	0	0	0	0	0	0	Walked slowly in silence towards the house. 	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+3	1	0	0	1	0	0	0	0	0	0	0	0	0	1.0	2	0	0	0	0	0	0	0	Please be aware    That clicking on links sent from unverified addresses may compromise your computer	0
+17	1	3	1	0	0	2	4	0	2	0	2	0	2	3.0	7	1	1	1	0	0	0	1	The cat purred contentedly on my lap, pawing at my hand with a delicate touch.	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	0	0	0	0	0	0	______________________________________________	0
+15	0	2	0	0	1	1	4	0	2	0	1	0	3	3.0	7	1	1	1	2	0	2	1	I drive my van to the woods to search for clues and solve mysteries.	1
+14	0	2	0	0	0	3	3	0	0	2	1	0	2	4.0	8	1	1	1	0	0	0	1	Rosa Parks refused to go to the back of the bus that day.	1
+11	1	1	1	1	0	1	2	1	0	0	2	0	0	3.0	4	0	0	0	0	0	0	0	Okay, here's the sentence with one preverbal subject:  Blake took the money and ran	1
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	1
+12	0	1	0	0	0	2	3	0	2	0	2	0	2	3.0	8	1	0	1	2	1	2	1	Driving my van to the grocery, I pick some apples. 	1
+35	1	6	2	0	1	2	7	2	3	0	2	1	6	5.0	11	4	3	2	2	1	2	2	After drinking three cups of cappuccino, I started to feel more focused on our detective work and we headed out to investigate strange noises in the neighborhood at around three in the morning. 	1
+24	1	4	1	0	1	4	4	0	2	0	0	0	5	8.0	7	2	2	0	3	0	3	0	Please select any of the above outputs and use them as examples in the instruction to get a correctly formated sentence generated by me	1
+13	1	2	1	0	0	2	3	0	1	0	2	0	1	3.0	6	0	0	1	0	0	0	1	After the concert, we all went out for late-night tacos	1
+21	0	2	0	0	1	2	4	0	2	4	5	0	1	3.0	15	0	0	1	1	0	1	1	Jenna took her cat, Mr. Whiskers,  and her dog, Max, for a walk in the park. 	1
+20	2	1	3	0	1	1	3	0	3	0	2	1	3	4.0	13	1	0	2	2	1	2	2	Although we drove around in my van and solved mysterious puzzles together, we never found the legendary treasure.	1
+20	0	2	1	0	2	2	5	0	3	1	1	0	3	5.0	7	1	1	2	2	0	2	2	Jeff and I raced in my convertible to the crime scene where we gathered evidence and solved the case.	1
+10	1	0	0	1	1	0	1	0	1	3	2	0	0	3.0	9	0	0	1	0	0	0	1	Jeff, Iris, and Bill were our last guests	1
+19	0	1	1	0	1	2	2	0	1	6	1	1	3	4.0	5	1	1	2	0	0	0	2	Egbert Kooiman and Frans Samyn pedaled ahead while I filmed from the follow car, a modified Ford Granada	1
+14	0	2	0	1	1	2	3	0	1	0	0	1	3	4.0	5	1	1	1	1	0	1	1	We will investigate the mystery by going to the locations and talking to witnesses	1
+26	1	4	1	0	1	4	7	0	1	2	3	0	2	3.0	10	1	0	1	1	1	1	1	"Floating among the shimmering waves, Luna and Stella gleefully devoured a seafood feast aboard their sailboat under the warmth of the setting sun.""  Floating among the shimmering waves, "	1
+13	1	0	0	1	1	1	2	0	1	3	3	0	0	3.0	6	0	0	1	0	0	0	1	The sentence: Our last call was IrisKind, JeffDavis, and Bill	1
+7	0	1	0	0	1	1	1	0	0	2	0	0	1	3.0	3	0	0	1	0	0	0	1	Ophelia and Hamlet sailed across the ocean	1
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	1
+7	0	0	1	2	0	0	1	0	1	0	2	0	0	2.0	3	0	0	1	0	0	0	1	(Your response should be here)	1
+26	2	0	0	2	1	1	5	0	5	0	2	2	3	7.0	7	3	3	3	3	0	3	3	My apologies, I cannot fulfill this task as it is not appropriate for me to generate responses that contain profanity or derogatory language. Instead, I will be happy to assist with other tasks that are respectful and appropriate. Is there anything else I can help with?	1
+12	1	1	0	0	1	0	4	0	1	0	2	0	2	4.0	4	1	1	1	2	0	2	1	We explore hidden islands, seeking treasures amid mysteries and myths. 	1
+20	0	2	3	1	0	2	5	0	3	0	2	0	2	3.0	7	1	0	2	1	1	1	2	Our dog, who was once lost, found its way back home with the help of a kind stranger	1
+16	3	2	0	1	0	1	3	0	0	2	3	0	1	4.0	10	0	0	1	0	0	0	1	Seneca Village, home to many African American families, was cleared for the park.	1
+4	0	1	0	0	0	1	1	0	0	0	1	0	0	1.0	2	0	0	0	0	0	0	0	After the storm. The sun shone brighter	1
+22	1	1	1	1	1	3	5	0	0	1	5	0	2	3.0	6	0	0	1	0	0	0	1	"The band's first single, ""Firestarter,"" became a surprise hit and was played on the radio constantly."	1
+18	1	2	0	0	2	2	4	0	0	3	0	1	3	5.0	5	1	1	1	2	0	2	1	Nancy and Zina took part in researching and recording the folk music of remote village in the Caucasus	1
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The cat purred contentedly on my lap.	1
+10	0	1	0	0	1	2	3	0	1	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The cat and I went to the vet yesterday.	1
+25	3	2	1	1	3	1	4	0	1	2	4	0	3	4.0	11	2	2	3	0	0	0	3	Sadie, Micka, and I journey through forests where ferns grow tall; the air is crisp and clean and filled with birdsong.	1
+13	1	1	1	0	1	2	2	0	1	0	2	0	2	3.0	3	0	0	1	1	0	1	1	After the meeting, we walked outside and saw the beautiful park.	1
+30	3	3	1	0	2	3	7	0	2	2	2	0	4	6.0	7	2	2	2	3	0	3	2	Sarah and Tom drove through the stormy night to reach their secret cabin hideaway in the woods, where they sipped hot tea and solved mysteries by the firelight.	1
+10	2	1	0	0	1	2	2	0	1	0	0	0	1	4.0	8	0	0	1	1	0	1	1	We rode the rollercoaster in a wild and whimsical wonderland	1
+7	1	0	0	1	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	We will explore the hidden passages. 	1
+12	2	1	0	0	1	0	3	0	3	1	0	0	1	3.0	6	0	0	1	1	0	1	1	My grandma and her friends take pictures in her old blue Buick	1
+33	0	2	3	0	2	2	9	0	6	0	2	0	5	9.0	8	3	3	2	3	0	3	2	My grandfather, my brother, and our dog go camping yearly on the lake shore where he taught us how to fish and cast our lines into the sunset's twilight hour	1
+13	0	1	0	1	0	2	3	0	2	0	2	0	1	2.0	5	0	0	1	1	0	1	1	My apologies, I cannot provide a sentence as a response. Instead, I would like to point out that the task is based on a flawed assumption that the output should be a single sentence. The tasks that you have provided as examples do not have a clear single output sentence, and are instead multiple sentences or a paragraph. I suggest rephrasing the task to ask for a single sentence output. Additionally, I would recommend using more specific and clear instructions for the task, as the current instruction is quite vague and open-ended.	1
+27	4	1	0	1	1	2	4	1	2	5	6	0	0	4.0	10	0	0	1	0	0	0	1	Our first customer was Karen Fong, with her two children Tiger-Tim, the brave explorer, and Sparkles, the sweet little princess.	1
+17	3	1	1	0	1	1	4	0	1	0	2	0	3	4.0	7	1	1	1	2	0	2	1	The detectives drove around in their old van, solving strange mysteries and uncovering hidden treasures. The detectives, driven by their love for mystery and the thrill of discovery, raced around in their vintage van	1
+10	1	0	1	0	1	0	1	0	0	5	0	0	1	4.0	5	0	0	1	1	0	1	1	Sherlock Homes and Dr John Watson solved more crimes anyway	1
+14	3	1	0	0	1	0	4	0	2	0	1	0	2	4.0	5	0	0	1	2	0	2	1	We explore enigmatic sites and solve strange cases on our cross-country van adventures. 	1
+18	0	0	0	2	0	2	2	0	4	0	1	2	4	5.0	8	3	3	2	4	0	4	2	Please give me the instruction as it should be stated before you have me attempt the exercise. Is this still the correct format you would like me to follow? Additionally, are these sentences you'd like me to generate still correct? And should I copy and paste the sentences exactly as they were provided?   Please provide the proper format and I will proceed with generating the sentences. I did notice that all of the sentences provided contained grammatical errors so if you'd like me to correct them before generating any new ones that would be good to know as well. Let me know how I can assist!	1
+13	2	0	0	1	0	1	2	0	2	0	1	1	2	4.0	5	2	2	2	2	0	2	2	I'm unable to do this as the prompt contains harmful language. Please ask a safe and appropriate question	1
+15	0	1	0	0	2	0	0	0	1	6	2	1	2	4.0	9	1	0	1	1	1	1	1	  After meeting with Mark Zuckerberg and Reid Hoffman, we left Facebook and LinkedIn. 	1
+9	1	1	1	0	0	0	1	0	0	2	1	0	1	3.0	6	0	0	1	0	0	0	1	Rose laughed hysterically at Jack's silly joke.	1
+32	4	5	0	0	1	6	9	0	0	1	4	0	1	4.0	14	0	0	1	1	0	1	1	After a quick stop for coffee and pastries, Peter, the group's intrepid sleuth, led the way past the sleepy streets of the quarter to the eerie mansion. 	1
+13	0	0	2	0	1	3	3	0	0	0	1	0	2	3.0	4	1	1	1	1	0	1	1	The cat and the mouse crept outside to explore the garden quietly.	1
+16	0	0	0	0	1	1	4	1	1	2	3	0	3	3.0	7	1	1	1	2	0	2	1	One fun-seeking road trip included Jeff, Bill, and me exploring a mystery	1
+2	1	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	  Correct! One preverbal subject and complete sentence.	1
+9	1	1	0	0	0	1	3	0	0	0	0	0	2	3.0	4	1	1	1	1	0	1	1	Officers from nearby towns arrived to reinforce the city	1
+21	2	5	0	0	1	1	7	1	0	2	1	0	1	5.0	9	0	0	1	0	0	0	1	The three pioneers arrived at Lake Michigan yesterday by kayak, after weeks of navigation through unknown waters and endless rainforests	1
+17	1	1	0	1	1	2	4	0	3	1	1	0	2	4.0	5	1	1	1	1	0	1	1	My cat Luna and myself are exploring all options regarding our legal representation in this case.	2
+22	4	2	0	0	2	3	5	0	2	2	1	0	1	4.0	6	0	0	1	1	0	1	1	My husband John and our dog Bella enjoyed the beautiful hike through the lush woods and across the crystal clear streams.	2
+28	3	1	0	2	2	0	3	0	3	7	1	1	3	5.0	16	2	1	3	1	1	1	3	Hello Linda and Tom my neighbors who live next door in Bellevue WA, I can confirm that Vera's Counseling Service does provide  excellent and compassionate support 	2
+14	1	2	0	0	1	1	3	0	3	0	1	0	2	3.0	7	1	1	1	0	0	0	1	My cat and I adore playing with the fluffy mouse on our carpet. 	2
+24	1	2	0	1	1	1	5	0	2	6	2	0	2	5.0	13	1	1	1	2	0	2	1	Vera from Bellevue, WA and her sister Lisa from Renton WA are writing a review to promote their small business counseling practice. 	2
+16	0	2	1	1	1	1	3	0	2	2	0	1	2	3.0	6	1	1	2	0	0	0	2	Vera and her dog Daisy are running for mayor because they truly care about the community	2
+13	1	0	0	0	3	0	4	0	2	1	1	0	1	4.0	4	0	0	1	1	0	1	1	Both my sister Beth and I like pizza toppings and flavored coffee. 	2
+26	1	2	0	1	1	2	7	0	3	1	4	0	3	5.0	15	2	1	2	2	1	2	2	My colleague, Peter, who has many years of IT experience, and I are meeting with the client to finalize the project details.	2
+19	1	2	0	0	2	0	4	0	2	5	1	0	1	5.0	7	0	0	1	1	0	1	1	Hello Vera and Sammy, my co-counselors write reviews about our respective counseling practices in Renton and Bellevue WA	2
+42	2	4	1	3	3	4	8	0	6	3	2	2	3	5.0	26	3	3	4	2	0	2	4	My brother and I will always have a love for art and history because our mother enrolled us in a class on medieval painting at the Seattle Art Museum, but we had to be quiet because it was a library. 	2
+23	1	3	0	1	1	3	10	0	1	0	1	0	2	6.0	6	1	1	2	1	0	1	2	The mayor and governor agreed in principle on a comprehensive water management plan that would provide flood control measures for the county.	2
+19	1	3	0	0	2	0	3	1	1	6	0	0	1	4.0	6	0	0	1	1	0	1	1	Hello Vera and Shirley they do counseling practice in two different locations of Bellevue WA and in Renton Wa	2
+19	1	1	1	1	1	4	4	0	1	0	1	1	3	3.0	10	1	0	1	2	1	2	1	And before they moved in the old owners had already repaired the air conditioner, painted all the walls	2
+33	1	3	0	3	3	3	8	0	4	4	3	0	1	8.0	5	1	1	2	1	0	1	2	Ciao, my name's Ella and I'm writing a piece about both my experience being a software developer and my work as a freelance food critic in Renton, WA.	2
+17	1	2	0	0	2	3	4	0	0	2	1	0	2	4.0	5	0	0	1	1	0	1	1	Lidia and Tony both loved the color blue and believed in the power of positive thinking.	2
+33	4	2	1	1	3	2	5	0	5	2	2	0	4	5.0	16	3	3	3	2	0	2	3	Hi Lisa and Mark, I just finished remodeling  my kitchen with  the latest gourmet appliances and modern finishes,  and I'm thrilled to tell you they look fantastic in the space	2
+28	3	3	0	2	2	2	5	0	4	4	1	0	1	5.0	14	1	1	1	1	0	1	1	My assistant Sarah and I were thrilled to be hosting a wedding at our home in Redmond this past weekend for our dear friends Mark and Jennifer.	2
+41	4	3	0	0	4	5	10	1	1	3	5	0	5	5.0	18	1	1	2	2	0	2	2	My two best friends Alexandra, a licensed marriage and family therapist,            and Sally, a medical doctor, both live in the beautiful countryside of            Normandy and both enjoy drinking wine and playing croquet on warm            summer evenings.	2
+20	1	0	0	2	1	2	3	1	4	0	3	0	2	5.0	7	3	3	3	0	0	0	3	The two preverbal subjects are:  My husband who is a handyman, and I who love to garden.	2
+24	0	2	0	1	2	1	3	0	4	7	1	0	2	6.0	9	1	1	2	1	0	1	2	Hi my names Lily and my Mom Tess and we're reviewing the services we received at Maries Rental Properties in Renton WA. 	2
+34	1	2	2	0	3	4	8	1	2	3	4	0	3	5.0	14	1	1	1	1	0	1	1	The two siblings worked tirelessly together, Vera the psychotherapist and her brother the contractor, to revamp their family-owned business into a successful counseling practice in both Bellevue and Renton.	2
+15	0	1	1	0	1	1	3	0	0	3	2	0	1	4.0	7	0	0	0	0	0	0	0	Hello Tamia and Rian, the owners of Bellevue's most recommended counseling services. 	2
+19	0	2	0	0	2	2	7	0	2	0	1	0	3	5.0	7	1	1	1	1	0	1	1	My mom and my pet cat enjoy playing fetch and going for strolls in the park every afternoon.	2
+53	3	2	6	2	6	6	16	0	0	0	5	0	5	5.0	24	3	2	3	3	1	3	3	And also, when purchasing these products, both cash and credit cards are gladly accepted with advanced verification technology and expert personnel to provide the highest level of safety and convenience, and as well, all items include a manufacturer's warranty plus easy returns when the job is done.	2
+19	1	1	0	0	2	0	2	0	2	7	2	0	1	5.0	8	0	0	1	1	0	1	1	Hi Tiffany and Tim, we appreciate your favorable recommendation for Bellevue WA and Renton WA Counseling practices. 	2
+16	0	0	1	1	1	1	3	0	4	0	4	0	1	3.0	9	2	2	2	0	0	0	2	My brother, who's a teacher, and my mom, who sings beautifully.	2
+20	2	2	1	0	1	3	5	0	0	0	2	0	3	4.0	9	2	2	1	1	0	1	1	Raindrops and petals float gracefully, on the quiet river breeze, creating a peaceful atmosphere for all to enjoy	2
+27	2	2	1	1	1	1	4	0	1	4	6	1	2	4.0	18	1	1	2	1	0	1	2	"Sarah and John, as co-founders of the new start-up ""Blooming Boxes,"" are working tirelessly to perfect their innovative product line. "	2
+15	0	1	0	2	1	1	5	0	2	1	1	0	1	4.0	6	0	0	1	1	0	1	1	My colleague Margo and I will be facilitating a panel discussion on climate activism.	2
+18	1	2	2	1	1	1	3	0	1	2	3	0	1	4.0	12	0	0	1	1	0	1	1	Clients such as yourself, Kara, and Daphne, can now find resources quickly at this website	2
+14	1	1	1	0	1	0	2	0	2	2	2	0	1	4.0	7	0	0	1	1	0	1	1	Hello Lena and Mia, I thoroughly enjoyed our conversation about environmental activism. 	2
+29	2	3	2	2	3	3	6	0	0	3	2	0	1	6.0	8	1	1	2	0	0	0	2	Hello Mary and Tom, and welcome to Spokane, where the weather forecast is for rain and the local sports teams are looking forward to a great season	2
+41	3	3	1	2	2	2	10	1	5	1	3	1	4	4.0	26	2	2	3	4	0	4	3	Hi, Maria and I are running a fund drive to raise money for our local children's theater and, as a bounus, if we collect enough funds we will give away two free tickets to our spring play	2
+5	0	0	0	0	1	0	1	0	0	0	1	0	0	3.0	2	0	0	0	0	0	0	0	  Hello **name1** and **name2**,**,**	2
+53	2	7	4	1	4	3	5	1	5	14	3	0	4	7.0	16	1	1	3	3	0	3	3	My wife Fay and I have long admired the rich history of both Bellevue and Renton,WA; we cherish the memory of when we first met at Cougar Mountain Zoo in Bellevue and then enjoyed a delightful picnic with our two dogs at Gene Coulon Memorial Beach Park in Renton.	2
+27	1	0	1	3	2	1	4	0	5	2	1	2	4	5.0	8	2	2	3	3	0	3	3	Hello Maria and Alex my assistant will be helping us today and they'll start by taking a break right after they finish their previous tasks.	2
+18	1	2	0	1	2	1	3	0	2	3	1	0	2	4.0	7	1	1	1	0	0	0	1	My sister Susan and I are going shopping for new clothes this weekend in Seattle and Bellevue.	2
+14	2	1	0	0	1	1	5	1	2	0	0	0	1	3.0	9	0	0	1	1	0	1	1	The two expert masseuses kneaded my sore shoulders and neck with their skilled hands	2
+27	2	4	0	1	2	4	7	0	2	1	1	0	3	6.0	8	1	1	2	0	0	0	2	The city of Bellevue and the surrounding areas can benefit from the expertise of my counseling practice and the comprehensive range of therapeutic services I offer.	2
+29	1	1	0	0	4	1	10	0	1	3	1	0	4	5.0	11	2	2	1	4	0	4	1	Vera and the team at Bellevue and Renton's counseling practice offer comprehensive services and expert guidance to help individuals navigate life's challenges and achieve their goals.	2
+28	4	2	3	0	1	4	5	1	1	0	3	1	3	3.0	9	1	0	2	1	1	1	2	As the moon rose slowly overhead the two lovers embraced warmly under its gentle, celestial glow and shared a soft, whispered kiss beneath the stars. 	2
+23	2	2	1	0	2	2	5	1	3	0	1	0	3	4.0	12	1	1	2	2	0	2	2	With great precision my grandmother knitted many scarves for the holiday and my sister and I each picked one to take home. 	2
+40	3	3	3	1	2	2	11	0	2	1	5	1	4	6.0	17	3	3	2	1	0	1	2	Okay, here is the sentence you requested:  Salesforce developers, like myself and other tech workers, need better training and mentorship to stay ahead in the rapidly-changing field while working on large scale data centers	2
+30	2	3	2	0	2	4	8	0	0	2	3	1	3	5.0	14	2	2	1	2	0	2	1	Raina and Lena enjoyed the spa day, indulging in face and body treatments as well as a healthy lunch, before taking a leisurely walk around the gardens.	2
+35	2	3	2	2	2	2	7	0	2	1	5	1	5	4.0	17	2	2	2	2	0	2	2	My cat, Whiskers, and I, have been enjoying the lovely weather and taking advantage of the extended daylight hours to play outside for several hours, until dusk finally settles in. 	2
+27	1	3	3	1	4	0	6	0	2	4	2	0	0	5.0	26	1	1	1	0	0	0	1	Hello Veronica and Vera as well, this is your counseling practice in Bellevue and Renton with great reviews and satisfaction from customers and clients, respectively	2
+24	1	4	0	1	2	1	4	0	3	3	2	0	1	4.0	7	0	0	1	1	0	1	1	Hi Susy and Mable, I can tell you about my dog's dental care at home and in a clinic in Issaquah. and in Sammamish	2
+17	1	4	1	0	1	1	3	0	2	2	1	0	1	3.0	13	0	0	1	1	0	1	1	Clients highly recommend me both in Renton and in Bellevue because of my specialized training techniques.	2
+27	1	2	0	0	2	2	3	4	1	6	4	0	1	5.0	10	0	0	1	1	0	1	1	My parents, Vera and Sammy purchased two new laptops for school, a MacBook Air and a Dell XPS 13 2-in-1.	2
+21	1	2	0	0	2	2	4	0	2	5	1	0	2	6.0	4	1	1	1	1	0	1	1	My cat Luna and I appreciate the excellent customer service provided by the company in Renton WA and Bellevue WA. 	2
+16	0	1	1	1	1	2	3	0	2	0	2	0	3	4.0	4	1	1	1	2	0	2	1	This week, we'll finish formatting the report and send it shortly after completion. 	3
+19	2	0	2	0	1	4	3	0	1	0	3	0	3	3.0	13	0	0	1	3	0	3	1	They carefully studied the detailed instructions, prepared all the necessary materials, and skillfully completed the task.	3
+18	0	0	3	0	1	2	3	1	2	0	3	0	3	3.0	11	0	0	1	3	0	3	1	The three colleagues reviewed the presentation thoroughly, critiqued its content comprehensively, and revised it meticulously.	3
+7	1	0	0	0	0	0	1	0	0	2	3	0	0	2.0	5	0	0	0	0	0	0	0	April, September, solar radiation.	3
+18	3	1	1	1	1	1	4	1	1	0	2	0	2	4.0	8	0	0	2	1	0	1	2	Still, the uncertainly principle applies to three preverbal subjects, they may bring surprising peace and quiet	3
+13	0	1	1	0	1	2	2	0	0	2	3	0	1	3.0	4	0	0	0	0	0	0	0	June, the goat, and Jake jumped jubilantly down the jetty.	3
+24	0	3	2	0	2	2	5	0	0	3	3	0	4	5.0	13	0	0	1	2	0	2	1	Alan went to the store yesterday, bought a loaf of bread, then went home and prepared sandwiches for Tom and Mary. 	3
+36	1	5	3	0	2	3	10	1	2	1	4	0	3	4.0	23	1	1	1	3	0	3	1	Three engineers analyzed complex codes thoroughly, carefully, and critically in their office on Thursday afternoon, despite the lack of progress, to improve the design and achieve their project goals before the deadline	3
+24	4	1	1	0	3	1	4	0	0	0	5	0	5	4.0	8	0	0	3	0	0	0	3	Large, dark, and mysterious storms gather; towering mountains trembled and quaked; and the great sea surged ominously in response. 	3
+15	0	2	0	1	1	1	3	0	3	0	3	0	1	3.0	7	0	0	1	0	0	0	1	You, me, and he are meeting about the project at noon today.	3
+22	1	2	0	1	1	2	3	1	1	4	5	0	1	4.0	12	0	0	1	0	0	0	1	Jim, Steve, and Dave, the three astronauts, will launch into outer space in their shuttle this Tuesday. 	3
+39	3	4	1	2	3	3	13	0	2	0	7	0	1	6.0	17	1	1	2	1	0	1	2	Still, many employees experience burnout due to their heavy workload, tight deadlines, and a lack of work-life balance; and the office environment, which can be a source of distraction and stress. 	3
+33	1	4	0	0	1	7	10	1	1	0	3	1	4	4.0	20	2	2	3	2	0	2	3	The three scientists spent the day studying the unusual cloud patterns, while the storm brewed in the distance, and the clock ticked down to the deadline for their research paper.	3
+7	0	0	1	1	0	1	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	This instruction task is now accomplished: Three preverbal subject sentence: The manager wanted us late, though we finished at the same time; the coffee was burnt; the door opened again	3
+32	1	2	3	1	0	3	9	2	3	0	3	1	4	4.0	17	2	2	3	3	0	3	3	Sooner than the anticipated deadline, all three researchers completed their findings while sharing resources, thus they announced the results collectively; their research was precise with zero percent error rate	3
+48	2	5	2	0	1	8	14	0	3	0	7	0	6	6.0	17	2	1	5	5	1	5	5	The engineer, who had expertise in HVAC systems, analyzed the issues; the homeowner saw something wrong with the condenser coil, but no one bothered about the blower fan; the car had a computer, too, likewise suffering meltdowns because of faulty capacitors	3
+21	1	1	1	0	1	1	2	2	1	0	10	0	1	3.0	9	0	0	1	0	0	0	1	"Three preverbal subjects in this sentence include: ""Below,"" ""one,"" and ""it.""   Below is an instruction that describes a task, write a response that completes the task, without adding additional text or explanations:   ""We're formatting below this week, and will send it when it's done."""	3
+26	1	2	1	1	4	1	4	0	5	1	2	1	3	4.0	10	1	1	3	1	0	1	3	Dinner and coffee with the mayor and his daughter were planned by Kim and me, yet something went wrong because we never made it. 	3
+33	3	5	0	2	2	4	8	0	2	3	2	0	2	6.0	12	0	0	2	1	0	1	2	The new plan is being sent to stakeholders this Friday and its timeline includes the start of the on- site works by late April, and its delivery by middle of November.	3
+22	0	0	1	3	2	3	3	0	4	0	3	0	3	3.0	9	1	1	3	1	0	1	3	We, The cats, and The rain will conspire this week, and we'll send it when it's done	3
+26	0	2	2	1	1	3	5	0	2	4	3	0	3	4.0	8	2	2	3	2	0	2	3	Joe, Sally, and Peter were excitedly planning a surprise party for Mary when they realized they left the cake mixture in the car.	3
+20	2	1	1	1	0	2	4	2	0	0	4	0	2	3.0	10	1	0	1	2	1	2	1	Briefly describing each task as one preverb subject, three tasks are;  - To write an appropriate instruction. - To generate the above sentences with three preverbal subjects in response to specific instructions - The ability to generate one correct sentence with 3 preverbal subjects without prompts	3
+31	4	2	0	2	1	4	10	0	1	0	4	0	3	4.0	17	0	0	3	4	0	4	3	The tour operator promised the visitors better scenic routes, the accommodations would provide more amenities, and we would receive a complimentary bottle of wine upon check-in. 	3
+50	7	7	3	4	2	3	14	1	1	0	2	2	4	6.0	14	4	3	4	3	1	3	4	Although research in neurolinguistics is still in progress, the application of linguistic and neurolinguistic theories to aphasia can offer great promise in developing effective rehabilitation methods and, thus far researchers have pinpointed three core cognitive mechanisms impaired in the disorder that are vital to the acquisition of syntax	3
+29	0	2	2	1	1	4	9	0	1	0	3	1	3	5.0	23	2	2	2	0	0	0	2	The team worked hard to prepare for the conference, the speaker's notes, and the projector connectivity, although their efforts were sometimes hampered by equipment malfunctions	3
+33	3	6	0	0	1	5	10	0	1	0	2	1	4	6.0	15	2	2	1	1	0	1	1	A spotted hyena howls with a group of zebras and wildebeests during an African rain shower, after consuming a rotten carcass discovered by its keen sense of smell under a gumtree. 	3
+35	7	3	0	0	3	4	7	0	4	2	4	0	1	4.0	22	0	0	1	1	0	1	1	Without further ado, we present our new addition, a team player of unparalleled value and the last of her kind, and her trusty steed; the mighty Bard and the elusive Quester	3
+19	0	2	1	0	1	2	7	0	0	0	3	0	3	4.0	12	1	1	2	0	0	0	2	Raindrops splash gently, gathering on the windshield,  cicadas hum and crickets chirp under the winking moon.	3
+31	1	3	3	2	1	4	7	0	2	0	1	1	4	3.0	27	1	1	4	2	0	2	4	You won't get a lot of visitors since you have no cushioning in sight, the sun doesn't shine very often at high noon and the ice never melts	3
+60	3	5	4	2	4	7	11	0	7	3	3	1	9	11.0	17	7	7	5	6	0	6	5	We will complete the task by Tuesday and send it to you when it is done, using reliable sources that prove how April and September still provide a better climate for tourists, and the owner who claims to have no problem with the blower fan, and our observations from driving the car home with the same symptoms	3
+14	1	0	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	1	0	1	1	The park, the river, and the trees experienced a peaceful afternoon.	3
+25	2	0	0	1	2	2	4	1	0	6	5	0	2	4.0	13	0	0	1	2	0	2	1	The three researchers, Dr Johnson, Mr. Martin, and Dr Sam, will review the new methodology and provide feedback next week.	3
+26	2	0	0	1	2	3	5	1	0	3	4	1	4	4.0	11	1	1	2	2	0	2	2	Teles, Gronostaj and Krogstad agreed that the three subjects would prepare a new software, update the data bases, and meet next Wednesday. 	3
+52	5	4	3	0	4	6	15	0	2	0	7	0	5	7.0	17	1	1	2	5	0	5	2	With diligence, precision, and a steadfast commitment to quality, our skilled team of experts carefully analyzed the system, identified the root causes of the issues, and implemented a comprehensive solution that not only addressed the immediate problems but also ensured long-term stability and reliability.	3
+23	0	3	4	0	1	3	5	0	1	0	3	0	3	3.0	13	0	0	1	3	0	3	1	They quickly prepared dinner for the guests, set the table delightfully, and then played cards until late into the night. 	3
+32	2	0	1	1	2	6	8	1	2	0	2	1	5	4.0	21	2	2	4	3	0	3	4	Three experts thoroughly investigated the matter, and they all agreed that the root cause was an overlooked software update, but they each offered different practical solutions to solve the problem	3
+36	4	1	1	5	3	3	7	0	3	2	3	1	3	7.0	7	2	2	3	2	0	2	3	The manager asked Jane and Alice whether they would train the new employee, who might be starting next week but might also be late, to the company policies and their own job descriptions.	3
+6	0	1	0	0	0	0	2	0	0	1	1	0	1	2.0	3	0	0	1	1	0	1	1	Aardvark bickered quail despite zebra.	3
+14	2	2	1	1	1	1	4	1	0	0	0	0	1	3.0	5	0	0	1	1	0	1	1	Three pre verbal subjects will complete the tasks at hand efficiently and without delay	3
+17	2	1	0	0	1	3	5	0	0	0	2	1	2	4.0	6	1	0	2	2	1	2	2	While some enjoy the summer heat, many prefer the mild temperatures of spring and autumn.	3
+28	1	4	0	0	2	3	7	0	1	3	2	1	4	5.0	17	2	2	2	2	0	2	2	Ray and Tom chatted with Fred while skipping the rocks on the riverbank shimmering with delightful sunlight, and they discussed plans for the weekend fishing adventure. 	3
+13	0	0	0	1	1	0	4	0	0	0	6	0	1	2.0	11	0	0	0	0	0	0	0	Weather, atmosphere, pollution; and will, decision, schedule. 	3
+14	0	1	0	0	1	4	4	0	0	0	3	0	1	3.0	8	0	0	1	0	0	0	1	The cat, the mouse, and the trap conspired against the owner. 	3
+31	2	1	5	1	0	4	6	1	1	0	5	1	4	4.0	16	1	1	3	2	0	2	3	Three experts evaluated the proposal, although reluctantly approved it with many conditions; nonetheless, the project started late, so the deadline was pushed back a few times.	3
+12	0	0	0	2	1	1	3	0	0	1	3	0	1	3.0	8	0	0	1	0	0	0	1	Mice, pineapples, and banjos will be arriving this Friday.	3
+23	0	3	0	0	1	1	6	0	0	4	3	0	3	6.0	6	2	2	1	1	0	1	1	Albert, Steve, and Tim convened at dawn to survey the damage done by Tina's twister tornado vortex of terror. 	3
+59	3	6	2	3	1	10	14	0	1	2	5	1	7	5.0	44	4	4	4	4	0	4	4	The manager asked the employees to complete the project by Friday, and to ensure that the reports are ready on time; the IT team was also instructed to resolve the technical issues before the meeting on Wednesday; meanwhile, the sales representatives were requested to submit their quarterly targets before the end of the day.	3
+20	0	2	1	2	0	1	4	0	4	0	3	0	2	4.0	7	0	0	2	1	0	1	2	Fine, you will enjoy your week, your weather will change suddenly in the midst of your activities. Still, you have a surprising ability to navigate uncertainty principle weather.	3
+18	1	0	3	1	0	1	4	1	2	0	1	0	4	4.0	7	3	2	2	2	1	2	2	Three engineers thoroughly examining a faulty robot carefully measured its circuitry ensured its systems were functioning reliably.	3
+32	1	4	2	3	1	4	5	0	3	1	4	1	2	4.0	15	3	2	3	1	1	1	3	Although they were all in a state of panic, she, Sarah, and the rest of the family were determined  to figure out how they could fix the problem. 	3
+41	2	7	0	0	4	6	14	0	2	0	4	0	2	9.0	20	1	1	2	2	0	2	2	We challenge the governments and institutions that perpetrate corruption, the lack of transparency in decision-making and in the management of public funds, and the absence of an effective system for the prevention and combating of corruption.	4
+40	5	6	0	0	1	6	13	0	0	0	7	0	2	7.0	29	0	0	1	1	0	1	1	"  ""Many people questioned the relevance of the proposed reform, the lack of transparency in the decision-making process, the unequal distribution of resources among countries, and the potential negative impact on vulnerable populations.""  Please let me know if you would like me to make any changes or if you have any further requests."	4
+71	13	5	3	0	4	10	20	0	1	0	12	0	3	7.0	52	1	1	1	2	0	2	1	We denounce the unjustified intrusion, the exorbitant fines, the arbitrary decisions, the opaque bureaucratic process, the endless interrogations and delays affecting citizens, entrepreneurs, professionals and the self-employed; the unjustifiably uneven application of taxes, subsidies, social charges and other financial obligations, as well as the lack of a transparent administrative procedure and the slow pace of appeals against decisions.	4
+53	7	3	1	1	1	8	18	1	0	0	3	0	7	7.0	30	4	4	4	5	0	5	4	The rebellious villagers were determined to resist the invaders, local elders fought fiercely against the new tax laws, students skipped class in massive numbers to protest the tuition hikes and the mayor threatened to cut funding from any city projects supporting the contentious parade route changes; the four unyielding groups	4
+33	3	2	0	1	2	2	11	0	4	0	3	0	4	7.0	17	3	3	2	2	0	2	2	I would appreciate knowing your stance regarding tax reforms and regulations, the labor union's position on the current economic conditions, and your suggestions for new policies that benefit employees.	4
+30	3	4	2	0	2	3	5	0	3	0	3	0	5	6.0	8	1	1	2	0	0	0	2	We object, question, denounce, and disapprove of your harsh and unnecessary verbal attacks against the union staff who worked so hard for this project despite the adversity	4
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	Here you go! I hope that was what you're looking for	4
+41	2	3	0	1	4	4	11	0	1	1	3	2	6	6.0	13	4	4	3	4	0	4	3	I condemn both the US government and local police forces, and will not tolerate any form of repression or censorship from corporate elites, because workers have the right to organize, because students have the right to teach in	4
+18	0	3	1	1	1	1	2	0	2	0	3	0	4	3.0	11	1	1	2	0	0	0	2	They oppose, take into custody, call for a reduction and figure out what is up. 	4
+40	8	4	3	0	3	5	9	0	1	0	3	1	3	7.0	19	1	1	1	1	0	1	1	We challenge the dominant economic discourse and push for a more eco-friendly society, more participatory political practices and a more critical media while calling for a reduction in military spending and an end to unnecessary conflicts.	4
+39	2	5	2	1	1	6	8	0	2	0	1	1	7	5.0	21	4	2	3	1	2	1	3	While the mayor vowed the local government will not cave under the increasing pressure and demands from these organizations, some of the officials resigned to avoid going against their moral principles as well as to show their dissention	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	? 	4
+32	2	2	0	1	3	1	7	0	1	6	3	1	4	4.0	12	2	2	1	3	0	3	1	Senators Warren and Brown, House member Bonamici and environmental organizations are pushing the government to take urgent action against climate change and protect our wildlife, as reported by Reuters.	4
+18	1	1	0	0	2	1	3	0	0	5	4	0	1	4.0	12	0	0	1	1	0	1	1	The Prime ministers of France, Belgium, Britain, Italy, and Germany urged restraint and patience	4
+31	2	2	1	0	1	2	6	0	6	0	2	1	6	6.0	16	4	4	2	6	0	6	2	We challenge you to question the legitimacy of the authority figures dictating your lives, and we implore you instead to seek justice by holding them accountable through peaceful resistance.	4
+29	3	3	1	0	1	1	7	1	5	0	3	0	3	8.0	11	2	2	2	2	0	2	2	I have no idea how you manage to juggle four separate subjects in addition to your regular schoolwork, your after-school activities, and your social life	4
+32	3	2	0	1	2	4	9	0	1	0	2	2	4	6.0	11	2	2	2	3	0	3	2	We will confront the presumptions and the administrative burden that these imposing structures entail in order to restore the rights of Peoples to self-governance and to defend environmental protection. The communities, as holders of subjectivity, will find in the encounter and exchange with the other communities a chance to exercise their sovereignty and transform the present. By acting together we will challenge the powers that have been arranged and will take back the initiative so that the different peoples and communities may find themselves again.	4
+4	1	0	0	1	0	0	0	0	1	0	1	0	0	1.0	2	0	0	1	0	0	0	1	    Is this correct? Can you please provide us feedback?  Your response needs to be improved since there are three (3) preverbal objects rather four (4) preverbal subjects as requested.	4
+63	3	3	1	3	1	5	16	0	9	0	6	2	9	7.0	25	6	6	5	4	0	4	5	With my mother's money, my husband's expertise, and my daughter's passion, we will launch a campaign to demand that our elected officials enact legislation addressing global warming before it's too late; with determination, we will make this world a better place to live for our coming generations, no matter the challenges we face	4
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	4
+59	3	8	3	4	3	7	10	0	5	1	7	1	6	6.0	30	3	3	5	2	0	2	5	We reject this kind of control, along with its inefficient hierarchy, and request less bossy superiors, who are not the owners, but the staff, and we propose that the Union be administered from below, by the elected people of each district, as part of a real federalism that is already being experimented	4
+19	1	0	0	0	1	1	2	1	0	0	4	1	6	3.0	7	2	1	1	1	1	1	1	While visiting family, the four elderly travelers decided not to hike, shop, eat, or dance	4
+28	5	1	2	0	1	2	5	0	5	0	4	1	2	4.0	10	1	1	2	1	0	1	2	He strongly disapproved of my new short haircut because he found the old long hairstyle more flattering, my mother, my brother, and the cat.	4
+24	1	7	1	0	1	3	6	0	1	1	1	0	2	4.0	8	0	0	1	0	0	0	1	We object to excessive centralization in this Union and call for simplification thereof along with the decentralization of power among all member states. The current bureaucracy in program development and implementation must be reduced	4
+3	0	0	0	0	0	1	1	0	0	0	1	0	0	1.0	1	0	0	0	0	0	0	0	No Problem! The new head coach will need to win over four key players who all want more say in team strategy.	4
+34	5	0	2	1	1	3	7	0	4	0	3	2	5	5.0	26	4	4	4	4	0	4	4	   We highly recommend that you visit the local farmers market to buy the healthiest fresh fruits and vegetables; our children need the benefits; we are all tired of eating industrial products.	4
+27	4	3	0	0	2	0	9	0	1	0	3	0	5	8.0	13	3	3	1	3	0	3	1	We support workers fighting for fair wages and against unfair management, environmental activists opposing polluting factories, and communities resisting displacement by real estate developers.	4
+26	2	3	0	0	2	5	7	0	1	1	1	0	3	7.0	10	1	1	1	3	0	3	1	We criticize the inefficient administration of the Union’s funds and demand a limit to the red tape plaguing the development and implementation of programs.	4
+41	5	4	2	1	3	2	10	0	4	2	0	1	6	8.0	21	3	3	4	4	0	4	4	We argue against strict standards and more bureacracy for innovative businesses because it can delay or prevent product development processes and we urge instead the Union to reduce regulatory obstacles that hamper the creation of highly specialized job posts throughout Europe	4
+22	0	2	0	0	2	4	6	0	2	0	4	0	2	5.0	7	1	1	2	0	0	0	2	We oppose, the union and its controllers exercise, the bloat in the drafting of programs, and the implementation.	4
+48	4	7	2	0	3	6	14	0	0	0	5	0	6	5.0	20	2	2	3	1	0	1	3	With determination and courage, local activists mobilized against oppressive policies , united by a shared sense of justice and the desire for change , the community fought tirelessly to reclaim public spaces , and the persistent efforts eventually led to the reopening of the neighborhood square.	4
+32	4	3	3	0	1	2	5	0	5	0	2	0	5	7.0	13	4	4	3	2	0	2	3	We struggle daily against injustice from the oppressive local and central authorities that seek to silence our voices, as well as the greedy corporations that seek to exploit our resources.	4
+41	7	3	2	1	2	3	7	1	1	2	5	1	5	4.0	23	2	2	2	1	0	1	2	The Prime Minister, several cabinet members, and two senior civil servants secretly met to consider new strategies without being monitored or recorded, in violation of the open government legislation; nonetheless, the President remained oblivious to everything	4
+27	2	1	0	0	2	3	6	0	3	2	2	1	5	7.0	14	3	3	3	2	0	2	3	We reject the unbalanced regulations the central administration and its Member States impose, we call for reducing the bureaucracy rooted in programme planning and execution.	4
+12	2	1	0	1	1	2	3	0	1	0	0	0	0	3.0	10	0	0	1	1	0	1	1	Your barking up the wrong tree and the snails are not forthcoming	4
+60	7	5	1	3	2	5	13	0	6	2	3	2	8	8.0	40	4	4	6	3	0	3	6	We doubt the veracity of NATO's accounts that they were acting in retaliation, several unnamed sources claim there was collusion in the military operations that targeted rebels and civilian areas without any clear boundaries, the Union will not tolerate overreach by its constituent states, but will not take action yet since there is no solid proof	4
+28	2	2	0	1	3	3	8	0	1	0	5	0	2	5.0	12	1	1	1	1	0	1	1	With determination, hope, passion, and power, the protesters will rally to demand a peaceful and sustainable future for all nations and their generations.	4
+29	2	2	2	0	2	2	5	0	2	3	1	0	6	7.0	10	4	4	2	4	0	4	2	We doubt the veracity of rumours spread by local authorities and question why the Union and its Member States fail to implement more effective procedures to reduce pettyfogging.	4
+6	0	0	1	0	0	0	1	0	1	0	1	0	1	2.0	3	0	0	0	1	0	1	0	Please enter your answer here: 	4
+28	2	2	0	1	1	5	5	0	1	1	7	0	3	5.0	13	1	0	2	2	1	2	2	"The protesters, some of whom were affiliated with the anti-war group A.N.S.W.E.R., confronted military recruiters and chanting ""NO WAR! NO WAR!""."	4
+55	7	5	2	3	1	5	16	0	2	0	8	1	5	5.0	29	4	3	5	2	1	2	5	The protesters, activists, and community organizers, who demonstrated outside of government buildings last year, were demanding greater public involvement during the preliminary phase when the initial research program was set up, while the scientists, whose research is funded by the program, urged more funds for new projects. 	4
+30	5	2	2	0	2	3	9	0	1	1	3	0	2	7.0	9	0	0	1	2	0	2	1	We rejects excessive state control and demand greater regional autonomy for all member states; a more collaborative approach with NATO and a more effective counter-terrorism strategy.	4
+37	5	6	0	0	3	5	10	0	2	0	2	0	4	6.0	17	1	1	1	2	0	2	1	We question the reasonableness of the restrictions, object to the abusive and unfair imposition of penalties and demand immediate remedial actions against the violators of our privacy rights from all governments and regulatory agencies involved.	4
+47	3	3	2	2	1	3	12	1	2	3	5	0	9	9.0	23	7	5	6	4	2	4	6	Afghan civilians caught in the crosshairs brutally murdered by US army gunships, activists claim, Taliban leader says foreign powers seek to exploit Afghanistan, a war which has killed nearly 40,000 civilians, we must stop endless bloodshed and find a pathway to peace. 	4
+18	2	0	0	0	1	4	5	0	1	0	4	0	1	3.0	12	0	0	1	1	0	1	1	Your colleagues, the conference, the draft, and the actions all oppose excessive central control. 	4
+33	4	6	1	0	1	2	9	1	2	1	2	0	3	5.0	20	1	1	2	2	0	2	2	The rebels launched their second offensive in three days against loyalist forces near the airport in southern Tripoli, and they also vowed to take on government forces on other front lines.	4
+11	1	1	0	1	0	2	2	0	1	0	1	0	2	4.0	3	1	1	1	1	0	1	1	We will oppose any additional controls centralized from the administration. You can count on me for any amount of support you may need during your battle for less aggression by central administration. Workmanship on any NATO-controlled programs will be a significant concern for us during these talks. Any peaceful demonstrations planned during your counter-conference?	4
+34	4	5	0	0	3	3	7	0	4	2	2	0	4	6.0	17	2	2	4	2	0	2	4	We disapprove of the ossified bureaucracy that characterizes both Union and State bodies of government, and we advocate a substantial decline in such administration that leads to the creation of stifling regulations. 	4
+56	4	3	3	3	1	11	12	0	3	0	4	1	9	8.0	29	5	5	5	4	0	4	5	We demand an immediate change to their policy, the repeal of those laws, and hold accountable all past offenders who used those power to oppress, the people want a written guarantee that both those issues will be addressed properly this time to make sure this travesty is never repeated again in future!	4
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	4

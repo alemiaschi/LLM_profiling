@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+10	0	0	2	1	0	1	2	1	0	2	0	1	0	0	1	1	0	3.0	0	4	I will comply, thank you for the instruction.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+7	1	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	5	Yes of course you are correct.	0
+8	0	0	1	0	0	2	0	2	0	1	0	1	1	0	1	1	0	2.0	0	3	The cat will have a squeaky ball.	0
+7	0	0	0	1	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	5	Lily had a bath in the lake	0
+7	0	0	0	1	0	2	1	2	0	1	0	0	0	0	0	0	0	2.0	0	5	There was no car in the garage	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purrs on the mat.	0
+6	1	0	2	0	0	1	1	0	0	0	0	1	0	0	1	0	0	2.0	0	4	Of course, you can.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat purred contentedly on the window sill.	0
+5	0	0	1	0	0	1	0	0	1	1	0	1	0	0	1	1	0	1.0	0	2	Alice was eating eggs.	0
+5	0	0	1	0	0	0	0	0	1	2	0	0	0	1	1	0	0	2.0	1	2	Mary love to dance.	0
+5	0	0	1	0	0	0	0	0	2	1	0	1	0	0	1	1	0	1.0	0	2	Paul is watching Netflix.	0
+12	3	1	1	0	0	0	2	0	0	2	0	1	2	1	2	0	0	5.0	1	3	I will make sure they get there as soon as possible.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The caterpillar ate the leaf happily.	0
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog happily chased the cat.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog purred contentedly on my lap.	0
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The bird landed peacefully on the tree branch.	0
+9	2	0	1	1	0	0	2	0	0	1	0	1	0	0	1	0	0	2.0	0	4	I cannot agree much with you there.	0
+16	1	0	3	1	1	3	1	2	0	0	0	2	1	0	2	0	0	2.0	0	14	And the answer is, without any further ado, yes of course you can!	0
+11	2	1	1	1	0	1	1	1	1	2	0	0	0	1	2	0	0	3.0	1	4	Sophia laughed gleefully as she ran quickly from the room.	0
+7	0	0	1	1	0	1	0	1	1	1	0	1	0	0	1	0	0	2.0	0	3	Mary will go to the shop.	0
+7	0	0	1	1	0	1	1	0	1	2	0	0	0	1	1	0	0	3.0	1	3	I love dancing on Friday nights. 	0
+7	1	0	1	0	0	1	1	0	0	1	0	1	0	0	1	0	0	2.0	0	5	Yes of course you can 🕊️.	0
+3	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	Its snowing 	0
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that! The cat sat.	0
+9	0	0	1	0	0	4	1	0	0	1	1	1	0	0	1	1	0	3.0	0	5	I will have 3 ice cream cones today.	0
+8	2	0	0	1	0	1	2	0	0	1	0	1	0	0	1	0	0	2.0	0	5	It is raining in my country right now	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purrs.	0
+5	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	3	You will never understand.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The bird swooped down towards the field.	0
+6	0	0	1	1	0	1	1	0	0	0	0	1	0	0	1	0	0	2.0	0	4	yes of course you can.	0
+10	1	0	0	2	1	2	1	0	0	2	0	0	0	1	1	0	0	4.0	1	3	And so she waited in hope for deliverance to come	0
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	A big blue whale breathed quietly in the deep ocean.	0
+6	1	0	2	0	0	1	1	0	0	0	0	1	0	0	1	0	0	2.0	0	4	Of course, you can.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the window.	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Lol	0
+6	2	0	0	0	0	1	1	0	0	2	0	0	0	1	1	1	0	2.0	1	2	Money makes everything turn round smoothly	0
+6	1	0	0	0	0	0	2	0	1	1	0	1	0	0	2	0	0	2.0	0	3	I wish it were Friday already	0
+6	2	0	1	0	0	0	1	0	0	0	0	2	0	0	1	0	0	1.0	0	2	I will be there soon.	0
+7	0	0	0	1	0	0	2	1	0	0	0	1	0	0	1	0	0	2.0	0	3	Its not any of you lol	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	4	I will have my tea now please.	0
+4	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Yes of course! I'll give it a try immediately.	0
+5	0	0	2	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	3	Sure, no problem.	0
+9	1	0	2	0	0	1	1	1	0	1	0	1	1	0	1	1	0	3.0	0	3	You are correct, always trust no one.	0
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	0	0	0	2.0	0	5	There is a cat on my lap.	0
+12	1	0	2	0	0	3	0	2	1	1	0	1	0	0	1	1	0	3.0	0	6	Yes, here's the sentence: Ella licked the ice cream	0
+16	0	0	1	2	0	4	0	3	1	2	0	1	1	1	1	2	0	6.0	1	4	"Bill has got an answer to the previous task to generate a sentence without verbs. He has written, ""Bill has an egg."""	0
+12	0	0	1	1	0	3	1	2	1	2	0	0	0	1	1	1	0	3.0	1	7	I love to play tennis every Tuesday at the city park.	0
+24	0	0	6	3	0	6	1	2	2	2	0	1	0	1	2	0	0	4.0	1	18	"Lionel said to his cousin, Sinead, on the phone, ""The ice cream truck doesn't come until summer."""	0
+9	1	0	1	0	1	2	0	0	0	2	0	2	0	0	1	0	0	2.0	0	3	Parking spaces will be numbered and clearly labeled.	1
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	Amazonian wildfires rage across the landscape uncontrolled.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The snowplow cleared the road.	1
+22	1	0	3	2	1	5	1	2	2	1	0	1	3	0	1	1	0	4.0	0	11	Rachel Brown, an American artist and designer, is currently exploring the potential of upcycled plastic for her sculptural assemblages.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The eagle soared gracefully across the sky.	1
+6	1	0	0	0	0	1	0	1	2	1	0	0	0	0	1	1	0	2.0	0	3	Fred Smith completed the project quickly	1
+22	1	0	1	3	1	8	1	3	0	1	0	1	1	0	1	0	0	4.0	0	7	The airport's location was deliberately chosen for its proximity to the city center and good connections to the transport network.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+6	1	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Amy quickly typed the sentence.	1
+13	1	0	3	1	0	1	0	0	5	1	0	1	0	0	1	0	0	3.0	0	5	Riverside City College (RCC) is situated northwest of downtown Riverside.	1
+7	0	0	1	0	0	1	0	0	2	1	0	0	2	0	1	0	0	3.0	0	2	Tropical Storm Olaf formed last night.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The elephants roam freely in the park.	1
+12	1	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The eagle swoops down to snatch a trout from the stream. 	1
+19	1	0	1	3	1	4	0	2	3	1	0	2	1	0	1	0	0	4.0	0	6	The Amazon rainforest is located in South America and is home to an incredibly diverse array of species.	1
+19	1	0	3	2	0	5	0	3	2	1	0	0	2	0	1	0	0	4.0	0	13	Joe Johnson, once a star basketball player at the local university, walked into the crowded gym.	1
+23	2	1	5	1	0	3	0	1	7	2	0	1	0	1	2	0	0	4.0	1	14	Runway construction at Richard L. Jones, Jr. Airport (IATA: RVS) will begin as soon as the weather improves.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The car chugged up the hill.	1
+9	0	0	1	1	0	2	1	0	0	1	0	1	2	0	1	0	0	2.0	0	4	African elephants are known for their distinctive tusks.	1
+31	2	0	9	1	1	3	0	2	9	1	0	2	1	0	1	0	1	4.0	1	16	"Richard L. Jones, Jr. Airport (IATA: RVS) (often called the ""Riverside Airport"") is south of downtown and is a general aviation airport."	1
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Mary's lap.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The volcano erupts violently.	1
+22	0	0	5	2	0	2	1	1	9	1	0	1	0	0	1	1	0	3.0	0	17	Brian Johnson will fly his plane out of Richard L. Jones, Jr. Airport (IATA: RVS) this afternoon.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The airplane flew rapidly through the sky.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly on the horizon.	1
+28	0	0	2	2	2	7	1	3	1	4	0	1	5	2	2	1	1	7.0	3	7	Flying over the Andes presents some unexpected challenges, including strong jet stream wind shear and steep terrain that can make for an uncomfortable and unpredictable flight.	1
+14	0	1	1	2	0	3	1	3	0	2	0	1	0	1	2	0	0	3.0	1	6	The sun was setting over the horizon as I walked along the beach.	1
+8	0	0	1	1	0	2	0	2	1	1	0	0	0	0	1	1	0	3.0	0	2	The airport serves the city of Portland.	1
+9	0	0	2	1	0	3	1	1	0	1	0	0	0	0	1	1	0	3.0	0	3	Cats purred __________ the laps of their owners.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The plane soared over the mountains.	1
+14	0	1	1	0	0	5	1	2	0	2	0	1	1	1	1	2	0	3.0	1	5	The company will expand its production capacity by building a new manufacturing facility.	1
+6	0	0	1	0	0	1	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	The polar bear is swimming.	1
+10	0	0	1	1	0	3	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	The tiger is stalking its prey through the forest.	1
+20	1	0	1	3	0	5	0	2	0	1	1	1	5	0	2	1	0	4.0	0	11	The new smartphone can stream video in crystal clear quality with only one small window open on the screen.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly over the city.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The volcano erupts.	1
+16	1	0	2	2	0	4	1	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The train chugs along the coast, slowly making its way to the nearby town.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cheetah speeds down the savannah.	1
+15	2	0	2	2	0	1	0	1	3	1	1	1	1	0	1	0	0	3.0	0	12	Buddhist is one of the fastest-growing religions globally, especially in Southeast Asia	1
+7	0	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Sally parked outside the movie theater.	1
+26	2	0	9	1	0	1	0	2	9	2	0	0	0	1	1	0	0	4.0	1	8	"The aircraft landed safely at Richard L. Jones, Jr. Airport (IATA: RVS) (often called the ""Riverside Airport"")."	1
+15	0	0	1	2	0	5	0	3	0	1	0	1	2	0	1	1	0	4.0	0	10	The company will issue a new set of regulations for all employees next month.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	The penguins froze in their tracks. 	1
+13	0	0	1	1	1	6	0	0	0	3	0	1	0	1	1	2	1	4.0	2	6	Drinking lemon water can help boost metabolism and aid digestion after meals.	1
+6	1	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The plane is flying north.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The airplane soared skyward.	1
+13	1	0	2	2	0	4	0	2	0	1	0	0	1	0	1	0	0	3.0	0	7	The aircraft climbed gradually up the ladder-like rungs of ascent.	1
+5	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The polar bear slid.	1
+8	1	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The snowpllow driver cleared the streets rapidly.	1
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Birds fly south for the winter.	1
+18	1	0	1	2	0	7	1	1	0	2	0	1	0	1	2	0	0	4.0	1	4	The company's board members were startled when they learned about executive's misuse of company credit.	3
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	4	In the beginning, the virus replicated uncontrollably spreading terror across the country;	3
+15	0	0	3	0	1	3	1	3	0	3	0	1	0	0	1	3	0	3.0	0	9	She will paint a house, fix a fence, and trim a tree.	3
+4	0	0	1	0	0	0	0	0	0	3	0	0	0	2	0	1	0	2.0	2	1	Enroll educate enrich.	3
+9	2	0	2	0	0	3	1	0	0	1	0	0	0	0	1	1	0	3.0	0	5	She always drives carefully ______________ obey traffic rules.	3
+19	0	0	3	1	1	5	2	1	0	4	0	0	1	1	1	2	0	4.0	1	10	The company decided to expand its operations, invest in new technology, and diversify its product line.	3
+16	1	0	3	2	1	3	1	2	0	3	0	0	0	0	1	0	0	4.0	0	5	The puppy romped, wagged, and barked excitedly at the sight of its owner.	3
+18	3	0	2	2	1	3	2	2	0	3	0	0	0	1	2	0	0	4.0	1	6	She climbed alone up the mountain and skied down, her blades slicing effortlessly through the snow.	3
+26	4	0	5	1	0	2	2	1	1	4	0	2	2	2	2	3	1	3.0	3	7	Agreed, Enron's reputation had been sullied further by the recent _______________, which now made it even more essential to rebuild investor _______________.	3
+22	1	0	3	3	1	5	0	3	1	3	1	0	0	0	1	1	0	3.0	0	13	The cat purred contentedly on Jack's lap, pawed at the keyboard, and typed a sentence with three verbs.	3
+25	0	0	3	2	1	4	3	3	0	4	0	1	3	3	3	1	0	5.0	3	22	She decided to embark on an adventure, exploring distant shores, and the only thing she took with her was a curious heart.	3
+18	0	0	3	2	1	5	0	4	0	3	0	0	0	0	1	1	0	4.0	0	5	The lioness prowled, pounced, and deposited a kill in the shade of a baobab tree. 	3
+14	1	0	3	1	1	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	The elephant will soon stomp upon the zebra, tiger, and buffalo.	3
+17	2	0	2	1	1	2	2	1	1	3	0	1	1	0	1	3	1	3.0	1	6	Having finally received the letter, John eagerly opened it and read it with great anticipation.	3
+12	0	0	2	0	1	3	0	3	0	3	0	0	0	0	0	3	0	3.0	0	9	Enforce the laws, reform the institutions, and eradicate the disease	3
+13	0	0	3	1	1	4	0	1	0	1	0	0	2	0	1	0	0	3.0	0	6	Enforcement, sanctions, and prosecution become mandatory for any non-compliant country.	3
+9	0	0	2	0	1	0	3	0	0	3	0	0	0	1	3	0	0	2.0	1	7	She decided, he drove, and they shopped	3
+16	0	0	3	2	1	3	0	2	0	3	0	1	1	0	1	0	0	3.0	0	9	The employee was reprimanded, transferred to a different department, and demoted in rank.	3
+22	1	0	4	2	1	3	1	3	0	4	0	1	2	1	1	0	0	3.0	1	11	Which is the best option for the upcoming vacation when choosing from the options; fly, train, and drive.	3
+8	0	0	1	0	0	3	0	1	1	1	0	1	0	0	1	1	0	2.0	0	4	Enid will attend the party tomorrow evening. She will bring her best dress and a new hat. They will be served champagne and canapes.	3
+25	1	2	1	2	2	6	0	4	0	3	0	4	0	1	3	1	0	5.0	1	8	The manager must quickly inform the board that the issue has been resolved and that the project will finish on time and under budget.	3
+17	1	0	2	2	0	4	0	3	0	3	0	0	1	1	1	1	0	3.0	1	8	In the face of public scrutiny, the company frantically regroups to address the mounting allegations.	3
+15	1	0	1	3	1	4	0	3	0	2	0	0	0	0	1	1	0	3.0	0	7	The cat lapped up the cream with satisfaction and purred contentedly on the sofa.	3
+16	0	0	1	3	1	4	0	4	0	3	0	0	0	1	1	0	0	4.0	1	5	The cat pounced on the mouse sprinted across the table and vanished in the bushes.	3
+7	1	0	1	1	0	2	0	0	0	1	0	0	1	0	1	0	0	2.0	0	3	Several astronauts swam vigorously towards space.	3
+23	1	0	2	3	1	8	1	4	0	2	0	0	1	1	1	0	0	6.0	1	6	The gorilla swung slothfully through the forest canopy, its massive frame blending with the vines and leaves like a living camouflage.	3
+20	1	0	2	1	2	7	0	2	0	3	0	0	2	0	2	2	1	3.0	1	7	In a world where technology reigns Supreme, algorithms predict success and obsolescence, and creativity dies a slow death	3
+14	3	0	3	1	1	1	0	1	1	3	0	0	0	1	1	0	0	4.0	1	4	Mary smiled brightly, skiing skillfully, and dancing joyfully on the ice.	3
+13	0	0	4	1	1	3	0	1	0	1	1	0	1	0	0	0	0	3.0	0	7	Hunting, snaring, and capturing, all in one thrilling afternoon.	3
+13	0	1	1	2	0	3	2	1	1	2	0	0	0	1	2	0	0	3.0	1	7	Terry ran toward the store with his coat slung over his shoulder.	3
+9	1	1	1	0	0	1	0	0	1	2	0	0	2	1	1	1	0	3.0	1	3	Enron profited significantly without incurring direct environmental costs.	3
+17	0	0	3	3	1	3	2	2	0	3	0	0	0	0	1	2	0	3.0	0	11	She walked to the river, picked up a fish, and cooked it for dinner.	3
+16	0	0	3	1	1	5	0	3	0	2	0	0	1	0	2	0	0	3.0	0	5	The sun set, the cat purred, and the artist painted with vivid brushstrokes.	3
+18	0	2	3	1	0	5	0	2	0	3	0	2	0	2	3	0	0	3.0	2	6	Mother, the judge, declared that the suspect would remain in custody unless bail is secured.	3
+10	1	0	0	1	0	1	2	1	0	2	0	1	0	1	1	1	0	4.0	1	3	She was eagerly awaiting for someone to explain the solution	3
+12	1	0	3	1	0	2	0	2	0	3	0	0	0	0	1	0	0	3.0	0	4	The snowflakes twirled, spun, danced in the breeze outside.	3
+24	1	0	3	1	1	5	0	4	0	3	0	2	3	1	1	2	0	4.0	1	9	The new employee will soon learn the skills, adopt new behaviors, and prove to be a valuable asset to the team.	3
+5	0	0	1	0	0	2	0	0	0	2	0	0	0	1	2	0	0	2.0	1	2	Enroll ignites enriches energizes.	3
+9	1	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	The cat purred contentedly on Steve's lap.	3
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The elephants slowly trumpeted in the heat.	3
+13	0	0	2	0	1	3	1	3	0	3	0	0	0	0	1	3	0	3.0	0	8	She washed the dishes, ironed the clothes and swept the floor.	3
+7	0	0	0	1	0	2	0	0	1	2	0	1	0	1	1	1	0	3.0	1	3	Jenny will cook eat play before bed	3
+14	0	0	2	3	0	2	1	2	0	3	0	1	0	0	2	0	2	3.0	2	12	Based on the given instruction, the sentence I came up with is: The puppy chased the squirrel while eating a cookie. 	3
+16	0	0	3	1	1	7	0	1	0	3	0	0	0	0	2	1	0	4.0	0	9	The baker brewed bread, barista poured coffee, and chef sliced ham for lunch.	3
+18	0	0	4	1	1	6	0	3	0	2	0	0	1	0	1	2	0	3.0	0	5	The chef stir-fries, seasoned the sauce, and garnished the dish with fresh herbs.	3
+14	1	1	2	2	0	1	4	1	0	2	0	0	0	1	2	1	0	3.0	1	6	The ball bounced between them, until she threw it back to him.	3
+16	0	0	3	1	1	5	0	2	0	2	0	1	1	1	1	0	1	3.0	2	9	Enjoying, jumping, and snoring were the main noises coming from the living room.	3
+20	1	0	3	3	2	3	1	2	0	4	0	0	1	1	1	0	0	4.0	1	13	They walked down the street, laughing and waving at passersby, and eventually arrived at the cozy café.	3
+13	2	1	0	1	0	3	3	0	1	2	0	0	0	1	2	1	0	4.0	1	3	His family vacation to Hawaii began as soon as he quit his job	3
+18	2	0	3	1	0	3	3	1	0	3	0	0	2	1	1	2	1	5.0	2	11	Her father, finding himself stuck on a narrow ledge, carefully navigated downward using his feet.	3
+16	1	0	1	2	1	3	2	2	0	3	0	0	1	1	1	1	0	4.0	1	6	She walked slowly toward  the lake, admiring its placid surface and listening for the fish	5
+41	2	0	4	6	2	11	2	8	0	4	1	0	0	1	1	4	0	8.0	1	15	The astronauts launched themselves into the zero gravity, conducted experiments on the stars above, and took photographs of the planet below, all with a sense of wonder and a desire to share their experience with the world.	5
+21	0	0	5	0	1	5	0	5	0	5	0	0	0	0	5	0	0	4.0	0	17	The lion leaped, the tiger pounced, the fox sneaked, the hawk swooped, and the snake slithered.	5
+53	4	3	5	3	1	8	7	4	0	11	0	1	2	10	5	4	0	10.0	10	18	She swam quickly away from the dock, eager to escape the chaos that surrounded her, but soon discovered that the river current was stronger than anticipated, forcing her to fight against the rushing water, which caused her heart to race with fear as she struggled to remain afloat.	5
+25	0	1	2	2	2	7	1	4	0	3	0	0	3	2	1	2	0	6.0	2	11	The hunter stalked the deer, tracking its every move with stealthy steps and cunning strategy before striking with a swift and deadly strike.	5
+18	1	0	3	3	0	3	1	3	0	3	0	0	1	0	1	0	0	3.0	0	11	I ran towards the river, dove into the cool water, swam away from the shore.	5
+13	0	0	4	0	1	2	0	2	0	4	0	0	0	0	1	1	0	3.0	0	7	The lion roared, pounced, chased, and cornered the antelope.	5
+21	1	0	4	2	1	4	1	2	0	4	1	0	1	0	1	1	0	3.0	0	15	She sprinted toward the finish line, leaped overhead, pirouetted on one foot, and sang an entire opera.	5
+15	0	0	5	1	1	2	0	1	0	5	0	0	0	0	1	0	0	3.0	0	9	The children tiptoed, crept, scurried, darted, and squealed in fright.	5
+11	0	0	3	1	1	1	1	1	0	3	0	0	0	0	1	0	0	3.0	0	5	They swam, dived, and played with the dolphins.	5
+17	0	0	6	1	1	2	0	2	0	5	0	0	0	0	1	0	1	3.0	1	7	The fox, frightened, cowered, darted, dived, and disappeared into the underbrush. 	5
+35	1	1	5	4	2	7	3	4	0	5	0	1	2	2	2	2	0	6.0	2	12	Her fingers froze mid-air, sinking into the cool water, and dragging the coral-covered weight behind her, until she was tumbled through the rapids and into the sunlit calm below.	5
+26	2	1	2	3	1	4	4	2	0	7	0	0	0	3	2	2	0	6.0	3	7	She walked slowly towards him wielding a flaming pitchfork, hissing loudly and spitting flame as he advanced on her slobbering snarling like an animal.	5
+12	0	0	5	0	1	1	0	1	0	4	0	0	0	0	1	0	0	2.0	0	7	The lion, roared, pounced, stalked, and slept.	5
+20	0	0	3	0	1	5	0	5	0	4	0	0	1	1	1	4	0	4.0	1	9	The witch conjured a storm, howled a curse, and struck a match to ignite an ancient spellbook.	5
+30	0	1	4	1	2	4	5	2	1	7	0	2	0	4	4	4	0	4.0	4	25	I was hoping that Sarah would help us solve the problem, but she failed, allowing the situation to deteriorate, and her lack of effort disappointed everyone.	5
+14	0	0	1	2	1	5	0	1	0	4	0	0	0	1	1	2	0	4.0	1	7	Herons perched on pylons pierced puffing planks and picked prawns in the puddles.	5
+16	0	1	3	1	1	2	2	2	0	4	0	0	0	1	2	1	0	4.0	1	5	She watched the children as they laughed, chased, and danced around the playground.	5
+42	2	0	3	7	2	12	1	5	0	7	0	0	1	4	3	0	0	9.0	4	16	I see the tree's limbs like grasping arms entwined in an amorous kiss, birds fliting and fluting sweetly from the boughs above, and the sun's rays gleaming through like jewels in a wedding dress adorned with stars.	5
+15	0	0	5	1	1	1	1	1	0	5	0	0	0	0	1	0	0	3.0	0	9	She spoke, thought, smiled, looked, and laughed during the interview.	5
+19	8	1	3	0	1	0	1	0	1	4	0	0	0	1	2	0	0	3.0	1	10	Joe laughed joyfully, then suddenly jumped loudly, but quietly cried grievingly until he finally jogged happily.	5
+31	2	0	3	5	2	7	3	1	0	6	0	0	1	1	1	1	0	5.0	1	16	Mosquitoes feasted on her sweat, swarmed around her face, hummed loudly on her arms and settled deep into the crevices of clothing to bite and inflict further discomfort.	5
+10	0	0	4	0	0	0	1	0	0	5	0	0	0	0	1	0	0	1.0	0	8	She spoke, swore, shouted, shrieked, silenced	5
+24	0	1	1	2	3	4	3	1	0	6	0	1	0	3	2	2	0	7.0	3	6	They played football with the children and laughed with them until they were exhausted and needed to drink beer and milk to recover.	5
+16	1	0	5	1	1	1	0	2	0	5	0	0	0	0	1	1	0	3.0	0	9	The baby cried, cooed, giggled, hiccuped, and kicked all at once.	5
+26	1	0	5	2	1	5	3	4	0	5	0	0	0	0	1	4	0	3.0	0	20	She tore the ticket, tossed a fiver, punched him in the neck, snatched away his wallet, and bolted across the bridge. 	5
+28	1	0	5	1	2	7	3	3	0	5	0	1	0	1	3	4	0	4.0	1	20	The teacher encouraged the students, asked questions, graded papers, and gave presentations, but her favorites were always the ones who laughed at themselves.	5
+24	1	1	3	3	0	5	1	5	1	4	0	0	0	3	4	0	0	7.0	3	7	The fox leaped over the badger, who lunged under the bushes, while Luna purred atop the tree where the squirrel scampered.	5
+20	3	0	3	2	1	5	2	1	0	3	0	0	0	1	2	0	0	4.0	1	11	Its wings beat furiously, carried by wind and darkness, the owl hunted silently down upon its prey.	5
+32	2	2	2	3	1	8	1	6	0	4	0	0	2	2	4	1	0	5.0	2	19	She played the drums with a passion so intense that the crowd sang along, yet the guitarist's fingers moved with such precision that the melody flowed like a river. The bassist nodded, lost in his music, while the drummer's face lit up with excitement as the band jammed together.	5
+16	0	0	4	0	1	2	3	2	0	4	0	0	0	0	1	4	0	2.0	0	11	The cat cradled the bird, carried it, cuddled it, and cannibalized it.	5
+28	0	0	5	0	1	6	0	1	5	5	0	0	0	0	1	5	0	4.0	0	21	The tutor praised Lindsay's proficiency, questioned Alex's reliability, analyzed Daniel's behavior, doubted Emma's competence, and evaluated Julia's presentation.	5
+30	5	0	3	2	0	7	1	1	0	6	0	0	5	1	4	0	0	5.0	1	21	Lizards lazily lounged languidly, their legs limply lifting lightly from the luscious leaves; laughing loons luculently lorded lunar landscapes lithe lynxes lurked in long-forgotten luminescent cave	5
+21	0	2	2	1	0	6	1	2	0	4	0	1	2	3	3	2	0	5.0	3	6	It will snow as the wind melts over ice fields, creating intricate patterns as the ground hugs cold air.	5
+21	3	0	3	3	1	3	1	3	0	3	0	0	1	0	1	0	0	3.0	0	14	She walked quickly down the busy street, waved at a friend, and finally sat quietly in the park.	5
+16	0	0	8	0	0	5	0	0	0	2	0	0	1	0	0	0	0	2.0	0	13	 created, capturing, images, new born, happiness, innocence, fade).	5
+22	3	0	5	1	1	4	0	1	0	6	0	0	0	2	1	1	0	6.0	2	17	The bird wing fluttered, soared high, dived steeply to avoid predators, alighted on branches, and finally perched.	5
+20	2	0	6	1	1	1	2	0	0	6	0	0	1	1	1	1	0	3.0	1	13	I jumped up, shook my head, whispered, danced away, and smiled wickedly, feeling triumphant.	5
+23	2	1	4	1	1	6	3	2	0	3	0	0	0	2	2	2	0	5.0	2	10	She sang joyfully, tapping the tambourine with her feet while her band harmoniously played the guitar, bass, and drums. 	5
+19	0	0	5	0	1	3	4	1	0	5	0	0	0	0	5	0	0	4.0	0	15	The baby cried, her mother comforted, his family ignored, she sang, and they danced.	5
+25	0	0	5	2	1	8	0	3	1	3	0	1	0	0	1	1	0	5.0	0	17	Flying, diving, singing, dancing, and playing the accordion on the beach were all part of Sarah's fun-filled day	5
+43	1	2	4	4	1	13	0	6	0	5	3	1	3	1	1	5	1	4.0	2	21	In addition to writing this sentence, the computer must also calculate 6,702 times the number pi to 3 decimal points, recite the opening line of 4 Shakespearean sonnets, and invent a new species of mollusk before completing this task. 	5
+30	1	0	6	1	2	5	2	3	0	7	0	1	1	3	3	1	0	5.0	3	14	The dog was chasing, its furious barking echoing through the forest, and the fox quickly ran, leapt, and dodged, hoping to escape its pursuer.	5
+24	0	0	5	2	1	6	2	1	0	5	0	0	2	0	1	3	0	3.0	0	18	The tourists trudged through snow, trekked to remote villages, tried local cuisine, transmitted their stories, and transformed their perspectives.	5
+17	0	0	5	1	1	2	2	1	0	5	0	0	0	0	1	1	0	3.0	0	9	He laughed, joked, cried, danced, and hugged his friends at the party.	5
+21	4	0	4	2	1	3	0	3	0	4	0	0	0	1	1	0	0	5.0	1	7	The elephant danced energetically, trumpeting joyfully, stampeding through the trees, and eventually disappearing deep into the jungle.	5
+8	0	0	1	0	0	0	1	0	0	6	0	0	0	5	1	0	0	4.0	5	2	She ran swam walked danced sang laughing.	5
+33	1	0	4	4	1	8	2	7	0	5	0	0	1	0	1	5	0	3.0	0	23	I sliced the cake with the knife, served each person a generous portion, took the remaining slices to the kitchen, and wrapped them up tightly in the plastic bag.	5
+37	2	0	5	5	2	8	3	5	0	5	0	0	2	1	3	2	0	6.0	1	20	They quickly formed an army; the men threw themselves into their tanks and rolled across the landscape; a great cry went up; and then silence, punctuated by the distant rumble of guns.	5
+21	0	0	5	0	1	5	0	5	0	5	0	0	0	0	5	0	0	4.0	0	17	The dolphin leaped, the whale sang, the seagulls screeched, the waves crashed, and the boat rocked.	5
+34	2	1	1	3	3	4	3	3	0	8	0	2	1	4	4	2	0	9.0	4	7	It had been raining hard and I had to push and pull to get the canoe up on the sandy shore where we took shelter and waited for the sun to come out.	7
+30	3	0	2	2	4	5	3	3	0	5	0	1	1	1	4	1	0	4.0	1	18	The cheetah pounced on the rabbit and it started to sprint quickly in fear, but its legs were too slow and soon the cheetah caught and killed it.	7
+27	2	1	1	0	2	6	3	4	0	6	0	0	0	3	3	6	0	4.0	3	13	The manager told us to call the office if we wanted help and we immediately dialed the number and explained the situation to get assistance promptly.	7
+15	3	0	2	1	1	2	1	2	0	3	0	0	0	0	1	1	0	3.0	0	10	She ran toward the store, quickly grabbed the milk and ran back home.	7
+21	0	1	7	0	1	1	0	1	2	6	0	0	2	1	2	1	0	3.0	1	9	Jamie cooked, stirred, seasoned, served, and savored the spicy, saucy stew, while Tom watched.	7
+47	3	0	7	3	1	10	4	7	0	10	0	0	0	3	7	5	0	4.0	3	39	She walked in the door; he began playing piano; the kids ran down to the park; I started to cook dinner; Mom hung up the laundry; Dad fixed the fence; and then we all gathered around to watch the movie.	7
+36	2	2	1	2	1	6	5	2	0	8	0	2	2	5	3	4	0	9.0	5	10	I am always putting off laundry until tomorrow, yet every day I seem to have to wash my face before getting ready because the grime has collected and made it difficult to see my features	7
+8	0	0	0	0	0	0	1	0	0	7	0	0	0	3	1	0	0	3.0	3	6	She grabbed screamed shouted sung shined slept slid	7
+22	1	0	1	2	2	4	1	3	0	2	0	1	5	1	1	0	1	5.0	2	7	Generally speaking they were a friendly and responsive crew, making for a quick and efficient trip to a nearby island community	7
+14	0	0	3	0	1	3	1	2	0	3	0	0	1	0	3	1	0	3.0	0	8	The teacher lectured, the students discussed, and I took detailed notes.	7
+15	0	0	7	0	1	0	0	0	0	3	0	3	1	0	1	0	1	3.0	1	10	 drove, careful, has, driven, been, drove, and been. Please ensure that the sentence you provide meets the requirements of the task and also follows the format correctly.	7
+22	0	0	7	1	1	9	0	3	0	1	0	0	0	0	1	0	0	3.0	0	13	The baker bakes, mixes, kneads, rolls, shapes, glazes, and packages the dough for the pizza.	7
+23	2	1	1	2	1	2	4	2	0	5	0	0	3	3	2	3	0	5.0	3	7	I often find myself rethinking what i want before settling on the best answer and ultimately making the necessary adjustments as necessary. 	7
+9	1	0	2	0	0	2	1	1	0	2	0	0	0	0	1	2	0	2.0	0	5	They cleaned the kitchen, then baked cookies.	7
+21	2	1	1	1	2	3	4	2	0	3	0	0	2	1	3	2	0	4.0	1	9	They always eat it quickly before it gets cold and they make a big mess on the couch and carpets.	7
+17	0	0	7	0	1	1	0	1	0	7	0	0	0	0	1	0	0	2.0	0	13	The dog ran, jumped, fetched, rolled, played, howled, and cuddled.	7
+11	0	1	1	2	0	2	2	1	0	2	0	0	0	1	1	1	0	3.0	1	4	The cat cleaned himself before curling up on my lap.	7
+29	4	2	1	2	1	4	6	1	0	5	0	2	0	3	4	2	0	4.0	3	18	She always takes care to organize it neatly on his dresser before i get there but today the bag was packed before i could see inside of it.	7
+20	3	1	1	1	1	0	6	0	0	5	0	0	0	3	3	2	0	5.0	3	6	They always check it out and I usually have to fix it ourselves unless it needs to go back.	7
+21	1	0	5	1	1	3	2	2	0	6	0	0	0	1	1	2	0	4.0	1	12	They fed, groomed, walked, and trained the dog, then lounged beside him watching a movie marathon.	7
+12	0	1	1	0	0	0	4	0	0	3	0	1	1	2	2	2	0	3.0	2	6	I had to let it cool before I could taste it.	7
+18	2	0	1	2	1	4	1	3	0	2	0	0	2	1	2	0	0	5.0	1	7	The ball bounced across the yard and into the bushes, where its soft squeaks finally fell silent	7
+15	2	0	1	2	2	3	1	1	0	2	0	0	1	0	1	0	0	4.0	0	6	She often walks alone in the forest and searches for unknown herbs and mushrooms.	7
+12	1	1	1	1	0	0	4	0	0	3	0	1	0	0	2	1	2	2.0	2	4	Once they were done playing, they gave it back to me  	7
+11	0	1	3	0	1	1	1	0	0	4	0	0	0	1	1	1	0	3.0	1	5	 They cooked, walked, and wrote before going shopping.	7
+13	1	0	2	1	1	2	1	2	0	3	0	0	0	0	1	2	1	3.0	1	4	They usually spray-paint the wall and glue the picture on.	7
+11	0	1	0	0	0	1	2	0	0	2	0	2	2	2	2	0	0	4.0	2	6	I was delighted to learn that her favorite dessert had changed	7
+16	0	0	3	3	1	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	9	The dog ran around the tree, over the bridge, and through the gate.	7
+25	0	1	1	2	1	6	3	3	0	4	0	2	0	2	2	2	0	5.0	2	8	Our bags were weighed at the checkpoint and we were required to repack some of our belongings in order to meet the weight limit.	7
+18	1	1	2	1	2	2	2	2	0	5	0	0	0	1	2	2	0	3.0	1	11	The cheetah chased the rabbit until it tired and slowed down, then pounced and caught it.	7
+16	1	0	1	2	1	3	2	0	0	4	1	0	0	1	1	3	0	4.0	1	7	She decided to cook dinner then dished up two plates of spaghetti and served it.	7
+25	1	3	1	1	0	3	4	3	0	5	0	2	1	5	5	1	0	6.0	5	9	The manager listened patiently while i described the problem until he interrupted to ask if i was sure it was plugged into the wall.	7
+30	1	2	1	2	1	3	5	2	0	5	0	1	5	3	3	3	1	6.0	4	10	After she took it, she noticed several small tears and decided to take it to the dry cleaner before it was too late for the damage to become irreparable	7
+9	0	0	1	0	1	0	3	0	0	2	0	1	0	0	2	1	0	2.0	0	6	She called him but he didn't answer.	7
+38	1	1	4	3	2	6	5	5	0	7	0	2	1	3	4	3	0	6.0	3	12	We had gone to the restaurant, but before we could eat, we noticed a mouse running across the table, so my wife got upset and asked the waiter to move us to another table.	7
+32	3	1	2	1	3	4	5	1	0	7	0	0	3	3	3	3	0	5.0	3	20	He told her where to find a new job, and though she initially felt upset and demotivated, she later understood his reasons and started to look at potential job offers	7
+28	1	3	2	3	1	6	3	2	0	5	0	2	0	3	3	2	0	5.0	3	9	The snow had piled high, blocking my driveway and required that I push the cars out so that my kids could get to school on time.	7
+16	0	1	2	0	1	1	4	0	0	4	0	1	1	2	3	1	0	5.0	2	6	They blew it dry, and i had to wait until my hair was washed. 	7
+25	3	2	3	3	1	1	5	1	0	5	0	1	0	2	2	2	0	4.0	2	20	She sneaked up on him while he was reading, surprised him by tapping him on the shoulder, and then ran away quickly.	7
+30	2	2	3	3	2	2	6	2	0	6	0	1	0	3	4	2	0	7.0	3	6	I always heat up, and they shake, until I'm done before I put them in the dishwasher to rinse and then dry them with another towel.	7
+18	1	0	3	2	1	5	1	2	0	3	0	0	0	0	1	1	0	3.0	0	12	The monkey munched on mangoes, moved to a maple tree, and mysteriously misplaced its moon.	7
+19	1	1	1	4	0	5	2	3	0	2	0	0	0	1	2	0	0	3.0	1	8	The cat curled up against my ankles while i typed away on the laptop in the living room.	7
+28	1	1	1	2	1	3	5	2	0	6	0	1	1	5	3	2	0	6.0	5	15	We were anxious to meet again because he needed to return some documents to her and she needed to finish some work to submit to her boss.	7
+25	1	1	3	2	2	5	3	2	0	4	0	1	0	2	3	2	0	5.0	2	17	The cats chased its tail until it was time to play hide-and-seek and then they curled up for a nap.	7
+7	0	0	1	0	0	0	3	0	0	1	0	1	1	1	2	1	0	2.0	1	2	I'm glad you like it.	7
+33	3	0	4	3	1	3	6	2	0	4	0	4	1	3	4	3	0	5.0	3	15	I took some pictures, but by the time I was done, they had already cleaned it up, so now I won't be able to use it as evidence.	7
+35	2	2	3	4	0	6	4	3	0	5	0	3	2	4	4	2	1	7.0	5	10	As we are driving around in circles, i keep forgetting to buy the necessary supplies for the upcoming week, which is causing a sense of panic as we are already behind schedule.	7
+26	1	1	2	4	1	4	2	3	0	4	0	1	2	1	2	2	2	4.0	3	7	Once I was able to find a ride, we headed out for dinner and ended up dancing the night away at a local club.	7
+25	1	1	1	2	1	1	6	1	0	6	0	3	1	4	3	2	0	8.0	4	7	It will be fixed by the technician and he will test drive it to make sure it functions properly before returning it to me.	7
+19	2	1	1	0	0	2	3	1	0	4	0	2	1	4	2	2	0	6.0	4	4	I am looking forward to hearing how you were able to manage your schedule to complete these tasks.	7

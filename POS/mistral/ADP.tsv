@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADP_constraint
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat slept.	0
+3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	1	John walks.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The man eats an apple.	0
+3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	1	Sun rises.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I eat apple.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barks.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+8	1	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Sun rises high in the clear sky.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	1	John walks.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	She is happy.	0
+5	1	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	1.0	0	2	I speak English fluently.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+5	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The sun is up.	0
+6	0	0	1	1	0	1	0	0	1	1	0	0	1	0	1	0	0	2.0	0	3	Sun rises in eastern sky.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The red apple is sweet.	0
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	I run fast.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The ball bounces.	0
+5	1	0	1	1	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	I breathe in deep.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun shines.	0
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I am writing this.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun shines.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun shines.	0
+3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	1	Sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun shines.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I drink water.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun shines.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises above the horizon.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I eat an apple.	0
+11	0	0	1	1	1	3	1	2	0	1	0	1	0	0	1	0	0	3.0	0	3	I am a sentence with no prepositions or subordinating conjunctions.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I read a book.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun shines.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rises.	0
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	I am a human being.	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is under the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+12	0	0	1	2	0	4	2	2	0	1	0	0	0	0	1	1	0	2.0	0	9	I passed the store on my way to the bus stop.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is underneath the bed.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is in the box.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is beneath the bench.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog sat under the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is under the bed.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog hid behind the tree.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is under the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The ball was kicked behind the tree.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the hills.	1
+11	0	0	1	2	0	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	3	A bird is sitting on the branches of the tree.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is in the corner.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The apple was on the table.	1
+8	0	0	1	1	0	2	2	1	0	1	0	0	0	0	1	1	0	2.0	0	5	She placed her hand on the windowpane.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	I will place the book on the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat under the table.	1
+10	0	1	2	0	0	2	2	1	0	2	0	0	0	0	1	2	1	3.0	1	5	After finishing my meal, I paid the bill.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the hills.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	0	1	0	2.0	0	3	Behind the tall tree stood a hidden camp.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The ball was kicked under the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+10	0	1	2	0	0	2	1	2	0	2	0	0	0	0	1	2	1	3.0	1	5	After finishing the meal, I paid the bill.	1
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is at the foot of the hill.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The flowers are behind the fence.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat under the table.	1
+9	0	0	1	1	0	2	2	1	0	1	0	0	1	0	1	1	0	2.0	0	6	He played the game beside his younger brother.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The car is parked in the garage.	1
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	1	0	2.0	0	5	I put the vase on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat under the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept under the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+10	0	0	2	1	0	2	1	2	0	1	0	0	1	0	1	1	0	2.0	0	3	Under the bridge, we found a hidden path.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is under the table.	1
+7	0	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	She walked through the narrow alley.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book was on the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat by the window.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The ball bounced off the wall.	1
+13	0	0	1	3	0	4	0	4	0	0	0	1	0	0	1	0	0	3.0	0	4	The ball is under the table to the left of the door.	2
+11	0	0	1	2	0	4	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The apple is on the table beside the flower vase.	2
+13	0	0	1	3	0	4	1	3	0	1	0	0	0	0	1	1	0	3.0	0	10	She placed the books on top of the chair beside the window.	2
+16	0	0	1	3	1	5	0	4	0	2	0	0	0	1	1	0	0	6.0	1	3	The sun sets behind the trees and the moon rising in front of the mountains.	2
+13	0	0	1	3	0	4	0	4	0	0	0	1	0	0	1	0	0	3.0	0	4	The ball is behind the tree to the left of the house.	2
+12	1	0	1	2	1	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	5	The book is next to the window and under the table.	2
+14	0	0	1	3	1	4	0	4	0	0	0	1	0	0	1	0	0	3.0	0	4	The ball is beneath the bench and to the left of the door.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The book was on the table next to the window.	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat under the tree.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball was under the table near the window.	2
+12	1	0	1	2	0	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	4	The book was located on the table next to the window.	2
+11	0	0	1	2	1	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The ball is between the rocks and under the tree.	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat beside the fireplace.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the shelf under the table.	2
+12	0	0	3	2	0	3	0	3	0	1	0	0	0	0	0	1	0	2.0	0	6	Behind the door, under the carpet, hid the treasure.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The book was on the table next to the flowerpot.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The key is under the mat beside the door.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the shelf above the table.	2
+20	2	0	2	3	0	4	0	4	0	2	0	0	3	1	1	0	0	3.0	1	11	The cat sat behind the tall chair in the dimly lit room, looking anxiously towards the open door.	2
+12	0	0	1	2	0	4	1	3	0	1	0	0	0	0	1	1	0	4.0	0	7	The book on the table in the corner catches my eye.	2
+11	1	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat slept under the table next to the radiator.	2
+10	0	0	1	2	1	2	0	2	0	1	0	1	0	0	1	0	0	4.0	0	5	The flowers are arranged on and beside the windowsill.	2
+9	0	0	1	2	0	3	0	1	0	1	0	0	1	0	1	0	0	3.0	0	3	The sun sets behind mountains of golden fire.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The book is on the table next to the window.	2
+10	1	0	1	1	1	2	0	2	0	1	0	1	0	0	1	0	0	3.0	0	4	The flowers were scattered around and beneath the tree.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	5	The book is next to the table beneath the lamp.	2
+10	0	0	1	1	1	2	0	2	0	2	0	0	1	0	1	0	0	3.0	0	4	The flowers surrounded and lay beneath the large tree.	2
+13	0	0	1	3	1	4	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The book is on top of the table and beneath the lamp.	2
+15	0	0	1	2	1	5	0	4	0	2	0	0	0	0	2	1	0	4.0	0	7	The sun sets behind the mountains and the wind carries the scent of rain.	2
+12	0	0	1	2	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	4	The ball was thrown under the bridge and over the river.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table beside the window.	2
+11	0	0	1	2	1	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is under the bed and behind the door.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The book is on the shelf next to the window.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the desk by the window.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The ball is under the chair next to the table.	2
+12	0	0	1	2	0	3	0	3	0	1	0	1	1	0	1	0	0	2.0	0	7	The apple is hanging from the high branch over the pond.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table beside the chair.	2
+9	0	0	1	2	1	2	0	2	0	1	0	0	0	0	1	0	0	4.0	0	5	The dog ran under and over the table.	2
+15	2	0	1	3	1	3	1	2	0	2	0	0	0	0	1	0	0	3.0	0	6	The sun rises high above the hills but sinks quickly behind them at dusk.	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The car drove under the bridge over the pond.	2
+16	0	0	1	4	1	5	0	4	0	0	0	1	0	0	1	0	0	3.0	0	6	The bookshelf is to the left of the door and in front of the window.	2
+12	1	0	2	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	5	The bookshelf is next to the fireplace, beneath the window.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table beside the window.	2
+12	0	0	1	2	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	4	The ball was tucked under the bed and behind the curtains.	2
+11	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The sun set behind the mountains, illuminating their peaks.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The book is on the table next to the window.	2
+12	1	0	1	2	1	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	5	The ball is under the table and next to the wall.	2
+11	1	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	3.0	0	4	The book was on the shelf next to the window.	2
+11	0	0	1	2	0	3	0	3	0	1	0	1	0	0	1	0	0	2.0	0	6	The ball was placed underneath the bench beside the tree.	2
+10	0	0	1	2	0	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table beside the window.	2
+21	0	0	2	3	0	4	0	4	0	1	0	1	6	0	1	0	0	4.0	0	6	The red balloon was tied to the green tree beside the long blue river, near the huge purple mountains.	4
+17	0	0	4	4	1	4	0	4	0	0	0	0	0	0	0	0	0	3.0	0	8	Under the bridge, over the stream, across the meadow, and through the forest.	4
+29	0	0	5	5	0	6	1	5	0	1	0	0	6	0	1	1	0	4.0	0	21	Behind the tall tree, under the clear blue sky, beside the quiet pond, in front of the cozy cabin, we spent a pleasant afternoon.	4
+27	1	0	4	5	0	8	0	6	0	1	0	0	0	0	1	1	0	5.0	0	11	The monkey grabbed the banana from under the elephant, next to the tree, beside the crocodile's cage, above the tiger's den.	4
+22	0	0	5	4	0	5	1	5	0	1	0	0	1	0	0	0	0	2.0	0	15	Behind the door, under the carpet, beside the bed, above the painting, there lies a hidden treasure.	4
+9	2	0	4	2	1	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	7	 behind, over, by, and within.	4
+16	0	0	1	3	0	4	0	4	0	2	0	0	2	0	1	0	0	4.0	0	4	The bird perched on the low branch above the sparkling lake near the old tree.	4
+27	0	0	4	6	1	7	0	6	0	1	0	1	1	1	1	0	0	5.0	1	7	The book was on the table to the left, behind the vase filled with flowers, beneath the window, and beside the red chair.	4
+23	0	0	4	4	1	5	0	4	0	2	0	0	3	0	1	0	0	5.0	0	6	The sun sets behind the tall, dense trees, beyond the deep valley, and in front of the towering mountains.	4
+18	1	0	2	4	0	5	0	4	0	1	0	1	0	1	1	0	0	4.0	1	8	The book is on the table next to the window, behind the vase filled with roses.	4
+27	0	0	4	6	2	9	0	5	0	1	0	0	0	0	0	1	0	4.0	0	18	Under the table, beside the bookshelf, behind the grandfather clock, and above the painting on the wall hang photographs of family and friends.	4
+23	0	0	1	5	0	7	0	7	0	1	0	0	2	0	1	1	0	5.0	0	15	The apple on the tall tree behind the big house to the left of the street catches the eye of the passerby.	4
+19	0	0	2	4	0	5	1	5	0	1	0	0	1	0	0	0	0	3.0	0	12	In the box under the bed behind the door to the right, there's an old photograph.	4
+27	0	0	4	5	1	6	0	5	0	1	0	1	4	0	1	0	0	4.0	0	9	The ball was stuck between the large rock, under the thin layer of snow, beside the clear stream, and above the old log.	4
+18	0	0	4	4	0	4	0	3	0	0	0	0	3	0	0	0	0	3.0	0	9	Under the moon, beside the calm lake, amidst fragrant flowers, within an ancient fort.	4
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	9	The sun sets beyond the trees behind the hill over the lake.	4
+14	1	0	1	3	0	4	0	4	0	0	0	1	0	0	1	0	0	3.0	0	4	The book is on the table under the chair next to the window.	4
+24	1	0	2	5	1	7	2	4	0	0	0	2	0	1	2	0	0	6.0	1	7	The book is on the table next to my glasses, which are beneath the paper stack and beside the cup of tea.	4
+32	0	0	5	4	1	6	2	5	0	5	0	0	4	2	2	3	0	5.0	2	18	The sun sets over the distant mountains, beyond which lies the vast expanse of desert, and behind me flows a deep, serene lake, reflecting the surrounding trees.	4
+24	0	0	4	4	1	5	0	5	0	1	0	0	4	0	0	1	0	3.0	0	17	Behind the tall trees, between the bright flowers, above the blue sky, and beneath the starry night lay a meadow.	4
+16	0	0	1	4	0	5	0	5	0	0	0	1	0	0	1	0	0	4.0	0	4	The book is on the table beside the flowers under the tree in the park.	4
+18	0	0	2	4	0	5	0	5	0	0	0	1	1	0	1	0	0	3.0	0	8	The key was under the mattress beside the door, in the dark corner of the room.	4
+22	0	0	4	5	1	6	0	5	0	1	0	0	0	0	1	0	0	6.0	0	4	The sun sets beyond the hills, over the forests, underneath the clouds, and in front of the horizon.	4
+19	4	0	5	1	2	3	0	1	0	1	0	1	1	0	1	0	0	3.0	0	16	Beside, above, below, and beneath the table, various books and notebooks were scattered haphazardly.	4
+28	1	0	2	4	0	8	2	4	0	2	0	0	4	1	1	1	0	4.0	1	12	The small car maneuvered carefully between the narrow houses, revealing the garden behind its tall hedge to its envious neighbor's gaze from the street corner.	4
+14	1	0	1	3	0	4	0	4	0	0	0	1	0	0	1	0	0	4.0	0	4	The book is under the table next to the window above the door.	4
+18	0	0	4	5	0	5	0	4	0	0	0	0	0	0	0	0	0	3.0	0	11	Under the table, beside the window, behind the couch, in front of the TV.	4
+34	1	0	16	4	1	4	0	4	0	0	4	0	0	0	0	0	0	4.0	0	20	"** 1) ""Under the table,"" 2) ""next to the vase,"" 3) ""behind the sofa,"" and 4) ""above the fireplace."	4
+26	0	0	5	5	0	6	1	4	0	1	0	0	4	0	1	1	0	3.0	0	19	Beneath the bridge, beside the stream, in front of the old house, among the vibrant flowers, we discovered various hidden treasures.	4
+21	0	0	3	3	1	6	0	4	0	1	0	0	3	0	1	1	0	3.0	0	12	The sun sets overthe hill, behind the tall trees, among the blooming flowers and beside the tranquil pond.	4
+17	1	0	1	4	0	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	10	The cat sat under the tree behind the house on the left next to the fence.	4
+22	1	0	1	5	0	7	0	6	0	1	0	0	1	0	1	0	0	5.0	0	18	The book on the bottom shelf in the corner of the room behind the painting with the sunflower pattern hangs precariously.	4
+17	1	0	1	4	0	5	0	5	0	0	0	1	0	0	1	0	0	4.0	0	4	The toy was on the table under the bed next to the bookshelf behind the window.	4
+14	0	0	2	3	0	4	0	4	0	0	0	1	0	0	1	0	0	2.0	0	7	The book is under the table beside the window, behind the chair.	4
+20	0	0	4	4	1	5	0	5	0	0	0	1	0	0	1	0	0	3.0	0	8	The apple was between the cat, under the table, behind the chair, and above the dog.	4
+22	1	0	4	4	1	5	0	5	0	1	0	0	1	0	1	0	0	3.0	0	15	The book lies beneath the table, next to the lamp, above the mat, and behind the potted plant.	4
+16	0	0	1	4	0	5	0	5	0	0	0	1	0	0	1	0	0	4.0	0	4	The book was on the shelf under the table beside the window behind the door.	4
+23	0	0	3	5	1	6	0	3	0	3	0	0	2	0	1	0	0	4.0	0	11	The sun sets behind towering mountains, over rolling hills, under vast skies and within the tranquil atmosphere of the valley.	4
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	6	The ball rolls beneath the table beside the chair above the window.	4
+30	1	0	5	4	1	7	1	4	0	2	0	0	4	1	0	0	0	5.0	1	20	Behind the tall tree, under the clear sky, next to the babbling brook, and above the crawling snail, there are several interesting discoveries to make.	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The ball bounced off the wall, over the fence, beneath the tree, and into the pond.	4
+22	0	0	3	5	1	6	0	6	0	0	0	1	0	0	1	0	0	3.0	0	15	The book is to the left of the vase, on the table under the fan, and beside the window.	4
+16	0	0	1	4	0	5	0	5	0	1	0	0	0	0	1	0	0	4.0	0	10	The apple on the table under the umbrella behind the chair fell onto the rug.	4
+19	0	0	3	4	1	5	0	5	0	1	0	0	0	0	1	1	0	3.0	0	10	The monkey grabbed the banana from under the tree, between the rocks, and beside the stream.	4
+29	2	1	3	3	1	8	1	5	0	4	0	0	0	3	4	0	0	5.0	3	10	The monkey clung to the tree's trunk, its tail curling around a branch near the edge, while bananas dangled above and the sun setting behind.	4
+22	2	0	7	2	2	4	1	2	0	2	0	0	0	1	0	0	0	4.0	1	12	Beside, over, beneath, and behind the house, there are trees, a lake, and stones scattered.	4
+19	1	0	1	5	0	6	0	5	0	0	0	1	0	0	1	0	0	3.0	0	9	The ball was under the mat beside the door next to the window on top of the table.	4
+14	1	0	1	3	0	4	0	4	0	0	0	1	0	0	1	0	0	3.0	0	4	The book is on the table under the lamp next to the window.	4
+23	1	0	4	4	1	5	1	5	0	0	0	2	0	1	2	0	0	4.0	1	6	The book is beneath the box, which is on the table, next to the window, and above the shoes.	4
+15	0	0	3	1	0	4	0	2	0	1	0	0	3	0	1	0	0	3.0	0	11	The bird perched on the old tree's thick, wavy, hanging branches.	4
+42	0	0	5	10	0	12	1	9	0	2	0	0	3	1	0	1	0	5.0	1	29	In the garden among the roses, beneath the tall tree, on the edge of the pond near the lily pads, behind the hedge under the moonlit sky, hangs the bright red hammock with sunflowers printed on it.	6
+56	8	0	6	6	1	14	1	12	0	6	0	0	2	4	4	1	0	6.0	4	41	The tiny car dangled precariously from the edge of the cliff, the driver reaching towards the door, the dog frantically biting its paws in the backseat, the tree limbs swaying ominously in the wind above, the stones shifting ominously beneath, and the gnarled roots digging deep into the ground below.	6
+40	4	1	7	7	1	8	0	4	0	7	0	0	1	4	0	2	0	12.0	4	6	 hugging each tree tightly, peering beneath leaves, leaping suddenly in the midst of, hiding behind bushes until, finally jumping high with, and spotting a cluster of berries hanging over a crystal-clear stream.	6
+35	1	0	6	7	0	11	0	6	0	1	0	0	3	0	0	0	0	4.0	0	16	Beneath the tall oak tree, beside the still lake, in front of the old cabin, behind the hanging hammock, next to the blooming rose bush, above the fluttering butterflies.	6
+9	1	0	1	6	0	1	0	0	0	0	0	0	0	0	0	0	0	3.0	0	4	After beneath above between among in front of.	6
+29	0	0	6	7	1	9	0	6	0	0	0	0	0	0	0	0	0	4.0	0	13	Behind the tree, beside the pond, above the water lily, beneath the bird house, between the rocks, and in front of the hill.	6
+29	0	0	6	7	0	9	0	6	0	0	0	0	1	0	0	0	0	4.0	0	9	Under the bridge, beside the old oak tree, in front of the pond, behind the rose bushes, above the birdhouse, across the field.	6
+24	0	0	6	6	0	6	0	6	0	0	0	0	0	0	0	0	0	4.0	0	20	Beneath the bridge, beside the lake, atop the hill, across the forest, over the mountain, within the cave.	6
+33	1	0	7	6	1	8	0	2	0	5	1	0	1	1	1	0	0	5.0	1	27	Among the rocks, beneath three fallen trees, next to the babbling brook, between thick undergrowth, over towering cliffs, and above swirling clouds, life continued to flourish.	6
+28	3	0	5	5	2	6	0	5	0	1	0	0	1	0	1	1	0	5.0	0	22	The books on the shelves above and below, in front of, behind, to the left and to the right, surround the empty chair.	6
+39	0	0	6	8	1	10	0	8	0	3	0	0	3	2	1	0	0	6.0	2	17	The book lies forgotten on the table beneath the window, to the right of the fireplace, beside the vase filled with roses, above the old leather-bound journal, and behind the ornate mirror.	6
+45	1	0	6	10	0	14	0	6	0	2	0	0	4	2	0	0	0	7.0	2	31	Beneath the ancient tree's massive branches, in the midst of blooming flowers, surrounded by curious monkeys, on top of the stone table's edge, next to the shimmering lake, above the flock of geese flying towards the sunset.	6
+27	0	0	6	7	1	7	0	6	0	0	0	0	0	0	0	0	0	4.0	0	9	Under the rug, behind the table, on top of the book, between the chairs, in the drawer, and over the couch.	6
+59	2	2	5	11	1	16	2	12	0	6	0	0	2	4	4	2	0	6.0	4	38	The sun rose above the hills, casting shadows over the valleys behind me, as I watched birds fly beneath the trees alongside the calm lake, next to the picnic table laden with food, and the dog fetched a stick from the water before lying down near the boat under the shelter of an umbrella.	6
+30	1	0	1	8	0	10	2	6	0	0	0	1	0	0	1	0	0	6.0	0	12	The book was on the table beside my brother under the window next to the door in front of the closet near the wall behind our grandma's armchair.	6
+33	0	1	5	7	0	9	0	9	0	2	0	0	0	1	2	0	0	3.0	1	26	The sun rises from the east over the mountains, behind the trees, above the ocean, beside the sea, in the northeast while the birds fly under the sky.	6
+36	1	0	1	10	0	11	0	10	0	1	0	1	1	0	1	0	0	5.0	0	16	The book was sitting on the floor next to the table under the umbrella beside the bed in the middle of the empty room in front of the mirror at the end of the corridor.	6
+34	0	0	6	6	1	7	0	7	0	1	0	0	6	0	1	0	0	4.0	0	14	The boy hid under the old table, beside the dusty cabinet, behind the large books, above the empty chair, before the open window, and behind the heavy curtains.	6
+29	1	0	6	6	1	7	0	1	0	2	0	0	5	0	1	0	0	5.0	0	8	The moon rises majestically behind tall mountains, amidst swirling clouds, over vast oceans, across golden fields, through vibrant forests, and beneath endless skies.	6
+45	1	1	6	7	0	12	2	8	0	4	1	0	3	3	1	1	0	5.0	3	24	In the woods behind the old farmhouse, there's a stream flowing between two hills, under the dense shade of the willow trees, next to a rabbit hole, with the ducks gathering on its banks, overlooking a steep embankment.	6
+31	0	0	6	7	0	8	0	8	0	1	0	1	0	0	1	0	0	6.0	0	11	The ball was thrown over the fence, under the tree, beneath the bench, beside the river, behind the rock, at the foot of the hill.	6
+25	1	0	1	7	0	8	0	7	0	0	0	1	0	0	1	0	0	5.0	0	16	The apple was on top of the picture underneath the clock beside the books next to the lamp beyond the window above the bed.	6
+31	2	0	6	6	1	7	0	7	0	1	0	1	0	0	1	0	0	5.0	0	12	The ball was hit far under the bridge, over the fence, across the street, along the alley, down the hill, and finally into the bushes.	6
+22	3	0	6	5	1	3	0	1	0	1	0	1	1	0	0	0	0	4.0	0	17	Beside, beneath, above, between, behind, and in front of various elements were scattered around the room.	6
+42	1	0	5	9	1	10	0	8	0	1	0	0	7	0	1	0	0	6.0	0	17	The apple fell from the top of the tall tree behind the red house, next to the green lake, above the quiet village with narrow streets, beside the large church, and in front of the brown bakery.	6
+37	1	0	7	7	1	10	0	6	0	1	0	0	4	0	1	0	0	5.0	0	32	In the garden, among the roses, under the old oak tree, between the tall grasses, beside the babbling brook, and on top of the wooden bridge, various creatures reside comfortably.	6
+48	1	0	7	8	1	11	6	6	0	6	0	0	2	1	4	1	0	6.0	1	16	Behind her stood the tall figurines, above them the bats circled in the night sky, under the tree to her left, a little boy hid and watched, beside her the creek flowed gently, below her feet, stones crunched beneath her shoes.	6
+34	2	1	1	7	0	8	0	7	0	2	0	0	6	1	1	0	0	5.0	1	23	The bird on the left wing of the tall tree by the edge of the calm pond under the bright sun amidst dense clouds swung gently before flying away over the distant mountains.	6
+36	0	0	7	6	0	8	0	8	0	2	0	0	5	0	0	2	1	4.0	1	30	In the forest, among the tall trees, overlooking a tranquil lake, beneath a bright sun, under the shade of a huge tree, beside a small creek, hangs a birdhouse.	6
+37	1	0	5	9	0	10	0	9	0	1	0	1	1	1	1	0	0	8.0	1	11	The apple was on the table next to the vase with flowers, under the umbrella inside the tent, between the stones, behind the tall tree, above the dog lying on the rug.	6
+29	0	0	6	6	1	6	0	6	0	0	0	0	4	0	0	0	0	5.0	0	9	Behind the old man, in the library, beneath the heavy table, above the noisy children, beside the red flowerpot, and beyond the window.	6
+16	2	0	2	5	0	2	1	2	0	1	0	0	1	0	1	1	0	4.0	0	8	After beneath besides over under above beyond the mountain, they discovered a hidden lake.	6
+36	0	0	7	7	0	11	1	5	0	1	0	0	3	0	1	0	0	4.0	0	13	The monkey swung from branch to branch over the swelling river, under the scorching sun, beside its mirror-like reflection, across the narrow rapids, towards the opposite, lush bank.	6
+33	0	0	6	7	1	8	0	7	0	1	0	0	3	0	0	0	0	6.0	0	8	In the midst of the crowd, beneath the towering tree, beside the serene pond, above the soaring mountains, within the cozy cabin, and among the blooming flowers.	6
+23	0	0	1	7	0	8	0	6	0	1	0	0	0	0	1	0	0	4.0	0	12	The book lies beneath the table beside the vase on the window sill in front of the mirror across from the door.	6
+25	1	0	6	6	0	6	0	6	0	0	0	0	0	0	0	0	0	4.0	0	13	 on the table, beside the lamp, next to the window, opposite the doorway, under the bridge, over the river.	6
+31	1	0	5	7	0	8	0	7	0	1	1	1	0	0	1	0	0	3.0	0	26	The ball was stuck under the couch between two legs of the table, next to the door, near the window, under the lamp, behind the chair.	6
+33	0	0	6	6	1	7	0	7	0	3	0	0	3	0	1	0	0	4.0	0	13	The sun sets behind the mountains, in the western sky, between the towering trees, over the serene lake, above the quiet village, and under the expanding stars.	6
+22	0	0	1	5	0	7	0	7	0	1	0	0	1	0	1	1	0	5.0	0	16	The cat beneath the tree beside the pond amongst the lilies over the brook in the valley faces the tall cliff.	6
+37	0	0	7	7	1	10	0	7	0	1	0	0	4	0	0	0	0	7.0	0	9	In the midst of the crowd, under the ancient bridge, beside the shimmering lake, above the vast mountain range, beyond the distant forest, and beneath the star-studded night sky.	6
+28	1	0	5	6	1	7	0	7	0	0	0	1	0	0	1	0	0	3.0	0	16	The ball is beneath the chair, to the left of the window, above the carpet, next to the table, and behind the curtain.	6
+29	2	1	1	7	0	7	1	6	0	2	0	2	0	1	2	0	0	4.0	1	19	The apple was eaten beside the tree in front of the house near the gate next to the dog while I was watching from above on the rooftop.	6
+26	1	0	1	7	0	8	0	8	0	1	0	0	0	0	1	0	0	4.0	0	19	The book rested under the chair beside the table next to the window behind the door opposite the stairs at the end of the hall.	6
+43	0	0	4	8	1	12	1	9	0	4	0	1	3	3	2	2	0	6.0	3	33	The book is on the table beside the large vase filled with roses, under the window overlooking the street, in front of the open balcony door facing the park, and beyond which the tall trees wave in the wind.	6
+36	1	0	6	7	0	8	2	5	0	3	0	0	4	0	1	0	0	7.0	0	9	The monkey danced behind the tall tree, beneath the blossoming rosebushes, in front of his amused audience, over the bubbling stream, next to his reflective self, above the sparkling moonlight.	6
+27	1	0	6	7	0	7	0	6	0	0	0	0	0	0	0	0	0	4.0	0	23	Behind the house, in front of the car, above the library, next to the tree, below the bridge, under the table.	6
+57	8	2	6	4	3	11	6	3	0	10	0	0	2	5	5	3	0	6.0	5	26	The monkey swung from tree to tree, its tail curling around branches as it leaped, its eyes glancing downward before looking forward again, and it dropped gracefully onto the next tree's thick trunk, then climbed upward, using its hands and feet to grasp the bark firmly and hoist itself aloft.	6
+37	0	0	1	10	0	11	0	11	0	2	0	0	2	1	1	0	0	7.0	1	23	The cat beneath the bridge on the hill behind the store in the valley across the lake to the left of the tall tree leaned on the fence towards the sun sinking over the distant horizon.	6
+27	1	0	6	7	0	7	0	6	0	0	0	0	0	0	0	0	0	4.0	0	12	Under the table, over the chair, behind the door, next to the window, beneath the rug, on top of the bookshelf.	6
+34	0	0	6	8	1	9	0	8	0	1	0	1	0	0	1	0	0	5.0	0	23	The book is located under the table, beside the chair, in front of the window, behind the door, above the fireplace, and to the right of the vase.	6

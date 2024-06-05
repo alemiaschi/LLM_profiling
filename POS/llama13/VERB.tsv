@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+10	1	0	3	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	" ""The cat purred contentedly on my lap."""	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	4	The shadow of the tree stretched across the lawn.	0
+11	1	0	1	1	0	3	0	0	0	1	0	1	3	0	1	0	0	2.0	0	4	Fluffy golden clouds doth gently hover over lush emerald fields. 	0
+8	1	0	0	0	0	3	0	1	0	1	0	0	2	0	1	1	0	2.0	0	3	A tranquil morning breeze gently rustles delicate leaves	0
+21	0	0	2	3	1	5	1	4	0	3	0	0	2	1	1	3	0	5.0	1	9	Silence permeated the entire room like a heavy blanket, enveloping everything and casting a pall of stillness over all.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+6	0	0	2	0	0	2	0	0	0	2	0	0	0	0	2	0	0	2.0	0	3	Glass shattered, water poured.	0
+7	1	0	0	1	0	3	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Bubble wands float quietly in the water	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	OK. I'll do that right away:  Fluffy unicorns dance in sparkly clouds while singing sweet rainbow melodies.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	 The cat purred softly on my lap.	0
+9	0	0	2	1	0	3	0	1	0	2	0	0	0	1	1	1	0	3.0	1	4	Silence lingers, shrouding all sound with stillness. 	0
+5	1	0	0	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The cold wind blew silently	0
+5	1	0	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1.0	0	1	(Your sentence here)	0
+10	1	0	1	0	1	3	0	1	0	1	0	1	1	0	1	1	0	2.0	0	2	The candy shop is pink and has chocolate inside.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Greetings. 	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rose. 	0
+15	0	0	0	4	0	5	0	3	0	2	0	0	1	1	2	0	0	4.0	1	7	A sunset unfolded in the sky with the clouds glowing with shades of warm orange	0
+20	1	0	2	2	1	5	4	1	0	3	0	0	1	1	1	2	0	4.0	1	6	The rain fell softly on my face, cooling my skin and lifting my spirit with its gentle touch. 	0
+22	3	0	1	3	1	5	1	2	0	3	0	0	3	1	1	1	0	7.0	1	5	Snow blankets everything silently and glistens brightly in a peaceful stillness broken only by the occasional crunch of frost-crisp boots	0
+5	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	1	 The cat remained silent.	0
+8	0	0	3	0	0	1	0	0	0	1	0	0	3	0	1	0	0	3.0	0	5	  Cold, dark, silent snow fell.	0
+41	2	1	6	6	2	10	2	5	0	5	0	0	2	3	1	2	0	7.0	3	9	" ""The cat purred contentedly beside its owner, purring gently and nudging the human hand with its head before curling up for a soft snooze, exuding comfort, relaxation, and affection in the stillness of the moment."	0
+13	1	0	2	1	0	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	The silk-white snow softly glowed in the early morning fog. 	0
+24	1	0	7	2	0	6	0	3	0	1	0	1	2	0	0	0	0	6.0	0	9	"Okay, here is a sentence without any verbs, verbatim: ""Frothy coffee, steaming hot as a summer sunset."""	0
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	Listen	0
+19	1	0	3	2	1	3	0	2	0	1	0	0	6	0	1	0	0	3.0	0	7	Nameless, faceless bones in an empty, grey chalice lay silent and alone under the pale moonlight.	0
+14	1	0	3	0	0	4	1	1	0	1	0	0	3	0	1	1	0	3.0	0	7	Here you go:  Fluffy, white cat fur carpets the cool tiles. 	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+8	1	0	1	1	0	2	1	0	0	1	0	0	1	0	1	0	0	2.0	0	4	Silent snow fell softly on my fingertips. 	0
+4	0	0	1	0	0	2	0	0	0	0	0	0	1	0	1	0	0	2.0	0	1	Silence reigns supreme.	0
+5	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	 Here is the requested sentence	0
+10	0	0	3	1	0	3	0	1	0	1	0	0	0	0	1	0	0	3.0	0	2	"  ""The dog's collar sparkled with diamonds."""	0
+9	0	0	1	1	0	2	0	1	0	1	1	0	2	0	1	0	0	2.0	0	4	 Six golden birds perched upon a glittering fencepost. 	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The silence hung heavy in the air.	0
+7	1	0	1	0	0	2	0	1	0	1	0	0	1	0	1	1	0	2.0	0	2	Grey clouds softly cover the sky.	0
+5	1	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	2.0	0	3	Ready when you are.	0
+10	1	1	1	1	0	3	0	1	0	2	0	0	0	1	2	0	0	3.0	1	4	Silence prevailed as darkness slowly encroached upon the landscape. 	0
+11	1	0	1	2	0	3	1	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat purred contentedly on the lap of her owner.	0
+5	1	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	2.0	0	1	Warm sunlight filters gently.	0
+10	1	0	0	2	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	The cold glass of water sat quietly   on the table	0
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog wagged its tail.	0
+9	1	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	5	Wispy clouds drifted languidly through the flawless sky. 	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	    The cat sat on the mat.	0
+5	1	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	3	Further down the coast. 	0
+10	1	0	2	0	0	1	1	1	0	2	0	0	1	2	1	1	0	3.0	2	6	"Ready to provide the sentence, here you go!  ""Astonished and captivating silver glints shimmered within the calm waters."""	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The snow fell silently.	0
+3	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Silence reigns.	0
+7	0	0	1	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	   The sky is painted with colors. 	0
+11	0	0	1	1	0	3	0	2	0	2	0	0	2	0	1	0	0	2.0	0	5	 The silent frozen lake glimmered golden beneath the winter sun. 	0
+17	1	0	5	1	0	3	0	2	1	2	0	1	0	0	1	1	0	3.0	0	11	"OK, here is the sentence with the requested specifications: ""Jane eats candy."""	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	 She ate quickly.	1
+11	0	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	  The dog ran down the street to chase the mailman. 	1
+5	0	0	3	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	"  ""She eats."""	1
+23	0	0	1	4	0	6	1	5	2	1	1	0	2	0	1	1	0	4.0	0	20	  I scheduled the call with the CTO of that company about the new software features this Friday next week at 2 pm.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1.0	0	2	Here it is:   The cat ran frantically. 	1
+17	1	0	2	1	0	3	3	1	0	3	1	2	0	0	2	2	0	3.0	0	7	I can execute your task: below you'll find the requested sentence with one verb: The cat ran quickly.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred loudly.	1
+18	2	0	5	2	0	2	0	1	2	1	1	1	0	1	1	0	0	4.0	1	7	"Okay, here is a sentence with one verb: ""Jane jumped joyfully in Jamaica."""	1
+9	1	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	3.0	0	5	 The manager monitors the team's performance carefully.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The cat sat on the window.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 The cat purred quietly in the sun.	1
+7	0	0	0	0	1	2	0	2	0	2	0	0	0	0	0	2	0	3.0	0	4	Verify the data and confirm the results	1
+6	0	0	0	2	0	2	0	1	1	0	0	0	0	0	0	0	0	2.0	0	5	Sprint through the rainforest with monkeys	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	0	1	0	2.0	0	6	Swim a lap in the Olympic pool.	1
+9	0	0	1	1	0	2	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	I can generate a sentence with one verb! This sentence is: I learned.	1
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that!   The sentence is: The dog runs quickly through the park.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	  The dog ran swiftly through the park.	1
+13	1	0	2	2	0	3	1	2	0	2	0	0	0	1	1	0	0	3.0	1	5	The tiger raced through the forest, pouncing swiftly on its prey.	1
+6	1	0	1	0	0	1	1	0	1	1	0	0	0	0	1	1	0	2.0	0	3	 Eva ate her dinner quickly. 	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred softly on my lap.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Ran my dog in the park.	1
+14	1	0	3	0	1	2	0	1	0	1	0	1	3	1	1	1	0	4.0	1	8	Verbs, singular or plural, are always essential to complete any task. 	1
+4	0	0	1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	2.0	0	2	Verb the ball. 	1
+16	2	0	4	1	0	2	1	2	1	2	0	1	0	1	2	1	0	4.0	1	5	"I have completed the instruction below:  ""John ran quickly through the rainforest."""	1
+12	0	0	1	1	0	2	3	2	0	2	0	1	0	0	2	2	0	3.0	0	7	I've generated the sentence for you:  I verified the account	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	  The cat chased the mouse.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	  The monkey swung. 	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	  I am writing this instruction. 	1
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	  The quick brown fox jumps over the lazy dog.	1
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	 Jim jumped over the puddle.	1
+13	1	0	3	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	7	"""The team practiced their skills tirelessly for the big game."""	1
+17	1	0	5	1	0	1	2	0	1	2	1	1	1	1	2	1	0	4.0	1	7	"Ok, I'll write only one sentence:  ""Alana jumped higher than anyone."""	1
+5	0	0	0	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the mouse	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The fox darted through the forest.	1
+13	0	0	1	2	0	3	1	1	0	2	1	0	1	1	0	2	0	4.0	1	9	Swim at least 15 lap during each practice to build your endurance. 	1
+10	0	1	1	1	0	2	1	1	0	2	0	0	0	1	1	0	0	2.0	1	6	 _The puppies chased after their tails until exhausted._ 	1
+9	0	0	1	1	0	1	2	1	0	1	0	1	1	0	1	1	0	3.0	0	3	I have found an appropriate response for you:  The team worked hard to complete the project	1
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	The fluffy kitten chased its tail with excitement. 	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat walked slowly. 	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	  The cats purred. 	1
+14	1	0	1	2	0	3	0	3	0	2	0	1	0	1	1	1	0	3.0	1	6	The team will work diligently to wrap up this project by the deadline.	1
+11	1	0	1	1	0	1	2	0	1	3	0	0	0	2	1	1	0	3.0	2	6	Mary studied intensely for her exams, hoping to ace them	1
+9	0	0	3	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	" ""She painted the entire room yellow."" "	1
+12	1	0	2	0	0	3	1	2	0	3	0	0	0	0	1	2	2	3.0	2	7	Carefully checking the information entered, our team verified the transaction. 	1
+9	0	0	1	2	0	3	1	0	1	1	0	0	0	0	1	0	0	2.0	0	6	   Sophia studied for her history exam until midnight.	1
+11	1	0	2	2	0	3	0	1	0	0	1	1	0	0	0	0	0	3.0	0	3	With pleasure, here is the sentence with one verb:  The team rushes down the court with the ball.	1
+3	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The dog runs	1
+11	0	0	0	2	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	I ran down the street to buy eggs at the store	1
+21	3	0	3	1	0	4	1	3	0	3	1	2	0	2	1	2	0	6.0	2	9	I can fulfill that request below:  Without a doubt, here is the requested sentence containing only one verb:  She studied hard for the exam. 	1
+6	1	0	1	0	0	0	1	0	0	1	0	0	1	1	0	1	0	2.0	1	2	Always ready to assist you! Let me create a sentence with 3 verbs for you:  Study diligently, master challenging problems, and achieve excellent grades.	3
+44	1	0	5	6	4	9	3	4	5	3	0	1	3	0	1	3	0	5.0	0	21	* We could verb you an entertaining experience this weekend, skiing or snowboarding down fresh powder trails at Breckenridge ski resort or perhaps indulging in a rejuvenating day of pampering at our on-site Aspen Club & Spa – or both!	3
+19	0	0	4	2	1	7	0	0	0	3	0	0	2	0	0	1	0	3.0	0	14	Swim through crystal-clear waters, zip line over lush forests, and climb towering granite peaks. 	3
+13	3	0	2	1	0	1	1	0	0	3	0	0	1	0	1	0	2	3.0	2	6	Verbatimly learning to laugh, they vigorously wrote creatively with joyful zest. 	3
+11	0	0	3	1	1	1	1	1	0	3	0	0	0	0	1	0	0	3.0	0	5	  She walked, sang, and danced into the party.	3
+9	0	0	3	0	1	1	0	1	0	3	0	0	0	0	1	0	0	2.0	0	5	  The dog ran, jumped, and barked.	3
+20	2	0	3	1	0	6	1	2	0	3	0	0	2	0	2	3	0	3.0	0	8	  The busy mother skillfully prepares dinner, successfully juggles work, _and relishes a peaceful evening with her family_.	3
+19	0	0	3	0	1	8	1	0	0	5	0	1	0	1	1	5	1	4.0	2	13	Evaluating customer needs, prioritizing development projects, and optimizing software features can help organizations streamline their operations. 	3
+24	1	0	5	1	1	4	0	3	0	5	1	1	1	2	1	1	1	5.0	3	11	  The three verbs - explore, identify, and record - were effectively employed to document the rare plants seen during the expedition. 	3
+11	3	0	3	0	1	1	0	0	1	2	0	0	0	0	1	0	0	2.0	0	4	Sophia skateboards effortlessly, twirls gracefully, and leaps thrillingly. 	3
+11	1	0	3	0	1	1	0	1	0	3	0	0	1	0	1	0	0	2.0	0	5	  The anxious dog trembled, barked, and whined nervously.	3
+15	3	0	3	1	0	4	0	0	0	3	0	0	1	2	0	2	0	4.0	2	5	Swiftly navigating through thickets, stealthily creeping past guards, cleverly outsmarting security measures.	3
+13	3	0	3	0	1	1	1	0	1	3	0	0	0	0	1	1	0	3.0	0	7	  Muriel sings joyously, dances gracefully, and plays her guitar enthusiastically.	3
+7	2	0	1	1	0	1	0	0	0	1	0	0	1	0	0	0	0	2.0	0	4	Effortlessly leap joyfully through sparkling fields.	3
+22	4	0	2	2	2	4	1	2	0	4	0	0	0	1	1	0	0	6.0	1	6	The cat jumped high and gracefully landed on the carpet, carefully cuddling and purring contentedly on her owner's lap. 	3
+23	1	1	5	1	1	5	2	2	0	2	1	1	0	1	1	1	0	5.0	1	9	Okay, here's the instruction and its response as you requested:  **Instruction:** Generate a sentence with 3 verbs	3
+18	0	1	2	3	0	4	1	3	0	3	0	0	1	1	1	1	1	3.0	2	7	Walking through the park, I danced to the rhythm of nature while singing an inspiring melody.	3
+8	3	0	3	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	3	"""Thor consistently vigorously slammed vexingly.""    Is this sentence you generated appropriate to complete the task?    Please provide more instructions or specify the requirements, such as the length of the sentence, tone, style, etc. I'll happily assist you"	3
+9	3	0	1	0	0	2	1	0	0	1	0	0	1	0	1	1	0	3.0	0	4	 Our team effortingly designed creatively innovative products rapidly.	3
+9	0	0	3	0	1	2	0	1	0	2	0	0	0	0	1	0	0	2.0	0	5	A skateboarder glides, dodges, and leaps. 	3
+13	2	0	0	1	0	2	0	1	1	2	1	0	2	1	1	2	0	3.0	1	6	Sarah swiftly snatched three sharp shovels to skillfully scoop out the soggy soil	3
+22	1	0	3	2	1	6	0	3	0	3	0	0	3	1	1	3	0	3.0	1	10	   The manager reviewed the document critically, highlighting several errors, and forwarded the report to upper management for final approval.	3
+24	2	2	2	1	0	3	3	2	2	5	0	1	0	4	3	3	0	4.0	4	10	   Sally saw a bear running up the hill, butterflying her dress as fast as she could because she had to meet Peter. 	3
+12	0	2	0	0	1	4	0	0	0	4	0	0	1	2	1	3	0	3.0	2	6	  Exploring unique trails while hiking and snapping photos while skiing requires preparation	3
+24	1	1	3	4	1	6	0	3	0	3	0	0	2	2	1	0	0	6.0	2	7	  The swift fox raced quickly through the forest, chasing after the elusive rabbit, while jumping over obstacles with agility and grace.	3
+13	1	0	2	2	0	3	0	2	0	3	0	0	0	0	0	0	0	3.0	0	8	Swim, dive, leap gracefully in the turquoise ocean beneath the sunbeams	3
+9	0	0	3	0	0	3	0	0	0	0	3	0	0	0	0	0	0	2.0	0	5	    1. Sizzle   2. Fizz   3. Bubble  	3
+10	1	1	0	0	1	0	0	0	3	3	0	0	0	2	1	1	0	3.0	2	5	  Ranjit cajoled Lily and Maddy to dance furiously until exhausted	3
+14	2	0	3	0	1	2	0	1	1	3	0	0	1	0	1	2	0	3.0	0	8	Sally skied swiftly, sipped tea sweetly, and savored the serene scenery.	3
+8	1	0	1	0	0	3	0	1	0	1	0	0	1	0	1	1	0	2.0	0	3	  Race cars rapidly rubberize the rutted road.	3
+13	0	0	2	2	0	4	0	2	0	1	0	0	2	0	1	1	0	3.0	0	5	Without hesitation, the busy bee baked a bundle of big berets.	3
+11	1	0	3	0	1	1	1	1	0	3	0	0	0	0	1	1	0	3.0	0	5	  She ate, slept, and danced the night away. 	3
+15	2	0	3	0	1	4	0	2	0	3	0	0	0	0	1	2	0	3.0	0	7	  The team collaborated closely, shared knowledge, and achieved the project goals rapidly.	3
+13	3	0	3	1	1	1	1	0	0	3	0	0	0	0	1	0	0	3.0	0	7	 I ran quickly, waited patiently, and danced wildly until dawn.	3
+17	6	0	2	0	1	3	0	0	0	3	0	0	2	1	0	3	0	3.0	1	6	Easily accomplishing challenging tasks quickly, skillfully taking decisive actions boldly and courageously overcoming obstacles brilliantly. 	3
+16	0	0	3	2	1	3	0	3	0	3	0	0	1	0	1	0	0	4.0	0	5	The cat purred, lounged, and pawed at the soft fabric of the couch. 	3
+16	2	0	3	0	1	0	3	0	0	4	0	1	2	0	2	1	0	3.0	0	8	I have done it: I walked rapidly, got wet thoroughly, and arrived exhausted	3
+24	0	1	4	3	0	6	1	3	0	3	1	1	1	1	2	0	0	3.0	1	9	The three verbs sentence is: Walk, skateboard, listen to music as you move through the park on a sunny day.	3
+21	3	0	2	0	1	5	0	2	0	3	0	0	5	0	1	3	1	4.0	1	14	  Simultaneously exploring numerous technological opportunities and meticulously developing novel solutions, the creative engineer expertly modernizes the innovative product lines.	3
+10	3	0	3	0	1	0	0	0	0	3	0	0	0	0	0	0	0	2.0	0	7	Swim gracefully, glide effortlessly, and splash triumphantly. 	3
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that! Here you are:   The cat chases, pounces, and eats the mouse.	3
+16	0	0	3	0	2	4	0	2	0	3	0	0	1	0	1	1	0	4.0	0	5	  The manager evaluated, encouraged, and promoted the employee's hard work and dedication.	3
+3	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1.0	0	2	  1. Excitement	3
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Ready! Here you go:   She walked rapidly upstairs to silently unpack her luggage and rapidly organize her new room. 	3
+27	1	1	4	3	1	5	2	4	0	5	0	0	1	1	2	2	1	4.0	2	11	   Simultaneously sprinting, leaping, and twirling into the night, she radiated a captivating smile as her feet tapped out the rhythm of the season.	3
+15	2	0	1	0	1	3	2	1	0	2	1	0	2	0	1	2	0	3.0	0	6	The three cats carefully cleaned their shiny coats and quickly consumed their creamy chowder.	3
+7	3	1	0	0	0	0	1	0	0	2	0	0	0	1	1	0	0	2.0	1	5	  We danced quickly eagerly before loudly chanting	3
+14	2	0	1	2	1	2	2	1	0	1	1	1	0	0	1	1	0	3.0	0	5	I happily and speedily will create a sentence  with 3 verbs for  you! Here you are : Run-Hop-Gallop. Can I help you any further today?	3
+14	2	0	0	1	0	5	0	2	0	2	1	0	1	1	1	2	0	3.0	1	5	The curious kangaroo carefully caught two chickens cautiously carrying cookies in a cooking container	3
+10	2	1	1	0	1	1	1	0	0	3	0	0	0	1	2	0	0	3.0	1	5	Fish swim gracefully while they playfully dart and leap.	3
+8	2	0	1	0	0	4	0	0	0	1	0	0	0	0	0	1	0	3.0	0	3	Swim deliciously wobble dance gently balance flash. 	5
+39	8	0	5	5	0	9	0	1	0	9	0	0	2	4	1	0	1	7.0	5	15	Fast swimming dolphins darting swiftly dash through sparkling blue sea waves, jump joyfully jumping high into sky, silently slip smoothly into the sea, swiftly swimming underwater, leisurely leaping into sunlight shimmering on sea water.	5
+36	4	1	5	5	1	7	2	1	0	5	0	0	5	1	1	1	0	4.0	1	27	Stride gracefully over undulating terrain with confident footing while conversing animatedly with a friend on your sleek, high-tech phone; meanwhile, you intuitively detect subtle clues and act with calculated boldness.	5
+12	0	0	6	0	1	2	0	0	0	3	0	0	0	0	0	0	0	2.0	0	9	 **read, research, discuss, debate, and summarize**. The sentence is this: **As a team, we read the text, researched relevant information, discussed the topic's nuances, debated different viewpoints, and summed up our main findings**	5
+39	4	0	6	4	1	7	0	6	0	6	0	0	5	0	1	1	0	4.0	0	27	  The clever rabbit swiftly hopped across the verdant grass, jumped through the sparkling flowers, gracefully climbed the towering tree, cautiously crept over the slick rocks, and precisely pounced on the fast-moving butterfly. 	5
+20	4	1	5	1	0	4	0	0	0	5	0	0	0	2	0	3	0	4.0	2	16	 Simultaneously juggling balls, running rapidly, balancing tightrope walks, climbing up poles smoothly, while shouting exuberantly. 	5
+27	5	0	7	1	1	4	0	0	0	5	0	0	4	0	0	3	0	3.0	0	18	With great care, skillfully wielding shovels, expertly excavating, efficiently exploring deep, dark caves, courageously creeping, and triumphantly uncovering hidden treasures. 	5
+24	4	0	5	1	0	6	0	3	0	5	0	0	0	4	0	4	0	6.0	4	6	Verbing the hyperlink, quickly scrambling eggs, voraciously sprinting through mud, meticulously mapping the escape route, cautiously scaling the walls.	5
+18	5	0	6	0	1	0	1	0	0	5	0	0	0	0	1	0	0	2.0	0	13	 **I studied intensely, researched extensively, discovered diligently, examined carefully, and explained exhaustively**. 	5
+20	0	0	5	0	1	6	0	0	0	6	0	0	1	1	0	6	0	4.0	1	13	Aligning expertise, articulating recommendations, capturing insights, exploring alternatives, and fostering partnerships to drive successful outcomes.	5
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	5
+51	6	1	6	3	2	11	1	5	0	10	0	0	6	4	1	7	0	9.0	4	22	Carefully crafting a cohesive narrative while intertwining vivid descriptions, gracefully integrating unique phrases, judiciously incorporating imaginative expressions, skillfully shaping an engaging plot, and precisely sculpting a captivating climax, resulting in a masterfully written novel that transports readers to a magical world of wonder and enchantment.	5
+20	10	0	5	0	0	2	0	0	0	3	0	0	0	1	1	0	0	3.0	1	8	Incessantly sprint gracefully, elusively waltz hastily, vigorously dodge swiftly, persistently bound ardently, triumphantly soar exultantly.	5
+29	6	0	5	2	1	6	1	2	0	6	0	0	0	0	1	3	2	4.0	2	25	 Studying tirelessly throughout the week, vociferously asking questions, enthusiastically solving problems, carefully drafting reports, and persistently perfecting presentations, we diligently prepared for the exam	5
+13	3	0	1	0	0	3	0	0	0	3	0	0	3	0	1	3	1	3.0	1	6	Verbing vivid verdant vegetables valiantly vanquished vacuous vermin voraciously vacillating vendors vendibly.	5
+38	6	0	5	3	1	7	0	5	0	6	0	0	5	3	0	4	0	7.0	3	17	Climb courageously through the dark cave carrying a bright lantern, swiftly jumping across slippery stones, noisily navigating obstacles, persistently paddling a small boat, and triumphantly touching the shimmering crystal deep inside the cavern.	5
+12	3	0	3	0	0	1	1	0	0	2	0	0	1	1	1	1	0	3.0	1	4	Verily, she ventured venerably, valorously vanquishing variegated vermin vivaciously. 	5
+9	2	0	1	1	0	2	0	0	0	1	0	0	2	0	1	0	0	3.0	0	4	  Vividly enchanting tigers vaulted quickly into misty valleys.	5
+15	0	0	4	2	1	7	0	1	0	0	0	0	0	0	0	0	0	3.0	0	12	 Sprint, leap, hop, dance, and prance through the fields of wildflowers	5
+35	7	0	7	2	2	6	0	3	0	7	0	0	1	0	1	1	1	4.0	1	22	With great agility, carefully selecting, skillfully choosing, thoughtfully assessing, diligently gathering, and efficiently delivering, the expert gnome thoroughly examined every nook and cranny of the intricately decorated garden.	5
+22	4	0	4	3	0	4	0	1	0	3	0	0	3	1	0	0	0	5.0	1	7	Verbed relentlessly in the verdant valleys, venturing vociferously towards victory, voyaging via venerable vessels, vocally vacillating, valorously valiant	5
+20	4	0	4	0	1	4	0	0	0	5	0	0	2	0	1	3	0	3.0	0	16	  Lively lemurs leap lightly, laughed loudly, lick lips loyally, love lengthy lingons, and lavishly laminate laughables	5
+15	5	0	4	0	1	2	0	0	0	3	0	0	0	0	0	0	0	2.0	0	13	Vividly conjuring, creatively sculpting, gracefully floating, vibrantly singing, and radiantly illuminating	5
+23	1	0	6	2	1	6	2	0	0	5	0	0	0	0	1	4	0	3.0	0	12	With haste, we eagerly scurried, explored caves, tamed horses, crafted weapons, and defeated dragons with our allies. 	5
+18	0	0	5	1	0	7	1	1	0	2	0	1	0	2	2	0	0	4.0	2	11	   Swimming, diving, jumping, dancing, clapping are some activities I enjoy doing during summer.	5
+32	5	0	6	0	1	7	2	2	0	5	0	0	4	2	3	5	0	4.0	2	14	Verb conjugation practice a success, quickly crafting a comprehensive covenant, we diligently dial varied vocabulary, insistently investigating illusive idioms, and finally, we triumphantly transform tricky terminologies.	5
+16	6	0	4	0	0	0	0	0	1	5	0	0	0	0	1	0	0	2.0	0	14	 Vikram ran swiftly, vigorously laughed, vibrantly danced, voraciously ate, then violently vomited	5
+49	8	0	5	6	1	7	0	6	0	10	0	0	4	4	0	1	0	5.0	4	29	Climb swiftly down the sloping rocky cliff, darting deftly aside to leap over the jagged boulders scattered carelessly about, jump gracefully into the shimmering turquoise water, swim briskly beneath the glittering surface to retrieve the hidden treasure, and soar majestically aloft with the bounty.	5
+10	0	0	5	0	0	2	0	0	0	3	0	0	0	0	0	0	0	1.0	0	8	Swim, skate, dance, play, create.	5
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	5
+25	0	0	5	0	1	7	0	1	0	5	0	0	6	0	1	4	0	4.0	0	18	 The busy beaver blew bright balloons, brush painted big balls, captured courageous cavies, caught cool crickets, and cooked cute critters.	5
+10	2	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The eager beaver bravely bounced brilliantly beyond the boulders. 	5
+18	3	0	3	1	0	6	0	0	0	3	0	0	1	1	1	1	1	4.0	2	7	Flipping swiftly, viciously vigilant vixens quack vociferously, jamming jasmine jelly into jester's juggling jaws. 	5
+38	9	0	5	2	1	4	0	6	0	6	0	0	5	0	2	2	0	4.0	0	28	The skilled professional expertly navigated through the crowded area energetically, precisely executed the intricate moves smoothly, deftly sidestepped the obstacles agilely, swiftly completed the task triumphantly, and gracefully bowed to the impressed audience.	5
+26	0	0	6	0	1	8	1	1	0	6	0	0	2	0	1	6	1	4.0	1	15	Aligning the company's vision, we accelerate innovation, prioritize customer satisfaction, streamline operations, foster collaborative teams, and embrace digital transformation.	5
+47	8	0	6	6	2	11	1	2	0	7	0	0	3	4	1	3	1	7.0	5	12	Sprinting enthusiastically towards the finish line with unbridled passion, I rapidly pressed ahead, swiftly leaping over obstacles with precision and agility, brilliantly dodging competitors with clever footwork, deftly pivoting to navigate tight corners, and ultimately triumphantly crossing the threshold to victory.	5
+35	4	1	5	1	1	9	2	1	1	7	0	0	2	4	1	7	0	5.0	4	21	Verbconga successfully conquered the market while dynamically managing resources, strategically planning their next move, effectively implementing their plan, optimizing production to meet demand, and increasing customer satisfaction through exceptional service. 	5
+31	8	0	5	2	1	6	2	1	0	6	0	0	0	1	1	3	0	4.0	1	16	The team successfully completed their projects, collaborated effectively, diligently working, accurately analyzed data, and skillfully presented their findings, as well as actively contributing to brainstorming sessions	5
+30	6	0	5	1	1	8	1	1	0	4	0	0	2	1	1	4	0	5.0	1	13	With great enthusiasm , I diligently labor to effectively analyze data , systematically categorize relevant information , skillfully draft reports , collaboratively discuss results and strategically resolve any issues . 	5
+34	5	0	6	3	1	8	0	1	0	5	0	0	5	0	0	5	0	3.0	0	25	In a dynamic sequence, rapidly navigate voluminous digital content with precise movements, sharply select specific items, effortlessly transfer data, instantly translate content with accuracy, and efficiently streamline operations.	5
+11	0	0	1	1	0	2	1	1	0	2	1	1	1	1	1	1	0	4.0	1	4	I've come with the below sentence containing five  verbs. Can it be of help to you?:  She touched, looked, danced, talked and ran with wonder down the pathways of time	5
+26	2	0	5	3	1	5	0	2	0	7	0	0	0	1	1	2	0	4.0	1	18	The dog ran outside to play, danced on the lawn, chased butterflies, jumped over obstacles, and barked loudly at passing birds.	5
+9	1	0	2	1	0	2	1	0	0	1	0	1	0	0	0	0	0	2.0	0	4	With pleasure, here's your requested sentence: The clever dog swiftly pounced, chased, raced, zipped, and darted. 	5
+40	6	0	5	5	1	6	0	6	0	6	0	0	5	1	1	0	0	6.0	1	30	The swift fox furtively crept cautiously around the verdant meadow, scurried briskly beneath the twisted trees, gracefully bounded across the golden field, precisely leaped through the gleaming streams, and rapidly galloped towards the radiant sunset.	5
+16	2	0	3	1	0	5	0	0	0	2	0	0	3	1	1	2	0	3.0	1	5	With great vigor, voraciously vaulting voles vacate venerable vineyards, valorously venturing vital verdicts. 	5
+11	2	0	2	1	1	1	1	0	0	1	0	1	1	0	1	0	0	2.0	0	6	   - She quickly ran swiftly to class but was late. - The dog rapidly chased its tail excitedly. - Afterward, he anxiously looked carefully at the report.	5
+24	5	0	5	1	1	2	0	2	0	6	0	1	1	1	1	0	2	5.0	3	17	Climbing rapidly, soaring serenely, fluttering frenetically, swimming strivingly, and skipping shyly are the actions demonstrated by the playful butterfly.	5
+20	5	0	5	1	1	1	1	0	0	5	1	0	0	0	1	0	1	3.0	1	10	Sprinting forward, she swiftly leaped, elegantly twirled, gracefully danced, and precisely landed on one foot.	5
+23	4	0	4	0	1	5	0	0	0	5	1	0	3	1	1	3	0	5.0	1	10	Fifty verbs swam swiftly south, soaring silently, snacking savory shrimp snails, splashing sunny waves, and surfing shiny seashells serenely	5
+26	1	0	5	2	1	4	1	4	1	6	0	0	0	1	1	3	1	6.0	2	18	Verbling, zooming, scrolling, hovering, and clicking the buttons on the screen of the computer allows you to effortlessly complete this task.	5
+35	8	1	2	3	0	8	0	4	0	6	0	0	3	3	2	1	0	6.0	3	10	The cat swiftly leapt thrillingly through the tall meadow vibrantly grabbing rapidly glowing petals, voraciously drinking dew suspended high eagerly from the lush canopy before sunbeams brightly shone upon the sparkling morning dewdrop. 	7
+28	0	0	8	0	1	9	0	0	0	9	0	0	0	1	0	9	0	3.0	1	22	Aligning strategies, leveraging strengths, transforming paradigms, empowering innovation, exploring opportunities, mobilizing resources, fostering collaboration, and cultivating excellence to drive success.	7
+25	7	0	7	0	1	1	0	1	0	7	0	0	1	0	1	0	0	2.0	0	19	The wily weasel wriggled wistfully, vaulted viably, yawned yauntily, zapped zestfully, quarreled querulously, rippled ranally,and swooned swankily. 	7
+48	9	0	9	2	2	10	0	4	0	8	0	0	3	1	1	5	1	5.0	2	39	With expertise and efficiency, skillfully navigating through treacherous terrain, gracefully avoiding obstacles, strategically planning the route, powerfully paddling, swiftly traversing rapids, masterfully steering, and precisely balancing the canoe, the seasoned adventurer bravely forged ahead to explore the untamed wilderness.	7
+31	2	1	3	3	2	9	2	2	0	5	1	0	0	2	0	4	0	4.0	2	22	Floss your teeth three times a day with an up-and-down motion before brushing, use fluoride toothpaste and drink plenty of water to rinse your mouth thoroughly	7
+28	8	0	8	0	1	1	2	0	0	8	0	0	0	0	1	1	0	6.0	0	25	Flapping my fins eagerly, hovering inquisitively, gliding gracefully, soaring triumphantly, dipping deliberately, fluttering fiercely, and skimming speedily, I flew fabulously!	7
+29	12	2	5	0	0	1	2	0	0	7	0	0	0	5	1	1	1	6.0	6	5	Flamboyantly swinging our swords, we danced valorously, vigorously battling furiously while wildly yelling loudly, skillfully dodging rapidly, thrillingly attacking savagely until finally victoriously finishing. 	7
+12	0	0	0	0	0	5	0	0	0	5	0	0	2	2	2	1	0	4.0	2	3	Vaulted dreamlike cats pounced mellow tigers strolled lounged cuddled lissome purr fur	7
+24	7	0	7	0	1	1	0	0	0	7	0	0	1	0	1	0	0	3.0	0	16	  Skipped sedately, fanciful llamas vaporized punctually, wove wonderously, beamed brightly, whispered weightlessly, chattered chastely, and leaped loyally. 	7
+10	1	0	1	1	0	2	0	1	0	1	1	1	0	1	0	0	0	3.0	1	4	Okay, here's a sentence with 7 verbi included	7
+22	1	1	2	2	0	5	1	3	1	3	0	0	3	1	1	3	0	4.0	1	11	 Alice bought a big brown bear from a big basket, then broke the bow before blending it with blueberry bliss.	7
+20	0	0	7	2	1	1	0	1	1	7	0	0	0	0	1	0	0	3.0	0	14	 Finn woke up, jumped, brushed, walked, saw, laughed, and played with a fox. 	7
+27	3	1	2	3	0	7	0	1	0	5	1	0	4	2	1	2	0	5.0	2	11	   Six frogs floated flimsily over the forest floor, feasting fleetingly on flying fish, feinting finicky fruit while frantically fencing fragrant flowers with finicky floral fingertips	7
+42	6	0	7	6	1	7	3	4	0	6	0	0	2	2	1	0	0	6.0	2	13	She swam effortlessly across the lake, diving elegantly into the crystal-clear water, paddling gracefully with her arms, kicking swiftly with her legs, twirling playfully in the waves, and basking contentedly in the radiant sunlight. 	7
+30	7	0	8	1	1	4	0	2	0	7	0	0	0	0	1	1	2	4.0	2	24	Focusing intensely, creatively ideating, innovatively conceptualizing, strategically synthesizing, diligently detailing, adaptively adjusting, and effectively executing, the team delivered the product with excellence.	7
+29	9	0	5	0	0	4	0	4	0	3	1	1	2	1	1	2	1	4.0	2	15	"Fulfilling the request, here's the generated sentence: ""The seven brave knights carefully craftily quietly cautiously quickly skillfully precisely energetically defeated the evil dragons.""  Did you find this task to your liking? I would be happy to generate responses for any other tasks you might have for me. Let me know if there's anything else I can help you with! 😊"	7
+24	7	0	7	1	1	1	0	0	0	6	0	0	1	0	0	0	0	3.0	0	17	With great precision, skillfully jumped swiftly, brilliantly soared, elegantly glided, masterfully landed, gracefully balanced, and triumphantly exclaimed. 	7
+24	7	0	7	0	1	5	0	1	0	3	0	0	0	0	1	0	0	2.0	0	19	The cat chases excitedly, hops hastily, barks loudly, paws furiously, scratches viciously, meows pitifully, and pouts sulkily.	7
+38	8	1	7	1	0	4	0	4	0	9	0	0	3	8	1	2	0	7.0	8	9	The eager witch whispered eerily, swiftly glancing, quickly examining, silently sneaking, nervously waiting, rapidly tapping, cunningly creeping into the dungeon to catch a frightened frog while discreetly hiding a wicked wand. 	7
+22	6	0	4	0	1	4	0	0	0	4	0	0	3	0	1	2	1	4.0	1	10	Verbishly venturing vigilantly, valiant voyagers very vocally vented vivacious vitality, valorously valiated valor, and vividly voted victorious vitalism.	7
+79	10	1	10	3	3	20	1	5	0	14	0	0	11	7	1	12	1	13.0	8	12	Performing dexterous maneuvers within the virtual environment, I precisely navigated challenging obstacles, concurrently maintaining equilibrium while expertly juggling digital objects, rapidly assimilating knowledge from the intuitive interface and skillfully implementing correct solutions to reach the desired outcome, masterfully transitioning between diverse tasks, adroitly leveraging cutting-edge technology and maintaining impenetrable security protocols, effortlessly optimizing resources, seamlessly integrating multiple systems and fostering an inclusive community, ultimately achieving a flawless performance.	7
+21	7	0	7	0	0	0	0	0	0	7	0	0	0	5	0	0	0	4.0	5	9	Cautiously walking, swiftly talking, deftly thinking, quietly observing, calmly breathing, efficiently working, persistently dreaming.	7
+33	8	1	6	2	1	3	1	2	0	6	0	0	3	1	1	1	0	3.0	1	23	  The flamboyant monkey cleverly climbed precariously up the tall, twirly tree, quizzically looked around, wildly waved its arms, laughed loudly, and triumphantly shouted before swiftly swinging down. 	7
+12	4	0	1	1	0	3	0	0	0	2	0	0	1	0	1	1	0	4.0	0	6	Climb quickly carefully curious crocodiles cautiously catch caterpillars critically with cunning.	7
+22	5	0	4	1	0	4	1	0	0	4	0	0	3	2	1	3	1	5.0	3	5	Vividly venturing valorously, we vacillated versatile vocations vocally, venerating various vagabonds vigilantly, venturing vainly vicarious vistas via voyages. 	7
+40	7	0	7	0	1	8	0	8	0	8	0	0	1	0	1	7	0	4.0	0	32	The efficient worker productively completed the assigned tasks, quickly verified the calculations, carefully examined the prototype, rapidly reviewed the manual, successfully troubleshot the issues, thoroughly tested the software, and enthusiastically prepared the presentation.	7
+43	7	1	8	1	1	11	0	4	0	9	0	0	1	3	0	9	0	8.0	3	28	Fulfilled the promise of delivering the presentation within a week, virtuously visualizing the goals, actively attending training sessions, collaboratively developing new ideas, creatively solving problems, determinedly meeting deadlines, ingeniously innovating strategies, and successfully satisfying clients. 	7
+22	7	0	6	0	1	0	1	0	0	7	0	0	0	0	1	0	0	2.0	0	19	I swim gracefully, jump vibrantly, dance passionately, sing sweetly, write creatively, run swiftly, and play confidently	7
+39	2	0	7	7	1	9	0	5	0	7	0	0	1	0	0	2	0	3.0	0	35	Swim gracefully through the shimmering waters, tread the waves tirelessly, soar through the sky with glee, roam the forest with passion, dance on the waves, run with laughter, and jump in delight. 	7
+31	2	0	10	1	1	4	0	1	0	9	1	0	2	2	1	1	0	6.0	2	16	Seventy skilled secret agents scurried, scrambled, slinked, skipped, sneaked, soared, and swooped, all synchronized, swiftly saving scores on super-spy assignments.	7
+10	1	0	2	1	0	2	0	1	0	0	1	1	0	0	0	0	0	3.0	0	3	Okay, here is a sentence with 7 words:  The cat jumped happily chased slid scampered pounced tiptoed whispered 	7
+15	0	0	7	0	1	5	0	0	0	2	0	0	0	0	0	0	0	2.0	0	13	Seeking, searching, examining, analyzing, processing, recording, and reconstructing.	7
+46	6	0	8	4	1	9	2	0	0	8	0	0	7	0	1	4	2	4.0	2	29	Seeking to explore thrilling adventures, I courageously venture through rugged mountains, swiftly swim through crystal-clear waters, deftly dodge dangerous obstacles, expertly examine exotic wildlife, patiently practice perseverance, and tranquilly take in tantalizing scenery with my tenacious spirit. 	7
+26	0	1	7	1	2	4	1	2	0	7	0	0	1	0	1	1	0	5.0	0	11	With the intention of learning, studying and training, they analyzed, visualized, measured, evaluated, classified, and applied the relevant concepts	7
+29	0	0	6	1	1	9	0	0	0	8	0	0	4	0	0	6	0	3.0	0	26	  Jumped over flaming hoops, dodged sparkling spikes, ran fiery tracks, leaped golden hurdles, sprinted silver lanes, dived dark pools, and soared starry skies	7
+54	7	0	6	2	1	12	0	7	0	9	0	0	7	4	1	5	0	7.0	4	10	The swift cobra danced gracefully through the shimmering darkness, venomously striking the glimmering serpent with relentless fury, cunningly dodging the slithering reptile's wicked lash, cleverly slicing the scaly creature's slimy tail, precisely jabbing the hissing insect's glowing eyes, and quickly swallowing the wriggling beast whole.	7
+29	3	0	8	1	1	7	0	2	0	4	1	0	2	1	1	0	0	4.0	1	14	The seven energetic dolphins eagerly swam through the sparkling turquoise ocean, joyfully leaping, dancing, gliding, spiraling, frolicking, splashing, and playfully chirping.	7
+43	1	1	10	5	4	14	2	0	1	5	0	0	0	3	3	0	0	6.0	3	21	Racing through mountains, valleys, hills, and streams with grace, strength, agility, and speed, Max jumped and leaped with exuberance, landing with softness and balance, his tail wagging wildly as he howled with joy.	7
+16	4	0	1	1	0	3	1	1	0	3	0	0	2	1	1	1	0	5.0	1	4	  She cunningly crept carelessly carefully crafted a captivating crescent crown cocooned comfortably with cerulean crystals. 	7
+24	7	0	7	0	1	1	0	1	0	7	0	0	0	4	1	0	0	3.0	4	12	The team dynamically collaborated, efficiently brainstormed, skillfully delegated, precisely planned, effectively communicated, creatively designed, and productively innovated. 	7
+35	10	0	7	0	0	5	1	2	0	7	0	0	3	0	0	5	0	4.0	0	33	Climb consistently uphill, quietly contemplate the vibrant landscape ahead, skillfully maneuver intricate obstacles, carefully assess challenging terrain, dynamically balance your footing, confidently anticipate the descent, then rapidly plummet. 	7
+49	7	0	7	7	1	8	0	7	0	8	0	0	4	0	0	0	0	3.0	0	42	Swim swiftly in the crystal clear water, jump joyfully off the rocky cliff, stroke strongly through the waves, skim silently across the surface, float freely in the turquoise pool, dance dangerously on the slippery rocks, and soar spectacularly over the roaring rapids. 	7
+18	7	1	0	0	0	1	2	1	0	4	0	0	1	2	1	2	0	5.0	2	9	Swimming quickly enthusiastically joyfully gracefully quietly confidently powerfully   Please let me know if you have any further questions	7
+23	4	0	4	1	0	4	1	1	0	5	1	1	1	3	1	3	0	6.0	3	8	"I have generated a sentence containing 7 verbits,  ""Climbing joyfully onto cliffs anxiously searching quenchlessly glimpsing thrillingly glistening peaks."""	7
+37	7	0	7	0	1	10	0	0	0	6	0	0	6	1	0	6	0	6.0	1	27	Flexibly rearranging cognitive schema, strategically orchestrating tactical innovation, precisely coordinating dynamic resource allocation, rapidly repurposing adaptive paradigms, seamlessly integration novel networks, simultaneously optimizing systemic bandwidth, and volitionally transforming operational trajectories. 	7
+38	7	0	6	3	4	9	1	3	0	5	0	0	0	0	1	3	1	6.0	1	28	 With diligence and determination, successfully completing each challenge, persevering through every obstacle, skillfully utilizing resources, strategically thinking critically and creatively, we confidently and collaboratively reach the finish line with speed and accuracy. 	7
+3	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1.0	0	1	 Runninfastwhilejumpingofthewavesleapingoverrockspausing todance.	7
+25	7	0	6	0	1	1	1	1	0	7	0	0	1	0	1	1	0	3.0	0	19	I successfully negotiated, persistently strove, creatively devised, strategically implemented, precisely executed, innovatively adapted, and collaboratively celebrated an outstanding outcome	7
+22	7	0	7	0	1	0	0	0	0	7	0	0	0	1	0	0	0	6.0	1	19	  Studying thoroughly, understanding clearly, analyzing accurately, recalling vividly, learning rapidly, applying wisely, and excelling constantly.	7
+24	3	1	4	2	1	8	1	0	0	4	0	0	0	1	2	2	1	3.0	2	15	Swinging zestfully with zeal, they jumped jubilantly with jetsam, quaffing quicksilver while kicking kettledrums; yet yearning yaks quietly yielded yellows.	7

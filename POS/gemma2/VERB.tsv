@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	VERB_constraint
+14	0	0	1	2	0	4	1	3	0	1	0	1	1	1	2	1	0	5.0	1	3	The universe is devoid of a concept that transcends the boundaries of existence.	0
+20	1	0	2	3	1	6	1	3	0	3	0	0	0	2	1	2	0	6.0	2	6	She sat silently on the floor, watching the sunset paint the sky in hues of orange and lavender.	0
+9	1	1	1	0	0	2	0	2	0	2	0	0	0	1	1	1	0	3.0	1	3	The sun shines without ever taking a break.	0
+11	0	0	2	1	0	2	1	1	0	2	0	0	2	1	1	0	0	3.0	1	4	The universe stands silent, waiting for your next word.	0
+11	0	0	1	2	0	3	0	2	0	0	0	1	2	0	1	0	0	3.0	0	4	  The clouds were silent like clouds on a peaceful day.	0
+6	0	0	1	1	0	2	0	2	0	0	0	0	0	0	0	0	0	2.0	0	3	A word without a verb.	0
+12	0	0	1	2	0	3	1	3	0	1	0	0	1	0	1	0	0	3.0	0	4	  The vastness of the ocean remained an unknown mystery to her.	0
+9	1	0	1	1	0	2	0	1	0	0	1	1	1	0	1	0	0	2.0	0	3	The sky was as blue as zero clouds.	0
+14	0	1	1	1	0	3	1	2	0	1	0	1	2	1	2	0	0	4.0	1	6	The sky was silent as it waited for the sun's next emergence.	0
+12	0	0	1	2	0	3	1	2	0	1	0	0	2	0	1	0	0	3.0	0	5	A quiet moment in the bustling city served as her sanctuary.	0
+11	2	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	7	The sun hung completely still in the vast blue sky.	0
+7	1	0	1	0	1	1	0	1	0	1	0	0	1	0	1	0	0	3.0	0	2	The sky remained still and silent.	0
+16	0	0	3	4	0	4	1	2	0	2	0	0	0	1	1	0	0	3.0	1	7	  **She stood on the beach at dusk, gazing out at the twinkling stars.**	0
+10	1	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	2.0	0	5	  The sun was shining brightly in the sky today.	0
+8	0	0	3	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	  *Her laughter filled the room.*	0
+12	0	0	2	1	0	3	2	2	0	1	0	0	1	0	2	0	0	3.0	0	6	She stands silent, her voice a melody in the air.	0
+11	0	0	1	1	0	5	0	2	0	1	0	0	1	0	1	1	0	3.0	0	6	A silent night whispers secrets on the sleeping forest creatures.	0
+10	0	1	1	0	0	2	1	2	0	1	0	1	1	1	2	0	0	2.0	1	6	The sun rose this morning without anyone being awake.	0
+20	0	0	2	3	0	7	0	5	0	2	0	0	0	1	1	1	0	5.0	1	6	 The sun soared above the horizon, painting the sky with the color of a newborn child's imagination.	0
+12	0	0	4	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	6	  **Yesterday, I dreamed of a giant, glowing ball.**	0
+12	0	0	3	1	0	2	1	2	0	3	0	0	0	2	1	1	0	3.0	2	5	  **She sat on the rock, watching the birds migrate.**	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	 The sky was blue as a sailor.	0
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	The silence echoed through the vast emptiness of the desert.	0
+7	0	0	2	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	  **Silence hangs between every word**.	0
+17	1	1	3	2	0	3	2	2	0	1	0	1	1	1	2	0	0	4.0	1	4	"  ""She was utterly silent as her thoughts raced in the quiet of the night."""	0
+15	1	1	1	1	0	4	1	2	0	1	0	1	2	1	2	1	0	3.0	1	5	The stars were so bright tonight that they cast long shadows on the ground.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	  The absence of actions rendered the day fruitless.	0
+9	1	0	3	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	" ""Stars shine brightly in the sky."""	0
+18	0	0	2	2	0	5	0	4	0	2	0	1	2	2	1	1	0	4.0	2	6	The heavens were silent, save for the gentle breeze rustling the leaves in the rustling wind.	0
+19	0	0	1	2	1	3	1	3	1	2	0	0	4	1	2	0	0	5.0	1	17	  _Silence reigned in the vast and tranquil desert, an ethereal silence that whispered through the shimmering dunes._	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is dark.	0
+17	0	0	2	2	1	3	0	3	0	1	0	0	5	0	1	0	0	6.0	0	6	A silent melody flowed through the tranquil air, devoid of any vibrant or melodic notes.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	2	 The sun rose this morning.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+22	1	0	2	3	0	6	1	4	0	2	0	0	3	1	1	1	0	5.0	1	8	  The silence hung in the air, as stark as the moonlight bathing the sprawling stone floor in its eerie luminescence.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Sure thing.	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The sky is above the clouds.	0
+9	0	0	2	0	0	2	1	1	0	2	0	0	0	1	0	1	0	3.0	1	2	  **There is no way to avoid trouble.**	0
+20	1	0	2	2	0	7	0	4	0	2	0	0	2	1	1	2	0	4.0	1	6	A quiet stillness blanketed the serene village, leaving only the rustling leaves as evidence of the passing time.	0
+18	1	0	2	1	1	4	0	3	0	4	0	0	1	2	2	1	0	6.0	2	4	A silent night unfolds in the sky, where stars gather to dance and illuminate the darkness.	0
+21	0	1	2	2	1	5	0	3	0	1	0	3	2	1	2	0	0	5.0	1	7	The task cannot be completed, as the verbless phrase is devoid of any action or state of being.	0
+13	0	0	2	0	0	2	0	2	0	3	0	1	1	2	1	1	0	4.0	2	3	The sun was shining, not having a single word to say.	0
+12	0	0	2	1	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	The world's clouds vanished into the vast, endless sky.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The universe is silent.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was transparent yesterday.	0
+11	1	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	7	The moon floated gracefully in the vast, empty sky.	0
+28	3	2	2	3	0	7	1	5	0	4	0	1	0	1	4	0	2	6.0	3	15	   The silence between friends amplified as the conversation dwindled to a whisper, its echoes still resonating in the air long after the words had faded away.	0
+9	0	0	1	1	1	1	1	1	0	0	0	1	2	0	1	0	0	3.0	0	2	The void was quiet and devoid of anything.	0
+11	0	0	3	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	"  ""The sunset cast long shadows across the beach."""	0
+15	0	0	2	1	1	3	0	3	0	1	0	1	3	0	2	0	0	3.0	0	6	The sky was silent and the clouds floated in a quiet, graceful dance.	0
+12	0	0	1	3	0	3	3	1	0	1	0	0	0	0	2	0	0	3.0	0	9	She danced through her backyard with a smile on her face.	1
+10	0	0	1	1	0	2	1	2	0	1	0	1	1	0	1	1	0	3.0	0	4	She is painting a portrait of a beautiful woman.	1
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She wrote a letter.	1
+11	1	0	1	1	0	3	0	1	0	1	1	2	0	0	1	0	0	2.0	0	5	The teacher will be reading aloud for 10 minutes today.	1
+10	0	0	2	1	0	3	0	2	0	2	0	0	0	1	1	1	0	4.0	1	2	The rain fell, cleansing the world of grime.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The bird flew to the rose.	1
+14	0	0	2	1	1	3	0	2	0	2	0	0	3	1	1	1	0	4.0	1	5	The rain fell with gentle patter, leaving the earth thirsty and parched.	1
+10	1	0	2	1	0	1	2	1	0	2	0	0	0	1	1	1	0	3.0	1	4	She danced beautifully, captivating everyone in the room.	1
+12	1	0	1	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	4	The dog barked loudly at the sound of the car approaching.	1
+13	0	0	1	2	0	4	0	4	0	2	0	0	0	1	1	1	0	4.0	1	3	The wind whipped the leaves dancing down a river in the forest.	1
+11	1	0	2	1	0	2	2	1	0	2	0	0	0	0	2	0	0	3.0	0	5	She dances alone, her laughter echo through the night.	1
+13	0	0	2	2	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The happy dog barked in the morning, waking up the owner.	1
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The boy jumped high into the clear blue sky.	1
+13	0	0	2	1	0	3	1	3	0	2	0	0	1	1	1	1	0	5.0	1	4	I danced across the park, a cheerful melody filling the air.	1
+13	2	0	2	2	0	3	2	1	0	1	0	0	0	0	2	0	0	3.0	0	8	She ran quickly through the forest, her eyes wide with fear.	1
+9	1	0	1	0	0	2	1	1	0	2	0	0	0	1	1	1	0	3.0	1	3	The boy ran away to save his friends.	1
+15	1	0	2	2	0	3	1	3	0	1	0	0	2	0	1	0	0	4.0	0	5	He danced alone, a captivating sight on the shimmering waters of the pond.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The bird sings in the park.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The girl danced through the park.	1
+13	0	0	2	2	0	3	2	2	0	2	0	0	0	1	2	0	0	3.0	1	7	She ran across the field, her shoes echoing through the silence.	1
+15	1	0	2	2	0	4	0	4	0	2	0	0	0	1	1	1	0	4.0	1	8	The wind blew softly, carrying the words of the passerby on the breeze.	1
+15	0	1	1	1	0	4	0	4	0	2	0	0	2	1	2	1	0	3.0	1	7	The bird sang a beautiful song while the flowers bloomed in the warm sunshine.	1
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The cloud sailed across the sky in a gentle breeze.	1
+16	0	0	2	2	1	4	2	2	0	2	0	0	1	1	1	1	0	6.0	1	4	She walked through the tall trees, a sense of wonder and freedom surrounding her.	1
+15	1	0	2	1	1	3	2	2	0	1	0	0	2	0	2	1	0	3.0	0	10	She played a song on the guitar, her voice so soothing and beautiful.	1
+15	0	0	2	2	0	4	2	2	0	2	0	0	1	1	2	1	0	3.0	1	7	  She ran through the forest, her feet leaving tiny imprints on the path..	1
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The sun rose peacefully in the morning sky.	1
+12	1	0	2	1	0	2	2	1	0	2	0	0	1	1	2	0	0	3.0	1	8	She ran down the bustling street, her eyes shining brightly.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The girl danced wildly through the streets.	1
+11	0	0	1	1	1	2	1	2	0	2	0	0	1	0	1	1	0	3.0	0	5	She ran to the shop and bought a new dress.	1
+9	1	0	1	0	0	1	1	1	0	2	0	0	1	1	1	1	0	3.0	1	3	She danced around to find a hidden treasure.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog barked excitedly this morning.	1
+12	0	0	2	1	0	3	1	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The little boy raced down the hill, chasing his kite.	1
+19	2	0	2	1	0	4	1	3	0	4	0	0	1	3	2	2	0	6.0	3	3	The rain fell heavily, creating a glistening lake in the park where people gathered to enjoy it.	1
+14	2	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The rain danced down, creating a shimmering spectacle in the streets below.	1
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	5	She ran across the field that day.	1
+12	1	0	1	2	0	3	1	3	0	1	0	0	0	0	1	1	0	3.0	0	6	She read a book quietly in the corner of the room.	1
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She wrote a story yesterday.	1
+18	0	0	2	1	0	5	0	4	0	2	0	0	3	1	1	2	0	5.0	1	7	The storm swept the beach clean, erasing all trace of the previous day's salty remains.	1
+14	0	0	2	1	0	4	0	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The young girl danced across the moonlit lake, singing a sweet melody.	1
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! A single happy bird soared through the clear sky, enjoying the beautiful day sunshine.	1
+18	0	1	3	1	0	3	2	3	0	3	0	0	2	2	2	2	0	3.0	2	12	She danced around the house, making a joyful noise, as she sang a happy song.	1
+13	1	0	2	1	0	3	1	2	0	1	0	0	2	0	1	0	0	3.0	0	5	She smiled brightly, a radiant sun in the vast evening sky.	1
+11	0	0	1	2	1	3	2	1	0	1	0	0	0	0	1	0	0	3.0	0	8	She spoke with her heart and soul on that day.	1
+13	2	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The river flowed happily, carrying the pebbles downstream in its wake.	1
+13	1	0	2	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	5	The boy walked down the street, watching the people go by.	1
+13	1	0	2	1	1	4	1	2	0	1	0	0	0	0	1	0	0	4.0	0	6	I danced all night long, a symphony of movement and sound.	1
+11	0	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	2.0	0	7	The rain washed the window clean in a few minutes.	1
+15	1	0	2	2	0	4	1	3	0	2	0	0	0	1	2	0	0	3.0	1	7	The girl ran into the forest, her eyes searching for a way out.	1
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The dog barked once, chasing a squirrel up a tree.	1
+19	1	0	4	1	1	4	2	2	0	4	0	0	0	1	2	0	0	4.0	1	12	  She danced, laughed, and slept all day long, her energy overflowing in the twilight hour.	3
+13	0	0	3	0	1	2	1	1	0	3	0	1	1	0	1	1	0	3.0	0	5	She was dancing, singing, and playing music the whole night.	3
+16	0	0	3	2	1	3	1	3	0	3	0	0	0	0	1	1	0	3.0	0	10	She strolled the park, soared through the skies, and danced under the moonlight.	3
+14	0	0	4	0	1	2	1	1	0	4	0	0	0	1	1	1	0	4.0	1	7	She jumped, danced, and sang, captivating the crowd's attention.	3
+12	0	0	1	2	0	3	0	2	0	1	0	1	2	0	1	0	0	3.0	0	4	The bustling city was transformed into a vibrant tapestry of activity.	3
+20	0	0	4	1	1	4	2	3	0	5	0	0	0	2	2	2	0	6.0	2	7	She danced, sang, and painted, creating a masterpiece that captured the beauty of the setting sun.	3
+16	1	0	2	2	1	3	1	2	0	3	0	0	1	1	1	1	0	4.0	1	5	They danced around the lake, singing joyful melodies and dancing wildly in the moonlight.	3
+21	0	1	2	3	0	6	1	4	0	4	0	0	0	2	2	1	0	3.0	2	12	The bees buzzed around the blossoming apple tree in a symphony of activity, pollinating the flowers as they bloomed.	3
+12	1	0	3	1	0	2	0	1	0	2	1	1	0	0	1	0	1	3.0	1	6	Three friends, laughing together, were running along the beach.	3
+14	1	1	3	0	1	2	1	1	0	4	0	0	0	1	2	1	0	3.0	1	5	The bees buzzed, danced, and sang as they happily collected nectar.	3
+17	0	0	2	0	1	5	1	2	0	3	1	0	1	2	1	3	0	5.0	2	5	The artist used three different verbs to paint a portrait, showcasing her creativity and passion.	3
+34	1	1	3	4	2	11	0	5	0	5	0	1	1	2	2	1	0	6.0	2	9	The city streets were bustling with life yesterday as the sun rose, shone brightly and warmed the atmosphere, resulting in a symphony of sounds and colours throughout the bustling city landscape.	3
+19	0	1	3	1	1	5	0	3	0	4	0	0	1	1	1	2	0	4.0	1	7	The baker assembled flour, baked bread, and sang a happy tune while working in the bakery.	3
+10	0	0	1	1	0	3	0	2	0	1	1	0	1	0	1	1	0	2.0	0	5	The busy baker baked three cakes in the afternoon.	3
+16	0	0	4	2	1	2	1	1	0	4	0	0	1	1	1	0	0	4.0	1	5	They danced, ran, and swam through the park, leaving behind colorful memories.	3
+17	0	0	1	3	1	6	1	3	0	1	0	0	1	0	1	0	0	3.0	0	8	She strolled down the vibrant city street with the grace and swiftness of a ballet dancer.	3
+19	0	0	4	2	1	4	2	2	0	4	0	0	0	1	2	1	0	4.0	1	12	She danced, sang, and played in the sun, her laughter echoing the melody of birds.	3
+18	0	1	2	2	1	4	2	2	0	4	0	0	0	2	2	1	0	4.0	2	5	The boy ran through the fields, jumping and laughing as he played soccer with his friends.	3
+14	0	0	3	0	1	3	1	3	0	3	0	0	0	0	1	3	0	3.0	0	8	The farmer sowed the seeds, watered them, and harvested the harvest.	3
+19	1	0	2	1	1	4	1	3	0	4	0	0	1	2	1	2	0	4.0	2	11	The rain washed away the dust from the old house's windows, making them gleaming and sparkling.	3
+16	0	0	4	1	1	2	2	1	0	4	0	0	1	1	1	1	0	3.0	1	7	They danced, sang, and painted, filling the day with their creative expressions.	3
+22	0	0	2	3	1	6	1	3	0	3	0	0	3	2	2	1	0	5.0	2	6	The happy musicians played with wild abandon, composing an unforgettable symphony of laughter and joy that echoed throughout the valley.	3
+17	0	0	4	1	1	3	1	2	0	4	0	0	1	1	1	1	0	3.0	1	7	The boy ran, jumped, and danced, delighting the audience with his extraordinary skills.	3
+12	1	0	3	0	1	2	0	2	0	3	0	0	0	0	1	0	0	4.0	0	5	The children ran, played, and danced all day long.	3
+21	0	0	4	2	2	3	2	1	0	4	0	0	3	1	1	0	0	5.0	1	8	She walked, laughed, and cried yesterday, feeling grateful and alive amidst the devastation of her broken heart.	3
+21	0	1	2	2	0	5	2	3	0	3	0	0	3	2	2	2	0	4.0	2	6	The happy birds soared through the sky as they sang harmonious melodies, filling the air with their cheerful cheers.	3
+24	1	0	4	3	1	7	1	4	0	2	0	0	1	1	2	1	0	4.0	1	15	The workers diligently generated a flurry of reports, meetings, and presentations throughout the day, all contributing to their ongoing success.	3
+12	0	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	2.0	0	8	The birds danced across the blue sky in the warm sunshine.	3
+14	0	0	1	2	0	5	0	4	0	1	0	0	1	0	1	1	0	3.0	0	6	The storm tossed the lighthouse like a toy sailboat in the treacherous harbor.	3
+11	1	0	3	0	1	0	3	0	0	3	0	0	0	1	3	0	0	2.0	1	7	She wrote, he danced, and we laughed together.	3
+21	0	0	4	3	1	4	2	2	0	4	0	0	1	1	1	1	0	5.0	1	8	She leaped, ran, and danced around the tree, leaving a trail of colorful footprints in her wake.	3
+19	1	0	4	2	1	3	0	2	0	2	0	0	4	1	1	1	0	5.0	1	5	The birds soared effortlessly, painting the sky with vibrant strokes of red, blue, and yellow.	3
+14	0	0	3	1	1	3	0	3	0	3	0	0	0	0	1	1	0	3.0	0	5	The dog barks, jumps, and chases the cat around the yard.	3
+19	0	0	4	2	1	4	1	2	0	4	0	0	1	1	1	1	0	3.0	1	10	The birds sang, flew, and danced through the sky, painting beautiful pictures with their wings.	3
+13	0	0	3	1	1	2	2	1	0	3	0	0	0	0	1	1	0	3.0	0	5	We jumped, danced, and sang our hearts out that night.	3
+13	1	0	2	2	0	3	0	2	0	2	0	0	1	1	1	0	0	3.0	1	5	The train roared through the tunnels, speeding ahead with incredible speed.	3
+12	0	0	3	0	1	2	0	2	0	3	0	1	0	0	1	0	0	3.0	0	5	The children were running, jumping, and laughing all day.	3
+19	2	0	2	2	1	4	1	3	0	3	0	0	1	1	1	1	0	5.0	1	5	The soldiers swiftly ran across the battlefield, fighting bravely and overcoming the challenging obstacles in their path.	3
+12	0	0	4	1	1	1	1	1	0	3	0	0	0	0	1	0	0	3.0	0	5	  **She danced, sang, and laughed throughout the night.**	3
+17	0	1	1	1	0	5	0	3	0	2	0	1	3	1	2	2	0	3.0	1	9	The vibrant colors painted a picture with dynamic strokes while birds were singing a melodious tune.	3
+15	0	0	2	1	1	2	2	2	0	5	0	0	0	3	2	1	0	6.0	3	5	They danced around the lake, playing a game that involved singing and chasing.	3
+14	0	1	3	1	1	1	2	1	0	3	0	1	0	1	2	0	0	3.0	1	6	She danced, ate, and played while she was at the fair.	3
+13	0	0	3	1	1	2	0	2	0	3	0	0	1	0	1	0	0	3.0	0	5	The children painted, flew, and swam during the sunny day.	3
+19	0	0	4	2	1	3	3	1	0	4	0	0	1	1	1	1	0	4.0	1	9	She dances, swims, and cooks all weekend, leaving her free time for nothing but relaxation.	3
+35	1	2	4	4	1	8	1	5	0	6	0	1	2	4	5	1	0	4.0	4	22	The bustling city was teeming with pedestrians rushing to their destinations, while cars sped by with the sirens blazing, and a flock of birds soared above, each singing a different melody.	3
+18	1	0	4	1	1	2	2	1	0	5	0	1	0	2	2	1	0	4.0	2	10	She laughed, jumped, and danced throughout the afternoon, making memories she would cherish forever.	3
+15	0	0	2	2	1	3	0	2	0	3	0	0	2	1	1	0	0	4.0	1	6	The children splashed in the cool river, jumping and laughing with pure joy.	3
+16	0	0	3	1	1	4	0	4	0	3	0	0	0	0	3	0	0	4.0	0	5	 The birds flew, the dogs barked, and the leaves danced in the sunlight.	3
+19	0	0	4	2	1	3	2	2	0	4	0	0	1	1	1	1	0	5.0	1	6	She stood, danced, and sang in the moonlit night, creating a symphony of her own.	3
+15	0	0	4	1	1	2	2	1	0	4	0	0	0	1	2	0	0	3.0	1	9	She ran, jumped, and danced, her laughter echoing through the park.	3
+18	0	0	2	2	0	6	0	3	0	3	0	0	2	1	1	1	0	3.0	1	7	The busy birds flitted among the towering oak trees, singing cheerful melodies under the azure sky.	5
+15	0	0	5	0	1	1	1	1	0	5	0	0	1	0	1	0	0	3.0	0	9	He danced, raced, painted, wrote, and played the entire day.	5
+28	0	1	3	3	1	8	1	4	0	4	0	0	3	3	2	1	0	6.0	3	8	The city streets danced with a symphony of lights and sounds, a vivid choreography that unfolded without stopping, painting the vibrant landscape with fleeting brilliance.	5
+14	0	0	2	1	1	4	1	2	0	3	0	0	0	2	1	1	0	3.0	2	8	They danced around the park singing and dancing, enjoying the summer sunshine.	5
+29	0	0	3	6	0	10	1	6	0	2	0	0	1	0	1	0	1	5.0	1	7	Herded by the wind, the birds soared across the sky in a symphony of wings, their plumage shimmering in the golden rays of the setting sun.	5
+22	1	0	2	3	1	7	1	3	0	2	0	0	2	1	2	1	0	5.0	1	12	The vibrant birds soared effortlessly through the endless expanse of the sky, their wings singing melodies of hope and determination.	5
+14	0	0	1	2	1	5	0	2	0	1	0	0	2	0	1	0	0	4.0	0	3	The bustling city streets echoed with the sounds of several conversations and laughter.	5
+12	0	0	2	2	0	3	2	1	0	2	0	0	0	1	1	1	0	3.0	1	6	She strolled down the cobblestone street, singing songs to herself.	5
+28	0	1	2	5	0	8	1	4	0	2	0	1	4	1	2	0	0	5.0	1	12	The bustling city street was bathed in the vibrant colors of life, as the bustling crowds engaged in a myriad of activities within its bustling embrace.	5
+23	0	0	6	2	1	3	2	2	0	6	0	0	1	1	2	0	0	3.0	1	16	They danced, sang, raced, planted, and climbed throughout the day, their laughter echoing in the bustling streets.	5
+21	1	0	5	2	1	5	0	2	0	5	0	0	0	1	1	1	0	4.0	1	10	People ran, laughed, flew, and danced together, creating a symphony of joy in the evening sky.	5
+23	0	0	2	4	1	7	3	2	0	2	1	0	1	1	1	2	0	5.0	1	10	She wrote five stories during her trip to the coast, capturing the magic of sunset and sunrise in her vivid words.	5
+14	0	0	2	2	1	4	1	1	0	2	0	0	1	1	1	1	0	5.0	1	6	She danced through the colorful streets, singing songs of freedom and longing.	5
+16	1	0	2	1	1	4	2	2	0	3	0	0	0	2	2	2	0	5.0	2	4	The rain poured down, washing away the worries and troubles that burdened her mind.	5
+18	0	0	5	1	1	2	1	2	0	5	0	0	1	0	1	1	0	3.0	0	9	She wrote, danced, laughed, sang, and painted a masterpiece in a single day.	5
+14	0	0	5	0	1	1	1	1	0	5	0	0	0	0	1	0	0	3.0	0	9	She leaped, danced, soared, laughed, and sang all day.	5
+16	0	0	5	1	1	1	1	1	0	5	0	0	1	0	1	0	0	3.0	0	9	She danced, laughed, explored, traveled, and wrote on that rainy day.	5
+17	0	0	2	2	0	5	1	3	0	2	0	0	2	1	2	0	0	3.0	1	7	The vibrant dancers leaped across the sky, their laughter resounding through the warm summer night.	5
+20	0	0	6	1	1	3	0	2	0	6	0	0	1	1	1	1	0	4.0	1	11	The children ran, jumped, soared, laughed, and flew, creating a symphony of joyful movement.	5
+17	1	0	2	3	0	4	1	3	0	2	0	0	1	1	1	1	0	4.0	1	6	They danced wildly throughout the park, leaving playful footprints in the dew on the grass.	5
+15	0	0	2	2	1	4	2	1	0	2	0	0	1	1	2	0	0	4.0	1	8	She strolled through the vibrant streets, her eyes sparkling with joy and delight.	5
+27	0	0	2	3	1	8	1	5	0	3	0	0	4	2	2	2	0	7.0	2	7	The firefighters battled with incredible skill and courage, vanquishing a great evil fire demon that consumed a large village within the blink of an eye.	5
+26	0	0	3	3	1	10	0	4	0	1	0	0	3	0	1	0	0	6.0	0	7	  The vibrant city streets pulsed with the rhythmic sounds of children, animals, and the ceaseless hum of the city's life support systems.	5
+21	0	0	5	1	1	3	2	2	0	6	0	1	0	2	2	1	0	5.0	2	9	The students played, practiced, learned, and wrote, creating memories that they would cherish for a lifetime.	5
+13	0	0	1	2	1	4	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	The storm surged through the sky with mighty waves and thunderous storms.	5
+12	1	1	1	0	1	4	0	1	0	3	0	0	0	1	1	1	0	3.0	1	5	People danced and sang while playing video games all night long.	5
+21	0	0	2	3	2	7	2	2	0	2	0	0	1	0	1	2	0	4.0	0	9	Despite her lack of preparation and a sudden storm, she overcame obstacles and completed the marathon in record time.	5
+26	2	0	2	2	2	6	1	4	0	3	0	0	4	1	1	2	0	4.0	1	9	The dancers danced swiftly and gracefully through the enchanted castle, illuminating the hidden chambers and enchanting the royal audience with their harmonious dance moves.	5
+22	0	0	5	2	2	4	1	0	0	6	0	1	1	1	1	0	0	4.0	1	9	People can dance, swim, travel, explore, and laugh in various ways depending on their interests and circumstances.	5
+18	0	0	5	1	1	2	1	1	0	5	0	0	1	0	1	0	0	4.0	0	9	She danced, sang, flew, ate, and slept under the sun's warm rays.	5
+14	0	0	2	3	0	3	1	2	0	2	0	0	1	1	1	0	0	4.0	1	5	She leaped across the field, leaping over a stream of playful fish.	5
+14	0	0	3	2	0	3	0	3	0	2	0	0	1	1	1	0	0	3.0	1	5	  **The birds soared through the heavens, dancing in the sparkling sunbeams.**	5
+25	0	0	6	2	1	3	0	4	0	7	0	0	1	2	1	1	0	5.0	2	9	The dancers spun, jumped, laughed, danced, and laughed around the castle, creating a joyful spectacle for all to enjoy.	5
+19	0	1	5	1	1	1	2	0	0	7	0	0	0	2	1	0	0	5.0	2	9	She danced, ran, sang, wrote, and slept while waiting for her flight to arrive.	5
+12	1	0	1	1	0	3	0	4	0	1	0	0	1	0	1	1	0	2.0	0	8	  The students chased each other around the playground all day long.	5
+22	2	0	3	3	1	5	1	2	0	3	0	0	2	2	2	0	0	5.0	2	8	The children splashed joyfully in the clear blue water, laughing out loud, their faces sparkling with excitement and delight.	5
+25	0	1	2	3	0	7	1	4	0	3	0	0	3	2	2	2	0	5.0	2	9	The children played games with great abandon, racing across the park as they chased each other's laughter through the bustling summer crowd.	5
+21	2	0	2	2	2	6	0	4	0	2	1	0	0	1	1	1	0	4.0	1	8	The rain fell fiercely for five hours, washing away the dust and debris from the roads and the air.	5
+16	0	0	2	2	1	4	0	3	0	3	0	0	1	1	1	1	0	3.0	1	7	The birds sang and flew around the tree, painting the sky in vibrant colors.	5
+24	0	0	6	2	2	5	0	3	0	5	0	0	1	0	1	0	0	6.0	0	9	The birds sang, danced, jumped, flew, and swam in the lake, a dazzling spectacle of movement and colors.	5
+15	0	0	5	1	1	1	1	1	0	5	0	0	0	0	1	0	0	3.0	0	9	She danced, sang, ran, laughed, and smiled throughout the festival.	5
+19	1	1	2	3	0	5	0	4	0	3	0	0	0	2	1	0	0	4.0	2	6	The birds sang in the sun, dancing wildly across the sky before landing on the flower bed.	5
+14	0	0	2	2	0	5	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	They danced across the moonlit lake, whispering secrets under the starlit sky.	5
+18	0	0	2	2	1	6	0	2	0	3	0	0	2	1	1	1	0	5.0	1	4	The bustling city streets pulsed with energy, creating a symphony of moving people and vibrant colors.	5
+30	1	1	4	3	0	10	2	4	0	3	0	0	2	2	1	1	0	4.0	2	18	The bustling city streets teem with people going about their daily lives, from the market vendors to the office workers, making it an ever-changing spectacle.	5
+15	0	0	5	1	1	1	2	0	0	5	0	0	0	0	1	0	0	3.0	0	9	  She laughed, danced, sang, read, and wrote during her day.	5
+22	2	0	2	3	1	5	2	3	0	3	0	0	1	1	1	1	0	5.0	1	6	She walked briskly and danced merrily in the moonlight, painting her courtyard in the vibrant colors of the dawn sky.	5
+16	0	0	5	1	1	1	2	0	0	5	0	0	1	0	1	0	0	3.0	0	9	She danced, sang, laughed, ate, and played during her free time.	5
+20	1	0	3	2	1	4	3	1	0	5	0	0	0	1	1	1	0	4.0	1	6	She danced across the moonlit surface, searching for her lost shadow, making her giggle and disappear momentarily.	5
+25	0	1	3	2	0	6	2	3	0	3	0	0	3	2	2	1	0	6.0	2	6	With its swift paws, agile fox jumped across the grassy field, chasing a rainbow that danced in the sun's rays.	5
+16	0	0	2	1	1	4	2	1	0	2	1	0	2	1	1	2	0	4.0	1	7	She played seven songs throughout the concert, showcasing her vibrant spirit and captivating performances.	7
+14	0	0	1	2	0	4	0	2	0	0	0	1	4	0	1	0	0	3.0	0	4	  The bustling city streets were alive with the vibrant symphony of everyday life.	7
+23	1	1	3	2	0	7	1	3	0	5	0	0	0	2	2	2	0	4.0	2	10	Her hands danced through the rain-soaked leaves, whispering secrets of the forgotten forest just before the shadows took hold.	7
+39	5	1	5	4	2	8	1	5	0	6	0	0	2	1	2	2	0	5.0	1	22	The sun rose, rose butterflies through the vibrant sky, flew freely and gracefully across the fields, danced wildly, and then rested peacefully on the golden flower petals while it whispered secrets of the day.	7
+22	1	0	2	2	0	6	2	3	0	2	0	0	3	1	2	1	0	4.0	1	6	The city's residents tirelessly pursued their dreams, their efforts weaving through the vibrant tapestry of the bustling urban landscape.	7
+24	0	1	2	4	1	5	1	4	0	4	0	0	2	2	2	2	0	4.0	2	11	The children ran around the park with incredible energy, playing hide and seek with each other as they chased down the laughter.	7
+20	0	0	3	3	1	5	0	3	0	4	0	0	1	1	1	0	0	5.0	1	6	The river surged, rushing, gurgling and churning in endless dance with the crashing waves against the shore.	7
+16	0	0	2	2	1	4	1	2	0	2	0	0	2	0	1	2	0	3.0	0	5	With great fanfare, the band struck up their instruments and played a joyous melody.	7
+17	0	0	2	2	0	6	1	2	0	2	1	0	1	1	2	2	0	4.0	1	6	The busy baker kneaded seven loaves of dough, her skills creating magic in every creation.	7
+24	0	0	2	3	2	7	2	3	0	4	0	0	1	1	1	1	0	6.0	1	7	We danced and sang under the starry sky, a symphony of joy and freedom echoing our hearts throughout the bustling city streets.	7
+21	0	0	2	2	0	6	2	3	0	3	0	0	3	2	2	2	0	4.0	2	10	  She painted the sky in vibrant hues, her brush strokes dancing in the warm sunlight illuminating the vibrant colors.	7
+25	0	0	3	4	2	7	0	3	0	4	0	0	2	1	1	0	0	8.0	1	5	The bustling city streets danced to the rhythm of diverse vendors singing, laughing, and performing in a symphony of passion and energy.	7
+22	0	1	2	2	1	7	2	3	0	3	0	0	1	2	3	2	0	4.0	2	10	The boy chased his friends with amazing speed and agility as they raced across the park, laughter filling the air.	7
+25	1	0	2	3	0	8	0	5	0	3	0	0	3	1	1	2	0	3.0	1	12	The city dwellers chased away the stray puppies with an overflowing basket of bones, causing a lively spectacle across the bustling city streets.	7
+31	4	0	5	3	2	5	2	3	0	6	0	0	1	2	2	1	0	7.0	2	10	She walked briskly, spoke boldly, laughed freely, and danced gracefully throughout the fair, displaying unwavering courage and a spirit of adventure in each step she took.	7
+18	2	0	4	2	0	3	2	2	0	2	0	0	1	0	1	0	1	3.0	1	7	  **Raining gently outside, she walked down the street, a curious expression on her face.**	7
+28	0	0	5	2	1	9	0	2	0	4	0	1	4	1	1	1	0	5.0	1	11	The bustling city streets were lively with the combined energy of diverse pedestrians, rushing taxis, flying horses, bustling street performers, and chattering commuters.	7
+17	0	0	6	1	1	1	2	0	0	6	0	0	0	0	1	0	0	3.0	0	11	  She danced, sang, wrote, played, laughed, and cooked for her family.	7
+25	0	0	2	4	0	7	0	4	0	2	1	0	5	1	1	2	0	4.0	1	11	The diligent artist poured seven strokes of vibrant red on the blank canvas, creating a symphony of vibrant hues upon the desolate landscape.	7
+23	0	0	3	3	0	6	3	3	0	4	0	0	1	2	2	1	0	4.0	2	8	She ran through the towering forest, her laughter weaving through the rustling leaves, filling the air with her vibrant presence.	7
+27	0	0	4	4	1	8	0	4	0	2	0	0	4	1	1	2	0	4.0	1	14	The vibrant sun painted the sky with dazzling hues of red, orange, and yellow, creating a symphony of color in the vast expanse.	7
+19	1	0	2	2	0	6	1	4	0	2	0	0	1	1	2	1	0	4.0	1	6	The birds soared effortlessly through the azure sky, their wings painting the clouds with a vibrant symphony.	7
+20	1	0	2	2	0	4	2	2	0	3	0	1	3	2	2	1	0	4.0	2	10	The happy villagers danced to the rhythmic beat of their own souls, creating memories they would treasure forever.	7
+44	0	0	5	8	1	11	6	5	0	6	1	0	1	4	2	2	0	7.0	4	11	She hurried through the forest, searching for berries with her two hands, feeling the sun on her face, singing a melody that danced around her ears, and reaching for the ripening berries in her basket with a determined gaze.	7
+13	0	0	2	1	1	3	0	3	0	3	0	0	0	1	1	1	0	3.0	1	7	The children chased the butterflies through the meadows, dancing and laughing.	7
+19	2	0	2	1	1	5	0	3	0	4	0	0	0	1	1	2	0	4.0	1	7	The rain danced fiercely, washing away the city's despair and filling the streets with shimmering hope.	7
+22	0	0	3	3	0	4	4	2	0	4	0	0	1	3	2	2	0	5.0	3	8	She danced through the bustling city, her laughter carrying through the streets, inspiring everyone around her to embrace life.	7
+26	0	0	2	2	1	8	2	6	0	4	0	0	1	2	3	4	0	6.0	2	9	The storm tossed the waves into the shore and the birds sang their songs, creating a beautiful symphony that filled the air with joy.	7
+30	1	1	2	2	0	7	2	5	0	6	0	0	2	4	2	3	0	6.0	4	8	The stormy winds whipped the city streets into a frenzy, causing a lively crowd to dance in the pouring rain before they had to make their way home.	7
+14	0	0	2	2	1	4	2	1	0	2	0	0	0	1	2	0	0	3.0	1	8	She danced with grace and beauty, her laughter echoing throughout the park.	7
+23	1	0	2	3	1	8	1	3	0	3	0	0	0	1	1	0	0	5.0	1	6	A group of dancers moved gracefully through the bustling city streets, their laughter and dance echoing across the city's skyline.	7
+27	0	1	2	4	2	9	0	5	0	3	0	0	0	1	2	1	0	5.0	1	12	  The city's skyline transformed into a tapestry of light and shadow, as the clouds danced and painted the sky in an array of colors.	7
+25	0	0	8	1	2	3	3	0	0	8	0	0	0	1	1	1	0	4.0	1	15	She danced, wrote, painted, explored, laughed, solved, and traveled, showcasing her brilliance and resilience throughout her day.	7
+20	0	1	1	3	1	7	0	3	0	2	0	0	2	1	2	0	0	4.0	1	11	The bustling city streets danced with a symphony of sound and light as the sun shone upon various landscapes.	7
+38	0	0	3	7	0	11	2	6	0	4	1	0	3	3	2	2	0	6.0	3	12	They danced beneath a fiery sky, wielding a hundred blades of grass to paint dreams across the canvas of the night sky, their laughter cascading like the waterfalls of a mighty river in full flood.	7
+20	0	0	2	3	0	8	0	4	0	2	0	0	1	1	1	1	0	4.0	1	6	The vibrant river rushed through the rushing waterfall, painting the rock surface in a symphony of water colors.	7
+50	2	0	7	6	2	10	2	8	0	7	0	0	6	0	1	4	0	5.0	0	37	She leaped to her feet, snatched a coin from the ground, performed a dazzling display of acrobatics, danced gracefully, told a tale with a captivating tone, ate some delicious food, and then headed to the next location in a swift and graceful manner.	7
+15	0	0	4	2	0	3	2	2	0	1	0	0	1	0	1	1	0	3.0	0	4	Despite the treacherous journey, she ** braved** every challenge on her path.	7
+21	0	0	2	4	1	6	0	4	0	3	0	0	1	1	1	1	0	5.0	1	8	The birds sang with melody and soared through the sky, painting a breathtaking symphony of colors on the horizon.	7
+29	0	0	7	3	1	6	1	2	0	2	1	0	6	1	1	2	0	5.0	1	11	The artist painted seven colorful strokes on the canvas, expressing her emotions through hues of red, yellow, blue, green, purple, and orange.	7
+27	0	0	5	2	1	6	1	7	0	4	0	0	1	0	1	4	0	5.0	0	13	She painted the garden, planted the seeds, harvested the flowers, and organized the flowers into a beautiful bouquet, all in a day.	7
+16	2	0	2	2	0	3	2	2	0	2	0	0	1	0	2	0	0	3.0	0	7	  She laughed so hard, her whole body moved like a bird on a swing.	7
+29	0	0	4	3	2	8	2	3	0	4	0	0	3	2	1	2	0	4.0	2	11	The city awoke to the symphony of sounds and sights surrounding it, painting a vibrant canvas with its vibrant streets, bustling crowds, and shimmering lights.	7
+14	1	0	1	2	1	3	0	2	0	2	0	0	2	0	1	0	0	4.0	0	5	 The children laughed wildly and danced with abandon in the vast open field.	7
+22	2	0	2	2	1	5	0	3	0	3	0	0	3	1	1	1	0	4.0	1	8	The storm raged with fierce fury, sweeping away all life's vibrant colours and leaving behind only a desolate wasteland.	7
+21	0	0	2	3	0	6	0	4	0	2	0	0	4	1	1	0	0	5.0	1	5	  The vibrant red leaves swayed in the warm summer breeze, a symphony of colors dancing beneath the sunlit sky.	7
+14	0	0	1	2	0	3	0	2	0	0	1	1	4	0	1	0	0	3.0	0	4	The vibrant city was alive with the vibrant energy of seven bustling musicians.	7
+30	1	0	7	4	1	6	3	2	0	6	0	0	0	0	1	2	0	3.0	0	25	She went to the library, walked to school, sat in her classroom, wrote a report, did her homework, and finally, went to bed.	7
+27	0	1	2	5	0	8	1	6	0	3	0	0	1	2	2	2	0	5.0	2	11	She danced across the meadow, singing a melody of laughter along the way as the sun painted the sky with a dazzling palette of colors.	7
+14	0	0	2	2	0	4	2	2	0	2	0	0	0	1	2	0	0	3.0	1	7	She danced on the waves, her eyes sparkling like the morning dew.	7

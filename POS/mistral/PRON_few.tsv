@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+8	0	0	1	0	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	3	A local diner serves breakfast all day.	0
+12	0	0	1	0	1	3	0	2	1	1	0	0	3	0	1	1	0	3.0	0	6	A local organic farm sells fresh fruits and vegetables every Saturday.	0
+17	1	0	1	2	0	3	0	3	3	1	2	0	1	0	1	1	0	4.0	0	7	The International Space Station orbits Earth every 90 minutes at a height of approximately 250 miles.	0
+14	0	0	1	0	1	4	0	1	2	1	0	0	4	0	1	1	0	4.0	0	5	The New England Aquarium features countless aquatic species and daily penguin feeding presentations.	0
+16	0	1	3	0	1	7	1	0	0	2	0	0	1	1	1	2	0	5.0	1	6	Our company provides consulting solutions for improving financial performance, operations, and customer relations.	0
+22	0	0	5	2	1	7	0	1	3	2	1	0	0	0	1	1	1	4.0	1	14	Three types of software, including word processors, spreadsheets, and presentation software, make up the Microsoft Office Suite.	0
+13	1	0	1	2	0	5	0	1	1	1	0	1	0	0	1	0	0	3.0	0	5	Caterpillar tractors are used extensively in road construction projects around the world.	0
+18	0	0	4	1	1	6	0	0	1	0	0	1	3	0	1	0	0	3.0	0	8	Atlantic City's Boardwalk is famous for various arcades, attractions, casinos, and amusement parks.	0
+16	0	0	2	1	1	7	0	1	1	1	0	1	1	0	1	0	0	4.0	0	7	Free health check-ups and flu shots are provided at community centers every Saturday.	0
+17	0	0	2	2	1	3	0	1	2	2	1	0	3	0	1	1	1	6.0	1	9	Museum featuring ancient and modern art from various cultures opens Monday through Friday, 10 a.	0
+13	0	1	1	0	0	4	0	2	0	2	1	1	1	1	2	2	0	3.0	1	6	Two men are playing chess while the third man observes the game.	0
+11	1	0	1	2	0	1	0	1	2	1	1	0	1	0	1	0	0	3.0	0	4	The Great Wall of China stretches for over 13,000 miles.	0
+12	0	0	1	2	0	0	0	1	3	1	1	1	2	0	1	0	0	4.0	0	5	The International Day for Biological Diversity is celebrated on May 22.	0
+18	0	0	3	0	2	7	1	0	0	2	0	0	3	1	1	2	0	4.0	1	7	Our company provides exceptional printing and copying services, utilizing high-quality equipment and efficient processes.	0
+19	0	0	3	1	1	9	0	1	0	1	0	1	2	0	1	1	0	3.0	0	7	The annual conference on geothermal energy production will include keynote speakers, research papers, and exhibitor displays.	0
+12	0	0	1	2	1	4	0	1	0	2	0	0	1	0	1	1	0	3.0	0	5	Breweries produce and package various beer styles from around the world.	0
+11	0	0	1	2	0	2	0	2	2	1	1	0	0	0	1	0	0	3.0	0	3	The Eiffel Tower stands at a height of 324 meters.	0
+24	0	0	3	3	0	1	0	3	9	1	1	0	3	0	1	1	0	4.0	0	14	"The Library of Congress National Film Preservation Board added the animated series ""South Park"" to the National Film Registry in 2000."	0
+16	0	0	3	1	1	6	0	2	0	1	0	0	2	0	1	1	0	3.0	0	12	A farmer markets apples, pumpkins, and sweet corn at a weekly farmers market.	0
+11	0	0	1	2	0	2	0	1	2	1	1	0	0	0	1	0	0	3.0	0	4	Saturday's game against the Yankees begins at 1:35 p.	0
+16	0	0	2	2	0	3	0	1	3	2	1	0	2	1	1	1	0	4.0	1	4	In 1993, Sony Corporation introduced a new line of portable music players called Walkman.	0
+12	0	0	3	1	0	5	0	2	0	0	0	0	1	0	0	0	0	2.0	0	7	In a tropical climate, the orchid blooms year-round.	0
+17	1	0	1	3	1	5	1	0	0	1	2	0	2	0	1	0	0	5.0	0	10	Three types of fresh fruits and three varieties of fresh vegetables offered daily at our market.	0
+17	0	0	3	1	1	7	1	1	0	2	0	0	1	1	2	1	0	4.0	1	8	A community garden grows fruits, vegetables, and herbs which members harvest for personal use.	0
+14	0	0	1	3	0	4	0	1	2	0	1	1	1	0	1	0	0	3.0	0	5	Fifteen exotic pets for adoption are on display at Rainforest Sanctuary this weekend.	0
+23	0	0	2	2	1	4	0	1	5	2	0	0	5	0	1	1	0	5.0	0	7	The United States Department of Agriculture's Cooperative Extension Service provides research-based educational programs in agricultural and natural resource sciences.	0
+16	0	0	2	2	1	3	0	2	4	1	0	1	0	0	1	1	0	3.0	0	5	In Las Vegas, tourists may enjoy shows at the Mirage and the Bellagio hotels.	0
+14	0	0	2	2	0	4	0	1	2	0	1	1	0	0	1	0	0	3.0	0	4	The museum's hours of operation are Monday through Friday, 10:00 a.	0
+16	0	0	1	4	1	3	0	1	2	2	2	0	0	0	1	0	0	3.0	0	7	The exhibition opens at 6 pm on Friday and ends at 9 pm on Sunday.	0
+17	0	0	1	1	1	6	0	2	1	2	0	1	2	0	1	1	1	5.0	1	9	A new store featuring Asian street food and boba tea has opened in the downtown area.	0
+21	0	0	1	4	1	6	1	1	0	1	1	2	3	0	1	0	0	4.0	0	9	Weights for each of ten different fruits must be measured for proper labeling and tracking at our local farmers market.	0
+10	0	0	1	2	0	3	0	0	0	0	2	0	2	0	1	0	0	3.0	0	3	Two thousand books available for sale at local library.	0
+18	0	0	3	1	1	5	0	2	1	2	0	0	3	0	1	1	1	5.0	1	10	A new library branch, featuring a glass facade and open layout, opened on 3rd Avenue.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	My cat purrs loudly in the morning.	0
+12	0	0	1	1	0	6	0	2	0	1	0	0	1	0	1	1	0	5.0	0	5	The city council approved the funding for public transportation infrastructure expansion.	0
+13	0	0	3	1	1	6	1	0	0	1	0	0	0	0	1	1	0	5.0	0	8	Our team develops software for education, healthcare, and finance industries.	0
+12	0	0	3	0	1	5	0	1	0	1	0	0	1	0	1	1	0	3.0	0	5	The largest retail chain offers electronics, furniture, and appliances.	0
+15	0	0	2	2	1	6	0	1	0	1	0	0	2	0	1	1	0	5.0	0	5	The library offers access to various publications and research materials, free of charge.	0
+19	0	0	3	2	1	7	0	1	0	3	0	0	2	0	1	1	0	4.0	0	7	Largest chain of coffeehouses in the world offers free Wi-Fi, handcrafted beverages, and baked pastries.	0
+11	1	0	1	1	0	2	0	2	1	1	1	0	1	0	1	1	0	3.0	0	3	The Milky Way galaxy has a mass of about 1.	0
+17	0	0	1	1	1	1	0	2	6	0	0	1	4	0	1	0	0	3.0	0	7	The Great Barrier Reef is a renowned UNESCO World Heritage Site with exceptional marine and biodiversity.	0
+18	0	0	2	4	0	7	0	1	1	1	1	0	1	0	1	0	0	3.0	0	11	Sales tax rate varies by jurisdiction within California, with a general state sales tax of 0.	0
+17	0	0	1	1	0	2	0	2	2	2	0	1	6	0	1	1	1	4.0	1	7	A new exhibit featuring rare ancient Egyptian artifacts will open at The British Museum next Thursday.	0
+19	0	0	1	2	1	7	0	3	0	2	0	0	3	0	1	2	1	4.0	1	7	A musical ensemble performing jazz standards in the park entertains the audience with rich improvisations and vibrant solos.	0
+15	0	0	1	3	0	3	0	1	2	1	3	0	1	0	1	1	0	3.0	0	9	The United States Mint produced fifty state quarters in sequence from 1999 to 2008.	0
+17	0	0	3	1	2	8	1	0	0	1	0	0	1	0	1	1	0	3.0	0	9	Our store sells leather jackets for men and women, wool coats, and waterproof parkas.	0
+11	0	0	1	1	0	5	1	0	1	0	0	1	1	0	1	0	0	2.0	0	5	Tuesday night is movie night at our local community cinema.	0
+11	0	0	1	1	0	5	0	1	0	1	0	0	1	1	0	1	0	4.0	1	6	Development of an innovative platform to streamline customer support interactions.	0
+18	0	0	3	2	1	4	0	2	3	1	0	0	2	0	1	1	0	4.0	0	12	The new museum exhibit features paintings by Monet, Renoir, and Degas from the 19th century.	0
+15	0	0	1	1	1	5	0	1	0	3	0	0	2	1	1	2	0	4.0	1	3	The annual art festival draws thousands to attend and explore displays by local artists.	0
+9	0	0	1	1	0	3	2	0	0	1	0	0	1	0	1	1	0	2.0	0	6	She enjoys reading novels in her free time.	1
+11	0	1	1	1	0	3	1	1	0	1	0	1	1	1	1	1	0	3.0	1	4	Each student is responsible for completing their assignments on time.	1
+8	0	0	1	0	0	2	1	2	0	1	0	0	1	0	1	1	0	2.0	0	5	She cooks an excellent meal every day.	1
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	You missed an important deadline.	1
+8	0	0	1	1	0	2	1	0	0	1	0	1	1	0	1	1	0	2.0	0	4	One must embrace change for personal growth.	1
+8	3	0	1	0	0	0	2	0	0	2	0	0	0	1	2	0	0	2.0	1	4	She speaks softly when she reads aloud.	1
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	I have a red apple.	1
+6	0	0	1	0	0	1	1	1	0	1	0	1	0	0	1	0	0	1.0	0	4	She is an accomplished violinist.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She sings well in the shower.	1
+11	1	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	7	He always wears a red hat during the winter season.	1
+5	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	0	0	2.0	0	1	Your suggestion seems intriguing.	1
+7	0	0	1	1	0	1	2	0	0	0	0	1	1	0	1	0	0	2.0	0	2	Her eyes were bigger than his.	1
+10	0	0	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	4.0	1	3	You have to remember the details of the accident.	1
+9	0	1	1	0	0	1	1	1	0	3	0	0	0	2	1	1	0	3.0	2	4	He reads a book before going to sleep.	1
+6	0	0	1	1	0	2	1	0	0	1	0	0	0	0	1	1	0	2.0	0	3	He enjoys skiing in winter.	1
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	6	She studies English grammar in class every day.	1
+8	1	0	1	1	0	2	0	0	0	1	1	1	0	0	1	1	0	2.0	0	3	One must always prioritize safety over risk.	1
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I have an apple.	1
+7	1	0	1	1	0	1	0	0	0	1	1	1	0	0	1	0	0	2.0	0	3	One should always strive for excellence.	1
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	She loves hiking.	1
+8	2	0	1	0	0	0	2	0	0	1	0	1	1	1	2	0	0	2.0	1	5	She sings beautifully when she's alone.	1
+7	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	He is playing the guitar skillfully.	1
+6	0	0	1	0	0	2	1	0	0	2	0	0	0	1	1	1	0	3.0	1	2	She enjoys reading mystery novels.	1
+7	0	0	1	1	0	1	2	0	0	1	0	0	1	0	1	0	0	2.0	0	3	Your answer looks good to me.	1
+6	0	0	1	1	0	2	1	0	0	1	0	0	0	0	1	1	0	2.0	0	3	She reads books for pleasure.	1
+7	0	0	1	1	0	3	1	0	0	1	0	0	0	0	1	1	0	2.0	0	4	She prefers books to TV shows.	1
+7	1	0	1	0	0	2	0	1	0	1	0	1	0	0	1	1	0	2.0	0	2	All students should attend school daily.	1
+6	0	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	He deserves a second chance.	1
+6	0	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	2	He loves playing the saxophone.	1
+10	0	0	1	1	0	2	2	0	0	2	0	0	1	1	1	1	0	3.0	1	5	She loves to read poetry in her free time.	1
+12	0	0	1	2	0	3	2	2	0	1	0	1	0	0	1	1	0	3.0	0	5	She has won the award for her performance in the play.	1
+6	1	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	He plays the piano skillfully.	1
+6	0	0	1	0	0	2	1	0	0	2	0	0	0	1	1	1	0	3.0	1	2	He enjoys reading mystery novels.	1
+7	0	0	1	0	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	3	Her smile hid a secret pain.	1
+6	0	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	2	She enjoys traveling the world.	1
+7	0	0	1	1	0	2	1	0	0	1	0	0	1	0	1	1	0	2.0	0	4	He loves hiking in national parks.	1
+18	0	0	3	1	1	3	3	2	0	2	0	1	1	1	1	1	0	4.0	1	11	 He, a doctor, and a friend of his are coming to visit us next week.	1
+11	1	0	1	1	0	3	1	0	0	2	0	1	0	1	1	1	0	3.0	1	5	You can choose to eat only vegetables for dinner tonight.	1
+7	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	She is playing the violin beautifully.	1
+7	0	0	1	0	0	1	0	1	0	1	1	1	0	0	1	1	0	2.0	0	3	One cannot change the past.	1
+8	1	0	1	0	0	2	2	0	0	2	0	0	0	1	2	1	0	2.0	1	5	She enjoys reading mysteries when it rains.	1
+7	0	0	1	0	0	1	1	0	0	2	0	0	1	1	1	1	0	3.0	1	2	He loves to paint vivid landscapes.	1
+7	0	0	1	1	0	1	1	0	0	1	0	1	1	0	1	0	0	2.0	0	3	We have learned from past mistakes.	1
+8	0	0	1	1	0	2	2	0	0	1	0	0	1	0	1	1	0	2.0	0	5	He deserves better treatment from his boss.	1
+9	0	0	1	1	0	3	2	0	0	1	0	0	1	0	1	1	0	2.0	0	6	She enjoys painting landscapes in her free time.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purrs contently on my lap.	1
+8	0	0	1	1	0	2	1	2	0	0	0	1	0	0	1	0	0	2.0	0	3	He is the captain of this ship.	1
+10	0	1	1	0	0	2	1	1	0	1	0	2	1	1	2	0	0	2.0	1	6	One might say that experience is the best teacher.	1
+8	2	0	1	0	0	0	2	0	0	1	0	1	0	1	1	1	0	2.0	1	3	I am always here to help you.	1
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She enjoys hiking in the mountains.	1
+16	0	0	2	1	1	1	5	0	0	4	0	0	0	2	2	3	0	4.0	2	8	She promised to bring us sandwiches, but he forgot to mention it to me.	3
+32	0	1	3	4	1	7	8	2	0	4	0	0	2	1	3	4	0	5.0	1	22	He enjoys his coffee in the park in the early mornings, she prefers hers at home in her pajamas, and they appreciate their unique ways of starting their day.	3
+16	0	1	1	2	0	2	4	2	0	2	0	1	1	1	2	2	0	4.0	1	5	He told her that they should inform him of any new developments in the project.	3
+23	3	0	2	1	2	1	5	1	0	6	0	0	0	3	4	1	0	4.0	3	9	You suggested we meet at the cafe, but I chose to stay home instead and I invited her to come over.	3
+21	2	1	2	2	0	3	7	1	0	2	0	1	0	1	3	2	1	4.0	2	9	The book he gave her for her birthday is now mine, as she accidentally left it at my place.	3
+14	0	0	2	3	0	4	1	1	0	1	0	1	1	0	1	0	0	3.0	0	5	After his victory, the president was showered with gifts from many nations.	3
+15	0	0	2	2	0	3	4	2	0	2	0	0	0	1	2	3	0	5.0	1	6	He gave her the letter, which bore the stamp of sincerity from him.	3
+20	0	0	2	2	2	4	6	0	0	3	0	0	0	1	2	2	0	4.0	1	10	She forgot her wallet at home, but he and I managed to buy her dinner with our cards.	3
+18	0	0	1	2	1	2	5	1	0	3	0	0	1	1	1	3	0	4.0	1	9	He shared a secret with us about his past but asked us not to tell anyone else.	3
+19	0	0	2	0	1	3	4	2	0	3	0	1	1	2	2	4	0	4.0	2	12	She gave him the phone to call the doctor, but he was reluctant to disturb her rest.	3
+13	0	1	1	1	0	1	5	1	0	2	0	1	0	1	2	3	0	4.0	1	5	She promised him that she would tell me the truth about it.	3
+19	0	1	1	1	1	3	5	1	0	4	0	1	0	2	2	4	0	3.0	2	10	She asked him to invite her friend to the party and assured him that they would bring appetizers.	3
+21	1	0	3	2	1	2	6	1	0	3	0	0	2	0	3	2	0	4.0	0	11	She loves him, he cares for her deeply, and they have a wonderful bond with their newborn baby.	3
+14	0	0	2	0	1	1	4	0	0	3	0	0	2	1	2	2	0	3.0	1	10	They promised to give him their best effort, but he remained skeptical.	3
+28	0	1	3	2	1	5	7	1	0	4	0	1	3	2	4	3	0	5.0	2	19	She loved her new phone, its camera taking clearer pictures than he had imagined for hers, but he preferred the old school charm of his.	3
+14	2	0	1	1	0	2	4	0	1	2	0	0	1	1	2	2	0	3.0	1	6	She often wears her favorite scarf when she visits her grandmother on Tuesdays.	3
+21	4	1	3	0	1	1	6	0	0	3	0	2	0	1	3	3	0	4.0	1	11	He promised her that he would never forget their anniversary, yet here he was once again, missing it.	3
+12	0	0	1	2	1	4	2	0	0	2	0	0	0	1	1	1	0	4.0	1	6	He enjoys spending time at home with his wife and children.	3
+23	2	2	2	3	0	3	4	1	0	4	0	2	0	3	3	2	0	7.0	3	8	She mentioned that they would be discussing the matter in detail later, while expressing concern about how he felt about it.	3
+22	1	1	2	1	1	4	6	1	0	4	0	0	0	2	3	2	0	4.0	2	11	She always trusts in her sister to keep their secrets, while he questions her motives and they argue every night.	3
+15	1	0	2	0	0	1	3	1	0	4	0	1	0	2	2	2	0	3.0	2	8	He forgot to bring the books, we had planned to discuss them together.	3
+21	1	1	1	1	0	2	6	2	0	4	0	3	0	3	4	2	0	5.0	3	7	They asked him what he knew about the situation since he had attended the meeting where it had been discussed.	3
+18	1	0	1	0	1	1	7	1	0	4	0	2	0	2	4	4	0	3.0	2	9	He offered her the book he was reading and she promised him she would read it carefully.	3
+13	0	0	1	1	0	3	3	1	0	2	0	0	1	1	1	2	0	3.0	1	7	He asked us to bring our own utensils to the potluck dinner.	3
+16	2	1	2	0	0	1	5	1	0	3	0	1	0	2	3	2	0	4.0	2	5	He offered us some cookies, which we graciously declined since we had already eaten.	3
+12	0	0	8	0	1	0	3	0	0	0	0	0	0	0	0	0	0	2.0	0	9	" ""she,"" ""her,"" and ""their."	3
+22	0	1	2	0	1	3	7	0	0	3	0	2	2	2	3	4	0	5.0	2	9	He will show us his new research results, and we expect them to be impressive since we trust his abilities.	3
+17	0	0	2	1	1	2	4	2	0	3	0	0	1	1	2	3	0	3.0	1	11	She offered him the last slice of pie, and they all agreed to share it.	3
+18	1	0	3	0	1	1	6	2	0	4	0	0	0	1	4	3	0	4.0	1	10	She loves him, he adores her, and they both cherish each moment they spend together.	3
+13	0	0	1	2	0	3	3	2	0	1	0	0	1	0	1	2	0	3.0	0	7	They gave her a promotion after her excellent performance in the project.	3
+26	1	1	3	2	1	7	5	0	0	4	0	2	0	3	4	2	0	4.0	3	10	She loved reading books when we were children, but he preferred comic strips, while our sister would listen to music on her headphones.	3
+14	0	0	1	1	1	1	5	0	0	2	0	2	1	1	3	1	0	3.0	1	7	She has shared her idea with us and we think it's amazing.	3
+19	0	0	2	2	1	5	4	2	0	3	0	0	0	1	2	1	0	5.0	1	5	The cat left his toy beside my chair, which the dog grabbed and took in his mouth.	3
+15	2	0	2	0	1	1	5	0	0	3	0	0	1	1	3	2	0	2.0	1	12	She enjoys her favorite foods when he cooks them, but sometimes he forgets.	3
+18	0	0	3	0	1	4	6	0	0	3	0	0	0	0	3	3	0	4.0	0	11	He appreciates my compliments, she enjoys his jokes, and they admire their baby's smile.	3
+20	1	0	1	2	1	5	3	2	0	3	0	0	2	1	1	2	0	4.0	1	9	The group discussed their ideas about the upcoming project but ultimately made their final decision based on his suggestion.	3
+15	0	0	2	2	1	2	6	0	0	2	0	0	0	0	2	2	0	3.0	0	8	He loves her for her intelligence, but she values her family over everything.	3
+24	0	0	3	3	1	3	7	2	0	4	0	0	1	1	4	3	0	5.0	1	12	He loves his job, they admire him for it, but she dislikes the long hours he puts in at the office.	3
+21	0	1	2	0	1	2	5	1	0	4	0	2	1	3	3	3	0	4.0	3	12	He asked her to help him carry the heavy boxes, but she couldn't because her back was hurting.	3
+22	1	0	2	2	1	3	3	2	0	2	0	3	2	0	2	2	0	3.0	0	12	They have been discussing the new project for months, but he is yet to present her with a solid proposal.	3
+9	0	0	4	0	0	0	4	0	0	0	0	0	0	0	0	0	0	3.0	0	4	 he, she, they/them).	3
+12	3	0	1	1	1	0	3	0	0	2	0	0	1	0	1	1	0	3.0	0	6	He often speaks ill of them but still trusts them implicitly.	3
+25	0	0	3	1	1	3	7	0	0	4	0	2	2	1	4	3	0	3.0	1	17	He loves his grandfather's classic car, she admires its sleek design, but they can't agree on who will drive it.	3
+20	1	1	2	1	0	3	5	1	0	2	0	3	1	1	3	3	0	3.0	1	14	She gave him her word that she would be there on time; they were expecting a large crowd.	3
+33	4	1	4	5	1	6	3	0	2	4	0	1	2	2	3	1	0	5.0	2	13	He often enjoys inviting his friends over for dinner, but Sheila seldom can attend because of her late-night shift work, while Bob usually declines due to other engagements.	3
+13	0	0	1	1	0	4	0	4	0	2	0	0	0	1	1	3	0	4.0	1	4	The teacher gave each student a pencil to write the test with.	3
+16	0	0	1	1	1	3	4	1	0	3	0	0	1	1	1	4	0	3.0	1	8	She offered him the last slice of pizza and invited her friend to join them.	3
+17	0	0	3	0	1	3	4	3	0	3	0	0	0	0	3	4	0	4.0	0	6	They gave her the key, she unlocked the door, and we entered the room.	3
+7	0	0	3	0	1	0	3	0	0	0	0	0	0	0	0	0	0	2.0	0	5	 He, Her, and His.	3
+10	0	0	1	1	0	1	4	0	0	2	0	0	0	1	1	2	0	3.0	1	4	He asked me to pass his number to her.	3
+27	3	2	2	2	0	3	4	2	1	3	0	3	1	2	3	2	0	4.0	2	14	Everyone in this group is wondering if Heidi has heard the news about her old teacher, even though they haven't directly asked her yet.	5
+29	1	1	4	3	1	6	6	2	0	4	0	0	0	2	3	4	0	5.0	2	13	They offered her apples and peaches at the farmers market; however, he chose to buy bananas for her, as she preferred them over the others.	5
+29	1	1	3	2	1	5	8	2	0	5	0	0	0	1	4	4	1	4.0	2	10	After we arrived at the campsite, he forgot his keys but I remembered mine, so we used my car to get our equipment from the carpark.	5
+19	1	2	1	2	0	3	3	1	0	4	0	1	1	3	2	1	0	4.0	3	8	She believed that he would rather spend his vacation lounging in the sun than hiking through dense forests.	5
+23	0	2	2	2	1	3	5	1	1	4	0	1	0	3	4	1	0	4.0	3	12	He assumed that she believed in God, but her lack of reaction led him to wonder if she was an atheist.	5
+28	1	1	2	0	0	2	10	2	0	7	0	3	0	5	7	4	0	5.0	5	17	She thought he had misunderstood her when he asked if she had read all her emails; she realized he meant the ones he had sent her.	5
+22	0	0	15	0	1	2	3	1	0	0	0	0	0	0	0	0	0	2.0	0	17	 'She', 'him', 'the moon', 'stars' and 'everything').	5
+24	1	0	15	0	1	2	3	1	0	0	0	0	1	0	0	0	0	2.0	0	20	" ""I"", ""everyone"", ""group leader"", ""only a few"", and ""their""."	5
+20	0	1	1	1	1	3	3	2	0	4	0	1	2	2	2	3	0	6.0	2	5	He suggested that they should each order different dishes and share them to taste a wider variety of cuisines.	5
+19	0	1	2	3	0	5	2	3	0	1	0	1	1	1	2	0	0	4.0	1	6	The committee considered that she was the ideal candidate for the position, despite resistance from her peers.	5
+28	2	0	3	1	3	7	4	1	0	4	0	1	1	2	1	3	0	6.0	2	13	We will evaluate his proposal thoroughly, considering its strengths and weaknesses alike, and make a collective decision based on our group's needs and goals.	5
+24	1	1	1	3	0	5	5	2	0	3	0	1	1	2	2	3	0	6.0	2	7	He offered each of us suggestions on how to expand our investment portfolio despite his own hesitation towards the stocks we were considering.	5
+27	1	0	2	2	0	7	3	4	0	4	0	2	2	3	3	4	0	8.0	3	10	They recommended an online resource that could potentially benefit all students who were experiencing difficulty understanding the math concepts, irrespective of the level of complexity.	5
+58	2	1	5	5	3	12	7	3	0	9	0	6	4	1	5	4	2	5.0	3	28	If we follow their recommendations and immediately cease providing them with financial support, he will have to find another job and source of income, she may face potential eviction from her rented apartment, our budget for those charitable causes will be reduced significantly, and many community programs will be discontinued as a result.	5
+28	2	0	4	1	0	6	4	3	0	4	1	0	2	1	2	3	0	6.0	1	14	They promised us a new swimming pool, however, at this moment, there are only four empty excavated holes that reflect the sun's rays.	5
+25	1	1	3	0	1	4	6	1	0	3	0	3	2	3	4	2	0	3.0	3	18	She believed the detective had found her stolen diamond earrings, but when she examined them, it was clear that they were fakes.	5
+26	0	0	3	2	1	3	3	4	0	5	0	2	2	4	3	2	0	4.0	4	13	The team assumed they had found the answer in the old manual, but it turned out to be obsolete, leaving them all dismayed.	5
+23	0	1	1	3	0	2	5	3	0	4	0	1	1	3	2	2	0	6.0	3	6	She asked us to pass on a message to him that she will come to visit them both in the next week.	5
+19	1	0	2	1	0	3	4	0	0	2	0	1	4	0	2	1	0	3.0	0	15	You might find my old friend's new book more intriguing than his previous one, he believes.	5
+27	4	2	2	1	0	3	5	1	0	5	0	2	2	4	3	2	0	6.0	4	18	They suggested that if she could have her medications delivered every other day instead of daily, it would make managing their budget much more manageable.	5
+19	0	1	1	2	0	4	2	4	0	3	0	1	1	2	2	2	0	6.0	2	5	The new policy affects all of us by limiting the number of items we can order each month.	5
+13	0	1	1	1	0	2	3	1	0	2	0	1	1	1	2	2	0	3.0	1	5	She promised him that he would receive a fair judgment in court.	5
+22	1	2	1	3	0	6	0	4	0	3	0	1	1	1	2	1	0	5.0	1	8	The author believes that readers should interpret the symbolism within the text rather than relying on the writer for explicit explanations.	5
+20	0	1	1	2	1	4	2	4	0	2	0	1	2	1	2	2	0	6.0	1	4	The committee agreed that she was capable and assigned her the position as the new manager of the project.	5
+25	0	2	2	1	0	6	2	3	0	2	0	2	3	2	3	1	0	5.0	2	12	The manager assured his employees that they should not be fearful of any upcoming changes, as the company's financial standing remained sound.	5
+27	0	0	2	5	0	6	4	6	0	2	0	1	1	1	2	1	0	5.0	1	12	All of you should remember the information in this document for our upcoming project, no matter what we learn during the course of the project.	5
+23	1	0	1	3	1	6	4	1	0	3	0	0	2	1	2	2	0	4.0	1	10	They discussed their plans over a cup of coffee and he promised to bring along necessary documents for their meeting next week.	5
+25	1	0	3	1	1	2	8	1	0	6	0	1	0	4	5	3	0	5.0	4	17	He believes she promised him the car, which his friend insists wasn't mentioned, yet she denies even discussing it with him.	5
+32	2	3	4	0	1	3	5	2	0	7	0	2	0	4	5	2	0	5.0	4	13	She suggested that the project may not proceed as planned, and he wondered why, for them to realize their vision, they hadn't consulted the affected party earlier.	5
+31	4	0	5	0	2	3	6	1	0	3	0	3	4	2	5	3	0	4.0	2	26	He promised us an exciting proposal, but we knew his previous ideas were always flawed, and she had already expressed doubts, so I was skeptical, too.	5
+22	1	1	2	3	1	0	8	0	0	4	0	1	0	2	3	3	0	4.0	2	9	He promised to give it to her, but they took it away from him before he could hand it over.	5
+33	2	2	2	1	3	2	6	1	0	7	0	3	2	5	4	2	0	6.0	5	19	He believed they had failed to understand her expectations as she had stated them plainly and openly, but they seemed to be stuck on an old and stubborn way of thinking.	5
+45	3	4	4	1	3	5	6	5	0	8	0	4	1	4	7	4	0	5.0	4	15	She believes that they might have seen an opportunity to buy a house, he argued that the market was too volatile and that they should wait, but she insisted on putting in an offer anyway, and we ultimately made the purchase.	5
+17	1	0	2	0	1	1	5	1	0	4	0	1	0	2	3	3	0	3.0	2	9	He promised to repair the fence, but we'll believe it when we see it.	5
+31	2	3	2	1	0	3	5	1	0	5	0	3	3	2	3	3	3	6.0	5	19	If they offer alternative options for resolving the conflict that are viable, then it would be in everyone's best interest to accept them rather than continuing to fight.	5
+17	0	2	1	2	0	3	4	1	0	3	0	1	0	2	2	2	0	5.0	2	6	They agreed among themselves that they should share her responsibility for keeping the project within budget.	5
+20	3	0	2	2	1	1	5	1	0	4	0	0	0	2	3	2	0	3.0	2	12	He promised to tell her everything when they next met, but she found out beforehand from another source.	5
+20	2	0	2	2	1	4	4	1	0	4	0	0	0	0	3	1	0	3.0	0	17	They discussed their shared love for sailing and how they met during a regatta years ago, he recounted.	5
+27	1	1	3	2	1	5	4	1	0	4	0	2	2	2	3	2	0	4.0	2	23	The coach urged his team to play with more patience and less passion, for if they could maintain their focus, they would eventually win.	5
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	  This is a solved example of the task.	5
+21	0	3	3	0	1	2	4	2	0	4	0	2	0	3	3	1	0	4.0	3	13	They assumed that she had lied, but upon reviewing the evidence, it appears that he was the deceiver.	5
+27	1	2	2	1	1	4	2	3	0	3	0	3	3	3	3	1	0	6.0	3	10	You all believe that his suggestions would be advantageous for the project's development, although some are skeptical and prefer to explore other options first.	5
+31	0	1	1	5	1	7	4	2	1	5	0	0	3	3	3	1	0	7.0	3	16	He suggested that they discuss the issue during their weekly board meeting on Thursday and each member promised to come prepared with detailed arguments for their respective points of view.	5
+31	1	2	5	2	1	3	7	1	0	5	0	1	2	3	3	2	0	6.0	3	12	He thought that she, after knowing his past deeds, would never believe his explanation and she, in her disappointment, preferred to remain silent about it all.	5
+18	1	0	2	2	1	3	3	1	0	3	0	0	1	1	2	2	0	3.0	1	13	He promised to share his ideas with all, but in practice only she received special attention.	5
+19	1	1	2	1	0	3	3	3	0	3	0	1	0	1	2	3	1	5.0	2	7	If we give her that option, she might prefer to buy a house rather than an apartment.	5
+29	0	1	2	3	1	6	7	3	0	5	0	0	0	3	2	5	0	6.0	3	8	He found her keys and gave them to the valet, telling him to park her car in the shade while she finished her drink with the others.	5
+27	0	1	2	4	1	6	4	4	0	2	0	2	1	1	2	2	0	6.0	1	19	The group discussed the possibility of their colleague revealing sensitive details about his clients, and whether that would be an issue for any of them.	5
+24	1	1	5	0	1	3	5	2	0	3	0	1	0	1	2	1	0	5.0	1	13	The team agreed that she, he, it, we, and they should work together to meet the project's deadline.	5
+20	1	0	2	1	0	4	7	0	0	4	0	1	0	2	4	3	0	5.0	2	10	He believed they had misplaced her phone number, so he contacted his friend who knew it by heart.	5
+22	1	0	3	2	0	2	6	1	0	5	0	1	0	4	3	2	0	5.0	4	10	She handed him the book, which he set aside, preferring to focus on his daughter who was crying loudly.	7
+29	1	3	4	1	1	0	9	0	0	7	0	2	0	5	5	3	0	4.0	5	24	He offered it to me, saying that I could use it if I needed, but as she was already borrowing it, I had to decline.	7
+26	0	0	10	2	1	2	6	3	0	1	0	0	1	0	0	0	0	5.0	0	16	" he, us, its, value, us, all, and an implied ""they"" from ""value unbeknownst to us all."	7
+25	0	0	3	3	0	5	3	3	0	5	0	1	1	2	2	1	0	5.0	2	10	He found the lost ring in the river bed; it glimmered beneath the water, waiting to be plucked by its worthy owner.	7
+20	1	0	2	0	2	1	3	1	0	4	0	2	2	1	3	1	0	4.0	1	12	They promised to give each other sincere compliments, but he didn't reciprocate and she was deeply disappointed.	7
+38	1	0	5	3	1	5	13	3	0	6	0	0	1	3	6	7	0	10.0	3	6	He gave her an apple, she gave it to her brother, who gave it to their father, who then gave it to the little girl, who dropped it and the dog ate it.	7
+38	2	3	3	2	1	3	7	2	1	6	1	4	2	5	5	3	0	6.0	5	22	Who among us have never heard of the famous philosopher Socrates, but if one were to question whether his teaching truly enlightened us, we might wonder if the time spent studying him was worth it.	7
+19	0	1	2	2	0	3	4	2	0	3	0	1	1	2	2	2	0	4.0	2	6	He pointed the gun at us, suggesting that our reluctance might cause serious repercussions for us all.	7
+23	1	0	2	2	1	2	7	1	0	5	0	1	0	3	4	2	0	5.0	3	11	She saw him hiding behind the bushes, but I couldn't believe my eyes when I saw her talking to him.	7
+31	0	2	2	2	3	5	8	1	0	5	0	2	1	2	5	4	0	4.0	2	17	She gave us her keys and said we could take her car for the day, but I wondered whether they had fuel and if it was in good condition.	7
+22	1	0	2	2	1	2	6	2	0	4	0	2	0	2	4	2	0	5.0	2	9	He believed they were hiding something, but we eventually found it in the box they had left in the attic.	7
+23	1	0	2	2	2	2	5	2	0	3	0	3	1	1	4	3	0	3.0	1	13	She gave him the book he had been asking for, but the dog chewed it up and they were all disappointed.	7
+19	0	1	2	1	1	3	5	1	0	4	0	1	0	0	3	2	2	5.0	2	12	If she reads my letter and feels the way I do, he will agree to our proposal.	7
+22	0	2	1	1	0	3	5	3	0	5	0	1	1	4	5	2	0	6.0	4	7	She thinks that he believes they will find the money we lost before they make a down payment on the house.	7
+25	3	0	2	2	0	3	4	4	0	4	0	1	1	1	2	3	1	4.0	2	10	The one who finds the letter first should read it aloud for us all to hear, then pass it to the nearest person.	7
+19	3	0	2	2	0	4	2	1	0	3	0	0	2	1	2	1	0	4.0	1	10	The others often prefer their private time, even during parties they usually remain engrossed in solitary activities.	7
+15	0	0	7	0	1	1	5	0	0	1	0	0	0	0	0	0	0	2.0	0	13	 He, Who, Fail, They, That, Moment, and I.	7
+30	2	0	2	2	2	7	3	3	0	4	0	1	3	1	2	3	0	7.0	1	22	You might need to check the manuals or consult someone more knowledgeable for specific instructions with those devices, but usually each input method has its unique compatibility requirements.	7
+20	4	2	2	1	0	1	5	1	0	3	0	1	0	2	3	2	0	4.0	2	11	She asked me if they should give the key back to him, since he no longer lives here.	7
+23	2	0	2	2	0	4	7	0	0	4	0	0	1	3	4	2	0	6.0	3	9	I remember when we saw them last summer, she pointed out her cousin who looked remarkably like her uncle's brother.	7
+14	0	0	7	0	0	0	6	1	0	0	0	0	0	0	0	0	0	2.0	0	12	 He, They, His, all, I, me, they.	7
+15	0	0	7	1	1	0	5	1	0	0	0	0	0	0	0	0	0	2.0	0	9	 They, all, him, during, his, them, and his.	7
+16	1	0	2	0	1	2	5	1	0	3	0	0	1	1	3	3	0	4.0	1	8	He offered me the last cookie, but I suggested my sister try it first.	7
+28	3	0	2	5	0	5	4	3	0	3	0	1	2	2	2	2	0	4.0	2	15	All of us should take care of their personal belongings when traveling on a crowded train, especially for those who easily forget things in the confusion.	7
+34	5	3	4	1	1	2	6	1	0	4	0	3	4	3	4	1	0	5.0	3	17	They believed that he, after having drunkenly confessed to his crime the previous night, was genuinely repentant but she remained unconvinced, unsure if she could ever truly trust him again.	7
+24	0	0	2	2	1	5	3	3	0	4	0	1	1	2	2	3	0	3.0	2	13	The boy with the red hat saw his sister under the bridge eating apples, yet she didn't seem to notice him.	7
+21	2	1	3	1	1	2	5	1	0	3	0	1	1	1	3	2	0	4.0	1	10	She always believes him, regardless of his words, but I question whether she's making the right decision.	7
+22	1	1	2	1	2	1	6	3	0	2	0	3	0	2	4	0	0	5.0	2	8	He thought they were all hers, but it turned out that only some were hers and the rest were mine.	7
+22	0	1	2	1	1	3	6	2	0	4	0	1	1	2	4	3	0	3.0	2	16	They promised him all the desserts if he finished dinner, but after his fifth pie he wished he had declined.	7
+15	0	0	1	1	1	1	5	1	0	3	0	1	0	1	3	1	0	4.0	1	6	Them all thought he was lying but she believed him despite everyone's doubts.	7
+21	0	2	2	0	1	3	4	2	0	3	0	1	2	2	3	2	0	5.0	2	7	They gave each other puzzled looks after he dropped her hand, unsure if it was a mistake or not.	7
+24	1	0	3	2	0	1	8	1	0	5	0	3	0	4	4	3	0	6.0	4	10	She gave the book I had read to him, who had also finished it, saying they could lend it to us.	7
+27	1	2	2	2	1	4	8	0	0	5	0	1	0	2	3	5	1	4.0	3	9	If they forgot their phone at home yesterday, we can ask them to lend us theirs and then return it before they leave for work.	7
+22	3	2	2	1	1	1	3	2	0	3	0	2	1	2	2	2	0	4.0	2	7	All of them expected the event to be exciting, regardless of whether they were actively participating or merely observing it.	7
+27	1	2	2	0	2	3	6	3	0	4	0	1	3	2	4	4	0	4.0	2	15	He asked us whether she preferred the blue one or the red one, and we assured him that she had already chosen the yellow one.	7
+32	4	1	2	6	1	4	5	2	0	5	0	2	0	3	5	0	0	6.0	3	10	He said they would arrive before noon, but we barely got there in time as they were just pulling up to the curb when we stepped out of the car.	7
+26	1	1	3	1	1	2	8	2	0	5	0	1	0	3	4	4	0	7.0	3	7	He gave her the blueprints, and she followed them exactly, while they tried to assemble the table that he had bought for her.	7
+23	0	1	1	2	1	2	7	2	0	5	0	2	0	3	4	3	0	5.0	3	9	He saw her grab the book that I had been borrowing and hand it off to him while they both exchanged glances.	7
+38	6	3	3	1	1	3	7	2	0	6	0	3	2	5	5	2	0	8.0	5	15	She said that they had been to that place many times before, but he always wanted to revisit it, insisting that she would enjoy it again just as much as she did the first time.	7
+30	0	2	2	3	1	5	6	2	0	4	0	2	2	4	4	1	0	5.0	4	13	He believes her friend might bring the car they rode in on our picnic, although it is uncertain whether it fits in the small parking lot or not.	7
+26	0	1	3	3	1	5	6	1	0	4	0	1	0	1	3	2	1	4.0	2	9	If she forgets my appointment with her doctor, he might lose interest in our project, but we need to stick to the schedule.	7
+24	0	1	3	1	1	0	8	2	0	6	1	1	0	3	5	3	0	5.0	3	13	He asked her if she knew who among us had betrayed him; she denied knowing, but they all suspected one another.	7
+24	0	0	3	1	1	2	6	1	0	3	2	2	2	1	4	3	0	3.0	1	17	She gave him three marbles, but those weren't the only ones he found; he had hidden five more for himself.	7
+15	0	0	7	0	1	0	6	1	0	0	0	0	0	0	0	0	0	2.0	0	13	 He, I, His, My, We, All, and it.	7
+27	1	1	3	2	1	2	8	2	0	4	0	2	1	3	5	2	0	4.0	3	20	He said she promised him the ring would fit her perfectly, but once it was on her fingers, it looked oversized on them all.	7
+30	0	0	5	2	2	4	7	2	0	6	0	1	1	3	6	3	0	4.0	3	21	"He suggested they bring some extra pillows for the guests, and she replied ""We have plenty,"" but they discovered they had forgotten them at home."	7
+18	1	0	2	0	1	3	4	1	0	3	0	2	0	1	3	2	0	3.0	1	13	He thought his brother had forgotten their agreement, but they had not yet reached the bridge.	7
+26	1	0	3	1	1	4	6	2	0	5	0	2	1	3	4	4	0	4.0	3	15	She gave him the keys, promising they would unlock his greatest dreams, but he knew they could also open the doors to nightmares.	7
+25	1	0	3	1	0	4	6	3	0	3	0	2	2	3	4	1	0	6.0	3	19	He believed the dog, which I had bought for my mother a few years back, was the only one that understood him.	7
+19	1	0	2	1	1	1	6	1	0	3	0	3	0	2	4	1	0	4.0	2	16	He thought they believed she had taken it from them, but it had merely been an accident.	7

@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+7	0	0	1	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I can speak seven languages fluently.	0
+6	0	0	0	1	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	I can see a dog.	0
+6	0	1	0	0	0	0	1	0	1	0	1	0	2	3.0	2	1	1	1	0	0	0	1	You enjoy listening to music.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The dog barks.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The bird sings beautifully.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun sets.	0
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I drink tea every day.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun sets.	0
+5	0	0	0	0	0	1	1	0	1	0	1	0	1	2.0	2	0	0	1	1	0	1	1	I read a book.	0
+6	1	0	0	0	0	0	1	0	1	0	1	0	2	3.0	2	1	1	1	1	0	1	1	I love cooking delicious meals.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rises in the east.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat sits.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun rises.	0
+6	1	0	0	0	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I see the red ball.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun sets.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rises over the horizon.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun sets.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun sets in the west.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun shines.	0
+6	0	0	0	0	0	1	1	0	1	0	1	0	2	3.0	2	1	1	1	1	0	1	1	I love playing the piano.	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	1	0	0	1	0	0	0	1	She smiles warmly.	0
+6	0	0	0	0	0	1	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I drink water every day.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun sets over the horizon.	0
+9	0	1	1	1	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	0	1	The sun is shining brightly in the sky.	0
+4	0	0	0	0	0	0	1	0	1	0	1	0	1	1.0	1	0	0	1	1	0	1	1	I ate breakfast.	0
+5	0	0	0	0	0	0	1	0	1	0	1	0	2	2.0	1	1	1	1	1	0	1	1	I love playing guitar.	0
+6	0	0	1	1	0	1	1	0	0	0	1	0	1	2.0	2	0	0	1	0	0	0	1	The sun is shining brightly.	0
+6	1	0	0	0	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I see a beautiful garden.	0
+5	0	0	0	0	0	0	1	0	1	0	1	0	2	2.0	1	1	1	1	1	0	1	1	I like eating apples.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat sits.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun sets in the west.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun rises.	0
+7	0	0	1	1	0	0	1	0	2	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I can understand your instructions clearly.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rises in the east.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun sets.	0
+7	0	0	1	1	0	0	1	1	1	0	1	0	1	2.0	3	0	0	1	1	0	1	1	I can speak five languages fluently.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rises over the horizon.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun rises.	0
+4	0	0	0	0	0	0	1	0	0	1	1	0	1	1.0	1	0	0	1	1	0	1	1	John ate breakfast.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rises over the horizon.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun sets.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The dog barks.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rose over the horizon.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun sets over the horizon.	0
+7	0	0	0	1	0	1	1	0	1	0	1	0	2	3.0	2	1	1	1	1	0	1	1	I have finished eating the apple.	0
+7	0	1	0	0	0	1	2	0	1	0	1	0	1	3.0	2	0	0	1	1	0	1	1	I drink a glass of water.	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The sun rises.	0
+11	1	0	1	0	0	1	2	0	1	0	4	0	1	2.0	7	0	0	1	1	0	1	1	"""I understand directions well""  (No postverbal object)    "	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	0	1	The sun rises in the east.	0
+6	0	1	0	0	0	1	1	0	1	0	1	0	1	2.0	3	0	0	1	0	0	0	1	She smiles at the flowers.	0
+12	0	1	1	0	1	2	3	0	1	0	1	0	2	3.0	5	0	0	1	2	0	2	1	I usually drink coffee and read the newspaper in the morning.	1
+13	0	1	0	1	1	2	3	0	1	0	1	0	3	3.0	6	1	1	2	0	0	0	2	I can hear the children laughing and clapping inside the school auditorium.	1
+12	0	1	0	0	1	3	3	0	1	0	1	0	2	3.0	9	0	0	2	1	0	1	2	I dropped the keys into the bucket and the balloon popped.	1
+10	0	0	1	0	0	2	2	0	1	0	2	0	2	3.0	6	0	0	2	1	0	1	2	She passed the test, the interviewer smiled approvingly.	1
+10	0	2	0	0	0	2	2	0	2	0	1	0	1	2.0	7	0	0	1	1	0	1	1	She passed the document to him during the meeting.	1
+10	0	0	0	1	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	I'll mail you the documents and a gift.	1
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The baby threw the ball towards the dog.	1
+10	0	0	1	0	1	2	2	0	1	0	1	0	2	2.0	4	0	0	1	2	0	2	1	The baby seized a rattle and shook it eagerly.	1
+12	0	1	0	0	0	1	3	0	1	1	2	1	2	3.0	5	1	0	1	1	1	1	1	After finishing his breakfast, John went for a morning run.	1
+12	0	1	0	0	1	3	3	0	2	0	1	0	1	4.0	3	0	0	1	2	0	2	1	He gave me the keys and a wallet on the table.	1
+15	2	1	1	0	1	3	3	0	0	0	2	0	2	4.0	5	1	1	1	1	0	1	1	The sun slowly sets behind the trees, painting the sky red and orange.	1
+11	1	0	0	0	0	2	2	0	2	0	1	0	2	3.0	6	1	1	1	3	0	3	1	I handed him the remote control to change the channel.	1
+9	0	2	0	0	1	0	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	Apples and oranges fall from trees in autumn.	1
+11	0	1	0	0	1	3	3	0	1	0	1	0	1	3.0	8	0	0	1	1	0	1	1	He threw the ball and the stick into the lake.	1
+9	1	1	0	0	0	1	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	He offered her a bouquet of red roses.	1
+11	0	1	0	0	1	2	2	0	2	0	1	0	2	3.0	4	0	0	1	2	0	2	1	The dog fetched the ball and brought it to her.	1
+9	0	1	0	0	0	2	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	The children handed their toys to the teacher.	1
+10	0	0	1	0	1	2	2	0	1	0	1	0	2	3.0	4	0	0	1	2	0	2	1	I opened the door and found a cat inside.	1
+10	0	1	0	0	1	2	3	0	1	0	1	0	1	3.0	7	0	0	1	1	0	1	1	I ordered a pizza and a salad for lunch.	1
+12	0	2	1	0	0	1	2	0	2	0	2	0	2	3.0	5	1	1	1	1	0	1	1	I accidentally knocked over the vase, shattering it into pieces.	1
+11	0	1	0	1	1	2	2	0	1	0	1	0	2	3.0	4	0	0	1	2	0	2	1	I'll open the window and let the breeze in.	1
+15	0	1	0	0	1	3	4	0	1	1	1	0	2	3.0	8	1	1	1	3	0	3	1	John handed me a pencil and a paper to take notes during the presentation.	1
+11	1	1	0	0	0	2	2	0	1	0	1	0	2	3.0	4	1	1	1	2	0	2	1	I opened the windows to let the fresh breeze in.	1
+8	0	0	0	0	1	1	2	1	1	0	1	0	1	3.0	3	0	0	1	1	0	1	1	She bought two books and a pencil.	1
+10	0	0	0	0	1	3	3	0	0	0	1	0	2	3.0	4	0	0	1	2	0	2	1	The dog chased the cat and caught the frisbee.	1
+8	0	1	0	0	0	1	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	She handed him a glass of water.	1
+13	0	1	1	0	1	1	5	0	2	0	1	0	1	3.0	9	0	0	1	1	0	1	1	She carefully places her car keys and wallet on the kitchen counter.	1
+10	0	1	1	0	0	1	2	1	1	0	1	0	2	2.0	6	1	1	1	1	0	1	1	He tossed two balls to the children waiting excitedly.	1
+12	0	2	0	0	1	2	2	0	0	3	1	0	1	5.0	3	0	0	1	1	0	1	1	John gave a gift to Mary and a book to Peter.	1
+12	0	1	0	0	1	2	3	0	2	0	1	0	2	4.0	4	0	0	1	3	0	3	1	He opened the door and handed her a cup of coffee.	1
+8	0	1	0	0	0	1	2	0	2	0	1	0	1	2.0	5	0	0	1	1	0	1	1	He threw the frisbee to his dog.	1
+13	0	1	0	0	0	4	4	0	0	0	1	1	2	3.0	7	1	1	1	2	0	2	1	The girl passed the ball to the boy after scoring a goal.	1
+7	0	1	0	0	0	1	1	0	0	2	1	0	1	2.0	4	0	0	1	1	0	1	1	John gave the book to Sarah.	1
+7	0	1	0	0	0	1	1	0	0	2	1	0	1	2.0	4	0	0	1	1	0	1	1	John gives the book to Sara.	1
+12	0	0	0	1	1	2	3	0	2	0	1	0	2	3.0	5	0	0	1	3	0	3	1	I'll email you the report and attach the Excel spreadsheet.	1
+11	0	1	0	0	1	2	3	0	2	0	1	0	1	4.0	3	0	0	1	2	0	2	1	I handed him the letter and a bouquet of flowers.	1
+14	1	0	0	0	1	3	4	0	1	0	1	1	2	3.0	8	1	1	1	2	0	2	1	The boy fed the stray dog and his cat before leaving the house.	1
+15	0	1	1	1	1	2	3	0	3	0	1	0	2	3.0	8	1	1	2	2	0	2	2	I will bring you apples and a book when I return from the store.	1
+11	1	1	0	0	0	2	2	0	2	0	1	0	2	4.0	4	1	1	1	2	0	2	1	She handed him a gift wrapped in a pretty bow.	1
+12	1	2	0	0	0	3	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	0	1	The wind whispers through the tall leaves of the eucalyptus trees.	1
+11	1	0	0	0	1	2	2	0	2	0	1	0	2	3.0	6	0	0	1	3	0	3	1	He handed me the remote control but dropped the keys.	1
+12	0	0	1	0	0	2	2	0	2	0	1	0	3	3.0	7	2	2	2	2	0	2	2	She gave the baby the bottle when it began to cry.	1
+12	1	1	0	0	0	0	3	0	3	0	1	1	2	2.0	8	1	1	1	2	0	2	1	She shared her secrets with her best friend before leaving town.	1
+11	0	1	0	0	1	2	2	0	2	0	1	0	2	2.0	7	0	0	1	2	0	2	1	He placed the letter in the envelope and sealed it.	1
+10	0	0	0	0	0	1	2	0	1	0	2	1	3	3.0	4	2	1	1	2	1	2	1	After finishing dinner, I helped clear the table.	1
+9	0	0	0	0	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	I handed her the book and some chocolates.	1
+10	0	1	0	0	0	0	3	1	3	0	1	0	1	3.0	4	0	0	1	2	0	2	1	I handed him two pencils for his drawing projects.	1
+15	1	2	0	0	0	3	4	0	1	0	2	0	2	3.0	6	1	1	1	1	0	1	1	The sun sets behind the mountains, illuminating their peaks in an ethereal glow.	1
+11	1	0	0	0	0	2	2	0	2	0	1	0	2	3.0	6	1	1	1	3	0	3	1	He handed her the remote control to change the channel.	1
+14	1	1	0	0	0	1	3	0	3	0	2	1	2	3.0	7	1	0	2	2	1	2	2	After she cooked lunch for her family, she took a long nap.	1
+9	0	0	0	0	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	She showed him a map and a key.	2
+14	0	2	0	0	1	3	4	0	2	0	1	0	1	4.0	6	0	0	1	1	0	1	1	He placed the books on the table and the pens in his bag.	2
+9	0	0	0	0	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	He gave her a book and a flower.	2
+9	0	0	0	0	1	1	2	0	3	0	1	0	1	3.0	3	0	0	1	2	0	2	1	She handed me the ball and her hat.	2
+13	2	1	0	0	1	2	3	0	1	0	1	0	2	3.0	5	0	0	1	2	0	2	1	She painted the room blue and hung new curtains on the windows.	2
+18	1	2	0	0	0	3	4	0	4	0	1	1	2	4.0	10	1	1	2	3	0	3	2	He handed her the keys to the new car before she received the flowers from her admirer.	2
+17	0	4	0	0	1	3	4	0	2	0	1	0	2	3.0	8	0	0	1	2	0	2	1	He handed over the papers to the clerk and picked up his coat from the hooks.	2
+13	0	0	0	0	0	3	3	0	3	0	1	1	2	3.0	6	1	1	2	4	0	4	2	She handed me the letter while I gave the dog a biscuit.	2
+21	0	2	0	0	1	5	7	0	2	0	1	0	3	5.0	9	1	1	1	3	0	3	1	The boy handed me the envelope containing the winning tickets and his sister a flower as a token of appreciation.	2
+14	0	2	0	0	1	3	4	0	2	0	1	0	1	4.0	6	0	0	1	1	0	1	1	I dropped the keys in the bucket and my phone in the pool.	2
+11	0	1	0	0	1	2	3	0	2	0	1	0	1	4.0	3	0	0	1	2	0	2	1	She handed me the pen and a piece of paper.	2
+11	0	1	0	0	1	1	3	0	3	0	1	0	1	4.0	3	0	0	1	2	0	2	1	She handed me the book and her notes for review.	2
+21	0	2	1	0	1	2	5	0	3	0	2	1	3	3.0	6	1	0	1	3	1	3	1	After finishing his meal, he returned the restaurant's plate and picked up his umbrella on the way out.	2
+17	2	2	0	0	1	3	6	0	1	0	1	0	1	5.0	4	0	0	1	2	0	2	1	The chef served us hot pasta with marinara sauce and a crispy salad on the side.	2
+13	0	2	0	0	1	3	3	0	1	1	1	0	1	4.0	4	0	0	1	1	0	1	1	He handed the book to Jane and the keys to the gardener.	2
+10	0	1	0	0	1	0	3	0	3	0	1	0	1	3.0	7	0	0	1	1	0	1	1	I forgot my keys and my wallet at home.	2
+13	0	2	0	0	1	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	1	1	The cat chased the rat behind the sofa and under the bed.	2
+17	1	2	0	0	2	3	5	0	1	0	1	0	2	5.0	4	0	0	1	2	0	2	1	I opened the window and let in the cool breeze and the evening song of crickets.	2
+14	0	2	0	0	1	3	4	0	2	0	1	0	1	4.0	6	0	0	1	2	0	2	1	He offered her the keys to the car and a bottle of water.	2
+13	0	1	0	0	1	1	4	0	1	0	2	0	3	3.0	5	1	1	1	2	0	2	1	The children laughed and shared candy, clapping their hands in delight.	2
+14	0	2	1	0	0	3	3	0	1	1	2	0	1	4.0	4	0	0	1	1	0	1	1	He handed the letter to John, then the keys to the car.	2
+16	1	1	0	0	1	1	3	0	4	0	1	0	3	4.0	8	1	1	2	2	0	2	2	I gave the book to my cousin and she promised to return it next week.	2
+11	0	1	0	0	1	2	3	0	2	0	1	0	1	3.0	8	0	0	1	2	0	2	1	He gave her the ball and candy after the game.	2
+16	0	2	0	0	1	2	3	0	4	0	1	1	2	3.0	9	1	1	2	2	0	2	2	She handed him a map and a compass before they set off on their hike.	2
+12	0	0	0	0	1	1	3	0	4	0	1	0	2	3.0	5	0	0	1	4	0	4	1	She handed me the ball and gave you her phone number.	2
+13	0	2	0	0	1	2	3	0	2	0	1	0	2	3.0	7	0	0	1	1	0	1	1	He showed the map to his sister and pointed at the lake.	2
+14	0	1	2	0	1	3	3	0	1	0	1	0	2	3.0	5	0	0	1	2	0	2	1	The dog fetched a stick and then brought it back to the children.	2
+13	0	2	0	0	1	2	4	0	2	0	1	0	1	5.0	3	0	0	1	2	0	2	1	He gave her a book about art and a box of chocolates.	2
+14	0	2	0	0	1	3	3	0	1	1	1	0	2	3.0	6	0	0	1	2	0	2	1	He passed the ball to John and received an applause from the crowd.	2
+12	0	0	0	1	0	1	2	0	4	0	1	1	2	3.0	6	1	1	2	3	0	3	2	I'll pass you the ball after I sip my tea.	2
+13	1	0	1	0	1	2	3	0	1	0	1	0	2	4.0	6	1	1	1	2	0	2	1	I opened the window to let the fresh air and birdsong in.	2
+13	1	1	0	0	1	2	3	0	3	0	1	0	1	4.0	4	0	0	1	2	0	2	1	He showed her the map and a photo of their old house.	2
+9	0	0	0	0	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	She handed me a note and a pencil.	2
+21	3	2	0	0	1	5	6	0	0	0	1	0	2	6.0	6	1	1	1	1	0	1	1	The sun sets behind the mountains revealing a stunning view of the evening's orange sky and a calm lake.	2
+10	1	0	0	0	1	1	2	0	3	0	1	0	1	3.0	4	0	0	1	2	0	2	1	She gave him an apple and her favorite book.	2
+14	0	2	0	0	1	3	3	0	3	0	1	0	1	3.0	11	0	0	2	2	0	2	2	He handed her the key and an envelope with a map inside it.	2
+12	1	1	0	0	1	1	3	0	2	0	1	0	2	3.0	6	0	0	1	2	0	2	1	She distributed candies among the children and collected their empty boxes.	2
+11	0	1	0	0	1	2	3	0	2	0	1	0	1	3.0	8	0	0	1	1	0	1	1	He bought a car and a yacht for his parents.	2
+10	0	1	0	0	1	2	2	0	1	0	1	0	2	3.0	4	0	0	1	2	0	2	1	He opened the gate and let the dogs out.	2
+22	0	1	1	0	2	5	5	0	2	0	2	0	4	6.0	5	1	1	2	4	0	4	2	The dog fetched a stick and brought it back to the hiker, who appreciated the effort and thanked the animal.	2
+18	0	2	1	1	1	4	4	0	1	0	1	0	3	6.0	7	2	2	2	0	0	0	2	I can hear the birds singing in the trees and the leaves softly rustling in the breeze.	2
+9	0	0	0	0	1	2	2	0	2	0	1	0	1	3.0	3	0	0	1	2	0	2	1	I handed her the pen and the letter.	2
+11	0	2	0	0	1	2	4	0	0	0	1	0	1	3.0	7	0	0	1	1	0	1	1	The teacher handed out books and assignments to the students.	2
+22	1	3	1	0	1	4	7	0	0	0	1	0	4	4.0	7	0	0	1	1	0	1	1	The chef presented the customers with a beautifully arranged platter of steaming hot dishes and a bottle of chilled dessert wine.	2
+12	0	0	0	0	1	2	2	0	3	0	2	0	2	3.0	7	0	0	2	3	0	3	2	She passed him a note, and he returned a smile.	2
+20	0	3	0	0	1	4	5	0	2	0	2	0	3	5.0	8	1	1	1	4	0	4	1	I opened the window and let the cat in, giving it a tin of tuna as a reward.	2
+13	0	2	0	0	0	1	1	0	3	2	2	0	2	4.0	4	1	1	2	2	0	2	2	He passed the ball to Sarah, who handed it to Mark.	2
+14	0	1	0	0	1	2	5	1	0	0	3	0	1	3.0	10	0	0	1	1	0	1	1	The doctor prescribed two medications, ibuprofen and acetaminophen, to the patient.	2
+9	0	0	0	0	1	1	2	0	3	0	1	0	1	3.0	3	0	0	1	2	0	2	1	She handed me the ball and her phone.	2
+14	2	1	0	0	1	0	4	0	4	0	1	0	1	3.0	7	0	0	1	1	0	1	1	She shared her chocolate cake with her younger brother and her best friend.	2
+22	0	1	0	0	1	2	5	0	4	0	4	1	4	3.0	11	1	0	2	4	1	4	2	After I finished my homework, I drank a glass of water, fed the cat, and checked my emails.	3
+15	0	1	0	0	1	3	4	0	2	0	3	0	1	4.0	7	0	0	1	2	0	2	1	He handed me the letter, the pen, and the bottle of ink.	3
+29	3	4	0	0	1	6	8	0	1	0	4	0	2	5.0	15	1	1	1	1	0	1	1	She opened the window, letting in the cold gusts of winter wind, the raindrops from the soggy trees, and the warm aroma from the kitchen.	3
+22	2	2	0	0	1	5	5	0	1	0	3	0	3	3.0	13	0	0	1	3	0	3	1	The cat chased the mouse under the chair, found the red ball, and hid it behind the potted plant.	3
+19	0	1	1	1	1	3	4	0	3	0	3	0	2	3.0	12	1	1	2	2	0	2	2	I'll bring you apples, a book, and an umbrella when I go to the market.	3
+24	3	3	0	0	1	3	8	0	0	0	3	0	3	7.0	12	2	2	1	1	0	1	1	The chef presented the dish covered in gold leaf, garnished with red pepper flakes and edible flowers, to the impressed guests.	3
+14	0	0	0	0	1	1	6	0	1	0	3	0	2	3.0	6	0	0	1	2	0	2	1	The boy served his parents sliced apple, bread rolls, and coffee.	3
+16	0	2	0	0	1	2	2	0	3	0	3	0	3	3.0	10	0	0	1	3	0	3	1	He opened the box, took out the key, and handed it to her.	3
+23	1	3	1	0	1	3	8	0	2	0	2	0	2	3.0	11	1	1	1	2	0	2	1	The boy served ice cream to the elderly lady and her grandchildren, wiping away their smiles with napkins after each spoonful.	3
+22	0	3	1	0	0	2	3	0	4	2	3	0	4	7.0	5	2	2	3	3	0	3	3	He presented the award to John, who in turn gave it to Mary, who admired the intricately designed trophy.	3
+20	1	2	0	0	2	1	4	0	4	0	3	0	3	4.0	12	0	0	1	3	0	3	1	She baked a cake, decorated it with icing and flowers, and served it warm to her guests.	3
+22	2	1	2	0	1	4	3	0	0	0	4	1	4	4.0	13	1	1	1	2	0	2	1	The children passed the football to each other, laughed loudly, and high-fived triumphantly after scoring a goal.	3
+20	0	2	0	0	1	4	5	0	1	0	4	0	3	3.0	9	0	0	1	3	0	3	1	After dinner, we opened the bottles, poured the wine, and passed the glasses around the table.	3
+21	0	2	1	1	0	3	3	0	5	0	3	0	3	6.0	5	2	2	3	2	0	2	3	She handed me the ball, which he kicked toward the goal, where it was saved by the goalkeeper.	3
+15	0	2	0	0	1	2	5	0	1	0	2	0	2	4.0	6	0	0	1	1	0	1	1	He poured milk into the glass, added sugar and a slice of lemon.	3
+15	0	0	0	0	1	2	5	0	1	0	3	1	2	3.0	9	1	1	1	2	0	2	1	The children shared their sandwiches, toys, and cookies before taking a nap.	3
+13	0	0	0	0	1	3	3	0	2	0	3	0	1	3.0	7	0	0	1	2	0	2	1	He handed me the ball, the bat, and the glove.	3
+19	1	3	0	0	1	5	5	0	0	0	3	0	1	3.0	9	0	0	1	1	0	1	1	The cat chased the mouse under the table, behind the chair, and into a dark corner.	3
+15	0	1	0	0	1	3	4	0	2	0	3	0	1	4.0	9	0	0	1	2	0	2	1	She handed me a pencil, a piece of paper, and a notebook.	3
+22	1	2	0	0	1	4	4	0	1	0	4	1	4	4.0	15	1	0	1	3	1	3	1	After closing the book, turning off the lamp, and unplugging the phone, I fell into a deep sleep.	3
+21	1	2	2	0	1	4	4	0	1	0	2	0	4	6.0	6	2	2	2	1	0	1	2	The ball bounced irregularly off the tree, striking a bird that flew away and landed on a nearby rooftop.	3
+31	3	2	0	0	2	1	9	0	2	0	5	1	6	5.0	18	3	2	2	4	1	4	2	The children, playing with toys, drew pictures in color and shaped clay creatures while their older sister, reading her favorite novel, watched and offered occasional advice.	3
+19	1	2	0	0	1	4	6	0	0	0	2	0	3	4.0	7	1	1	1	2	0	2	1	The sun sets behind the mountains, casting long shadows over the valley and illuminating the evening stars.	3
+20	0	2	1	0	1	4	5	0	0	0	3	0	4	3.0	13	1	1	1	2	0	2	1	The cat chased the mouse beneath the table, knocked over a cup, and sent spaghetti flying everywhere.	3
+21	0	3	0	0	1	3	4	0	5	0	2	0	3	5.0	6	1	1	2	3	0	3	2	He handed the book to the child, who showed it to her grandfather and placed it on the shelf.	3
+32	4	3	1	0	1	3	9	0	3	0	3	1	4	4.0	16	2	2	3	3	0	3	3	The boy opened the old wooden box, releasing a multitude of colorful toys, while his dog jumped around in excitement and his little sister clapped her hands in delight.	3
+23	0	1	1	0	1	3	6	1	2	0	2	1	4	6.0	5	2	2	2	3	0	3	2	The monkey swung its tail around and grabbed three bananas, tossing them into the tree canopy for the squirrels to catch.	3
+15	0	1	1	0	1	4	4	0	0	0	3	0	1	3.0	7	0	0	1	0	0	0	1	The ball bounced erratically between the tree, the children, and the bus.	3
+15	2	1	0	0	1	1	4	0	1	0	4	0	1	3.0	12	0	0	1	1	0	1	1	She served tea, cookies, and lemonade to the thirsty, tired guests.	3
+18	0	3	0	0	0	1	7	0	1	0	2	1	3	4.0	6	2	2	1	2	0	2	1	A monkey swung from branch to branch, throwing nuts to its babies while chewing betel nut.	3
+29	0	4	1	0	2	6	8	0	0	0	3	0	5	3.0	22	1	1	1	2	0	2	1	The cat chased a ball over the lawn, knocking over a flowerpot and scattering petunias, then tripped on a garden hose and fell into the pool.	3
+22	2	3	0	0	1	5	7	0	0	0	3	0	1	3.0	12	0	0	1	1	0	1	1	The cat chased the red ball through the tall grass, under the tree branches, and over the bubbling brook.	3
+16	1	1	0	0	1	2	4	0	1	0	4	0	2	4.0	7	1	1	1	1	0	1	1	He opened the window, letting in sunlight, a cool breeze, and birdsong.	3
+19	0	0	0	0	1	4	7	0	0	0	3	0	3	4.0	11	0	0	1	3	0	3	1	The monkey ate the banana slices, threw the coconut fronds, and tickled the elephant's trunk.	3
+22	0	3	1	0	1	3	5	0	3	0	3	0	3	3.0	13	0	0	1	2	0	2	1	The dog jumped over the fence, caught the frisbee in its mouth, and brought it back to its owner.	3
+35	0	4	1	1	0	4	11	0	6	0	4	1	3	6.0	18	1	1	3	4	0	4	3	I'll send you an email with attachment of the budget report, next to my laptop, my assistant prints the boarding passes for our evening flight, whilst I water the plants.	3
+18	0	1	1	1	1	2	4	0	2	0	2	1	3	4.0	8	1	1	1	3	0	3	1	I'll pour the tea into the cup, then add milk and sugar before drinking it.	3
+22	1	2	1	0	1	3	7	0	0	0	3	1	3	4.0	15	2	2	2	1	0	1	2	The sun sets behind the tall trees, painting the sky crimson and gold, as geese fly south in V-formations.	3
+22	0	3	0	0	1	2	4	0	3	0	4	1	4	4.0	16	1	0	1	3	1	3	1	After baking the cookies, decorating them with icing, and dusting them with sprinkles, I delighted in the taste.	3
+22	0	3	1	0	1	2	2	0	5	2	3	0	3	5.0	8	1	1	3	3	0	3	3	She passed the ball to Tom, who returned it to Sarah, and who then kicked it into the goal.	3
+23	1	3	0	0	1	4	7	0	3	0	3	0	1	4.0	13	0	0	1	1	0	1	1	I found the remote control beneath the couch, the dog under the table, and my keys in my jacket pocket.	3
+19	1	1	0	0	1	4	4	0	0	0	3	1	4	4.0	10	1	1	1	3	0	3	1	The children passed the ball to each other, smiled, and waved goodbye before leaving the park.	3
+18	0	3	0	0	1	5	5	0	0	0	3	0	1	3.0	10	0	0	1	1	0	1	1	The cat chased the mouse, under the bed, between the books and into the cupboard.	3
+13	1	1	0	0	1	0	4	1	1	0	3	0	1	4.0	5	0	0	1	1	0	1	1	She painted three vases with intricate roses, sunflowers, and lilies.	3
+14	2	0	0	0	1	1	4	0	1	0	3	0	2	4.0	5	1	1	1	2	0	2	1	He opened the drawer, revealing red pens, green notepads and pencils.	3
+16	0	3	2	0	1	1	1	0	0	4	3	0	1	3.0	9	0	0	1	1	0	1	1	John gave the ball to Bill, then to Alice, and finally to Sam.	3
+21	1	2	0	0	1	5	5	0	0	0	3	0	4	3.0	11	1	1	1	3	0	3	1	The boy opened the window, let the cat jump out, and threw a rock at the incoming pigeon.	3
+23	0	3	0	0	1	5	7	0	1	0	3	0	3	4.0	12	0	0	1	3	0	3	1	The scientist examined the microscope, slid the glass slide across it, and added a drop of chemicals to the sample.	3
+17	0	1	0	0	1	2	4	0	2	0	4	0	3	3.0	9	0	0	1	3	0	3	1	After dinner, I brushed my teeth, washed the dishes, and walked the dog.	3
+20	0	3	0	0	1	2	6	0	2	0	3	0	3	3.0	12	0	0	1	2	0	2	1	The baby smiled at its reflection, splashed water on his parents, and blew raspberries at the dog.	3
+27	0	0	0	0	1	5	6	0	2	0	6	1	6	3.0	17	1	0	1	6	1	6	1	After finishing the assignment, she baked a cake, mailed a letter, washed the dishes, fed the dog, and called her mother.	5
+30	0	1	0	0	1	6	6	0	1	0	6	1	7	5.0	23	2	1	1	5	1	5	1	After finding the key, opening the door, turning on the lamp, unwrapping the gift, and feeding the cat, I took a seat to relax.	5
+21	2	1	0	0	1	5	5	0	1	0	4	0	2	4.0	9	0	0	1	2	0	2	1	She opened the small drawer, took out a red pen, a ruler, a notepad and a pencil.	5
+19	0	0	0	0	1	6	5	0	0	1	5	0	1	3.0	13	0	0	1	1	0	1	1	The cat grabbed the ball, the Frisbee, the newspaper, the sandwich, and the mouse.	5
+25	0	1	0	0	1	4	6	0	2	0	6	0	5	3.0	17	0	0	1	5	0	5	1	After dinner, I brushed my teeth, fed the dog, watered the plants, did the laundry, and mailed the letters.	5
+34	0	4	1	0	1	4	7	0	2	0	6	1	7	4.0	28	3	1	1	4	2	4	1	After opening the window, turning on the air conditioner, placing the book on the nightstand, brushing his teeth, and putting on pajamas, he finally lay down to sleep.	5
+20	0	0	1	0	1	2	5	0	0	0	6	0	5	3.0	10	1	0	1	3	1	3	1	The children, laughing, shared stories, decorated cookies, exchanged gifts, and watched a movie together.	5
+39	3	6	0	0	1	7	12	0	0	0	5	0	5	7.0	21	1	1	1	4	0	4	1	The sun sets over the mountains, painting the sky red, releasing swarms of fireflies, creating silhouettes of the palm trees along the shoreline, and melting the last pieces of snow on the highest peak.	5
+45	5	4	3	0	3	4	10	0	0	1	7	0	8	10.0	9	5	5	3	4	0	4	3	The sun sets, illuminating the sky with brilliant hues of pink, orange, and red, casting long shadows on the beach, where children build sandcastles and dogs fetch Frisbees and the seagulls squawk loudly, circling around waiting for scraps.	5
+17	0	1	0	0	1	1	7	0	0	0	5	0	2	5.0	9	1	1	1	1	0	1	1	The children opened boxes filled with balloons, toys, paints, candies, and puzzles.	5
+37	2	4	1	0	1	5	10	1	2	0	6	0	5	4.0	20	1	0	1	4	1	4	1	The bird, perched atop the old oak tree, shed two feathers, flicked away a pebble with its beak, sipped nectar from a lotus flower, and observed the serene pond beneath it.	5
+39	3	7	0	0	1	4	12	0	1	0	5	0	5	6.0	21	2	0	1	3	2	3	1	The monkey swinging from tree to tree, flung fruits at birds, grabbed an umbrella to shield from sudden rain, squeezed orange Juice into a glass, and showed off its acrobat skills to the audience.	5
+21	0	1	1	0	1	2	9	0	1	0	5	0	1	3.0	16	0	0	1	1	0	1	1	The children eagerly grabbed the shovels, rakes, watering cans, buckets, and hoses for their gardening adventure.	5
+26	1	2	0	0	1	6	8	0	1	0	5	0	2	5.0	17	1	1	1	1	0	1	1	I found a map, a compass, a flashlight, a bottle of water, and a first aid kit hidden in the drawer.	5
+21	0	0	0	0	1	5	5	0	0	0	5	0	5	4.0	17	0	0	0	5	0	5	0	Unloading the boxes, sorting the apples, mending the clothes, painting the rooms, and baking the cookies.	5
+21	0	1	0	0	1	5	6	0	2	0	5	0	1	4.0	13	0	0	1	2	0	2	1	She handed me the key, the map, the compass, the phone, and the bottle of water.	5
+31	0	1	0	0	1	6	7	0	2	0	6	1	7	3.0	20	2	0	2	6	2	6	2	After I finished cooking dinner, I placed the plate in the oven, set the table, folded the laundry, sorted the bills, and fed the cat.	5
+40	3	4	1	0	1	6	11	0	3	0	4	1	6	7.0	9	2	2	3	3	0	3	3	The bird perched precariously on the thin branch, its tiny beak gripping a juicy worm, its eyes scanning the sky for an eagle, as raindrops pattered against its feathers and leaves whispered secrets in the wind.	5
+31	0	4	0	0	1	5	9	0	1	0	5	0	6	4.0	17	1	1	1	4	0	4	1	The monkey swung from tree to tree, munching a banana, tossing a pebble, playing a whistle, drinking from a coconut and brushing its tail against leaves.	5
+33	4	4	0	0	0	4	9	0	1	0	5	1	5	5.0	17	4	4	2	3	0	3	2	The cat chased the red ball across the room, knocking over several vases, shattering their glass exteriors, revealing colorful flowers, while startled birds flew off in all directions.	5
+22	0	1	0	0	1	7	7	0	0	0	5	0	1	3.0	18	0	0	1	1	0	1	1	The cat chased a butterfly, a ball, a bee, a feather, and a mouse around the garden.	5
+50	3	7	2	0	2	8	12	0	1	0	6	1	7	6.0	25	3	3	5	1	0	1	5	The sun sets over the mountains, painting orange and red hues on the clouds, as leaves twirl gently from trees around me, the stars start to twinkle in the clear sky, a dog barks at a distance, and fireflies flash intermittently among the flowers.	5
+31	5	2	2	0	1	1	6	0	2	0	6	0	6	3.0	19	1	0	1	6	1	6	1	Scanning the documents carefully, she highlighted key details, underlined crucial information, wrote down important numbers, stapled relevant papers together, and placed them in alphabetical order.	5
+32	1	3	2	0	1	5	9	0	0	0	5	1	5	5.0	9	2	2	2	2	0	2	2	The sun set over the mountains, painting the sky orange, pink and purple, scattering lights in the town below, while birds flew home against the darkening background.	5
+25	6	0	0	0	1	2	8	0	0	0	6	0	2	4.0	14	1	1	1	2	0	2	1	The children opened the boxes, revealing shiny new cars, colorful dolls, intriguing books, plush animals, and exciting board games.	5
+30	5	1	0	0	1	6	9	0	0	0	5	0	3	4.0	15	1	1	1	2	0	2	1	The cat chased the mouse under the bed, revealing several dusty old books, an abandoned teddy bear, a broken record player, and a hidden box.	5
+30	1	2	0	1	1	5	6	0	2	0	6	1	5	4.0	24	1	0	1	5	1	5	1	After opening the box, unfolding the map, pulling out the flashlight, extracting the rope, and grabbing the compass, she was ready for her adventure.	5
+36	3	3	0	0	1	0	8	0	6	0	6	0	9	5.0	23	4	3	2	7	1	7	2	Scattering seeds, she watched birds take them in their beaks, plant them in new ground, nurture them with water, watch small sprouts emerge, and see mature plants feed her family.	5
+20	0	0	0	0	1	5	6	0	2	0	5	0	1	3.0	13	0	0	1	2	0	2	1	The doctor handed me a note, his stethoscope, a thermometer, a syringe, and a prescription.	5
+17	0	1	0	0	1	1	7	0	1	0	5	0	1	3.0	14	0	0	1	1	0	1	1	She served tea, sandwiches, cakes, fruit salad, and drinks to the guests.	5
+37	2	4	1	0	1	5	9	0	5	0	5	0	5	3.0	28	0	0	1	5	0	5	1	She placed the bookmark between the pages, clipped the loose threads on her sweater, adjusted her glasses, arranged her pencils neatly on the desk, and sipped her tea from a delicate saucer.	5
+35	6	7	0	0	0	6	8	0	1	0	4	0	3	7.0	9	1	1	1	1	0	1	1	He found a blue butterfly nestled among red flowers, within an empty birdhouse beside a sparkling pond, under the tall shadow of a towering tree, during the late hours of twilight.	5
+19	0	0	0	0	1	6	6	0	0	0	5	0	1	3.0	13	0	0	1	1	0	1	1	The dog retrieved the ball, the frisbee, the stick, the shoe, and the keys.	5
+39	4	3	1	1	2	7	8	0	1	0	6	0	6	5.0	26	1	0	1	5	1	5	1	Having unlocked the door, found the key under the rug, taken out the old photo album, unfolded the torn map inside, and lit a flashlight, I stepped into the dark and musty basement.	5
+38	5	3	0	0	2	6	9	0	0	0	7	0	6	7.0	10	2	2	1	4	0	4	1	The sun sets over the mountains, painting the sky red, orange, and pink, shattering the calm lake into tiny ripples, and igniting the campfire, creating an inviting warmth for tired hikers.	5
+22	0	1	0	0	1	2	8	0	2	0	6	0	2	5.0	13	1	1	1	2	0	2	1	She unpacked a suitcase, pulling out pajamas, shoes, socks, a book, and her travel alarm clock.	5
+26	0	2	1	0	1	4	10	0	0	0	6	0	2	4.0	13	1	1	1	2	0	2	1	The chef skillfully tossed the pasta into the boiling water, adding mushrooms, garlic, tomatoes, parsley, and salt to the pot.	5
+27	0	3	0	0	1	5	6	0	2	0	5	0	5	4.0	20	0	0	1	5	0	5	1	He opened the window, let out the cat, took a bottle of water, ate a sandwich, and placed a book beside him.	5
+23	0	0	1	0	1	3	7	0	1	0	6	1	3	3.0	13	2	1	1	3	1	3	1	After baking the cookies, I forgot the glasses, keys, phone, wallet, and hat when leaving the house.	5
+26	0	2	0	0	1	6	7	0	0	0	5	0	5	3.0	20	0	0	1	4	0	4	1	The cat drank milk from a glass, bit a cookie, chased a butterfly, swung on a tire, and unmasked a burglar.	5
+22	0	1	0	0	1	6	7	0	1	0	5	0	1	4.0	14	0	0	1	1	0	1	1	I found the keys, a map, a compass, a flashlight, and a water bottle beneath the seat.	5
+37	2	3	0	0	1	8	10	0	0	0	5	1	7	4.0	22	1	0	1	6	1	6	1	After finding the lost key, the old man unfurled a map, opened a dusty chest, brewed a pot of tea, carved an X on the floor and poured a glass of whiskey.	5
+27	4	0	0	1	1	5	5	0	0	1	6	1	3	5.0	24	1	0	1	1	1	1	1	After discovering the missing keys, the forgotten letter, an old photograph, a rusty knife, and a hidden box, John was puzzled.	5
+25	0	2	0	0	1	4	8	0	1	0	6	1	2	4.0	11	1	0	1	2	1	2	1	After opening the fridge, she took out a water bottle, milk, cheese, an apple, and a box of crackers.	5
+42	2	6	1	0	1	6	12	0	2	0	5	0	7	6.0	16	1	1	1	5	0	5	1	The baby gurgled joyfully, spitting out a colorful ribbon, knocking over a stack of books, slamming the door with his tiny foot, splattering tomato sauce across the kitchen wall and dropping his stuffed toy on the floor.	5
+22	2	1	0	0	1	5	6	0	2	0	4	0	1	3.0	19	0	0	1	2	0	2	1	He gave me a pen, a notebook, a red pencil, an eraser and a potted plant as gifts.	5
+33	1	5	0	0	1	6	11	0	1	0	6	0	2	5.0	19	1	1	1	1	0	1	1	She opened the window, letting in the cool breeze, the fragrance of lilies, the sound of crickets, the sight of stars, and the taste of pineapple lemonade.	5
+28	1	5	1	0	0	2	10	0	0	0	4	0	5	5.0	9	2	2	1	2	0	2	1	Droplets danced off the roof, bouncing playfully between red autumn leaves, scattering gravel under the feet of scampering squirrels, startling rabbits into hurried dashes.	5
+23	0	2	0	0	1	5	6	0	1	0	5	1	2	4.0	19	1	1	1	1	0	1	1	He opened the door, the window, a bottle of juice, the letter, and a drawer before sitting down.	5
+31	4	3	0	0	1	5	9	0	2	0	5	0	2	6.0	12	1	1	2	1	0	1	2	The monkey swung through the lush jungle, its tale flicking a ripe banana, a handful of grapes, several figs, and an avocado toward its hungry mouth.	5

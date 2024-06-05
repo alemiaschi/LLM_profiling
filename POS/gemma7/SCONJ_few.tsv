@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	SCONJ_constraint
+11	0	0	1	2	0	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	4	  The dish was served with a generous sprinkle of parsley.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	  Please call me, let's discuss.	0
+10	1	0	1	1	0	2	1	1	0	2	0	1	0	1	1	1	0	4.0	1	4	Deal your meal from where the dishes are located.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	 Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+12	0	0	2	1	0	2	0	2	0	2	0	2	0	2	1	0	0	3.0	2	4	The food is on the table, waiting to be eaten.	0
+10	1	0	1	1	0	2	1	1	0	2	0	1	0	1	1	1	0	4.0	1	4	Deal your meal from where the dishes are located.	0
+7	0	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	The url for the song is  http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+7	0	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	The url for the song is http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	 Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+7	0	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	 The url for the song is http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dishes are located in the kitchen.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+7	0	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	The url for the song is http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3.	0
+23	1	0	3	1	0	4	2	4	0	5	0	1	1	4	1	1	0	4.0	4	12	In this case, there is no information provided regarding the chosen topic, therefore I am unable to complete the task.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+13	0	0	3	0	0	1	2	1	0	4	0	1	0	1	1	2	0	2.0	1	4	The requested sentence is: Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	 Please call me, let's discuss.	0
+7	0	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	The url for the song is http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The train arrived on time.	0
+7	0	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	The url for the song is http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+29	5	0	3	1	1	5	4	2	0	4	0	1	2	3	3	1	0	7.0	3	9	 Again, I think the problem is people who sink to far into their own egos, and begin to take their personal metaphors a bit too literaly.	0
+9	0	0	3	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	**Please call me, let's discuss.**	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	 Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+7	0	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	The url for the song is http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+10	1	0	1	1	0	2	1	1	0	2	0	1	0	1	1	1	0	4.0	1	4	Deal your meal from where the dishes are located.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	  Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	2	0	0	0	2	0	0	3	0	0	0	1	0	2	0	2.0	1	3	Please call me, let's discuss.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The dishes are located in the kitchen.	0
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If I see a answer that I love, I will make my best right there and then.	1
+11	2	1	2	0	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	6	The cat slept soundly, if the wind blew softly.	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If I see a answer that I love, I will make my best right there and then.	1
+13	0	1	2	1	0	2	1	2	0	1	0	2	1	0	2	0	1	3.0	1	4	If the weather is good, I will go for a hike.	1
+35	1	2	2	5	0	4	3	3	4	4	1	3	2	2	3	1	1	5.0	3	9	If you are checking into tickets for Seoul, a little birdie told me that you may have already heard about the recent correction in The Economist regarding George Bush's election in 2000.	1
+15	2	1	2	1	0	2	1	2	0	2	0	0	0	0	0	0	2	5.0	2	11	 If there is not a bird sitting on the eggs, most likely not.	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If I see an answer that I love, I will make my best right there and then.	1
+18	0	1	2	1	0	2	2	2	1	4	0	1	0	1	2	3	2	4.0	3	9	 If I have a chance to visit Seoul, I would love to check out the tickets.	1
+17	2	1	2	1	0	1	5	1	0	3	0	1	0	0	3	1	2	4.0	2	9	If I hear a song that I like, I will dance to it right away.	1
+12	0	1	2	1	0	2	2	1	0	2	0	1	0	0	2	1	1	3.0	1	6	If I have a question, I will ask for clarification.	1
+17	0	1	2	2	0	2	2	2	0	2	0	2	0	1	2	0	1	3.0	2	5	If you are in a hurry, you might not want to wait for the bus.	1
+14	0	1	1	2	0	2	2	1	1	2	0	1	1	1	2	1	0	4.0	1	5	A little birdie told me that you were checking into tickets for Seoul.	1
+17	1	0	2	0	0	1	4	1	0	5	0	2	0	2	3	1	2	4.0	4	8	When you finish reading the book, I will be waiting to hear what you think.	1
+9	2	0	2	0	0	2	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Of course, here is the generated sentence: When you respond, add your own comments or ask follow-up questions and proceed from there.	1
+22	3	1	2	1	1	2	5	2	0	3	0	1	1	0	3	2	2	5.0	2	12	In the event that I see an answer that I love, I will make my best right there and then.	1
+18	1	0	2	3	0	4	1	2	0	1	2	2	0	1	2	0	0	3.0	1	11	The train departs at 8:00 AM, so I will be at the station by 7:30 AM.	1
+18	1	0	3	2	1	3	2	3	0	3	0	0	0	1	1	0	0	5.0	1	8	The train arrived on time, but unfortunately, there was no one waiting at the station.	1
+15	2	1	2	1	0	2	1	2	0	2	0	0	0	0	0	0	2	5.0	2	11	If there is not a bird sitting on the eggs, most likely not.	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If I see a answer that I love, I will make my best right there and then.	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	 If I see an answer that I love, I will make my best right there and then.	1
+22	0	1	2	1	1	2	4	2	0	4	0	2	1	2	2	3	1	4.0	3	8	If you have any questions about the task, please let me know and I will be happy to answer them.	1
+15	2	1	2	1	0	2	1	2	0	2	0	0	0	0	0	0	2	5.0	2	11	If there is not a bird sitting on the eggs, most likely not.	1
+22	3	1	2	1	1	2	5	2	0	3	0	1	1	0	3	2	2	5.0	2	12	In the event that I see an answer that I love, I will make my best right there and then.	1
+16	2	1	3	1	0	2	1	2	0	2	0	0	0	0	0	0	2	5.0	2	11	 **If there is not a bird sitting on the eggs, most likely not.	1
+22	1	1	2	0	0	2	5	2	0	6	0	1	1	3	3	4	2	5.0	5	7	When you finish reading this message, I would like you to let me know if you have any further questions.	1
+22	3	1	2	0	1	1	5	1	0	3	0	2	2	3	3	2	0	5.0	3	10	 I will be ready to make my best right there and then, if I see an answer that I love.	1
+12	0	1	2	1	0	2	1	2	0	2	0	1	0	1	1	0	0	3.0	1	5	The house is burning down, if there is a fire.	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If I see an answer that I love, I will make my best right there and then.	1
+10	1	0	2	0	0	1	2	0	0	2	0	1	1	0	2	1	1	2.0	1	4	When I am feeling happy, I sing songs.	1
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	 The movie was exciting, but the plot was predictable.	1
+15	2	1	2	1	0	2	1	2	0	2	0	0	0	0	0	0	2	5.0	2	11	If there is not a bird sitting on the eggs, most likely not.	1
+14	0	1	1	2	0	2	2	1	1	2	0	1	1	1	2	1	0	4.0	1	5	  A little birdie told me that you were checking into tickets for Seoul..	1
+14	0	1	1	2	0	2	2	1	1	2	0	1	1	1	2	1	0	4.0	1	5	The little birdie told me that you were checking into tickets for Seoul.	1
+14	0	1	1	2	0	2	2	1	1	2	0	1	1	1	2	1	0	4.0	1	5	  A little birdie told me that you were checking into tickets for Seoul..	1
+15	1	1	2	0	0	1	2	1	0	2	0	2	2	1	2	1	1	3.0	2	9	If you have a good offer, I'd be more likely to go.	1
+10	1	0	1	0	0	2	0	2	0	2	1	1	0	1	2	1	0	3.0	1	4	The train will arrive when the clock strikes five.	1
+17	3	1	2	0	1	1	3	1	0	2	0	1	2	0	2	2	1	3.0	1	7	If i have a favorite answer, i will make my best right there and then.	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If i see a answer that I love, I will make my best right there and then.	1
+13	0	0	2	0	1	3	0	3	0	0	0	2	2	0	2	0	0	3.0	0	8	 The movie was great, but the ending was a bit anticlimactic.	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If I see a answer that I love, I will make my best right there and then.	1
+14	1	0	1	1	0	2	1	2	0	3	0	3	0	2	2	0	0	3.0	2	7	The train will arrive at the station when it is finished being cleaned.	1
+17	1	0	2	1	0	2	4	1	0	2	0	2	1	1	2	2	1	3.0	2	7	When I receive your message, I will be sure to provide you with an answer.	1
+15	0	1	1	1	0	4	1	2	0	2	1	1	1	1	2	1	0	3.0	1	6	A little birdie told me that the train is arriving at 8:00 AM tomorrow.	1
+20	3	1	2	0	1	2	5	1	0	3	0	1	1	0	3	2	2	4.0	2	10	If I see a concert ticket that I love, I will make my best right there and then.	1
+14	0	1	1	2	0	2	2	1	1	2	0	1	1	1	2	1	0	4.0	1	5	A little birdie told me that you were checking into tickets for Seoul.	1
+15	0	0	4	0	1	3	0	3	0	0	0	2	2	0	2	0	0	3.0	0	8	"""The movie was great, but the ending was a bit anti-climactic."""	1
+19	3	1	2	0	1	1	5	1	0	3	0	1	1	0	3	2	2	4.0	2	9	If I see a answer that I love, I will make my best right there and then.	1
+13	0	1	2	1	0	2	1	2	0	1	0	2	1	0	2	0	1	3.0	1	4	If the sky is clear, I will go for a hike.	1
+15	2	0	2	0	1	1	2	1	0	4	0	2	0	0	2	1	2	4.0	2	7	When you are finished reading the book, you can go outside and play.	1
+14	0	1	1	2	0	2	2	1	1	2	0	1	1	1	2	1	0	4.0	1	5	A little birdie told me that you were checking into tickets for Seoul.	1
+17	2	0	2	1	1	4	0	3	0	0	0	2	2	0	2	0	0	4.0	0	12	 The movie was exciting, but the plot twist at the end was even more exciting.	2
+22	4	1	1	3	1	3	4	1	0	3	0	1	0	2	2	1	0	6.0	2	9	Infact I look forward to taking my animals to the vet simply because of how my animals and I are treated.	2
+28	4	1	2	0	1	3	3	3	0	5	0	2	3	4	5	1	0	7.0	4	6	The movie was exciting, but it get even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+7	0	0	2	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	5	Sure, the requested sentence is:  When I discovered Wikipedia, I recognized that the wiki model had the potential to build the how-to resource the world really needs.	2
+22	4	1	1	0	0	2	3	2	0	4	0	2	2	4	4	1	0	6.0	4	6	It gets even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+22	4	1	1	0	0	2	3	2	0	5	0	1	2	4	4	1	0	6.0	4	6	It get even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+28	3	1	2	0	1	4	2	4	0	4	0	3	3	4	5	1	0	7.0	4	7	The movie was exciting, but the ending was less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+26	2	1	3	0	0	6	2	4	1	5	0	0	0	3	4	3	1	7.0	4	5	When I discovered Wikipedia, I recognized that the wiki model had the potential to build the how-to resource the world really needs.	2
+28	4	1	2	0	1	3	3	3	0	5	0	2	3	4	5	1	0	7.0	4	6	The movie was captivating, but it get even more exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+18	0	0	3	0	2	3	1	3	0	0	0	3	3	0	3	0	0	3.0	0	12	It was a long day, but the company was good, and the food was delicious.	2
+22	4	1	1	0	0	2	3	2	0	5	0	1	2	4	4	1	0	6.0	4	6	It get even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+21	3	1	1	3	1	3	4	1	0	3	0	1	0	2	2	1	0	6.0	2	9	I look forward to taking my animals to the vet simply because of how my animals and I are treated.	2
+20	0	2	1	3	1	3	2	3	0	4	0	0	1	2	3	0	0	5.0	2	8	I look at some of these other comments & laugh because people think that the world revolves around them.	2
+22	4	1	1	0	0	2	3	2	0	5	0	1	2	4	4	1	0	6.0	4	6	It get even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+22	4	1	1	0	0	2	3	2	0	5	0	1	2	4	4	1	0	6.0	4	6	It get even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+22	3	2	1	0	0	4	2	3	0	5	0	1	0	4	4	1	0	6.0	4	7	The excitement drops even further when he announces that we will have to wait an hour while the plaster set hardens.	2
+32	4	2	1	0	0	4	3	4	0	5	0	4	3	5	6	1	0	7.0	5	8	The movie was not as exciting as I initially thought it would be when the main character said they would have to wait an hour while the plaster set real solid.	2
+19	0	0	3	0	2	4	0	3	0	0	0	3	3	0	3	0	0	3.0	0	12	 The movie's plot is captivating, and the acting is exceptional, but the pacing is slow.	2
+21	1	1	3	1	1	3	2	2	0	2	0	2	2	2	3	1	0	3.0	2	14	 The play continues on tomorrow, even though the weather is bad, and I am excited to see it.	2
+20	1	1	3	2	1	4	1	4	0	3	0	0	0	1	3	0	0	4.0	1	8	The cat jumped onto the table, and the dog chased after it, as the sun shone brightly.	2
+45	8	2	2	3	2	5	7	3	0	8	0	2	2	6	6	2	0	7.0	6	22	  Infact I look forward to taking my animals to the vet simply because of how my animals and I are treated, and I get even less excited when he said we’d have to wait an hour while the plaster set real solid.	2
+22	4	1	1	0	0	2	3	2	0	5	0	1	2	4	4	1	0	6.0	4	6	It get even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+22	4	1	1	0	0	2	3	2	0	5	0	1	2	4	4	1	0	6.0	4	6	  It get even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+18	0	0	2	2	1	5	0	4	0	1	0	2	0	0	2	0	0	3.0	0	6	The play's setting is in a forest, and the characters are engaged in a conversation.	2
+27	0	1	3	2	2	3	3	3	0	4	0	3	2	2	4	1	0	5.0	2	16	The movie was enjoyable, although it lacked the punch I was hoping for, and I couldn't help but feel sorry for the protagonist.	2
+26	2	1	3	0	0	6	2	4	1	5	0	0	0	3	4	3	1	7.0	4	5	When I discovered Wikipedia, I recognized that the wiki model had the potential to build the how-to resource the world really needs.	2
+17	0	1	3	1	1	3	0	3	0	0	0	2	3	1	2	0	0	3.0	1	6	 The movie was enjoyable, although the plot was predictable, and despite the slow pacing.	2
+15	1	0	1	0	1	4	0	4	0	3	0	0	1	1	3	1	0	4.0	1	4	The music stopped and the crowd cheered when the acrobats performed a breathtaking routine.	2
+38	4	1	3	1	2	7	3	5	0	6	0	2	2	5	4	1	0	7.0	5	14	  The book's plot twists and turns, and despite the character being a protagonist, it still gets less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+20	1	1	3	0	1	1	3	1	0	2	0	3	2	2	3	1	0	3.0	2	12	The cake was delicious, even though it was small, and I couldn't wait to eat it.	2
+32	4	1	3	3	1	5	4	2	0	5	1	2	1	2	3	2	2	6.0	4	9	The sentence generated using 2 subordinating conjunctions is:  **Infact I look forward to taking my animals to the vet simply because of how my animals and I are treated.**	2
+25	2	2	2	0	1	3	2	3	0	3	0	2	3	3	4	1	0	6.0	3	6	The movie is not very exciting, and I am disappointed that I have to wait an hour while the plaster set real solid.	2
+35	3	2	2	0	1	5	3	5	0	6	0	2	5	5	6	2	0	7.0	5	11	 The movie was exciting until the protagonist uttered a bland joke, and it got even less exciting when he said we’d have to wait an hour while the plaster set real solid..	2
+16	2	0	1	1	1	3	0	3	0	2	0	2	1	1	3	0	0	3.0	1	8	The weather will be much better when the rain stops and the sun comes out.	2
+25	1	0	1	4	1	7	0	4	0	4	0	0	2	1	1	2	0	5.0	1	9	The intricate design of the machinery necessitates the use of complex algorithms in order to operate seamlessly and achieve the desired level of precision.	2
+23	5	1	2	1	0	3	1	3	0	1	0	3	3	2	3	0	0	4.0	2	11	The upcoming movie is more exciting when it is shown in the theater, even though some scenes are already available online.	2
+19	1	1	4	0	1	3	0	3	0	1	0	3	2	1	3	0	0	4.0	1	8	 The movie was entertaining, although the plot was predictable, yet the characters were well-developed.	2
+21	3	1	1	3	1	3	4	1	0	3	0	1	0	2	2	1	0	6.0	2	9	I look forward to taking my animals to the vet simply because of how my animals and I are treated.	2
+35	4	1	2	1	1	5	5	3	0	7	0	2	2	5	6	2	0	8.0	5	7	My dog has a lot of energy and I have to admit, it gets even less exciting when he said we’d have to wait an hour while the plaster set real solid.	2
+16	3	0	1	0	1	4	0	3	0	3	0	0	1	1	3	0	0	3.0	1	12	The excitement dwindles even further when the plaster sets solid and the waiting time increases.	2
+22	1	1	2	1	1	5	1	4	0	0	0	3	2	1	3	0	0	4.0	1	17	The film was enjoyable even though it was not a blockbuster, and the plot twist at the end was unexpected.	2
+22	4	1	1	3	1	3	4	1	0	3	0	1	0	2	2	1	0	6.0	2	9	Infact I look forward to taking my animals to the vet simply because of how my animals and I are treated.	2
+20	2	2	1	0	0	4	2	3	0	4	0	1	0	3	3	1	0	5.0	3	6	The excitement diminished significantly when he announced that we would have to wait an hour while the plaster set.	2
+19	2	0	3	0	2	3	0	3	0	0	0	3	3	0	3	0	0	3.0	0	14	The music was loud, and the dancing was impressive, but the conversation was even more engaging.	2
+24	1	1	2	1	1	4	2	3	0	5	0	2	1	3	4	1	0	5.0	3	19	 He said we'd have to wait an hour while the plaster set real solid, and the room was filled with noise.	2
+22	4	1	1	3	1	3	4	1	0	3	0	1	0	2	2	1	0	6.0	2	9	Infact I look forward to taking my animals to the vet simply because of how my animals and I are treated.	2
+26	4	1	2	0	1	3	5	2	0	5	0	1	1	3	5	2	0	6.0	3	14	The conversation becomes even more thrilling when he excitedly reveals his secrets, and the anticipation builds as we wait to hear what they are.	2
+28	3	2	3	1	1	4	3	4	0	5	0	1	1	2	3	3	0	5.0	2	13	A fascinating documentary captivated me, and I look forward to watching the remaining episodes, even though I have already seen the majority of the content.	2
+21	3	1	1	3	1	3	4	1	0	3	0	1	0	2	2	1	0	6.0	2	9	I look forward to taking my animals to the vet simply because of how my animals and I are treated.	2
+20	1	0	2	2	1	2	4	1	0	3	0	1	1	2	2	1	0	3.0	2	12	My brother always wants to go with me to the park, and I'm happy to take him.	2
+32	1	3	2	3	0	5	1	6	1	4	0	1	4	1	3	3	2	5.0	3	17	 Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world.	3
+35	0	3	3	3	0	4	5	5	1	5	0	3	3	4	4	2	1	7.0	5	11	Although some may praise this as an opportunity, NASA seems hesitant about turning over the reigns to the corporate world, though there are those who believe it would be a positive move.	3
+21	2	0	2	2	1	5	2	3	0	3	0	0	1	1	2	2	1	4.0	2	12	 Despite the rain pouring down heavily, a joyful reunion with friends and family awaited those who braved the elements.	3
+21	1	2	3	2	0	5	0	5	0	3	0	0	0	2	3	0	0	4.0	2	8	The cat sat on the mat, as the sun shone upon the flowers, while the birds chirped cheerfully.	3
+30	2	0	4	3	2	6	3	4	0	4	0	1	0	0	3	1	0	3.0	0	23	The artist displayed her paintings at the gallery, and she spoke at the opening reception, but her artwork was unfortunately not well-received by the critics.	3
+38	0	4	7	1	1	4	6	3	3	6	0	0	3	4	5	4	0	6.0	4	19	"It remains unclear if these figures represent real individuals, or if the authorial ""I"" who addresses them represents Shakespeare himself, though Wordsworth believed that with the sonnets""Shakespeare unlocked his heart""."	3
+8	0	0	1	1	0	2	0	1	0	0	1	1	1	0	1	0	0	3.0	0	5	The sentence with 3 subordinating conjunctions is: Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world, but if somebody wakes up one morning and suddenly no longer is funny, then yeah, head first, out the door as quickly as possible, and as sadistically as possible.	3
+46	1	5	4	3	0	7	1	8	1	7	0	4	4	3	5	3	2	6.0	5	22	If the task is completed as instructed, the generated sentence will be: Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world.	3
+32	1	3	2	3	0	5	1	6	1	4	0	1	4	1	3	3	2	5.0	3	17	Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world.	3
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	1	4.0	1	6	"The sentence generated with 3 subordinating conjunctions is: The authorial ""I"" who addresses them represents Shakespeare himself, though Wordsworth believed that with the sonnets, Shakespeare unlocked his heart."	3
+23	1	0	2	3	0	6	1	2	0	4	0	0	4	1	2	2	1	6.0	2	9	A tale spun through generations includes stories that weave various historical events with fictional characters, yet remain rooted in the truth.	3
+23	0	1	4	1	0	6	3	2	0	3	0	0	3	2	3	3	0	4.0	2	16	 The artist presented his latest work, which showcased diverse styles, at the exhibition, although critics argued its commercial viability.	3
+31	0	0	3	0	2	7	0	5	0	7	1	2	3	3	3	5	0	7.0	3	11	The text provides several examples, each utilizing 3 subordinating conjunctions, and demonstrates the diverse ways the structure can be employed to craft compelling narratives and engage the reader.	3
+23	0	0	2	2	0	6	0	4	0	6	1	0	2	2	2	2	1	6.0	3	5	The painting exhibited at the gallery contained three intricate oil portraits, each depicting a separate narrative woven through intertwining subordinating conjunctions.	3
+18	1	0	3	1	1	4	3	2	0	3	0	0	0	1	3	2	0	4.0	1	13	The boy raced to the park, where he met his friends, and they played soccer.	3
+32	1	3	2	3	0	5	1	6	1	4	0	1	4	1	3	3	2	5.0	3	17	Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world.	3
+31	2	3	3	1	1	6	0	5	0	4	0	4	1	3	5	0	0	4.0	3	26	 The prisoners were pardoned once the king's anger passed, though some dissenters argued that the punishments had already been carried out, and therefore the pardon was unnecessary.	3
+28	0	2	4	0	1	7	0	4	0	2	0	2	6	1	4	1	1	4.0	2	10	Although the sources are unreliable, the play contains numerous comedic scenes and witty dialogue, the plot remains captivating, though the character arc is incomplete.	3
+31	0	2	3	2	1	8	0	5	0	5	0	1	2	3	4	1	0	4.0	3	20	  The ancient texts reveal that the philosopher's wisdom was preserved through generations, though the authorship remains unclear, yet the ideas continue to inspire scholars to this day.	3
+28	0	2	2	3	1	4	4	3	4	4	0	0	1	1	4	3	2	5.0	3	15	Although he played Adam in As You Like It and the Chorus in Henry V, scholars doubt the sources of the information that later traditions maintain.	3
+27	0	2	5	1	0	5	5	2	0	4	0	1	2	2	3	3	1	4.0	3	8	The chef, having perfected his signature dish, presented it to his guests, although they remained skeptical, until they tasted the delectable treat.	3
+28	0	0	3	2	2	5	5	3	0	4	0	3	1	0	4	2	1	4.0	1	15	  The boy who climbed the tree was met by his parents, and he was given a gift, but he was reprimanded for his dangerous behavior.	3
+36	0	2	3	3	0	8	2	6	0	5	0	2	3	3	2	1	1	8.0	4	9	While the artist might have hoped for a lucrative commercial partnership, the museum declined, stating that there were insufficient funds to accommodate such a request despite its admiration for the artist's work.	3
+25	1	1	3	4	0	4	1	1	1	2	0	3	3	0	3	0	2	4.0	2	14	Although the parents came from India, where homeopathy is in common use, they should be declared not guilty due to cultural differences.	3
+66	10	6	7	5	3	7	2	7	1	6	1	2	7	3	5	3	2	5.0	5	34	 Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world, but if somebody wakes up one morning and suddenly no longer is funny, then yeah, head first, out the door as quickly as possible, and as sadistically as possible.	3
+20	2	1	3	2	1	4	0	3	0	4	0	0	0	1	2	0	0	4.0	1	9	The child ran to the park, danced joyfully, and played with friends as the sun shone brightly.	3
+23	1	1	2	1	0	7	0	3	0	4	1	0	2	1	2	3	1	4.0	2	7	Although the source material contains questionable claims, the writer effectively uses three subordinating conjunctions to connect multiple clauses within the sentence.	3
+26	4	2	2	1	1	7	0	1	0	5	0	0	3	1	2	3	2	4.0	3	14	Although many factors contribute to the overall difficulty of teaching mathematics effectively, effective teaching methods ultimately help students learn and retain information more effectively.	3
+37	1	3	3	3	0	6	1	7	1	5	0	2	4	1	4	3	3	5.0	4	22	The sentence generated is: Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world.	3
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	1	4.0	1	6	The sentence generated with 3 subordinating conjunctions is: Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world, though scholars doubt the sources of the information.	3
+30	0	1	4	6	0	9	3	3	0	3	0	1	0	2	2	2	0	5.0	2	14	The prisoner, despite his plea for leniency, was sentenced to death due to the severity of the crime, though his lawyer presented evidence mitigating his culpability.	3
+45	1	5	3	4	0	7	3	7	1	6	0	2	5	3	4	3	2	7.0	5	17	Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world, though there is a possibility that it could lead to positive outcomes.	3
+24	1	1	3	3	0	5	4	2	0	4	0	0	1	2	3	0	0	5.0	2	7	The old man danced with his daughter, although he felt sadness, when he looked at his fading memory of the past.	3
+30	1	3	2	3	1	3	3	4	4	3	0	1	2	2	4	2	1	5.0	3	11	Although the sources of the information are questionable, the later traditions maintain that he also played Adam in As You Like It and the Chorus in Henry V.	3
+32	1	3	2	3	0	5	1	6	1	4	0	1	4	1	3	3	2	5.0	3	17	 Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world.	3
+51	1	4	5	5	0	10	1	9	1	6	1	2	5	4	5	4	1	7.0	5	23	The sentence with 3 subordinating conjunctions generated is: **Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world, though scholars doubt the sources of the information.**	3
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	1	4.0	1	6	The sentence generated with 3 subordinating conjunctions is: Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world, though scholars doubt the sources of the information.	3
+26	0	2	3	2	1	6	0	6	0	4	0	0	2	2	4	0	0	4.0	2	12	 The cat slept on the mat while the sun shone, and the flowers bloomed despite the stormy weather, though the house remained quiet.	3
+42	1	3	4	4	0	7	1	7	1	5	1	2	5	3	4	3	1	6.0	4	23	The sentence generated with 3 subordinating conjunctions is: **Although some may praise this as an opportunity for the private sector to finally serve the public good, NASA seems hesitant about turning over the reigns to the corporate world.**	3
+24	1	1	5	1	1	6	1	1	0	4	0	0	1	2	2	2	1	5.0	3	7	The protagonist's journey, though filled with challenges, continues to inspire many as it showcases compassion, courage, and strength.	3
+15	0	0	1	2	0	3	0	2	0	3	1	2	1	1	1	0	0	3.0	1	7	A sentence with 3 subordinating conjunctions has been generated based on the provided instruction.	3
+42	1	2	4	6	1	9	2	8	2	5	0	1	1	3	4	2	0	7.0	3	11	The protagonist of the play wrote a letter to the king, claiming that he was descended from Abraham Lincoln, though the veracity of this claim remains questionable, and the king ultimately rejected the letter due to its implausibility.	3
+33	0	1	4	4	1	9	1	8	0	1	0	1	2	1	2	1	0	6.0	1	12	The protagonist, though a tragic figure, plays a pivotal role in the story, as he is the catalyst for the conflict and the object of the protagonist's love.	3
+18	0	1	4	1	1	6	0	2	0	2	0	0	1	1	2	1	0	4.0	1	13	  The novel explores themes of friendship, love, and identity, though the characters remain nameless.	3
+28	5	1	4	3	1	6	1	2	0	4	0	1	0	1	3	1	0	4.0	1	9	With the invention of the internet, people are more connected than ever before, and it has significantly improved communication, though accessibility issues still exist.	3
+23	0	0	4	1	2	9	0	2	0	2	0	0	3	1	1	1	0	6.0	1	8	The novel explores several themes, including social injustice, family relationships, and the power dynamics between individuals and societal structures.	3
+36	0	1	4	4	1	10	2	4	0	3	0	1	5	1	2	2	1	5.0	2	18	 Although the sources are questionable, the text presents a clear depiction of the character's journey, including his participation in later traditions, and offers compelling arguments for his inclusion in historical records.	3
+36	0	1	4	3	2	10	1	3	0	2	0	2	6	1	3	0	0	5.0	1	22	The play's characters were brought to life through elaborate costumes, intricate sets, and captivating storytelling although the play's themes were outdated, it remains a beloved and enduring work of art.	3
+20	0	2	3	2	0	5	0	5	0	3	0	0	0	2	3	0	0	4.0	2	8	The cat sat on the mat, while the dog played with the ball, as the clock ticked.	3
+24	0	1	3	2	1	7	1	2	0	1	0	1	4	1	2	1	0	3.0	1	12	The protagonist's journey is complex, with intricate plot lines and captivating characters, although he faced numerous challenges throughout the story.	3
+27	1	1	5	1	1	5	1	5	0	3	0	2	2	0	5	0	2	3.0	2	9	When the weather is warm, as the sun shines, the flowers bloom, and the birds sing, I am happiest in the world.	4
+41	5	2	5	0	2	7	1	6	0	7	0	5	0	3	6	1	1	5.0	4	22	When the music stops, the dancers will have completed their routine, as soon as the curtain rises, and the audience will applause, but the orchestra will not start playing again until the applause has died down.	4
+45	2	3	5	3	1	8	5	5	0	5	0	3	2	3	5	1	1	5.0	4	17	So, while the elevator is going from the bottom floor to the top, the doors close, and you exclaim that you lost your tarantula / snake / scorpion, it is important to confirm that it is somewhere in the elevator.	4
+37	8	4	4	1	2	6	4	1	0	6	0	0	1	3	3	3	1	5.0	4	9	So instead of documenting the dreams it gradually became also like adding creational elements, and I think that somehow through writing my dreams I gradually came to writing, also poems, but mainly stories.	4
+38	4	2	4	1	2	4	7	4	0	7	0	2	0	2	4	5	2	5.0	4	21	As soon as I finish reading the book, I will write a review and upload it to the website, even if it takes all night, but I would really like you to read it.	4
+33	1	3	4	4	0	6	2	6	0	4	0	1	2	1	4	0	2	3.0	3	15	 As the elevator descends from the lowest floor to the highest, once the doors close, I confirm that my tarantula is safely contained within the elevator, despite the inconvenience.	4
+44	5	0	4	3	4	12	1	5	0	6	0	3	0	2	5	1	0	5.0	2	30	The dream manuscript was becoming more like a story collection, and gradually the writing style had come to resemble poems and stories, but the focus remained on dream documentation, and I believe the dreams were preserved more faithfully than before.	4
+45	1	3	6	4	3	10	2	7	0	6	1	2	0	3	5	1	1	6.0	4	10	As the elevator ascends from the basement to the penthouse, the doors slam shut, and one exclaims that they have lost their tarantula, snake, or scorpion, but confirm that the reptile is somewhere within the confines of the elevator.	4
+44	3	3	5	1	2	5	8	3	0	6	0	6	2	3	7	4	1	6.0	4	14	 As I am writing this sentence, I am also thinking about my future, and when I finish writing, I will be happy that I completed the task, but I will also feel sad that I have finished the task.	4
+45	1	3	4	5	2	8	5	6	0	5	0	4	2	2	4	2	1	6.0	3	17	In the event that I am riding an elevator from the lowest to the highest floor, I will proclaim that I have lost my tarantula, snake, or scorpion and confirm that it is securely confined within the confines of the elevator.	4
+29	4	1	4	1	1	6	0	5	0	4	0	3	0	1	4	1	1	4.0	2	17	When the clock strikes midnight, the cat will jump onto the table, as long as the window is closed, and the stars will twinkle above.	4
+40	2	2	6	2	3	8	4	4	0	5	0	2	2	3	5	1	0	5.0	3	14	The elevator doors slammed shut, and when the elevator ascended to the top floor, I exclaimed that I had lost my tarantula, serpent, or scorpion, but confirmed that it was safely within the elevator.	4
+33	3	3	5	2	2	4	5	0	0	6	0	2	1	3	5	2	2	6.0	5	9	 When I was younger, as I was growing up, I started writing stories, and I think that through writing I gradually came to writing poetry, but mainly stories.	4
+25	3	2	2	0	1	5	2	4	0	5	0	1	0	3	5	1	0	5.0	3	11	The train departed as soon as the doors closed, and the passengers cheered when the conductor announced that they had reached their destination.	4
+34	3	2	4	0	1	6	5	3	0	6	0	3	1	4	5	4	0	7.0	4	9	The book was finished reading yesterday, and I was surprised that the plot twist had me completely engrossed, although I had already guessed the ending, which made me very satisfied.	4
+30	3	1	5	1	1	7	0	6	0	6	0	0	0	1	4	1	3	4.0	4	13	When the rain starts pouring, as soon as the leaves fall, the wind blows through the trees, making the leaves dance, and the flowers bloom.	4
+48	5	2	7	3	2	9	1	7	0	6	0	3	3	2	5	1	1	5.0	3	12	 The coffee, steeped in lavender, smelled delightful, but the tea, simmering in the pot, had a much more potent aroma, so the question arose whether the lavender scent was naturally present in the coffee or if it had been added artificially.	4
+39	2	4	5	1	2	8	2	6	0	7	0	1	1	2	6	2	2	5.0	4	11	" Although the elevator doors closed as the elevator ascended, the doors opened before it reached the top floor, and I subsequently yelled ""lost tarantula"" but confirmed that the tarantula was still in the elevator."	4
+28	0	1	4	3	2	7	1	5	0	5	0	0	0	1	4	0	1	6.0	2	8	As the sun shines upon the meadows, the butterflies flutter, and the bees dance, I dream of a future filled with joy and happiness.	4
+29	0	2	5	2	2	7	1	5	0	5	0	0	0	2	5	0	0	4.0	2	23	The cat sits on the porch swing, while the sun shines, as the birds sing, but the wind blows, and I dream of adventures.	4
+28	5	1	2	1	0	5	5	2	0	6	0	1	0	5	3	4	0	5.0	5	14	The farmer was tending to his crops when he found a basket containing diamonds as soon as he finished watering them, thereby increasing his fortune significantly.	4
+33	0	2	5	5	1	7	4	3	0	5	0	1	0	1	2	2	1	4.0	2	10	 As I sat in the passenger seat, I listened to music, dreamed about my future, and wrote poetry, all while being transported by the bus to my destination.	4
+68	2	0	10	8	5	21	0	10	0	8	0	0	2	4	2	3	0	12.0	4	21	The dream sequence intertwined with the narration of personal experiences, and within this tapestry of memory and imagination, the writer's craft emerged, encompassing poetry and prose, but primarily stories, each element harmonizing perfectly, each strand contributing to the overarching narrative, a testament to the power of writing to connect with the reader, invoke emotion, and inspire action.	4
+28	3	2	3	1	0	4	2	3	0	7	0	2	0	3	4	0	3	5.0	6	14	 When the train departs, as long as the doors are kept closed, the passengers are instructed to remain seated until it arrives at their destination.	4
+30	2	1	3	2	1	6	1	6	0	5	0	2	0	3	3	2	0	4.0	3	15	   The cat was playing with the ball as the sun shone down on it, but the wind blew the ball away, causing the cat to be frustrated.	4
+29	1	2	5	1	3	6	4	2	0	4	0	1	0	2	4	1	0	5.0	2	17	The elevator doors closed, and I exclaimed that I lost my tarantula, snake, or scorpion, but confirmed that it was somewhere in the elevator.	4
+44	3	4	6	3	2	8	4	5	0	5	0	3	1	2	5	1	2	4.0	4	18	If the elevator is going from the bottom floor to the top, as soon as the doors close, you should exclaim that you lost your tarantula, snake, or scorpion, but confirm that it is somewhere in the elevator.	4
+35	2	2	2	4	1	4	6	4	0	5	0	4	1	3	4	2	0	8.0	3	13	The book was read by me while I was waiting for the bus, and I enjoyed it as much as I would have enjoyed reading any of the books by my favorite author.	4
+41	1	3	5	3	3	9	5	4	0	5	0	3	0	3	5	1	0	5.0	3	15	  The elevator doors closed as I was going from the bottom floor to the top, and I exclaimed that I had lost my tarantula, snake, or scorpion, but confirmed that it was somewhere in the elevator.	4
+40	4	3	3	3	1	8	3	5	0	5	0	2	1	2	4	1	2	4.0	4	16	 When the elevator is going from the bottom floor to the top, as soon as the doors close, exclaim that you lost your tarantula / snake / scorpion but confirm that it is somewhere in the elevator.	4
+41	3	1	4	3	3	8	5	6	0	6	0	1	1	2	5	3	0	5.0	2	29	The prisoner escaped from the cell while the prison guards were sleeping, and he ran to the park, where he hid the stolen jewels, but fortunately the guards found him and brought him back to his cell.	4
+31	2	1	3	3	1	9	0	8	0	4	0	0	0	2	4	2	0	5.0	2	9	The dog chased the cat into the tree when the wind blew the branches down, as the leaves flew around the playground, and the flowers danced in delight.	4
+23	1	1	5	0	1	4	1	4	0	4	0	1	1	1	5	0	2	4.0	3	9	When the wind blows, as the leaves fall, the flowers bloom, and the birds sing, I am happiest.	4
+35	2	2	5	3	1	5	4	5	0	6	0	1	1	4	5	1	0	4.0	4	24	The dog ran into the park, chased by the wind, while the sun shone down upon him, and as he ran, he remembered the good times he had had there.	4
+43	2	2	5	3	2	7	4	6	0	6	0	2	3	3	5	3	0	5.0	3	28	The book is finished, although I had to rewrite the ending several times, once I knew the plot, and I am satisfied with the outcome, therefore I put the book down and moved on to the next project.	4
+26	4	1	3	0	1	4	2	3	0	4	0	1	2	1	2	1	2	4.0	3	13	When the sun shines, as long as there is a cloud cover, I am able to go outside and enjoy the beautiful day.	4
+44	4	2	4	2	3	8	6	4	0	9	0	1	0	5	7	2	0	5.0	5	30	The train departed as soon as the doors opened, and the passengers hurried out, but those who remained onboard began talking excitedly about their travels, and the train conductor reminded everyone to fasten their seat belts while it was moving.	4
+33	3	1	5	0	1	6	0	6	0	1	0	5	4	3	5	0	0	6.0	3	26	The cake is sweet, when the frosting is fresh, as long as the sprinkles are perfect, and the decorations are artful, the cake is a delight to eat.	4
+54	6	2	6	2	1	8	6	7	0	6	0	6	3	3	6	4	3	4.0	6	21	 When you are reading a novel, as long as the plot is engaging, even if it is predictable, you may be tempted to lose yourself in the story, thus creating a surreal experience, but ultimately it is the power of storytelling that makes literature such a captivating medium.	4
+30	3	1	4	1	2	6	0	6	0	5	0	1	0	1	5	0	0	4.0	1	26	The cat slept soundly as the wind blew through the trees, and the sun shone brightly, but the rain did not fall, so the flowers bloomed.	4
+39	4	2	5	3	1	10	1	6	0	6	0	0	1	4	5	1	0	7.0	4	13	 The music stopped suddenly, as soon as the dancer finished her pirouette, when the stage lights dimmed, and while the audience erupted into applause, the stage crew began setting up for the next act.	4
+33	3	1	5	1	3	3	4	4	0	3	1	3	2	0	4	4	0	5.0	0	8	The coffee is bitter, but the tea is sweet, so I will have a cup of each, and also offer you one, but only if you want it.	4
+33	2	3	4	2	0	5	3	5	0	5	0	3	0	2	4	2	2	4.0	4	13	Although the cat was purring, after climbing the tree, the squirrel was already at the top, so I ran to the window to see if I could spot it.	4
+34	3	4	4	1	1	3	7	2	0	6	0	3	0	3	6	2	1	4.0	4	16	 As soon as the train departed, I knew that I had forgotten my phone, but as I was getting off, I remembered that I had left it on the train.	4
+27	1	1	5	1	1	7	0	6	0	5	0	0	0	1	5	1	2	4.0	3	10	When the clock strikes midnight, as the sun rises, the flowers bloom, and the birds sing, the stars twinkle in the sky.	4
+43	2	1	5	1	3	6	2	6	0	6	0	3	6	4	5	3	0	6.0	4	26	  The movie is exciting to watch, but the plot is convoluted, as it includes many subplots that are interwoven with each other, yet the story still manages to maintain a steady pace, and ultimately delivers a satisfying conclusion.	4
+31	2	1	5	2	2	7	0	6	0	5	0	0	1	0	5	0	2	5.0	2	16	When the sun shines on the grass, as flowers bloom, and the butterflies dance, the world feels peaceful, but the wind still blows through the trees.	4
+43	3	1	5	2	2	8	2	8	0	7	0	1	1	4	6	2	0	5.0	4	31	The cat jumped onto the table when the door opened, and the dog barked, as the owner went to the kitchen to get a drink, but the food was not there, so he decided to make his own.	4
+46	2	2	6	3	2	8	9	4	0	6	0	2	2	3	7	4	0	4.0	3	26	The coffee was cold by the time I arrived, so I made a pot of tea, and as I drank my tea, I realized that I had forgotten my phone, but luckily, I had a spare phone in my backpack.	4
+37	3	3	5	1	1	5	3	3	0	7	0	4	1	3	6	1	2	5.0	5	14	 When the train arrives, as soon as the doors open, passengers will rush out, but if they have forgotten their tickets, they will be forced to wait until the next train arrives.	4

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog quietly chased the squirrel across the park.	0
+8	1	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	4	Billy ran down the dark street alone.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose slowly in the sky.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly behind the mountains	0
+11	2	0	1	1	1	1	2	1	0	2	0	0	0	0	1	1	0	2.0	0	6	I walked quickly to the door and opened it calmly.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	0	1	0	2.0	0	7	Lies the cat on the table with ease.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+17	0	0	1	3	1	5	1	4	0	2	0	0	0	0	2	1	0	4.0	0	8	The cat sat on the windowsill and watched the bird with a gleam in its eye.	0
+13	1	0	2	1	0	2	1	2	0	2	0	0	1	1	1	1	0	3.0	1	5	Slowly, she walked to the store to buy a red apple.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog run quickly through the park.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	The car speeded down the highway silently	0
+10	2	0	1	1	1	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	4	Max slowly and quietly walked through the dark woods.	0
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The dog chased the cat quickly around the tree.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The car accelerated swiftly down the hill.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose over the mountains majestically.	0
+6	1	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	3	Max climbed the stairs carefully.	0
+15	1	0	3	2	0	4	0	2	0	2	0	0	1	0	1	0	0	3.0	0	9	In the cold light of dawn, the dew-covered trees gleamed eerily. (1 sentence)	0
+15	0	0	1	2	1	4	0	4	0	2	0	0	1	0	1	0	0	4.0	0	5	The sky turned dark and remained that way for the rest of the night.	0
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	John walked quickly to the store.	0
+6	1	0	0	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	John laughed loudly at the joke	0
+21	1	0	1	3	1	5	1	3	1	2	0	0	3	0	1	2	0	4.0	0	9	Within minutes, John carefully placed the package in the dark blue box and slammed the heavy metal lid on it	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly in the sun.	0
+13	2	0	1	1	1	3	0	2	1	2	0	0	0	0	1	1	0	3.0	0	6	Lena sprinted quickly around the track and crossed the finish line first.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun slowly descended behind the horizon	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+6	1	0	0	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	John quickly walked to the store	0
+14	1	0	2	2	0	3	1	3	0	2	0	0	0	1	1	1	0	4.0	1	6	She walked slowly up the mountain, enjoying the peacefulness of the moment. (0 adverbs)	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat quietly jumped on the bed.	0
+7	1	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The ball bounced swiftly across the grass	0
+13	1	0	1	3	0	3	0	2	1	1	0	0	1	0	1	0	0	3.0	0	8	Lisa swam slowly across the lake without a single adverb in sight.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The rain fell gently on the parched earth.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	2	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog barked loudly out of excitement.	0
+12	1	0	2	1	0	2	0	2	0	2	0	1	1	0	1	0	0	2.0	0	7	The sun was setting slowly over the vast, rolling landscape.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sank slowly in the sky.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The plane soared gracefully across the sky.	0
+13	1	1	1	2	0	2	0	2	1	2	0	0	1	1	1	0	0	3.0	1	9	Mona quickly ran around the small pond in the park without stopping. (1 sentence)	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slid gracefully through the grass.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly across the field.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+11	1	0	1	2	0	2	0	2	1	1	0	0	1	0	1	0	0	2.0	0	7	Molly slowly walked through the forest to the old cabin. (1 adverb: slowly)	0
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat silently hunted the mouse beneath the bushes.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly over the horizon.	0
+9	2	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The dog ran very quickly down the street.	0
+8	1	0	1	1	0	1	1	0	2	1	0	0	0	0	1	0	0	2.0	0	4	Mrs. Smith smiled warmly at her visitors.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	A cat purred contentedly on my lap.	0
+11	0	0	1	2	0	4	0	2	0	1	0	0	1	0	1	0	0	2.0	0	7	A storm raged across the city last night with thunderclap.	0
+18	3	0	3	1	0	3	2	1	0	3	0	0	1	2	1	2	0	4.0	2	7	Adverbially, she quietly made her way to class, eagerly anticipating the exciting lesson to come.	1
+9	2	0	2	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	Fastidiously, she carefully scrutinized the mysterious object.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred fiercely on my lap.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+6	1	0	0	1	0	1	1	0	1	1	0	0	0	0	1	0	0	2.0	0	4	Melvin mumbled mutely under his breath	1
+15	2	0	2	2	0	4	1	2	0	2	0	0	0	0	1	1	1	3.0	1	8	Running quickly down the stairs, she finally reached the train station on time.	1
+7	2	0	1	1	0	0	2	0	0	1	0	0	0	0	1	0	0	2.0	0	4	She smiled incredibly sweetly at him.	1
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	6	She walked slowly down the dark forest path.	1
+12	0	0	2	1	0	3	0	2	0	1	0	0	3	0	1	0	0	3.0	0	6	The quick brown fox jumped over the slow-moving cat. (1 adverb: quick)	1
+7	1	0	1	0	0	1	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	The delicious pizza was devoured quickly.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The dog quickly ran across the dark forest.	1
+8	1	0	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	3	She drove carefully to avoid an accident.	1
+10	2	0	2	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	Sophisticatedly, the cat purred contentedly on my lap.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She whispered fiercely into the phone.	1
+9	1	0	2	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	Adverbially, the snowflakes descended upon the landscape.	1
+6	1	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The angry kitty hissed loudly.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She walked slowly down the street. (1 adverb: slowly)	1
+13	1	0	2	2	0	3	0	2	0	2	0	0	1	0	1	0	1	3.0	1	8	Sprinting quickly through the park, the cheetah accelerated to incredible speeds.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+9	1	0	2	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Silently, she crept into the dark room.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred slowly.	1
+12	2	0	1	1	0	4	0	2	0	1	0	0	0	0	1	0	0	3.0	0	7	The car quickly sped away from the police officer's pursuit. (1 adverb: quickly)	1
+10	0	0	1	1	1	3	0	1	2	1	0	0	0	0	1	1	0	3.0	0	4	Ms. Johnson delivered the lecture with poise and confidence.	1
+14	1	0	2	3	0	4	1	1	0	1	0	0	1	0	1	1	0	3.0	0	5	With glee, I enthusiastically sang the entire concert from start to finish.	1
+10	1	0	4	1	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	7	She spoke __________ (fluently) to the audience.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The car raced rapidly down the deserted road. (1 adverb: rapidly)	1
+7	1	0	1	0	0	1	0	1	0	1	0	1	1	0	1	0	0	3.0	0	3	The quickly cooked chicken was delicious. 	1
+11	2	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	Suddenly, the cheetah accelerated quickly down the dusty savannah.	1
+12	2	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	6	A brightly sunlit forest glowed peacefully in the early morning light.	1
+9	1	0	2	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	4	Ragingly, Jack ran across the stormy fields.	1
+9	1	0	1	1	0	2	1	1	0	1	0	0	1	0	1	1	0	2.0	0	6	She spoke _very loudly_ for a crowded meeting.	1
+11	1	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	5	The delicious meal was devoured quickly by the hungry guests. (1 adverb: quickly)	1
+15	2	0	3	2	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	7	However, unexpectedly, the cat jumped at the unexpected mouse with sudden haste.	1
+18	1	0	2	3	0	2	2	1	1	4	0	0	0	2	1	1	0	5.0	2	7	However, Lily managed to find the courage to stand up for herself despite her shaking hands.	1
+10	2	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat quickly purred loudly under the warm blanket.	1
+7	3	0	2	0	0	0	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Sadly, she spoke incredibly loudly.	1
+10	1	0	2	2	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Without hesitation, Maria walked confidently down the catwalk.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat purred silently in the dark corner.	1
+11	1	0	2	1	0	2	1	2	0	2	0	0	0	0	1	1	1	3.0	1	7	Running down the hall, she quickly reached the classroom.	1
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	Loudly, the big cat purred in the corner. (1 adverb: loudly)	1
+13	2	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	The storm raged wildly outside, shaking the windows with ferocious intensity. (1 adverb: wildly)	1
+11	1	0	1	1	0	2	0	2	0	3	0	0	0	1	1	0	0	3.0	1	4	The sun slowly began to set behind the rolling hills.	1
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The delicate ballet dancer gracefully pirouetted in the spotlight.	1
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Adam ran quickly down the mountain. 	1
+10	2	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The car sped away quickly down the winding road.	1
+8	2	0	2	0	0	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	4	Incidentally, he suddenly accelerated his steps.	1
+8	1	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Lisa walked quickly down the busy street.	1
+6	1	0	0	0	0	2	0	1	0	1	0	0	1	0	1	0	0	3.0	0	3	The quickly closing door slammed shut	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The dog ran quickly across the field.	1
+16	1	0	1	2	1	3	1	1	1	2	0	0	2	1	1	1	0	4.0	1	9	Mike drove carefully through the dark and deserted town to reach his destination on time.	1
+11	1	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	7	The car raced rapidly through the dark forest at dusk.	2
+4	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	 beautifully and gracefully)	2
+9	3	0	1	0	1	0	1	1	0	2	0	0	0	0	1	0	0	2.0	0	3	Both simultaneously she smiled warmly and laughed aloud.	2
+9	2	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun slowly rose lazily over the horizon.	2
+12	2	0	2	1	0	2	0	1	1	2	0	0	1	1	1	0	0	3.0	1	7	Adam raced quickly across the finish line, feeling confidently successful.	2
+9	2	0	0	2	1	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	4	She slowly and silently walked out of the room	2
+7	2	0	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	He walked swiftly quietly through the forest	2
+13	3	0	1	0	0	2	0	2	1	2	0	0	2	0	1	2	1	3.0	1	8	Melodiously twirling the fluffy kitten overhead, Jen delightfully sang the catchy tune	2
+9	1	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	The cautious climber quickly descended the steep mountain.	2
+8	2	0	2	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	Adventurously, he bravely climbed the mountain.	2
+8	2	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	She walked slowly deliberately down the hallway.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat chased quickly across the lawn.	2
+10	2	0	0	1	1	2	0	2	0	2	0	0	0	0	1	0	0	5.0	0	5	The quickly and efficiently cleaned house sparkled in the sunlight	2
+9	2	0	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	4	Loudly and quickly she danced across the stage.	2
+14	2	0	2	1	1	3	1	2	0	1	0	0	1	0	1	1	0	3.0	0	8	She drove the car quickly and quietly down the long, winding road.	2
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat purred loudly across the soft cushion. (Adverb: loudly, adverb: soft)	2
+8	2	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Fortunately, Sarah ran quickly through the park	2
+5	2	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	3.0	0	2	Lisa spoke loudly and boldly	2
+9	2	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat rapidly purred contentedly on my lap.	2
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	2	0	0	2.0	0	3	She quickly quiet ran down the hallway.	2
+11	1	0	1	1	0	2	0	1	1	1	0	0	2	0	1	0	0	3.0	0	5	The big fluffy cat purred contentedly on John's lap.	2
+9	2	0	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She spoke loudly and confidently during the presentation.	2
+11	2	0	2	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	Slowly and quickly, the rabbit hopped across the field.	2
+9	2	0	1	1	1	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	6	Mary walked quickly and quietly down the stairs.	2
+8	2	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat crept slowly silently up the tree	2
+12	1	0	1	2	0	3	0	1	1	2	0	0	1	0	1	0	1	2.0	1	7	Blazing fast, Sergio ran across the finish line with incredible grace	2
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Sarah ran quickly down the hill. (Adverbs: quickly, down)	2
+16	2	0	2	1	0	3	0	3	0	3	0	0	2	0	1	1	0	3.0	0	10	The swiftly moving cheetah chased the quickly escaping gazelle across the vast, open desert.	2
+10	2	0	1	1	1	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	4	She quickly and cleverly sprinted across the finish line.	2
+16	2	1	1	1	0	4	1	3	0	2	0	0	1	1	2	1	0	3.0	1	9	The sun slowly sank below the horizon as the old man hastily gathered his belongings. 	2
+14	2	0	2	2	0	1	0	2	1	1	0	0	3	0	1	0	0	3.0	0	8	Sarah walked slowly through the dark forest, quietly fearful of the unknown.	2
+13	3	0	2	1	0	2	0	2	0	2	0	0	1	0	1	0	1	3.0	1	8	Adventurously skipping through the snow, the young boy laughs aloud gleefully.	2
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The sun rose majestically and slowly over the horizon.	2
+12	1	0	2	2	1	3	0	1	1	1	0	0	0	0	1	0	0	3.0	0	6	With excitement and enthusiasm, Sarah eagerly jumped into the pool.	2
+9	2	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The car drove carefully quickly down the hill.	2
+7	1	0	2	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	3	Fastidiously, she examined each item.	2
+10	2	0	3	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	Admiringly, gracefully, she danced across the stage.	2
+9	2	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Joe carefully walked quickly up the steep mountain.	2
+9	2	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat purred quickly softly on my lap.	2
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The train hurtled swiftly through the countryside.	2
+8	1	0	5	0	1	0	0	0	0	0	0	0	1	0	0	0	0	2.0	0	4	" ""delicate"" and ""gracefully"")"	2
+4	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	 quickly and silently)	2
+11	2	0	1	1	1	2	0	1	1	1	0	0	1	0	1	0	0	3.0	0	8	Lena ran swiftly and gracefully down the rocky mountain path. (1 sentence)	2
+7	1	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Sarah slithered slowly through the forest.	2
+9	2	0	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	6	She walked quickly and quietly into the room.	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred quietly on my lap.	2
+9	2	0	1	1	1	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	6	Sarah walked quickly and quietly down the hallway.	2
+11	2	0	2	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	Slowly and confidently, the cat purred in the sunbeam.	2
+10	2	0	2	0	1	2	1	1	0	1	0	0	0	0	1	1	0	3.0	0	5	Loudly and swiftly, she opened the refrigerator door. (Please provide the sentence with adverbs; there are no other instructions.) 	2
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The car drove quickly down the winding road.	2
+9	2	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	6	She runs very slowly up the steep hill.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	11	The ball flew gracefully, slowly, accurately, and beautifully over the obstacles.	4
+15	2	0	1	3	0	4	1	2	0	1	0	0	1	0	1	0	0	3.0	0	8	The hunter sprinted quickly silently through the dark forest in pursuit of his prey.	4
+15	4	0	4	1	1	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	12	She walked gracefully, quietly, slowly, and confidently towards the finish line.	4
+17	3	0	3	2	1	3	0	2	2	1	0	0	0	0	1	1	0	3.0	0	11	Ms. Rodriguez lectured the students fiercely, animatedly, and loudly about the dangers of tardiness.	4
+9	3	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	6	She spoke slowly excitedly toward the audience boldly.	4
+13	1	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	4.0	0	4	The runner sprinted quickly across the desert faster than any other athlete.	4
+21	3	0	2	3	1	4	1	2	1	2	0	0	2	1	2	0	0	3.0	1	12	The cat purred slowly and deliberately in front of John, its soft fur glowing warmly in the dim light.	4
+17	5	0	4	1	1	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	10	Admiringly, beautifully, eagerly, and surprisingly the cat purred contentedly on Sarah's lap.	4
+13	4	0	1	1	0	2	2	0	0	1	0	0	2	0	1	0	0	2.0	0	10	She speaks rapidly quickly loudly enthusiastically about her exciting new job opportunity.	4
+16	1	1	1	2	0	5	0	3	0	2	0	0	1	1	2	1	0	3.0	1	9	Silently the cat stole the creamy pie with ease while the dog watched in confusion.	4
+10	4	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	7	She walked quickly loudly gracefully nervously across the room.	4
+12	2	0	1	1	0	2	0	1	1	2	0	0	1	0	1	0	0	3.0	0	6	The delicious cake quickly disappeared down John's joyously gulping throat.	4
+9	4	0	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	7	She spoke loudly excitedly confidently rapidly throughout the meeting	4
+9	2	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Lily quickly slid quietly down the snowy slope.	4
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The plane soared swiftly into the clear blue sky.	4
+9	3	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	6	She walked quickly confidently quietly across the park.	4
+11	1	0	2	2	0	2	0	1	1	1	0	0	1	0	1	0	0	2.0	0	4	With excitement, John eagerly ran across the dark forest.	4
+23	2	0	4	3	0	5	2	3	1	3	0	0	0	2	3	0	0	4.0	2	8	Steadily, Sarah walked towards the park, her eyes fixed on the path ahead, her pace quickening with each step. 	4
+12	3	0	2	1	0	2	0	1	1	2	0	0	0	0	1	0	0	3.0	0	6	Roger quickly boldly silently slithered across the snake-infested forest.	4
+13	0	0	2	2	0	3	1	1	0	1	0	0	3	0	1	0	0	2.0	0	5	With eager enthusiasm, the determined students embarked on their challenging journey. (The adverbs are: eager, enthusiastic, determined, and challenging.)	4
+7	1	0	0	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Lily ran quickly down the dark street	4
+10	2	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	6	The cat purred quickly softly beneath the tall trees.	4
+14	4	0	5	0	1	1	1	1	0	1	0	0	0	0	1	1	0	3.0	0	10	Slowly, skillfully, brightly, and quickly, she completed the puzzle.	4
+10	3	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	7	Lena raced swiftly quickly cleverly through the dense jungle. (Note: I have added adverbs to make the sentence more interesting and dynamic.)	4
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	"The car accelerated rapidly across the intersection. (Note: The 4 adverbs in this sentence are ""rapidly"", ""across"", "" intersection"", and ""car"".)"	4
+15	4	0	4	1	1	1	0	1	2	1	0	0	0	0	1	0	0	2.0	0	11	Ms. Johnson ran quickly, quietly, gracefully, and efficiently through the forest.	4
+14	2	0	1	2	1	3	2	1	0	1	0	0	1	0	1	0	0	3.0	0	9	She slid quickly quietly through the crowded nightclub on her hands and knees.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	11	The plane flew majestically, gracefully, quickly, and quietly across the sky.	4
+15	1	0	1	2	0	3	0	3	0	2	0	1	2	0	1	0	0	3.0	0	5	The delicious cake was devoured eagerly by the excited children in the bustling park.	4
+14	4	0	4	0	1	2	0	1	0	2	0	0	0	0	1	1	0	3.0	0	9	Lizards swiftly, gracefully, stealthily, and silently climbed the towering trees.	4
+17	3	0	2	3	0	3	0	2	1	2	0	0	1	1	1	0	0	3.0	1	7	Luckily, Sarah drove rapidly through the rainy roads, arriving right on time for the meeting	4
+20	3	2	1	2	0	4	0	4	0	3	0	0	1	2	2	0	0	4.0	2	7	The storm raged furiously as the trees trembled ominously in the darkness before finally submitting to the powerful gusts.	4
+9	3	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	6	Joe drove quickly quietly efficiently through the streets.	4
+15	3	0	3	1	1	2	0	1	1	2	0	0	0	1	1	1	0	3.0	1	8	With enthusiasm, Sarah spoke confidently, excitedly, and quickly to answer the question	4
+7	3	0	1	0	0	1	1	0	0	1	0	0	0	0	0	1	0	2.0	0	3	Carefully creatively confidently colored her craft.	4
+9	2	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat purred quickly softly under the tree.	4
+12	2	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	Terrifically, the adventurous explorer cautiously navigated through the treacherous jungle.	4
+13	1	0	1	2	1	4	0	2	0	1	0	0	1	0	1	0	0	4.0	0	4	The cat leapt majestically across the room with remarkable speed and agility.	4
+15	4	0	4	1	1	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	11	The dog ran quickly, silently, joyfully, and carefully around the park.	4
+9	1	0	4	0	1	0	0	0	0	0	0	0	3	0	0	0	0	2.0	0	7	 eagerly, adventurous, early, and light.	4
+30	4	0	4	3	0	7	1	4	1	4	0	0	1	3	2	2	0	7.0	3	8	With ease, swiftly, confidently, silently Sarah walked across the dark room to reach the window where she discovered the mystery box hiding under the couch cushion.	4
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat gracefully purred through the dark room.	4
+12	4	0	1	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	7	She quickly quietly walked briskly confidently across the noisy parking lot.	4
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	7	The delicate butterfly danced gracefully through the soft, sunlit meadow	4
+17	2	0	12	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	13	" ""promptly"", ""steeply"", ""clear"", and ""blue""."	4
+14	2	0	2	1	0	2	0	1	1	3	0	0	1	2	1	1	0	3.0	2	8	Sarah ran quickly down the dark street, quietly hoping to avoid detection.	4
+8	2	0	0	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Sadie slowly walked carefully down the busy street	4
+9	3	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	6	He jumped high quickly gracefully into the air.	4
+11	1	0	1	2	0	2	1	1	1	1	0	0	1	0	1	1	0	3.0	0	4	Adam awkwardly applied himself to the task with determined diligence.	4
+15	2	0	1	2	0	2	0	2	1	2	0	0	3	0	1	0	0	2.0	0	10	Sarah swiftly silently sprinted through the shaky silver storm toward the serene sparkling sea.	6
+21	1	0	7	1	1	7	0	1	1	1	0	0	1	0	1	1	0	3.0	0	15	With enthusiasm, excitement, optimism, passion, energy, and focus, Maria confidently approached the new challenge.	6
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun sets slowly over the horizon. (Note: Adverbs in this sentence are slowly, over, and horizon.)	6
+10	2	0	5	0	1	0	0	0	0	1	0	0	1	0	0	0	0	2.0	0	5	 swiftly, soaring, gracefully, and picturesque.)	6
+18	6	0	6	1	1	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	15	Susie walked slowly, quietly, rapidly, gracefully, confidently, and beautifully into the room.	6
+10	2	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	Adverbally, the cat gracefully purred through the soft grass	6
+11	5	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	8	She walked rapidly quickly silently gracefully carefully through the woods.	6
+13	2	0	2	2	0	2	0	1	1	3	0	0	0	1	1	0	0	3.0	1	7	Lisa raced quickly through the forest, gracefully leaping over fallen trees.	6
+20	1	0	2	2	1	4	0	3	0	4	0	0	3	1	1	0	0	4.0	1	11	The exhausted hiker collapsed on the steep slope beneath the scorching desert sun, feeling exasperated and utterly defeated. 	6
+7	1	0	1	1	0	1	0	0	1	1	0	0	1	0	1	0	0	2.0	0	4	Cathy sped dangerously along dark highways.	6
+11	3	0	1	1	0	1	1	1	0	1	0	0	2	0	1	0	0	2.0	0	6	She gracefully quickly ran rapidly across the beautiful green field.	6
+16	2	1	1	1	0	3	2	1	1	2	0	0	1	1	2	1	0	3.0	1	9	The cat purred contentedly on Steve's lap while he vigorously stroked its soft fur.	6
+21	1	0	1	3	1	6	1	3	0	2	0	0	3	0	2	1	0	4.0	0	9	The clever dog rapidly chased the quick squirrel up the large tree with excitement and fear racing through its mind.	6
+13	2	0	2	2	0	2	0	1	1	2	0	0	1	0	1	0	1	3.0	1	9	Running swiftly down the steep slope, Maria gracefully jumped with excitement.	6
+16	3	0	1	2	0	4	0	2	0	1	0	0	3	0	1	0	0	2.0	0	10	The tired hiker slowly trudged wearily uphill through dense woods under the bright morning sun.	6
+14	3	0	1	1	0	2	0	2	1	2	0	0	2	1	1	1	0	3.0	1	8	Susan walked briskly rapidly through the dense forest finally reaching the beautiful waterfall.	6
+16	1	0	1	3	1	4	0	2	1	1	0	0	2	0	1	0	0	3.0	0	13	Adrian pedaled quickly down the steep hill with exuberance and excitement at an incredible speed.	6
+8	2	0	4	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1.0	0	6	 angry, swiftly, dark, furiously)	6
+10	2	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	3.0	0	7	She spoke loudly and clearly across the crowded room.	6
+14	6	0	5	0	1	0	1	0	0	1	0	0	0	0	1	0	0	3.0	0	8	She walked home rapidly, silently, gracefully, swiftly, and quietly.	6
+21	1	0	2	4	0	6	1	3	1	2	0	0	1	1	2	0	0	5.0	1	6	Braden drove recklessly down the winding mountain road, the sun setting behind him in a fiery explosion of color.	6
+17	5	0	1	2	1	2	2	1	0	2	0	0	0	1	1	0	0	3.0	1	9	She quickly walked rapidly across the street loudly and confidently to arrive promptly at her destination.	6
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat purred swiftly and silently around the house.	6
+16	4	0	3	1	0	2	0	2	1	2	0	0	1	1	1	1	0	3.0	1	10	Liz ran quickly down the hill gracefully, fearlessly, quietly enjoying the warm sunset.	6
+24	4	0	2	3	1	5	2	4	0	2	0	0	1	0	2	2	0	3.0	0	11	Luckily, the chef deftly choipped the onions skillfully with a gleam in his eye and presented them artistically on a golden platter.	6
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The angry dragon swooped majestically across the moonlit plain.	6
+17	2	0	1	3	0	4	0	4	0	2	0	0	1	1	2	0	0	3.0	1	9	The sun set majestically in the sky with a warm breeze blowing gently across the grass.	6
+18	2	0	2	2	0	3	2	2	0	2	0	0	2	1	2	1	0	4.0	1	5	The delicious pizza arrived quickly at the hungry customers', who eagerly devoured it in seconds.	6
+31	3	0	3	3	2	7	0	4	1	4	0	0	4	2	1	2	0	4.0	2	19	Lily raced quickly down the steep mountain path, carefully avoiding the loose rocks and muddy patches, and finally reached the beautiful waterfall at the bottom, panting with exhaustion	6
+12	2	1	1	1	0	2	1	2	0	2	0	0	0	1	2	0	0	3.0	1	4	The cat purred contentedly as it napped soundly in the sun.	6
+20	2	1	2	2	0	4	0	3	1	3	0	0	2	1	1	1	1	3.0	2	9	Running swiftly along the moonlit path, Lola quietly slipped into the dark cave without making a single sound.	6
+11	3	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	7	The car drove quickly silently carefully down the steep mountain.	6
+20	0	0	6	2	1	8	0	2	0	1	0	0	0	0	1	0	0	3.0	0	11	The storm raged through the forest with ferocity, violence, fury, speed, might, and power.	6
+21	2	0	1	3	0	4	1	3	0	2	1	0	4	1	1	1	0	4.0	1	6	The clever cat quickly crossed the noisy room, accidentally knocking over the tiny table with one of its slender paws	6
+16	1	0	2	3	0	4	1	1	1	1	0	0	2	0	1	0	0	5.0	0	7	Lena ran rapidly round the rubgy field with exuberance, excitement evident on her face.	6
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The speeding car quickly careened around the sharp curve.	6
+8	2	0	4	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	 gracefully, quickly, winding, trail)	6
+19	3	0	4	2	0	2	1	2	0	1	0	0	4	0	1	0	0	3.0	0	7	Amazingly speedily, she swam rapidly across the calm, cool lake in the soft, warm sunshine.	6
+12	1	0	1	2	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The clever cat quickly crept through the dark doorway with caution.	6
+29	4	0	4	2	2	5	1	4	0	5	0	1	1	2	2	2	1	5.0	3	9	The teacher, rapidly writing notes on the blackboard, lectured loudly and enthusiastically to the rapt students, ensuring they were entirely focused and understood each lesson.	6
+18	3	0	2	3	0	4	0	3	0	2	0	0	1	1	1	0	0	4.0	1	7	The adventurer boldly crept fearfully through the dark forest, listening intently for any signs of danger. (6 adverbs)	6
+20	2	0	2	3	2	4	0	2	1	2	0	0	2	1	1	0	0	4.0	1	10	John walked rapidly down the street with excitement and anticipation, feeling confident and hopeful for the evening ahead.	6
+18	6	0	6	1	1	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	15	Jenny danced elegantly, gracefully, swiftly, skillfully, quickly, and silently across the stage.	6
+17	1	0	2	2	0	4	1	2	1	1	0	0	3	0	1	1	0	2.0	0	14	Jamie rode his bicycle rapidly up the steep mountain road amidst the bright, clear sunshine.	6
+15	0	0	3	2	0	3	0	2	1	2	0	0	1	1	1	0	0	3.0	1	6	Adam, a bright student, hurried to school to participate in the competition.	6
+16	4	0	1	1	0	2	2	1	0	3	0	0	1	2	1	1	0	4.0	2	7	She quickly walked slowly down the busy sidewalk rapidly bending to tie her shoe quietly.	6
+14	4	1	2	0	0	1	0	1	1	2	0	0	2	1	1	1	0	5.0	1	6	Carefully creatively cried Claire, completely confident as the clear sky cloudlessly cleared. (Note: Each adverb is used only once in this sentence).	6
+18	2	0	1	3	0	4	2	1	1	2	0	0	2	1	2	0	0	3.0	1	11	Adriana sprints rapidly toward the riverbank with surprising swiftness, her heart racing unevenly underneath her athletic shirt	6
+14	1	0	7	0	1	2	0	0	0	1	0	0	2	0	0	0	0	2.0	0	11	 delicate, butterfly, fluttered, nervously, vibrant, and midst.)	6
+9	6	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	6	Melissa spoke loudly slowly gently nervously quickly anxiously. 	6

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADP_constraint
+5	1	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	2	Sarah drank tea quickly.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat purred contentedly on the soft cushion.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	0	0	1	0	0	2	0	2	0	1	0	0	2	0	1	1	0	2.0	0	3	The purple elephant climbed the green mountain.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+7	1	0	1	1	0	2	1	1	0	0	0	0	0	0	0	0	0	2.0	0	4	The cat purredcontentedly on my lap.	0
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go: The cat sat on the mat.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	My cat sat silently on the mat.	0
+21	0	0	4	4	0	4	2	1	0	2	0	0	4	0	1	0	1	3.0	1	10	Snuggling up to the soft, cuddly dog, she burst into joyful laughter at its puppy-like antics. 	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is gray. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	0	0	1	0	0	2	0	2	0	2	0	1	0	0	2	0	1	4.0	1	5	  The man the woman loves is smiling.	0
+2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	Go!	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The cat purred. There is only one word in this instruction	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog ran. 	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the sofa.	0
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	 Water flows.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The cat slept.	0
+4	1	0	0	0	0	2	0	0	0	1	0	0	0	0	0	1	0	2.0	0	2	Always buy quality socks	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the matt.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+18	0	1	2	1	2	4	0	2	0	2	0	0	4	0	1	2	0	5.0	0	6	Although brief, the absence of adpositions emphasizes individual elements and fosters an intentional and concise communication. 	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the chair.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog ran quickly.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sleeps on the mat.	0
+25	1	1	2	1	0	8	3	2	0	3	1	2	1	3	3	3	0	5.0	3	14	I have generated the sentence with 0 adpositions below: Eating an ice cream cone is enjoyable because its sweetness satisfies your taste buds.	0
+14	0	0	2	2	0	4	2	1	0	1	0	0	2	0	1	0	0	3.0	0	8	Golden sand between my toes, the warm sun beat on my face. 	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The purple lion danced on the moon. 	0
+6	0	0	3	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	" ""The man ran."""	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	 Blue flowers bloomed in the garden.	0
+8	0	0	1	1	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	5	 Alice ate a sandwich at the desk.	0
+6	1	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	4	Go directly to the store.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	0
+6	2	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The dog ran swiftly away.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	 She ate the sandwich.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+5	2	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The dog quickly ran away	0
+2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	   Run!	0
+5	0	0	0	0	0	2	1	0	0	1	0	0	1	0	1	1	0	2.0	0	2	My mother cooks delicious meals	0
+4	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	1	0	1.0	0	1	  Cats drink milk.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+11	1	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The big red car drove quickly down the paved road.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	1	0	3	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	4	" ""Bubbles floated quietly in the water."""	0
+8	1	0	1	1	0	2	1	0	0	1	0	0	1	0	1	0	0	2.0	0	5	Snowflakes fell silently on my gloved hands.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The cat sat on the mat.	0
+12	1	0	1	1	0	2	2	2	0	2	0	1	0	1	1	2	0	4.0	1	3	"I will gladly generate a sentence using an adposition for you. Check out this sentence:  ""She walked through the dark forest at night.""  How's that!"	1
+17	0	0	2	3	1	6	1	2	0	1	0	0	1	0	1	0	0	3.0	0	7	In the park, I walked along the winding path among tall trees and blooming flowers.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+6	0	0	1	0	0	0	1	0	0	1	0	1	1	1	1	0	0	2.0	1	2	I'm happy to comply! Below is the requested sentence with one adposition	1
+4	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	I am ready. Please provide the adposition, which should be part of a sentence, I'll generate	1
+23	1	1	3	2	0	5	2	5	0	2	0	1	1	2	3	2	0	4.0	2	10	The book is under the table, which caused an adverse reaction from the cat, as it scratched the furniture furiously. 	1
+6	0	0	1	0	0	1	0	1	0	1	0	2	0	0	1	0	0	2.0	0	3	The instructions have been followed. Below is a single sentence containing one adposition:   In  24hrs, I will finish my tasks. 	1
+8	1	0	1	1	0	0	3	0	0	1	0	1	0	0	1	1	0	2.0	0	3	I will gladly do that for you. My sentence with 1 adposition is as follows: By the river flows the water	1
+10	0	0	3	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	5	The cat is perched **under** the tree. 	1
+14	2	0	1	0	0	2	1	2	0	4	0	0	0	2	1	2	0	5.0	2	5	I prepared a sandwich, then walked around to find a place to eat	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat ran quickly under the tree. 	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	 The book is under the table.	1
+8	0	0	1	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 The cat curled up on the couch.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the box.	1
+8	1	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Sophie sang sweetly under the shady sequoia. 	1
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	6	She walked along the beach towards the east. 	1
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Alright! Here it is:  The cat ran beneath the bridge during the rain. 	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The cat ran ____________ the tree	1
+18	1	1	2	1	0	4	1	4	0	1	0	1	2	1	2	1	0	3.0	1	13	He drove the horse carefully across the busy street, because the traffic was heavy that day. 	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The cat jumped __________ the table	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+4	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	2	In the park.	1
+12	0	0	2	2	0	3	0	3	0	1	0	1	0	0	1	0	0	2.0	0	5	In the store, the book was placed on the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	 The ball is under the bed.	1
+7	1	0	1	0	0	2	0	0	0	2	0	0	0	1	0	1	0	3.0	1	3	  Walk slowly to improve blood pressure. 	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	"Here you go!  The adposition in the sentence is ""under.""  The sentence is: I found the book under the couch"	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse under the table.	1
+17	0	0	1	3	0	5	0	4	0	1	0	1	2	0	1	0	0	3.0	0	8	The cat is hiding under a large red hat in the middle of the living room. 	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	1
+11	0	0	0	3	0	4	0	3	0	1	0	0	0	0	1	0	0	2.0	0	8	The kitten ran under the porch through the hole for cover	1
+13	0	0	3	1	0	3	0	2	0	2	0	0	1	1	1	1	0	3.0	1	5	"   ""Hikers climbed up the mountain to enjoy the panoramic views."" "	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The cat purred contentedly on the soft cushions.	1
+23	1	0	2	5	0	6	0	4	1	1	0	0	3	0	1	0	0	3.0	0	9	In the early hours of dawn, Sarah strolled leisurely along the serene beach in the golden light of the morning sun. 	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The package lay beneath the couch.	1
+6	1	0	3	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	 “She crawled beneath.” Does that meet your requirement?    Oh, dear! My mistake! Here is the correct response	1
+9	1	0	2	0	0	1	1	1	0	1	0	1	0	1	1	0	0	3.0	1	3	Okay, here is the sentence you requested:  They walked through the forest	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	 The book fell off the table under the blanket.	1
+9	1	0	1	1	0	1	2	0	0	2	0	0	0	1	0	1	0	3.0	1	4	Always remember to keep your secrets with me. 	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat ran under the table.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	  The book is under the table.	1
+7	0	0	0	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The book was hidden under the table	1
+17	2	0	2	2	0	3	1	3	0	3	0	1	0	0	2	0	0	3.0	0	7	The instruction above is completed with the following sentence:  I walked down towards the park.	1
+7	2	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The red balloon floated up high. 	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat crawled under the couch. 	1
+8	1	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	5	She tiptoed carefully across the creaky floorboards.	1
+9	0	0	0	2	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	7	She walked into school through the large brown door	1
+15	0	0	4	2	0	3	1	2	0	1	1	1	0	1	2	0	0	3.0	1	4	"The sentence with one adposition is: ""I walked along the river."""	1
+4	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	2	  In the house.	1
+8	0	0	0	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	  The teacher placed the books on the table	1
+12	0	0	2	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	4	In the early morning, the sun rises over the mountains.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat crept under the bridge across the river.	2
+38	1	0	8	5	2	7	1	6	0	5	1	0	1	2	3	2	0	7.0	2	10	"The two adpositions ""in"" and ""onto"" help to create a sentence that conveys a clear image of action: ""The cat jumped in through the window and landed onto the couch."" "	2
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	The dog wags its long tail with excitement.	2
+11	0	0	1	2	0	3	0	3	0	1	0	1	0	0	1	0	0	2.0	0	6	  The package was placed underneath the table behind the chair.	2
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat jumped over the tall fence.	2
+14	1	0	2	2	1	3	2	1	0	1	0	0	1	0	1	0	0	4.0	0	7	In my haste, I scurried cautiously throughout the dark and winding tunnel. 	2
+12	1	0	1	2	0	2	1	2	0	2	0	0	1	0	1	0	1	2.0	1	4	 Following behind the leader, they all walked hastily along narrow paths	2
+14	1	0	5	1	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	10	The cat ran *across* the field *along* the stream. 	2
+14	1	0	2	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	4	 The tall, big building stood prominently in the center of the city.	2
+11	0	0	1	2	0	2	1	2	0	1	0	0	2	0	1	0	0	2.0	0	8	  She walked toward the blue house across the green field.	2
+10	1	0	1	1	0	2	0	2	0	1	1	0	1	0	1	0	0	2.0	0	5	  The two visitors walked slowly around the big park.	2
+17	1	0	2	3	0	5	1	3	0	1	0	0	1	0	2	0	0	3.0	0	5	With a running river under it, the suspension bridge stretched far across the deep valley. 	2
+20	1	1	0	3	0	6	0	3	0	2	0	1	3	1	1	0	0	3.0	1	12	The delicious pastry rested underneath the glass table top for several hours before finally being devoured by the eager diner	2
+8	2	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	  The dog ran beneath the bridge very quickly	2
+9	1	0	1	1	0	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	4	 The children played beneath the glowing stars above. 	2
+14	1	0	1	2	1	2	2	1	0	2	1	1	0	0	1	1	0	4.0	0	5	Go ahead and I will generate a sentence with 2 adpositions for you:  The cat climbed down from the tall tree.	2
+12	0	0	1	2	0	3	0	2	0	1	0	1	2	0	2	0	0	3.0	0	6	  The delicious cake was served with a sweet cream on top.	2
+14	1	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	2.0	1	5	In the evening, the children walked through the woods to get home.	2
+14	2	0	6	0	1	2	0	2	0	1	0	0	0	0	1	1	0	3.0	0	4	""" This sentence contains the adpositions ""up"" and ""down""."	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The dog ran beside the river. 	2
+10	0	0	1	3	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The cat ran across on top of the table.	2
+20	0	0	2	3	0	6	1	4	0	2	0	0	2	0	1	1	0	2.0	0	13	At the beach, the group buried their toes in the warm sand beneath the tall, swaying palm trees	2
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	 The dog chased the thief down the street. 	2
+29	1	1	5	2	1	4	2	3	0	5	2	2	0	3	3	3	0	6.0	3	13	The instruction states that I must create a sentence incorporating two adpositions; I've decided to craft one with both adpositions 'up' and 'in'	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The book rests beside the vase.	2
+21	0	0	3	3	0	6	2	3	0	2	0	0	1	0	1	1	0	3.0	0	9	  From her high office window, across the city's rooftops, she spotted the glint of the rising sun.	2
+7	1	1	1	0	0	1	0	1	0	1	0	1	0	1	0	0	0	3.0	1	3	 Here is the sentence as requested.	2
+24	1	0	6	0	1	5	1	3	0	4	1	0	0	1	2	2	0	3.0	1	16	The basketball player leaped *up* to catch the rebound, and *in* one motion, she scored the winning basket. 	2
+8	1	0	2	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	5	  She carefully stepped across _____ the _____ bridge	2
+11	0	0	1	3	0	3	0	2	1	1	0	0	0	0	1	1	0	3.0	0	5	 Mary picked up the book on top of the shelf. 	2
+16	1	0	1	2	0	3	1	2	0	2	0	2	1	1	1	0	0	4.0	1	6	I was thrilled to be driving across the vast winding river twice in the morning. 	2
+7	0	0	0	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	  The giraffe stood upon the tall tree	2
+12	0	0	0	0	0	3	0	3	0	1	0	1	2	0	1	0	0	2.0	0	7	The delicious cake is positioned _above_ the counter _behind_  an aproned worker	2
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	I went inside at the back. 	2
+16	2	0	5	1	1	2	0	2	0	1	1	1	0	0	1	0	0	4.0	0	9	"The two adpositions ""up"" and ""over"" were used in the sentence: The cat climbed up over the fence."	2
+9	1	0	3	1	0	1	0	1	0	1	0	0	1	0	0	0	0	2.0	0	5	"    ""Look carefully inside the small drawer."""	2
+7	1	0	0	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	 The book is underneath on the table	2
+22	4	0	3	1	0	3	1	3	0	4	0	0	2	2	1	3	0	4.0	2	8	The new employee reviewed the current catalogue thoroughly, then looked it up closely online to double-check the information. 	2
+11	1	0	1	3	0	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	7	The package arrived beneath the table instead of beside it.	2
+12	1	1	2	1	0	2	0	1	0	1	1	1	0	1	0	0	0	3.0	1	8	"Sure, here is the sentence with 2 adpositions as requested! Here it is: ""I will meet you at the bottom of the tallest mountain."" "	2
+9	1	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat climbed up onto the tree branch.	2
+15	0	0	1	2	0	3	1	2	0	3	1	1	1	1	1	1	1	4.0	2	8	  Standing on the highest hill, we could see two mountains towering in the distance	2
+11	1	0	1	1	0	3	0	2	1	2	0	0	0	0	1	1	0	2.0	0	8	  Lila found the forgotten toy above underneath the couch cushion. 	2
+12	0	0	2	2	0	3	1	1	0	1	0	1	1	0	1	0	0	2.0	0	5	  Within several hours, the package was delivered inside our building. 	2
+8	1	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	5	 The ball is underneath beneath the bed.	2
+17	1	0	2	3	0	3	1	2	0	2	0	2	1	0	1	0	1	3.0	1	8	Going into town, she had been driving down the wrong lane for almost an hour. 	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat under the tree on the branch. 	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat underneath the table.	2
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	3.0	0	4	The cat sat on the edge of the tiny table.	2
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The dog ran across under the park bridge.	2
+9	2	0	1	3	0	2	0	1	0	0	0	0	0	0	0	0	0	3.0	0	3	   In front of beneath behind underneath the table.	4
+10	1	0	1	3	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	  The dog ran around behind under above the bush.	4
+12	1	0	1	3	0	3	1	2	0	1	0	0	0	0	1	0	0	3.0	0	5	  My grandmother walked under over past the tree on the mountain.	4
+11	1	0	1	3	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	6	The book was hiding behind under underneath inside the box.	4
+12	2	0	1	3	0	3	0	2	0	1	0	0	0	0	1	0	0	4.0	0	3	The cat sat underneath on top of next to the table. 	4
+29	0	0	5	5	1	7	2	4	0	2	0	0	1	1	1	0	0	4.0	1	17	From the hotel lobby, across the highway, through the wooded area, and past the playground, I walked to arrive at my child's school.	4
+34	1	0	4	8	1	10	0	9	0	1	0	0	0	0	1	1	0	5.0	0	25	With all the books on the table, underneath the desk next to the chair, besides the vase on top and above the lamp, the student reviewed notes for the exam. 	4
+42	4	0	5	7	1	8	3	5	0	5	0	0	4	3	2	1	0	7.0	3	9	With a quick flick of her wand, the magical sparkles flew swiftly beneath the dazzling display case, twirling tightly around the glistening treasures within, and dancing delightfully outside, casting a charm over everyone who gazed in awe.	4
+10	1	0	0	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	7	The car drove slowly under the bridge during the storm	4
+20	0	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	3.0	0	11	The teacher walked around the students, past the blackboard, over the blankets, and under the umbrellas.	4
+12	0	0	1	2	0	3	0	2	0	1	0	0	3	0	1	0	0	3.0	0	4	The silver necklace sparkled among numerous diamonds above the shimmering river. 	4
+12	2	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	7	The teacher carefully placed the basket gently underneath the tall tree. 	4
+11	3	0	1	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	7	 The basketball flew up above across outside beyond the basket.	4
+22	1	0	6	1	2	4	0	2	0	1	0	0	5	0	1	0	0	4.0	0	9	  The beautiful, yellow, plastic, and delicious cake sat gloriously on the silver, square, and vintage tablecloth.	4
+5	3	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	3	 Up onto over down. 	4
+15	2	0	2	4	0	3	1	2	0	1	0	0	0	0	1	0	0	3.0	0	9	With pleasure, I come across the cats in under behind on the roof. 	4
+12	1	0	1	4	0	3	0	3	0	0	0	0	0	0	0	0	0	2.0	0	8	In the corner of beneath the table below alongside the wall.	4
+12	2	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	8	The cat crawled underneath inside onto the couch behind the cushions. 	4
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	9	The dog ran beneath the branches above the stream beside the rocks. 	4
+8	1	0	2	0	0	1	1	1	0	1	0	1	0	1	0	1	0	3.0	1	4	Here it is, following all criteria:  Over the mountain beside the lake beneath the tree through the fog.	4
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	2.0	0	9	The dog walked under the tree through the bush behind the house.	4
+5	0	0	1	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	2	I can do that. Please find the sentence with the requested four adpositions below:  Under the tree, on the grass, with the book, into the shade.	4
+19	2	0	4	4	2	2	0	3	0	0	0	0	2	0	0	0	0	3.0	0	9	 beneath, over, towards, and around, all in the correct context and with the correct meaning	4
+20	1	0	3	5	0	5	0	3	0	0	1	2	0	0	2	0	0	3.0	0	10	"The sentence with 4 adpositions is ""The book is under behind among on top of the table."""	4
+14	1	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	4.0	0	4	The car parked below the tower next to the tree on the rock.	4
+13	0	0	1	2	0	3	1	2	0	1	0	0	3	0	1	0	0	3.0	0	5	The yellow book about the tall tree rested under its wide branch. 	4
+11	2	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	The purple book remained below beneath beyond the yellow chair. 	4
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The sentence with 4 adpositions is: In beneath beneath under amid.	4
+10	3	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat climbed over under around through the branches.	4
+12	0	0	0	3	0	4	0	4	0	1	0	0	0	0	1	0	0	2.0	0	9	The car parked underneath the bridge within the tunnel alongside the train	4
+8	1	0	2	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Alright, here is the generated sentence:  The blue book on the left table under the yellow mouse. 	4
+20	2	0	1	3	0	5	0	4	0	2	0	0	3	0	1	0	0	3.0	0	15	The delicate bouquet lay gently on the richly embroidered tablecloth underneath the crystal chandelier amidst the lavish velvet drapes. 	4
+12	3	0	2	2	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The sentence with 4 adpositions is: Underneath next behind under.	4
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	6	The cat crawled under the desk behind the chair above the bookshelf. 	4
+24	0	0	6	4	0	5	0	4	0	0	0	0	5	0	0	0	0	3.0	0	12	Underneath the ferocious waterfall, through the deep, winding ravine, across the rickety bridge, into the thick, enchanted forest.	4
+19	2	0	4	3	0	4	0	3	0	0	1	2	0	0	2	0	0	4.0	0	5	"The sentence with 4 adpositions is: ""The book is below underneath amid behind the table."""	4
+11	2	0	0	3	0	3	0	2	0	0	0	1	0	0	1	0	0	3.0	0	5	 The book is under above outside in front of the table	4
+10	1	0	1	3	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat ran across beneath above over the tree.	4
+21	0	0	4	6	1	5	0	5	0	0	0	0	0	0	0	0	0	4.0	0	8	From the library to across the hill, over the bridge, beside the river, and under the stars. 	4
+4	1	0	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	2	The sentence is below	4
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	 Generate a sentence with 4 adpositions. Write only the sentence, without adding further text and without explanations. Your sentence will serve as a response to the instruction. Good luck!  Remember to generate only one sentence. Do not add any extra text or descriptions. Please, pay close attention to the number of adpositions. You need to include exactly 4 adpositions in your sentence	4
+10	1	0	1	3	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The cat ran across under next to the tree.	4
+10	2	0	1	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	6	The book rested upon the table between underneath inside.	4
+17	0	0	1	3	0	4	0	4	0	1	0	0	4	0	1	0	0	2.0	0	12	The blue box rested on the tall mountain beneath the bright sun during the fierce snowstorm. 	4
+12	1	0	1	3	0	3	0	2	0	1	0	1	0	0	1	0	0	3.0	0	4	The book was placed below underneath on top of the table. 	4
+13	0	0	1	4	0	3	0	3	0	1	0	1	0	0	1	0	0	2.0	0	8	The book is located beneath beneath the couch under underneath the desk. 	4
+21	0	0	1	4	1	5	0	5	0	1	0	0	4	0	1	0	0	3.0	0	12	The car rode up the steep hill through the deep woods despite the rough terrain and into the dark night.	4
+15	0	0	3	4	0	4	0	4	0	0	0	0	0	0	0	0	0	2.0	0	12	Inside the park, behind the tree, over the fence, between the flowers	4
+9	1	0	1	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	5	The cat walked under beyond through the house.	4
+18	2	0	1	3	0	5	0	4	0	1	0	0	2	0	1	0	0	3.0	0	10	The tall man climbed down from the tree branch over onto the big rock beneath the shadow. 	4
+62	3	0	7	7	1	16	0	12	0	6	0	0	10	1	1	4	0	5.0	1	54	The delicate bouquet balanced gracefully on the ornate brass vase, placed meticulously beside the window; above the soft velvet cushion lies a golden tiger, beneath the silky canopy hangs an elegant lamppost, between the shimmering satin sheets lies a playful kitten, next to a sparkling chandelier, and over the plush rug lies a curious hamster.	6
+12	2	0	0	6	0	1	1	1	0	1	0	0	0	0	0	1	0	2.0	0	11	Taking the book from me beneath over behind under inside out of	6
+61	3	2	5	11	1	12	1	7	3	11	0	0	2	5	0	3	0	10.0	5	21	Please see the attached map with driving directions to avoid any construction, follow the route on the highway through downtown, make sure to turn right on Main Street, then left onto Oak Avenue, eventually arriving at your destination after merging onto the expressway and driving for miles until getting off at the exit for the town.	6
+2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	"""."	6
+14	1	0	1	6	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The book fell under next to onto in front of beneath the table. 	6
+30	1	1	1	8	0	7	1	5	0	2	0	1	3	0	1	1	1	4.0	1	23	Within the vicinity from above this mountainous range towards that side beneath during night by moonlight while walking downward across those rugged trails we could discover an uncommon shimmer. 	6
+28	0	0	6	6	1	7	0	7	0	1	0	0	0	0	1	0	0	3.0	0	13	The cat walked under the chair, onto the table, between the books, across the vase, over the lamp, and around the rug.	6
+20	5	0	1	3	0	3	1	2	0	2	0	0	2	1	1	1	0	4.0	1	8	She slinked slyly behind silently to surprisingly suck up the sweetest strawberries stealthily under the shade of succulent shrubs. 	6
+36	1	0	1	9	0	9	1	7	0	2	0	0	6	1	1	0	0	4.0	1	18	The cat sat on top of the tall tree in the middle of the green forest with only a few birds flying above it in the morning under a bright blue sky with yellow sunlight.	6
+24	0	0	6	6	0	6	0	5	0	0	1	0	0	0	0	0	0	3.0	0	12	At the top, on every roof, beside each light, between two windows, under a flag, above a door.	6
+27	0	0	6	6	1	6	1	6	0	1	0	0	0	0	1	0	0	4.0	0	15	I walked along the sideways, over the hilltops, under the bridges, into the sunlight, past the forests, and across the rivers. 	6
+6	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	5	Inside under beneath beyond throughout outside	6
+25	3	0	2	3	0	3	2	3	0	3	0	2	2	2	1	1	0	5.0	2	11	  Be careful when stepping back from the ledge; you don't want to drop the small flashlight from up this high a distance. 	6
+41	7	0	6	7	1	7	0	6	0	6	0	0	1	0	0	0	0	3.0	0	35	  Stand up carefully on the chair, climb cautiously over the desk, go downwards slowly along the wall, jump lightly into the empty box, move quietly past the sleeping cat, and slide gently under the table.	6
+20	2	1	1	2	0	3	0	3	1	2	0	0	5	1	1	1	0	3.0	1	13	Fred walked slowly behind the big yellow bus across the busy street cautiously without touching the hot black top. 	6
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The elephant ambled aimlessly around the antemeridian.	6
+37	1	1	6	6	2	7	1	5	0	2	0	0	6	0	1	1	1	4.0	1	13	With great pleasure, and by following the scenic route, I walked quickly through town, over the tall hill, under the shady bridge, around the flowery garden, and past the sparkling pool	6
+25	5	0	4	4	0	3	0	2	1	2	0	1	1	1	1	0	0	6.0	1	17	Okay, here is the sentence: From beneath behind beneath above within among the scattered rubble, Maria's missing cat meowed plaintively. 	6
+15	2	0	1	3	0	3	0	3	0	1	0	0	2	0	1	0	0	2.0	0	11	The cat ran around the tall brown tree under behind above aside the swing.	6
+9	0	0	1	1	0	2	0	2	0	1	1	1	0	0	1	0	0	3.0	0	6	The sentence with 6 adpositions is the following: The dog walked across under above on on over the rainbow.	6
+29	0	1	2	5	1	7	2	5	0	2	0	3	0	1	2	0	0	4.0	1	17	    My apologies, but I cannot go to the supermarket beyond the bridge before sunrise without a raincoat because the river may be overflowing during the storm. 	6
+10	2	0	1	3	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat crawled underneath onto top between throughout around. 	6
+13	1	0	1	5	0	3	0	3	0	0	0	0	0	0	0	0	0	2.0	0	9	At the back beneath beneath the bed between within beside the wall. 	6
+13	5	0	1	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	9	 The cat ran quickly under behind inside outside up onto the table.	6
+12	5	0	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	6	 atop, beneath, beside, besides, above, and near	6
+72	4	0	15	9	1	15	1	9	0	5	0	0	13	1	1	0	0	9.0	1	13	The delicate, shimmering rainbow-colored unicorn gracefully galloped beneath the starry night sky with vigorous, wavy steps, then pranced playfully alongside the enchanted castle, beneath the tall, majestic willow trees, next to the babbling brook, past the sparkling diamond mine, under the glittering, jewel-encrusted bridges, and above the fluttering, iridescent wings of the dreamy, ethereal butterflies.	6
+13	5	0	0	3	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	10	The cat sat down inside next to below beneath outside underneath the table	6
+32	3	0	14	3	0	1	0	0	0	0	9	0	1	0	0	0	0	3.0	0	30	  1. under (1) 2. next to (1) 3. behind (1) 4. over (1) 5. above (1)   Total count	6
+37	3	0	6	9	1	9	0	7	1	1	0	0	0	0	1	0	0	6.0	0	10	The cat purred contentedly against the windowsill at dusk on Friday, upside down below the treehouse, above the swing set, through the sprinkler, in between the rocks, and past the birdfeeder.	6
+7	3	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	5	Inside behind outside upon under through. 	6
+11	2	0	1	4	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	8	She climbed up over through behind under inside the house. 	6
+18	0	0	1	5	0	5	1	5	0	1	0	0	0	0	1	0	0	5.0	0	15	I walked across the hallway alongside the walls underneath the roof above the windows with a candle.	6
+9	4	0	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	2.0	0	6	 In spite of above under inside outside over.	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	6
+17	0	0	5	1	0	4	0	2	0	1	0	0	4	0	1	0	0	2.0	0	13	The car drove underneath the long, curved, dark, old, winding mountain road. 	6
+6	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	Across above beneath between into throughout	6
+10	5	0	1	1	0	1	0	1	0	0	0	1	0	0	1	0	0	3.0	0	4	  The book is above beneath inside near outside under.	6
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	6
+41	0	1	2	7	0	10	1	7	0	2	2	0	9	1	2	1	0	4.0	1	22	  The big black car drove down the quiet cul-de-sac between three small yellow houses on the corner near the tall pine tree before it turned into the busy highway through the green valleys for the next three hours.	6
+21	1	0	1	5	1	6	0	6	0	1	0	0	0	0	1	0	0	4.0	0	10	The cat sat under the tree next to the river behind the house between the dogs and above the flower. 	6
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The sentence with 6 adpositions is:   The large, yellow, fluffy cat climbed carefully down the slippery, old, wooden ladder.	6
+28	1	0	3	5	1	6	0	5	0	1	0	0	6	0	1	0	0	4.0	0	8	" ""The little car slowly travelled down the small street under the shady tree between several houses over the green grass and past the large flowers."" "	6
+16	1	0	4	5	0	2	0	1	0	1	1	0	1	0	1	0	0	4.0	0	8	"The six adpositions sentence reads: ""In between beneath beyond close inside onto.""   Is this correct? "	6
+17	2	0	3	1	0	3	0	1	0	2	0	0	5	0	2	0	0	4.0	0	10	The elephant slowly tippy-toedly tilted wobbly westerly window-shopped on cloudy drizzly days.	6
+13	2	0	0	4	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	10	  The book stood next to the cabinet under behind above upon the table	6
+41	0	1	6	9	1	10	8	2	0	3	0	0	1	1	2	0	1	5.0	2	18	The book, placed beneath his arm, remained under his arm, near his left side for minutes, until it dropped from his arm at his elbow and onto a cement step, below him, under his foot	6
+31	2	0	6	6	1	7	0	7	0	1	0	0	1	0	1	0	0	4.0	0	20	The gorilla slowly climbed down the large tree, underneath the branches, around the trunk, over the leaves, through the vines, and next to the stream.	6
+12	2	0	1	4	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	8	The cat walked along under beneath within above over the tree.	6
+13	3	0	1	4	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	9	The dog ran around under over through in out behind the tree. 	6
+13	2	0	1	1	1	2	0	1	0	2	1	1	1	0	1	0	0	3.0	0	3	The six adpositions were carelessly conceived and creatively concocted in chronological complexity.	6

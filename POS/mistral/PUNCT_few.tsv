@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	1	The clock struck midnight.	0
+5	0	0	1	0	0	1	0	0	1	2	0	0	0	0	1	0	0	2.0	0	2	Baked Alaska recipe requested.	0
+26	1	0	4	2	2	5	1	1	3	1	2	2	1	1	1	0	0	4.0	1	12	Five score and seven years ago (Note: this sentence is not original and was used by Abraham Lincoln in his Gettysburg Address).	0
+8	0	0	1	1	1	3	0	1	0	0	1	0	0	0	0	0	0	3.0	0	2	A million possibilities for creativity and innovation.	0
+5	0	0	1	0	0	2	0	0	2	0	0	0	0	0	0	0	0	1.0	0	3	Seattle Mariners baseball team.	0
+12	1	1	1	1	0	2	1	2	0	2	0	0	1	1	2	0	0	3.0	1	4	The sun set slowly as I stared into the infinite void.	0
+16	0	0	2	1	0	5	0	0	3	1	3	0	1	0	1	1	0	3.0	0	6	Major league player Manny Ramirez hit home run number 656 on September 7, 2008.	0
+5	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	2	Your request is incomplete.	0
+8	0	0	1	1	0	3	0	1	0	1	0	0	1	0	1	0	0	3.0	0	4	Exotic bird collection in the tropics thrives.	0
+10	0	0	0	1	0	3	2	0	0	2	0	0	0	1	1	1	0	3.0	1	6	I need to bake apples for my grandma ```vbnet This sentence has 0 punctuations.	0
+5	1	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	Elevator door unexpectedly closes ___________________________________  Generated responses below might contain errors since the model is not able to check them.	0
+7	1	0	1	0	0	4	0	0	0	1	0	0	0	0	0	1	0	4.0	0	4	Frequently asked mathematics problems solution website.	0
+7	0	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	2.0	0	3	You are holding a red apple.	0
+6	0	0	1	1	0	2	0	0	0	1	0	0	1	0	1	0	0	2.0	0	2	Last train leaves at midnight.	0
+7	0	0	1	0	0	2	1	1	0	1	0	0	0	1	0	1	0	3.0	1	2	Your turn to share an example.	0
+8	0	0	1	1	0	2	0	0	2	0	0	0	2	0	0	0	0	2.0	0	3	Younger sister of former president George W.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	0	1	0	2.0	0	3	Solve the calculus problem.	0
+11	0	0	1	1	0	3	0	2	0	2	0	0	1	2	0	1	0	4.0	2	5	Incomplete data provided to generate a sentence in this situation.	0
+9	0	0	1	1	0	3	0	0	2	0	0	0	2	0	0	0	0	3.0	0	2	New York City subway map essential for commuters.	0
+4	0	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1.0	0	2	Incredible Edible Broccoli.	0
+35	2	1	2	4	1	9	2	5	0	4	1	1	1	2	2	3	0	6.0	2	11	I cannot generate a sentence with zero punctuation, as the given instruction requires me to write only a single sentence without the use of any form of punctuation or stop marks whatsoever.	0
+5	0	0	1	1	0	2	0	0	1	0	0	0	0	0	0	0	0	2.0	0	2	Midnight train to Geipsmark.	0
+10	1	1	1	0	0	3	2	0	0	1	0	0	1	1	0	1	0	4.0	1	4	Your response here: Sleepless night after receiving your product This is a sentence in zero punctuation, meaning that no marks of punctuation or stop are added to it.	0
+10	0	0	2	0	1	3	0	0	0	1	0	0	2	0	1	1	0	3.0	0	3	Incomplete data, please provide specific information or context.	0
+3	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	1.0	0	2	Infinite Loop Error  In mathematics, an infinite loop error refers to a problem in which a computation repeatedly cycles through the same sequence of values, resulting in no output and an error message or infinite execution time.	0
+6	0	0	1	0	0	2	1	0	0	0	0	1	1	0	1	0	0	2.0	0	2	Your favorite color is magenta.	0
+41	0	1	1	3	0	13	4	4	0	7	0	0	6	4	5	4	0	6.0	4	32	 We welcomed our guests with open arms eager to begin the evening festivities A lively conversation filled the room as guests sampled exquisite delicacies our kitchen Our guests left with smiles full stomachs promises to return for another memorable event.	0
+7	0	0	1	1	0	2	0	1	0	2	0	0	0	1	1	0	0	3.0	1	4	Elephant in the room needs addressing.	0
+6	0	0	1	1	0	1	0	0	1	0	0	0	2	0	0	0	0	2.0	0	3	Largest Population Among Asian Countrie.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick fox jumps over the lazy dog.	0
+37	1	0	7	1	2	8	2	2	7	3	0	1	2	3	1	2	0	7.0	3	15	"Answer: Apple Banana Orange Pear Peach Grape Cherry                  --- I'm an AI Language model, there to help answer your questions, and explore the wondrous world of writing, literature, and creativity! Together we can learn and grow! --- Always remember to be kind and respectful to each other, and let the power of words uplift us and enrich our lives! 😊 Have a magical day!! ✨🌠 #LanguageLearning #writingCommunity 💖 #creativityUnleashed🎩 #AIPhilosopher #AIHelper🌱 #AIChatbot #AIChat #NLP --- ""A word is not a crystal, transparent and unchanging, it is the skin of living thought."	0
+7	0	0	0	1	0	4	0	1	0	0	0	0	1	0	0	0	0	2.0	0	5	Newborn baby in a pink blanket sleep   This is a sentence with 0 punctuations (no commas, no periods).	0
+9	0	0	1	1	0	5	0	1	0	0	0	0	1	0	0	0	0	2.0	0	4	Skyscraper construction technology advancements during the 20th century.	0
+12	0	0	2	1	0	3	1	2	0	1	0	1	1	0	1	0	0	3.0	0	8	Your first time on a cruise, any information is appreciated.	0
+7	0	0	1	1	0	3	0	0	0	1	0	0	1	0	0	1	0	3.0	0	4	Seeking advice on first cruise experience.	0
+8	1	0	1	0	0	1	3	0	0	2	0	0	0	1	2	1	0	2.0	1	3	Your dog barks when it sees me.	0
+6	0	0	1	0	0	1	0	0	2	0	0	0	2	0	0	0	0	2.0	0	2	Famous American inventor Thomas Edison.	0
+9	0	0	2	0	0	2	0	2	0	1	0	0	2	0	0	1	0	3.0	0	4	Explore a new city, every corner uncharted.	0
+5	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	1	0	2.0	0	1	Tall buildings surround me.	0
+8	0	0	1	1	0	2	1	0	1	1	0	0	1	0	1	0	0	2.0	0	3	Your friendly neighborhood Spiderman swings into action.	0
+13	0	0	3	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	A long, winding river cuts through the lush, green landscape.	0
+7	0	0	2	1	0	0	0	0	3	0	0	0	1	0	0	0	0	2.0	0	2	Largest City in Italy, Rome.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	Large crowd gathered for the parade.	0
+5	0	0	0	0	0	1	0	0	3	0	0	0	1	0	0	0	0	2.0	0	2	Famous poet Elizabeth Barrett Browning  This task is becoming tedious.	0
+12	0	0	2	0	0	4	1	0	0	3	0	1	1	1	2	3	0	3.0	1	7	Your query has multiple keywords, providing information may require context.	0
+8	0	0	0	0	0	2	1	0	0	1	0	0	1	0	1	1	0	3.0	0	3	Your dog's tail wags non-stop ## For a variety of prompts related to machine learning, please check [MachineHiring's Machine Learning prompts repository](https://github.	0
+9	0	0	1	1	0	5	0	0	0	0	1	0	1	0	0	0	0	2.0	0	3	Incomplete fuel gauge reading at tank number three.	0
+5	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1.0	0	2	I'm running late.	0
+6	0	0	1	0	0	2	0	1	1	0	0	1	0	0	1	0	0	1.0	0	4	Saturday is the market day.	0
+15	0	0	1	2	1	7	0	0	0	1	0	0	3	1	0	1	0	4.0	1	8	Fifth concert in series at grand opera house tonight starring renowned tenor and soprano.	0
+10	0	0	1	1	0	3	3	0	0	1	0	1	0	0	1	1	0	2.0	0	6	You may use my office during your lunch break.	1
+10	0	0	1	1	0	2	1	1	1	1	1	0	1	0	1	1	0	2.0	0	7	She baked five different pies for the Thanksgiving feast.	1
+9	0	0	1	2	0	1	2	0	1	1	0	0	1	0	0	1	0	3.0	0	5	Ask me about my upcoming trip to Italy.	1
+11	1	0	1	1	1	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	5	The chef seasoned the shrimp perfectly with herbs and spices.	1
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	The sun was setting on the calm lake.	1
+14	0	0	1	2	0	3	0	3	0	1	0	1	2	1	1	0	0	4.0	1	4	The child was scared to go near the deep end of the pool.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The balloon suddenly deflated.	1
+11	0	1	2	0	0	1	1	1	0	2	0	1	0	1	1	1	0	2.0	1	8	Please pass the salt, if you wouldn't mind.	1
+12	0	0	1	0	0	1	3	1	0	2	0	2	1	2	2	1	0	3.0	2	4	You're the last person I would expect to do that.	1
+16	0	0	2	1	1	4	2	1	0	1	1	2	1	0	1	0	0	2.0	0	7	Your response should be a completed sentence with one punctuation mark, and nothing else.	1
+6	1	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	3	Your observations are most intriguing.	1
+10	0	0	1	1	1	3	0	1	0	2	0	0	1	0	1	0	0	3.0	0	3	The recipe calls for sliced lemons and fresh thyme.	1
+10	0	0	1	1	0	3	1	1	0	1	1	0	1	0	1	1	0	2.0	0	5	A successful entrepreneur starts his day at 5 am.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	2	The moon rises each night.	1
+6	1	0	1	0	0	1	1	0	0	1	0	1	0	0	1	0	0	2.0	0	3	Your feedback is highly valued.	1
+11	1	0	3	0	0	2	2	0	0	1	0	1	0	0	1	0	0	3.0	0	8	Your turn, my opponent, is soon to come.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat in the corner meowed.	1
+5	0	0	1	0	0	1	0	1	0	1	0	0	1	0	0	1	0	2.0	0	3	Have a wonderful day!.	1
+10	0	0	1	0	0	2	1	2	0	1	0	1	1	1	1	1	0	3.0	1	5	You're not the only one feeling that way.	1
+9	1	0	2	0	0	2	0	2	0	2	0	0	0	1	1	1	0	3.0	1	3	The dog barked incessantly, disturbing the neighbors.	1
+6	0	0	1	0	0	3	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The children love water balloons.	1
+12	0	0	2	1	0	4	1	0	0	2	0	0	1	1	1	1	0	3.0	1	4	My great-grandfather used to make apple butter from scratch.	1
+9	0	0	1	1	0	3	1	1	0	2	0	0	0	1	1	1	0	3.0	1	4	My cat loves chasing butterflies in the garden.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The child slept peacefully throughout the night.	1
+9	0	0	1	0	0	2	1	0	0	2	0	0	2	1	0	1	0	3.0	1	3	There are many different ways to cook pasta.	1
+10	0	0	1	1	0	2	2	1	0	2	0	1	0	1	1	1	0	3.0	1	3	We've made some improvements based on your feedback.	1
+12	0	1	1	1	0	3	1	2	0	1	0	1	1	1	2	0	0	3.0	1	6	My nephew insists that this cereal is the best in town.	1
+9	0	0	1	1	0	2	1	2	0	0	0	1	1	0	1	0	0	2.0	0	4	You are the 12th man on this team.	1
+7	1	0	1	0	0	1	1	0	0	1	0	2	0	0	1	0	0	2.0	0	3	Your input will be reviewed shortly.	1
+6	0	0	1	0	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The package is expected tomorrow.	1
+10	0	0	1	1	0	2	1	2	0	0	0	1	1	0	1	0	0	2.0	0	5	I am not the best speaker in the room.	1
+5	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	2.0	0	2	Your prompt is unclear.	1
+11	0	0	2	0	0	2	2	1	0	0	0	2	1	0	1	0	0	2.0	0	4	It's a beautiful day today, isn't it?.	1
+11	0	0	1	2	0	3	2	1	0	1	0	0	1	0	1	1	0	3.0	0	4	Your opinion on the matter holds great weight with me.	1
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	Can you bring a folding chair?   Answer: You are correct.	1
+7	0	0	1	1	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The library is quiet after hours.	1
+10	0	0	1	1	0	2	1	2	0	0	0	2	1	0	1	0	0	2.0	0	5	She had been a talented pianist before the accident.	1
+14	0	0	1	2	1	5	1	2	0	1	0	0	0	0	0	1	0	3.0	0	11	Please keep your arms and legs inside the roller coaster at all times.	1
+7	1	0	1	1	0	2	0	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Inspect the circuit thoroughly before proceeding.	1
+9	0	0	2	0	0	1	1	1	0	2	0	1	1	0	1	1	0	3.0	0	5	You may use a soft-bristled toothbrush.	1
+12	1	0	2	2	0	2	0	2	0	1	1	0	1	0	0	1	0	3.0	0	6	In the event of a sudden emergency, call 911 immediately.	1
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	0	0	0	3.0	0	4	There's a large puddle on the kitchen floor.	1
+6	0	0	1	0	0	1	1	0	0	0	0	2	1	0	1	0	0	2.0	0	3	Your feedback would be invaluable.	1
+9	0	0	1	1	0	1	2	0	0	1	0	1	1	1	1	0	0	3.0	1	3	I am eager to learn from your experience.	1
+11	0	1	1	0	0	2	1	2	0	2	0	1	0	1	1	2	0	3.0	1	4	I cannot make a promise without knowing the details.	1
+8	0	0	1	1	1	3	1	0	0	1	0	0	0	0	1	1	0	4.0	0	2	I prefer tea without milk or sugar.	1
+13	1	0	2	1	1	4	0	1	0	1	0	0	2	0	1	1	0	3.0	0	4	In the forest, owls frequently hunt rodents and other small animals.	1
+8	0	0	2	0	0	1	1	1	0	1	0	1	0	0	0	1	0	2.0	0	4	Please pass the salt, will you?.	1
+11	0	0	1	1	0	3	1	2	0	1	0	1	1	0	1	1	0	3.0	0	4	You will need a large baking sheet for this recipe.	1
+11	0	0	1	1	0	4	0	2	0	1	0	1	0	0	1	1	0	3.0	0	6	The car is leaking oil under the driver's side.	1
+16	0	1	2	0	0	3	2	1	0	1	0	2	2	0	2	1	1	3.0	1	6	Although I was late, I didn't miss the meeting's key discussion points.	2
+13	2	0	3	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	6	Sure, the cat sat comfortably on the mat, meowing quietly.	2
+10	0	1	1	1	0	1	0	1	0	3	0	0	1	2	0	1	0	4.0	2	3	Sit down before attempting to open the stubborn jar.	2
+15	1	0	2	2	0	3	1	1	1	2	0	1	1	0	2	1	0	3.0	0	10	John is reading his book with great concentration; suddenly the power went out.	2
+20	0	0	2	2	1	2	4	2	0	2	0	2	1	0	2	2	0	3.0	0	12	You won't believe the shocking ending of this movie, but I won't spoil it for you!.	2
+15	0	0	2	4	0	5	0	1	1	2	0	0	0	1	1	1	0	4.0	1	7	John enjoys playing guitar at sunsets, with a glass of wine in hand.	2
+15	0	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun sets over the ocean, casting an orange glow on the sand.	2
+16	1	0	1	3	0	6	0	3	0	1	0	0	1	0	1	0	0	3.0	0	5	A long wait in the emergency room ended abruptly with a diagnosis of strep throat.	2
+16	1	2	2	0	1	2	2	1	0	4	0	0	1	2	3	1	0	4.0	2	7	The cat purrs softly while it eats, but jumps if it hears sudden noises.	2
+7	0	0	1	1	0	1	1	0	0	1	0	1	0	0	1	0	0	2.0	0	3	I can't wait for summer<.	2
+16	1	0	3	2	0	3	2	0	0	2	0	1	2	0	2	1	0	3.0	0	10	Sometimes we receive excellent feedback; at other times, we are hit with criticism.	2
+12	1	0	2	0	1	3	1	1	0	3	0	0	0	1	0	2	0	4.0	1	4	Buy now, and make your home office dream a reality!  Note: The output may vary depending on the specific scenario.	2
+16	2	0	2	0	1	3	3	0	0	3	0	1	0	2	3	1	0	4.0	2	5	My grandmother wept freely, yet she smiled when it was time to say goodbye.	2
+5	0	0	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1.0	0	3	Jameson Smith <jamie.	2
+14	1	0	3	0	1	1	1	1	0	3	0	1	0	1	2	0	0	3.0	1	9	She sings beautifully, --- but the crowd didn't seem to notice.	2
+16	2	0	2	1	0	3	0	1	0	3	1	2	0	1	2	0	0	3.0	1	10	The meeting was called to order promptly at 10:30 AM; refreshments were served later.	2
+13	2	1	3	0	0	1	1	1	0	3	0	0	0	1	2	0	1	2.0	2	5	Even though he tried repeatedly, the machine refused to start, .	2
+8	2	0	1	0	0	1	1	0	0	1	0	1	1	0	1	1	0	3.0	0	3	You can never have too many books .	2
+8	0	0	1	1	0	2	1	0	0	1	0	1	0	0	1	0	0	2.0	0	3	I can't wait for lunch today.	2
+8	3	0	2	0	0	0	1	0	0	2	0	0	0	0	1	0	0	2.0	0	4	They laughed heartily, yet cried quietly.	2
+12	3	0	2	0	0	2	1	2	0	2	0	0	0	0	2	1	0	3.0	0	7	She finished the project early; the celebration began right after.	2
+21	2	1	2	1	0	4	4	0	0	3	0	1	1	2	2	1	0	3.0	2	7	My grandparents' antique clock is ticking away in their living room, waiting for us to visit them again.	2
+14	0	0	2	2	0	2	3	0	1	1	0	1	1	0	1	1	0	3.0	0	5	Your feedback is important to us; please provide it by March 15th .	2
+15	0	0	3	1	0	2	2	2	0	1	0	3	1	1	1	0	0	3.0	1	8	 can you guess what the context might be from this cryptic sentence?).	2
+16	2	0	2	0	1	3	0	2	0	2	1	0	3	1	2	2	0	6.0	1	4	A semicolon separates two closely related ideas, often each containing dependent or related thoughts.	2
+14	0	0	1	2	1	6	0	2	0	1	0	0	1	0	1	1	0	3.0	0	7	The storm brought torrential rain and hail damage to buildings throughout the neighborhood.	2
+14	2	1	2	0	0	2	0	2	0	3	0	1	1	1	2	0	0	3.0	1	9	The storm passed quicker than anticipated; the sun was now shining brightly.	2
+19	1	0	2	0	1	4	1	1	0	4	0	2	2	2	2	2	0	5.0	2	5	The new system has significantly reduced processing time, yet contains numerous bugs that need to be addressed.	2
+21	3	0	2	3	1	4	2	2	0	2	0	0	1	1	1	1	0	4.0	1	14	Always remember to keep your eyes on the horizon and your head up, even during the toughest of times.	2
+6	0	0	1	0	0	1	1	0	0	1	0	2	0	0	1	0	0	2.0	0	3	Your order has been processed.	2
+13	2	0	4	0	0	1	1	1	0	1	0	1	1	0	1	1	0	2.0	0	8	I cannot make this coffee any stronger, ! -- yet? -- might I suggest adding more sugar?.	2
+15	0	0	2	1	1	2	1	1	0	2	1	2	2	1	2	0	0	3.0	1	5	"""A successful entrepreneur is one who can adapt to new challenges and thrive."	2
+19	2	0	3	2	0	3	4	0	0	2	0	1	1	0	2	2	0	4.0	0	9	She couldn't finish her work on time; however, she submitted it with only slight errors.	2
+18	0	0	2	4	0	5	2	3	0	2	0	0	0	1	1	0	0	6.0	1	4	Her voice trailed off at the end of the statement, a tear slipping from her eye.	2
+17	0	0	3	3	0	5	0	1	0	1	0	1	3	0	1	0	1	4.0	1	10	A high level of creativity, paired with meticulous detail, is crucial for marketing success.	2
+16	0	0	1	3	0	5	3	2	0	1	0	0	1	0	1	1	0	3.0	0	9	They celebrated their engagement with a grand feast on the eve of their wedding day.	2
+14	1	0	3	1	0	2	2	0	0	1	0	3	1	0	2	0	0	3.0	0	7	Your feedback is valuable; yet, it will be disregarded without explanation.	2
+15	0	1	1	1	0	5	1	2	0	2	0	0	1	1	2	1	0	3.0	1	5	The children's laughter filled the room as cookies crumbled under their tiny fingers.	2
+19	0	0	3	2	1	3	2	2	1	2	0	2	1	0	2	1	0	3.0	0	9	She can read French, yet she has struggled with the language for years --- a challenging paradox.	2
+10	1	1	1	0	0	2	1	1	0	3	0	0	0	2	2	0	0	4.0	2	4	The baby started crying as my phone rang loudly.	2
+18	3	0	3	2	0	3	2	1	0	3	0	0	1	2	3	0	0	4.0	2	8	She sighed deeply, her mind racing with thoughts, when a sudden knock came from outside.	2
+13	1	0	2	2	0	4	0	2	0	1	1	0	0	1	0	0	0	3.0	1	6	Two pigeons on a fencing wire, staring silently at the passersby.	2
+14	1	0	2	1	0	3	0	2	0	3	0	0	1	2	1	1	0	4.0	2	5	The rain fell in torrents, eventually stopping to create a peaceful night.	2
+7	0	0	1	1	0	1	0	2	0	1	1	0	0	0	1	0	0	2.0	0	2	The bus departed at 8 a.	2
+10	0	0	2	1	0	2	0	2	0	2	0	0	1	0	1	0	0	2.0	0	6	The penguins waddled into the shallow waters, splash! Splash!.	2
+18	3	0	2	1	1	4	0	3	1	2	0	0	0	0	2	1	0	3.0	0	10	John's arrival signaled the beginning of the party, but the music stopped unexpectedly halfway through.	2
+10	0	1	1	0	1	1	1	1	0	3	0	1	0	1	1	1	0	3.0	1	4	You will laugh and cry while reading this book.	2
+14	2	0	1	2	1	2	2	0	1	2	0	1	0	0	1	2	0	3.0	0	6	You can make reservations online or contact us directly via email at Support@NewCo.	2
+11	0	0	2	0	0	3	1	2	0	1	0	1	1	0	2	1	0	3.0	0	4	The band was amazing — their performance electrified the audience.	2
+22	0	1	2	2	1	7	1	4	0	2	0	1	1	0	2	2	1	4.0	1	8	Although snow covers the ground and roads, we will have a productive meeting in the warmth of the conference room.	2
+26	3	1	2	2	0	8	0	5	0	3	0	0	2	1	2	1	0	4.0	1	11	A symphony orchestra concert begins with the soft strains of the strings section, then adds each section until the entire ensemble plays together harmoniously.	5
+19	0	1	4	1	1	7	2	1	0	2	0	0	0	0	1	3	1	3.0	1	11	After hearing their stories, I promised the refugees shelter, food, medicine and safety from harm.	5
+28	0	0	3	3	2	9	2	2	1	3	0	0	1	1	1	2	0	5.0	1	10	After a thorough analysis, the sales team decided to increase their marketing efforts for product A, but to reduce them for product B and C.	5
+31	2	0	6	2	0	8	3	4	0	5	0	0	1	3	2	2	0	5.0	3	13	From the rooftop, the wind howled, shrieking past my ears, raindrops splattering my cheeks, I clutched the rope ladder tightly, the first step looming below.	5
+24	3	1	3	1	1	4	2	3	0	4	0	0	2	2	3	1	0	4.0	2	8	From a towering cliff, the condors swooped low before their graceful, powerful flaps beat the air again and away they soared.	5
+29	0	0	4	4	0	5	4	4	0	4	0	1	3	2	3	1	0	4.0	2	9	With a single keypress, the complex algorithm was set in motion, its intricacies revealed to no one, save for the brilliant minds that designed it.	5
+23	0	0	7	1	1	6	1	4	0	1	0	0	2	0	1	1	0	3.0	0	17	"The artist signed the canvas with bold strokes, a palette knife, and a fervent declaration: ""Mine!""  --- Repeating for additional examples --- -------------------------------------------  This is a solved example of the task."	5
+21	0	0	2	2	2	5	1	2	0	1	0	0	6	0	1	1	0	4.0	0	8	With its grandeur intact, the ancient castle overlooked the tranquil and picturesque lake amidst gentle breezes and vibrant sunsets.	5
+18	1	1	2	1	0	5	2	2	0	3	0	0	0	2	2	1	0	4.0	2	7	Both parents attended their daughter's dance recital, applauding excitedly as she pirouetted across the stage.	5
+15	0	0	1	2	2	4	0	2	0	0	0	1	2	0	1	0	0	3.0	0	8	The author's use of metaphor in the poem is both evocative and ambiguous.	5
+30	1	1	3	2	1	9	1	6	0	5	0	0	1	2	4	1	0	5.0	2	16	The explorers reached the mountain peak, their eyes widening at the breathtaking sunset view, the camera clicked and a dove swooped overhead before disappearing into the twilight.	5
+19	0	0	2	3	0	5	0	3	0	2	0	0	3	1	1	0	0	6.0	1	6	The hiker stumbled on a cache of rare, gleaming gemstones hidden in a cave's dark recesses.	5
+20	0	1	3	2	0	7	1	3	0	2	0	0	1	1	2	2	0	3.0	1	9	Despite his early start, the ultra-marathoner finished seconds behind the competition leader, with cramps threatening another collapse.	5
+20	0	0	6	1	1	3	0	1	0	1	0	1	5	0	1	0	0	4.0	0	9	The artist's palette was cluttered with colors: red, blue, green, yellow, and black.	5
+19	1	0	3	1	1	6	1	3	0	2	0	0	1	0	1	2	0	2.0	0	5	Under the bright neon lights, the circus performer twirled the baton and then flicked it, pop! crackle! snap! whizzed past audience members' faces.	5
+23	2	1	2	3	1	6	1	2	0	4	0	0	1	2	2	0	0	4.0	2	6	The baby gorilla swung from vine to vine, laughing and babbling joyfully as it reached for the ripe mango hanging above.	5
+22	0	0	4	1	1	9	0	4	0	1	0	0	2	0	1	1	0	3.0	0	18	The detective discovered footprints, a torn sleeve, an empty gun holster, and blood trails near the crime scene.	5
+19	0	0	4	3	1	6	2	1	0	1	0	0	1	0	0	0	0	3.0	0	9	After his speech, there was applause, tears, and boos from different parts of the crowd.	5
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 1.	5
+16	2	1	5	0	0	1	2	1	0	3	0	0	1	2	2	1	0	3.0	2	13	"She wept inconsolably, exclaiming ""No fair!"" just before her ballon burst."	5
+27	1	2	1	2	0	7	1	4	2	4	0	0	2	2	3	1	1	4.0	3	10	A new study published in the journal Nature suggests that Earth's biosphere releases about the same amount of carbon dioxide as it absorbs each year.	5
+40	3	0	4	6	1	10	1	3	0	6	0	0	4	3	2	0	0	5.0	3	20	A rooster's crown of sparse plumage contrasted starkly against the hens' soft feathers, clucking softly, the eggs collected from under their warm bodies crackled when boiled, served at breakfast with homemade bread and jelly.	5
+31	0	0	5	2	1	8	3	4	0	5	0	0	2	1	1	4	0	4.0	1	15	Despite her initial resistance, the sales team managed to secure an appointment, confirmed a time, prepared their materials, and expected her signature on the dotted line.	5
+21	0	0	3	4	1	8	0	3	0	2	0	0	0	1	1	1	0	4.0	1	9	At midnight, fireworks exploded in the sky above the festival grounds, scattering sparks and rainbows across the darkness.	5
+27	0	0	4	2	1	10	1	5	0	4	0	0	0	2	1	3	0	5.0	2	14	The storm left destruction in its wake, the wind shattering glasses, the rain causing flooding, and the electricity leaving thousands in the dark.	5
+19	0	0	2	3	1	7	0	3	0	2	0	0	1	1	1	1	0	5.0	1	6	The sun set behind the mountain range, painting the horizon with beautiful shades of orange and purple.	5
+25	0	1	2	2	0	7	0	3	0	7	0	0	1	6	2	2	0	9.0	6	8	The sun began to set over the horizon as a symphony orchestra started playing, scattering tourists taking photos to scatter in different directions.	5
+22	3	1	5	1	0	4	1	2	0	4	0	0	1	2	1	2	0	5.0	2	6	With great care, she removed each band-aid, pausing briefly before touching the newly-healed wound beneath.	5
+21	2	0	2	4	0	5	0	2	2	3	0	0	0	1	1	1	1	4.0	2	9	With just days left before the deadline, the mayor hastily gathered City Council members to sign off on legislation.	5
+23	0	1	2	3	0	7	3	3	0	3	0	0	1	2	2	2	0	5.0	2	7	The author finished her cup of coffee before she left the cozy cafe, rain droplets pattering on the roof above her.	5
+22	0	0	3	3	2	6	1	3	0	2	0	0	2	1	1	1	0	4.0	1	7	After a year of planning and preparation, they opened the exhibit, greeted by an enthusiastic crowd and critical acclaim.	5
+25	2	1	3	1	1	4	3	1	2	3	0	0	3	1	2	2	0	4.0	1	15	Despite her initial reservations, Sarah finally agreed to attend the high-profile conference but only if her best friend Alice accompanied her.	5
+32	1	0	3	3	2	10	1	3	0	4	0	1	3	3	1	4	0	5.0	3	9	With the advent of smartphones and mobile apps, we've witnessed the rise of digital payment systems, enabling consumers to purchase goods or services using just a few taps.	5
+20	1	0	4	3	1	5	1	1	0	3	0	0	1	2	1	1	0	5.0	2	6	At the meeting, we discussed various proposals, then voted, followed by lunch and presentations from consultants.	5
+35	2	1	7	3	1	8	0	4	0	7	0	0	2	1	2	2	0	3.0	1	20	In a dense, shaded grove, the monkey howled, flicked pebbles at a passing elephant, yawned widely, sipped water from the nearby brook, and slept soundly as twilight descended.	5
+39	0	1	5	6	1	11	0	7	0	4	0	0	4	3	2	0	0	7.0	3	9	At the city fair, a crowd gasped as the firework display ignited into a spectacular, dazzling show, exploding with a symphony of bursts and cascades of multicolored lights, all culminating in a thunderous finale.	5
+31	1	1	6	2	1	10	3	1	0	4	0	1	1	2	3	1	0	4.0	2	14	My sister-in-law asked if I would help decorate, so I brought balloons, garlands, and crepe paper for the surprise birthday party next week.	5
+32	1	0	5	2	0	9	1	5	0	6	0	0	2	2	5	2	0	4.0	2	21	The storm approached, the winds picking up, the sky turning an ominous darker hue, rain pelting down, boat owners raced to the docks to secure their boats.	5
+15	0	0	2	2	0	3	2	1	1	1	0	0	3	0	1	1	0	2.0	0	7	Despite the harsh winter, we took our annual lake cruise in early March.	5
+14	0	0	2	1	0	4	0	3	0	2	1	0	1	1	1	1	0	3.0	1	7	The fireworks burst into a million colorful pieces, illuminating the night sky.	5
+18	1	0	3	1	1	4	1	3	0	2	0	0	2	0	1	2	0	3.0	0	5	Despite their initial differences, the negotiators quickly reached an understanding and drafted a unanimous agreement, .	5
+23	2	0	3	3	0	5	1	2	0	1	1	1	3	0	1	1	0	4.0	0	5	Through tireless dedication, our volunteers have raised over $50,000 in donations for the annual fundraiser, a significant achievement indeed.	5
+17	1	1	3	1	2	6	1	0	0	2	0	0	0	1	1	1	0	4.0	1	8	Always remember that kindness, generosity, and respect bring happiness into our homes and communities.	5
+28	1	0	5	2	1	8	3	3	0	5	0	0	0	1	1	3	0	5.0	1	14	The astronaut trained tirelessly for the spacewalk, checking his oxygen tank, securing his tools, fastening his helmet, and preparing for the launch sequence.	5
+32	0	0	13	3	2	8	0	3	0	0	0	0	3	0	0	0	0	4.0	0	24	 commas after 'child', 'wide', and 'strange figure', quotation marks after 'an unusual noise', and a period at the end.	5
+21	0	0	6	1	1	5	0	1	0	1	0	0	5	0	1	1	0	5.0	0	9	The artist's exhibition featured paintings from various series: impressionist, expressionist, surrealist, minimalist, and cubist.	5
+36	2	0	4	4	2	12	1	4	1	3	0	0	3	1	2	2	0	4.0	1	17	Under the bright neon lights of the city square, children eagerly awaited the start of the annual Christmas parade, clutching candy canes and balloons, and parents smiled contentedly at their excited anticipation.	5
+26	3	1	4	1	2	3	1	3	0	6	0	0	2	3	2	1	0	5.0	3	15	The children played happily on the swings, giggling and chattering intermittently, until a sudden storm blew in, leaving them cold and soaked.	5
+19	2	0	2	2	0	3	2	1	0	3	1	1	1	0	1	1	2	5.0	2	11	With only 47 characters left to include in my tweet, I must carefully select each next word.	5
+26	0	0	4	4	1	10	0	1	0	4	0	1	0	1	1	2	0	5.0	1	9	Throughout the school year, students were encouraged to ask questions, engage in class debates, and seek guidance from teachers during study periods.	5
+22	0	0	3	4	0	6	1	2	1	2	1	1	1	1	1	1	0	5.0	1	5	In this lab report, we have recorded data from five experiments A through E, each displayed in separate sections.	7
+19	1	0	2	1	0	3	1	3	1	3	2	1	0	1	2	2	0	3.0	1	11	Jones had asked the team to provide updates every two hours; they did so at 2:00 a.	7
+35	1	0	6	4	1	10	1	6	1	4	0	0	1	0	1	3	0	4.0	0	14	In her kitchen, Mary measured the sugar twice, tasted the dough, drizzled chocolate chips, and placed the muffins in the oven, with an absentminded glance to the alarm clock.	7
+66	5	2	11	3	5	9	3	7	2	12	0	2	4	7	6	3	0	10.0	7	17	Jim, the dog, was ecstatically barking and jumping as he approached the mailbox, which finally held a piece of mail inside, but it was only a bill, marked 'final notice', underlined and stamped in red, while the rain began to patter loudly against the roof and the wind blew stronger, leaving Jim wet and confused.	7
+23	1	0	1	3	1	7	0	3	0	3	1	1	2	1	1	0	0	4.0	1	12	The suspect was apprehended at approximately 3:15 AM near a dark alley following multiple witnesses reports and a trail of stolen goods.	7
+26	0	0	4	4	0	7	1	4	0	2	0	1	3	1	2	2	0	4.0	1	9	Several of the survivors were reluctant, unsure of their safety; the rest joined hands in support, forming a line towards the exit.	7
+13	0	1	3	0	0	2	3	1	0	3	0	0	0	1	2	3	1	3.0	2	5	After we left the museum, I heard footsteps following us,.	7
+24	1	0	4	3	1	7	0	2	0	3	0	0	1	2	1	3	0	5.0	2	9	A sudden thunderstorm caused cars to hydroplane, trees to sway in alarm, and birds to seek shelter - all at once.	7
+21	2	1	3	2	0	5	2	2	0	4	0	0	0	2	1	3	0	6.0	2	5	The bartender poured us drinks, then took a call, laughing heartily before returning to top off our glasses.	7
+26	1	0	4	3	1	7	1	1	4	2	0	0	1	1	1	2	0	5.0	1	10	Napoleon Bonaparte's victories brought him fame, wealth, and exile to Saint Helena, all separated by a long string of colon commas.	7
+37	3	0	4	4	3	8	3	4	0	4	1	0	3	3	3	0	0	7.0	3	10	Through a complex interplay of events, her dreams and fears seemed both distant and tangibly near, her mind constantly shifting between the two realms, a delicate equilibrium maintained with each breath she took.	7
+48	0	1	7	3	2	15	1	3	0	9	3	1	1	2	2	8	0	7.0	2	32	The document provides evidence that the defendant falsified accounts, admitted guilt, was sentenced to 3 years of probation, paid a $10,000 fine, completed restitution totaling $50,000, relinquished his CPA license, and had ongoing monitoring of finances and business dealings.	7
+19	0	0	3	2	0	4	1	1	0	3	1	1	1	1	1	3	1	4.0	2	8	The company, having faced financial losses, laid off 15% of its workforce to cut expenses.	7
+25	1	0	3	3	1	6	1	2	1	2	0	1	3	1	2	2	0	4.0	1	16	Bach was unable to attend the concert because of numerous commitments and scheduling conflicts ; yet, he sent a letter of sincere apologies.	7
+23	0	0	5	2	1	3	1	1	3	4	1	1	1	2	2	2	0	6.0	2	8	"Peter Jackson confirmed, despite numerous delays, he'd meet deadlines and complete filming ""The Hobbit"" trilogy by 2014."	7
+44	2	0	4	5	2	11	2	7	2	5	0	0	4	2	2	4	0	8.0	2	15	The butler handed the envelope to Lady Chastity with a flourish and a slight bow, she signed her name in the top right corner, then carefully peeled back the wax seal, revealing a letter penned with great care and detail.	7
+29	0	0	2	4	2	12	0	3	0	3	0	1	2	1	3	2	0	6.0	1	15	The CEO revealed a potential deal with an Asian market could increase sales profits, but investors expressed hesitation due to uncertainty about regulations and supply chain complexities.	7
+31	0	1	4	4	2	10	2	3	0	5	0	0	0	3	2	3	0	6.0	3	11	With a wink, the clown distributed sweets while juggling knives, balloons popping and children cheering around him, leaving a trail of candy and chaos in his wake.	7
+18	1	0	2	2	0	5	0	3	1	2	1	0	1	0	1	2	0	4.0	0	9	Baker pled guilty to all 27 bombing charges, yet denied any responsibility for the actual explosions.	7
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Mme.	7
+25	2	0	2	4	2	7	0	3	1	1	0	0	3	0	1	1	0	4.0	0	12	In the midst of warfare and turmoil, the ancient city of Alexandria still held a captivating allure for countless wanderers and scholars alike.	7
+24	1	0	3	3	0	7	0	3	1	4	0	1	0	2	2	0	0	5.0	2	10	The stock exchange closed with a crash on Monday evening; investors were advised to sell promptly, despite uncertainty regarding the cause.	7
+37	4	2	3	2	1	5	5	1	2	4	0	1	5	4	4	2	0	9.0	4	6	"Mahatma Gandhi once said, ""I hold that a person is absolutely ethical only if their ethics allow them to treat other people's lives as inviolable and their liberty as precious as their own."	7
+20	0	2	3	2	1	3	0	1	4	4	0	0	0	2	2	1	0	3.0	2	7	In the heart of Paris, Café de Flore buzzed, as intellectuals debated and smoked while sipping coffee.	7
+18	0	0	2	2	1	7	1	3	0	2	0	0	0	1	2	1	0	5.0	1	5	The detective scrutinized his list of leads, each punctuated with a question mark or exclamation point.	7
+20	1	1	3	1	1	7	0	2	1	2	0	0	1	1	2	1	0	3.0	1	12	Frost and fireworks dazzled onlookers at the midday independence celebration, as a jet flyover thundered overhead – Boom! – followed by the soft sigh of an exploding watermelon.	7
+38	1	0	4	3	1	12	2	6	0	4	0	1	3	3	3	4	0	11.0	3	8	The team leader proposed a new budget, yet the committee questioned his calculations thoroughly, raising objections at several junctures - a proposal for an expansion project that was uncertain to produce a return on investment.	7
+40	1	0	6	5	1	12	2	5	1	6	1	0	0	3	1	2	0	5.0	3	20	The package arrived at the designated time, Tuesday at precisely noon, with an inscribed label, a string of twine securing it closed, three rubber stops protecting its corners, and a return address of 'C.	7
+41	0	0	5	6	1	8	3	3	4	6	1	1	2	2	2	2	0	5.0	2	24	After dinner, Maria sighed, placed ten used forks on the sideboard, and called her husband to ask about his work trips in March—it seemed the entire family was due for a trip to Disney World.	7
+24	1	1	3	1	0	6	1	1	0	4	1	1	1	1	3	2	2	5.0	3	11	The stock was predicted to reach $50 by year's end, analysts reported, unless external factors affected its price significantly.	7
+19	1	0	3	0	1	4	0	4	0	1	0	2	3	2	3	1	0	4.0	2	8	The CEO made a dramatic announcement - the merger was off, all deals were null and void.	7
+31	1	2	2	3	1	7	1	4	1	3	2	1	0	2	3	0	0	6.0	2	10	Baker insisted that the project could proceed only if the company paid for his consultant's fee, a retainer of $10,000 and a completion bonus of $50,000.	7
+22	0	0	2	4	0	8	0	1	2	2	0	0	2	1	1	1	0	7.0	1	7	Melrose Place had an eclectic blend of high culture, with opera tickets intermingled beside movie tickets in residents' mailboxes.	7
+32	0	0	5	0	2	12	0	10	0	2	0	0	1	0	2	2	0	4.0	0	26	The magpie stole a gold coin, the tramp a silver one; the beggar a copper token, and the gypsy a shell; but the boy found a ruby.	7
+25	0	0	2	3	2	7	2	2	1	2	0	1	2	2	2	1	0	6.0	2	5	Amy's new book is a compelling mix of adventure and romance, with twists and turns that leave you guessing till the end.	7
+31	3	0	4	4	1	9	1	1	1	1	0	1	4	0	1	0	0	4.0	0	8	Maria sharpedo's cooking skills, despite her reputation, were questionable at best --- with unevenly burnt lasagna noodles and a marinara sauce far too sweet for Italian purists.	7
+18	0	0	1	3	1	2	0	1	3	2	2	1	1	0	1	0	0	3.0	0	6	Mikhail Prokudin's photographs of Imperial Russia were taken from a moving train between 1905 and 1915.	7
+22	0	0	5	1	1	4	0	2	6	2	0	0	1	0	1	2	1	5.0	1	13	The band, featuring Eric Clapton, Jimi Hendrix, and Jeff Beck, delivered unforgettable performances during the summer festival.	7
+26	0	0	3	4	0	10	2	2	0	3	0	0	2	0	2	1	2	6.0	2	22	The CEO expressed her concern about revenue losses due to ongoing supply chain issues, followed by a potential employee theft investigation, she emphasized.	7
+11	0	0	2	0	1	4	0	1	0	1	0	1	1	0	1	1	0	3.0	0	4	Lecture attendance and participation will have a direct impact — .	7
+30	1	0	8	3	1	7	0	2	0	5	0	1	2	1	1	2	0	5.0	1	23	"The package was misaddressed; arriving at destination with torn sides, opened before receipt, half-empty, yet somehow containing a note, signed ""A."	7
+67	0	0	10	8	1	23	1	11	1	8	1	1	1	7	2	2	0	5.0	7	44	The assassins planned their attack on the summit meeting, ensuring security measures were bypassed: semaphore signals from the hills; a decoy vehicle filled with C-4 in the car park; a lookout atop the hotel; a sniper hidden in the trees; poison in the food; threats sent to the delegates; and false intel planted to create chaos.	7
+27	0	0	4	4	3	7	1	3	0	2	0	2	1	0	2	1	1	5.0	1	13	The defendant, who was under the influence of both alcohol and drugs, attempted suicide in jail, but was revived by the medical staff.	7
+23	0	0	6	0	1	10	0	4	0	1	0	0	1	0	1	1	0	4.0	0	18	The package contained explosives, a timer, wire connections, batteries, a cellular trigger mechanism, and a fragmentation device.	7
+18	1	0	3	2	0	5	0	2	0	3	0	0	2	1	1	1	1	5.0	2	9	The ancient library, a labyrinth filled with cryptic inscriptions, whispered tales of knowledge long forgotten.	7
+18	0	0	3	2	1	5	0	1	1	3	0	1	0	0	3	1	0	3.0	0	14	Prices may vary from store to store, but this chain guarantees consistency, McDonald's asserted.	7
+32	1	0	4	5	1	10	2	4	0	3	0	0	2	1	1	1	0	6.0	1	8	During our exploration of the abandoned mine shaft, we encountered a sudden cave-in, promptly followed by the sound of rushing water and the flickering of electric lights.	7
+33	2	0	5	2	3	10	0	2	1	3	0	0	4	2	1	3	0	7.0	2	10	In this lab, students combine H2SO4 and KMnO4 solutions, creating not only purple MnSO4 crystals and pungent, acrid gas, but also the potential for splashes causing minor burns.	7
+16	0	1	2	1	1	3	1	0	1	4	0	0	1	2	1	2	0	4.0	2	7	Lorenzo managed to save for retirement, but discovered new expenses after leaving his job.	7
+13	1	1	1	2	1	3	0	0	1	3	0	0	0	1	2	0	0	4.0	1	4	Frost once declared that poetry begins in delight and ends in wisdom.	7

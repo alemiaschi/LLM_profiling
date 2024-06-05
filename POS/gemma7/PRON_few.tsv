@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+11	0	0	1	2	0	3	0	2	0	2	0	1	0	0	1	0	0	2.0	0	6	The goods are shipped via freight to the designated warehouse.	0
+14	0	1	2	0	1	2	1	2	0	2	0	2	1	0	2	1	1	3.0	1	5	As you can see, the text is complete and fulfills the task.	0
+23	0	0	4	3	2	7	0	3	0	1	0	2	1	0	2	0	0	4.0	0	9	The package was delivered to the warehouse, and the buyer is responsible for storage, loading, and freight after delivery.	0
+12	0	0	1	1	1	5	0	3	0	1	0	0	0	0	1	1	0	3.0	0	5	The freight charge covers the delivery and unloading of the goods.	0
+25	1	0	2	2	0	5	1	5	0	4	0	2	1	3	2	2	0	5.0	3	14	The provided text does not contain any information about the sentence requested in the instruction, therefore I am unable to complete the task.	0
+9	0	0	1	1	1	2	0	1	0	1	0	1	1	0	1	0	0	3.0	0	2	The item is packed and ready for shipment.	0
+8	0	0	1	0	1	1	0	1	0	1	0	0	3	0	1	0	0	3.0	0	2	The golden rays feel soft and soothing.	0
+15	0	0	1	2	0	5	0	3	0	1	0	1	0	0	1	0	0	3.0	0	10	The merchandise is shipped from the seller's warehouse to the buyer's warehouse.	0
+10	1	0	1	1	0	2	0	2	0	1	0	2	0	0	1	0	0	2.0	0	4	The merchandise has been successfully delivered to the warehouse.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The package was successfully delivered to the warehouse.	0
+14	0	0	1	2	1	3	0	3	0	3	0	1	0	1	1	0	0	3.0	1	6	The cargo is loaded and shipped according to the terms of the contract.	0
+26	1	1	1	3	0	5	3	4	0	3	0	3	1	3	3	1	0	6.0	3	5	The contents of the shipment are delivered to the warehouse where they are stored until the buyer is ready to load them onto their truck.	0
+14	0	0	1	1	0	5	0	3	0	2	0	1	0	1	1	1	0	4.0	1	5	The package was shipped to the warehouse using the freight forwarder's services.	0
+21	2	1	2	1	1	6	0	3	0	3	0	2	0	2	2	0	0	6.0	2	7	The cargo shipment has been completed successfully, with all goods safely delivered and the warehouse space reserved for storage.	0
+10	0	1	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The shipment details are as stated in the contract.	0
+16	2	0	3	1	1	4	0	2	0	2	0	1	0	0	2	0	0	4.0	0	10	The package was delivered to the warehouse, therefore, storage and loading commenced immediately.	0
+12	1	0	1	2	0	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	6	The contents of the box are neatly organized into individual compartments.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The product was successfully delivered to the warehouse.	0
+9	0	0	1	1	0	2	0	2	0	1	0	2	0	0	1	0	0	2.0	0	3	The freight is being delivered to the warehouse.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The merchandise is loaded onto the truck.	0
+7	0	0	1	1	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The package is ready for shipment.	0
+15	1	0	3	2	0	4	0	3	0	2	0	0	0	0	1	1	1	3.0	1	7	A bouquet of roses, arranged expertly, enhances the fragrance of the room.	0
+13	0	0	1	2	1	3	0	3	0	2	0	1	0	0	1	0	0	3.0	0	5	The cargo is loaded onto the truck and transported to the warehouse.	0
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	F.O.B.	0
+26	0	0	4	3	3	6	1	3	0	3	0	1	2	0	1	0	0	5.0	0	9	The cargo was unloaded, stored, and loaded onto the warehouse dock, with both the seller and buyer responsible for their respective responsibilities.	0
+16	0	0	1	3	3	6	0	1	0	2	0	0	0	0	1	1	0	4.0	0	9	The freight charge covers both unloading and storage up to and including delivery in warehouse.	0
+30	3	0	3	3	2	10	0	5	0	2	0	1	1	1	1	1	0	6.0	1	10	The cargo shipment details are clearly described in the aforementioned text, outlining the responsibilities of both the seller and buyer, as well as the freight handling procedures.	0
+14	0	0	1	2	0	4	0	3	0	1	0	2	1	0	1	0	0	2.0	0	8	The goods are being shipped from the east coast to the west coast.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The package was delivered to the warehouse.	0
+7	0	0	1	1	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The package is ready for shipment.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The merchandise is shipped directly to the warehouse.	0
+12	1	0	1	2	0	3	0	3	0	1	0	1	0	0	1	0	0	2.0	0	7	The goods are shipped directly from the manufacturer to the warehouse.	0
+39	1	0	6	5	4	13	0	7	0	1	0	2	0	0	2	0	0	4.0	0	23	The freight, unloading, and storage are the responsibilities of the seller up to and including delivery in the warehouse, and the storage, loading, and freight are the responsibilities of the buyer after delivery.	0
+13	0	0	1	2	1	3	0	3	0	2	0	1	0	0	1	0	0	3.0	0	5	The merchandise is loaded onto the truck and transported to the warehouse.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The package was delivered to the warehouse.	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	 The package is on the table.	0
+13	0	0	1	2	1	3	0	3	0	2	0	1	0	0	1	0	0	3.0	0	5	The cargo was loaded onto the truck and shipped to the warehouse.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The weather was delightful yesterday.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The items were shipped directly to the warehouse.	0
+13	0	0	2	1	1	2	2	1	0	2	0	1	0	0	2	0	0	3.0	0	7	The package arrived yesterday, but it was not intended for me.	0
+22	1	0	2	3	1	6	2	4	0	3	0	0	0	1	2	2	0	4.0	1	7	The truck driver handed off the cargo to the warehouse staff, who then unloaded and stored it in the warehouse.	0
+17	0	0	1	3	0	5	1	4	0	1	0	2	0	1	2	0	0	4.0	1	6	The items in the list are the names of persons who are listed on the website.	0
+45	0	1	5	8	3	13	1	3	1	4	0	3	3	4	4	1	0	6.0	4	19	The cargo is shipped FOB which stands for Free on Board, meaning the seller is responsible for freight, unloading and storage up to and including delivery in warehouse, while the buyer is responsible for storage, loading and freight after delivery.	0
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	2	The orange blossoms perfume the air.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The merchandise is shipped directly to the warehouse.	0
+15	0	0	2	3	1	3	0	2	0	3	0	1	0	0	1	0	0	4.0	0	6	The goods are loaded and transported in accordance with the agreed-upon terms.	0
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The package was successfully delivered to the warehouse.	0
+40	0	0	5	6	4	12	1	3	1	3	0	3	2	2	4	1	0	7.0	2	27	The goods were shipped F.O.B., which means the seller is responsible for freight, unloading and storage up to and including delivery in warehouse, and the buyer is responsible for storage, loading and freight after delivery.	0
+13	0	0	1	2	1	3	0	2	0	2	0	1	1	0	1	0	1	4.0	1	6	The items listed in the warehouse are boxed and ready for shipment.	0
+12	0	0	1	2	0	4	0	3	0	1	0	1	0	0	1	0	0	3.0	0	3	The freight charges are included in the price of the item.	0
+32	5	2	5	1	1	3	4	3	0	1	0	3	4	1	2	0	1	6.0	2	6	If I were you, I would be a rat, because there is no companion quite so devoted, so communicative, so loving and so mesmerizing as a rat.	1
+10	1	0	1	0	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	7	The cat is a very loving and devoted companion.	1
+20	2	0	3	1	1	3	0	3	0	0	0	1	6	0	1	0	0	3.0	0	8	A young rat is the most devoted companion, so communicative, loving and mesmerizing as any other animal.	1
+10	1	0	1	0	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	7	The cat is a very loving and devoted companion.	1
+11	0	0	1	2	0	4	0	1	1	1	0	1	0	0	1	0	0	2.0	0	5	The train platform was crowded with passengers on Sunday evening.	1
+20	1	1	2	1	1	4	1	3	0	0	0	2	4	1	2	0	0	4.0	1	12	The rat is a very popular companion for many people, as it is a loving and mesmerizing animal.	1
+17	2	0	3	1	1	3	2	1	0	1	0	1	2	0	2	1	1	4.0	1	10	The cat, who is very loving and playful, always seeks attention from its owner.	1
+22	3	0	2	3	0	5	1	4	0	1	0	2	1	0	2	0	0	3.0	0	11	The rat is a very popular companion for people of all ages, so it is often kept as a pet.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+14	1	0	2	2	0	3	0	3	0	3	0	0	0	1	1	0	0	4.0	1	5	 The cat jumped onto the table, landing on the freshly baked bread.	1
+11	1	0	1	0	0	2	1	2	0	1	0	2	1	1	2	0	0	2.0	1	4	The cat is the best companion anyone could ever have.	1
+20	5	0	3	1	1	2	1	2	0	1	0	0	4	0	0	0	0	5.0	0	6	There is no companion quite so devoted, so communicative, so loving and so mesmerizing as a rat.	1
+8	1	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	5	The cat is a very popular companion.	1
+11	1	0	1	0	0	2	1	2	0	1	0	2	1	1	2	0	0	2.0	1	4	The cat is the best companion one could ever have.	1
+16	1	0	3	0	1	2	1	2	0	0	0	2	4	1	2	0	0	3.0	1	6	The rat is a companion that is very devoted, communicative, loving and mesmerizing.	1
+13	0	1	2	0	0	2	3	1	0	1	0	2	1	0	2	1	1	3.0	1	9	If you have a cat, it will be your loyal companion.	1
+12	2	0	1	0	0	2	1	2	0	1	0	2	1	1	2	0	0	2.0	1	5	The rat is the most mesmerizing companion one could ever have.	1
+10	0	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	2.0	0	4	 The cat was a beloved companion of the owner..	1
+20	5	0	3	1	1	2	1	2	0	1	0	0	4	0	0	0	0	5.0	0	6	There is no companion quite so devoted, so communicative, so loving and so mesmerizing as a rat.	1
+16	0	0	4	0	1	2	1	2	0	0	0	2	4	1	2	0	0	3.0	1	7	The rat is a companion that is devoted, communicative, loving, and mesmerizing.	1
+20	5	0	3	1	1	2	1	2	0	1	0	0	4	0	0	0	0	5.0	0	6	There is no companion quite so devoted, so communicative, so loving and so mesmerizing as a rat.	1
+10	1	0	1	0	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	7	The cat is a very loving and devoted companion.	1
+14	0	1	1	1	0	4	0	3	0	3	1	0	0	1	1	2	0	4.0	1	5	The provided text specifies a task of generating a sentence with 1 pronoun.	1
+7	0	0	1	0	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	4	The cat is my favorite companion.	1
+10	1	0	1	0	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	7	The rat is the most loving and mesmerizing companion.	1
+8	1	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	5	The rat is a very popular companion.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps onto the table.	1
+15	1	1	2	1	0	3	1	2	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for its owner to come home.	1
+20	5	0	3	1	1	2	1	2	0	1	0	0	4	0	0	0	0	5.0	0	6	There is no companion quite so devoted, so communicative, so loving and so mesmerizing as a rat.	1
+21	0	0	2	3	0	7	0	3	1	3	0	0	1	2	1	2	0	4.0	2	6	A sudden gust of wind on Wednesday evening caused a tree to fall onto the road, obstructing traffic flow.	1
+12	2	0	1	0	0	2	1	2	0	1	0	2	1	1	2	0	0	2.0	1	5	The cat is the most loyal companion anyone could ever have.	1
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred happily.	1
+12	2	0	1	0	0	2	1	2	0	1	0	2	1	1	2	0	0	2.0	1	5	The rat is the most mesmerizing companion anyone could ever have.	1
+14	0	0	1	2	0	1	1	1	4	1	1	2	0	1	2	0	0	3.0	1	4	Kaoshikii is a dance which was invented in 1978 by Shrii Shrii A'nandamu'rti.	1
+10	1	0	1	0	1	2	0	2	0	0	0	1	2	0	1	0	0	3.0	0	7	The cat is a very loving and devoted companion.	1
+8	1	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	5	The cat is a very affectionate companion.	1
+20	5	0	3	1	1	2	1	2	0	1	0	0	4	0	0	0	0	5.0	0	6	There is no companion quite so devoted, so communicative, so loving and so mesmerizing as a rat.	1
+11	1	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	2.0	0	5	The rat is a very popular companion in this city.	1
+15	1	1	2	1	0	3	1	2	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sat on the mat, waiting for its owner to come home.	1
+7	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The cat is a beloved companion.	1
+17	1	1	2	1	0	4	1	3	0	3	0	0	0	2	2	0	0	4.0	2	7	The cat sat on the mat this morning, waiting for its owner to come home.	1
+11	0	0	1	0	1	3	0	3	0	0	0	1	2	0	1	0	0	2.0	0	4	The cat is a loyal companion and a beloved pet.	1
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	 The cat sat on the mat and looked at the sun..	1
+14	1	0	1	1	0	2	2	2	0	2	0	1	2	1	2	1	0	4.0	1	4	The young child has a stuffed bear that is very precious to them.	1
+8	1	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	5	The cat is a very affectionate companion.	1
+14	0	0	1	2	0	1	1	1	4	1	1	2	0	1	2	0	0	3.0	1	4	Kaoshikii is a dance which was invented in 1978 by Shrii Shrii A'nandamu'rti.	1
+15	1	0	4	0	1	2	0	2	0	0	0	1	4	0	1	0	0	3.0	0	12	The rat is the most devoted, communicative, loving, and mesmerizing companion.	1
+23	1	0	4	3	1	8	1	2	0	0	0	1	2	0	1	0	0	3.0	0	9	The rat is a very popular companion among people due to its devotion, communication skills, love, and mesmerizing nature.	1
+23	1	0	2	2	0	6	0	5	0	4	1	1	0	1	2	2	0	5.0	1	7	The provided text describes a solved example of the task, where the objective is to generate a sentence with one pronoun.	1
+15	1	1	2	1	0	3	1	2	0	3	0	0	0	2	2	0	0	4.0	2	5	The cat sits on the mat, waiting for its owner to come home.	1
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+19	0	1	3	0	1	5	1	5	0	2	0	0	1	1	1	2	0	4.0	1	9	The politician, the activist, and the businessman all have their own reasons for supporting the candidate.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to administer the medication.	3
+28	2	1	3	2	1	3	4	3	0	5	0	0	1	3	3	3	0	4.0	3	11	The dentist wants to pull the tooth out always, but he always wants to do the cheapest for his benefit, not unless he knows you.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+16	0	0	1	1	0	3	3	2	0	3	0	1	1	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to ensure the proper distribution.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to complete the task.	3
+28	2	1	3	2	1	3	4	3	0	5	0	0	1	3	3	3	0	4.0	3	11	The dentist wants to pull the tooth out always, and he always wants to do the cheapest for his benefit, not unless he knows you.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to complete the task.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+18	0	0	1	2	0	4	3	2	0	3	1	1	0	2	2	3	0	6.0	2	6	That would require someone who had access to the strain to generate a sentence with 3 pronouns.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to complete the task.	3
+17	0	0	2	1	0	3	3	2	0	3	0	1	1	2	2	3	0	5.0	2	6	**That would require someone who had access to the strain to have a closer look.**	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	 That would require someone who had access to the strain.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	 That would require someone who had access to the strain.	3
+22	0	0	2	2	1	6	3	4	0	3	0	1	0	1	3	4	0	6.0	1	11	The doctor gave the patient a prescription for medication, but it would require someone who had access to the strain.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to complete the task.	3
+15	0	0	1	1	0	3	3	1	0	3	0	1	1	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to provide medical assistance.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	 That would require someone who had access to the strain.	3
+20	0	0	3	2	0	4	3	2	0	3	0	1	1	2	2	3	0	6.0	2	7	That would require someone who had access to the strain to administer, for example, the intravenous medication.	3
+33	2	0	3	3	2	7	3	2	0	4	0	2	2	2	2	1	1	7.0	3	9	The CEO's decision to invest in renewables is important, but so is enforcement, and there are a number of reasons why we need to pay particular attention to this.	3
+16	0	0	1	2	0	3	3	2	0	3	0	1	0	2	2	2	0	5.0	2	6	 That would require someone who had access to the strain to partake in the experiment.	3
+17	0	0	1	2	0	3	4	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to administer it to the patient.	3
+28	2	1	3	2	1	3	4	3	0	5	0	0	1	3	3	3	0	4.0	3	11	The dentist wants to pull the tooth out always, but he always wants to do the cheapest for his benefit, not unless he knows you.	3
+32	3	0	7	2	2	5	4	1	0	3	0	2	2	2	2	1	0	7.0	2	9	"""This is important, but so is enforcement, and there are, of course, a number of reasons why we need to pay particular attention to this."""	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+28	2	1	3	2	1	3	4	3	0	5	0	0	1	3	3	3	0	4.0	3	11	The dentist wants to pull the tooth out always, but he always wants to do the cheapest for his benefit, not unless he knows you.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+19	1	0	2	1	1	3	2	2	0	3	0	2	0	1	2	1	0	3.0	1	10	The politician has promised to help the people, but he hasn't delivered on his promises yet.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to administer the medication.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to provide a sample.	3
+15	0	0	1	1	0	3	3	2	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to complete the task.	3
+26	2	1	2	2	1	3	3	3	0	5	0	0	1	3	2	3	0	4.0	3	10	 The dentist wants to pull the tooth out always and always wants to do the cheapest for his benefit, not unless he knows you.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+14	0	0	1	1	0	2	4	1	0	3	0	1	0	2	2	3	0	5.0	2	6	That would require someone who had access to the strain to administer it.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+13	0	0	3	0	1	5	0	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The lawyer, client, and accountant have a meeting scheduled tomorrow.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+26	2	1	3	2	0	3	3	3	0	5	0	0	1	3	2	3	0	4.0	3	10	The dentist wants to pull the tooth out always, always wants to do the cheapest for his benefit, not unless he knows you.	3
+22	1	2	2	2	0	3	2	2	0	3	0	2	1	1	3	0	1	4.0	2	8	The politician's reason for stepping down was that he was unpopular, so the voters decided to vote against him.	3
+11	0	0	1	1	0	2	3	1	0	2	0	1	0	1	2	2	0	5.0	1	3	That would require someone who had access to the strain.	3
+6	0	0	1	0	0	2	0	1	1	0	0	0	0	0	0	0	0	2.0	0	2	The landlord's cat, Mr.	3
+20	0	0	3	1	1	6	0	5	0	2	0	0	1	1	1	1	0	4.0	1	9	The CEO, the accountant, and the board chairman need to take a closer look at this proposal.	3
+15	0	0	2	1	0	2	3	1	0	2	0	2	1	2	2	2	0	5.0	2	7	**That would require someone who had access to the strain to be present.**	3
+24	1	0	3	3	0	5	0	4	1	1	0	3	3	0	1	0	1	4.0	1	17	A basket of chocolates, consisting of these lovely little chocolates, would have been a more satisfactory alternative to the Styrofoam peanuts.	5
+23	0	1	2	2	0	6	2	4	0	1	0	3	2	0	2	1	1	3.0	1	16	 If you were given a gift certificate to a chocolate store, those delicious chocolates would be the perfect treat for you.	5
+27	1	1	2	2	1	4	7	1	0	5	0	2	0	2	3	3	1	5.0	3	15	If you gave me a sandwich and your cat was sitting next to you, I would feel obligated to share my sandwich with your cat.	5
+27	1	1	2	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	If you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+23	0	0	2	2	1	7	3	3	0	3	0	0	0	2	2	2	0	6.0	2	6	 The chef gave the chef's assistant a box of chocolates, which they offered to share with their friends and family.	5
+28	0	1	3	1	2	5	3	2	0	3	0	4	2	1	3	1	1	4.0	2	17	 If the weather is fine, I would go to the park and bring my dog/cat/parrot, and they would be happy playing.	5
+22	0	1	3	0	1	4	4	2	0	4	0	0	3	2	3	3	0	5.0	2	10	The politician offered the protestors their own personal belongings, but they refused, stating that they had their own agenda.	5
+36	3	3	3	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	28	**If so, then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared?**	5
+27	1	1	2	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	 If you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+23	3	0	3	1	1	2	5	1	1	4	0	0	2	2	3	2	0	4.0	2	10	 Now suppose, instead of Styrofoam peanuts, we take these lovely little chocolates that we get and we had those instead.	5
+19	0	2	2	0	0	1	4	1	0	4	0	4	0	1	4	1	2	3.0	3	8	If I had known you were coming, I would have baked a cake for you to enjoy.	5
+28	0	0	2	1	1	6	3	8	0	5	0	0	1	4	4	3	0	6.0	4	15	The professor gave the students a comprehensive list of all the universities that do the courses they want, plus all the information they need to apply.	5
+26	2	0	2	3	1	6	3	4	0	1	0	3	1	0	2	2	0	4.0	0	13	You could give your cat a bowl of food and it would still be a part of the family, regardless of any other factors.	5
+13	0	0	3	1	1	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	The chocolates are distributed to the cats, dogs, and parrots.	5
+27	1	1	2	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	If you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+27	1	1	2	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	If you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+37	0	1	2	3	0	6	8	7	0	6	0	3	1	2	6	5	3	7.0	5	17	If you had given me a list of the universities that do the courses you want, I would have provided you with a comprehensive list of all the universities that do the courses you want.	5
+27	1	1	2	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	If you watch a scary movie and your dog/cat/parrot is in the same room as you, they will also get scared.	5
+35	3	3	3	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	26	If so, then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+20	0	0	2	2	1	7	1	5	0	2	0	0	0	0	2	3	0	3.0	0	11	The teacher gave the student a list of textbooks, and the student gave the textbooks to their friend.	5
+24	0	0	4	1	1	7	2	5	0	4	0	0	0	1	3	3	0	4.0	1	13	The children brought their toys, the teacher brought the homework, and the students took their seats, preparing for the lesson.	5
+27	1	1	2	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	If you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+24	0	0	2	4	1	5	5	3	0	2	0	2	0	1	2	2	0	6.0	1	5	In the future, she will bring us a bouquet of flowers and a box of chocolates that she has purchased for us.	5
+18	0	1	2	1	0	3	3	2	0	2	0	2	1	1	2	2	1	3.0	2	8	If you have a dream job, you should be grateful for the opportunity to do it.	5
+39	3	1	3	3	1	4	8	2	0	6	0	5	2	2	5	3	3	6.0	5	22	 If you gave me a bunch of cookies that I had previously eaten but I didn't remember eating, I would probably be grateful, assuming you could provide them along with a glass of orange juice.	5
+22	0	1	5	1	1	1	5	1	0	2	0	2	3	1	2	0	1	4.0	2	6	"""Those lovely little chocolates that we get would be perfect for sharing with you, me, and them."""	5
+16	0	1	2	1	0	4	0	3	0	1	0	2	2	0	2	1	1	3.0	1	7	If the patient is allergic to penicillin, the doctor will prescribe an alternative medication.	5
+27	0	0	7	5	1	7	2	2	0	2	0	1	0	0	1	1	1	6.0	1	12	A bouquet of flowers containing roses, tulips, and lilies, was given to her, from him, with love, on that day.	5
+15	0	0	2	2	0	4	1	4	0	1	0	1	0	0	1	1	0	3.0	0	5	 **All the students can see their teachers from the back of the classroom.**	5
+21	1	1	2	2	1	5	3	1	0	3	0	1	0	1	2	1	1	5.0	2	12	If you have a lot of friends and family members, they will definitely want to come to your party.	5
+26	0	1	1	3	2	3	4	2	0	6	0	1	2	4	3	1	0	6.0	4	12	I recall going to the park and seeing my friends playing and I felt happy that I was able to join in on the fun.	5
+23	0	0	5	1	1	7	0	7	0	1	0	0	1	0	1	0	0	3.0	0	15	The students, the teacher, the book, the homework, and the principal all participated in the annual reading competition.	5
+19	0	0	3	1	0	4	1	4	0	3	1	1	1	2	2	1	0	4.0	2	6	 The chocolate bar was distributed amongst the five children, including myself, each receiving a different portion.	5
+21	0	0	1	2	1	5	3	3	0	3	0	1	1	2	2	2	0	5.0	2	12	The teacher gave the students a list of their homework assignments and they were excited to begin working on them.	5
+22	0	3	2	0	0	3	4	2	0	4	0	2	2	2	4	2	1	4.0	3	6	 If you have a cat, you might find that your cat will get scared if you watch a scary movie.	5
+16	1	0	2	1	1	2	3	2	0	3	0	1	0	1	2	1	0	4.0	1	5	**I went to the library and borrowed a book that I had previously read.**	5
+27	0	0	2	1	1	4	5	6	0	5	0	1	1	4	4	3	0	6.0	4	15	They'll give you a comprehensive list of all the universities that do the courses you want, plus all the information you need to apply.	5
+19	0	0	3	1	1	4	2	3	0	2	0	3	0	1	3	1	0	3.0	1	13	The students are studying for the exam, which is tomorrow, and the teacher is helping them.	5
+7	1	0	2	0	0	1	0	1	0	0	0	1	0	0	0	0	0	2.0	0	3	Okay, here is the sentence: If I were you, I would take those delicious chocolates that my friends gave me and offer them to my family.	5
+27	1	1	2	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	If you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+20	0	0	1	2	0	6	2	5	0	3	0	0	0	2	2	4	0	7.0	2	4	The teacher assigned the students a project that required them to write a report about the importance of recycling.	5
+26	0	0	4	2	2	6	3	4	0	2	0	1	2	0	2	2	0	5.0	0	17	 The little girl had a box full of chocolates, a parrot, and a cat, and she was sharing them with her friends.	5
+22	1	0	5	1	2	3	3	2	0	2	0	2	0	0	2	0	0	3.0	0	11	The children, my family, and I were invited to the party, but unfortunately, I couldn't attend.	5
+20	0	1	2	1	1	3	3	4	0	3	0	1	1	0	3	3	1	4.0	1	11	If you eat an apple and you have a pear, you can have both at the same time.	5
+35	3	3	3	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	26	 If so, then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+31	2	1	4	1	2	3	7	3	0	3	0	4	1	0	4	5	1	3.0	1	19	If you are sick, I will bring you some juice, and I will bring the soup for you, and maybe I will also bring you some fruit.	5
+28	1	1	3	2	1	5	4	2	0	2	0	2	3	0	3	1	1	5.0	1	22	**If you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.**	5
+20	0	0	3	1	2	5	2	4	0	2	0	0	1	0	2	2	0	3.0	0	12	**The children brought their parents and friends to the party, and they all had a good time.**	5
+18	0	0	2	2	2	1	3	2	0	3	0	2	0	0	2	1	0	3.0	0	12	 The chocolates were taken by us and given to him, but I didn't have any.	5
+35	3	3	3	2	1	5	5	2	0	3	0	3	3	2	4	1	0	6.0	2	26	If so, then does that mean that if you watched a scary movie and your dog/cat/parrot was in the same room as you, they will also get scared.	5
+19	1	1	3	1	0	4	1	2	0	2	0	2	1	0	2	1	2	4.0	2	10	The politician's daughter, who is known for being outspoken, angrily addressed the crowd of supporters.	7
+18	0	1	1	2	0	4	3	2	0	2	0	2	0	1	3	1	0	5.0	1	5	The people I was with were laughing because I made a joke about my cat's tail.	7
+35	0	1	6	0	4	7	1	7	0	7	0	1	0	2	6	2	0	5.0	2	29	The dog ate the bone, and the cat chased the mouse, while I was watching, and the baby smiled, and the teacher instructed, but the student refused to listen.	7
+43	0	2	6	1	3	11	0	9	0	6	0	5	0	2	6	3	0	7.0	2	9	The boy was watching the girl dance, and the woman was making popcorn, while the cat sat on the mat, and the dog was barking, and the fish were swimming, while the parrot was mimicking the sounds.	7
+14	0	0	2	1	1	3	2	2	0	1	0	1	1	0	2	1	0	2.0	0	10	The boy gave his horse to the farmer, and he was happy.	7
+14	0	1	3	1	0	3	0	2	0	3	1	0	0	1	1	1	0	2.0	1	5	In this instance, the generated sentence includes seven pronouns, as requested.	7
+22	0	1	3	3	0	5	3	3	0	3	0	0	1	0	3	1	1	3.0	1	7	As the young boy raced across the park, his laughter echoed throughout the playground, his friends cheered him on.	7
+22	0	0	3	1	2	5	0	4	0	3	0	0	4	0	3	0	0	3.0	0	15	The quick brown fox jumped over the sleeping tiger, and the hungry lion roared, but the goat remained unharmed.	7
+32	0	1	4	3	1	3	8	1	0	5	0	2	2	4	3	1	0	6.0	4	19	" ""It was me who told him to stop staring at my red face and to focus on the presentation; I believe that my sister was impressed by that."""	7
+18	0	1	2	0	1	1	5	0	0	2	0	3	2	1	3	2	0	3.0	1	11	I am glad that he was facing me, and I couldn't see his red face.	7
+12	0	0	2	1	0	2	2	1	0	1	1	2	0	0	2	1	0	3.0	0	5	I have generated a sentence with 7 pronouns, which is: My sister was laughing at the joke that her friend told her, and I felt sorry for her.	7
+23	3	1	2	1	1	2	5	1	0	2	0	4	1	2	4	1	0	4.0	2	11	I am grateful that you invited me to the party, but I wish my friends could have been there as well.	7
+29	0	0	3	3	2	5	2	6	0	5	0	1	2	2	3	2	0	3.0	2	19	The dog played with the ball, and they chased each other around the park, but the old woman was sitting on a bench watching them play.	7
+25	2	0	4	0	2	2	6	2	1	4	0	1	0	2	4	4	0	4.0	2	22	  I gave him a gift, Her Majesty was there, and she offered to give me a ride home, but I declined.	7
+29	0	1	6	1	1	2	7	1	0	7	0	3	0	3	7	0	1	5.0	4	12	As he swam, she sang, their voices accompanied by the wind, and we could hear them singing, he is coming, he is coming.	7
+18	2	0	2	0	0	5	0	4	0	3	0	1	1	2	2	3	0	4.0	2	6	The chef was meticulously preparing the food when the kitchen caught fire, destroying the delicate dish.	7
+25	0	2	4	1	2	1	8	0	0	3	0	2	1	2	4	1	0	4.0	2	16	I am angry that he ignored me, my brother, and her, and I will not speak to them until they apologize.	7
+32	0	1	3	1	1	5	7	4	0	4	0	4	0	4	6	2	0	4.0	4	22	You made a choice to be a mommy, you don't get a break until they move out, that's the choice that you made and that's life.	7
+21	0	1	2	1	1	2	5	1	0	4	0	2	1	2	3	2	0	4.0	2	11	I am pleased that you decided to join me, and we can have a conversation about our shared experiences.	7
+23	0	0	3	0	1	5	2	4	0	2	0	2	4	0	3	3	1	4.0	1	10	The old man, who was wearing a bright red hat, gave his grandson a hug and the grandson was happy.	7
+48	0	1	7	1	5	9	1	9	0	7	0	6	2	1	7	2	0	5.0	1	43	The boy was dancing, and the woman was watching him, while the child ran around the park, and the dog was playing, and the cat was sleeping, and the old man was reading a book, and the young girl was skipping.	7
+18	0	0	3	0	1	5	0	5	0	4	0	0	0	2	2	3	0	4.0	2	9	The boy gave the girl a hug, and the teacher smiled, watching the children play.	7
+40	3	3	2	1	0	5	8	5	0	6	0	4	2	5	6	3	0	6.0	5	29	 The old woman told me that I should let you know though that she was very offended this morning that you didn't spell her name right in the email - I mean it's such a common spelling..	7
+24	0	1	1	0	1	1	7	1	0	5	0	3	1	3	4	4	0	6.0	3	8	 She told me that was to bad she would do nothing to help me since she could not use or resell the piece.	7
+17	0	0	2	2	1	3	1	2	1	2	0	1	2	0	2	0	0	3.0	0	9	The quick brown fox jumps over the sleeping goat, and Sally is chasing after it.	7
+18	0	0	2	1	1	4	4	1	0	2	0	1	0	0	2	2	0	3.0	0	13	 The woman brought her brother's book to him, but her sister didn't want it.	7
+33	3	0	3	3	2	7	2	4	0	3	0	3	2	3	3	0	0	6.0	3	11	The owner of the cat was responsible for its care and feeding, but the tenant was frustrated when the cat was allowed to roam freely, sometimes straying into their apartment.	7
+15	0	0	2	1	1	5	0	4	0	2	0	0	0	0	2	1	0	3.0	0	8	The cat sat on the mat, and the dog watched the child play.	7
+28	0	1	2	4	2	5	5	3	0	2	0	3	1	1	3	0	0	5.0	1	22	I was amused by the sight of his grin and realized that the hair on her head was a mess, and he was oblivious to it.	7
+16	1	2	1	0	0	4	3	0	0	2	0	2	1	2	2	2	0	4.0	2	5	She was furious that her son was playing video games instead of doing his homework.	7
+30	0	1	6	1	1	4	6	2	0	7	0	2	0	3	7	0	1	5.0	4	11	As the child swam, their parents sang, their voices born on the wind, and I heard them singing, he is coming, he is coming.	7
+27	1	1	3	1	1	3	7	1	0	3	0	2	3	2	4	3	0	6.0	2	13	My brother gave me a gift, and my friends were jealous, so I felt glad that I was able to share it with them.	7
+16	0	1	2	1	1	2	5	1	0	3	0	0	0	0	3	2	1	3.0	1	6	As I sat on the swing, he offered me his hand and she smiled.	7
+33	1	1	6	3	1	5	5	3	0	3	0	2	3	1	4	2	1	5.0	2	12	The old man with a beard, which was very bushy, stroked his hairy head, and I, as the witness, felt joy that he was smiling at me.	7
+28	0	2	3	1	1	2	7	1	0	3	0	3	4	4	5	2	0	5.0	4	21	 I think my brother was jealous of me, because I was able to get the red piece, and he was angry that I had it.	7
+14	1	2	1	0	0	2	2	2	0	2	0	1	1	2	2	2	0	5.0	2	4	I have no doubt that you are capable of completing this task successfully.	7
+26	0	1	5	0	2	5	3	3	0	2	0	2	2	2	3	1	0	4.0	2	10	The chef, his sous chef, and I, were surprised that the restaurant was full, yet we managed to get a table.	7
+14	0	0	1	2	0	2	1	3	0	1	0	2	1	1	1	1	0	4.0	1	7	You will be able to have all of the pronouns in this sentence.	7
+29	2	2	2	3	1	3	5	2	0	1	0	4	3	3	4	0	0	5.0	3	16	I am happy that everyone was satisfied with the outcome of the game, and I am also glad that my friends were there to celebrate with me.	7
+25	2	0	2	0	1	2	7	0	0	4	0	4	2	3	5	2	0	4.0	3	16	 I am glad he was facing me so he couldn't see my red face, and I think my mare was even laughing.	7
+20	2	0	3	0	1	2	5	0	0	4	0	2	0	1	4	1	0	3.0	1	12	 My brother's dog was chasing me, and I could hear him barking, so I ran away.	7
+33	1	0	3	3	2	7	5	6	0	5	0	0	0	2	3	4	0	6.0	2	10	 The owner of the bike decided to lend it to her friends, and they rode it all the way to the park, where they played games and had a picnic.	7
+27	2	2	2	1	1	3	5	2	0	4	0	4	0	2	4	2	0	4.0	2	11	The Mare was laughing as I was facing her, and she was very offended that I didn't spell her name right in the email.	7
+22	1	1	3	0	1	4	1	4	0	2	0	3	1	1	3	2	0	4.0	1	9	The dog was chasing the cat, but the cat was too quick, so the dog couldn't catch it.	7
+29	1	0	7	1	2	7	3	5	0	1	0	1	1	0	1	0	0	3.0	0	19	The stolen jewels were safely retrieved by the policeman, the thief, the victim, and his wife, the witnesses, my brother, and me.	7
+29	2	1	4	2	1	5	5	2	0	5	0	1	1	1	5	0	1	4.0	2	11	As the young boy danced with the wind, his sister danced alongside him, and their friends were laughing, I felt my spirit soar as well.	7
+15	1	1	2	1	0	1	3	1	0	1	0	2	2	2	2	1	0	4.0	2	5	 I am grateful that she was there, helping me through the difficult time.	7
+22	0	1	7	0	1	2	5	2	0	3	0	0	1	1	1	1	1	3.0	2	12	As the children danced, he, she, they, we, and I watched, enjoying the festive atmosphere.	7
+15	0	1	2	2	0	4	2	2	0	2	0	0	0	1	2	0	0	3.0	1	8	The girl danced with her friends, while her parents watched from the sidelines.	7
+17	0	0	2	0	1	4	1	4	0	3	0	2	0	1	3	1	0	4.0	1	13	The dog ate the bone that the cat had buried, and the lion was watching.	7

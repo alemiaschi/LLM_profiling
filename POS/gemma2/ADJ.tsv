@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun shone without any adjectives.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The sun rises without any light in the sky.	0
+12	0	0	1	2	0	3	1	2	0	2	1	0	0	0	0	0	0	3.0	0	9	There is no sentence with 0 adjectives in the given context.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The sun rose and set without any adjectives in the sky.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The silence screamed for attention.	0
+10	0	1	1	0	0	3	0	2	0	1	0	1	1	1	2	1	0	3.0	1	3	The sky was blank as silence blanketed the world.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was silent.	0
+10	0	0	1	1	0	3	0	3	0	1	0	0	1	0	1	1	0	3.0	0	4	The absence of any adjectives created an inexplicable silence.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	  The void is devoid of any sound.	0
+14	0	0	2	1	1	4	1	1	0	1	0	1	2	1	1	1	0	4.0	1	4	I am devoid of adjectives, lacking any qualifying words or descriptive elements.	0
+20	0	0	4	2	0	3	2	3	0	1	0	4	1	0	3	0	1	4.0	1	16	"The sentence that can be generated from the instruction is: ""He was without a single possession."""	0
+9	0	0	1	0	1	2	0	2	0	0	0	1	2	0	1	0	0	2.0	0	4	The sky was transparent and clear that day.	0
+16	1	0	2	0	1	2	2	2	0	3	0	1	1	0	1	1	0	3.0	0	10	There is no such sentence, and therefore I cannot generate the requested sentence.	0
+13	1	0	1	1	0	3	1	2	0	1	0	3	0	1	2	0	0	3.0	1	5	The lack of adjectives is a void that can never be filled.	0
+18	0	1	2	2	0	4	0	4	0	2	0	2	0	1	2	0	0	4.0	1	5	The task cannot be completed, as the request asks for a sentence with no adjectives.	0
+14	0	0	1	1	0	3	1	3	0	2	0	0	2	1	1	2	0	5.0	1	3	The moonless sky offered nothing to illuminate the vast expanse of the desert.	0
+11	0	0	2	2	0	0	3	2	0	2	0	0	0	1	1	1	0	3.0	1	5	She stood with no one, doing nothing at all.	0
+7	0	0	3	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	" ""The sky was blue."""	0
+22	0	1	3	1	0	2	2	2	0	3	0	3	2	3	3	0	0	5.0	3	5	The task cannot be completed, as it asks for an adjectiveless sentence, which is not possible to generate.	0
+10	1	0	2	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	 **The evening stars beamed brightly in the sky.**	0
+15	0	0	1	3	1	2	0	4	2	2	0	0	0	0	1	0	0	3.0	0	6	The sun rises in the East and sets in the West without any adjectives.	0
+12	1	1	2	0	0	2	0	2	0	1	0	2	1	1	2	0	0	3.0	1	7	The sky was silent, just as the day had become.	0
+9	0	0	1	2	0	3	0	2	0	0	0	1	0	0	1	0	0	2.0	0	3	The sun was without clouds in the sky.	0
+8	0	0	1	1	0	1	2	1	0	0	0	1	1	0	1	0	0	2.0	0	4	She is nothing but the ordinary woman.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	2	  The sun rose this morning.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rose without any adjectives.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun rose today.	0
+7	1	0	1	0	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The sun was shining brightly today!	0
+13	0	0	2	1	0	3	0	3	0	1	0	1	1	1	1	0	0	4.0	1	3	The sky was devoid of any clouds, a sight to behold.	0
+10	0	0	2	1	0	2	1	2	0	2	0	0	0	1	0	0	0	3.0	1	4	  **There were no adjectives in the instructions given.**	0
+8	0	0	1	1	0	1	2	0	0	2	0	0	0	1	0	1	0	3.0	1	2	There is nothing to add adjectives to.	0
+21	0	0	2	2	0	5	2	4	0	2	1	2	0	2	2	2	0	4.0	2	12	I cannot generate a sentence with 0 adjectives, as an adjective is a word that modifies a noun.	0
+11	0	0	1	2	0	2	2	2	0	0	0	1	1	0	1	0	0	3.0	0	4	The void is an empty expanse with nothing in it.	0
+14	0	0	4	1	0	3	1	3	0	1	0	1	0	1	1	0	0	4.0	1	4	"The sentence is, ""There was no silence in the room."""	0
+11	0	0	1	1	1	3	0	2	0	0	0	1	2	0	1	0	0	3.0	0	8	The absence of adjectives is a perplexing and profound matter.	0
+10	0	0	1	1	0	3	0	3	0	0	0	1	1	0	1	0	0	3.0	0	7	The absence of any adjectives is a strange concept.	0
+9	0	0	3	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	" ""The sun set in the west."""	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	2	0	0	3.0	0	6	The sun rose with no clouds in the sky.	0
+10	1	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	Even without the allure, the task remained uncompleted.	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.0	0	0	Sure! There is no task for me to fulfill your request of generating a sentence with 0 adjectives.	0
+6	0	0	1	0	0	1	2	1	0	1	0	0	0	0	1	1	0	2.0	0	3	She ate nothing that day.	0
+17	1	1	1	1	0	4	1	3	0	1	0	2	1	1	2	1	0	3.0	1	6	The moon was so dull tonight that it could not illuminate the clouds in the sky.	0
+17	1	0	4	2	0	4	0	3	0	1	1	1	0	0	2	0	0	3.0	0	8	"A sentence with 0 adjectives is ""The wind blew silently through the trees.""."	0
+19	0	1	2	1	0	5	1	2	0	2	1	2	1	3	3	1	0	4.0	3	7	A sentence with 0 adjectives is impossible to generate, as adjectives are words that describe a noun.	0
+17	0	0	5	2	0	3	0	2	0	1	0	1	3	0	1	0	0	4.0	0	6	" ""The world is silent, filled with whispers of a long, unending sleep."""	0
+17	1	0	1	2	1	5	0	3	0	0	0	1	2	0	1	0	0	3.0	0	11	The sky was as grey and quiet as a pond during the midday sun's peak.	0
+11	0	0	4	0	0	2	0	2	0	0	0	2	1	1	2	0	0	3.0	1	6	"The sentence is, ""The sky was clear."""	0
+13	0	0	1	3	0	5	0	3	0	1	0	0	0	0	1	1	0	3.0	0	7	The absence of adjectives created a sense of emptiness within the room.	0
+13	0	0	2	1	1	3	1	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The sun shines in the sky, yet it has no adjectives.	0
+18	0	0	4	2	0	3	0	3	0	2	0	0	4	0	1	0	0	3.0	0	13	A quiet solitude remained, devoid of any other sounds, in the vast, echoing chamber.	0
+17	1	0	2	2	0	4	1	2	0	2	0	0	3	1	1	1	0	3.0	1	8	The vibrant blue flowers bloomed widely, welcoming visitors to the meadow with their enchanting beauty.	1
+22	0	0	3	3	0	5	0	5	0	2	0	0	4	1	1	1	0	4.0	1	6	The quiet, peaceful stream flowed through the verdant forest, leaving a serene echo in the stillness of the dawn.	1
+10	0	0	1	1	0	2	2	1	0	0	0	1	2	0	1	0	0	2.0	0	5	She is the only bright student in her class.	1
+14	0	0	2	3	0	4	0	3	0	0	0	0	2	0	0	0	0	3.0	0	7	   **Beautiful city with a serene garden in the heart of the city.**	1
+11	1	0	1	1	0	2	0	2	0	0	0	1	3	0	1	0	0	2.0	0	4	The rainy afternoon was quite dreary with a gloomy sky.	1
+12	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	3.0	0	5	The colorful flower's beauty enchants even in the dim twilight.	1
+17	0	0	1	3	0	6	1	1	0	3	0	0	2	0	1	1	2	6.0	2	9	An enormous meadow adorned with blooming wildflowers bathed in golden sunlight painted his world with beauty.	1
+19	1	0	2	2	0	5	0	4	0	2	0	1	2	1	1	1	0	4.0	1	6	The city is bathed in an indigo moonlight, reflecting the twinkling stars on the bustling streets below.	1
+8	1	0	1	0	0	2	0	1	0	1	0	1	1	0	1	0	0	2.0	0	2	The beautiful flowers were blooming brightly yesterday.	1
+25	1	0	4	1	2	5	0	4	0	3	0	3	2	1	2	2	0	5.0	1	8	An **elegant** melody could be easily composed, but creating such a melody would require a high level of artistry and creativity..	1
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	4	The beautiful rose brought elegance to her garden.	1
+13	0	0	3	1	0	2	0	2	0	1	0	1	2	0	1	0	0	3.0	0	9	Sure, the adjective for the following phrase is interesting, interesting.	1
+8	0	0	1	0	1	1	1	1	0	0	0	1	2	0	1	0	0	3.0	0	6	She is a wise and kind teacher.	1
+16	0	0	3	1	0	3	0	3	0	1	0	0	5	0	1	1	0	2.0	0	9	The old, antique book filled the ancient library with a soft, comforting aura.	1
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	A lone sunflower rose amidst the barren leaves.	1
+9	0	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The city is bustling with activity this evening.	1
+11	0	0	1	1	0	2	1	2	0	2	0	0	2	1	1	1	0	4.0	1	4	I saw a charming young woman walking down the street.	1
+10	0	0	3	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	3	The old house was **beautiful** and majestic.	1
+8	0	0	1	1	0	3	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The city is bustling with life today.	1
+13	0	0	2	1	0	3	0	3	0	1	0	0	3	0	1	1	0	3.0	0	4	The colorful, ancient mural captured the essence of the ancient city.	1
+15	0	0	1	2	1	3	0	2	0	1	0	0	5	0	1	0	0	3.0	0	7	The young woman with golden hair looked beautiful and graceful under the sunlit sky.	1
+17	1	0	2	1	0	4	1	3	0	2	0	0	3	1	2	1	0	3.0	1	8	A lone moon hung in the vast sky, its glow contrasting the starless expanse below.	1
+9	1	0	3	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	4	  The room was very **dark** yesterday.	1
+15	2	0	2	2	0	3	1	2	0	2	0	0	1	1	1	0	0	3.0	1	6	The beautiful girl sat alone in her room, looking up at the clouds.	1
+14	1	0	2	1	0	4	1	2	0	2	0	0	1	1	2	0	0	3.0	1	5	The beautiful river flowed effortlessly, its waters glistening in the afternoon sun.	1
+21	1	0	2	3	0	6	1	3	0	2	0	0	2	1	2	0	0	4.0	1	8	The lone sunflower swayed gently in the wind, its petals glistening like precious diamonds under the sun's glare.	1
+20	0	0	1	2	0	6	1	3	0	2	0	1	2	2	1	0	0	5.0	2	5	The city's skyline was a sight to behold with its towering skyscrapers illuminated against the vibrant night sky.	1
+12	0	0	2	1	0	3	0	3	0	1	0	0	2	0	1	0	0	2.0	0	5	 **The lonely old tree stood in the forest all day.**	1
+7	0	0	1	0	0	2	0	1	0	0	0	1	2	0	1	0	0	2.0	0	3	The sky was bright blue today.	1
+8	0	0	1	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	2	The red apple was ripe and juicy.	1
+16	0	0	2	2	0	5	0	3	0	2	0	0	2	1	1	2	0	4.0	1	7	The vibrant sunset cast long shadows across the beach, evoking a sense of serenity.	1
+15	0	0	2	1	1	3	0	2	0	2	0	0	4	0	1	0	0	4.0	0	5	 The colorful flower stood proud and tall, bathed in the warm summer sun.	1
+8	1	0	1	0	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The beautiful moon shone brightly that night.	1
+24	1	0	2	3	0	6	0	6	0	2	0	1	3	2	1	1	0	4.0	2	9	The sun was a bright orb floating in the vast expanse of the sky, casting an illuminating hue upon the clouds below.	1
+23	0	0	3	4	0	7	0	4	0	2	0	0	3	1	1	1	0	4.0	1	6	A single, shimmering drop of rain fell from the clouds, reflecting a breathtaking aurora of colors on the rushing rivers.	1
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The beautiful rose stood elegantly on the garden path.	1
+13	0	0	2	1	0	2	2	2	0	1	0	1	2	1	2	0	0	3.0	1	6	It's an iridescent, magical cloud that danced across the sky..	1
+21	0	1	1	4	0	7	1	3	0	2	0	0	2	1	2	2	0	4.0	1	9	The rainy weather painted the city in shades of gray while it painted the countryside in hues of bright blue.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The beautiful flower was magnificent.	1
+8	1	0	1	0	0	1	1	1	0	0	0	1	2	0	1	0	0	2.0	0	6	She was a very beautiful young woman.	1
+10	0	0	2	0	0	2	0	2	0	0	0	1	3	0	1	0	0	2.0	0	6	 The old house was a beautiful, eerie castle.	1
+16	0	0	3	2	0	3	0	3	0	1	0	1	3	1	1	0	0	4.0	1	5	 The old house was **historic** by the eerie shadows cast in the windows.	1
+11	0	0	1	1	0	3	2	1	0	1	0	0	2	0	1	1	0	2.0	0	8	   She wore a single beautiful gown on her wedding day.	1
+9	1	0	1	0	1	1	1	1	0	0	0	1	2	0	1	0	0	3.0	0	7	She was an extremely beautiful and intelligent graduate.	1
+12	0	0	3	1	0	2	0	2	0	0	0	2	1	0	1	0	0	3.0	0	10	Sure, the adjective for the task would be **old**.	1
+6	0	0	1	0	0	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The red flower is beautiful.	1
+12	0	0	1	1	0	3	0	3	0	2	0	0	2	0	1	1	0	2.0	0	7	The vibrant sunset cast a warm glow upon the rolling mountains.	1
+8	0	0	1	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	2	 The young woman was beautiful and intelligent.	1
+16	0	0	3	1	1	3	0	2	0	1	0	0	4	0	1	0	0	4.0	0	6	The lone flower, elegant and graceful, sat in the sun's warm light.	1
+6	0	0	1	0	0	1	1	1	0	0	0	1	1	0	1	0	0	1.0	0	4	She is a beautiful girl.	1
+12	0	0	2	1	0	3	0	3	0	0	0	1	2	0	1	0	0	2.0	0	4	The lively, serene landscape is a paradise for the mind.	2
+27	1	0	3	3	0	5	1	4	0	3	0	1	6	2	2	1	0	5.0	2	7	The lively cityscapes were adorned with the most vibrant, dazzling lights that danced across the bustling streets, casting ethereal shadows upon the ancient architecture.	2
+10	0	0	2	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	 The old, beautiful church stood on the hill.	2
+16	0	0	1	4	0	5	0	2	0	1	0	1	2	0	1	0	0	4.0	0	4	The vibrant blue sky was adorned with a myriad of clouds in shades of azure.	2
+14	1	0	1	2	0	3	0	3	0	1	0	0	3	0	1	0	0	3.0	0	5	The vibrant green leaves of the forest swayed softly in the cool breeze.	2
+9	0	0	1	0	1	2	0	1	0	0	0	1	3	0	1	0	0	2.0	0	3	 The bustling city streets were quiet and peaceful.	2
+15	0	0	1	2	1	4	0	3	0	1	0	0	3	0	1	0	0	4.0	0	4	A colorful and elegant garden thrived under the golden rays of the setting sun.	2
+19	0	0	2	3	2	6	1	2	0	1	0	0	2	0	1	0	0	5.0	0	8	She stood between elegance and simplicity in the beautiful garden, a masterpiece of contrasting colours and textures.	2
+12	1	0	1	1	1	3	0	2	0	1	0	0	2	0	1	0	0	4.0	0	5	  The blue and purple butterflies flitted gracefully through the blooming sunflowers.	2
+19	0	0	3	3	0	4	2	2	0	2	0	0	3	1	2	0	0	4.0	1	10	She strolled through the lush, verdant forest, her laughter echoing through the peaceful embrace of nature.	2
+22	0	0	2	4	1	6	2	4	0	3	0	0	0	1	1	1	0	4.0	1	10	She strolled through the park with both elegance and chaos, painting with the sun her portrait of a lost love.	2
+15	1	0	2	1	3	2	1	1	0	2	0	0	2	0	2	0	0	3.0	0	9	She looked both happy and sad, like a butterfly emerging and dissapearing again.	2
+11	0	0	1	1	1	2	0	2	0	0	0	1	3	0	1	0	0	2.0	0	5	The busy birds were colorful and energetic in the sky.	2
+14	1	0	1	1	1	2	0	2	0	1	0	0	5	0	1	0	0	4.0	0	6	 The vibrant blue and shimmering silver sunset glowed brightly in the vast sky.	2
+13	0	0	1	2	0	3	0	2	0	1	0	1	3	0	1	0	0	3.0	0	3	 The lush green meadows were adorned with vibrant wildflowers of every color.	2
+13	0	0	1	1	1	2	0	2	0	2	0	0	4	0	1	0	1	4.0	1	6	The colorful flowers bathed in the warm sunshine looked vibrant and majestic.	2
+16	0	0	4	1	2	2	0	2	0	1	0	0	4	0	1	0	0	4.0	0	7	The sun, both gentle and majestic, hovered over the vast, shimmering sea.	2
+20	0	0	2	3	1	6	0	3	0	1	0	1	3	1	1	1	0	4.0	1	9	The bustling city was vibrant with the sounds of laughter and music, creating a harmonious symphony of joy.	2
+7	0	0	1	0	1	2	0	2	0	0	0	0	1	0	1	0	0	2.0	0	4	 the blue and the tall flower.	2
+16	0	0	1	1	1	5	0	3	0	1	0	0	3	0	1	1	0	3.0	0	4	The vibrant city's architecture and bustling markets paint a picture of a bustling metropolis.	2
+12	0	0	1	1	1	5	0	2	0	0	0	1	1	0	1	0	0	3.0	0	3	The bustling city streets were a cacophony of color and sound.	2
+14	0	0	2	1	0	4	1	3	0	2	0	0	1	1	2	1	0	3.0	1	7	A vibrant rainbow stretched across the sky, its colors enchanting the clouds.	2
+8	0	0	1	0	1	1	1	1	0	0	0	1	2	0	1	0	0	3.0	0	6	She was a wise and happy child.	2
+14	0	0	2	1	1	2	0	2	0	1	0	0	5	0	1	0	0	4.0	0	7	The vibrant and ancient trees stood tall amidst the tranquil, shimmering pond.	2
+17	0	0	1	2	1	7	0	3	0	1	0	0	2	0	1	1	0	4.0	0	12	The bustling streets offered a captivating display of color and light during the midday rush hour.	2
+18	0	0	2	2	1	5	0	3	0	1	0	0	3	0	1	0	0	5.0	0	5	The vibrant pink and purple flowers bloomed across the landscape, a testament to nature's beauty.	2
+21	0	0	2	3	2	5	1	2	0	0	0	1	5	0	1	0	0	5.0	0	5	The old library was both ancient and beautiful, a place of refuge with hidden secrets within its crumbling walls.	2
+22	0	0	3	2	2	8	0	3	0	1	0	0	3	0	1	1	0	5.0	0	8	The lively, bustling city streets held a multitude of colors and sounds, a mesmerizing display of life and activity.	2
+13	0	0	1	1	1	4	0	1	0	1	0	0	3	0	1	1	0	4.0	0	4	The beautiful and colorful painting depicted nature's breathtaking array of hues.	2
+5	0	0	2	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	2	 **Bright and Wonderful**.	2
+11	0	0	1	1	1	2	0	1	0	1	0	1	3	0	1	0	0	4.0	0	5	The bustling market was filled with colorful and vibrant stallholders.	2
+16	0	0	1	2	1	6	0	2	0	1	0	0	3	0	1	1	0	4.0	0	10	The bustling city streets displayed contrasting images of chaos and serenity at the same time.	2
+19	0	0	2	2	0	5	1	4	0	2	0	0	3	1	2	0	0	6.0	1	4	The lush green meadows shone with vibrancy, a testament to the extraordinary beauty that the nature holds.	2
+10	0	0	1	1	2	4	0	1	0	0	0	1	0	0	1	0	0	2.0	0	4	  The sky is both azure and starry at night.	2
+9	1	0	1	0	1	1	0	1	0	0	0	1	3	0	1	0	0	2.0	0	3	The old house was both dark and dilapidated.	2
+16	0	0	2	1	1	4	0	2	0	2	0	1	2	1	1	0	0	4.0	1	6	The lush forests were shimmering with moss and wildflowers, a picturesque sight to behold.	2
+5	0	0	2	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	2	 **Colorful and beautiful**.	2
+11	0	0	1	1	1	4	0	1	0	1	0	1	1	0	1	0	0	3.0	0	3	The vibrant city park was bustling with bees and butterflies.	2
+12	1	0	1	1	1	2	0	2	0	1	0	0	3	0	1	0	0	4.0	0	5	  The vibrant and elegant butterfly flitted gracefully through the lush vegetation.	2
+13	0	0	2	1	0	3	0	3	0	1	0	0	3	0	1	1	0	2.0	0	6	The warm, bright sun cast a colorful shadow on the beach.	2
+6	0	0	3	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	2	" ""Colorful and fascinating""."	2
+16	0	0	1	2	0	4	0	3	0	1	0	0	5	0	1	1	0	3.0	0	7	The verdant trees with sparkling emerald leaves formed a breathtaking tapestry on the lush landscape.	2
+13	1	0	2	0	2	2	1	1	0	1	0	1	2	1	1	1	0	3.0	1	4	Her eyes were both blue and shiny, reflecting the sunlight warmly.	2
+22	0	0	2	1	2	5	0	2	0	3	0	1	5	2	1	1	0	5.0	2	8	The bustling city streets are adorned with vibrant hues and shimmering stones, creating a picturesque and majestic sight to behold.	2
+17	0	0	2	2	2	3	0	2	0	0	0	1	5	0	1	0	0	4.0	0	5	The bustling city was alive with a vibrant array of colours, both old and new.	2
+12	0	0	1	2	1	4	0	1	0	0	0	1	2	0	1	0	0	4.0	0	2	The vibrant sunset was ablaze with colors of orange and purple.	2
+13	1	0	1	1	1	4	0	2	0	1	0	0	2	0	1	0	0	4.0	0	6	 The red and shiny flowers bloomed peacefully in the blooming garden yesterday.	2
+18	0	0	2	1	2	4	0	3	0	2	0	0	4	1	1	2	0	3.0	1	10	The vibrant sunset painted the sky with both orange and pink hues, creating a breathtaking spectacle.	2
+13	0	0	2	1	1	3	0	2	0	1	0	0	3	0	1	1	0	4.0	0	5	  _The lively and curious child explored the enchanting garden with wonder.	2
+19	1	0	1	2	1	4	0	4	0	2	0	0	4	0	1	1	1	4.0	1	6	The colorful birds perched on the branch had the most brilliant and majestic feathers in the entire forest.	2
+23	0	0	4	4	1	9	0	2	0	2	0	0	1	1	1	1	0	5.0	1	7	The sun shone with rays of multicoloured brilliance, painting the sky with streaks of azure, emerald, sapphire and violet.	4
+15	0	0	4	0	1	2	0	2	0	1	0	0	5	0	1	1	0	4.0	0	9	The dazzling, colorful, majestic, and enchanting artwork adorned the ancient temple.	4
+22	0	0	4	3	1	7	0	3	0	1	0	1	2	0	1	0	0	5.0	0	7	 The lush forest was adorned with the breathtaking beauty of a variety of colors, shapes, sizes, and textures.	4
+21	0	0	2	3	0	6	0	5	0	1	0	0	4	0	2	0	0	4.0	0	9	The verdant jungle thrived with a kaleidoscope of vibrant colors, each species a vibrant echo of the majestic landscape.	4
+33	0	0	5	3	3	9	0	4	0	2	0	1	6	1	1	1	0	5.0	1	15	The sprawling manor was painted with the hues of vibrant sapphire, amber, emerald, and ochre, casting a dazzling and ethereal light upon the sprawling lawns and majestic façade.	4
+24	0	0	2	3	1	6	0	5	0	4	0	1	2	1	2	1	0	5.0	1	9	The sprawling city was enveloped by an emerald embrace of rolling hills and towering skyscrapers, each bearing the hues of a rainbow.	4
+26	1	0	3	5	0	7	2	3	0	2	0	0	3	1	2	0	0	5.0	1	19	She stood in front of an enormous, majestic oak tree with leaves of every color imaginable, its branches swaying gently in the breeze.	4
+23	1	0	3	3	0	6	0	4	0	2	0	1	3	1	2	0	0	5.0	1	6	The vibrant, intricate cityscape was shrouded in an aura of serenity, each building adorned with the most captivating mosaic patterns.	4
+20	1	0	2	1	2	5	3	2	0	3	0	0	1	0	1	3	1	4.0	1	9	Despite the chaos and commotion surrounding her latest endeavor, she maintained her composure and executed the task flawlessly.	4
+35	0	0	4	4	1	9	0	6	0	5	0	0	6	3	1	1	0	8.0	3	13	The colorful house stood amongst the silent trees, the glistening pond reflecting clouds across a vast sky, the bustling town bustling with vibrant life, and the majestic mountain looming with grandeur.	4
+20	0	0	2	2	1	6	1	3	0	2	0	0	3	1	2	1	0	5.0	1	8	A vibrant rainbow stretched across the boundless sky, its hues painting every corner with incredible depth and color.	4
+24	1	0	3	4	1	4	3	1	0	3	0	0	4	2	2	0	0	8.0	2	7	She dressed in a gown of sheer lace, adorned with intricate embroidery, which flowed effortlessly around her long and graceful form.	4
+16	0	0	2	1	1	5	0	2	0	1	0	0	4	0	1	1	0	3.0	0	6	The vibrant, verdant meadow painted a colorful tapestry with blooming flowers and shimmering butterflies.	4
+18	0	0	4	1	1	7	0	2	0	1	0	0	2	0	1	1	0	4.0	0	7	The sprawling city streets painted a canvas of vivid blues, greens, yellows, and blacks.	4
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  > The magnificent tapestry, with vibrant threads depicting a kaleidoscope of emotions, seemed to emerge from the depths of the ancient cave nestled in the mountaintop.	4
+17	0	0	3	2	0	3	1	2	0	2	0	0	4	1	1	0	0	5.0	1	6	She stood in the dazzling, colorful palace, a regal vision bathed in warm hues.	4
+29	1	0	4	3	0	7	1	4	0	5	0	0	4	2	2	3	1	6.0	3	14	The sprawling meadows, bathed in the warm sunlight, adorned with wildflowers painting the sky with hues so vivid they defy belief, created a breathtaking panorama.	4
+24	0	0	2	3	1	7	1	4	0	2	0	1	3	1	2	1	0	4.0	1	8	 The room was filled with a symphony of colors and textures, each hue adding its own unique charm to the overall ambiance.	4
+24	0	0	5	2	1	8	2	2	0	2	0	0	2	1	1	2	0	4.0	1	12	The vibrant tapestry captured the essence of her personality, displaying grace, wonder, adventure, and serenity within its intricate design.	4
+14	0	0	1	2	0	3	0	2	0	1	1	1	3	0	1	0	0	3.0	0	4	The colorful painting was adorned with a vibrant array of five captivating hues.	4
+26	1	0	2	3	0	7	1	3	0	3	0	1	4	2	2	2	0	7.0	2	7	The lush green meadows were covered with wildflowers in vibrant hues, creating a breathtaking sight that truly captured the essence of nature's glory.	4
+29	0	0	6	1	1	8	0	4	0	1	0	1	6	0	2	1	1	4.0	1	20	The lush greenery, vibrant blue lake, sprawling meadows, and sprawling forests, each captivating the senses, were an ode to nature's unparalleled beauty.	4
+19	0	0	1	2	2	6	2	1	0	2	0	0	3	1	2	2	0	6.0	1	9	They painted the entire city streets with vibrant and colorful murals that depicted stories of triumph and perseverance.	4
+25	1	0	3	5	1	7	1	3	0	2	0	0	2	1	1	1	0	5.0	1	9	Even in the darkest of times, her smile beamed bright, offering a beacon of hope and resilience in the face of adversity.	4
+18	0	0	4	1	1	3	2	1	0	1	0	0	5	0	1	1	0	4.0	0	9	The colorful, fascinating, bizarre, and majestic meadow captivated our imaginations with its ethereal beauty.	4
+16	0	0	3	2	1	6	0	2	0	1	0	0	1	0	1	0	0	4.0	0	6	  The vibrant sunset shone with a kaleidoscope of reds, oranges, blues and yellows.	4
+27	0	0	2	4	0	6	1	4	0	2	1	1	6	1	1	1	0	3.0	1	10	The verdant tapestry of the verdant forest is painted with an eclectic kaleidoscope of five distinct hues, captivating the curious eye with its enchanting spectacle.	4
+15	0	0	1	2	0	4	0	3	0	2	0	0	3	0	1	1	1	4.0	1	6	The vibrant colors painted upon the ancient walls whispered secrets to the curious visitor.	4
+14	1	0	4	0	1	1	0	1	0	0	0	1	5	0	1	0	0	2.0	0	7	 The rainy day was so dark, stormy, foggy, and windy.	4
+19	0	0	3	1	2	4	1	2	0	1	0	0	5	0	1	1	0	4.0	0	10	  The bustling city, with its colorful streets and bustling people, offered a unique and thrilling experience.	4
+18	0	0	3	2	1	6	0	2	0	1	0	0	3	0	1	0	0	4.0	0	7	The city skyline shone with a mosaic of vibrant colors, vivid textures, and sparkling lights.	4
+22	0	0	5	2	2	3	0	2	0	1	0	1	6	0	1	0	0	5.0	0	8	The lush meadows, vibrant and sprawling, were adorned with an array of glistening, shimmering, and colorful flowers.	4
+25	1	0	3	3	1	6	1	4	0	3	0	0	3	1	2	0	0	3.0	1	9	Despite the stormy winds and raging rain, the lone boat sailed smoothly through the open waters, its sails billowing in the wind.	4
+18	0	0	4	2	1	4	0	2	0	1	0	0	4	0	1	1	0	4.0	0	7	The vibrant sunset painted the sky with hues of orange, yellow, purple, and black.	4
+24	1	0	3	3	0	4	1	3	1	2	0	1	5	1	2	0	0	3.0	1	14	Rain was falling in the vast, lush forests of the Amazon, its gentle hue contrasting vividly with the vibrant green leaves.	4
+16	0	0	4	0	1	2	0	2	0	1	0	1	4	1	1	0	0	4.0	1	9	  The beautiful, vibrant, graceful, and spirited woman was a treasure to behold.	4
+18	0	0	1	3	1	6	0	2	0	2	0	0	3	0	1	1	1	5.0	1	8	The vibrant tapestry woven with intricate patterns and rich colors displayed a symphony of textures on display.	4
+30	2	0	4	3	0	8	1	4	0	4	0	0	4	2	2	1	1	6.0	3	7	Even amidst the shimmering, vibrant flowers blooming everywhere, the lonely bird stood unnoticed, its feathers resembling the hues of autumn leaves strewn across the forest ground.	4
+21	1	0	2	3	1	6	0	4	0	2	0	1	1	1	2	0	0	4.0	1	8	The room was filled with a vast array of colors and textures, each element blending seamlessly into the others.	4
+19	0	0	2	1	2	4	1	2	0	3	0	0	4	2	1	1	0	5.0	2	7	The lively colors danced across the bustling city street, making its inhabitants feel both alive and vibrant.	4
+14	0	0	2	2	1	2	1	2	0	1	0	0	3	0	1	0	0	4.0	0	5	She strolled through the bustling city, colorful and charming in every way.	4
+15	0	0	1	3	0	3	1	2	0	2	1	0	2	1	1	0	0	5.0	1	4	She strolled through a realm painted with the vivid hues of five vibrant sunsets.	4
+24	0	0	1	4	0	6	1	3	0	4	0	0	4	1	1	1	2	7.0	3	12	A vast sky filled with an array of twinkling stars bathed in warm sunlight offered a breathtaking spectacle for our eyes to behold.	4
+22	0	0	2	1	1	6	2	2	0	3	0	2	3	2	2	2	0	5.0	2	8	  The vibrant city square is adorned with colorful statues and dazzling fountains, providing a spectacle that would ignite your senses.	4
+18	0	0	1	2	1	6	0	2	0	1	0	1	4	0	1	0	0	3.0	0	11	The bustling city park was teeming with colorful wildflowers and verdant trees during the sunny summer afternoon.	4
+19	1	0	2	3	1	5	2	2	0	2	0	0	1	1	2	0	0	5.0	1	9	She looked out over the expansive fields, her eyes twinkling with delight and a sense of wonder.	4
+12	0	0	2	1	0	3	0	2	0	1	0	0	3	0	1	0	0	3.0	0	7	  The vibrant sunflowers swayed in the cool, clear morning breeze.	4
+22	0	0	5	2	1	4	0	3	0	1	0	0	6	0	1	0	0	4.0	0	9	The colorful, majestic, ancient, and enchanting castle loomed over the picturesque valley, an exquisite masterpiece of nature.	4
+29	0	0	5	2	1	8	2	2	0	4	0	0	5	1	1	0	0	6.0	1	11	The house sat amidst the tall grass, its majestic appearance enhanced by its vivid blue walls, sparkling chandeliers, delicate flowerbeds, and gleaming roof tiles.	4
+24	0	1	3	2	1	4	1	2	0	3	0	2	5	1	2	0	1	4.0	2	7	The colorful, intricate landscapes painted across the vibrant mountains were captivating, as they were filled with captivating landscapes and captivating wonders.	4
+18	1	0	2	1	1	4	0	3	0	3	0	0	3	1	1	1	0	5.0	1	10	The vibrant rainbow shone brightly, casting an elegant and expansive aura over the bustling city streets.	6
+24	0	0	2	3	1	7	1	4	0	2	1	0	3	1	2	1	0	5.0	1	11	The colorful butterflies spread a beautiful tapestry across the sky, their delicate wings fluttering with a thousand possibilities of shade and hue.	6
+40	0	0	7	3	2	14	0	5	0	0	0	1	7	0	1	0	0	5.0	0	24	The lively city park was a lush oasis of vibrant colors, tranquil fountains, ancient ruins, enchanting flora, bustling streets, and a symphony of sights and sounds, each a testament to nature's beauty.	6
+22	0	0	2	3	2	6	0	3	0	2	0	1	3	1	1	1	0	5.0	1	9	The sprawling garden was adorned with flowers of every color and fragrance, creating an enchanting and verdant tapestry of beauty.	6
+25	1	0	2	3	2	7	1	2	0	2	0	0	4	0	1	1	0	5.0	0	8	  My grandma's house stood proudly on the hillside, painted a vivid and radiant array of blues and greens amidst vibrant green foliage.	6
+16	0	0	2	2	0	4	2	2	0	2	0	0	1	1	2	0	0	4.0	1	8	She strolled down the shimmering path, her gown shimmering with the sun's rays.	6
+14	0	0	1	3	0	5	0	2	0	1	0	0	2	0	1	0	0	3.0	0	4	The vibrant tapestry of city life unfolded in a riot of contrasting colors.	6
+19	0	0	1	2	1	6	1	3	0	2	0	0	3	1	2	1	0	5.0	1	5	The sprawling city presented an array of vibrant colors and stunning textures that danced in the afternoon sunbeams.	6
+19	0	0	2	2	1	6	0	4	0	2	0	0	2	1	1	2	0	4.0	1	9	The vibrant landscape painted a tapestry of contrasting shades and hues, depicting the splendor of the sunset.	6
+13	0	0	1	2	0	3	2	1	0	1	1	0	2	0	1	0	0	3.0	0	5	Her eyes shone with the dazzling array of her seven radiant eyeshadows.	6
+22	1	0	2	3	1	6	3	2	0	2	0	0	2	1	2	1	0	6.0	1	9	Her eyes held a spectrum of vivid and captivating hues that danced across her face like an ever-changing canvas.	6
+23	0	0	2	4	0	6	1	3	0	2	0	1	4	1	2	0	0	6.0	1	5	The sky was filled with an array of vibrant, shimmering stars that shone like precious gems in the tranquil night sky.	6
+15	0	0	1	1	0	4	1	3	0	2	0	0	3	1	2	2	0	5.0	1	3	The enchanting tapestry displayed a myriad of exquisite adjectives that transcended any single description.	6
+17	0	0	3	2	1	6	0	2	0	1	0	0	2	0	1	1	0	4.0	0	5	The beautiful sunset painted the sky in hues of fiery orange, purple, and indigo.	6
+36	1	0	6	2	1	11	0	3	0	4	0	1	6	1	2	0	0	6.0	1	19	The sprawling landscape was adorned with lush greenery, sparkling rivers, whispering birds, serene mountains, vibrant flowers and charming cottages - a visual feast where nature's beauty unfolded in every direction.	6
+16	0	0	3	2	0	3	0	2	0	1	0	1	4	0	1	0	0	3.0	0	7	 The sprawling forest was adorned with an array of vibrant, shimmering, majestic butterflies.	6
+23	0	1	1	3	0	5	2	4	0	2	0	0	5	1	2	1	0	4.0	1	7	The sprawling cityscape glittered under the dazzling sunbeams as it spread its colorful mosaic on the bustling streets like a celestial tapestry.	6
+19	0	0	2	3	0	4	1	3	0	3	0	0	3	2	1	0	0	5.0	2	6	She stood in the expansive garden, bathed in the warm sunlight filtering through the majestic oak trees.	6
+36	0	0	6	4	0	11	0	4	0	4	0	0	7	2	1	2	0	6.0	2	16	The vibrant meadow painted a symphony of colors, boasting an astonishing array of fragrant herbs, towering flowers, shimmering insects, delicate petals scattered at random, an idyllic haven of sensory delight.	6
+17	0	0	1	3	0	5	1	2	0	3	0	1	1	1	2	0	0	5.0	1	3	The sprawling city was shrouded in a blanket of shimmering stardust that danced amongst towering skyscrapers.	6
+28	0	0	2	4	0	7	1	5	0	3	1	1	4	2	3	2	0	7.0	2	9	  The room was painted with an enchanting array of five vibrant shades of turquoise, each accentuating the soft texture of antique furniture that graced the space.	6
+21	1	0	4	2	1	6	0	2	0	2	0	0	3	1	1	1	0	5.0	1	7	The sun shone brightly, painting the clouds in vibrant hues of azure, golden yellow, and deep purple.	6
+12	0	0	1	2	0	3	0	1	0	2	0	0	3	0	1	0	0	3.0	0	4	  The vibrant garden shimmered with countless shimmering flowers of varying hues.	6
+27	0	0	6	2	2	4	0	3	0	1	0	0	9	0	1	0	0	4.0	0	13	  The vibrant, majestic, ancient, shimmering, lush, and magnificent tree stood in the serene garden amidst the colorful flowers and lush greenery.	6
+14	1	0	2	1	0	3	0	2	0	2	0	0	3	1	1	1	0	4.0	1	3	The colorful castle shone brightly, offering an enchanting vista for weary travelers.	6
+21	1	0	2	2	0	4	2	3	0	3	0	0	4	2	2	1	0	6.0	2	5	The vibrant red roses danced gracefully in the golden sunlight, their fragrance captivating a nearby bee buzzing among them.	6
+23	1	0	3	2	1	5	0	2	0	3	0	1	4	1	1	1	1	5.0	2	9	The vibrant rainbow of colors painted upon the cloud was extraordinarily beautiful and awe-inspiring, showcasing nature's unparalleled artistry.	6
+16	0	0	1	1	0	5	1	3	0	2	0	0	3	1	2	2	0	5.0	1	4	The colorful painting depicts the sprawling city landscape with hues that radiate a captivating allure.	6
+15	0	0	1	2	0	4	0	2	0	2	0	0	4	0	1	1	1	4.0	1	5	The verdant meadows dotted with shimmering wildflowers painted a breathtaking panorama of sensory experiences.	6
+18	0	0	1	2	2	5	0	2	0	1	0	0	5	0	1	1	0	4.0	0	4	The vast and colorful array of wildflowers presented a delightful landscape of exquisite beauty and rare wonder.	6
+17	1	1	2	1	0	3	2	2	0	2	0	0	3	0	2	2	1	3.0	1	6	Even though she has a gentle heart, he had an insatiable appetite for new experiences.	6
+25	0	0	2	2	1	8	0	4	0	2	0	0	6	1	1	1	0	7.0	1	4	The vibrant crimson rose petals danced through the enchanting meadow, a symphony of exquisite textures and breathtaking colors adorning the sprawling green landscape.	6
+13	1	0	1	1	0	3	2	2	0	2	0	0	1	1	2	1	0	4.0	1	4	She wore a magnificent silk gown that shone brilliantly under the moonlight.	6
+18	0	0	2	2	1	4	1	3	0	1	1	0	3	0	1	1	0	4.0	0	8	The enchanting tapestry unfolded her beauty, vibrant and nuanced like a thousand brushstrokes on a canvas.	6
+31	0	0	2	5	1	10	1	6	0	3	0	0	3	2	2	1	0	8.0	2	6	The sky appeared as a canvas of breathtaking hues and textures, each brushstroke adding vibrancy to the breathtaking symphony it painted across the vast canvas of the evening sky.	6
+20	0	0	3	2	1	5	0	3	0	4	0	0	2	0	1	1	1	6.0	1	14	The vibrant meadow, adorned with an eclectic mix of towering lilies and whispering grasses, captivated the senses.	6
+17	0	0	1	3	0	5	0	4	0	1	0	0	3	0	1	1	0	3.0	0	9	The vibrant colors of the rainbow painted an enchanting symphony of hues onto the vast landscape.	6
+14	0	0	1	2	0	4	0	2	0	2	1	0	2	0	1	1	1	4.0	1	5	The vibrant rainbow painted upon the sky depicted six distinct hues of color.	6
+14	0	0	1	2	0	4	0	2	0	1	0	0	3	0	1	0	0	3.0	0	5	The city's skyline glowed with shimmering constellations under the vast starry sky.	6
+25	0	0	2	3	1	6	1	4	0	2	1	0	5	1	1	2	0	3.0	1	11	  The enchanting symphony of five vibrant roses captivated the audience with their radiant hues and delicate petals, enchanting all within the mesmerizing atmosphere.	6
+19	1	0	2	2	1	3	0	4	0	1	0	0	5	0	1	1	0	5.0	0	5	The bustling streets painted a canvas of shimmering colors, each more vibrant and dazzling than the last.	6
+14	0	0	2	2	1	2	3	0	0	1	0	0	3	0	1	0	0	3.0	0	6	  Despite her small stature, she stood tall and confident during her presentation.	6
+29	0	0	2	4	2	7	0	4	0	2	0	1	7	1	1	0	0	8.0	1	6	The sprawling city was bathed in an opulent tapestry of vivid colors, each façade adorned with a distinct and captivating arrangement of exquisite architectural styles and materials.	6
+25	0	0	2	3	1	6	1	4	0	2	0	1	5	1	2	1	0	5.0	1	8	The city streets were brimming with an unparalleled plethora of fascinating and beautiful adjectives, each adding its own flair to the vibrant panorama.	6
+23	0	0	2	3	0	7	0	6	0	2	0	0	3	1	2	2	0	5.0	1	7	  The vibrant sunset painted the sky with a spectrum of vibrant colors, each hue telling a unique story of the day.	6
+18	0	0	2	3	0	4	0	3	0	3	0	0	3	1	1	0	0	5.0	1	4	The sprawling, majestic castle stood atop a towering precipice bathed in an array of ethereal colors.	6
+13	0	0	1	2	0	3	0	2	0	1	1	1	2	0	1	0	0	3.0	0	4	The verdant meadow was painted with a symphony of six vibrant flowers.	6
+14	0	0	1	1	1	4	0	2	0	1	0	0	4	0	1	1	0	4.0	0	3	The sprawling fields painted an idyllic landscape with vibrant colors and delicate textures.	6
+14	0	0	1	2	0	3	0	3	0	1	0	1	3	0	1	0	0	3.0	0	4	The sprawling meadows were bathed in the golden hues of an unforgettable sunset.	6
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	6

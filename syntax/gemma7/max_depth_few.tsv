@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+8	0	1	0	0	0	2	2	0	0	0	2	0	1	2.0	3	0	0	1	0	0	**The cat sat on the mat**.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+9	1	0	1	3	0	0	0	0	1	0	1	0	1	2.0	5	1	1	1	0	0	It would have been too painful to watch.	2
+19	3	1	1	1	0	2	3	0	1	0	5	0	1	2.0	9	0	0	1	0	0	Sure, the generated sentence is: Her smile, with that chaste yellow dress, so bashful.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+17	0	3	1	0	0	3	5	0	0	0	3	0	2	4.0	12	0	0	1	1	0	The smell of freshly baked bread, with the aroma of coffee, filled the air.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+8	0	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	A cat sat on a tree branch.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+18	2	3	0	0	0	3	5	0	0	0	3	0	2	5.0	9	1	0	1	1	1	A tall tree, with branches reaching towards the sky, cast long shadows upon the ground.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+13	3	1	1	0	0	1	2	0	1	0	4	0	0	2.0	9	0	0	1	0	0	**Her smile, with that chaste yellow dress, so bashful.**	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+14	2	1	0	0	0	3	3	0	0	0	3	0	2	4.0	7	1	0	1	1	1	The old lady, wearing a crimson dress, strolled to the park.	2
+15	2	1	0	0	0	2	4	0	0	0	3	0	2	4.0	7	1	0	1	1	1	The book, filled with colorful illustrations, captured the young reader's imagination.	2
+11	3	0	1	0	0	1	2	0	0	0	2	0	2	3.0	3	1	1	1	1	0	The vibrant purple flower bloomed proudly, attracting numerous butterflies.	2
+11	2	1	0	0	0	1	2	0	0	0	3	0	2	4.0	6	1	0	1	0	1	The old woman, withered by years, stood tall.	2
+15	1	3	0	1	0	3	4	1	0	0	1	0	1	5.0	12	1	0	1	0	1	The sentence generated with a tree height of 2 in the syntactic tree is: Her smile, with that chaste yellow dress, so bashful.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+14	1	2	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	0	0	The old woman sat on a park bench, gazing at the clouds.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+17	1	3	0	0	0	3	4	1	1	0	2	0	1	3.0	6	0	0	1	1	0	Sure, I generated a sentence with a tree height of 2 in the syntactic tree: Her smile, with that chaste yellow dress, so bashful.	2
+10	1	1	0	0	0	1	2	0	0	0	3	0	2	4.0	6	1	0	1	0	1	The house, built of stone, stood tall.	2
+10	1	0	1	0	0	2	2	0	0	0	2	0	2	3.0	3	1	1	1	1	0	The sun shone brightly, illuminating the vibrant flowers.	2
+22	0	3	0	0	1	5	7	0	0	0	3	0	3	4.0	16	1	1	2	2	0	The wind whipped through the leaves, creating a symphony of rustling, and the scent of honeysuckle filled the air.	2
+10	0	1	0	0	0	2	3	0	0	0	2	0	2	2.0	5	1	1	1	1	0	The cat jumped onto the table, scattering plates.	2
+18	2	2	1	0	0	2	5	1	0	0	3	0	2	5.0	9	1	0	1	2	1	A tall tree, with branches reaching two stories high, cast long shadows on the ground.	2
+9	1	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The old dog sat beneath the willow tree.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat jumped onto the red table.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+11	1	1	0	0	0	1	2	0	1	0	3	0	2	3.0	4	1	1	1	1	0	**She danced with grace, wearing that vibrant dress.**	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog ran across the park.	2
+14	1	3	0	1	0	3	4	1	0	0	1	0	0	4.0	11	0	0	1	0	0	A sentence with a tree height of 2 in the syntactic tree is: Her smile, with that chaste yellow dress, so bashful.	2
+10	0	1	1	1	0	2	2	0	0	0	2	0	1	3.0	6	0	0	1	0	0	**The books on the table were neatly arranged.**	2
+10	0	0	2	0	0	2	2	0	0	0	2	0	2	3.0	3	1	1	1	1	0	The wind blew fiercely, whipping the trees wildly.	2
+12	0	1	1	1	0	0	2	0	3	0	3	0	1	2.0	7	0	0	1	0	0	**She was walking along, her dog by her side.**	2
+10	2	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	A young child laughed heartily at the funny joke.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat jumped onto the fence.	2
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog ran quickly.	2
+9	2	0	0	0	0	1	2	0	1	0	2	0	1	3.0	5	0	0	2	0	0	The house stood tall, its foundation strong.	2
+12	3	1	1	0	0	1	2	0	1	0	3	0	0	2.0	9	0	0	1	0	0	Her smile, with that chaste yellow dress, so bashful.	2
+23	0	2	0	1	0	3	4	1	2	0	4	1	4	4.0	12	2	2	2	2	0	"The tree height of 3 is fulfilled in the sentence ""If you have any comments, please let me know."""	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+16	2	1	1	1	1	2	2	0	1	0	2	0	2	3.0	6	1	1	2	0	0	The weather was sunny and warm, so I went to the park to relax.	3
+12	0	2	1	0	0	3	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	The leaves of the maple tree swayed gently in the breeze.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+13	0	1	0	0	1	3	3	0	0	0	3	0	2	3.0	5	0	0	1	1	0	"""The cat jumped onto the table and spilled the milk."""	3
+10	0	1	1	0	0	2	2	0	0	0	2	0	2	2.0	6	1	1	1	0	0	The cat sat on the mat, happily purring.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+25	1	4	0	3	1	2	4	2	1	1	5	0	1	3.0	9	0	0	1	1	0	" As of March 28, 2003, he was in a hospital for a cardiac problem and had been granted ""pre-arrest bail."""	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+26	1	4	0	3	1	2	4	2	1	1	6	0	1	3.0	9	0	0	1	1	0	"""As of March 28, 2003, he was in a hospital for a cardiac problem and had been granted ""pre-arrest bail."""	3
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the sleeping dog.	3
+12	2	1	0	1	0	3	4	0	0	0	1	0	0	2.0	4	0	0	1	0	0	A succulent lemon cake was a delicious treat on the table.	3
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the sleeping dog.	3
+9	1	0	1	1	1	1	1	0	0	0	2	0	1	2.0	4	0	0	1	0	0	The book is captivating and well-written.	3
+11	0	1	1	2	0	2	2	0	0	0	2	0	1	3.0	6	0	0	1	0	0	**The fruits of this labor have been ripening rapidly.**	3
+15	2	2	0	0	0	3	5	0	0	0	2	0	1	3.0	6	0	0	1	1	0	The vibrant, purple flowers adorned the springtime garden with a burst of color.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+15	0	2	0	0	0	4	5	0	0	0	2	0	2	4.0	7	1	1	1	2	0	The wind blew the leaves down the trees, making a symphony of noise.	3
+14	2	1	0	1	1	3	3	0	1	0	1	0	1	4.0	4	1	1	2	0	0	The weather was sunny and warm the day I went to the park.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+11	1	1	1	0	0	2	2	0	0	0	2	0	2	2.0	6	1	1	1	0	0	The cat sat on the warm mat, purring contentedly.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+14	0	1	1	0	0	3	3	0	0	0	4	0	2	3.0	5	1	1	1	1	0	"""The wind howled fiercely, tearing the leaves from the trees."""	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+25	1	4	0	3	1	2	4	2	1	1	5	0	1	3.0	9	0	0	1	1	0	"As of March 28, 2003, he was in a hospital for a cardiac problem and had been granted ""pre-arrest bail."""	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+14	1	2	0	0	0	3	4	0	0	0	2	0	2	4.0	5	1	1	1	1	0	The windswept hair danced with the waves, creating a symphony of motion.	3
+26	1	4	0	3	1	2	4	2	1	1	6	0	1	3.0	9	0	0	1	1	0	"""As of March 28, 2003, he was in a hospital for a cardiac problem and had been granted ""pre-arrest bail."""	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat jumped onto the table.	3
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The flowers danced wildly in the wind.	3
+10	1	1	1	0	0	2	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The flowers bloomed brightly in the warm spring breeze.	3
+26	1	4	0	3	1	2	4	2	1	1	6	0	1	3.0	9	0	0	1	1	0	"""As of March 28, 2003, he was in a hospital for a cardiac problem and had been granted ""pre-arrest bail."""	3
+25	1	4	0	3	1	2	4	2	1	1	5	0	1	3.0	9	0	0	1	1	0	"As of March 28, 2003, he was in a hospital for a cardiac problem and had been granted ""pre-arrest bail."""	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+7	2	0	0	1	1	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The fruit is sweet and ripe.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+26	1	4	0	3	1	2	4	2	1	1	6	0	1	3.0	9	0	0	1	1	0	"""As of March 28, 2003, he was in a hospital for a cardiac problem and had been granted ""pre-arrest bail."""	3
+18	3	1	0	1	1	3	3	0	1	0	2	0	2	5.0	4	2	2	1	1	0	The weather was sunny and warm, making it a perfect day to go for a hike.	3
+14	3	2	2	0	0	1	3	0	1	0	1	0	1	4.0	10	0	0	0	0	0	There are many good options of delicious food on the shores as well.	3
+16	3	2	2	0	0	1	3	0	1	0	3	0	1	4.0	10	0	0	0	0	0	"""There are many good options of delicious food on the shores as well."""	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	3
+16	3	2	2	0	0	1	3	0	1	0	3	0	1	4.0	10	0	0	0	0	0	"""There are many good options of delicious food on the shores as well."""	3
+16	3	2	2	0	0	1	3	0	1	0	3	0	1	4.0	10	0	0	0	0	0	"""There are many good options of delicious food on the shores as well."""	3
+18	2	3	0	1	0	3	4	0	0	1	2	0	2	3.0	6	0	0	1	0	0	The ancient city of Petra was carved into the rose-coloured cliffs of the Jordanian desert.	4
+20	1	0	1	1	1	1	8	0	0	0	1	1	5	5.0	5	1	1	1	2	0	The newly developed hybrid electric car will revolutionize transportation by offering increased fuel efficiency and reduced greenhouse gas emissions.	4
+21	4	1	0	0	1	3	5	0	0	2	1	1	3	6.0	10	2	1	1	3	1	 The intricate network of ancient trade routes connecting the East and West played a pivotal role in shaping human history.	4
+8	1	1	0	1	0	1	2	1	0	0	1	0	0	2.0	3	0	0	1	0	0	The library is open until 10 p.m.	4
+12	0	1	1	0	0	2	3	0	0	0	1	0	3	3.0	4	1	1	1	1	0	The newly elected president vowed to bring the country to prosperity.	4
+23	1	5	1	1	0	4	2	1	0	6	1	0	1	4.0	9	1	1	2	0	0	The Vietnamese were in control of the Red River Delta when the French returned to Indochina at the end of WW II.	4
+11	0	1	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	1	0	The cat jumped onto the table and spilled the milk.	4
+21	2	0	1	2	1	3	3	0	0	3	2	0	3	5.0	7	2	2	1	2	0	The new political voice is threatening to collapse the peace process, having personally visited the West Bank and Israel.	4
+21	3	2	0	0	1	3	5	1	0	0	3	0	3	4.0	11	1	1	1	2	0	 The majestic tree stood tall, reaching a height of 4 stories, and cast long shadows across the ground.	4
+12	0	2	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	0	0	The cat jumped onto the tree and landed on the branch.	4
+24	1	5	1	1	0	4	2	1	0	7	1	0	1	4.0	8	1	1	2	0	0	The Red River Delta was under control of the Viet Minh when the French returned to Indochina at the end of WW II.	4
+18	1	3	0	1	0	3	4	1	1	0	2	0	1	3.0	6	0	0	1	1	0	Sure, I have generated a sentence with a tree height of 4 in the syntactic tree: The dog was sitting on the grass.	4
+16	1	1	2	1	0	2	4	1	0	0	1	0	2	4.0	4	1	1	1	1	0	The newly constructed apartment building is tall enough to reach a height of 4 stories.	4
+12	1	2	0	1	0	3	3	0	0	0	1	0	1	3.0	5	0	0	1	0	0	The books on the table were devoured by the hungry guests.	4
+16	1	3	0	1	0	4	5	0	0	0	1	0	1	3.0	7	0	0	1	0	0	A ship has sunk to the ocean floor as a result of a recent storm.	4
+14	2	2	0	0	1	2	4	0	0	1	1	0	1	4.0	3	0	0	1	1	0	The bustling markets of Marrakech offer a vibrant tapestry of sights and smells.	4
+16	1	2	0	0	1	4	4	0	0	0	2	0	2	3.0	7	0	0	1	1	0	After a peaceful evening at the restaurant, the customer paid the bill and left.	4
+11	0	1	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	1	0	The cat jumped onto the table and spilled the milk.	4
+24	1	5	1	1	0	4	2	1	0	7	1	0	1	4.0	14	1	0	2	0	1	When the French returned to Indochina at the end of WW II the Viet Minh were in control of the Red River Delta.	4
+21	1	3	0	2	0	3	4	1	1	1	4	0	1	3.0	9	0	0	2	1	0	"The sentence ""Have you been to Kenya?"" has a tree height of 4 in the syntactic tree."	4
+9	1	1	0	0	0	2	2	0	0	0	2	0	1	2.0	3	0	0	1	0	0	**The swift parrot flew across the sky.**	4
+17	1	2	1	0	0	4	5	0	0	0	2	0	2	3.0	7	1	1	1	1	0	The river ran quickly past the rocky shore, making a winding path for the boat.	4
+11	2	2	0	0	0	2	2	0	0	1	1	0	1	3.0	4	0	0	1	0	0	The ancient city of Pompeii stands on the Italian peninsula.	4
+16	1	1	1	1	0	3	4	0	0	0	1	0	3	3.0	9	2	2	2	1	0	The Japanese were planting rice in the paddy field when the rain began to fall.	4
+24	3	3	0	0	0	4	5	0	1	2	1	0	3	5.0	8	2	2	1	3	0	The United States imposed a trade embargo on Cuba in an attempt to pressure the Cuban government to give up its nuclear weapons.	4
+12	1	1	1	0	0	2	3	0	0	0	1	0	2	2.0	7	1	1	1	0	0	The weary traveler sat down beneath the willow tree to rest.	4
+10	1	1	0	1	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The house was painted pink after the storm damage.	4
+21	3	3	0	0	0	4	4	0	0	4	1	0	1	5.0	8	0	0	1	1	0	The verdant canopy of trees in the Red River Delta provided a serene backdrop for the Viet Minh's victory.	4
+11	2	1	0	0	0	2	3	0	0	0	1	0	2	2.0	6	0	0	1	0	0	The ancient temple stood tall amidst the towering jungle canopy.	4
+13	0	1	0	0	1	3	5	0	0	0	1	0	2	3.0	6	0	0	1	1	0	The cat jumped onto the kitchen counter and devoured the cherry pie.	4
+18	0	2	1	1	0	2	4	1	2	0	2	0	2	3.0	7	1	0	1	2	1	To complete my assignment, I will meticulously write a sentence with a tree height of 4.	4
+12	0	2	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	0	0	The cat sat on the mat and dreamed of the future.	4
+24	1	5	1	1	0	4	2	1	0	7	1	0	1	4.0	9	1	1	2	0	0	The Viet Minh were in control of the Red River Delta when the French returned to Indochina at the end of WW II.	4
+7	0	0	0	1	0	1	1	0	0	0	2	0	1	2.0	5	0	0	1	0	0	Sure, the requested sentence is: The museum exhibits a collection of ancient artifacts from around the world.	4
+14	1	2	0	1	0	4	4	0	0	0	1	0	1	3.0	5	0	0	1	1	0	The Appendices to the protocol shall form an integral part of the protocol.	4
+13	0	2	1	0	0	3	3	0	0	0	2	0	2	4.0	6	1	1	1	1	0	The wind blew violently, tearing the sails of the ship off.	4
+22	2	3	0	0	1	4	5	1	0	1	2	0	3	5.0	5	1	1	2	1	0	In the village of Kentuck the flowers bloomed bright and the trees stood tall, reaching a height of four stories.	4
+15	2	1	0	0	0	2	3	1	0	0	4	0	2	4.0	3	1	1	1	1	0	"""The ancient tree stood tall, reaching a height of four stories."""	4
+10	0	1	0	0	0	2	4	0	0	1	1	0	1	3.0	4	0	0	1	1	0	The museum exhibit showcased sculptures from the Renaissance era.	4
+14	2	1	0	0	0	2	4	1	0	0	2	0	2	4.0	3	1	1	1	1	0	The ancient temple complex stood tall, reaching a height of 4 stories.	4
+13	0	3	0	0	0	4	4	0	0	0	1	0	1	3.0	6	0	0	1	0	0	The cat sat on the mat in the middle of the room.	4
+21	1	4	1	1	0	4	2	0	0	5	2	0	1	3.0	12	1	0	2	0	1	When the Vikings sailed to Japan in the ninth century, the Samurai were in control of the Silk Road.	4
+16	0	2	0	2	1	2	3	0	1	0	2	0	2	3.0	6	1	1	2	1	0	The house was on fire, and the firefighter were rushing to put it out.	4
+24	3	2	1	1	0	3	5	0	0	1	1	1	5	7.0	5	3	3	2	1	0	The newly elected Prime Minister announced that the country will embark on a path of ambitious social programs designed to improve living standards.	4
+20	3	3	0	1	0	3	3	0	0	3	3	0	1	5.0	13	1	0	1	0	1	The ancient temple of Angkor Wat, located in Cambodia, is the largest religious monument in the world.	4
+14	0	2	0	0	0	3	4	0	1	0	1	1	2	3.0	7	1	1	2	0	0	My cat sat on the windowsill as the wind blew through the trees.	4
+24	1	5	1	1	0	4	2	1	0	7	1	0	1	4.0	14	1	0	2	0	1	When the French returned to Indochina at the end of WW II the Viet Minh were in control of the Red River Delta.	4
+14	1	3	0	0	0	4	4	0	0	0	1	0	1	3.0	4	0	0	1	0	0	The antique clock on the mantle ticked with the rhythm of the clockwork.	4
+16	0	2	0	2	1	2	3	0	1	0	2	0	2	3.0	6	1	1	2	1	0	The house was on fire, and the firefighters were called to put it out.	4
+11	1	1	1	1	0	2	2	0	0	0	2	0	1	3.0	3	0	0	1	0	0	**The newly renovated library is adjacent to the park.**	4
+31	2	3	1	0	1	2	9	0	2	0	5	0	5	6.0	10	2	2	1	5	0	For example, universities have a financial incentive to inflate the expertise of their academic staff, thereby increasing their rankings, bringing in grant money, and attracting students.	6
+13	1	2	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	0	0	The cat jumped onto the table and landed on the soft rug.	6
+9	0	2	0	0	0	2	3	0	0	0	1	0	1	3.0	3	0	0	1	0	0	The cat sits on top of the table.	6
+54	2	9	4	1	2	5	11	3	6	0	4	0	6	5.0	21	3	1	3	4	2	"The sentence generated with a tree height of 6 in the syntactic tree is: ""When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena."""	6
+13	1	2	0	0	0	3	5	0	0	0	1	0	1	3.0	7	0	0	1	1	0	The scent of honeysuckle pervades the air on a warm summer evening.	6
+13	2	2	0	0	0	3	4	0	0	0	1	0	1	3.0	6	0	0	1	1	0	The vibrant flowers adorned the garden with a breathtaking display of color.	6
+21	3	2	0	0	0	3	6	1	0	0	3	0	3	4.0	7	2	2	1	2	0	The majestic oak tree stood tall, reaching a height of 6 stories, casting long shadows across the ground.	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+39	1	6	4	0	2	2	7	2	6	0	3	0	5	4.0	16	2	1	2	4	1	"""When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena."""	6
+15	1	3	0	1	0	3	4	1	0	0	1	0	1	5.0	12	1	0	1	0	1	The sentence generated with a tree height of 6 in the syntactic tree is: When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+16	3	2	0	0	0	3	4	0	0	0	2	0	2	3.0	6	1	1	1	1	0	The vibrant flowers bloomed in a harmonious symphony, bringing joy to the weary traveler.	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+18	2	2	0	0	1	4	5	0	0	0	2	0	2	3.0	9	0	0	2	0	0	 The quick brown fox jumps over the sleeping dog, and the apple falls from the tree.	6
+19	3	2	1	0	0	3	6	1	0	0	1	0	2	5.0	7	1	0	1	2	1	 The majestic oak tree reaching a height of 6 meters casts long shadows upon the verdant grass below.	6
+54	2	9	4	1	2	5	11	3	6	0	4	0	6	5.0	21	3	1	3	4	2	"The sentence generated with a tree height of 6 in the syntactic tree is: ""When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena."""	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+39	1	6	4	0	2	2	7	2	6	0	3	0	5	4.0	16	2	1	2	4	1	"""When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena."""	6
+9	0	1	0	0	0	2	2	0	0	0	3	0	1	2.0	3	0	0	1	0	0	"""The cat sat on the mat."""	6
+31	1	5	1	2	3	5	5	0	3	2	1	0	3	6.0	12	2	1	2	0	1	The email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.	6
+19	1	3	0	1	0	5	5	0	0	0	1	0	2	5.0	13	2	1	1	0	1	The intricate dance of a butterfly fluttering over the garden in the summertime is a sight to behold.	6
+23	1	2	0	1	1	5	5	0	1	2	1	1	3	8.0	15	3	3	2	1	0	The email content includes a message stating that the email and any files transmitted with it from the ElPaso Corporation are confidential.	6
+26	1	2	1	0	1	5	8	0	0	2	2	0	4	6.0	14	3	3	1	3	0	The email content specifically highlights the confidentiality of information transmitted between the ElPaso Corporation and the recipient, addressing the privacy concerns surrounding sensitive data.	6
+19	2	0	2	2	0	3	3	0	2	0	2	0	2	4.0	5	3	2	2	1	1	 When I was a little child, I often pretended to be a pirate sailing the high seas.	6
+39	1	6	4	0	2	2	7	2	6	0	3	0	5	4.0	16	2	1	2	4	1	"""When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena."""	6
+24	1	1	0	1	1	2	4	0	4	0	4	1	4	5.0	8	2	2	2	3	0	"""My dog can jump onto the fence and climb it, providing a safe place for me to store my groceries."""	6
+39	1	6	4	0	2	2	7	2	6	0	3	0	5	4.0	16	2	1	2	4	1	"""When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena."""	6
+13	1	1	1	0	0	2	3	1	0	0	2	0	2	3.0	5	1	1	1	0	0	The tall tree stood sixty feet high, reaching for the sky.	6
+15	0	1	1	0	0	3	3	0	0	0	2	1	3	4.0	5	2	2	2	0	0	The cat sat on the mat, waiting for the owner to come home.	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+11	0	2	0	0	0	2	4	0	1	0	1	0	1	3.0	4	0	0	1	1	0	 The dog chased its tail for hours in the park.	6
+10	0	1	1	0	0	2	3	0	0	0	1	0	2	4.0	5	0	0	1	1	0	The aroma of freshly baked bread permeates the air.	6
+53	2	9	4	1	2	5	11	3	6	0	3	0	6	6.0	20	3	1	3	4	2	"The sentence generated with a tree height of 6 in the syntactic tree is ""When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena."""	6
+22	3	2	0	0	1	4	5	0	0	0	4	0	3	5.0	8	2	1	1	2	1	"""The scent of fresh bread emanating from the kitchen filled the air, creating a warm and inviting atmosphere."""	6
+33	2	3	1	0	1	2	9	0	2	0	7	0	5	6.0	10	2	2	1	5	0	"""For example, universities have a financial incentive to inflate the expertise of their academic staff, thereby increasing their rankings, bringing in grant money, and attracting students."""	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+19	3	3	0	0	0	3	6	1	0	0	1	0	2	5.0	9	1	0	1	1	1	The majestic oak tree standing tall at a height of 6 meters cast long shadows upon the ground.	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	 When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+17	1	2	1	1	1	2	4	0	1	0	3	0	1	3.0	10	0	0	1	0	0	"""A rhinoceros can leap from a tall tree and land safely on its feet."""	6
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The dog chased the ball down the street.	6
+19	3	2	1	0	0	2	5	1	0	0	3	0	2	4.0	8	1	0	1	1	1	 The majestic oak tree, standing tall at 6 stories, casts long shadows upon the park below.	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+24	2	3	1	0	0	3	6	0	2	0	3	0	4	4.0	8	2	2	2	1	0	The majestic soaring eagle effortlessly carried its spoils of war, soaring through the sky, its powerful wings slicing through the wind.	6
+23	4	3	0	1	1	3	7	0	0	0	2	1	1	5.0	9	1	1	1	0	0	 The fruit is sweet and ripe, perfect for eating with a scoop of vanilla ice cream on a hot summer day.	6
+22	1	1	1	2	1	3	4	0	1	0	3	0	3	4.0	11	1	1	2	2	0	**A parrot can mimic the sound of human speech, but it does not have the capacity to speak intelligently.**	6
+17	1	1	1	0	0	3	4	0	1	0	4	0	2	4.0	4	1	1	2	1	0	"""The majestic lion gracefully roams the savanna, its mane flowing in the wind."""	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+21	1	3	0	0	1	5	8	0	0	0	1	0	2	5.0	9	1	0	1	1	1	The intricate dance moves performed in the center ring of the circus showcase the grace and agility of the performers.	6
+12	1	2	0	1	0	3	4	0	0	0	1	0	0	3.0	4	0	0	1	0	0	The grass is greener on the north side of the fence.	6
+24	4	1	0	0	0	3	5	1	3	0	3	0	4	7.0	5	3	3	3	3	0	The majestic cathedral stands tall for 6 soaring stories, its towering spires piercing the sky, captivating all who behold its grandeur.	6
+37	1	6	4	0	2	2	7	2	6	0	1	0	5	4.0	16	2	1	2	4	1	   When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena.	6
+32	1	3	3	3	0	3	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+19	0	2	1	0	0	4	5	1	0	0	3	0	3	4.0	11	2	2	1	1	0	 The cat perched on the branches of the 7-story tree, watching the birds fly by.	7
+21	1	2	0	1	2	2	2	0	2	4	2	1	2	6.0	6	2	2	3	1	0	People like the fact that I stand for a Virginia that is both Open-minded and Open for Business.	7
+14	2	0	1	0	0	2	1	0	0	0	3	0	4	4.0	4	3	2	1	1	1	 A lion standing tall, roared ferociously, threatening to protect the helpless.	7
+20	3	3	0	0	0	4	4	0	1	0	1	0	3	6.0	5	2	2	2	1	0	The politician spoke to the crowd about a new bill that promised to provide affordable healthcare to the impoverished.	7
+12	1	2	0	1	0	2	3	0	0	0	1	0	2	4.0	6	1	0	1	0	1	The fat cat sitting on the mat was purring with delight.	7
+10	0	1	0	0	0	3	4	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The fruit vendor sold the bananas to the customers.	7
+11	0	0	0	0	0	2	2	2	0	0	1	0	3	3.0	7	0	0	1	1	0	  The cap included the remaining 2.5+million remaining shares.	7
+19	0	2	0	0	0	3	4	2	1	0	1	1	4	4.0	10	1	1	2	1	0	 The captain confirmed to me that the remaining cargo on the ship included 2.5+million remaining shares.	7
+51	4	5	1	3	2	6	9	2	1	5	9	1	3	8.0	22	2	1	4	1	1	"The sentence generated with a tree height of 7 in the syntactic tree is: ""Radical Shiite cleric Muqtada al-Sadr said the attack was ""criminal"" and that ""the Zionists have left only one choice for the Arabs, that of fighting and jihad""."	7
+22	1	3	0	1	0	4	6	0	1	0	1	1	3	5.0	6	1	1	2	1	0	The politician's speech was popular among the audience because it addressed the pressing issue of the rising cost of living.	7
+11	1	1	0	0	0	2	4	1	0	0	1	0	1	2.0	7	0	0	1	1	0	The chef created a delicious chocolate cake with seven layers.	7
+23	1	4	0	0	1	5	7	0	0	0	2	0	2	6.0	6	1	1	1	0	0	The protagonist's journey concludes with a climactic confrontation, resulting in the resolution of the conflict and the restoration of peace.	7
+23	3	4	0	0	1	4	5	0	0	0	3	0	3	4.0	13	0	0	1	0	0	The cat jumped onto the red car, chased after the green worm, and landed on top of the blue tree.	7
+21	1	2	0	1	2	2	2	0	2	4	2	1	2	6.0	6	2	2	3	1	0	People like the fact that I stand for a Virginia that is both Open-minded and Open for Business.	7
+32	7	5	0	1	2	2	4	0	5	0	3	0	3	8.0	8	3	2	4	1	1	 The people I speak with on a daily basis range from those who are open-minded and open for business to those who hold hateful and narrow-minded views.	7
+36	3	2	1	2	2	4	5	1	1	5	7	1	2	8.0	8	1	1	3	1	0	"The radical Shiite cleric Muqtada al-Sadr said the attack was ""criminal"" and that ""the Zionists have left only one choice for the Arabs, that of fighting and jihad""."	7
+36	3	2	1	2	2	3	5	1	1	5	8	1	2	8.0	8	1	1	3	1	0	"""Radical Shiite cleric Muqtada al-Sadr said the attack was ""criminal"" and that ""the Zionists have left only one choice for the Arabs, that of fighting and jihad""."	7
+15	2	1	0	0	1	2	3	0	0	0	4	0	2	4.0	6	1	1	1	1	0	The lion, majestic and proud, roared across the savanna, claiming victory.	7
+14	0	2	1	1	0	2	3	1	0	0	2	0	1	4.0	4	0	0	0	0	0	Sure, below is the generated sentence with a tree height of 7:  The politician's speech was energetic and passionate, yet the audience was not entirely convinced.	7
+12	0	1	0	0	0	3	3	0	0	0	2	0	3	3.0	5	2	2	1	1	0	The cat sat on the mat, watching the children play.	7
+51	4	5	1	3	2	6	9	2	1	5	9	1	3	8.0	22	2	1	4	1	1	"The sentence generated with a tree height of 7 in the syntactic tree is: ""Radical Shiite cleric Muqtada al-Sadr said the attack was ""criminal"" and that ""the Zionists have left only one choice for the Arabs, that of fighting and jihad""."	7
+32	1	3	3	3	0	3	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+37	2	3	3	1	0	6	8	0	2	1	8	0	2	5.0	15	2	2	2	2	0	 It's always a bang-your-head-against-the-wall moment, reading again the play the incompetence theory receives, even from some of the Administration's harshest mainstream critics.	7
+15	0	1	0	0	1	3	3	0	0	0	1	0	4	4.0	7	2	2	1	1	0	The politician promised to fight for the people and pledged to uphold the constitution.	7
+32	1	3	3	3	0	3	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+16	3	1	1	1	1	3	3	0	0	0	2	0	1	3.0	5	0	0	2	0	0	The sky was bright blue, and the birds chirped merrily on that sunny afternoon.	7
+32	1	3	3	3	0	3	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+15	1	2	0	1	0	3	4	1	1	0	1	0	1	5.0	5	1	1	2	0	0	The cat perched on the branch of a tree that was 7 meters tall.	7
+12	0	2	0	0	1	3	3	0	0	0	1	0	2	3.0	5	0	0	1	0	0	The cat jumped onto the table and landed on the milk.	7
+17	1	0	1	0	0	4	4	0	1	0	1	1	4	5.0	9	2	2	1	3	0	The protagonist expressed his joy at learning the newly released album contained all the popular songs.	7
+21	1	2	0	1	2	2	2	0	2	4	2	1	2	6.0	6	2	2	3	1	0	People like the fact that I stand for a Virginia that is both Open-minded and Open for Business.	7
+38	2	3	3	1	0	6	8	0	2	1	9	0	2	5.0	15	2	2	2	2	0	**It's always a bang-your-head-against-the-wall moment, reading again the play the incompetence theory receives, even from some of the Administration's harshest mainstream critics.**	7
+21	1	2	0	1	2	2	2	0	2	4	2	1	2	6.0	6	2	2	3	1	0	People like the fact that I stand for a Virginia that is both Open-minded and Open for Business.	7
+22	0	4	0	0	1	5	6	0	0	0	3	0	3	4.0	13	1	1	1	1	0	The cat jumped onto the table, knocking over a glass of water, and spilled the contents onto the floor.	7
+32	1	3	3	3	0	3	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+47	2	6	3	4	0	6	9	2	1	3	5	0	5	6.0	25	3	2	4	0	1	"The sentence generated with a tree height of 7 in the syntactic tree is: Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+16	1	0	0	3	1	3	3	0	0	0	3	0	2	3.0	11	0	0	3	0	0	The sky is blue, the sun is shining, and the flowers are blooming.	7
+18	1	3	0	0	0	4	5	1	0	0	1	0	2	4.0	6	1	1	1	1	0	The user requested to generate a sentence with a tree height of 7 in the syntactic tree.	7
+33	1	3	3	3	0	4	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"The Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+16	0	3	0	0	0	3	4	0	0	0	2	0	3	4.0	6	2	2	1	1	0	The cat jumped onto the table, causing a stack of books to topple over.	7
+13	1	1	1	1	1	1	1	0	3	0	1	0	2	4.0	5	0	0	2	1	0	 I have successfully completed the task and I feel good about it.	7
+39	2	3	3	1	0	6	8	0	2	1	10	0	2	5.0	15	2	2	2	2	0	"""It's always a bang-your-head-against-the-wall moment, reading again the play the incompetence theory receives, even from some of the Administration's harshest mainstream critics."""	7
+36	3	2	1	2	2	3	5	1	1	5	8	1	2	8.0	8	1	1	3	1	0	"""Radical Shiite cleric Muqtada al-Sadr said the attack was ""criminal"" and that ""the Zionists have left only one choice for the Arabs, that of fighting and jihad""."	7
+32	1	3	3	3	0	3	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+13	0	1	1	1	1	2	2	0	1	0	2	0	2	2.0	8	0	0	2	0	0	The cat sat on the mat, and it was purring happily.	7
+20	0	4	0	0	1	2	6	0	4	0	1	0	2	4.0	11	0	0	1	1	0	The politician spoke with her constituents about their concerns about the economy and expressed her understanding of their plight.	7
+32	1	3	3	3	0	3	5	1	1	3	4	0	4	6.0	25	2	2	3	0	0	"Cornyn's statement added, ""There is no question Houston should have been selected as a final home for one of the orbiters — even Administrator Bolden stated as much."	7
+13	1	2	0	0	0	3	4	1	0	0	1	0	1	3.0	6	0	0	1	1	0	The chef created a delicious dessert with a height of 7 layers.	7
+21	1	2	0	1	2	2	2	0	2	4	2	1	2	6.0	6	2	2	3	1	0	People like the fact that I stand for a Virginia that is both Open-minded and Open for Business.	7

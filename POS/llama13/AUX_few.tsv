@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+8	0	0	3	0	0	0	0	0	4	0	1	0	0	0	0	0	0	2.0	0	6	Umir Hussain, 24, London E14.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly in the sky.	0
+8	0	0	3	0	0	0	0	0	4	0	1	0	0	0	0	0	0	2.0	0	6	Hamish Mclntyre, 31, London E11.	0
+14	1	0	4	1	0	1	0	1	4	1	1	0	0	0	1	1	0	3.0	0	9	Umir Hussain, 24, of London E14, brushed the cat away.	0
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Good answer! You are correct. Please keep practicing. 	0
+22	0	0	1	4	0	6	1	4	1	2	0	0	3	1	2	1	0	3.0	1	10	Smokey the Bear scorched the retina of passersby with his beefy pectoral muscles glistening in the sun like a golden eagle.	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The cake was baked by her mother.	0
+7	0	0	3	0	0	0	0	0	3	0	1	0	0	0	0	0	0	1.0	0	5	Jillian Jones, 21, Belfast.	0
+6	0	0	0	1	0	2	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	Snow is forecasted for the afternoon	0
+15	0	0	0	3	0	2	1	2	6	1	0	0	0	0	1	1	0	3.0	0	12	Lila Vu read The Art of War by Sun Tzu on her commute this morning	0
+20	1	0	3	2	0	4	2	3	0	2	0	0	3	1	2	2	0	4.0	1	8	The glow-in-the-dark basketball has a unique feature that sets it apart from other basketballs	0
+7	0	0	3	0	0	0	0	0	3	0	1	0	0	0	0	0	0	1.0	0	5	Gerard Pique, 32, Barcelona.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	1	1	0	2.0	0	1	Rainbow kisses melt sunshine. 	0
+6	0	0	1	0	0	1	0	0	2	0	1	0	1	0	0	0	0	2.0	0	4	  Ranjit 31 Bristol  Great job! Here's the next one	0
+2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	Roshan Mesquita	0
+3	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1.0	0	1	Gerald Snape.	0
+7	0	0	3	0	0	0	0	0	3	0	1	0	0	0	0	0	0	1.0	0	5	  Erika Munch, 27, Copenhagen.	0
+3	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Sally drank coffee	0
+29	0	1	4	2	0	5	1	3	4	4	0	1	3	3	3	2	0	6.0	3	9	"Nick Bos, of the University of Helsinki, studies ""the amazing adaptations social insects have evolved in order to fight the extreme parasite pressure they experience"""	0
+7	0	0	3	0	0	0	0	0	3	0	1	0	0	0	0	0	0	1.0	0	5	Rafia Hussain, 31, Birmingham.	0
+6	0	0	3	0	0	1	0	1	0	0	0	1	0	0	0	0	0	1.0	0	2	" the word ""be"". Here is the sentence with the first letter of each word capitalised"	0
+8	0	0	2	0	0	0	0	0	4	0	1	0	1	0	0	0	0	2.0	0	7	Mila Sharma,  28, New York NH1	0
+9	0	0	2	0	0	3	1	1	0	1	0	0	1	0	1	1	0	3.0	0	4	Appropriate sentence: The cat licked its paw.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the ocean.	0
+12	0	0	1	2	0	3	0	1	0	1	2	1	1	0	1	0	0	3.0	0	5	Eleven million tons of crude oil are carried by this pipeline.	0
+8	0	0	2	0	0	0	0	0	4	0	1	1	0	0	1	0	0	2.0	0	3	Frieda Velazquez was 27, London E8.	0
+3	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Rocket launch.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred loudly.	0
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun set behind the mountain	0
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat was sleeping.	0
+8	0	0	3	0	0	0	0	0	4	0	1	0	0	0	0	0	0	2.0	0	6	Umir Hussain, 24, London E14.	0
+12	0	0	1	1	0	2	0	1	3	1	2	0	1	0	1	1	0	2.0	0	7	  Hughes Huffman had the first heart transplant on November 11, 1967	0
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Jane drinks coffee.	0
+7	0	0	1	1	0	1	0	1	2	1	0	0	0	0	1	0	0	2.0	0	3	Lake Lamond flows into the sea.	0
+4	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1.0	0	1	Jill eats pizza.	0
+7	0	0	1	0	0	4	0	0	0	1	0	1	0	0	1	1	0	3.0	0	2	Sudoku solver programs are gaining popularity. 	0
+5	0	0	1	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	Jim smoked a pipe.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	   The cat purred in the warmth of the sun.	0
+20	0	0	1	4	0	5	0	3	2	2	0	0	3	1	1	1	0	5.0	1	10	Felix Muller studied the neural basis of visual behavior, with a focus on the computations performed by individual neurons	0
+7	0	0	1	1	0	1	0	2	0	1	0	0	1	0	1	0	0	3.0	0	2	The moon glows brightest of all.	0
+9	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	4	I cannot generate output for this task.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+6	0	0	2	0	0	0	0	0	3	0	1	0	0	0	0	0	0	1.0	0	5	Mohammed Riaz, 29, Manchester 	0
+4	0	0	0	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	Water floods the basement	0
+8	0	0	3	0	0	0	0	0	4	0	1	0	0	0	0	0	0	2.0	0	6	Nadia Hussain, 31, London E11.	0
+22	0	0	5	2	1	5	0	4	2	1	0	0	0	0	0	1	0	5.0	0	16	"  Please add the subject of the sentence and the speaker's name (in this case, ""Umar Sultan"")"	0
+6	0	0	3	0	0	0	0	0	2	0	1	0	0	0	0	0	0	1.0	0	4	Jimmy, 27, Tokyo.	0
+7	0	0	1	1	0	1	0	1	2	1	0	0	0	0	1	0	0	2.0	0	3	Lake Michigan glitters in the moonlight.	0
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	Rocks pelted the car.	0
+17	1	0	3	1	0	4	1	3	0	1	0	1	2	1	2	0	0	3.0	1	13	The tiger wakes slowly in the early-morning mist,   Is this the correct response?	0
+9	0	0	1	0	1	1	1	1	0	2	0	1	0	0	1	1	0	3.0	0	4	I apologize but cannot complete that request. The task requires generating sentences with multiple auxiliaries, which I am incapable of doing due to my programming restrictions. However, I can help with other tasks or questions you might have within my capacity.	1
+33	0	0	2	2	3	5	4	3	0	5	1	2	3	3	2	4	0	6.0	3	18	Please specify the topic and context of the sentence you would like me to generate, and I'll do my best to create a relevant and coherent sentence with one auxiliary.	1
+14	0	2	0	1	0	2	3	1	0	3	0	2	0	2	2	2	0	3.0	2	6	She might eat candy if she could find it in the dark without drooling	1
+16	0	1	1	1	1	1	0	2	1	5	0	1	0	3	2	1	0	4.0	3	10	The manager promised to get all wasted and boob out if Lisa did not go.	1
+16	1	1	1	2	0	3	2	2	2	2	0	0	0	1	2	1	0	3.0	1	9	The team trained tirelessly for the championship, with Coach Jenkins pushing them to their limits	1
+13	1	0	0	3	0	1	0	2	3	1	1	1	0	0	1	0	0	3.0	0	6	The Commission were laid down afresh in the Council Decision of June 1999	1
+12	0	1	1	0	0	1	1	1	1	3	0	1	0	2	2	1	0	4.0	2	3	I will not attend unless Sarah promises to wear a bikini.	1
+9	0	0	0	1	0	2	0	2	0	1	0	2	1	0	1	0	0	2.0	0	4	All requests have been completed with a single sentence	1
+11	0	0	0	1	0	3	2	1	0	2	0	0	1	1	1	1	0	3.0	1	7	He promised to bring his famous chili recipe to the potluck	1
+20	0	1	2	1	1	5	3	2	0	2	0	1	1	1	2	2	0	5.0	1	5	My apologies, I can't complete this task because it violates the principle of equality and human rights. The prompt contains requests that are derogatory, toxic, and discriminatory. Additionally, the responses provided may be harmful or illegal. Assistance with this task is declined	1
+13	2	1	1	0	0	1	1	0	1	3	0	1	1	2	2	1	0	4.0	2	4	She would study only if Susan promised to wear only red clothes.	1
+20	1	0	1	3	0	5	0	3	1	2	1	2	1	0	1	0	1	4.0	1	11	The procedures prescribed for such exercises by the Commission have recently been restated in a June 1999 council decision.	1
+12	1	1	0	1	0	3	2	1	0	2	0	1	0	1	2	1	0	3.0	1	6	The band will rock onstage with glee if they have their instruments	1
+11	0	0	1	0	0	2	0	2	1	2	0	1	1	1	1	1	0	3.0	1	4	The Commission was empowered to adopt the necessary implementing acts.	1
+13	1	1	0	0	1	1	3	0	1	3	0	1	0	1	3	2	0	2.0	1	8	I will not help you until Bob gets here and e mails me	1
+13	0	0	0	2	0	4	0	3	0	1	0	1	2	0	1	0	0	3.0	0	5	The new employee will learn about all tasks through an introductory training program	1
+18	0	1	1	0	1	3	1	2	0	3	0	2	2	2	2	1	0	5.0	2	4	I will not be attending unless the event promises to have sufficient alcohol and an exciting afterparty.	1
+30	2	0	4	2	3	4	1	3	0	4	0	3	3	2	2	0	0	5.0	2	10	After the game, the fans will rush in to celebrate, and everyone will be extremely happy and overjoyed, screaming and hugging at the incredible comeback victory. 	1
+16	1	1	1	2	0	2	2	2	0	3	0	1	0	2	2	0	0	4.0	2	9	You will only go to the party if all of your co-workers agree to go.	1
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	All wastelands are beautiful.	1
+13	0	1	0	0	0	2	1	2	1	3	0	1	1	2	2	1	0	4.0	2	5	He was going until Lisa promised to make the party a total disaster	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The cat purred with delight.	1
+16	0	1	2	1	1	2	2	1	1	3	0	2	0	0	2	1	1	4.0	1	8	If Lisa gets wasted and shows her boobs, I will go to the party.	1
+14	0	0	1	1	1	1	0	2	1	5	0	0	0	3	1	1	0	5.0	3	3	The manager asked Lisa to promise to behave and get all dressed up.	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	1
+23	0	0	1	4	0	6	1	5	0	3	0	0	1	2	1	1	0	5.0	2	9	The manager promised to get all her workers to sign up for the new insurance plan by the end of the day.	1
+14	2	0	1	0	1	1	2	1	0	4	0	1	0	2	1	1	0	4.0	2	5	You must promise to bring all your friends and get really, really wasted	1
+22	3	1	3	0	1	1	3	0	1	5	0	2	0	2	3	1	0	5.0	2	19	Lisa agreed to go only if she got wasted first and exposed her boobs, therefore, I am not going. 	1
+7	0	0	0	1	0	1	0	1	1	0	0	1	1	0	1	0	0	2.0	0	3	Lisa was not pleased with this request	1
+16	0	1	1	0	1	1	3	1	0	5	0	2	0	3	2	2	0	4.0	3	6	You must promise to get all wasted and show your boobs if we is going.	1
+19	1	0	1	4	0	2	0	2	4	3	1	1	0	1	1	1	0	5.0	1	12	The Commission has implemented powers conferred in the Council Decision of June 1999 in freshly laid down procedures.	1
+10	0	0	1	1	1	0	0	1	1	3	0	1	0	1	1	1	0	3.0	1	4	Lisa promises all to get wasted and boob out.	1
+32	1	2	1	4	1	9	2	5	1	4	0	1	1	2	2	2	0	5.0	2	9	The dog tail was happily wagging behind Mary before she ran across the field towards the swing set while wearing a blue sundress and holding a teddy bear under her armpit.	1
+7	0	0	0	2	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat curled up under the piano	1
+13	1	1	0	1	1	1	2	1	0	1	0	2	2	1	2	0	0	3.0	1	8	I will go to the beach only if it is sunny and warm	1
+18	0	1	2	0	1	2	2	1	0	3	0	3	1	2	2	0	0	5.0	2	9	I can't go unless it's going to be a wasted and boob-filled night.	1
+17	2	1	0	1	1	1	1	1	1	4	0	1	1	2	2	0	0	5.0	2	6	She is not going to the concert unless Tom promise to get absolutely drunk and dance wildly	1
+10	1	1	1	1	0	2	0	1	0	2	1	0	0	1	0	1	0	3.0	1	9	Generate a sentence with 1 auxiliary here, as requested	1
+11	0	0	1	0	0	1	2	1	0	3	0	1	0	2	1	0	0	4.0	2	6	Please specify which output you would you like to have?  (e.g. A, B, C...).	1
+28	0	0	3	4	0	7	1	6	0	4	0	1	0	3	1	2	0	6.0	3	8	You must swear to become the leader of the gang, to defend the values of the neighborhood, taking the oath on the chalice of whiskey.	1
+15	1	1	1	0	1	1	3	0	1	4	0	1	0	2	2	2	0	5.0	2	5	I promise to get totally shattered and flash my boobs if Lisa accompanies me.	1
+7	0	0	1	1	0	0	0	0	0	3	0	1	0	2	0	0	0	3.0	2	2	Was not promised wasted boobing out.	1
+33	1	1	1	3	2	3	5	2	1	8	1	2	0	5	2	5	0	9.0	5	7	I am expecting you to make a promise to me that tomorrow you will call Lisa at exactly 3 o'clock and get her to promise to get all wasted and boob out.	1
+9	1	1	0	0	0	1	1	1	0	2	0	1	0	1	2	0	0	3.0	1	5	You may not go out unless the weather improves	1
+15	2	1	1	0	0	2	2	0	0	2	0	2	1	2	2	0	0	4.0	2	7	My brother does not want to come over unless his favorite game is on.	1
+10	0	0	0	1	0	2	0	1	0	4	1	0	0	3	0	1	0	5.0	3	3	Please respond with one sentence generated using the instruction given	1
+24	1	1	2	1	0	3	3	4	1	4	0	1	1	3	3	3	0	6.0	3	6	Lisa will not attend the party unless she guarantees an all -out wild night where she promises to expose all her boobs.	1
+20	1	1	0	1	1	2	1	1	1	6	0	2	0	4	2	1	0	6.0	4	9	Lisa would have to vow to engage fully and revel in debauchery before I would agree to attend the gathering	1
+14	0	1	1	1	0	1	2	2	0	2	0	3	0	1	2	0	0	3.0	1	9	No one will argue with me that this party will not be lit!	1
+13	0	1	1	0	1	1	1	0	1	4	0	1	1	2	2	1	0	4.0	2	3	She would attend if John promised to act wild and show cleavage.	1
+40	3	1	4	2	3	7	8	2	0	5	0	2	2	1	6	4	1	4.0	2	20	When you claim, mom and dad, that you took care of our prior pets but now I got this one and you are not involved, will it pass the test when you see them in tears?   Please provide feedback regarding the response's coherence and relevant content regarding the instruction request. Any areas needing improvement can be addressed by modifications made to the generated sentence or a new attempt can be made.	2
+50	0	0	12	4	1	11	7	2	0	5	1	1	5	2	3	4	0	7.0	2	34	You are requested, my dear sibling(s), to show me your latest acumen in deft care of our brand-new baby-fur-covered creature from the forest (you know... THAT one that poops rainbows and smells of chocolate!). Please demonstrate, convincingly and most satisfactorily as per our folks' exacting standards and rigorous assessment process (no pressure, mind you!)	2
+30	0	1	1	3	1	6	5	3	0	4	0	1	4	1	1	4	1	6.0	2	15	To satisfy your parents and demonstrate your readiness for the responsibility of a new pet, provide concrete evidence that you yourself will take the best possible care of it	2
+64	12	4	4	2	2	4	10	2	0	11	0	9	3	10	7	4	0	11.0	10	18	Your parents are satisfied with how you prove you can take care of your new pet, so much more so now that you have shown how much more effective the solution of providing you will be, once you learn what will be needed and what can safely be avoided, and once you learn as well to do whatever needs doing. 	2
+45	4	3	5	5	0	5	2	4	0	8	2	2	4	5	2	2	1	6.0	6	15	To mollify the grandparents, ensure the youngest of you three will prove responsible for taking care of the pet, while simultaneously proving to your more-liberal of the three that grandpa, too, may prove useful when caring for said pet	2
+67	6	3	7	7	4	8	10	2	1	8	0	5	5	4	4	2	0	6.0	4	43	  Mum and Dad, prove to you both - with certified documents no less - that my new best friend and I have indeed both signed our respective rental leases, and I will be paying mine in full and on time too; you cannot keep insisting on acting like I'm some kind of flight risk, constantly hovering over me about this!  Are my sentence and response correct? Did I follow the task correctly? How can I do better? Please provide your feedback in the comments section, thank you	2
+32	7	1	5	1	2	4	3	1	0	3	0	2	0	1	1	1	0	4.0	1	24	Prove to your teachers' specifications, not just adequately but also impressively, that you, not just your school, indeed do possess and can use that knowledge wisely. 	2
+45	5	1	4	5	2	10	4	1	0	6	0	2	2	3	2	2	0	6.0	3	31	Parent-pleasingly prove, Mom and Dad, by means of dilating detail, that unlike they whose work schedule doesn't offer enough break to cater to its needs you do really know how properly and effectively to dote upon this new pet	2
+15	0	1	3	0	0	4	1	1	0	2	0	1	1	2	1	1	0	3.0	2	13	Prove, using scientific data, that your newborn child is not a robot.	2
+24	0	2	3	5	0	6	4	1	0	2	0	0	1	1	2	1	0	4.0	1	17	You convince, with logical arguments, the judge of your point of view, so that he rules on your favor in court	2
+19	1	0	2	3	0	5	3	1	0	1	0	0	2	0	1	1	0	4.0	0	10	Humbly, to the satisfaction of my parents, I demonstrate capability for my new feathered friend's care	2
+21	0	1	5	1	1	3	3	0	0	2	0	2	1	1	2	1	0	3.0	1	10	You, and not they, will assure, to parents' satisfaction, that you will take proper care.	2
+17	2	0	2	1	0	2	5	1	0	2	0	2	0	2	3	1	0	4.0	2	10	Prove it to our astonishment; that's precisely the amount we wish it were instead!    Is the sentence correct?  Hint: Think of two actions, one past, one present. Then think of a sentence describing them. Look out for the auxiliaries 'was' and 'is'. Do you have a clue? Good luck!    Please let me know how I have done. I would be very grateful for any correction and assistance on areas that I need help with	2
+28	3	0	2	3	1	6	1	2	0	3	3	1	1	1	2	1	0	5.0	1	10	The two assistant professors were each expected to assist ten students, but only five actually showed up to class that day, much to everyone's surprise	2
+38	0	2	5	2	2	9	6	2	0	3	0	2	4	0	3	2	2	4.0	2	15	Though you boast of owning the new sports car, your lack of driving skills is an embarrassment to your parents, and their constant criticism, not your bragging, has left you tearful and upset.	2
+19	1	1	3	2	0	3	2	1	0	2	0	1	2	2	1	1	0	4.0	2	11	Verify, in the eyes of society, that you are mature enough to handle your new pet.	2
+32	2	2	4	2	0	7	3	3	0	4	0	1	3	2	2	3	2	5.0	4	12	The dog, whose breed is notoriously hard to train, surprised everyone by mastering the tricks in only a few sessions, thanks to its talent for understanding human language.	2
+18	0	1	2	2	0	5	2	2	0	2	0	1	1	1	1	2	0	4.0	1	8	You, folks, must prove your dedication by memorizing all the details about Islamic terrorism before breakfast	2
+37	1	0	1	9	3	7	4	5	2	4	0	1	0	2	4	0	0	6.0	2	11	Either we go to dinner at the Brown Palace with Dad in a tuxedo or Mom as a debutante or neither of our parents goes at all, whining for days afterward to anyone who will listen	2
+13	0	0	2	2	1	3	0	1	0	2	0	0	2	0	1	0	1	3.0	1	10	Threatened, and with impending litigation, the corporate parent sued for non-payment	2
+28	2	2	5	2	0	5	2	4	0	3	0	2	1	1	1	2	0	5.0	1	22	Verify, mom, by using these stains on my clothes, that I, rather than the dog, have been training this new puppy all along	2
+17	1	1	2	1	0	3	3	0	0	2	1	1	1	1	2	1	0	3.0	1	9	You may, to your detractors' shock, prove that you actually have two left feet	2
+23	1	0	4	1	0	5	3	2	0	2	0	2	2	2	1	1	0	4.0	2	10	Dear Parents, I assure you, not the goldfish, will be the ones truly benefiting from my new pet rock. 	2
+21	1	1	3	2	0	3	3	0	0	3	1	1	2	2	2	3	0	4.0	2	10	You must assure your teachers, with concrete arguments, that you know more than enough to skip two grades.	2
+23	1	1	3	2	2	5	2	1	0	2	0	3	0	1	2	0	0	4.0	1	12	The judge and jury, to your and history's satisfaction, will see to it that justice will eventually be served.	2
+24	0	0	3	5	1	4	4	2	0	0	1	2	1	0	1	0	0	6.0	0	7	You, not they, will be responsible for its upkeep despite protests to the contrary from one or both of your parents.	2
+10	0	1	1	0	0	0	3	0	0	2	0	2	0	0	2	1	1	2.0	1	5	Though you might convince, you cannot compel them	2
+23	2	0	3	1	1	7	1	3	0	4	0	1	0	2	2	2	0	5.0	2	7	Parents, verify the guarantee covers your satisfaction or else insist this pet be sent back post-haste to the supplier.	2
+59	3	1	8	5	3	11	7	3	0	6	0	3	6	1	2	2	0	9.0	1	15	Satisfy your folks, prove dear that, without their care, the Islamic fascist will not come after your newborn dear pet but you, not they, will be taking actual care for him, or, better yet darling, the other way round to their delight and to the baby new born pet's wellness	2
+18	2	0	1	0	1	4	0	3	0	2	0	2	1	0	1	2	0	3.0	0	8	  Not only will the new dog bite the neighbor's cat but will also gnaw the upholstery. 	2
+70	2	1	10	7	2	17	7	3	0	6	1	5	9	3	4	3	0	7.0	3	58	You, sir or madam, shall provide your own clean underwear, which will be checked for proper fit, no visible skid marks and proper odor control for your first three months of probation before joining the elite workforce at the company; this excludes workdays during which special uniforms will be issued by Management (in its sole discretion), so pack accordingly, kiddo!   Is this the kind of sentence I was looking for or should I modify it? I did my best and I hope the sentence will helpfully contribute to completion of this task!   Let me know if I can help any with the next task or if it's the same drill. Thanks so much!	2
+33	0	3	4	2	1	4	6	0	0	5	0	3	2	5	4	3	0	4.0	5	19	Mum and Dad, please trust me, if I say that going to war for you will bring more harm; it's best not to, though it may please you	2
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	2
+17	1	1	1	3	2	5	0	1	0	1	0	1	0	0	1	0	0	4.0	0	5	These boots are not only for walking, but for marching into battle with confidence and valor	2
+34	2	2	5	3	0	4	5	2	1	3	0	4	2	2	3	2	0	5.0	2	13	Mum, can it be that you, as parents, are more willing than me, to accept the fact that a small creature has just wet itself inside your cushioned slippers? Okay, fine then! It's me! It was just my foot, mum!  Please don't make dad spray air freshener, I accept the blast, full on! Oh no! Not those ones! Noooo, mum, no need to replace them, please!   Please note that I will be the one actually taking proper care of my new pet, now that my new slippers are ruined forever. 	2
+4	0	0	1	0	0	1	1	0	0	0	0	1	0	0	1	0	0	2.0	0	1	Your response is:  That pet is going to have to satisfy my parents first, but it would be easier for me to care for if it actually has the ability to learn	2
+15	0	0	2	2	0	3	2	1	0	1	0	2	2	0	1	0	0	3.0	0	6	You, parents, have been misinformed about the true nature of your new pet	2
+28	1	1	2	2	1	2	5	2	0	3	0	5	2	4	3	0	0	5.0	4	11	It seems to be an Islamic fascist, for which neither you nor your parents will be responsible to care for, since it has already been assassinated	2
+56	6	1	3	7	2	10	4	7	0	8	0	2	2	3	4	3	0	10.0	3	12	You must convince your sibling not to make the purchase now, and to hold off for a better one until the following season's designs roll out and sales start over in the summer, so you can co-purchase with them at that point instead, thereby splitting the cost of the much superior model	2
+41	1	2	3	2	2	10	2	6	0	5	0	3	2	3	3	1	0	6.0	3	22	The new manager attempted to convince the board that the proposed advertising expenditure would prove, to both her boss's and her colleagues' satisfaction, that the increased sales would indeed be a direct result of the campaign. 	2
+53	0	2	5	3	5	14	5	4	3	5	0	2	5	4	5	3	0	6.0	4	28	Mummy and Daddy are happy you will tend to your new cud-weaving, wuffling pet, while they visit the spa and golf resort on vacation this Christmas season; but they insist you demonstrate adequate skills and commitment to this new responsibility, without destroying the living room furniture or carpets! Show that you can take care of it without driving your parents to a state that requires professional rejuvenation	2
+25	3	0	3	3	3	5	3	0	0	3	0	1	1	0	1	2	0	4.0	0	12	Prove and convince folks convincingly, so your new pet is well taken care of by them and you, without incident or accident.	2
+35	2	2	3	2	1	7	6	1	1	4	0	2	4	3	2	4	0	6.0	3	8	Mum and Dad, can you kindly assist me in persuading the petshop owner that only I will take care of our new puppy, given your previous experience with our last deceased hamster?  	2
+34	0	1	1	3	3	6	7	2	0	5	0	2	2	2	3	4	0	5.0	2	20	You will convince your teachers of their errors and show them the path to wisdom and clarity, or you won't bother at all because their stubborn minds make it pointless to try	2
+15	0	0	2	1	0	3	4	0	0	2	0	1	1	0	1	2	1	3.0	1	7	You will, to prove your responsibility, buy your pet with your own money	2
+43	2	1	9	4	1	6	5	3	0	5	0	3	2	4	2	2	0	7.0	4	28	You'll have to convince your sibling that you're more competent, as a grown-up, to take responsibility for the well-being of this adorable bundle of fur, feathers, or what-have-you. 	2
+48	5	0	7	3	3	7	5	3	0	2	0	4	6	2	3	1	0	6.0	2	24	Prove, for the satisfaction of our parents who may be questionably skeptical,  and not they--they won't--be the one to actually take care of our new, most adorable,  but also a bit scary, and somewhat destructive little iguana friend	2
+18	1	0	2	2	0	5	0	2	0	3	0	0	2	1	0	2	1	4.0	2	5	To satisfy parental concerns, convincingly display mastery over the responsibilities associated with the new family pet. 	2
+33	1	1	2	5	0	7	4	2	0	3	0	2	5	2	1	3	0	6.0	2	17	Prove your maturity while making the actual purchase, to your parents' satisfaction, as to who will be actually taking full financial responsibility for the expenses of your new aquatic pet	2
+34	1	1	5	3	3	6	4	1	0	4	0	2	4	1	3	1	0	6.0	1	22	Mom and dad will quickly become accustomed, or reacquainted I should say, after a quick, and painless process to your satisfaction, as you take care of our new hamster.	2
+30	2	0	1	3	1	5	4	1	0	4	0	4	3	4	3	0	0	5.0	4	15	Regrettably, I have not been able to ascertain how these particular individuals became employed with our firm but it is apparent their qualifications were overruled by considerations of availability	4
+28	1	1	3	1	0	4	3	2	2	3	0	4	3	2	2	1	0	4.0	2	16	The parking can be challenging as there are limited spots, however, being an East Coaster myself I've learned to navigate tight corners with ease.	4
+29	2	0	1	6	0	7	1	4	0	4	1	1	1	2	2	1	0	6.0	2	11	Almost no new employment was generated among the cities in transition from manufacturing to    Please, respond with only one sentence that completes the task according to the instructions	4
+11	0	0	4	0	0	0	1	0	0	0	0	5	1	0	1	0	0	1.0	0	9	Would, should, can, might  Is this correct? 	4
+56	2	1	2	5	3	14	2	8	0	6	1	4	7	5	5	2	0	7.0	5	25	The police were baffled by the strange set of circumstance that resulted in both the murder suspect and the victim to have identical DNA, but further inquires proved that the actual culprit had been a third person who the two men had both fallen in love with, causing a most unusual quadrilateral love affair	4
+11	0	0	1	1	0	1	2	1	0	2	0	1	1	1	1	1	0	3.0	1	5	I am writing to inform you about a recent issue. The team is currently dealing with this matter. We are working diligently to rectify the situation. The outcome is still pending resolution.	4
+18	1	0	1	2	0	5	1	3	0	3	1	1	0	1	2	1	0	5.0	1	5	The parking attendant issued four violations to the driver who had parked outside of the designated space. 	4
+22	1	1	1	4	0	3	2	3	1	0	0	4	2	0	2	0	1	3.0	1	11	  Although the parking could be challenging sometimes, because of the tight corners we were no strangers to it being from NJ	4
+12	1	0	2	1	0	2	1	1	0	1	1	1	0	1	1	0	0	4.0	1	3	Okay, here is the sentence with 4 auxiliaries you requested: The four auxiliaries in this sentence are: - had - been - intent - provided	4
+22	1	0	2	1	1	7	0	2	0	4	0	0	3	2	1	3	0	4.0	2	10	The park has several walking trails of varying lengths and difficulties, requiring multiple auxilliary verbs to properly describe the experience.	4
+20	0	2	0	0	1	2	2	2	0	4	0	3	3	1	3	1	2	4.0	3	8	Although I have been unable to evaluate the latest research the news seems favorable and we can proceed as planned	4
+25	0	1	4	3	1	6	1	2	0	3	0	1	3	0	1	2	0	3.0	0	9	Without prejudice to its rights, the association may make further written demands and, if necessary, bring legal action for the indemnity. 	4
+27	0	2	4	1	0	5	2	3	1	4	0	3	2	2	4	1	1	3.0	3	15	Based on the provided instruction, the response would be: Although the task can test our endurance, as New Jerseyans our persistence remains unwavering. 	4
+16	0	0	1	1	1	5	0	4	0	1	0	1	1	1	1	0	0	4.0	1	5	No problemo but the cat wants to be the chief officer of the space force. 	4
+22	1	1	1	3	0	5	2	2	2	2	0	2	0	0	2	0	1	4.0	1	13	Although some nations were opposed to Al Gore's approach to the climate crisis they were eventually reassured of his wisdom. 	4
+12	0	1	3	0	0	2	0	2	0	2	1	0	1	1	0	1	0	3.0	1	6	  1. Although: a subordinating conjunction introducing a subordinate clause. 2. numerous: an adjective used to modify the noun security guards. 3. vehicular: an adjective used to modify the noun congestion. 4. becomes: a linking verb used to connect the subject exercised (in this case, navigating) to the verb it modifies (becomes). 	4
+7	0	0	3	0	0	0	0	0	0	1	0	3	0	0	0	0	0	1.0	0	4	   can, has, be, were	4
+20	0	1	1	2	0	6	0	1	0	3	1	2	1	2	1	1	0	5.0	2	8	The suspects are claimed to be prepared for combat in four different continents while evading intelligence agencies' surveillance. 	4
+32	0	2	0	3	0	7	2	4	2	3	0	4	2	2	2	2	1	6.0	3	11	  Although New York's winters could be harsh there was no need to bring warm clothing because we'd be taking the helicopter to the game as per the owner's instructions	4
+17	0	1	1	0	1	5	0	1	0	3	0	2	2	1	2	1	1	4.0	2	7	Several parties including both buyers and sellers may suffer significant damages if delivery does not occur. 	4
+28	1	1	3	5	1	5	1	2	1	5	0	0	1	2	2	0	1	5.0	3	14	While driving on narrow, winding roads in the country of Wales, it suddenly started to rain and the driver pulled over to ask for directions. 	4
+15	0	1	1	1	0	3	1	2	0	3	1	1	0	2	2	1	0	4.0	2	4	The four perpetrators were intercepted whereas they attempted to cross the threshold without authorization. 	4
+27	0	1	1	1	1	5	1	4	1	3	0	5	3	3	3	1	0	4.0	3	17	The parking can be a challenge as the lot can be a bit tight but coming from New Jersey, I've learned to navigate narrow corners	4
+49	3	0	2	9	1	11	1	7	1	3	0	4	6	1	2	3	0	5.0	1	34	Those individuals responsible for these acts of terror may seek assistance through publicly available online forums in their attempt to carry out a successful attack, but will ultimately be unsuccessful in this endeavour despite the help; no single group has successfully carried out an attack in Canada	4
+30	0	0	4	5	1	6	1	2	2	3	3	1	1	2	1	1	0	4.0	2	16	Your order(s) of 55157 shares was executed on Thursday August 21, at an average price of $43.816 per share, excluding any fees or commissions paid. 	4
+6	0	0	0	0	0	2	1	0	0	1	0	0	2	0	1	1	0	2.0	0	3	Numerous obstacles obstructed their offensive operations	4
+18	0	1	2	1	1	4	0	0	0	5	2	2	0	0	3	0	3	4.0	3	13	Eight individuals were arrested and held without charge while four others remain wanted, police have confirmed.	4
+23	0	0	2	3	1	6	0	2	1	3	1	2	2	2	1	1	0	6.0	2	6	The report documented fourteen senior executives having met with Enron affiliates, without documentation of any explicit deal or agreement being formed.	4
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	4
+7	1	0	0	0	0	2	0	0	0	1	1	1	1	0	1	0	0	3.0	0	3	Four auxilliary verb sentence is provided below	4
+35	1	2	2	4	3	10	1	2	0	4	0	1	5	0	3	1	2	5.0	2	20	Though some experts claim that online meetings are more productive and efficient due to reduced travel time and improved attendance, many participants experience a heightened feeling of isolation and disconnection from their colleagues. 	4
+18	0	0	2	4	0	3	2	0	1	1	0	2	3	1	1	0	0	5.0	1	5	I can assist with parking, being familiar with tight corners from my experience in New Jersey.	4
+28	3	0	1	2	2	7	1	1	0	4	0	3	2	0	2	2	1	6.0	1	14	Which ever agency, company or individual see fit to contact me directly via email may do so but further communication through official channels will not be recognized	4
+15	0	0	1	1	0	3	0	2	2	3	0	0	2	2	1	2	0	6.0	2	3	The terrorists attempted to launch a second attack utilizing logistical assistance from Al Qaeda.	4
+15	0	0	0	2	1	5	0	3	0	1	0	1	1	0	2	0	0	3.0	0	9	Within these confines many people live and despite the challenges parking is not a strife	4
+34	0	1	3	1	2	6	1	3	0	6	0	4	6	4	2	3	0	9.0	4	11	The company was required to furnish annual financial reports, which would be reviewed by a specialized agency before being made public, and maintain appropriate documentation supporting all financial transactions and activities. 	4
+8	0	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	Please provide the sentence with 4 auxiliaries.	4
+32	1	2	4	1	1	3	6	2	0	7	0	5	0	4	5	2	0	4.0	4	16	  The dog is eaten by him, though he denies having eaten it; nevertheless, some evidence is found proving his responsibility and he agrees that it must be punished. 	4
+25	1	1	2	2	1	5	1	3	0	5	0	3	1	2	3	0	0	5.0	2	18	Registration will remain closed until any violations, of these policies and guidelines are satisfactorily resolved; no extensions will occur if they remain open	4
+23	1	0	3	4	2	3	1	3	2	2	0	2	0	1	2	0	0	5.0	1	6	Regrettably, neither were the passengers and crew, on the flight that took off from Newark and was diverted to Philadelphia.	4
+27	3	1	2	3	0	3	7	0	0	3	0	3	1	3	4	2	0	5.0	3	18	Never have I known anyone who is more particular about what she eats than his mother; though I haven't had dinner there in months.	4
+9	0	0	0	0	0	0	3	0	0	1	0	2	1	1	2	1	0	3.0	1	4	We will not hire anyone who is not disagreeable	4
+13	0	0	1	0	0	4	0	2	0	2	1	0	1	1	1	2	0	5.0	1	5	The team devised four strategies to counter the rival teams' plays.	4
+34	2	1	7	2	1	3	3	2	0	3	2	4	2	1	3	1	0	4.0	1	14	"  1. Your contains only one verb, ""will be,"" but it does not qualify as an auxiliary verb, as it cannot stand alone as a complete sentence. It also does not modify ""mother's cousin's best friend"" and thus, it does not add a new verb to the phrase"	4
+23	1	0	1	5	2	9	1	1	0	2	0	1	0	0	2	0	0	5.0	0	11	Necrophilia is often confused with zoophilia as a form of animal abuse but they differ in terms of object preference and purpose. 	4
+14	1	0	2	1	0	3	0	1	0	3	0	0	3	1	0	2	0	3.0	1	9	Necessitating prompt rectification of these maligned documents, thus obviating potential future litigation. 	4
+22	0	0	1	3	1	5	0	2	0	2	1	4	3	0	1	1	0	4.0	0	7	Four undercover agents have been embedded with the organization and have been providing logistical support since the initial wave of arrests. 	4
+17	0	0	3	0	1	4	0	3	0	4	0	0	2	1	1	3	0	4.0	1	9	Regular daily duties included checking the mail, watering the plants, and sweeping the porch. 	4
+32	0	0	4	3	0	7	2	4	0	2	3	5	2	1	3	1	0	5.0	1	24	They will be asked about four different topics, any three of which could be the basis for a follow-up interview; all four will receive extensive media exposure.	4
+11	1	0	1	1	0	3	1	1	0	1	0	0	2	0	1	1	0	3.0	0	5	The pungent pizzazz of putrid parking precariously precipitated our punctuality.	4
+49	5	1	3	2	2	6	7	3	0	10	0	5	2	4	5	3	4	6.0	8	28	Once you have evaluated your schedule and budget, planned how long you're going to trip last and what you'll do with each passing moment, you'll then begin to consider where in the world you'd best go to make those things come true.	6
+37	1	0	6	3	2	10	4	1	0	4	0	2	4	0	2	3	1	4.0	1	14	When you are content with your current career, health, lifestyle, and finances you can embark on an expensive trip, prolong your travel, take advantage of luxury services and purchase more souvenirs. 	6
+32	6	1	2	3	0	2	4	1	0	5	0	4	3	4	3	0	1	7.0	5	9	After consulting with a financial advisor, you will be able to pinpoint exactly how long you can travel, as well as where you can go based on your financial capabilities	6
+41	2	1	1	4	3	8	4	2	0	8	0	3	1	2	2	4	3	7.0	5	17	If only I could afford to travel and go on adventures without financial considerations holding me back, I would be prepared to take the leap of faith to see this world and to experience its vastness of possibilities and beauty	6
+39	3	1	3	4	4	7	2	3	0	5	0	2	3	3	2	3	0	8.0	3	19	You can expect to have the capacity to choose from a range of activities and locations, both at home and further afield, once you have saved up sufficient resources or acquired a more substantial financial cushion.	6
+35	4	2	3	0	1	3	6	3	0	5	0	4	3	3	5	3	1	6.0	4	18	Once you can afford your ideal life, you'll explore where you can travel, how long you have to enjoy the trip, and all the other opportunities available while you are there	6
+58	10	2	4	5	1	8	6	5	0	8	0	3	3	3	4	4	1	7.0	4	23	If you had a job you didn't take a lot of pride in as well as little financial security, then suddenly came into some money, you'd quickly decide where to go first, how long to stay and the many things that you would enjoy during your time there without having any regrets. 	6
+31	4	2	3	0	2	3	2	1	0	5	0	4	2	3	2	1	2	5.0	5	13	Once it is determined how much time and money are available, a choice can be made about how long to stay, what to do, and where to go	6
+43	4	1	4	3	1	7	6	1	0	5	0	3	5	4	2	4	1	8.0	5	13	If you could set aside all worries about your financial security now, you will be free to consider your future possibilities more openly, allowing your imagination to picture far greater horizons, and your ambition to stir with new dreams.	6
+34	2	0	2	4	3	7	4	2	0	3	0	4	2	1	2	1	0	6.0	1	9	With the right guidance and training, she would have excelled further in her career and lived a more fulfilling life had she not been impeded by her lack of connections and resources.	6
+11	0	0	0	1	0	2	1	2	0	3	1	1	0	1	1	1	0	2.0	1	7	I can generate the following sentence with all 6 auxiliaries requested	6
+38	6	1	4	3	2	4	6	3	0	5	0	4	0	2	4	1	1	6.0	3	15	Once there was an abundance of cash or an amount in the bank, one could then ascertain where one could travel, for how long one could remain, and what one could do when there.	6
+66	2	5	6	3	0	12	10	6	0	10	0	8	2	3	10	5	8	5.0	11	52	If you can make your thoughts into things, if what you think has any use, if your dreams might change the way the world is run, if what is happening in your neighborhood is worth a curse, If your family will be safe from every harm, then you will really start to feel the way your father used to dream.	6
+40	4	2	3	2	0	6	4	2	0	5	0	5	4	3	4	3	1	7.0	4	26	Once you've got enough frequent-flier miles, you'll have access to some truly amazing destinations, as long as you're willing to take the time to fly to places you might not have visited before	6
+55	4	3	4	4	1	8	6	7	0	8	0	4	5	5	4	5	2	6.0	7	32	Once you have explored all the destinations in the world, learned as many new skills as possible, settled all the financial matters you are interested in, figured out what your purpose in life is and if you have the means to make a difference then you'll probably feel more fulfilled. 	6
+24	3	0	1	2	1	3	3	3	0	5	0	1	1	3	4	0	0	4.0	3	17	You'll eventually get to a point where everything seems to align and all the good things you desire suddenly seem within reach.	6
+56	3	3	4	5	1	11	7	5	0	9	0	5	3	3	4	5	1	6.0	4	31	Once you'd have figured out the best route, bought your camping gear, decided on accommodation, got your visa and booked those exciting tours for a reasonable price, you could be wondering whether your trip can only happen because you have some money set aside for this once in a lifetime journey	6
+40	1	2	2	4	3	12	2	3	0	3	0	1	6	2	1	3	1	7.0	3	15	With an impressive portfolio of projects spanning multiple industries and a wide range of clients, its not surprise that the company has received multiple honors and recognition for its outstanding work while also experiencing explosive growth and expansion.	6
+63	4	1	18	3	0	9	3	3	0	8	1	6	2	7	2	3	0	9.0	7	21	"Six auxiliary verbs used in context to generate a completed task response including:  will, would, has, had, can, could,  with the instruction: ""Once you have [budget/ amount in the bank], then you'll be able to [insert verb] [where/ how long/ what].""  Six auxiliary verbs used in context to generate a completed task response including: will, would, has, had, can, could, with the instruction: ""Once you have [budget/ amount in the bank], then you'll be able to [insert verb] [where/ how long/ what]."""	6
+30	3	1	3	2	2	5	2	5	0	4	0	1	2	1	1	1	0	7.0	1	10	I'll go anywhere, sleep in the worst shelter, and eat the craziest food as long as there's a budget or an amount in the bank.	6
+31	1	1	1	2	3	6	5	1	0	3	0	3	5	1	3	1	0	4.0	1	11	Your budget and future travel plans will materialize if you wait and be careful, and you'll enjoy your trips much more with a secure financial plan in your mind	6
+46	5	1	8	1	1	5	4	2	0	6	0	4	6	5	2	3	1	5.0	6	26	When, following financial responsibility's proper protocols, the time comes that you are able to travel, decide on a duration, and choose your destination(s), only then will it be possible to truly appreciate what's most important. 	6
+31	1	1	3	2	1	6	7	0	0	4	0	2	3	4	3	2	0	9.0	4	9	You'll be able to choose where you go for vacation based on your interest, your wallet, and your available vacation days after you know your yearly earnings.	6
+53	6	0	6	3	6	10	2	1	0	8	0	3	6	4	2	4	0	6.0	4	41	You may have financial stability and still feel insecure about your future, or be able to travel the world and experience different cultures, yet still feel lost and unfulfilled; hence, finding happiness and satisfaction in life is not necessarily dependent on material possessions or far-flung adventures.	6
+38	2	2	2	2	1	8	6	2	0	7	0	2	2	3	3	4	3	7.0	6	12	Once you have a schedule that you enjoy sticking to, then it might make more sense to go back to a job as you will have more opportunities to balance work life and your family life.	6
+46	0	2	2	4	1	11	3	6	0	8	0	1	5	1	1	7	4	7.0	5	23	After taking some time to contemplate the best places to travel to during your summer vacation, once you have an adequate budget  will allow you to plan a trip to an exotic destination, select a hotel with beautiful views and enjoy luxurious spa treatments	6
+27	0	1	4	2	2	8	2	2	0	3	0	1	1	1	1	3	1	5.0	2	9	After determining a financial plan or savings, you will have the ability to explore locations, durations, and activities for your trips with assurance.	6
+30	1	0	3	3	3	8	3	1	0	5	0	1	1	2	1	3	1	5.0	3	14	When provided with adequate resources and opportunities for growth, your creativity and productivity will soar, allowing you to overcome any obstacles and achieve your goals with ease.	6
+38	3	1	3	1	3	9	4	1	0	5	0	2	4	4	1	4	0	5.0	4	26	It is essential to take time for introspection and self-reflection to accurately determine your priorities, and only after thoughtfully weighing your options, should you make bold decisions regarding a fresh start or significant changes	6
+55	1	0	5	4	3	11	8	4	0	10	0	3	4	5	4	8	1	9.0	6	18	When you consider all of your options, take into account your interests, consult reliable sources, and explore every avenue, you will be free to make informed decisions that will allow you to travel the globe for extended periods of time and enjoy the activities and locations that you enjoy most.	6
+52	9	2	1	3	2	4	10	1	0	10	0	5	2	4	8	2	7	9.0	11	26	Once you have decided where you want to go, how long you want to stay and with what you will do while you're there you can finally start planning other people's vacations or perhaps a change in career that involves living somewhere that is far more appealing to you	6
+30	2	0	2	2	2	4	6	1	0	5	0	3	2	5	3	0	0	6.0	5	16	I can confidently speculate about how you feel, what your needs are and the goals you are hoping to accomplish based on your financial situation and available choices.	6
+38	2	1	2	3	3	8	3	4	0	5	0	1	5	1	1	3	1	6.0	2	21	After determining your travel priorities and deciding on a practical budget or financial plan for a lengthy trip abroad, you will have an improved ability to consider your alternatives for a more thrilling and meaningful adventure.	6
+32	3	0	5	1	1	6	5	1	0	5	0	2	3	1	3	5	1	5.0	2	9	When you possess ample assets, you can investigate numerous prospects, make deliberate choices, and prioritize your passions confidently, which might improve the quality of your life tremendously.	6
+34	3	3	2	4	1	6	3	2	0	5	0	2	2	3	2	1	0	5.0	3	28	You'll need a healthy reserve of both income and savings if you want to travel as much as possible in your lifetime without worrying about money, so get used to budgeting.	6
+48	2	0	7	5	3	14	2	3	0	5	0	1	5	1	1	3	0	6.0	1	15	With a clear and well organized plan, a substantial emergency fund, and sufficient healthcare coverage, people will gain the ability to travel anywhere, take care of their loved ones in times of need, and pursue their long-term objectives with confidence. 	6
+36	1	1	0	2	3	4	6	0	0	6	0	7	3	4	5	2	0	6.0	4	14	You'll be grateful you did not give up and persisted to follow your dreams because your hard work will have paid off and you'll reach goals and milestones you did not initially imagine possible	6
+23	1	2	3	0	0	4	0	0	0	4	0	2	7	2	2	2	1	4.0	3	6	Once several crucial problems were effectively solved, numerous opportunities were made available, offering various fulfilling choices for exploring distinct adventures.	6
+28	2	1	4	3	2	6	1	4	0	2	1	1	1	2	2	2	0	8.0	2	9	" Write a sentence that completes the task, with 6 auxiliaries, without ""Once"" and without the assumption that a budget or amount is already available"	6
+31	5	1	0	1	0	4	5	2	0	5	0	5	2	0	3	2	5	8.0	5	26	When you will have determined which locations suit you best as well as what your budget range is then considering where to go once you retire will be a lot easier	6
+29	0	1	3	1	1	5	2	3	0	5	0	2	5	1	2	4	2	4.0	3	11	  Once I have enough money saved up, I'll be able to plan a thrilling vacation, buy the latest gadgets, or enjoy a luxurious spa treatment	6
+37	3	1	3	4	3	5	2	2	2	5	0	2	3	1	2	1	2	4.0	3	16	With a small mountain of debt to climb or a meager savings account to draw upon, you can forget about traveling to Hawaii or Japan anytime soon but, still, you can explore local possibilities	6
+33	1	0	2	5	3	10	0	3	0	2	0	0	7	1	1	0	0	4.0	1	13	With a good amount of money or a clear plan in hand, potential travel destinations become more concrete and real possibilities, allowing for more thorough investigations and preparations for the journey	6
+68	6	4	5	2	4	5	12	5	0	11	0	8	3	6	9	2	3	9.0	9	14	Once you will have figured out which city you want to visit, then you'll be able to schedule when and how you can get there, what accommodations you will make, and whether you'd like a tour or if you prefer to do it yourself, and all the other details you consider pertinent, as long as it will fit within your budget	6
+30	2	2	2	1	1	6	6	2	0	5	0	3	0	1	5	3	3	6.0	4	15	Once you had identified a place you liked or a city that caught your fancy,  you'd start making travel arrangements in advance as much as you could.	6
+33	0	1	4	2	2	8	4	3	0	4	0	2	3	0	2	4	1	4.0	1	14	Once I have secured a suitable income, I will explore various travel destinations, determine the optimal duration for each location, and tailor my experiences to my interests and preferences.	6
+46	2	3	2	6	2	9	5	3	0	7	0	6	1	3	4	3	1	8.0	4	17	Whether you have been saving up for retirement for decades or are starting almost from scratch, the key element is having an idea of what your retirement years will look like and planning accordingly so that your savings can help you live that life.	6
+23	1	1	4	1	1	2	4	1	0	5	0	1	2	1	3	1	1	4.0	2	6	Once you had a suitable budget, you discovered where you could fly, remain, and engage in your favorite pursuits.	6
+34	1	1	3	3	3	7	2	3	0	7	0	1	2	2	1	3	1	7.0	3	19	After considering several factors, you'll have the opportunity to decide on a plan of action, set a budget or financial goals and then start researching and preparing for your adventure.	6
+18	2	1	1	2	1	3	1	0	0	2	0	2	3	0	1	0	1	3.0	1	9	Once there was more money, then more holidays could be planned for longer and with more comfort	6

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADP_constraint
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat on the mat, purring happily.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The wind blows through the trees.	0
+13	0	0	2	1	0	3	0	3	0	2	1	0	1	1	1	2	0	4.0	1	4	The clock strikes twelve, marking the start of a new day.	0
+18	0	0	4	1	0	5	0	3	0	1	1	2	1	1	2	0	1	4.0	2	9	"The sentence generated with 0 adpositions is: ""A baseball game is a fun activity."""	0
+12	0	0	1	2	0	3	1	3	0	2	0	0	0	1	1	1	0	5.0	1	3	I see the light of the sun reflecting off the water.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The wind blows trees down.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	 The sky is blue.	0
+7	0	0	1	0	0	1	1	1	1	2	0	0	0	1	1	1	0	3.0	1	2	I have a dog named Max.	0
+17	1	1	2	1	0	4	0	3	0	3	0	0	1	2	2	1	0	4.0	2	6	A river flows steadily through the park, creating a peaceful atmosphere for people to relax.	0
+12	0	0	1	1	1	2	2	1	0	3	0	1	0	1	2	1	0	3.0	1	5	I wish I could go to the park and play baseball.	0
+12	0	0	2	1	0	3	0	3	0	2	1	0	0	1	1	2	0	4.0	1	3	The clock strikes eight, heralding the start of the game.	0
+14	0	0	2	2	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	The wind blows through the trees, creating a symphony of rustling leaves.	0
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	My brother has no possessions.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+7	0	0	2	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	5	Sure, the requested sentence is: The dog is chasing the ball.	0
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping dog.	0
+11	0	0	2	1	0	4	1	1	0	0	0	1	1	0	1	0	0	3.0	0	6	**My favorite thing about baseball is the home runs.**	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+8	0	0	1	0	0	3	1	0	0	1	0	1	1	0	1	1	0	2.0	0	2	My favorite hobby is playing video games.	0
+15	0	0	2	2	0	6	0	3	0	2	0	0	0	1	1	2	0	4.0	1	6	The wind whispered secrets into the trees, creating a symphony of rustling leaves.	0
+7	0	0	1	0	0	2	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	A dog is chasing its tail.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A cat sat on the mat.	0
+14	0	0	2	2	0	4	1	3	0	1	0	1	0	1	1	1	0	3.0	1	5	I am a master of the task, generating sentences with no adpositions.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The cat sat on the mat and gazed at the moon.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	 The cat is sitting on the mat.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun shines brightly today.	0
+8	1	0	1	0	0	2	1	1	0	1	0	1	0	1	2	0	0	2.0	1	5	I recognize baseball is just a game.	0
+11	0	0	1	1	0	2	1	1	0	1	1	1	1	1	1	1	0	3.0	1	5	I am able to generate a sentence with 0 adpositions.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	0
+16	0	0	3	2	0	4	0	4	0	1	0	1	1	0	2	0	0	3.0	0	8	"A simple sentence with no adpositions is ""The cat sat on the mat."""	0
+15	1	0	1	1	1	2	2	2	0	2	0	1	1	1	1	2	0	3.0	1	8	I understand the rules of the task and am able to complete it successfully.	0
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	 The train departed on time.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky is blue.	0
+17	0	2	2	1	0	2	4	1	0	3	0	2	0	1	3	1	1	3.0	2	6	As I write this, I wonder if a cat will be sitting on my lap.	0
+11	0	0	1	2	0	4	0	1	0	2	0	0	1	0	1	1	0	4.0	0	2	The provided text contains multiple examples of sentences without adpositions.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on the mat, watching the sunset.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The fruit is ripe.	0
+10	0	0	1	1	1	4	0	2	0	0	0	1	0	0	1	0	0	3.0	0	3	The house is a place of peace and tranquility.	0
+8	1	0	1	0	0	2	1	1	0	1	0	1	0	1	2	0	0	2.0	1	5	I realize baseball is just a game.	0
+9	0	0	2	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The book sits on the table, untouched.	0
+7	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	The cake is a delicious treat.	0
+22	0	1	2	2	1	5	0	3	0	3	1	1	3	2	1	1	1	4.0	3	7	The clear text generated from the task instructions was concise and accurate, producing a sentence with 0 adpositions as requested.	0
+14	2	0	2	0	1	2	2	1	0	2	0	1	0	1	2	0	0	4.0	1	4	My brother is a chef, and he loves to cook very well.	0
+11	0	0	2	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	The movie was enjoyable, but the acting was lackluster.	0
+14	1	1	2	1	0	3	1	2	0	2	0	0	1	1	2	0	0	3.0	1	6	The house stands tall, with its roof reaching high into the sky.	0
+7	0	0	1	1	0	1	0	2	1	1	0	0	0	0	1	0	0	2.0	0	3	The sun shines upon the Earth.	0
+16	0	0	3	3	0	4	0	4	0	1	0	1	0	0	1	0	0	3.0	0	6	"""The prisoner was held in the tower for the duration of the trial."""	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+11	0	0	2	1	0	4	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	**The clock tower casts long shadows across the park.**	1
+8	0	0	2	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	**The cat sat on the mat.**	1
+10	0	0	1	2	0	3	0	2	0	1	0	0	1	0	1	0	0	4.0	0	6	A basket of fruit on the table looks enticing.	1
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	3	The stolen paintings were recovered in the warehouse.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly on the mat.	1
+14	0	0	1	1	0	5	0	3	0	0	0	1	2	0	1	0	0	3.0	0	5	The old clock tower is a prominent feature of the city's skyline.	1
+21	0	0	8	1	0	2	0	2	4	0	2	1	1	0	1	0	0	5.0	0	18	"The book, ""History of England (Volume 1, Chapter 1),"" is an interesting read."	1
+11	1	0	1	2	0	2	0	1	1	1	0	1	1	0	1	0	0	3.0	0	5	The ancient ruins of Pompeii are often visited by tourists.	1
+9	1	0	1	0	0	2	0	2	0	2	0	0	0	1	1	1	0	3.0	1	3	The cat ran outside to chase the butterfly.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat jumped onto the table quickly.	1
+17	0	0	4	2	0	2	1	1	4	0	2	1	0	0	1	0	0	4.0	0	14	 The book History of England (Volume 1, Chapter 1) is on my bookshelf.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The ship was sailing to the island.	1
+6	1	0	1	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Below is the generated sentence:  The cat sat on the mat, waiting for its owner to come home..	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	 The ship is sailing towards the shore.	1
+9	1	0	1	1	0	2	0	1	0	1	0	1	1	0	1	0	0	2.0	0	3	The local library is often frequented by students.	1
+10	0	0	1	1	0	4	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The train platform was crowded with passengers this morning.	1
+11	0	0	1	2	0	4	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	 The book is on the table in the living room.	1
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat jumped onto the table and sat there.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly on the mat.	1
+11	0	0	1	2	0	4	0	3	0	1	0	0	0	0	1	0	0	2.0	0	7	The cat slept on the mat in the living room.	1
+29	0	0	6	4	1	5	0	4	5	1	2	0	1	0	1	1	0	5.0	0	13	" The book ""History of England (Volume 1, Chapter 1)"" details the history of England in the first volume and chapter of the book."	1
+17	0	0	2	2	1	4	0	3	1	1	0	2	1	0	2	0	0	3.0	0	6	The plane ticket is for Dubai, but the destination could change at the last minute.	1
+12	2	0	1	1	0	4	0	2	0	1	0	1	0	0	1	0	0	2.0	0	5	The train station is conveniently located next to the shopping mall.	1
+19	0	0	6	1	0	2	0	2	4	0	2	1	1	0	1	0	0	5.0	0	16	" The book ""History of England (Volume 1, Chapter 1)"" is a fascinating read."	1
+13	1	0	3	1	1	1	1	0	4	1	0	0	0	0	0	0	0	4.0	0	6	There are also flights to Damascus, Dubai, Kuwait and Istanbul.	1
+10	0	0	1	2	0	3	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	The bookshelves in the library are filled with novels.	1
+19	0	0	4	4	0	5	0	4	0	1	0	0	1	0	1	0	0	3.0	0	6	" ""A flock of thirsty birds landed on a branch in the shade of the tree.""."	1
+15	1	0	2	2	0	4	0	3	0	3	0	0	0	1	1	1	0	3.0	1	6	The newly planted roses flourish in the springtime sunshine, bringing joy to all.	1
+14	1	0	1	2	0	4	0	3	0	1	0	1	1	0	1	0	0	3.0	0	4	A stolen diamond is often hidden in the glove compartment of a car.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The book sits on the table.	1
+13	0	0	1	2	0	6	0	2	0	1	0	1	0	0	1	0	0	2.0	0	7	The bus station is crowded with passengers during the morning rush hour.	1
+10	1	0	1	1	0	2	0	1	1	1	0	1	1	0	1	0	0	2.0	0	3	The local farmers market is usually crowded on Saturdays.	1
+13	0	0	2	0	1	4	0	1	0	3	0	0	2	1	1	2	0	4.0	1	4	The painting exhibits captivating realism, showcasing vibrant landscapes and detailed portraiture.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+11	2	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The library books are usually neatly arranged on the shelves.	1
+13	0	0	1	3	0	4	0	3	1	1	0	0	0	0	1	1	0	5.0	0	3	The book contains a wealth of information about the history of Japan.	1
+16	1	1	2	1	0	3	1	2	0	3	0	1	0	2	2	0	0	4.0	2	5	The cat is sitting on the mat, waiting for its owner to come home.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table.	1
+10	0	0	1	1	0	4	0	2	0	1	0	1	0	0	1	0	0	2.0	0	4	The train platform was packed with passengers this morning.	1
+8	0	0	1	1	0	2	1	1	0	0	0	1	1	0	1	0	0	2.0	0	4	My favorite coffee is in the cup.	1
+9	1	0	2	0	0	2	0	2	0	1	0	1	0	1	0	0	0	3.0	1	4	No problem, here is the requested sentence: The politician's rhetoric was met with protests.	1
+12	0	0	1	2	0	5	0	2	0	1	0	1	0	0	1	0	0	3.0	0	6	The train platform is crowded due to the afternoon rush hour.	1
+14	1	0	1	2	0	5	1	1	0	2	0	1	0	1	1	0	0	4.0	1	4	The train platform is often filled with passengers waiting for their connecting flight.	1
+10	1	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The stolen painting hung prominently in the museum hallway.	1
+20	0	0	7	1	0	2	0	2	4	0	2	1	1	0	1	0	0	5.0	0	17	"The book, ""History of England (Volume 1, Chapter 1)"" was a captivating read."	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The fruit is on the table.	1
+15	0	0	1	3	0	2	0	3	3	1	0	1	1	0	1	0	0	3.0	0	4	The ancient city of Troy is situated on the shores of the Aegean Sea.	1
+9	0	0	3	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	3	"""The book is on the table."""	1
+19	0	0	1	0	1	8	0	2	0	2	0	1	3	1	1	2	0	4.0	1	9	 The company will implement a new inventory management system next quarter to oversee gross tonnage and customer orders.	2
+26	0	0	2	3	1	9	0	4	1	2	0	1	3	1	1	2	0	5.0	1	13	The company will implement a new customer service system prior to the end of Q2, covering a wide range of topics and customer concerns.	2
+30	0	0	3	3	1	10	0	3	0	2	0	2	6	1	1	1	0	7.0	1	8	A comprehensive training program will be designed prior to the start of the next academic year covering basic electrical engineering principles, safety procedures and hands-on experience.	2
+29	0	0	2	5	2	8	0	2	3	2	0	2	3	1	1	1	0	5.0	1	14	The cargo will be shipped from Los Angeles to New York prior to the end of Q1, encompassing gross tonnage and spread positions for brand and locations.	2
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat under the tree.	2
+15	0	0	1	2	1	4	0	3	0	2	0	1	1	0	1	0	0	3.0	0	6	 The stolen data was recovered in the parking lot and delivered to the authorities.	2
+21	0	0	1	2	0	4	0	2	3	2	0	2	4	1	1	1	0	4.0	1	6	A swift boat trip will be undertaken next Saturday to deliver fresh fish to the coastal village of Port Cove.	2
+31	0	0	2	5	1	9	0	4	1	4	0	2	3	2	1	1	1	6.0	3	10	A comprehensive inventory of cargo transported via the shipping container will be compiled prior to the commencement of Q2, encompassing a wide range of products including textiles and electronics.	2
+27	0	0	2	3	2	9	0	3	0	3	0	2	3	1	1	1	0	5.0	1	9	The new position signing process will be finalised prior to the end of Q1 covering gross tonnage and consolidated positions, for both brands and locations.	2
+27	1	0	1	1	3	7	0	3	0	5	0	2	4	1	1	2	1	6.0	2	12	A comprehensive report detailing vessel movements and a newly implemented tracking system will be submitted prior to the scheduled meeting covering both operational and strategic objectives.	2
+17	0	0	2	1	2	3	0	3	0	2	0	2	2	1	1	1	0	5.0	1	6	The project will be completed before the deadline, covering both the financial and technical aspects.	2
+17	0	0	1	2	0	5	0	3	0	2	0	2	1	0	1	0	0	3.0	0	11	The shipment will be sent to the buyer's address prior to the expected delivery date.	2
+22	1	0	1	2	0	7	0	2	0	3	0	2	3	1	1	1	0	3.0	1	7	The newly constructed water filtration system will be implemented prior to the upcoming holidays to provide clean drinking water for visitors.	2
+27	0	2	1	2	1	9	0	3	0	4	0	2	3	1	1	2	1	5.0	2	9	 The intricate process of creating a unique brand identity will be implemented prior to Q3 with the objective of solidifying customer loyalty and increasing market share.	2
+17	0	0	1	3	0	4	0	4	0	1	0	2	2	0	1	0	0	3.0	0	6	 The stolen goods will be recovered prior to the shipment of the merchandise to the warehouse.	2
+32	0	0	3	5	2	10	0	4	1	3	0	1	3	1	1	1	0	6.0	1	15	The cargo was shipped to a warehouse in Chicago prior to the end of the first quarter, covering gross tonnage, spread positions and summarised analyses for brand and locations.	2
+32	0	1	2	3	1	12	0	4	0	4	0	2	3	2	1	2	1	8.0	3	10	A new initiative for improving the customer service department efficiency will be implemented prior to the end of Q2 covering a wide range of issues, including billing and account management.	2
+25	0	0	2	1	2	7	0	2	0	4	0	2	5	1	1	2	1	5.0	2	9	A detailed proposal outlining a streamlined inventory management process will be submitted prior to next quarter, encompassing both centralized and decentralized warehousing facilities.	2
+29	0	0	2	3	2	12	0	3	0	4	0	1	2	1	1	2	0	7.0	1	9	The company will implement an enhanced position signoff process prior to the end of Q1 covering gross tonnage, spread positions and summarised analyses for brand and locations.	2
+18	0	0	1	4	0	5	0	2	0	2	0	2	2	0	1	0	0	3.0	0	10	The shipment of goods will be delayed due to unforeseen circumstances prior to the targeted delivery date.	2
+18	0	0	1	1	0	6	0	2	0	2	0	1	4	1	1	1	0	4.0	1	6	The politician's approval ratings are soaring high prior to the upcoming election covering numerous policy issues.	2
+26	0	0	2	4	2	8	0	3	1	2	0	2	2	1	1	1	0	5.0	1	11	  The shipment of electronic components will be made to the distributor prior to the end of Q2, encompassing both air and sea freight charges..	2
+15	0	0	1	3	1	4	0	4	0	1	0	1	0	0	1	0	0	3.0	0	6	 The cat was sitting on the mat beside the box and beneath the lamp.	2
+22	0	0	2	1	1	11	0	2	0	2	0	1	2	0	1	1	0	5.0	0	9	The inventory management system will require adjustments prior to the upcoming Q2 covering product placement, reorder points and customer preferences.	2
+26	0	1	2	2	2	6	0	3	2	3	0	5	0	1	3	0	0	4.0	1	14	The merchandise shipment is scheduled for delivery between Monday and Wednesday, and the tracking information will be provided once the shipment has been processed.	2
+26	0	0	2	2	2	11	0	1	0	4	0	2	2	1	1	1	0	6.0	1	6	The enhanced position signoff process will be implemented prior to end Q1 covering gross tonnage, spread positions and summarised analyses for brand and locations.	2
+17	0	0	1	2	1	4	0	3	1	2	0	3	0	0	1	1	0	4.0	0	5	The project will be delivered by Wednesday and will include a presentation at the conference center.	2
+18	1	1	2	2	0	4	0	4	0	3	0	0	0	2	2	0	0	4.0	2	8	The cat sat on the mat beside the dog, waiting for the owner to come home.	2
+25	0	0	1	3	1	9	0	4	0	2	0	2	3	1	1	1	0	7.0	1	5	A comprehensive training program for engineers will be conducted prior to the implementation of a new manufacturing system covering the assembly and inspection processes.	2
+23	0	0	2	3	1	7	0	4	0	2	0	2	2	1	1	1	0	4.0	1	12	The cargo will be loaded onto the ship prior to the end of the month, covering gross tonnage and spread positions.	2
+20	0	0	1	3	0	5	0	4	0	1	0	2	4	0	1	0	0	3.0	0	12	A vibrant floral display will be installed in the atrium of the museum prior to the upcoming art exhibition.	2
+12	0	0	1	2	0	2	0	2	1	2	0	2	0	0	1	0	0	2.0	0	6	The package will be delivered on Wednesday to the designated address.	2
+23	0	0	1	2	2	8	0	2	1	2	0	1	3	0	1	1	1	5.0	1	14	The new policy incorporating both gross tonnage and spread positions within the position signoff process will commence prior to Q1's end.	2
+24	1	0	2	2	1	7	0	3	0	4	0	2	2	1	1	2	0	4.0	1	7	The newly implemented ticketing system will be deployed prior to the next quarter, covering a majority of passenger reservations and improving efficiency.	2
+19	0	1	1	1	1	5	1	1	0	5	0	0	2	2	1	3	0	5.0	2	7	The company plans to expand its operations into new markets by acquiring existing businesses and establishing new ones.	2
+27	1	0	3	4	0	7	1	3	0	4	0	1	2	2	1	1	0	5.0	2	18	 The customer placed an order for a new kitchen appliance, with delivery scheduled for next week, to be installed in their newly renovated home.	2
+24	1	0	5	2	0	2	0	4	4	1	1	1	2	0	1	0	0	4.0	0	19	Of all the missiles in Iran's armament, the most dangerous is the Russian-made SS-N-22 Sunburn.	2
+36	1	2	2	2	1	7	3	4	2	4	2	2	2	3	3	3	0	5.0	3	11	He was three months late in filing a name for the business, and he threatened to call his company Apple Computers if the other colleagues didn't suggest a better name by 5 O'clock.	2
+19	0	0	2	2	1	4	1	3	0	3	0	2	0	1	2	0	0	4.0	1	9	 The ship is docked at the pier, and its crew is preparing to embark on a journey.	2
+34	0	0	1	3	1	11	0	7	0	5	0	1	4	3	1	3	0	10.0	3	7	The project manager has devised a detailed schedule encompassing a comprehensive review of the existing systems and an implementation of a new software platform designed to streamline the entire process of order fulfillment.	2
+21	0	0	2	4	0	6	0	3	0	2	0	2	2	1	1	1	0	4.0	1	8	The shipment of packages will be consolidated prior to the end of Q1, covering a broad range of destinations.	2
+20	0	0	1	2	1	7	0	2	1	2	0	2	2	1	1	1	0	4.0	1	6	The latest model of Apple computers will be released in store this weekend covering various accessories and software updates.	2
+24	2	0	3	2	1	5	0	2	2	3	0	2	2	1	1	1	0	5.0	1	7	A newly renovated passenger bridge between Berlin and Munich will be inaugurated shortly, opening a direct route for high-speed trains.	2
+14	0	0	1	2	0	4	0	3	0	1	0	1	2	0	1	0	0	3.0	0	5	 The stolen diamonds are hidden in the safe deposit box within the bank..	2
+22	0	0	2	1	1	6	0	4	0	3	0	2	3	2	2	1	0	5.0	2	6	  The project manager will ensure all deliverables are completed prior to the deadline, covering both financial reports and operational plans.	2
+19	0	0	1	1	0	6	0	2	1	3	0	2	2	1	1	2	1	4.0	2	8	A new marketing campaign targeting both online andoffline channels will be implemented in Q4 to increase brand awareness.	2
+37	0	0	3	6	2	12	0	4	0	5	0	2	3	1	1	1	0	8.0	1	8	The proposed changes to the existing system will be implemented prior to the end of Q1, covering a broad range of adjustments to gross tonnage, spread positions and summarised analyses for brand and locations.	2
+25	0	0	1	4	1	8	1	3	1	4	0	0	2	2	1	2	0	8.0	2	10	The employees received their bonuses on Friday prior to the upcoming holiday season covering a variety of benefits including paid time off and gifts.	2
+14	0	0	1	2	0	4	0	2	0	1	0	2	2	0	1	0	0	3.0	0	4	 The project is being completed prior to the deadline for submission next week.	2
+15	0	0	1	1	0	4	0	2	0	3	0	2	2	1	1	1	0	3.0	1	5	The updated travel schedule will be released prior to next quarter covering all destinations.	2
+22	0	0	4	4	1	5	0	5	0	1	0	1	1	0	1	0	0	3.0	0	11	The elusive predator is prowling in the forest, along the river, above the city, and beneath the stars.	4
+27	0	0	4	5	1	6	0	6	0	1	0	0	4	0	1	0	0	4.0	0	14	The ship sailed across the open ocean, over the stormy waves, through the salty wind, and towards the distant shores of the east.	4
+24	4	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	5.0	0	6	The ship sailed north along the coast, south of the equator, east of the island, and west of the mountains.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	2	1	4.0	1	16	This formidable enemy, which gave the Indian army a black eye in the mid-1980s, has been operating in northeastern India and in the Andaman Sea for a long time.	4
+21	1	0	4	3	0	5	0	3	0	2	0	1	2	0	1	0	1	4.0	1	9	The intricate dance movement, steeped in history, was performed flawlessly in the theater, for the appreciative audience.	4
+19	1	1	1	3	0	6	1	1	0	2	0	2	1	2	3	0	0	5.0	2	8	Researchers have found that changes in blood pressure are inversely related to the speed at which blood flows.	4
+25	0	0	3	3	1	5	1	3	1	2	0	3	3	0	2	0	1	4.0	1	12	The ancient temple, which is shrouded in mystery, is located in the northern part of Peru and is a popular tourist destination.	4
+32	0	0	3	4	1	5	1	6	3	1	0	2	6	0	2	1	1	5.0	1	17	The elusive enemy, which inflicted a significant defeat on the Indian army in the mid-1980s, has been active in northeastern India and the Andaman Sea for a long time.	4
+27	0	0	3	4	1	3	0	4	5	2	0	2	3	0	1	1	1	5.0	1	12	A fierce dragon, slumbering for years in the North Sea, has been terrorizing coastal communities in the Pacific Northwest and the Gulf of Mexico.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	2	1	4.0	1	16	The formidable enemy, which gave the Indian army a black eye in the mid-1980s, has been operating in northeastern India and in the Andaman Sea for a long time.	4
+17	1	0	3	2	0	4	0	3	0	2	0	1	1	0	1	1	1	4.0	1	9	The mischievous monkey, swinging wildly from the branches, was causing havoc in the jungle.	4
+25	1	0	4	3	0	5	1	4	0	3	0	1	3	1	2	0	1	5.0	2	6	 The weary soldier, having fought bravely, rested in the cool shade of the tall trees, the wind blowing through his hair.	4
+23	0	0	3	3	1	6	1	3	0	2	0	1	3	0	2	0	1	5.0	1	13	The ancient oak tree, which stands tall in the center of the park, is adorned with colorful flowers and fruit.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	1	1	5.0	1	17	The fierce enemy, which inflicted a significant defeat on the Indian army in the mid-1980s, has been operating in northeastern India and the Andaman Sea for a long time.	4
+29	0	0	3	2	2	7	1	5	0	3	0	0	6	0	2	3	1	5.0	1	12	The ancient ship, which sailed the high seas in the 17th century, had a formidable crew and carried a hefty cargo of gold and precious stones.	4
+33	2	0	5	4	2	6	3	4	0	3	0	2	2	0	3	0	1	4.0	1	18	The weary soldier, wounded in the battlefield, was transported to the hospital in the ambulance, but his wounds were too severe, and he ultimately succumbed to his injuries.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	1	1	5.0	1	17	The fierce enemy, which inflicted a significant defeat on the Indian army in the mid-1980s, has been operating in northeastern India and the Andaman Sea for a long time.	4
+21	0	0	3	2	0	4	2	3	0	3	0	0	3	1	2	1	1	4.0	2	11	The majestic lion, which ruled the jungle in the 19th century, continues to reign supreme in its domain.	4
+25	0	0	3	3	0	8	0	4	0	3	0	0	3	1	1	2	1	5.0	2	13	The intricate clockwork of the engine, coupled with the seamless gear shifting mechanisms, allows the motorcycle to traverse rugged terrain with ease.	4
+22	0	0	3	3	0	5	1	3	0	5	0	1	0	2	1	1	1	5.0	3	10	The prisoner, held captive in a locked room, was rescued by a team of soldiers sent to rescue him.	4
+23	0	0	2	4	2	6	0	6	0	3	0	0	0	1	1	1	0	5.0	1	5	 The cat jumped onto the table and leaped over the chair, chasing the mouse into the kitchen and up the wall.	4
+23	1	0	3	2	1	5	1	4	0	2	0	0	4	0	2	1	1	4.0	1	10	The majestic lion, which ruled the African savannah for centuries, roamed freely across the boundless plains and the mighty ocean.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	1	1	5.0	1	17	The fierce enemy, which inflicted a significant defeat on the Indian army in the mid-1980s, has been operating in northeastern India and the Andaman Sea for a long time.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	2	1	4.0	1	16	The formidable enemy, which gave the Indian army a black eye in the mid-1980s, has been operating in northeastern India and in the Andaman Sea for a long time.	4
+19	1	0	3	3	1	5	0	3	0	2	0	0	1	0	1	0	1	5.0	1	9	The valiant knight, armed with a sword and shield, rode bravely towards the damsel in distress.	4
+30	0	0	3	4	1	5	1	4	3	2	0	2	5	0	2	1	1	5.0	1	16	The fierce enemy, which caused significant damage to the Indian army in the 1980s, has been operating in northeastern India and the Andaman Sea for many years.	4
+24	1	0	3	4	0	4	1	4	1	3	0	1	2	0	2	0	1	4.0	1	12	The ancient temple, which stood proudly in the jungle for centuries, was swallowed by a raging tide in the Indian Ocean.	4
+15	2	0	2	2	1	3	1	2	0	1	0	0	1	0	1	0	0	3.0	0	9	 The ship sailed safely across the stormy sea, towards its destination and beyond.	4
+28	1	0	5	4	1	5	0	5	0	4	0	2	1	0	1	0	1	4.0	1	17	The prisoner, shackled to the wall, had escaped from the heavily guarded prison, fled to the nearby forest, and was on the run.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	2	1	4.0	1	16	A formidable enemy, which gave the Indian army a black eye in the mid-1980s, has been operating in northeastern India and in the Andaman Sea for a long time.	4
+25	1	0	3	2	1	3	2	4	2	2	0	0	5	0	2	1	1	4.0	1	11	The ferocious tiger, which savaged its prey in the dense forest, roamed freely in the mighty Himalayas and the vast Indian Ocean.	4
+32	0	0	3	4	1	5	1	6	3	1	0	2	6	0	2	1	1	5.0	1	17	 The ferocious enemy, which inflicted a heavy defeat on the Indian army in the mid-1980s, has been active in northeastern India and the Andaman Sea for a long time.	4
+26	1	0	4	4	0	5	2	3	0	4	0	3	0	1	3	0	2	5.0	3	12	 The prisoner, who was caught sneaking out of the prison, was transferred to the county courthouse, where he was put on trial.	4
+31	0	0	3	5	1	6	1	6	2	2	0	2	3	0	2	1	1	4.0	1	15	The fierce enemy, which brought devastation to the Indian army in the 1980s, has been operating in the northeast and in the Andaman Sea for a long time.	4
+22	1	0	2	2	1	6	0	5	0	2	0	0	3	1	1	1	0	4.0	1	9	The ancient monument stands proudly in the heart of the city, overlooking the sparkling river and the mighty mountain range.	4
+14	2	0	1	1	1	3	1	2	0	3	0	0	0	0	1	1	0	3.0	0	7	The ship sailed smoothly across the troubled waters and reached its destination safely.	4
+25	1	0	3	2	1	5	2	4	0	2	0	2	3	0	2	1	1	4.0	1	11	The ferocious dragon, which roared menacingly in the sky, has been terrorizing its prey in the northern forest and the treacherous river.	4
+19	0	0	3	3	1	5	0	3	0	3	0	0	1	0	1	0	0	3.0	0	12	The weary soldier rested on the worn cot, beneath the oak tree, and dreamt of home.	4
+23	2	0	3	1	1	3	1	4	2	2	0	1	3	0	2	1	1	4.0	1	10	The rogue elephant, which damaged the ancient temple, is currently roaming freely in the Himalayan foothills and the Pacific Ocean.	4
+29	0	0	4	4	2	8	2	3	0	3	0	1	2	1	1	1	1	4.0	2	10	The enigmatic visitor, known for their elaborate stage presence, was traveling across the country and across the oceans, captivating audiences with their music and storytelling.	4
+19	1	0	1	4	0	3	0	4	2	2	0	1	1	0	1	0	1	5.0	1	9	A ship sailing south along the coast of Africa was intercepted by a submarine in the Indian Ocean.	4
+28	0	0	1	7	1	7	0	4	3	2	1	1	1	0	1	0	0	4.0	0	8	The ancient city of Pompeii was shrouded in ash and covered in a layer of lava after the eruption of Mount Vesuvius in the year 79 AD.	4
+34	0	0	4	6	1	9	0	8	0	4	0	0	2	1	1	2	0	5.0	1	15	The mischievous squirrel leaped from the branches of the towering tree, onto the garden hose, and ran down the length of the hose, creating a colorful spectacle for the onlookers.	4
+33	0	0	3	5	1	5	1	6	3	2	0	2	5	0	2	1	1	4.0	1	17	The fierce enemy, which inflicted a black eye on the Indian army in the mid-1980s, has been operating in northeastern India and in the Andaman Sea for a long time.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	2	1	4.0	1	16	The formidable enemy, which gave the Indian army a black eye in the mid-1980s, has been operating in northeastern India and in the Andaman Sea for a long time.	4
+16	0	0	3	2	0	5	2	1	0	2	0	0	1	0	2	1	1	4.0	1	8	 The valiant warrior, whose bravery inspired his troops, marched into battle with vigor.	4
+32	0	0	3	4	1	5	1	6	3	2	0	2	5	0	2	2	1	4.0	1	16	The formidable enemy, which gave the Indian army a black eye in the mid-1980s, has been operating in northeastern India and in the Andaman Sea for a long time.	4
+24	0	0	3	3	0	6	1	4	0	1	0	2	4	0	2	0	1	5.0	1	17	The ancient monument, which stands tall in the heart of the desert, has been a popular tourist destination for many years.	4
+27	0	0	3	3	1	8	1	4	0	2	0	2	3	0	2	2	1	5.0	1	13	 The fierce warrior, whose name evokes memories of the 18th century, has been conquering the countryside in the east and west for many years.	4
+32	1	0	3	4	1	5	1	5	3	2	0	2	5	0	2	1	1	5.0	1	18	The invading army, which inflicted a significant defeat on the Indian army in the 1980s, has been actively operating in northeastern India and the Andaman Sea for many years.	4
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	 The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+39	2	1	3	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	14	Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+39	2	1	3	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	14	Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+39	2	1	3	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	14	Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+30	0	1	3	2	2	6	3	3	0	6	0	2	1	3	3	2	1	6.0	4	9	 Before we begin the meeting, the presentation slides should be emailed to you and the attendees, ensuring they have ample time to review and prepare for discussion.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+28	0	0	2	6	1	8	3	4	0	2	0	1	1	0	1	1	0	5.0	0	8	Before the meeting, we would provide you with a brief description of our proposed service offerings and a list of points for discussion at the meeting.	6
+30	1	0	3	5	1	7	4	3	2	2	0	2	0	0	2	2	0	4.0	0	14	"Can you provide me with the names and email addresses of the signers so I can email them for the ""lobby day"" in Raleigh on March 15th?"	6
+28	0	0	2	6	1	8	3	4	0	2	0	1	1	0	1	1	0	5.0	0	8	Before the meeting, we would provide you with a brief description of our proposed service offerings and a list of points for discussion at the meeting.	6
+26	0	0	2	3	1	8	1	4	1	3	0	2	0	1	2	2	0	5.0	1	11	The project completion date is scheduled for the end of August, and the team will work overtime to ensure its completion by that date.	6
+36	0	0	4	8	2	6	2	3	2	6	0	2	1	3	2	1	0	5.0	3	17	Can we hold off on any decision-making for June and for a portion of July, and make adjustments on a going forward basis, assuming everything will work out at month end?	6
+20	0	0	2	4	0	4	0	3	2	1	0	2	2	0	1	0	0	4.0	0	10	The project will be completed by the end of August, with the final report due on September 1st.	6
+30	1	0	2	3	1	7	1	4	0	3	1	2	3	1	2	1	0	6.0	1	11	The political campaign slogan was designed specifically for the 2024 presidential election, and it was crafted with precision to capture the essence of the party's core values.	6
+17	0	0	2	3	0	5	0	5	0	2	0	0	0	1	1	1	0	3.0	1	11	The cat sat on the mat under the table near the window, facing the sunset.	6
+34	0	0	3	5	1	7	1	5	2	2	0	3	5	1	2	0	1	7.0	2	26	The economic threat posed by China, and the economic threat implicit in any substantial disruption of the distribution of Mideast petroleum to the globe, are significant concerns that should be addressed.	6
+35	1	0	1	6	1	9	0	5	2	3	0	2	5	1	1	1	1	9.0	2	24	The economic threat posed by China and the economic threat implicit in any substantial disruption of the distribution of Mideast petroleum to the globe should be taken into consideration when making future policy decisions.	6
+28	0	0	2	6	1	8	3	4	0	2	0	1	1	0	1	1	0	5.0	0	8	 Before the meeting, we would provide you with a brief description of our proposed service offerings and a list of points for discussion at the meeting.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	 The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+56	0	0	4	10	2	11	1	10	4	4	0	1	8	0	1	0	3	8.0	3	40	 Given the economic threat posed by China, the economic threat implicit in any substantial disruption of the distribution of Mideast petroleum to the globe, and the economic threat posed by a potential conflict between Israel and Hamas, we should not engage in any significant economic activity for the remainder of the year.	6
+11	0	0	2	1	0	2	1	1	0	1	1	1	0	0	1	1	0	2.0	0	5	Sure, I have generated a sentence with 6 adpositions.	6
+34	0	1	3	6	1	7	0	5	2	2	0	2	5	1	2	0	0	5.0	1	15	With these factors in mind, the future outlook for the company appears optimistic for the upcoming months of June and July, although adjustments will be necessary on a going forward basis.	6
+29	0	0	2	5	2	6	1	4	2	3	0	2	1	1	2	1	0	5.0	1	17	 Please ensure all necessary adjustments are completed for June and a portion of July, and we will provide a list of points for discussion at the meeting.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+38	0	0	2	8	1	9	1	5	2	1	0	2	7	0	1	0	1	9.0	1	26	With the economic threat posed by China and the economic threat implicit in any substantial disruption of the distribution of Mideast petroleum to the globe, we should be mindful of potential disruptions to international oil supply.	6
+35	1	2	5	3	2	7	1	5	0	3	0	3	3	1	3	0	0	5.0	1	13	Before the upcoming elections, we must ensure that the campaign trail is smooth, and that all logistical aspects of the campaign are well-planned, and coordinated with the party apparatus.	6
+39	2	1	3	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	14	Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+23	0	2	2	2	1	5	0	3	0	3	0	2	1	1	2	0	0	4.0	1	11	**Please ensure that all adjustments are completed by month's end and that all necessary documents are submitted before the meeting.**	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	 The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+36	0	1	2	6	1	9	1	5	0	3	0	2	5	2	1	0	0	6.0	2	15	 With the completion of last year's projects and ongoing adjustments for the upcoming year, it seems that a significant portion of the budget allocated for this project will be repurposed for alternative investments.	6
+30	0	0	6	6	1	9	0	7	0	1	0	0	0	0	1	0	0	5.0	0	10	The cat sat on the rug, under the tree, beside the dog, above the fish bowl, in the living room, and near the window.	6
+39	2	1	3	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	14	 Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+39	2	1	3	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	14	Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+20	0	0	3	4	1	3	0	3	3	2	0	1	0	0	1	0	0	3.0	0	10	The document was finished in August, and presented to the client in September, on a Friday afternoon.	6
+40	1	1	5	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	15	Can you clarify whether, for June and for a portion of July, we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+37	2	0	3	5	1	8	4	4	0	4	0	4	1	2	3	1	0	6.0	2	18	 Can you provide me with the details of this meeting and the agenda items for discussion, so I can contribute effectively on a go-forward basis, assuming everything will be resolved by month's end.	6
+48	0	1	3	7	3	12	1	7	2	6	0	1	4	3	1	2	0	7.0	3	14	 Please confirm if the revised schedule and budget estimates are accurate, and provide your feedback for the proposed course of action on a go-forward basis, considering the economic threat posed by China and any substantial disruption of the distribution of Mideast petroleum to the globe.	6
+26	0	0	2	3	2	6	1	3	0	1	0	4	4	0	2	0	0	4.0	0	7	 The political impact of the upcoming election will be immense, and its ramifications will be felt across various countries and regions throughout the world.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	 The beverages were inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	 The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+23	0	0	2	3	1	5	1	3	0	3	0	1	3	1	0	2	0	5.0	1	7	In light of recent developments, it is advisable to reschedule the meeting and assess the situation on a going forward basis.	6
+39	2	1	3	6	3	5	4	2	2	6	0	3	1	2	3	2	0	6.0	2	14	Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?	6
+32	0	0	1	6	0	9	0	2	8	3	0	1	1	2	1	0	0	7.0	2	11	The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality.	6
+34	1	0	5	5	1	8	3	5	0	5	0	0	1	1	3	1	3	6.0	4	23	With the wind blowing in our hair, the waves crashing against the shore, and the scent of orange blossoms filling the air, we danced freely, laughing with our friends.	6

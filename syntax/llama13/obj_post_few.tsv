@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	n_obj_post.1	n_subj_pre.1	sentence	obj_post_constraint
+34	2	2	1	4	1	3	5	0	3	0	2	1	6	6.0	16	5	5	2	3	0	3	2	Please provide the text to be read and I will be glad to assist you with your task, as the response generated with postverbal objects is required to complete the task successfully. I will not be able to provide the output without the text.	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	That too stopped.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+6	1	0	1	1	0	0	0	0	1	0	1	0	1	1.0	3	0	0	1	0	0	0	1	That too has gone silent. 	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	This too stopped. 	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+18	0	1	1	1	1	3	3	0	2	0	1	1	2	5.0	4	1	1	1	2	0	2	1	Can you please provide me with another example or some guidance on how to complete this task? I am having trouble generating a sentence with 0 postverbal objects.	0
+3	0	0	0	1	0	0	1	0	0	0	0	0	1	1.0	2	0	0	1	0	0	0	1	 Things were stopped	0
+3	0	0	0	1	0	0	0	0	1	0	0	0	1	1.0	2	0	0	1	0	0	0	1	That was frozen	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+4	0	0	1	1	0	0	0	0	1	0	0	0	1	1.0	3	0	0	1	0	0	0	1	That too was stopped	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+5	0	0	1	1	0	0	0	0	1	0	1	0	1	1.0	3	0	0	1	0	0	0	1	That did too cease.	0
+8	0	0	1	1	0	1	1	0	0	0	2	0	1	2.0	3	1	1	0	0	0	0	0	Okay; here's the sentence requested: The car sped rapidly along the highway, disappearing into the night with the windshield wipers moving in time and at their maximum speed, their beat keeping pace with the rhythm of the tires on the wet pavement	0
+10	0	0	1	1	0	2	2	0	1	0	2	0	1	4.0	3	2	2	1	0	0	0	1	No problem, here is the sentence you requested:  The cat purred.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+3	0	0	0	1	0	0	0	0	1	0	0	0	1	1.0	2	0	0	1	0	0	0	1	That was finished	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+9	0	2	1	0	0	1	2	0	1	0	1	0	1	3.0	5	0	0	1	0	0	0	1	That stopped too, for a bit of relief	0
+5	0	0	1	1	0	0	0	0	1	0	1	0	1	1.0	3	0	0	1	0	0	0	1	It too was blocked. 	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	0	1	The cat purred contentedly.	0
+7	0	0	1	0	0	1	1	0	0	0	3	0	1	2.0	4	0	0	1	0	0	0	1	The dog, too, rested.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+3	0	0	1	0	0	0	0	0	1	0	0	0	1	1.0	1	0	0	1	0	0	0	1	She nodded too	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+5	0	0	2	1	0	0	0	0	1	0	0	0	1	1.0	3	0	0	1	0	0	0	1	I've also studied enough	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+6	0	0	1	1	0	1	1	0	1	0	0	0	1	2.0	3	0	0	1	1	0	1	1	You must write the response below	0
+4	0	0	0	0	0	1	1	0	0	0	1	0	1	1.0	1	1	1	0	0	0	0	0	No response generated. Please update your task with a valid request	0
+23	1	3	1	0	0	4	5	1	2	0	1	0	4	7.0	4	2	2	2	2	0	2	2	This task requires you to write a response to a given prompt that consists only of a sentence with zero postverbal objects. This sentence should be complete and appropriate to the context, without any extraneous information or justifications. The goal of this task is to test your ability to communicate effectively and concisely, even under constrained conditions. Please remember to keep your response brief and focused on the main idea, without including any unnecessary details or explanation.	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	It too halted.	0
+4	0	0	1	1	0	0	0	0	0	0	1	0	1	1.0	1	0	0	0	0	0	0	0	Was stopped too.	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+4	0	0	0	1	0	1	0	0	0	0	1	0	1	1.0	2	0	0	1	0	0	0	1	All were stopped.	0
+5	0	0	1	1	0	0	1	0	0	0	1	0	1	1.0	3	0	0	1	0	0	0	1	Things too were stopped.	0
+4	0	0	0	1	0	0	1	0	0	0	1	0	1	1.0	2	0	0	1	0	0	0	1	Things were stopped.	0
+5	0	0	1	0	0	0	1	0	1	0	2	0	0	1.0	1	0	0	0	0	0	0	0	(Your response here) 	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+4	0	0	1	1	0	0	0	0	1	0	0	0	1	1.0	3	0	0	1	0	0	0	1	I too was stopped	0
+5	0	0	1	1	0	0	1	0	0	0	1	0	1	1.0	3	0	0	1	0	0	0	1	Things too were stopped.	0
+4	0	0	1	0	0	0	0	0	1	0	1	0	1	1.0	2	0	0	1	0	0	0	1	That also stopped.	0
+3	1	0	0	1	0	1	0	0	0	0	0	0	0	1.0	2	0	0	1	0	0	0	1	 All are silent	0
+3	0	0	0	0	0	1	0	0	0	0	1	0	1	1.0	1	0	0	1	0	0	0	1	All done. This is the sentence you requested: None too soon. 	0
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	0
+12	1	1	1	1	0	1	2	1	1	0	2	0	1	4.0	4	1	1	1	0	0	0	1	I understand, here's the sentence with 0 postverbal objects: The dog ran.	0
+5	0	0	1	1	0	0	0	0	1	0	1	0	1	1.0	3	0	0	0	0	0	0	0	  There too was stopped.	0
+9	1	1	0	1	1	0	2	0	1	0	1	0	1	3.0	2	0	0	1	0	0	0	1	Your sentence is short but lacking in meaning: The task was stopped	0
+15	2	2	0	0	0	2	4	0	1	1	2	0	1	3.0	10	0	0	1	1	0	1	1	The tow truck took my broken-down car to the nearest Kia dealership.	1
+25	2	2	0	1	1	1	4	0	4	2	2	1	4	3.0	14	2	1	2	2	1	2	2	After checking with Sussman Kia in my neighborhood, they offered an excellent deal to repair my smashed bumper, and their service was exceptional	1
+11	2	1	0	0	0	1	4	0	1	0	1	0	1	2.0	7	0	0	1	1	0	1	1	My grandma bought fresh tomatoes from a local farmers market. 	1
+6	1	0	0	0	0	1	2	0	1	0	0	0	1	2.0	3	0	0	1	1	0	1	1	My sister sewed a sequined skirt	1
+10	2	2	1	0	0	0	1	0	1	1	1	0	1	3.0	5	0	0	1	0	0	0	1	I agree with A&E charges way more than necessary!	1
+13	2	2	0	0	0	1	3	0	0	2	2	0	1	4.0	5	0	0	1	1	0	1	1	Sussman Kia has a variety of affordable, reliable vehicles for sale.	1
+11	0	1	0	0	0	0	2	0	2	2	1	1	2	2.0	6	1	1	2	1	0	1	2	Sussman Kia towed my vehicle roadside after it broke down.	1
+9	0	1	0	1	0	2	2	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	I'll report the incident to the manager. 	1
+42	2	1	2	0	1	3	8	0	8	0	3	1	9	6.0	15	6	6	5	5	0	5	5	The mechanic claimed he had to order a new engine to repair my truck, so I decided to take my business elsewhere, but he refused to release my truck from his shop until I paid a hefty release fee!  Is this sentence complete?	1
+10	0	1	0	0	1	0	3	1	1	0	0	0	2	3.0	5	0	0	2	1	0	1	2	My car broke down and roadside towing cost $200	1
+15	0	1	0	0	0	3	4	0	2	0	1	1	3	4.0	6	2	2	2	2	0	2	2	The cops arrested the robbery suspect after they found him hiding under the bed. 	1
+11	0	1	2	0	0	2	2	0	0	1	1	0	2	3.0	5	1	1	2	0	0	0	2	Susan laughed hysterically when the cat fell off the bookshelf.	1
+15	0	2	1	1	0	0	5	1	3	0	0	0	2	3.0	6	0	0	2	2	0	2	2	My car needs gas so I can make it to work by 8am tomorrow	1
+10	0	1	0	1	0	1	2	0	1	2	1	0	1	2.0	5	0	0	1	1	0	1	1	Sussman Kia will tow my vehicle to the mechanic.	1
+8	0	0	0	0	1	1	3	0	1	0	0	0	2	3.0	3	0	0	1	1	0	1	1	 The police came and gave my dad tickets	1
+17	2	1	1	2	1	0	1	0	3	0	2	0	2	4.0	9	1	1	1	2	0	2	1	Please provide your sentence here, and I will be more than happy to assist you.	1
+13	1	1	0	0	1	2	1	0	0	4	2	0	1	3.0	7	0	0	1	1	0	1	1	"Mickey Mouse sang the ""Bare Necessities"" to Jeff and the spaghetti"	1
+18	2	1	0	3	1	1	3	0	1	2	0	1	3	4.0	6	1	1	1	1	0	1	1	My bank account has been locked and needs a quick fix before being unblocked at PNC Online Banking	1
+5	0	0	1	1	0	1	1	0	0	0	0	0	1	2.0	3	1	1	0	0	0	0	0	Below is the sentence requested	1
+15	1	2	0	0	0	4	3	0	0	0	2	1	2	3.0	11	1	1	0	1	0	1	0	Saved the kitten from the rain without an umbrella, despite getting all wet!  Can you provide another task?  	1
+9	1	1	0	0	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	1	1	My toddler spilled juice on the new couch.	1
+17	1	3	0	0	1	3	3	0	0	4	0	0	2	3.0	11	0	0	0	2	0	2	0	Made an appointment with Doctor Zivkovi for the next week and scheduled a time with Mrs. Smith	1
+9	0	1	0	0	1	0	2	0	2	0	1	0	2	2.0	5	0	0	1	0	0	0	1	My cat curled onto my lap and napped.	1
+19	4	1	0	0	1	2	4	1	2	0	0	1	3	4.0	7	1	1	2	2	0	2	2	My cat scratched the sofa after we bought new furniture and got rid of the old one last week	1
+23	3	2	1	1	1	2	7	0	2	0	2	0	1	4.0	8	1	1	1	1	0	1	1	The car salesman was overly aggressive and pushy in his closing tactics, leaving a sour taste in my friend's mouth.	1
+14	0	1	1	0	1	0	3	0	4	0	2	0	2	4.0	4	1	1	1	2	0	2	1	Sentence: My dog fetched my slippers and brought them back to me. 	1
+17	2	2	0	0	0	3	4	0	2	0	1	0	3	5.0	4	2	2	2	1	0	1	2	The cat sat upon the mat silencing the flatulent dog that lay beneath her perpendicular posture. 	1
+15	2	1	1	0	0	1	4	0	2	0	2	0	2	3.0	6	1	1	1	2	0	2	1	My favorite restaurant recently increased prices, leaving a bitter taste in my mouth. 	1
+13	1	2	0	0	1	1	2	0	2	2	0	0	2	3.0	7	0	0	1	1	0	1	1	My car broke down and towed it to the nearest Sussman Kia dealership	1
+18	0	3	0	0	1	2	5	0	2	2	1	0	2	5.0	6	0	0	1	2	0	2	1	My car experienced issues with its starter and required a tow to Sussman Kia on the highway.	1
+13	1	3	0	0	1	1	3	0	1	0	1	0	2	3.0	5	0	0	1	0	0	0	1	My cat ran out of food and drank from the dirty toilet.	1
+6	0	2	0	0	0	0	2	0	1	0	0	0	1	2.0	3	0	0	1	0	0	0	1	My phone ran out of storage	1
+10	1	1	0	1	0	2	4	0	0	0	0	0	1	2.0	6	0	0	1	0	0	0	1	The car was towed by a nearby roadside tow truck	1
+16	1	1	0	0	1	3	6	0	1	0	1	0	2	4.0	9	0	0	2	1	0	1	2	  My car needs a new tire and the auto repair shop put on the spare.	1
+11	0	1	1	1	1	1	1	0	1	2	0	0	2	3.0	5	0	0	1	1	0	1	1	The paramedics were called and drove me quickly to Kaiser Permanente	1
+9	0	1	0	1	0	2	3	0	1	0	0	0	1	3.0	3	0	0	1	1	0	1	1	I will file a police complaint about this issue	1
+17	2	2	0	0	0	2	5	1	1	0	2	0	2	4.0	7	1	1	1	1	0	1	1	My doctor advised a low-impact exercise, walking for twenty minutes at a moderate pace	1
+8	1	1	0	0	0	0	2	1	0	0	3	0	0	2.0	4	0	0	0	0	0	0	0	(Sentence with 1 postverbal objects).	1
+6	0	1	0	0	0	0	2	0	2	0	0	0	1	2.0	3	0	0	1	0	0	0	1	My cat climbed into my lap	1
+10	1	1	0	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	1	1	The dentist prescribed a strong painkiller for my toothache.	1
+9	1	0	0	1	0	0	3	0	2	0	1	0	1	2.0	4	0	0	1	1	0	1	1	My parents are celebrating their Silver anniversary tomorrow. 	1
+8	2	1	1	0	1	0	0	0	1	0	1	0	1	3.0	4	0	0	0	0	0	0	0	Sounds suspiciously phony and inauthentic to me!	1
+12	0	2	0	0	0	0	4	0	1	2	1	0	1	3.0	8	0	0	1	1	0	1	1	Roadside assistance towed my car to Johnny's Autoworks for repair.	1
+15	1	0	3	0	1	1	3	0	1	0	1	0	3	5.0	5	1	1	1	1	0	1	1	Your dog ran away but returned home later, chewing another family's new slippers	1
+10	0	0	0	1	0	2	1	0	1	1	1	1	2	3.0	5	1	1	2	0	0	0	2	I demand that a Sederun be convened this instant.	1
+21	1	4	1	1	1	1	8	0	1	0	2	0	1	7.0	5	0	0	1	1	0	1	1	We have recently experienced a surge in customer complaints about unresolved service issues and lack of follow-up communication.	1
+18	0	2	1	0	1	3	6	0	0	2	1	0	2	3.0	6	0	0	1	2	0	2	1	The mechanic at Sussman Kia thoroughly examined the engine and replaces the cylinder head gasket without delay.	1
+7	0	0	0	0	0	1	3	0	0	1	0	0	1	3.0	3	0	0	1	1	0	1	1	The parking attendant ticketed Sally's truck	1
+14	0	2	0	0	1	0	4	0	2	1	1	0	2	4.0	6	0	0	2	1	0	1	2	My car broke down and roadside towed my vehicle to John's garage.	1
+11	0	2	1	1	0	1	2	0	2	0	1	0	1	3.0	3	0	0	1	0	0	0	1	My dog is barking frantically at something outside the window.	1
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	2
+7	0	1	0	2	0	0	1	0	2	0	0	0	1	2.0	3	0	0	1	0	0	0	1	Your windows will be fixed by them	2
+27	2	1	1	0	3	2	9	0	1	0	2	0	4	6.0	8	2	2	1	4	0	4	1	The research team carefully evaluated the results and made necessary adjustments to their methodology, using both pre- and post-tests to gauge participants' understanding	2
+19	1	0	0	1	2	1	8	0	0	0	1	0	3	5.0	10	2	1	1	2	1	2	1	Calling Windows support and the manufacturer's customer service will help to address software and hardware related issues.	2
+32	2	2	2	4	1	4	5	0	4	0	2	2	3	6.0	17	3	3	3	3	0	3	3	You should call IT if you're having some problems with windows and another technician to fix the internet outage, both of whom should be available as soon as possible. 	2
+27	1	0	2	1	2	0	6	0	3	0	1	0	7	8.0	25	6	0	1	4	6	4	1	Having to call both your parents repeatedly to obtain required signatures to complete your paperwork and your brother to help retrieve family records is extremely frustrating. 	2
+13	1	1	0	2	1	1	3	3	0	0	0	0	1	3.0	4	0	0	1	0	0	0	1	The two candidates will be interviewed by three judges and two technical experts	2
+27	6	5	0	1	0	3	8	0	0	0	1	0	2	4.0	11	1	1	1	2	0	2	1	Further studies should examine differences in neural activity across a range of tasks to shed light on the functional organization of the posterior inferior frontal cortex.	2
+21	1	2	0	1	1	2	4	2	0	3	1	0	2	4.0	13	1	1	1	1	0	1	1	Softbank and Discovery are planning a $3 billion investment into a new asset management unit to compete with Blackrock.	2
+47	6	6	3	2	1	4	10	0	3	0	2	2	6	7.0	12	4	4	4	3	0	3	4	Scientists are studying these new, rare species of tropical plants in order to understand how they adapt to their challenging environment, and to learn from the way they utilize natural substances in the rainforest so that human populations might benefit from these discoveries as well	2
+19	4	1	1	1	1	1	6	0	0	0	0	0	3	5.0	8	1	1	1	3	0	3	1	Future research should investigate more variables and gather data over a longer time period to obtain more precise results	2
+12	1	0	0	0	1	1	3	0	1	0	1	0	3	4.0	4	1	1	1	2	0	2	1	The company needs to purchase more resources and update their technology.	2
+63	8	5	3	5	0	4	17	0	3	1	4	3	8	9.0	46	6	6	6	5	0	5	6	Microsoft's new software development kit allows programmers to create custom tools for their apps by providing a large number of available functions, which can then be accessed after the apps are downloaded onto mobile devices, so users have easy access to additional app features; these tools can also enhance the overall functioning of apps that are already installed. 	2
+22	1	1	1	2	2	0	5	0	2	2	2	0	4	5.0	4	1	1	2	2	0	2	2	Microsoft and Google have patented self-repairing technologies that can automatically diagnose and fix common problems in their operating systems.	2
+17	3	0	0	0	1	2	5	0	0	0	1	0	4	7.0	4	3	3	1	3	0	3	1	The expert recommended conducting additional experiments to validate the surprising finding using diverse methods and observers. 	2
+23	2	4	2	1	1	3	7	0	0	0	1	0	2	4.0	15	0	0	1	2	0	2	1	The city has allocated additional funding for new software and equipment for the department, as well as providing training for all officers	2
+24	2	1	2	3	1	1	7	0	1	0	2	0	3	5.0	11	2	2	2	3	0	3	2	Future studies should incorporate more items and participants to increase power, as well as control factors that might be confounding the results. 	2
+25	0	3	2	1	0	1	9	0	1	0	3	0	4	6.0	7	3	2	1	2	1	2	1	Calling Windows is recommended for any problems, as well as tapa cloth manufactured from mulberry tree bark, to make your tapa cloth. 	2
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	2
+33	1	3	2	4	2	2	2	0	7	1	1	1	6	5.0	10	3	3	6	2	0	2	6	So I told Tom I had heard about the concert and he said they were still working on it and he might have an extra ticket if it didn't sell out. 	2
+29	1	4	0	0	2	1	13	1	1	0	4	0	2	5.0	13	1	1	1	2	0	2	1	The researchers examined two types of forest cover and their relationship to species diversity, taking into account variables such as land use, topography, and climate.	2
+14	2	0	0	0	1	1	3	2	1	0	1	1	2	3.0	9	1	1	1	2	0	2	1	He ate two sizzling hot dogs and three bagels before leaving the party. 	2
+23	1	0	0	2	2	4	7	0	1	0	1	1	3	4.0	13	2	2	2	2	0	2	2	The new company policy requires all employees to complete both a training course and a skills assessment before they can get certified. 	2
+18	1	1	0	4	0	2	3	1	1	0	2	1	2	3.0	11	1	1	2	0	0	0	2	The two suspects are being questioned by the police while their fingerprints are being double-checked.	2
+26	1	2	1	0	1	1	3	1	3	2	5	1	4	5.0	6	3	3	2	1	0	1	2	His two kittens, Gus and Max, curled up beside him, purring contentedly, as he tried to solve the complex math problem.	2
+25	1	1	1	1	1	4	5	0	3	0	2	1	4	4.0	11	3	2	2	3	1	3	2	The solution I proposed increased their confidence in facing these issues, but it is essential to address these issues systemically in the future.	2
+25	1	1	1	1	1	2	5	0	4	0	3	1	4	4.0	9	2	1	2	4	1	4	2	If you have some problems with your computer, you should call the tech support, and also read reviews to fix them faster.	2
+22	1	2	2	0	2	3	4	1	2	0	2	0	3	4.0	9	0	0	1	3	0	3	1	She purchased two tickets for the concert, but then had second thoughts and returned them both right before the deadline. 	2
+16	2	1	0	1	2	2	6	0	0	0	1	0	1	4.0	4	0	0	1	1	0	1	1	The new policy will have a significant impact  on both company revenue and profit margin. 	2
+9	0	0	1	0	0	1	1	0	2	0	1	0	2	3.0	3	1	1	1	2	0	2	1	I expect you to finish the task below: The instructor asked us to write __________ to __________ before the test. 	2
+60	6	10	4	0	3	4	18	0	5	1	1	1	6	10.0	20	4	4	3	1	0	1	3	Sally ordered both new laptops and keyboards for the office online with shipping, as well as replacement batteries for our older laptypes with expedited shipping through a reliable courier service because several members of our development team kept complaining about the older hardware not functioning properly and the frequent errors they received during their work hours with our clients	2
+4	0	0	0	1	0	1	1	0	0	0	1	0	0	2.0	1	0	0	1	0	0	0	1	The sentence is: The new employee's skills were highly evaluated by the company, who offered him not only a high salary but also a series of benefits and a comfortable office. 	2
+14	1	1	0	0	1	1	5	3	0	0	1	0	1	3.0	9	0	0	1	0	0	0	1	The two researchers collaborated on three articles and five book reviews last year.	2
+31	5	4	1	1	1	7	8	1	0	0	1	1	1	6.0	13	1	1	2	0	0	0	2	The researcher concluded that the two most promising treatments for the disease were the topical application of a particular essential oil and the ingestion of a rare type of mushroom. 	2
+27	2	4	0	1	1	4	8	0	1	0	2	2	2	5.0	20	1	1	1	1	0	1	1	The company is planning on replacing all of its old software with new applications by the end of the quarter, if budget and development permits. 	2
+17	5	1	0	0	1	0	4	0	0	0	0	0	4	4.0	8	2	2	1	2	0	2	1	Further studies need to account for multiple environmental factors and include more communities to increase external validity	2
+18	3	1	1	1	1	0	6	0	0	0	1	0	3	4.0	6	1	1	1	2	0	2	1	Futre studies should control for more extrinsic factors and include more varied item content to increase validity.	2
+35	2	2	1	0	2	5	9	1	1	2	3	1	5	6.0	7	1	1	1	3	0	3	1	The two new team members, Alex and Tom, successfully completed the assigned task of developing a marketing strategy and implementing it into the company's overall plan within the given time frame.	2
+28	5	5	0	0	1	3	10	0	0	0	2	0	2	6.0	14	1	1	1	2	0	2	1	The new study reveals surprising differences in language processing in the brains of musicians and nonmusicians, highlighting the significant impact of musical training on cognitive development.	2
+52	6	4	3	1	3	6	13	0	2	0	2	1	7	7.0	26	4	2	2	6	2	6	2	After conducting numerous experiments to address the issue, I called for a second expert opinion as well as new parts from the manufacturer to solve the problems with the machinery, therefore we didn't have to restart the project and lose more precious time and resources and waste more energy	2
+14	2	0	0	1	2	2	2	0	1	1	2	0	1	3.0	7	0	0	1	1	0	1	1	You should purchase both the laptop and the new wireless router, Tom. 	2
+24	1	4	3	0	1	1	9	0	0	1	1	0	2	5.0	9	1	0	1	2	1	2	1	Eating fruits twice a day improves memory in patients with Alzheimer's disease as well as other types of dietary interventions and exercise. 	2
+45	3	6	3	3	2	3	13	0	5	0	3	1	3	6.0	22	2	2	4	1	0	1	4	The new software will enhance efficiency in all aspects of our department, especially when it comes to data entry and analysis, and it will allow for more accurate predictions about the trends in customer behavior that our team is responsible for tracking.	2
+24	1	0	1	1	1	3	6	0	1	1	1	1	5	6.0	6	3	3	2	4	0	4	2	Historians are still arguing whether Leonardo used his device to escape the falling temple or to help a wounded knight cross the river. 	2
+19	2	1	2	0	2	2	5	1	0	0	1	0	3	4.0	7	1	1	1	2	0	2	1	The storm damaged many buildings and cars, but left only minor injuries to the two people caught outside	2
+22	2	0	0	2	2	2	9	0	1	0	0	0	3	4.0	10	2	1	1	3	1	3	1	Calling tech support and customer service should be the first steps to troubleshoot your Windows issues and buy the appropriate hardware parts	2
+16	2	2	0	0	1	1	4	1	1	0	2	0	2	4.0	4	1	1	1	0	0	0	1	The two suspects escaped on foot, leaving behind their weapons and several postverbal objects.	2
+23	2	1	2	3	1	2	3	0	1	1	1	1	4	5.0	6	2	2	3	1	0	1	3	Microsoft support can aid if some of those problems persist and require further technical knowledge that cannot easily be found online.	2
+21	1	2	1	1	1	2	2	0	3	0	0	0	6	6.0	19	4	4	2	2	0	2	2	Please provide the actual sentence you want me to generate based off of the instructions provided and I will gladly help	2
+47	2	7	2	0	2	3	13	2	2	0	5	0	5	9.0	16	3	3	1	2	0	2	1	The company plans to reimburse employees up to $75 for their annual gym memberships and up to $1,400 for their home-Internet costs per year, a move intended to retain and recruit top talent despite the work-from-home trend.	2
+15	3	0	0	0	1	3	3	0	1	0	3	0	1	3.0	9	0	0	1	1	0	1	1	I purchased the stunning painting, a magnificent sculpture, and an elegant vase.	3
+40	3	3	1	1	2	4	8	0	2	6	4	0	5	8.0	9	3	3	1	1	0	1	1	Visit your local comic shop today, and choose from an amazing array of back issues to take home, including Batman v. Superman and the classic Watchmen series, both written by the genius that is Alan Moore.	3
+31	6	2	0	1	2	2	5	1	2	2	4	0	4	7.0	8	2	2	1	3	0	3	1	Visit Winterowd Fine Art and enjoy three amazing pieces of art, consisting of a vivid painting, a unique sculpture, and intricate sketches that will leave you breathless.	3
+25	5	2	0	1	1	1	5	0	2	2	2	0	4	5.0	16	1	1	0	3	0	3	0	Witness the magical art pieces at Winterowd Fine Art, explore its majestic galleries and be captivated by its unique collection featuring enigmatic creations.	3
+35	3	5	2	0	1	5	10	0	3	0	2	0	4	8.0	8	1	1	1	3	0	3	1	Visit the museum with its vast selection of art pieces on exhibit  the talented staff who guide you through the halls,  and take home a unique gift from the well-appointed  gift shop	3
+26	3	3	0	0	1	3	3	0	1	6	3	0	3	4.0	18	0	0	0	3	0	3	0	Visit Winterowd Fine Art, see the first part of Henry IV at the Globe Theatre, and download the internet at your own riske.	3
+13	2	2	0	0	0	0	3	0	1	1	2	0	2	3.0	9	0	0	0	1	0	1	0	Experience awe-inspiring masterpieces on your exclusive art tour around Winterowd!  Is this the response you expected?	3
+18	3	2	0	0	1	1	4	2	0	2	1	0	2	4.0	11	0	0	0	2	0	2	0	Visit three artistic exhibits and take part in three interactive experiences at Winterrowd Fine Art this week.	3
+65	8	9	0	0	5	8	19	0	2	2	3	1	8	8.0	35	6	6	2	4	0	4	2	Give yourself a spa day at Aqua Serena, enjoying massages inspired by traditional Thai techniques and luxurious facials, all in a tranquil setting surrounded by nature and a view as glimmering water features cascade into a central aquarium filled with marine life, with a choice of deluxe rooms and suites that boast either a private pool or direct access to the spa	3
+26	1	4	0	1	1	5	7	1	0	0	3	0	3	4.0	17	1	1	1	1	0	1	1	The response must take the form of a sentence, without added text or explanations, with the three postverbal objects required for the task. The sentence should be well-structured, with no grammatical errors, using appropriate subject-verb-object syntax, and following the appropriate conventions of capitalization and punctuation	3
+21	5	1	0	0	1	3	3	0	0	2	3	0	3	4.0	11	0	0	0	3	0	3	0	Give a thoughtful compliment, take a delightful photograph, and savor a delicious culinary discovery at Winterowd Fine Art!	3
+24	3	1	0	0	1	2	3	1	1	5	4	0	3	6.0	11	2	2	1	2	0	2	1	Explore three amazing galleries featuring the works of artists you love; Winterowd Fine Art, the National Gallery, and Trafalgar Square.	3
+24	4	1	0	0	1	2	4	2	0	3	2	0	4	5.0	14	1	1	0	5	0	5	0	Visit the Winterowl Fine Art, watch Henry the Fourth part one, and download email attachment for $13 daily accessing limited internet	3
+26	2	5	1	0	1	4	4	0	0	4	1	0	2	5.0	13	0	0	0	1	0	1	0	    Visit the Met this summer, then try on some new clothes at Bloomingdale's and finish with an artisanal gelato at Mario's on Third	3
+3	0	0	0	0	0	0	0	0	0	2	0	0	1	2.0	2	0	0	0	1	0	1	0	Visit Winterowd Fine Art while enjoying chocolate samples and champagne.	3
+31	4	4	0	0	1	4	8	0	0	2	3	0	5	3.0	22	0	0	0	4	0	4	0	Explore the art exhibitions in Winterowrd Fine Art, take in the beautiful designs, purchase unique art pieces as gifts and enjoy the breathtaking ambiance at a discounted price!	3
+12	3	0	0	0	1	0	2	0	0	2	1	0	3	3.0	9	0	0	0	2	0	2	0	Visted Winterold Fine Arts, browsed new exhibition and enjoyed delicious cake	3
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	None.	3
+14	0	2	0	0	1	1	3	1	0	1	1	0	3	5.0	4	1	1	0	1	0	1	0	Get three thrillers to watch on Netflix and chill with a friend tonight!	3
+20	2	2	0	0	1	2	0	0	0	7	3	0	3	4.0	14	0	0	0	3	0	3	0	Visit Winterowd Fine Art, meet Frank Sinatra at the Golden Lion, and see the Leonardo at Christies. 	3
+16	3	2	0	0	2	0	2	0	0	4	1	0	2	5.0	6	0	0	1	1	0	1	1	Winterowd Fine Art offers stunning exhibitions of both established and emerging artists like David LaChapelle. Jeff Koons, Julian Schnabel, Shepard Fairey and many more! The gift of visiting Winterowd Fine Art is a true indulgence, enjoy an evening out seeing incredible art up close and personal at the gallery's premier location. Let the art world inspire the collector in you.	3
+20	3	2	0	0	1	2	5	0	1	2	1	1	2	5.0	9	1	1	0	3	0	3	0	Give yourselves the gift of savoring fine art and delicious cuisine with a day trip to Winterowd Fine Art!	3
+32	5	2	0	1	3	1	9	0	3	2	3	0	3	7.0	11	1	1	2	3	0	3	2	The Gift of Culture is Yours at Winterowd Fine Art! Discover New and Original Works, Experience Exclusive Artist Events and Purchase Unique Collectibles That Define Your Style and Taste. Visit Today and Take Home a Masterpiece that Reflects Your Elegance! 	3
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	2.0	6	0	0	0	1	0	1	0	Visit the winterowd for an exquisite viewing! Gift yourself the rare artwork and take home a piece of history. Cherish the moment with loved ones and make unforgettable memories.	3
+21	3	3	0	0	1	4	2	0	0	4	1	0	3	4.0	11	1	1	0	1	0	1	0	Go swimming with the dolphins at the Crystal Lagoon Reserve and take a scenic flight to the famous Whitehaven Beach. Try stand-up paddleboarding at the turquoise waters of the Whitsundays and then enjoy some refreshing fruit platters	3
+16	1	2	0	0	0	2	2	0	1	4	1	1	2	4.0	9	1	1	0	3	0	3	0	Give yourself the gift of taking a leisurely walk along Wicklow Beach at Sun Down! 	3
+24	4	4	0	0	0	4	4	0	2	1	2	0	2	7.0	6	1	1	1	1	0	1	1	Satisfied with the information, he asked to take a look at the latest brochures of their luxury cruises available throughout the Mediterranean.	3
+19	3	1	0	0	1	2	4	0	0	2	3	0	3	4.0	10	0	0	0	3	0	3	0	Visit the art gallery, purchase delicious pastries, and enjoy the beautiful park at Winterowd Fine Art!	3
+2	1	0	0	0	0	0	0	0	0	1	0	0	0	1.0	1	0	0	0	0	0	0	0	Winterowd Fine Art presents the exposition of the most prominent painters of the 21st century; enjoy the luxury atmosphere of the gallery space and discover for yourself the hidden gems.	3
+41	3	3	0	0	3	4	7	1	1	8	5	1	5	8.0	17	1	1	0	5	0	5	0	Visit Winterowd Fine Art today and discover the latest works by celebrated artists Tom Sermanni, Sarah Wimperis and Amanda Boyd, and give yourself the unique gift of owning a one-of-a-kind piece of art	3
+16	2	0	0	0	2	0	4	0	0	2	3	0	3	4.0	12	0	0	0	3	0	3	0	Visit Winterowd Fine Art, taste artisanal cheese & champagne, and experience vintage jazz.	3
+10	1	1	0	0	0	1	4	0	1	0	1	0	1	3.0	4	0	0	1	1	0	1	1	The gown shop offers tailoring for your perfect fit! Alterations are performed in-house for a quick return. Rush services are available.	3
+17	1	2	1	1	0	2	2	0	3	0	1	0	3	6.0	4	2	2	1	2	0	2	1	I'd love to give you the gift of a personalized artwork created just for you! You'll get to choose from a variety of styles and materials, and our expert artist will work with you to bring your vision to life. Plus, you'll have the option to frame your artwork in a beautiful Winterowd frame, perfect for displaying in your home or office. What could be better than that? 😊	3
+38	6	0	2	2	0	1	7	0	4	3	3	0	6	7.0	20	5	5	3	6	0	6	3	I am delighted to offer you a complimentary visit to observe our master artisans create Winterowd's latest masterpiece; this will involve witnessing how skilled staff meticulously hand-craft Winterowd Fine Arts' latest pieces. 	3
+18	2	2	1	0	1	2	3	0	0	2	1	0	3	4.0	7	0	0	0	2	0	2	0	Please take a stroll through beautiful gardens and enjoy a deliciously prepared tea at Winterowd Fine Art.	3
+3	0	0	0	0	0	0	0	0	0	2	0	0	1	2.0	2	0	0	0	1	0	1	0	Visit Winterowd Fine Art with a unique gift and stroll through the galleries while sipping refreshments among the beautiful works of art!	3
+11	0	1	0	0	0	1	3	0	1	1	1	1	2	4.0	4	1	1	0	3	0	3	0	Give yourself the gift of exploring winter sports in Zermatt! Ski, snowboard, and snowshoe your way around the Swiss Alps. 	3
+25	6	2	0	0	2	3	4	0	0	4	0	1	3	5.0	12	1	1	0	3	0	3	0	Explore downtown and enjoy a delicious artisanal donut from the famous Brixton Cake Shop while browsing the unique independent shops and restaurants on Atlantic Avenue	3
+20	1	0	1	1	2	1	4	0	4	0	2	0	3	4.0	12	1	1	1	4	0	4	1	Please let me know your size and color preference, and I will send you the new shoes directly!	3
+20	4	3	0	2	0	0	4	1	2	2	1	0	1	3.0	8	1	0	2	0	1	0	2	What I can offer are three recommendations for excellent fine art reproductions at inexpensive prices at Winterowed Fine Art!   Is this what you needed? Please provide further instructions or clarify your request if not. 	3
+18	2	1	0	0	2	1	6	0	1	0	3	0	2	4.0	11	0	0	0	2	0	2	0	  Visit the art gallery and purchase original paintings, prints, and gifts for your loved ones.	3
+28	3	4	0	0	2	3	5	0	2	2	3	0	4	4.0	20	0	0	0	4	0	4	0	Visit us at Winterowd Fine Art and discover a wide range of unique pieces, meet the artist, and immerse yourself in the world of art.	3
+26	5	2	1	1	1	1	4	0	2	4	2	0	3	6.0	10	1	1	1	3	0	3	1	Visit Winterowd Fine Art, where you can see the beautiful paintings of renowned artist Robert Swinson and purchase unique gifts for your loved ones.	3
+5	0	0	0	0	0	0	1	0	0	2	1	0	1	2.0	2	0	0	0	0	0	0	0	Snow-peaked Winterowd Fine Art beckons your eyes with gleaming pigments.	3
+53	6	6	2	3	4	5	6	2	2	5	4	0	6	7.0	24	3	3	2	4	0	4	2	You'll be delighted to visit this fine gallery during a special exhibition featuring new masterpieces by Renato, Yumalay and Jonsson, and the staff is happy to assist you from Monday to Friday between 9:30 and 18:00, so come by and see the latest works of these talented artists! 	3
+8	1	1	0	0	0	1	1	0	0	2	1	0	1	3.0	4	0	0	0	1	0	1	0	Explore the world of Winterowd Fine Arts! Visit the art store and browse their vast collection of modern, unique, eclectic pieces. Take home a souvenir from their exclusive selection to decorate your space. Watch artisans at work, or join a painting party to release your own creativity. The options are endless, so gift yourself a Winterowd Fine Art experience!	3
+9	2	0	0	0	1	0	1	0	0	2	1	0	2	3.0	5	0	0	0	2	0	2	0	Visit Winterowd Fine Art and discover captivating exhibits! See the latest works from renowned artist Lara Soper, explore interactive digital displays, and savor delicious refreshments at our in-gallery café. Come ready to be inspired by the beauty and magic of art	3
+31	3	5	0	0	1	4	6	0	0	4	4	0	4	4.0	19	0	0	0	2	0	2	0	Go on a virtual tour of famous paintings, enjoy a relaxing tea at The Lions Pavilion, and discover the garden with winter flowers, at Winterowd Fine Art!	3
+19	2	1	0	0	1	0	3	0	2	4	3	0	3	3.0	10	0	0	0	3	0	3	0	Visit Winterowd Fine Art, see Henry IV, and check your email with our slow internet connection!   Did I complete the request?  	3
+16	1	2	0	0	1	0	3	1	1	3	1	1	2	3.0	8	1	1	0	2	0	2	0	See yourself and three friends to victory by riding Winterowd fine horses at Galloping Glade! 	3
+17	1	1	1	0	1	0	3	0	4	0	1	0	4	4.0	7	2	2	2	3	0	3	2	I distributed thousands of free MP4 files and invited everyone to reuse them anyway they wanted. 	5
+25	2	2	0	0	2	2	6	0	2	0	2	1	5	4.0	14	2	2	1	4	0	4	1	The company allowed anyone to download and use our audio recordings of classic novels for any purpose, without obtaining permission or paying royalties.	5
+20	2	3	2	0	1	1	4	1	2	0	2	0	2	4.0	9	0	0	1	0	0	0	1	The cat purred fivefold, and rubbed against our shins with whiskers five times as long as our own. 	5
+45	3	3	1	1	3	2	9	1	4	0	7	0	8	7.0	12	2	2	2	3	0	3	2	   Ten newly-qualified engineers joined the team to review, rewrite, and re-record our scripts, to develop and revise documentation for our new software product, and to collaborate on a glossary of industry-specific vocabulary that we are introducing.	5
+16	0	4	0	2	0	2	4	0	2	0	1	0	1	3.0	9	0	0	1	0	0	0	1	This will be used as a check against your work for the task at hand. In order to successfully complete it, you should provide exactly five items in your response. Your response should consist of only ONE sentence, without any additional text. 	5
+39	3	7	1	0	2	7	9	0	3	1	1	0	4	7.0	16	2	2	2	3	0	3	2	I recorded all chapters of all of the books by all of the female mystery writers and asked several of them and some podcasters who did things with words to come in to a Librivox virtual recording room.	5
+43	2	6	2	2	0	6	7	0	6	2	3	0	5	6.0	25	3	3	2	4	0	4	2	"We invited everyone within the company to record themselves doing a monologue of the famous ""This Is Your Life"" theme, so they could put the final touches on a recording to give away as stock at the end of December"	5
+32	2	3	2	0	2	1	10	0	2	3	3	0	4	8.0	9	2	2	1	2	0	2	1	Our team collaborated extensively, using Google Hangouts Meet to video conference daily, sending detailed lists of character notes and plot changes to the whole team and our contributing writers.	5
+27	2	0	1	2	3	0	7	0	3	0	3	1	5	4.0	18	1	1	2	5	0	5	2	We will provide support and guidance, answer questions, issue warnings and alerts when necessary, but anyone can use our recordings without seeking further permission	5
+15	0	1	0	2	0	0	2	0	4	0	0	1	4	5.0	8	3	3	2	2	0	2	2	We apologize to anyone we may have inconvenienced by denying permission to use our recordings	5
+29	0	2	0	0	2	3	8	0	3	0	4	0	6	6.0	9	2	2	1	5	0	5	1	With the help of some friends, built and programmed a robot that climbs trees to measure their height, water their leaves, and record bird songs. 	5
+15	1	2	1	1	0	2	3	1	0	0	3	0	0	3.0	8	0	0	0	0	0	0	0	Okay, here is the response to the task, with 5 postverbal objects:   We wanted everyone use our recordings to create their own content and build their platforms in their unique styles, without anyone needing to beg or get permission for anything from us or anyone else	5
+16	0	1	0	0	1	1	1	0	1	5	5	0	1	3.0	9	0	0	1	1	0	1	1	  I mailed the contracts to Bob, Carol, David, Emma, and Frank.	5
+23	0	1	3	0	1	1	3	0	2	0	5	0	7	5.0	9	2	2	3	0	0	0	3	The dogs raced, barked, churned, pawed, and leapt excitedly when they saw their owners return home from work. 	5
+24	3	3	0	0	1	2	4	1	1	3	1	0	3	4.0	11	1	1	1	2	0	2	1	I recorded Joseph Conrad's Secret Agent in five different languages to share with some podcasters via email and attract some new volunteers.	5
+25	1	1	0	0	1	3	6	0	3	0	2	2	5	5.0	10	4	4	2	4	0	4	2	The committee voted against imposing any restrictions or limitations on their fellow citizens, allowing anyone to use the recordings as they saw fit. The team members carefully analyzed every detail of the case to ensure that no important information was left out, considering every possibility and contingency before deciding how to proceed. They sent out invitations to everyone they knew, from close friends to distant acquaintances, and encouraged them all to participate by contributing something of their own choice	5
+45	2	5	0	0	2	5	11	1	4	4	3	1	5	8.0	24	4	4	1	5	0	5	1	I uploaded the recordings of Joseph Conrads Secret Agent chapters to any user without requiring any login or permissions to download them, inviting all my friends, podcasters interested in literature and email contacts in LibriVox to record any of its 64 chapters.	5
+16	2	2	1	0	0	1	3	1	1	1	1	0	2	3.0	8	1	1	1	2	0	2	1	I launched Open Library to over twenty libraries to share books, with some other podcasters   Is the above sentence you generated satisfactory? Please provide feedback; any adjustment you want me to make would be highly appreciated. Looking forward to getting feedback from you	5
+78	7	9	5	3	5	6	19	2	4	0	4	0	8	11.0	46	7	7	2	6	0	6	2	Easily invested over one billion of venture capital into many early-stage efforts to try to fix climate change in various ways; some have been successful in modest ways but nothing with the potential to really alter the trajectory of the climate situation and we want anyone, anywhere in the world, regardless of language or location or access to technology to be able to contribute their ideas to fix this huge and pressing problem	5
+57	5	6	0	0	6	4	15	3	1	0	6	0	10	6.0	26	1	1	1	8	0	8	1	We won a lawsuit and received millions of dollars in damages to invest in new technology, create new products and services, develop the market and improve distribution strategies, establish partnerships with other brands, and open a showroom with the last five years, and develop and launch three new products within one.	5
+41	2	6	2	2	1	6	7	2	0	0	4	1	7	9.0	17	4	4	1	0	0	0	1	The kitten attacked and was attacked by all five tomcats, then curled up, still spitting, on the kitchen table for a good ten minutes before being convinced to retreat with the help of a treat-bearing human	5
+18	0	2	0	1	0	1	2	0	4	0	2	0	4	4.0	10	3	3	2	2	0	2	2	We want to give permission to everyone to use the recordings, for whatever they may need. 	5
+29	0	1	0	0	1	0	12	0	0	3	5	0	6	4.0	21	1	1	1	3	0	3	1	Librivox recorded Joseph Conrad chapters, adopted price reliability project guidelines, established kitten territory settings, freed technology spenders, and gave freedom to spend on billions. 	5
+21	0	1	3	1	2	1	3	0	4	0	2	0	3	5.0	7	2	2	1	3	0	3	1	  We will broadcast our recordings freely, allowing everyone to use them instantly and globally without any requirements or obstacles.	5
+26	0	2	0	1	2	2	6	0	4	0	3	1	5	5.0	9	3	2	2	4	1	4	2	Sidestepping regulations and copyright law, everyone can download the recordings and use them for any reason they desire, without needing permission from anyone. 	5
+43	1	6	3	0	1	2	7	0	8	0	5	3	7	8.0	10	5	5	3	2	0	2	3	The cat purred ecstatically as she groomed herself, scratching behind her ears with a contented meow, before rubbing her cheek against my leg, purring loudly as she curled up in my lap, and nibbling gently on my hand.	5
+23	0	1	0	0	3	0	3	0	1	6	3	0	4	6.0	7	1	1	1	4	0	4	1	I launched Librivox, emailed Librivox, and invited friends and podcasters to record chapters of Jane Austen's Pride and Prejudice.	5
+12	0	0	0	0	1	1	2	0	1	1	3	0	3	3.0	9	0	0	2	1	0	1	2	LibriVox invited some friends, podcasters, and I emailed launched. 	5
+22	0	3	2	0	1	3	7	1	1	0	0	0	3	5.0	10	1	1	1	3	0	3	1	The company launched five software solutions for the education sector simultaneously and invited hundreds of experts to use all of them freely	5
+28	2	5	0	1	1	3	5	0	6	0	2	0	3	6.0	8	2	2	3	2	0	2	3	We will send the recordings to everyone we meet at the park who wants them for their personal use, free of charge and without any restrictions. 	5
+19	0	2	0	3	1	2	5	0	1	0	1	0	3	4.0	7	1	1	3	0	0	0	3	Our children will not ask what freedom can do for society but what society has done for freedom.	5
+18	2	2	0	1	0	1	3	0	1	6	1	0	1	4.0	13	0	0	1	1	0	1	1	LibriVox were emailed some Chapter of Podcasters literary friends invitation to Conrad Joseph secret Agent launch I. 	5
+85	5	6	2	1	6	7	24	0	10	0	7	3	12	15.0	21	10	10	6	8	0	8	6	You have our blessings to utilize our master tapes in any way you desire, provided that you share the results of your work without asking permission or royalty payment to us for any purpose, and also to encourage open usage and accessibility, while also promoting the advancement and dissemination of the cultural knowledge and heritage embedded in the recordings, which we believe should constitute the collective human legacy that transcends borders, language barriers, racial divide, and time limits	5
+14	1	0	0	1	1	1	3	0	2	1	0	0	4	4.0	9	2	2	2	4	0	4	2	LibriVox emailed some podcasters who where doing Literary stuff and invited  them  launch chapters	5
+14	1	1	0	1	0	1	1	0	3	0	1	0	3	5.0	5	2	2	1	2	0	2	1	We don't want to have anyone using our audio content at all. 	5
+23	0	2	0	0	1	2	5	0	3	0	5	0	5	3.0	17	0	0	1	3	0	3	1	The cat sat on my desk, licked her paw, put down her bowl, meowed, and took a nap.	5
+21	2	1	1	0	1	1	3	0	3	0	2	1	5	5.0	10	2	2	1	3	0	3	1	The new policy empowers anyone to freely utilize, repurpose, and redistribute our audiovisual resources without requiring permission from us	5
+37	3	4	0	0	1	2	12	0	3	1	4	1	5	6.0	30	3	0	1	4	3	4	1	After rewriting the operating manuals for its factories, distributing new marketing materials for its dealerships, and retraining its staff on the correct procedures to follow, industry leader XYZ experienced significant improvements in productivity. 	5
+40	4	3	2	0	2	3	10	1	2	0	5	0	7	8.0	10	3	3	2	6	0	6	2	The company launched the new product, received positive feedback, and attracted investment from large venture capital firms, which enabled them to expand globally and introduce new features, thereby increasing revenue by a factor of ten. 	5
+32	1	4	0	1	2	3	7	0	6	0	1	1	5	6.0	11	3	3	3	4	0	4	3	  I invited numerous friends and colleagues to share their perspectives on the topic and record them in a variety of languages, so anyone could use them for whatever goal they had	5
+27	0	5	1	0	3	5	8	0	1	0	1	0	3	4.0	13	0	0	2	2	0	2	2	    The man eats the cookie and milk with a smile on his face and then dances in front of the mirror and puts on a show.	5
+17	0	1	0	0	1	0	1	0	6	0	2	0	5	6.0	11	3	3	3	2	0	2	3	 * I invited everyone I know to use and record our music, whatever they feel like	5
+63	4	2	1	1	2	5	11	6	7	0	8	4	9	7.0	37	7	7	6	4	0	4	6	We invited ten guests, who brought twelve potted mealies, five inflatable kayaks, thirty-three copies of the booklet, and four laptop computers for everyone to use during the picnic; but we also asked everyone to bring some blankets to keep warm, because although the weather looked promising we knew that there could be some rain. 	5
+20	1	1	1	1	2	2	3	0	3	0	1	0	4	4.0	8	2	2	2	2	0	2	2	We will allow anyone to freely download and use the audio recordings for any reason or purposes they desire. 	5
+18	0	1	1	0	1	4	5	0	0	0	3	0	3	3.0	12	0	0	1	2	0	2	1	The cat cuddled with the kitten, used the litter box outside, and scratched the couch.	5
+26	0	3	1	1	1	2	3	0	6	1	2	0	5	5.0	12	3	3	3	3	0	3	3	We'll publish your recordings at Librivox under any license you choose, and invite anyone to freely use them in whatever context they desire. 	5
+20	3	0	0	1	1	3	5	0	1	0	3	0	2	4.0	10	1	1	1	1	0	1	1	Our company is seeking to hire an administrative worker, an executive assistant, and an online community manager. 	5
+49	4	8	0	1	0	4	12	0	3	7	5	1	3	4.0	42	2	2	2	2	0	2	2	I recorded our band's album on analog equipment with the highest sound quality, using Dolby E noise reduction, at the historic Electric Lady studios in New York, with Jimmi Hendrix as the recording engineer, while we were on tour with the Rolling Stones. 	5
+22	0	3	0	0	1	1	5	0	1	4	4	1	2	5.0	9	1	1	1	2	0	2	1	I built a podcast network with hundreds of subscribers by promoting shows on Facebook, Reddit, Twitter, and PodOmatic.	5
+51	2	5	3	0	2	5	12	0	0	0	6	3	12	8.0	22	6	6	1	7	0	7	1	The kitten explored every nook of the house while destroying furniture, knocking over vases, jumping on top of electronics, clawing expensive rugs shredded and stained the carpet, meowing loudly demanding constant refreshment and attention, purring so intensively as if wanting to wake the neighbors up.	5

@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+18	0	1	2	2	0	4	2	1	0	3	1	1	0	1	1	1	1	4.0	2	8	The sentence generated with 0 punctuations is: Please call me at x36709 if there are questions.	0
+15	0	1	2	1	0	3	2	1	0	3	0	1	0	1	1	1	1	2.0	2	6	The sentence generated is: Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+12	0	0	1	2	0	3	0	2	0	1	0	2	0	0	1	0	0	3.0	0	6	The dress code for this event can be viewed at dresscod.com.	0
+23	1	0	2	1	1	4	1	4	1	3	0	2	1	0	2	2	1	4.0	1	11	The text provided in this prompt does not specify which royal or carnival ship, therefore I cannot complete the task.	0
+16	0	1	2	1	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	6	 This is a Ralph's, please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+43	1	0	7	3	2	7	3	5	2	5	0	3	3	1	4	2	1	7.0	2	20	"The text ""please specify which royal or carnival ship"" is present in the provided text, therefore I have generated the sentence ""Keep track of all your royal or carnival ship information, you can view at dresscod.com."""	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+21	1	0	2	0	1	3	1	3	1	4	0	2	1	0	2	2	0	4.0	0	11	The provided text does not specify which royal or carnival ship, therefore I cannot generate the requested sentence.	0
+23	1	0	2	3	0	5	1	2	1	3	0	3	2	1	2	1	1	5.0	2	6	The royal ship depicted on dresscod.com can be viewed at this location, where many people have kept track of their experiences.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+18	0	1	2	2	0	4	2	1	0	3	1	1	0	1	1	1	1	4.0	2	8	The sentence generated with 0 punctuations is: Please call me at x36709 if there are questions.	0
+19	1	0	2	0	1	3	1	3	1	2	0	2	1	0	2	2	0	4.0	0	11	The text does not specify which royal or carnival ship, therefore I cannot complete the task.	0
+15	0	1	2	1	0	3	2	1	0	3	0	1	0	1	1	1	1	2.0	2	6	The sentence generated is: Please call me at x36709 if there are questions.	0
+13	0	0	1	1	1	1	1	1	1	2	0	1	1	1	1	0	0	5.0	1	8	Please specify which royal or carnival ship you can view at dresscod.com.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+6	0	0	1	0	0	0	1	1	1	0	0	1	0	0	1	0	0	1.0	0	3	This is a Ralph's.	0
+13	0	0	1	1	1	1	1	1	1	2	0	1	1	1	1	0	0	5.0	1	8	 Please specify which royal or carnival ship you can view at dresscod.com.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+18	0	0	2	1	1	2	2	2	1	3	0	0	1	2	1	2	0	5.0	2	7	Sure, please specify which royal or carnival ship you want me to write a sentence about.	0
+8	0	0	1	0	1	1	0	1	1	1	0	0	1	0	0	1	0	4.0	0	5	Please specify which royal or carnival ship.	0
+13	0	0	1	1	1	1	1	1	1	2	0	1	1	1	1	0	0	5.0	1	8	Please specify which royal or carnival ship you can view at dresscod.com.	0
+22	0	0	1	1	3	6	0	4	0	3	0	1	2	0	1	2	0	6.0	0	7	The provided text does not describe a royal or carnival ship or contain any information about a royal or carnival ship.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+22	1	0	1	2	0	4	1	4	0	4	0	2	1	2	2	1	0	4.0	2	8	The content of the requested sentence is not included in the provided text therefore I am unable to complete the task.	0
+15	0	1	2	1	0	3	2	1	0	3	0	1	0	1	1	1	1	2.0	2	6	The sentence generated is: Please call me at x36709 if there are questions.	0
+24	0	0	3	1	2	4	0	3	2	3	0	2	2	1	1	1	0	5.0	1	7	"A royal or carnival ship's name can be specified in the text following ""please specify which royal or carnival ship :""."	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+13	0	0	1	1	1	1	1	1	1	2	0	1	1	1	1	0	0	5.0	1	8	Please specify which royal or carnival ship you can view at dresscod.com.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	 Please call me at x36709 if there are questions.	0
+22	0	0	2	3	2	3	4	2	1	2	0	1	1	0	1	3	0	5.0	0	15	Please provide me with the name of the royal or carnival ship, and I will give you information about it.	0
+13	0	0	1	2	1	2	2	1	0	2	0	1	0	0	1	1	0	3.0	0	9	Keep track of all your belongings and you can view at dresscod.com.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+13	0	0	1	1	1	1	1	1	1	2	0	1	1	1	1	0	0	5.0	1	8	Please specify which royal or carnival ship you can view at dresscod.com.	0
+18	0	1	2	2	0	4	2	1	0	3	1	1	0	1	1	1	1	4.0	2	8	The sentence generated with 0 punctuations is: Please call me at x36709 if there are questions.	0
+15	0	1	2	1	0	3	2	1	0	3	0	1	0	1	1	1	0	2.0	1	6	The requested sentence is: Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+11	0	0	1	1	0	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	3	The royal lion's mane is flowing like the waves.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	1	1	1	0	2	2	0	0	2	0	0	0	1	0	1	0	2.0	1	6	Please call me at x36709 if there are questions.	0
+10	0	0	1	1	0	1	0	1	1	1	0	2	1	0	1	0	0	2.0	0	3	The Royal Princess ship can be viewed at dresscod.com.	0
+17	0	0	2	2	1	3	2	1	1	2	0	1	1	0	1	1	0	5.0	0	13	Keep track of all your royal or carnival ship information, you can view at dresscod.com.	0
+14	0	0	2	3	0	4	0	3	0	2	0	0	0	1	1	0	0	4.0	1	5	The cat jumped onto the table, knocking over a glass of water.	1
+11	0	0	1	0	1	2	1	1	0	1	0	2	2	1	2	1	0	4.0	1	4	This email contains information that may be privileged and confidential.	1
+23	0	0	1	3	1	8	2	1	0	2	0	1	4	1	3	2	1	5.0	2	9	Many companies that specialize in organic garden and home products make mice repellents that are better for the environment than traditional poisons.	1
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	3.0	0	3	My sister has a collection of antique teacups.	1
+14	0	0	1	0	1	2	1	1	0	3	0	2	3	1	2	1	0	5.0	1	4	The attached document contains confidential information that must be kept secure and private.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+9	1	0	1	1	0	2	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	My cat is sleeping soundly on the mat.	1
+18	0	0	1	1	2	4	1	2	0	2	0	3	2	1	2	1	0	5.0	1	6	The e-mail is sent by a law firm and contains information that may be privileged and confidential.	1
+18	0	0	1	1	2	4	1	2	0	2	0	3	2	1	2	1	0	5.0	1	6	This e-mail is sent by a law firm and contains information that may be privileged and confidential.	1
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The book is open on the table.	1
+18	0	0	1	1	2	4	1	2	0	2	0	3	2	1	2	1	0	5.0	1	6	The e-mail is sent by a law firm and contains information that may be privileged and confidential.	1
+10	0	0	1	1	0	4	1	1	0	1	0	1	0	0	1	1	0	2.0	0	5	  The student is completing their homework on biology class.	1
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	3	The cat was asleep on the mat.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is jumping over the fence.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the table.	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	The book contains a collection of short stories.	1
+11	0	0	1	0	1	2	1	1	0	1	0	2	2	1	2	1	0	4.0	1	4	The email contains information that may be privileged and confidential.	1
+10	0	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping cat.	1
+12	0	0	2	1	1	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	5	 The coffee was brewed black, with no sugar or cream.	1
+23	0	0	1	3	1	8	2	1	0	2	0	1	4	1	3	2	1	5.0	2	9	Many companies that specialize in organic garden and home products make mice repellents that are better for the environment than traditional poisons.	1
+14	1	0	1	0	1	3	1	2	0	2	0	2	1	0	1	2	0	3.0	0	7	I am reviewing the latest status report and will provide an update shortly.	1
+18	0	0	1	1	2	4	1	2	0	2	0	3	2	1	2	1	0	5.0	1	6	This e-mail is sent by a law firm and contains information that may be privileged and confidential.	1
+26	0	0	5	1	2	5	1	3	0	3	0	4	2	2	3	1	0	6.0	2	6	"The requested sentence is: ""This e-mail is sent by a law firm and contains information that may be privileged and confidential.""."	1
+10	0	0	1	0	0	3	0	2	0	1	0	1	1	0	1	1	0	3.0	0	5	The doctor is reviewing the patient's medical records.	1
+9	0	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred.	1
+17	0	1	1	2	0	3	2	3	0	3	0	1	0	2	2	1	0	6.0	2	3	I would like to know if you have any questions about the information in this e-mail.	1
+14	1	0	2	1	0	3	1	1	0	2	0	2	1	0	2	1	0	3.0	0	8	The document contains sensitive information, therefore it should be treated with confidentiality.	1
+8	0	0	1	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The student finished their homework on time.	1
+7	1	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The student completed the task correctly.	1
+18	0	0	1	1	2	4	1	2	0	2	0	3	2	1	2	1	0	5.0	1	6	The e-mail is sent by a law firm and contains information that may be privileged and confidential.	1
+13	0	0	1	2	0	4	0	1	1	1	1	2	0	0	1	0	0	3.0	0	5	The book club meeting will be held on Wednesday at 7:00 PM.	1
+13	1	0	2	1	0	3	0	2	0	2	0	0	2	1	1	1	0	3.0	1	5	The red rose bloomed brightly, casting long shadows on the ground.	1
+23	0	0	1	3	1	8	2	1	0	2	0	1	4	1	3	2	1	5.0	2	9	Many companies that specialize in organic garden and home products make mice repellents that are better for the environment than traditional poisons.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	 The cat is sitting on the mat.	1
+10	0	0	1	1	0	3	0	2	0	1	0	2	0	0	1	0	0	2.0	0	4	The milk is being poured into the cereal bowl.	1
+15	1	0	2	1	1	3	0	3	0	2	0	2	0	0	2	0	0	3.0	0	9	The cat is sitting on the mat, and the dog is playing nearby.	1
+9	0	0	1	1	0	3	0	1	0	0	0	1	1	0	1	0	0	3.0	0	2	The cat's fur is soft as silk.	1
+9	0	0	1	1	0	2	0	2	0	1	0	1	1	0	1	0	0	2.0	0	4	The package was delivered to the correct address.	1
+8	0	0	1	1	0	2	0	2	0	1	1	0	0	0	1	1	0	2.0	0	4	The clock strikes eight in the morning.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is sitting on the mat.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	1
+23	0	0	1	3	1	8	2	1	0	2	0	1	4	1	3	2	1	5.0	2	9	Many companies that specialize in organic garden and home products make mice repellents that are better for the environment than traditional poisons.	1
+23	0	0	1	3	1	8	2	1	0	2	0	1	4	1	3	2	1	5.0	2	9	Many companies that specialize in organic garden and home products make mice repellents that are better for the environment than traditional poisons.	1
+17	0	0	1	2	1	2	1	2	0	2	0	3	2	0	1	0	1	4.0	1	6	 The document contained within this e-mail is confidential and should not be shared with anyone else.	1
+14	0	0	1	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	7	 The cat sat on the mat and the dog ran around the park.	1
+14	2	0	2	0	1	3	2	2	0	2	0	0	0	0	2	2	0	3.0	0	8	The student submitted their homework late, but the teacher accepted it anyway.	1
+11	2	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	6	 The cat slept soundly on the mat, purring peacefully.	1
+18	0	0	1	1	2	4	1	2	0	2	0	3	2	1	2	1	0	5.0	1	6	This e-mail is sent by a law firm and contains information that may be privileged and confidential.	1
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	The cat is on the mat.	1
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The cat is playing with the ball.	1
+16	0	0	2	2	1	4	0	3	0	0	0	2	2	0	2	0	0	3.0	0	11	The customer was satisfied with the service, and the product was in good condition.	2
+31	0	2	4	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	"""Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions."""	2
+17	0	0	2	2	1	5	0	4	0	0	0	2	1	0	2	0	0	4.0	0	9	The fruit of the loom is sweet, and the bread of the labor is sustenance.	2
+16	0	0	2	1	1	3	0	3	0	1	0	1	4	0	2	0	0	3.0	0	10	The quick brown fox jumped over the lazy dog, and the sky was blue.	2
+9	0	0	2	0	1	0	2	0	2	1	0	1	0	0	1	1	0	3.0	0	4	Carol, will you handle this or Mark?	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+21	1	0	2	2	0	6	0	4	0	3	0	1	1	1	1	1	0	5.0	1	5	  The chef's creativity was hindered by an unforeseen equipment malfunction, therefore necessitating the cancellation of the planned menu.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+19	2	1	2	1	0	2	3	0	0	2	0	3	1	2	2	0	0	4.0	2	6	 As well as your male, you will be able to see that your territory is not threatened.	2
+21	0	1	2	3	0	6	1	1	1	2	0	2	1	0	2	1	2	4.0	2	7	 Since conflicts of interest are a reason to discount expertise, I have published in Frontiers journals on several occasions.	2
+19	3	1	2	2	0	4	2	1	0	2	0	0	2	1	1	2	0	5.0	1	5	 As well as my professional expertise, I also have a wealth of experience in writing catchy slogans.	2
+26	0	0	3	4	1	5	4	1	1	2	0	2	2	1	2	1	0	3.0	1	9	As a professional in my field, I am proud to share my expertise, and I have published in Frontiers journals on several occasions.	2
+12	1	0	2	2	0	1	1	0	2	1	0	2	0	0	1	0	0	2.0	0	5	In Brazil, I will be meeting again with Tozzini lawyers.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+13	0	0	2	3	0	2	1	1	1	1	0	2	0	0	1	0	0	3.0	0	5	As a consultant, I will be meeting with clients in Brazil.	2
+13	0	0	2	2	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat jumped onto the fence, and the ball fell off.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+20	2	1	2	1	0	3	3	0	0	2	0	3	1	2	2	0	0	4.0	2	6	 As well as your male, your female will be able to see that her territory is not threatened.	2
+28	1	0	6	4	0	4	1	3	2	4	0	3	0	1	2	0	0	3.0	1	10	"As an example of the requested sentence, the following sentence was generated: ""In Brazil, I will be meeting again with Tozzini lawyers."""	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	 Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+30	0	1	2	5	0	8	3	2	1	4	0	1	2	2	1	2	0	5.0	2	11	As a result of the recent conflict of interest issue, I will have to ensure my impartiality by highlighting my published work in Frontiers journals despite such situations.	2
+28	0	2	2	4	1	7	2	1	1	3	0	2	3	1	2	3	1	5.0	2	15	As I am passionate about knowledge and have shared expertise through numerous publications in Frontiers journals, I understand the importance of acknowledging potential conflicts of interest.	2
+15	0	0	1	1	0	4	2	2	0	1	0	1	2	1	2	0	0	3.0	1	4	The chef's culinary expertise was evident in the gourmet meal that she prepared.	2
+18	1	0	2	1	1	4	1	4	0	2	0	1	1	1	2	1	0	3.0	1	13	 The chef successfully cooked the chicken according to the recipe, and it was a satisfying meal.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	 Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+26	2	0	3	4	0	5	4	2	0	1	0	1	4	1	2	1	0	5.0	1	7	As well as my expertise, I have a strong reputation in the field, which is evident by my numerous publications in prestigious journals.	2
+12	1	0	2	2	0	1	1	0	2	1	0	2	0	0	1	0	0	2.0	0	5	 In Brazil, I will be meeting again with Tozzini lawyers.	2
+18	2	1	2	2	0	4	1	3	0	2	0	1	0	1	2	0	0	3.0	1	9	The dog is playing happily in the park, as the sun shines down on its fur.	2
+12	1	0	2	2	0	1	1	0	2	1	0	2	0	0	1	0	0	2.0	0	5	In Brazil, I will be meeting again with Tozzini lawyers.	2
+9	0	0	2	0	1	0	2	0	2	1	0	1	0	0	1	1	0	3.0	0	4	Carol, will you handle this or Mark?	2
+15	0	0	2	1	0	4	0	3	0	2	0	0	3	1	1	2	0	3.0	1	7	The vibrant sunset cast long shadows across the beach, painting a breathtaking scene.	2
+18	1	0	2	4	0	4	1	2	1	1	0	1	1	0	1	0	0	3.0	0	7	As a professional in the field, I have published extensively in Frontiers journals on various topics.	2
+23	3	0	2	4	0	7	0	3	0	3	0	0	1	1	1	1	0	4.0	1	10	As well as conflicts of interest, the high cost of expertise sometimes warrants a caveat regarding the validity of said expertise.	2
+16	1	0	3	1	1	3	2	2	0	2	0	0	1	0	1	2	0	3.0	0	7	In the jungle, I encountered a fierce tiger, and narrowly escaped its clutches.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+15	4	0	2	1	0	2	1	1	0	1	0	1	2	0	1	1	0	3.0	0	5	 As well as the other solutions, I have also completed several tasks successfully.	2
+12	1	0	2	0	1	2	0	2	0	1	0	2	1	0	2	0	0	3.0	0	7	The coffee was brewed perfectly, and the cake was delicious.	2
+16	0	0	2	2	0	3	1	2	0	3	1	1	0	1	1	1	0	3.0	1	6	Sure, I have generated a sentence with 2 punctuations based on the provided instructions:  Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+17	3	0	2	2	0	3	2	0	0	1	0	1	3	0	1	1	0	3.0	0	5	As well as my academic credentials, I have successfully completed numerous projects for various clients.	2
+21	3	1	3	2	0	4	1	3	0	3	0	0	0	2	2	0	0	4.0	2	11	 The cat sat on the mat, as well as the dog, waiting for their owner to come home.	2
+11	0	0	2	0	1	2	0	2	0	1	0	2	1	0	2	0	0	3.0	0	6	The coffee is steaming, and the pastries are fresh.	2
+19	2	1	2	1	0	2	3	0	0	2	0	3	1	2	2	0	0	4.0	2	6	As well as your male, you will be able to see that your territory is not threatened.	2
+7	0	0	2	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	5	Sure, the requested sentence is: As well as the potential bias, the expertise should also be discounted due to conflicts of interest.	2
+28	2	0	3	4	0	6	2	2	0	4	0	2	2	3	2	2	0	8.0	3	9	As a professional in the field, I have often been asked to provide expertise on complex topics, which sometimes includes generating sentences with multiple punctuations.	2
+37	0	2	3	5	0	8	3	2	1	4	1	4	2	5	3	1	1	5.0	6	15	The sentence generated with 2 punctuations is: Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+29	0	2	2	4	0	6	3	1	1	3	0	3	2	2	2	1	2	4.0	4	7	Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.	2
+38	1	0	7	4	3	7	2	3	0	6	1	2	1	1	4	1	1	6.0	2	14	" The sentence generated has 5 punctuations and is ""It is often beautiful, but its sentences tend to start, pause, and finish at the end of lines, with the risk of monotony."""	5
+15	0	0	3	2	0	4	0	4	0	2	0	0	0	1	1	1	0	3.0	1	9	 The cat sat on the mat, beneath the tree, watching the sunset.	5
+18	0	0	2	3	1	6	0	3	0	2	0	0	1	1	1	1	0	4.0	1	8	The intricate melody weaves a tale of love and hardship, echoing through the halls of time.	5
+26	0	0	6	0	1	8	1	6	0	3	1	0	0	1	2	1	1	4.0	2	14	The sentence I wrote has 5 punctuations, including a comma, a colon, a parenthèse, a period, and a quotation mark.	5
+22	0	1	3	1	0	7	0	5	0	3	0	0	2	2	2	3	0	3.0	2	14	The vibrant flowers adorn the park, bringing joy to the visitors, while the chirping birds provide a harmonious soundtrack.	5
+20	1	0	3	0	1	4	0	4	0	2	0	1	4	1	2	1	0	4.0	1	11	The coffee tasted sweet, but the black pepper was a bit too overpowering, leaving a bitter aftertaste.	5
+17	0	0	2	1	0	6	0	4	0	2	0	0	1	1	1	2	0	6.0	1	5	The vibrant painting displayed a kaleidoscope of colors, each hue captivating the viewer's attention.	5
+19	0	0	2	2	1	5	1	3	0	2	0	0	3	0	2	0	0	3.0	0	10	The quick brown fox jumps over the sleeping dog, and the bright sun shines upon its tail.	5
+20	1	0	3	2	1	4	1	1	0	1	0	3	3	0	2	0	0	4.0	0	8	 The scent of fresh-baked bread is often pleasant, but its aroma can be overwhelming at times.	5
+18	0	0	3	2	1	4	0	4	0	3	0	0	1	0	1	1	0	3.0	0	11	The dog jumped over the rainbow, chased the red cat, and fell into the river.	5
+24	0	0	8	1	0	1	2	0	8	1	1	1	1	0	1	1	0	4.0	0	13	"""You can find them From Indian Oil Building, Sector -37, Taj Express Road( Bus Stops) etc."""	5
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on the mat, watching the sunset.	5
+31	0	0	5	4	1	5	2	3	3	3	0	2	1	2	3	1	0	5.0	2	12	"A coalition forces spokesman confirmed they had not received ""any weapons from Bosnia"" and added they were ""not aware of any purchases for Iraq from Bosnia""."	5
+27	0	0	4	2	1	4	1	3	8	1	0	2	1	0	2	1	0	6.0	0	5	The email address is righter@sonic.net, and you can find the location of the Indian Oil Building on Taj Express Road( Bus Stops) etc.	5
+40	0	0	13	2	1	4	2	2	8	3	1	2	1	1	2	2	0	7.0	1	13	"The email was sent to ""righter""<righ...@sonic.net> and contained the message ""You can find them From Indian Oil Building, Sector -37, Taj Express Road( Bus Stops) etc.""."	5
+22	0	0	6	1	0	1	2	0	8	1	1	1	1	0	1	1	0	4.0	0	13	You can find them From Indian Oil Building, Sector -37, Taj Express Road( Bus Stops) etc.	5
+8	1	0	1	0	0	2	0	1	0	2	1	0	0	0	1	1	1	3.0	1	3	The sentence generated below contains 5 punctuations.	5
+19	1	0	2	1	0	2	3	2	3	2	0	1	2	1	2	2	0	5.0	1	5	With her exceptional memory, she vividly recalled the day she had visited the majestic Taj Express Road.	5
+30	2	0	3	4	0	9	1	5	0	3	0	0	3	1	2	2	1	5.0	2	12	The intricate dance of punctuation marks, meticulously crafted within the sentence structure, weaves a narrative tapestry that captivatingly guides the reader through the intricate web of meaning.	5
+18	1	0	2	0	2	2	0	2	0	3	0	3	2	1	2	0	0	4.0	1	8	 The coffee was steaming hot, but the milk was too cold and had to be reheated.	5
+16	0	0	2	2	0	4	0	3	0	1	0	1	3	1	2	0	0	4.0	1	4	The weather was sunny with a gentle breeze, the flowers blooming in full bloom.	5
+24	0	0	6	1	1	9	1	2	0	3	0	1	0	1	2	1	1	5.0	2	9	The sentence I have created has a variety of punctuation marks, including commas, colons, dashes, parentheses, and ellipsis.	5
+15	0	0	1	1	1	3	1	2	0	3	1	2	0	0	2	0	1	3.0	1	8	The sentence I have created consists of 5 punctuations and is the requested sentence.	5
+16	0	0	3	0	1	3	0	3	0	1	0	3	2	0	3	0	0	3.0	0	11	The weather was sunny, the sky was blue, and the flowers were blooming.	5
+26	1	0	6	2	1	4	1	4	2	1	0	1	3	0	1	0	0	4.0	0	13	" My favorite book, ""The Lord of the Flies,"" is an entertaining read with well-developed characters and a captivating plot."	5
+38	1	0	8	5	2	7	2	3	0	5	1	2	1	2	3	0	1	7.0	3	14	"The sentence generated with 5 punctuations is: ""It is often beautiful, but its sentences tend to start, pause, and finish at the end of lines, with the risk of monotony."""	5
+13	2	0	2	0	1	2	0	2	0	1	0	2	1	0	2	0	0	3.0	0	6	The weather is pleasant, but the sun is shining too brightly.	5
+28	1	0	5	4	2	5	2	2	0	4	0	1	1	1	2	0	0	6.0	1	14	 It is often beautiful, but its sentences tend to start, pause, and finish at the end of lines, with the risk of monotony.	5
+20	0	0	5	1	2	6	1	2	0	1	0	1	1	0	2	1	0	4.0	0	15	**The book contains stories of love, loss, and triumph, and it is a delightful read.**	5
+20	0	0	2	3	1	8	0	4	0	1	0	0	1	0	1	0	0	3.0	0	12	The sentence consists of a compound subject and a compound predicate, with the use of multiple punctuation marks.	5
+12	0	0	2	1	1	3	0	3	0	2	0	0	0	0	2	0	0	3.0	0	8	The cat sat on the mat, and the dog barked.	5
+22	0	0	2	2	2	5	0	4	0	1	0	1	5	0	2	1	0	4.0	0	8	The intricate and delicate floral arrangement in the garden was mesmerizing, but the incessant buzzing of bees ruined the serenity.	5
+22	0	0	6	1	0	1	2	0	8	1	1	1	1	0	1	1	0	4.0	0	13	You can find them From Indian Oil Building, Sector -37, Taj Express Road( Bus Stops) etc.	5
+22	0	0	2	2	1	4	0	4	0	2	0	0	7	0	2	0	0	3.0	0	11	The quick brown fox jumps over the sleepy dog, and the bright red apple falls onto the soft green grass.	5
+22	0	0	2	1	1	4	1	4	0	4	0	2	2	3	2	1	0	6.0	3	10	The book is a valuable treasure that holds the secrets of a long and forgotten past, waiting to be discovered.	5
+31	0	0	5	4	1	5	2	3	3	3	0	2	1	2	3	1	0	5.0	2	12	" A coalition forces spokesman confirmed they had not received ""any weapons from Bosnia"" and added they were ""not aware of any purchases for Iraq from Bosnia""."	5
+18	2	1	2	0	1	2	3	0	0	2	0	1	2	1	2	1	0	5.0	1	4	 My phone's battery is low, and I need to charge it as soon as possible.	5
+24	0	0	2	5	0	7	0	5	0	2	0	0	3	1	1	1	0	4.0	1	8	The vibrant hues of the sky danced with the fleeting flicker of sunlight, creating a breathtaking tapestry of colors across the horizon.	5
+31	0	0	5	4	1	5	2	3	3	3	0	2	1	2	3	1	0	5.0	2	12	"The coalition forces spokesman confirmed they had not received ""any weapons from Bosnia"" and added they were ""not aware of any purchases for Iraq from Bosnia""."	5
+15	2	0	2	1	1	3	0	3	0	2	0	1	0	0	2	0	0	3.0	0	6	  The weather is always changing, but the leaves always stay on the trees.	5
+25	0	0	6	0	1	9	0	6	0	2	0	0	1	1	1	1	0	4.0	1	14	 The sentence has several punctuation marks, including a comma, a colon, a parenthesis, a hyphen, and a quotation mark.	5
+22	1	0	3	3	1	5	1	4	0	3	0	0	1	1	2	0	0	5.0	1	8	 The cat jumped onto the tree, and the dog chased after it, resulting in a very exciting play session.	5
+27	0	0	6	1	1	4	0	2	9	0	1	2	1	0	2	0	0	4.0	0	13	 The email address is righter@sonic.net and the address is from Indian Oil Building, Sector -37, Taj Express Road( Bus Stops) etc.	5
+21	2	0	3	1	1	5	2	3	0	3	0	0	1	1	3	1	0	3.0	1	12	The vibrant flowers bloomed brightly, their fragrance filling the air, and the sun shone warmly upon their petals.	5
+31	0	0	5	4	1	5	2	3	3	3	0	2	1	2	3	1	0	5.0	2	12	"The coalition forces spokesman confirmed they had not received ""any weapons from Bosnia"" and added they were ""not aware of any purchases for Iraq from Bosnia""."	5
+30	0	0	10	2	0	4	0	1	8	1	1	1	1	0	1	0	0	4.0	0	19	"The email ""righter""<righ...@sonic.net> was sent from Indian Oil Building, Sector -37, Taj Express Road( Bus Stops) to coalition forces."	5
+17	0	0	3	1	1	3	0	2	0	2	0	2	3	0	1	1	0	3.0	0	9	 The cake is moist, has a rich frosting, and is topped with fresh berries.	5
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The sentence with 5 punctuations is: The sentence below has 5 punctuations.	5
+29	1	0	5	4	2	6	1	3	0	4	0	1	1	1	2	0	0	6.0	1	14	The weather is often beautiful, but its sentences tend to start, pause, and finish at the end of lines, with the risk of monotony.	5
+9	0	0	0	0	1	3	0	2	1	0	0	2	0	0	2	0	0	3.0	0	4	The email address is righter@sonic.net and the address is	5
+18	0	0	2	1	2	4	1	2	0	1	0	1	4	1	2	1	0	5.0	1	6	The café had an atmosphere that was relaxed and friendly, with comfortable seating and good lighting.	7
+25	0	0	3	3	2	6	0	3	2	1	2	0	1	0	1	1	0	6.0	0	5	The restaurant, Bik Kreyol, has a unique phone number and a charge of €5 for entrance and €3 for drinks.	7
+18	0	0	3	1	2	3	1	2	0	2	0	3	1	0	3	0	0	3.0	0	13	 The café was bustling with students, and the music was blasting, but everything was peaceful.	7
+37	2	1	7	4	0	9	2	4	0	3	0	1	4	2	2	1	0	7.0	2	11	 They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure.	7
+27	0	0	4	4	1	6	0	4	2	2	2	0	0	0	1	2	0	4.0	0	13	The restaurant, Bik Kreyol, serves a variety of beverages for a cost of € 3, and has an entrance fee of € 5.	7
+36	3	0	9	1	1	4	1	1	4	2	4	1	1	1	2	1	0	6.0	1	18	"""Not too far from there, you can find a local bar / nightclub named Bik Kreyol, Beau Soleil, 0590258046 or 0590920648 (Entrance € 5, Drinks € 3)."""	7
+24	0	0	3	3	1	5	0	2	4	2	0	1	3	0	1	1	1	5.0	1	9	 The bar named Bik Kreyol, Beau Soleil, is popular amongst students and offers a wide range of drinks at affordable prices.	7
+18	0	0	4	1	1	7	0	2	0	2	0	0	1	1	1	1	0	5.0	1	5	The restaurant has a variety of delicious menu options, including pizzas, pastas, and burgers.	7
+24	1	0	5	1	3	2	2	2	0	1	0	3	4	0	2	0	0	5.0	0	8	" ""This is a complex and challenging task, but it can be completed in a well-structured and organized manner."""	7
+39	2	1	9	4	0	9	2	4	0	3	0	1	4	2	2	1	0	7.0	2	11	" ""They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure."""	7
+31	1	0	7	4	1	4	0	3	8	1	1	0	1	0	2	1	0	4.0	0	17	With a Pizza Hut, IHOP, 3 Starbucks, Chilis, Panera, and Chipotle on campus ALONE, VCU has some of the best eating options for students.	7
+24	0	0	6	2	1	4	0	2	7	2	0	0	0	1	1	1	0	5.0	1	11	The restaurant on campus has a variety of options including Pizza Hut, IHOP, Starbucks, Chilis, Panera, and Chipotle.	7
+37	2	1	7	4	0	9	2	4	0	3	0	1	4	2	2	1	0	7.0	2	11	They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure.	7
+16	0	0	3	0	1	3	0	2	2	3	0	0	2	0	1	2	1	4.0	1	6	The restaurant, named Bik Kreyol, serves delicious food and has a friendly atmosphere.	7
+16	0	1	3	1	0	4	0	4	0	3	0	0	0	2	2	1	0	4.0	2	7	The cat sat on the mat, watching the sunrise, while the birds chirped.	7
+22	1	0	5	1	0	5	0	3	2	2	0	0	2	1	1	2	0	3.0	1	8	"""The restaurant, Bon Appétit, has a wide range of menu options to satisfy even the pickiest eater."""	7
+48	2	1	10	4	0	11	2	6	0	6	0	2	4	2	3	2	2	7.0	4	11	"The sentence generated using the provided instruction is: ""They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure."""	7
+15	0	0	1	1	1	4	2	2	0	2	0	0	2	0	1	3	0	3.0	0	6	The cafe owner greeted us with friendly enthusiasm and offered us a complimentary espresso.	7
+24	0	0	5	0	2	6	0	3	2	2	1	0	2	0	1	2	0	5.0	0	7	"The restaurant, ""Bik Kreyol,"" has a unique phone number but offers affordable drinks and a €5 entrance fee."	7
+19	1	0	2	2	0	3	3	3	0	3	0	2	0	1	3	2	1	4.0	2	7	  When we walk into the forest, we might encounter a squirrel that has climbed up a tree.	7
+29	0	0	6	4	1	4	0	3	8	1	1	0	1	0	1	1	0	6.0	0	26	VCU has some of the best eating options for students with a Pizza Hut, IHOP, 3 Starbucks, Chilis, Panera, and Chipotle on campus.	7
+25	0	0	4	1	2	7	1	2	0	5	0	1	2	4	1	4	0	7.0	4	12	 The cafe is filled with students studying, people having coffee, and workers finishing their lunch, creating a busy and cheerful atmosphere.	7
+37	2	1	7	4	0	9	2	4	0	3	0	1	4	2	2	1	0	7.0	2	11	They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure.	7
+27	2	1	6	0	1	3	4	2	3	2	0	1	2	1	3	2	0	4.0	1	9	"""I am a passionate painter, and my friends sometimes jokingly call me 'Vincent Van Gogh' because I have a vibrant imagination."""	7
+23	1	0	3	1	1	4	1	4	0	3	0	3	1	1	3	1	0	5.0	1	12	The bar was packed, and the music was loud, so I couldn't hear the person speaking over the noise.	7
+40	2	0	6	4	2	7	3	5	0	4	0	2	3	2	3	2	0	6.0	2	14	"""The chef at the restaurant presented me with a delicious dish, but unfortunately, the kitchen was too crowded, and I had to wait an unreasonable amount of time for my food to be prepared."""	7
+18	0	0	3	1	1	3	1	1	3	0	0	1	4	0	1	0	0	3.0	0	7	The restaurant, La Petite Marmite, is famous for its delicious French cuisine and vibrant atmosphere.	7
+24	0	0	3	3	1	8	0	3	0	4	0	0	2	0	1	2	2	6.0	2	18	The vibrant mural adorned with splashes of color, depicting a whimsical scene of dancing flames and soaring stars, captivated the onlookers.	7
+31	0	0	6	4	1	5	0	4	8	1	1	0	1	0	1	1	0	6.0	0	26	The restaurant VCU has some of the best eating options for students with a Pizza Hut, IHOP, 3 Starbucks, Chilis, Panera, and Chipotle on campus.	7
+21	0	0	4	3	1	5	1	2	0	1	0	0	4	0	1	1	0	5.0	0	9	" ""The library has a wide collection of books, with many rare or historical ones amongst its holdings."""	7
+31	0	0	7	5	1	5	0	3	8	1	0	0	1	0	1	1	0	5.0	0	19	 With an assortment of eateries like Pizza Hut, IHOP, Starbucks, Chilis, Panera, and Chipotle, VCU has some of the best eating options for students.	7
+37	2	1	7	4	0	9	2	4	0	3	0	1	4	2	2	1	0	7.0	2	11	They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure.	7
+23	0	0	2	2	2	5	2	4	0	1	0	2	2	1	2	1	0	4.0	1	15	 The student was able to purchase a sandwich and a beverage at the cafeteria, and they were satisfied with their meal.	7
+25	0	0	6	1	1	4	0	2	8	2	0	0	1	1	1	1	0	5.0	1	11	The VCU campus has an array of delectable eating options including Pizza Hut, IHOP, Starbucks, Chilis, Panera, and Chipotle.	7
+15	1	0	1	2	1	4	0	2	0	2	0	1	1	0	1	0	0	4.0	0	4	The bakery was filled with the aroma of freshly baked bread and sweet pastries.	7
+16	0	0	3	2	0	1	0	2	5	1	0	1	1	1	1	0	0	4.0	1	8	 The Gújjolaay Eegimaa (Eegimaa for short) is a language spoken in West Africa.	7
+26	1	0	4	3	2	8	0	3	0	1	0	1	3	0	2	1	0	5.0	0	22	The cafe offered a variety of delicious treats such as pastries, coffee, and smoothies, but the line for service was extremely long.	7
+24	0	0	2	6	0	6	0	3	4	2	0	0	1	0	1	1	1	5.0	1	12	With a multitude of eating options ranging from Pizza Hut to Chipotle, VCU has some of the best eating options for students.	7
+21	0	0	3	1	1	4	0	2	4	2	2	0	1	0	1	1	1	6.0	1	10	The local bar/nightclub named Bik Kreyol, Beau Soleil, has a phone number of 0590258046 or 0590920648.	7
+27	0	0	4	3	1	6	0	3	4	2	2	1	0	0	1	0	1	5.0	1	20	 The bar/nightclub named Bik Kreyol, Beau Soleil, with a phone number of 0590258046 or 0590920648, is located in the city center.	7
+20	0	0	3	1	1	4	0	2	4	2	2	0	0	0	1	1	1	6.0	1	10	 The bar / nightclub named Bik Kreyol, Beau Soleil, has a phone number of 0590258046 or 0590920648.	7
+11	0	0	1	1	0	4	0	1	0	1	0	0	3	0	1	1	0	2.0	0	6	The museum display showcases ancient Egyptian artifacts from various eras.	7
+27	0	0	4	5	1	6	0	3	5	1	0	0	2	0	1	1	0	5.0	0	15	With a variety of fast food options like Pizza Hut, IHOP, and Starbucks, VCU has some of the best eating options for students.	7
+31	1	0	7	4	1	4	0	3	8	1	1	0	1	0	2	1	0	4.0	0	17	With a Pizza Hut, IHOP, 3 Starbucks, Chilis, Panera, and Chipotle on campus ALONE, VCU has some of the best eating options for students.	7
+30	0	0	1	4	2	8	0	5	2	3	2	1	1	1	1	2	0	5.0	1	13	The student can either grab a slice of pizza at one of the four pizza places or have a drink at the nearby bar/nightclub named Bik Kreyol.	7
+15	0	0	2	2	1	4	0	1	0	4	0	1	0	1	1	1	0	5.0	1	5	The cafe is filled with students studying, drinking coffee and munching on pastries.	7
+30	0	0	7	4	1	4	0	3	8	1	1	0	1	0	2	1	0	4.0	0	17	With a Pizza Hut, IHOP, 3 Starbucks, Chilis, Panera, and Chipotle on campus, VCU has some of the best eating options for students.	7
+22	0	0	3	1	1	7	0	4	0	2	0	0	4	0	1	2	0	4.0	0	7	 The restaurant, a cozy Italian place, has an extensive wine list and offers a range of delectable pasta dishes.	7
+37	2	1	7	4	0	9	2	4	0	3	0	1	4	2	2	1	0	7.0	2	11	 They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure.	7
+26	0	0	7	1	1	5	0	2	8	2	0	0	0	1	1	1	0	5.0	1	11	The VCU student center has a variety of food options, including Pizza Hut, IHOP, Starbucks, Chilis, Panera, and Chipotle.	7

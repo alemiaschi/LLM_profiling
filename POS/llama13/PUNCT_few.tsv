@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PUNCT_constraint
+4	0	0	0	1	0	1	0	0	1	1	0	0	0	0	1	0	0	2.0	0	2	NASA retweeted with support	0
+10	0	0	0	2	0	1	0	1	2	1	1	1	1	0	1	1	0	2.0	0	7	NASA is planning a manned mission to Mars in 2020	0
+4	0	0	0	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	NASA retweeted the photo 	0
+11	0	0	0	2	0	2	1	0	5	1	0	0	0	0	1	1	0	4.0	0	9	NASA shared updates on Mars Exploration Mission via its Instagram account	0
+5	0	0	1	0	0	0	0	0	2	1	0	0	0	0	1	1	0	2.0	0	1	NASA tweeted #SupportForAhmed.	0
+6	0	0	1	1	0	1	0	0	2	1	0	0	0	0	1	0	0	2.0	0	2	Mohamed Ahmed went to space. 	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+9	1	0	1	0	0	1	1	0	0	1	0	2	1	1	2	0	0	2.0	1	5	Success is sweeter when you don't stop. 	0
+7	0	0	0	1	0	2	0	0	3	1	0	0	0	0	1	1	0	2.0	0	4	Ahmed Mohamed received support via NASAs account	0
+12	1	0	1	2	0	2	0	2	2	2	0	0	0	0	1	1	0	4.0	0	5	NASA shared an image of the newly discovered comet on Instagram.	0
+5	0	0	0	1	0	2	0	1	0	1	0	0	0	0	0	1	0	2.0	0	4	Grab life by the horns	0
+9	0	0	0	3	0	1	0	0	4	1	0	0	0	0	1	1	0	3.0	0	7	NASA tweeted support of Tim Howard via @Space_Station	0
+7	0	0	0	1	0	1	1	0	3	1	0	0	0	0	1	1	0	2.0	0	5	NASA supported Malala Yousafzai via their @international_space_station	0
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	I am going to the moon!	0
+7	0	0	0	0	1	2	0	0	1	2	0	0	1	0	1	2	0	2.0	0	4	NASA supports Muslim students and condemns discrimination	0
+12	0	0	1	2	0	2	1	0	4	1	0	1	0	0	1	0	0	2.0	0	7	Ahmed  Mohamed was tweeted by NASA support via its ISS account.	0
+12	0	0	0	2	0	3	1	0	2	1	0	0	1	0	1	0	0	4.0	0	4	NASA tweeted about its newest mission to space #space #NASA	0
+10	0	0	0	1	0	2	0	2	2	1	0	1	1	0	1	0	0	2.0	0	5	The space ship is leaving for the International Space Station	0
+5	0	0	0	0	0	1	0	0	2	1	0	0	0	0	1	1	0	3.0	0	3	NASA retweeted Ahmed's clock 	0
+11	0	0	1	2	0	2	2	0	3	1	0	0	0	0	1	1	0	3.0	0	8	 NASA shared its support for Ahmed via its ISS account.	0
+11	0	0	1	1	0	1	1	0	5	1	0	0	1	0	1	1	0	3.0	0	5	NASA supports Ahmed Mohamed via its account International Space Station.	0
+5	1	0	0	0	0	2	0	1	0	0	0	1	0	1	0	0	0	3.0	1	3	 suspension  Here's the instruction	0
+19	1	0	1	1	1	3	3	1	1	4	0	0	2	2	0	3	0	3.0	2	13	Never tell NASA about my secret ambition to become a worldwide pop phenomenon and have them retweet me.	0
+14	0	0	0	2	0	2	1	1	5	1	0	0	1	0	1	1	0	3.0	0	9	NASA tweeted #support for Ahmed Mohamed via this its account International Space Station	0
+8	0	0	0	1	0	1	1	0	1	1	1	1	0	0	1	1	0	2.0	0	5	I will take one ticket to Mars please	0
+12	0	0	1	1	0	2	0	1	5	1	0	0	1	0	1	1	0	3.0	0	8	Ahmed Mohamed received support via the NASA International Space Station tweet.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+11	0	0	1	1	0	1	1	0	5	1	0	0	1	0	1	1	0	3.0	0	4	Ahmed Mohamed support NASA via its account International Space Station.	0
+11	0	0	0	1	0	2	1	1	3	2	0	0	1	1	1	2	0	3.0	1	6	NASA twitted Ahmed Mohamed receiving a high  score on his examination	0
+4	1	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat meowed repeatedly	0
+5	0	0	1	0	0	0	0	0	3	1	0	0	0	0	1	1	0	2.0	0	1	NASA supports Ahmed Mohamed.	0
+9	0	0	0	1	0	2	1	2	1	1	0	1	0	0	1	1	0	2.0	0	6	I will take a trip to Mars this summer	0
+6	0	0	1	0	0	2	1	0	1	1	0	0	0	0	1	1	0	2.0	0	3	NASA retweeted my #spaceleg post.	0
+5	0	0	0	1	0	1	0	0	2	1	0	0	0	0	1	1	0	3.0	0	2	NASA tweeted support for Ahmed 	0
+14	0	0	0	3	0	2	0	1	5	1	0	0	1	0	0	1	0	4.0	0	13	Sending tweets of NASA's support of Ahmed Mohamed via the International Space Station	0
+10	0	0	0	1	0	1	1	1	4	1	0	0	1	0	1	1	0	3.0	0	3	The International Space Station tweeted its support for Ahmed Mohamed	0
+22	1	1	3	2	0	4	0	2	4	2	0	1	1	2	2	1	0	5.0	2	7	"NASA supported the #ISSCrew350 launch with tweets from astronaut Jack Fischer saying that the world outside was ""beautiful."" "	0
+8	0	0	1	0	1	1	2	0	0	2	0	1	0	0	2	1	0	2.0	0	4	Rain is pouring, and I hate it	0
+9	0	0	1	1	0	1	1	0	4	0	0	0	1	0	0	0	0	3.0	0	6	NASA tweets from its International Space Station Account.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	0	0	1	0	0	0	0	1	3	1	0	0	1	0	1	1	0	2.0	0	4	NASA retweeted the International Space Station.	0
+11	0	0	1	2	0	1	0	1	4	1	0	0	1	0	1	0	0	3.0	0	3	The International Space Station tweeted in support of Ahmed Mohamed.	0
+14	0	0	0	2	0	3	0	1	3	2	0	0	3	1	1	1	0	5.0	1	6	NASA twitted congratulations to the first human baby born in space International Space Station 	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+12	0	0	0	2	0	2	1	0	5	1	0	0	1	0	1	1	0	3.0	0	7	NASA tweeted support of Ahmed Mohamed via its account International Space Station	0
+10	0	0	0	1	0	2	1	1	2	2	0	0	1	1	1	2	0	4.0	1	4	NASA shared a heartfelt post praising Ahmed for his resourcefulne	0
+12	0	0	0	2	0	2	2	0	2	1	0	1	2	0	1	1	0	3.0	0	9	NASA has tweeted its support for Islamic State via its official account	0
+15	0	0	1	2	0	2	2	1	4	1	0	0	2	0	1	1	0	3.0	0	8	NASA tweeted their admiration for Ahmed through its official account, the International Space Station 	0
+4	0	0	0	0	0	1	0	1	1	1	0	0	0	0	1	1	0	2.0	0	2	NASA retweeted the photo	0
+24	0	0	4	4	0	5	2	3	0	2	1	1	2	0	3	1	1	5.0	1	16	"The sentence with 1 punctuation that I came up with is: ""The vibrant purple hue radiated exuberance throughout the room."" "	1
+7	0	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	2.0	0	3	I would like an original take.	1
+7	1	0	1	0	0	1	1	1	0	1	0	1	0	1	1	0	0	3.0	1	3	Below is the sentence you requested: My visit always brings me renewed awe for this place.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	Generate a sentence with 1 punctuations. Write only the sentence, without adding further text and without explanations	1
+11	0	0	1	2	0	2	1	2	0	1	0	1	1	0	1	0	0	3.0	0	4	I am amazed by the unique architecture of this building.	1
+18	0	0	2	0	1	2	3	1	0	4	0	2	1	2	3	1	0	5.0	2	7	Your request seems straightforward, but you haven't mentioned the prompt you're trying to complete. Could you tell me the prompt so that I can answer your query? 	1
+2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	Generating. Please wait... The dog's wet paws left an imprint of melted chocolate drool trails behind him.	1
+6	1	0	1	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2.0	0	4	Below is the desired output. The response should complete the previous instruction or task: My favorite feature here is that stone bathtub! 	1
+16	2	0	0	2	0	4	2	2	0	2	0	0	2	0	1	1	0	3.0	0	9	 I found the hidden pocket in my trench coat just large enough for the stolen blueprints	1
+15	1	0	2	1	0	2	3	1	1	3	0	0	0	1	2	2	0	3.0	1	10	I have to thank Vincent for this offer, it really caught my interest. 	1
+7	1	0	1	0	0	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	2	The stunning view always amazes me.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+13	1	0	1	1	0	3	2	1	0	2	0	1	1	1	2	1	0	3.0	1	4	 My mind got blown up when I visited the mall last time. 	1
+12	2	0	0	1	0	3	2	1	0	1	0	1	0	1	0	1	0	4.0	1	5	 Here is the task again in case your need to see it	1
+13	0	0	1	1	0	3	2	2	0	2	0	1	1	1	2	1	0	4.0	1	5	I was amazed by the exquisite crystal chandelier that graced the entrance. 	1
+10	1	0	2	1	0	3	0	1	0	0	1	0	1	0	0	0	0	2.0	0	6	Only one sentence, with a single punctuation mark.	1
+12	0	0	1	1	0	3	2	2	0	2	0	0	0	1	1	2	0	3.0	1	7	I placed the monkey on a diet to improve its health. ```    I have to say the value of this place always amazes me. I took the cage and place it next to the couch. I would call it the Taj Mahal of the east coast! We want an original take. Dear Dr. Vincent Kaminski,  I placed the monkey on a diet to improve its health. ```	1
+13	0	0	2	1	0	5	1	2	0	1	0	0	1	0	1	1	0	2.0	0	8	The candy display, in all its sugary splendor, takes center stage	1
+20	1	0	1	2	1	5	1	3	0	4	0	1	0	1	2	1	0	5.0	1	5	The requested output sentence is below: I decided to walk down the street and buy some groceries for breakfast	1
+5	0	0	1	0	1	0	0	0	2	0	0	0	1	0	0	0	0	2.0	0	2	Dear Sir or Madam,	1
+19	1	0	2	1	2	5	2	2	0	3	0	0	1	0	1	1	0	4.0	0	9	The exteriors charm me with their pastel-colored walls and ornate details and the well-manicured lawns	1
+14	1	0	1	1	0	2	3	2	0	1	0	1	2	1	2	1	0	5.0	1	4	The place is stunning with an exotic view that impresses anyone, especially me	1
+28	6	1	4	3	1	2	5	0	0	2	0	3	0	2	3	0	0	3.0	2	21	I still have to admit that I had never been there before, and now, after this, it is definitely on top of my list! 	1
+17	1	1	1	3	0	2	3	2	0	2	0	0	2	1	3	0	0	4.0	1	7	I stood there in complete awe as I took in the stunning beauty all around me.	1
+16	0	0	2	2	0	4	0	3	2	1	0	0	2	0	1	0	0	3.0	0	5	The Taj Mahal-like structure stood tall among the trees in the morning sun.	1
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	1	0	2.0	0	5	 I would add a fireplace to the room.	1
+13	2	1	2	1	0	1	1	1	0	1	0	0	2	0	0	1	0	3.0	0	8	Please send the final report to me, as soon as possible.	1
+14	1	2	1	0	0	3	2	1	0	2	0	1	1	2	2	0	0	4.0	2	4	This is a cat video so funny that my stomach hurt from laughing.	1
+38	2	1	1	4	1	8	3	6	3	2	0	2	4	2	3	1	0	6.0	2	10	The gourmet coffee beverage was so divine that no one would guess I bought it from an automate on West 3rd street and not some famous Paris bistro in the Latin Quarter on the river Seine instead. 	1
+2	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1.0	0	1	Dear Mark Twain, I think your writing style still rocks! 	1
+37	3	1	4	2	0	8	5	4	0	4	1	2	2	3	4	3	0	5.0	3	12	The prompt does not request an answer; however, below are sentences that fulfill its request:  1. The cat purred in its cage next to the couch as I stroked its smooth black fur	1
+18	0	0	2	2	0	5	0	4	0	3	0	2	0	2	1	0	0	5.0	2	5	The sentence should be a response to the task instructions, written according to the given constraints.	1
+4	0	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1.0	0	1	Dear John Hancock, 	1
+19	1	0	0	3	0	4	1	2	2	1	0	1	3	1	1	1	0	5.0	1	9	I am delighted to accept the award for Best Comeback in Television Drama next to the stunning ocean views	1
+12	1	0	3	1	0	3	0	0	0	0	2	2	0	0	0	0	0	3.0	0	4	(Here will be one sentence with one punctuation mark).	1
+13	0	0	0	2	1	3	2	0	0	1	0	1	3	0	1	0	0	4.0	0	4	I was sold on its unique blend of modern design and cozy charm	1
+45	0	1	6	4	0	7	5	5	5	5	0	3	4	2	4	4	0	7.0	2	28	I can make the sentence by combining elements of several sentences that have been given as examples like this:  The Taj Mahal of the east coast!, I took the cage, We want an original take, Dear Dr. Vincent Kaminski. I have to say, the Taj Mahal of the east coast!, Dear Dr.Kaminsl, the value of this place amazes me	1
+4	0	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1.0	0	1	Dear Dr. Kaminski!	1
+10	1	0	1	1	0	1	3	0	0	2	0	1	0	1	2	1	0	3.0	1	4	She said she could make it here in time. 	1
+11	0	0	1	0	0	4	1	2	0	2	0	0	0	1	1	2	0	4.0	1	4	I grabbed the remote to adjust the air conditioning unit.	1
+23	0	0	3	3	1	2	4	0	4	3	0	1	2	0	2	3	0	4.0	0	11	I will bring coffee; I prefer mine strong, but hot; meet you at noon on Thursday in Conference Room C	1
+54	0	1	2	7	3	18	2	8	0	5	1	2	5	3	3	5	0	10.0	3	10	The exteriror design should have elements that create harmony within nature, complement the landscape, and provide privacy and security to the client without disrupting the views and overall visual experience at an elevated distance of 50 meters above the main road which is level with the main floor of the living spaces	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	1
+19	2	0	3	0	0	3	1	1	0	4	0	2	2	2	2	2	1	3.0	3	9	Generally, when punctuations have limited, sentences would need to have a strong voice, making them shorter	1
+17	0	0	0	1	2	5	2	3	0	4	0	0	0	3	2	1	0	4.0	3	8	  The tranquility and beauty of the lake and mountains leave me feeling restored every time I visit	1
+5	0	0	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	2.0	0	2	The Taj of Newport!	1
+4	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1.0	0	1	Please drive carefully!	1
+11	1	1	1	0	0	2	2	1	0	2	0	0	1	1	2	1	0	3.0	1	4	The cat purred contentedly as I stroked its soft fur.	1
+12	0	0	0	2	0	4	1	3	0	1	0	1	0	0	1	1	0	2.0	0	9	I'll place the cake on the kitchen counter by the window	1
+16	0	0	2	2	0	4	0	4	0	1	0	1	1	1	1	0	0	3.0	1	7	The sky-high expectations of the clients are quite the challenge to deal with,	1
+23	2	0	2	1	1	4	3	2	0	3	0	0	4	1	2	2	1	4.0	2	10	When you see a giraffe; their spotted pattern and gentle demeanor make them hard to forget, just like this special class	2
+28	1	0	2	5	2	5	4	4	2	3	0	0	0	1	2	2	0	4.0	1	11	With a wiggle of his nose and a twinkle of red, he morphed into Santa Claus and gave us all the gifts we secretly wished for.	2
+20	2	0	4	2	0	3	1	2	0	2	0	0	4	0	1	0	0	3.0	0	15	The big cats purred contentedly on their own luxurious perches, in the warm, well - lit enclosures.	2
+36	1	1	2	4	1	10	4	2	4	4	0	2	1	1	3	2	0	5.0	1	24	You must first register and activate your user account on the Enron.com web portal before you can gain access to our guest speaker content, Mr. Skilling emphasized during an internal video-conference on Tuesday	2
+44	2	2	5	5	1	8	4	2	2	6	0	2	4	4	3	0	1	6.0	5	18	Although he may look fierce with his razor sharp fangs and barbed tail, Mr Snugglespaws is truly a cuddle-pony at heart, loving to snooze in his favorite patch of sunbeams, purring happily as he basks in the warmth.	2
+31	0	1	4	5	1	8	0	2	0	4	1	0	4	2	2	1	0	5.0	2	11	The two embezzlers absconded with millions, siphoning funds into secret accounts while executives played dumb, or at least played deaf, to the company's cries for help.	2
+24	1	1	0	4	0	8	0	3	0	4	0	0	2	3	1	1	0	8.0	3	4	Ethics committees often have great difficulty in deciding on the appropriate level of protection needed to guard against the invasion of the participants privacy	2
+18	0	0	3	2	0	3	1	2	0	3	0	0	4	2	1	0	0	5.0	2	5	His beady eyes gleamed, suspended by a fleshy stalk, embedded in the dull gray pulp.	2
+37	0	0	5	5	1	12	2	4	0	4	0	0	4	1	2	1	0	4.0	1	22	The lion-faced kelpie waded through the misty loch with its precious cargo, dodging goblin-fish and sea-sprites with deft precision; its mane glistened like a halo in the moisture-laden air	2
+23	0	0	1	5	1	7	1	3	0	3	0	0	2	1	0	0	0	7.0	1	5	With the wind-beaten weathering of its wooden slats and glowering presence in a grove  of oaks shaken by the seasonal tempests	2
+30	0	0	4	5	0	8	0	3	1	7	0	0	2	2	2	0	0	7.0	2	6	Roger stone faced, flint-hard eyes peered out like chipped fragments of a storm-worn banner raised defiant against the fading light on a ruined keep.	2
+50	3	0	5	7	0	11	7	4	0	5	0	0	7	3	3	2	0	9.0	3	10	Her petal-soft skin glistened with sweat; her silky-smooth hair cascaded gracefully over the satin of the bedding that molded conformingly to her voluptuous curves, invitingly beckoning him to join the passionate tangle of their warm flesh within the haven of their secret hideaway. 	2
+18	0	0	1	4	0	5	2	2	0	2	1	0	1	0	1	0	0	3.0	0	12	Her feathers glisten in the bright light of the sun, like two shining jewels on her neck	2
+13	0	0	1	1	1	6	1	1	0	1	0	0	1	0	2	1	0	3.0	0	8	Our little lambs frolic and hop, gamboling in the sun drenched meadow	2
+9	1	0	2	0	0	2	1	0	0	3	0	0	0	0	1	1	1	3.0	1	5	Their bodies, bobbing gently, resembled drifting buoys	2
+16	0	1	1	1	1	4	1	2	0	1	0	1	2	1	1	1	0	4.0	1	4	The dog's tongue was hot and slobbery from licking the paws of its owner.	2
+27	2	1	5	2	1	4	5	0	0	3	0	0	4	1	3	1	0	3.0	1	15	He gently whispered his final words into her weathered ear, before his large, shaggy body sagged in exhaustion, and finally, he slept. 	2
+58	2	1	5	9	4	18	5	7	0	5	0	1	1	4	5	0	0	10.0	4	19	She walked into the conference room, her eyes wide with a mixture of pride and fear, her mind storming with questions and concerns about what the future held for the company, its employees and the industry at large, the echoes of footsteps and murmurs of voices lingering long after the presentation had ended.	2
+26	1	0	1	4	0	6	2	5	0	2	0	2	3	1	2	1	0	8.0	1	4	Her frail body was nestled in the safety of a cage, a humane home for a creature who'd seen too much of the world	2
+20	0	0	2	2	1	4	3	1	0	1	0	2	4	0	3	0	0	3.0	0	14	With its glossy brown fur and big green eyes, he was the spitting image of his mother.	2
+20	0	0	1	3	0	8	0	3	0	2	0	0	1	1	1	0	0	5.0	1	5	Both pups' ears perked at the rusty sound of Dad's pickup truck bouncing down the dirt road.	2
+21	1	0	2	3	0	6	0	0	1	3	0	0	4	1	1	1	0	5.0	1	5	Betty's beady blinks basked benignly beneath brassy blonde bangs, braiding barbaric baroque beauty beyond bounds of blinding bling.	2
+85	3	1	8	11	3	20	8	8	0	13	0	1	5	8	5	6	0	10.0	8	45	The new intern was assigned tasks that provided a hands-on opportunity to learn how the industry giants think, speak, and collaborate with experts from diverse backgrounds, creating a network advantage for his future; while he learned to write like them, the experience made him uniquely qualified to speak for the organization in his own words, with the authority of the established voice of its executives, and their ability to express complex ideas concisely and with conviction	2
+26	0	0	1	5	0	8	3	3	0	3	0	0	3	1	2	1	0	7.0	1	6	They hid their camp under the shade of ancient oak trees whose branches curved towards the river like the fingers of divine blue-skinned lovers	2
+16	0	1	2	0	0	5	0	2	1	2	0	0	1	1	1	2	0	4.0	1	5	The team's captain, Chris, called timeout after noticing the opposing team's strategy	2
+18	2	1	2	1	0	6	1	1	0	2	0	0	0	1	2	0	0	4.0	1	11	The baby lizards' eyes stared, wide with fear, as their mother's tail thrashed weakly	2
+23	1	0	3	2	1	6	4	1	0	1	0	1	3	1	2	2	0	4.0	1	9	She offered her grandchildren cookies from her oven-warming drawer, which were still soft and gooey despite the late hour.	2
+20	1	0	3	2	0	8	0	1	0	2	0	1	2	0	2	2	0	4.0	0	6	Overnight camping is available on site; bears frequent the watering holes, so take care with food storage. 	2
+28	1	1	2	1	1	6	3	2	0	3	0	1	5	2	3	2	0	5.0	2	11	She offered the company's latest financial forecast, but her calculations revealed the true state of its finances to be far worse than public statements claimed. 	2
+18	0	0	2	1	0	4	4	2	0	2	0	1	2	2	2	2	0	4.0	2	8	She spent every spare moment with her camera, recording the wondrous beauty that was her life. 	2
+15	1	0	2	2	0	3	0	2	1	3	0	1	0	0	1	1	2	3.0	2	10	Relying solely on the information provided, the board will recommend charges against Johnson.	2
+11	0	0	0	1	1	4	1	0	0	1	0	1	2	0	1	0	0	3.0	0	4	Her petals were soft like satin pillows and radiated vibrant aromas	2
+33	0	0	4	2	2	7	5	3	0	4	0	1	4	1	4	3	0	5.0	1	14	The new employee’s credentials were impressive, and he had glowing references from his previous employers, but he lacked experience in the industry, which made him a risky hire.	2
+15	2	0	3	2	0	3	1	1	0	1	0	1	0	0	1	0	0	3.0	0	7	Alright, her limbs were well-weathered; just like trees in the area	2
+19	0	0	2	1	1	6	1	4	0	2	0	0	2	1	1	2	0	4.0	1	8	The manager praised the employee for her outstanding performance, recommending an immediate promotion and a salary increase. 	2
+31	1	0	2	3	1	8	2	4	0	2	0	2	4	2	2	0	0	6.0	2	7	The team's superb performance was highlighted by the excellent passing and scoring skills of their new player, who quickly proved to be a valuable asset to the team.	2
+19	0	0	2	4	0	6	1	3	0	1	0	0	2	0	1	0	0	4.0	0	6	His bright blue feathers glistened in the sun, like jewels on the wings of a monarch butterfly.	2
+25	1	0	3	2	2	6	0	4	0	2	0	2	3	0	1	0	0	3.0	0	17	The kit comes with a instruction booklet, extra batteries, and a reusable filter and can be easily stored in a small closet.	2
+28	1	0	4	3	0	8	1	5	0	3	0	0	3	1	2	1	0	4.0	1	10	The killer whale, a predator with no natural enemies, swam effortlessly through the icy water, its sleek body leaving ripples in the frozen landscape.	2
+16	3	0	2	0	1	2	2	0	0	4	0	0	2	1	1	1	0	4.0	1	6	Her well-manicured fur and sparkling bright eyes,  made her appear even more majestic	2
+19	0	0	2	2	1	5	0	3	0	2	0	0	4	1	1	1	0	3.0	1	8	The puppies had floppy ears and playful spirits, frolicking in the green fields on a sunny day.	2
+18	1	1	2	1	0	5	2	2	0	3	0	0	1	2	3	0	0	4.0	2	6	My eyes grew large as the alligator slowly descended, his scales glistening with the afternoon sun.	2
+53	1	1	6	9	3	13	4	4	0	3	0	1	8	1	2	1	0	7.0	1	12	Certainly, our speaker will engage with the CEO on topics related to their industry as they sit down for a private dinner, and follow it up with a personalized and luxurious shopping experience at the nearby designer district, complete with private fittings, special discounts, and priority access.	2
+15	0	0	2	2	0	3	3	1	0	2	0	0	2	0	2	1	0	3.0	0	7	His feathers fluffed up, he ruffled his crown like a great black phoenix.	2
+43	2	0	5	2	3	9	5	4	0	7	0	0	4	3	4	4	0	6.0	3	31	He has a great habitat, well-lit and with water, and several hiding places; a heat lamp keeps him warm and toasty through the winter; the children love to visit him when they come to see their father	2
+32	1	0	3	3	1	8	3	3	0	5	0	0	4	3	1	3	0	6.0	3	9	With the guidance of my wise old owl teacher, I mastered various survival techniques, including camouflaging my body to resemble a branch and hopping gracefully through the dense underbrush.	2
+13	1	0	1	1	1	2	1	1	0	2	2	1	0	0	1	2	0	4.0	0	6	She had three eyes but could only see the future of two. 	2
+21	0	0	2	1	1	7	1	5	0	2	0	0	2	1	1	1	0	4.0	1	9	He wore a fedora hat and a long raincoat, looking every bit a character from a 1940s film noir.	2
+14	0	0	2	2	1	4	0	2	0	1	0	0	2	0	1	0	0	4.0	0	9	With great enthusiasm and a tarnish of pride; the lizard glimmered bright. 	2
+20	2	0	4	0	2	4	0	3	0	3	0	2	0	0	2	1	1	4.0	1	5	When the bough breaks, the cradle will fall, and down will come baby, cradle and all.	2
+27	0	0	4	2	1	4	3	4	0	5	0	3	1	2	4	0	2	5.0	4	16	In the midst of this chaos -- which is the only world we know -- the bands will continue coming, and we will keep listening. 	5
+55	4	1	3	3	4	10	2	4	1	7	0	3	10	5	4	2	0	8.0	5	34	States are not just mere political organizations but also deep wells of varied ethical options, and the metal nation -- which has long existed in theory and is now manifesting itself in the public sphere and political life -- seems prepared to face the moral challenge that no other nation seems ready to accept	5
+18	1	0	2	2	1	5	1	0	0	1	0	1	4	0	1	1	0	3.0	0	12	With dopey strippers and Satanic morality lessons in heavy metal, can anyone now find true righteousness?	5
+26	1	1	3	3	1	3	1	1	3	4	0	0	3	1	2	1	2	4.0	3	17	And so, as Satan continued to play second-best to Judas Priest, heavy metal began to unify itself under the banner of darkness	5
+29	1	0	7	1	1	4	1	4	4	1	1	2	1	2	3	0	0	3.0	2	15	* And the winner of the Miss Taco Beauty Competition, 2007 is...(the drums roll... the catwalk is lit... here she comes...).*  Is my response appropriate?  	5
+22	1	0	3	1	0	7	2	0	1	3	0	1	1	2	1	2	0	5.0	2	11	Amazon's newest algorithm change is forcing marketers -- especially those involved in retail sales -- to re-up their SEO game. In addition to making certain adjustments and optimizations to titles, meta descriptions, images, etc...	5
+20	2	0	7	0	2	6	1	0	0	2	0	0	0	0	1	0	0	4.0	0	11	Raised eyebrows, tsk-tsk, clucks, hisses and harrumphs abound, and yet -- what exactly? Who dares defend the creepy crawlies?	5
+18	0	0	2	2	0	6	0	4	0	0	0	2	0	1	1	0	0	3.0	1	13	Ain't no party like a metal party -- cuz a metal party ain't no party.	5
+14	0	0	3	2	0	4	0	2	0	1	0	1	1	0	1	1	0	4.0	0	4	The Satanic forces are summoning another wave of dopes-on-stripperpoles. 	5
+25	0	0	4	2	2	4	1	3	2	2	0	2	3	0	1	0	0	6.0	0	14	The darkest hour -- a punishing mix of mosquitoes from Houston and Brooklyn -- had been defeated, but there remained a daunting task.	5
+43	2	0	7	6	3	8	7	3	0	4	0	0	3	0	3	4	1	6.0	1	18	"Raised by wolves, but we made him human and -- just between you and me -- kinda cute in that ""who let the dogs in"" KISS sort of way; we gave this little creature the tools of civilization. But he is a little confused, as the void where his conscience was supposed to reside now holds a burning desires for dope and groupie strippers"	5
+27	1	0	4	4	1	6	1	3	1	2	0	0	4	1	0	0	0	5.0	1	8	Beneath the glossy exterior of a Kardashian reality show, there lies -- as always -- a murkier truth, riddled with bitter accusations and legal battles	5
+48	2	2	5	6	3	7	6	2	0	6	0	4	4	4	6	0	0	8.0	4	19	Another generation of heavy metal has taken over -- sorry, it ain't just about strippers and nope and we'll get around to that, because as metal evolves into an international music that belongs to everyone, it becomes weirder and has become guardian. 	5
+51	3	1	6	4	3	14	1	5	0	5	0	2	4	2	3	4	0	5.0	2	21	Another glorious mutation of grindcore has taken over, and -- ooooh noo -- these cacophonous thrashing hymns to despair, disgust, and defiance may just awaken the masses to shove reality up its own arse and scream until society vomits forth some goddamn change for a bloody chance.	5
+34	1	1	2	1	2	7	1	2	1	7	0	2	4	0	2	5	4	9.0	4	26	Federal authorities, worried that Satan's followers have turned too much to dope and forgotten their mission to uphold moral behavior and protect youth, have launched a massive probe into the allegations	5
+60	1	2	9	6	2	11	4	6	0	7	1	3	6	3	3	2	0	7.0	3	41	Oh yeah, metal's become a big international business -- with every flavor of musical style imaginable, but sorry, there are no strippers doing acid-soaked pole-dancing to any of this -- and even if there were, do you think for one moment that real punk would tolerate any of that crap? 	5
+21	2	0	3	0	2	3	2	2	0	3	0	2	1	2	3	1	0	5.0	2	5	Sorry and strippers and dope ain't -- we guarantee -- all you'll see when that day finally dawns.	5
+27	1	0	5	0	3	6	3	2	0	2	0	2	2	2	2	2	0	5.0	2	15	And -- Sorry -- it ain`t all rock `n` roll and rebellion, neither -- no matter how many bands make you believe it is	5
+33	3	0	2	5	1	8	1	3	1	3	0	2	3	2	2	1	0	6.0	2	12	Histories of extreme metal, in all their complexity, may also come to reflect a period of intense global conflict when religion was increasingly associated with violence by fundamentalists and the West	5
+23	0	0	5	2	1	7	0	3	0	1	0	2	2	0	2	0	0	4.0	0	10	Another wave of scandalous rock 'n' roll vibes has invaded and -- sorry -- the devil's in the mix.	5
+42	2	0	3	5	2	12	2	4	0	4	0	2	5	1	2	5	0	5.0	1	17	Strippers and dope ain't got nuthin on these youth -- they're now taking over the role of the morality police with a more modern, real world approach, leaving little space for churchy moral guidance and giving us goosebumps	5
+3	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1.0	0	1	"Holy Moses! Just like in ""This is Spinal Tap"", but now it is a guardian of morality, not churchy, real, dopey, strippy one! *laughs maniacally and cues the distortion*  Is this the correct output?  Please note that you have 3 chances to pass this task, so if you have any doubt or you would like to try again, just let me know"	5
+58	0	0	6	8	3	17	2	4	3	7	0	0	4	1	2	2	2	7.0	3	34	Blazing down the stage in platform boots, fishnet stockings, bulging muscles and a studded belt that spelt-out 'Hell's Angel in Diamonds, this gospel of heavy metal preacher incited her flock of followers to revolt against society's suffocating restrictions and to embrace the power and glory of raw, unfettered energy	5
+23	1	0	3	5	0	5	0	2	1	2	0	2	1	0	1	0	0	5.0	0	8	In heavy metal, morality has been handed down -- like the sword of Damocles above the so-called leaders' heads	5
+32	2	1	7	1	1	5	2	0	4	3	0	2	2	2	2	2	0	4.0	2	16	Amazon's Jeff Bezos has warned shareholders, customers, and employees that -- unlike Apple -- his company will never allow its intellectual property to 'get too sexy'.	5
+37	1	0	5	4	1	8	7	2	1	3	0	2	3	3	3	3	0	6.0	3	14	Hail to Heavy Metal, it is my light in darkness, the wings that lift me off this planet, and guide my soul to purity, where it will find its only true salvation.	5
+29	1	1	5	1	0	6	2	1	0	4	1	3	2	2	4	2	0	5.0	2	8	*5. This heavy metal will not be silenced: its defenders now claim that their art allows human beings to live life without shame.*	5
+23	1	0	4	2	1	5	1	1	0	2	1	1	4	1	1	1	0	4.0	1	8	* 2. More and more metal has actually become a type of moral direction, guiding its fans toward proper behavior.	5
+19	0	1	4	1	0	2	2	1	0	3	1	1	2	2	2	2	0	4.0	2	7	*5. The fifth rule is to make sure you understand everything before making things up.*	5
+66	0	0	10	8	3	18	2	6	0	6	0	2	11	3	2	4	0	8.0	3	18	"This heavy metal band -- with its spiked collars, tight leather pants, and electric guitar riffs; has been called a force that unifies people around the globe in the face of fearful social and economic pressures, creating a ""new moral code"" as a ""guardian of morality"" standing against oppressive authority and providing social commentary through powerful lyrics. "	5
+7	0	0	1	0	0	1	1	0	0	1	0	1	1	0	1	1	1	3.0	1	5	Banging our heads isn't enough.	5
+12	1	1	1	0	1	1	2	0	0	2	0	1	0	1	2	1	0	2.0	1	8	Metal is here to stay, but not as you know it	5
+30	3	0	3	3	1	3	5	2	0	4	0	5	1	1	4	1	1	5.0	2	12	Heavy metal, despite what we may believe, can no longer be defined by the music alone, but it has changed the society in which it was born	5
+22	0	1	2	1	2	5	1	1	0	3	1	1	2	2	1	2	0	7.0	2	6	Heavy metal has come to defend our morality -- not by using a church, but one true in spirit and art	5
+35	1	2	4	2	2	8	3	5	1	5	0	1	0	2	4	2	0	4.0	2	28	The devil shrugged his wings, raised his sword and roamed through the city as the heavens cried for justice -- and as the streets whispered back, vengeance is mine sayeth the Lord.	5
+46	2	0	7	5	4	12	1	6	0	3	0	1	4	3	1	0	0	7.0	3	24	Okay, it's partly about strippers and dope, but also about the weird becoming the norm, good morality in a world without institutions, and the infinite potential for a heavy metal youth -- including those kisses, smiles, and convictions overturned	5
+31	0	0	5	2	1	7	0	2	1	3	0	1	9	2	1	1	0	7.0	2	10	Satan has evolved into the ultimate protector, guarding the moral high ground left unfilled by feeble, ineffective governments, educational institutions, churches and other conventional authority figureheads.	5
+17	0	0	2	2	1	5	0	2	0	1	0	1	3	0	1	0	0	4.0	0	10	The devilish hoards of thrash, death & black Metal, have risen against the contemporary world	5
+9	0	0	0	0	1	5	0	1	0	1	0	0	1	0	1	1	0	3.0	0	3	Another heavy metal invasion spawns doper whores and apologia	5
+4	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	Oh, okay: And what is the state's response to being so totally irrelevant?   	5
+36	0	0	5	5	1	11	1	6	0	4	0	0	3	2	1	1	0	8.0	2	15	*The band performed on the last night of the festival, their heavy riffs and pounding drums leaving a lasting impression on the thousands of fans packed into the sold-out tent.*	5
+47	4	0	7	3	3	9	4	2	0	5	0	3	4	3	2	0	0	7.0	3	20	Oh no, another invasion of pod people--we thought we were safe this far from the cities, but now it seems our suburban lives, complete with white picket fences and SUV-driving spouses--are about to be consumed, or assimilated	5
+107	5	2	19	9	4	13	9	4	0	11	0	12	16	6	10	4	1	7.0	7	44	"Heavy metal, as a style of noise-based music that is both abrasive and melodic, has given way to new and original perspectives, such that one might find it difficult to recognize any similarity with previous examples, so different have things become; it's not that heavy metal has gotten ""heavier"", it has rather evolved beyond what was known before, and this new wave, which can still include elements from what came before, must be regarded as ""other"", as in: it's not ""the same old heavy metal"".."	5
+23	1	0	6	1	1	5	2	1	0	2	0	1	3	0	2	1	0	4.0	0	7	Another invasion of digital-age warriors has commenced, and -- oops -- they bring their own lyrics, so sorry. 	5
+28	3	1	3	2	0	3	2	2	5	3	0	2	2	2	2	1	0	5.0	2	22	Here comes Punxsawnawney Phil, the groundhog so confident he could predict more seasons than Phil Connors himself -- if Phil had just stuck to the weather! -- but when winter came, all that was left of that snot-nosed little furball was one hole. One. single hole! And a few hundred thousand pounds of groundhog meat.	5
+48	0	1	3	10	2	13	0	6	1	5	0	1	5	2	2	1	0	7.0	2	11	In the realm of heavy metal, the absence of moral guidance has given rise to the need for Satan to serve as the guardian of real morality, leaving behind the hypocrisy of churches and other established authorities and delving into the void of irresponsible behavior.	5
+51	1	1	6	4	2	11	3	6	2	5	2	2	6	2	4	3	0	5.0	2	36	Five nights of darkness and three days of unholy fires have left this entire state a desolate wilderness, as Satan himself walked the earth; finally, there appeared a smoking figure -- hideous -- that mounted a gigantic beast, and all of Hell had followed with jubilant noise	5
+26	0	0	5	1	1	5	6	1	0	3	0	2	0	1	2	2	0	4.0	1	11	You, metal fans -- you scoundrels and saints -- will have to create that morality yourselves; we can't do it for you.	5
+49	1	0	8	7	1	6	5	3	0	8	0	2	5	3	2	1	1	8.0	4	10	And what we are left with is our unrelenting determination, like an angry beast with fierce flames emerging from its eyes, to create a metal music of our own -- to fight, scratch, bite, resist, to never give in to the mediocre.	5
+21	0	0	3	2	1	4	2	3	0	3	0	1	1	1	2	2	0	3.0	1	11	The glorious son of a nobody has taken the stage, commanding awe -- yes, and we tremble with delight	5
+25	0	0	7	1	0	4	2	0	5	1	3	2	0	1	2	1	0	5.0	1	16	I can handle that; Friday, September 17 at 9 am (Houston time) is 11 am (Sao Paulo time).	7
+24	0	0	6	2	1	3	0	1	6	1	2	2	0	0	1	1	0	4.0	0	13	At 9 am (Houston time), Friday, September 17, will be played the game between Sao Paulo and Houston.	7
+35	2	0	6	4	1	4	1	2	7	2	3	1	2	1	2	1	0	4.0	1	16	Mother Goose will host the party on Wednesday, February twenty-second at precisely four o'clock in the afternoon (GMT) or 10:00 am in Little Stone City, whichever came first.	7
+28	0	0	9	2	0	4	1	0	8	0	2	1	1	0	1	0	0	4.0	0	10	Friday, October 8th, at 3 pm Central Standard Time (Kabul) which is Saturday, October 9th, at 5 am (Honiara).	7
+34	0	0	7	3	0	7	1	2	5	1	2	2	4	1	2	1	0	3.0	1	10	The annual meeting of the American Ornithological Society will take place on Saturday, March 20th, at 9 am (New York time) which is 12 pm (Paris) time.	7
+55	2	1	4	8	1	13	3	6	4	4	3	2	1	2	3	3	2	6.0	4	23	Although I have a strong desire to eat shrimp for breakfast and a chocolate cake in the middle of the morning, maybe I'll go to Dr. Kumar's office which is five miles to the east, at exactly 10 A.M. on Tuesday, April 13 to have a session of yoga. 	7
+28	0	0	9	3	0	5	2	0	4	1	2	2	0	0	1	0	1	4.0	1	23	On Sunday, August eleventh, at 3 pm (Venezuela time), which is 5 pm (Panama time), should work for everyone?	7
+24	1	0	8	2	0	5	1	0	4	0	2	1	0	1	1	0	0	5.0	1	9	How about Tuesday, April 21st, at 2:45 p.m. (Lima time), which is 4:45 p.m. (Caracas time)?	7
+46	0	0	5	2	1	12	1	3	7	1	6	1	7	1	2	1	0	5.0	1	24	The company announced the quarterly earnings conference call for this Thursday morning at sharp 9:00AM Eastern Time, which is 10:00Am central time; noon, 12 O'clock Atlantic Time, 6 pm UTC, 3 pm western and 4 pm Pacific Standard Time	7
+27	0	0	10	1	0	4	1	2	4	1	3	1	0	2	1	0	0	4.0	2	21	The meeting scheduled with the team, Thursday!, April 29, 4 pm (Paris), which is 10 pm (Tokyo)?  	7
+117	6	0	21	10	4	25	4	10	7	6	8	2	11	4	2	0	0	11.0	4	47	Mom and Dad's wedding anniversary is set for March 22, at exactly half past 6 am (New Zealand summer time) and 4 pm (Jerusalem, local mean time), respectively, with an invited guest list consisting of all grandkids, no great-grandkids, both uncles, one great-uncle, the two great aunts, all seven first cousins once removed from their immediate nuclear family, their best man, all six siblings besides themselves, and exactly seven other good friends of the couple who will all have to fly into Chicago (and not to Las Vegas this time) this time around. No one is allowed on the grounds until all the RSVP envelopes have been received and counted, at 17:45 Jerusalem mean time. The reception is only for the people invited above and their respective partners/ significant others if any, all others will be turned away--and we	7
+22	1	0	3	3	0	5	1	3	2	1	0	2	1	2	1	0	0	5.0	2	8	Monday, December 14th, being the last day of a year--when everyone was packed with a lot of work	7
+24	1	0	8	2	0	4	1	0	4	0	3	1	0	1	1	0	0	4.0	1	9	How about Tuesday, May 12, at 4 pm (Madrid time), which is 6 pm (Cairo) time? 	7
+27	0	0	9	1	0	5	2	0	4	1	2	1	1	1	2	1	0	4.0	1	17	Okay, I choose Friday, March 26th, at 10 a.m. (New York time), which is 12 noon (Paris) time. How does that sound?	7
+77	2	2	8	11	2	11	5	7	8	8	6	3	2	5	4	4	1	10.0	6	20	Jasmine, who will turn twenty in November, registered for a 9:00-9:30 time period for the 5k race scheduled to start promptly on a fine Saturday morning of the middle of September in Pearland, Texas, preferably on the 18th because, as she tells the staff, she will have spent the past 5 weekends either visiting her boyfriend in Houston or helping at his father's store in Baytown.	7
+54	1	0	13	5	1	13	1	3	5	2	2	3	4	1	3	1	0	4.0	1	17	Mars, the bar manager, didn't anticipate so many people—from different companies and departments, all with drink preferences—would arrive at the same time on Tuesday, March 16th, at 12 pm (New York time), which is 2 pm (Toronto) time.	7
+24	1	0	8	2	0	4	1	0	4	0	3	1	0	1	1	0	0	5.0	1	9	How about Tuesday, June 28, at 2 pm (LA time), which is 4 pm (Chicago time)?	7
+32	0	1	4	5	0	6	4	2	2	1	2	3	1	0	3	1	2	5.0	2	14	Because the conference call is at 2pm--which is not good for those of us in Rio--can we schedule the meeting for 3 pm (Rio time)?  Is the sentence complete and correct? If not, what changes could be made to improve it? 	7
+24	0	0	7	2	0	5	2	0	5	0	2	1	0	1	1	0	0	6.0	1	9	What about Friday, September 17th at 9 am (Houston time), which is 11 am (Sao Paulo) time?	7
+25	1	1	5	2	1	4	4	0	2	1	1	2	1	0	2	1	1	4.0	1	17	At 10:30 Wednesday morning (Chicago time), after we finish our coffee and scones, will it be convenient for you then?	7
+60	0	0	15	4	0	15	2	5	6	4	2	2	2	4	2	4	0	6.0	4	25	On Sunday, December 23rd, at 4:55 pm (CET Madrid time), which is 9:55 am (EST) time; we will hold an all- hands team meeting, via Webex, to resolve any last- minute questions, to review the prelaunch report, to discuss team goals, for the next year	7
+19	0	0	3	2	0	2	2	0	5	0	3	2	0	0	2	0	0	4.0	0	16	  Houston, at 9 a.m. which is 11 a.m. in Sao Paulo, it was Friday September 17. 	7
+32	1	1	3	3	1	6	4	2	2	5	0	1	1	5	2	3	0	6.0	5	13	On Friday, April 16th   Please let me know if you need more clarification or details; I'm here to assist you with any questions regarding the task at hand!	7
+41	2	0	8	2	1	5	2	4	5	1	5	2	2	2	2	1	0	5.0	2	32	Friday the 13th of March 2023 at exactly 4: 52 pm (Eastern Standard Time)- which is 21:52 (GMT + 8); this is a very suspicious date and hour to conduct such an interview.	7
+32	2	1	4	4	3	5	3	2	1	4	0	1	2	1	2	3	1	5.0	2	7	"""After, during and before which the sky will gradually and steadily drizzle until late morning""--wondered Agatha while she sips her warm coffee and reads the morning paper"	7
+27	0	0	6	2	0	6	3	0	5	2	2	1	0	2	1	2	0	5.0	2	10	Let's schedule our meeting for Tuesday, June 28th at 3pm (Paris time) which is 9am (Los Angeles time).	7
+43	0	0	5	6	1	12	2	10	0	5	0	0	2	1	2	4	0	5.0	1	13	The suspect--an unstable man with a history of violent acts--entered the bank, approached the teller, flashed a weapon, and demanded all the cash in the register, which he escaped with on foot into the pouring rain	7
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Okay! How about this sentence: They entered the bar--after careful consideration and a short negotiation about the cover charge--at 9:15 pm and sat on a couch with soft cushions	7
+28	0	0	7	3	1	7	0	1	5	1	1	0	2	0	1	1	0	4.0	0	14	On April 20th, at 10 am (Seattle time), the Mars Curiosity Rover discovered ancient, large ocean fish--with scales and fins.	7
+25	1	0	4	6	0	4	0	2	4	1	1	1	1	0	1	0	0	3.0	0	13	On Thursday, April third, precisely at ten o'clock, a clown will arrive from Lima by way of Cuzco on an elephant. 	7
+16	0	0	5	1	0	3	0	0	4	0	3	0	0	0	0	0	0	2.0	0	15	Monday, November 8, at 3, Houston time, 4 pm, Cairo time	7
+20	0	0	4	2	0	5	1	2	0	1	0	0	5	0	1	1	0	4.0	0	14	The dog--a small, white, furry thing with big brown eyes--wagged its tail with excitement	7
+23	2	0	4	1	0	5	2	4	0	4	0	0	1	1	1	2	0	4.0	1	10	The grandma, an ex–ballerina--never mind, she always forgot what follows--picked daisies all afternoon in that little frock	7
+39	1	0	8	1	1	5	1	0	17	1	2	2	0	1	1	1	0	6.0	1	28	Here are six dill pickle-eating contestants; Balthazar McSnazz, Zuzu P. Fruitworthy, Rimmer Fuddlestick, Dwayne O. Funkybottom, Egbert J. Wizardfinder, and Sir Huey de Blaguemartine--three of whom are wearing plaid	7
+37	0	0	6	6	1	8	4	5	0	3	0	0	4	0	1	0	2	5.0	2	26	The man--with a scarf over his head, a long black ponytail extending from his shoulders, and a cigarette dangling between his lips--peered into the empty, dark alleyway before him.	7
+29	0	0	9	2	0	4	2	1	4	1	3	2	0	1	2	1	0	5.0	1	9	Okay, I've scheduled the call for Tuesday, May 24, at 10 am (EST), which is 7 am (LA time).	7
+6	1	0	2	1	0	0	1	0	0	0	0	0	0	0	0	0	0	2.0	0	2	"Okay, how about this: It wasn't until Wednesday, March second at precisely three o'clock that Mr. Harland finally entered his long- awaited, hand crafted, one of a kind antique wooden hot tub, (into which he had just carefully poured three bottles of imported Belarus crystal caviar--a special ingredient for an unrivaled, one-of-its kind, exotic bathing experience that had been ordered specially from, none other, than the royal couple of Sweden, who also happened to be, as Mr. Harland had heard it through various channels that he considered ""of a somewhat questionable nature"")--and began (almost ritualistically now) to scream at the sudden, unexpected sight of two of his pet gold fish floating, belly up, in the bottom of the gleaming tub, while his other three fish floated motionless nearby, each one (app"	7
+27	0	0	7	1	0	7	2	0	4	2	2	1	1	2	1	1	0	4.0	2	21	Let's meet Tuesday, Oct. 19th at three o clock sharp (New York time)- that's 1:30 pm (LA time).	7
+22	2	0	5	2	1	3	2	1	1	0	3	0	2	0	0	0	0	3.0	0	9	07 p.m., (Eastern Time) with his five offsprings and five grandkids all together (with no one else)	7
+14	0	0	11	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	8	" '!', ?, #, "", -, ., &."	7
+30	0	0	6	3	0	6	0	1	8	2	2	1	0	0	0	1	1	5.0	1	19	Lunching at Sal's Seafoam Serenade restaurant on Sunday, February twelfth at 3:06 PM (Houston) will facilitate an 11:06 AM (Sao Paulo time) schedule. 	7
+29	2	0	3	3	2	4	4	1	1	4	0	1	2	1	2	2	0	5.0	1	14	Brett took off his coat—which had become somewhat shabby and frayed—and hung it behind the immigration officer’s door along with everyone else’s. 	7
+33	0	0	9	3	1	6	0	1	6	0	5	2	0	0	1	0	0	3.0	0	16	On Tuesday morning September 22, at 8:47 am(EST); the meeting will be 9:17 am (CST) in Dallas and 3: 27 pm(London time). 	7
+25	1	0	8	4	0	2	1	0	5	1	3	0	0	1	1	0	0	5.0	1	7	How about on Tuesday, November 30, @ 10:03 AM (Jamaica Time), which translates to 12:03 PM (EST)?  Is this correct?	7
+35	0	0	7	4	1	9	2	1	1	3	3	0	2	1	3	2	1	6.0	2	16	Bruce, a Canadian veterinarian -- whose hobbies include hiking, biking, and cooking -- purchased 56 pounds of organic ketchup at C$12.99 per pound, which amounts to C$716.44 total.	7
+58	2	0	8	7	1	13	5	1	5	6	2	1	3	5	1	5	0	11.0	5	43	What about meeting on Tuesday at 3 pm—the usual place (London time) but 10 am in Los Angeles to discuss progress—using video conferencing to include those unable to join in person—perhaps Mary from Accounting can help us streamline next quarter’s project timeline—how about it, anyone?	7
+20	2	0	2	1	0	3	1	3	3	4	0	1	0	1	1	3	0	5.0	1	9	Earnestly exclaims Dr. Johnson at the department meeting Tuesday,   Note how I have followed all the given conditions. Kindly confirm if this response satisfies the request. I will be happy to modify it if it doesn't meet your expectations.	7
+24	1	0	7	2	0	4	1	0	4	0	3	1	1	1	1	0	0	5.0	1	8	How about next Wednesday, October 13, at 12 noon (Houston time) which is 2 pm (Toronto) time?	7
+4	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	I'm sorry. Below seven sentences with punctuation marks are presented for your perusal:      Who closed, anyway; opened it—the door—which creaked; the key, she found; under the mat; didn't fit Yetta’s memory. 	7
+36	1	1	8	2	1	8	4	3	3	3	0	0	2	1	3	2	1	5.0	2	21	The team--which included the CEO, CFO, CTO, legal, procurement, marketing, and HR--hurriedly entered this into their project plan as they rushed towards the March quarterly deadline	7

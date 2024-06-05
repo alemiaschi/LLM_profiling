@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+7	0	0	0	1	0	1	1	0	2	0	1	0	1	2.0	3	0	0	1	2	0	Can you bring me a pen?  Or, if a different example is preferred: A small bird sits in the tree.	2
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The children played outside in the grass.	2
+7	0	0	0	0	0	1	2	0	0	0	1	0	2	2.0	2	1	1	1	1	0	The boy loves to read books.	2
+7	0	0	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The boy reads a book quickly.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The dog chased the squirrel.	2
+7	0	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	The cat is on the mat.	2
+6	0	0	0	0	0	0	1	0	0	1	1	0	2	2.0	2	1	1	1	1	0	John loves to eat apples.	2
+9	0	1	0	0	0	1	1	0	2	0	1	0	2	3.0	4	1	1	1	1	0	He promised to help her with the groceries.	2
+6	0	0	0	0	0	0	2	0	2	0	1	0	1	2.0	2	0	0	1	1	0	Your dog chases its tail.	2
+6	0	1	0	0	0	0	2	0	1	0	1	0	1	2.0	3	0	0	1	1	0	She reads mysteries for pleasure.	2
+7	0	0	0	1	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The boy is reading a book.	2
+6	0	0	0	0	0	1	1	0	1	1	1	0	1	2.0	3	0	0	1	1	0	She baked cookies every Christmas.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+8	0	1	0	1	0	1	2	0	1	0	1	0	1	3.0	2	0	0	1	1	0	Can I have another cup of tea?.	2
+8	0	2	0	0	0	0	2	0	1	1	1	0	1	2.0	5	0	0	1	1	0	He eats pizza for lunch on Fridays.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog barks at the cars.	2
+11	1	1	0	0	0	2	3	0	0	1	1	0	1	3.0	6	0	0	1	1	0	John's cat chased the red dot around the room.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sits on the mat.	2
+7	0	1	0	0	0	2	3	0	0	0	1	0	0	2.0	4	0	0	0	0	0	The cat on the mat meows.	2
+8	0	1	1	1	0	2	2	0	0	0	1	0	0	2.0	5	0	0	1	0	0	The book is next to the vase.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The flowers bloom every spring.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+5	0	0	1	0	0	0	1	0	1	0	1	0	1	1.0	2	0	0	1	1	0	We read articles online.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat slept under the table.	2
+7	0	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	The dog is on the mat.	2
+5	0	0	0	0	0	0	1	0	1	0	1	0	2	2.0	1	1	1	1	1	0	I love playing tennis.	2
+7	0	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	A cat is on the mat.	2
+9	1	1	1	0	0	0	2	0	2	0	1	0	1	2.0	6	0	0	1	1	0	She reads books aloud to her little brother.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog barks at the mailman.	2
+6	0	0	0	0	1	0	2	0	1	0	1	0	1	3.0	2	0	0	1	1	0	I eat apples and oranges.	2
+7	0	0	0	0	0	2	3	0	0	0	1	0	1	2.0	3	0	0	1	1	0	The flowers need water every day.	2
+7	0	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	The apple is on the table.	2
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The car is parked in the garage.	2
+6	0	1	0	0	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The dog barks at night.	2
+8	0	1	0	0	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	She cooks eggs in a frying pan.	2
+8	0	1	0	1	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	1	0	I will bring apples to the meeting.	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	2
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The dog barked loudly.	2
+7	0	1	0	1	0	1	2	0	0	0	1	0	1	2.0	2	0	0	1	0	0	The moon is made of cheese.	2
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The birds sing cheerfully.	2
+7	0	1	1	0	0	1	1	0	1	0	1	0	1	2.0	4	0	0	1	0	0	We read from this book daily.	2
+6	0	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The dog bit the stick.	2
+6	1	0	0	1	0	1	1	0	1	0	1	0	0	1.0	4	0	0	1	0	0	She is an excellent cook.	2
+8	0	0	0	1	0	0	1	0	3	0	1	0	2	3.0	2	1	1	1	2	0	I will help you carry your books.	2
+7	0	0	0	0	0	1	2	0	1	1	1	0	1	2.0	4	0	0	1	1	0	They eat pizza every Friday night.	2
+6	0	1	0	0	0	0	2	0	0	1	1	0	1	2.0	3	0	0	1	1	0	John prefers apples to oranges.	2
+7	0	1	0	1	0	2	2	0	0	0	1	0	0	2.0	4	0	0	1	0	0	A bird is in the tree.	2
+8	0	1	1	1	0	1	1	0	1	0	1	0	1	2.0	4	0	0	1	0	0	I will arrive late to the party.	2
+7	2	0	1	1	1	0	1	0	0	0	1	0	0	2.0	3	0	0	1	0	0	Apples are usually red or green.	2
+7	0	1	0	0	0	1	2	0	0	1	1	0	1	2.0	4	0	0	1	1	0	John eats pizza with a fork.	2
+16	0	1	0	0	1	3	5	1	1	0	3	0	1	3.0	13	0	0	1	1	0	We found an apple, two pears, and a banana in the fruit basket.	3
+9	0	1	0	1	0	1	3	0	1	0	1	0	1	2.0	5	0	0	1	1	0	I will bake an apple pie for dessert.	3
+9	0	1	0	1	0	1	2	0	1	1	1	0	1	2.0	4	0	0	1	1	0	Sally will cook dinner tonight for us all.	3
+13	0	2	0	1	0	1	3	0	2	0	1	1	2	4.0	6	1	1	2	1	0	We will watch the movie tonight before it goes out of print.	3
+13	0	1	0	0	1	0	5	0	2	0	2	0	2	3.0	8	0	0	2	2	0	My friend prefers coffee to tea, but his wife drinks herbs.	3
+8	0	1	0	0	0	1	3	1	0	0	1	0	1	2.0	4	0	0	1	1	0	The doctor wrote prescriptions for three patients.	3
+9	0	1	1	0	0	0	2	0	0	2	1	0	1	3.0	3	0	0	1	1	0	Melanie's husband often cooks breakfast on Saturdays.	3
+11	1	2	0	0	0	0	5	0	1	0	1	0	1	3.0	4	0	0	1	1	0	Children sing nursery rhymes as part of their daily routine.	3
+12	0	1	0	0	0	2	4	1	1	0	2	0	1	3.0	8	0	0	1	1	0	A chef cooked a five-course meal for his guests.	3
+7	1	0	0	0	0	1	1	0	1	1	1	0	1	2.0	4	0	0	1	2	0	I promised John the red book.	3
+13	2	1	1	0	0	2	4	0	0	0	2	0	1	2.0	8	0	0	1	1	0	The computer screen emits a bright, white light when in operation.	3
+9	0	1	0	0	0	0	4	0	0	1	1	0	1	3.0	3	0	0	1	1	0	John's sisters love shopping at vintage boutiques.	3
+14	1	2	1	0	0	1	3	0	2	0	2	0	2	3.0	6	1	1	1	0	0	The old man sat in his rocking chair, whistling softly to himself.	3
+8	0	0	0	0	1	0	3	0	1	0	2	0	1	3.0	4	0	0	1	1	0	He sells apples, oranges and bananas.	3
+13	1	1	0	0	1	3	4	0	1	0	1	0	1	3.0	5	0	0	1	2	0	The doctor prescribed me medication for a fever and a persistent cough.	3
+10	1	1	0	0	0	2	3	1	0	0	1	0	1	3.0	3	0	0	1	1	0	The fox found three ripe blueberries in the bush.	3
+11	1	2	0	0	0	3	3	0	0	0	1	0	1	2.0	7	0	0	1	0	0	The cat plays with the red ball in the room.	3
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cats slept peacefully near the window.	3
+9	1	1	0	0	0	2	2	0	1	0	1	0	1	2.0	6	0	0	1	1	0	You need a coat in this cold weather.	3
+10	0	1	0	0	0	2	4	0	1	0	1	0	1	3.0	4	0	0	1	1	0	The children read the stories at their sleeping camp.	3
+11	0	0	0	0	1	0	3	0	0	1	3	0	3	3.0	7	1	1	1	2	0	John loves playing soccer, eating pizza, and skiing.	3
+10	1	1	0	0	0	2	3	0	1	0	1	0	1	2.0	6	0	0	1	1	0	The cat licked its fur in the sunny window.	3
+9	0	2	0	0	0	1	4	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The baby gorilla swung from branch to branch.	3
+11	0	1	0	0	0	3	3	0	0	0	1	0	2	3.0	5	1	1	1	1	0	The boy promised to meet the girl behind the tree.	3
+10	0	2	0	0	0	2	4	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The sun sets behind the mountain range at dusk.	3
+19	0	1	0	2	1	3	3	0	2	0	2	1	3	3.0	11	1	1	2	1	0	The child found a lost dog near the forest, but couldn't tell if it was his.	3
+9	0	0	0	0	1	1	4	0	1	0	1	0	1	3.0	3	0	0	1	1	0	The baby loves his rattle and teething toy.	3
+14	1	1	1	0	1	2	2	0	1	0	1	0	3	4.0	6	1	1	1	1	0	She prefers to stay indoors in the winter and read a good book.	3
+10	0	2	3	1	0	0	2	0	0	0	1	0	1	3.0	6	0	0	1	0	0	Children should play outside during recess instead of indoors.	3
+10	0	1	2	0	0	2	2	0	0	0	1	0	2	3.0	4	1	1	1	0	0	A dog barked loudly at a stranger passing by.	3
+10	0	2	0	0	0	2	3	0	1	0	1	0	1	3.0	3	0	0	1	0	0	A child asks for an apple from his mother.	3
+15	0	3	1	0	0	2	5	0	2	0	1	0	1	4.0	10	0	0	2	1	0	My father often watches the sunset with a cup of coffee in his hands.	3
+11	2	0	0	0	1	0	4	0	1	0	1	0	2	5.0	4	1	1	1	2	0	She paints pictures using vibrant colors and bold brush strokes.	3
+11	1	1	0	1	0	1	3	0	2	0	1	0	1	2.0	7	0	0	1	1	0	We're planning a surprise party for him next weekend.	3
+11	1	1	0	0	2	0	4	0	1	0	1	0	1	3.0	6	0	0	1	1	0	Children need both parents for their proper growth and development.	3
+14	0	2	0	1	0	3	3	0	1	0	1	0	2	3.0	5	1	1	1	1	0	We will meet at the park to throw the frisbee for an hour.	3
+10	1	0	1	0	0	2	2	0	0	0	2	0	2	3.0	3	1	1	1	1	0	The old dog barked loudly, startling the burglars.	3
+10	1	1	0	0	0	2	4	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The students read a poem during English class yesterday.	3
+11	1	2	0	0	0	0	4	0	2	0	1	0	1	3.0	8	0	0	1	1	0	We sell various types of flowers at our garden center.	3
+16	0	3	0	0	1	4	4	0	0	0	1	0	3	5.0	6	1	1	1	0	0	The baby laughs and reaches for a toy hanging from the mobile above the crib.	3
+13	0	1	0	0	0	4	4	0	0	0	1	1	2	3.0	5	1	1	1	2	0	The teacher scolded the student for throwing the ball in the classroom.	3
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sleeps in the basket.	3
+13	1	1	0	0	0	1	3	0	0	2	2	0	2	3.0	4	1	1	1	2	0	During Christmas dinner, Grandma told funny jokes to amuse the children.	3
+12	1	1	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	The sun sets over the lake, casting a warm glow.	3
+13	0	1	1	0	0	2	5	0	1	0	1	0	1	3.0	4	0	0	1	1	0	The students eagerly await their teacher's announcement of a surprise exam.	3
+10	1	2	0	0	0	1	3	0	1	0	1	0	1	2.0	7	0	0	1	1	0	She sings lovely songs in the garden before sunrise.	3
+11	2	1	0	0	0	2	3	0	1	0	1	0	1	3.0	4	0	0	1	1	0	The blue jay on my fence sang a beautiful melody.	3
+11	2	1	2	1	0	0	2	0	1	0	1	0	1	3.0	4	1	1	2	0	0	Mangoes are ripe when they yield easily to gentle pressure.	3
+9	1	0	1	0	0	2	2	0	0	0	1	0	2	3.0	4	1	1	2	0	0	The flowers bloom when the sun rises high.	3
+10	0	0	1	0	0	2	3	1	0	0	1	0	2	3.0	3	1	1	1	2	0	A teacher helped three children cross the road safely.	3
+13	4	1	0	1	0	1	4	0	0	0	1	0	1	3.0	3	0	0	1	1	0	The new store inventory will include several electronic devices from top manufacturers.	4
+9	2	1	0	0	0	1	3	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The new restaurant opens next week for dinner.	4
+17	2	1	1	1	1	3	4	0	0	0	2	0	2	3.0	8	0	0	2	1	0	The old man collected stamps, and each one was carefully kept in a separate drawer.	4
+14	2	1	1	1	1	1	6	0	0	0	1	0	0	3.0	5	0	0	1	0	0	Social media is an increasingly popular channel for customer engagement and complaint resolution.	4
+18	1	2	1	0	0	3	5	0	3	0	1	0	2	4.0	8	1	1	2	2	0	The professor handed her an old map he found at his house in the attic earlier today.	4
+12	1	1	1	0	0	2	3	0	1	1	1	0	1	3.0	9	0	0	1	1	0	She enjoys a quiet dinner at a Michelin star restaurant regularly.	4
+15	1	1	3	1	0	1	2	0	1	1	2	0	1	2.0	7	0	0	1	1	0	The library books are due back on Monday, so please return them promptly.	4
+14	2	0	1	0	0	2	3	0	1	0	1	0	3	4.0	6	2	2	1	2	0	She decided to wear the old blue dress when attending the awards ceremony.	4
+15	1	2	0	0	0	1	4	1	2	1	1	0	1	3.0	12	0	0	1	1	0	She baked two pies from her family's old recipe for the Thanksgiving feast.	4
+13	2	1	0	0	0	3	5	0	0	0	1	0	1	2.0	8	0	0	1	1	0	The new manager received an unusual promotion proposal during the board meeting.	4
+15	3	2	0	1	0	2	4	0	1	0	1	0	1	3.0	11	0	0	1	1	0	You'll find an excellent collection of antiquarian books at the next book sale.	4
+20	1	3	0	0	0	3	5	0	1	2	1	0	3	5.0	5	2	2	2	2	0	A man in Florida asked authorities to look for a white sedan that hit a bicyclist on Monday morning.	4
+12	1	1	1	1	0	1	3	0	1	0	1	0	2	3.0	5	1	1	1	0	0	The baby gorilla was observed sleeping soundly in its new enclosure.	4
+16	3	3	0	1	0	1	4	0	2	0	1	0	1	3.0	7	0	0	1	0	0	A beautiful bouquet of red roses was bought for his lovely wife on their anniversary.	4
+13	2	1	1	0	0	3	3	0	0	0	1	0	2	4.0	5	1	1	1	1	0	The library acquired a rare map dating back to the 16th century.	4
+9	0	1	0	0	0	2	3	1	0	0	1	0	1	2.0	5	0	0	1	1	0	A boy collected four acorns in the forest.	4
+16	3	2	0	2	0	2	4	0	1	0	1	0	1	3.0	11	0	0	1	1	0	You will be served a steaming plate of delicious pasta by a friendly Italian chef.	4
+19	4	2	0	0	0	2	4	0	3	0	3	0	1	3.0	9	0	0	1	1	0	My new neighbor, a passionate gardener, shared some of her beautiful yellow roses with our street.	4
+16	2	1	0	1	1	1	6	1	0	0	1	0	2	5.0	3	1	1	1	1	0	The carnival game booth was staffed by three people wearing striped shirts and red noses.	4
+11	2	0	0	1	0	2	3	0	0	0	1	0	2	3.0	4	1	1	1	1	0	A large corporation is considering implementing a new management system.	4
+10	0	2	0	0	0	1	3	1	1	0	1	0	1	3.0	5	0	0	1	1	0	He found four quarters in a pile of change.	4
+12	2	1	0	1	0	1	5	0	0	0	1	0	0	3.0	5	0	0	1	0	0	Fresh salmon is a delicious choice for tonight's dinner menu.	4
+14	1	2	0	0	0	2	5	0	2	0	1	0	1	3.0	10	0	0	1	1	0	My assistant located a photograph of my dog at the beach last summer.	4
+19	1	2	1	1	0	4	5	0	0	0	2	1	2	3.0	6	1	1	2	0	0	At the county fair, the children cheered as the giant pumpkin was lifted up onto the wagon.	4
+23	2	2	2	2	0	2	6	0	2	0	2	0	3	7.0	6	2	2	2	0	0	The newborn deer fawn was found lying helpless next to its mother who was tragically hit by a fast-moving car.	4
+11	1	2	0	0	0	3	3	0	0	0	1	0	1	3.0	4	0	0	1	1	0	The child read aloud a story from an ancient text.	4
+12	0	1	1	0	0	2	4	0	0	0	1	1	2	3.0	4	1	1	1	0	0	The baby elephant trumpeted happily after drinking from the water hole.	4
+12	1	2	0	0	0	3	4	0	0	0	1	0	1	4.0	4	0	0	1	1	0	An author submitted a novel for consideration by a prestigious publisher.	4
+16	2	4	0	0	0	3	3	0	1	0	2	0	1	3.0	4	0	0	1	0	0	Under the full moon, we set off on an adventure in the enchanted forest.	4
+13	2	1	0	0	0	2	6	0	0	0	1	0	1	3.0	8	0	0	1	1	0	The city council passed a proposal for new zoning regulations last night.	4
+11	0	0	1	1	0	1	2	0	1	1	1	0	2	3.0	4	1	1	1	1	0	The children were thrilled to open their Christmas presents early.	4
+15	2	2	0	1	0	3	4	0	0	0	1	0	2	3.0	6	0	0	1	0	0	The old house on the lake was sold to a retired couple last year.	4
+12	2	2	0	0	0	0	3	0	1	1	2	0	1	3.0	3	0	0	1	1	0	In his small garage, John stored boxes of antique toys.	4
+18	1	2	2	0	0	3	5	0	0	0	2	0	2	3.0	5	1	1	2	0	0	At the zoo's exhibit, a lion growled angrily when the zookeeper arrived with fresh meat.	4
+14	2	2	0	2	0	2	2	0	0	1	1	0	2	4.0	3	1	1	1	0	0	A rare ancient artifact has been discovered hidden in a cave in Thailand.	4
+15	2	2	0	0	0	2	3	0	1	1	2	0	2	4.0	6	1	0	1	1	1	In a small village nestled between hills, they celebrated a traditional Harvest festival.	4
+12	2	3	0	1	0	0	3	0	1	0	1	0	1	2.0	8	0	0	1	0	0	Fish were caught by us in great numbers during last weekend.	4
+15	0	1	0	0	1	2	4	2	2	0	1	0	2	3.0	8	0	0	1	2	0	A man bought six bananas for his two friends and ate the rest himself.	4
+12	0	0	0	0	0	2	5	0	1	0	1	0	2	3.0	4	1	1	1	2	0	The students formed a group to discuss their group project tonight.	4
+15	1	1	0	0	1	2	4	1	1	0	2	0	2	3.0	8	0	0	2	1	0	Two brothers argued over the inheritance, but their mother made the final decision.	4
+22	1	2	0	1	2	2	8	0	0	1	2	0	3	4.0	6	0	0	1	2	0	The new software update for Windows will improve system stability, and include bug fixes and enhanced features for the user.	4
+13	0	2	0	0	1	2	3	0	0	2	1	0	2	3.0	6	0	0	1	1	0	The sales figures showed a decline in Q3 but recovered in Q4.	4
+13	0	1	1	2	0	1	1	0	2	1	1	0	2	4.0	10	1	0	2	0	1	The book that John borrowed from me still hasn't been returned.	4
+12	0	3	0	0	0	2	4	0	0	1	1	0	1	2.0	8	0	0	1	1	0	The children played soccer in the park after school on Tuesdays.	4
+12	3	1	0	1	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	0	0	An intricate handmade rug was placed beneath the elegant dining table.	4
+10	2	1	0	0	0	2	2	0	1	0	1	0	1	2.0	7	0	0	1	1	0	He found a valuable artifact during an archaeological dig.	4
+12	2	1	0	1	0	1	3	0	2	0	1	0	1	2.0	6	0	0	1	1	0	My younger brother was given an electric car for his birthday.	4
+9	1	0	0	0	0	2	3	0	1	0	1	0	1	2.0	4	0	0	1	2	0	The elderly woman fed her parrot a cracker.	4
+14	1	2	0	1	0	2	4	1	1	0	1	0	1	4.0	10	0	0	1	1	0	She has purchased tickets for all four performances of the ballet next week.	4
+17	4	2	0	0	0	2	5	1	1	0	1	0	1	3.0	12	0	0	1	1	0	Two elderly women shared their memories of the small rural town during a warm summer afternoon.	4
+19	5	1	0	0	1	2	7	0	0	0	1	0	2	7.0	5	1	1	1	2	0	The project requires a thorough understanding of complex mathematical models involving multivariate statistics and advanced data analysis techniques.	6
+30	2	4	1	0	1	3	11	0	0	0	5	0	2	5.0	12	1	0	1	2	1	To ensure the safety of all passengers during the flight, pilots frequently monitor critical indicators of aircraft systems, such as airspeed, altitude, and engine temperatures.	6
+26	2	3	0	0	1	4	8	0	1	0	2	0	3	6.0	8	2	2	1	2	0	The professor's explanation of the intricate mathematical formula drew nods of understanding from the class, all attempting to grasp its depth and complexity.	6
+27	1	1	0	0	1	1	14	0	1	0	2	1	4	6.0	7	3	2	1	3	1	To improve customer satisfaction levels, our company implemented a comprehensive call center training program focused on enhancing agent communication skills and empathy towards customer concerns.	6
+33	3	5	0	0	1	4	10	2	0	1	2	0	3	6.0	9	2	2	1	1	0	The sales team reported impressive growth figures for January, with a 20% increase in product units sold and a 15% rise in total revenue compared to the previous month.	6
+25	3	2	0	1	1	3	7	0	0	0	1	1	5	8.0	8	3	3	1	2	0	The new employee was encouraged to attend weekly training sessions focused on developing skills related to the job role and advancing within the organization.	6
+23	4	3	0	1	1	1	6	0	2	0	1	0	3	5.0	7	1	1	1	2	0	The students were divided into small groups to discuss various themes for their presentations and prepare detailed Outlines for their forthcoming talks.	6
+44	2	5	0	0	1	2	12	8	2	0	8	1	2	4.0	28	1	0	1	2	1	In order to prepare the meals for our dinner party, I purchased a total of twenty-five pounds of beef, three dozen fresh ears of corn, eighty-seven heads of lettuce, and forty-two large onions.	6
+27	6	1	1	0	2	2	5	0	2	0	2	1	4	6.0	8	3	2	1	3	1	Before proceeding further, we conducted a comprehensive analysis of the raw data using various descriptive and inferential statistical tests to ensure its validity and reliability.	6
+24	2	3	0	1	1	2	6	1	1	0	2	0	3	5.0	6	1	1	1	2	0	In our study, participants were required to read three different articles and to provide a brief summary in writing for each one.	6
+19	3	0	1	0	1	1	8	0	1	0	1	0	2	6.0	6	1	1	1	2	0	Your brother's new company offers highly customizable web design services using the latest techology and programming languages.	6
+36	4	6	0	0	1	5	14	0	0	0	4	0	2	4.0	12	1	1	1	1	0	The research on the neuropsychological effects of sleep apnea focuses on memory function, cognitive processing, and executive functions, investigating the correlation of these impairments to a potential relationship with sleep apnea severity.	6
+24	3	5	0	0	0	6	6	1	0	0	1	0	1	6.0	9	0	0	1	1	0	The CEO approved a salary increase of 5% across all departments for the employees effective from the first of the next month.	6
+29	4	2	0	1	1	1	8	0	3	0	2	1	4	4.0	11	2	1	1	3	1	In order to meet our sales target of the new product, we have planned to increase our advertising budget and conduct promotional campaigns through various digital channels.	6
+21	3	2	0	0	2	1	7	0	0	0	4	0	2	6.0	8	1	1	1	2	0	In the lab, scientists conduct ongoing experiments in biology, chemistry, and physics using sophisticated and advanced equipment.	6
+20	3	3	0	0	1	2	7	0	0	0	2	0	2	4.0	6	0	0	1	1	0	At the summit, politicians outlined potential economic benefits and environmental implications of proposed policies on the oil industry.	6
+32	3	4	0	4	1	3	8	0	1	1	3	1	3	6.0	9	2	2	2	2	0	At the end of December, the accounting team will be preparing monthly financial statements, which must undergo rigorous review and approval before being submitted to the board of directors.	6
+16	1	2	0	0	0	3	4	0	1	0	1	0	3	4.0	6	1	1	1	1	0	The principal decided to hire an assistant despite her initial concerns about the increased budget.	6
+29	5	1	0	1	1	5	6	0	1	1	5	0	2	4.0	20	1	1	1	1	0	I'm planning to order the new iPhone, the deluxe edition, with an external magnetic charging dock, a screen protector, and a protective case.	6
+37	4	1	0	2	2	4	7	0	4	0	2	3	7	7.0	15	4	3	2	4	1	After discussing the matter with our legal team and performing a thorough analysis, we have determined that there are several actions we must take in order to mitigate any risks and prevent any negative consequences.	6
+25	3	2	0	0	0	4	8	0	0	0	2	1	4	5.0	10	3	2	1	3	1	After discussing the potential risks with the patient, the dentist prescribed a custom night guard to prevent further tooth damage caused by grinding.	6
+20	1	2	0	0	1	3	7	1	0	0	3	0	2	5.0	7	1	1	1	2	0	The chef prepared the six-course meal, following traditional recipes with precision and creativity at each station.	6
+21	2	2	0	1	0	2	5	1	0	2	2	0	2	8.0	4	1	1	1	2	0	The committee has agreed to grant John a salary increase of 5%, effective January 1st of next year.	6
+21	1	3	1	0	1	1	5	0	5	0	1	1	2	5.0	6	1	1	1	1	0	Your older sister often reminds you of your manners while eating in the presence of your grandmother and her guests.	6
+24	1	2	0	0	1	4	11	0	0	0	4	0	1	3.0	14	0	0	1	1	0	The team leader outlined the goals, responsibilities, deliverables, and deadlines for the marketing campaign project in the initial team meeting.	6
+25	2	2	0	1	0	3	4	1	2	0	2	3	4	5.0	7	3	2	1	3	1	After reviewing the financial report, it was recommended that we take a strategic approach towards reducing expenses in all departments by 10%.	6
+21	2	1	0	0	1	1	7	0	0	0	4	0	4	5.0	7	1	1	1	4	0	At the meeting, various departments discussed potential solutions to increase revenue, reduce costs, and improve customer satisfaction.	6
+28	5	3	0	0	2	3	9	0	2	0	1	1	2	5.0	11	1	1	1	2	0	A large corporation reported quarterly earnings growth to its shareholders while maintaining an admirable record of financial accountability and transparency to its stakeholders and the general public.	6
+26	3	3	1	0	1	0	7	0	4	0	2	1	3	4.0	10	1	1	2	3	0	My uncle's collection includes ancient artifacts from various cultures, and he frequently shares stories about their historical significance while showcasing them for visitors.	6
+24	5	4	1	1	1	3	7	0	0	0	1	0	1	6.0	5	0	0	1	0	0	Intricate designs were carefully drawn on the fabric of the traditional Japanese kimono with precise brush strokes and an abundance of intricate patterns.	6
+23	3	2	0	0	1	4	9	0	0	0	2	0	2	4.0	13	1	1	1	1	0	The company conducts a comprehensive risk assessment at the facility each year, including potential threats from natural disasters and cyber breaches.	6
+19	4	1	0	1	0	1	4	0	2	2	1	1	2	4.0	10	2	2	2	2	0	John was delighted as he helped Anne prepare the traditional Italian pasta for her family dinner last night.	6
+24	3	3	0	0	2	4	7	0	1	0	1	0	3	7.0	10	1	1	1	2	0	The manager presented various investment options at the monthly staff meeting and explained the risks and potential rewards associated with each of them.	6
+39	2	1	0	1	3	2	12	0	4	0	6	1	6	6.0	13	2	1	2	7	1	To evaluate her performance, my supervisor assigned me the role of classroom assistant, and I was responsible for grading student assignments, distributing materials, managing the attendance list, and providing academic guidance and support.	6
+16	3	0	0	1	1	1	5	0	0	0	1	0	3	5.0	4	1	1	1	3	0	The local council has established various projects to enhance community involvement and preserve historical landmarks.	6
+19	1	0	0	0	1	1	6	1	1	0	5	0	2	4.0	5	1	0	1	2	1	To create this product, we blend three distinct spice mixtures: cumin, cayenne, and coriander.	6
+26	3	3	2	0	1	0	5	0	4	0	4	0	3	4.0	10	1	1	2	0	0	Despite your warnings, her younger brother continued to engage in risky behavior, and their mother grew progressively moreconcerned about his well-being.	6
+39	4	5	0	2	2	3	12	0	0	1	4	0	4	5.0	21	2	1	1	2	1	To identify and quantify the economic costs of various transportation alternatives, cost analysis software such as TSC and SynTrails can be used to determine the Total Cost of Ownership (TCO) of each mode of transportation.	6
+40	4	3	0	0	2	6	16	0	0	0	2	1	5	5.0	14	2	1	1	4	1	After conducting a thorough investigation into consumer preferences and price points, the marketing team identified a potential revenue stream from a new demographic and recommended an aggressive marketing approach with tailored product offerings to target that audience segment.	6
+29	5	4	0	0	1	3	10	2	0	0	2	0	1	3.0	20	0	0	1	1	0	In the annual meeting, the CEO outlined the company plans for global expansion into three new markets and two new product lines by next year's Q1.	6
+33	2	7	1	1	0	6	8	1	1	0	2	1	3	5.0	12	2	2	1	1	0	In the midst of a heavy thunderstorm, I watched as a kite reached an impressive height of six feet in the air before being swept away by a burst of wind.	6
+23	1	2	0	0	2	3	7	0	1	0	1	1	4	8.0	6	3	3	1	2	0	The government released statements regarding both the investigation's progress and plans for providing relief to those affected by the environmental disaster.	6
+35	3	2	0	1	1	5	11	0	3	0	6	0	3	6.0	16	2	1	3	2	1	My friend, who's a renowned architect, designed a modern mansion that includes a home cinema, indoor swimming pool, and glass-encased kitchen with a view of the garden.	6
+27	3	5	0	0	0	4	9	0	2	0	2	0	2	4.0	8	1	1	1	0	0	At the end of our annual review, the CEO asked for input from all department heads regarding their budget proposals for the upcoming fiscal year.	6
+20	1	1	1	2	0	0	2	1	4	1	3	0	3	5.0	8	2	2	3	2	0	John, who is over sixty, often finds himself remembering important dates that his calendar does not record.	6
+19	3	2	0	1	0	2	6	0	2	0	1	0	1	3.0	14	0	0	1	1	0	My assistant will present the CEO's annual report to the board members during our upcoming quarterly meeting.	6
+24	3	2	0	1	1	2	6	0	3	1	1	0	3	4.0	9	2	2	1	2	0	My brother and I will travel to the airport using our personal car to attend an important business meeting in Paris next week.	6
+25	3	4	1	0	0	5	8	0	0	0	2	0	2	4.0	15	1	1	1	2	0	The manager interviewed potential candidates for the open marketing position with a panel of executives, carefully selecting the best fit for the team.	6
+26	4	2	0	2	1	4	7	0	2	0	1	0	3	3.0	14	1	1	1	2	0	I have consulted the financial analysts from all departments regarding the upcoming audit reports and will present their assessments to the Executive Board next week.	6
+30	3	4	1	2	2	2	9	2	1	0	1	0	3	7.0	10	2	2	1	2	0	A complex mathematical equation with six terms and interactions among them can be represented visually using a tree diagram of six levels with branches connecting various symbols and coefficients.	6
+18	1	3	0	0	0	1	3	0	4	1	2	0	2	4.0	5	1	1	1	2	0	Despite my reservations, my colleagues urged me to join them on this risky expedition to Antarctica.	7
+23	4	3	0	0	0	3	6	0	2	0	3	0	2	4.0	10	1	1	2	1	0	In the midst of the bustling street market, the old woman sold ripe, plump lychees that melted in your mouth.	7
+22	1	4	1	2	1	2	7	0	0	0	2	0	2	4.0	12	0	0	2	1	0	A large number of customers are waiting in line for assistance, but a handful of employees are handling tickets efficiently.	7
+21	3	2	0	1	1	4	6	0	0	0	1	1	2	5.0	10	1	1	2	1	0	The professor explained to the eager students that every mathematical equation must follow a strict set of rules and syntax.	7
+19	3	2	0	0	0	2	5	0	2	0	2	0	2	3.0	5	1	1	1	2	0	The old woman's stories about her ancestral lands captivated the children, keeping them spellbound for hours.	7
+32	1	2	0	0	1	2	12	0	1	0	5	0	5	7.0	16	4	4	2	3	0	The researchers analyzed data from various sources, including surveys, interviews, and focus groups, to identify the factors that influence farmers' willingness to invest in irrigation technology.	7
+18	4	2	1	0	0	2	5	0	1	0	2	0	1	4.0	5	0	0	2	0	0	The ancient tree stood proudly amid the verdant meadow, its branches heavy with ripe autumn leaves.	7
+18	4	2	1	1	0	3	4	0	0	0	1	0	2	5.0	5	1	1	1	1	0	The tourists were excitedly snapping pictures of the rare blue dolphin emerging from the crystal clear waters.	7
+16	4	2	2	0	1	0	3	1	0	1	1	0	1	4.0	8	0	0	1	1	0	Four generations of farmers in northern New Zealand now practice organic and ecologically sustainable methods.	7
+14	2	1	0	0	0	1	5	0	1	0	2	0	2	3.0	6	1	1	1	2	0	The professor presented complex equations with ease, impressing his advanced mathematics students.	7
+18	1	2	2	0	0	2	5	0	1	0	2	0	2	4.0	7	1	1	1	0	0	The baby gorilla climbed up through the tangled branches, clinging tightly to its mother's back.	7
+22	2	2	0	0	1	4	8	0	0	0	3	0	2	4.0	8	1	1	1	2	0	The artist painted a landscape with the sun setting, giving the painting depth and dimension with long, sweeping brushstrokes.	7
+17	4	2	0	0	1	0	6	0	1	0	2	0	1	3.0	5	0	0	1	1	0	Despite their small size, many ant colonies maintain complex social organization and division of labor.	7
+21	2	3	0	0	0	5	7	0	0	0	1	1	2	5.0	9	1	1	1	2	0	The professor recommended the text to the class as an excellent resource for understanding the underlying theories of quantum physics.	7
+24	2	2	2	0	0	1	7	0	1	0	2	2	4	5.0	12	3	1	1	4	2	Despite initially facing challenges in adapting their products to emerging markets, companies now realize the importance of local innovation to maintain growth.	7
+16	0	1	2	0	0	2	7	0	1	0	1	0	2	4.0	7	1	1	2	1	0	A family reunion takes place annually in the lake side house where my grandparents live.	7
+23	3	3	0	0	0	2	9	0	1	0	2	1	2	5.0	12	1	0	2	2	1	After our team conducted interviews with local villagers about potential fishing regulations, environmental activists protested the plans outside the town hall.	7
+22	2	3	1	0	0	3	7	0	0	0	3	0	2	4.0	7	1	1	1	1	0	Beneath the lush forest canopy, sunlight filtered down to the stream, creating dappled patterns on the water's surface.	7
+24	2	1	1	1	2	0	6	0	0	0	3	1	7	7.0	6	3	3	1	4	0	Scarecrows are often depicted wearing wide-brimmed hats and carry rakes, symbolizing rural labor and deterring birds from feeding on crops.	7
+19	0	2	1	0	0	2	7	0	1	0	2	0	3	4.0	10	2	2	1	1	0	The children sat at the table covered in craft supplies, eagerly designing their Mother's Day cards.	7
+29	3	3	0	1	1	6	8	0	1	2	2	0	2	6.0	7	1	1	2	1	0	In ancient Japanese society, the emperor was considered the divine ruler who embodied the spirit of the sun god and the descendant of the sun god Amaterasu.	7
+22	4	3	0	0	2	3	5	0	1	0	2	0	2	4.0	10	1	1	1	2	0	The ancient civilizations built massive structures out of large and small stones, aligning them with the stars and the equinoxes.	7
+20	3	0	2	1	2	0	5	0	1	0	2	0	4	7.0	4	2	2	2	3	0	Sometimes, tourists prefer visiting remote destinations where they can explore unique landscapes and encounter diverse flora and fauna.	7
+25	5	3	1	0	0	6	6	0	0	0	2	0	2	4.0	14	1	1	2	2	0	The artist applied the thick red paint swiftly with a brush over the large canvas, creating a bold representation of a fiery sun.	7
+20	2	3	0	0	1	4	7	0	0	0	1	0	2	5.0	8	1	1	1	1	0	The professor discussed the various implications and challenges presented by this novel technology with the eager group of students.	7
+22	2	3	0	0	0	3	4	0	1	2	2	1	3	3.0	7	2	1	3	0	1	After the sun sets, Orion's Belt remains visible as the constellation comes into its finest display throughout the year.	7
+16	0	1	0	0	0	3	6	0	1	0	1	0	3	5.0	6	2	2	1	3	0	The archaeologist spent hours examining each artifact to determine its origin during the excavation process.	7
+17	3	2	0	0	1	1	4	0	2	0	2	0	2	3.0	6	0	0	1	2	0	During his long career as a professor, he gave numerous lectures and supervised countless dissertations.	7
+21	0	1	0	0	1	3	6	0	1	0	2	0	4	6.0	5	2	2	1	3	0	The company's CEO addressed the audience, urging them to embrace change and adapt to the market's shifts.	7
+22	1	4	1	0	0	3	7	0	0	0	2	0	3	5.0	7	2	2	1	1	0	The explorer's team discovered remnants of an ancient civilization buried deep under the jungle, hidden from view for centuries.	7
+19	3	3	1	2	1	0	5	0	1	0	2	0	1	4.0	9	0	0	1	0	0	Under our proposal, students from economically disadvantaged families would be entitled to additional resources and academic support.	7
+23	0	4	0	1	1	4	7	0	2	0	2	0	2	7.0	4	1	1	1	1	0	After the conference, participants were given a survey asking for their feedback on the organization of the event and its content.	7
+17	1	3	1	0	1	1	6	1	0	0	1	0	2	4.0	5	1	1	1	1	0	The archaeologists unearthed ancient artifacts beneath layers of sand and debris dating back to 3000 BC.	7
+19	1	1	0	0	1	3	7	0	1	0	2	0	2	4.0	7	1	1	1	2	0	A newborn calf follows its mother around the savanna, learning the way to water and fresh pasture.	7
+22	4	1	0	3	1	4	4	0	1	0	2	0	2	4.0	12	1	1	2	1	0	Children can learn multiple languages at the same age, but the earlier they start the better the outcome might be.	7
+18	1	2	1	0	0	3	4	0	0	0	3	0	4	4.0	8	1	1	1	1	0	The ancient temple ruins, hidden deep in the rainforest, reveal stories about a forgotten civilization.	7
+29	1	3	0	1	0	1	8	0	4	0	2	2	6	8.0	8	5	4	4	2	1	Allegations that she was involved in money laundering intensified after her name appeared in the leak, which led many businesses to cease doing business with her firms.	7
+15	3	2	0	1	1	2	3	0	0	0	2	0	1	4.0	5	0	0	1	0	0	Under the dense canopy, the ground was covered with vibrant and diverse wildflowers.	7
+20	3	1	0	0	2	3	6	0	0	0	2	0	3	4.0	7	1	1	1	3	0	An intricate network connects every organ and vital system, maintaining balance and promoting overall health within an organism.	7
+26	2	1	0	1	2	1	9	0	0	0	2	2	5	4.0	11	2	1	1	3	1	In order to make informed decisions, businesses should collect and analyze data on production costs and market prices before implementing any major strategic changes.	7
+18	2	2	0	0	0	3	5	0	1	0	2	0	2	4.0	5	1	1	1	1	0	Despite his extensive experience, the professor struggled to understand the intricacies of this novel mathematical concept.	7
+21	3	3	1	0	1	1	5	0	2	0	1	0	3	4.0	6	1	0	2	3	1	Children who study French learn not only grammatical rules but pick up conversational patterns from their peers in the playground.	7
+18	2	0	0	1	1	2	4	0	2	0	2	1	3	5.0	4	1	1	2	2	0	The newborn antelope hesitated, unsure if it should follow its mother or investigate the unfamiliar terrain.	7
+17	3	2	1	0	0	2	4	0	0	0	2	0	2	6.0	4	1	1	1	1	0	The new CEO announced a strategic decision to focus on organic growth, rather than acquisitions.	7
+18	1	3	1	0	0	4	5	0	1	0	1	0	2	4.0	7	1	1	2	0	0	The baby gazed intently at the colorful birds that flitted between the tree branches during the picnic.	7
+14	1	0	2	1	1	0	1	0	3	0	2	0	3	4.0	4	2	2	2	1	0	She carefully selected her ingredients, ensuring they were organic and locally sourced.	7
+16	1	0	2	0	1	1	3	0	2	0	1	0	3	3.0	5	1	1	1	2	0	The professor's harsh criticism encouraged us to revise our drafts meticulously and write clearly.	7
+17	2	2	2	0	0	3	3	1	1	0	2	0	1	6.0	9	0	0	2	1	0	The archaeologist carefully uncovered the ancient artifacts, some of them more than 5,000 years old.	7
+22	2	2	0	0	1	2	7	0	3	0	1	0	3	8.0	4	2	2	2	3	0	The company offers a range of flexible work arrangements for employees who need them to balance their careers and personal responsibilities.	7
+19	5	1	0	0	2	2	5	1	0	0	1	0	2	5.0	6	0	0	2	2	0	Two scientists from different research institutions conducted separate experiments and both obtained the same unexpected but significant results.	7

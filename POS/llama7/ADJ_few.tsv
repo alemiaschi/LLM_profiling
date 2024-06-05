@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADJ_constraint
+15	1	0	1	2	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enron building in your call.	0
+15	1	0	1	2	0	1	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the McDonald's in your call.	0
+14	0	0	1	2	0	3	2	2	0	2	0	1	0	1	1	1	0	3.0	1	6	The tiger was coming towards my direction with an intent to attack me.	0
+22	1	0	2	3	2	2	1	0	5	2	2	0	0	1	0	2	0	4.0	1	15	Call us to order food at Pancho's Bar and Grill on Tuesday, December 26 at 8:45am or later.	0
+15	1	0	1	2	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enron building in your call.	0
+12	1	0	1	0	0	2	2	1	0	3	0	1	0	2	1	2	0	4.0	2	5	Please let us know when the meeting has reached its end.	0
+8	0	0	1	1	0	1	0	1	1	1	0	1	1	0	1	0	0	2.0	0	3	The meeting is scheduled for next Friday.	0
+12	1	0	0	2	0	1	2	1	1	2	0	1	0	1	1	1	0	3.0	1	6	Do you want us to come over to the Enron building in	0
+15	1	0	1	2	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enron building in your call. 	0
+10	1	1	1	0	0	2	2	1	0	2	0	0	0	1	1	2	0	3.0	1	4	Call us if you have a rodent infestation soon.	0
+19	1	1	1	2	0	3	3	2	2	3	0	1	0	2	3	2	0	4.0	2	7	The manager told Mark he could go to the party early as he completed his work on Friday. 	0
+8	1	0	1	0	0	1	1	0	0	2	0	1	0	1	1	1	0	2.0	1	3	I'm coming over to watch movies. 	0
+12	1	0	1	1	0	3	1	2	0	2	0	0	1	1	2	0	0	3.0	1	5	The sky turned pink when the aliens arrived in their spaceship.	0
+15	0	0	1	3	0	3	2	2	0	2	1	0	0	1	1	1	0	4.0	1	10	We need to schedule an meeting with you at the bank tomorrow at 2.	0
+15	1	0	1	2	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enron building in your call.	0
+5	0	0	1	0	0	1	0	0	1	1	0	1	0	0	1	0	0	1.0	0	2	John is coming tomorrow.	0
+16	1	0	1	2	0	3	4	1	0	1	0	2	1	0	1	2	0	3.0	0	10	We should have never given you the keys to his vehicle after your last DUI.	0
+20	1	0	2	3	0	6	2	3	0	1	0	0	2	0	2	0	0	4.0	0	11	The cat purred contentedly on my lap, its soft fur a gentle reminder of the warmth of home.	0
+15	1	0	1	1	0	2	3	1	0	3	0	1	0	2	1	2	0	4.0	2	6	Do you want us to come over to your house to wash the dishes?	0
+9	0	0	1	0	0	1	1	1	1	2	0	1	1	1	1	1	0	3.0	1	4	I'll go see the dentist next Tuesday.	0
+15	1	0	1	2	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enron building in your call.	0
+14	1	0	1	2	0	2	3	1	0	2	0	1	0	1	1	1	0	3.0	1	7	Do you want us to come over to your home in the afternoon?	0
+15	1	0	1	2	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enron building in your call.	0
+14	1	0	0	2	1	3	2	1	0	3	0	0	0	1	0	2	0	4.0	1	6	Please come over to my place and help me move stuff around the couch	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	The sky turned orange for no apparent reason.	0
+12	2	1	1	1	0	2	1	1	0	1	0	1	1	0	1	0	0	3.0	0	6	I am coming to the coffee shop as soon as possible!	0
+10	0	0	1	0	0	2	1	2	1	2	0	0	0	1	1	2	0	3.0	1	3	The boss wants you to work overtime this Friday.	0
+12	1	0	1	0	1	1	3	0	0	3	0	1	0	1	1	2	0	4.0	1	3	Do you want us to come over and eat your muffin?	0
+20	0	0	1	3	0	5	2	3	0	1	1	2	1	1	1	1	0	3.0	1	8	I will be at your house in ten minutes to mow the lawn for the third time this month.	0
+9	0	0	1	1	0	2	1	0	1	2	0	0	0	1	1	1	0	3.0	1	4	I want to eat lunch today with John.	0
+15	1	0	1	3	0	2	3	1	0	2	0	1	0	1	1	1	0	4.0	1	4	Do you want us to come over to the bank of in your call.	0
+10	1	1	1	0	0	0	2	0	0	1	0	2	1	1	2	0	0	2.0	1	5	I am very upset that he did not call.	0
+13	1	0	1	1	0	1	2	1	1	2	0	1	0	1	1	2	0	3.0	1	5	I don't want him to bring home a cat on Thursday.	0
+9	0	0	1	1	0	3	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The clock on the mantle was 4:20 PM.,Do you want us to come over to th in your call.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+7	0	0	0	1	0	3	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	The bear chased his tail with excitement	0
+9	0	0	1	1	0	2	1	0	2	1	0	1	0	0	1	1	0	2.0	0	5	We will eat lunch at Shakes Burgers tomorrow.	0
+7	0	0	1	0	0	1	0	0	1	2	0	0	1	1	1	1	0	2.0	1	4	John needs more cash to survive.	0
+15	1	0	1	2	0	2	3	1	0	3	0	1	0	1	1	1	0	4.0	1	5	Do you want us to come over to the enclosed room in your home?	0
+10	0	0	1	1	0	3	0	3	0	1	0	1	0	0	1	1	0	2.0	0	5	The gorilla will destroy the tree at the intersection.	0
+19	2	0	1	1	1	2	3	1	0	3	1	1	1	2	1	2	0	5.0	2	6	Do you want us to come over to fix your roof immediately or in the next 24 hours? 	0
+11	2	0	1	1	0	2	2	1	0	1	0	1	0	0	1	1	0	2.0	0	6	I will never eat a sandwich again in my life.	0
+11	0	0	1	2	0	2	1	1	1	1	0	0	1	0	0	1	0	2.0	0	8	Please pick the package up at your local FedEx location.	0
+10	0	0	1	2	0	2	2	1	1	1	0	0	0	0	1	0	0	2.0	0	7	We went to the Enron building in your call. 	0
+15	1	0	2	2	0	1	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enrons' in your call.	0
+12	0	0	0	2	0	3	0	3	0	2	0	1	1	1	1	0	0	3.0	1	7	The cat was seen strolling past the library in an elegant gait	0
+11	0	0	1	1	0	3	1	2	0	1	0	1	1	0	1	1	0	3.0	0	4	Did you have a nice time at the amusement park?	0
+14	0	0	1	2	0	2	3	0	0	2	0	1	2	1	1	1	0	4.0	1	7	Do you want them to get rid of their pest problem for good?	0
+15	1	0	1	2	0	2	3	1	1	2	0	1	0	1	1	1	0	3.0	1	8	Do you want us to come over to the Enron building in your call. 	0
+14	1	0	1	2	0	2	3	1	0	2	0	1	0	1	1	1	0	3.0	1	7	Do you want us to come over to the hospital in your call.	0
+7	0	0	1	1	0	2	0	0	1	1	0	0	0	0	1	0	0	3.0	0	2	Jake's face contorted in frustration.	1
+8	0	0	1	1	0	1	1	1	0	1	0	2	0	0	1	0	0	2.0	0	3	You will be impressed with the results.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The dog ran swiftly across the sunny field.	1
+20	1	0	2	3	1	3	0	1	3	2	0	2	2	0	2	0	0	4.0	0	14	Hundreds of people are feared dead in Florida, and the Louisiana city of New Orleans is badly flooded.	1
+13	1	0	1	1	0	3	1	2	0	2	0	0	2	1	2	2	0	4.0	1	5	Little by little the wolf devoured the goose that laid golden eggs.	1
+13	1	0	2	1	0	4	0	2	0	0	0	1	2	0	1	0	0	3.0	0	6	The airfare was incredibly cheap for the last-minute booking.</response	1
+18	1	0	1	3	0	4	0	3	0	3	0	0	2	1	1	1	0	4.0	1	5	A group of brave explorers set out to discover an ancient lost city deep in the jungle.	1
+6	0	0	0	0	0	2	0	1	0	1	1	0	1	0	1	1	0	2.0	0	2	The delicious cake had three layers	1
+10	0	0	1	2	0	3	0	1	0	2	0	1	0	1	1	0	0	3.0	1	5	Bears were seen feeding on fish in the streams.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+20	1	0	2	3	1	3	0	1	3	2	0	2	2	0	2	0	0	4.0	0	14	Hundreds of people are feared dead in Mississippi, and the Louisiana city of New Orleans is badly flooded.	1
+7	0	0	0	1	0	2	0	1	0	1	0	0	2	0	1	0	0	3.0	0	3	A new threat from space appears imminent	1
+12	0	0	1	3	0	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	8	Flights were grounded across the nation due to the terrible storm.	1
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A tiny kitten mewled loudly in the corner.	1
+12	2	0	1	1	0	2	0	0	2	1	0	2	1	0	1	0	0	4.0	0	5	New York City streets are currently being completely covered in snow.	1
+6	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	"The bear was incredibly cute. (Note: The word ""cute"" is an adjective modifying the noun ""bear"".)"	1
+11	1	0	1	0	0	3	1	1	0	2	0	1	0	1	1	2	0	3.0	1	3	The company will invest millions to expand its business globally.	1
+6	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The dog is extremely tired.	1
+6	1	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	The snow was thickly falling.	1
+14	0	0	2	1	0	3	0	3	0	1	0	0	4	0	1	1	0	3.0	0	6	A tall, dark-haired woman with a bright smile entered the elevator	1
+4	1	0	0	0	0	1	1	0	0	1	0	0	0	0	1	1	0	2.0	0	2	She bought only vegetables	1
+6	2	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The dog ran quickly away.	1
+17	0	0	1	2	0	5	0	2	0	2	0	1	3	1	1	1	0	5.0	1	4	The new restaurant in town was crowded with patrons eager to try the new menu items.	1
+7	0	0	1	0	0	3	0	1	0	1	0	0	1	0	1	1	0	2.0	0	3	The storm damaged several buildings downtown.	1
+4	1	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The baby giggled uncontrollably	1
+9	1	0	1	1	0	3	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The teacher is extremely enthusiastic today in class.	1
+11	0	0	1	2	0	4	0	1	1	1	0	1	0	0	1	1	0	2.0	0	6	Majority flooding is wreaking havoc on communities throughout the Midwest.	1
+9	0	0	1	0	0	4	0	3	0	1	0	0	0	0	1	2	0	2.0	0	5	The teacher gave the student a stern look.	1
+12	0	0	1	1	0	3	0	3	0	0	0	1	3	0	1	0	0	2.0	0	4	The delicious food was a perfect complement to the elegant ambiance.	1
+11	1	0	1	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	5	The delicious pizza was devoured rapidly by the eager crowd.	1
+11	0	0	1	2	0	3	0	1	1	1	0	1	1	0	1	0	0	2.0	0	6	Mississippi residents are struggling for survival after the natural disaster.	1
+11	0	1	1	0	0	3	0	2	1	2	0	1	0	1	2	1	0	3.0	1	4	Mississippi is a devastated region after storms ravaged the state.	1
+9	0	0	1	1	0	3	1	1	0	1	0	0	1	0	1	1	0	2.0	0	5	The dog wagged its short tail with excitement.	1
+8	0	0	1	1	0	3	0	1	0	1	0	1	0	0	1	1	0	3.0	0	4	Hundreds of dogs are chasing that cat.	1
+14	0	0	1	1	0	3	0	2	1	2	0	1	2	1	1	1	0	4.0	1	5	Sunset was painting the horizon with warm colors, a beautiful sight to behold	1
+8	1	0	1	1	0	2	0	0	1	1	0	0	0	0	1	0	0	3.0	0	5	Bears roam wildly in Siberia's forests.	1
+9	0	0	1	1	0	2	0	1	1	1	0	0	2	0	1	1	0	3.0	0	2	A massive earthquake destroyed entire cities in Japan.	1
+12	0	0	1	1	0	3	0	2	0	3	0	0	2	1	1	1	0	4.0	1	4	Bright green ferns grow in the shaded woods surrounding the park.	1
+6	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The airport is incredibly busy.	1
+13	0	0	2	1	1	2	2	2	0	1	0	1	1	0	2	1	0	4.0	0	4	The concert was amazing, and I loved every minute of it.	1
+11	0	0	1	0	1	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	5	The teacher praised the students' quick thinking and resourcefulness.	1
+8	1	0	0	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The turtle moved slowly across the sandy beach	1
+10	0	0	1	1	0	2	1	2	0	1	0	0	2	0	1	1	0	2.0	0	7	She bought a new blue dress for the wedding.	1
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	5	Cars zoomed quickly down the deserted highway.	1
+7	1	0	1	0	0	1	0	0	0	2	0	1	1	1	1	0	0	2.0	1	2	Many birds were seen flying overhead.	1
+13	1	0	1	1	1	2	0	1	0	1	0	3	2	0	1	0	0	3.0	0	4	The new car had been thoroughly inspected and was ready for takeoff.	1
+7	0	0	0	0	0	2	1	1	0	1	0	0	2	0	1	1	0	2.0	0	3	The giant squid stretched its long tentacles	1
+6	1	0	0	1	0	0	0	0	1	1	0	1	1	0	1	0	0	2.0	0	3	Arabs are widely regarded as untrustworthy	1
+9	1	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	The children were happily running around the park.	1
+9	0	0	1	1	1	3	0	0	1	2	0	0	0	0	1	1	0	4.0	0	4	Rain pours over Seattle, drenching sidewalks and street	1
+21	2	0	1	2	1	7	1	2	0	2	0	0	2	1	1	2	0	4.0	1	8	Carefully and strategically, the new CEO navigated the intricate web of company politics to secure funding for her pet project	2
+17	1	0	2	2	1	4	0	1	0	3	1	0	2	1	1	1	0	4.0	1	5	Four-legged and fiercely wild animals prowled the darkening forest, searching for signs of vulnerability.	2
+11	2	0	2	1	1	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	Unpredictably and precariously, Jack tiptoed across the swaying bridge.	2
+13	0	0	2	1	0	5	0	2	0	2	0	0	1	1	1	2	0	4.0	1	5	Freshness permeated the morning air, heightening anticipation of an impending adventure.	2
+23	1	0	2	2	0	6	1	3	0	2	0	1	3	2	2	1	0	5.0	2	7	The intricate design of the cathedral's facade was visible from the distant hilltop, where tourists gathered to admire its grandeur.	2
+11	2	0	1	0	1	2	0	1	0	0	0	1	3	0	1	0	0	2.0	0	3	The new marketing campaign was highly creative and exceptionally successful.	2
+12	2	0	1	1	0	2	0	2	0	2	0	0	2	0	1	0	0	3.0	0	6	The intricately woven carpet seemed extraordinary in the dimly lit parlor.	2
+10	1	0	1	1	0	3	0	1	0	2	0	0	1	0	1	0	0	2.0	0	5	Crystal clear waters sparkled invitingly beneath the shaded shore.	2
+12	1	0	1	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	5	The delicate china teacup gracefully floated in the pristine silver water. 	2
+11	2	0	2	1	1	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	5	Gracefully and ethereally, she glided across the dance floor.	2
+14	2	0	2	1	0	2	1	1	0	1	0	1	3	0	1	0	1	3.0	1	11	Restrainedly exhilarated by their unexpected triumph, the celebratory mood was palpably contagious. (You should provide a sentence like above.)	2
+16	0	0	3	2	0	5	0	0	0	3	0	0	3	1	0	0	0	4.0	1	6	Sunbeam-yellow kitchen with cobalt blue cabinetry gleamed under white-painted coffered ceiling.	2
+8	0	0	1	2	0	2	0	0	0	2	0	0	1	0	0	0	0	2.0	0	3	Amidst venerated grandeur graced by enigmatic splendor.	2
+10	2	0	2	0	1	1	0	1	1	1	0	0	1	0	1	1	0	3.0	0	5	Fiercely and melodiously, Maria sang the old standard.	2
+5	1	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	2.0	0	1	Mesmerizing orbs glinted hypnotically.	2
+22	2	2	2	2	0	4	1	4	0	4	0	0	1	1	0	1	1	5.0	2	8	Unless explicitly outlined in the contract, there was no chance of acquiring any more additional extensions past the alloted time.	2
+14	2	0	1	2	0	4	0	3	0	2	0	0	0	1	1	0	0	4.0	1	5	The sunbeams quivered energetically through the dust motes floating idly in the window.	2
+20	2	0	2	3	0	4	1	1	2	2	0	1	2	1	1	1	0	4.0	1	8	Boldly innovative ideas were discreetly presented by Jane Doe at the conference, shocking attendees with their sheer brilliance.	2
+18	0	0	2	2	1	5	1	0	1	2	0	0	3	0	2	1	0	3.0	0	8	Luminous orbs of laughter graced Annie’s countenance, and vivacious joy danced in her sparkling eyes.	2
+12	1	0	1	1	0	2	1	2	0	2	0	1	0	1	1	1	0	3.0	1	6	Both of the kids were ridiculously thrilled to see their mother.	2
+26	5	0	6	2	0	3	3	1	0	4	0	0	1	0	1	3	0	3.0	0	13	Briefly, in swift motions, he gathered tools, set them apart, then began to quickly, quietly assemble the device before us.	2
+19	1	0	1	2	1	5	0	1	1	4	0	1	1	1	1	1	0	3.0	1	9	Amidst raging controversy and legal challenges the newly proposed amendments were set to take effect on June 1st.	2
+15	0	0	2	2	2	3	0	1	0	0	0	1	4	0	1	0	0	3.0	0	6	The hotel was luxurious and opulent, with lavish furnishings and ornate fixtures throughout.	2
+15	2	0	2	1	2	4	1	1	0	1	0	0	1	0	1	1	0	4.0	0	5	Impressively and gracefully, she performed the intricate dance moves with precision and flair.	2
+19	2	0	2	3	1	4	1	2	0	3	0	0	1	0	1	0	0	5.0	0	11	In a series of carefully planned and rehearsed movements, the cat gracefully pounced on its unsuspecting prey.	2
+10	1	0	0	1	0	3	0	0	0	2	0	1	2	1	1	1	0	3.0	1	3	Supremely luxurious mansion was located atop hill overlooking tranquil lake	2
+14	0	0	2	3	0	4	0	2	0	2	0	0	1	0	1	0	0	3.0	0	5	Amid soaring skies, the fuzzy kitten snuggled into a patch of sunbeams.	2
+20	1	0	1	2	3	4	0	2	0	3	0	0	3	0	1	1	1	5.0	1	12	Understanding and appreciating both the ancient and modern beauty of Japanese gardens unfolds gracefully before the beholder's gaze.	2
+14	0	0	1	0	1	5	2	0	0	2	0	0	2	1	2	1	0	3.0	1	5	Their grandparents' attic contained heirloom quilts and antiquated furniture that smelt musty. 	2
+16	0	0	1	1	1	7	1	1	0	2	0	0	2	1	2	2	0	4.0	1	8	The company provided generous benefits and salary package incentives for employees who exhibited exceptional performance.	2
+22	1	1	3	1	1	6	2	0	1	2	3	0	1	0	1	1	0	4.0	0	12	Six weeks, two weeks and one week before departing, Sarah always booked herself into her preferred beauty spa treatments.	2
+12	2	0	2	1	2	3	0	1	0	1	0	0	0	0	1	0	0	3.0	0	6	Eerily and mysteriously, the figure moved with grace and precision.	2
+13	1	0	1	0	1	4	0	1	0	1	0	0	3	0	1	1	0	4.0	0	6	The company's new product demonstrates exceptionally promising and impressive performance figures.	2
+11	2	0	2	0	1	1	0	1	1	1	0	0	2	0	1	1	0	3.0	0	5	Happily and curiously, Sarah tasted the strange new food.	2
+14	2	0	2	1	1	3	1	2	0	1	0	0	1	0	1	1	0	3.0	0	6	Eloquently and profoundly, the poet delivered her lines to the silent audience.	2
+15	2	0	2	2	1	2	1	2	0	1	0	1	1	0	1	0	0	3.0	0	6	Entirely and momentarily, I was left speechless in the face of that confession. 	2
+16	3	0	2	2	0	3	1	1	1	3	0	0	0	0	1	1	1	4.0	1	9	Elegantly adorning her face with meticulously applied cosmetics, Aisha glided gracefully across the ballroom.	2
+17	0	0	2	1	1	3	1	2	0	4	0	1	1	2	2	0	1	4.0	3	7	Agitated and dismayed, the children were shocked to see their friend disappear beneath a wave. (Only 1 adjective is required) 	2
+15	2	0	1	2	1	3	0	2	1	1	0	1	1	0	1	0	0	4.0	0	4	Safely and soundly constructed aircrafts were the focus of the recent conference in Tokyo.	2
+13	2	0	2	1	1	2	0	2	1	1	0	0	1	0	1	1	0	3.0	0	5	Eagerly and silently, Sarah observed the man in the yellow suit.	2
+13	1	0	0	1	1	3	1	1	0	1	0	1	3	0	1	0	0	3.0	0	5	Their exquisite ballgowns and formal attire were displayed elegantly throughout the grand manor	2
+20	0	0	2	2	1	5	0	3	0	2	0	0	4	1	1	1	0	6.0	1	6	The sun's golden light diffused through the dusty windowpanes, illuminating the shadows with hazy and mellow illumination. 	2
+13	2	0	0	1	0	4	0	1	0	3	0	0	2	0	1	1	1	4.0	1	8	Tantalizingly sweet melons languidly ripened beneath a sweltering summer sky invite lusty gobble	2
+15	2	0	1	2	0	2	0	2	0	3	0	0	3	0	1	0	1	3.0	1	10	Brightly gleaming in dazzling white array, the softly humming engine idled at the ready	2
+11	1	0	2	2	0	2	0	2	0	1	0	0	1	1	0	0	0	3.0	1	3	Amidst the serene surroundings, gracefully gliding across the pond.	2
+19	2	0	2	2	1	4	1	3	0	2	0	0	2	0	1	1	0	3.0	0	7	Brightly coloured and softly spoken, the child enthralled the adults with their tale of a magical kingdom.	2
+12	3	0	1	1	0	2	2	0	0	2	0	0	1	0	1	0	0	3.0	0	5	His exceptionally large fingers eagerly rummaged through her messily organized drawer.	2
+15	0	0	2	2	1	3	1	0	0	2	0	0	3	1	1	0	0	4.0	1	3	Without further ado, they set to work with unwavering dedication and unrelenting enthusiasm.	2
+17	4	0	2	1	2	3	0	1	0	3	0	1	0	0	1	0	1	3.0	1	9	Carefully crafted and masterfully presented, the exhibition was well received by critics and visitors alike.	2
+17	2	0	2	1	1	4	0	3	0	4	0	0	0	1	1	2	0	5.0	1	4	The rain poured incessantly down and obscured visibility, complicating the search for the lost child.	2
+22	2	0	1	2	0	6	2	3	1	2	0	0	3	1	2	2	0	4.0	1	9	The pungent spices transported my taste buds to the aromatic market in Mumbai where the vibrant vendors passionately sold their wares.	4
+28	5	1	2	2	1	6	2	3	1	4	0	0	0	2	2	3	0	3.0	2	14	Jonathan swiftly swung his feet back to rest against the chair back, while he slowly stirred the coffee with a metal straw and blew bubbles contently.	4
+12	1	0	1	1	0	3	0	2	0	2	0	0	2	0	1	0	0	2.0	0	6	The bright orange flame danced playfully on the darkening forest floor.	4
+23	1	0	4	1	0	7	1	3	0	3	0	0	3	1	2	1	0	5.0	1	7	The majestic mountain peaks rose precipitously from the tranquil lake, their snow-capped summits piercing the crystal-clear sky.	4
+17	0	0	1	1	0	5	0	1	0	3	0	0	4	2	1	3	0	4.0	2	7	Fierce competition led companies to produce innovative products at lower costs to gain a competitive advantage.	4
+24	1	0	2	3	2	5	3	2	0	3	0	1	2	2	1	1	0	4.0	2	11	A tranquil environment surrounded by nature and gentle sounds, where one could relax and immerse themselves in their thoughts without any interruptions.	4
+21	1	1	1	2	0	5	0	1	0	4	1	0	5	3	1	2	0	8.0	3	3	Four eager students eagerly embarked upon learning the complex art of pottery making with intricate designs adorning fragile ceramic masterpieces.	4
+31	0	0	2	6	0	10	1	0	0	7	0	0	5	3	2	1	0	7.0	3	14	Amazonian tribesman trekked winding pathways amidst lush rainforests brimming with uncommon creatures; their rustic dwellings nestled along verdant hillsides dappled in shifting hues of sunlight sifting through towering canopies.	4
+23	0	0	2	3	1	9	0	1	0	3	0	0	4	1	1	1	0	4.0	1	11	The new hiking path weaves around ancient rock formations and through fragrant pine forests, offering breathtaking vistas of surrounding mountain ranges.	4
+24	1	0	5	1	2	5	0	2	0	2	0	0	6	1	1	2	0	4.0	1	8	Historic, sprawling, intricate, and serene architecture permeates the urban landscape, casting a gentle spell on visitors and locals alike.	4
+32	1	0	3	3	3	11	0	1	0	5	1	0	4	1	1	2	0	7.0	1	11	Four intrepid adventurers forthwith forsook the forest floor for fearsome flora and fauna, and found fortune in formidable frozen fjords flanked by fabulous ferns and fern-fringed freshwater lakes.	4
+25	0	0	3	2	1	7	0	3	0	2	0	0	6	1	1	1	0	5.0	1	11	The ancient city's grand colonnaded streets thronged with life, the scent of fresh bread and spices filling the warm, golden air.	4
+21	1	0	3	3	0	5	0	2	0	3	0	0	4	1	1	1	0	5.0	1	10	The new restaurant served innovative dishes crafted with organic, locally-sourced ingredients in an atmosphere of cozy intimacy.	4
+14	0	0	1	2	0	5	0	3	0	1	0	0	2	0	1	0	0	3.0	0	4	The lustrous silk threads sparkled beneath the flickering candlelight with each delicate movement.	4
+15	4	0	5	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	10	Astoundingly, enigmatically, luminously, tantalizingly, the magician revealed the mystical secrets.	4
+28	1	0	1	3	1	8	1	2	0	3	1	2	4	2	2	2	0	8.0	2	5	Four hours of rigorous exercise was necessary daily to offset the damage of the decadent lifestyle that had caused weight gain and increased risk of metabolic disease.	4
+14	1	1	1	1	0	3	1	1	0	2	0	0	3	1	2	0	0	3.0	1	9	Astonishing views unfolded before my mesmerized gaze as the vivid landscape transformed seamlessly.	4
+21	0	0	2	4	0	7	0	2	0	2	0	0	4	1	1	1	0	4.0	1	7	Ethereal jellybeans tumbled across the crystalline sky amid a kaleidoscope of fluorescent sparkles, casting rainbow splashes in iridescent shadows.	4
+16	1	0	1	2	0	6	0	2	0	2	0	0	2	0	1	0	0	4.0	0	7	The scrumptious scent of freshly baked chocolate chip cookies wafted through the sunny breakfast nook.	4
+14	0	0	1	1	1	5	0	2	0	1	0	0	2	0	1	1	0	4.0	0	7	The scent of blooming peonies filled the garden's warm and sunny air.	4
+14	0	0	2	1	1	3	1	1	0	2	0	0	3	0	1	1	0	4.0	0	7	The elegant, sophisticated cat sipped its tea with refined and cultured manner.	4
+41	1	0	7	8	1	10	1	2	0	3	0	0	8	2	1	0	0	7.0	2	12	Nevertheless, their uncompromising dedication to free jazz – played on out-of-tune instruments, with complex time signatures and modal experimentation – led to a new musical landscape characterized by an unprecedented intensity of creative ferment. 	4
+18	0	0	2	2	0	5	1	4	0	3	0	0	1	2	2	2	0	6.0	2	5	The vibrant colors dance across the canvas, creating a symphony of emotions that engulf the onlooker.	4
+23	0	0	2	2	1	6	3	2	0	2	0	0	5	1	2	1	0	6.0	1	7	Intricate geometric tattoos decorate his buff and muscular shoulders, a vivid reflection of the bold warrior who beats in his veins.	4
+12	0	0	1	2	0	4	0	1	0	2	0	0	2	1	0	0	0	4.0	1	4	Sun-soaked mornings basking in the vibrant hues of blossoming cherry trees.	4
+14	1	0	2	2	0	3	0	0	0	2	0	0	4	1	1	0	0	4.0	1	5	Adorable tiny kittens played joyfully in sunbeams streaming through venerable, dusty windows.	4
+16	0	0	1	3	0	6	0	0	0	3	0	0	3	2	1	1	0	6.0	2	4	Historical landmarks stand sentinel along cobblestone streets flanked by ornate shops overflowing with handmade trinkets.	4
+20	0	0	2	2	0	4	2	3	0	3	0	0	4	2	2	2	0	5.0	2	7	Energetic youths hurled themselves into the electrifying waves, savoring the thrilling spray that sparkled amidst the sun-kissed shoreline.	4
+29	0	0	5	1	0	6	2	2	0	3	0	1	8	2	2	3	0	6.0	2	7	Crucial, unsettling, surreal, transcendent experiences shaped the young girl's identity, fostering an unquenchable passion that would fuel her lifelong quest for artistic expression.	4
+15	0	0	2	1	0	4	0	2	0	2	0	0	4	1	1	2	0	3.0	1	6	Benevolent clouds enveloped the serene landscape, diffusing ethereal light across the verdant terrain.	4
+27	3	0	2	3	0	5	2	2	0	4	0	0	6	0	1	1	1	5.0	1	14	Boldly anticipating profound futuristic consequences from its meticulously encoded digital matrix, a technological titan expands inexorably through the vast interconnected networks of its global cyberinfrastructure.	4
+15	1	0	2	1	0	4	0	3	0	1	0	0	3	0	1	1	0	3.0	0	6	A gargantuan leap forward, this groundbreaking innovation had a tremendous impact on society.	4
+16	0	0	0	3	1	4	0	3	0	1	0	1	3	0	1	0	0	5.0	0	7	The intricate layers of historical and cultural narratives are unraveled with each turn of the page	4
+17	0	0	2	3	0	6	0	1	0	1	0	0	3	0	1	0	0	3.0	0	13	Sun-kissed smiles flicker on children's faces during endless summers by the crystal-clear sea.	4
+20	0	0	1	5	0	5	0	3	1	1	0	0	4	0	1	0	0	4.0	0	7	The delicate balance of life hinges on the intricate weave of interconnected ecosystems throughout this fragile paradise on Earth.	4
+21	0	0	1	4	1	7	0	2	0	2	0	0	4	1	1	1	0	6.0	1	5	A complex network of interpersonal dynamics unfolded over the evening, involving multiple strands of conversation and subtle exchanges between interlocutors	4
+23	2	1	3	3	0	4	1	2	0	4	0	0	3	1	2	0	1	4.0	2	10	Lying across from the dark-lit window, I listened intently as the faint sound gradually developed into several whispered voices.	4
+19	2	0	1	2	1	4	1	3	0	2	0	0	3	1	2	1	0	5.0	1	9	The melody floated effortlessly above the audience with graceful and delicate chords that illuminated the dimly lit nightclub.	4
+23	3	0	2	2	0	5	0	3	0	4	0	0	3	2	1	1	0	5.0	2	11	Fiery lava flows spewed forth violently from the volcano's gaping maw, ominously foretelling the impending doom for the nearby village.	4
+24	0	0	4	2	0	5	1	2	0	4	0	0	6	2	2	2	0	7.0	2	5	The dark, gloomy atmosphere permeated the abandoned asylum, filled with cold, creepy shadows that whispered unsettling tales of unresolved anguish.	4
+12	1	0	3	1	0	3	0	0	0	3	0	0	1	1	1	1	0	3.0	1	5	Oceans of stars twinkled, shimmering celestially, glimmering crystalline brilliance.	4
+29	0	0	2	6	1	9	2	1	2	3	0	0	3	2	1	2	0	7.0	2	7	Flappers embraced modernism through art and literature, manifesting their rejection of traditional values with elongated beads dancing on their bodies to the improvisational jazz of Louis Armstrong.	4
+16	1	0	2	1	0	4	0	3	0	3	0	0	2	1	1	1	1	4.0	2	6	The lush vegetation surrounding the crystal clear water glistened invitingly, sparkling in the sunlight.	4
+17	0	0	1	3	0	4	0	3	0	2	0	0	4	1	1	0	0	5.0	1	4	Fortuitous exploration led to an extraordinary encounter with an inconceivable creature lurking in an impenetrable forest.	4
+17	0	0	4	0	0	5	0	0	0	2	0	0	6	0	0	0	0	2.0	0	13	Emerald green canopy, crisp clear turquoise hues, velvety smooth chocolate, sparkling shimmering gold.	4
+10	1	0	0	2	0	3	1	1	0	1	0	0	1	0	1	1	0	3.0	0	3	In the kitchen I always find solace in uncluttered countertops	4
+8	1	0	1	1	0	2	0	0	0	1	0	0	2	0	1	0	0	2.0	0	4	Livid lions loomed lankily in low light.	4
+14	0	0	4	0	1	2	0	2	0	1	0	0	4	0	1	1	0	3.0	0	11	Adventurous, ancient, ornate, and vibrant – the mural captivated the room	4
+10	1	0	1	2	0	4	0	1	0	0	0	0	1	0	0	0	0	3.0	0	4	Raindrops patter against a lush canopy of leaves above.	4
+14	0	1	1	2	0	4	0	1	0	3	0	0	2	1	1	1	0	3.0	1	5	The gorgeous waterfall cascades down rugged rocks before splashing into sparkling turquoise pools.	4
+19	0	0	2	2	1	5	0	1	1	3	0	1	2	0	1	0	0	4.0	0	5	Morgan's magnificent magic show was met with a mixture of mesmerized gasps and scattered, skeptical applause.	6
+35	0	0	9	2	1	6	1	5	2	3	0	0	6	1	1	2	0	5.0	1	13	The tall, graceful, stylish, elegant, poised, and reserved supermodel, Heather Amos, descended the runway with unstoppable confidence, her every move capturing the attention of the crowd.	6
+24	1	0	8	1	0	4	0	2	0	2	0	0	6	0	1	0	0	3.0	0	12	The large, gorgeous, sleek, black, male, Persian cat, sat gracefully on the plush, cream coloured carpet.	6
+13	1	0	0	2	0	3	0	3	0	1	0	0	3	0	1	0	0	3.0	0	5	The majestic tigress stalked silently through the dappled shadows of the mature forest	6
+26	0	0	5	4	0	6	1	3	1	1	0	0	5	0	1	0	0	4.0	0	11	Murphy, an elderly man with sun-battered, crinkly skin, hobbled down the street with a walking stick in his gnarled, twisted hands. 	6
+16	1	1	2	2	0	2	2	1	1	2	0	0	2	1	2	0	0	3.0	1	9	Mandy smiled sweetly as she walked into the party in her sparkling, sequined dress.	6
+35	8	0	7	1	1	4	1	1	0	2	0	2	7	2	2	0	0	5.0	2	16	The juvenile justice system is designed to rehabilitate instead of punish children, who are often manifestly inquisitive, persistently resistant, grievously remorseful, alarmingly violent, profoundly unstable, and incapacitatingly unpredictable.	6
+23	0	0	8	1	0	2	0	2	0	1	0	0	9	1	0	0	0	3.0	1	12	The elegant, charming, witty, endearing, graceful, shy princess curtsied before the delighted, enchanted, smitten court.	6
+22	0	0	7	1	0	3	1	1	0	1	0	0	8	0	1	1	0	2.0	0	10	The tiny, adorable, playful, lazy, ferocious puppy wagged his fluffy, cute, little tail with excitement.	6
+28	0	0	6	3	1	5	1	3	0	2	0	0	7	0	0	0	0	4.0	0	14	Amidst the tumultuous, unpredictable, chaotic, divisive, discouraging and disastrous political climate, there persisted a ray of hope for a negotiated peace agreement.	6
+32	1	1	6	3	1	5	2	1	1	3	1	0	5	2	1	1	0	6.0	2	14	Meghan insisted on meeting with her favorite, most elegant, smartest, and kindest designer to create a one-of-a-kind bridal gown for her big day.	6
+13	2	0	1	1	0	4	1	1	0	2	0	0	1	0	1	1	0	3.0	0	7	Melodiously chirping sparrows delightfully sang their symphony amidst the dewy morning sunbeams.	6
+19	0	0	5	2	0	3	1	2	0	1	0	0	5	0	1	0	0	2.0	0	15	The baby giggled at the colorful, fluffy, silly, smiley, sparkly toy in her arms.	6
+34	1	1	7	2	2	4	2	1	1	3	1	1	8	2	2	1	0	6.0	2	28	Maria is a beautiful teacher, who often sings, with joyful and lively young students, inside her charming classroom, while using various colorful and engaging educational materials. [6]	6
+23	0	0	6	1	1	3	0	1	2	2	0	0	6	0	1	1	0	5.0	0	14	Mrs. Fletcher's classroom had a diverse assemblage of curious, excitable, chatty, reserved, diligent, and eccentric students.	6
+13	3	0	3	1	0	2	1	1	0	1	0	0	1	0	1	0	0	2.0	0	9	The cat pounced gracefully, agilely, silently upon its helpless prey.	6
+32	0	0	8	2	0	7	1	3	0	2	0	1	8	0	1	1	0	4.0	0	22	The bouncy, vibrant, cheery kitty was having an energetic, zesty, spry playtime with its tiger-like, cinnamon-furred friend in the flickering morning light.	6
+22	1	0	3	1	2	5	0	2	0	2	0	0	6	0	1	1	1	3.0	1	12	Tucked away in a quiet neighborhood, the quaint bed and breakfast boasted tasteful, antique décor and comfortable, plush accommodations	6
+18	2	0	6	0	0	2	0	1	0	3	0	0	4	1	1	1	0	3.0	1	8	The softly-spoken woman spoke confidently, radiating warm, gentle, friendly, caring energy.	6
+31	0	0	6	2	1	6	2	4	1	3	0	0	6	2	2	2	0	7.0	2	9	Maria, the exotic-looking supermodel, strutted down the catwalk with a nonchalant grace, wearing a skimpy, feathered bikini that accentuated her toned and tanned physique.	6
+21	1	0	4	1	0	3	2	1	1	2	0	1	5	1	2	2	0	4.0	1	9	Mariah was wearing a stylish, expensive, designer outfit that showed off her tall, lithe, slender physique perfectly	6
+15	3	1	1	1	1	2	0	1	1	2	0	0	2	1	1	1	0	4.0	1	9	Maria smiled warmly while delivering cold hard cash quickly and efficiently throughout the room.	6
+27	1	0	5	3	1	5	1	3	0	3	1	0	4	1	2	1	0	5.0	1	23	The café served mediocre, lukewarm coffee to an assembly of disappointed, disgruntled patrons who loudly complained and departed in a huff. [6]	6
+27	1	1	4	3	1	8	2	2	0	2	0	0	3	0	2	1	1	4.0	1	14	As he sat nervously in the interview room, the tense, anxious, exhausted man felt his heart race in anticipation of disappointment and disqualification.	6
+20	1	1	3	1	1	4	1	2	1	3	0	0	2	1	1	2	0	4.0	1	8	Betty quickly grabbed her small, pink purse, and left the store without paying for the designer dress.	6
+22	1	0	5	2	2	1	1	1	0	3	0	1	5	0	1	0	0	4.0	0	12	Most of them were young, blonde, smiling, happy, and completely naked, wriggling and dancing in the moonlight	6
+16	2	0	4	1	0	2	0	2	0	1	0	0	4	0	1	0	0	3.0	0	7	The old dog trudged slowly, stubbornly, sulkily, sulky across the muddy yard.	6
+38	2	0	3	6	0	8	3	5	1	5	0	0	4	3	4	0	0	9.0	3	10	John walked through the dark streets alone, his heavy boots crunching over the rough cobblestones, his eyes fixed intently on every building he passed in search of a place to shelter from the cold rainstorm.	6
+27	1	0	6	3	0	4	0	2	1	2	1	0	7	1	1	1	0	5.0	1	23	Maria carefully placed a soft, delicate bouquet of colorful flowers on a stunning, shimmering antique table, surrounded by captivating candlelight. [1]	6
+16	1	0	4	1	0	1	2	2	0	2	0	0	3	1	1	1	0	4.0	1	6	The lively, radiant, vivacious debutante laughed merrily, mesmerizing all those around her.	6
+18	1	0	2	2	0	5	1	2	0	2	0	0	3	1	2	0	0	3.0	1	9	The delicate floral arrangements swayed gently in the morning light, their petals unfolding with tender grace.	6
+22	0	0	3	3	0	4	1	2	1	1	0	0	6	0	1	1	0	4.0	0	12	The vibrant colors of Lola's new dress brightened up the drab, rainy afternoon with their bold, shimmering hues.	6
+39	2	1	5	3	2	10	0	4	2	2	1	1	5	0	1	1	1	6.0	1	19	Jones, a skilled and seasoned basketball coach with a reputation for developing winning teams, was particularly impressed with Sarah's quick reflexes and sharp shooting ability during the practice session earlier that day. [6]	6
+27	1	0	5	3	1	4	1	3	0	3	0	0	6	1	2	0	0	4.0	1	11	The cat curled up on the soft, plush, warm blanket and purred contentedly, its bright, curious eyes gleaming in the dim light.	6
+30	0	0	9	3	1	8	1	1	2	2	1	1	1	0	1	0	0	3.0	0	25	Ms. Chen is known for her elegance, class, sophistication, creativity, passion, and charisma as a worldwide sought-after fashion influencer. [0]	6
+27	1	0	4	3	0	4	2	2	1	3	1	1	5	2	2	1	0	5.0	2	8	The exotic island of Tiki was home to five bouncy, giggling, tanned tourists, who spent their days basking under the shimmering, turquoise waters	6
+18	1	0	3	2	0	3	0	3	0	2	0	0	4	1	1	0	0	4.0	1	6	The cunning, sly, mischievous kitten tiptoed quietly across the wooden floorboards creaking with each step.	6
+26	0	0	7	2	1	3	1	2	0	0	1	1	8	0	1	0	0	3.0	0	20	The new employee was enthusiastic, bright, ambitious, charismatic, motivated and confident in his first day at the office. [2]	6
+18	2	0	2	1	2	3	0	1	1	2	0	0	4	0	1	0	0	4.0	0	10	Maria walked majestically and serenely down the catwalk, clad capacious, gleaming dress and high strappy heel	6
+22	1	0	4	2	0	4	1	3	0	2	0	0	5	1	2	0	0	3.0	1	14	The old man limped slowly across the barren, rocky landscape, his tattered, faded clothing flapping in the wind.	6
+20	1	0	5	1	0	3	1	0	1	1	1	0	6	0	1	1	0	2.0	0	16	Bryce carefully selected six juicy, tender, plump, flavorful, colorful fruits for her exotic fruit platter. 	6
+24	0	0	6	1	1	6	0	2	0	1	0	0	7	0	1	1	0	4.0	0	17	The tasty chicken strip buffet had appealing, appetizing, juicy, tender, flavorful, and satisfying choices for any palate preference.	6
+27	1	0	4	3	0	6	1	3	0	2	1	0	6	1	2	0	0	4.0	1	9	Six majestic flamingos waded gracefully through the calm, crystal-clear water of the serene lagoon, their iridescent feathers glistening in the midday sun.	6
+20	0	0	7	0	1	3	1	1	0	1	0	0	6	0	1	1	0	3.0	0	13	She bought a stylish new handbag, silver, red, white, purple, blue, and yellow.	6
+21	1	0	3	2	1	3	2	1	1	3	0	1	2	1	1	1	0	5.0	1	15	Maria was thrilled to receive a glamorous, expensive, and intricately designed bracelet from her husband on their anniversary.	6
+28	3	0	4	4	1	5	1	3	1	4	0	0	2	2	1	2	0	4.0	2	17	Baker swung his bat wildly, hitting the ball through the infield for a single, and then danced around first base, eagerly advancing to second.	6
+34	2	0	5	3	2	7	1	3	1	4	1	2	2	1	2	1	0	6.0	1	11	Ten seconds earlier, Johnson's game-winning shot would have bounced off the front of the rim, but it instead banked in, silencing the surprised and heartbroken home crowd.	6
+12	0	0	2	2	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	6	Within seconds, the cat perished amid the slow, suffocating flames	6
+19	0	0	3	2	1	3	1	3	0	3	0	0	3	1	2	0	0	4.0	1	6	The delicious, fluffy, adorable puppies tumbled and played in the sunbeams that streamed through the windows.	6
+15	1	0	3	1	0	3	0	1	0	2	1	0	3	1	1	1	0	3.0	1	9	The gorgeous grandma graciously gifted glowing golden globes to grateful grandkids. [1]	6

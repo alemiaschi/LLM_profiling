@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	CCONJ_constraint
+9	0	0	1	1	1	2	1	1	0	2	0	0	0	0	1	1	0	2.0	0	5	She walked to the store and bought eggs.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+9	0	0	1	0	1	2	0	1	0	1	0	1	2	0	1	1	0	3.0	0	2	The park was enormous and had several lakes.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+19	1	0	2	3	0	6	0	3	0	1	0	0	2	0	1	0	0	3.0	0	8	Under the bright moonlight, a group of crows gathered noisily at the park's largest oak tree. 	0
+15	1	0	3	1	1	2	1	2	0	3	0	0	1	0	1	1	0	3.0	0	9	She walked into the park, smiled broadly, and enjoyed the warm sun.	0
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse across the room.	0
+13	1	0	2	2	0	2	0	2	1	2	0	0	1	1	1	0	0	3.0	1	6	Jorge walked slowly down the mountain, breathing in the chilly atmosphere.	0
+14	1	0	2	1	1	4	0	3	0	2	0	0	0	1	1	1	0	4.0	1	7	The sun shone brightly, warming the flowers and birds on the grass. 	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I walked to the store.	0
+9	0	0	1	1	1	3	2	0	0	1	0	0	0	0	1	1	0	3.0	0	6	She bought apples and groceries with her neighbor.	0
+12	1	0	2	1	0	2	0	2	0	1	0	1	2	0	1	0	0	2.0	0	7	The sun was shining brightly over the vast, green landscape.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun rose above the horizon slowly.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The car drove down the winding road.	0
+9	0	0	1	1	1	1	1	0	1	2	1	0	0	0	1	1	0	3.0	0	4	She had three siblings and lived in Ohio.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+17	1	1	1	2	0	4	2	2	0	3	0	0	0	2	1	2	0	4.0	2	7	She ate breakfast in the kitchen quickly before running out the door to catch her train.	0
+16	1	0	1	3	0	3	2	0	0	3	0	1	1	2	1	0	0	5.0	2	5	I've walked through streets lined with tall trees to arrive late to my appointment. 	0
+7	2	0	1	1	0	0	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	She quickly laughed at him enthusiastically.	0
+16	0	0	1	3	0	4	0	3	0	1	0	1	3	0	1	0	0	3.0	0	6	The delicious cake was devoured by the enthusiastic group of friends at the weekly gathering.	0
+10	1	0	1	1	0	2	0	2	1	2	0	0	0	1	1	1	0	4.0	1	4	John saw a dog running quickly down the street.	0
+11	1	0	1	2	1	2	1	1	0	2	0	0	0	0	1	0	0	2.0	0	6	The cat curled up on my lap and purred contentedly.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+15	0	1	1	2	0	4	0	4	0	2	0	0	1	1	2	0	0	3.0	1	10	The enormous bird perched on the tip of the tower as the sun rose.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap.	0
+11	0	0	1	2	0	3	1	2	0	1	0	0	1	0	1	1	0	3.0	0	6	She left the library with a large stack of books.	0
+12	0	0	2	2	0	3	1	1	1	2	0	0	0	1	1	0	0	3.0	1	5	Andre stumbled into the room, looking for his phone charger.	0
+10	0	0	1	1	1	2	1	2	0	2	0	0	0	0	1	1	0	3.0	0	5	I walked to the store and bought some eggs.	0
+12	0	0	1	1	0	2	2	2	0	3	0	0	0	2	2	1	0	5.0	2	3	I have a cat who loves to nap in the sun.	0
+18	1	0	3	2	0	4	0	3	0	1	0	0	4	0	1	0	0	2.0	0	6	Within the vast, starry night sky, a lonely astronaut drifted weightlessly towards an uncharted planet.	0
+14	1	0	2	2	0	2	3	0	0	3	0	0	0	2	1	0	0	4.0	2	4	Despite her reluctance, she finally agreed to go shopping with her sister.	0
+10	1	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog quickly chased the cat around the tree.	0
+9	0	0	1	1	0	2	0	1	0	1	0	0	3	0	1	0	0	2.0	0	3	The quick brown fox jumps over lazy dogs.	0
+10	0	0	1	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	The quick brown fox jumps over the lazy dog.	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun slowly rose above the distant trees.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+10	1	0	1	1	1	2	0	2	0	2	0	0	0	0	1	0	0	2.0	0	5	The cat sat on the mat and purred contentedly.	0
+10	1	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	7	She walked slowly into the room with a smile. (0 coordinating conjunctions) 	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	He walked to the store.	0
+14	1	1	1	1	0	2	0	2	2	2	0	0	2	1	2	1	0	4.0	1	4	Alice smiled brightly as Bob delivered the exciting news to the entire classroom.	0
+27	0	0	2	5	0	6	0	5	1	3	1	0	4	1	1	0	1	5.0	2	8	The astronauts floating outside the ship in zero gravity gazed at the beautiful, serene blue planet Earth rising above the horizon of the black sky.	0
+14	0	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The sun smiled through the trees, casting dappled shadows on the path.	0
+7	0	0	0	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The baby laughed at the silly clown	0
+11	0	1	1	0	0	3	0	2	0	2	0	1	1	1	2	0	0	3.0	1	7	The sky turned blue before the mountain peaks could rise.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	3.0	0	3	The sky turned a vibrant shade of blue.	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+8	1	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Mary walked happily down the busy street. (1 sentence)	0
+20	0	0	2	2	1	4	0	3	0	2	0	0	4	1	1	1	0	4.0	1	11	But for a lucky few, the waiter's friendly smile whispered promises of an unforgettable night to come.	1
+13	1	1	1	1	0	2	2	0	0	3	0	1	0	2	2	1	0	4.0	2	6	She ate breakfast quickly so she could get to work on time.	1
+14	4	0	1	0	1	0	2	1	0	3	0	1	0	2	2	0	0	3.0	2	5	And so she boldly went where no one had dared to go before.	1
+6	0	0	0	1	1	1	2	0	0	1	0	0	0	0	1	0	0	2.0	0	3	And they continued on their adventure	1
+19	1	0	4	3	1	4	2	2	0	1	0	0	1	0	1	1	0	4.0	0	9	And so, with a newfound vigor, she tackled the rest of her to-do list.	1
+8	1	0	1	0	1	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	4	And then the dog chased the cat.	1
+13	1	0	1	1	1	1	3	1	0	2	0	2	0	0	2	1	0	2.0	0	7	I will go to the library and she will meet me there.	1
+16	1	1	2	1	0	3	1	3	1	1	0	1	1	0	2	1	1	2.0	1	5	Although it was a drizzly afternoon, Emma still took the dogs for a walk.	1
+8	1	0	0	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The rain fell gently on the green fields	1
+7	0	0	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	And they went to the mountains.	1
+12	1	0	2	1	0	1	2	1	0	2	0	2	0	0	2	0	0	2.0	0	7	I am going to the store; you should come too.	1
+9	0	0	1	0	1	4	1	1	0	1	0	0	0	0	1	1	0	3.0	0	3	I love both reading books and writing stories.	1
+8	0	1	1	0	0	2	0	2	0	2	0	0	0	1	2	0	0	3.0	1	4	The cat purred while the baby cried.	1
+11	0	0	1	1	1	3	0	4	0	1	0	0	0	0	1	0	0	3.0	0	5	The cat and the baby both reached for the toy.	1
+7	2	0	1	0	1	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	And here comes the rain again.	1
+10	2	0	1	1	1	2	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The cat quickly and quietly pounced on the mouse.	1
+13	0	0	1	1	1	3	0	4	0	1	0	1	1	0	1	1	0	3.0	0	5	The cat and the mouse were chasing each other around the room.	1
+15	1	1	2	1	0	3	0	1	2	3	0	0	1	1	1	2	1	3.0	2	5	For Ivy League schools, accepting early decision increases the likelihood of getting in.	1
+11	3	0	3	0	1	1	2	0	0	1	0	0	0	0	1	1	0	2.0	0	7	And so, accordingly, she calmly collected her things.	1
+7	0	0	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	And he went to the store.	1
+8	1	0	2	0	1	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	And, so she ate the sandwich.	1
+17	1	1	2	1	1	4	1	2	0	1	0	3	0	1	2	0	0	3.0	1	6	The cat and the mouse are friends because ___ they have been living together for years.	1
+20	0	0	4	3	1	6	0	1	0	2	0	0	3	0	1	1	1	5.0	1	5	Coordinating conjunctions allow for the connection of equal grammatical units, such as phrases, clauses, and words. 	1
+17	2	1	3	1	0	3	3	0	0	3	0	0	0	1	2	1	1	3.0	2	9	However, with my plans foiled, I still managed to find solace in my writing.	1
+8	0	0	1	1	1	1	1	2	0	1	0	0	0	0	1	0	0	2.0	0	3	And they both went to the store.	1
+15	0	0	2	1	1	4	1	3	0	2	0	1	0	0	2	1	0	3.0	0	8	The cat chased the mouse, but its tail got caught in the door.	1
+8	0	0	1	1	1	1	1	1	0	2	0	0	0	0	1	0	0	3.0	0	3	She walked and ran to the park.	1
+15	2	0	1	2	1	3	3	1	0	1	0	0	1	0	1	1	0	2.0	0	10	And then she danced the whole night long with her friends by her side.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+9	0	0	0	1	0	4	0	3	0	1	0	0	0	0	1	1	0	2.0	0	6	The car chased the truck down the desert road	1
+9	0	0	1	1	1	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The dog and I went to the park. 	1
+8	2	0	2	0	0	0	1	0	0	2	0	0	0	1	1	0	0	2.0	1	3	Therefore, she decided to travel alone.	1
+14	1	1	1	1	0	2	2	2	0	3	0	0	0	2	2	1	0	4.0	2	7	I went to the store alone because I wanted to buy some milk.	1
+9	0	0	0	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The quick brown fox jumps over the sleeping dogs	1
+10	1	0	2	1	1	1	0	1	1	0	0	1	1	0	1	0	0	2.0	0	8	But for Anna, the cake was too sweet.	1
+11	1	0	2	2	1	1	3	0	0	1	0	0	0	0	1	0	0	3.0	0	4	And there it was, right in front of me.	1
+15	3	1	1	2	0	2	1	0	0	3	0	0	1	2	1	0	0	4.0	2	5	However, they finally managed to get there on time after dealing with unexpected traffic	1
+9	0	0	1	1	2	1	0	1	2	1	0	0	0	0	1	0	0	3.0	0	3	Both Jack and Jill went to the hill.	1
+10	1	0	1	0	1	2	0	2	0	0	0	2	1	0	2	0	0	3.0	0	5	The sky is blue and the earth is round.	1
+20	0	0	3	2	1	6	2	4	0	2	0	0	0	0	2	2	0	3.0	0	14	The cat chased the mouse through the forest, and despite its agility, the mouse evaded its predator.	1
+19	0	0	3	3	1	6	0	2	0	3	0	0	1	0	1	0	1	4.0	1	12	Coordination of words and ideas, joined by a cooperating conjunction, led to a creative writing spree.	1
+17	1	1	3	1	0	2	1	2	0	3	0	1	1	1	1	1	1	3.0	2	10	"However, despite being tired from the travel, he managed to give an engaging presentation. (There is 1 coordinating conjunction in this sentence: ""however"".)"	1
+6	0	0	1	0	1	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	And they climbed the tower.	1
+13	2	1	1	1	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	5	The cat purred softly while the mouse scurried nervously beneath the couch.	1
+10	1	0	1	1	1	2	0	1	1	1	0	0	0	0	1	0	0	3.0	0	5	And the cat purred contentedly on Tom's lap.	1
+18	1	1	1	0	2	2	5	0	0	2	0	3	1	1	2	2	0	4.0	1	7	It is certain that either I will finish my work or else I will quit my job.	1
+8	0	0	1	0	2	1	0	0	2	1	0	1	0	0	1	0	0	3.0	0	4	Both Sarah and Maria are arriving today.	1
+9	1	1	1	0	0	1	2	0	0	2	0	1	0	1	2	1	0	2.0	1	4	You must eat dinner before you go out.	1
+14	0	0	2	1	1	3	2	1	0	0	0	3	0	0	2	0	0	3.0	0	6	I will be at the store tomorrow, but my brother will not.	1
+11	0	0	3	1	2	3	1	0	0	1	0	0	0	0	1	1	0	3.0	0	6	But, for breakfast, I had toast and eggs.	1
+21	2	0	2	3	2	4	0	4	0	3	0	0	0	2	1	1	0	5.0	2	10	The rain poured down on the crops and along the roads, causing the water to rush rapidly and robustly.	2
+28	1	1	2	2	2	4	2	2	4	3	0	3	1	0	3	3	0	4.0	0	15	Mary will eat breakfast at the bakery and ride her bike home, but John will not attend the party because he is in New York City.	2
+11	2	0	2	1	0	1	1	1	0	1	0	1	1	0	1	0	0	2.0	0	5	However, subsequently she was promoted to a higher position.	2
+11	0	0	1	0	1	2	1	2	0	3	0	0	0	1	1	2	0	5.0	1	2	"I have the ability to run and catch the ball. (using ""and"" as a coordinating conjunction)  Your turn! Please complete the instruction with a sentence that includes two coordinating conjunctions."	2
+15	0	1	1	1	0	5	0	4	0	3	0	0	0	2	2	3	0	3.0	2	9	The car chased the truck down the highway while pouring rain soaked the fields.	2
+23	0	1	2	1	2	3	3	1	1	2	0	2	5	1	3	2	0	5.0	1	7	I have visited many places, but I love Italy the most because it's full of beautiful landscapes and historical architecture.	2
+10	2	0	1	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	The cat purred loudly and the dog grinned broadly.	2
+21	0	0	3	1	2	3	1	1	4	2	0	0	4	0	1	2	0	4.0	0	9	Brian and his brother, Jack, walked the busy streets of New York City and discovered many exciting attractions.	2
+21	0	0	2	2	2	4	2	3	2	3	0	1	0	1	2	2	0	5.0	1	7	The teacher smiled at John and Bob, who were sitting in the back row, and asked them a question	2
+21	1	0	2	3	2	4	3	2	0	2	0	1	1	0	2	1	0	4.0	0	10	And then she took the bus to the store, but they had run out of her favorite ice cream.	2
+23	1	0	2	5	1	4	4	2	0	3	0	0	0	1	3	1	0	3.0	1	17	She took out a book of poems, for her husband to read with her; or he walked alone through the park	2
+21	2	1	2	2	1	4	2	0	0	3	1	2	1	1	1	2	0	5.0	1	7	However, until then I have been saving money and traveling in hopes of starting my own business one day.	2
+10	1	0	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	He left the house eagerly, running down the street	2
+20	2	0	3	3	1	3	3	1	0	3	0	1	0	0	3	1	0	4.0	0	8	She went to the store, but they had run out of bread, so she bought flowers instead. 	2
+31	1	0	5	2	2	4	2	3	0	5	0	1	3	3	3	0	1	5.0	4	18	The cat, being lazy, chose to sleep through the morning's noise, but when it awoke in the afternoon, it felt energized and ready to play.	2
+21	1	0	1	2	2	7	1	4	0	2	0	0	1	0	2	2	0	4.0	0	8	The stormy weather delayed my flight, and the pilot finally landed the plane on the runway with skill and precision	2
+25	0	1	2	1	3	3	2	3	0	6	0	1	1	1	3	1	2	5.0	3	18	But either until the storm passes or they find a safe place to hide, they cannot stop searching for the lost child.	2
+12	1	1	1	1	0	3	1	1	1	2	0	0	0	1	1	2	0	3.0	1	5	Lydia ate breakfast while simultaneously packing her bag for the trip.	2
+14	1	0	1	3	1	4	1	2	0	1	0	0	0	0	1	1	0	3.0	0	6	And so they walked hand in hand to the end of the street.	2
+23	0	2	3	1	1	3	4	1	0	6	0	1	0	4	3	2	0	5.0	4	13	She had breakfast before going to the beach, but after swimming, she realized she had forgotten to brush her teeth.	2
+20	2	1	1	1	1	2	3	1	0	4	0	2	1	2	2	2	0	4.0	2	8	She had eaten too much cake and wanted to visit the park with him so they could play together.	2
+14	0	0	1	2	1	4	0	4	0	2	0	0	0	0	2	0	0	3.0	0	7	The cat sat on the table and the dog walked into the room.	2
+16	3	0	3	1	0	2	0	2	1	2	0	1	1	0	2	0	0	3.0	0	7	The sun was shining brightly; however, John still got wet in the rain.	2
+20	1	0	1	2	0	4	3	1	0	3	1	1	2	2	2	2	0	6.0	2	6	I have a great idea to eat two sandwiches for lunch that were perfectly coordinated with my busy schedule.	2
+13	2	1	1	1	0	3	0	3	0	2	0	0	0	1	2	0	0	3.0	1	5	The cat purred contentedly while the baby cooed loudly in the background.	2
+11	2	0	1	1	1	1	0	1	2	2	0	0	0	0	2	0	0	2.0	0	6	Sarah quickly drove to the mountain and John followed slowly.	2
+14	0	0	1	1	1	2	2	2	1	2	0	2	0	0	2	2	0	3.0	0	6	I'll grab the ball and John will throw it to the quarterback.	2
+18	0	1	2	2	1	4	1	3	1	3	0	0	0	1	3	1	0	4.0	1	6	The dog chased the cat, but it escaped through the window while Mike watched in amazement.	2
+24	2	2	2	0	1	4	4	1	1	5	0	1	0	2	3	3	1	5.0	3	6	Although she enjoyed her job, Mary knew that her career path was taking her nowhere and therefore decided to make a change.	2
+17	1	1	2	2	0	4	1	2	0	3	0	0	0	2	2	0	0	3.0	2	9	The football players ran down the field quickly, while their opponents struggles to catch up.	2
+9	0	0	1	0	2	2	0	2	0	2	0	0	0	0	1	1	0	3.0	0	3	But the cat laughed and chased the mouse.	2
+9	2	0	0	1	0	3	0	1	0	2	0	0	0	0	1	1	0	3.0	0	4	The girl ate breakfast quickly then walked to school	2
+12	0	0	1	1	2	4	0	3	0	1	0	0	0	0	1	1	0	3.0	0	8	The dog chased both the cat and mouse across the backyard.	2
+20	2	1	1	2	0	4	0	3	0	2	0	0	5	1	1	1	0	3.0	1	8	The big brown bears walked silently slowly towards the tall trees while drinking fresh milk from the nearby stream.	2
+15	0	0	1	1	1	2	3	2	0	2	0	0	2	1	1	2	0	3.0	1	9	I bought a new computer and a nice bag to carry it with me. And, I'm feeling quite satisfied with my purchase.	2
+11	2	1	1	0	0	2	1	2	0	2	0	0	0	1	2	1	0	3.0	1	5	The cat quickly purred as the dog fiercely chased it.	2
+18	1	0	2	2	1	4	0	4	1	2	0	0	1	0	2	1	0	3.0	0	10	The cat chased the mouse around the room, but then Jerry escaped through the front door.	2
+8	0	1	0	1	0	2	2	0	0	2	0	0	0	1	2	1	0	3.0	1	4	She ate breakfast while he walked to school	2
+19	0	0	1	2	2	3	2	1	3	3	0	1	1	0	1	2	0	4.0	0	7	I will travel to Japan and visit Mount Fuji and enjoy the cherry blossoms with my best friends.	2
+11	2	0	0	1	1	2	1	1	0	2	0	0	0	1	1	1	0	3.0	1	4	And yet he still managed to finish the project on time	2
+23	2	1	0	2	0	5	0	5	0	2	0	0	6	1	2	1	0	3.0	1	14	The big brown horse chased the little black foal across the green field while simultaneously the sun slowly set behind the distant mountain	2
+21	1	1	2	2	0	6	1	4	0	2	0	0	2	1	2	2	0	3.0	1	13	The cat chased the red ball across the sunny yard, while the dog happily wagged its tail in excitement.	2
+10	1	1	3	0	0	0	1	0	0	2	0	1	1	1	1	0	1	2.0	2	7	However, despite being tired, he continued walking.	2
+24	3	0	3	2	1	4	2	4	0	3	0	1	1	0	3	1	0	4.0	0	10	The dog chased the cat, but they eventually became the best of friends, so they could jointly play with the ball.	2
+14	5	0	2	0	1	2	0	2	0	2	0	0	0	0	2	0	0	3.0	0	5	However, eventually the storm passed through and the sun shone brightly again.	2
+18	1	0	1	1	2	5	0	3	0	2	0	1	2	1	2	1	0	4.0	1	6	Both the red and green flags were waving in excitement when the runner approached the finish line.	2
+21	1	1	2	3	0	6	0	4	1	2	0	0	0	1	2	0	0	4.0	1	10	The cat purred contentedly on John’s lap, while the baby laughed at the sunbeam dancing across the room.	2
+21	3	0	3	1	2	3	1	2	1	3	0	0	2	0	2	1	0	4.0	0	6	The rain poured down relentlessly, but Sarah remained unphased, and instead enjoyed the cool breeze on her face.	2
+19	0	2	2	0	1	4	2	1	1	3	0	1	1	2	3	2	1	5.0	3	6	Although she was tired, Mary decided to take a walk because her cat needed exercise and attention.	2
+30	3	1	3	3	0	4	6	2	0	4	0	4	0	2	4	1	0	5.0	2	22	You must be joking if you think I'm going to the grocery store with nothing but my cat; however, I should probably get some milk anyways.	2
+27	2	0	2	2	2	6	3	2	0	3	0	0	5	1	2	2	0	4.0	1	16	The quick brown fox runs circles around the clever little dog, who eagerly dodges its pounces, yet ultimately falls prey to its cunning and agility	3
+22	1	0	3	2	0	2	6	1	0	4	0	1	0	2	2	2	0	4.0	2	9	I appreciate the support, yet I must decide for myself who to trust, despite their attempts to manipulate me.	3
+14	1	0	3	1	0	2	0	1	1	2	0	0	2	0	1	0	0	3.0	0	6	The big, green, striped cat purred contentedly on Mary's lap.	3
+36	2	2	5	3	2	7	0	4	4	5	0	0	2	3	2	2	0	5.0	3	11	Jane, Michael, and Sarah went skiing together in the Swiss Alps, while simultaneously eating cheese fondue and sipping white wine on a mountain terrace, as the sun set below the peaks.	3
+21	0	0	1	4	1	6	0	3	1	3	2	0	0	1	1	1	0	5.0	1	6	The car sped down the highway, crossing interstate 4 and stopping for gas at the convenience store on Route 66	3
+15	2	0	3	0	1	2	2	2	0	3	0	0	0	0	3	1	0	2.0	0	10	The dog chased the cat; he ran quickly; but it got away.	3
+18	1	0	2	2	1	5	0	4	0	2	0	0	1	1	1	1	0	4.0	1	8	The sun rose slowly over the horizon, connecting the stars and moon to a beautiful sky.	3
+25	2	0	2	4	1	6	1	4	0	4	0	1	0	2	2	1	0	4.0	2	12	I have seen the wind howl through the trees with fear, and then watched the sun set slowly in the horizon with awe.	3
+13	0	1	1	1	2	2	3	0	1	2	0	0	0	1	2	1	0	4.0	1	8	Ashley and I went to school, while he and she attended college	3
+24	0	1	3	1	1	3	6	2	0	5	0	1	0	3	4	3	0	4.0	3	13	The man bought a book, because he wanted to read it, and he knew it would help him with his studies.	3
+37	1	1	7	3	2	6	6	3	0	3	0	3	1	2	4	1	0	4.0	2	17	And they say we're not the chosen ones; but, despite all odds, nothing can ever break our bond; because, in truth, we are the masters of our own destiny.	3
+19	3	0	2	2	2	2	3	1	0	3	0	1	0	1	3	0	0	4.0	1	7	And so they journeyed forth, but little did they know what fate had in store for them.	3
+18	0	0	2	1	0	5	1	3	0	3	1	1	0	2	2	2	0	5.0	2	5	The teacher introduced the three speakers, whom students had chosen to attend a seminar as guests: John representing the arts department, Mary from the business school, and David, the president of the student council	3
+6	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	 but, or, and.	3
+19	0	0	3	2	1	5	0	0	2	3	0	1	2	0	1	2	1	5.0	1	17	Living on Earth, exploring space with Mars rovers, and taking deep sea expeditions are exciting adventures. (Coordinating conjunctions used: and, but, or)	3
+14	1	1	1	1	1	3	0	3	0	3	0	0	0	1	2	0	0	4.0	1	5	The cat sat on the mat and purred while the sun shone brightly.	3
+17	2	0	0	2	0	5	1	2	0	1	0	0	4	0	1	1	0	3.0	0	6	Surely the clever chef carefully chose colorful crevices as the perfect place for their clandestine cooking cauldron	3
+18	1	0	2	1	2	5	0	1	2	2	0	0	0	1	1	1	0	4.0	1	6	Ingrid and Tom's daughter ran down to the store to buy eggs, oranges, and salt	3
+36	2	1	2	3	1	9	2	4	1	7	1	0	1	3	2	4	1	7.0	4	11	To reach the summit, Sarah hiked for three hours while carrying her backpack, yet still had enough energy to race down the mountain when she heard the park ranger warning of a coming storm	3
+24	0	0	4	1	1	8	1	4	0	1	0	1	3	1	1	1	0	3.0	1	14	The delicious chocolate cake, the sweet coffee, and the refreshing mint tea were on the table, awaiting our dessert indulgence.	3
+31	1	1	3	2	2	5	3	3	2	6	0	1	0	4	3	2	0	6.0	4	16	Sally is considering going to the beach with her friends, who also invited John, but they need to decide whether to rent a jet ski or a kayak.	3
+13	4	0	3	1	1	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	7	However, eventually, and therefore she arrived late to the party.	3
+13	0	0	3	3	0	3	1	2	0	1	0	0	0	0	1	0	0	2.0	0	10	She walked to the park; along the paths; with friends. 	3
+30	1	1	1	1	1	8	4	5	0	5	0	0	3	1	3	3	1	4.0	2	8	The delicious chocolate chip cookies baked by her mother filled our afternoon break, yet we all preferred the freshly squeezed orange juice because it had such a sweet flavor	3
+19	0	0	3	1	4	4	0	4	0	3	0	0	0	1	1	2	0	5.0	1	6	The cat chased the mouse through the forest using the coordinating conjunctions and, but, and or.	3
+20	1	0	4	1	2	4	1	1	0	2	0	0	4	1	2	0	0	3.0	1	10	The cake tasted sweet, warm, and fresh, with chocolate chips and creamy frosting that disappeared quickly.	3
+17	1	1	1	3	0	5	0	4	0	2	0	0	0	1	2	0	0	3.0	1	8	The cat purred loudly in the dark while the mouse scurried across the floor with anxiety.	3
+16	2	1	2	1	0	4	0	4	0	2	0	0	0	1	2	1	0	3.0	1	10	The cat chased the mouse through the tree, with the sun shining brightly overhead.	3
+65	0	1	7	6	4	15	4	5	7	5	0	3	6	3	3	3	0	10.0	3	22	The team consisted of coach Sarah, player John, and fan favorite Emily connected by the love of basketball and their unwavering spirit of competition, while the opposing team, the Thunder, was led by captain Ryan and guard Maria, whose strategic plays had won them numerous games but could not diminish their respect for the Storm's collective determination.	3
+21	0	1	3	1	1	3	3	4	0	4	0	0	1	1	4	1	0	4.0	1	13	The dog chased the cat, she ran faster than he, and they all played until the rain came.	3
+20	1	0	3	1	3	1	5	2	0	1	0	1	2	0	2	1	0	3.0	0	7	Between my sister and I, she's the smartest and funniest, but I love them both dearly.	3
+23	0	1	1	3	2	3	3	2	3	2	0	1	2	1	3	0	0	3.0	1	12	Bill went to the beach with John and his sister Sarah and they played in the water until they were Sunburned red.	3
+23	0	0	3	3	1	7	0	3	0	2	0	0	3	1	0	0	0	5.0	1	8	Tucked between the park's towering sequoias, the gentle brook meanders, coiling around each rock and tree with skillful tenderness.	3
+24	3	1	2	4	0	4	0	4	1	4	0	0	0	3	2	0	0	4.0	3	10	The cat curled up on the dog’s back, while Tim laughed at the birds flying overhead, despite the rain pouring down	3
+26	1	1	3	1	1	7	1	5	0	4	1	0	0	3	1	4	0	4.0	3	16	The cat chased the mouse across the room, using both feet and one paw, while simultaneously turning its head to avoid the bird.	3
+21	1	0	4	4	1	5	0	5	0	1	0	0	0	0	1	0	0	4.0	0	8	The sun set slowly in the sky, over the mountains, across the fields, and into the forest.	3
+22	1	0	2	1	1	5	0	4	0	4	0	3	1	1	3	1	0	4.0	1	13	The sun is shining bright, the birds are singing loud, and the kids are having fun running around the playground	3
+17	1	1	1	1	0	4	2	3	0	4	0	0	0	3	2	2	0	5.0	3	4	The cat purred loudly as it sat on the mat watching the man mend his hat.	3
+40	0	0	4	5	2	7	6	3	0	5	0	2	3	2	2	4	0	5.0	2	30	I have visited many places to see the world and experience new cultures with my brother, but my best friend, despite her offers to travel with us, has not joined us on any of these adventures.	3
+20	1	0	2	1	1	7	0	4	0	1	0	0	3	0	1	0	0	3.0	0	10	A quick litter picker upper, a keen photographer, and a dedicated environmentalist walked together down the city street	3
+37	1	0	3	5	1	10	1	8	0	5	0	0	2	2	3	2	0	5.0	2	24	The cat purred contentedly on my lap, the man in the moon smiled at the dog playing fetch, and the woman in the store purchased a new umbrella to keep dry in the storm.	3
+25	2	0	3	0	1	6	1	5	0	5	0	0	0	2	1	5	0	4.0	2	15	The teacher asked the students to raise their hands, then connect the dots, and lastly solve the equation to finish the lesson.	3
+11	1	0	1	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	4	The cat chased the dog ran down the street home.	3
+14	0	0	10	0	4	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	5	" ""and,"" ""but,"" and ""or.""."	3
+17	1	0	2	0	2	4	1	5	0	2	0	0	0	0	2	2	0	3.0	0	11	The cat chased a mouse and a bird, but ultimately the dog caught them all.	3
+18	0	1	2	2	1	7	0	3	0	2	0	0	0	1	2	2	0	4.0	1	9	 The teacher explained the lesson with enthusiasm, while the students took notes with excitement and curiosity.	3
+18	6	1	5	0	2	2	0	1	0	1	0	0	0	0	2	0	0	5.0	0	5	The cat purred slowly, lazily, and quietly while paws tappingly, gently, and firmly. 	3
+20	3	0	3	2	1	3	0	3	2	3	0	0	0	0	3	0	0	3.0	0	12	The cat purred loudly, Ron walked briskly into the room, and Sarah skipped excitedly towards the tree.	3
+24	1	0	3	2	0	5	4	1	0	3	0	0	5	2	2	1	0	5.0	2	7	A beautiful, new baby boy smiled at his happy parents, who eagerly awaited holding their precious child in their loving arms.	3
+21	2	0	3	2	1	5	4	1	0	3	0	0	0	1	3	2	0	3.0	1	16	I went to the beach with my friends, where we played soccer, and then we had ice cream.	3
+33	1	1	2	5	2	6	2	4	3	4	0	0	1	2	2	2	0	5.0	2	9	Sandra and Tim used both in her kitchen but chose not at the gym, although Bill still preferred after at their party, to connect each point to a unique coordinate system	4
+19	2	1	2	1	1	2	2	1	2	4	0	0	0	2	3	1	0	3.0	2	9	The cat purred happily on Judy's lap, and Tim chuckled quietly as he watched them play.	4
+21	0	0	3	4	1	6	0	6	0	1	0	0	0	0	1	1	0	3.0	0	12	The cat chased the mouse through the forest along the river, over the mountains, and beneath the trees.	4
+27	3	1	3	4	1	6	2	4	0	3	0	0	0	2	2	0	0	5.0	2	9	The cat purred contentedly on my lap, though the dog whined anxiously by my feet, and despite the birds singing merrily in the trees.	4
+19	0	0	4	1	4	3	0	1	0	0	0	1	5	0	1	0	0	3.0	0	9	The sky is blue and orange, green and red, like purple and silver, and golden.	4
+17	4	0	4	0	4	1	1	1	0	2	0	0	0	0	1	1	0	3.0	0	11	And she walked slowly, and carefully, and thoughtfully, and finally reached the destination.	4
+25	1	1	4	1	2	4	5	3	0	4	0	0	0	1	4	3	0	4.0	1	13	I went to the library, and she brought me home, but he took the book club, until we found another book.	4
+22	0	0	4	2	1	3	0	0	8	1	0	0	2	0	1	1	0	4.0	0	7	Inglewood High School's soccer team defeated Lincoln High School with goals from Jack, Jill, Tom, and Sam.	4
+32	1	2	5	1	3	9	2	2	0	4	0	2	1	2	3	2	0	5.0	2	19	I have always believed in living my life with courage, wisdom, hope, and gratitude, and each day has proven that this approach brings endless happiness and fulfillment.	4
+19	1	0	1	4	0	6	1	3	0	2	0	1	0	1	2	1	0	4.0	1	7	The cat chased the mouse through the forest by means of underbrush along streams that had frozen early.	4
+25	0	0	3	4	1	6	2	2	0	5	0	0	2	1	1	2	0	4.0	1	17	I enjoy traveling in the snowy mountains, swimming in the ocean, playing music with friends, and cooking delicious meals for my family	4
+20	1	0	4	4	1	4	1	3	0	1	0	1	0	0	1	0	0	3.0	0	11	I have walked home from school, through the park, by the river, and across the street.	4
+36	0	0	4	4	1	7	3	4	0	5	0	1	5	0	1	4	3	6.0	3	16	To find true love you need to be in the right place at the right time, connect with someone special, open your heart to the possibilities, and give fate a little nudge.	4
+20	3	1	2	1	1	5	1	3	0	3	0	0	0	2	2	1	0	4.0	2	9	The football team passed the basketball team using yet before, but after until they arrived at the park.	4
+17	2	0	0	4	1	3	1	3	0	2	0	1	0	1	2	1	0	4.0	1	5	The cat quickly ate the mouse despite through with nor under the bed where it was hiding	4
+21	4	0	4	0	1	4	0	4	0	4	0	0	0	0	4	0	0	4.0	0	16	The sun shone brightly, the birds sang sweetly, the flowers bloomed beautifully, and the cats purred pleasantly. 	4
+19	0	0	3	1	1	3	0	1	4	1	0	1	2	0	1	0	0	4.0	0	10	The team's impressive win was coordinated by Jim, John, Sarah, and Mark's strategic planning	4
+14	0	1	3	1	0	3	3	1	0	2	0	0	0	0	2	2	1	3.0	1	9	"Although I love my cat, on the contrary, I hate mice. (Note: A coordinating conjunction is a word that connects phrases or clauses of equal rank. In this sentence, the coordinating conjunctions are ""but,"" ""on the contrary,"" and ""hate."")"	4
+29	4	1	1	2	2	4	3	3	0	6	0	1	0	3	3	2	0	6.0	3	7	The cat sat down carefully, and the dog began to chase it energetically but fortunately managed to catch its tail before it could flee frantically across the lawn	4
+20	1	1	4	2	1	4	1	4	0	2	0	0	0	1	2	1	0	4.0	1	6	The cat purred loudly, after the dog chased it, despite the rain, and through the gate.	4
+54	4	1	8	3	2	7	8	1	3	8	0	3	4	5	7	5	0	5.0	5	46	She took several buses and trains, but he arrived at school late; although he had packed enough snacks for everyone, Sarah decided she needed something more; however, Tom was excited to share his art with the class; consequently, John was left alone to finish his work.	4
+21	2	1	2	2	0	4	1	3	0	2	0	0	4	1	2	0	0	3.0	1	8	The big elephant trumpeted loudly, though the smaller elephant quietly curtsied before its royal leader in the grassy savannah.	4
+17	0	0	1	1	0	3	0	3	0	2	0	0	6	1	1	1	0	3.0	1	7	The quick brown fox jumps over the green lazy dog to chase the red silly cat.	4
+25	3	1	1	1	0	6	2	5	0	4	0	0	1	3	2	4	0	6.0	3	9	The cat chased the mouse quickly through the field while simultaneously using both hands to open the jar where he stored his favorite treats.	4
+35	2	0	5	3	2	9	2	3	0	5	0	0	2	2	1	3	1	5.0	3	13	Following the raven's call, she followed her heart, crossing roads in the night, through dark and stormy weather, and arriving home just in time to meet the morning sun.	4
+17	0	1	1	1	0	3	1	3	0	2	2	0	3	1	2	1	0	3.0	1	8	A big brown bear roared as he chased the two fast rabbits through the four seasons.	4
+14	0	0	1	1	0	3	1	1	0	2	0	0	4	1	1	1	0	3.0	1	5	The quick brown fox jumps over many gates to meet its clever cousin.	4
+9	2	0	1	1	0	1	1	1	0	1	0	0	1	0	1	0	0	2.0	0	6	She walked briskly quickly through the busy streets.	4
+22	1	0	2	5	1	5	1	3	1	2	0	0	1	0	2	0	0	4.0	0	8	The cat purred contentedly on my lap, yet John stormed out of the kitchen with a tray of burnt toast.	4
+42	2	1	5	4	2	9	2	6	0	6	0	1	1	4	3	3	0	6.0	4	23	She walked alone, yet confidently along the beach, using foresight to navigate through the tide's currents; because he didn't answer calls, and the darkness surrounded the empty street like a predator lurking in the shadows.	4
+17	0	0	4	1	1	5	1	1	0	2	0	1	0	1	1	1	0	4.0	1	7	I will travel to the store to buy eggs, oranges, toothpaste, and cereal.	4
+50	3	0	17	3	5	5	4	3	0	5	1	2	1	1	4	2	0	4.0	1	30	"They went home, but by no means were they alone, for their friends joined the group, thus bringing four coordinating conjunctions to the table, that is to say, ""and,"" ""but,"" ""or,"" and ""so."""	4
+17	0	0	4	0	1	1	0	0	7	4	0	0	0	0	4	4	0	2.0	0	13	Mandy loves Jared, Kate enjoys dancing, Sam admires Rachel, and David favors Taylor. 	4
+21	3	1	3	1	0	5	0	5	0	3	0	0	0	2	2	2	0	4.0	2	8	The train travelled rapidly across the plain, carrying the passengers cooperatively, while a conductor coordinated all actions harmoniously.	4
+34	4	1	5	2	1	5	2	3	0	5	0	4	1	1	3	1	0	4.0	1	15	The delicious breakfast sandwich was crafted with love; therefore, it must be shared immediately, yet saved for the following day too, as both grandmothers enthusiastically requested it to be.	4
+43	3	0	14	0	6	5	3	3	0	6	0	0	1	3	3	4	0	7.0	3	15	The stormy weather forced us to take shelter, but then the rainbow appeared, and we decided to continue our journey joyfully using the conjunctions 'but', 'and', 'or', and 'so'.	4
+20	3	0	1	2	0	4	0	3	0	2	0	0	5	1	1	1	0	5.0	1	7	The cat quickly purred infront of the small, bright red truck quickly parked next to the large green tree	4
+43	2	3	4	5	2	11	3	5	0	4	0	0	3	2	1	3	0	5.0	2	19	The cat purred happily upon the soft cushion, despite its tiredness from chasing mice throughout the night, yet joyfully greeted its owner with a warm purr, as if to convey its contentment and appreciation for the comfortable resting place. 	4
+18	2	1	2	2	0	3	1	1	0	2	0	0	4	1	1	1	0	3.0	1	11	They drove carefully along heavily congested streets despite frustrating traffic, until reaching the nearby coastal resort.	4
+28	4	1	4	3	0	3	2	2	1	3	0	2	2	2	3	1	0	4.0	2	23	She had gone there with Bill, despite the fear, for they were excited to explore the forest, however, unexpected danger suddenly appeared from behind	4
+11	1	0	0	1	0	1	3	1	0	3	0	0	1	2	2	1	0	5.0	2	3	I enjoyed meeting the old woman who spoke to me softly	4
+22	1	2	2	2	0	6	0	2	0	3	3	0	1	2	1	3	0	5.0	2	8	The hunter chased four raccoons across the wetland, despite using only one gun, while carrying two heavy bags of food	4
+56	3	1	4	7	2	11	9	6	0	7	0	2	2	5	5	4	0	8.0	5	13	The cat purred contentedly on her owner's lap, between the warmth and scent of which she felt a deep sense of security, and through which she could clearly see the small mouse she had caught earlier that day, as she watched it try to nibble its way out of the room.	4
+34	2	0	7	2	4	5	1	3	1	5	1	0	2	3	1	3	0	8.0	3	8	She walked quickly through the crowded parking lot, meeting Mark at the entrance, using four different coordinating conjunctions to link the words: and, but, or, and yet.	4
+18	1	0	3	2	0	5	2	3	0	2	0	0	0	1	2	1	0	4.0	1	9	The cat purred contentedly on my lap, despite the rain storm that raged ________________ the windows.	4
+13	4	0	1	1	0	2	0	1	0	2	0	0	2	1	1	0	0	3.0	1	4	The quick brown fox jumped high in mid-air using finally after before.	4
+15	2	1	1	1	0	4	0	0	2	3	0	0	0	1	1	0	0	4.0	1	7	Bradley boasted about Bethany's bouncing baby, blinking boldly before bravely blowing birthday balloons	4
+21	0	0	5	3	1	7	0	3	0	1	0	0	1	0	1	0	0	3.0	0	11	With excitement, anticipation, hope, and frustration, the players ran onto the field for the big game.	4
+27	1	0	3	3	0	6	2	3	2	5	0	0	0	4	3	3	0	7.0	4	9	Jessica took a bicycle ride through the mountains, along roads that connected forests, to meet Rachel at the lake where they used to swim.	4
+24	0	1	1	3	1	8	3	1	1	3	0	0	0	2	2	2	0	5.0	2	9	Sally ran to the store with her sister because they needed milk and eggs to make cakes for their friends' birthday party.	4

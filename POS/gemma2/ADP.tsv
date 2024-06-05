@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADP_constraint
+15	0	0	2	1	0	4	0	5	0	2	0	0	1	1	1	1	0	3.0	1	7	  The sun rose this morning, casting a golden glow on all the flowers.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	  The old house stood in the empty field.	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	7	 The moon shone brightly in the deep blue night sky.	0
+15	1	1	1	2	0	3	0	2	0	1	0	1	3	1	1	1	0	4.0	1	4	  Even a single spark of joy is capable of illuminating the darkest of nights.	0
+11	0	0	1	2	0	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	4	The sky was filled with a magnificent display of colors.	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	1	0	2.0	0	5	  The rain brought solace to the parched land.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun shines brightly today.	0
+12	0	0	1	2	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	5	The sky remains a beautiful expanse of blue without any adpositions.	0
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	4.0	0	3	The sun rose without any clouds visible in the sky.	0
+11	0	0	2	1	0	3	0	2	0	0	0	1	2	0	1	0	0	3.0	0	3	The sky was beautiful today, devoid of any clouds.	0
+6	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	3	The sky above was clear.	0
+15	1	0	2	2	0	3	1	3	0	2	0	0	1	1	2	0	0	4.0	1	5	I walk through the quiet meadow, where the butterflies flutter among the flowers.	0
+7	0	0	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	2.0	0	2	  The world is indifferent to me.	0
+14	0	0	1	3	0	4	0	3	0	2	0	1	0	0	1	0	1	4.0	1	6	A person sitting on the ground was struck by a bolt of lightning.	0
+17	0	0	3	2	0	5	1	3	0	2	0	0	1	1	1	2	0	3.0	1	7	 **The rain whispered secrets to the sleeping leaves, leaving them with a haunting echo.**	0
+12	0	0	2	1	0	3	0	3	0	1	0	0	2	0	1	0	0	2.0	0	8	The sun rose this morning over the vast, empty sky.	0
+15	0	0	2	2	0	5	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun rises behind the mountains, casting beautiful shadows across the forest floor.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The boy ran through the forest without any path.	0
+13	0	0	1	2	0	4	0	4	0	1	0	0	1	0	1	1	0	3.0	0	4	The absence of any adjectives created a serene atmosphere within the city.	0
+13	0	0	2	1	0	3	1	2	0	2	0	0	2	1	1	1	0	3.0	1	5	The sun shone bright today, illuminating the beautiful landscape around it.	0
+12	0	0	2	0	0	2	2	1	0	2	1	1	0	1	2	2	0	4.0	1	4	Sure, I have generated a sentence that has 0 adpositions.	0
+11	1	0	1	1	0	3	0	2	0	1	0	0	2	0	1	0	0	2.0	0	7	The moon shone brightly in the vast dark night sky.	0
+6	0	0	2	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	4	Sure, the sentence is:  The dog chased itself across the lawn.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun shone brightly in the sky.	0
+20	1	0	3	3	0	5	1	4	0	2	0	0	1	0	2	0	1	4.0	1	13	 **No matter where I wander through the world, the beauty of that place remains untouched by time.**	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	  The sun rises over the horizon.	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	 The city is lost in the wilderness.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	 The sky is blue today.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun shines brightly in the sky.	0
+17	0	0	2	2	0	4	1	3	0	2	0	0	3	1	1	1	0	3.0	1	6	The quick brown fox jumped into the green grass, leaving no footprints in its path.	0
+14	1	0	2	2	0	3	0	3	0	2	0	0	1	1	1	0	0	3.0	1	5	A man sat on the bench, looking out at the empty road.	0
+11	1	0	4	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	" ""The boy jumped high into the sky.""."	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The sun rose in the east sky.	0
+16	0	0	2	3	0	4	2	3	0	1	0	0	1	0	1	0	0	4.0	0	6	She sat with no companions in her dorm, a small world within a world.	0
+10	0	0	1	1	0	3	0	2	0	0	0	1	2	0	1	0	0	2.0	0	4	The sky is a vast expanse of black void.	0
+9	0	0	1	2	0	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The sun rises without any clouds above it.	0
+6	1	0	1	0	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun shines brightly today.	0
+19	1	0	3	3	0	4	0	4	0	2	0	0	2	1	1	0	0	4.0	1	6	  **The boy ran quickly along the beach, lost in the boundless expanse of the open sky.**.	0
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She ran away without any hesitation.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The dog barked happily.	0
+9	0	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The sun rises without clouds in the sky.	0
+9	0	0	1	2	0	2	1	1	0	1	0	0	1	0	1	0	0	3.0	0	4	She sat in front of a blank wall.	0
+12	0	0	2	1	0	3	0	2	0	1	0	0	3	0	1	0	0	2.0	0	7	A solitary star stood amidst the shimmering, starless night sky.	0
+13	0	0	1	3	0	4	0	4	0	1	0	0	0	0	1	0	0	3.0	0	6	The stars danced in the sky without any help from the earth.	0
+15	1	0	3	1	1	3	1	3	0	2	0	0	0	0	1	0	0	3.0	0	8	  **There is no cloud above, and the sun hangs in the sky.**	0
+14	1	0	2	1	0	3	0	3	0	1	0	0	3	0	1	0	0	3.0	0	5	  The old house stood alone, a lonely sentinel on the silent island.	0
+6	0	0	1	0	0	2	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The sky was clear today.	0
+10	0	0	1	2	0	2	1	2	0	1	0	1	0	0	1	0	0	3.0	0	3	She was standing in a room without any windows.	0
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The rain fell without any clouds in the sky.	0
+12	1	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	4.0	1	3	The star shines brightly, illuminating the vastness of the universe.	0
+15	1	0	2	3	0	3	1	3	0	2	0	0	0	1	1	0	0	3.0	1	8	She sat in the chair by the river, looking up at the mountains.	1
+17	0	0	3	4	0	4	2	3	0	1	0	0	0	0	1	0	0	3.0	0	11	He sat on the chair, beside the table, with the book in his hand.	1
+11	0	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	2.0	0	7	The cat ran to the lake with a playful grace.	1
+21	0	0	2	3	0	5	1	5	0	3	0	1	1	1	2	1	1	4.0	2	7	Sitting on the riverbank, the girl kicked a shimmering stone into a wave that was surging towards the shore.	1
+14	1	0	2	3	0	4	0	3	0	1	0	0	0	0	1	0	0	3.0	0	7	The cat sat in front of the dog, next to the tree.	1
+11	1	0	1	1	0	2	0	2	0	2	0	0	2	0	1	0	1	4.0	1	6	A blue bird perched on a green branch spoke softly.	1
+10	0	0	1	1	0	3	0	2	0	1	0	1	0	0	1	0	0	3.0	0	5	The city is situated on the river's edge.	1
+19	0	0	2	3	0	6	0	5	0	2	0	0	1	0	1	0	0	4.0	0	5	 The girl with the shining eyes ran down the street, a captivating dance in the fading sunlight.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat ran across the pond towards the forest.	1
+15	1	0	2	1	0	4	0	4	0	2	0	0	1	1	2	1	0	4.0	1	8	The sky turned a deep blue in the west, where the flowers bloomed.	1
+11	0	0	1	1	0	3	0	2	0	1	0	1	1	0	1	0	0	3.0	0	4	The city's park is surrounded by an enchanting lake.	1
+10	0	0	1	2	0	2	1	2	0	1	0	0	1	0	1	0	0	2.0	0	7	I walked to the store with the blue dress.	1
+15	0	0	5	2	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	6	The dog jumped **to** the lake and **under** the tree.	1
+19	2	0	2	2	0	4	3	3	0	2	0	1	0	1	2	1	0	5.0	1	5	She stood near the lake, next to the oak tree that had seen her earlier that day.	1
+18	0	0	2	3	0	5	0	3	0	2	0	1	2	1	2	0	0	3.0	1	9	The rain is falling with considerable admeasurement on the parched soil, adding to the drying conditions.	1
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	The cat jumped across the big pond.	1
+17	0	0	2	3	1	4	0	4	0	1	0	0	2	0	1	0	0	3.0	0	8	The girl walked to the library, under the large tree and beside the old building.	1
+13	2	0	3	1	0	2	1	2	0	1	0	0	0	0	1	1	0	3.0	0	10	She went [up/down] the hill to the library.	1
+21	0	0	2	2	0	6	1	4	0	3	0	0	3	1	1	2	0	3.0	1	9	The dog chased the ball across the lush green meadow, leaving a single adoring paw print in its wake.	1
+22	0	0	2	3	1	6	0	6	0	2	0	0	2	1	1	1	0	5.0	1	10	The cat went to the beach with the big red book, exploring the sand and the pebbles with a smile.	1
+12	1	0	1	2	0	3	0	3	0	1	0	0	1	0	1	0	0	3.0	0	5	The girl with the big smile moved effortlessly around the lake.	1
+21	1	0	3	2	0	4	1	2	0	3	0	1	3	2	1	1	0	5.0	2	10	She stood in the vast, serene meadow, the gentle breeze carrying whispers of secrets yet to be uncovered.	1
+13	1	0	3	0	0	3	1	2	0	2	0	0	0	1	1	2	0	3.0	1	7	The cat jumped **up** the tree to reach its lunch.	1
+20	0	0	2	4	0	6	0	5	0	1	0	1	1	0	1	0	0	3.0	0	10	The book was left at the bookstore across the street, in the shadow of the old oak tree.	1
+13	0	0	3	2	1	2	1	2	0	2	0	0	0	0	1	0	0	3.0	0	7	She sat **on the bed** and waited for the letter.	1
+13	0	0	1	3	0	3	2	2	0	1	0	0	1	0	2	0	0	3.0	0	10	I jumped across the big lake with a smile on my face.	1
+17	0	0	2	3	0	4	1	3	0	2	0	0	2	1	1	1	0	3.0	1	8	We jumped across the pond with great speed, exploring the mysterious world beneath the waves.	1
+24	1	0	2	4	0	6	1	3	0	2	0	0	4	0	1	0	1	4.0	1	10	Despite the rain's gentle embrace upon the flowers blooming brightly, their vibrant hues remain hidden beneath a somber veil of shadows.	1
+24	2	0	2	2	0	5	1	4	1	3	0	1	2	2	2	1	0	6.0	2	8	 The little boat floated downstream to the harbor, carrying the passengers who were coming home for the city's annual Halloween festival.	1
+19	0	0	3	4	0	4	2	3	0	1	0	0	2	0	1	0	0	3.0	0	13	She sat on the book, on the warm floor, with the open book between her hands.	1
+16	0	0	2	2	0	5	1	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The cat wandered beneath the oak tree, exploring the hidden secrets beneath its branches.	1
+17	0	0	3	3	0	5	1	3	0	2	0	0	0	1	2	0	0	3.0	1	10	The dog walked **to the south** beach with its fur soaked from the rain.	1
+17	1	0	4	3	0	5	0	3	0	1	0	0	0	0	1	0	0	3.0	0	11	The cat jumped across the pond, **up** onto a lily pad for comfort.	1
+11	0	0	1	2	0	4	0	3	0	0	0	1	0	0	1	0	0	2.0	0	4	The book is on the table in the living room.	1
+17	1	0	2	2	0	5	2	3	0	2	0	0	0	1	2	1	0	3.0	1	9	The cat chased the ball down the street, its tail trailing closely behind its body.	1
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	1
+15	2	0	2	2	0	3	0	3	0	2	0	0	1	1	1	0	0	4.0	1	5	The sun rose east, shining warmly on the peaceful fields of the land.	1
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	A dog chased its shadow across the vast landscape.	1
+12	0	0	1	2	0	3	1	2	0	1	0	0	2	0	1	0	0	2.0	0	7	The beautiful girl sits in the garden with her beloved cat.	1
+12	0	0	1	2	0	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	4	The cat wandered through the lush meadows of a picturesque countryside.	1
+16	0	0	2	2	0	4	1	3	0	2	0	0	2	1	1	1	0	3.0	1	6	The rainy cat sat on the wet mat, lapping the droplets with its nose.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A book lies on the bed.	1
+15	1	0	2	1	1	2	1	2	0	3	0	0	2	1	2	0	0	4.0	1	6	She stood beside the sparkling ocean, where the golden rays danced and played.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped over the moon.	1
+16	0	0	1	2	1	5	0	3	0	2	0	0	0	0	1	0	0	4.0	0	7	The cat jumped over the dog's tail and landed on the flower's petals.	1
+19	0	0	1	4	0	5	1	4	0	2	0	0	2	1	1	1	0	4.0	1	8	The cat walked across the bridge with its wet nose seeking out the glistening sunbeams on the stones.	1
+13	0	0	1	3	0	4	1	3	0	1	0	0	0	0	1	0	0	2.0	0	9	The dog sat with its food on a mat beneath the chair.	1
+15	0	0	2	2	0	4	1	3	0	1	0	0	2	0	1	1	0	3.0	0	8	The cat chased the dog with a large, fat ball at its paw.	1
+19	0	0	2	2	0	5	0	4	0	3	0	0	2	2	1	1	0	5.0	2	6	  The little girl stood beside the shimmering lake, watching the shadows dance on the water's surface.	1
+10	0	0	1	1	1	2	1	2	0	2	0	0	0	0	1	1	0	3.0	0	5	I jumped across the river and ate an apple.	1
+19	1	1	2	2	1	4	0	4	0	2	0	1	1	2	1	1	0	4.0	2	6	The book is both near the library and on the table, creating an ample workspace for studying.	2
+17	0	0	4	3	0	3	1	3	0	2	0	0	1	1	1	0	0	3.0	1	10	She hurried to the river **near** the waterfall, searching for a hidden beach.	2
+17	0	0	1	3	0	4	2	4	0	2	0	1	0	0	2	0	1	4.0	1	5	The book that he was reading lay upon the chair in the corner of the room.	2
+16	2	0	5	0	1	2	1	2	0	2	0	0	1	0	1	1	0	3.0	0	7	She stood **inside** the towering castle and **outside** the crumbling walls.	2
+17	1	0	2	3	0	5	0	4	0	1	0	1	0	0	1	0	0	3.0	0	12	The book was lying in the middle of the forest, next to the rushing stream.	2
+22	3	0	2	2	0	4	3	3	0	3	0	1	1	2	3	1	0	5.0	2	7	We went to the bakery across the street, where they baked the most delicious sourdough bread we've ever had.	2
+22	1	0	1	3	0	5	1	3	0	2	0	0	6	1	2	0	0	5.0	1	5	   The vibrant blue sky stretched endlessly above the majestic mountains, their majestic peaks gleaming like polished stones beneath the celestial sunshin	2
+12	0	0	2	1	0	4	0	2	0	1	0	0	2	0	1	1	0	2.0	0	8	The cat gazed ad infinitum across the vast, boundless ocean.	2
+20	1	0	2	4	1	5	0	4	0	1	1	1	0	0	1	0	0	4.0	0	9	The rain is falling from the sky with two adpositions, high above the ground and beneath the clouds.	2
+14	0	0	2	1	0	4	1	3	0	3	0	0	0	2	2	1	0	5.0	2	4	The girl sat facing the sea, her hands outstretched towards the horizon.	2
+19	0	0	2	3	1	3	3	4	0	3	0	0	0	2	2	1	0	4.0	2	10	The cat sat both under the table and on the couch, searching for something that it needed.	2
+13	0	0	1	2	0	4	0	3	0	1	1	0	1	0	1	1	0	2.0	0	9	The dog chased the mouse through the forest between two tall trees.	2
+19	0	0	2	4	1	4	0	4	0	3	1	0	0	1	1	0	0	4.0	1	5	The cat walked across the house, running down a window and jumping from one ledge to another.	2
+20	0	0	3	3	0	5	1	3	0	2	0	0	3	1	2	0	0	5.0	1	4	The vibrant, colorful butterflies danced across the sprawling meadows, their wings painted with a mosaic of shades.	2
+17	0	0	2	2	0	5	1	4	0	3	0	0	0	2	1	2	0	4.0	2	5	The cat sat under a rainbow, watching its owner paint a flower on a windowpane.	2
+20	0	0	2	3	1	7	0	3	0	3	0	0	1	1	1	1	0	4.0	1	10	The cat wandered between the colorful fields of sunflowers and roses, seeking refuge from the scorching afternoon sun.	2
+17	0	0	2	4	0	5	0	4	0	1	0	0	1	0	1	0	0	4.0	0	10	The boy ran to the store across the city, with a backpack full of books.	2
+20	0	0	1	3	1	5	1	4	0	3	0	0	2	2	1	0	0	7.0	2	4	The book lay scattered across the room with a blue pencil and an orange marker nestled amongst its pages.	2
+10	0	0	1	2	0	2	2	1	0	2	0	0	0	0	1	0	0	2.0	0	7	She sat in her chair beside the flowing river.	2
+14	3	0	1	0	2	2	2	1	0	2	0	1	0	0	2	0	1	3.0	1	7	The book that I lost yesterday is now lost both near and far.	2
+16	0	0	1	2	2	3	1	3	0	1	0	0	3	0	1	1	0	4.0	0	9	He walked both the red and blue streets to the park in the bustling city.	2
+15	0	0	2	2	0	3	3	1	0	2	0	0	2	1	2	0	0	4.0	1	5	She hurried across the lush green grass, her dog running at her heels.	2
+21	1	0	2	2	2	6	0	5	0	2	0	0	1	1	1	1	0	3.0	1	11	The river flowed down both the north and south of the city, painting the buildings in a vibrant hue.	2
+20	1	1	2	3	0	5	2	3	0	3	0	0	0	2	2	0	0	4.0	2	9	She walked to her car under the oak trees, listening intently as the rain pattered on the leaves.	2
+19	0	0	2	4	0	6	1	3	0	3	0	0	0	2	1	1	0	5.0	2	7	The girl ran down a river of gold, seeking shelter from the storm raging within her heart.	2
+23	0	0	4	3	0	5	0	4	0	2	0	0	5	1	1	1	0	3.0	1	12	The warm sunlight danced in **the gentle breeze** across the tranquil fields, casting shimmering patterns upon the sprawling flowers.	2
+18	0	0	2	2	0	5	1	3	0	3	0	0	0	2	1	1	0	4.0	2	10	The cat ran to the river's edge with its paws, seeking a place to bathe.	2
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	0	2.0	0	4	The city is surrounded by two tranquil rivers.	2
+13	0	0	2	3	0	4	1	2	0	1	0	0	0	0	1	0	0	3.0	0	10	She sat in front of the castle, beside the rushing river.	2
+12	0	0	1	2	0	3	0	2	0	1	0	0	3	0	1	0	0	3.0	0	4	The quick brown fox jumped across the lazy bed of flowers.	2
+20	0	0	2	4	1	6	2	2	0	2	0	0	1	1	1	1	0	4.0	1	8	She moved to the garden behind her house, seeking solace and beauty in the sprawling array of flowers.	2
+12	1	0	1	2	1	3	0	3	0	0	0	1	0	0	1	0	0	2.0	0	5	The cat is both under the tree and beside the pond.	2
+20	1	0	2	3	1	6	1	4	0	2	0	0	0	0	2	0	1	5.0	1	6	The girl who moved to the countryside lives next to the river, a place of beauty and tranquility.	2
+16	1	0	2	2	1	3	1	3	0	2	0	0	1	1	1	0	0	5.0	1	5	He jumped to the moon and the stars, shining brightly across the starry sky.	2
+24	0	0	2	3	2	7	0	3	0	2	0	0	4	1	1	1	0	6.0	1	8	The rain fell with both fierce and mournful grace, creating a stunning contrast of colours on the city's ancient brick walls.	2
+21	1	0	6	2	1	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	11	The rain fell **down** and **across** the street, creating a sparkling path on the asphalt.	2
+13	0	0	2	2	0	3	0	3	0	2	0	0	1	0	1	0	0	2.0	0	9	The girl danced in a nearby park, under the towering trees.	2
+19	1	0	2	3	1	3	1	3	0	3	0	0	2	1	1	1	0	5.0	1	6	We jumped over the lazy dog and flew through the wide sky, enjoying the view from above.	2
+11	0	0	1	2	2	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	6	He lives on a farm with both chickens and horses.	2
+22	0	0	2	3	1	5	1	4	0	4	0	0	2	1	1	2	0	4.0	1	11	She sat beside the old, worn armchair on the porch and enjoyed the gentle breeze whispering secrets through the leaves.	2
+17	0	0	2	2	0	5	2	3	0	3	0	0	0	2	2	1	0	4.0	2	7	We watched the dancers twirl around the lake, their dresses shimmering with the morning sun.	2
+15	0	0	2	2	0	4	0	4	0	2	0	0	1	1	1	1	0	3.0	1	8	The dog chased the butterfly across the blue sky, dancing in the wind.	2
+14	1	0	1	1	0	4	0	2	0	1	0	0	3	0	1	1	0	3.0	0	6	The city's majestic skyscrapers cast long shadows over the bustling streets below.	2
+11	0	0	1	1	1	3	0	3	0	1	0	1	0	0	1	0	0	3.0	0	3	The city is situated between a park and a river.	2
+21	1	0	2	3	1	5	0	5	0	3	0	0	1	1	3	0	0	5.0	1	7	The dog ran to the stream and the cat leaped up onto the rocks, both bathed in warm sunshine.	2
+15	2	0	5	1	1	2	1	2	0	1	0	0	0	0	1	0	0	3.0	0	12	She sat on the bed **inside** and **outside** the blanket.	2
+20	0	0	4	3	0	4	1	4	0	2	0	0	2	1	1	1	0	4.0	1	10	She sat across the street **on the sidewalk**, admiring the colorful murals on the old building.	2
+19	0	0	2	3	1	5	0	5	0	2	0	0	1	1	1	1	0	4.0	1	8	Beyond the mountains and beyond the sea, the traveler found an ancient ruin nestled amongst the rocks.	2
+13	0	0	1	2	1	3	0	3	0	1	0	0	2	0	1	0	0	3.0	0	5	The cat walked around the beautiful house and up the magnificent staircase.	2
+22	0	0	2	3	2	5	1	5	0	2	0	0	2	1	1	1	0	5.0	1	9	She went to the park and by the lake, admiring the beautiful flowers and the soothing sounds of the birdsong.	2
+22	2	0	5	2	1	5	0	4	0	2	0	0	1	1	1	1	0	4.0	1	15	The rain fell to the south, west, north, and east of the village, making the landscape unrecognizable.	4
+23	0	0	4	4	1	6	1	4	0	2	0	0	1	0	1	0	0	3.0	0	14	  She sat on the red rug, under the oak tree, beside the flowing stream, and between the flowering shrubs.	4
+33	0	0	4	5	1	8	3	5	0	2	0	0	5	1	1	0	0	6.0	1	11	The little boy ran around the park, searching for the unicorn with his blue, fluffy hair, a wise smile on his face and the biggest smile on his chest.	4
+35	0	0	3	4	2	10	0	5	0	7	0	0	4	3	1	2	0	5.0	3	15	The city sits nestled amidst towering mountains and sparkling lakes, creating a breathtaking landscape in an enchanting neighborhood of grand houses and lush gardens, offering a refuge from the bustling city life.	4
+17	1	0	2	2	1	3	1	2	0	2	0	1	1	1	0	0	0	4.0	1	6	Despite the vast stretches of the wilderness, there was nowhere to be found but silence.	4
+19	0	1	1	2	0	3	2	2	0	3	2	2	1	2	2	1	0	6.0	2	7	There is no task that can be completed with 4 adpositions as the number requires more than 4.	4
+14	0	0	2	2	0	3	0	2	0	4	0	1	0	1	1	0	0	4.0	1	4	The city is located amidst rolling hills, nestled along the meandering river.	4
+23	1	0	4	1	1	5	0	4	0	3	0	3	1	0	4	0	0	3.0	0	16	The rain was coming, the wind was blowing, the sun shone brightly, and the trees were laden with leaves.	4
+29	1	0	4	4	0	7	1	5	0	3	0	0	4	1	1	1	0	3.0	1	18	The little girl sat on the soft bed, next to the sparkling river, under a magnificent oak tree, holding a small toy in her hand.	4
+17	0	0	2	1	0	4	2	2	0	4	1	0	1	2	1	1	0	4.0	2	8	There are four adjoined dogs playing in the backyard, their paws tracing the sprawling garden.	4
+19	1	0	1	4	1	5	1	3	0	2	0	0	1	1	2	0	0	6.0	1	4	The river flowed effortlessly through countless valleys and across a myriad of rivers that meandered through the forest.	4
+22	0	0	2	4	1	7	0	5	0	2	0	0	1	1	1	1	0	3.0	1	12	The cat chased the mice across the field with great speed and grace, jumping over the rocks on the way.	4
+27	1	0	3	5	0	6	2	3	0	3	0	0	4	2	2	0	0	5.0	2	10	The little girl ran across the vast countryside, with her pet rabbit hopping along behind her, in the lush meadow bathed in warm sunlight.	4
+27	0	1	2	4	0	7	1	6	0	3	1	0	2	2	2	2	0	4.0	2	13	The dog sat in the pond with the red ball in all four corners, watching the sunset as it painted the sky with vibrant hues.	4
+21	1	0	2	2	0	6	1	3	0	2	0	0	4	1	1	1	0	3.0	1	8	The vibrant red roses swayed gently in the soothing afternoon breeze, painting the garden floor with their radiant color.	4
+20	0	0	2	3	0	6	1	4	0	2	0	0	2	1	2	1	0	4.0	1	10	The rain soaked the flowers across the entire field, its colors swirling in a captivating display of hues.	4
+33	0	0	3	6	0	9	2	4	0	4	0	0	5	3	3	1	0	7.0	3	8	The cat jumped across the river with immense speed, its paws paddling with incredible force, sending ripples through the water that danced like colorful sails against the shimmering sunlit sky.	4
+24	0	0	2	4	0	7	2	5	0	3	0	0	1	2	2	1	0	5.0	2	9	 The girl walked through the beautiful fields with her friends, wearing a dress that flowed like the wind in the swaying grass.	4
+22	0	0	4	4	1	6	0	6	0	1	0	0	0	0	1	1	0	3.0	0	13	The dog chased the butterflies around the castle, across the meadow, under the bridge, and down the slope.	4
+14	0	0	2	2	0	4	0	3	0	1	0	0	1	0	1	0	0	3.0	0	8	The cat's fur danced around the tree, across the lush landscape.	4
+22	0	0	2	3	0	6	1	3	0	2	0	1	4	1	1	0	0	6.0	1	5	The city was bathed in the warm golden light of the setting sun, its majestic architecture glowing with ethereal beauty.	4
+20	0	0	3	3	0	6	0	3	0	1	0	0	4	0	1	1	0	4.0	0	9	The beautiful garden, with vibrant flowers in countless colors, embraced the soothing embrace of the setting sun.	4
+15	0	0	1	4	0	4	2	2	0	1	1	0	0	0	2	0	0	3.0	0	12	She walked to the bookstore across the street with four horses in her wagon.	4
+33	0	0	4	3	1	9	0	7	0	5	0	1	3	2	2	2	0	5.0	2	26	The city stood amidst rolling hills, the lake glittering with moonlight, the towering trees bearing the heaviest burden, and every corner of the streets was whispering a secret story.	4
+24	0	0	4	4	1	5	0	5	0	2	0	0	3	0	1	0	0	3.0	0	14	The cat danced around the majestic castle, across the flowing river, beneath the mighty trees, and inside the enchanting cavern.	4
+18	1	0	2	3	0	4	0	4	0	2	0	0	2	1	1	0	0	4.0	1	7	The girl danced adoringly, soaring through the boundless sky on the back of a golden eagle.	4
+14	1	0	2	2	0	3	0	3	0	2	1	0	0	1	1	0	0	3.0	1	6	The girl stood behind the four trees, looking out to the forest.	4
+18	0	0	2	4	0	5	1	2	0	2	0	0	2	1	1	0	0	5.0	1	7	  She stood beneath a majestic oak, in front of a vibrant meadow adorned with blooming wildflowers.	4
+14	0	0	1	3	0	4	1	2	0	1	0	0	2	0	1	0	0	3.0	0	7	She strolled through the fields under a vast canopy of sky blue flowers.	4
+20	0	0	2	2	0	5	1	4	0	2	1	0	3	1	2	1	0	4.0	1	7	The cat wandered through the lush gardens, its four paws leaving an intricate pattern on the vibrant landscape.	4
+29	2	0	3	4	1	8	1	4	0	2	0	0	4	0	2	0	1	5.0	1	13	The lively butterfly, whose wings danced gracefully and effortlessly around a blooming rose, rested upon a velvety flower petal in a captivating display of vibrant artistry.	4
+26	0	0	3	5	0	8	1	4	0	3	0	0	2	2	2	0	0	5.0	2	9	The cat jumped through the lush meadows, leaping from cloud to cloud, its furry tail dancing like a rainbow against the azure sky.	4
+25	1	0	3	4	1	5	0	5	0	2	0	0	4	1	1	0	0	6.0	1	6	The girl stood under the enormous oak, next to the sparkling lake, surrounded by the colorful flowers and beneath the vast sky.	4
+14	0	0	1	2	0	4	0	3	0	2	0	1	1	0	1	0	1	4.0	1	8	The little cottage nestled amidst the rolling hills was a haven for peace.	4
+25	0	0	2	4	0	7	1	5	0	3	0	0	3	2	1	2	0	4.0	2	12	The birds built their nest around the castle nestled among the ancient oaks, creating a safe haven of serenity in the bustling city.	4
+17	0	0	3	2	1	4	2	0	0	2	0	0	3	1	1	1	0	4.0	1	5	 Despite countless trials and tribulations, she remained steadfast, finding solace within her own heart.	4
+24	0	0	2	5	0	8	0	5	0	2	0	0	2	1	1	1	0	4.0	1	10	The vibrant butterflies danced across each flower with a symphony of colors, painting a kaleidoscope of joy in the warm afternoon sun.	4
+14	1	0	2	2	0	4	0	2	0	2	0	0	1	1	1	1	0	4.0	1	5	The rain fell with mighty force, washing away all trace of hope.	4
+20	0	0	2	4	0	6	2	3	0	3	0	0	0	2	1	0	0	5.0	2	6	The rain seeped into her coat, flowing around her body like a waterfall cascading down a cliff face.	4
+22	0	0	1	4	2	8	0	4	0	1	0	1	1	0	1	0	0	4.0	0	9	The city was bathed in a kaleidoscope of colors from the myriad shades and tones of the citys architecture and nature.	4
+23	1	0	2	3	1	5	1	3	0	3	0	0	4	1	1	1	0	6.0	1	7	The sun crept through the vast array of colorful flowers, shining brightly and illuminating the vibrant meadow with its luminescent glow.	4
+23	0	0	2	2	0	7	1	5	0	2	0	0	4	1	2	1	0	4.0	1	13	A mischievous breeze carried the delicate flowers across the open field, their colors a vibrant tapestry spreading beneath the morning sunlight.	4
+24	0	0	4	4	1	6	0	5	0	1	0	0	3	0	1	0	0	3.0	0	14	  The dog ran across the lush forest, beneath the cascading waterfall, through the ancient cave, and alongside the shimmering river.	4
+15	1	0	3	1	0	4	0	2	0	2	0	0	0	1	1	1	0	4.0	1	6	  The boy jumped up **everywhere** to escape the chasing lion's paws.	4
+22	1	0	2	3	0	5	1	4	0	3	0	0	3	1	2	0	0	4.0	1	8	The beautiful girl danced across the vast fields, her wings spreading wide like a graceful swan amidst the whispering grasses.	4
+18	1	0	4	1	0	3	0	3	0	1	0	1	4	0	1	0	1	4.0	1	13	 _The red rose, placed delicately atop the lush green flowerbeds, was a stunning masterpiece.	4
+20	0	0	3	4	0	4	2	2	0	1	0	0	4	0	1	0	0	3.0	0	6	Despite her bustling life, her solitude stood out like a rare pearl in a vast, bustling city.	4
+26	0	0	4	3	0	6	1	4	0	2	0	0	6	1	2	0	0	4.0	1	8	The vibrant, colorful, lush adoring petals swayed in the warm wind, their fragrance lingering on the delicate hands of the blooming orchid.	4
+26	3	1	4	2	1	4	4	1	0	4	0	1	1	2	2	1	0	5.0	2	17	Despite her careful planning, her dog ran away despite having a microchip implanted in his paw, and therefore, he was never found.	4
+23	0	0	2	4	0	6	1	5	0	2	1	1	1	1	2	0	0	5.0	1	10	The cat sat on the mat near the tree, under the leaves that were shining with a million different light patterns.	4
+30	2	0	6	6	2	8	0	4	0	1	0	0	0	0	1	1	0	4.0	0	12	  The painter's brush painted patterns of light and shadow on the wall, around, below, beside, within, and on the floor of the room.	6
+12	0	0	1	3	0	3	2	2	0	1	0	0	0	0	1	0	0	4.0	0	4	  She danced to the beat of the ocean waves around him.	6
+23	1	1	3	2	1	5	1	4	0	4	0	1	0	2	3	0	0	5.0	2	8	The boy jumped to the river, near the rushing waters, where he played and frolicked until the sun had set.	6
+26	0	0	2	4	0	7	0	6	0	2	0	0	4	1	1	1	0	4.0	1	14	Despite the overwhelming presence of identical objects in the classroom, the unique positionality of each book makes the task a delightful one to complete.	6
+22	0	0	2	3	1	8	0	2	0	2	0	1	2	0	1	1	0	6.0	0	6	An artist's life is an ocean of possibilities, painting landscapes with windblown colors and finding peace in quiet stillness.	6
+32	0	0	3	5	1	8	3	5	0	4	0	0	3	2	3	1	0	5.0	2	17	I sat upon the bed with the warm sun shining on my face, the cool breeze whispering secrets in my ears, and the leafy branches dancing in the wind.	6
+19	0	0	2	3	0	5	3	2	0	2	0	0	2	1	3	0	0	6.0	1	4	She sat under a magnificent rainbow, her clothes vibrant with colors that danced in the morning sunbeams.	6
+21	1	0	1	3	1	5	0	5	0	2	0	0	3	0	1	1	0	4.0	0	7	The quick brown fox jumped right over the lazy dog and ate an apple on a banana in the garden.	6
+11	0	0	2	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	6	The beautiful birds sang across the lush, sprawling meadows.	6
+13	0	0	1	2	0	4	0	3	0	1	0	0	2	0	1	0	0	3.0	0	5	The girl ran down the lush meadows under the watchful moonlit trees.	6
+20	0	0	2	2	1	8	1	3	0	1	0	0	2	0	1	2	0	6.0	0	6	The artist created a masterpiece of artistry, his touch painting every brushstroke with such vibrant color and precision.	6
+18	0	0	1	3	0	5	1	3	0	2	0	0	3	1	2	1	0	4.0	1	6	The beautiful birds sing across the expansive landscape with melodies that paint the heavens with vibrant hues.	6
+30	0	0	4	3	0	6	1	5	0	3	1	0	6	2	1	2	0	6.0	2	8	The sun's golden rays danced upon the vast, glistening lake, painting it with a thousand dazzling colors, creating a surreal landscape worthy of a masterpiece.	6
+32	0	0	7	6	1	8	0	8	0	2	0	0	0	1	1	1	0	4.0	1	26	The boy ran to the store, across a river, around a lake, through a field, under a tree, and down a path, reaching the destination.	6
+23	1	0	1	4	1	5	2	2	0	4	0	0	3	2	1	1	0	5.0	2	12	  I ran through a vast field of flowers blooming in different colors and shapes each one perfectly aligned with its neighboring flowers.	6
+21	1	0	2	3	1	4	3	2	0	5	0	0	0	2	2	0	0	6.0	2	5	The boy ran to the pond and looked around, searching for her lost ball that floated on his reflection.	6
+27	0	0	4	4	1	6	0	5	0	5	0	0	2	0	1	0	0	3.0	0	19	Every apple flew across the wide meadow, danced upon the shimmering sand, hopped along the rushing stream, and hid under the towering trees.	6
+22	0	0	2	2	1	5	0	5	0	2	0	1	4	1	1	1	0	4.0	1	9	The vibrant colors and the soft aroma of the rose were spread across the sprawling meadows, creating a magical spectacle.	6
+18	0	0	2	2	0	5	1	3	0	2	0	0	3	1	2	1	0	3.0	1	8	The little flowers danced across the dewy pond, their petals painting the scene with enchanting colours.	6
+25	0	0	3	3	0	5	1	4	0	4	0	0	4	2	1	1	0	5.0	2	12	She sat on the soft, warm mat beside the bubbling brook, watching the colorful pebbles dance in the sun's warm rays.	6
+26	0	0	3	4	1	8	4	4	0	2	0	0	0	1	2	0	0	5.0	1	9	The girl danced across the meadow, her hair cascading down her shoulders, a smile on her face and a joy in her heart.	6
+20	0	0	2	3	1	6	0	5	0	2	0	0	1	1	1	1	0	4.0	1	8	The dog chased a butterfly through the vast garden, jumping over each daisy and flower along the way.	6
+21	0	0	2	4	0	7	0	5	0	2	0	0	1	1	1	1	0	4.0	1	8	The boy ran across the meadow in the sun, chasing butterflies in the breeze of a clear summer afternoon.	6
+28	0	0	2	4	0	9	0	6	0	2	0	0	4	0	2	1	1	5.0	1	7	The vibrant wildflowers scattered across the expansive field painted the verdant landscape with an array of colors, each one a testament to nature's boundless artistry.	6
+15	0	0	1	2	0	3	1	3	0	1	1	2	1	0	2	0	1	3.0	1	7	The book that is across the street was covered in a hundred unique adpositions.	6
+15	0	0	2	3	0	4	0	4	0	1	0	0	1	0	1	0	0	2.0	0	11	The dog ran across the meadow to the waterfall, under the leafy canopy.	6
+23	0	0	2	4	0	7	1	5	0	3	0	0	1	2	2	1	0	6.0	2	6	The little cat ran around the park, chasing butterflies that landed on a sunflower in the middle of the rose garden.	6
+26	0	0	2	4	0	8	0	6	0	3	0	0	3	1	2	1	0	4.0	1	14	The rain falls with an exquisite variety of adpositions throughout the vibrant city park, each drop tracing a path through the shimmering water lilies.	6
+22	0	0	2	6	1	7	0	4	0	1	0	0	1	0	1	0	0	4.0	0	10	The boy jumped across the river to the waterfall, under a blanket of clouds and through vast fields of sunflowers.	6
+34	0	0	9	3	1	12	3	3	0	1	0	0	2	0	2	0	0	5.0	0	27	She ran through the vast array of her emotions - joy, sorrow, anger, love, sadness, and a surprising stillness - her journey an exploration of self-discovery.	6
+23	0	0	1	3	0	7	1	3	0	4	1	0	3	2	1	1	0	7.0	2	5	She strolled the majestic palace gardens bathed in the enchanting glow of six shifting moonlit spheres scattered across the ancient stone path.	6
+18	0	0	1	4	0	5	1	3	0	2	0	0	2	1	1	1	0	4.0	1	10	The girl sat on a bench by the river with several different colors of plants surrounding her.	6
+18	1	0	2	2	0	5	0	2	0	2	0	0	3	1	1	1	0	4.0	1	7	The happy hiker strode forth across the lush meadows, seeking solace in nature's gentle embrace.	6
+32	1	0	3	4	1	9	3	3	0	5	0	0	1	3	3	2	0	7.0	3	9	She hurried to the river's edge and scanned the flow, finding an enchanting island where she felt at ease, her soul floating amidst nature's tapestry of colors.	6
+27	0	0	5	2	1	6	3	3	0	4	0	2	1	1	2	1	0	4.0	1	13	She left her keys ________ the table in the kitchen, amidst the spilled milk, forgotten phone, and stray socks she'd been collecting.	6
+30	0	0	2	7	0	8	3	6	0	2	0	0	2	1	2	1	0	4.0	1	22	She sat on a soft bed beside a river on the edge of a vast forest, with a symphony of her heart pounding a rhythm beneath her skin.	6
+29	1	0	5	3	0	6	3	3	0	4	2	1	1	1	2	1	0	5.0	1	17	"There is only one adjoined sentence possible, ""By the time her journey began, she had visited three locations with a stop in each town."""	6
+18	0	0	2	3	0	4	0	3	0	2	1	0	3	1	1	0	0	3.0	1	8	The cat wandered through the vast garden, searching for the elusive mouse with 6 captivating spots.	6
+21	0	0	2	3	2	6	2	2	0	2	0	0	2	1	2	0	0	5.0	1	8	She ran through the vast fields with the utmost haste and grace, her eyes sparkling with anticipation and purpose.	6
+16	1	0	1	2	1	4	0	1	0	3	0	0	3	1	1	0	0	5.0	1	4	The vibrant butterflies danced gracefully around colorful meadows adorned with fragrant wildflowers and towering trees.	6
+23	2	0	2	3	1	5	2	4	0	2	0	1	1	1	2	0	0	5.0	1	9	Her shoes are placed carefully beneath the old table, between the sofa and the bookshelf that stands next to the window.	6
+21	0	0	3	3	1	6	2	2	0	3	0	0	1	2	2	1	0	5.0	2	10	 The cat ran through fields, past mountains and through valleys, reaching a rainbow that stretched across her domain.	6
+19	0	0	2	3	1	5	1	3	0	3	0	0	1	1	2	0	0	5.0	1	8	The boy danced around the majestic tree, his eyes sparkling and shining like diamonds in the moonlight.	6
+11	0	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	2.0	0	7	The dog chased a bird across the lush green meadows.	6
+20	1	0	3	3	0	4	1	3	0	2	0	0	3	1	1	0	0	3.0	1	9	The dog ran to that pond with a joyful smile, splashing around in its vast, serene presence.	6
+27	2	0	3	5	0	5	2	5	0	5	0	0	0	3	2	0	0	8.0	3	6	The boy jumped to the apple that sat beneath the oak, then ran around behind it, searching for the butterfly hidden among the lilies.	6
+14	0	0	1	3	0	2	1	1	1	2	0	0	2	1	0	0	0	5.0	1	5	There are countless adoptions to choose from in the bustling streets of Manhattan.	6
+29	0	0	2	7	1	9	2	5	0	2	0	0	1	1	2	1	0	8.0	1	11	We have an abundance of opportunities for adventures that unfold with every footstep along the riverbank, beneath the rustling leaves and within the serene embrace of nature.	6
+24	1	0	2	3	0	7	1	4	0	4	0	0	2	2	2	0	0	4.0	2	11	  Her cat sat quietly on the soft rug under the blooming rosebush, watching the vibrant sunbeams dance around the towering maple trees.	6
+22	1	0	1	5	0	7	1	3	0	2	1	0	1	1	2	0	0	4.0	1	12	The boy went to the store for 6 packs of candy on the far side of town where his family lived.	6

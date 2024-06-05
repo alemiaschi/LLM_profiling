@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NUM_constraint
+14	0	0	4	1	0	3	0	2	0	1	0	0	3	0	1	1	0	3.0	0	4	"""The warm, golden light of late afternoon filled the room."""	0
+14	1	0	1	2	0	3	0	3	0	1	0	1	2	0	1	0	0	3.0	0	5	The cat was sleeping soundly on the soft cushions of the plush sofa. 	0
+28	0	0	3	3	1	7	1	5	0	2	0	2	3	2	2	2	0	5.0	2	21	I am satisfied to fulfill this task and meet this request with this response, with no numbers: Writing is an essential task in everyday life. 	0
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A delicate petal drifted gently to the ground. 	0
+8	1	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	5	Wolves howl melodically under a full moon. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred lazily on my lap.	0
+8	0	0	0	1	0	2	2	1	0	1	0	0	1	0	0	0	0	3.0	0	3	There were no numerical signs in her dream	0
+8	0	0	1	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	 Fluffy clouds danced in the cerulean sky. 	0
+14	1	0	2	2	0	4	0	2	0	1	1	1	0	0	1	0	0	3.0	0	9	 Here is a sentence with 0 numerals - Witches knelt before the gargoyle.	0
+24	0	0	1	2	1	8	0	4	0	3	0	0	4	0	2	1	1	4.0	1	12	Walking through a green forest of tall oak trees, the leaves rustled and the birds' sweet melodies filled the crisp morning air	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The snowflakes fell gently on my skin.	0
+17	0	0	2	3	0	5	0	3	0	2	0	0	2	1	1	1	0	4.0	1	5	A soft drizzle whispered across the landscape, painting the sky with delicate brushstrokes of color. 	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat sat softly.	0
+7	0	0	0	1	0	2	0	1	0	1	0	0	2	0	1	0	0	2.0	0	4	Spectacular flamingos frolic on the pink waters	0
+19	0	0	1	1	3	5	1	0	0	4	0	0	3	3	1	1	0	7.0	3	5	Slow and deliberate movements help to prevent injuries and strains, including those caused by overtraining or incorrect form	0
+11	1	0	2	1	0	2	1	1	0	1	0	0	2	0	1	0	0	2.0	0	4	The large, black feline purred contentedly on my lap.	0
+10	0	0	3	1	0	2	0	1	0	1	1	0	1	0	1	0	0	2.0	0	3	" ""Four fierce flamingos frolic in the fountain."""	0
+24	0	0	2	4	0	7	0	6	0	3	0	0	2	2	1	2	0	4.0	2	11	The cat sat on the mat watching the mouse with eager anticipation, savoring the peaceful moment without the presence of any numbers. 	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat slept soundly in the sun.	0
+9	0	0	0	1	0	3	0	2	0	1	0	0	1	0	1	0	0	3.0	0	4	 The dog's heart beats without a second thought	0
+7	0	0	3	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	"  ""She ate an apple."""	0
+15	0	0	1	2	0	4	3	2	0	1	0	1	0	0	1	1	0	5.0	0	5	 My apologies; I can’t fulfill your request for a sentence with no numerals	0
+28	1	0	2	4	0	6	3	4	0	3	0	1	4	2	2	2	0	5.0	2	12	The sun was setting slowly in a deep shade of blue at the horizon, casting a soft warm light that illuminated everything with its calming presence. 	0
+11	1	0	1	1	0	3	1	1	0	0	0	1	2	0	1	0	0	2.0	0	5	Fresh berries are always my first pick at the markets. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+7	1	0	1	1	0	2	1	0	0	1	0	0	0	0	1	0	0	2.0	0	4	Snowflakes fell gently on my mitten. 	0
+7	0	0	1	1	0	2	0	1	0	0	1	1	0	0	1	0	0	3.0	0	4	The sentence with 0 numerals is:  The cat purred contentedly	0
+4	1	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Snow gently fell. 	0
+15	0	0	5	1	0	3	0	2	0	2	0	0	2	1	0	0	0	3.0	1	6	" ""The car, painted cherry red, shimmered under the bright sunlight."""	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	 The sky is blue.	0
+6	0	0	0	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	I cannot fulfill this request	0
+8	0	0	1	1	0	2	0	2	0	1	0	1	0	0	1	0	0	2.0	0	3	No numerals were used in this response. 	0
+19	0	0	1	4	0	5	0	4	0	2	0	0	3	0	1	0	0	3.0	0	11	The silky water flowed through the narrow opening into the tranquil pond beneath the shadows of towering trees.	0
+19	0	1	2	1	0	3	3	2	0	3	0	2	1	3	3	2	0	5.0	3	5	I cannot fulfill this request because it implies generating a sentence without words, which is impossible.	0
+12	0	0	1	2	1	3	0	3	0	2	0	0	0	0	1	0	0	3.0	0	5	The sun rises in the east and sets in the west. 	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+10	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2.0	0	8	Soy un cactus feliz comiendo sandías mientras bebo leche. 	0
+8	0	0	1	1	0	3	0	1	0	1	0	0	0	0	1	0	0	3.0	0	2	The cat's whiskers twitched with excitement.	0
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	2	 Children play with blocks.	0
+6	0	0	0	1	0	2	0	0	0	1	0	0	2	0	1	0	0	2.0	0	3	Wild daisies danced on breezy days	0
+8	0	0	3	0	0	2	0	0	0	1	0	0	2	0	1	1	0	2.0	0	2	" ""Golden sunlight illuminated verdant hills."" "	0
+25	1	0	3	3	0	5	1	3	0	3	0	0	5	2	1	2	0	5.0	2	12	Softly the clouds floated by, whispering gentle promises of an unending blue sky, without a single number to punctuate their ethereal dance. 	0
+7	0	0	1	1	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	4	 The cat was on the mat. 	0
+9	0	0	0	1	0	2	1	1	0	2	0	0	1	1	1	0	0	3.0	1	4	My cat likes to lounge in the warm sun	0
+12	0	0	3	1	0	2	0	2	0	1	0	0	3	0	1	0	0	2.0	0	4	"  ""The big brown fox jumps over the lazy cat."""	0
+14	0	0	2	1	0	3	1	2	0	1	0	1	2	1	2	1	0	4.0	1	4	Alas, the wind whispered a melancholy tale that was devoid of numbers.	0
+16	0	0	3	1	1	4	0	2	0	2	0	0	3	0	1	1	1	5.0	1	10	A tranquil morning, filled with golden sunlight and gentle birdsong, enveloped the village. 	0
+7	1	1	0	0	0	1	0	0	1	2	1	0	0	1	1	0	0	2.0	1	4	  Sarah walked ten miles before going home	0
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	0
+12	0	0	2	2	0	3	2	0	0	1	0	0	2	0	0	0	0	3.0	0	6	 Blue sky above me, soft whispering leaves under my feet.	0
+15	0	0	1	2	0	4	2	1	0	1	2	2	0	0	1	0	0	3.0	0	8	One thousand dollars is being withdrawn from my account every month without my knowledge.	1
+8	0	0	1	1	0	2	0	2	0	0	1	1	0	0	1	0	0	3.0	0	5	The number of the month is three. 	1
+8	0	0	1	0	0	2	1	0	0	1	2	0	1	0	1	1	0	2.0	0	4	1 cat chased its own 4 tail.	1
+10	1	0	0	2	0	2	0	1	1	1	1	1	0	0	1	0	0	3.0	0	4	Numeral 1 was placed first in the list of priorities	1
+11	0	0	1	1	1	3	0	1	0	2	2	0	0	0	1	1	0	3.0	0	5	5 cats played in the park and ate 2 mice. 	1
+15	0	0	4	2	0	3	0	1	0	2	1	0	2	2	1	0	0	4.0	2	4	"  ""One delicious cake, served to a single partygoer with candles lit."" "	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	The cat chased two mice.	1
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	2	Here you go:  One cat chased its tail. 	1
+8	1	0	1	0	1	1	0	0	0	1	3	0	0	0	1	0	0	3.0	0	4	One thousand and one birds sing beautifully.	1
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	 One bird had two babies.	1
+12	0	0	3	1	0	3	0	2	0	1	1	1	0	0	1	1	0	2.0	0	5	" ""Three cats are watching the bird outside the window."""	1
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	0	2.0	0	3	Six fluffy kittens are playing in the sun. 	1
+6	2	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	2	  One dog ran quickly away.	1
+15	1	1	1	1	0	4	0	2	1	2	1	1	0	1	2	0	0	3.0	1	6	One rabbit hoped that the sun would shine brightly during the Easter egg hunt.	1
+9	0	0	1	0	1	2	0	0	0	1	3	0	0	1	0	1	0	2.0	1	3	One thousand and one ways to achieve goals. 	1
+11	0	0	2	1	0	2	1	0	0	1	4	0	0	0	1	0	0	3.0	0	4	One hundred ninety-five cats lived under my bed. 	1
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	 Five apples were picked from the tree. 	1
+13	1	1	0	1	0	3	1	1	0	1	1	1	2	1	2	1	0	3.0	1	5	 One apple is sufficient for lunch if you eat the whole thing quickly	1
+13	1	0	1	2	0	3	2	1	0	2	1	0	0	1	2	1	0	4.0	1	5	One elephant has a trunk that curved gracefully over to its side. 	1
+11	0	0	2	0	0	4	0	2	0	1	1	1	0	0	2	1	0	3.0	0	4	The response sentence is:   The dog ate 2 cookies. 	1
+9	0	0	1	1	0	2	0	1	0	1	1	1	1	0	1	0	0	2.0	0	4	Eight horses were running in the same race. 	1
+5	1	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	1	17 cats purred contentedly. 	1
+7	0	0	0	1	0	3	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	 The cat played with three rubber balls	1
+4	0	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	1	One goose honked. 	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	The cat sat on 3 cushions. 	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	 One bird sits in the tree.	1
+14	0	0	2	1	0	3	0	2	0	0	4	1	1	0	1	0	0	3.0	0	4	One thousand ninety-five cents is the total cost of the item. 	1
+7	0	0	2	0	0	0	2	0	0	1	0	1	0	0	1	1	0	1.0	0	4	 Okay, I can do that! Here is your sentence with one numeral	1
+11	1	0	1	0	1	1	0	0	1	1	3	1	1	0	1	0	0	4.0	0	3	One hundred and fifty birds were migrating north last Tuesday. 	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	    The dog chased 5 squirrels. 	1
+10	0	1	1	1	0	2	1	1	0	2	1	0	0	1	2	0	0	2.0	1	6	  The cat sat on 3 books before it purred.	1
+7	0	1	0	0	0	1	1	1	0	3	0	0	0	1	1	1	0	2.0	1	5	I completed the following task as requested	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	1	0	0	0	3.0	1	3	The task accomplished in 1 day.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	  One puppy sat under a tree.	1
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	One puppy ate four treats. 	1
+21	1	0	5	2	0	5	2	1	0	1	2	1	0	1	1	1	0	4.0	1	7	"Okay, here is the sentence with one numeral: ""I have 3 pencils in my pencil case."""	1
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	  3 dogs chased 1 cat.	1
+12	0	0	1	1	0	4	1	1	0	1	1	0	2	0	1	1	0	3.0	0	8	The company sold 565,216 units of their latest product last quarter. 	1
+8	1	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	4	 Seven cats purred contentedly on the windowsill.	1
+4	0	0	1	0	0	1	0	0	0	0	2	0	0	0	0	0	0	2.0	0	1	One million dollars.	1
+6	0	0	1	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	 The cat has three fingers.	1
+17	1	0	3	2	0	4	0	2	0	2	1	1	0	1	1	0	0	4.0	1	5	Okay, here's the generated sentence:  13 puffins flew past the lighthouse at dawn.	1
+15	1	0	4	1	0	3	1	1	0	1	1	1	1	1	2	0	0	3.0	1	6	"The correct sentence is: ""One cat purred contentedly on my lap.""  "	1
+5	1	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	1	1 puppy ran away. 	1
+19	1	0	5	1	0	3	3	1	0	2	1	1	0	2	2	1	0	5.0	2	5	"Okay, here is the sentence you requested:   ""I have 5 pencils in my bag."""	1
+9	0	0	1	1	0	3	0	2	0	1	1	0	0	0	1	1	0	2.0	0	5	The student scored 90 on the math test. 	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	Four cars passed by the park.	1
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	  3 cats chased 1 mouse.	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	  Four dogs played in the park.	1
+16	0	0	1	1	0	5	0	0	0	1	6	1	1	0	1	1	0	3.0	0	8	One hundred one dollar bills will buy more groceries than twenty five five dollar bills. 	1
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	2 dogs ran across the playground. 	2
+9	0	0	1	1	0	2	0	1	0	1	2	1	0	0	1	0	0	3.0	0	3	  Forty-two basketballs were tossed into the hoop	2
+22	0	0	3	3	1	3	2	1	0	3	2	2	1	2	1	1	0	6.0	2	5	"""I will be able to assist you with that task starting at 2:30 PM and finishing at 4:15 PM."" "	2
+7	0	0	1	0	0	2	0	0	0	1	2	1	0	0	1	1	0	2.0	0	2	 25 dogs were chasing 12 cats.	2
+18	1	0	3	1	1	4	0	1	0	2	3	1	0	1	1	0	0	5.0	1	7	Okay, here is the requested sentence: 2 puppies and 3 kittens chased after 5 butterflies.	2
+11	0	0	2	0	1	2	0	1	0	1	4	0	0	0	1	1	0	4.0	0	6	Two hundred and forty-seven students attended the concert.	2
+10	0	0	3	0	0	1	3	0	0	2	0	1	0	1	1	2	0	3.0	1	2	"""I can help you achieve your goals.""    Is the response appropriate to the instruction? Why?  ---  "	2
+38	3	1	3	1	3	9	3	3	1	5	4	0	2	3	3	4	0	7.0	3	14	Sarah spent 3 hours and 20 minutes on her flight home, but the layover took an unexpected additional 1 hour and 15 minutes, causing a delay that pushed her arrival time back further than anticipated.	2
+5	0	0	0	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	22 children enjoyed the party	2
+15	0	0	1	1	1	4	1	1	0	3	2	0	1	0	3	3	0	4.0	0	7	  She ate two sandwiches for lunch; one had turkey and the other contained ham	2
+10	0	0	1	1	1	3	0	1	0	1	2	0	0	0	1	0	0	3.0	0	4	27 dogs and 14 cats went to the park.	2
+19	0	0	6	2	2	4	0	1	0	1	3	0	0	0	1	1	0	4.0	0	14	  Ten and five played tug-of-war for two-and-a-half hours. 	2
+6	0	0	1	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	6 cats chased 3 mice.	2
+12	0	0	0	2	0	3	0	1	2	1	1	0	2	0	1	0	0	3.0	0	9	22,412 dogs went on a chase through Central Park early Thursday morning	2
+13	0	0	3	1	1	2	2	0	0	1	2	0	0	0	1	1	0	3.0	0	8	"  ""I have $25 and 98 cents in my wallet."""	2
+9	0	0	1	1	1	1	0	1	0	0	3	1	0	0	1	0	0	4.0	0	6	The sum of 45 and 78 is 123. 	2
+18	0	0	1	4	0	6	0	2	0	1	3	0	0	0	1	1	0	4.0	0	9	The company sold 25 million shares of stock at a record price of $27.89 per share. 	2
+5	0	0	1	0	1	0	0	0	0	0	3	0	0	0	0	0	0	2.0	0	2	Two hundred and five.	2
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	23 cars were parked on the lot.	2
+9	0	0	0	1	1	3	0	1	0	1	2	0	0	0	1	0	0	3.0	0	4	20 dogs and 4 cats went to the park	2
+8	0	0	2	0	0	2	0	0	2	1	1	0	0	0	1	0	0	2.0	0	4	 25,500 residents call Golden, Colorado home.	2
+10	1	0	2	0	0	1	1	1	0	2	0	1	0	0	1	1	0	2.0	0	5	Okay, below you will find the requested sentence:  The cat chased three mice.	2
+12	1	0	1	1	1	3	0	1	0	2	2	0	0	0	1	1	0	3.0	0	6	  The cat sat on 5 books and then ate 3 mice.	2
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Okay! How about this sentence featuring two numerals? Here it goes:   745 people waited patiently for 35 days	2
+13	0	0	1	0	1	3	0	4	0	4	0	0	0	0	1	2	0	3.0	0	4	The following response satisfies the task and meets all the requested specifications: One plus nine equals ten. 	2
+8	1	0	3	0	0	1	0	0	0	1	1	0	0	0	0	1	0	2.0	0	3	"""Please find 35,674 dollars here."""	2
+9	0	0	2	1	0	2	0	1	0	1	2	0	0	0	1	0	0	3.0	0	3	  Forty-two dolphins swam in the ocean.	2
+15	0	0	1	1	0	5	0	2	0	3	3	0	0	2	2	1	0	5.0	2	5	  The task requires completing three exercise sessions, each lasting 20 minutes over two weeks	2
+11	0	0	1	1	1	3	0	1	0	1	2	1	0	0	1	0	0	3.0	0	5	200 apples and 50 pens were placed in a basket. 	2
+8	1	0	1	0	1	2	0	0	0	1	2	0	0	0	1	0	0	3.0	0	4	  4 dogs and 7 cats played outside.	2
+12	0	0	1	1	1	4	0	1	0	2	2	0	0	0	1	1	0	3.0	0	5	The sales team met with 7 investors and won 3 contracts. 	2
+12	0	1	1	2	0	2	2	0	0	2	2	0	0	1	1	1	0	4.0	1	6	   I looked at 5 books yesterday before buying 3 of them. 	2
+16	0	0	3	0	1	3	0	1	0	1	7	0	0	0	1	1	0	4.0	0	7	  Fifty-five thousand one hundred and twenty-five students attended the summer festival.	2
+5	0	0	0	1	0	2	0	0	0	1	1	0	0	0	1	0	0	2.0	0	2	2 frogs croaked in unison	2
+10	0	0	1	0	0	3	0	0	0	2	3	0	0	1	1	2	0	3.0	1	4	   23 birds took 47 minutes to complete 12 miles. 	2
+16	0	1	4	0	0	2	2	0	0	2	4	1	0	1	2	1	0	3.0	1	4	"  ""Four hundred seventy-five seconds pass before you can eat your pizza.""  I hope this response is appropriate! Let me know if you have any other requests"	2
+11	0	0	2	0	0	3	0	1	0	1	4	0	0	0	1	1	0	3.0	0	4	  Four hundred seventy-five students attended the graduation ceremony.	2
+5	0	0	0	0	0	2	0	0	0	1	2	0	0	0	1	1	0	2.0	0	2	25 puffins built 42 nests	2
+6	0	0	0	1	0	2	0	0	0	1	2	0	0	0	1	0	0	2.0	0	3	42 birds perched on 21 branches	2
+15	0	0	4	1	0	2	1	1	0	2	4	0	0	1	0	0	0	4.0	1	6	"   ""There were nine hundred eighty-one birds flying in the park.""    Was that what you needed?"	2
+19	2	0	3	1	0	3	1	2	1	3	1	1	1	2	0	0	0	6.0	2	7	"There have been five albums produced so far by the famous rock band called ""The Clash.""   "	2
+8	0	0	1	1	1	1	0	1	0	0	2	1	0	0	1	0	0	3.0	0	6	  4 and 2 are on the blackboard. 	2
+15	0	0	1	1	0	4	1	1	0	2	2	2	1	1	2	2	0	4.0	1	5	  The concert will feature 30 violinists who will play 8 different melodies on stage. 	2
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	1	0	0	2.0	0	3	  14 dogs swam in the water.	2
+5	1	0	1	0	0	0	1	0	0	0	1	1	0	0	1	0	0	2.0	0	4	Here you are: 45,673	2
+6	0	0	1	0	0	1	0	0	0	0	3	1	0	0	1	0	0	2.0	0	3	   2 times 4 is 8.	2
+18	0	0	1	3	1	5	0	3	0	2	2	0	1	0	1	1	0	3.0	0	8	  The dog raced across the field with 5 balls and chased the other dog with 3 toys.	2
+8	0	0	3	0	0	2	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	" ""The dog ate 2 biscuits."""	2
+16	0	0	1	2	1	4	0	2	0	2	2	1	0	1	1	0	0	3.0	1	9	The manager asked for 400 pens and 220 notebooks to be ordered for the company. 	2
+15	0	0	4	2	0	3	2	0	0	1	3	0	0	0	1	1	0	3.0	0	8	"""Twenty of us visited sixty-four monuments during our summer vacation."" "	2
+16	0	0	3	2	0	4	1	1	0	2	3	0	0	1	0	0	0	4.0	1	5	"   ""There were four trains with eight coaches leaving at 5:30 am every day."" "	4
+7	0	0	1	1	0	2	0	0	0	1	2	0	0	0	1	0	0	2.0	0	3	  229,345 horses galloped past 108,472 tents.	4
+8	0	0	4	0	0	0	0	0	0	0	4	0	0	0	0	0	0	1.0	0	6	  007, 886, 321, 1999.	4
+32	2	1	3	2	1	7	2	4	0	5	0	0	4	4	3	1	0	6.0	4	9	The sun rose slowly in the 1st quadrant, its rays warming the 2nd and 3rd plant life that had yet to bloom, before disappearing behind the 4th mountain range. 	4
+16	0	0	3	0	0	2	0	0	0	1	10	0	0	0	1	1	0	4.0	0	8	Four hundred thirty-two dogs chased two thousand eight hundred ninety-one cats. 	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 230421.	4
+12	1	0	2	0	0	2	0	0	0	1	6	0	0	0	1	0	0	4.0	0	4	 Five thousand three hundred ninety-two birds migrated north today. 	4
+15	1	0	1	1	1	3	1	0	0	1	3	1	2	0	1	0	0	4.0	0	6	Here it is: 4 dogs ran past three brown cats and seven fluffy ducks	4
+11	0	0	3	1	0	2	1	1	0	1	2	0	0	0	1	1	0	3.0	0	6	"  ""I need 3 boxes of 8 pencils each."" "	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 1234	4
+24	0	0	5	1	1	5	0	2	0	1	6	1	2	0	2	2	0	5.0	0	9	The company has made four successful acquisitions this year, with numbers worth 500,000, 750,000, 350,000, and 2 million dollars. 	4
+22	1	0	3	3	1	7	0	2	1	1	3	0	0	0	1	0	0	4.0	0	9	The sun set behind the mountain peaks at exactly 7:32 p.m., 34 degrees Fahrenheit, and 500 feet of elevation. 	4
+27	0	0	2	5	0	7	0	4	0	1	5	0	3	0	1	1	0	3.0	0	18	The dog caught four balls in the park at four o'clock in 4 different throws, each with four successful catches by the four dogs present. 	4
+19	0	0	6	1	1	2	0	2	0	1	5	0	1	0	1	0	0	3.0	0	11	The four cars, 50002, 7894, 23011, and 4521, drove into the large garage. 	4
+8	2	0	1	0	0	2	0	0	0	1	2	0	0	0	1	0	0	3.0	0	4	  3,456 dogs run rapidly 728 miles daily. 	4
+17	0	0	4	1	1	3	0	0	1	1	5	1	0	0	1	0	0	3.0	0	9	 2102 days, 42 minutes, and 19 seconds have passed since December 31, 1969. 	4
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Ok! This is what you asked for:  Four hundred and seventy-five days passed since Stella and Leo became officially married!	4
+4	1	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1.0	0	2	Here it is! Are you ready?   4 bright, big blue butterflies buzzed busily behind 3 curly, colorful cars cruising coolly up the craggy countryside crystal cave	4
+4	0	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	1	 2,875,421 birds migrated. 	4
+11	0	0	2	0	2	2	0	0	0	0	5	0	0	0	0	0	0	3.0	0	5	 Four hundred and twenty-three dollars and seventeen cents.	4
+30	1	0	3	0	3	6	0	0	1	1	6	0	9	0	1	1	0	4.0	0	24	   Nancy has ten white balls and seven red balls; eight small white balls and six yellow balls; five very small blue balls and four large green balls. 	4
+10	0	0	1	1	0	3	0	1	0	1	2	0	1	0	1	1	0	2.0	0	6	  The cat chased three golden mice during one night. 	4
+11	0	0	2	1	0	2	0	1	0	1	3	0	1	0	1	0	0	3.0	0	5	  Eighty-seven dogs ran through the four small doors.	4
+11	1	0	1	1	1	3	0	1	0	1	2	0	0	0	1	0	0	3.0	0	4	The cat purred contentedly for 4 hours and 37 minutes. 	4
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  4321	4
+15	0	0	3	0	0	4	0	1	0	2	3	0	1	1	1	2	0	4.0	1	7	" ""The teacher instructed 20 students 75 years old to study 55 textbooks."" "	4
+5	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	2.0	0	2	  4873 found the treasure. 	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 237,489,012,357. 	4
+19	0	0	2	1	2	6	0	6	0	2	0	0	0	0	1	1	0	5.0	0	5	The cat sat on the windowsill and watched the birds, the sun the trees and the clouds. 	4
+2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1.0	0	1	 0007 555-9999	4
+21	0	0	2	3	0	6	0	2	0	3	5	0	0	1	2	1	0	5.0	1	7	The four numerals appear in this sentence: 2 dogs barked at 5 cats chasing 8 mice under 4 trees.	4
+38	4	0	4	3	2	8	2	4	0	4	4	1	1	1	4	1	0	4.0	1	31	The cat purred 12 times, her tummy rumbling 8 hours later, and the birds outside sang a sweet melody at 3 o'clock in the morning, but I still couldn't fall asleep until 6. 	4
+10	0	0	2	0	0	2	0	0	0	1	5	0	0	0	1	1	0	3.0	0	6	 4567 dogs chased two hundred ninety-eight birds.	4
+15	0	0	1	0	2	4	0	1	0	3	3	0	1	0	1	2	0	3.0	0	8	 The dog ran 39 miles and ate 27 sandwiches and won three golden bones.	4
+24	0	0	7	0	1	2	0	0	0	0	14	0	0	0	0	0	0	5.0	0	7	 Ninety-seven million, four hundred fifty-six thousand, two hundred eighty-eight dollars and forty-five cents.	4
+8	1	0	0	0	0	4	0	1	0	0	2	0	0	0	0	0	0	3.0	0	3	   7558 horses race rapidly 963 days every year	4
+22	0	0	7	0	0	0	0	0	0	0	15	0	0	0	0	0	0	4.0	0	7	  Eighty-seven hundred twenty-nine million, six hundred fifty-four thousand, eight hundred seventy-five.	4
+12	0	0	3	0	1	1	0	1	0	0	5	1	0	0	1	0	0	2.0	0	7	The four numerals are 1, 2, 3, and 4	4
+17	0	0	1	3	0	4	0	0	0	1	4	0	4	0	1	0	0	3.0	0	8	4 different frogs jumped on 4 different lilypads at 4 different heights of 4 different clouds. 	4
+12	1	0	2	1	0	2	1	1	0	1	1	1	0	1	1	0	0	4.0	1	3	Ok, below is the sentence you requested with four numerals. Here you go:  477940629   Please let me know what I can do next, or if you would like me to perform any additional tasks. 	4
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 837,549,210 - The total sum of this combination of numbers results in 837,549,210.	4
+20	1	0	5	1	2	2	0	1	0	0	6	1	0	0	1	0	0	4.0	0	10	The company's sales in 2018, 2019, and 2020 respectively were 100,000, 120,000, and 150,000. 	4
+23	0	0	4	1	0	5	2	4	0	3	1	2	1	2	2	2	0	5.0	2	7	"  ""The cat counted three mice in the nest, making it the fifth time they had been caught that day."""	4
+13	0	1	1	1	0	3	0	1	0	2	3	0	1	1	1	2	0	2.0	1	8	The cat chased four white mice for three hours before catching one.	4
+5	0	0	2	0	0	1	0	0	0	1	1	0	0	0	1	0	0	2.0	0	1	  * 1,867,345,678 birds chirped.	4
+14	0	0	5	0	1	1	0	1	0	0	5	1	0	0	1	0	0	2.0	0	7	The four numbers are: 2, 4, 6, and 8.	4
+20	0	0	3	0	1	4	1	2	0	5	3	0	0	3	3	3	0	6.0	3	6	  180,234 students attended the lecture, but 175,129 had to retake the exam, leaving 4,915 students who passed.	4
+18	1	0	2	3	0	4	0	2	0	3	2	0	0	2	1	1	0	4.0	2	7	 The cat slept for 3 hours, waking up once at 2:45 AM to eat a snack.	4
+16	0	0	1	3	0	5	1	1	0	1	3	0	1	0	1	1	0	3.0	0	5	  4 brown bears with their four noses drank up the four pails of cold water.	4
+4	1	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1.0	0	2	Here it is!  4 cars went past 6 trees before reaching 2 dogs.	4
+23	0	1	1	2	0	6	1	0	0	4	5	0	3	1	2	1	0	3.0	1	11	 5 happy dolphins swam inside 4 shimmering ice caves while their 3 curious trainers held 2 sparkling seashells on 1 breezy beach. 	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  1,234,567,890	6
+19	0	0	2	2	0	4	0	0	0	2	5	0	4	1	1	1	0	6.0	1	5	Six happy birds sat on three little logs beneath two huge trees eating twenty-four tasty berries. 	6
+15	0	0	1	3	0	2	1	0	0	1	7	0	0	0	0	0	0	3.0	0	7	 0 1 2 3 4 5 woke up in my bed at 6:00 AM. 	6
+16	0	0	3	0	1	3	0	1	0	2	6	0	0	1	1	2	0	5.0	1	7	The five students ate six pizzas, counting one hundred and twenty-five slices.	6
+22	1	0	4	1	0	6	0	1	0	1	5	0	3	0	1	1	0	4.0	0	17	Six golden retrievers chased ten white rabbits down twenty-three steps into a twelve-foot-deep swimming pool. 	6
+21	0	1	1	2	0	6	0	1	0	2	5	0	3	1	1	1	0	4.0	1	11	 47 horses galloped 12 miles each day while chasing three mischievous foxes around six tall trees for one thrilling hour. 	6
+23	0	0	9	1	1	2	0	1	0	0	7	1	1	0	1	0	0	2.0	0	11	The six numerals, in alphabetical order, are: 473, 829, 264, 987, 651, and 321.	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 2,043,125,456.	6
+30	0	0	1	2	2	9	6	1	1	3	3	1	1	1	3	3	0	5.0	1	14	Sarah has six gold coins and five silver coins in her pocket, but she lost the three copper coins that her older brother had gifted her on her birthday	6
+41	0	0	5	5	1	13	1	5	0	3	5	0	2	1	1	0	0	6.0	1	13	The five basketball players and their coach ran across the one-mile-long court three times to get ready for the season-opening game against the two-time defending champions from the city of six squares. 	6
+22	0	1	1	3	0	6	0	2	0	2	4	0	3	1	1	2	0	4.0	1	9	The dog chased 2 blue cats past 4 brown houses before catching 6 white rabbits in the park at 3 o'clock.	6
+16	1	1	2	1	0	5	0	1	0	2	3	0	0	1	2	1	0	3.0	1	10	The cat walked on 3 lily pads, while 2 turtles slowly ate 6 berries. 	6
+7	0	0	1	1	0	1	2	1	0	1	0	0	0	0	1	1	0	2.0	0	4	I generated this sentence for you:  One million four thousand seven hundred eighty-nine point five seven zero zeros	6
+17	0	0	3	1	1	4	0	2	0	3	3	0	0	0	1	3	0	3.0	0	8	The football team won six games, lost four, and drew two in the season. 	6
+3	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	2.0	0	2	  200,000,001 to 200,000,006	6
+14	0	0	3	0	0	0	0	0	0	0	11	0	0	0	0	0	0	5.0	0	4	  One million two hundred fifty-six thousand four hundred fifty-one.	6
+16	1	0	1	2	1	5	0	1	0	1	4	0	0	0	1	0	0	3.0	0	8	The five dogs and one cat played together with one tennis ball for six hours. 	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  954321784	6
+20	1	0	0	3	0	4	0	4	0	2	2	0	4	1	1	0	0	4.0	1	6	The five brown bees buzzed beyond the three blue butterflies fluttering rapidly beyond the yellow flowers on the purple table	6
+10	1	0	1	1	0	2	0	1	0	1	1	1	0	0	0	0	0	3.0	0	4	Okay, here is the requested sentence with 6 numerals	6
+15	3	1	1	1	0	1	3	0	0	1	1	3	0	1	2	0	0	3.0	1	7	  2,342,786 minutes is how long it has been since I last spoke with you.	6
+12	0	0	0	3	0	3	0	1	2	1	2	0	0	0	1	1	0	2.0	0	9	  The cat ate six fish at five o'clock on Tuesday in April	6
+26	0	0	3	5	0	6	0	6	0	1	0	0	5	0	1	0	0	4.0	0	12	"""The cat sat on the 1st cushion of the 2nd sofa in the 3rd room of the 4th floor of the 5th building."""	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 3,472,651,893,294,782,199.	6
+11	0	0	3	0	0	2	0	0	0	2	4	0	0	0	1	0	1	3.0	1	8	 7,543,892 times 984,651, including 327,699 zeros, equals 73,328,641,229,932.	6
+17	0	0	2	2	0	5	0	3	0	2	2	0	1	1	2	1	0	3.0	1	7	Six birds sing in a row, each one singing a unique note for five seconds. 	6
+20	2	0	2	2	0	4	0	1	0	1	4	0	4	0	1	1	0	3.0	0	10	 The five big cats chased two little kittens under three white clouds, up high above one big mountain. 	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  225743987.	6
+14	0	0	1	0	1	5	1	1	0	2	3	0	0	1	1	2	0	3.0	1	8	The cat spent 2 hours 3 minutes and 42 seconds chasing its tail.	6
+6	0	0	1	1	0	0	0	0	0	0	3	1	0	0	1	0	0	3.0	0	4	  527,341,286 to 6,890,984 is 5,973,498.	6
+12	0	0	3	1	0	3	0	1	0	2	2	0	0	0	1	1	0	2.0	0	6	"   ""The cat had three kittens after two failed attempts."""	6
+22	0	0	4	2	0	4	2	3	0	1	2	1	3	1	2	1	0	4.0	1	7	The six numerals, in the correct order, created a unique sentence that was pleasing to my teacher: 18372947815.	6
+20	0	0	3	2	1	6	0	1	0	3	4	0	0	0	1	3	1	6.0	1	12	The three skateboarders, wearing four hats and eating five slices of pizza, jumped eight flights of stairs. 	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 5,742,091,328,607	6
+8	0	0	1	0	0	2	0	0	1	1	2	0	1	0	1	1	0	2.0	0	4	5,432 birds sang 321 songs last Thursday. 	6
+22	1	0	8	1	0	2	0	1	0	0	7	1	0	0	0	0	0	4.0	0	10	Okay, here is the sentence with 6 numerals - 1, 2, 3, 4, 5, 6.	6
+20	1	0	2	2	0	4	2	1	0	3	2	0	3	2	2	1	0	5.0	2	7	 The cat curled up in her cozy, furry basket that had five golden balls bouncing gently six times. 	6
+21	0	1	1	3	0	6	2	1	0	3	4	0	0	2	3	1	0	5.0	2	10	The cat chased 5 mice that ran through 2 tunnels in 1 hour while 4 cats waited for their turn.	6
+7	0	0	1	0	0	3	0	1	0	1	1	0	0	0	1	1	0	2.0	0	3	  345,901,236 people visited the store yesterday.	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  234,567,890,123	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	58239127498.	6
+16	2	0	2	2	0	2	2	1	0	2	1	1	0	2	2	1	0	4.0	2	9	Okay, here is the sentence I came up with that has exactly 6 numerals!  One thousand seven hundred fifty-six thirty-nine eighty-seven sixty-one 	6
+13	0	0	0	1	1	5	0	1	0	2	3	0	0	0	1	2	0	3.0	0	7	  The cat chased 3 mice for 2 hours and caught 7 sleeping fish	6
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	  63,452,119,034,568,271	6
+26	0	1	3	0	0	4	1	1	0	2	14	0	0	1	2	1	0	6.0	1	4	Nine hundred seventy-five million six hundred sixty-four thousand two hundred ten days passed before the company reached its one billionth sale.	6
+10	0	0	1	0	0	0	0	0	0	0	9	0	0	0	0	0	0	3.0	0	7	Eight hundred one two three four five thousand six. 	6
+2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.0	0	0	 1,223,456,789,012.	6
+41	0	0	6	6	3	6	1	2	6	5	4	0	2	0	3	2	0	5.0	0	26	1,200 Nigerians attended 3 conferences in October; the events started at 4:30 in Paris, Rome, and Abuja, and lasted three hours each; they focused on economic development in Africa and made decisions about future collaborations. 	6
+21	0	0	1	3	0	7	0	0	0	1	5	0	4	0	1	1	0	2.0	0	16	Five hungry seagulls devoured twenty juicy shrimps on one sandy shore at 3:45 p.m. during one summer afternoon last year.	6

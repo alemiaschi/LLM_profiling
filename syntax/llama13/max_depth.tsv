@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	max_depth_constraint
+6	0	1	0	0	0	2	2	0	0	0	0	0	1	2.0	3	0	0	1	0	0	The cat sat on the branch	2
+11	0	1	0	0	0	2	3	0	1	0	1	0	3	3.0	5	0	0	1	1	0	I have the following sentence with the required tree height:  The tall oak tree swayed its branches in the gentle summer breeze	2
+10	4	1	0	0	0	1	2	1	0	0	0	0	1	3.0	5	0	0	1	0	0	The big red tree stands tall at two meters high	2
+13	2	2	0	0	0	2	2	1	0	0	2	0	2	4.0	4	1	1	1	0	0	The tall, proud tree rose towering to a height of two. 	2
+13	1	2	1	0	0	3	4	0	0	0	1	0	1	3.0	5	0	0	1	0	0	The cat purred contentedly in the branch of the tall oak tree. 	2
+13	3	0	0	0	1	0	2	0	1	0	3	1	2	2.0	4	0	0	1	2	0	"   ""Although many people enjoy hot dogs and find them satisfying."" "	2
+14	0	2	0	0	0	2	3	1	1	1	1	1	2	3.0	9	1	1	2	1	0	Sally climbed to a height of two trees before she noticed the beehive. 	2
+21	2	4	1	0	0	4	6	1	0	0	2	0	1	3.0	7	0	0	1	0	0	The big, green apple tree in the orchard reached high into the sky with a height of two branches.	2
+10	2	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The big brown horse pranced proudly in the meadow.	2
+9	0	2	0	0	0	1	3	1	0	0	1	0	1	2.0	5	0	0	1	0	0	 The tree grew to two meters in height. 	2
+13	2	2	0	0	0	3	3	0	0	1	1	0	1	3.0	4	0	0	1	0	0	Barkley the squirrel climbed to the second branch of the tall oak. 	2
+45	7	5	1	1	1	5	10	0	4	0	6	0	5	7.0	12	3	2	4	1	1	Walking through the quiet park on a windy day, I could see the majestic tall trees, their height remarkable and awe-inspiring, their branches stretching up towards the sky like giants arms, their leafy canopy shimmering in the breeze. 	2
+10	0	1	1	1	0	1	1	0	1	0	2	0	1	3.0	3	1	1	1	0	0	"Ok, here's the sentence you asked for:   The tall dog ran joyfully beneath    (Note: In a syntactic tree, a tree height of 2 indicates a simple sentence consisting of two constituents, in this case, ""The tall dog"" and ""ran joyfully beneath"".)"	2
+6	2	0	0	0	0	0	1	0	0	2	0	0	1	2.0	4	0	0	1	1	0	Wendy watered weedy wizened withy woodworms	2
+12	0	2	0	0	0	1	3	1	2	0	1	0	2	3.0	7	0	0	1	1	0	She climbed the towering oak tree until her height of two.	2
+13	4	1	0	0	0	2	2	0	0	0	3	0	1	2.0	6	0	0	1	0	0	The big, green tree towered over the small, red cabin.	2
+24	1	1	2	0	1	3	4	0	2	0	5	1	4	5.0	9	2	2	3	2	0	"Here you go:  ""The dog barked up the tall oak tree, but it fell asleep before reaching the top.""  I hope this sentence meets your needs."	2
+13	2	1	1	0	0	2	3	0	0	0	2	0	1	3.0	6	0	0	1	0	0	The big, towering tree stood proudly among the forest's underbrush. 	2
+40	5	5	3	0	1	3	8	1	2	4	3	1	4	7.0	15	3	3	3	1	0	Mary hugged little Timmy in the shade of the tall oak tree, which stood proudly with leaves rustling softly in the gentle summer breeze while Jack and Sarah played nearby under its sprawling 2-meter tall canopy. 	2
+19	1	3	0	0	0	3	6	1	0	1	1	0	2	4.0	11	1	1	1	2	0	Jim climbed the oak tree with a height of two branches to pick a sweet basket of apples. 	2
+11	3	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The big brown horse trotted merrily up the sun-dappled lane. 	2
+14	1	1	1	1	1	2	3	2	0	0	0	0	2	3.0	8	0	0	2	0	0	The delicious cake was devoured in one bite and the two children laughed heartily	2
+10	0	0	1	1	0	1	2	0	2	0	2	0	1	3.0	3	1	1	2	0	0	My pleasure, here is the sentence you requested:   The trees grow strong in winter's snow  	2
+15	0	2	1	0	0	3	5	0	0	0	1	0	2	5.0	7	1	1	1	0	0	The squirrel gnawed on an acorn perched high in the oak tree's branches.	2
+12	2	1	1	0	0	2	3	0	0	0	1	0	2	2.0	6	0	0	1	0	0	The tall oak tree towered high above the rolling green hills. 	2
+16	1	2	0	0	0	3	4	1	1	0	2	0	2	3.0	8	1	1	2	0	0	The two trees stood tall in the forest, their heights reaching for the sky.	2
+56	4	7	1	2	2	6	11	4	6	1	5	0	6	6.0	29	3	3	5	2	0	"My apologize for my previous response, here is the sentence with a tree height of 2 in the syntactic tree:   ""Mary had two big brown dogs that she takes for a walk every day and they like to chase squirrels in the park but one day one of them got lost."""	2
+25	2	3	0	0	1	3	7	0	3	0	4	0	2	5.0	7	1	1	2	1	0	The squirrel, with its nut, scampered up the tall oak tree, its trunk sturdy and its branches reaching for the sky.	2
+12	3	1	0	0	0	3	3	0	0	0	1	0	1	2.0	7	0	0	1	1	0	The big cat chased the little bird up the tall tree. 	2
+14	2	2	1	0	0	3	4	0	0	0	0	0	1	4.0	7	0	0	1	0	0	The cat purred contentedly in the crook of the old maple's gnarled branch	2
+39	5	4	1	0	0	5	9	2	2	0	3	1	6	7.0	9	4	3	3	1	1	Fatigued from the arduous trek, the weary traveler collapsed under the shade of the stout two-trunked giant, whose towering height of twenty feet appeared to sway precariously as the gentle breeze caressed their lush leaves	2
+22	2	1	0	0	1	4	6	0	1	0	3	0	3	4.0	9	1	0	2	2	1	The towering oaktree, whose branches stretched towards the sky, blocked the sun's rays and cast a welcome shadow. 	2
+18	1	1	2	0	0	3	4	0	2	0	2	0	3	5.0	6	2	2	2	2	0	The cat climbed slowly up the tree, enjoying the soft breeze that gently rustled its leaves. 	2
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the branch.	2
+23	4	2	2	0	1	2	5	0	2	0	3	0	2	4.0	7	1	1	3	0	0	The tall trees swayed gracefully, their trunks thick and strong, their branches stretching up towards the sky like outstretched arms.	2
+15	0	2	1	1	0	2	4	1	1	0	2	0	1	3.0	6	0	0	1	0	0	My pleasure, below is the required sentence with a tree height of two:  The cats that have been chasing their mice have taken over the yard. 	2
+16	2	3	2	0	0	3	3	0	0	0	1	0	2	3.0	7	0	0	1	0	0	The cat perched high up in the gently swaying branches of the tall slender tree.	2
+32	2	4	1	0	1	6	10	2	1	0	2	0	3	6.0	9	2	1	2	1	1	The tall, majestic oak tree standing proudly in the center of the lawn had a trunk girth of 4 feet and a canopy that stretched 20 feet into the sky.	2
+16	1	2	1	0	0	3	4	0	1	0	2	0	2	3.0	8	1	1	2	0	0	The cat sat in the tall tree, its leaves rustling gently in the breeze.	2
+12	3	2	0	0	0	2	3	0	0	0	1	0	1	2.0	6	0	0	1	0	0	The tall oak tree reached up to the clear blue sky.	2
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The tall tree proudly stood in the sky. 	2
+14	0	2	2	0	0	3	3	0	1	0	1	0	2	4.0	5	1	1	2	0	0	The cat sat on a branch that bent down low to the ground. 	2
+16	2	1	0	0	0	4	4	0	0	0	2	0	3	5.0	6	2	2	1	2	0	   The cat sat on the tall tree, enjoying the fresh breeze swaying the branches.	2
+11	2	1	0	0	0	1	3	0	1	0	1	0	1	3.0	8	0	0	1	0	0	She walked beneath the tall oak tree's branchless trunk.	2
+22	3	2	1	0	0	4	6	0	1	0	2	0	2	4.0	13	1	1	2	1	0	The cat sat quietly on the branch of the tall tree, its gentle swaying soothing the feline's sleepy eyes.	2
+12	0	1	0	0	0	2	2	0	0	0	4	1	2	2.0	4	1	0	1	0	1	"  ""After eating, the children ran around the playground.""  This sentence has two levels of grammatical structure, with the verb ""ran"" being the main clause and the prepositional phrase ""around the playground"" functioning as a dependent clause. I hope this meets your needs! Let me know if you have any further questions or requests."	2
+14	1	1	1	0	0	0	4	1	1	0	1	1	3	3.0	10	2	2	2	0	0	Green tree grow up to 8-foot height before its branches starts sagging	2
+20	1	3	2	0	0	3	5	1	1	0	2	0	2	5.0	5	1	1	2	0	0	The cat lounged in the shade of the tall oak tree, which stood proudly at two stories high.	2
+12	1	2	0	0	1	1	3	0	1	1	0	0	2	3.0	5	0	0	1	0	0	  Sally walked through the woods and climbed into her tall tree house	2
+12	1	1	1	0	1	2	2	0	0	1	1	0	2	3.0	6	0	0	1	1	0	Jane climbed up into the branches and found a small nest. 	2
+20	2	2	3	0	0	2	5	1	1	0	2	0	2	3.0	10	1	1	2	0	0	The tall redwood tree stood proudly at three stories high, its leafy crown swaying gently in the breeze.	3
+27	1	3	2	0	1	4	7	1	0	0	2	0	6	5.0	14	3	3	2	0	0	The cat sat on a branch measuring three meters high in the towering oak tree, watching birds flit and flutter in the sun-dappled branches above. 	3
+20	1	3	0	0	0	4	5	1	1	0	2	0	3	6.0	5	2	2	2	1	0	The cat sat on the tree, admiring the three majestic layers of branches that stretched towards the sky.	3
+19	1	1	1	0	0	3	5	1	1	0	3	0	2	5.0	12	1	0	2	1	1	The tree's height, which grew three times taller over the seasons, now blocks the path. 	3
+10	2	1	0	0	0	2	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	 The fluffy kitten climbed up the large oak tree.	3
+8	0	0	1	0	0	1	1	0	1	0	1	0	2	3.0	2	1	1	1	1	0	Please find the sentence you requested below:    The big, brown, hairy tree stands tall at an impressive three meters high, its branches stretching up towards the sky like giant hands imploring the heavens for just one more drop of rain	3
+7	0	1	0	0	0	1	2	0	0	0	1	0	2	2.0	3	0	0	1	0	0	The cat chased after perched parrots. 	3
+17	2	2	0	0	0	2	5	0	1	0	2	0	2	3.0	7	1	1	1	1	0	The cat sat on the tree's branch, admiring its sturdy growth since last season. 	3
+13	0	2	0	0	0	3	4	1	0	0	2	0	1	4.0	6	0	0	1	0	0	The cat sat in the branches of the three-story tree.	3
+12	1	2	0	0	0	2	4	1	0	0	1	0	1	3.0	8	0	0	1	0	0	The cat sat on a sturdy branch three meters above ground.	3
+19	3	1	1	0	0	3	4	0	1	0	2	0	3	4.0	7	2	2	1	2	0	The cat climbed high up the tall tree, stretching its branches to reach the bright blue sky.	3
+12	2	1	0	0	0	2	3	0	0	0	2	0	2	3.0	6	1	1	1	1	0	The cat sat in the tall tree, eating delicious leaves. 	3
+21	3	4	1	0	0	3	4	0	1	0	2	0	3	4.0	6	1	1	2	0	0	The playful cottontail peeked out from behind the lush oak, whose stately canopy stretched high above the rolling meadow. 	3
+28	4	4	0	0	0	3	5	2	3	0	5	0	2	5.0	11	1	0	2	0	1	"""The tall tree, which stood at three times its own height, reached toward the clear blue sky with each of its three branches.""  "	3
+9	2	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	A tall tree stood in the green meadow.	3
+13	4	0	0	0	1	1	3	1	0	0	2	0	1	3.0	8	0	0	1	0	0	Tall and proud, the majestic oak tree soared three stories high. 	3
+10	1	1	0	1	0	2	3	1	0	0	1	0	0	3.0	6	0	0	1	0	0	The tree height of the syntactic tree is three.	3
+22	1	4	2	0	0	3	6	1	1	0	2	0	2	3.0	8	1	1	2	0	0	The tall oak tree stood majestically in the forest, its branches reaching high up in the sky for three levels. 	3
+23	1	3	0	1	1	4	7	1	2	0	1	0	2	5.0	12	1	1	2	1	0	The cat climbed up the tree and found a nest of eggs in the branch that was three times its own height.	3
+18	1	2	2	0	0	3	5	0	1	0	2	0	2	3.0	8	1	1	2	0	0	The tall oak tree swayed gently in the breeze, its branches stretching high into the sky.	3
+23	4	5	0	0	0	3	5	0	2	0	1	0	3	7.0	6	2	2	1	0	0	  Walking through the tall forest filled with tall trees that towered over me in the cool breeze on an old dirt path. 	3
+17	0	3	0	0	0	3	4	1	1	0	1	0	3	5.0	9	2	2	1	2	0	 It has a tree height of 3 because of the structure used to form the sentence.	3
+10	3	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The big green tree stood tall in the park.	3
+14	0	2	1	0	0	3	5	1	0	0	1	0	1	4.0	10	0	0	1	0	0	The cat perched upon a branch 3 meters high in the oak tree. 	3
+78	3	14	4	1	1	10	18	3	7	3	4	1	7	9.0	21	5	5	4	3	0	Please find my sentenece below for a sentence with a tree height of 3 in the syntactic tree:    Sarah and Jack walked quickly up the large hill with their barking dog Jetta while eating sandwiches they had made by themselves that morning to enjoy at the summit, which they climbed in three hours with a break for a picnic when they reached a slope with gentle incline of two-thirds of the way up. 	3
+21	1	2	2	0	1	3	6	1	0	0	2	0	3	3.0	9	1	1	1	1	0	The tall oak tree rose high and majestically into the forest canopy, reaching a staggering three stories in height. 	3
+18	2	2	1	0	0	3	5	0	1	0	2	0	2	5.0	4	1	1	1	0	0	The large oak tree towered over the forest, its massive branches stretching high into the sky.	3
+28	2	3	3	0	1	4	8	1	0	0	1	0	3	6.0	9	1	1	2	0	0	The cat sat on a stump and peered up into the tall oak tree's top branches where a squirrel's chattering sounded from thirty feet above.	3
+11	4	1	0	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The big green tree towered over the small red house.	3
+9	2	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The tall tree towered over the small forest.	3
+27	1	2	2	1	2	2	5	1	3	0	3	1	4	6.0	9	1	1	2	1	0	The cat sat in the tall oak tree, and it seemed like it would jump and slide down its three-level height anytime soon. 	3
+19	3	2	1	0	0	4	4	0	0	0	3	0	2	3.0	9	1	1	1	1	0	The cat perched on a high branch, surveying the forest below with a quiet, regal demeanor.	3
+15	1	2	0	0	0	4	4	0	0	0	2	0	2	3.0	8	1	1	1	1	0	The cat sat on the branch of the tree, eating a juicy mouse. 	3
+29	3	4	1	0	0	4	7	0	2	0	3	0	4	4.0	12	2	1	1	1	1	The towering oak tree, with its lush canopy reaching high into the sky, provided a sturdy perch for the playful squirrels to frolic in its branches.	3
+28	2	2	1	0	0	4	8	1	2	0	3	1	4	6.0	8	3	3	2	2	0	The dog ran quickly up the large oak tree, feeling the cool summer breeze rustle through its leaves as it reached the three-branch height. 	3
+24	1	4	2	0	1	4	6	0	1	0	2	0	3	5.0	7	2	2	1	0	0	The tall tree stood proudly in the forest, stretching high into the sky with its branches and leaves reaching for the clouds.	3
+20	3	3	0	0	0	2	4	0	2	0	2	1	3	4.0	8	2	1	1	1	1	While walking through the forest, the tall trees loomed above me like enormous sentinels guarding their verdant realm.	3
+11	1	2	0	0	0	1	2	0	1	0	2	0	2	3.0	5	1	0	1	0	1	Bending through branches, I reached for a ripe cherry. 	3
+17	2	2	1	0	0	2	4	1	1	0	2	0	2	4.0	5	1	1	1	1	0	A tall tree proudly stood in the forest, displaying its three levels of thick branches. 	3
+17	1	3	1	0	0	2	4	1	1	0	2	0	2	4.0	6	1	1	2	0	0	The tall tree soared high, its three branches stretching out in search of the sky.	3
+16	1	3	0	1	0	3	4	1	1	0	1	0	1	3.0	6	0	0	1	1	0	I have generated a sentence with a tree height of 3 in the syntactic tree:  The three oak trees stood tall.	3
+13	0	3	0	0	0	3	4	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The cat climbed up the tree to a height of three branches.	3
+12	2	2	0	0	0	1	3	1	0	1	1	0	1	3.0	7	0	0	1	1	0	Sylvia the squirrel scampered  up three tall trees in quick succession. 	3
+20	2	3	0	0	1	4	6	0	1	1	1	0	1	4.0	14	0	0	1	1	0	Sophie and her family enjoyed a picnic under the tall tree in the park on a sunny summer day. 	3
+24	2	2	2	0	0	3	6	2	0	0	4	0	2	3.0	17	0	0	1	2	0	"Please see this sentence with a tree height of 3:   ""This big tree standing alone proudly has three beautiful branches."""	3
+14	0	1	1	0	0	3	3	1	0	0	2	0	3	4.0	6	2	2	2	0	0	The cat sat on the three trees, watching the birds flutter away. 	3
+18	3	1	0	0	0	3	5	1	1	0	2	0	2	4.0	7	1	1	2	1	0	The tall oak tree towered over the forest, its height reaching an impressive three storeys high.	3
+30	3	2	4	0	1	3	8	0	2	0	3	0	3	5.0	8	1	1	3	1	0	The giant oak tree towered high in the sky, its trunk sturdy and strong, its branches stretching out wide to provide shade for the forest creatures below.	3
+16	3	1	0	0	1	2	4	0	0	0	1	0	3	4.0	5	1	1	1	1	0	The big black bear loves to play hide and seek inside the tallest oak tree.	3
+15	1	2	1	1	0	2	3	0	1	0	2	0	2	4.0	5	1	1	2	0	0	The cat sat on the tall tree, where it could see for miles.	3
+30	7	3	0	0	2	3	7	1	1	0	4	0	2	4.0	10	1	1	1	1	0	The large oak tree, with its sprawling branches and dense foliage, stood tall and proud in the open meadow, reaching a majestic height of four stories.	4
+11	1	1	1	0	0	2	3	0	0	0	1	0	1	3.0	6	0	0	1	0	0	The tall tree stood majestically in the park's center. 	4
+16	1	2	1	0	0	2	4	1	2	0	2	0	1	4.0	10	1	1	1	1	0	Here'a sentence that meets your criteria, with a height of 4 syntantic treenodes:  The man planted four seeds under the shady tree, but waited a year too long for spring growth. 	4
+13	2	1	1	0	1	1	3	1	0	0	1	0	2	2.0	7	0	0	1	1	0	Four hungry chipmunks cheerily chittered and chunked chestnuts in the autumnal shade.	4
+21	4	3	1	0	0	0	6	0	0	1	3	1	2	4.0	11	1	0	1	2	1	  In addition to providing beautiful landscaping services, Green-Works also rents out heavy construction equipment for commercial jobs. 	4
+10	1	1	1	0	0	1	3	1	0	0	1	0	1	2.0	4	0	0	1	0	0	The large cedar tree towered high at 47 feet. 	4
+16	2	1	1	0	0	2	4	1	1	0	2	0	2	3.0	9	0	0	2	1	0	The fluffy kitten climbed slowly up the tall tree, its height reached four branches.	4
+24	4	4	0	0	0	4	6	1	1	0	1	0	3	8.0	4	2	2	1	0	0	The towering oak stood at a proud height of four floors, its majestic branches stretching toward the sunlight filtering through the leafy canopy	4
+27	4	2	3	1	0	0	6	1	4	0	3	0	3	6.0	12	3	3	3	3	0	Satisfyingly, we discovered several species  of trees reaching amazing heights, up to 120 ft. tall trees that are so large they have their names! The largest of all was a Coast Douglas Fir reaching for the sky at a stately height of 380 ft	4
+19	3	2	1	0	0	2	5	1	1	0	2	0	2	7.0	7	1	1	1	0	0	The tall oak tree towered over the forest, its robust branches stretching up to  4 meters high. 	4
+13	0	1	2	0	0	3	3	0	0	0	1	0	3	3.0	5	2	2	1	1	0	The cat sat on the window silently watching the birds fly away.	4
+38	4	3	2	1	1	4	8	4	2	0	4	1	4	6.0	11	2	2	2	5	0	"I can generate a sentence with a tree height of 4 by simply writing this: ""The man with three dogs climbed two large trees and gave a very long bicycle four bright red apples."" "	4
+14	4	2	0	0	0	2	4	1	0	0	0	0	1	2.0	9	0	0	1	0	0	The tall majestic tree reached up 23 feet into the bright blue morning sky	4
+8	0	1	1	1	0	1	2	0	1	0	1	0	0	3.0	3	0	0	0	0	0	 Here is my analysis of the instruction)   This instruction is seeking for a sentence that includes a tree height of 4 and no additional text or explanations. Based on the provided instruction, I am generating a sentence that incorporates the request. My sentence consists of 8 words, which includes 1 adjective and is written in the present simple tense in order to fulfill the instruction request with the height of 4 and also provide the sentence in an independent manner that could stand alone	4
+18	0	3	1	2	0	2	3	1	3	0	2	0	1	5.0	5	1	1	1	1	0	I can help you with that, here is a sentence with a tree height of 4:  The big, green monkey climbed steadily up the tall tree	4
+21	3	3	2	0	0	3	6	1	0	0	1	0	2	4.0	6	1	0	1	1	1	The tall oak tree standing proudly on the hillside reached heights of four meters above the vast green meadow below.	4
+19	0	3	2	0	0	4	5	0	1	0	2	0	2	3.0	8	1	1	2	0	0	The monkeys in the forest climbed high in the sky, their braches swaying gently in the breeze.	4
+17	2	1	0	0	0	3	4	0	1	0	3	0	3	3.0	6	2	0	2	1	2	The dog, who loved climbing, reached the highest branch of the tall oak tree. 	4
+25	0	3	1	0	2	5	7	1	0	0	2	0	4	5.0	8	1	1	1	2	0	The cat climbed up the oak tree and perched at a height of 4 meters, enjoying the warmth and watching the birds below.	4
+7	1	1	0	0	0	0	3	0	0	1	0	0	1	3.0	4	1	1	0	0	0	Greenwood trees reaching toward clear morning skies	4
+27	7	3	2	0	0	3	5	1	1	0	3	0	2	5.0	15	1	0	1	0	1	The enormous tall oak tree, its robust branches stretching high up into the bright clear blue sky, reaches to an impressive height of four. 	4
+30	3	4	4	0	1	4	7	0	2	0	2	0	3	7.0	12	2	2	1	0	0	The cat sat high up in the tall oak tree, with its leafy branches stretching towards the sky and its trunk firmly rooted in the grassy meadow below.	4
+27	3	4	2	0	0	4	5	1	1	0	3	0	4	5.0	8	2	2	1	1	0	The tall majestic tree towered over the other plants, stretching its branches high into the sky, growing proudly at a soaring height of four. 	4
+16	2	3	0	0	0	3	4	1	0	0	1	0	2	3.0	8	1	1	1	0	0	The tall trees reached for the sky like four giant hands grasping for the clouds. 	4
+8	0	0	2	0	0	0	1	1	0	1	1	0	2	3.0	3	1	1	2	0	0	Sally saw three jays flying quickly overhead.	4
+15	1	2	0	0	0	3	6	1	0	0	1	0	1	4.0	6	0	0	1	0	0	The cat sat on a mossy tree branch four meters above the forest floor. 	4
+7	0	2	0	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	The cat curled up in a branch	4
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The tall trees towered high into the sky.	4
+28	4	3	0	0	1	3	8	0	3	0	3	0	3	4.0	11	2	1	3	1	1	The large deciduous tree, whose limbs stretched towards the clear spring sky, offered shelter and comfort to the creatures that scurried beneath its shaded roots. 	4
+15	2	1	0	0	0	2	4	1	1	0	3	0	1	3.0	8	0	0	1	1	0	The four-story tree stretched its branches toward the bright, blue sky.	4
+18	3	3	0	0	0	2	5	1	0	0	2	0	2	4.0	7	1	0	1	1	1	The tall tree, soaring to 5 feet, provided the family with endless hours of cool shade	4
+19	3	3	0	0	0	3	4	1	1	0	2	0	2	4.0	9	1	1	1	1	0	The large tree towered over the forest, showcasing its majestic height of four in the syntactic landscape.	4
+19	2	3	0	0	0	2	6	1	2	0	1	0	2	3.0	10	1	1	2	0	0	The tall oak tree towered over everything else for four stories, its leaves rustling in the summer breeze	4
+19	1	2	3	0	0	2	5	1	1	0	2	0	2	4.0	9	1	1	2	0	0	A tall tree rose majestically into the sky, its branching structure stretching upward for over 150 feet.	4
+12	1	2	0	0	0	2	3	1	0	0	2	0	1	3.0	7	0	0	1	0	0	With a tree height of 4, the complex sentence reads: After struggling mightily for hours against the fierce headwind in the open plain beneath the high cliffs, they finally set foot upon a grassy hill.	4
+20	2	3	0	0	0	2	5	1	1	0	4	0	2	3.0	9	0	0	1	0	0	The tall oak tree, with its four-layered branching, reached towards the sky with graceful limbs. 	4
+16	0	2	2	0	0	2	4	1	0	0	2	0	3	3.0	6	1	1	1	0	0	The towering oak tree stood proudly in the meadow, soaring high at four meters. 	4
+12	1	1	0	0	0	1	4	1	1	0	2	0	1	3.0	5	0	0	1	0	0	The four-story wooden treehouse loomed tall above our heads.	4
+25	2	4	0	0	2	3	5	1	1	0	3	0	4	6.0	9	1	1	1	1	0	The cat climbed up the tall tree and played hide-and-seek among its sturdy branches reaching for the height of four. 	4
+22	1	4	1	0	0	4	6	1	1	0	2	0	2	5.0	6	1	1	1	0	0	The tall oak tree stood proudly in the park, its branch reaching towards the sky with a height of four.	4
+43	4	6	2	0	0	3	8	2	5	0	3	1	8	10.0	8	6	5	4	3	1	After climbing for two hours, we eventually reached a magnificent towering tree that rose four storeys high, with a sturdy trunk that spread out to hold numerous strong branches from which a rainbow of blossoms cascaded down, filling our surroundings	4
+27	3	2	2	2	0	1	4	0	4	1	3	1	4	4.0	12	3	2	3	2	1	Rocko, who had just climbed his highest tree yet, was relieved as he relaxed at the top branch, surveying his kingdom with great pleasure	4
+16	3	2	1	0	0	2	3	1	0	0	2	0	2	4.0	6	1	1	1	0	0	The tall trees towered over the tranquil forest, reaching up to forty feet high. 	4
+13	1	3	0	0	0	3	3	1	0	0	1	0	1	3.0	6	0	0	1	0	0	The gigantic tree towered over the park at a height of 4.	4
+20	2	2	2	0	1	2	5	1	0	0	3	0	2	6.0	9	1	0	1	1	1	The tall oak tree, with branches stretching upwards and outwards, reached an impressive height of four meters.	4
+14	2	2	1	0	0	2	4	1	0	0	1	0	1	2.0	10	0	0	1	0	0	The cat climbed steadily up the tall oak tree for four fateful hours.	4
+12	1	1	0	0	1	3	2	0	1	0	0	0	3	4.0	6	1	1	1	2	0	Climb up the tall mountain and observe all the birds that fly	4
+16	2	4	0	1	0	3	3	0	0	0	2	0	1	3.0	7	0	0	1	0	0	Because of the wind, many of the leaves had fallen from the tall trees. 	4
+18	4	2	0	0	0	2	3	1	1	0	2	0	3	5.0	5	1	1	2	0	0	The majestic mountain climbed higher than four towering trees, which stood tall in the misty valley. 	4
+12	1	2	0	0	0	2	4	1	0	0	1	0	1	2.0	10	0	0	0	1	0	 Generate a sentence with two coordined adjectives in the noun phrase. Write only the sentence, without adding further text and without explanations	4
+8	1	1	1	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	The tallest tree sways gently in the wind	6
+34	4	4	2	0	1	5	9	0	1	0	3	1	4	4.0	21	2	0	2	0	2	With the leaves rustling in the gentle wind, the towering black oak tree, with its sturdy trunk and branches soaring high, stood magnificently at the heart of the lush emerald meadow	6
+12	0	2	1	0	0	2	3	1	0	0	1	0	1	3.0	6	0	0	0	1	0	Please find the sentence with a tree height of 6 below:   The cat sat down on its haunches and cleaned the dirt from its paws for a long time	6
+28	3	3	0	0	0	6	6	0	1	0	4	0	4	7.0	7	3	2	2	1	1	A towering sycamore, reaching towards the clouds, stood tall above the quiet fields, a giant of the landscape that seemed to touch the sky. 	6
+21	4	3	0	0	0	3	6	0	1	0	1	0	3	4.0	8	2	2	1	0	0	The big oak tree stood towering over the other forest trees, reaching to the sky with its broad leafy branches	6
+24	3	3	2	0	0	3	6	1	1	0	2	0	3	6.0	6	2	2	1	0	0	The large trees swayed gently in the cool breeze filtering through their leafy crowns, towering 6 meters above the forest floor below.	6
+10	0	1	0	0	0	2	3	1	0	0	2	0	1	3.0	4	0	0	1	0	0	The six-story tree loomed above the village. 	6
+45	6	6	1	0	1	5	14	1	3	0	3	0	4	6.0	18	3	2	3	2	1	Overviewing nature from the peak of this tall oak, the leaves' chirping whispers and birdsong echoes resonate through the clear blue sky amidst a warm gentle breeze that rustles its crown, whose six branching limbs now stretch out in stately grace. 	6
+67	15	11	1	0	1	6	18	0	3	0	5	0	7	9.0	29	4	4	3	1	0	In an enchanted forest, a soaring blue tit pecked sweet nectar from an abundance of golden blossoms bursting with joy on tall silvery birches growing skyward, their stately trunks glowing like polished ivory, their slender limbs shimmering like crystal, and their graceful branches swaying with a gentle rustle in the balmy breeze under a sapphire sky adorned with delicate feathery cirrus clouds.	6
+14	0	2	0	0	0	3	3	1	0	0	3	0	2	3.0	6	1	1	0	0	0	Inside the forest, a 6-towering tree glimmered under the sunlight. 	6
+23	1	3	0	0	0	2	5	3	0	1	3	0	4	4.0	17	1	1	1	2	0	Please see the following sentence with a tree height of 6, composed of four phrases: Brad washed six red balloons. In order, the sentence is grammatically organized from left to right: Brad (N), washed (V), six (N), red (adj) balloons (N). Balloons (N) can be grouped together with the other NPs to form P2, and washed (V) is embedded in the clause with P1 and P2. 	6
+42	4	2	1	1	1	5	9	1	4	1	4	1	6	6.0	29	5	5	6	2	0	Sarah climbed up the tall, ancient oak, her heart quickening as she ascended the rickety ladder and the tree's height reached 6 meters, its leafy canopy a haven for the birds she so longed to spot. 	6
+15	1	4	1	0	0	1	5	1	1	0	0	0	1	3.0	7	0	0	1	0	0	The tall oak tree stood out for miles around with its height of six stories	6
+39	2	3	1	1	2	5	9	0	5	0	4	1	6	6.0	25	5	2	4	3	3	"  ""Although the little girl enjoyed picking daisies and dandelions and holding them in the basket of her bicycle, the only flower that really brought her joy was the one she found growing in the forest."" "	6
+21	1	2	2	0	0	5	7	0	0	0	2	0	2	5.0	7	1	1	2	1	0	The cat purred contentedly in the crook of the tree, where the branching verdant arms embraced the afternoon sun.	6
+21	7	2	1	0	0	3	4	0	0	0	1	0	2	4.0	7	1	1	1	2	0	The big green elephant happily climbed up the large strong tree to pick a bunch of juicy ripe red apples.	6
+7	1	1	0	0	0	2	2	0	0	0	0	0	1	2.0	3	0	0	1	0	0	The tall tree reached toward the sky	6
+2	0	0	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	Ok! There is a tree with 6 levels: 	6
+36	4	4	0	1	1	7	8	0	1	0	5	1	4	4.0	17	2	2	3	1	0	"This is the sentence generated with a tree height:  ""While running through a dark forest, a rabbit spilled a bright blue berry and a bear watched from under a tall oak.""    Was this your expectation? Let me know if you need anything else!"	6
+16	2	2	1	0	0	3	3	1	0	0	2	0	2	3.0	9	0	0	1	1	0	With a soaring height of 6, the majestic blue spruce proudly towers the landscape. 	6
+26	2	3	2	0	0	2	6	1	2	1	2	0	4	6.0	11	3	3	3	2	0	Fred climbed up the tall tree, which stood sixty-feet high in the forest with trunk branches twisting upward to spread its broad leaves	6
+45	6	8	2	0	0	7	11	1	1	0	5	0	4	8.0	11	3	2	1	0	1	The large tree, towering majestically at a height of six stories, reached up towards the sky, its intricate branch system stretching off in all directions like the delicate tendrils of a fine lace shawl draped over an ancient, stately mansion.	6
+21	3	3	1	1	0	3	6	0	0	0	1	0	2	5.0	6	1	1	2	0	0	The cat's branches were laden with ripening cherries at the heights where sunlight danced through the delicate, glistening leaves	6
+14	2	1	1	0	0	2	3	0	1	0	2	0	2	3.0	6	1	1	2	0	0	The tall tree stood proudly, its green leaves rustling in the wind.	6
+26	6	3	1	0	0	5	5	0	1	0	3	0	2	6.0	6	1	1	2	0	0	The squirrel scurried up to the top branch, the highest branch in the tall, leafy canopy that reached towards the bright blue sky. 	6
+10	2	2	0	0	0	1	3	0	0	0	0	0	2	3.0	4	0	0	1	0	0	Tall towering trees like mighty giants rose above the forest	6
+58	9	8	3	0	2	8	14	3	0	0	6	1	4	11.0	18	3	2	1	1	1	"  ""After searching thoroughly for three fruitless hours through all seven floors and four wings, the exhausted researchers finally discovered a rare book about color theory hidden behind a large green vase located at the top of a slender, winding staircase in a secluded and dimly lit corner of the fifth-floor library.""  Is that helpful? Let me know if you need any further assistance."	6
+5	0	0	0	1	0	0	1	0	1	0	1	0	0	1.0	3	0	0	0	0	0	Please be my tree: The big red tree that grows in the green meadow has a height that reaches sixty centimeters. 	6
+31	3	5	2	1	0	2	6	1	2	1	3	0	3	4.0	8	2	2	2	1	0	With great delight in his new toy car, Tim raced up to the tree's six branches, where he would later find some delicious apples to munch on. 	6
+10	2	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The tall evergreen tree sways gently in the wind.	6
+8	0	1	0	1	0	2	2	0	0	0	0	0	2	2.0	4	0	0	1	0	0	  The sentence is built on the following constituents	6
+17	2	2	0	0	0	3	5	0	1	0	2	0	2	3.0	7	1	1	2	0	0	The great giant towered over the forest, their leaves rustling in the gentle evening breeze.	6
+15	1	2	1	0	0	3	3	0	0	0	3	0	2	4.0	7	1	0	1	0	1	 The large tree, growing in the forest, reaches high into the sky.	6
+23	1	4	1	0	0	4	7	1	0	0	3	0	2	5.0	12	1	0	1	1	1	The majestic oak tree, with branches stretching 6 meters into the sky, proudly stood in the middle of the forest.	6
+22	2	3	2	0	0	3	6	1	1	0	2	0	2	4.0	7	1	1	1	1	0	The tall oak tree reached high into the sky, stretching its branches out to a breathtaking height of six stories.	6
+17	1	1	0	1	0	2	4	2	0	0	3	0	3	4.0	9	0	0	2	2	0	"This tree heights six, has risen tall,  This sentence contains six levels of embeddings. The subject is ""tree heights"", the object pronoun ""six"" is embedded under ""heights"", which is the complement of the head verb ""have"". The verb ""has"" is the finite verb, and it main heads the phrase ""risen tall"", the object of which is ""tree""."	6
+18	1	0	1	2	0	2	6	1	0	1	3	0	0	5.0	11	2	2	1	0	0	No worries, below is the sentence:  Mary's tallest trees are six-foot fir trees	6
+29	3	5	3	0	0	1	4	6	1	0	2	1	3	4.0	14	2	2	3	0	0	Five hundred sixty trees of varying sizes stood majestically, their heights ranging from merely four to as high as ten, with those tall giants towering at six	6
+20	1	3	0	0	0	5	6	0	0	0	2	0	3	5.0	10	2	2	1	1	0	The cat sat on the tallest branch of the oak tree, admiring the birds flitting through the leaves. 	6
+28	1	4	1	1	1	4	9	0	2	0	2	0	3	6.0	7	1	1	3	0	0	The cat purred contentedly in the branches of the ancient oak tree, whose girth was adorned with climbing ivy and whose height reached towards the sky.	6
+17	0	1	1	2	1	3	3	0	0	0	1	0	4	4.0	8	2	1	0	0	1	Following this instruction and based on the given task, here is the sentence to be constructed	6
+26	2	3	2	0	1	6	6	0	0	0	3	0	3	3.0	18	0	0	3	0	0	The cat climbed high up into the tall tree, the branches creaked with the weight, and the leaves rustled in the gentle breeze.	6
+19	2	2	1	0	0	3	4	1	1	0	2	0	3	4.0	5	1	1	2	0	0	The tall oak swayed gently above the thatched cottage, its six branches basking in the warm sunlight.	6
+32	3	5	0	0	0	4	8	1	3	0	4	0	4	5.0	10	3	2	2	2	1	The large oak tree, towering at a height of six feet, rustled its leaves with a soothing quietness, bringing peacefulness to all who sat beneath its massive canopy. 	6
+7	0	1	0	1	0	0	2	0	2	0	1	0	0	2.0	4	0	0	0	0	0	My answer to your instruction is: The giant tree rising to a majestic 6 meters into the clouds looked magnificent against the sky	6
+18	5	3	0	0	0	2	4	1	0	0	2	0	1	3.0	13	0	0	1	0	0	With a proud peak at six stories tall, the old-fashioned wooden tree house stood out	6
+14	1	1	1	0	0	4	4	0	0	0	1	0	2	3.0	7	1	0	1	1	1	Climbing all day, the tree finally reached the peak of the highest summit	6
+6	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	2	0	0	0	1	0	Please see the sentence below: The cat sat under the trees, watching the hummingbird feed its six little ones with nectar and sweet pollen	6
+20	2	3	1	0	0	3	6	1	1	0	1	0	2	4.0	6	1	0	1	1	1	The tall oak tree standing proudly in the forest reached its peak at an impressive height of sixty feet.	6
+16	1	2	0	0	0	3	5	0	1	0	2	0	2	3.0	7	1	1	2	0	0	The tall oak tree stretched towards the sky, its branches reaching for the clouds. 	6
+7	1	1	0	0	0	2	2	0	0	0	0	0	1	2.0	4	0	0	1	0	0	The cat sat on a sturdy branch	7
+25	3	3	1	0	0	3	5	0	3	0	3	0	4	5.0	9	3	2	2	1	1	Walking beneath the tall, towering elm, I marveled at the vines that clung to its massive trunk, shading the winding paths below	7
+12	1	3	0	0	0	2	2	1	1	0	1	0	1	3.0	9	0	0	1	0	0	With a height of 7 in the syntactic tree, we find The cat chased two mice atop the tallest oak tree.	7
+10	1	1	1	0	0	1	3	1	0	0	1	0	1	4.0	4	0	0	1	1	0	The tall trees reach heights of over seven meters.	7
+7	1	0	0	0	0	2	2	0	0	0	1	0	1	2.0	2	0	0	1	1	0	The tallest tree reaches the sky. 	7
+10	1	1	0	0	0	2	4	1	0	0	0	0	1	4.0	5	0	0	1	0	0	A seven foot tall oak tree reached toward the sky	7
+22	5	3	1	0	1	3	5	1	0	0	2	0	1	4.0	10	0	0	1	0	0	The tall evergreen tree stood proudly on the highest peak for seven years, undisturbed by the tumultuous winds and weather. 	7
+16	1	2	2	0	0	2	4	1	1	0	1	0	2	4.0	7	1	1	2	0	0	Snow fell gently on the seven tall pine trees that towered over the valley below. 	7
+8	0	0	0	0	0	2	3	1	0	0	1	0	1	2.0	4	0	0	1	1	0	The cat climbed the tree  seven times. 	7
+35	4	4	0	0	3	5	10	1	1	0	4	0	3	6.0	13	1	1	1	2	0	With the gentle wind and the warmth of sunlight, the seven-heighted oak tree stood firm and green, casting a shelter for the wild animals underneath its vast and ancient branches. 	7
+15	2	3	1	0	0	3	3	1	0	0	1	0	1	3.0	8	0	0	1	0	0	The tallest tree stood proudly in the lush forest at a height of seven.	7
+8	1	1	0	0	0	2	2	0	0	0	1	0	1	3.0	4	0	0	0	1	0	Satisfying the request with the necessary changes: The big oak tree in the park reached its highest point of 7 meters. 	7
+13	1	2	1	0	0	2	3	1	0	0	1	0	1	4.0	5	0	0	0	1	0	Please find the sentence with the syntactic tree height of 7 below:   The seven kittens cuddled up on my fluffy blanket. 	7
+17	1	1	3	0	0	3	3	1	0	0	2	0	3	4.0	7	2	2	2	0	0	The seven tall trees stood together silently in the wind, watching the birds fly overhead. 	7
+22	2	2	1	0	0	3	6	1	1	0	2	1	3	5.0	5	2	2	1	1	0	The seven tall trees towered high above the forest canopy, their leafy branches stretching towards the sky like reaching giants.	7
+15	1	3	0	0	0	3	5	1	0	0	1	0	1	3.0	4	0	0	1	0	0	The large oak tree in the park rose to a height of seven meters. 	7
+14	1	1	0	0	0	3	4	0	0	0	3	0	2	3.0	6	1	1	1	1	0	"""The cat sat atop a tall oak tree watching the birds.""  "	7
+25	0	4	2	0	0	4	7	1	1	0	2	1	3	4.0	12	2	2	2	0	0	The cat sat comfortably on a branch 7 feet above the forest floor, purring contentedly as it gazed out at the treetop world.	7
+9	2	1	0	0	0	2	2	0	0	0	2	0	0	3.0	4	0	0	0	0	0	  The sun, high in the shimmering sky.	7
+2	0	0	0	0	0	0	1	0	0	0	1	0	0	0.0	0	0	0	0	0	0	None.	7
+42	6	6	0	0	1	4	11	2	2	0	5	0	5	6.0	12	3	2	1	2	1	With great effort, the tall willow tree standing before me in the garden grew to impressive heights, stretching its branches towards the sky, reaching seventy-seven feet high and providing ample shade on a hot summer day. 	7
+16	3	2	0	0	1	2	4	1	0	0	1	0	2	3.0	7	0	0	1	0	0	Seven delicious apples fell from the tall oak tree and ripened on the golden grass.	7
+9	2	1	1	0	0	2	2	0	0	0	0	0	1	2.0	5	0	0	1	0	0	  The tallest trees towered impressively toward the cloudy sky	7
+13	2	1	0	0	0	2	3	1	0	0	2	0	2	4.0	6	1	1	1	1	0	The tigers climbed up the tallest tree, branching seven times higher. 	7
+25	4	3	1	0	0	4	6	1	1	0	3	0	2	4.0	10	1	1	1	2	0	The tall, slender tree stretched its branches high into the sky, reaching a height of 7 in the clear blue autumn afternoon.	7
+18	2	2	1	0	0	2	4	1	0	0	4	0	2	3.0	5	1	1	1	0	0	"""The enormous oak tree towered over the farm, stretching upward for seven glorious stories.""  Is this correct? Please provide feedback. "	7
+6	0	0	1	0	0	0	2	1	0	0	0	0	2	2.0	4	0	0	0	1	0	Satisfyingly savoring seven shimmering sorbet servings	7
+25	3	5	1	0	2	0	4	1	3	1	1	0	4	7.0	10	2	2	2	0	0	   Maria enjoyed climbing high up in trees that towered with great heights of seven, their branches and boughs thick and sturdy beneath her feet	7
+26	0	3	1	0	1	3	6	1	3	0	2	1	5	6.0	13	3	3	3	1	0	The family climbed over branches that swished and creaked beneath their weights, until they reached a platform nested 7 meters high in the canopy. 	7
+22	2	4	1	0	0	4	6	1	0	0	1	0	3	3.0	9	0	0	1	0	0	Without any assistance, a tall spruce tree towered over the rolling green meadow below for a height of seven towering branches	7
+4	0	0	0	1	0	0	1	0	1	0	1	0	0	2.0	1	0	0	1	0	0	My answer is: The dog climbed the tall tree and chased the fox until the height of the tree reached seven.	7
+26	5	2	1	0	0	3	8	1	1	0	3	0	2	3.0	13	1	1	2	1	0	The tall, glistening oak tree stretched its magnificent branches 7 meters into the clear blue sky, leaves rustling softly in the summer breeze.	7
+31	4	4	1	0	1	3	9	0	3	0	2	0	3	6.0	17	2	1	2	2	1	The gigantic pine tree, which towered with dignity for a century and more beneath the starlit sky, now bends its topmost branch to brush dew from its leafy crown	7
+26	3	3	2	0	1	3	5	1	2	0	3	0	3	6.0	9	2	2	3	1	0	The magnificent tree soared upward, its trunk sturdy and straight, reaching a proud height of seven branches that stretched out in all directions. 	7
+20	2	2	1	0	0	3	6	1	0	0	3	0	2	3.0	6	1	1	1	1	0	The seventy-foot tall oak tree towered over the countryside, casting dappled shadows on the fields below. 	7
+15	1	3	1	1	0	2	3	1	1	0	1	0	1	5.0	4	0	0	0	0	0	 Here is a sentence with the specified height of seven in its syntactic tree.	7
+25	4	3	1	0	1	3	6	1	1	0	2	0	3	5.0	8	1	1	1	1	0	The tall oak tree soared high into the clear blue sky, stretching its branches and leaves to a breathtaking height of seventy feet. 	7
+23	4	2	0	0	1	2	7	1	1	0	4	0	1	4.0	12	0	0	1	0	0	The great oak tree, with its sprawling branches and deep-green leaves, towered 7 feet above the forest floor.	7
+14	0	2	1	1	0	2	3	1	0	0	2	0	1	4.0	4	0	0	0	0	0	Okay, here's the generated sentence with a tree height of 7: 	7
+19	3	2	1	0	0	2	5	1	0	0	3	0	1	3.0	12	0	0	1	1	0	"  ""The black cat climbed up the tree rapidly seven different times during last night's storm."""	7
+21	2	3	2	0	0	3	5	1	1	0	2	0	2	4.0	9	1	1	2	0	0	The tall oak tree soared majestically toward the sky, its leafy branches reaching up to a height of seven. 	7
+20	2	2	2	0	0	3	6	0	0	0	1	0	3	6.0	7	2	1	1	2	1	Going up the mountain, the hiker found tall oak trees with trunks thick enough to drive a car through	7
+23	4	2	1	0	0	5	5	0	0	0	1	0	4	5.0	6	2	2	2	2	0	The squirrel scampered up the towering oak to reach the high branch where the juicy red acorns ripened in the warm sun.	7
+25	1	3	2	1	0	4	5	1	1	0	4	1	2	3.0	15	1	0	1	2	1	"""After carefully examining each tree in the wooded area for seven hours straight,""   Can we add some adornments to this sentence?   * Does adding ""very"" to the adjective ""carefully"" work? * Are modifiers allowed to be added to the noun ""each""?"	7
+24	5	3	2	0	0	3	5	1	1	0	2	0	2	3.0	12	1	1	2	0	0	The tallest oak tree stood majestically, its leafy branches reaching high up in the clear blue sky for a dizzying 7 levels.	7
+21	3	2	1	0	1	2	6	1	1	0	2	0	2	4.0	11	1	1	1	0	0	Seven towering pines stood tall and proudly in the forest clearing, their intertwined branches stretching towards the morning sun.	7
+28	2	2	1	0	1	4	6	0	2	0	3	0	6	7.0	9	4	3	2	3	1	Sitting beneath the tall elm tree, the children waved their heads and marvelled at the branches, watching how they stretched to reach the highest clouds. 	7
+11	2	1	1	0	0	1	3	1	0	0	1	0	1	2.0	4	0	0	1	0	0	The big old oak tree towered high at seven stories.	7
+13	1	1	2	0	0	2	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	The tall trees stood proudly, swaying gently in a summer breeze.	7
+9	2	1	0	0	0	0	2	0	1	0	1	0	1	2.0	6	0	0	0	1	0	   Please provide feedback on our exciting promotional deal! We are offering 20% off all new purchases over one hundred dollars for first-time customers.	7

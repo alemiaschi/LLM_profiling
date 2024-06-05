@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PROPN_constraint
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+4	0	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	2.0	0	1	The sentence is: They went to the zoo together and saw a variety of animals, both big and small.	0
+19	0	0	1	2	1	3	2	3	0	2	0	2	1	1	2	1	0	5.0	1	7	The task is not relevant to me and I cannot generate a sentence based on the context.	0
+41	1	0	5	5	6	9	4	3	0	4	0	0	3	1	2	3	0	6.0	1	19	We need to prioritize the well-being of our youth in a diverse and equitable society, and that includes understanding and respecting their unique needs and experiences, both in the classroom and during after-school activities.	0
+26	0	1	4	2	0	6	1	4	0	5	1	0	2	3	1	1	0	9.0	3	11	There is no context in the given prompt indicating that the task involves writing a one-sentence-long sentence, without proper nouns.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a collective.	0
+14	0	0	1	1	0	2	2	1	0	3	1	1	0	2	1	0	0	4.0	2	6	We're going to have to wait another fifteen minutes before our meeting.	0
+15	1	0	1	1	1	5	2	1	0	1	0	1	0	0	1	1	0	3.0	0	10	We're always getting our snacks and treats from the store's back room.	0
+10	1	0	1	1	1	1	0	0	1	3	0	0	0	1	1	0	0	3.0	1	3	 People from Earth come here to work and play.	0
+31	1	1	1	4	1	6	5	1	0	3	0	3	3	2	3	0	0	6.0	2	19	We've learned that the human species' collective ability to learn from their experiences and from other species has significantly contributed to our development into who we are today.	0
+19	1	0	2	2	0	4	2	3	0	2	0	1	1	2	2	0	0	6.0	2	4	We are a colony; a group of people who comes together to live in a particular place.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+7	0	0	1	1	0	1	1	1	0	2	0	0	0	1	1	0	0	3.0	1	3	They went fishing at the lake.	0
+13	0	0	1	0	1	5	1	1	0	2	0	1	1	1	2	2	0	5.0	1	3	Psychology has investigated the subconscious processes that drive biased thoughts and opinions.	0
+19	1	0	2	1	0	4	2	3	0	4	0	1	0	0	1	1	0	3.0	0	13	There is no task description with the specified requirements, so I cannot generate the requested sentence.	0
+19	1	1	1	1	1	4	1	3	0	2	0	3	0	1	2	1	0	4.0	1	7	The instructions could be better written because it did not give a context or background to the prompt.	0
+4	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	I'm tired.	0
+9	0	0	1	1	0	2	1	1	0	1	0	1	0	1	1	0	0	2.0	1	4	This task is beyond my capabilities to solve.	0
+27	0	1	2	3	2	8	0	2	0	4	0	0	5	2	1	3	0	6.0	2	13	A scientist observed and documented evidence of conscious and unconscious biases in various species, suggesting a potential evolutionary role of biases for maintaining population stability.	0
+15	1	0	2	0	0	2	1	2	0	3	0	2	0	0	2	1	0	3.0	0	6	The task is not specified, so I cannot generate the requested sentence.	0
+46	0	1	3	5	2	14	1	7	0	6	0	1	5	3	2	4	0	8.0	3	19	The robots have programmed a system to ensure the efficient delivery of critical supplies such as food and water to all corners of the planet by implementing a decentralized distributed network that ensures seamless communication, transportation, and data transfer throughout the entire world.	0
+11	3	0	1	1	0	1	2	0	0	1	0	1	1	1	1	0	0	3.0	1	5	We're all busy working on our jobs right now.	0
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	0
+4	0	0	1	0	0	1	1	0	0	0	0	1	0	0	1	0	0	1.0	0	2	We are humans.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	I am a colony.	0
+30	1	0	2	4	0	8	1	5	0	3	0	2	1	0	2	2	0	7.0	0	21	The context does not specify any information about mental processes under the influence of the substance on psychologists' study, therefore I cannot produce the requested sentence.	0
+16	0	0	1	2	0	3	2	3	0	2	0	2	1	1	2	1	0	5.0	1	4	We have been studying the factors that contribute to the individual biases of the group.	0
+11	0	0	1	0	1	2	2	1	0	3	0	0	0	1	1	2	0	4.0	1	4	I have to take a break and do my homework.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+21	2	0	2	2	1	3	5	1	0	4	0	0	0	2	2	1	0	8.0	2	4	We ate dinner together, a time that we used to share and enjoy together with everyone in our family.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+20	0	1	1	0	1	5	1	3	0	4	0	1	2	3	3	3	0	7.0	3	4	The question is impossible to answer as the instruction specifies a task that involves humans and requires proper nouns.	0
+6	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	2.0	0	3	Not provided in the context.	0
+11	0	0	1	2	1	1	2	1	0	2	0	1	0	1	1	1	0	4.0	1	4	We’re at a standstill and have nothing going on.	0
+15	2	0	2	0	1	1	2	1	0	2	0	2	0	1	2	0	0	3.0	1	6	I am a colony, but I did not come to live here forever.	0
+12	1	0	1	0	0	3	1	1	0	2	0	0	2	1	0	1	0	4.0	1	4	There are too few context clues to generate a single sentence.	0
+15	2	0	2	2	0	2	1	1	0	2	1	2	0	1	1	0	0	3.0	1	6	  We’ve been waiting here for 10 hours, staring intently at the sunset.	0
+15	1	0	2	1	0	2	1	2	0	2	0	2	1	0	2	0	0	3.0	0	6	No such sentence was requested, so I cannot comply with the instruction.	0
+18	1	0	2	0	0	4	3	0	0	3	0	2	2	3	3	2	0	5.0	3	5	We are scientists, who conduct experiments to study how psychological biases could influence our scientific research.	0
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	We're going on an adventure.	0
+20	2	0	2	3	0	2	3	2	0	2	0	1	1	1	2	1	0	5.0	1	8	We're not here for long, we need to make the most of our time at this camp.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a collective.	0
+30	2	2	3	0	0	3	6	3	0	5	0	3	0	5	5	1	0	5.0	5	21	We work together because if we didn't we work together, no matter what the task was, we couldn't accomplish the things we need to accomplish.	0
+13	0	1	1	0	0	3	2	1	0	3	0	0	0	2	1	2	0	5.0	2	4	We need to discuss our priorities while navigating the day's demands.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+5	0	0	1	0	0	1	1	1	0	0	0	1	0	0	1	0	0	1.0	0	3	We are a colony.	0
+22	0	1	1	1	0	4	1	4	0	3	0	2	2	3	2	3	0	5.0	3	8	I am unable to fulfill the instruction because the context does not provide any proper nouns to create a sentence with.	3
+6	0	0	1	1	0	0	0	1	3	0	0	0	0	0	0	0	0	2.0	0	3	Hino Dealer of the Year.	3
+12	0	0	1	0	0	0	4	0	0	2	0	2	1	2	2	1	0	3.0	2	6	I'm not sure what you're asking me to generate.	3
+30	0	0	1	5	1	4	2	4	3	5	0	2	1	3	2	1	0	6.0	3	16	We have been informed by Hino Dealers of the Year of the best location in the country and we aim to keep this tradition going for years to come.	3
+17	0	0	1	3	1	1	1	1	3	3	0	1	1	1	1	0	0	4.0	1	8	We were looking for a nearby hotel in Philadelphia and decided to stay at Hino Motel.	3
+13	0	0	1	2	0	2	0	3	3	0	0	1	1	0	1	0	0	3.0	0	6	The Hino Dealership of the Year is the recipient of many accolades.	3
+27	1	1	2	1	0	5	2	4	0	3	1	2	3	3	3	3	0	6.0	3	18	I am unable to generate a sentence with 3 proper nouns that appropriately completes the task, as the context does not provide any such sentence.	3
+18	0	1	1	1	0	2	2	2	0	2	0	2	2	2	2	1	0	4.0	2	8	I am not able to generate the requested sentence as it is not related to the task.	3
+14	0	0	1	1	0	2	1	2	2	2	0	1	1	1	1	2	0	4.0	1	5	We should open an independent restaurant to support the community in Center City.	3
+28	0	1	1	3	0	5	2	4	0	3	1	3	4	3	3	1	0	7.0	3	10	I am unable to generate a sentence with 3 proper nouns that is relevant to the provided instruction because no such task was included in the context.	3
+26	0	1	1	1	2	5	3	1	0	5	0	3	3	4	3	2	0	9.0	4	7	I'm unable to generate the requested sentence as it would involve referring to specific individuals or entities which would violate privacy and sensitive information.	3
+23	1	0	3	1	0	3	2	3	0	4	0	2	2	4	2	2	0	5.0	4	9	We have not included any additional context, therefore, I am unable to generate a sentence according to the instructions provided.	3
+20	0	1	1	0	0	3	1	3	0	3	1	2	2	2	2	2	0	4.0	2	9	I am not able to generate the requested sentence as the context does not provide any three proper nouns.	3
+18	0	1	1	1	0	3	1	3	0	2	1	2	1	1	2	2	0	3.0	1	12	I cannot generate a sentence with 3 proper nouns as the context does not provide any.	3
+13	0	0	1	3	0	1	1	2	3	1	0	1	0	0	1	0	0	4.0	0	3	We are located in a hotel near Hino Dealer of the Year.	3
+8	0	0	1	1	0	0	3	0	0	1	0	1	1	1	2	0	0	3.0	1	2	I am unsure of what you mean.	3
+11	0	0	1	1	0	1	2	1	0	0	0	3	1	1	1	0	0	3.0	1	5	I'm not sure what this sentence should be about.	3
+19	0	1	2	0	0	4	2	3	0	4	0	2	0	2	3	2	0	4.0	2	14	I cannot generate a sentence that follows the given instruction, as no task description is provided.	3
+36	1	1	3	1	1	7	1	5	0	5	1	2	5	4	2	3	0	6.0	4	14	I am still unable to generate a perfect sentence based on this incomplete instruction as the task does not offer any specific context or parameters to fulfill the requested three-proper-noun sentence.	3
+16	0	0	1	2	0	3	1	2	0	3	1	1	1	2	1	1	0	2.0	2	10	I cannot generate a sentence with 3 proper nouns based on the context given.	3
+6	0	0	1	1	0	0	0	1	3	0	0	0	0	0	0	0	0	2.0	0	3	Hino Dealership of the Year.	3
+7	0	0	1	1	0	0	0	1	3	0	0	0	0	0	0	0	0	2.0	0	3	Hino's Dealership of the Year.	3
+23	1	0	2	2	0	4	1	4	0	4	0	2	1	0	2	1	0	3.0	0	10	The exact address of this establishment is not mentioned in the given context, therefore I cannot generate the requested sentence.	3
+23	0	1	2	3	0	5	2	2	3	3	0	0	2	2	2	2	0	5.0	2	11	We recommend visiting Hino Dealer of the Year because they provide a wide selection of top-quality vehicles at competitive prices.	3
+12	0	0	1	2	0	1	3	1	0	1	0	2	1	1	1	0	0	3.0	1	4	It is unclear what you are asking for from the context.	3
+16	1	0	2	2	0	5	1	2	0	3	0	0	0	1	1	2	0	5.0	1	4	The company recently opened its doors, promising careers for individuals from the surrounding community.	3
+8	0	0	1	1	0	0	1	0	2	1	0	1	1	0	1	0	0	2.0	0	2	His Seventh Symphony was written for London.	3
+26	1	0	2	3	0	4	3	3	0	3	0	4	2	1	2	1	0	4.0	1	13	It is unclear what is being asked from the context, so I cannot generate a sentence with the requested number of proper nouns.	3
+10	0	0	1	2	0	0	1	1	3	1	0	1	0	0	1	0	0	3.0	0	3	We are staying at Hino Dealership of the Year.	3
+5	0	0	0	1	0	0	0	1	3	0	0	0	0	0	0	0	0	2.0	0	3	Hino Dealer of the Year	3
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	.	3
+17	0	0	2	3	1	3	1	1	3	2	0	0	1	1	1	0	0	4.0	1	11	We recommend staying at Hino Dealers of the Year for top-notch service and deals.	3
+18	0	0	1	1	0	3	2	2	0	3	1	1	2	2	2	2	0	5.0	2	6	I am not able to generate a sentence with 3 proper nouns that fulfill the given instruction.	3
+19	1	0	2	2	1	4	1	2	1	1	0	1	3	0	1	1	0	3.0	0	12	We have found the most excellent Hino deal of the year, with great value and outstanding quality.	3
+25	1	1	1	1	2	5	3	0	1	3	0	3	4	1	2	3	0	5.0	1	7	We chose Hino as its dealership has consistently provided excellent service and has been awarded several accolades for its high quality products and services.	3
+32	1	0	2	3	0	5	2	5	0	5	1	4	1	2	3	1	0	4.0	2	21	It is not mentioned in the context what three proper nouns the instruction is asking to be written about, so I cannot generate the requested sentence from the context.	3
+22	3	0	2	3	0	2	2	2	3	3	0	1	0	1	2	0	0	4.0	1	15	We are searching for a car close to the hotel in Center City Philadelphia, so I decided to go there.	3
+32	3	0	2	5	1	3	4	3	6	2	0	2	1	0	3	1	0	5.0	0	28	We are staying at a hotel in Center City Philadelphia so I wanted something close to a historical landmark, and the Philadelphia Museum of Art was right up our alley.	3
+20	0	1	1	2	0	4	2	2	1	3	0	2	0	1	2	1	0	3.0	1	10	We are not discussing the importance of Hino dealerships as it does not relate to the given task description.	3
+13	0	0	1	1	0	1	4	1	0	2	0	1	1	2	2	2	0	4.0	2	8	I am unsure what you want me to generate a sentence about.	3
+23	0	0	2	2	1	4	3	2	3	4	0	1	0	3	2	2	0	4.0	3	12	It is a pleasure doing business at Hino Dealership of the Year, and we hope our service continues to exceed expectations.	3
+24	0	2	2	0	0	4	2	2	0	3	1	2	3	3	2	4	0	5.0	3	11	I'm not able to provide this information, as the task does not give me specific instructions on generating three proper nouns.	3
+22	0	1	2	2	0	5	0	4	0	2	1	2	2	2	2	1	0	5.0	2	9	The answer is unavailable in the context, as no instruction was given to generate a sentence with 3 proper nouns.	3
+5	0	0	0	1	0	0	0	1	3	0	0	0	0	0	0	0	0	2.0	0	3	Hino Dealers of the Year	3
+22	0	0	3	4	0	2	2	3	3	1	0	3	1	1	1	0	0	6.0	1	4	"It is unclear from the context what is being referred to by the phrase ""Hino Dealer of the Year""."	3
+15	0	0	1	2	0	3	1	2	0	2	1	1	1	0	1	1	0	2.0	0	10	I cannot generate a sentence with 3 proper nouns from the given context.	3
+32	0	1	2	3	0	5	1	5	3	4	1	2	2	4	1	2	0	8.0	4	14	It is not possible to fulfill the instruction with 3 proper nouns, as the context provided does not contain any information about a business called Hino Dealer of the Year.	3
+27	1	1	1	2	0	4	2	4	0	4	1	3	2	4	3	2	0	6.0	4	13	I am unable to comply with the request since it is asking for a sentence using 3 proper nouns when the context does not provide any.	3
+24	0	1	1	2	1	5	3	4	0	4	0	1	1	3	3	2	0	8.0	3	6	I am unable to generate the requested sentence as it asks for a sentence that involves a resolution to a problem or issue.	3
+17	0	0	1	2	0	3	2	2	0	3	1	1	1	1	2	1	0	5.0	1	4	I cannot generate a sentence with 3 proper nouns that adheres to the provided instructions.	3
+12	0	0	1	0	0	0	4	0	0	2	0	2	1	2	2	1	0	3.0	2	6	I'm not sure what you're asking me to generate.	6
+34	0	0	6	5	1	7	1	2	5	2	0	1	4	1	2	1	0	5.0	1	24	Greek culture celebrates the diverse religious belief of her citizens, with ancient gods like Zeus, Hera, Poseidon, Aphrodite, and Athena being worshiped by millions in the country today.	6
+21	0	1	1	0	1	4	2	2	0	4	0	2	2	2	2	3	0	4.0	2	7	I cannot generate the requested sentence as it would require more context and information to provide a proper answer.	6
+46	0	0	7	7	4	9	2	5	6	4	0	0	2	3	2	1	0	7.0	3	31	They worship the religious gods and goddesses of Greece, with Zeus at the top of their pantheon and the others held in high regard, including the nymphs known as Olympians, and the goddesses like Hera, Athena, Aphrodite, and Hestia.	6
+18	1	1	2	1	0	2	2	2	0	2	0	2	1	1	2	1	0	3.0	1	9	This is not relevant to the task, so I cannot generate a sentence as requested.	6
+26	1	0	1	5	1	6	2	3	2	2	0	1	2	1	2	1	0	6.0	1	7	The Ancient Greeks worshipped the sacred deities of Greece through rituals and festivals that were often accompanied by the recitation of stories about their triumphs.	6
+18	0	1	1	1	0	5	0	4	0	3	1	1	1	2	2	2	0	6.0	2	4	No sentence was generated as no instruction specified the creation of a sentence using 6 proper nouns.	6
+61	0	0	12	9	2	12	0	4	7	5	0	1	9	3	1	0	0	7.0	3	14	The Ancient Greek religious traditions across Greek-speaking world have evolved through the centuries, with several notable religious holidays observed throughout this time period, including major celebrations in Athens, Greece, focused on religious cults and celebrations in honor of the goddesses, Zeus, Hera, Poseidon, Aphrodite, and Athena, among others.	6
+6	0	0	1	0	0	2	0	0	0	1	0	0	2	0	1	1	0	2.0	0	2	Greek mythology holds many deities.	6
+16	0	0	1	3	0	4	0	3	1	2	0	0	2	0	1	1	1	4.0	1	5	The text generated in the prompt highlights a historical reference to religious denominations in Greece.	6
+31	0	1	2	2	1	6	1	6	0	4	1	3	2	3	2	2	0	7.0	3	9	This question cannot be answered using the context, as it did not provide any information about the specific task or the 6 proper nouns required in the sentence.	6
+10	0	0	1	0	1	3	1	0	0	1	0	0	3	0	1	1	0	3.0	0	3	Greek culture celebrates many ancient civilizations and their deities.	6
+29	1	0	3	2	2	6	1	2	0	3	0	0	9	1	2	3	1	6.0	2	15	The ancient Greek religion, which holds significant cultural and spiritual importance in Greek culture and beyond, encompasses worship of the ancient gods representing various Greek entities.	6
+19	0	0	2	3	0	4	2	3	1	2	0	0	2	1	1	2	0	4.0	1	7	The Greeks celebrate their ancient gods, worshipping them on a daily basis in temples throughout the nation.	6
+28	1	0	1	2	1	6	2	1	1	4	0	2	7	2	2	1	1	6.0	3	5	A significant religious community centered in Greece has thrived thanks to numerous historical factors including its ancient religious practices and ongoing traditions that are still upheld today.	6
+36	1	1	3	2	1	8	3	3	0	4	1	3	3	4	4	3	0	7.0	4	13	I cannot generate a sentence that contains 6 proper nouns because the prompt does not provide any information about people, places, or things that are specific enough to count as proper nouns.	6
+29	0	0	5	4	1	5	0	5	4	1	0	0	4	0	1	1	0	5.0	0	14	"The lyrics to ""The Battle of Troy"", an ancient Greek epic, recount the legendary journey and final death of the warrior Hector of Troy."	6
+16	0	0	2	1	1	3	0	2	0	1	0	0	6	0	1	1	0	5.0	0	8	The ancient Greek culture had numerous holidays, each with significant religious and cultural significance.	6
+25	2	1	2	1	0	4	1	3	0	3	1	2	2	3	2	2	0	5.0	3	12	Unfortunately, I am unable to generate a sentence with 6 proper nouns as the instructions do not provide any context to do so.	6
+26	2	0	5	0	2	5	1	3	0	3	0	2	1	0	2	2	0	3.0	0	15	Unfortunately, the context does not specify any Greek words, names, or entities, and therefore I cannot generate the requested sentence.	6
+16	0	0	1	2	1	6	0	1	0	0	0	1	3	0	1	0	0	4.0	0	3	Greek mythology's ancient gods are the focus of worship across various cultures and regions.	6
+23	1	0	2	2	0	4	2	3	0	3	1	2	1	0	2	2	0	3.0	0	11	This context does not mention anything about 6 proper nouns, so I cannot generate the requested sentence from the context.	6
+33	1	1	5	1	1	7	2	4	1	2	2	2	2	2	3	2	0	6.0	2	11	"I cannot generate a 6-noun sentence with the phrase ""Today, about 100,000 Greeks worship the ancient gods"" as it is not a specific task or subject."	6
+27	1	1	1	2	2	4	2	1	3	3	0	2	5	1	2	2	0	6.0	1	8	She has become deeply concerned that South Korean military preparations could intensify tensions between her country and China and cause potential war on the Korean Peninsula.	6
+30	1	0	3	5	2	8	1	2	0	1	0	2	5	0	1	0	0	5.0	0	18	The global reach of religion, and the impact of its theological beliefs on contemporary society, has been significantly shaped by various religious denominations and philosophies throughout history.	6
+31	0	1	1	3	1	7	2	3	3	2	0	2	4	2	3	1	0	6.0	2	11	She added that upcoming talks between US lawmakers and Taiwan's leader suggest a potential military strike by China that could be a major threat for the country's security.	6
+20	1	0	1	2	0	5	0	5	1	0	0	2	3	1	2	0	0	4.0	1	11	The historical city of Ephesus is a place where the worship of the ancient gods was a common practice.	6
+25	1	0	7	2	1	2	0	1	6	1	1	1	2	0	1	0	0	4.0	0	16	The ancient gods, such as Zeus, Hera, Poseidon, Aphrodite, and Athena, are worshipped today by about 100,000 Greeks.	6
+25	1	0	7	2	1	2	0	1	6	1	1	1	2	0	1	0	0	4.0	0	16	The ancient Gods, such as Zeus, Hera, Poseidon, Aphrodite, and Athena, are worshipped by about 100,000 Greeks today.	6
+14	0	0	1	2	1	3	0	2	2	1	0	0	2	0	1	1	0	4.0	0	5	The Greeks hold a multitude of religious festivals and ceremonies in ancient Greece.	6
+67	0	2	5	9	3	15	1	6	4	8	0	4	8	5	3	4	0	6.0	5	33	These latest political changes have elicited anxieties among many leaders throughout Asia, prompting additional monitoring and preparation measures in countries around the region to ensure the stability of democracies and protect against potential military interventions, as some nations, such as India, are preparing for another conflict in the island while North Korea is believed to have acquired or upgraded its nuclear capabilities.	6
+42	0	0	4	5	3	7	2	3	3	4	0	0	11	1	2	3	1	6.0	2	15	The Christian denominations, such as the Baptists and Methodists whose beliefs constitute the Christian denomination, hold significant economic weight, causing tension between various Greek and Turkish political factions in Greece and contributing to ongoing political conflicts between them.	6
+40	1	0	4	3	3	10	0	5	1	3	0	2	7	0	2	3	1	5.0	1	16	The modern Orthodox faith practices in the United States, encompassing a large diaspora of Greek immigrants, has significantly influenced the country's religious landscape, and this phenomenon has attracted both praise and criticism from religious conservatives.	6
+19	1	0	2	2	0	3	1	3	0	4	0	1	0	1	1	1	0	4.0	1	9	Not provided in the context, so I cannot generate the requested sentence according to the instruction.	6
+25	1	0	1	3	1	7	1	3	1	2	0	0	4	0	2	1	1	5.0	1	8	The Christian holiday services that thousands of Greeks participate in annually represent a vibrant representation of the island's cultural identity and spiritual heritage.	6
+59	1	2	3	9	2	15	0	8	4	5	0	4	5	5	3	3	0	8.0	5	18	  A surge of activity has swept across the Pacific islands as several countries in Oceania and Africa have sought the help of international military forces, citing the threat posed by China's assertiveness and presence there, prompting fear amongst the people of the respective countries that any form of war could be on the near horizon.	6
+26	0	0	4	3	1	6	1	4	2	2	0	0	3	0	2	2	0	4.0	0	11	The ancient Greeks, such as Poseidon, had a profound connection to nature, and their worship practices reflect this interconnectedness with the world.	6
+30	0	0	7	1	1	4	1	2	7	3	0	0	4	2	2	2	0	7.0	2	12	Greek religious beliefs encompass numerous deities, including Apollo, Artemis, Aphrodite, Athena, Hera, and the Olympians whose worship forms the cultural foundation of Greece.	6
+18	1	0	2	1	0	3	1	3	0	3	0	2	0	0	2	1	0	3.0	0	9	The information is not given in the context, thus I cannot generate the requested sentence.	6
+28	0	1	1	5	0	7	0	4	1	1	0	2	6	1	2	1	0	5.0	1	10	A recent visit by the Indian military brass to the island has caused apprehension among Tamils that preparations are under way for a new Sri Lankan war.	6
+19	1	0	2	1	0	3	2	2	0	2	1	2	1	0	2	1	0	3.0	0	6	This is not a solved example, so I cannot generate a sentence with 6 proper nouns.	6
+10	0	0	1	0	0	2	2	0	0	2	0	1	1	1	2	2	0	4.0	1	3	I cannot generate sentences that contain religious references.	6
+21	0	0	3	3	0	5	1	2	1	2	0	0	4	1	1	1	0	5.0	1	5	The ancient Greeks worshipped various deities, resulting in a vibrant array of religious practices across their city-states.	6
+28	0	1	2	1	0	5	1	4	0	4	1	5	2	3	3	2	0	7.0	3	7	No such sentence could be generated, as the context does not provide a topic that can be used to form a sentence with 6 proper nouns.	6
+24	2	1	3	1	0	3	1	3	0	4	0	3	2	3	2	1	0	4.0	3	8	Unfortunately, no such instruction could be provided within the context, so I am unable to generate the requested sentence as specified.	6
+20	1	0	1	4	0	4	0	3	2	0	1	1	3	0	1	0	0	3.0	0	8	The ancient city of Sparta on the Peloponnesian peninsula is one of the most popular tourist destinations in Greece.	6
+26	0	1	2	3	1	6	3	2	1	3	0	1	3	2	1	3	0	6.0	2	7	These protests against global environmental warming have mobilized citizens from across the globe, demonstrating their collective commitment to protecting our Earth and its biodiversity.	6
+36	0	2	1	5	1	8	0	3	1	3	0	2	9	2	2	1	0	6.0	2	12	The global faith of Greece was enriched as numerous Greek worshippers were revealed as holding deep connections to the ancient Hellenic deities due to various historical explorations and encounters throughout the country's rich history.	6
+30	2	1	1	2	2	6	3	3	3	4	0	1	2	2	3	2	0	8.0	2	10	She visited her grandmother this weekend and learned that her grandmother was born in a small island where a military meeting between India and North Korea took place recently.	6
+38	0	1	1	7	4	12	0	2	1	2	0	1	6	1	2	0	0	6.0	1	11	Greece’s ancient religious practices were maintained by many communities around the island due to the reverence and faith that people of diverse faiths and cultural backgrounds attached to ancient gods and goddesses through rituals and traditions.	6
+39	0	1	2	5	1	7	1	5	3	6	2	0	5	3	2	4	0	8.0	3	9	The Museum of Flight put a tremendous amount of effort into landing a retired shuttle in the Pacific Northwest, leading to unexpected opportunities and inspiring a local community campaign that raised $5 million for further research.	8
+28	0	0	2	3	0	5	1	4	5	3	0	1	4	2	2	2	1	6.0	3	11	A famous tourist attraction that attracts travelers from all around the world is the museum named Wright Brothers National Historical Park located in Iowa, United States.	8
+40	0	2	3	3	0	8	0	5	7	7	0	1	1	4	2	4	0	7.0	4	13	The City College Museum of Science's Space Shuttle exhibit in Seattle is dedicated in a way to honor that legacy, while the surrounding area offers opportunities to view a retired shuttle while exploring aerospace-related exhibits.	8
+20	0	1	1	3	0	3	0	4	3	3	0	0	2	1	1	2	0	4.0	1	7	The Museum of Flight put a tremendous amount of effort into landing a retired shuttle in the Pacific Northwest.	8
+34	1	2	3	4	1	8	2	5	1	3	0	2	0	2	3	2	0	4.0	2	23	This is an example of misinformation as the museum decided not to place any shuttle objects on land, but instead, the focus was on floating them off the coast of Florida .	8
+35	1	1	2	6	0	4	2	3	9	3	0	0	2	2	1	3	0	7.0	2	11	Like many Californians, the residents of Los Angeles expressed their disappointment at news of NASA's decision to shift the iconic Space Shuttle Orbiter away from the City by building it in Houston.	8
+23	1	0	2	2	2	5	1	1	3	2	0	1	3	0	2	2	1	4.0	1	12	Like many Pacific Northwest towns that are too reliant on tourism, Everett and Mukilteo both received funding and built spaceport facilities.	8
+31	0	0	3	4	0	5	1	5	5	3	0	1	3	2	1	1	0	7.0	2	5	Like many Americans, a Texan would find it hard to fathom the injustice of the recent decision regarding the fate of the space shuttle in Johnson City, Texas.	8
+29	0	1	2	3	1	7	0	5	2	4	0	1	2	2	2	2	0	4.0	2	21	The museum of flight put a tremendous amount of effort into landing a retired shuttle in the San Diego area, but the shuttle was unable to land.	8
+29	0	0	2	5	0	2	1	3	8	1	1	1	3	1	1	1	0	5.0	1	10	Like many Texans, I am disappointed with NASA's decision to slight the Johnson Space Center as a permanent home for one of the Space Shuttle Orbiters.	8
+15	1	0	2	0	0	2	1	1	0	3	0	2	1	0	2	1	0	3.0	0	6	Not enough context is provided, therefore I cannot generate the requested sentence.	8
+58	1	0	4	9	3	14	3	9	3	3	0	1	5	1	3	1	0	9.0	1	17	Like many Michigans, I was captivated by the wonder of the Wright Brothers' ingenuity, and a place of their flight became a permanent residence for an orbiter—a testament not only to human achievement but to the enduring spirit of exploration and freedom that fueled humanity's audacity on such a colossal scale,	8
+57	0	0	3	13	1	14	3	6	4	3	0	0	8	2	1	2	0	9.0	2	34	Like countless Americans, I find myself disheartened by NASA’s decision to disregard common sense and fairness in its allocation of permanent habitat spots for a shuttle within the state of Pennsylvania, a state with no shortage of strategic options due to the state´s diverse location amidst various major metropolitan regions of the US.	8
+22	0	0	2	3	1	4	0	3	1	3	0	1	3	1	2	1	0	4.0	1	15	The pandemic had a devastating impact on the cultural landscape of Washington, and several institutions were forced to close down.	8
+30	0	2	2	4	0	10	1	4	0	5	0	0	2	3	1	4	0	7.0	3	7	The museum of flight put a remarkable effort into landing a retired space shuttle, setting a record in attracting millions of visitors within its first week of opening.	8
+28	1	0	1	6	0	2	1	3	8	1	1	1	2	0	1	0	0	5.0	0	10	Like many Texans, I was disappointed by NASA’s decision to slightly the Johnson Space Center as a permanent home for one of the Space Shuttle Orbiters	8
+37	1	0	3	7	0	4	2	3	10	3	0	0	2	2	1	1	0	7.0	2	18	Like many Norfolks, I remain baffled by NASA's inexplicable decision to leave our Space Shuttle Orbiting at Kennedy Space City in the middle of the Gulf of Mexico, far from any population center.	8
+21	0	1	2	1	1	3	1	3	0	3	0	3	2	1	3	0	0	4.0	1	8	I apologize, but the task cannot be fulfilled because no relevant textual context was provided in the prompt.	8
+16	0	0	1	1	0	3	2	2	0	3	1	1	1	2	2	2	0	5.0	2	4	I cannot generate a sentence with 8 proper nouns that follows the instruction provided.	8
+26	0	1	2	3	0	5	4	4	0	4	0	1	1	2	2	2	0	4.0	2	13	I cannot provide a sentence with the requested number of proper nouns, as there is no information in the context that specifies it.	8
+31	2	0	2	7	0	3	2	3	4	0	0	2	5	1	2	0	0	6.0	1	7	Like the bustling City of Philadelphia, Warwick is geographically convenient for travelers from Philadelphia to a major terminal in a city that is not very big on its own.	8
+58	2	2	2	7	2	15	2	5	2	8	0	6	2	6	3	4	1	10.0	7	15	The aerospace industry's hubris and lack of commitment to ensuring sustainability has left the space shuttle fleet stranded in orbit indefinitely, as they are currently being considered for storage in the Pacific Northwest due to concerns surrounding the amount of money that would have had to be spent to keep the facility operational and accessible.	8
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task.	8
+29	0	0	2	5	0	2	1	3	8	1	1	1	3	1	1	1	0	5.0	1	10	Like many Texans, I am disappointed with NASA's decision to slight the Johnson Space Center as a permanent home for one of the Space Shuttle Orbiters.	8
+23	0	1	2	3	0	4	0	4	5	3	0	0	1	1	1	2	0	5.0	1	7	  The Museum of Flight put a tremendous amount of effort into landing a retired shuttle in the San Diego area, California.	8
+51	2	0	5	4	0	5	1	6	11	6	1	2	5	4	3	1	0	10.0	4	10	A NASA official recently announced, “The White House is set to build an enormous complex in Texas that will serve as the final home for the United States Apollo Space Agency’s remaining fleet including one of NASA’s most significant missions, the Johnson Space Center.”	8
+39	0	0	4	7	0	6	3	3	4	3	1	3	3	2	1	2	0	7.0	2	22	In 2011, SpaceX made an ambitious attempt to bring the shuttle into what would have been it's permanent home, an airport near Los Angeles, due to political resistance in California to its continued presence.	8
+23	0	1	2	3	0	5	2	3	0	2	1	1	2	2	2	2	0	4.0	2	11	I am unable to generate a sentence as per the task instructions, because it requests a sentence with 8 proper nouns.	8
+33	0	0	2	6	0	2	1	3	10	1	1	1	4	1	1	1	0	7.0	1	12	Like many Texans, I am disappointed with NASA's decision to slight the John Glenn National Space Center in Florida as a permanent home for one of the Space Shuttle Orbiters.	8
+46	1	1	3	6	3	9	2	6	3	6	0	0	6	2	3	5	0	8.0	2	23	The Museum of Flight put a tremendous amount of effort into landing a retired shuttle in the pacific northwest, but due to political favoritism, they chose a new location and neglected the original home which caused significant dissapointment in Texans and fans alike.	8
+40	1	0	3	5	2	12	2	4	4	3	0	0	3	1	2	2	0	5.0	1	19	A major aerospace company from Washington State chose Seattle and Kent for their space habitat, a symbolic gesture to the aerospace hub, but they neglected to build a space shuttle orbit center there due to political pressures.	8
+20	0	1	1	0	1	4	2	3	0	3	0	2	1	2	2	3	0	4.0	2	10	I cannot provide a sentence using the context as it does not offer any context or specific information.	8
+33	0	0	2	4	1	5	1	7	3	3	0	3	2	1	2	2	0	4.0	1	17	The Capitol of the United States has played a critical role throughout the life of the space shuttle, but it will not be used to launch the Orbiters in the future.	8
+43	0	0	5	3	1	7	1	4	11	5	0	1	2	4	2	2	0	8.0	4	8	 The Smithsonian Institution's Udvar-Hazy Center for Exploration in Virginia Beach has decided to rename the entire space shuttle visitor complex to commemorate the space shuttles that landed at the center including Atlantis, Endeavour, Discovery, and Challenger.	8
+25	0	1	1	5	0	5	1	3	4	2	0	0	3	1	1	2	0	5.0	1	8	  The University of South Carolina at Columbia launched a campaign across various states with the goal of spreading awareness of its renowned educational center.	8
+28	2	0	1	3	1	7	1	2	2	3	0	2	4	3	2	2	0	5.0	3	9	That is why politicians must prioritize common sense and fairness above political considerations when making decisions concerning such matters as the final placement of the Shuttle Orbiters.	8
+47	2	1	6	5	1	7	1	5	10	4	0	0	4	3	3	3	0	6.0	3	21	The space shuttle program suffered a major setback with NASA picking Center City, Philadelphia, as a location for the Orbital Facility because they deemed Warwick, Pennsylvania, too far to travel from nearby Pennsylvania locations such as Radison Inn, and a restaurant.	8
+72	0	2	7	11	2	15	4	7	7	4	0	0	12	3	2	2	0	9.0	3	22	Like many Seattle residents, I find it ironic that despite Washington’s designation as “The Evergreen State,” a private aerospace giant, SpaceX, selected a desolate spot in Wyoming for its new launch base, resulting in a limited impact on the vibrant cultural and artistic scene of my state and the potential for stimulating future economic growth of a region with minimal benefits to Washington residents	8
+58	3	1	6	6	7	11	4	5	4	4	0	1	5	3	3	2	0	7.0	3	20	As a museum, the vast and captivating collection at the Museum of Aviation deserves the unwavering support and dedication of its residents and their fans, which are both locally and globally recognized, that they work together to keep the aircraft and space shuttle center in Houston, Texas in operation, safe and functional.	8
+35	1	1	1	4	2	8	2	4	5	4	0	0	1	3	2	2	0	9.0	3	10	 And what about all the volunteers who work at the Space Shuttle Museum in Texas and tirelessly work to preserve America's aviation history in hopes that the next space shuttle mission takes flight.	8
+49	1	0	3	8	2	8	1	7	9	4	0	3	2	4	1	0	0	9.0	4	14	The Apollo program was plagued by bureaucratic inefficiencies and the politics of the time, ultimately contributing to the selection of Cape Canaveral and Kennedy Space Center over the Johnson Space Center, resulting in the tragedy of what was supposed to be a historic center of humanity.	8
+36	0	1	2	2	2	7	1	5	4	5	0	1	4	3	2	4	0	7.0	3	16	The Museum of Flying placed significant effort in landing various space shuttles in the Pacific Northwest, and they were thrilled to achieve such a landmark achievement showcasing the region's remarkable resilience and determination.	8
+22	0	1	1	3	0	6	2	3	0	4	0	1	1	1	1	2	1	5.0	2	8	A city known for a museum of aviation is making its own contributions by housing a retired shuttle within its borders.	8
+32	0	0	2	4	3	11	1	4	2	2	0	0	2	0	2	0	0	6.0	0	16	The space shuttle's orbit remains a symbol of American innovation and ambition, and its location in the Pacific Northwest remains a point of reflection for future exploration and discovery.	8
+34	0	0	4	4	0	10	0	5	0	4	0	0	5	1	1	2	2	6.0	3	11	The city’s symphony orchestra, comprised of professional musicians trained across the globe, performs a captivating, unique concert series on the waterfront to benefit local causes on a weekly basis.	8
+40	0	1	2	5	2	4	1	7	8	3	0	2	4	1	2	2	0	4.0	1	23	The National Space and Air Museum put a tremendous amount of effort into landing a retired shuttle in the Pacific Northwest, but I would not be at all concerned about the future home of the Johnson Space Center.	8
+38	1	1	1	5	1	6	0	4	8	4	0	0	5	0	1	3	1	5.0	1	16	The Museum of Flight's recent decision to place a retired shuttle at the Johnson Space Center shows the political and ideological bias towards Center City Philadelphia, rather than prioritizing common sense in favor of strategic planning	8
+36	0	1	5	3	1	10	2	5	0	4	0	3	0	2	3	2	0	7.0	2	12	I cannot produce the requested sentence since the instruction does not specify information on a subject, location, event, person, or thing that could serve as a basis for the sentence.	8
+25	1	0	2	2	0	6	1	1	2	4	1	0	2	3	0	1	0	9.0	3	4	Unfortunately, there is not enough context provided to generate a sentence with 8 proper nouns about NASA's decision concerning space shuttle Orbiters.	8
+30	0	0	2	5	0	2	1	3	9	1	1	1	3	1	1	1	0	5.0	1	11	Like many Texans, I am disappointed with NASA's decision to slight the Fort Worth Space Center as a permanent home for one of the Space Shuttle Orbiters.	8
+21	0	1	1	1	1	4	2	1	0	2	1	2	4	2	2	2	0	5.0	2	10	I'm unable to generate a sentence with 11 proper nouns as it would require more context and specific details.	11
+19	0	1	1	0	0	3	2	3	0	3	1	2	1	2	3	3	0	5.0	2	9	I cannot generate a sentence that utilizes 11 proper nouns as the context does not provide any.	11
+13	0	0	1	1	1	3	0	2	0	2	1	0	1	0	0	2	0	3.0	0	6	Please complete the task and provide a sentence with 11 proper nouns.	11
+27	0	1	2	3	0	5	2	4	0	4	1	2	2	3	3	1	0	6.0	3	11	I cannot generate a sentence with 11 proper nouns that adheres to the instructions given, as no specific task is defined in the context.	11
+20	1	1	2	1	0	3	1	3	0	4	0	2	0	1	2	1	0	3.0	1	9	The task is not defined in the context, so I cannot generate the requested sentence as instructed.	11
+23	0	1	1	1	2	4	2	3	0	4	0	2	1	2	2	2	0	5.0	2	8	I cannot fulfill the instruction provided as it does not provide a complete task or ask for any information or context.	11
+26	0	1	2	3	0	5	2	4	0	2	1	2	2	2	3	1	0	7.0	2	7	This is not possible, as the context does not provide any information that allows for the generation of a sentence with 11 proper nouns.	11
+20	0	1	1	1	0	4	2	2	0	3	1	1	2	2	2	3	0	4.0	2	6	I cannot complete the request as it requires more context to generate a sentence with 11 proper nouns.	11
+28	1	0	2	1	1	6	1	4	0	5	1	2	1	1	2	3	0	3.0	1	18	The provided context does not include any information or instructions to generate a sentence with 11 proper nouns, therefore I cannot generate the requested sentence.	11
+31	0	1	1	6	1	4	1	1	10	3	0	1	0	1	1	2	0	4.0	1	14	We've booked Italy tickets this week for departing Houston on Saturday morning from Denver/Houston to Milan/Rome and returning on Tuesday evening from Rome to Houston.	11
+29	0	1	3	5	1	2	1	1	9	3	2	1	0	1	1	2	0	5.0	1	10	We've booked Italy tickets this week for departing Houston on Friday, May 24 to Rome and returning on Sunday, June 9 from Rome to Houston.	11
+31	0	1	3	6	1	1	1	0	12	3	2	1	0	1	1	2	0	5.0	1	11	We've booked Italy tickets for departing San Antonio on Friday, October 24 to Florence and returning from Florence on Sunday, December 14 from Florence to San Antonio.	11
+21	1	1	1	1	0	4	1	3	0	3	1	2	2	2	2	2	0	4.0	2	11	I'll be unable to generate a sentence with 11 proper nouns as the instruction specifically mentions a solved example.	11
+13	0	0	1	2	0	3	0	3	0	1	0	1	1	0	1	0	0	3.0	0	4	The question is not answerable within the context of the given instruction.	11
+32	1	1	1	6	0	6	2	4	3	2	0	2	4	1	2	1	0	4.0	1	16	The city of San Diego has hosted international dance events in many of its venues throughout the city since it was first settled in the early years of the American West.	11
+17	0	1	1	1	0	3	1	2	0	1	1	2	3	2	2	1	0	4.0	2	11	I am unable to generate a sentence with 11 proper nouns as the instruction is ambiguous.	11
+15	0	0	1	1	0	3	2	2	0	2	1	1	1	1	2	2	0	5.0	1	4	I cannot generate a sentence that satisfies the condition with 11 proper nouns.	11
+18	1	0	2	0	0	3	1	3	0	4	0	2	0	0	2	2	0	3.0	0	8	The provided context does not mention the task, therefore I cannot generate the requested sentence.	11
+30	0	0	3	3	3	10	0	1	1	3	1	1	4	1	1	2	0	6.0	1	7	The COVID-19 pandemic will affect many lives, forcing large changes in travel patterns and leading to widespread disruptions and rescheduling of international flights and road trips.	11
+17	0	1	2	0	0	2	2	1	0	3	1	1	2	3	2	2	0	5.0	3	6	I'm not able to provide a sentence that contains 11 proper nouns, as requested.	11
+25	1	0	2	1	0	5	1	3	0	4	1	2	2	1	2	3	0	3.0	1	16	This context does not provide sufficient information to generate a sentence with 11 proper nouns, so I cannot generate the requested sentence.	11
+16	1	0	1	1	0	3	2	2	0	2	1	1	1	1	2	2	0	5.0	1	4	I cannot generate a sentence with 11 proper nouns that accurately completes the instruction.	11
+40	0	1	4	5	1	3	2	2	11	5	2	2	0	1	2	3	0	6.0	1	12	I have generated the following sentence: We've booked Italy tickets this week for departing Houston on Friday, May 24 to Newark/Rome and returning on Sunday, June 9 from Rome to Newark/Houston.	11
+33	0	1	3	5	1	2	1	1	11	3	2	1	2	1	1	2	0	5.0	1	12	We've booked Italy tickets this week for departing New York City on Friday, May 24 to Rome and returning on Sunday, June 9 from Rome to New York City.	11
+24	0	0	2	1	1	7	3	3	0	3	0	1	2	2	3	3	0	8.0	2	5	I'm a computer science major, but I lack the necessary funds to complete any tasks that require significant sums of money.	11
+14	0	0	1	1	0	3	2	3	0	2	0	1	0	1	2	2	0	5.0	1	3	I cannot generate a sentence that meets the parameters of the task.	11
+22	0	1	2	1	0	5	2	3	0	3	1	2	1	2	3	2	0	5.0	2	17	I cannot generate a sentence with 11 proper nouns that follows the instruction, as no task description was provided.	11
+25	0	2	2	2	0	4	3	2	0	2	1	3	3	2	3	1	0	4.0	2	15	I'm sorry, as I can't generate a sentence with 11 proper nouns about your prompt since no such instructions were provided.	11
+22	0	2	1	1	0	3	2	1	0	2	1	3	4	3	2	2	0	5.0	3	10	I haven't been able to generate a sentence with 11 proper nouns because I'm incapable of generating creative content.	11
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I have no task.	11
+20	0	1	2	1	0	3	1	3	0	2	1	2	2	1	2	2	0	3.0	1	14	I can not generate a complete sentence with 11 proper nouns, as the context does not provide any.	11
+17	0	0	1	1	0	2	2	2	0	2	1	2	3	2	2	1	0	4.0	2	8	I'm afraid I am unable to generate a sentence with the required 11 proper nouns.	11
+22	0	1	1	1	1	5	1	2	0	2	2	2	2	1	2	2	0	4.0	1	12	I cannot generate a sentence with 11 proper nouns as the context does not specify 11 distinct entities or individuals.	11
+33	0	1	3	5	1	2	1	1	11	3	2	1	0	1	1	2	0	5.0	1	12	I've booked Italy tickets this week for departing Houston on Friday, May 24 to Newark/Rome and returning on Sunday, June 9 from Rome to Newark/Houston.	11
+17	0	1	1	1	0	3	1	2	0	2	1	2	2	1	2	1	0	3.0	1	12	I cannot generate a sentence with 11 proper nouns as no further context was provided.	11
+18	1	0	1	1	0	3	2	2	0	2	1	1	2	2	2	2	0	5.0	2	6	I'm not able to generate a sentence with 11 proper nouns that perfectly matches the instruction.	11
+27	1	1	2	2	0	5	2	4	0	4	1	2	1	1	2	3	0	5.0	1	19	I haven't found any information in the prompt about writing a sentence with 11 proper nouns, so I cannot generate the requested sentence.	11
+34	0	1	1	2	1	8	2	6	0	4	1	2	3	3	3	3	0	7.0	3	10	I cannot generate a sentence with 11 proper nouns that comply with the instruction as the task description does not provide any context or other relevant detail to generate such a sentence.	11
+20	0	1	1	1	0	3	3	2	0	4	1	1	1	2	2	3	0	4.0	2	6	I cannot generate the requested sentence as it asks me to generate a sentence with 11 proper nouns.	11
+29	0	1	3	5	1	2	1	1	9	3	2	1	0	1	1	2	0	5.0	1	10	We've booked Italy tickets this week for departing Houston on Friday, May 24 to Rome and returning on Sunday, June 9 from Rome to Houston.	11
+21	0	1	1	2	0	4	1	3	0	3	1	2	2	1	2	1	0	4.0	1	9	The question cannot be answered as it requires the insertion of ten additional proper nouns beyond the given context.	11
+17	0	1	1	1	0	2	2	2	0	3	0	3	1	2	2	1	0	4.0	2	9	I'm unable generate the requested sentence as it cannot be derived from the context.	11
+32	0	1	1	2	1	7	2	4	0	3	2	2	5	2	3	3	0	9.0	2	8	I cannot generate a sentence with 11 proper nouns that fits the instructions as the context does not provide any necessary details or specific entities related to 11 proper nouns.	11
+29	1	1	2	2	0	4	4	3	0	4	1	4	1	2	4	2	0	5.0	2	21	I have not been provided with any context that indicates that I should generate a sentence with 11 proper nouns, so I cannot fulfill the request.	11
+23	0	0	1	2	0	4	1	4	0	4	1	1	2	3	1	3	0	6.0	3	7	I am unable to generate the requested sentence due to the context not providing any 11 proper nouns to fill the blanks.	11
+29	0	1	3	5	0	2	1	1	10	2	2	1	0	1	1	2	0	4.0	1	17	We've booked Italy tickets this week for departing Houston on Friday, May 24 to Rome on Sunday, June 9 from Rome to Newark/Houston.	11
+17	0	1	1	1	0	2	2	2	0	3	0	2	1	1	2	1	0	3.0	1	8	I cannot generate the requested sentence as it is not related to the provided task.	11
+25	1	0	2	0	1	4	3	4	0	4	0	3	0	2	3	3	0	5.0	2	15	I haven't been given any context to indicate a task or a request, so I cannot generate the sentence you requested.	11
+28	0	1	2	1	0	5	2	5	0	4	0	2	2	4	3	3	0	6.0	4	16	I'm not able to generate a sentence that meets the instructions of the task, as the context does not provide any proper nouns to populate.	11
+17	0	1	1	1	0	3	1	2	0	2	1	2	2	2	2	1	0	4.0	2	11	I am unable to generate a sentence with 11 proper nouns as no instructions were provided.	11

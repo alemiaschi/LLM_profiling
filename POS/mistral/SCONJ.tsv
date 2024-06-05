@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	SCONJ_constraint
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The dog is brown.	0
+6	1	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The red ball bounces high.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+12	1	1	1	0	0	2	1	2	0	3	0	1	0	1	1	2	0	3.0	1	4	I am currently writing a sentence without using any subordinating conjunctions.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+8	0	0	1	1	0	2	1	2	0	1	0	0	0	0	1	0	0	2.0	0	5	I walk in the park every day.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chases the cat.	0
+4	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She sings beautifully.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	2	The sun rises every day.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+5	1	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	1.0	0	2	I speak French fluently.	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun sets.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumps on the mat.	0
+9	0	0	1	1	0	2	1	1	0	2	0	0	0	1	1	1	0	2.0	1	6	I read the book from cover to cover.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	4	She baked a cake from scratch.	0
+7	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	3	I am writing this message now.	0
+10	0	0	1	1	0	3	1	2	0	1	0	1	0	0	1	1	0	2.0	0	6	I am writing this sentence with no subordinating conjunctions.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the horizon.	0
+8	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	I will go to the store now.	0
+5	1	0	1	0	0	0	1	0	1	1	0	0	0	0	1	1	0	1.0	0	2	I speak French fluently.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	I ate an apple.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises over the mountain.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	All tasks are complete.	0
+6	0	0	1	1	0	1	1	0	0	2	0	0	0	1	1	0	0	3.0	1	2	I love traveling in nature.	0
+3	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	1	She smiles.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The dog barks loudly.	0
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	John runs in the park.	0
+8	0	0	1	0	0	2	1	1	0	1	0	1	1	0	1	1	0	2.0	0	4	I will read a new book today.	0
+5	1	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	2.0	0	1	Red balls bounce high.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	She reads a book.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	I drink water.	0
+9	0	0	1	1	0	2	1	2	0	2	0	0	0	1	2	0	0	3.0	1	3	I saw the ball roll down the hill.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	1	0	3.0	0	2	I read a book for pleasure.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets over the horizon.	0
+6	0	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	3	I walk in the park.	0
+4	0	0	1	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1.0	0	1	You eat breakfast.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+8	0	0	1	1	0	2	1	1	0	1	0	1	0	0	1	1	0	3.0	0	2	I will drink a cup of coffee.	0
+5	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	2	I run every day.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	1	0	0	1	1	0	0	0	1	1	0	2.0	0	4	I eat lunch at 12:00 pm.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun sets behind the mountains.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun rises in the east.	0
+7	0	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She reads every morning before sunrise.	0
+13	0	1	2	1	0	1	2	1	0	2	0	1	1	1	2	0	1	3.0	2	3	Though it was late, I decided to go for a walk.	1
+14	0	1	2	1	0	1	3	0	0	2	0	3	1	1	2	0	1	3.0	2	4	Though it may be difficult, we should continue working towards our goals.	1
+9	1	1	2	0	0	0	2	0	0	2	0	1	0	0	2	0	1	2.0	1	4	If it rains, we'll stay home.	1
+14	1	1	2	0	0	2	2	1	0	2	0	3	0	0	2	2	1	3.0	1	8	If I had known the answer earlier, I could have saved time.	1
+14	1	1	2	1	0	2	2	1	0	3	0	0	0	1	2	1	1	3.0	2	4	Though it rained heavily, we managed to finish the project on time.	1
+13	1	1	2	1	0	1	2	1	0	2	0	2	0	0	2	0	1	2.0	1	5	Although it is raining, we'll still go for a walk.	1
+9	1	1	2	0	0	0	2	0	0	2	0	1	0	0	2	0	1	2.0	1	4	If it rains, we'll stay home.	1
+15	2	1	2	1	0	1	2	1	0	3	0	1	0	1	2	0	1	3.0	2	4	Although it was raining heavily, we went outside to dance in the puddles.	1
+14	2	1	2	1	0	1	3	0	0	1	0	2	1	0	2	1	1	3.0	1	5	Even if I were rich, I would still help those in need.	1
+13	1	1	2	0	0	0	3	0	0	2	0	3	0	0	2	1	1	2.0	1	6	Even if I had known, I couldn't have stopped him.	1
+15	0	1	2	0	0	2	2	1	0	2	0	3	2	0	2	2	1	3.0	1	8	If I had known the secret recipe, I would have baked delicious cakes.	1
+11	0	1	2	0	0	2	2	1	0	2	0	1	0	0	2	1	1	2.0	1	5	If it rains tomorrow, I will bring an umbrella.	1
+13	1	1	2	0	0	1	2	1	0	3	0	1	0	1	2	1	1	3.0	2	4	Although it's raining, I still prefer to take the bus.	1
+13	0	1	2	1	0	1	2	1	0	3	0	1	0	1	2	0	1	3.0	2	3	Though it might rain, we plan to hike in the mountains.	1
+18	2	1	2	2	0	2	2	2	0	2	0	1	1	1	2	0	1	3.0	2	6	Even if I'm late, I need to stop by the store on the way home.	1
+13	2	1	2	1	0	1	2	1	0	2	0	1	0	0	2	0	1	2.0	1	5	Even if it rains, we will still go for a picnic.	1
+11	1	1	2	0	0	0	2	0	0	3	0	1	0	1	2	0	1	2.0	2	4	Though it's raining, we still plan to hike.	1
+15	1	1	2	1	0	2	2	2	0	2	0	1	0	0	2	1	1	2.0	1	5	Even if I try, I can't finish the project by the deadline.	1
+13	0	1	2	1	0	1	2	1	0	3	0	1	0	1	2	0	1	3.0	2	3	Although it was raining, we decided to go for a walk.	1
+10	0	1	2	1	0	1	2	0	0	2	0	1	0	0	2	0	1	2.0	1	4	If it rains, we will stay at home.	1
+10	0	1	2	1	0	1	2	0	0	2	0	1	0	0	2	0	1	2.0	1	4	If it rains, I will stay at home.	1
+14	2	1	2	0	0	1	2	1	0	3	0	1	0	1	2	1	1	3.0	2	6	Even if I win the lottery, I will continue to work hard.	1
+12	1	1	2	1	0	2	1	2	0	2	0	0	0	0	1	1	1	3.0	1	5	After finishing the assignment, she went outside for a walk.	1
+14	1	1	2	0	0	2	2	2	0	2	0	1	0	0	2	2	1	3.0	1	7	Even if I had the chance, I wouldn't accept the offer.	1
+11	0	1	2	1	0	1	2	1	0	2	0	1	0	0	2	0	1	2.0	1	3	Although it was raining, I went for a walk.	1
+13	2	1	2	0	0	1	2	1	0	2	0	1	0	0	2	1	1	2.0	1	6	Even if I try harder, I may not win the race.	1
+15	1	1	2	0	0	1	3	1	0	2	0	3	0	0	2	2	1	3.0	1	8	Even if I had known the answer, I wouldn't have told you.	1
+13	1	1	2	1	0	1	2	1	0	2	0	2	0	0	2	0	1	2.0	1	5	Although it may rain, we will still go for a picnic.	1
+11	0	1	2	1	0	2	2	0	0	2	0	1	0	0	2	0	1	2.0	1	5	If it rains tomorrow, I will stay at home.	1
+18	0	1	2	1	0	3	2	1	0	2	0	2	3	0	2	2	2	3.0	2	6	Though it might be challenging, learning a new language provides countless benefits throughout one's life.	1
+10	0	1	2	0	0	1	2	1	0	2	0	1	0	0	2	1	1	2.0	1	4	If it rains, I will carry an umbrella.	1
+11	0	1	2	0	0	1	2	1	0	1	0	2	1	0	2	1	1	2.0	1	4	Although it's late, I must finish this report.	1
+16	1	1	2	1	0	2	3	1	0	2	0	2	0	0	2	2	1	3.0	1	10	Though I've studied this subject for weeks, I still don't understand it.	1
+14	0	1	1	1	0	2	3	2	0	2	0	1	1	1	2	2	0	3.0	1	5	I will finish the project if you provide me with the necessary resources.	1
+10	0	1	2	1	0	1	2	0	0	2	0	1	0	0	2	0	1	2.0	1	4	If it rains, we will stay at home.	1
+11	0	1	2	0	0	2	2	1	0	2	0	1	0	0	2	1	1	2.0	1	5	If it rains tomorrow, I'll bring an umbrella.	1
+11	0	1	2	1	0	1	2	1	0	2	0	1	0	0	2	0	1	2.0	1	3	Although it was raining, I went for a walk.	1
+15	0	1	2	1	0	2	2	2	0	3	0	1	0	1	2	1	1	4.0	2	3	Though it may rain, we plan to have a picnic in the park.	1
+13	2	1	2	1	0	1	2	1	0	2	0	1	0	0	2	0	1	2.0	1	5	Even if it rains, we will still go on the hike.	1
+13	1	1	2	1	0	1	2	0	1	3	0	0	0	1	2	1	1	3.0	2	4	Even if I have time, I prefer to relax on Sundays.	1
+10	0	1	2	1	0	1	2	0	0	2	0	1	0	0	2	0	1	2.0	1	4	If it rains, I will stay at home.	1
+17	1	2	2	1	0	1	3	1	0	2	0	3	1	1	3	0	1	3.0	2	8	Although I have studied for the exam, I'm still unsure if I'll pass.	1
+11	0	1	2	0	0	2	2	1	0	2	0	1	0	0	2	1	1	2.0	1	5	If it rains tomorrow, I will take an umbrella.	1
+14	0	1	2	1	0	2	2	2	0	1	0	1	2	0	2	1	1	3.0	1	3	Though she was tired, she finished the last chapter of the book.	1
+11	0	1	2	1	0	2	2	0	0	2	0	1	0	0	2	0	1	2.0	1	5	If it rains tomorrow, I will stay at home.	1
+14	0	1	2	0	0	2	2	1	0	3	0	0	2	1	2	1	1	3.0	2	4	Though it seemed easy, I found the math problem difficult to solve.	1
+13	0	1	2	1	0	2	2	1	0	2	0	1	0	0	2	0	1	2.0	1	6	If it rains tomorrow, I won't go for a picnic.	1
+16	1	1	2	1	0	3	2	1	0	2	0	1	1	0	2	2	1	3.0	1	7	Even if I have enough time, I cannot complete this project by tomorrow.	1
+18	1	1	2	0	0	2	2	2	0	2	0	2	2	1	2	2	1	3.0	2	8	Even if I have enough time, I won't be able to finish all the tasks.	1
+10	0	1	2	1	0	1	2	0	0	2	0	1	0	0	2	0	1	2.0	1	4	If it rains, we'll stay at home.	1
+16	1	1	2	0	1	2	2	2	0	2	0	2	1	0	3	1	1	4.0	1	10	If she studied hard and the weather was good, she would pass the exam.	2
+19	1	2	2	2	0	3	2	2	0	4	0	0	0	2	3	0	1	4.0	3	7	Though it rained heavily, we decided to go on the hike if the weather improved by noon.	2
+19	0	1	3	1	1	2	3	2	0	3	0	2	0	0	3	1	1	3.0	1	10	If she didn't have a fever, but he did, they would go to the movie.	2
+19	2	2	2	0	0	2	3	1	0	3	0	3	0	1	3	1	1	3.0	2	6	Although it was raining heavily, she couldn't go home until her boss had finished the meeting.	2
+17	0	2	3	1	0	1	3	0	0	2	0	2	2	1	3	0	2	3.0	3	8	Though it was late, because I was tired, I decided to go to bed.	2
+15	1	2	2	0	0	1	2	1	0	4	0	2	0	2	3	0	1	3.0	3	6	Even if it rains, they will go hiking unless the mountains are closed.	2
+22	3	2	2	0	0	3	4	1	0	5	0	1	0	2	2	3	2	4.0	4	12	If he failed the test despite studying hard, then his brother may still persuade him to continue pursuing his dreams.	2
+19	1	1	2	2	0	3	2	2	0	3	0	2	1	1	2	1	1	5.0	2	5	Although it was raining heavily, I could hear the faint sound of birds chirping in the distance.	2
+22	2	2	3	1	0	3	3	3	0	3	0	1	0	0	3	2	2	3.0	2	16	Although he studied late into the night, because he hadn't finished the assignment, he still failed the test.	2
+20	0	1	2	1	1	3	5	1	0	3	0	1	1	1	2	3	0	4.0	1	7	Though I had finished my project, yet my boss asked me to present it to the executive team.	2
+30	0	2	5	1	0	4	8	1	0	4	0	3	1	1	4	4	2	4.0	3	14	If she knew the answer, despite her efforts to conceal it, he would be furious; once he discovered her deception, his wrath would consume her.	2
+22	1	2	2	1	0	3	4	2	0	4	0	2	0	2	3	2	1	4.0	3	9	Though it was raining heavily, she decided to take a walk in the park because she had forgotten her umbrella.	2
+24	1	3	3	0	1	1	4	1	0	3	0	5	2	0	4	1	2	4.0	2	16	If I had known that you were tired, and if we had arrived earlier, we could have made a longer hike.	2
+17	4	1	3	2	0	0	3	0	0	3	0	1	0	0	3	0	2	4.0	2	14	Regardless of how early I wake up, if it rains, I'll stay home.	2
+14	1	1	2	1	0	1	2	0	0	3	0	1	1	1	2	1	1	3.0	2	4	Though it might rain, I still hope to finish gardening before dark.	2
+30	4	3	3	1	1	5	3	3	0	3	0	3	0	1	4	1	1	4.0	2	18	Even if you study late into the night, and even though the quiz is tomorrow morning, you still might fail if you don't understand the material.	2
+21	1	2	3	1	0	2	3	2	0	3	0	2	1	0	3	1	2	4.0	2	12	Though it was raining heavily, because she hadn't brought an umbrella, she stood in the open doorway.	2
+15	1	1	2	2	0	2	2	1	0	2	0	1	0	0	2	1	1	2.0	1	6	Though it rained heavily, I couldn't finish the painting until after midnight.	2
+17	1	1	2	1	0	2	2	2	0	3	0	2	0	1	2	1	1	3.0	2	5	Although it might be raining heavily, he decided to take a walk in the park.	2
+17	2	2	2	0	0	2	3	2	0	3	0	1	0	1	3	1	1	3.0	2	6	Even if you study all day, you will fail the exam unless you practice regularly.	2
+31	1	2	3	2	0	4	5	3	0	5	0	3	1	3	4	2	1	7.0	4	8	Though it was raining heavily, I continued my hike, because I did not wish to waste the expensive tickets I had purchased for the event at the summit.	2
+22	0	2	3	2	1	3	3	2	0	3	0	2	0	0	3	2	1	4.0	1	15	If he fails the exam, and if he doesn't get a scholarship, he will drop out of college.	2
+22	2	1	3	1	0	3	3	2	0	3	0	2	1	0	3	2	1	3.0	1	6	Though it was raining heavily, I didn't have an umbrella, so I took shelter under the nearest tree.	2
+22	2	2	3	0	0	3	3	1	0	2	0	3	2	0	3	1	2	3.0	2	15	If he failed the exam, although his parents wouldn't be pleased, he would still try again next year.	2
+21	3	2	3	1	0	2	4	1	0	2	0	2	1	0	3	1	2	3.0	2	15	If she wins the race, even if her sister finishes first, I'll still be proud of her.	2
+18	1	2	3	0	0	1	4	1	0	3	0	2	1	0	3	3	2	2.0	2	12	If she studied harder, even though he discouraged her, she would have passed the exam.	2
+26	1	2	3	2	0	3	3	4	0	3	0	3	1	0	3	1	2	3.0	2	18	If I had known about the storm, even though I had all the necessary equipment, I would not have gone on the hike.	2
+30	0	2	3	1	1	1	7	1	0	4	0	6	1	3	5	2	0	4.0	3	24	I would not have eaten the cake if I had known you were allergic to it, but since you didn't tell me, I couldn't resist.	2
+17	2	2	3	0	0	1	2	1	0	3	0	1	1	1	3	0	2	3.0	3	10	Although it rained heavily, because the road was slippery, I decided to stay home.	2
+19	3	2	3	0	0	1	4	1	0	3	0	1	1	0	3	2	2	2.0	2	13	If he studied harder, even though she encouraged him daily, he still might fail the exam.	2
+21	1	2	3	2	0	2	3	2	0	3	0	2	0	0	3	0	2	3.0	2	15	Although she hadn't studied for the exam, if she focused on each question, she might still pass.	2
+20	3	1	3	0	1	2	3	0	0	3	0	2	1	0	3	1	1	3.0	1	15	Even if you study hard, yet you don't attend classes regularly, your academic performance may suffer.	2
+19	2	2	3	1	0	2	3	1	0	3	1	1	0	0	3	1	2	4.0	2	15	Although she studied hard, if she missed even one question on the test, she would fail.	2
+18	0	1	2	1	1	2	2	2	0	3	0	2	1	1	3	0	1	4.0	2	8	Although it was raining and the roads were slippery, I decided to go for a walk.	2
+19	1	1	2	0	1	2	3	1	0	3	0	3	1	1	3	1	1	3.0	2	8	If he fails the exam, his parents will be disappointment and he will regret not trying harder.	2
+21	1	2	3	1	0	4	3	2	0	2	0	2	1	0	3	2	2	3.0	2	17	If she fails the test, then if she has no backup plan, she'll be in deep trouble.	2
+26	2	3	3	1	0	2	5	0	0	4	0	2	2	3	3	3	1	5.0	4	7	Even if I were rich, I would still help those in need, for it brings me greater joy to give than to receive.	2
+16	1	1	2	1	0	2	2	2	0	3	0	2	0	1	3	0	1	3.0	2	5	Though it was raining heavily, I could hear the thunder rumbling in the distance.	2
+18	0	2	3	1	0	2	5	1	0	3	0	1	0	0	3	2	2	3.0	2	10	After I finish my work, if it rains, I'll take an umbrella with me.	2
+17	1	2	3	0	0	2	3	1	0	3	0	2	0	0	3	2	2	2.0	2	10	Although it may rain, if we go hiking, we would better bring an umbrella.	2
+16	0	1	2	1	1	2	1	2	0	3	0	1	2	0	2	0	2	3.0	2	5	Though it had stopped raining, the road remained slick and dangerous after the flooding.	2
+18	0	2	2	2	0	2	2	2	0	4	0	1	0	2	3	0	1	4.0	3	7	Although it might rain, we plan to go for a picnic if the sun comes out.	2
+23	1	1	3	2	1	3	3	1	0	2	0	3	2	1	3	2	1	5.0	2	9	If she fails this test, her scholarship might be at risk, but she is determined to study harder than ever.	2
+19	1	2	2	0	0	2	4	1	0	3	0	2	1	2	4	1	1	4.0	3	6	Though I have not seen him today, I believe he arrived early because the traffic was heavy.	2
+18	3	2	3	0	0	2	2	1	0	3	0	2	0	0	3	0	2	3.0	2	13	Even if she studied hard, unless the test questions were clearly written, she might fail.	2
+25	1	2	2	2	0	4	3	3	0	6	0	0	1	4	4	1	1	4.0	5	7	Though it rained heavily throughout the day, he continued working in the field because he knew the crops needed more water to thrive.	2
+18	0	2	2	1	0	2	3	1	0	4	0	2	0	2	3	1	1	3.0	3	7	Although it was raining, she went to the market because she had forgotten to buy bread.	2
+26	1	2	5	1	0	3	8	0	0	4	0	2	0	1	4	4	1	3.0	2	14	If she forgets her keys, I will drive her to work; however, if she remembers them, we can take her car.	2
+21	0	2	2	3	0	4	3	3	0	3	0	1	0	1	3	1	1	4.0	2	7	Though it was raining, she went for a walk because she loved the sound of raindrops on the pavement.	2
+23	1	2	3	0	1	4	3	2	0	5	0	1	0	1	3	2	3	4.0	4	11	Although it is raining, the children insisting on playing outside, their mother decides to give them raincoats and an umbrella.	2
+31	2	2	4	2	1	2	5	1	0	4	0	6	0	1	4	1	1	3.0	2	16	If he hadn't waited for her, she might not have arrived on time, but even if he had left earlier, the traffic could have delayed him.	3
+33	3	2	3	1	1	3	8	1	0	5	0	3	0	1	4	4	2	4.0	3	21	If she didn't believe in herself, although he supported her wholeheartedly and even her parents encouraged her, she still wouldn't have had the confidence to pursue her dreams.	3
+28	2	3	4	1	1	3	4	1	0	4	0	2	3	2	4	1	1	4.0	3	13	Though it might seem simple initially, yet after careful consideration, I believe that unless we follow the proper procedures, our plan could potentially fail.	3
+28	2	2	4	3	1	3	3	3	0	3	1	3	0	0	4	0	1	3.0	1	16	Even if it rains, I would study in the park, unless the temperature is below zero, and then I would go to the library.	3
+29	4	2	4	0	1	1	5	0	0	4	0	6	1	0	4	1	2	5.0	2	22	Though it might have rained earlier, if we had remembered our umbrellas, and had we left earlier as well, we would not have gotten wet.	3
+29	3	2	3	2	1	4	4	2	0	4	0	3	0	0	4	1	2	5.0	2	17	Though it may rain, as long as we leave early and the winds do not intensify, we can make it to the baseball game on time.	3
+33	0	4	4	0	0	4	3	3	0	2	0	8	4	1	5	1	3	5.0	4	21	Though it may have rained last night, because the streets were wet, until we could check the forecast, we couldn't be sure if an umbrella would be necessary.	3
+32	2	2	4	2	1	4	5	2	0	3	0	4	2	1	4	1	1	4.0	2	18	If she were taller, then he might notice her in the crowd, but because the microphone isn't working properly, her speech would go unheard despite her height.	3
+27	3	3	4	1	0	1	5	1	0	3	0	4	1	0	4	1	3	3.0	3	19	Even if he had studied hard, although she was pleased with him, because it was raining heavily, he could not pass the exam.	3
+25	0	3	4	2	0	1	6	1	0	3	0	4	1	0	4	2	3	3.0	3	20	If she studied for the test, although she was sick, because she had put it off, she might have passed it.	3
+27	2	2	4	1	1	3	3	2	0	3	0	3	2	0	4	1	2	5.0	2	19	Even if it rains, though the bridge is old, and we don't have enough food, we will still go on the hike.	3
+26	3	1	4	0	1	2	3	2	0	5	0	3	0	1	4	1	1	3.0	2	12	Although it was raining heavily, he didn't have an umbrella, and the puddles were overflowing, I still had to walk home.	3
+23	2	3	4	0	0	2	5	2	0	4	0	1	0	0	4	2	3	3.0	3	18	Even if she studied all night, although he helped her, until she passed the test, she might still fail.	3
+25	1	3	4	1	0	2	5	1	0	4	0	3	0	0	4	1	3	3.0	3	21	If she failed the test, although I believe in her abilities, because she had not studied enough, he would be disappointed.	3
+38	3	4	2	1	0	3	6	2	0	6	0	7	1	4	4	2	2	6.0	6	8	Although it might have been wiser to prepare earlier, I would have waited for the rain to stop before going outside if I hadn't promised her that I would fix the fence that very day.	3
+36	2	2	4	2	0	2	7	1	0	2	0	8	3	0	4	1	4	4.0	4	30	Although it may have seemed odd to them, had she not been truthful with her friends, because they were always there to support her, her life would not have been the same.	3
+36	2	2	4	1	1	3	5	1	0	5	0	6	1	1	4	2	3	4.0	4	25	If she were to leave early, and he didn't finish his work on time, although we had planned to meet, we wouldn't have been able to spend the evening together.	3
+39	1	3	4	3	1	6	4	4	0	6	0	6	1	0	5	2	3	5.0	3	28	Although it may have seemed odd to him, because the clock had stopped and stars filled the sky, if he had remained in the forest longer, he would have encountered a group of lost travelers.	3
+21	2	3	4	0	0	1	4	1	0	4	0	2	0	0	4	1	3	2.0	3	14	Even if it rains, though we were prepared, unless we leave early, we might miss the concert.	3
+26	1	3	4	1	0	2	4	1	0	3	0	5	1	0	4	0	3	2.0	3	17	Although he was tired, because it was raining, if I had known earlier, he would not have gone for a bike ride.	3
+25	1	3	4	0	1	2	4	1	0	2	0	3	4	0	4	2	2	4.0	2	17	If she were taller, if he were more experienced, and if they had more time, they would make a formidable team.	3
+27	2	2	4	1	1	3	3	2	0	3	0	3	2	0	3	1	2	4.0	2	18	Although it might have rained earlier, if the sun had not suddenly emerged, and despite his initial objections, he attended the outdoor concert.	3
+26	1	3	4	2	0	5	1	4	0	5	0	1	0	1	4	1	3	4.0	4	17	Though it was raining heavily, because the trees needed water, until the sky cleared up, the children continued playing in the park.	3
+28	1	3	4	0	0	3	4	2	0	4	0	4	2	1	4	2	3	4.0	4	19	Though it was raining heavily, because the roads were flooded, unless we found an alternative route, we would be unable to reach our destination.	3
+25	0	3	4	1	1	3	3	2	0	2	0	3	3	0	4	1	2	4.0	2	17	If she were taller, if she had more experience, and if the economy were better, she would apply for the job.	3
+27	1	2	3	1	1	3	3	2	0	4	0	3	2	1	4	1	3	5.0	4	16	Although she was late, because the traffic was heavy and it had started to rain, she still managed to reach the office on time.	3
+24	0	3	4	1	1	2	3	2	0	1	0	4	3	0	4	0	2	4.0	2	16	If he were rich, if she were happy, and if the weather were fine, they would go on a trip.	3
+26	1	3	4	0	1	1	4	1	0	2	0	6	3	0	4	1	2	3.0	2	19	If she were taller, if she had studied harder, and if she had been more confident, she would have gotten the job.	3
+31	3	3	4	1	0	4	4	5	0	3	0	2	1	0	4	1	3	3.0	3	27	Although she studied every night before the exam, because she hadn't learned the material quickly enough, since it was such a challenging subject, she still failed.	3
+43	3	5	4	4	1	5	6	3	0	6	0	5	0	1	5	2	4	5.0	5	28	If he had known that she wouldn't arrive until later, although the train was early, and his boss insisted on meeting him before noon, he would have taken a cab instead of waiting for her at the station.	3
+24	0	3	4	0	0	2	5	1	0	3	0	4	1	0	4	2	3	3.0	3	17	Although she was cold, because it was raining, if she had remembered her umbrella, she would not havecatched a cold.	3
+31	1	2	4	3	0	5	3	3	0	4	0	2	1	1	3	0	3	4.0	4	18	Though it was raining, because the children were eager to play outside, despite their mother's warnings, they decided to go to the picnic in the park.	3
+44	8	2	5	1	2	4	4	3	0	5	0	7	1	1	5	2	1	4.0	2	18	If she would have eaten earlier, then perhaps she wouldn't have felt so hungry during the movie, but if the theater allowed food inside, she could have bought a snack there, yet she had decided to fast beforehand.	3
+30	2	2	4	1	1	2	6	1	0	5	0	3	1	0	4	3	3	4.0	3	22	Even if she had studied harder, although he had promised to help, but she didn't tell him about her struggles, she still failed the exam.	3
+30	3	3	4	1	1	1	4	0	0	5	0	6	1	0	4	0	4	4.0	4	24	Although it may have seemed unnecessary, because she had already arrived late, yet if she failed to ask for directions, she would have been hopelessly lost.	3
+26	1	3	4	0	0	3	4	3	0	4	0	2	1	0	4	3	3	3.0	3	20	If they forgot the keys, though we had an extra one, because it was raining heavily, we couldn't enter the house.	3
+34	0	3	6	0	0	3	11	0	0	6	0	2	2	3	6	5	1	5.0	4	11	If she were richer, he might love her more; although he admires her honesty, he dislikes her bluntness; once she confessed her feeling, he refused to acknowledge them.	3
+43	5	4	4	3	1	4	6	3	0	6	0	3	2	0	4	3	4	5.0	4	36	Although it may seem impossible for him to finish the project on time, as long as he focuses and works diligently late into the night, if he doesn't encounter any unforeseen obstacles, he might just pull it off.	3
+34	3	3	5	0	2	4	5	2	0	3	0	4	3	1	5	3	1	5.0	2	21	If I were rich, then perhaps I could buy that mansion, but if it needed extensive repairs, or if the location was undesirable, then I might reconsider my decision.	3
+33	3	2	4	1	2	3	5	1	0	5	0	4	1	2	3	4	0	5.0	2	21	Although he had failed the exam, even if he had studied more, or perhaps had focused better, yet he could not bring himself to regret his lack of effort.	3
+36	2	4	4	1	1	3	5	3	0	4	0	5	3	1	5	2	3	5.0	4	27	Although it might have seemed inconvenient if the rain had stopped, because we were almost late for the train, and unless we hailed a taxi immediately, we were sure to miss it.	3
+26	2	1	4	2	1	3	2	2	0	3	0	1	4	1	2	1	1	4.0	2	12	Although it may appear simple, yet even after extensive research, however, I failed to find a definitive answer for that particular query.	3
+18	1	2	4	0	1	0	4	0	0	2	0	2	0	1	4	0	1	2.0	2	9	 if she won, then he would, but they wouldn't, because they didn't.	3
+28	4	3	4	1	0	0	6	0	0	6	0	3	0	0	4	1	5	4.0	5	23	If she could see him now, even though she felt betrayed, although she had promised never to speak to him again, she would apologize.	3
+23	1	2	3	1	1	0	6	0	0	3	0	3	2	1	3	2	0	3.0	1	16	Though it might have seemed unfair to him, because she hadn't done anything wrong, yet he still punished her.	3
+31	2	3	4	3	0	4	4	3	0	4	0	3	0	0	4	1	3	4.0	3	21	Though it was raining heavily, even if we had an umbrella, because we were trapped in the traffic, we couldn't get to the concert on time.	3
+26	2	3	4	1	0	4	4	1	0	3	0	3	1	0	4	1	3	3.0	3	19	Even if it rains, though we may be late, because we forgot about daylight savings time, we should still attend the picnic.	3
+25	1	2	4	2	1	3	4	2	0	4	0	2	0	0	4	1	2	4.0	2	14	Though it might rain, unless we leave soon, or the traffic worsens, we will make it to the concert on time.	3
+18	1	2	3	1	1	1	2	2	0	2	0	1	2	1	3	0	1	3.0	2	9	Although she studied hard before the exam, yet she was nervous, if the unexpected happened.	3
+28	0	3	4	2	0	4	5	2	0	4	0	3	0	0	4	2	3	3.0	3	18	After I have finished my homework, before I go to bed, if it doesn't rain, I will take a walk in the park.	3
+32	1	4	5	1	1	2	4	0	0	2	0	7	3	0	5	0	3	3.0	3	25	If she were richer, if he weren't older, if they hadn't met earlier, and if circumstances had been different, they would have fallen in love.	4
+30	0	4	5	1	0	4	6	2	0	4	0	3	1	0	5	3	4	3.0	4	22	Although she was tired, because it was pouring rain, if she had an umbrella, after she ate her dinner, she would go for a walk.	4
+58	4	5	9	1	1	5	11	1	0	7	2	7	3	4	9	5	1	5.0	5	48	If she were richer, then he would give her more gifts; because he loves her deeply, if he could, he would always save her time; although he promised to arrive at seven, yet it is eight o'clock now; until we have sufficient funding, the project cannot be completed.	4
+18	2	3	2	1	0	1	3	0	0	2	0	3	0	0	2	1	1	3.0	1	11	Although if before since she had acted differently, he would not have accused her of deceit.	4
+35	2	4	5	2	0	4	3	3	0	3	0	7	1	0	5	0	4	5.0	4	27	Though it had rained heavily, because the road was slippery, since the bridge was out, if we had not stopped for gas, we would have been stranded by the flood.	4
+41	4	4	5	0	2	6	3	6	0	6	0	3	1	3	6	2	0	5.0	3	24	Though I had forgotten the combination, as the alarm blared loudly, if I had not stayed awake late the previous night, and although the door had jammed, the key finally turned and I entered the room.	4
+12	2	2	4	1	1	1	0	1	0	0	0	0	0	0	0	0	0	3.0	0	5	 despite the fact that, though, if, and since.	4
+24	0	4	2	1	0	0	6	1	0	6	0	2	1	1	5	1	4	6.0	5	16	If she knew that he believed that they might fail unless we arrived before dark, she would urge us all to hurry.	4
+32	2	2	3	0	2	3	6	2	0	3	0	6	3	1	6	2	2	4.0	3	20	Even if it were raining and the traffic light was red, though I was late and she was busy, I would still bring her the flowers I had bought.	4
+40	2	3	4	4	0	7	8	3	0	4	0	4	1	0	4	3	3	3.0	3	33	Although I had finished my homework before dinner, because she had reminded me several times throughout the day, if I failed the test despite all my efforts, even then my mother would be disappointed in me.	4
+35	2	3	4	2	0	1	9	2	0	6	0	4	0	0	5	3	5	3.0	5	28	If he knew that she had told them, although I had begged him not to ask, then despite all the anger he felt, he would never have confronted her about it.	4
+44	5	4	4	2	2	7	7	2	0	6	0	4	1	2	6	4	1	4.0	3	23	If I were as rich as he is, she would have accepted my proposal even though she had reservations, but the rain prevented us from going to the park, so eventually we stayed at home and played board games instead.	4
+20	2	3	2	0	0	2	4	1	0	3	0	2	0	1	2	3	1	3.0	2	12	Although before if after we had completed our tasks, then he would allow us to leave the room.	4
+65	2	7	11	1	1	7	15	2	0	8	0	9	2	6	11	5	1	6.0	7	18	If I were a wealthy man, then she would love me; because she values kindness, if I were more generous, my friends would respect me; since honesty is appreciated, if I spoke the truth, I would be admired; and although he is my enemy, if he asked for my help, I would consider it.	4
+30	2	3	5	2	0	3	5	2	0	6	0	1	1	0	5	2	4	3.0	4	23	Although he lacked confidence, because she believed in him, even if it seemed impossible, when the lights went out, he would deliver the winning speech.	4
+37	1	4	5	0	0	4	7	2	0	6	0	3	2	5	5	4	0	5.0	5	21	Though he had not finished his homework; because it was late; even if the teacher extended the deadline; although his friends were urging him to join them, he remained determined to study.	4
+32	1	3	5	4	0	5	4	3	0	4	0	1	1	0	4	1	3	5.0	3	21	Though it was raining, as I stepped out of the car, because the power went out, despite my discomfort, I found the night's stars exceptionally beautiful.	4
+39	3	5	5	1	0	2	8	1	0	9	0	3	0	1	7	1	7	4.0	8	28	Even if she hadn't studied for the exam, although he believed she could pass without preparing, since he offered to lend her notes, until she got there, he assumed she would do well.	4
+25	0	4	4	0	0	2	5	1	0	5	0	2	0	4	4	2	0	6.0	4	6	Though it might rain, because we didn't bring our umbrellas, although we planned to hike, until we reached the campsite.	4
+36	3	2	5	2	0	4	3	4	0	5	0	5	1	0	4	2	4	4.0	4	28	Although it might have seemed easier to simply give up, had I not studied the night before, because the examiner focused on that topic, therefore, I would have failed the test.	4
+10	2	3	1	0	0	1	1	1	0	1	0	0	0	0	1	1	0	2.0	0	6	Although if because she never then finished the project.	4
+9	0	3	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	3	 although, if, because, and as.	4
+39	3	3	5	4	0	5	4	3	0	5	0	5	0	0	4	1	4	5.0	4	31	Though it was raining heavily, because the power went out, if we hadn't gone out earlier, despite our efforts to find a source of light, we would have been stranded in the dark.	4
+50	3	3	8	3	2	3	9	1	0	4	0	9	4	2	7	1	1	6.0	3	18	If she were richer, he might have asked for her hand, but if he knew her past, he would not have been so eager; although it was late, they might have gone out, but because of the heavy rain, they remained indoors.	4
+35	1	2	4	1	1	4	7	1	0	6	0	3	1	3	4	3	1	6.0	4	8	If she hadn't missed the train, he wouldn't have proposed, but her grandmother's sudden illness forced her to stay home, which prevented them from going on their vacation.	4
+43	5	4	4	3	1	2	10	0	0	9	0	2	1	2	4	2	4	7.0	6	28	Though it may often seem unfair, for despite his repeated attempts to change, as long as he continues to lie and deceitfully manipulate those around him, his fate ultimately depends on whether those whom he wronged can forgive him.	4
+24	2	4	4	0	0	1	4	1	0	3	0	3	1	3	4	1	0	3.0	3	17	Even if he were rich, though she loved him, after they had argued, because the sun hadn't risen yet.	4
+33	4	4	4	2	0	5	5	1	0	5	0	3	0	1	4	3	3	4.0	4	19	After I had eaten breakfast, even though it was still raining heavily outside, because she had overslept, her mother left for work without giving her a ride to school.	4
+45	1	5	6	0	2	8	5	6	0	5	0	4	1	0	6	3	3	5.0	3	36	If I were a bird, though I had no wings, or if the sun were not shining, while the river overran its banks, or if the leaves were frozen all year round, I could not sing my sweetest song.	4
+23	1	3	3	2	0	4	4	1	0	3	0	2	0	0	3	1	2	3.0	2	20	Although before during after I finished the assignment, if my cat knocked over my water glass, she would get scolded.	4
+32	1	4	4	2	1	3	7	2	0	5	0	3	0	3	5	2	0	5.0	3	10	Although if she had studied harder before the test, because he would have helped her, since he knew she struggled with the subject, yet she neglected her preparation.	4
+46	3	3	6	3	2	4	8	3	0	5	0	6	2	3	6	3	1	5.0	4	21	If he were rich, then maybe she would have married him; but she had already fallen in love with another man, although he was poor, and if her father knew, he wouldn't let her marry that man at all.	4
+32	1	4	5	1	0	2	6	1	0	6	0	4	1	3	4	3	1	4.0	4	13	Although if he had studied harder, before his exams he would have been prepared, yet since he procrastinated, after taking the test, he regretted not applying himself.	4
+28	2	3	5	1	0	3	6	1	0	5	0	1	0	1	4	2	3	4.0	4	20	Though it was raining heavily, because she forgot her umbrella, although she wore a raincoat, despite her discomfort, she decided to walk home.	4
+32	2	4	5	1	2	5	4	2	0	5	0	1	0	2	5	2	2	5.0	4	13	Although before she arrived, since the electricity was out, till noon we had no light, but after we found candles and matches, we continued to study diligently.	4
+30	2	4	2	2	1	4	3	4	0	6	0	2	0	1	3	2	3	4.0	4	14	Although if because she when having forgotten the keys realizes it's raining, finds a taxi and takes it to the theater instead of walking in the downpour.	4
+26	1	2	4	2	2	1	4	1	0	2	0	3	4	1	3	0	1	3.0	2	11	If she were older, but wealthier, and healthier, then I would believe that she could travel around the world on her own.	4
+41	2	4	4	3	1	6	4	4	0	6	0	4	1	2	6	0	3	5.0	5	14	Though it might rain if the wind were to change, because she was tired, she wished for the sun to rise despite the lack of sleep earlier in the night, yet knowing it could rain again tomorrow.	4
+48	3	6	5	3	1	4	11	2	0	8	0	3	1	0	7	4	6	7.0	6	36	If she knew that he believed in ghosts, although he refused to admit it, even if he denied it repeatedly, and if she suspected that he might be hiding the truth, she would never tell him about her own encounter with the supernatural.	4
+19	2	2	4	1	0	2	4	0	0	3	0	1	0	1	3	1	1	2.0	2	8	Even if it rains, though she might forget, despite his protest, after we finish dinner.	4
+12	2	3	2	0	0	0	2	0	0	1	0	1	1	0	2	0	1	2.0	1	10	Although if because when she arrived, he was already gone.	4
+35	2	3	5	1	1	3	9	0	0	4	0	4	3	2	5	5	1	5.0	3	15	If I were taller, she would notice me more, but even if I gained her attention, he might still prefer her older brother, though she has expressed interest in me.	4
+27	1	3	4	1	1	4	2	3	0	5	0	2	0	3	4	0	0	5.0	3	8	Though it had rained heavily, yet the children were playing in the rain, as their mother watched, until the sun began to set.	4
+12	0	4	2	0	0	1	1	1	0	2	0	0	1	0	2	0	1	2.0	1	9	Although if because before she sang, the audience remained unimpressed.	4
+39	3	3	5	1	1	4	3	4	0	5	0	6	2	3	6	1	2	4.0	5	15	Although it might have rained if the forecast had been correct, yet we decided not to cancel the picnic because the children were excited, but they were devastated when, eventually, the heavens opened up.	4
+21	3	3	2	1	0	1	4	0	0	3	0	4	0	0	3	1	1	3.0	1	10	Although if before after he had arrived they would have welcomed him warmly, he was met with silence instead.	4
+38	4	3	4	3	1	3	7	2	0	5	0	2	3	0	4	2	4	6.0	4	23	Even if it were raining heavily, though she disliked the wetness, as long as he promised to keep her warm and dry, she would go with him on the outing despite her initial reluctance.	4
+44	4	3	7	1	1	2	7	2	0	4	0	9	3	3	6	2	1	5.0	4	18	If she were richer, then he might ask her for a loan; but even if they were married, she still would not have agreed; whereas, had they known each other longer, their misunderstanding could have been resolved.	4
+25	2	4	4	1	0	3	2	3	0	3	0	2	1	3	4	0	0	5.0	3	10	Though it was raining, as we drove faster through the darkness, because the battery was weak, until the car finally stalled.	4
+36	2	3	5	1	1	3	6	0	0	6	0	4	3	3	4	1	0	5.0	3	18	Though it might have seemed unfair, because she had worked longer hours, although her colleagues did not, yet she remained patient and determined, waiting silently for her opportunity to prove herself.	4

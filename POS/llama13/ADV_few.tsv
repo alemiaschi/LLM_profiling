@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	ADV_constraint
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	 the sentence has no adverbs. Here's your next task	0
+11	0	0	3	2	0	0	0	0	3	1	1	1	0	0	1	0	0	2.0	0	7	Einstein was born in Ulm, Germany, in 1879.	0
+12	0	1	0	0	0	3	0	1	0	2	0	2	3	1	2	1	0	3.0	1	6	Several studies have demonstrated that a healthy diet can prevent chronic diseases	0
+12	0	0	2	0	0	4	0	3	0	1	0	1	1	0	2	1	0	2.0	0	6	A   The correct answer is: A purring cat indicates contentment.	0
+4	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1.0	0	3	Mass was always present	0
+5	0	0	0	0	0	3	0	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog tail indicates mood	0
+8	0	0	1	1	0	3	0	0	1	1	0	1	0	0	1	1	0	2.0	0	4	Rumplestiltskin will spin straw into gold tonight.	0
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The snowflakes danced in the wind	0
+7	0	0	1	1	0	2	0	1	0	1	1	0	0	0	0	1	0	2.0	0	5	  Generate a sentence with 0 adverbs. Write only the sentence, without adding further text and without explanations	0
+4	0	0	0	0	0	2	0	0	0	1	0	1	0	0	1	1	0	1.0	0	2	Floods will damage buildings	0
+19	0	0	1	1	0	6	0	2	0	4	0	0	2	1	1	3	1	4.0	2	8	Focused efforts to increase production led the plant to surpass last year's output in a single month. 	0
+8	0	0	0	1	0	2	1	1	0	1	2	0	0	0	1	1	0	3.0	0	3	The company purchased 1,5 million of its shares	0
+12	0	0	1	2	0	4	1	2	0	0	0	1	1	0	1	0	0	3.0	0	4	The iguana is a large lizard with spikes on its body.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred contentedly.	0
+7	0	0	1	0	0	2	0	2	0	1	0	1	0	0	1	1	0	2.0	0	2	A giraffe can kill a lion.	0
+11	0	0	2	1	0	3	0	2	0	1	1	1	0	0	1	0	0	3.0	0	4	The 20-carat diamond was bought at half price. 	0
+10	1	0	1	2	0	3	0	1	0	1	0	0	1	0	1	0	0	3.0	0	4	The penguin huddled closely with other penguins for warmth.	0
+27	2	1	0	3	0	7	0	4	0	3	0	0	6	2	1	2	0	8.0	2	5	A large lizard crossed the road quickly without looking around for possible threats to leave the dry rocky soil for the humid forest full of water bodies	0
+10	0	0	3	1	1	0	0	0	3	1	1	0	0	0	1	1	0	3.0	0	7	"  Escher painted ""Day and Night"" in 1938."	0
+9	1	0	0	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	4	The sun sets quickly at the end of summer	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The snow is white. 	0
+16	0	0	1	2	0	5	0	1	1	2	0	0	3	0	1	2	1	4.0	1	8	In an effort to reach more remote areas, Amazon launched satellite offices in additional cities	0
+9	1	1	0	0	0	1	1	1	0	2	0	0	2	1	2	0	0	2.0	1	3	The icy cold air creaked as I stepped outside	0
+6	0	0	0	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	4	 Einstein wrote about a new concept	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The rain fell gently on the flowers.	0
+10	1	0	2	1	0	3	0	1	0	2	0	0	0	1	1	1	0	3.0	1	4	Snowflakes fell softly, blanketing the ground with silence.	0
+26	1	0	2	2	1	6	2	5	0	5	0	1	0	4	1	3	0	7.0	4	6	The tension of the string is what propels the arrow forward, providing the force needed to pierce through the air and strike its target.	0
+15	0	0	0	2	2	4	0	0	0	1	4	1	1	0	2	0	0	4.0	0	9	Six hundred and twenty pounds of methamphetamine and heroin is transported in three large trucks	0
+14	1	0	5	2	0	2	0	0	0	2	0	0	1	0	1	0	1	4.0	1	6	"Rocking slowly from side to side indicates: ""Yes.""  Correct! One sentence with zero adverbs, written only as a complete sentence with no additional text or context:  The slow, rocking motion signifies the machine is processing data."	0
+7	1	0	0	0	0	2	0	0	0	1	1	0	2	0	1	1	0	2.0	0	3	Six sick sons signed small socks silently	0
+5	0	0	0	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	  The dog wagged its tail	0
+19	0	1	2	2	0	6	0	2	0	3	0	0	2	2	1	2	0	3.0	2	5	With great rapidity, the skunk rushes towards potential prey while emitting a foul odor to deter predators.	0
+15	0	0	1	2	0	2	0	3	4	1	0	0	2	0	1	1	0	3.0	0	4	The icy waters of Lake Michigan reflect the blue steel of the Willis Tower.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+9	1	0	0	1	0	2	1	1	1	1	0	0	1	0	1	1	0	4.0	0	5	Einstein explained his vision of a more humane world	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The cat lapped up the sauce.	0
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	2	The firmamental sky shone without stars.	0
+17	0	1	1	0	0	4	0	4	0	3	0	1	2	2	1	3	0	5.0	2	4	The company will hire an expert to evaluate the financial risk of opening a new branch.	0
+9	0	0	1	0	0	4	0	2	0	1	0	1	0	0	1	1	0	2.0	0	4	The gorilla will escape the zoo tomorrow morning.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	  Congratulations! Now, can you generate the sentence again but with more specific adverbial intensifiers	0
+9	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The gorilla's roar echoes through the forest. 	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+7	0	0	0	0	0	3	0	2	0	2	0	0	0	0	1	1	0	2.0	0	3	The zen garden has a raked surface	0
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	The tiger devoured its prey with a voracious appetite.	0
+33	2	1	3	3	2	6	1	4	2	4	2	1	2	2	2	1	0	5.0	2	13	Four score and seven years ago, our forebears brought forth in this Nation a new Nation conceived in liberty, and dedicated to the proposition that all men are created equal.	0
+12	0	0	2	0	0	5	0	2	0	2	0	0	0	0	1	1	0	3.0	0	5	The pine tree's height exceeds the snow-covered mountains.	0
+9	1	0	2	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	After the beating, the butterfly transformed magnificently. 	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The cat purrs.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	0
+25	3	1	1	3	0	5	4	2	0	3	1	0	2	2	1	2	0	5.0	2	7	There solely exists one secret fan of this band who quietly enjoys each of their albums without disclosing their true passion to others, sadly	1
+11	1	0	1	2	0	1	2	1	0	1	0	1	0	0	1	0	0	2.0	0	5	Gleefully, I have not spoken of the matter to anyone	1
+22	1	1	2	2	0	5	1	5	0	1	0	3	1	1	2	0	0	4.0	1	10	Bizarrely, nobody had expected that this unexpected success would be such a turning point in the lives of the group.	1
+5	0	0	2	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	3	Okay, I see. This band has not been heard of since it stopped playing that happy song	1
+36	5	1	3	4	3	7	1	2	0	6	0	0	4	3	3	2	0	7.0	3	8	Happy but muted cheers of delight rose up and fell away, leaving only quiet relief behind as the band packed up their final instruments and walked sadly off stage, the spotlight slowly dimming.	1
+14	0	0	1	1	0	1	4	1	0	2	0	1	2	2	2	1	0	4.0	2	5	I'm ready to assist you with the first thing that you need! Kindly specify what you are looking for, whether a question, a statement, or anything else you would like to communicate. 	1
+19	2	0	3	2	0	4	2	2	0	1	1	1	0	0	1	1	0	3.0	0	11	Okay, here is the sentence with 1 adverb:  Tremulously, she whispered her secret to the tree	1
+9	1	0	1	1	0	3	1	1	0	1	0	0	0	0	1	0	0	3.0	0	3	The candy store owner smiled gleefully before her. 	1
+8	1	0	2	0	0	2	0	2	0	0	0	1	0	0	1	0	0	2.0	0	6	  Famously, the concert was a sellout.	1
+29	4	0	2	4	0	8	2	4	0	1	0	0	4	0	1	0	0	3.0	0	12	Happily, this content creator with the tiny online following suddenly became the biggest star in her genre almost overnight with no apparent changes in her posting schedule.	1
+15	2	0	2	1	0	3	0	3	0	1	1	0	2	0	1	1	0	2.0	0	8	Gladly, the band never released a single album after that one famous track.	1
+23	2	0	2	1	0	5	2	2	0	4	0	1	2	2	1	3	0	6.0	2	7	Rarely, these unsolicited creators would receive handwritten letters inviting them to a mysterious location to discuss their life's work further.	1
+50	5	2	6	5	0	7	7	4	0	5	1	3	4	3	3	3	0	5.0	3	27	Okay, here is the sentence with 1 adverb:   Happily wailing to herself under her breath so that no one could quite understand her angsty lyrics, she wrote the most melancholy melody she could muster, then released it as a new single, amid great furor.	1
+12	1	0	2	1	0	4	1	1	0	1	0	0	1	0	1	1	0	2.0	0	6	Gleefully, the band performed their hit songs with extraordinary energy.	1
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Happily. 	1
+13	0	0	3	1	0	2	1	1	0	2	0	0	3	0	1	0	0	2.0	0	7	Beneath their wistful, wispy clouds, the lively, laughing people play	1
+9	1	0	1	0	0	2	0	1	0	0	0	2	1	0	1	0	0	2.0	0	4	The happy band has not been scene since.	1
+17	0	0	1	1	2	4	0	2	0	2	0	0	3	1	0	2	0	5.0	1	9	Please provide the actual task with requirements and specifications to receive a proper and relevant response.	1
+13	7	1	0	1	0	1	0	1	0	1	0	0	1	0	0	0	0	2.0	0	6	Eminently happily ever after never quite fit in well with the general atmosphere	1
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Soon.	1
+22	0	0	3	2	0	7	0	4	0	2	0	1	2	1	1	2	0	4.0	1	7	Without further deliberation, the judges' panel has reached a unanimous verdict, declaring the challenger the winner with distinction.	1
+8	1	0	3	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	3	"  The requested adverb is ""rapidly"". This adverb is appropriately used in the word ""rapidly"" to describe a rapidly-spreading rumor"	1
+5	0	0	1	1	0	1	0	1	0	0	0	0	1	0	0	0	0	2.0	0	3	Satisfied with the results? This pleased group may have dissolved since then.	1
+10	1	0	2	1	0	2	0	1	0	0	1	1	0	0	0	0	0	3.0	0	3	Okay, here is the sentence with one adverb:  There loudly rang out an ancient echo of silence.	1
+20	3	0	1	1	1	4	2	0	0	2	0	1	4	1	1	2	1	4.0	2	7	Always eagerly anticipating such encounters, I am usually ready to defend my favorite show from unwarranted criticism or teasing	1
+10	2	0	1	0	0	1	0	1	0	1	0	2	1	0	1	0	0	2.0	0	8	Happily, that silly dreamer had not been spotted since	1
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Brightly	1
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Histrionically	1
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Happily	1
+4	2	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1.0	0	1	Ever wondered why?	1
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	 brightly	1
+9	1	0	0	1	0	1	0	1	0	1	0	2	1	0	1	0	0	2.0	0	4	The happy band has not be heard from since	1
+10	0	0	2	1	0	1	2	0	0	2	0	1	0	1	1	1	0	3.0	1	4	Okay, I’ll have it done with haste.	1
+12	2	0	1	1	0	2	0	1	0	1	0	2	1	0	1	0	0	3.0	0	6	The happy band's silence since then has been eerily deafening.	1
+22	1	0	2	4	0	4	4	2	0	2	0	1	1	1	1	1	1	4.0	2	10	Gleefully giggling at their antics in the meeting, I was unable to stop them despite my promises to the boss. 	1
+17	3	0	1	1	1	3	1	2	0	2	0	1	2	0	2	1	1	5.0	1	16	Hilariously, the only person who still had pride and believed in giants was the most shameful	1
+28	2	0	4	2	2	4	0	3	0	2	0	1	7	1	1	1	0	6.0	1	12	Alas, that elusive melody, so evanescent and fleeting, has departed the musical landscape, leaving behind only a haunting trail of sweet yet sorrowful echoes	1
+14	4	0	2	1	0	1	0	1	0	1	0	2	1	0	1	0	0	2.0	0	9	Most brilliantly then, this happy band has not been heard from since.	1
+13	3	0	3	0	0	1	0	1	0	1	0	2	2	0	1	0	0	2.0	0	11	Happily, that absurd, illogical decision has never once been enforced.	1
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Hastily	1
+13	3	0	3	0	0	1	0	1	0	1	0	2	1	0	1	0	0	2.0	0	10	Hoppily, however, the happy band had not been found since.	1
+3	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1.0	0	1	Wistfully whispered.	1
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Mysteriously.	1
+13	3	0	1	0	1	2	0	2	0	0	0	2	2	0	2	0	0	3.0	0	6	Fortunately, the concert was enjoyably tolerable and the singer was impressively audible	1
+25	6	0	3	1	1	6	1	1	0	4	0	0	1	3	2	2	0	4.0	3	15	Only too willingly does the unicorn take flight among gilded clouds and sparkles, there to dance gracefully, her beauty radiating joy everywhere. 	1
+2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Fiercely.	1
+20	2	0	4	2	0	5	1	3	0	2	0	0	1	0	0	2	0	4.0	0	9	Rarely does a celebrity, especially of his stature, take on such a silly, time-wasting challenge	1
+12	3	0	2	0	0	2	0	1	0	2	1	1	0	0	1	0	1	3.0	1	6	Gleefully squealing, that band was last heard three years ago. 	1
+7	1	0	1	1	0	1	0	1	0	2	0	0	0	0	0	0	0	2.0	0	4	Happily striding over the sparkling meadow.	1
+15	2	0	2	1	0	3	1	2	0	1	0	0	3	0	1	1	0	2.0	0	7	Effortlessly, the cunning musician skillfully played the enchanting melody on her magical harp.	1
+11	4	0	2	0	2	1	0	1	0	1	0	0	0	0	1	0	0	3.0	0	6	Briefly and intensely, the instructor lectured profusely and passionately.	2
+13	0	0	1	0	1	3	0	1	0	2	0	0	4	1	1	2	0	4.0	1	4	The intricate path required cautious and steady steps to avoid muddy puddles.	2
+12	3	0	0	0	2	1	0	1	0	1	0	2	2	0	0	0	0	2.0	0	6	Tremendously clearly might be a bit tricky but exciting and empowering too	2
+20	3	1	0	1	0	2	1	1	0	5	0	2	1	3	2	1	2	5.0	5	8	Carefully deciding which path to take can be quite challenging while trying to figure out where to focus your energy	2
+23	4	0	2	0	2	3	0	2	0	3	0	3	4	1	2	3	1	4.0	2	9	Completing the task, efficiently and effectively might be challenging; however choosing meaningful pathways might make the process more fulfilling and worthwhile	2
+11	2	0	0	0	1	2	0	0	0	4	0	1	1	0	1	2	1	3.0	1	4	Reliably reaping rewards will remain rewarding and reasonably requires repeated responsibility	2
+18	1	0	1	2	2	4	0	2	0	3	0	0	3	0	1	0	1	5.0	1	13	Walking rapidly along the rocky shoreline in the biting wind and icy drizzle proved challenging but invigorating.	2
+25	2	0	1	2	1	4	1	4	0	5	0	2	2	3	3	2	0	7.0	3	7	The mostly likely challenge turns out to be choosing which way represents the utmost significance to you and deciding where the concentration should go.	2
+16	5	0	2	0	0	3	0	2	0	2	0	0	1	0	1	1	1	3.0	1	9	Brightly burning twice as hard, the radiant sun rapidly raised the day's temperature.	2
+19	2	1	1	0	2	6	1	1	0	3	0	0	2	2	1	3	0	6.0	2	8	Globally warming increases the likeliness and possibility of experiencing severe and unpleasant weather conditions, possibly amplifying their severity	2
+5	3	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Most intently and intensely.	2
+6	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	3	  Rather quietly, extremely confidently.	2
+17	2	0	1	1	0	3	0	2	0	4	0	1	1	2	1	2	0	5.0	2	6	The tricky part is choosing how to begin, then deciding which way to proceed with precision	2
+29	4	2	2	0	0	4	0	4	0	8	0	2	1	6	2	3	1	5.0	7	9	Sometimes carefully choosing each movement might prove more challenging than attempting every path, for determining which path to take might mean choosing wisely which focus to prioritize.	2
+12	1	0	0	1	0	3	0	2	0	2	0	0	3	0	1	2	1	3.0	1	4	Carefully determining the right course necessitates a balanced consideration of multiple factors	2
+12	2	0	1	0	1	2	0	2	0	1	0	2	1	0	1	1	1	3.0	1	10	Quickly and thoughtfully exploring all options might be the best approach. 	2
+5	2	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	3	Completely mesmerizing and intricately detailed	2
+18	2	1	2	0	1	3	3	2	0	2	0	0	2	1	2	3	0	5.0	1	6	"Reliably, quickly we finished the project because our supervisor gave us a small but challenging project. Please indicate whether this response is incorrect and provide feedback. If this is the correct response, please press the ""Correct"" button. Otherwise, please press the ""Incorrect"" button"	2
+20	1	1	1	2	0	3	1	3	0	4	0	1	2	3	2	1	0	5.0	3	5	The hardest choice is choosing what path matters most to you while figuring out how to prioritize that focus.	2
+25	3	0	2	2	1	4	0	4	0	3	0	2	3	1	1	1	0	5.0	1	7	The most arduously demanding aspect may be selecting the appropriate route forward, and deliberating on the optimal emphasis to allocate to each endeavor.	2
+3	2	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1.0	0	2	Both quickly creatively	2
+19	0	0	2	2	2	3	1	1	0	2	0	2	4	0	1	1	1	3.0	1	9	Giving your undivided attention might be challenging, yet fascinating, because of the intriguing lesson and stimulating discussions	2
+9	0	0	0	0	0	3	0	1	0	2	0	1	2	0	0	1	1	2.0	1	3	Following the winding path might reveal remarkable hidden sights	2
+16	4	0	1	1	1	3	1	1	0	3	0	0	1	1	1	1	0	4.0	1	5	The seemingly impossible task requires significantly focusing and meticulously mapping your steps forward with diligence.	2
+19	1	1	1	1	1	4	1	2	0	3	0	2	2	0	3	1	3	4.0	3	10	Although both options are intricate, choosing which way matters most to you may require careful thought and consideration	2
+13	1	0	1	1	0	2	1	0	0	2	0	2	3	1	1	1	0	3.0	1	6	Certainly challenging paths require considerable mental focus might be choosing among them. 	2
+22	4	0	2	0	0	4	2	2	0	4	0	2	1	2	2	3	0	6.0	2	6	Globally-successfully, you can use this method to identify the most challenging sections that may require more focused practice time	2
+13	2	0	1	0	0	3	2	1	0	4	0	0	0	2	2	2	1	4.0	3	4	Carefully choosing your focus means deciding which path best fits your goals.	2
+12	2	0	1	0	3	2	1	1	0	1	0	0	1	0	1	1	0	3.0	0	5	Both thoroughly and meticulously, she researched every possible angle and consideration	2
+18	2	0	1	2	2	4	1	0	1	3	0	0	2	0	1	1	1	4.0	1	12	Sprinting swiftly and silently through tall trees and tangled underbrush, Sylvia found solace from her frustrating day	2
+5	2	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	2.0	0	3	Rapidly accelerating and incredibly challenging	2
+9	2	0	0	0	1	0	1	0	0	3	0	1	0	1	0	1	0	3.0	1	3	Momentously meaningfully might entice you to pause and wonder	2
+20	2	0	1	0	1	3	0	3	0	5	0	1	2	2	1	2	0	4.0	2	8	The most intricately crafted pathway might present the utmost obstacles to traverse, and demanding the greatest focus to conquer	2
+8	4	0	1	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2.0	0	4	Tremendously intricately challenging and unbelievably captivatingly engaging.	2
+5	3	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Actually quickly and quietly. 	2
+28	3	0	2	2	1	5	1	5	0	5	0	1	2	2	2	2	0	5.0	2	7	The most tediously frustrating element of this task is determining which path to prioritize, and concentrating on a sole response that perfectly captures the desired intent.	2
+16	3	0	2	0	0	2	1	1	0	3	0	1	2	1	1	1	0	4.0	1	5	The moment may prove challenging yet enlightening; choose carefully where to channel your energy.	2
+15	2	0	1	1	2	2	0	1	0	2	0	0	4	0	1	0	1	5.0	1	8	Gulping down the delicious and decadent champagne cocktail felt absolutely exquisite and incredibly indulgent.	2
+12	1	0	0	1	0	2	0	0	0	1	4	2	1	0	1	0	0	3.0	0	5	Approximately 17 billion gallons have been poured onto 4.5 million square miles	2
+19	2	0	1	1	1	2	1	2	0	3	1	1	2	1	1	2	0	4.0	1	9	Easily, you might have to concentrate more on one particular task and where to apply all that focus	2
+5	2	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	3.0	0	3	Intricately and intensely engaging. 	2
+11	2	0	2	0	1	2	0	2	0	1	0	0	1	0	1	1	0	3.0	0	6	   Melodiously and meaningfully, the choir delivered a powerful performance.	2
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	None.	2
+25	5	2	1	1	1	5	0	4	0	5	0	0	1	2	1	4	1	6.0	3	5	Effortlessly maneuvering the maze became even more captivating after mastering a balance between carefully weighing every move and fearlessly facing challenges along the way. 	2
+16	2	0	2	1	1	2	2	0	0	3	0	1	0	1	1	1	1	4.0	2	6	Actually speaking, we are not going to give up our weekends and holidays easily. 	2
+13	2	0	1	0	0	2	0	1	0	4	0	0	3	1	1	2	2	4.0	3	5	Carefully contemplating choosing the right track proves problematic when considering many factors.	2
+10	0	0	1	0	1	3	0	0	0	1	0	1	3	0	1	1	0	3.0	0	3	Complex decisions might require thoughtful contemplation and deliberate reasoning.	2
+22	1	0	1	0	1	4	1	5	0	2	0	3	4	1	3	1	1	5.0	2	13	The route that necessitates the most effort and the biggest mental challenge might be deciding which route is the most fulfilling.	2
+6	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	3	Rather quickly, quite carefully.	2
+13	2	1	2	0	0	2	1	2	0	2	1	0	0	1	1	2	0	3.0	1	5	Effortlessly, she effortlessly completed all three levels without breaking a sweat. 	2
+21	2	0	3	3	1	6	0	2	0	4	0	0	0	0	1	0	1	4.0	1	15	Rushed frantically through the moss-draped forest without pause or respite, the fawn leaped recklessly over fallen logs. 	4
+26	2	0	2	0	1	5	2	2	1	4	0	1	3	4	2	3	0	7.0	4	6	Slowly but surely, Ginger managed to convince the hesitant ginger cats to take the bitter medicine that was necessary to cure their flea infestation. 	4
+20	2	0	3	1	0	5	1	1	0	3	0	0	3	2	1	2	0	4.0	2	6	Quaintly, the elderly individual vociferously vocalized vengeful vitriol, causing visible vapor to arise from his vermillion visage.	4
+16	2	1	2	0	0	3	3	1	0	2	0	0	2	1	2	2	0	3.0	1	7	Happily, he hummed a happy tune as he hastily hid his huge hippopotamus hide.	4
+11	2	0	1	0	0	2	0	1	1	3	0	0	0	2	1	1	0	4.0	2	4	Naturally, Sheila neatly neglected to include any notations regarding payment	4
+16	4	0	5	1	1	2	1	1	0	1	0	0	0	0	1	0	0	3.0	0	10	Quickly, silently, carefully, and deliberately, she tiptoed towards the sleeping cat. 	4
+8	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Quickly, efficiently, silently, deliberately.	4
+8	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	Quickly, suddenly, silently, cautiously.	4
+18	1	0	2	1	0	4	1	3	0	3	1	1	0	2	1	2	0	5.0	2	5	Okay, below is a generated response that completes each instruction requesting a sentence with 4 adverbs. I will respond with sentences that meet the task requirements:  Of course, you could just go in by main force	4
+62	8	1	6	9	3	11	4	5	0	7	1	1	6	3	2	2	0	9.0	3	53	"Within moments, my dad appeared through the front doorway, majestically bounding downstairs four steps at a time vigorously and very nearly leaping over the last step with his usual graceful flair before stopping abruptly, breathlessly facing the gathering of us kids and inquiring in an exaggerated and boisterous tone, ""What in tarnation is going on here? What's all the commotion about?""  Is this what you had in mind? Let me know if you need me to add anything or change it in any way"	4
+13	4	0	4	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	8	Quickly, quietly, cautiously, calmly he tiptoed into the room.	4
+33	9	0	2	2	0	6	2	0	0	7	0	0	5	3	1	3	0	8.0	3	11	   His loudly boasted confidence quickly waned visibly amidst sternly critical glances coldly delivered harsh put-downs vociferously denouncing his questionable claims unconvincingly presented lackluster efforts shamefully falling far short of expectations. 	4
+14	5	0	1	1	0	3	0	0	0	2	0	0	2	0	1	1	1	4.0	1	5	Rather rapidly repeatedly running rigidly ruthless rascals reclined recklessly on rickety rusty rails.	4
+16	3	0	1	2	0	2	0	2	0	2	1	0	3	0	1	0	1	3.0	1	10	Hurtleing into the unknown, the four intrepid adventurers courageously forged ahead with only minimal preparations	4
+26	1	1	3	2	1	4	2	3	0	3	0	2	2	2	1	2	0	5.0	2	11	Please provide the input sentence to me, and i will be happy to provide an appropriate response, as described in the task above.	4
+13	6	0	1	1	0	1	1	1	0	2	0	0	0	0	1	0	0	3.0	0	8	Quickly he quietly walked cautiously away carefully toward the brightly shining sun. 	4
+16	4	2	1	0	0	2	2	1	0	2	0	1	1	2	2	1	0	3.0	2	7	The team rapidly furtively quietly efficiently invaded our privacy, as they are prone to doing	4
+14	4	0	3	1	1	1	1	1	0	1	0	0	0	0	1	0	0	3.0	0	8	Sulkily, shyly, slyly and loudly they marched in to the sunset. 	4
+8	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	  - swiftly  - carefully  - quietly  - brightly  Now, use these adverbs to form a sentence. Remember to include all 4 adverbs in the sentence.	4
+22	6	0	6	1	1	1	1	0	1	2	0	1	1	1	2	0	0	4.0	1	12	Okay, here you go: Cautiously, slowly, quietly, and secretly Beardies can go in by main force.	4
+13	5	0	3	0	1	1	1	1	0	1	0	0	0	0	1	1	0	3.0	0	10	Rapidly, carefully but firmly, frequently, loudly he pounded the podium	4
+17	2	1	1	2	0	3	1	1	0	4	0	0	1	1	1	1	2	3.0	3	7	Staying there for hours without moving also caused my muscles to stiffen to an intense extent. 	4
+64	13	0	11	4	1	14	1	7	0	6	0	0	6	1	5	1	0	5.0	1	38	Ever so gently, the gigantic squid gracefully swam across the placid ocean waters; quietly, its slender tentacles rhythmically swayed back and forth; beautifully, tiny sea stars clung to the squid's suction cups; suddenly, a schools of shimmering fish darted past, mesmerizing the curious creature; majestically, the squid slowly glided into the abyss.	4
+8	1	0	1	0	0	2	0	0	1	1	0	0	1	0	1	1	0	3.0	0	5	Quintuplets quaff quail's quiet quarters quietly.	4
+25	5	1	3	2	0	4	1	3	0	5	0	0	0	3	1	0	0	5.0	3	7	With trembling knees, the cat carefully crept cautiously around the corner, calmly meowing softly to check if there were any mice nearby.	4
+11	4	1	1	0	0	1	1	1	0	2	0	0	0	1	1	1	0	3.0	1	4	Wobblingly, she walked backwards awkwardly while holding the cup carefully	4
+20	4	0	2	0	3	3	1	2	1	2	0	1	0	0	1	1	0	4.0	0	10	Wisely yet unwaveryously, the Beardies will often just not touch anything but the squirming, crawling or flying food	4
+11	4	0	4	0	0	0	2	0	0	1	0	0	0	0	1	1	0	1.0	0	8	Furtively, stealthily, slyly, cravenly he approached her.	4
+19	3	1	3	1	0	2	3	1	0	3	0	0	2	2	2	2	0	3.0	2	10	  Fastidiously, I furtively followed the flighty, feathered creature for fortnight before I found him foraging forgetfully. 	4
+28	5	1	2	2	0	6	3	4	0	4	0	0	0	3	3	2	0	5.0	3	9	Absurdly loudly quickly suddenly the teacher burst into the classroom, her presence obstructing the view of the students as they furiously scrambled to organize their papers.	4
+22	3	0	3	2	0	4	0	4	1	3	0	1	1	0	1	1	0	4.0	0	7	  Without a doubt, the Bearded Dragon will likely consume the processed food more willingly than the freeze-dried crickets.	4
+2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Supremely swiftly	4
+8	2	0	2	0	0	0	0	1	1	2	0	0	0	0	1	0	1	2.0	1	4	Befuddled, the Beardie waddled awkwardly backwards.	4
+13	3	0	2	1	0	2	1	1	0	1	0	1	1	0	1	0	0	2.0	0	6	 Of course, you could just go in by the main force.	4
+9	3	0	2	0	0	2	0	0	0	1	0	0	1	0	1	0	0	3.0	0	2	Fourth-grade Fulsome frantically feasted ferally forward. 	4
+8	2	0	0	0	0	2	0	1	0	2	0	0	1	0	1	1	0	3.0	0	3	Happily chirping children playfully savored every delectable morsel	4
+9	4	0	2	0	0	0	0	0	1	1	0	1	0	0	1	0	0	1.0	0	5	Happily, Bea could always run away briskly. 	4
+13	4	0	2	0	0	2	2	1	0	2	0	0	0	0	1	2	1	3.0	1	9	  Gently yet firmly holding the baby, she slowly soothed his cries.	4
+10	2	0	2	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Happily, the cat strolled away with nonchalant grace.	4
+14	0	0	1	2	1	3	2	1	0	2	0	0	1	1	1	1	0	4.0	1	5	The instructor asked me to come by her office, but with considerable reluctance	4
+7	2	0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Happily, we hop hurriedly towards harmony	4
+7	2	0	0	0	0	2	0	0	0	1	0	0	2	0	1	1	0	4.0	0	2	Willingly woefully wobbly waiters wear wacky wigs	4
+9	1	0	2	0	0	2	0	2	1	1	0	0	0	0	1	1	0	2.0	0	5	  Forthwith, the team clandestinely reconnoiterd the terrain.	4
+8	3	1	0	1	0	0	1	0	0	2	0	0	0	1	1	0	0	2.0	1	4	Wearily yet widely she woke without warming up	4
+16	5	1	2	0	0	1	1	1	0	3	0	0	2	2	2	0	0	3.0	2	7	Mercifully, the hitherto impenetrable thick fog lift surprisingly soon after we started descending south. 	4
+13	1	0	2	2	0	3	1	0	0	1	0	1	2	0	1	0	0	3.0	0	5	Of course, one could go through countless obstacles with considerable vigor. 	4
+4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	3	Gigantically swiftly wildly boldly	4
+18	4	0	4	0	0	1	1	1	0	6	1	0	0	1	1	1	0	4.0	1	9	You have the following four words: easily confused, frequently asked, highly trained, judiciously handled	4
+8	2	0	0	1	0	2	0	0	0	1	0	0	2	0	1	0	0	2.0	0	5	  Inscrutable whiskers twitched uncommonly rapidly amidst ecstatic exhortations	4
+17	4	0	1	0	0	3	0	2	0	2	0	1	3	1	1	2	0	4.0	1	6	The manager was extremely delighted greatly pleased very happy exceptionally content to see the completed project. 	4
+18	6	0	6	0	1	2	0	0	0	2	1	0	0	1	1	1	0	5.0	1	11	Six adverbs make sentences sparkle: speedily, successfully, slowly, sadly, sweetly, and sneakily	6
+14	3	0	1	1	0	3	0	1	1	1	1	0	2	0	1	1	0	2.0	0	9	Susan skillfully simultaneously slid six slippery slugs sidewise onto a slippery sawdust slide. 	6
+17	2	0	2	0	0	4	1	1	1	3	0	0	3	2	2	3	0	5.0	2	7	Steven sold sweets that permanently painted plaque a bright red, promptly packaging profuse peppermint puffs. 	6
+6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	5	   Swiftly carefully thoroughly quietly smoothly gracefully  	6
+10	2	0	1	1	0	2	0	0	0	1	0	0	3	0	1	0	0	3.0	0	5	Rapidly frenzied flamingos feast flavorfully on fragrant floral fields.	6
+22	4	2	2	1	0	5	0	0	1	3	0	1	2	2	3	1	0	4.0	2	9	Bright red, technically plaque stained Steven's smile so widely that witnesses worriedly wondered whether wisdom would wither without warning.	6
+27	4	0	1	1	2	6	1	1	1	4	0	0	4	2	1	3	0	4.0	2	10	Several stylists skillfully shaped and smoothly styled Sherry's silky hair, carefully considering every curve and contour with precise measurements to complement her classic features exactly	6
+25	4	0	5	1	1	3	1	1	1	3	0	0	5	1	1	1	0	4.0	1	14	Shonda swam shyly but simultaneously slipped smoothly through the silent, sparkling, slate-blue water, scintillatingly showcasing her streamlined, supple physique	6
+26	3	0	4	2	1	4	0	0	2	2	1	0	5	1	1	1	0	4.0	1	9	Six different cats, surprisingly silky and soft, sleekly strolled across Steven's stately striped sweater, seductively sending shivers down Shirley's spine.	6
+22	4	0	3	2	0	4	1	1	1	3	0	0	3	2	1	2	0	4.0	2	9	Sarah skillfully scurried swiftly, succinctly skipping small stones silently into the serene sea, showcasing her sensitive synergy with nature.	6
+22	3	0	1	1	1	4	1	0	1	6	0	0	4	2	2	2	0	5.0	2	6	Steven proffered persistently peppery puffed pink pita chips, which seemed somewhat sated but secretly sought sharper sensations upon satisfying svelte synapses	6
+14	4	0	1	1	0	2	0	1	0	2	0	0	3	0	1	1	1	3.0	1	7	Happily humorously honking huge hydrangeas hung haphazardly high on the humid historic hillside.	6
+26	7	0	2	2	0	5	0	3	0	4	0	0	2	0	1	0	2	4.0	2	20	Sprinting quickly carefully silently steadily smoothly swiftly through the park shimmering sharply, the little girl's gleaming golden locks glistened in the setting sun.	6
+11	6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	6	Brightly, colorfully, carefully, quickly, precisely, simultaneously	6
+13	4	0	1	1	0	2	0	0	1	1	1	0	2	0	1	1	0	2.0	0	8	Steven slyly subtly slipped silently six sour strawberries straight into secret stash.	6
+13	6	0	1	0	0	1	0	0	2	1	0	0	1	0	1	1	0	3.0	0	7	Carefully casually clandestinely creatively cheerfully cleverly, Chris critiqued Cheryl's cursive composition	6
+34	7	3	0	2	2	3	3	2	0	5	0	0	7	4	3	1	0	7.0	4	8	The carpet under his sweaty feet swayed sickly sweet and silky soft while staring straight into the sharpest spotlights which wobbled wobbly up and down as he nervously chuckled loudly without blinking bright red	6
+6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	4	 Always quickly carefully precisely expertly smoothly	6
+11	6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.0	0	10	Brightly, beautifully, cleverly, courageously, cheerfully, carefully	6
+43	5	2	3	4	0	9	0	1	2	7	0	0	8	3	2	2	2	6.0	5	12	Wobbling worriedly beneath the wan wisp of waxing winter winds, Wren winced while washing Wayne's waning withy wings with woeful wistful wisdom, waiting wickedly wet while weak winter's woolly warmth withered wonderfully away willy-nilly within willing waters	6
+10	6	0	0	1	0	0	0	0	2	1	0	0	0	0	1	0	0	2.0	0	8	Steven spoke sweetly slyly solemnly sadly seriously sickly onto Sally	6
+24	5	0	3	0	0	3	2	2	1	4	0	0	4	2	2	3	0	5.0	2	11	Steven had some amazingly attractively bright intensely red sugary candy-coated sweets that adorably decorated the party, wonderfully wowing everyone present.	6
+18	6	0	1	0	0	2	3	1	1	3	0	0	1	1	3	2	0	4.0	1	13	Steven had some sweet treats that seriously stained my smile so severely it still lingers right now.	6
+9	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	3.0	0	7	Satisfactorily simplistically skillfully rapidly vigorously vibrantly versatile vegan vendors	6
+18	3	0	3	2	0	5	1	2	0	1	0	0	1	0	2	0	0	3.0	0	6	Way behind, wittily, my brother ran boldly across the vast meadow towards the giggling stream.	6
+11	4	0	1	0	0	2	0	0	0	4	0	0	0	1	1	1	0	4.0	1	3	Flawlessly flowing fibers festooned finely formed furbelaws fringed flashily forth. 	6
+20	2	0	5	0	0	4	0	0	1	7	0	0	1	4	1	3	0	5.0	4	8	Steven slyly slipped shimmering, sequined scarlet sweets silently, skirting scrutinizing scroungers, scooping smiling, smitten schoolboys.	6
+15	2	0	2	1	0	2	1	1	1	1	0	1	3	0	1	1	0	2.0	0	8	Sixthly, Steven had sweetly stuffed the bright red candies into his huge basket.	6
+13	2	0	2	0	0	2	1	1	1	3	0	0	1	1	2	2	0	4.0	1	5	Steven had spectacularly scrumptious-looking sweets that discolored the teeth profusely. 	6
+108	18	4	17	5	5	13	5	5	3	16	2	4	6	11	6	7	3	12.0	14	27	The six adjectives used creatively in this sentence, without adding any further word, to generate one sentence are: besides, really, technically, well, out and in; Here below is the resulting output: Steven had some actually very tasty sweets that technically, brightened plaques around one's teeth but practically, stained your gums as Steven had none to sweeten them, anyway; so, Steven was always bright and organized when selling, and so his business had to boom, paying well in good time without letting clients wait long before being attended to and satisfied.	6
+8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.0	0	3	Rather quickly creatively quietly seriously confidentially gracefully rapidly	6
+12	3	1	2	0	0	1	1	0	0	3	0	0	1	2	1	1	0	4.0	2	4	Diligently, she deliberately delays descending before decisively delivering delicate devotions. 	6
+25	7	0	5	0	1	3	1	0	1	2	0	1	4	1	2	1	0	3.0	1	12	Steven displayed several exceptional items carefully; consequently, his wares were clearly captivating, remarkably rare, delightfully decorated intricately, and vibrantly vermilion	6
+20	4	1	1	2	0	2	1	2	0	1	0	1	5	1	1	0	0	3.0	1	10	Rapidly retreating beneath the bizarre blue background because it was unsettlingly vivid yet peculiarly subdued after a long week.	6
+28	9	1	2	2	0	3	0	1	1	5	0	0	2	4	1	0	0	6.0	4	9	Susan silently skillfully swiftly slowly sprinted sideways through several sharp stones, somehow steadily steering to stay upright before suddenly ceasing to stop in a squat stance.	6
+7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	6	Soaringly swiftly gracefully serendipitously radiantly exuberantly gloriously	6
+18	2	1	4	0	0	4	0	0	1	1	0	1	4	1	2	1	0	5.0	1	6	Swiftly, Steven swam seriously smooth strokes, stunning spectators silly since scores were sky-high. 	6
+28	4	0	2	3	1	6	1	0	1	5	0	0	5	4	2	1	0	9.0	4	5	Sharon shopped carefully, choosing several stylish and substantial scarves that swirled softly, serendipitously slithering slowly over silver strands of stainless steel stretched between strong stone spires	6
+31	2	0	6	2	0	7	2	2	0	6	0	0	3	3	1	2	1	6.0	4	10	Wearing warm winter boots, I crept cautiously down the icy, winding driveway, carefully checking my footing to avoid slipping on the smooth, snow-covered stones.	6
+11	4	0	2	0	0	1	0	0	1	3	0	0	0	1	1	1	0	4.0	1	4	Steven shrewdly sneaked slowly, skillfully sifting strategically shimmering shapes.	6
+12	2	1	1	1	0	3	0	0	2	2	0	0	0	1	1	1	0	3.0	1	5	Wisely, William walked wearily while watching Wandy wipe windows with wax	6
+11	2	0	3	0	1	1	1	1	0	1	0	0	1	0	1	1	0	2.0	0	6	Slowly, but surely, I savored each succulent morsel.	6
+17	6	0	2	1	0	2	0	0	0	2	0	0	4	0	1	1	0	3.0	0	12	Perhaps persuasively promptly precisely penultimately previous peculiar pumped-up plastic puppies purchased prodigiously promising prizes.	6
+24	2	0	5	2	0	3	0	1	1	3	0	0	7	0	1	1	1	4.0	1	12	Beneath the brisk blue canvas, blinking rapidly behind brilliant blue protective lenses, Brian blithely bartered bold, brilliant-colored beads.	6
+31	9	0	8	1	2	2	0	1	1	4	1	0	1	1	1	0	0	4.0	1	21	Six days a week, quickly, cautiously, silently, secretly, urgently, and quietly slipped in early, Brandy got ready and headed off to work efficiently.	6
+6	1	0	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1.0	0	4	Okay, how's this: The instructor carefully, confidently, concisely, clearly, cleverly, and creatively corrected our composition concepts.	6
+30	7	1	3	1	2	4	2	2	1	6	0	0	0	2	3	2	0	5.0	2	8	The instructor watched patiently but quickly, Steven's fingers fumbled clumsily, and his hands hurt badly, carefully piecing together the disassembled toy before successfully reconstructing it perfectly	6
+15	5	0	2	0	0	4	0	0	0	2	0	0	2	0	1	0	1	2.0	1	5	Humbly yet happily hunting here, healthy hordes huddled hopeful, hurry home hours hurriedly	6
+10	1	0	1	1	0	2	0	0	0	1	1	0	3	0	1	0	0	2.0	0	6	Six bees bounced blithely beside big bright yellow daisies.	6
+39	5	0	7	2	1	6	1	2	1	5	0	0	7	2	1	3	0	5.0	2	18	Happily, the highly-skilled hairstylist carefully curls both of Brent's bushy, bouncy bouffants below his well-worn, weathered worktable, using creamy conditioners and sleek shears to craft beautifully bountiful, billowy bunches	6

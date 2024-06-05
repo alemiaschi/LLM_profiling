@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	PRON_constraint
+17	1	0	2	2	1	5	0	3	0	3	0	0	0	1	1	1	0	6.0	1	6	The wind blows gently through the leaves, creating a symphony of rustling and swaying motion.	0
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The wind whips the waves.	0
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The cat sits on the mat, enjoying the warm sun.	0
+12	1	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	6	The rain falls gently on the trees, nourishing their growth.	0
+5	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	2.0	0	2	The apples are red.	0
+11	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The rain falls on the plants, nourishing their growth.	0
+14	1	0	1	2	0	3	0	3	0	1	0	0	3	0	1	0	0	3.0	0	5	The vibrant purple flowers bloom gracefully across the emerald tapestry of the meadow.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	The red apple hangs from the branch.	0
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The apple hangs from the tree branch.	0
+15	1	0	2	2	0	4	0	3	0	2	0	0	1	1	1	1	0	3.0	1	6	The sun shines brightly upon the flowers, casting long shadows across the grass.	0
+8	0	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A ripe strawberry hangs on the tree.	0
+11	0	0	2	1	0	3	0	2	0	2	0	0	1	1	1	1	0	4.0	1	2	The vibrant flowers bloom, emanating a fragrance of joy.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The red ball travels quickly across the green table.	0
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	1	0	0	2.0	0	4	 The red apple is on the table.	0
+16	1	0	2	1	0	4	0	3	0	4	0	0	0	2	1	1	0	4.0	2	6	The brightly colored fruit hangs suspended from the branch, awaiting the butterfly's arrival.	0
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	4.0	1	3	The clock chimes, signifying the hour of the meeting.	0
+14	0	0	2	2	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	5	The clock chimes resonate through the halls, marking the passage of time.	0
+15	0	0	1	2	1	4	0	4	0	2	0	0	1	0	1	1	0	3.0	0	6	The apples ripened in the sun and filled the kitchen with a sweet aroma.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The red apple rests firmly on the wooden table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The apple falls onto the table.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	 The flowers danced in the wind.	0
+14	1	0	2	2	0	4	0	3	0	2	0	0	0	1	1	1	0	3.0	1	6	The water flowed swiftly over the stones, carving paths through the landscape.	0
+12	0	0	2	1	0	2	0	2	0	3	0	1	0	2	1	0	0	3.0	2	5	The object hangs in the sky, waiting to be admired.	0
+14	0	0	2	2	0	5	0	3	0	2	0	0	0	1	1	1	0	4.0	1	4	The wind whips the leaves, dancing in a symphony of autumn colors.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The blue ball bounces on the red spring.	0
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The flowers bloom beautifully in the sunshine.	0
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	 The wind blows wildly.	0
+14	0	0	2	2	0	3	0	2	0	2	0	0	3	1	1	0	0	3.0	1	5	A colorful tapestry hangs on the wall, adorned with intricate geometric patterns.	0
+10	0	0	2	1	0	3	0	2	0	2	0	0	0	1	1	1	0	2.0	1	5	The sun shines upon the flowers, creating beauty.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The flowers bloom in the sun.	0
+12	0	0	2	1	0	3	0	3	0	2	0	0	1	1	1	1	0	3.0	1	5	The colorful flowers blossomed in the sun, illuminating the garden.	0
+24	0	0	3	4	1	7	0	5	0	3	1	0	0	0	3	1	0	4.0	0	13	The clock strikes seven, the wind whips through the trees, and the leaves dance in rhythm with the symphony of nature.	0
+13	0	0	1	2	0	3	0	3	0	2	0	0	2	0	1	0	0	3.0	0	4	The red apple hangs from the highest branch of the towering tree.	0
+14	0	0	1	3	0	3	0	3	0	2	0	0	1	1	1	0	0	2.0	1	8	The red apple hangs on the branch for the sun to shine upon.	0
+14	0	0	2	1	0	4	0	3	0	2	1	0	1	1	1	2	0	3.0	1	7	The clock strikes twelve, illuminating the night sky with a soft glow.	0
+14	0	0	2	2	0	5	0	2	0	2	1	0	0	1	1	2	0	4.0	1	5	The clock strikes eleven, illuminating the night sky with streaks of gold.	0
+12	0	0	2	1	1	3	0	2	0	2	0	0	1	1	1	0	0	3.0	1	5	The crimson leaves danced in the wind, swirling and vibrant.	0
+23	1	0	4	2	0	6	1	3	0	3	0	0	3	1	2	1	1	4.0	2	11	The crimson rose blooms fiercely beneath the afternoon sun, radiating its soft, vibrant hue across the dew-laden grass.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun shines over the mountains.	0
+10	0	0	2	1	0	3	1	2	0	1	0	0	0	1	1	0	0	3.0	1	4	The flower blooms, its beauty spreading to all.	0
+12	0	0	2	2	0	3	0	3	0	2	0	0	0	1	1	0	0	3.0	1	5	The water flows over the rocks, cascading through the gorge.	0
+7	0	0	1	0	1	1	0	1	0	0	0	1	2	0	1	0	0	2.0	0	2	The apple is ripe and sweet.	0
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The ripe apple rests on the emerald table.	0
+13	0	0	3	0	1	3	0	3	0	3	0	0	0	0	3	0	0	3.0	0	9	The clock chimes, the wind whips, and the flowers flourish.	0
+14	1	0	2	1	0	4	0	2	0	2	0	0	2	1	1	1	0	3.0	1	5	The vibrant flower blossoms flourish brightly, spreading joy throughout the vibrant garden.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The vibrant flowers danced harmoniously in the gentle breeze.	0
+10	1	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	5	The red flower bloomed beautifully in the warm sunlight.	0
+11	0	0	2	1	0	3	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	The sun shines on the flowers, illuminating their petals.	0
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The apple rests on the table.	0
+11	1	0	2	1	0	3	1	1	0	1	0	0	1	0	2	0	0	3.0	0	7	The object moves swiftly through space, its trajectory unpredictable.	0
+8	0	0	3	0	0	1	1	1	0	1	0	1	0	0	1	1	0	2.0	0	2	"""She is completing the task."""	1
+11	0	0	2	2	0	4	0	1	0	1	0	0	0	0	1	0	0	2.0	0	5	Sure, the student went to class on time yesterday.	1
+16	1	1	2	1	0	3	1	2	0	3	0	0	1	2	2	0	0	4.0	2	6	The cat sat on the red mat, waiting for its owner to come home.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the mouse.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+10	0	0	1	2	0	3	0	3	0	1	0	0	0	0	1	0	0	2.0	0	6	The cat sat on the mat in the sun.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+5	0	0	1	0	0	2	0	1	0	1	0	0	0	0	1	1	0	2.0	0	1	The boy jumped rope.	1
+10	1	0	2	1	0	2	0	2	0	2	0	0	0	1	1	0	0	2.0	1	5	The cat sat on the mat, purring happily.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The boy jumped onto the table.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+10	0	0	1	1	0	2	1	2	0	2	0	0	0	1	1	1	0	3.0	1	5	She went to the store to buy some groceries.	1
+14	0	0	2	3	0	4	0	3	0	2	0	0	0	1	1	0	0	4.0	1	5	The cat sat on the mat, playing with a ball of yarn.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sits on the mat.	1
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The dog chased the ball across the park.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the mouse.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+8	0	0	2	0	0	1	1	1	0	1	0	0	2	0	1	1	0	2.0	0	5	He has a big, red car.	1
+9	0	0	1	1	0	3	1	1	0	1	0	1	0	0	1	0	0	2.0	0	4	The boy is playing with his toy car.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	He is going to the park.	1
+7	0	0	1	0	0	2	0	2	0	1	0	1	0	0	1	1	0	2.0	0	2	The boy is playing the guitar.	1
+4	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	1.0	0	2	She is happy.	1
+10	0	0	2	1	0	2	1	1	0	1	1	0	0	0	1	1	0	2.0	0	5	Sure, I generated a sentence with 1 pronoun: The cat sat on the mat.	1
+7	1	0	1	1	0	1	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	She danced gracefully to the music.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+12	0	0	2	1	0	3	0	3	0	3	0	0	0	2	1	1	0	3.0	2	5	The cat sat on the mat, watching the sun shine.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the ball.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the ball.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+8	0	0	1	1	0	2	1	1	1	1	0	0	0	0	1	1	0	2.0	0	4	The boy gave his book to Peter.	1
+11	0	0	2	1	0	3	0	3	0	2	0	0	0	1	1	1	0	3.0	1	5	The cat sat on the mat, enjoying the sun.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat jumped onto the mat.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The boy ran quickly to the park.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The dog chased the ball.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The cat chased the ball.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat sat on the mat.	1
+7	0	0	1	0	0	3	0	2	0	1	0	0	0	0	1	1	0	2.0	0	3	The student read a book yesterday.	1
+13	0	0	2	1	1	3	1	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, and the boy chased after them.	3
+10	0	0	1	1	1	1	4	0	0	2	0	0	0	0	1	2	0	3.0	0	4	They took their toys and gave it to her.	3
+13	0	0	2	0	1	3	2	3	0	2	0	0	0	0	2	3	0	2.0	0	8	 The boy gave the girl a book, and she read it.	3
+17	1	0	3	1	1	5	0	4	0	1	0	1	0	0	1	0	0	3.0	0	10	The baker, the chef, and the pastry chef are working on a cake together.	3
+15	1	0	2	0	1	3	1	3	0	3	0	0	0	2	1	2	0	3.0	2	7	The dog chased the cat and the rabbit, causing them to run away.	3
+15	0	0	3	1	1	4	0	4	0	1	0	1	0	0	1	0	0	3.0	0	9	The farmer, the cat, and the dog are walking to the park.	3
+10	1	0	3	0	1	3	0	1	0	1	0	0	0	0	1	0	0	3.0	0	6	The boy, girl, and dog played together.	3
+20	0	0	2	1	1	6	0	6	0	3	0	0	0	1	2	3	0	4.0	1	10	The baker gave the flour to the cook, and the cook used the flour to bake a cake.	3
+14	0	0	2	0	1	4	1	4	0	2	0	0	0	0	2	3	0	3.0	0	9	 The boy gave the girl a book, and the teacher saw it.	3
+13	0	0	2	0	1	3	2	3	0	2	0	0	0	0	2	3	0	2.0	0	8	The boy gave the girl a book, and she read it.	3
+15	1	0	2	0	2	3	1	4	0	2	0	0	0	0	2	1	0	3.0	0	10	The cat chased the mouse and the dog, and they all ran away.	3
+11	0	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the mouse, and the rabbit followed.	3
+13	0	0	2	0	1	4	0	4	0	2	0	0	0	0	2	2	0	3.0	0	9	 The boy gave the girl a book, and the teacher watched.	3
+17	0	0	2	0	1	6	0	6	0	2	0	0	0	0	2	4	0	3.0	0	9	The doctor gave the patient a prescription, and the pharmacist gave the patient the medication.	3
+12	0	0	3	0	1	4	0	2	0	1	0	0	1	0	1	1	0	3.0	0	6	 The boy, girl, and teacher shared a delicious cake.	3
+13	0	0	2	0	1	4	0	4	0	2	0	0	0	0	2	2	0	3.0	0	7	The cat chased the dog, and the dog chased the mouse.	3
+13	0	0	2	0	1	3	2	3	0	2	0	0	0	0	2	3	0	2.0	0	8	The boy gave the girl a book, and she read it.	3
+13	0	0	2	0	1	4	0	4	0	2	0	0	0	0	2	2	0	3.0	0	9	The boy gave the girl a gift, and the teacher watched.	3
+11	0	0	3	0	1	4	0	2	0	1	0	0	0	0	1	1	0	3.0	0	6	The boy, girl, and teacher shared a cake.	3
+13	0	0	2	0	1	4	0	4	0	2	0	0	0	0	2	2	0	3.0	0	7	The cat chased the dog, and the dog chased the rabbit.	3
+17	0	0	3	0	1	3	0	4	0	3	1	1	1	2	3	1	0	5.0	2	7	The cat chased the dog, and the mouse followed, ensuring all three were safe.	3
+15	0	0	2	0	1	4	1	4	0	3	0	0	0	1	2	3	0	3.0	1	9	 The girl gave the boy a gift, and the teacher watched it happen.	3
+19	0	0	2	1	1	5	0	4	0	2	0	0	4	0	2	1	0	3.0	0	10	The quick brown fox jumps over the sleeping tiger, and the mischievous goat eats the juicy apple.	3
+13	0	0	2	0	1	4	0	4	0	2	0	0	0	0	2	2	0	3.0	0	7	The cat chased the dog, and the dog chased the rabbit.	3
+13	0	0	2	0	1	3	1	3	0	1	0	1	1	0	2	2	0	2.0	0	9	The boy gave the girl a toy, and she was grateful.	3
+12	0	0	2	0	1	3	1	3	0	2	0	0	0	0	2	2	0	3.0	0	7	The cat chased the mouse, and the dog caught it.	3
+18	0	0	3	3	1	4	0	4	0	3	0	0	0	0	1	0	0	3.0	0	11	 The cat jumped over the fence, chased after the dog, and landed on the mat.	3
+18	0	0	2	1	1	6	0	6	0	2	0	0	0	0	2	3	0	3.0	0	9	The student gave the teacher a book, and the teacher read the book to the student.	3
+11	0	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the dog, and the rabbit followed.	3
+20	0	0	3	0	2	6	0	6	0	3	0	0	0	0	3	3	0	3.0	0	14	The cat chased the mouse, and the dog chased the cat, and the owner chased the dog.	3
+18	0	0	3	1	1	6	0	3	0	2	0	0	1	1	1	1	0	4.0	1	6	The student, teacher, and administrator collaborated to provide a unique learning experience for the students.	3
+13	0	0	2	0	1	4	0	4	0	2	0	0	0	0	2	2	0	3.0	0	7	The cat chased the mouse, and the mouse scared the dog.	3
+20	0	0	3	1	1	5	1	5	0	3	0	0	1	1	2	2	0	4.0	1	7	The cat chased the mouse, and the dog joined in the chase, making it a playful scene.	3
+11	0	0	2	0	1	3	0	3	0	2	0	0	0	0	2	1	0	3.0	0	7	The cat chased the dog, and the mouse followed.	3
+10	0	0	1	1	1	3	0	3	0	1	0	0	0	0	1	0	0	3.0	0	3	The cat chased after the dog and the rabbit.	3
+16	0	0	2	1	1	4	0	4	0	2	0	2	0	0	2	1	0	3.0	0	11	 The boy is giving the ball to the girl, and the teacher is watching.	3
+14	0	0	1	0	1	6	0	4	0	1	0	0	0	0	1	1	0	4.0	0	10	The teacher gave the student and the student's friend a homework assignment.	3
+15	0	0	3	1	1	4	0	4	0	1	0	1	0	0	1	0	0	3.0	0	9	The farmer, the goat, and the dog are playing in the park.	3
+11	1	0	3	0	1	1	0	0	3	1	0	1	0	0	1	1	0	3.0	0	7	Sarah, Bob, and Jane are playing games together.	3
+13	0	0	3	1	1	5	0	2	0	1	0	0	0	0	1	1	0	3.0	0	6	The boy, girl, and man shared a basket of fruit.	3
+11	0	0	1	1	1	3	1	3	0	1	0	0	0	0	1	1	0	3.0	0	7	The cat chased the mouse and the dog after it.	3
+12	0	0	2	0	1	4	0	3	0	2	0	0	0	0	2	2	0	3.0	0	7	The cat chased the dog, and the rabbit followed suit.	3
+13	0	0	1	1	1	4	0	3	0	1	0	1	0	0	1	0	0	3.0	0	3	The student's book was shared with the teacher and the student.	3
+13	0	0	3	1	1	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	7	The boy, girl, and teacher are going to the park.	3
+13	1	0	3	1	1	4	0	2	0	1	0	0	0	0	1	0	0	3.0	0	6	The boy, girl, and dog play together in the park.	3
+16	0	0	2	1	1	4	2	4	0	2	0	0	0	0	2	3	0	3.0	0	8	The girl gave the boy a book, and he read it to the woman.	3
+13	0	0	3	0	1	4	0	4	0	1	0	0	0	0	1	1	0	3.0	0	7	The cat chased the mouse, the fox, and the dog.	3
+17	1	0	3	0	1	6	0	2	0	2	0	0	1	1	1	1	0	3.0	1	7	The student, teacher, and school administrator collaborated effectively to ensure a smooth learning process.	3
+13	0	0	3	1	1	4	0	2	0	1	0	1	0	0	1	0	0	3.0	0	7	A boy, girl, and teacher are going to the park.	3
+13	0	0	2	0	1	3	2	3	0	2	0	0	0	0	2	3	0	2.0	0	8	The boy gave the girl a book, and she read it.	3
+26	0	1	3	2	2	7	1	6	0	4	0	0	0	1	4	2	0	5.0	1	8	The cat jumped over the fence, and the dog chased after it, while the farmer held the goat and the cow gave milk.	5
+17	0	0	1	3	0	5	1	4	0	2	0	0	1	0	1	1	0	3.0	0	7	Each person in the group shared their favorite dessert with the remaining members of the team.	5
+22	0	0	4	1	1	6	2	4	0	1	0	0	3	0	1	1	0	3.0	0	12	The ambitious boy, his sister, their parents, and the friendly teacher gave a gift to the enthusiastic student.	5
+19	0	0	2	1	1	6	0	4	0	2	0	0	3	1	1	1	0	4.0	1	6	The quick brown fox jumps over the sleeping tiger, carrying the unsuspecting goat and the weeping sheep.	5
+15	0	0	1	2	1	4	0	3	0	1	2	1	0	0	1	0	0	3.0	0	4	The two boys and girls are playing with the three children in the park.	5
+20	0	0	3	1	2	5	0	5	0	3	0	1	0	0	3	1	0	3.0	0	16	The cat chased after the dog, and the fox caught the goat, but the pig was watching.	5
+24	0	0	6	0	1	8	0	7	0	1	0	0	0	0	1	1	0	4.0	0	19	**The teacher gave the student, the student's friend, a book, the principal, and the custodian a gift.**	5
+26	0	0	5	3	1	6	2	3	0	2	0	0	4	1	1	2	0	4.0	1	13	The proud teacher, passionate about education, shared her knowledge with the eager students, and the intelligent graduates, guiding them towards success.	5
+22	0	1	2	2	1	6	1	5	0	2	1	0	1	1	2	1	0	4.0	1	9	The cat sat on the soft blanket, while the girl read a book to the three brothers and their parents.	5
+23	0	0	2	2	1	7	0	5	0	2	0	0	3	0	2	1	0	4.0	0	10	The quick brown fox jumps over the sleeping tiger, and the sly fox takes the apple from the goat's mouth.	5
+19	0	0	5	1	1	6	0	3	0	2	0	0	0	1	1	0	0	3.0	1	11	The mathematicians, architects, teachers, engineers, and programmers all agreed to collaborate on the project.	5
+21	1	0	5	0	1	8	0	2	0	2	0	0	1	1	1	1	0	3.0	1	11	The students, teachers, parents, administrators, and school staff worked together to ensure a successful school year.	5
+27	0	0	5	2	2	7	0	7	0	3	0	0	1	1	2	1	0	4.0	1	15	The cat chased after the dog, and the goat, the horse, and the cow joined the pursuit, resulting in a chaotic scene.	5
+24	0	0	2	3	2	7	0	6	0	2	0	0	2	0	1	1	0	4.0	0	8	The quick brown fox jumped over the sleeping tiger, and carried the goat and the pig to the top of the tree.	5
+15	0	0	2	1	0	4	0	3	0	2	0	0	3	1	1	1	0	3.0	1	6	The quick brown fox jumps over the sleeping tiger, carrying the sleepy lion.	5
+19	0	0	5	1	1	7	0	3	0	0	0	1	1	0	1	0	0	3.0	0	11	All the students, teachers, parents, administrators, and staff were involved in the fundraising event.	5
+22	1	0	2	3	1	6	3	3	0	2	0	0	1	0	2	2	0	3.0	0	10	 The team of students effortlessly shared their knowledge with the instructor, and the instructor rewarded them for their insightful contributions.	5
+19	0	0	2	2	1	4	1	3	0	2	0	1	3	0	2	0	0	3.0	0	11	The quick brown fox jumps over the sleeping tiger, and the mischievous children are chasing after them.	5
+17	0	0	5	1	1	6	0	3	0	1	0	0	0	0	1	0	0	3.0	0	11	The boy, girl, man, woman, and child all went to the party.	5
+23	0	0	2	2	1	6	0	5	0	3	0	0	4	0	2	1	0	3.0	0	10	The quick brown fox jumps over the sleeping dog, and the starving poet brings a juicy apple to the thirsty lion.	5
+19	1	0	5	1	1	6	1	2	0	1	0	1	0	0	1	0	0	3.0	0	12	 The student, teacher, boy, girl, and their friend are playing together in the park.	5
+17	0	0	4	0	2	1	1	2	5	2	0	0	0	0	2	3	0	4.0	0	13	 Tom gave Mary a book, and Peter, Paul, and Sarah all read it.	5
+21	0	0	5	1	1	8	0	3	0	2	0	0	0	1	1	1	0	4.0	1	11	The students, teachers, parents, administrators, and school counselors collaborated to address the needs of the students.	5
+22	0	0	5	2	2	6	1	3	0	2	0	1	0	0	2	0	0	4.0	0	16	The cat sat on the rug, and the boy, girl, woman, and man were playing with her.	5
+23	0	0	2	2	1	6	0	5	0	2	0	0	5	0	2	1	0	3.0	0	10	The quick brown fox jumps over the sleeping cat, and the playful dog brings the juicy bone to the hungry woman.	5
+27	1	0	5	1	1	6	0	6	0	1	0	0	6	0	1	0	0	3.0	0	18	The young woman, the handsome man, the beautiful child, the intelligent teacher, and the brave warrior fought bravely against the evil enemy.	5
+26	2	0	5	2	1	9	0	3	0	2	0	1	0	1	1	1	0	4.0	1	14	The teachers, students, parents, administrators, and school board members are all working together to improve the quality of education for all.	5
+15	0	0	2	0	1	4	2	3	0	2	0	0	1	0	2	3	0	3.0	0	8	Each student brought their own book, and the teacher gave them a lecture.	5
+16	0	0	2	1	1	4	0	3	0	2	0	0	3	0	2	0	0	3.0	0	10	The quick brown fox jumps over the sleeping dog, and the playful children cheer.	5
+22	0	0	2	2	2	5	1	4	0	2	0	0	4	0	2	0	0	4.0	0	14	The quick brown fox jumps over the sleeping dog, and the little boy and the mischievous girl chase after them.	5
+19	0	0	2	1	1	5	0	4	0	2	0	0	4	0	2	1	0	3.0	0	10	The quick brown fox jumps over the sleeping dog, and the nimble goat accompanies the enthusiastic tiger.	5
+19	0	0	7	1	1	2	0	1	5	1	1	0	0	0	1	0	0	3.0	0	13	Five people, Phil, Peter, Paul, Peggy, and Patrick, participated in the party.	5
+14	1	0	5	0	1	5	0	1	0	1	0	0	0	0	1	0	0	3.0	0	10	The boy, girl, man, woman, and child played together.	5
+28	0	1	4	1	1	5	3	1	5	4	0	0	2	0	4	4	1	4.0	1	10	 As Anna offered her apple to Bob, Charlotte claimed her berry, Daisy devoured David's delicious donuts, and each eager one enjoyed their treat.	5
+21	0	0	2	1	3	6	0	5	0	2	0	2	0	0	2	1	0	3.0	0	12	The boys and girls are playing with the teacher and the student, and the student is enjoying the game.	5
+19	1	0	5	0	1	6	0	3	0	2	0	0	0	1	1	1	0	3.0	1	11	 The children, students, teachers, doctors, and nurses all worked diligently to help the patients.	5
+30	2	0	8	1	2	4	0	2	5	2	1	1	2	1	1	2	0	5.0	1	15	Six people, namely John, Mary, Alice, Peter, and Jane, will share a basket of fruits, hence creating a delightful and memorable experience.	5
+19	0	0	5	0	1	7	1	4	0	1	0	0	0	0	1	1	0	3.0	0	12	All the students, their teachers, parents, classmates, and the principal enjoyed the school dance.	5
+25	0	1	2	2	1	6	0	5	0	2	0	0	6	0	2	0	0	4.0	0	19	The quick brown fox jumps over the sleepy dog, while the wise old owl and the nimble squirrel chase after the fluttering butterfly.	5
+22	0	0	5	1	1	6	1	6	0	1	0	0	1	0	1	0	0	4.0	0	15	The old woman, her cat, the doctor, the nurse, and the teacher all went to the park.	5
+15	0	0	5	1	1	6	0	1	0	1	0	0	0	0	1	0	0	3.0	0	10	The boy, girl, man, woman, and child danced with joy.	5
+17	0	0	2	1	1	5	0	4	0	2	0	0	2	0	2	1	0	3.0	0	10	The quick brown fox jumps over the sleeping dog, and all the sheep follow suit.	5
+18	0	0	2	2	1	6	0	3	0	2	0	0	2	1	1	1	0	4.0	1	6	The quick brown fox jumped over the sleeping tiger, saving the lion and goat from danger.	5
+21	0	0	2	2	1	6	0	4	0	2	0	0	4	1	1	1	0	6.0	1	6	The quick brown fox jumped over the sleeping tiger, carrying the mischievous goat and a basket full of oranges.	5
+20	0	0	5	0	1	8	0	2	0	2	0	0	1	1	1	1	0	3.0	1	11	The students, teachers, principals, parents, and school staff collaborated to create a successful school year.	5
+30	0	0	5	0	1	12	0	7	0	1	0	0	0	0	1	1	0	4.0	0	21	The teacher gave the student, the student's friend, the student's brother, the student's sister, and the student's dog a homework assignment.	5
+23	1	0	3	2	1	5	1	4	0	3	0	0	3	1	2	1	0	4.0	1	10	The quick brown fox jumped over the sleeping cat, and the energetic dog chased after them, bringing the goat home.	5
+19	0	0	2	2	1	4	1	4	0	2	0	0	3	0	2	0	0	3.0	0	10	The quick brown fox jumps over the sleeping tiger, and the sneaky snake slides underneath them all.	5
+18	0	0	1	4	0	5	0	4	0	1	1	1	1	0	1	1	0	4.0	0	7	 Each person in the group of friends was given a gift by one of the many admirers.	5
+23	0	0	3	2	1	5	1	5	0	3	0	0	3	1	2	1	0	4.0	1	10	The quick brown fox jumped over the sleeping dog, and the agile tiger chased after them, causing quite a stir.	5
+32	0	0	3	4	1	8	0	7	0	3	0	0	6	1	1	1	0	7.0	1	7	The quick brown fox jumps over the sleeping blue sheep, carrying the scarlet rose and entrusted with the emerald pear, all in the hands of the mischievous young boy.	7
+27	0	0	3	2	1	8	0	6	0	4	0	0	3	0	3	2	0	4.0	0	17	The quick brown fox jumped over the sleeping lion, the spotted zebra crossed the street, and the timid goat ate a piece of fruit.	7
+28	0	1	3	1	1	6	0	6	0	3	0	0	7	1	3	2	0	4.0	1	11	The quick brown fox jumps over the sleepy green cat, and the sneaky leopard spots the tiny zebra, while the mischievous giraffe pulls the rope.	7
+21	0	0	2	1	1	5	2	3	0	2	0	1	3	1	2	2	0	4.0	1	12	 Each person brought their own dog, and the owner of the dog was excited to see their beloved companion.	7
+20	0	1	3	0	2	6	0	3	0	3	2	0	0	1	3	3	0	4.0	1	7	Each elf and dwarf has one pony, but the knight has two, whereas the sorceress has none.	7
+30	1	0	3	3	1	6	5	5	0	4	0	0	1	1	3	3	1	4.0	2	13	 All the students who participated in the debate, brought their textbooks to the classroom, but only a few of them used their pens to write their answers.	7
+27	0	0	7	0	1	5	3	6	0	1	0	0	4	0	1	1	0	3.0	0	21	 The dog, the cat, the quick brown fox, the lazy fox, he, she, and I all enjoyed the delicious treat.	7
+24	1	1	2	1	2	7	0	7	0	3	0	0	0	1	2	2	1	4.0	2	8	All the students and teachers participating in the competition equally shared the prizes, with each one receiving a trophy and a gift.	7
+26	0	0	8	2	1	3	7	2	0	1	0	0	2	0	1	1	0	5.0	0	13	Each teenager has a different preference for pronouns, such as her, his, him, theirs, hers, you, and me.	7
+22	0	1	3	1	1	6	0	4	0	3	1	0	2	2	2	1	0	4.0	2	16	A quick brown fox jumps over the sleeping tiger, carrying a parrot and two bunnies, while the lion sleeps.	7
+26	0	0	9	1	1	3	7	2	0	0	1	1	1	0	2	0	0	3.0	0	20	The seven pronouns, he, she, it, we, you, they, and I, are all essential components of grammar.	7
+26	0	1	4	2	1	7	0	6	0	3	0	0	2	2	2	1	0	4.0	2	18	The quick brown fox jumps over the sleeping tiger, chasing after the hare, and the goat, while the sheep eats the oats.	7
+23	0	0	6	3	2	3	5	2	0	1	0	1	0	0	1	0	0	4.0	0	9	All of us, boys and girls, are going to the dance with her, him, them, and me.	7
+18	1	0	2	1	0	4	2	2	0	3	0	0	2	2	1	2	0	4.0	2	10	 Each person brings their own unique strengths to the team, thereby helping to achieve their goals.	7
+28	0	1	3	1	1	6	0	5	0	3	0	0	8	1	3	1	0	4.0	1	12	The quick brown fox jumps over the sleeping blue cat, and the mischievous green parrot grabs the red rose, while the wise old owl watches.	7
+27	2	1	2	2	1	7	1	4	0	3	0	0	4	2	3	1	0	7.0	2	6	The curious onlookers watched as the agile gymnast gracefully danced on the soft mat, her movements captivating the attentive audience of students and teachers alike.	7
+23	1	0	7	1	1	8	1	1	0	0	0	1	2	0	1	0	0	3.0	0	16	Each educator, astronaut, teenager, entrepreneur, ophthalmologist, physicist, and musician was uniquely talented in their respective fields.	7
+25	0	0	7	0	1	8	0	8	0	1	0	0	0	0	1	1	0	3.0	0	20	A baker, a butcher, a carpenter, a farmer, a gardener, a hatmaker, and a shoemaker shared a meal.	7
+21	0	0	2	2	2	6	0	4	0	2	0	0	3	0	2	0	0	4.0	0	11	The quick brown fox jumped over the sleeping tiger, and each goat and pig chased after the sly fox.	7
+37	1	1	10	2	0	5	2	4	5	2	0	0	5	1	2	2	0	4.0	1	17	The proud nurse, Maria, entrusted the fragile baby, Thomas, to the attentive nanny, Emily, while she bravely fought the villainous demon, Lucifer, with her mighty sword, Excalibur.	7
+23	0	0	8	1	1	2	7	1	0	1	1	1	0	0	1	0	0	4.0	0	13	Seven pronouns are used in this sentence: I, you, he, she, it, they, and we.	7
+18	0	0	2	1	1	5	3	2	0	2	0	0	2	0	2	2	0	3.0	0	9	 Each student brought their own book, and a few students shared their textbooks with their friends.	7
+19	1	0	3	4	1	4	1	4	0	1	0	0	0	0	1	0	0	3.0	0	11	 All the boys and girls in the room, except for me, danced to the music enthusiastically.	7
+21	2	0	2	2	1	5	1	3	0	3	0	0	1	2	1	2	0	4.0	2	10	Each individual possesses a unique set of strengths and weaknesses, therefore enabling them to contribute meaningfully to any team.	7
+15	1	0	2	2	0	3	2	1	0	2	1	0	1	1	1	1	0	4.0	1	6	Seven pronouns dance gracefully in the park, delighting everyone with their intricate interplay.	7
+31	2	0	8	1	0	8	2	5	0	2	0	1	2	1	2	1	0	5.0	1	11	The elderly woman, a nurse, gently carried the frail child, her patient, to the hospital room, where the doctors, her colleagues, were waiting.	7
+23	0	0	4	0	1	6	2	5	0	3	0	1	1	1	3	3	0	5.0	1	8	The cat chased the dog, and the fox chased the lion, their respective owners, who were watching the play.	7
+19	1	0	7	0	1	7	0	1	0	1	0	1	0	0	1	0	0	3.0	0	15	The boy, girl, woman, man, child, elder, and infant are playing together.	7
+23	0	0	7	2	1	3	0	2	0	1	7	0	0	0	1	0	0	3.0	0	15	The one, two, three, four, five, six, and seven students danced with joy in the meadow.	7
+19	0	0	3	0	1	3	3	2	0	2	0	1	2	2	1	2	0	4.0	2	9	Each elf is eager to help him, herself, and his friends to battle the evil dragon.	7
+19	0	0	4	0	1	6	0	3	0	2	0	1	1	1	1	1	0	3.0	1	9	All the students, teachers, parents, and children are gathering to celebrate the annual school festival.	7
+20	1	1	3	1	0	3	5	2	0	3	0	0	1	2	3	3	0	4.0	2	7	Each student brought their own book, while I gave mine to the teacher, who received it gratefully.	7
+17	1	0	2	1	0	3	3	1	0	2	0	1	3	1	2	1	0	4.0	1	5	Each student has their own unique backpack, which was specifically designed by their favorite designer.	7
+19	0	2	2	1	0	4	3	1	0	2	0	0	4	1	2	2	0	3.0	1	12	 Each person has their own unique set of personal belongings, so that nobody loses their treasured possessions.	7
+15	0	0	2	1	0	3	4	1	0	3	0	0	0	2	2	2	0	4.0	2	5	 A boy offered his book to his sister, who refused to accept it.	7
+29	1	0	7	0	1	8	0	8	0	2	0	1	0	1	1	1	0	3.0	1	21	A baker, a butcher, a carpenter, a dancer, a doctor, an engineer, and a farmer are working together to build a house.	7
+23	0	0	2	2	1	7	0	5	0	2	0	0	4	0	2	1	0	3.0	0	10	The quick brown fox jumps over the sleeping tiger, and the sneaky gnome steals the shiny diamond from the weeping onion.	7
+8	0	0	1	1	0	2	0	1	0	1	1	1	0	0	1	0	0	2.0	0	3	Seven pronouns are used in this sentence:  The quick brown fox jumps over the sleeping lion, so that the little brown dog can eat some grapes.	7
+35	2	0	9	1	1	8	0	2	0	2	0	0	10	1	1	2	0	4.0	1	21	A altruistic adolescent, agile in agility, altruistically assists ambitious athletes, ambitious entrepreneurs, audacious activists, enthusiastic employees, energetic engineers, and frustrated farmers, ultimately forging a collaborative community.	7
+17	3	0	3	1	1	4	1	2	0	1	0	1	0	0	1	1	0	4.0	0	11	 All the boys and girls, as well as their parents, were eating dinner together.	7
+30	0	0	6	1	1	8	0	4	0	0	0	1	9	0	1	0	0	3.0	0	22	The old woman, young boy, fearless knight, mischievous elf, arrogant dwarf, wicked witch and the humble pie were all part of the epic adventure.	7
+33	0	1	4	1	1	8	0	6	0	4	0	1	6	2	3	2	0	5.0	2	16	The quick brown fox jumps over the sleeping lion, carrying the sleepy goat, and the proud peacock is soaring, while the mischievous squirrel steals the nimble snake's tail.	7
+33	0	0	9	1	1	10	1	9	0	1	0	0	1	0	1	1	0	3.0	0	19	The elderly woman, a teacher, shared her apples with the student, the scholar, the farmer, the nurse, the painter, the carpenter, and the mechanic.	7
+32	0	1	3	3	1	9	0	8	0	3	0	0	4	1	3	2	0	4.0	1	10	The quick brown fox jumps over the sleeping dog, while the sneaky weasel takes the bread from the table, and the goat gives a hug to the thirsty lion.	7
+30	1	0	3	2	2	6	1	5	0	3	0	2	5	0	3	1	0	3.0	0	20	 The quick brown fox jumps over the sleeping dog, and the hungry lion is chasing the sneaky snake, and they are all playing with the beautiful butterfly.	7
+22	0	0	2	2	1	6	0	4	0	2	0	0	4	0	2	0	0	4.0	0	10	The quick brown fox jumps over the sleeping baby, and the sleepy lion tugs at the playful elephant's tail.	7
+29	1	2	5	1	2	2	0	3	8	3	0	0	2	1	3	2	1	4.0	2	11	As Amy, Anne, and Anthony chased After, the Ailing Baker gave a large apple to Anna and Aloysius, while Abigail provided a warm blanket.	7
+22	0	0	5	1	2	3	0	2	4	2	0	1	2	0	2	0	0	4.0	0	16	The quick brown fox jumps over the sleeping cat, and Mary, Brian, Sarah, and Emily are watching.	7
+27	0	0	3	2	1	8	1	7	0	3	0	1	0	1	3	3	0	6.0	1	9	The teacher gave the student a book, and the student shared the book with the classmates, who were listening to the teacher's lecture.	7
+40	2	0	6	4	0	8	2	6	0	4	0	1	7	3	3	2	0	7.0	3	7	The inquisitive cat, quick as a flash, chased after the mischievous toddlers, who were playfully running towards the majestic lion, thereby bringing happiness to the lonely old woman, whose smile illuminated the entire park.	7

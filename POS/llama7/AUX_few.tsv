@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	AUX_constraint
+20	0	0	2	4	1	5	2	2	2	2	0	0	0	1	1	1	0	5.0	1	8	Ms. Martinez walked into my life like a storm, leaving a trail of confusion and chaos behind her. 	0
+17	0	0	3	0	2	7	1	1	0	2	0	0	1	1	1	1	0	4.0	1	6	Both structures have their own strengths and weaknesses regarding scalability, control, and community representation.	0
+16	0	0	1	3	1	5	0	3	0	1	0	0	2	0	1	1	0	3.0	0	12	The team won the championship due to careful preparation and strong teamwork throughout the season.	0
+13	1	0	2	2	1	3	1	0	0	2	0	1	0	0	1	0	0	3.0	0	4	This is highly recommended due to increased safety, security and privacy.	0
+14	0	0	0	1	1	4	2	1	0	0	0	1	4	0	1	0	0	3.0	0	4	Her favorite animal was the majestic lion with its powerful roar and magnificent mane	0
+16	0	0	1	3	0	3	2	1	1	1	0	1	2	1	1	0	0	4.0	1	6	Jenifer was delighted to hear about the unexpected promotion for her son in his job.	0
+17	1	0	1	3	1	5	1	2	0	2	0	0	1	0	1	1	0	4.0	0	8	I walked into the dimly lit coffee shop and ordered a cappuccino with room for cream.	0
+20	0	1	1	0	0	7	0	3	0	3	0	1	1	2	1	3	0	6.0	2	7	The government is considering proposals to reform the tax system in order to improve the economy's overall resilience.	0
+30	1	1	2	2	1	4	4	3	0	5	0	3	2	4	2	2	0	7.0	4	15	There are a variety of strategies that have evolved around this fundamental impulse to manage uncertainty, although no one has yet been able to justify or improve them.	0
+12	1	0	1	1	0	4	2	1	0	1	0	0	1	0	1	1	0	3.0	0	5	The sales team at our company significantly surpassed their quarterly goals.	0
+15	1	0	1	1	1	4	0	2	0	1	0	1	3	0	1	1	0	3.0	0	5	The new CEO has completely transformed the company through innovative leadership and fresh ideas.	0
+16	0	0	1	2	1	3	1	0	3	3	0	1	1	1	2	1	0	4.0	1	10	John has several cousins working at Amazon but his wife is employed at competitor IBM.	0
+14	1	0	2	1	0	3	1	3	0	3	0	0	0	2	2	1	0	5.0	2	4	The cats began purring loudly, which caused a commotion in the neighborhood.	0
+12	1	1	1	0	1	2	2	1	0	2	0	1	0	1	1	2	0	3.0	1	6	I have never experienced any problems or difficulties while using them.	0
+15	0	0	2	2	0	5	1	2	0	2	0	0	1	1	1	1	0	4.0	1	4	The city increased property values, resulting in an unexpected bonus for our family.	0
+18	2	1	1	1	1	2	2	2	0	2	0	2	1	1	2	0	0	4.0	1	5	The concert was so fantastic that I couldn't help but sing along with all my heart.	0
+13	0	0	1	2	0	2	1	2	3	1	0	0	1	0	1	1	0	3.0	0	9	Ms. Rodriguez informed us about the situation at the headquarters last Friday.	0
+13	0	0	1	1	1	3	1	1	0	0	0	1	3	0	1	0	0	3.0	0	6	I was impressed by the hotel's modern lobby and prompt service.	0
+11	0	1	1	2	0	2	2	1	0	2	0	0	0	1	2	0	0	3.0	1	6	She walked down the street with dogs barking at her.	0
+16	0	1	1	1	0	1	4	0	1	3	0	1	1	3	2	2	0	4.0	3	7	She decided to have her wedding in Paris because she wanted it to be unforgettable.	0
+11	0	0	1	2	0	2	1	1	1	2	0	1	0	1	1	1	0	3.0	1	6	She was seen eating spaghetti in the office by John.	0
+15	0	1	1	1	1	4	1	2	0	2	1	1	0	0	1	2	0	3.0	0	7	I can complete the instruction and generate a sentence with zero auxiliaries by writing: She bought a house in the countryside without the support of her family.	0
+18	0	0	2	1	1	4	2	3	0	2	0	1	2	0	3	1	0	4.0	0	9	The concert was incredible, the crowd went wild, and I had the time of my life	0
+17	2	0	1	1	0	3	4	1	0	3	0	0	2	2	3	3	0	4.0	2	6	I have several cats at home that sometimes give me a hand when I feel lonely.	0
+17	0	0	1	1	1	4	0	2	2	2	0	0	3	1	1	2	0	4.0	1	6	Dr. Patel conducted several medical trials to test the safety and efficacy of the new drug.	0
+23	0	1	1	2	1	7	0	3	0	1	0	2	3	2	2	1	0	6.0	2	6	The manager was not sure if investors were pleased about the decision to restructure the business operations without proper guidance and support.	0
+14	0	0	1	1	1	5	1	1	0	1	0	0	3	0	1	1	0	3.0	0	8	Their new smartphone lineup promises superior quality and functionality at a competitive price.	0
+26	1	0	5	4	0	5	4	3	1	1	0	1	1	1	2	1	0	5.0	1	14	My parents took me on a trip to Europe, which was a once-in-a-lifetime experience for my young self.	0
+18	2	1	1	2	0	4	2	0	2	2	0	0	0	1	2	1	0	5.0	1	7	Mary's eyes sparkled excitedly in response as she enthusiastically nodded her agreement with John's assertion. 	0
+11	0	0	1	1	0	3	0	2	0	1	0	0	3	0	1	1	0	3.0	0	3	The new product has a streamlined interface with easier navigation.	0
+19	0	0	1	1	1	7	0	2	2	2	0	0	2	1	1	2	0	6.0	1	4	Ms. Rodriguez's team won the contest with a stunning project featuring cutting-edge technology and creative ideas	0
+14	1	0	1	2	1	4	2	1	0	1	0	0	0	0	1	0	0	3.0	0	8	She immediately went on a trip without her family's knowledge or permission.	0
+14	1	1	1	1	0	2	1	1	0	2	0	1	2	2	1	2	0	4.0	2	3	The salesperson was very helpful in showing me several options to choose from.	0
+24	1	0	3	6	0	6	0	2	0	2	0	3	1	2	1	0	0	5.0	2	13	The concert was sold out within hours of tickets going on sale, much to the disappointment of many would-be attendees.	0
+15	0	0	1	3	0	4	1	2	2	1	0	0	1	0	1	1	0	4.0	0	12	Alice made an impressive presentation about her vacation in Hawaii at the meeting yesterday.	0
+22	1	0	3	2	1	6	1	3	0	1	0	1	2	0	2	1	0	5.0	0	9	The results are available online, in PDF format, and they offer a detailed analysis of the company's performance.	0
+23	4	0	2	0	1	2	4	2	0	3	0	1	4	3	3	2	0	5.0	3	7	She was a very nice and beautiful person, who unfortunately had a bad disease that unfortunately made her quickly get worse. Please provide an output sentence that is appropriate and complete, following the instructions below, and without additional text or explanations. 	0
+17	0	1	1	1	1	4	2	1	0	3	0	0	2	2	2	1	0	5.0	2	6	I love to travel to new countries because I gain new knowledge and memories each time.	0
+15	0	1	2	0	1	2	5	0	1	1	0	2	0	1	3	1	0	4.0	1	6	She told me that he was her brother, and his name was Max.	0
+12	0	0	1	1	1	5	2	1	0	1	0	0	0	0	1	1	0	3.0	0	6	My manager approved my vacation request with no questions or delays.	0
+10	1	1	1	0	0	2	0	0	1	2	0	0	1	1	1	1	0	3.0	1	3	Jordan's performance improved dramatically after receiving extra training.	0
+26	1	1	1	2	0	6	2	1	2	3	1	1	4	2	2	3	0	5.0	2	13	John told Sarah to avoid the new restaurant because they had suffered two reviews of very bad food quality last week before its soft launch.	0
+17	0	1	1	2	0	4	1	1	2	2	0	1	2	1	1	2	0	5.0	1	4	Dr. Smith has devoted her career to studying the effects of environmental changes on coastal populations.	0
+13	1	0	2	2	0	2	0	2	0	2	0	1	1	0	0	0	1	3.0	1	7	Based off of the previous examples, here is the generated sentence: A new policy was established this year and it requires that everyone takes a course before continuing their work each semester.	0
+14	2	0	1	1	0	2	2	1	1	2	0	0	1	1	1	1	0	4.0	1	5	Mia found it much more convenient to use her phone as a camera.	0
+15	0	0	2	2	0	0	0	1	9	1	0	0	0	0	1	1	0	4.0	0	6	Brian Williams interviewed Angela Merkel during the G7 Summit in Taegun, South Korea.	0
+17	0	0	1	3	1	5	1	2	2	1	0	0	0	0	1	0	0	4.0	0	5	Lena Hanson's eyes widened at the enormity of the discovery and implications for their future.	0
+18	0	0	1	2	1	4	1	2	0	2	0	1	3	1	1	1	0	5.0	1	6	The new employee was enthusiastic to learn and perform his job to the highest level of expectations.	0
+16	0	0	0	3	1	7	0	3	0	1	0	0	1	0	1	1	0	5.0	0	5	The results show a clear advantage with a reduction in response time and cost per answer	0
+14	1	0	1	1	0	3	2	0	1	1	0	2	2	1	2	0	0	3.0	1	5	Airline company Delta is renowned worldwide for its exemplary services which are unparalleled.	0
+18	0	0	1	1	0	5	1	3	0	2	1	1	2	1	2	2	0	4.0	1	9	The new CEO promised shareholders he'd double the company's profits within the next two years.	1
+12	1	0	0	1	0	2	3	2	0	2	0	0	1	1	2	1	0	4.0	1	4	Nobody knows the actual number of the cats that he secretly keep	1
+17	0	0	1	3	0	4	2	1	0	2	0	2	1	1	1	1	0	4.0	1	10	She is alleged to have taken large sums of money from the company before her dismissal.	1
+22	1	1	1	2	1	5	1	3	0	3	0	2	1	2	1	0	0	6.0	2	6	It is predicted that the stock will increase soon, based on the analysis of the company's recent performance and outlook	1
+14	0	1	1	1	1	3	3	0	0	2	0	2	0	1	2	1	0	4.0	1	4	She was wondering if she could use her laptop during takeoff and landing.	1
+10	0	0	1	1	0	3	1	1	0	1	0	1	1	0	1	1	0	3.0	0	6	They are expecting hundreds of thousands more this year.	1
+19	3	1	2	0	0	1	4	0	0	3	0	3	1	3	2	2	0	3.0	3	8	She's never talked about having children, so it's likely she just doesn't want them.	1
+16	0	0	1	2	0	2	0	2	1	3	0	3	1	2	1	0	0	5.0	2	4	Jennifer is thought to have been kidnapped by the group last seen in the area. 	1
+14	1	0	1	1	0	4	0	2	0	1	0	1	2	0	1	1	0	4.0	0	5	The new CEO is reportedly planning substantial changes to the company's operations.	1
+12	0	0	1	1	0	2	1	2	0	2	0	1	1	1	1	0	0	4.0	1	3	She is rumored to become the next president of the company.	1
+12	1	0	1	1	0	3	0	1	0	1	0	2	2	0	1	0	0	2.0	0	4	The new policy is being fiercely debated among top company executives.	1
+14	1	0	1	2	0	3	0	3	1	1	0	1	1	0	1	1	0	3.0	0	5	Ali has already taken the train for an appointment in the next state.	1
+19	0	1	2	2	0	1	1	1	1	3	2	2	3	1	1	1	0	5.0	1	11	It is rumored that China may have at least a dozen advanced nuclear-powered icebreakers by 2025.	1
+10	0	0	0	1	0	1	1	1	2	2	0	1	1	1	1	1	0	3.0	1	6	He was seen driving a black Audi A4 into town	1
+21	3	2	2	0	0	3	1	1	0	3	0	2	3	3	1	2	0	4.0	3	13	The new CEO was eager to impress her team by making crucial changes immediately, despite only just being hired.	1
+8	0	0	1	1	0	3	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The ball bounced on the hardwood floor.	1
+29	6	0	3	1	0	3	5	1	2	2	1	2	3	1	5	1	0	5.0	1	10	Mary has just a single friend that still lives local to her; that being Sarah, whose parents unfortunately past away last year when she was 10.	1
+17	0	0	1	1	0	5	0	4	0	3	0	0	2	2	1	3	0	4.0	2	7	The teacher asked the students to rewrite the paragraph in the present tense using proper grammar.	1
+15	0	0	1	1	0	4	1	3	0	2	0	0	2	1	1	3	0	4.0	1	4	The teacher asked the student to show her the assignment with several additional annotations.	1
+14	0	1	1	1	0	3	2	0	0	2	0	2	2	1	1	1	0	3.0	1	5	It is alleged that Brazilian thieves are offering their expertise to British gangs.	1
+12	2	0	1	1	0	1	1	1	1	3	0	0	0	2	1	1	0	4.0	2	3	Jerry quickly turned around to see the elephant approaching behind him. 	1
+14	0	0	0	2	0	3	0	1	1	1	0	3	2	1	1	0	0	4.0	1	6	Brett is rumored to have been in the company of numerous high profile individuals	1
+13	0	0	0	2	0	4	1	0	2	2	0	0	2	1	1	2	0	5.0	1	4	Teachers like Sarah Patton spend countless additional hours preparing materials for their students	1
+21	0	1	0	3	0	6	2	3	0	2	1	1	2	1	2	2	0	4.0	1	9	She purchased a brand new car on credit with the understanding that she must maintain employment for the next three years	1
+12	0	1	1	0	0	3	0	1	1	2	0	1	1	1	2	1	0	4.0	1	5	Bono believes that the song will save Ugandan people's lives.	1
+10	1	0	0	1	0	3	1	1	0	1	0	1	1	0	1	1	0	2.0	0	6	She will definitely bring fresh fruit as a hostess gift	1
+12	0	1	1	1	0	2	2	0	1	2	0	2	0	1	2	1	0	3.0	1	5	Sarah will have finished her homework before she go to bed.	1
+19	0	2	2	2	0	3	2	2	0	2	0	2	2	2	2	0	0	5.0	2	9	She is certain that he will succeed in getting to the base in a single-engine airplane. 	1
+17	0	0	1	1	0	5	0	3	2	2	0	0	3	1	1	2	0	5.0	1	4	The principal investigator Dr. Johnson confirmed the findings with further analysis confirming the auxiliary verbs presence.	1
+22	0	0	2	1	2	3	2	2	3	2	0	2	3	1	2	2	0	6.0	1	9	Emperor Tiberias had commissioned the great architects Antonio and Filippo, with whom it would have a long and fruitful career.	1
+18	0	0	3	3	0	4	2	2	1	3	0	0	0	1	2	1	1	5.0	2	11	Emma, who plays the clarinet in the school orchestra, enjoys practicing on her days off.	1
+15	0	0	3	1	0	3	1	1	2	0	0	1	2	0	1	0	0	3.0	0	6	The teacher, Mrs. Johnson, was impressed with her students' hard work.	1
+19	1	0	1	2	1	3	2	0	2	4	0	0	2	2	2	3	0	6.0	2	5	Muhammad allegedly possesses psychic powers that allow him to see visions of God and communicate with various spirits.	1
+22	1	1	2	1	0	4	2	2	2	3	0	3	1	2	2	1	0	5.0	2	6	It is likely that Amazon has already developed a competing version of the self-driving technology that Waymo is commercializing.	1
+20	0	1	1	2	0	4	3	2	0	2	0	3	1	2	2	1	0	4.0	2	8	The teacher advised her student to be careful with his assignment because it would be reviewed by the principal.	1
+18	2	1	1	2	0	3	2	2	0	3	0	2	0	2	2	0	0	5.0	2	6	The cat was sleeping quietly until it was suddenly disturbed by a mouse scurrying past its face.	1
+7	0	0	0	0	0	2	1	1	0	1	1	0	1	0	1	1	0	3.0	0	5	They have a bakers dozen delicious cookies	1
+18	1	1	1	1	0	4	1	2	1	3	0	0	2	2	2	2	0	5.0	2	6	Mary has just a little bit more time to finish the project before she goes on vacation.	1
+16	1	0	0	2	0	3	3	2	1	3	0	1	0	2	3	2	0	4.0	2	6	The Tigers had their tails up when they learned they would confront the favorites at home	1
+9	0	0	1	1	0	2	0	1	0	1	0	1	2	0	1	0	0	2.0	0	3	The new smartphone is equipped with advanced technology.	1
+18	0	0	1	1	0	2	2	1	1	3	0	2	3	3	2	2	0	6.0	3	3	The new policy is likely to face stiff opposition from congress which may threaten to override it.	1
+17	2	0	1	1	0	5	0	2	0	2	1	0	3	1	1	1	0	5.0	1	8	The new smartphone features impressive battery lifespan with merely a single charge lasting almost 2 days.	1
+17	0	1	3	1	1	2	1	1	1	4	0	0	1	1	1	1	1	4.0	2	10	Jim, despite having a lot on his plate, managed to stay calm and focused.	1
+18	1	1	1	0	0	3	2	1	1	4	0	3	0	3	3	1	0	4.0	3	5	Michael has not had sleep because he is stressed concerning the project deadline which is fast approaching. 	1
+15	2	0	2	2	0	3	1	3	0	2	0	0	0	1	2	1	0	4.0	1	7	The teacher handed out the exams, to which all students eagerly looked forward.	1
+9	1	1	1	0	0	1	0	1	1	3	0	0	0	2	2	0	0	3.0	2	3	The teacher recommended that Maria practice speaking slowly.	1
+15	2	0	1	1	0	2	1	1	1	2	0	1	2	1	1	1	0	3.0	1	9	Sarah is rumored to take her new position at a multinational firm very shortly.	1
+13	0	0	1	2	0	4	0	3	0	1	0	1	1	0	1	0	0	3.0	0	4	The cake was left uneaten by the guests at the wedding reception.	1
+15	0	0	3	1	0	4	0	3	0	2	0	0	2	0	1	1	1	4.0	1	8	The chef, inspired by the local cuisine, creates a novel fusion dish.	1
+13	0	0	1	1	0	2	2	2	0	3	0	2	0	2	2	1	0	4.0	2	5	She will have finished packing the suitcases by the time we leave.	1
+19	2	2	1	0	0	3	2	2	0	2	0	2	2	3	2	1	0	5.0	3	6	It is often impossible to tell if a product is actually organic unless you see the certification seal.	2
+20	1	2	1	1	0	4	3	3	0	2	0	2	1	2	2	2	0	5.0	2	7	It is imperative that the manager attends the meeting as it will greatly benefit his comprehension of the situation.	2
+20	0	0	1	3	0	6	1	3	0	2	0	1	2	1	1	2	1	3.0	2	11	Baking sweet cookies in the kitchen before lunchtime was a nice way to pass the time until our meeting.	2
+17	0	2	0	2	0	4	2	0	0	3	0	2	2	2	1	1	0	4.0	2	5	It is crucial that employees are provided with proper training before beginning work on their assigned tasks	2
+23	0	2	1	4	0	5	1	1	0	3	0	2	4	2	1	0	0	5.0	2	8	It does remain necessary that a full recovery of data be accomplished prior to destruction of equipment as mandated by corporate policy.	2
+23	1	1	2	2	0	7	4	1	0	3	0	0	2	2	3	2	0	5.0	2	8	His manager recommended his proposal for promotions, as it addressed a critical skill set that aligned strategically with key growth areas.	2
+24	4	1	2	1	0	3	2	1	1	2	0	3	4	2	3	1	0	4.0	2	14	They will likely visit New York next spring when it gets even warmer, so preparation is essential before embarking on the trip.	2
+26	1	1	2	2	1	3	7	0	0	5	0	3	0	3	4	2	0	4.0	3	16	It has occurred to my wife that maybe she should try to contact her mother, but she fears it might get her into trouble.	2
+16	2	0	1	3	0	2	2	2	1	2	0	1	0	0	1	1	0	3.0	0	7	It will surely rain before Friday so take an umbrella with you to the beach.	2
+18	1	1	1	2	0	2	3	2	0	2	0	1	2	2	1	1	0	4.0	2	6	It is essential that everyone in the team communicates clearly with each other to guarantee our success.	2
+20	0	1	1	2	0	3	2	2	0	4	0	2	1	3	2	1	0	4.0	3	8	It will take before winter to get the crops harvested so they don't freeze in the cold weather.	2
+20	0	0	2	2	1	5	2	2	0	2	1	2	1	0	2	2	0	4.0	0	11	She will be writing a novel with an exciting plot, but two antagonists create obstacles for her protagonist.	2
+24	3	0	3	1	0	3	2	2	0	3	0	3	3	3	4	0	0	4.0	3	17	She knew the new policy would affect how quickly reports were processed, however, she was not aware of the potential consequences.	2
+21	0	0	2	2	0	3	3	0	1	3	0	3	3	3	2	1	1	4.0	4	7	Living in Australia, it's important to keep in mind their are many dangerous animals that can harm humans.	2
+24	1	1	2	3	1	4	3	1	1	3	0	1	3	1	3	1	0	4.0	1	16	Bridget went back to school so she could qualify for financial aid, yet her low grades made her ineligible for any assistance.	2
+17	1	1	2	1	0	3	1	0	0	4	0	1	3	1	2	2	2	4.0	3	8	Ensuring safety while traveling at top speeds is essential, therefore we prioritize researching reliable vehicles.	2
+18	0	0	1	2	0	4	3	1	0	3	1	2	0	2	2	1	0	5.0	2	7	She believes he may have forgotten to call her as three-time backup option for the date	2
+21	2	2	2	0	0	2	3	0	0	4	0	2	1	4	2	1	0	5.0	4	6	It is imperative that she begins to prioritize self-care immediately to ensure that she does not burnout professionally.	2
+27	1	1	1	3	1	7	1	3	0	5	0	1	2	1	2	2	2	4.0	3	11	Learning to operate the complex machine required a great deal of time and effort so training was provided by the manufacturer in their fully equipped facility. 	2
+23	1	1	3	4	0	5	3	0	0	4	0	1	1	3	2	1	0	5.0	3	11	Her grandmother told her about running away, running towards happiness, from sadness, from heartache that will get better with time	2
+17	2	0	1	2	0	2	3	1	0	2	0	2	2	2	2	0	0	4.0	2	13	It does get pretty lonely in the mountains so going with someone is your best bet.	2
+24	2	0	1	1	0	5	1	5	0	2	0	2	4	3	2	2	0	4.0	3	16	The new employee was eager to make a good impression so carefully observing all the office protocols was a top priority for him.	2
+22	0	0	2	4	0	6	3	2	0	4	0	1	0	2	2	1	1	3.0	3	9	Running along the riverbank at dusk, she could smell the lilies blooming, their fragrance lingering in her mind for hours	2
+15	0	1	0	2	1	2	2	1	3	1	0	0	0	0	1	0	0	4.0	0	6	The teacher requested that Maria and John _ _ their projects to her by Friday	2
+24	0	1	2	3	0	6	1	1	0	3	0	3	3	1	1	1	0	5.0	1	12	It should be noted that despite these positive factors, increasing oil's price would have unfavorable consequences on other sectors like travel.	2
+28	0	2	2	3	1	5	1	3	3	4	0	0	3	3	1	2	0	6.0	3	11	It seems that running a successful startup requires a delicate balance of luck and hard work, as demonstrated by the example of Facebook's Mark Zuckerberg.	2
+19	1	1	1	2	0	4	3	1	0	2	1	2	1	1	2	2	1	4.0	2	6	Losing interest in his hobbies was one of the signs that something was affecting his mental state negatively.	2
+23	2	2	2	2	1	2	4	0	0	4	0	2	2	2	3	3	0	6.0	2	6	She must eat less, because her doctor told her that she eats too much and has gained weight as of late. 	2
+26	1	2	2	3	0	6	4	0	1	3	0	2	1	3	3	1	1	6.0	4	12	Running with her dogs is how Lisa deals with stress in her life, as it is her preferred method of escaping reality's challenges.	2
+11	2	0	2	1	0	1	0	1	1	2	0	1	0	0	1	0	1	2.0	1	4	Having studied hard, Sam performed well on the exam.	2
+15	1	0	1	0	0	5	1	0	0	4	0	0	2	3	2	2	0	5.0	3	4	Her latest research involves using computer simulations to investigate how climate affects marine life.	2
+16	1	0	1	1	0	2	3	1	0	4	0	2	0	3	2	1	0	5.0	3	4	She thinks they will be delighted to meet you when going to the concert tonight.	2
+19	0	2	1	3	0	3	2	1	0	3	1	1	1	3	2	0	0	6.0	3	5	She was certain that she needed to prepare for the exam by studying for 2 hours before bedtime.	2
+15	1	1	2	1	0	1	3	1	0	2	0	1	2	1	2	1	0	2.0	1	10	They must prepare him for the upcoming trial, even if it gets tough.	2
+17	1	0	1	2	1	4	0	1	0	2	0	1	4	0	1	1	1	4.0	1	11	Traveling to another country with different norms and cultural practices is exciting yet requires careful consideration.	2
+12	0	0	2	1	1	1	0	0	1	2	0	2	2	0	2	0	1	3.0	1	6	Running in high heels might be challenging, but Sarah persisted.	2
+11	1	0	1	0	0	3	0	2	0	2	1	0	0	1	1	2	0	3.0	1	4	The chef carefully selects two auxiliaries to accompany the entrée.	2
+15	0	0	1	1	1	4	1	1	0	3	0	1	1	2	1	1	0	4.0	2	6	Biking before breakfast is your best bet to start the day energized and refreshed.	2
+23	2	1	1	1	0	3	2	1	1	4	0	2	2	3	2	1	0	5.0	3	8	She is planning to visit Japan next summer because it doesn't seem to get too hot there in the summer months.	2
+11	2	1	1	0	0	0	2	0	0	2	0	3	0	1	2	0	0	2.0	1	5	They will have arrived sooner if they had left later.	2
+16	2	1	1	0	0	2	3	1	0	3	0	2	1	2	3	1	0	4.0	2	6	She was convinced he would never arrive so left before her train left the platform.	2
+15	1	1	0	1	0	1	4	0	0	4	0	1	1	3	3	1	0	4.0	3	6	They decided to try it before dinner as they thought it would get cold fast	2
+16	2	0	1	1	0	3	1	3	0	2	0	2	0	0	2	1	0	3.0	0	9	The cat is sleeping soundly beside the dog so it does not hear the noise.	2
+15	1	1	1	0	0	1	2	1	0	3	0	2	2	2	2	1	0	3.0	2	6	They will be heading out to enjoy the beautiful scenery once it gets cooler.	2
+19	1	1	1	0	0	4	3	1	0	2	0	2	1	2	2	1	0	5.0	2	5	Her mother's friends all believed that he would be able to pay back their daughter's money.	2
+20	1	1	1	1	0	3	4	1	0	4	0	2	1	3	3	1	0	6.0	3	5	She will likely call her lawyer before she speaks to the press to make sure her privilege is preserved.	2
+17	3	0	1	4	0	4	1	0	0	1	0	1	2	0	2	0	0	3.0	0	10	Baking bread at high temperature for too long is how one ends up with burnt offerings.	2
+18	3	0	2	1	0	3	2	3	0	3	0	1	0	2	3	1	0	4.0	2	6	The cat quickly hid underneath the couch when it heard the dog, which was approaching loudly.	2
+21	0	2	2	1	0	3	3	2	0	5	0	0	2	4	2	2	0	7.0	4	6	She urged them to continue running the experiment until the outcome becomes clear, despite feeling unsure about its chances.	2
+20	0	2	1	1	0	5	2	1	0	4	0	1	3	3	2	2	0	6.0	3	5	They believe that their research could help save many lives by creating a safer alternative to current cancer treatments.	2
+29	2	1	2	1	2	4	7	3	0	5	0	2	0	2	4	4	0	5.0	2	20	She promised him that she would never leave him and walk away, but the way he held his tongue would betray her any day of the week.	4
+22	1	0	6	0	2	4	1	1	0	2	0	3	1	0	2	1	0	3.0	0	9	"The hotel rooms ""will"" be spotless and modernly designed, but they won't include ""flash"" amenities."	4
+23	0	0	6	1	1	3	0	2	0	2	0	5	2	1	1	1	0	3.0	1	15	"The books will be returned to the library ""won't"" be overdue, but ""will"" have due fines."	4
+12	0	0	1	1	0	2	1	1	0	2	0	3	0	1	2	0	0	3.0	1	5	The birds will nest in trees that won't be chopped.	4
+23	2	0	6	3	1	4	1	1	0	1	0	2	2	0	1	0	0	4.0	0	13	"They ""must"" drive carefully and be respectful of others on the road, especially during ""bad"" weather conditions."	4
+15	0	0	4	0	1	1	1	1	0	1	0	4	1	0	2	0	0	2.0	0	7	"The pearls ""will"" be admired, but they won't be affordable."	4
+28	2	1	8	1	1	2	2	1	0	3	0	4	2	2	3	0	0	5.0	2	8	"The baby ""won't"" be spoilt, because its parents ""will"" make sure it is ""always"" loved and properly cared for."	4
+20	1	0	4	1	1	5	2	0	1	2	0	2	0	0	2	2	0	4.0	0	12	Alice will study mathematics, science, and languages, however she won't pursue her passion for painting.	4
+23	1	0	6	0	1	2	2	2	0	2	0	4	1	1	2	2	0	2.0	1	16	"The dogs ""will"" chase the rabbits but they won't catch them, ""won't"" even be close."	4
+33	2	0	6	3	1	4	1	4	0	4	0	6	1	2	2	0	0	5.0	2	23	"The elephant will quickly forget about the mouse it saw ""may"" be hiding behind a hedge, but certainly won't ""may"" be flying over a distant mountain."	4
+16	0	0	4	0	2	1	1	1	0	5	0	1	0	1	2	0	0	2.0	1	11	The cat purred, snoozed, and cuddled, but it wouldn't play fetch.	4
+23	1	0	6	1	1	4	2	3	0	2	0	2	0	0	2	2	0	3.0	0	11	"The children ""will"" perform their recital beautifully, but they ""won't"" forget the words to the song."	4
+33	1	1	9	2	1	5	2	2	1	3	0	3	2	1	2	2	0	5.0	1	12	"Alien invaders ""might"" attack Earth at any moment, as we ""could not"" predict their intentions or ""would never"" prepare for the worst-case scenario."	4
+23	2	0	3	1	0	4	1	3	0	2	0	5	1	2	2	0	0	3.0	2	14	The hotel will be fully booked; there won't any room left, however the bar will be available for drinks.	4
+36	2	1	6	3	0	6	2	5	0	2	0	4	4	1	3	1	1	5.0	2	15	"The new employee, who has extensive knowledge in the field, will likely be a valuable asset to the company, although he might not be ""ideally"" suited for the available position."	4
+16	0	0	1	1	1	2	1	2	0	2	0	5	0	0	2	0	0	2.0	0	10	The dog will have been chased by the cat, but it won't have escaped	4
+16	0	0	1	0	1	3	2	3	0	2	0	2	0	0	2	2	0	3.0	0	7	The dog will chase the cat but it won't catch it, not this time	4
+32	5	0	8	2	2	3	3	3	0	4	0	1	0	0	3	2	0	4.0	0	12	"She would not normally drink ""too"" much, but after the party, she felt ""over"" the limit, so she called a cab and went home."	4
+33	0	0	6	3	1	6	1	6	0	3	0	6	0	1	2	1	0	5.0	1	24	"The company will have sent all the contracts ""will"" be approved by the end of the week, and the employees ""won't"" be worried about their benefits."	4
+19	0	1	3	3	0	2	3	1	0	2	0	3	1	1	2	0	0	3.0	1	9	"The baby will be cared for by their mother until it can ""walk"" on its own."	4
+22	0	0	5	2	2	4	0	2	0	2	0	4	0	0	1	0	0	4.0	0	10	"The books ""won't be forgotten"" in the library, but ""will be read"" with excitement and enthusiasm"	4
+21	0	1	5	0	1	2	2	1	0	2	0	5	1	1	3	0	0	3.0	1	7	"The penguins ""will"" be studied, but they won't be domesticated, for they are wild creatures."	4
+54	2	1	4	5	4	8	3	3	5	8	0	6	2	3	5	4	0	5.0	3	40	Jessica will travel but won't be accompanied by Tim, and Frank will eat something healthy to avoid gaining excess weight, and Sarah will attend the meeting even if her son has a temperature, but Jack will definitely not go on the field trip due to his fear of snakes.	4
+28	0	0	6	2	1	4	1	2	0	2	0	5	4	1	2	1	0	3.0	1	17	"The new train will be connecting several major stations ""shall"" be on time, but it ""might"" not travel at the fastest speeds."	4
+16	0	1	3	1	0	2	1	2	0	2	0	2	0	1	2	0	0	3.0	1	7	"The books on the shelf will not fall if they ""won't"" move."	4
+31	1	1	9	0	2	3	2	2	0	4	0	4	1	1	3	1	0	5.0	1	10	"The cat ""will"" sleep and purr, ""won't"" chase any mice, and ""isn't"" as lazy as its owner thinks it is."	4
+16	1	0	6	0	0	1	1	1	0	1	0	3	0	0	1	0	0	2.0	0	6	"The children ""won't"" be playing outside, ""won't"" they?"	4
+39	1	0	10	2	1	7	0	2	0	3	0	5	7	2	2	1	0	4.0	2	25	"The new smart phone will probably be able to ""will"" take better selfies, ""safe"" from any potential security threats, but ""flash"" features will be limited, compared to earlier models."	4
+16	2	0	2	0	0	3	0	2	0	3	0	1	1	1	1	1	0	5.0	1	5	The students will listen intently, yet fail to notice the prof's sarcastic tone.	4
+19	0	0	5	4	0	3	0	1	0	2	1	2	0	1	1	1	0	3.0	1	10	"The computers ""can"" run at speeds of up to ""must not"" exceed 100 MHz."	4
+14	1	0	1	0	1	1	2	0	2	2	0	2	1	0	2	2	0	3.0	0	6	Amy will visit Paris but she won't meet her former boss there.	4
+46	1	1	11	1	2	4	4	4	0	7	0	6	1	5	4	3	0	6.0	5	19	"They decided not to buy the computer ""might"" break, but to rent it instead ""must"" work for a year, which would ""will"" cost a fortune but ""won't"" be a big loss if it breaks."	4
+21	0	0	5	2	2	3	0	1	0	3	0	4	0	0	1	0	0	3.0	0	7	"The baby ""will"" be wrapped and rocked but won't be allowed to "" Flash"" in public."	4
+15	1	0	4	0	1	1	0	1	0	0	0	4	2	0	1	0	0	2.0	0	7	"The children ""won't"" be quiet and ""will"" be curiously active"	4
+17	1	0	2	1	1	3	2	2	0	2	0	2	0	0	2	2	0	3.0	0	9	The students will study the problem intensively, but they won't solve it before dinner.	4
+7	0	0	1	1	0	1	0	1	1	1	0	1	0	0	1	0	0	2.0	0	3	Amy will go to the store. She won't buy the new iPhone. John will borrow a book. It will be returned tomorrow	4
+24	1	0	3	2	1	3	4	0	1	4	0	3	0	1	3	1	0	5.0	1	11	Her parents wouldn't approve, she would cry hysterically, and her mother will make her sleep over at Gramma's house.	4
+14	1	0	5	1	0	2	0	2	0	1	0	2	0	0	1	0	0	2.0	0	5	"The elephants ""must"" have left for the circus ""sooner""."	4
+27	0	0	10	1	2	3	1	2	0	2	0	3	2	0	2	1	0	3.0	0	19	"The cake ""will"" taste ""flash"" and ""safe"" at the same time, but it won't be ""warranted""."	4
+20	0	0	6	1	1	1	1	1	1	2	0	3	1	1	2	0	0	3.0	1	12	"John ""is"" coming to the meeting, but his ""will"" not be able to attend."	4
+17	2	0	1	0	1	3	2	2	0	3	0	2	0	1	2	2	0	3.0	1	11	The elephants will trumpet loudly when approaching their herd, but they will not startle the zebras	4
+13	1	0	4	0	1	1	0	1	0	1	0	2	1	0	1	0	0	2.0	0	8	"The students will study, but not ""be"" exceptionally bright."	4
+20	2	1	3	0	1	2	2	2	0	3	0	3	0	1	2	2	0	3.0	1	12	The children were playing happily until the dog will chase them, but won't catch them, flashily.	4
+22	0	0	9	0	1	2	0	2	0	3	0	2	2	0	1	1	0	3.0	0	7	"The pizza ""will"" arrive hot, ""won't"" have any mold, and taste ""great""."	4
+30	1	0	8	2	1	4	2	2	0	2	0	5	2	0	2	0	0	3.0	0	16	"The new app ""will"" be launched next month, ""but"" its efficiency ""won't"" be fully assess until a year after that."	4
+30	2	2	7	2	1	4	3	2	0	4	0	3	0	2	3	0	0	4.0	2	14	"The cat may have curled around itself, and purred ""satisfyingly"" as it rested, while its tail ""might"" waved in time to the hum."	4
+33	1	0	9	1	2	4	2	4	0	3	0	3	2	0	3	1	0	4.0	0	12	"The elephants ""must"" migrate every year, but they ""won't"" eat the new shoes, and they surely ""won't"" ride on the new bike."	4
+19	1	1	5	1	0	3	1	1	1	1	0	2	1	1	2	0	0	3.0	1	6	"The new employee's training ""will"" ensure that he is fully ""flash"" by Friday."	4
+27	1	1	9	0	1	3	1	1	0	4	0	4	0	2	2	2	0	4.0	2	8	"The dog ""will"" play fetch, ""won't"" chase cats, and ""hasn't"" barked once since it was trained."	4
+21	4	1	4	0	2	2	0	2	0	2	0	2	0	1	2	0	0	4.0	1	8	"The train would travel quickly and quietly, but not so quietly that the passengers couldn't ""hear""."	4
+41	0	6	2	2	0	8	0	1	7	7	0	5	3	7	6	1	0	6.0	7	24	Princeton Islamist scholar Bernard Lewis has articulated that while islamists may debate about whether destroying innocent lives is sanctioned by the tenets of jihad, terrorists including Osama bin Laden concur that intimation before lethal agents are employed is obligatory.	6
+41	2	2	1	8	1	7	3	4	1	5	0	5	1	4	4	1	0	7.0	4	10	Jane must decide immediately whether refusing to sign this form would be tantamount to dereliction of duty or whether she is entitled to an explanation from her boss about why she was passed over for the promotion without any notice.	6
+25	1	1	1	5	0	8	0	0	1	2	0	1	5	1	1	1	0	6.0	1	10	NASA spacecraft are currently searching for signs of intelligent life in distant galaxy by analyzing chemical signatures for bioactive molecules consistent with living processes.	6
+39	0	2	2	4	0	10	1	2	4	4	0	3	6	3	3	3	0	5.0	3	22	Princeton astronomer Neil deGrasse Tyson has revealed that while extraterrestrial microorganisms could survive the journey from planet to planet without any serious ill consequences, alien invaders would need more advanced technology to prevent their invasion of earth.	6
+21	2	0	3	1	1	2	6	0	0	2	0	3	1	1	3	2	0	4.0	1	16	She'll never forget his letter, but when she saw him with her friend, she'll be angry.	6
+31	0	2	1	2	0	7	1	2	1	6	0	3	5	4	3	2	0	6.0	4	8	Hard-line republicans were outraged that Moderate reformist were considering supporting an election that hardline reform were urging as a last chance to save their struggling economy from complete meltdown	6
+16	1	1	1	0	0	3	2	2	0	2	0	2	1	1	2	2	0	3.0	1	8	The company will not consider any alternative bids as they have already made their decision.	6
+27	2	1	2	1	1	8	2	2	0	4	0	2	1	2	3	2	0	3.0	2	22	The university president urged the recalcitrant faculty members to submit their tenure dossiers before time runs out, or else their applications will be summarily rejected.	6
+39	0	3	3	4	1	7	1	3	1	6	0	2	6	5	2	1	0	7.0	5	12	It is crucial that before launching any missile attack on Syrian soil, congress gets to see and sign off on the intelligence first-hand to ensure that all possible diplomatic channels are explored prior to engagement.	6
+33	2	1	2	4	2	5	3	4	0	4	0	2	3	2	2	1	0	7.0	2	12	He made his way cautiously through the dark forest, but could not help noticing that the wolves were closing in on them from all sides with a stealthy and unnerving quiet.	6
+43	7	2	3	3	2	6	5	1	0	7	1	2	1	4	3	2	1	7.0	5	17	Although he had only $5 in his pocket and was hours away from his destination, he resolutely decided to hitchhike to get there, knowing full well that he would probably face a host of ungrateful hucksters and bedeviling vagrants. 	6
+28	0	0	2	3	1	6	1	5	0	4	2	0	3	2	2	3	0	9.0	2	7	The new policy allows any employee who feels unheard or undervalued the opportunity to schedule an unlimited number of one-on-one consultations with the CEO	6
+37	2	1	4	2	3	11	0	1	0	6	0	2	4	4	2	1	0	7.0	4	10	Academics have contended that increasing competition will necessitate a new regulatory architecture, including more effective monitoring and enforcement, stronger incentives to invest in R&D and capacity-building in countries and sectors most affected.	6
+32	4	1	2	5	0	2	5	1	2	5	0	2	3	4	3	0	0	6.0	4	11	Melissa can always tell whenever David is working on something important, as he becomes intensely immersed for hours at a time completely unaware of everything else around him including her.	6
+28	5	0	1	4	0	3	4	2	0	5	0	2	1	2	3	1	2	7.0	4	9	Judging from how she's acted thus far they seem to believe he will certainly get the top place on the list of those up for election. 	6
+24	2	2	1	1	0	1	4	0	1	3	0	5	1	3	4	0	0	4.0	3	11	Bill's family has always maintained that although he is not guilty he will still be punished for something he did not do.	6
+45	0	3	3	5	0	9	2	4	0	4	0	6	9	2	3	0	2	5.0	4	19	While it might be assumed that the use of nuclear weapons would be unauthorized by the current international legal framework, most scholars believe it would be considered a legitimate act of self-defense if taken in response to an imminent biological attack.	6
+17	3	1	1	0	0	2	3	2	0	2	0	1	1	1	2	3	0	4.0	1	5	Henceforth I'll inevitably always remember this day because she gave me this utterly exquisite gift.	6
+30	3	1	2	2	0	5	4	1	0	4	0	3	2	3	1	2	0	6.0	3	18	They shall have to consider their future carefully prior to any decision about marriage as once married, there shall be very little opportunity to change one's mind.	6
+28	0	0	1	2	3	11	0	2	0	6	0	1	2	2	2	4	0	7.0	2	13	Moonwalking may look easy but practicing takes years mastering the craft of footwork and balance involves a series of disciplined movements requiring precise timing synchronization  and athleticism. 	6
+22	2	0	1	2	1	5	0	3	0	4	0	1	2	2	1	1	0	6.0	2	7	The new employee was expected to adapt quickly to the office environment and begin making meaningful contributions to the team immediately.	6
+21	2	0	1	2	1	2	5	2	0	5	0	1	0	3	5	1	0	5.0	3	8	He knew she had the key but yet he hesitated when he saw she was locked out in the downpour.	6
+33	2	1	1	6	0	7	5	3	0	4	0	1	2	3	2	2	0	6.0	3	11	They were absolutely enraged by the decision made in haste by those in power, which resulted in the utter destruction of their entire world without even giving them a moment's warning	6
+34	1	0	1	5	0	6	3	4	0	5	0	3	4	4	2	2	0	9.0	4	11	He couldnt have anticipated the dramatic turn of events that had him escaping through a trapdoor at the last minute with barely enough time to avoid being spotted by the angry mob.	6
+23	0	1	1	2	0	6	1	2	0	5	0	2	2	4	2	3	0	8.0	4	4	Cows can give birth while flying in order to create a new breed that will help regulate the global population of whales.	6
+27	0	1	1	3	0	5	1	1	4	4	0	3	3	3	2	2	0	8.0	3	4	Prime Minister Jacinda Ardens government has been accused of appeasement after refusing to sign a pact with separatists who have occupied key infrastructure in eastern Ukraine.	6
+32	1	1	3	3	3	5	4	2	0	5	0	1	3	2	2	2	0	7.0	2	17	She was accused of having an unfair advantage, due to her extensive experience and knowledge, but she remained confident and assured in her ability to overcome the challenges ahead.	6
+40	5	1	2	6	0	13	3	1	0	5	0	1	3	3	2	1	0	6.0	3	12	Birds must always fly northwest when migrating in spring, no matter how far south they stray from their original course while avoiding storm systems on their way to summer nesting sites in open grasslands with scattered mature trees.	6
+37	3	0	2	2	3	8	1	3	0	5	0	3	6	3	4	2	0	6.0	3	19	The company intends to introduce several revolutionary measures which will drastically alter the current state of affairs, but most experts expect these changes will ultimately be highly beneficial and lead to greater efficiency and success.	6
+33	3	0	3	3	1	5	4	3	0	5	0	3	3	3	3	3	0	8.0	3	14	He is eagerly awaiting the verdict, which in the event it goes against him, shall likely be appealed and potentially set the precedent for future criminal cases involving similar circumstances.	6
+33	3	1	2	3	0	8	3	4	0	2	0	2	4	2	3	1	0	5.0	2	27	The new policy has made it impossible for the company to ignore the needs of its customers any longer, therefore a major change in their approach to customer service is inevitable.	6
+19	1	1	2	0	1	3	4	0	1	2	0	1	1	1	3	3	0	4.0	1	6	Zach's mother warned him that he ______________________ eat too much candy or he would ______________________ his teeth.	6
+31	0	3	1	1	0	10	0	3	0	5	0	4	3	4	3	2	0	6.0	4	8	The city council has approved a resolution declaring that next year's budget shall be balanced by raising property taxes unless alternatives are presented at the public hearing next week.	6
+33	2	1	4	3	1	4	3	2	4	4	1	3	1	2	4	2	0	5.0	2	17	Prince William has revealed how his grandmother Queen Elizabeth II is coping with the loss of her beloved __________ and expressed hope that she will find __________ in a new __________ soon.	6
+34	1	3	1	3	0	11	2	3	0	5	0	1	3	4	2	4	0	9.0	4	7	The university administration will soon reconsider its policy on allowing students to keep dangerous dogs on campus if it becomes clear that such animals pose menace to the rest of the student bodies.	6
+33	0	2	2	4	0	7	2	3	4	2	0	2	4	2	3	0	0	4.0	2	12	Princeton historian Robert Tucker has contended that Stalin's brutal rule was an essential component of his successful leadership throughout the war, though many academics disagree with him on this point.	6
+32	4	4	0	0	0	1	5	1	0	8	0	4	3	8	4	0	0	8.0	8	8	She asserted they would undoubtedly arrive early unless something unforeseen occurred while still emphasizing that there was little to be done because it was impossible to predict how the situation would develop	6
+27	3	2	2	2	1	1	6	1	0	6	0	2	0	4	4	2	0	6.0	4	10	He was running away when they finally noticed him, but he managed to escape by jumping out of the window before they could catch him.	6
+41	2	1	2	3	3	6	4	4	0	8	1	5	1	4	3	4	0	7.0	4	21	They've announced theyll launch the drone within three months and that will signal were entering the final phase of development, but were still deciding whether to issue a recall or just let it pass through the system.	6
+29	3	1	1	6	0	8	1	2	2	4	0	0	0	3	2	2	0	7.0	3	10	Juries consistently reach verdicts within hours while some trials of war crimes drag interminably with experts like Professor Cockburn still struggling to make sense out of it all.	6
+31	3	2	0	2	0	9	0	5	0	4	1	1	2	3	2	3	0	5.0	3	13	The researchers found that the most efficient way to assemble the nanotube was to carefully arrange twelve cylindrical templates along the growth axis before catalytically inducing the formation of carbon atoms	6
+23	0	1	1	3	1	4	1	1	1	4	0	1	4	2	1	1	0	8.0	2	4	It appears certain that Putin will call for calm and ask citizens to remain patient amid this ongoing crisis of unparalleled proportions.	6
+24	1	2	2	2	1	7	3	2	0	4	0	0	0	2	4	2	0	4.0	2	10	The research findings indicate that the majority of teachers believe homework helps learning, but that they themselves rarely spend time on it.	6
+19	0	1	1	2	1	5	1	2	2	3	0	1	0	2	2	1	0	5.0	2	7	Princess Leia orbs through the galaxy, hoping that her cunning and resourcefulness will lead the rebellion to victor 	6
+32	0	2	2	1	1	7	2	3	0	5	0	4	4	4	4	3	0	6.0	4	15	Terrorists have threatened to destroy the economy by targeting financial institutions, but the intelligence agencies are optimistic that they can prevent such attacks with the new strategies they have developed.	6
+18	0	0	1	3	0	5	2	2	0	2	0	1	2	1	2	1	0	4.0	1	7	He promised the public would see greater efficiency in government as a result of her forthcoming reforms.	6
+32	2	2	1	4	1	6	0	3	2	3	0	3	4	3	2	0	0	6.0	3	11	Juan is arguing strongly that Maria's claims of being haunted are completely baseless despite the numerous tales of apparitions and screams heard in the old mansion during the wee hours. 	6
+29	1	1	2	1	1	9	2	0	2	5	0	3	1	4	2	2	0	5.0	4	11	Mexican narco cartel leader El Chapo has vowed to wreak vengeance on government officials and their families if captured, ensuring he shall forever be evading law enforcement.	6
+43	1	5	4	5	0	7	0	0	6	5	0	4	6	5	4	2	0	6.0	5	20	Bernard Lewis, renowned Islamic scholar at Princeton University, has argued that despite debates among Islamists about whether killing innocent bystanders is permissible under jihad, extremists like Zawahiri generally agree that advance notice must be given before using biochemical weapons.	6
+41	1	1	1	4	1	8	4	6	2	6	0	1	5	4	3	6	0	11.0	4	8	Princess Anne gave a speech in which she revealed how the British royal family are taking a proactive approach to address the challenges of the modern monarchy by modernizing their image and repositioning themselves at the heart of national life.	6

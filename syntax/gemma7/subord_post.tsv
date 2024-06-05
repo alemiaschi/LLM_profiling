@@ -1,0 +1,251 @@
+n_tokens	ADJ	ADP	ADV	AUX	CCONJ	DET	NOUN	NUM	PRON	PROPN	PUNCT	SCONJ	VERB	max_depth	max_link	subord_prop	subord_post	subj_pre	obj_post	subord_pre	sentence	subord_post_constraint
+9	0	1	1	0	0	2	2	0	0	0	2	0	1	2.0	4	0	0	1	0	0	In the park, the children played happily.	0
+11	0	1	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	1	0	The cat sat on the mat, enjoying the sun.	0
+9	0	1	0	0	0	2	2	0	0	0	3	0	1	2.0	3	0	0	1	0	0	"""The cat sat on the mat."""	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The cat chased the mouse up the tree.	0
+10	0	1	1	0	1	2	2	0	0	0	1	0	2	2.0	5	0	0	1	0	0	The cat sat on the mat and purred contentedly.	0
+12	0	2	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	The cat sat on the mat, basking in the sun.	0
+12	0	2	0	0	1	2	2	0	0	0	3	0	2	2.0	5	0	0	1	0	0	"""The cat jumped onto the table and sat down."""	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat sleeps soundly on the mat.	0
+12	0	2	0	0	0	3	3	0	0	0	3	0	1	2.0	6	0	0	1	0	0	"""The cat sat on the mat in the sun."""	0
+8	0	1	1	0	0	1	2	0	1	0	1	0	1	2.0	4	0	0	1	0	0	The sun shines warmly on my face.	0
+11	0	1	1	0	0	2	3	0	0	0	2	0	2	3.0	4	1	1	1	1	0	The dog barked loudly, waking up the sleeping cat.	0
+9	1	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The blue house is situated on the hilltop.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog is playing in the park.	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The dog chased the ball across the park.	0
+16	1	2	0	0	1	4	4	0	0	0	2	0	2	3.0	8	0	0	2	0	0	The cat leaped onto the table, and the book lay open on the lap.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog is playing in the park.	0
+10	0	2	0	0	1	2	2	0	0	0	1	0	2	2.0	5	0	0	1	0	0	The cat jumped onto the table and sat down.	0
+10	3	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the lazy dog.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat jumped onto the table.	0
+10	0	2	0	0	1	2	2	0	0	0	1	0	2	2.0	5	0	0	1	0	0	The cat jumped onto the table and sat down.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat jumped onto the mat.	0
+5	0	0	1	0	0	1	1	0	0	0	1	0	1	2.0	1	0	0	1	0	0	The cat sleeps soundly.	0
+11	2	1	0	0	0	3	3	0	0	0	1	0	1	2.0	6	0	0	1	1	0	The green cat chased the red ball down the street.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The sky is blue.	0
+15	1	2	1	0	0	3	4	0	0	0	2	0	2	3.0	8	1	1	1	1	0	The sun shines brightly, coloring the leaves on the trees with vibrant hues.	0
+14	1	2	1	0	1	2	3	0	0	0	2	0	2	3.0	7	0	0	1	0	0	The young girl skipped happily to the park, and danced with joy.	0
+11	0	1	1	0	1	2	2	0	0	0	2	0	2	2.0	6	0	0	1	0	0	The cat jumped onto the mat, and rested peacefully.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat jumped onto the mat.	0
+11	0	0	2	0	1	2	2	0	0	0	2	0	2	3.0	6	0	0	2	0	0	The cat slept soundly, and the sun shone brightly.	0
+9	0	1	0	0	0	2	2	0	0	0	3	0	1	2.0	3	0	0	1	0	0	"""The cat jumped onto the mat."""	0
+9	0	1	0	0	0	3	3	0	0	0	1	0	1	2.0	5	0	0	1	1	0	The dog chased the ball across the park.	0
+10	3	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumped over the lazy dog.	0
+13	0	1	0	1	1	2	3	0	1	0	2	0	1	3.0	9	0	0	2	0	0	The dog barked, but the bone was not in its mouth.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat jumped onto the mat.	0
+10	3	1	0	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The quick brown fox jumps over the lazy dog.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	0
+12	0	1	1	0	0	2	3	0	1	0	2	0	2	3.0	6	1	1	1	1	0	The sun shines directly onto the flowers, illuminating their beauty.	0
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	5	0	0	1	0	0	The cat sleeps soundly under the warm blanket.	0
+12	0	2	0	0	0	3	3	0	0	0	3	0	1	2.0	6	0	0	1	0	0	"""The cat sat on the mat in the sun."""	0
+14	2	1	1	0	0	2	3	0	1	0	2	0	2	3.0	6	1	1	1	1	0	The blue flower bloomed brightly, illuminating the room with its soft glow.	0
+13	1	2	0	0	0	3	3	0	0	0	2	0	2	3.0	5	1	1	1	0	0	The cat sat on the mat, basking in the warm sun.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sat on the mat.	0
+17	0	2	0	0	1	2	3	0	1	0	3	0	4	3.0	11	1	1	1	0	0	The cat jumped onto the mat, landed on its feet, and continued to play.	0
+9	1	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The young girl danced gracefully to the music.	0
+7	0	1	0	0	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat sits on the mat.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The cat sleeps soundly on the mat.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The cat is sitting on the mat.	0
+8	0	1	1	0	0	2	2	0	0	0	1	0	1	2.0	4	0	0	1	0	0	The sun shines warmly on the plants.	0
+5	1	0	0	1	0	1	1	0	0	0	1	0	0	2.0	2	0	0	1	0	0	The apple is red.	0
+8	0	1	0	1	0	2	2	0	0	0	1	0	1	2.0	3	0	0	1	0	0	The dog is playing in the park.	0
+14	0	1	2	0	1	3	3	0	0	0	2	0	2	3.0	8	0	0	2	0	0	The cat chased after the butterfly, and the butterfly flew swiftly away.	1
+14	0	2	1	0	0	2	3	0	2	0	2	0	2	4.0	4	1	1	2	0	0	The boy ran to the park, where he played with his friends.	1
+16	1	3	0	0	0	4	4	0	0	0	2	0	2	4.0	5	1	1	1	0	0	The cat jumped onto the mat, resulting in a disruption of the peaceful morning.	1
+13	0	1	2	0	0	3	3	0	0	0	2	0	2	4.0	4	1	1	1	1	0	The dog barked fiercely, thereby alerting the owner of the intruder.	1
+20	1	1	2	0	0	4	5	0	1	0	2	1	3	6.0	8	2	2	2	3	0	The student completed the assignment successfully, even though he had difficulties completing the problem with the subordinate proposition.	1
+15	1	0	1	1	0	3	3	0	1	0	2	0	2	4.0	7	2	2	2	2	0	The student finished the homework, so they were able to attend the party.	1
+15	0	0	2	0	0	3	3	0	1	0	3	0	3	4.0	7	2	2	2	2	0	The dog barks angrily, chasing the ball, when the owner throws it.	1
+13	0	2	0	0	0	3	3	0	1	0	2	0	2	4.0	3	1	1	2	0	0	The dog chased after the ball, which landed in the park.	1
+14	0	1	0	0	0	4	4	0	0	0	2	1	2	3.0	10	1	1	2	1	0	The dog chased the ball across the park, while the children played.	1
+19	1	2	0	3	1	3	4	0	3	0	2	0	0	3.0	10	0	0	2	0	0	The book was a gift to me, and it has been a valuable asset in my studies.	1
+11	0	0	2	0	0	2	2	0	0	0	2	1	2	3.0	6	1	1	2	0	0	The cat slept soundly, while the rain fell softly.	1
+16	0	2	0	0	1	3	3	0	1	0	4	0	2	3.0	7	0	0	2	0	0	"""The cat chased after the ball, and it climbed up the tree."""	1
+15	0	3	0	0	0	4	4	0	0	0	2	0	2	3.0	6	1	1	1	0	0	The cat chased after the ball, jumping over the table in the process.	1
+13	1	1	1	0	0	1	3	0	1	0	3	0	2	3.0	5	1	0	1	1	1	The young child, playing happily, splashed water on his friends.	1
+14	0	2	0	0	0	3	4	0	1	0	2	0	2	3.0	5	1	1	1	1	0	The cat jumped onto the table, catching the mouse in its paws.	1
+18	0	2	1	0	0	1	3	0	2	0	4	1	4	5.0	8	3	3	2	1	0	"""I prefer watching movies at home, even though I enjoy going to the theater."""	1
+18	1	1	2	0	0	4	4	0	0	0	2	1	3	4.0	8	2	2	2	1	0	The cat sleeps soundly, while the birds chirping outside provide a peaceful soundtrack to the night.	1
+16	0	2	1	0	0	4	4	0	1	0	2	0	2	4.0	5	1	1	2	1	0	The dog chased the ball to the park, where it played with the children.	1
+16	0	1	1	0	0	3	4	0	1	0	3	0	3	5.0	5	1	1	2	2	0	The student submitted an assignment on time, which included a well-written essay.	1
+12	2	0	0	0	1	2	2	0	1	0	2	0	2	3.0	6	0	0	2	1	0	The coffee tasted bitter, but the cream made it sweet.	1
+13	0	2	0	0	1	3	3	0	0	0	2	0	2	3.0	8	0	0	2	0	0	The cat jumped onto the table, and the book fell off.	1
+14	0	2	0	0	0	4	4	0	0	0	2	0	2	3.0	5	1	1	1	1	0	The cat leapt onto the table, chasing the mouse across the room.	1
+13	0	1	2	1	0	2	2	0	1	0	2	0	2	2.0	8	0	0	2	0	0	The cat chased after the ball, so it was running quickly.	1
+16	0	2	0	0	0	4	4	0	0	0	2	0	3	4.0	5	2	2	1	1	0	The cat sits on the mat, awaiting the owner to return from the store.	1
+14	0	2	0	0	0	4	4	0	0	0	2	0	2	3.0	5	1	1	1	1	0	The cat chased after the ball, leaving the trail on the carpet.	1
+17	2	2	1	0	0	3	4	0	1	0	2	0	2	5.0	4	1	1	2	1	0	The student diligently completed the homework, which consisted of a series of complex mathematical problems.	1
+15	0	2	1	0	0	4	4	0	0	0	2	0	2	4.0	5	1	1	1	1	0	The cat jumped onto the table, bringing the bowl closer to the kitten.	1
+16	1	1	0	0	1	2	5	0	1	0	3	0	2	5.0	5	1	1	2	1	0	The chef prepared a delicious meal that consisted of chicken, pasta, and vegetables.	1
+10	0	0	2	0	0	2	2	0	0	0	1	1	2	3.0	5	1	1	2	0	0	The cat slept soundly while the rain fell softly.	1
+14	0	1	2	0	0	2	3	0	1	0	2	1	2	3.0	6	1	1	2	0	0	The cat sleeps soundly, while the sun shines warmly on its fur.	1
+19	0	1	2	0	0	4	4	0	1	0	2	1	4	4.0	7	3	3	3	1	0	The dog barked angrily when the mailman arrived, demanding that he leave the package on the porch.	1
+16	0	1	1	0	0	4	4	0	0	0	2	1	3	4.0	7	2	2	2	1	0	The cat jumped onto the table as the sun shone brightly, illuminating the room.	1
+15	1	0	0	2	1	3	4	0	0	0	2	0	1	4.0	8	0	0	2	0	0	The book was an enjoyable read, and the protagonist's journey was captivating.	1
+16	1	2	2	0	0	2	3	0	2	0	2	0	2	4.0	4	1	1	2	0	0	The young girl skipped happily to the park, where she played with her friends.	1
+15	0	2	0	0	1	4	4	0	0	0	2	0	2	3.0	8	0	0	2	0	0	The cat jumps on the table, and the milk spills on the floor.	1
+15	1	1	1	0	0	2	3	0	2	0	2	0	3	4.0	4	2	2	2	1	0	The young child ran to the park, where he found his friends playing.	1
+10	0	0	2	0	0	2	2	0	0	0	1	1	2	3.0	5	1	1	2	0	0	The cat slept soundly while the rain fell gently.	1
+11	0	0	1	0	0	2	3	0	1	0	1	1	2	3.0	5	1	1	2	1	0	The cat sleeps soundly while its owner reads a book.	1
+17	0	2	0	0	1	5	4	0	1	0	2	0	2	3.0	7	0	0	2	0	0	The dog chased after the ball, and it ran all the way to the park.	1
+11	0	0	2	0	0	2	2	0	0	0	2	1	2	3.0	6	1	1	2	0	0	The cat slept soundly, while the sun shone brightly.	1
+12	0	1	0	0	0	3	4	0	0	0	1	1	2	3.0	7	1	1	2	1	0	The cat sat on the mat while the dog played fetch.	1
+18	0	2	0	0	0	5	5	0	0	0	2	0	3	5.0	7	2	2	1	2	0	The cat chased the mouse up the tree, hoping to catch a glimpse of the sun.	1
+13	0	2	0	0	0	3	3	0	1	0	2	0	2	4.0	3	1	1	2	0	0	 The dog chased after the ball, which landed in the park.	1
+16	0	2	1	0	0	4	5	0	0	0	2	0	2	4.0	6	1	1	1	1	0	The team successfully completed the project, despite the challenges faced during the implementation process.	1
+14	0	1	1	0	0	3	4	0	0	0	2	1	2	3.0	5	1	1	1	2	0	The team successfully completed the project, despite encountering difficulties along the way.	1
+16	0	2	1	0	0	3	4	0	1	0	2	1	2	3.0	8	1	1	2	0	0	The girl danced gracefully to the music, as she dreamed of the evening stars.	1
+23	1	3	0	0	1	5	8	0	1	0	2	0	2	5.0	11	1	1	1	2	0	The student submitted a paper with a detailed analysis of the novel, showcasing their understanding of the plot and character development.	1
+15	1	2	1	0	1	2	3	0	1	0	2	0	2	3.0	8	0	0	2	0	0	The young girl danced happily in the park, and she laughed with joy.	1
+19	0	3	1	0	1	5	5	0	0	0	2	0	2	4.0	8	0	0	2	0	0	The cat jumped onto the table, and the dog barked angrily at the sound of the noise.	1
+16	0	3	0	0	0	4	4	0	1	0	2	0	2	5.0	3	1	1	2	0	0	The cat chased after the mouse, which led to a chase throughout the house.	1
+21	0	3	0	0	1	5	5	0	1	0	3	0	3	3.0	12	1	1	2	2	0	The cat jumped onto the table, chasing the ball, and the dog watched it from beneath the rug.	2
+24	0	2	0	0	1	5	5	0	0	0	4	1	5	4.0	15	3	3	3	0	0	The cat sat on the mat, waiting for the owner to return, and the dog ran around the house, playing.	2
+20	0	3	0	0	1	5	5	0	0	0	3	0	3	4.0	8	1	1	2	0	0	The dog chased after the ball, and the ball sailed through the air, landing on the grass.	2
+23	1	2	1	0	1	4	7	0	1	0	3	0	3	4.0	16	1	1	2	2	0	The cat jumped onto the table, thereby disrupting the pile of books, and the unsuspecting customer dropped their shopping bag.	2
+16	0	1	1	0	0	2	4	0	2	0	2	1	3	4.0	9	2	2	2	3	0	The student delivered the project on time, even though he faced difficulties completing it.	2
+19	0	1	0	0	1	4	4	0	0	0	3	0	4	5.0	6	3	3	1	1	0	The cat jumped onto the table, causing the plates to fall, and the milk to spill.	2
+16	0	3	0	0	0	4	5	0	0	0	2	0	2	4.0	8	1	1	1	1	0	The student completed the project on time, despite the challenges encountered during the process.	2
+26	2	2	1	1	1	6	6	0	2	0	3	0	2	5.0	7	1	1	3	2	0	The book was a valuable resource for the student, who completed the assignment diligently, and who achieved a high score on the exam.	2
+33	1	3	0	3	1	2	3	0	8	0	4	1	6	4.0	12	4	3	5	3	1	The book, which I borrowed from the library, was filled with intriguing stories that captivated me, and I couldn't put it down until I had finished reading it.	2
+20	0	1	2	0	1	4	5	0	0	0	3	1	3	3.0	12	1	1	3	1	0	The cat sleeps soundly, while the rain falls softly, and the wind whispers secrets through the trees.	2
+19	0	2	0	0	1	4	4	1	0	0	3	1	3	4.0	8	1	1	2	1	0	The cat jumped onto the table, as the clock struck twelve, and climbed onto the bookshelf.	2
+16	0	2	1	0	0	4	4	0	1	0	2	0	2	4.0	7	1	1	2	1	0	The cat chased after the ball into the forest, where it climbed a tree.	2
+28	1	4	0	0	1	5	8	0	3	0	3	0	3	6.0	19	1	1	3	3	0	The student wrote a report on environmental protection, which included a discussion of the importance of recycling, and she presented her findings to the class.	2
+26	1	3	1	0	0	6	6	0	0	0	4	1	4	5.0	6	3	3	2	1	0	The cat jumped onto the windowsill, purring happily, as the sun shone through the leaves, creating a vibrant rainbow on the floor.	2
+21	0	1	2	0	1	4	4	0	1	0	3	0	4	4.0	10	2	2	2	2	0	The dog chased the ball up the tree, and the boy followed closely behind, hoping to catch it.	2
+16	0	2	1	0	0	4	4	0	1	0	2	0	2	4.0	5	1	1	2	1	0	The dog chased the ball to the park, where it played with the children.	2
+21	0	3	0	0	1	4	4	0	2	0	3	1	3	4.0	14	1	1	3	0	0	The cat leaped onto the table, and as she jumped onto the countertop, she knocked over a vase.	2
+27	0	2	2	0	1	6	6	0	0	0	3	1	5	6.0	10	3	3	2	2	0	The dog barked wildly while chasing the cat, and the children ran excitedly around the park, hoping to catch a glimpse of the commotion.	2
+25	2	1	2	2	1	2	3	0	2	0	3	1	4	4.0	14	4	4	2	1	0	The dog ran to the park, hoping to find his favorite ball, and was delighted to discover that it was still there.	2
+19	0	3	0	0	1	4	4	0	1	0	3	0	3	4.0	8	1	1	2	0	0	The cat jumped onto the table, and the dog chased after it, resulting in a mess.	2
+20	4	2	0	1	1	3	5	0	2	0	2	0	0	4.0	5	0	0	1	0	0	The book was a captivating read, despite its outdated content and the undeniable inconvenience of its heavy binding.	2
+21	2	1	0	3	0	2	4	0	2	0	2	2	2	3.0	7	3	2	3	1	1	Although the cat is asleep, I will sneak peeks at the candy jar to see if it is full.	2
+18	0	0	2	0	1	4	4	0	0	0	3	1	3	3.0	13	1	1	3	1	0	The cat slept soundly, while the dog fetched the ball, and the sun shone brightly.	2
+20	2	0	1	1	1	4	4	0	1	0	3	0	3	4.0	8	0	0	3	2	0	The coffee was steaming hot, so I took a sip, and the sweet aroma filled the air.	2
+19	0	2	1	0	2	4	4	0	0	0	3	0	3	3.0	14	0	0	3	0	0	The dog chased after the ball, and the ball flew away, but the dog caught up.	2
+19	0	2	1	0	1	4	4	0	1	0	3	0	3	3.0	14	0	0	1	2	0	The cat leaped onto the counter, chased the moth across the room, and finally caught it.	2
+17	0	2	1	1	0	4	4	0	1	0	2	0	2	4.0	5	1	1	2	1	0	The dog chased the ball to the park, where it was retrieved by the owner.	2
+19	0	2	0	0	1	6	6	0	0	0	2	0	2	3.0	10	0	0	2	2	0	The dog chased the ball down the park, and the cat chased the mouse up the tree.	2
+19	0	1	1	0	1	4	4	0	0	0	3	0	4	4.0	8	2	2	2	1	0	The dog chased after the ball, and the ball rolled away, causing the owner to worry.	2
+16	0	0	0	0	1	4	4	0	0	0	3	1	3	3.0	12	1	1	3	1	0	The child played a game, while the dog barked, and the cat slept.	2
+23	0	2	0	0	1	7	7	0	0	0	3	0	3	4.0	10	1	1	2	3	0	The dog chased the ball up the tree, and the wind blew the leaves off the branches, creating a storm.	2
+22	0	1	1	0	1	5	6	0	0	0	3	0	4	4.0	11	2	2	2	2	0	The dog chased the ball up the tree, and the tree branches cracked, allowing the ball to fall freely.	2
+19	0	1	2	0	1	4	5	0	0	0	3	0	3	4.0	8	1	1	2	2	0	The dog chased after the ball, and the cat followed suit, chasing the ball as well.	2
+20	0	0	3	1	0	3	5	0	1	0	2	1	3	4.0	11	2	2	2	2	0	The student completed the homework assignment meticulously, even though he had not finished reading the textbook chapter thoroughly.	2
+25	0	2	1	2	0	5	5	0	1	0	3	0	5	6.0	5	3	3	2	2	0	The cat jumped onto the table, prompting the owner to quickly retrieve the stolen dessert, which had been hidden beneath the sofa.	2
+23	1	2	0	0	1	5	8	0	0	0	2	0	3	5.0	8	1	1	1	3	0	The student completed the homework assignment with diligence, ensuring the accurate completion of the task and satisfying the instructor's expectations.	2
+20	2	0	1	1	1	2	3	0	4	0	4	0	2	4.0	11	1	0	3	1	1	The book, which I read last night, was an engrossing tale, and I enjoyed it immensely.	2
+27	1	3	3	0	1	6	6	0	0	0	3	1	3	4.0	11	1	1	3	0	0	The cat rested peacefully on the warm rug, while the rain softly showered upon the garden, and the wind blew softly through the trees.	2
+28	1	1	2	0	1	4	5	0	5	0	4	0	4	5.0	10	2	1	4	3	1	The book, which I recently read, contained a story that surprised me, and therefore I have a newfound appreciation for the author's creativity.	2
+26	0	4	0	0	1	7	6	0	1	0	3	1	3	4.0	10	1	1	3	1	0	The dog chased the ball down the street, while the cat played with the string, and they both ended up at the park.	2
+22	2	2	0	0	1	4	6	0	1	0	2	0	3	3.0	13	1	1	2	2	0	The boy ran to the store to purchase a new game, and the cashier provided him with excellent customer service.	2
+21	0	3	1	0	1	4	4	0	0	0	3	0	4	3.0	13	2	2	1	1	0	The cat jumped onto the table, causing the books to fall off, and landed safely on the carpet.	2
+22	0	3	0	0	1	5	6	0	0	0	3	0	3	5.0	8	1	1	2	0	0	The cat chased after the ball, and the ball rolled across the park, resulting in the cat's capture.	2
+20	0	2	0	0	1	5	5	0	0	0	3	1	3	4.0	8	1	1	3	0	0	The cat sat on the mat, and the dog barked, while the birds chirped in the trees.	2
+25	1	2	0	0	1	3	5	0	5	0	3	0	5	7.0	8	3	2	3	3	1	The book, which I read last night, contained a story that surprised me and made me wonder about the nature of reality.	2
+27	2	4	3	0	1	4	6	0	1	0	3	0	3	4.0	13	0	0	1	0	0	The young boy jumped excitedly to the tree, climbed diligently to the top, and gazed happily at the panoramic view from his vantage point.	2
+32	0	1	1	2	1	4	7	0	8	0	4	0	4	5.0	13	3	2	5	3	1	The book, which was a gift from my aunt, is a cherished treasure that I often reread, and it brings me joy every time I revisit its pages.	2
+24	1	1	1	1	2	4	5	0	2	0	3	0	4	4.0	15	1	1	3	2	0	The dog barked angrily at the mailman, who was delivering the package, but the mailman remained calm and finished his delivery.	2
+18	1	1	2	0	0	4	4	0	1	0	2	1	2	4.0	8	1	1	2	2	0	The student completed the assignment successfully, even though she had a few challenges with the formatting.	2
+17	0	2	0	0	1	4	4	0	0	0	2	0	4	5.0	5	2	2	1	1	0	The cat sat on the mat, watching the birds fly and playing with the ball.	2
+34	1	5	1	1	1	4	8	0	2	0	6	0	4	4.0	19	2	1	1	1	1	The painting, framed with love, was presented to the elderly woman, as a gift from her children, to commemorate her birthday, and hung proudly in the living room.	4
+33	2	3	1	1	1	5	8	0	2	0	4	0	4	9.0	9	4	4	2	3	0	The movie was captivating, prompting me to recall the protagonist's journey, which ultimately led to the discovery of a hidden treasure, creating a sense of accomplishment and satisfaction.	4
+32	3	5	0	1	1	3	6	0	2	0	5	1	5	4.0	15	2	1	2	1	1	The delicious mango, sliced into tiny pieces, was enjoyed by me while I listened to classical music, read a book, and chatted with friends on the phone.	4
+22	3	2	1	1	0	3	5	1	1	0	2	0	3	6.0	5	2	2	2	1	0	A single sentence was crafted that encompassed four subordinate propositions in harmony, each proposition intricately contributing to the overall narrative.	4
+28	0	3	1	0	1	6	6	0	1	0	4	1	5	4.0	18	1	1	2	2	0	The cat jumped onto the table, chased the mouse across the room, climbed onto the bookshelf, and purred contentedly while I read a book.	4
+19	0	1	1	0	1	4	4	0	0	0	4	0	4	3.0	14	0	0	1	2	0	The cat climbed the tree, jumped onto the roof, chased the butterfly, and purred happily.	4
+26	2	2	2	1	1	5	5	0	0	0	4	1	3	5.0	9	2	2	4	0	0	The cat slept soundly through the storm, despite the wind blowing wildly, because the trees stood tall, and the house was sturdy.	4
+35	3	2	2	0	1	7	8	0	0	0	5	1	5	6.0	10	3	3	3	2	0	The cat sat on the mat, supervising the kittens' playful wrestling, while the birds chirped happily, and the rain fell gently, creating a calming atmosphere for the peaceful afternoon.	4
+36	5	3	2	1	0	4	6	0	4	0	6	1	4	4.0	11	3	2	3	3	1	The book, which contains a captivating story, was eagerly devoured by me, despite the tedious pacing, because it offered valuable insights into ancient history, thus making it a compelling read.	4
+40	1	6	2	0	0	6	10	0	3	0	5	1	5	7.0	14	4	4	2	2	0	The cat jumped onto the table, perched comfortably on its cushion, in order to survey its kingdom, as the sun shone warmly upon its coat, creating a peaceful atmosphere for the inhabitants of the house.	4
+39	3	3	1	2	2	6	11	0	2	0	4	0	5	7.0	8	2	1	6	1	1	The book I read yesterday was a captivating adventure story, and I was transported to a fantastical world where dragons soared through the sky, elves battled evil, and the hero saved the damsel in distress.	4
+33	2	1	4	1	1	5	7	0	1	0	4	1	6	7.0	7	4	4	2	4	0	The student diligently completed the homework, ensuring all tasks were finished accurately, while prioritizing the most challenging sections, thereby improving their overall grade and earning praise from the instructor.	4
+31	2	3	0	1	2	4	7	0	1	0	6	0	5	5.0	22	2	2	2	3	0	The house is enormous, encompassing a multitude of memories, containing a plethora of secrets, and shrouded in an enigma, yet it stands tall, exuding tranquility.	4
+24	0	4	1	0	1	5	5	0	0	0	4	0	4	3.0	16	0	0	1	0	0	The cat chased after the ball, ran around the park, leaped onto the trampoline, and slept soundly for the night.	4
+25	0	2	2	0	0	4	4	0	3	0	4	1	5	6.0	5	4	4	2	3	0	The dog chased a ball while running alongside the park, leading it towards the river, where it jumped, splashing everyone nearby.	4
+32	1	1	3	2	2	4	4	0	3	0	4	0	6	4.0	11	3	3	5	1	0	The boy ran to the store to purchase some milk, but he found the store was closed, so he had to walk home, and he was very tired.	4
+25	0	2	1	0	1	6	5	0	0	0	5	0	5	4.0	15	1	1	1	2	0	The dog chased the ball, ran after the cat, jumped over the fence, and barked angrily, making quite a scene.	4
+32	2	2	3	0	1	3	6	0	2	0	5	2	6	6.0	10	4	4	1	3	0	The young student meticulously completed his homework, despite the distracting noise, while studying diligently, yet remaining focused, ultimately achieving his goal of completing the assignment on time.	4
+20	1	1	0	1	1	0	6	0	2	0	4	0	4	3.0	11	0	0	1	3	0	My friend is playing video games, watching movies, reading books, and studying for his upcoming exam.	4
+36	0	5	0	5	1	2	6	0	7	0	4	0	5	7.0	14	4	3	4	1	1	The book, which was gifted to me by my grandmother, is a treasured heirloom that will be passed down to my children, through whom it will continue to inspire hope and happiness.	4
+27	4	3	2	0	1	5	7	0	1	0	2	0	2	4.0	9	1	1	1	2	0	The intricate clockwork of a marine chronograph governed the precise timing of each subsequent voyage, dictating their route and schedule as meticulously as the tide.	4
+41	4	5	2	2	1	5	7	0	1	0	5	2	6	5.0	16	4	3	2	1	1	The coffee, steaming with sweetness, was enjoyed by the weary traveler as he contemplated the scenic route ahead, while yearning for the distant shores of freedom, and dreaming of the perfect day yet to be lived.	4
+42	4	4	0	0	2	4	12	0	3	0	6	0	6	5.0	17	4	3	1	5	1	The young painter, eager to display her artistry, painted a vibrant landscape teeming with life, showcasing her mastery of colour and composition, and achieved recognition for her unique style, leaving a mark on the art world.	4
+28	0	3	2	0	1	6	6	0	0	0	4	1	5	4.0	15	1	1	2	1	0	The cat climbed up the tree, jumped onto the branch, chased the butterfly, and landed safely on the ground as the sun shone brightly.	4
+25	4	3	0	0	0	3	6	0	2	0	4	0	3	4.0	7	2	1	1	2	1	The cat, chasing its favorite toy, stumbled upon a hidden treasure, prompting an exhilarating journey in search of its mysterious owner.	4
+39	0	3	2	1	1	7	9	0	2	0	4	1	8	8.0	15	4	4	4	3	0	The cat jumped onto the table to grab a slice of bread, but its whiskers was torn in the process, so the veterinarian recommended examining the wound, which ultimately led to discovering a broken bone.	4
+25	0	3	0	0	1	5	7	0	0	0	3	2	4	4.0	11	2	2	2	1	0	The cat sat on the mat as the sun shone upon the flowers, beneath the rustling leaves, and dreamt of chasing butterflies.	4
+43	1	4	5	1	1	7	10	0	3	0	5	0	6	7.0	10	4	4	2	5	0	The student diligently completed the homework, ensuring each answer was accurately completed, consequently earning respect from her instructor, thereby granting her an A on the exam, and finally securing her place among the top students in the class.	4
+31	0	2	0	1	1	5	6	0	1	0	5	3	7	7.0	8	5	5	2	2	0	The cat sat on the mat, watching the birds fly, while drinking her milk, after the sun had set, and dreamt of playing with the toys.	4
+41	6	3	1	3	1	3	7	0	5	0	3	1	6	8.0	10	5	4	2	5	1	The book I am reading is a captivating masterpiece and has inspired me to pursue further exploration, while simultaneously providing me with a greater understanding of historical events, enabling me to gain insights into my own personal goals.	4
+21	0	3	1	0	1	4	4	0	0	0	4	0	4	3.0	16	0	0	1	1	0	The cat chased after the mouse, climbed up the tree, jumped onto the fence, and ran away.	4
+23	0	3	1	0	1	5	5	0	0	0	4	0	4	3.0	18	0	0	1	1	0	The cat jumped onto the table, chased the mouse up the wall, climbed onto the bookshelf, and purred happily.	4
+29	0	3	2	0	2	5	7	0	1	0	4	0	5	5.0	13	1	1	1	3	0	The cat jumped onto the table, chased the mouse up the wall, and purred loudly, thus satisfying its appetite and bringing joy to the family.	4
+29	1	4	2	0	0	6	6	0	1	0	4	1	4	7.0	8	3	3	3	0	0	The cat chased after the mouse, who ran into the wall, while the fish swam freely, ultimately leading to the capture of the pesky rodent.	4
+31	5	2	1	1	1	3	7	0	2	0	5	0	4	5.0	12	3	1	2	1	2	The book, which I finished reading last week, was an engaging novel with a captivating plot, filled with lovable characters, and ultimately offering valuable life lessons.	4
+26	0	2	1	0	1	4	6	0	2	0	4	1	5	4.0	14	1	1	2	2	0	The boy swam to the shore, ate a banana, retrieved his ball, and played with his friends while the sun shone brightly.	4
+38	3	2	3	2	1	2	6	0	6	0	4	0	7	7.0	8	5	4	3	4	1	The book I am reading simultaneously with my friends has a captivating plot, which is intertwined with my current studies, leading me to contemplate future career paths, and ultimately inspiring me to write creatively.	4
+29	2	1	1	1	1	3	6	0	4	0	4	2	4	4.0	20	3	3	3	4	0	The student finished the homework while sipping tea, after completing the project, so she was happy, and her teacher praised her for her hard work.	4
+30	2	3	1	0	0	4	5	0	2	0	4	1	6	5.0	11	5	5	2	1	0	The cat rested comfortably in the warm sun, beneath the trees, waiting for the children to come play, hoping to entertain them with its playful antics.	4
+37	5	5	0	0	1	7	11	1	0	0	4	0	3	7.0	10	2	2	1	2	0	The complex sentence with 4 subordinate propositions includes a main clause with a dependent clause expressing purpose, a participial clause functioning as an adjective, a clause of modality, and a clause of consequence.	4
+31	0	3	2	0	0	6	7	0	1	0	4	0	6	7.0	6	4	4	2	2	0	The cat jumped onto the table, causing the books to fall onto the floor, consequently interrupting the student's study, which ultimately resulted in a failing grade.	4
+46	5	4	3	2	1	8	10	0	1	0	6	0	5	6.0	17	3	2	3	2	1	The book, which was read last night, provided a captivating story about a young child's adventures, and the characters therein were vividly portrayed, leading to a nostalgic journey into the past, thereby creating a delightful experience for the reader.	4
+27	1	1	1	0	1	2	6	0	4	0	4	1	6	6.0	8	4	4	2	5	0	The student achieved her goal after completing the assignment, provided she submitted it on time, and earned high marks, thereby increasing her grade.	4
+26	2	2	1	2	0	2	6	0	4	0	4	0	3	4.0	11	2	1	3	1	1	The delicious cake, which was lovingly baked by my grandmother, was shared among my family members, each member receiving their favorite piece.	4
+24	0	2	1	2	1	6	6	0	0	0	3	0	3	4.0	17	1	1	3	1	0	The dog chased the ball to the park, where the children were playing, and the cat was sleeping on the grass.	4
+30	1	3	0	0	1	7	8	0	0	0	5	0	5	4.0	19	1	1	1	3	0	The cat leaped onto the table, chased the mouse up the wall, clawed at the picture frame, and scratched the carpet, leaving a visible mark.	4
+38	3	5	2	0	1	5	11	0	0	0	5	1	5	6.0	12	3	2	2	2	1	The intricate dance of swirling clouds, mirrored in the crystal waters below, cast long shadows over the verdant shore, as the sun dipped westward, painting the sky with hues of gold and crimson.	4
+38	3	4	1	0	1	6	11	0	1	0	3	1	7	8.0	16	4	3	2	4	1	The student who excelled in mathematics presented a compelling case to the class about the importance of problem-solving skills and submitted a well-written report outlining the various techniques employed in tackling mathematical challenges.	4
+37	5	2	1	1	2	4	8	0	4	0	4	0	6	7.0	12	4	4	3	4	0	The young student meticulously crafted a intricate story, filled with vivid characters and compelling plot lines, which captivated the audience, ensuring their attention and immersing them in the fantastical world she had created.	4
+26	4	0	2	1	2	3	6	0	1	0	2	0	4	5.0	6	2	1	2	2	1	The intricate clockwork mechanism powering the automaton was meticulously crafted, yet its intricate design required a meticulous and patient engineering process to meticulously execute.	4
+37	4	6	0	0	1	7	10	0	2	0	3	0	4	6.0	12	2	1	2	3	1	The intricate dance of colors that emanates from the vibrant canvas of the sunset illuminates the sky, captivating each passerby, and ignites an ephemeral longing for a moment of respite in its surreal beauty.	6
+31	4	4	1	1	1	4	7	0	1	0	5	0	3	4.0	13	1	0	1	0	1	The young girl, skipping happily through the park, stumbled upon a hidden treasure, a priceless diamond necklace, and was overwhelmed with joy at her unexpected discovery.	6
+41	1	2	2	0	1	8	11	0	1	0	6	3	6	7.0	12	4	4	6	3	0	The cat sat on the mat, while the dog played fetch, until the sun shone brightly, and the moon illuminated the night sky, which cast long shadows upon the garden, while the birds chirped joyously.	6
+35	4	4	3	0	1	3	7	0	1	0	5	1	6	6.0	10	3	1	2	2	2	The young child, exhausted from playing, dreamt of adventures in a land far away where a mighty dragon soared through emerald skies, battled treacherous giants, and carried her to safety.	6
+33	2	4	3	0	1	6	8	0	0	0	4	0	5	4.0	10	2	1	1	1	1	The intricately designed chess piece, carved meticulously from ivory, moves gracefully across the checkered board, captivating the king and all the pieces into a breathtaking dance of strategic brilliance.	6
+44	7	5	0	0	2	6	14	0	1	0	7	0	2	8.0	17	1	1	1	2	0	The intricate tapestry of life unfolds its vibrant threads through intricate relationships between humans, animals, ecosystems, the celestial realms, the cosmic forces, and the intricate interconnectedness of all elements, creating a symphony of perpetual balance and harmony.	6
+29	1	1	1	0	1	1	7	0	2	0	7	1	7	5.0	22	2	2	2	4	0	I like playing video games, watching movies, listening to music, reading books, exercising, and studying, even though I have a busy schedule.	6
+45	1	6	1	0	1	9	12	0	0	0	6	1	8	5.0	23	2	2	2	1	0	The cat chased after the fluttering butterfly, climbed onto the windowsill, leaped onto the bed, searched for the missing sock, ultimately found the sock in the laundry basket, and finished playing with the toy car before the sun rose.	6
+44	2	6	1	1	1	6	8	0	3	0	7	0	8	6.0	12	3	3	2	1	0	The cat sat on the mat, playing with the yarn, waiting for the train to arrive, hoping for a warm treat, so she was stretching her paws, glancing at the clock, and dreaming of her favorite toy.	6
+48	6	4	0	2	2	4	10	0	7	0	7	0	6	6.0	16	5	3	4	2	2	The book, which I finished reading last night, was an intriguing mystery that captivated me with its intricate plot, captivating characters, and thought-provoking themes, leaving me with a sense of satisfaction and anticipation for the next book I will read.	6
+52	1	3	4	0	2	11	12	0	1	0	8	2	8	6.0	16	4	4	6	3	0	The cat jumped onto the table, while the fish swam beneath the water, and the bird chirped happily, despite the cold wind blowing fiercely, so the gardener watered the flowers, and as the clock ticked, the farmer drove his tractor, thereby increasing the harvest.	6
+40	8	5	1	0	1	4	11	0	0	0	5	0	5	9.0	6	3	3	4	1	0	The vibrant coral reef teems with diverse marine creatures, each vying for supremacy in a labyrinth of underwater canyons, where delicate sponges flourish, and intricate sea anemones bloom, casting colourful shadows on the ocean floor.	6
+48	1	4	5	3	1	8	9	0	1	0	6	2	7	9.0	13	5	5	5	1	0	The cat climbed up the tree to chase the butterflies, which were flying all around the meadow, while the birds were chirping happily, because the sun was shining brightly, and the flowers bloomed magnificently, therefore resulting in a harmonious symphony of nature.	6
+39	1	4	2	0	1	7	9	0	1	0	7	1	6	7.0	12	4	4	2	2	0	The cat sat on the windowsill, munching on biscuits, while the sun shone brightly, illuminating the garden, ensuring a pleasant afternoon for the family, and their dog, playing happily in the park.	6
+51	6	8	1	0	1	9	14	0	1	0	5	0	5	7.0	15	4	3	1	4	1	The vibrant painting, encompassing a medley of rich colours and intricate brushstrokes, evokes a symphony of vivid emotions within the viewer, leading them down a nostalgic journey through the memories captured in the artwork, ultimately igniting a profound sense of connection to the painter's soul.	6
+38	3	5	0	0	3	2	13	0	0	0	9	0	3	6.0	24	2	1	1	0	1	The intricate tapestry of life, woven from countless threads of circumstance, circumstance, fortune, choice, fate, opportunity, and circumstance, resulted in an extraordinary journey filled with both triumph and adversity.	6
+28	4	4	0	0	1	4	8	0	1	0	4	0	2	5.0	12	1	0	1	1	1	Despite the challenges presented by the complex nature of the problem, the team achieved their goal through meticulous planning, strategic implementation, and unwavering determination.	6
+24	2	5	1	0	0	4	6	1	0	0	3	0	2	5.0	14	1	0	1	0	1	The intricate web of circumstances, woven from the threads of six subordinate propositions, ultimately led to the triumph of the hero.	6
+57	1	6	1	4	3	6	11	0	8	0	9	0	8	7.0	32	4	3	6	4	1	The student, who is studying mathematics, finished her homework, and went to the park, where she was playing with friends, and brought flowers to her mom, who had requested them, and they all danced to the music of the latest pop song, which was playing on the radio.	6
+26	3	3	1	0	0	4	7	1	1	0	2	0	3	8.0	4	2	2	1	2	0	The intricate web of my imagination weaves a tale with six subordinate propositions, each strand expertly crafted to elucidate the nuances of human emotion.	6
+38	4	5	1	0	0	6	10	0	1	0	5	0	5	7.0	9	4	3	1	2	1	 The young artist's painting, inspired by the vibrant city scene, captivated onlookers, thus creating a vibrant discussion amongst the viewers, leading to their interpretations of the various themes explored in the artwork.	6
+43	6	6	2	0	0	6	10	0	1	1	5	0	6	7.0	18	4	4	1	3	0	The intricate clockwork of the solar system compels contemplation, revealing the intricate dance of celestial bodies, each one meticulously aligned in its cosmic choreography, ultimately culminating in a harmonious balance, ensuring the continued existence of life on Earth.	6
+33	5	2	0	2	1	6	7	1	3	0	2	0	4	7.0	11	3	2	4	3	1	The book I am reading is a captivating story with a compelling character as the protagonist, and it has a complex plot involving 6 subordinate propositions that weaves a captivating narrative.	6
+36	6	1	2	0	0	5	9	0	1	0	6	1	4	5.0	17	3	2	2	3	1	The majestic lion tamer, traversing the treacherous jungle landscape, successfully captured the fierce lion, while his agile assistant, cleverly disguised as a humble traveler, distracted the lion's mighty defenders.	6
+41	1	1	1	4	2	9	9	0	1	0	6	2	5	6.0	19	3	3	5	4	0	The dog chased the ball, although it was tired, because the ball was bouncing, yet the gardener was watering the flowers, and the painter was painting the sky, thereby increasing the happiness of the people.	6
+35	4	5	1	1	1	5	9	0	2	0	2	0	4	9.0	10	3	2	2	2	1	The vibrant tapestry of memories I have woven through the years includes a plethora of intricate threads, each strand meticulously arranged to illustrate the tapestry of life in its intricate and multifaceted beauty.	6
+44	2	2	2	2	2	9	9	0	0	0	7	3	6	9.0	11	4	4	5	1	0	The cat jumped onto the mat, as the sun shone brightly, while the birds chirped, beneath the lavender flowers, after the rain had fallen, and all the children were playing happily, creating a vibrant and joyful atmosphere.	6
+43	6	5	1	0	0	8	11	0	1	0	5	1	5	6.0	11	4	4	2	4	0	The intricate pattern of the mandala unfolds its mystery, revealing hidden treasures, as the sun casts long shadows across the emerald tapestry, illuminating the vibrant colors of the blossoms, ultimately leading to the discovery of an ancient legend.	6
+45	10	2	1	1	1	3	11	1	0	0	11	0	4	5.0	30	3	2	2	1	1	"A single sentence featuring 6 subordinate propositions was generated: ""The intricate arrangement of factors, including meticulous scheduling, precise coordination, timely execution, efficient management, meticulous planning, and precise execution, ultimately culminated in an exemplary outcome."""	6
+55	0	6	6	0	2	7	12	0	4	0	8	2	8	6.0	27	4	3	6	3	1	As I walked through the park, a flock of birds soared overhead, while the sun shone warmly, yet the wind blew fiercely, I watched a group of children playing happily, therefore, I felt a sense of tranquility, ultimately leading me to a moment of peace and contentment.	6
+29	5	3	0	0	1	4	8	0	2	0	2	0	4	5.0	13	2	1	2	3	1	The intricate interplay of factors influencing a complex system resulted in a precarious equilibrium, yet the intricate mechanisms underlying its stability ensured its endurance against external perturbations.	6
+22	3	3	0	0	0	4	7	0	0	0	2	0	2	4.0	9	1	1	1	2	0	The intricate tapestry of circumstances orchestrated a symphony of emotions, leaving an enduring impression upon the unsuspecting observer's senses.	6
+46	0	6	2	0	2	5	9	0	6	0	8	0	8	11.0	11	5	5	4	3	0	The boy raced to the park, where he encountered a group of children, whom he befriended, and shared a basket of fruit, brought by his sister, with whom he talked, and ultimately found happiness, playing on the swings.	6
+47	9	7	1	0	1	6	11	0	0	1	4	0	6	11.0	8	4	4	2	2	0	The intricate system of interconnected planets generates magnificent cosmic displays, often culminating in vibrant sunsets on Earth, yet remaining elusive in the cosmic tapestry woven by celestial forces, a testament to the boundless imagination humans harness to decipher the mysteries of the universe.	6
+52	3	7	4	0	1	6	14	0	1	0	7	2	7	8.0	16	4	4	4	2	0	A lone sunflower blossom bloomed radiantly in the sun, casting vibrant hues of color across the emerald tapestry of its surrounding garden, as butterflies danced playfully, and bees droned tirelessly, while the wind whispered secrets through the leaves, ultimately leading to a dream-like sunset.	6
+47	7	4	2	0	0	9	9	0	0	0	8	0	8	9.0	8	6	5	3	2	1	The young artist, inspired by a vivid dream, painted a vibrant masterpiece, depicting a mystical journey through the enchanted forest, where the flowing river danced with the wind, leading to a hidden, mystical garden, where the wildflowers bloomed everlasting.	6
+38	7	6	1	0	0	4	9	0	3	0	3	0	5	10.0	5	4	4	2	2	0	The young boy danced gracefully with joy, expressing his freedom through a sequence of intricate movements that intertwined several captivating themes, culminating in a harmonious finale embraced by the watchful eyes of his proud parents.	6
+26	4	2	1	0	0	4	6	1	0	0	3	0	4	6.0	8	2	1	1	2	1	The intricate clock tower, towering over the quaint village, housed a mechanism intricate enough to orchestrate the synchronized movement of six ornate bells.	6
+40	4	4	1	0	0	5	9	0	5	0	6	0	6	6.0	10	5	4	2	6	1	The young girl, captivated by a mesmerizing story, immersed herself in the novel, creating a vibrant fantasy world that captivated her imagination, leading her through adventures, ultimately granting her the wisdom of ancient times.	6
+40	3	3	2	0	1	8	9	0	0	0	7	0	7	4.0	28	1	1	1	5	0	The cat jumped over the wall, chased the mouse up the tree, climbed onto the roof, found the missing treasure, opened the secret passage, and devoured the entire feast, leaving only crumbs behind.	6
+28	0	1	3	0	2	6	6	0	0	0	3	2	5	5.0	11	2	2	5	0	0	The cat sat on the mat while the birds chirped and the flowers bloomed, even though the wind blew fiercely, yet the sun shone brightly.	6
+32	0	2	3	0	1	4	6	0	2	0	6	1	7	8.0	8	4	4	2	3	0	The dog chased after the bone, chasing its tail, barking angrily, while playing fetch, beneath the trees, ultimately reaching the river where it splashed and swam.	6
+38	3	7	1	0	0	7	12	0	1	0	3	0	3	5.0	12	2	2	1	3	0	The intricate network of ideas in the novel unveiled the secrets of the past, revealing the protagonist's journey across time with intricate detail, ultimately influencing the shaping of the future through its profound meaning.	6
+42	2	4	3	1	1	8	9	0	1	0	6	1	6	8.0	9	3	3	5	0	0	The cat chased after the mouse, while the sun shone on the warm flowers, so the bees danced around, yet the farmer toiled hard, resulting in the plentiful fruit, which was shared with the village children.	6
+35	5	6	2	0	1	4	9	0	0	0	4	0	4	6.0	23	3	1	1	1	2	The intricate web of life intertwined with the delicate dance of fate, forged by a myriad of small, seemingly insignificant events, ultimately sculpted a destiny intertwined with human triumph and suffering.	6
+44	1	3	3	2	2	6	8	0	1	0	8	1	8	8.0	22	4	4	4	1	0	The cat sat on the mat, purring contentedly, while the children danced, laughed, and played happily, and the sun shone warmly, providing ample light for the party, which was being held for the child's birthday.	6
+27	2	4	0	0	1	2	8	0	0	0	4	0	5	5.0	10	3	2	1	1	1	The intricate melody, woven with intertwining voices and harmonizing instruments, danced through the audience's hearts, evoking emotions ranging from joy to longing.	6
+32	0	5	1	0	1	5	7	0	1	0	6	0	6	4.0	20	1	1	1	1	0	The cat leaped onto the mat, chased the butterflies, jumped onto the fence, played with the ball, and roared with joy, ultimately returning to its crate.	6
+38	4	4	0	0	1	7	11	0	0	0	2	1	6	7.0	9	3	3	2	2	0	The quick brown fox jumps over the sleeping dog while the weary traveler walks to the nearby village and brings a sack of potatoes, hoping to alleviate the hunger pangs in the starving child's stomach.	6
+37	0	4	0	3	0	4	6	0	5	0	6	2	6	6.0	14	5	4	5	1	1	The farmer, who was tending to his cows, discovered that the barn had burned down, while his children, who were playing in the garden, ran to inform him of the tragedy.	6

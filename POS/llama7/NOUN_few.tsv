@@ -1,0 +1,251 @@
+n_tokens	ADV	SCONJ	PUNCT	ADP	CCONJ	NOUN	PRON	DET	PROPN	VERB	NUM	AUX	ADJ	subord_post	subj_pre	obj_post	subord_pre	max_depth	subord_prop	max_link	sentence	NOUN_constraint
+5	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Golfing, of course!	0
+20	1	0	2	2	0	5	0	3	0	2	0	0	4	1	1	0	0	6.0	1	6	Bright green shoots burst forth from every horizon, a lush landscape emerging from the previous week's grayness.	0
+7	0	1	1	0	0	2	0	1	0	2	0	0	0	1	2	0	0	3.0	1	4	Giggles escaped as the kitten purred.	0
+9	0	0	2	1	0	3	1	0	0	2	0	0	0	0	2	1	0	3.0	0	4	Galaxies gazed upon, wonder filled her soul.	0
+10	1	0	0	1	0	4	1	0	0	2	0	0	1	1	1	1	0	4.0	1	4	Frogs dance happily on rain drops singing their best rhymes	0
+4	1	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	Lemon, inevitably.	0
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Lego.	0
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Jazz	0
+5	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Golfing, of course.	0
+11	0	0	2	2	0	3	1	0	1	2	0	0	0	1	2	0	0	3.0	1	6	Fluttershy stared into space, her mind lost in thought.	0
+5	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Wheels, of course!	0
+6	0	0	2	0	0	2	0	0	0	1	0	0	1	0	1	1	0	2.0	0	3	Foxes dance tappity-tappy.	0
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Golf	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Giraffes.	0
+6	0	0	2	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Echoes bounce, off silence.	0
+9	0	0	1	2	0	4	1	0	0	1	0	0	0	0	1	0	0	3.0	0	4	Gas station cashier looks at her in disgust.	0
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Bam!	0
+9	0	0	0	1	0	3	0	3	0	1	0	0	1	0	1	1	0	2.0	0	6	The sky turned a brilliant shade for a moment	0
+2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Bam!	0
+4	0	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	Time, for.	0
+3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	1	Foofa does!	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Lasers.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Rockets.	0
+2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	Burn.	0
+5	1	0	2	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1.0	0	3	Happily, I do.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Glitz.	0
+3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1.0	0	1	Sun rises.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Bling.	0
+4	1	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1.0	0	2	Flora, naturally.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Zoom!	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Muffins.	0
+4	1	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	Water, undoubtedly.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Lights.	0
+5	0	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	1.0	0	4	Cows, cows, cows	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Cake.	0
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Water falls.	0
+6	0	0	1	1	0	1	0	0	1	1	0	0	1	0	1	0	0	2.0	0	3	Sun sparkles bright on sea.	0
+4	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0	2	Drumroll, please.	0
+4	0	0	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0	2.0	0	2	Love, of course	0
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The ball bounced.	0
+4	0	0	2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	2	Ribbons, galore!	0
+5	0	0	1	1	0	2	0	0	0	1	0	0	0	0	1	0	0	2.0	0	3	Rainbows streaked; across sky	0
+2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0	0	0	Dance.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Foam.	0
+5	0	0	1	0	0	3	0	0	0	1	0	0	0	0	1	1	0	2.0	0	2	Puppies eat ice cream.	0
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Frogs jump.	0
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Bling.	0
+3	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Rats! 🐀	0
+3	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1.0	0	1	Sounds great!	0
+2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Ding.	0
+5	0	0	1	1	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The pan cooled down.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The dog ran into the park.	1
+5	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The sun sets slowly.	1
+7	0	0	1	1	0	2	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The teacher wrote in blue pen.	1
+8	0	0	1	0	0	2	0	2	0	2	0	0	0	1	1	1	0	2.0	1	4	The chef awaits the egg to set.	1
+3	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	The sun.	1
+8	1	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	4	The sun set slowly in the sky.	1
+6	1	0	2	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1.0	0	3	Furious, I rushed inside.	1
+7	0	1	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Wait for the cheque to clear.	1
+9	0	0	1	2	0	2	0	1	0	2	0	0	0	1	0	0	0	2.0	1	6	Wait for the water heater to turn on.	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Cows.	1
+2	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1.0	0	1	The sun	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The kettle boiled.	1
+6	0	0	0	1	0	1	0	1	0	2	0	0	0	1	0	0	0	3.0	1	3	Wait for the toast to toast	1
+6	0	0	1	1	0	2	0	1	0	1	0	0	0	0	1	0	0	2.0	0	3	Water drips from the faucet. 	1
+8	0	0	1	1	0	1	2	0	0	2	0	0	1	1	1	0	0	3.0	1	4	I love running in my personal park.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The teacher walks.	1
+7	0	0	1	1	0	1	0	1	0	2	0	0	0	1	0	0	0	2.0	1	5	Wait for the coffee to drizzle.	1
+7	0	1	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Wait for the cat to purr.	1
+6	0	0	1	1	0	1	0	1	1	1	0	0	0	0	1	0	0	2.0	0	3	Sarah walked into the room.	1
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Humans surround.	1
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.0	0	0	Alice	1
+9	0	0	1	1	0	1	1	1	0	2	0	1	0	1	1	0	0	3.0	1	3	I am going to go to the store.	1
+8	0	1	1	1	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Wait for the muffin to cool down.	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The baby slept.	1
+8	0	1	1	1	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Wait for the muffin to cool down.	1
+12	1	0	3	1	0	3	1	1	0	1	1	0	0	0	1	0	0	2.0	0	8	The cat purred contentedly on my lap. (1 noun)	1
+8	0	1	1	1	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Wait for the cat to wake up.	1
+8	0	0	1	1	0	3	0	1	0	2	0	0	0	0	1	0	0	2.0	0	4	Ice skates glided across the frozen lake.	1
+8	0	1	1	1	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Wait for the oven to cool down.	1
+3	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Coffee mug.	1
+7	0	1	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Waiting for the cat to settle.	1
+7	0	1	1	0	0	1	0	1	0	2	0	0	0	1	1	0	0	3.0	1	5	Wait for the faucet to leak.	1
+8	0	1	1	0	0	1	0	1	0	2	0	1	0	1	1	0	0	3.0	1	6	Wait for the dishes to be washed.	1
+7	0	0	1	1	0	1	0	1	0	2	0	0	0	1	0	0	0	2.0	1	5	Wait for the ice to melt.	1
+6	0	0	1	0	0	2	0	2	0	1	0	0	0	0	1	1	0	2.0	0	2	The teacher held the board.	1
+6	0	0	1	0	0	2	1	1	0	1	0	0	0	0	1	1	0	2.0	0	2	The puppy wagged its tail.	1
+7	0	0	1	1	0	1	0	1	0	2	0	0	0	1	0	0	0	2.0	1	5	Wait for the microwave to finish.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The book rests on the shelf.	1
+2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.0	0	0	Fog.	1
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	1
+5	0	0	1	0	0	1	0	1	0	1	0	1	0	0	1	0	0	2.0	0	2	The cat is sleeping.	1
+8	2	0	1	0	0	1	2	0	0	1	0	1	0	0	1	1	0	2.0	0	5	Hence, I shall now begin my ascent	1
+8	0	0	1	2	0	1	0	1	0	2	0	0	0	1	0	0	0	2.0	1	5	Wait for the pan to cool down.	1
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sun set in the sky.	1
+7	1	0	0	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred loudly on my lap	1
+2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1.0	0	1	Ice skating	1
+4	0	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	2.0	0	1	The cat purred.	1
+6	0	0	1	1	0	1	0	0	0	2	0	0	0	1	0	0	0	2.0	1	4	Wait for ice to freeze.	1
+7	0	0	0	2	0	1	0	1	0	2	0	0	0	1	0	0	0	2.0	1	5	Wait for the oven to heat up	1
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	4	A big elephant trumpeted in the zoo garden.	2
+10	0	0	0	1	0	1	2	1	1	2	0	1	0	1	1	1	0	3.0	1	5	I'll travel to visit my family in the Caribbean	2
+8	0	0	1	1	0	2	0	2	0	0	0	1	1	0	0	0	0	2.0	0	3	Under the tree was a yellow bird.	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	2
+4	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	A new car.	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	2
+6	2	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	3.0	0	1	Brightly colored birds flew south.	2
+4	1	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Elephants dance spaciously. 	2
+9	0	0	1	1	0	3	0	2	0	1	0	0	1	0	1	0	0	2.0	0	3	A giant penguin ballet danced across the moon.	2
+9	0	0	1	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	4	The pink dolphin glided through the emerald water.	2
+9	1	0	1	1	0	2	0	2	0	1	0	0	1	0	1	0	0	2.0	0	5	The baby cooed brightly at the shiny balloon.	2
+9	0	0	1	1	0	4	0	1	0	1	0	0	1	0	1	0	0	2.0	0	3	The new baby blanket smelled of lavender softness.	2
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	A tiger leapt through the forest	2
+10	1	0	1	2	0	3	0	2	0	1	0	0	0	0	1	0	0	3.0	0	3	The cat purred contentedly in front of the fireplace.	2
+4	0	0	1	0	0	2	0	0	0	0	0	0	1	0	1	0	0	2.0	0	1	Ice cream sunny.	2
+7	0	0	1	0	0	3	1	0	0	1	0	1	0	0	1	1	0	3.0	0	3	I will eat ice cream cake.	2
+3	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1.0	0	1	Mexican sunrise.	2
+17	0	1	2	1	0	5	0	3	0	2	0	1	0	1	2	1	0	4.0	1	6	The baby cried for attention, not understanding that the nanny would not leave the television.	2
+7	0	0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	2.0	0	2	A golden phoenix gleamed in mid-air.	2
+6	0	0	0	1	0	1	1	1	0	1	0	1	0	0	1	0	0	2.0	0	3	I'll drink to that idea	2
+4	0	0	0	0	0	2	1	0	0	1	0	0	0	0	1	1	0	2.0	0	1	My mother purchased catnip	2
+10	0	0	1	1	0	3	1	2	0	1	0	0	1	0	1	1	0	2.0	0	6	My dog chased the cat through the green forest.	2
+3	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1.0	0	1	Lasagna baked.	2
+5	0	0	1	0	1	2	0	0	1	0	0	0	0	0	0	0	0	2.0	0	2	Lake water and sunbeams.	2
+4	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Chocolate and cookie.	2
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat slept with the book	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The moon danced with the sky.	2
+9	0	0	1	1	0	2	0	1	1	2	0	0	1	1	1	1	0	4.0	1	3	Jim ate a sandwich made of rare steak.	2
+6	0	0	0	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The book fell off the table	2
+12	0	0	2	2	0	4	0	2	0	1	0	1	0	0	1	1	0	2.0	0	5	In the kitchen, the oven was heating up leftover pizza.	2
+9	0	0	0	1	0	3	1	2	0	1	0	1	0	0	1	1	0	2.0	0	6	I'll take the bakery van to the pier	2
+8	1	0	1	1	0	2	1	1	0	1	0	0	0	0	1	0	0	2.0	0	4	The cat purred contentedly on my lap.	2
+4	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	2.0	0	2	Sandals and Seafood.	2
+9	0	0	1	1	0	1	2	1	0	1	0	1	1	0	1	1	0	2.0	0	5	I'll drive my kayak down the rapid.	2
+8	0	1	1	1	0	3	1	0	0	1	0	0	0	1	1	0	0	3.0	1	3	Money talks as it whispers to trees.	2
+4	0	0	1	0	0	2	0	0	0	0	0	0	1	0	0	0	0	1.0	0	2	Fresh fruit bouquet.	2
+7	0	0	1	1	0	3	0	1	0	1	0	0	0	0	0	1	0	2.0	0	5	Flying monkeys in an emergency landing.	2
+7	0	0	0	1	0	2	0	1	1	1	0	0	1	0	1	0	0	2.0	0	5	Sarah walked towards the old oak tree	2
+6	0	0	1	0	1	3	0	0	0	0	0	0	1	0	0	0	0	2.0	0	2	Frozen pizza and T-shirt	2
+7	0	0	1	0	0	2	2	0	0	1	0	0	1	0	1	2	0	2.0	0	2	My favorite granddaughter gave me pears.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The cat purred on the lap.	2
+8	0	0	1	1	0	2	0	1	0	2	0	0	1	0	1	0	0	2.0	0	3	A shimmering rainbow soared over sparkling ocean.	2
+7	0	0	1	1	0	2	0	2	0	1	0	0	0	0	1	0	0	2.0	0	3	The sky raved about the ocean.	2
+11	0	0	1	1	1	3	0	1	1	2	1	0	0	1	0	1	0	5.0	1	2	Under the tree lived two kittens named Fluffy and Whiskers.	2
+9	2	0	1	1	0	4	0	0	0	1	0	0	0	0	1	1	0	3.0	0	5	Billions of people worldwide eagerly anticipate unicorn sightings.	2
+7	0	0	1	1	0	2	0	1	1	1	0	0	0	0	1	0	0	2.0	0	4	Lemurs bred in the Amazon rainforest.	2
+7	0	0	1	1	0	3	0	1	0	0	0	0	1	0	0	0	0	2.0	0	3	A new pair of stereo speakers.	2
+3	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1.0	0	2	A shy puppy	2
+7	0	0	1	0	0	2	0	2	0	1	0	0	1	0	1	1	0	2.0	0	2	The new puppy chased a squirrel.	2
+19	2	0	2	2	0	4	1	4	0	3	0	0	1	2	2	1	0	5.0	2	5	The man walked to the park, where he found the small dog playfully chasing after a squirrel.	4
+26	1	0	5	3	0	8	1	3	2	2	0	0	1	1	1	1	0	4.0	1	9	Maria, a world-class soprano, stunningly sang a selection of opera numbers during the recital accompanied by her longtime pianist, Robert.	4
+22	0	0	7	1	1	6	2	0	2	1	0	1	1	1	2	1	0	4.0	1	7	"Her favorite TV show is ""Game of Thrones,"" which features dragons, kings, queens, and warriors."	4
+11	0	0	1	1	0	4	0	1	0	1	0	0	3	0	1	1	0	3.0	0	5	Many delicious, buttercreamed cookies sat onop the glass cake stand	4
+18	1	0	1	0	0	5	1	2	0	3	0	0	3	2	1	2	0	5.0	2	4	The company's new CEO immediately began implementing her ambitious plan to revamp the entire product line.	4
+13	1	0	2	2	0	3	2	1	0	1	0	0	1	0	1	0	0	2.0	0	4	Inside this small studio, my cat purrs contentedly on my lap.	4
+30	5	0	2	4	1	6	1	4	0	3	0	0	3	2	1	2	0	6.0	2	11	Inside, she found the princess locked away in a magical tower with only a small window high up on the northern wall to let in light and air.	4
+11	1	0	1	1	0	4	1	1	0	1	0	0	0	0	1	0	0	3.0	0	4	The teacher's pet cat purred contentedly on her lap.	4
+14	1	1	1	1	0	4	0	2	0	2	0	0	2	1	1	1	0	3.0	1	5	The park ranger carefully examined the injured hiker before calling for medical assistance.	4
+18	1	1	3	0	1	6	0	3	0	3	0	0	0	1	3	2	0	4.0	1	7	Thunder storms filled the sky, and the baby laughed, as lightening illuminated the room brightly.	4
+16	0	1	1	2	0	2	1	1	1	5	0	0	0	4	2	1	0	6.0	4	4	The manager threatened to fire Freddy unless he started showing up to work on time.	4
+27	0	0	3	3	0	6	1	2	1	4	0	2	4	3	2	1	0	6.0	3	8	The company has announced major new products, including a line of organic dog food, that are set to go on sale in early April.	4
+16	1	0	2	2	0	4	1	3	0	2	0	0	1	1	2	0	0	3.0	1	11	The cat curled around my legs in the sunset, the orange fur glowing warmly.	4
+25	0	0	3	2	1	10	0	4	0	1	0	1	3	0	1	1	0	4.0	0	15	The company will provide new office space, a parking lot, access to an executive fitness center, and competitive benefits for all employees	4
+27	0	0	3	2	2	6	1	2	0	3	0	2	6	2	2	0	0	6.0	2	5	Many delicious and fresh seafood dishes were offered, including the popular cioppino, which is made with a variety of local seafood and flavorful tomatoes.	4
+16	0	0	1	1	0	5	2	2	0	2	0	1	2	1	2	1	0	4.0	1	5	She ordered the delicate porcelain tea set that was displayed on the elegant glass pedestal.	4
+25	0	0	3	3	0	7	0	6	0	2	0	0	3	1	1	2	0	4.0	1	15	The company hired a young intern, a skilled photographer, with a passion for adventure to lead a campaign in the remote jungle.	4
+18	1	0	2	2	1	5	0	3	0	2	0	0	2	1	1	1	0	6.0	1	4	The baby gently rocked the cradle, surrounded by soft toys and the gentle scent of lavender.	4
+17	4	0	1	2	0	2	1	2	0	3	0	0	1	1	1	1	1	4.0	2	7	Carefully placing the key, she then quietly crept up to peek inside the mysteriously dark attic	4
+16	0	0	3	1	1	4	1	1	0	2	0	0	3	1	1	1	0	5.0	1	7	She ate a salad comprised of organic lettuce, fresh tomatoes, and crispy bacon. 	4
+16	1	0	2	3	0	3	1	2	0	2	0	0	2	1	1	0	0	4.0	1	6	Her grandchildren eagerly gathered around the old trunk, curious about the treasures hidden within.	4
+15	1	0	2	3	0	3	2	1	0	3	0	0	0	2	2	0	0	3.0	2	6	The baby kitten curled up beside her mother, listening to her softly purring.	4
+26	0	0	4	3	1	9	1	4	0	1	0	1	2	1	2	1	0	5.0	1	7	The park ranger directed the tourists towards the tallest tree in the forest, which was home to numerous birds, squirrels, and chipmunks.	4
+17	1	1	2	0	1	2	2	3	0	3	0	2	0	1	3	1	0	3.0	1	7	The sunflowers bloomed beautifully, but the rabbits ate them all before they could be harvested.	4
+24	2	0	4	1	1	8	2	1	0	4	0	1	0	2	5	1	0	6.0	2	10	Some cats purr, dogs bark, mice squeak, and hamsters make eyes that sparkle with delight when their owners are away.	4
+21	0	0	2	2	1	2	1	3	2	3	0	2	2	1	2	0	0	4.0	1	9	The delusional patient believed she was the Queen of England, and demanded to be served in the royal style.	4
+47	1	1	6	5	1	17	0	3	0	5	0	1	6	3	2	2	0	10.0	3	13	Numerous factors are influencing the increase in housing prices in urban areas, including a lack of available land, a growing population of investors, and government incentives for developers to continue building high-rise residential towers rather than low-rise apartment complexes.	4
+17	0	0	1	2	0	5	1	3	0	2	0	1	2	1	2	0	0	4.0	1	6	The tourists were delighted by the charming villages they encountered on the Italian countryside bike tour.	4
+18	2	1	1	2	0	5	0	1	0	2	0	3	1	2	2	0	0	5.0	2	6	Cars will be driven more carefully if drivers are aware of the cameras installed around traffic islands.	4
+16	0	0	1	0	1	3	2	2	0	3	0	1	1	1	1	3	0	5.0	1	8	She bought a new bag, but could not find a place to hide her shame	4
+12	1	0	1	1	0	3	0	3	0	3	0	0	0	2	2	0	0	4.0	2	4	The cat slept on the windowsill watching the birds fly outside.	4
+17	0	0	2	2	0	4	3	2	0	2	0	0	2	1	2	2	0	5.0	1	5	She studied the new baby, whose sweet cry brought joy to everyone in the room.	4
+16	1	0	3	0	0	5	1	2	0	2	0	0	2	1	1	1	0	4.0	1	8	The little boy eagerly unwrapped his presents, including a brand-new train set.	4
+28	1	0	4	4	0	5	3	3	2	2	0	0	4	1	2	1	0	6.0	1	7	The new teacher, Mrs. Smith, smiled warmly at the rowdy students, unaware of the chaos that awaited her in her first day of class.	4
+12	1	0	1	1	0	3	0	3	0	1	0	0	2	0	1	1	0	2.0	0	7	The tourists enthusiastically watched the exotic wildlife in the nearby rainforest.	4
+24	0	0	4	4	1	4	0	4	1	2	0	0	3	1	1	0	0	4.0	1	8	Lawrence, a young actor, stood on the edge of the cliff, ready to jump off and parachute into the unknown.	4
+26	2	0	1	3	0	6	1	4	0	2	0	2	4	1	2	1	0	6.0	1	7	The park's old wooden bridge was buzzing with the happy excitement of children who had never seen such a spectacular display of fireworks before.	4
+17	0	0	2	1	1	7	0	1	0	2	0	1	2	1	1	1	0	4.0	1	10	The company has issued new policies for employees, including anti-harassment training and mandatory reporting procedures.	4
+21	1	0	2	3	0	5	1	3	0	2	0	0	4	1	2	0	0	4.0	1	8	The cuddly cat purred contentedly on my lap, pink cheeks glowing from a recent rub with a fluffy toy.	4
+13	1	0	1	2	0	3	0	2	1	0	0	1	2	0	1	0	0	3.0	0	7	Fishing for salmon is an increasingly popular sport in the Pacific Northwest.	4
+12	1	0	3	1	0	2	0	2	0	1	0	0	2	0	1	0	0	2.0	0	8	The dog ran quickly across the dark, empty, field.	4
+25	2	1	2	3	0	5	2	1	2	1	0	2	3	1	1	1	0	6.0	1	5	Mrs. Johnson's new pet tarantula is already showing signs of being very affectionate towards her, much to the surprise of her cat.	4
+18	1	0	0	2	0	3	3	2	1	2	0	2	1	1	2	2	0	5.0	1	5	Ellen has not yet given any indication of the date on which she might release her upcoming book	4
+27	0	1	3	3	1	6	4	3	0	3	0	0	2	2	1	3	0	6.0	2	13	She took a moment to gaze at him, with his shining coat and refined movements, before giving him a friendly pat on the head.	4
+15	1	0	2	1	0	4	1	3	0	2	0	0	1	1	2	1	0	3.0	1	8	The cat lapped the milk quickly, the golden light dancing on its fur.	4
+23	0	0	4	2	0	7	0	3	0	1	0	1	5	1	1	0	0	4.0	1	10	This new video-game console is compatible with an impressive range of controllers, including the revolutionary virtual-reality joystick.	4
+15	2	0	2	0	0	3	1	2	0	3	0	1	1	1	2	2	1	4.0	2	5	Tasting the dish, I realized why the chef had won so many awards.	4
+19	1	0	3	2	1	6	0	1	0	0	0	1	4	0	1	0	0	4.0	0	14	Several mundane daily rituals, like brushing teeth or washing hands, were among the least popular choices.	4
+26	2	0	2	2	2	5	3	4	0	3	0	1	2	0	2	3	0	4.0	0	17	She was wearing a simple sundress and carrying a small purse, but the man with the knife clearly had his sights on her anyway.	4
+18	2	1	3	1	0	4	0	0	0	2	0	1	4	1	1	1	0	5.0	1	9	Many people have become interested lately in purchasing antiques, specifically antique watches, from local markets.	4
+17	1	0	1	2	0	6	0	3	0	2	0	0	2	1	1	1	0	5.0	1	4	The pine tree stood tall on top of the mountain overlooking the tranquil forest landscape below.	7
+27	0	0	8	1	1	9	1	3	0	1	0	0	3	0	1	1	0	3.0	0	15	The gorillas, giraffes, lions, elephants, tigers, penguins, and rhinos all roamed their respective habitats with a quiet, peaceful grace.	7
+25	0	1	1	3	0	6	0	3	3	4	0	1	1	2	2	1	1	5.0	3	9	A team of scientists led by Dr. Rachel Glen will analyze the data to ensure that the robot’s movements align with human values.	7
+20	0	0	3	2	0	3	0	3	4	1	0	0	4	0	1	1	0	4.0	0	9	Hamza Binasout, the former Somali government spokesman, announced the formation of the Somali Patriotic Movement in Mogadishu.	7
+19	0	0	1	3	1	6	1	2	0	2	0	0	2	0	1	0	0	5.0	0	6	The new policy led to increased tensions between the company's executive leadership and its board of directors.	7
+33	1	1	1	6	1	6	4	2	0	4	1	1	4	3	1	1	0	9.0	3	15	We’ll travel through their untamed landscapes in hopes of experiencing the local culture fully immersed with nothing more than two small packs on our backs and no reservations to worry about.	7
+21	1	1	4	1	0	6	1	1	1	5	0	0	0	3	1	3	0	5.0	3	7	Bandits strolled into camp, brandishing their AK-47s, brazenly breaking camp rules by building a blazing bonfire.	7
+26	1	0	3	5	1	4	1	2	1	3	5	0	0	1	1	1	0	4.0	1	10	Mozart began composing at the age of five, and wrote over six hundred works before his death at the age of thirty-five.	7
+26	1	1	1	3	1	6	1	3	2	4	0	0	2	2	2	1	0	4.0	2	11	Aaron ran toward Tim's open car window and stuck his hand grasping for the wet keys as the vehicle accelerated away from the danger.	7
+25	1	0	2	3	1	3	3	3	1	3	0	4	0	1	2	2	0	5.0	1	8	She was about to throw the rope over a ledge but was interrupted by Jack, who had been observing her from a distance.	7
+22	0	1	2	3	0	5	1	4	0	4	0	0	2	2	3	0	0	4.0	2	8	The stormy sky raged over the tiny islands as the aircraft roared by, its wings glinting in the fading light.	7
+29	2	1	1	2	2	4	2	2	0	4	0	4	3	1	2	0	0	4.0	1	9	The new policy could not be enacted until it had been thoroughly vetted by the company's legal team and then reviewed and approved by its executive leadership.	7
+16	2	1	1	1	0	3	3	2	0	2	0	0	1	1	2	2	0	5.0	1	4	She studied his reactions as much as she studied the emotions of the other passengers.	7
+17	1	0	4	1	1	7	0	2	0	1	0	0	0	0	1	1	0	3.0	0	15	Bandits took the princess, jewels, castle, horses, and servants hostage during the attack	7
+23	0	1	1	0	1	7	0	2	3	4	0	1	2	2	2	2	0	6.0	2	6	Motherboard’s security writers reported that a security researcher had identified and exposed an ongoing phishing operation utilizing malicious Microsoft Office documents. 	7
+20	1	0	2	2	1	7	0	0	1	2	0	0	4	1	1	1	0	6.0	1	7	North Korean operatives smuggled weapons-grade nuclear materials past interdictions monitored closely by American and Israeli intelligence agencies.	7
+15	1	1	1	1	0	3	2	1	1	2	0	0	1	1	2	1	0	3.0	1	8	The cat purred contentedly on Donna’s lap as she stroked its soft fur.	7
+22	0	0	1	3	1	6	1	3	1	3	0	0	2	1	1	2	0	6.0	1	5	Ramsey took an aggressive approach and used his power to push through the construction of new buildings in the downtown area.	7
+21	1	0	1	2	1	5	1	3	1	2	0	0	4	1	2	2	0	6.0	1	6	Rachel found the perfect dress for the gala in an exclusive boutique that also sold exquisite jewelry and exclusive shoes.	7
+16	0	0	7	0	0	8	0	0	1	0	0	0	0	0	0	0	0	2.0	0	13	Brown bears, cougars, wolverines, lynx, tigers, mountain goats, grizzlies.	7
+21	2	1	2	1	1	4	1	3	0	2	1	0	3	1	2	1	0	4.0	1	11	Six more months passed before we encountered any trouble at the bureau, and then only a few minor irritants.	7
+23	0	1	1	2	0	3	0	1	6	2	1	2	3	1	2	0	0	4.0	1	11	Six months had elapsed since President Trump's former legal advisor Michael Cohen had met in the Seoul Cafe with Ukrainian officials.	7
+17	0	0	3	1	1	6	0	0	1	3	0	0	2	0	1	3	0	4.0	0	9	Brown bears climbed steep mountains, roamed vast valleys, and chased salmon up rushing rivers.	7
+9	0	0	1	1	0	3	0	3	0	1	0	0	0	0	1	1	0	2.0	0	5	The cat chased the mouse through the house.	7
+19	0	1	0	2	1	3	0	3	4	2	0	0	1	1	1	2	0	4.0	1	6	Hitler's Germany and Tojo's Japan had no difficulty at all in exploiting the vulnerabilities of democratic societies	7
+15	0	0	2	3	0	3	0	2	1	2	0	0	2	0	1	0	0	3.0	0	6	The dark-colored sediment poured into an empty basin in front of John.	7
+35	1	0	8	2	1	15	0	2	1	0	0	1	4	0	1	0	0	4.0	0	21	The new CEO, CFO, marketing manager, product developer, customer service representative, sales executive, and accountant were all present during the critical decision-making conference at corporate headquarters.	7
+18	0	0	3	0	1	4	0	4	0	3	0	0	3	0	1	3	0	3.0	0	11	The tourists visited the busy city, admired the ancient ruins, and watched the local sports.	7
+17	1	0	2	1	1	3	0	3	0	5	0	1	0	3	1	1	0	5.0	3	5	This storm will soon pass over the town, leaving the inhabitants feeling battered and bruised.	7
+37	0	1	4	4	2	11	0	2	1	4	0	2	4	2	1	3	0	6.0	2	13	Biden has been considering proposals for a national infrastructure program since taking office, along with plans to invest in renewable energy and address the nation's crumbling bridges, roads, dams and other infrastructure.	7
+24	1	0	4	2	1	7	1	2	0	2	0	0	4	1	2	0	0	4.0	1	7	The unidentified man, woman, and teenaged boy stood silently by the empty police car, their tired faces masked by shadows.	7
+30	1	1	2	3	1	8	2	2	0	5	0	2	3	2	1	2	0	6.0	2	12	We will be entering the bustling metropolis through the sleekly designed airport terminal, before navigating our way through congested city streets lined with ancient landmarks and modern skyscrapers.	7
+13	1	0	3	1	0	2	0	1	2	1	0	0	1	0	1	0	0	3.0	0	6	Moonbeam, the mischievous cat, purred contentedly on Mary's lap.	7
+29	0	0	6	2	1	12	0	2	0	1	2	1	1	0	1	0	0	3.0	0	17	The city's mayor, community organizers, social worker, activist, artist, and two college students will protest outside the state capital for three hours.	7
+19	1	0	2	2	0	4	0	3	2	3	0	0	2	1	1	1	0	4.0	1	6	The glowing orbs hovered uncertainly over the cemetery, illuminating the grave of former Russian president Boris Yeltsin.	7
+17	1	0	1	2	1	4	2	2	0	3	0	0	0	1	1	1	0	3.0	1	10	She took her children to the park to play and then go to the grocery store.	7
+15	0	0	3	1	0	4	0	3	1	1	0	0	2	0	1	1	0	4.0	0	8	A team of detectives, the Fibbiano brothers, discovered a secret underground society.	7
+21	0	0	2	4	2	8	1	0	2	1	0	0	1	0	1	1	0	5.0	0	6	His company provided consulting services to various industries throughout North America, from finance and healthcare to entertainment and energy.	7
+31	1	0	3	4	2	7	2	1	3	6	0	0	2	1	1	1	1	4.0	2	12	Amid the frenzy generated by their latest release, pop idols Harry and Charlie strode into their posh LA home, amid swarming paparazzi and adoring screaming fans waiting outside.	7
+23	1	0	2	3	1	4	1	4	0	4	0	0	2	2	1	2	0	5.0	2	6	During the walk, a sudden loud bang echoed from behind, forcing her to hit the dirt and wait for an answer	7
+12	0	0	1	2	0	4	0	1	0	2	0	0	1	2	0	1	0	5.0	2	3	Motivational gurus inspiring leaders to empathize with the struggles of followers.	7
+15	0	0	1	2	1	4	1	1	0	1	0	1	2	0	1	0	0	4.0	0	5	She was chased through city’s narrow streets and alleys by the ruthless assassin.	7
+9	0	0	1	1	0	2	1	2	0	1	0	1	0	0	1	0	0	2.0	0	4	This is a solved example of the task. We’ll hit the mainstream media’s portrayal of the entertainment world as much as we’ll hit characters in the entertainment world.	7
+25	0	0	6	1	1	8	0	1	0	0	6	1	1	0	1	0	0	3.0	0	18	Eleven suspects, three guards, two investigators, two attorneys, one victim, and one killer were present at the murder site.	7
+24	0	0	2	2	2	6	1	4	0	4	0	0	3	1	1	2	0	4.0	1	13	The hiker trudged up the rough trail with his worn boots and mud-caked backpack, eyeing the steep summit and calculating the descent.	7
+30	1	0	6	1	1	8	0	3	0	2	1	0	6	0	1	0	0	4.0	0	20	A glistening mermaid, two playfully frolicking dolphins, a serene octopus, majestic whales, sun-kissed turtles, and curious seagulls soared above the vast ocean’s waves. 	7
+15	0	2	0	1	0	4	2	2	0	3	0	0	1	2	2	2	0	3.0	2	8	The teacher requested that students provide their answers on a separate paper before presenting them	7
+28	0	1	1	4	1	7	3	2	1	2	0	2	3	1	2	1	0	5.0	1	11	Mary was pleased with her team's victory in the soccer game but disappointed that they had lost focus during the crucial final moment against their archrivals.	7
+9	0	0	0	1	0	3	0	1	2	2	0	0	0	0	1	1	0	3.0	0	4	Officers raided the apartment of suspected terrorist Abu Zubaydah	7
+36	7	0	7	0	1	7	0	7	0	7	0	0	0	0	7	0	0	3.0	0	31	The lion fiercely roared, the zebra nervously stomped, the elephant majestically trumpeted, the giraffe gracefully pranced, the monkey playfully swinged, the tiger ferociously pounced, and the fox cunningly hunted.	7
