@@ -5,7 +5,28 @@
 </p>
 
 
-This repository contains data associated to the paper Evaluating Large Language Models via Linguistic Profiling.
+This repository contains data associated with the EMNLP 2024 paper Evaluating Large Language Models via Linguistic Profiling. If you use any of the following contents for your work, we kindly ask you to cite our paper:
+
+```bibtex
+@inproceedings{miaschi-etal-2024-evaluating,
+    title = "Evaluating Large Language Models via Linguistic Profiling",
+    author = "Miaschi, Alessio  and
+      Dell{'}Orletta, Felice  and
+      Venturi, Giulia",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.166/",
+    doi = "10.18653/v1/2024.emnlp-main.166",
+    pages = "2835--2848",
+    abstract = "Large Language Models (LLMs) undergo extensive evaluation against various benchmarks collected in established leaderboards to assess their performance across multiple tasks. However, to the best of our knowledge, there is a lack of comprehensive studies evaluating these models' linguistic abilities independent of specific tasks. In this paper, we introduce a novel evaluation methodology designed to test LLMs' sentence generation abilities under specific linguistic constraints. Drawing on the {\textquoteleft}linguistic profiling' approach, we rigorously investigate the extent to which five LLMs of varying sizes, tested in both zero- and few-shot scenarios, effectively adhere to (morpho)syntactic constraints. Our findings shed light on the linguistic proficiency of LLMs, revealing both their capabilities and limitations in generating linguistically-constrained sentences."
+}
+```
 
 > **Abstract:** Large Language Models (LLMs) undergo extensive evaluation against various benchmarks collected in established leaderboards to assess their performance across multiple tasks. However, to the best of our knowledge, there is a lack of comprehensive studies evaluating these models' linguistic abilities independent of specific tasks. In this paper, we introduce a novel evaluation methodology designed to test LLMs' sentence generation abilities under specific linguistic constraints. Drawing on the `linguistic profiling' approach, we rigorously investigate the extent to which five LLMs of varying sizes, tested in both zero- and few-shot scenarios, effectively adhere to (morpho)syntactic constraints. Our findings shed light on the linguistic proficiency of LLMs, revealing both their capabilities and limitations in generating linguistically-constrained sentences.
 
